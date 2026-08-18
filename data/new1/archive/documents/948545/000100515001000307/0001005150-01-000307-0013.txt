@@ -1,0 +1,76 @@
+<DOCUMENT>
+<TYPE>EX-10.47
+<SEQUENCE>13
+<FILENAME>0013.txt
+<DESCRIPTION>EXHIBIT 10.47
+<TEXT>
+
+
+                                                                   EXHIBIT 10.47
+
+                                  AMENDMENT TO
+                        INTERCONNECTION AGREEMENT BETWEEN
+                           TALK.COM HOLDING CORP. AND
+                       BELLSOUTH TELECOMMUNICATIONS, INC.
+                               DATED MAY 22, 2000
+
+Pursuant to this Amendment (the "Amendment"), Talk.Com Holding Corp.("Talk.Com")
+and BellSouth  Telecommunications,  Inc.  ("BellSouth")  hereinafter referred to
+collectively as the "Parties" hereby agree to amend that certain Interconnection
+Agreement (the "Agreement") between BellSouth and Talk.com dated May 22, 2000.
+
+NOW THEREFORE,  in consideration of the mutual  provisions  contained herein and
+other good and valuable consideration,  the receipt and sufficiency of which are
+hereby  acknowledged,  Talk.com  and  BellSouth  hereby  covenant  and  agree as
+follows:
+
+1.   The following  network  elements  located under End Office  Switching (Port
+     Usage),  Tandem Switching (Port Usage) (Local or Access Tandem), and Common
+     (Shared ) Transport of Exhibit C, Rates,  of  Attachment 2 for the state of
+     Florida,  are hereby  replaced  with the  network  elements  identified  in
+     Exhibit A attached hereto and made a part of this Amendment:
+
+     End Office Switching Function, per mou
+
+     End Office Switching Function, add'l mou (5)
+
+     End Office Interoffice Trunk Port - Shared, per mou
+
+     Tandem Switching Function per mou
+
+     Tandem Interoffice Trunk Port - Shared per mou
+
+     Common (Shared) transport per mile per mou
+
+     Common (Shared) transport facilities Termination mou
+
+2.   All of the other provisions of the Agreement,  dated  May 22,  2000,  shall
+     remain in full force and effect.
+
+<PAGE>
+
+
+3.   The  Parties  agree that  either or both of the  Parties is  authorized  to
+     submit this Amendment to the respective  state  regulatory  authorities for
+     approval subject to Section 252(e) of the Federal Telecommunications Act of
+     1996.
+
+IN WITNESS WHEREOF, the Parties hereto have caused this Amendment to be executed
+by their respective duly authorized representatives on the date indicated below.
+
+BellSouth Telecommunications, Inc.                 Talk.com Holding Corp
+
+By:    /s/                                        By:    /s/
+   -------------------------------                    --------------------------
+
+Name:   Patrick C. Finlen                         Name:    Kevin Grifo
+     -----------------------------                     -------------------------
+
+Title:    Managing Director                       Title:      Executive VP
+       ---------------------------                       -----------------------
+
+Date:    December 26, 2000                        Date:  December 22, 2000
+     -----------------------------                      ------------------------
+
+</TEXT>
+</DOCUMENT>

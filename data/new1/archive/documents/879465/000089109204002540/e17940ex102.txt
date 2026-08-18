@@ -1,0 +1,124 @@
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>3
+<FILENAME>e17940ex102.txt
+<DESCRIPTION>FIRST AMENDMENT TO SERVICES AGREEMENT
+<TEXT>
+                                                                    Exhibit 10.2
+
+                     First Amendment to Services Agreement
+                            and termination of escrow
+
+      This First Amendment to Services Agreement and Termination of Escrow
+("Amendment") is made as of April 27, 2004, by and among DynTek, Inc., a
+Delaware corporation ("DI"), DynTek Services, Inc., a Delaware corporation
+("DSI" which, together with DI, may be jointly referred to as "DynTek"), and
+Young Williams, P.C., a Mississippi professional corporation ("YW") who agree as
+follows:
+
+      1.    Recitals.
+
+            (a) DynTek and YW entered into that certain Services Agreement dated
+March 1, 2004 (the "Services Agreement"). DSI and Child Support Technologies,
+Inc. ("CST") entered into a ProductivIT Sale Agreement and a ProductivIT
+Maintenance Agreement dated March 1, 2004 (jointly, the "ProductivIT
+Agreements"). Capitalized terms not otherwise defined herein shall have the
+meanings assigned to them in the Services Agreement.
+
+            (b) Pursuant to the terms of an escrow letter, the Services
+Agreement and the ProductivIT Agreements have been held in escrow pending
+receipt of the consents required under Section 6 of the Services Agreement.
+DynTek and YW have been unable to secure, as of this date, the following
+consents: (1) Kansas Shawnee County 3rd Judicial District; (2) North Carolina,
+Hanover County, CSE; (3) North Carolina Beaufort County CSE; and (4) North
+Carolina, Wake County, CSE (collectively, the "Managed Contracts without
+Consents"). DynTek and YW have been able to secure the consents of the
+governmental entities needed to allow YW to manage the following Managed
+Contracts: (1) Kansas, Department of Social and Rehabilitative Services, CSE;
+and (2) Nebraska, Department of Health and Human Services, Call Center Services
+(collectively, the "Managed Contracts with Consents").
+
+            (c) DynTek and YW desire to amend the Services Agreement to have YW
+begin operations as to the Managed Contracts with Consents while they continue
+to seek consents for the Managed Contracts without Consents. DynTek, YW and CST
+desire to terminate the escrow of the Services Agreement and the ProductivIT
+Agreements.
+
+      2.    The escrow of the Services Agreement and the ProductivIT Agreements
+is hereby terminated. YW and DynTek will immediately begin all actions and
+obligations consistent with the Services Agreement applicable to the Managed
+Contracts with Consents. DSI and CST will immediately begin all actions and
+obligations consistent with the ProductivIT Agreements.
+
+      3.    DynTek will use, and will continue to use, its best efforts to
+obtain the required consents for the Managed Contracts without Consents. DynTek
+will use and continue to use its best efforts to preserve the Managed Contracts
+without Consents and comply with the contractual terms of those contracts. As
+consents are obtained for the Managed Contracts without Consents, YW and DynTek
+will immediately begin all actions and obligations consistent with the Services
+Agreement applicable to each additional contract for which consent is obtained.
+
+      4.    Paragraph 3(a) of the Services Agreement is amended and restated in
+its entirety to read as follows:
+
+            Management Fee. DynTek shall pay YW a management fee (the
+            "Management Fee") during the Term equal to the greater of: (x)
+            twelve percent (12%) of the gross Contract Revenues arising under
+            all of the Managed Contracts (regardless of whether consents have
+            been obtained or YW is providing any services to a
+
+<PAGE>
+
+            Managed Contract, and regardless of whether DynTek receives payment
+            under a Managed Contracts.), or (y) a monthly amount based on the
+            following schedule:
+
+            (i)       3/2004 through 6/2004     $61,714 per month
+            (ii)     7/2004 through 12/2004     $61,916 per month
+            (iii)    1/2005 through 6/2005      $62,117 per month
+            (iv)     7/2005 through 12/2005     $37,723 per month
+            (v)      1/2006                     $30,828 per month
+            (vi)     2/2006 through 6/2006      $26,868 per month
+            (vii)    7/2006 through 8/2008      $27,077 per month
+            (viii)   9/2008 through 7/2010      $14,117 per month
+
+            The Management Fee shall be paid monthly within fifteen (15) days of
+            the end of each month. DynTek shall use best efforts to diligently
+            and promptly collect all Contract Revenues. If there is a material
+            contract change provision that reduces gross Contract Revenues to
+            DynTek under all of the Managed Contracts with Consents by more than
+            five percent (5%) per annum, the parties shall negotiate in good
+            faith an adjustment to the Management Fee. If the parties fail to
+            reach an agreement on such adjustment within thirty (30) days of
+            such change, they shall submit the matter to binding arbitration in
+            accordance with Section 15(f).
+
+      5.    Within 4 business days of the execution of this Amendment, DynTek
+shall pay YW the Management Fee for March 2004 of $61,714.00 and CST shall pay
+DSI $200,000.00 of accrued license fees under the ProductivIT Agreements.
+
+      6.    Except as amended and supplemented hereby, the Services Agreement
+remains in full force and effect and DynTek and YW ratify and confirm the
+Services Agreement as so amended and supplemented.
+
+      IN WITNESS WHEREOF, the parties have executed and delivered this Amendment
+as of the date first written above.
+
+Young Williams, P.C.       DynTek, Inc.               DynTek Services, Inc.
+
+By: ___________________    By: ___________________    By: _____________________
+Name: Robert L. Wells      Name: Steven J. Ross       Name: Steven J. Ross
+Title: President           Title: President & CEO     Title: President & CEO
+
+      The undersigned joins in the execution of this Amendment solely as to the
+termination of the escrow pursuant to Section 2 hereof and the payment
+provisions of Section 5 hereof applicable to it.
+
+Child Support Technologies, Inc.
+
+By: ___________________
+Name: Robert L. Wells
+Title: President
+
+</TEXT>
+</DOCUMENT>

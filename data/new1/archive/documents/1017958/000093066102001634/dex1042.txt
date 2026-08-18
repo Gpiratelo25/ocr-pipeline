@@ -1,0 +1,69 @@
+<DOCUMENT>
+<TYPE>EX-10.42
+<SEQUENCE>16
+<FILENAME>dex1042.txt
+<DESCRIPTION>FIRST AMENDMENT TO CALL CENTER SERVICES AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                   EXHIBIT 10.42
+
+                             FIRST AMENDMENT TO THE
+                     CALL CENTER SERVICES AGREEMENT BETWEEN
+       UNITED PARCEL SERVICES OASIS SUPPLY CORPORATION ("UPS") AND RMH
+                              TELESERVICES, INC.
+
+     COME NOW United Parcel Services OASIS Supply Corporation ("UPS") and RMH
+Teleservices, Incorporated ("RMH"), and in consideration of the mutual
+provisions contained herein and other good and valuable consideration, the
+receipt and sufficiency of which are hereby acknowledged, hereby agree to amend
+the Call Center Services Agreement, as follows:
+
+     This Amendment is entered into effective October 22, 2001.
+
+1.   Schedule C, Section 1 RMH PRICING of the Agreement is amended by adding the
+following:
+
+     1.2  Outbound Customer Service Survey Program
+
+     1.2.1  RMH shall be compensated as follows:
+
+            [REDACTED DUE TO REQUEST FOR CONFIDENTIAL TREATMENT] per System Hour
+            ("Base Rate")
+
+            [REDACTED DUE TO REQUEST FOR CONFIDENTIAL TREATMENT] Program set up
+            fees
+
+            [REDACTED DUE TO REQUEST FOR CONFIDENTIAL TREATMENT] per hour will
+            apply for any changes to the program requiring new programming.
+            These charges will be approved in writing by UPS prior to any
+            programming changes.
+
+2.   Except as otherwise expressly set forth herein, the terms and conditions
+     contained in the Agreement are unchanged.
+
+3.   This Amendment, together with the Agreement (together the "Agreement"),
+     constitutes the entire Agreement between the Parties with respect to the
+     subject matter hereof and all prior agreements and representations of the
+     Parties related to these matters, whether written or oral, are merged
+     herein and shall be of no further force or effect. This Agreement cannot be
+     changed or modified except in writing signed by both Parties.
+
+IN WITNESS WHEREOF, RMH and UPS have caused this Amendment to be signed and
+delivered by their duly authorized officers, as of the date first written above.
+
+United Parcel Services OASIS Supply        RMH Teleservices, Inc.
+Corporation ("UPS")
+
+By: /s/ Linda F. Skyrme                    By: /s/ Paul J. Burkitt
+   -----------------------------              --------------------------
+Name:  Linda F. Skyrme                     Name: Paul J. Burkitt
+       -------------------------                ------------------------
+Title: Vendor Relation Manager             Title: EVP Sales & Marketing
+       -------------------------                 -----------------------
+
+                                       1
+
+
+</TEXT>
+</DOCUMENT>

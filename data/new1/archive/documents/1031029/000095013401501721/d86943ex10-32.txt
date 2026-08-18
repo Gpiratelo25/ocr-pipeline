@@ -1,0 +1,117 @@
+<DOCUMENT>
+<TYPE>EX-10.32
+<SEQUENCE>3
+<FILENAME>d86943ex10-32.txt
+<DESCRIPTION>ASSIGNMENT/AMENDMENT NO 2 TO MANUFACTURING AGMT.
+<TEXT>
+
+<PAGE>   1
+                                                                   EXHIBIT 10.32
+
+
+                             ASSIGNMENT & AMENDMENT
+
+         THIS ASSIGNMENT AND AMENDMENT, effective as of January 1, 2001, to the
+Microsoft Corporation Manufacturing Agreement (the "Agreement") dated January 1,
+1998 between Microsoft Corporation ("Microsoft") and Startek, Inc. ("Startek")
+is made between Microsoft, Startek and Microsoft Operations Pte Ltd ("MO"), a
+Singapore corporation.
+
+         IT IS AGREED as follows:
+
+     1.   All words and expressions not otherwise defined in this Amendment have
+          the same meaning as in the Agreement and the parties confirm the
+          continued operation of the Agreement as amended by this Assignment and
+          Amendment.
+
+     2.   For and in consideration of the promises by MO in the License
+          Agreement dated as of January 1, 1999 by and between GraceMac
+          Corporation and MO, Microsoft grants, transfers, assigns and deliver
+          to MO the Agreement, and MO agrees to be bound by the Agreement and to
+          perform its obligations under it according to its terms, as of the
+          close of business January 3, 1999. Accordingly, all references to
+          "Microsoft" in the Agreement shall be construed as references to MO.
+          Further, Startek acknowledges such assignment.
+
+     3.   MO may communicate with Startek's designated subcontractor(s) on such
+          issues as assembly process improvements and cost reduction programs.
+
+     4.   The expiry date of the Agreement will be extended from June 30, 2001
+          to December 31, 2001.
+
+     5.   Sections 2 and 3 of Exhibit B to the Agreement are hereby deleted.
+          Prices for supply of products under or in respect of the Agreement may
+          be negotiated by MO in its discretion and at its option with either
+          Startek or Startek's subcontractor(s) on Startek's behalf. In those
+          cases where MO negotiates a price directly with Startek's
+          subcontractor(s) in relation to specific product, Startek will supply
+          such product to MO under the Agreement at that price.
+
+     6.   For the avoidance of doubt, MO may at any time enter into agreements
+          with Startek's subcontractor(s) to provide manufacturing and other
+          services such as may be required by MO to support MO in areas (such as
+          Licensing and Programs) other than Full Packaged Product and which are
+          not covered under the Agreement.
+
+
+<PAGE>   2
+
+
+MICROSOFT CORPORATION
+
+/s/ Stan Kaplita
+-----------------------------
+By
+
+Stan Kaplita
+-----------------------------
+Name (Print)
+
+General Manager
+-----------------------------
+Title
+
+March 14, 2001
+-----------------------------
+Date
+
+
+STARTEK, INC.
+
+/s/ E. Preston Sumner, Jr.
+-----------------------------
+By
+
+E. Preston Sumner, Jr.
+-----------------------------
+Name (Print)
+
+Chief Operating Officer
+-----------------------------
+Title
+
+April 16, 2001
+-----------------------------
+Date
+
+
+MICROSOFT OPERATIONS PTE LTD
+
+/s/ Patrick Lung
+-----------------------------
+By
+
+Patrick Lung
+-----------------------------
+Name (Print)
+
+Chief Executive
+-----------------------------
+Title
+
+
+-----------------------------
+Date
+
+</TEXT>
+</DOCUMENT>

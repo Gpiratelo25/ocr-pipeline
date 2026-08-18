@@ -1,0 +1,115 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>3
+<FILENAME>l94710aexv10.txt
+<DESCRIPTION>EXHIBIT 10
+<TEXT>
+<PAGE>
+
+Exhibit 10
+LANVISION SYSTEMS, INC.
+
+First Amendment to the Reseller Agreement between IDX Information Systems
+Corporation and LanVision, Inc.
+
+                       IDX Information Systems Corporation
+
+                                  40 IDX Drive
+                         South Burlington, Vermont 05403
+                                 (802) 862-1022
+
+                 First Addendum to LanVision Reseller Agreement
+
+                                     Between
+
+             IDX Information Systems Corporation and LanVision, Inc.
+
+
+
+         THIS ADDENDUM is made as of May 3, 2002 by and between IDX Information
+Systems Corporation ("IDX"), at its offices in South Burlington, Vermont and
+LanVision, Inc. ("LanVision"), at its offices in Cincinnati, Ohio.
+
+                             BACKGROUND OF AGREEMENT
+                             -----------------------
+
+         IDX and LanVision entered into a written agreement, entitled "LanVision
+Reseller Agreement," dated January 30, 2002, which governs the resale of
+LanVision computer programs. By this Addendum, the parties wish to amend the
+LanVision Reseller Agreement (the "Agreement").
+
+         IN CONSIDERATION of the premises, the covenants set forth herein, and
+other consideration, the receipt and sufficiency of which are hereby
+acknowledged, the parties agree as follows:
+
+      1. SCOPE AND EFFECT
+
+      This Addendum modifies, supplements and amends the Agreement, and in the
+      event of any inconsistency between the terms of this Addendum and the
+      terms of the Agreement, the terms of this Addendum shall govern and
+      control. In all other respects, the Agreement is and shall remain in full
+      force and effect. Unless expressly indicated to the contrary hereinbelow,
+      the defined terms used in the Addendum shall have the meanings ascribed to
+      them in the Agreement.
+
+      2. SCHEDULE A
+<PAGE>
+
+
+      The following software products shall be added to the list of LanVision
+      Software in Section 1 of Schedule A:
+
+      Entry Scan; and
+
+      LanVision Application Bridge (LAVB)
+
+
+
+
+      3. MISCELLANEOUS
+
+         3.1.  Binding Effect. This Addendum shall be binding upon and shall
+               inure to the benefit of the parties hereto and their
+               respective heirs, legatees, personal representative and other
+               legal representatives, successors and permitted assigns.
+
+      3.2.     Entire Agreement. This Addendum constitutes the entire sum of
+            changes of any kind or nature to the Agreement, and there are no
+            changes, representatives, warranties, covenants or obligations of
+            any kind except as set forth herein. This Addendum supersedes all
+            prior and contemporaneous agreements, understanding, negotiations
+            and discussions, written or oral, of the parties hereto, relating to
+            any transaction contemplated by this Addendum. There have been no
+            changes to any other agreement entered in to in connection
+            therewith, unless reduced to writing and made a part of an addendum
+            to such other agreement. Except as otherwise especially provided
+            herein, nothing in this Addendum is intended or shall be construed
+            to confer upon or to give any person other than the parties hereto
+            any rights or remedies under or by reason of this Addendum.
+
+      3.3.     Amendments. This Addendum may be amended only in writing executed
+            by the parties affected by such amendment.
+
+
+
+
+
+
+LANVISION, INC.                                      IDX INFORMATION SYSTEMS
+                                                     CORPORATION
+
+By:   /s/ J. Brian Patsy                 By:    /s/ Michael E. Raymer
+---------------------------------           ---------------------------------
+
+J. Brian Patsy, President                     Michael E. Raymer
+---------------------------------           ---------------------------------
+[Name and Title]                            [Name and Title]
+
+  3 May 2002                                    17 May 2002
+---------------------------------           ---------------------------------
+[Date]                                      [Date]
+
+
+
+</TEXT>
+</DOCUMENT>

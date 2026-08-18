@@ -1,0 +1,446 @@
+<DOCUMENT>
+<TYPE>EX-10.20(A)
+<SEQUENCE>5
+<FILENAME>g87601exv10w20xay.txt
+<DESCRIPTION>EX-10.20(A) AMENDMENT NO. 4 TO THE IBM GLOBAL
+<TEXT>
+<PAGE>
+                                                                EXHIBIT 10.20(a)
+
+                                                                          [LOGO]
+
+IBM/Allied Holdings
+
+AMENDMENT NO. 4 TO THE IBM GLOBAL SERVICES NATIONAL
+AGREEMENT BETWEEN IBM AND ALLIED HOLDINGS
+
+This Amendment No. 4 (this "Amendment"), effective February 1, 2004 , amends
+the IBM Global Services National Agreement between Allied Holdings ,Inc.
+("Allied Holdings") and International Business Machines Corporation ("IBM")
+effective April 1, 2001 (the "Agreement"). The terms and conditions of the
+Agreement remain in full force and effect unless specifically amended or
+supplemented herein.
+
+I.0 REVISIONS TO THE AGREEMENT BASE TERMS
+
+SECTION 1.0 DEFINITIONS
+
+DELETE:
+
+1.0 (b) Additional Resource Charge or ASC means the charges, as set forth in
+Schedule C (Charges), to Allied Holdings if Allied Holdings' usage of Resource
+Units is above the applicable Baseline.
+
+1.0 (l) ARC Invoice has the meaning set forth in Schedule 6.1 (Charges) of this
+Agreement.
+
+1.0 (aaa) Reduced Resource Credit or RRC means the credit, as set forth in
+Schedule C (Charges), to Allied Holdings if Allied Holdings' usage of a Resource
+Unit is less than the applicable Baseline.
+
+ADD:
+
+1.0 (zzz) Amended Effective Date means February 1, 2004, 0000 hours Eastern
+Standard Time.
+
+1.0 (aaaa) Amended Expiration Date means January 31, 2014, 2359 hours Eastern
+Standard Time.
+
+REPLACE:
+
+1.0 (s) Critical Success Factors Results means the report produced by Allied
+Holdings that will be used to document the level of System Availability Allied
+Holdings has achieved in the six months prior to the Effective Date as verified
+by IBM.
+
+1.0 (jjj) Service Recipients means the entities receiving Services at Allied
+Holdings' request and listed in Schedule K (Service Recipients) as of the
+Amended Effective Date or as it may be updated from time to time by Allied
+Holdings.
+
+1.0 (ggg) Services means the services and functions provided by IBM to Allied
+Holdings and the Services Recipients pursuant to this Agreement, as more fully
+described in Schedule A, A-1, A-2 and A-3 (Services).
+
+SECTION 2.0 TERM
+
+Replace with:
+
+"This Amendment No. 4 begins on the Amended Effective Date and expires on the
+Amended Expiration Date, except as earlier terminated or extended in accordance
+with the terms of this Agreement. The period of this Amendment No. 4 in effect,
+as of the Amended Effective Date, is referred to herein as the "Term".
+
+SECTION 4.4 PERSONNEL
+
+Add Section 4.4 (e)
+
+"Subject to Section 6.4 (New Services) and all other terms of the Agreement,
+including but not limited to Section 8 (Confidentiality), IBM agrees to provide
+reasonable assistance to a Third Party hired by Allied Holdings that is hired
+to perform a service related to the Services."
+
+Allied Holdings/IBM                                                 Page 1 of 7
+                                Amendment No. 4
+
+<PAGE>
+                                                                          [LOGO]
+
+IBM/Allied Holdings
+
+AMENDMENT NO. 4 TO THE IBM GLOBAL SERVICES NATIONAL
+AGREEMENT BETWEEN IBM AND ALLIED HOLDINGS
+
+
+SECTION 4.5 PROCEDURES
+
+Add Section 4.5 (d) as follows:
+
+"Notwithstanding the definition designating the Procedural Manual as a Type II
+Material, IBM's use of the Procedure Manual is subject to the confidentiality
+terms contained in Section 8."
+
+SECTION 5.2 TRANSITION OF SERVICES
+
+Section 5.2.a. Change "Effective Date" to "Amended Effective Date".
+
+SECTION 6.1 CHARGES
+
+Section 6.1.a. is replaced with:
+
+a. Annual Services Charges
+
+IBM will invoice Allied Holdings twice each month of the Term, for the current
+month and beginning on the Amended Effective Date, for the Annual Services
+Charge, prorated in equal bi-monthly payments (the ASC Invoice).
+
+Section 6.1 b. is deleted in its entirety
+
+Section 6.2.a. is deleted in its entirety.
+
+SECTION 6.3 PAYMENTS
+
+Section 6.3.a.1. is replaced with:
+
+The Payable Date for the ASC Invoice will be the 15th and 30th day of the
+calendar month in which Allied Holdings receives the ASC Invoice from IBM,
+provided Allied Holdings receives such ASC Invoice on or before the fifth and
+the tenth days of the month for payment due on the 15th and 30th, respectively,
+of that month. If Allied Holdings receives the ASC Invoice after the respective
+fifth or tenth day of the month, the Payable Date for such ASC Invoice will be
+30 days after Allied Holdings' receipt of such ASC Invoice
+
+SECTION 7.2 TERMINATION FOR CONVENIENCE
+
+Amend 7.2.a.1 replace as follows:
+
+"no earlier than the third anniversary after the Amended Effective Date, and"
+
+7.3 TERMINATION FOR CAUSE
+
+Section 7.3 is replaced in its entirety as follows:
+
+a.       Allied Holdings or IBM (the NONBREACHING PARTY) may elect to terminate
+this Agreement because of a material breach of this Agreement by the other (the
+BREACHING PARTY) by following the process set forth in this Section.
+
+b.       The Nonbreaching Party will provide the Breaching Party with written
+notice of such material breach within 60 days after the material breach or the
+date the Nonbreaching Party becomes aware of such material breach, describing
+in detail the specific nature and dates of the
+
+Allied Holdings/IBM                                                 Page 2 of 7
+                                Amendment No. 4
+
+<PAGE>
+                                                                          [LOGO]
+
+IBM/Allied Holdings
+
+AMENDMENT NO. 4 TO THE IBM GLOBAL SERVICES NATIONAL
+AGREEMENT BETWEEN IBM AND ALLIED HOLDINGS
+
+material breach, and will provide the Breaching Party with the opportunity to
+cure the material breach as follows:
+
+1.       In the event of a failure to pay any amount due on the Payable Date,
+ten days; and
+
+2.       in the event of any other material breach, 45 days. If the nature of
+any nonmonetary breach is such that it would be unreasonable to expect a cure
+within 45 days, an additional 15 days will be allowed provided that the
+Breaching Party exercises all reasonable efforts to cure such material breach
+within such additional 15 day period.
+
+c.       If the material breach for failure to pay any amount due on the
+payable date is not cured during the ten day cure period set forth above, the
+Nonbreaching Party may terminate this Agreement for material breach by
+providing the Breaching Party with written notice within 60 days after the
+expiration of the ten day cure period specified above, declaring termination of
+this Agreement for material breach under this Section, effective on the date
+stated in such notice. However, if the Dispute Resolution Process is instituted
+prior to the effective date on the notice, such effective date will be no later
+than 15 days after the Breaching Party's receipt of such notice of termination
+for material breach.
+
+d.       In the event of any breach, other than nonpayment, if the material
+breach is not cured during the applicable cure period set forth above, the
+Nonbreaching Party may terminate this Agreement for material breach by
+providing the Breaching Party with written notice within 60 days after the
+expiration of the cure period specified above, declaring termination of this
+Agreement for material breach under this Section, effective on the later of the
+date stated in such notice or five (5) days following completion of the Dispute
+Resolution Process, if instituted. Such effective date will be no later than 90
+days after the Breaching Party's receipt of such notice of termination for
+material breach.
+
+SECTION 7.3.1. IS ADDED TO THE AGREEMENT AS FOLLOWS:
+
+7.3.1 CREDIT ASSESSMENT
+
+         "Allied Holdings may notify IBM anytime during the Term if Allied
+         Holdings' current published Standard and Poor (S&P) and Moody's credit
+         rating exceeds a S&P "BB" rating or a Moody's "BA2" rating,
+         respectively. Upon IBM's verification of Allied Holdings' notification
+         of credit rating, IBM shall issue an Amendment to this Agreement to
+         reinstate the mutually agreed language for Section 7.3 entitled
+         "Termination for Cause" in the initial Agreement executed on April 1,
+         2001."
+
+SECTION 7.5 TRANSFER ASSISTANCE
+
+Section 7.5. (f) is replaced as follows:
+
+"If IBM terminates this Agreement for Allied Holdings' material breach, IBM
+will provide Allied Holdings with Transfer Assistance if Allied Holdings pays
+for such Transfer Assistance in advance.
+
+SECTION 7.6 OTHER RIGHTS UPON EXPIRATION OR TERMINATION
+
+Section 7.6. (a) is replaced as follows:
+
+"Provided as a New Service, IBM will provide the additional assistance set
+forth in this Section upon expiration or termination of this Agreement."
+
+SECTION 9.0 INTELLECTUAL PROPERTY
+
+
+Allied Holdings/IBM                                                 Page 3 of 7
+                                Amendment No. 4
+
+<PAGE>
+                                                                          [LOGO]
+
+IBM/Allied Holdings
+
+AMENDMENT NO. 4 TO THE IBM GLOBAL SERVICES NATIONAL
+AGREEMENT BETWEEN IBM AND ALLIED HOLDINGS
+
+
+Replace Section 9.0 (b) as follows:
+
+Type I Materials are copyrighted materials owned by Allied Holdings or any
+other party, and Derivative Works thereof, including, without limitation, those
+copyright items described in Section 9.0 e.
+
+SECTION 10.0 INDEMNIFICATION
+Replace Section 10.0 (a) 1 with the following:
+
+"that an IBM Product or Service provided to Allied Holdings by IBM under this
+Agreement infringes such Third Party's patent, copyright or other intellectual
+property rights under U.S. or Canadian law; provided that IBM will not have and
+obligation to indemnify Allied for such Third Party Infringement to the extent
+the infringing Service was being provided by Allied Holding prior to the
+Amended Effective Date or is caused by specifications provided to IBM by Allied
+Holdings."
+
+SECTION 13.8 GEOGRAPHIC SCOPE OF SERVICES IS REPLACED AS FOLLOWS:
+
+"IBM is providing the Services under this Agreement in the United States. In
+the event Allied Holdings requires certain tasks within the scope of the
+Services to be performed outside the United States, the Parties agree to
+implement such work in a Change Order."
+
+SECTION 13.11 JOINT VERIFICATION
+Amend the first sentence of Section 13.11 to read:
+
+"During the six months after the Amended Effective Date (the JOINT
+VERIFICATION PERIOD), Allied Holdings and IBM reserve the right to inventory
+and validate any information that is reflected in or omitted from this
+Agreement."
+
+SECTION 13.14 NOTIFICATIONS AND APPROVALS
+
+Replace the notification points of contact under Section 13.14.d.1 and 2 as
+follows:
+
+d.       IBM and Allied Holdings will provide notifications Agreement to the
+         following:
+
+         1.       In the event of breach, the Nonbreaching Party will notify
+                  the Breaching Party via electronic and courier or certified
+                  mail. Such notice will be deemed given upon the earlier of
+                  either notification in accordance with Section 13.14.c.
+
+         For termination, breach or default:
+
+If to IBM:
+                            Vice President, Travel and Transportation Industry
+                            IBM Global Services
+                            Dwayne Ingram
+                            3031 N. Rocky Point Drive W.
+                            Tampa, FL  33607
+
+                            Telephone: 813-356-5100
+                            Facsimile: 813-356-3411
+
+
+Allied Holdings/IBM                                                 Page 4 of 7
+                                Amendment No. 4
+
+<PAGE>
+
+IBM/Allied Holdings                                                       [LOGO]
+
+AMENDMENT NO. 4 TO THE IBM GLOBAL SERVICES NATIONAL
+AGREEMENT BETWEEN IBM AND ALLIED HOLDINGS
+
+
+With a copy to:
+                            IBM Project Executive
+                            Nancy Deal
+                            235 Meridian Hills Road
+                            Tallahassee, FL 32312
+
+                            Telephone/Facsimile: 850-906-0510
+
+                            and
+                            General Counsel, IBM Global Services
+                            Route 100
+                            Somers, New York 10589
+
+                            Telephone: 914-766-4165
+                            Facsimile: 914-766-8444
+If to Allied Holdings:
+
+                            Sr. Vice President Business Processing Engineering
+                            David A. Rawden
+                            160 Clairemont  Ave, Suite 200
+                            Decatur, GA 30030
+
+                            Telephone: 404 687-5905
+                            Facsimile: 404 370-4206
+With a copy to:
+                            Allied Holdings Project Executive
+                            Vice President, Communications & Technical Services
+                            Information Technology
+                            Larry G. Parks
+                            160 Clairemont Ave,
+                            Decatur, GA 30030
+
+                            Telephone: 404-687-6269
+                            Facsimile 404 370-4312
+                            and
+                            Senior Vice President Corporate Affairs and General
+                            Counsel
+                            Tommy Duffy
+                            160 Clairemont Ave, Suite 200
+                            Decatur, GA 30030
+
+                            Telephone: 404 370-4225
+                            Facsimile: 404 370-4312
+
+     2.    For all other notices:
+
+If to IBM:
+                            IBM Project Executive
+                            Nancy Deal
+                            235 Meridian Hills Road
+                            Tallahassee, FL 32312
+
+                            Telephone/Facsimile: 850-906-0510
+
+
+Allied Holdings/IBM                                                 Page 5 of 7
+                                Amendment No. 4
+
+<PAGE>
+                                                                          [LOGO]
+IBM/Allied Holdings
+
+AMENDMENT NO. 4 TO THE IBM GLOBAL SERVICES NATIONAL
+AGREEMENT BETWEEN IBM AND ALLIED HOLDINGS
+
+
+If to Allied Holdings:      Allied Holdings Project Executive
+                            Vice President, Communications & Technical Services
+                            Information Technology
+                            Larry G. Parks
+                            160 Clairemont Ave,
+                            Decatur, GA 30030
+
+                            Telephone: 404-687-6269
+                            Facsimile 404 370-4312
+
+This Amendment No. 4 Schedules A-1, A-2, A-3 and B-1 are additional addendums
+to the existing respective Schedules. Schedules B, C, D, F, G, H, I and L are
+amended and restated in their entirety.
+
+2.0  ATTACHMENTS
+
+Schedule A-1 Services
+Schedule A-2 Peoplesoft Services
+Schedule A-3 AMS Services
+Schedule B-1 AMS Service Levels
+Schedule B Service Levels
+Schedule C Charges
+Schedule D Transition
+Schedule F Software
+Schedule G Machines
+Schedule H Standards
+Schedule I Facilities
+Schedule L Employees
+
+THE PARTIES ACKNOWLEDGE THAT THEY HAVE READ THIS AMENDMENT, UNDERSTAND IT, AND
+AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS. FURTHER, THE PARTIES AGREE THAT
+THE COMPLETE AND EXCLUSIVE STATEMENT OF THE AGREEMENT BETWEEN THE PARTIES
+RELATING TO THIS SUBJECT SHALL CONSIST OF 1) THE AMENDMENTS, 2) THE SCHEDULES,
+AND 3) THE AGREEMENT. THIS STATEMENT OF THE AMENDMENT SUPERSEDES ALL PROPOSALS
+OR OTHER PRIOR AGREEMENTS, ORAL OR WRITTEN, AND ALL OTHER COMMUNICATIONS
+BETWEEN THE PARTIES RELATING TO THE SUBJECT MATTER DESCRIBED IN THIS AMENDMENT.
+
+
+Allied Holdings/IBM                                                 Page 6 of 7
+                                Amendment No. 4
+
+<PAGE>
+                                                                          [LOGO]
+IBM/Allied Holdings
+
+AMENDMENT NO. 4 TO THE IBM GLOBAL SERVICES NATIONAL
+AGREEMENT BETWEEN IBM AND ALLIED HOLDINGS
+
+<TABLE>
+<S>                                             <C>
+Accepted by:                                    Accepted by:
+INTERNATIONAL BUSINESS MACHINES CORPORATION     ALLIED HOLDINGS, INC.
+
+
+
+
+By:  /s/ Dwayne Ingram                          By:  /s/ David A. Rawden
+     ---------------------------------------         ---------------------------
+            Authorized Signature                         Authorized Signature
+
+Dwayne Ingram                                   David A. Rawden
+Vice President,                                 Sr. Vice President,
+Travel and                                      Business Processing Engineering
+Transportation                                  Date
+Date
+</TABLE>
+
+Allied Holdings/IBM                                                 Page 7 of 7
+                                Amendment No. 4
+
+</TEXT>
+</DOCUMENT>

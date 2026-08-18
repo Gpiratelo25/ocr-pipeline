@@ -1,0 +1,968 @@
+<DOCUMENT>
+<TYPE>EX-2
+<SEQUENCE>4
+<FILENAME>exhibit45tpc.txt
+<DESCRIPTION>EXHIBIT 4.5
+<TEXT>
+Industry Canada       Industrie Canada
+
+                                    TPC PROJECT No. 730-452552 AMENDMENT N0.7
+
+                       TECHNOLOGY PARTNERSHIPS CANADA
+                           AMENDMENT AGREEMENT
+
+This Agreement made
+
+Between:        HER MAJESTY THE QUEEN IN RIGHT OF CANADA,
+                as represented by the Minister of Industry
+                (hereinafter referred to as the "Minister")
+
+And:            DYNAMOTIVE ENERGY SYSTEMS CORPORATION
+                (formerly DynaMotive Technologies Corporation),
+                a corporation duly incorporated under the laws
+                of British Columbia, having its head office
+                located at 105-1700 West 75th Avenue, Vancouver,
+                British Columbia
+                (hereinafter referred to as "the Proponent").
+
+INTRODUCTION
+
+(i)    The Minister and proponent entered into a Contribution Agreement dated
+       the 29th day of July, 1997 under the Technology Partnerships Canada
+       Program (the "Contribution Agreement") as amended by Amendment No. 1
+       dated February 2, 1998, Amendment No.2 dated March 11, 1998, Amendment
+       No.3 dated February 26, 2001, Amendment No.4 dated March 29, 2001,
+       Amendment No.5 dated May 23, 2002 and Amendment No.6 dated September
+       2, 2003;
+
+(ii)   The Minister and proponent now wish to amend the Contribution
+       Agreement.
+
+In consideration of their respective obligations set out in the Contribution
+Agreement, the parties agree to amend the Contribution Agreement as follows:
+
+
+<PAGE>
+1.   Article 1.3 (e) is deleted and replaced with the following:
+
+     1.3 (e) The Proponent shall ensure that the Project is completed on or
+     before March 31, 2006 ("Project Completion Date"), unless otherwise
+     agreed to in writing by the Minister.
+
+2.   Article 5.2 Royalty Period is deleted and replaced with the following
+
+     5.2  Royalty Period
+     The Royalty Period will begin on January 1st, 2005 and will end on the
+     earliest of December 31, 2014 or when a cumulative royalty ceiling of
+     $16,000,000 is reached.
+
+3.   Article 5.3 Royalty Statement and Payments is deleted and replaced with
+     the following:
+
+     5.3  Royalty Statement and Payments
+     The Proponent will provide to the Minister an annual statement of the
+     Gross Business Revenues, certified by the Proponent's Chief Financial
+     Officer, within four (4) months of the end of each Proponent fiscal year
+     (December 31st), together with the related royalty payment. The first
+     statement and related royalty payment must be provided to the Minister
+     by April 30th, 2006 in respect of the fiscal year ending December 31st,
+     2005, and by April 30th each year thereafter in regard to the previous
+     fiscal year. Payments shall be made by cheque to the order of the
+     Receiver General and sent to the Minister.
+
+4.   Schedule A - Statement of Work is deleted and replaced with the one
+     attached.
+
+5.   Schedule A - Statement of Work Annex A, Forms A, B, C, D, and E-1 to E-5
+     are deleted and replaced with the ones attached.
+
+6.   Schedule C - Reporting Requirements, Forms TPC-1, TPC-2, TPC-3 and TPC-4
+     are deleted and replaced with the ones attached.
+
+All provisions of the Contribution Agreement remain in full force and effect,
+except as modified by this Amendment Agreement.
+
+                                                         File No.: 730-452552
+
+
+<PAGE>
+IN WITNESS WHEREOF the parties hereto have executed this Amendment Agreement
+through duly authorized representatives.
+
+
+HER MAJESTY THE QUEEN IN RIGHT
+OF CANADA, as represented by the Minister of Industry
+
+Per:
+       /s/ Kash Ram                                    Nov 23, 2004
+       ------------------------------------          --------------
+       Technology Partnerships Canada (TPC)                Date
+
+       Kash Ram. Director. Environmental Technologies Directorate (TPC)
+
+
+
+
+DYNAMOTIVE ENERGY SYSTEMS CORPORATION (formerly DynaMotive Technologies
+Corporation)
+
+Per:
+       /s/ Richard Lin                                 Nov. 24, 2004
+       ------------------------------------            --------------
+                                                           Date
+Richard Lin, Chairman, DynaMotive Energy Systems Corp.
+Name & Title
+
+
+
+                                                    File No.: 730-452552
+<PAGE>
+                       SCHEDULE A - STATEMENT OF WORK
+
+
+1. Project Description
+
+This project involves the development and demonstration of DynaMotive's fast
+pyrolysis technology, resulting in the production of up to 70% BioOil, 15-25%
+char and non-condensable gases for the balance of product. The BioOil
+product is a liquid fuel, which has 55% by volume of the energy of diesel
+oil and 40% by weight. It is targeted to form a renewable fuel for turbine
+engines in particular and has a well defined composition for various
+feedstocks such as wood, wood & bark mixture or bagasse.
+
+The Project industrial level demonstration plant targets a scale up of
+DynaMotive's fast pyrolysis process to 200 tons per day continuous process at
+a wood recycling facility in Ontario where longhorn beetle killed lumber and
+construction wood waste will be used. The products will be used in
+DynaMotive's testing/development programs, in district heating, industrial
+and green house operations replacing fossil fuels.
+
+The production of BioOil and non-condensable gases will form a closed loop
+system resulting in substantial reduction of fossil fuel usage and
+elimination of a serious wood waste disposal and pollution problems. BioOil
+will be tested in pulp mill lime kiln applications and other types of
+industrial boilers and engines (gas turbine and diesel). The environmental
+impact of manufacturing BioOil from organic waste to produce electricity
+results in 100% displacement of an equal energy equivalent of non-renewable
+fossil fuels such as coal for power generation.
+
+As a result of the demonstration project, DynaMotive will demonstrate the
+continuous production of BioOil in an industrial setting and test and
+validate of pyrolysis products as outlined in the Statement of Work details.
+
+The ultimate target market will be for DynaMotive to supply turnkey systems
+for BioOil production coupled to energy systems driven by renewable organic
+waste.
+
+To be in a position to exploit DynaMotive's pyrolysis technology amongst
+other areas, the following is required:
+
+-     Scaling and validating the pyrolysis technology to full
+      characterization.
+-     Testing, validating and demonstrating BioOil and char applications,
+      such as heat and power production.
+-     Testing, validating and demonstrating BioOil production facilities
+      using wood residues, and potentially agricultural residue streams, in
+      the Canadian Industrial Pilot Program for 200 tons per day.
+-     Research and development into higher value derivative products based on
+      DynaMotive pyrolysis products as a feedstock.
+
+                                                         File No.: 730-452552
+<PAGE>
+2. Key Activities
+
+DynaMotive will pursue the following research, development, and testing
+programs.
+
+a) Pyrolysis Process Research & Development
+
+The BioTherm2 pilot plant (10 tpd) and the BioTherm (2tpd) pilot plants form
+the foundation of our process technology program. Operation and optimization
+of these plants provide the knowledge required to scale up the technology,
+develop production cost projections and expand the scope of feedstock types
+and compositions that can be reliably and consistently converted into BioOil.
+
+The objectives of the pilot plant operations are:
+-     Validate and optimize BioOil production using various commercially
+      available feedstock types and compositions including whitewood,
+      bark and hardwoods.
+-     Refine and validate the production cost assumptions used for projecting
+      economic performance of commercial scale facilities.
+-     Optimize the performance and capacity of the Biotherm2 (10 tpd) plant
+      to develop the maximum baseline design for subsequent scale ups.
+-     Produce BioOil and char to support application test programs.
+
+b) BioOil and Char Characterization and Product Testing
+
+BioOil and pyrolysis char are new fuel products produced by DynaMotive's
+process. In order to effectively market these products full characterization,
+detailed testing and performance validation for each specific application is
+required and the results necessary to quantify potential customer benefits
+and develop confidence in our technology and products. DynaMotive has
+identified a number of near term applications for BioOil and char and
+designed development and testing programs targeted at these markets.
+
+The objectives of the product testing programs are to:
+
+-     Test and validate the technology required to burn BioOil in industrial
+      boilers (i.e. institutional heating, greenhouses), sawmill lumber
+      drying systems, pulp mill lime kilns, and industrial gas turbines.
+-     Develop and execute testing programs with leading industrial partners
+      to facilitate development of long-term BioOil sales agreements.
+-     Test and validate the use of char as a feedstock for charcoal briquette
+      manufacture and facilitate development of long term char sales
+      agreements.
+-     Test and validate the use of char as a solid fuel for combustion
+      applications including use as a heat source during BioOil production.
+
+                                                         File No.: 730-452552
+<PAGE>
+c) Derivative Product Research and Development
+
+The complex chemistry of BioOil and the unique characteristics of pyrolysis
+char make these products suitable as feedstock for other processes and
+products. DynaMotive has identified many product areas worthy of further
+research and development, with three prioritized for investigation over the
+short term.
+
+Research and development programs are planned for:
+- BioOil based resins for various applications including adhesives.
+- BioOil based synthesis gasses for reformation into higher value liquid
+  fuels.
+- Char based activated carbons for gas/liquid filtering applications.
+
+
+d) Canadian Industrial Pilot Program (200 tpd)
+
+DynaMotive will develop an industrial pilot plant to be collocated with a
+wood recycling facility in Ontario. The plant will demonstrate the
+feasibility of BioOil production from longhorn beetle killed lumber and
+typical construction wood waste while providing BioOil and char in sufficient
+volume for full-scale application demonstration programs.
+
+The objectives of the industrial pilot program are:
+-     Test, validate and optimize the pyrolysis technology at the 200 tpd
+      plant capacity.
+- 	    Test and optimize concepts and designs for full integration of BioOil
+      production with forestry residue and wood recycling operations
+-     	Refine and validate the production cost assumptions used for
+      projecting economic performance of large commercial scale facilities.
+-     	Produce BioOil and char to support full-scale application test
+      programs.
+
+
+3. Project Schedule
+
+Refer to Annex A, Form A.
+
+
+4. Milestones
+
+Refer to Annex A, Form B.
+
+
+                                                         File No.: 730-452552
+<PAGE>
+
+5. Cost Breakdown
+
+Current Fiscal Year Cost Breakdown by Major Activities - Refer to Annex A,
+Form C.
+
+Cost Breakdown by Fiscal Year - Refer to Annex A, Forms D.
+
+
+6. Other Descriptions
+
+Refer to Annex A, Form E1 - E5.
+
+
+<PAGE>
+
+                                                   ANNEX A
+
+                                            FORM B  - MILESTONES
+<TABLE>
+<CAPTION>
+
+PROPONET NAME: DynaMotive Energy Systems Corporation	                PROJECT NUMBER: 730-452522
+
+=================================================================================
+           Key Project Milestone                                 Date
+=================================================================================
+<S>  <C>                                                   <C>
+1    Pyrolysis Process R&D (2 & 10 tpd)
+          Endurance run completed                          Complete
+          Maximum capacity trial completed                 Complete
+          Bark homogenization trials completed             Complete
+          Hardwood characterization completed              Complete
+---------------------------------------------------------------------------------
+2    BioOil/Char Characterization and Product Testing
+        BioOil Applications
+          Completed BioOil characterization                Complete
+          Full-scale turbine tests completed               March 31, 2003
+          BioOil characterization for diesels completed    December 01, 2003
+          Preliminary boiler testing completed             Complete
+          Industrial boiler demonstration completed        Complete
+          Lumber kiln boiler test completed                Complete
+          Lime kiln pilot trials completed                 November 01, 2003
+          Full-scale lime kiln demonstration completed     January 01, 2004
+=================================================================================
+</TABLE>
+
+<PAGE>
+                                                   ANNEX A
+
+                                         FORM B - MILESTONES (Cont'd)
+
+<TABLE>
+<CAPTION>
+PROPONET NAME: DynaMotive Energy Systems Corporation	                PROJECT NUMBER: 730-452522
+
+=================================================================================
+           Key Project Milestone                                 Date
+=================================================================================
+
+<S>  <C>                                                   <C>
+2    BioOil/Char Characterization and Product Testing
+     (Cont'd)
+        Char Applications
+          Prototype briquette trials completed             Complete
+          Full-scale briquette trials completed            Complete
+          Char combustion for heat validated               Complete
+3    Derivative Product R&D
+          Activated carbon proof of concept                Complete
+          Activated carbon pilot trials completed          October 01, 2004
+          Bench scale BioOil reformation optimized         November 01, 2003
+4    Canadian Industrial Pilot Program  (200 tpd)
+          Conceptual design completed                      Complete
+          Detailed Engineering completed                   January 3, 2005
+          Construction completed                           October 21, 2005
+          Commissioning completed / plant operating        December 21, 2005
+=================================================================================
+</TABLE>
+
+
+Notes:
+1.   Plant capacity expressed in tons of unprocessed feedstock per day
+
+<PAGE>
+                                                   ANNEX A
+
+               FORM C - CURRENT FISCAL YEAR COST BREAKDOWN BY MAJOR ACTIVITIES
+
+<TABLE>
+<CAPTION>
+PROPONET: DynaMotive Energy Systems Corporation   	                  PROJECT NUMBER: 730-452522
+
+                                          For Fiscal Year 2004-2005:
+
+======================================================================================================
+Description of Activity                          Estimated Eligible Costs
+======================================================================================================
+                          Direct      Direct    Subcontracts  Equipment  Overhead  Other        Total
+                          Labour    Materials       and                  (65% of   Costs
+                          Costs                 Consultants              Direct
+                                                                         Labour)
+------------------------------------------------------------------------------------------------------
+<S>                      <C>           <C>       <C>         <C>          <C>      <C>        <C>
+1. Pilot Plant Operations    -         56,000        -            -         -       6,000      62,000
+------------------------------------------------------------------------------------------------------
+2. BioOil & Char                                    7,536                                       7,536
+   Characterization
+------------------------------------------------------------------------------------------------------
+3. Derivative Products    55,156        1,915     259,072       95,000     35,851   7,104     454,098
+   R&D
+------------------------------------------------------------------------------------------------------
+4. Canadian Industrial   732,193        6,433   1,232,091    5,303,052    475,925     939   7,750,633
+   Pilot Program
+   (200 tpd)
+------------------------------------------------------------------------------------------------------
+   Total                 787,349       64,348   1,498,699    5,398,052    511,776  14,043   8,274,267
+======================================================================================================
+</TABLE>
+
+Notes:
+Key Project Activities are enumerated and described in the SOW.
+
+<PAGE>
+
+                                                   ANNEX A
+
+                                   FORM D - COST BREAKDOWN BY FISCAL YEAR
+
+<TABLE>
+PROPONET NAME: DynaMotive Energy Systems Corporation	                PROJECT NUMBER: 730-452522
+
+
+============================================================================================================
+Federal                                               Estimated Eligible Costs
+Fiscal Year
+============================================================================================================
+(Ending     Direct    Direct     Subcontracts  Equipment  Overhead    Other    Sub-Total Less: non     Total
+March 31)   Labour   Materials       and                (65% of DL    Costs              supported  Eligible
+                                 Consultants            after April                       costs        Costs
+                                                         2001)
+------------------------------------------------------------------------------------------------------------
+<S>       <C>        <C>        <C>          <C>         <C>        <C>       <C>                  <C>
+1997-2001 3,642,222  328,061    1,865,215    1,313,689   379,765    405,092   7,934,044            7,934,044
+------------------------------------------------------------------------------------------------------------
+2001-2002   116,339  128,899      466,368     (111,095)   75,621     (5,808)    670,324              670,324
+------------------------------------------------------------------------------------------------------------
+2002-2003   538,112   71,049      272,050      546,161   349,772   (157,553)  1,619,591            1,619,591
+------------------------------------------------------------------------------------------------------------
+2003-2004   410,360   36,219      103,840    2,091,432   266,737     27,155   2,935,743            2,935,743
+------------------------------------------------------------------------------------------------------------
+2004-2005   787,349   64,348    1,498,699    5,398,052   511,776     14,043   8,274,267            8,274,267
+------------------------------------------------------------------------------------------------------------
+2005-2006   214,991    1,200      497,131    3,837,317   139,744      5,000   4,695,383 3,870,446    824,937
+------------------------------------------------------------------------------------------------------------
+Total     5,709,373  629,776    4,703,303   13,075,556 1,723,415    287,929  26,129,352 3,870,446 22,258,906
+============================================================================================================
+</TABLE>
+
+The above cost breakdown includes all estimated direct costs and associated
+overhead costs for the Project as at August 25, 2004 to claim 26. For claim
+purposes, these costs will be determined in accordance with the Costing
+Memorandum (Schedule B of original Agreement). All claims for the period
+after April 1st, 2001 will use the overhead proxy method, calculated at 65%
+of the salaries and wages of employees directly engaged in the Project, as
+defined in the Canada Customs and Revenue Agency policy on Scientific
+Research and Development.
+
+<PAGE>
+                                                   ANNEX A
+
+                                 FORM E 1 -   PROJECT LOCATION AND COSTS
+
+
+<TABLE>
+<CAPTION>
+PROPONET NAME: DynaMotive Energy Systems Corporation       	         PROJECT NUMBER: 730-452522
+
+======================================================================================================
+Project Location         Start Period           Work Performed                      Costs
+======================================================================================================
+<S>                      <C>                    <C>                                 <C>
+Canada                   FY 1997 Q1             BioTherm Development                22,258,906
+------------------------------------------------------------------------------------------------------
+Total                                                                               22,258,906
+======================================================================================================
+
+
+Note: Government fiscal year runs April 1 - March 31. Q1 refers to April 1 - June 30.
+
+</TABLE>
+
+
+<PAGE>
+                                                   ANNEX A
+
+                                     FORM E-2 - EQUIPMENT COST BREAKDOWN
+
+<TABLE>
+<CAPTION>
+
+PROPONET NAME: DynaMotive Energy Systems Corporation	              PROJECT NUMBER: 730-452522
+
+============================================================================================================
+Equipment Description                    Planned Acquisition     Estimated Costs   Less: Non-   Total
+                                         Period                                    Supported
+                                         (Fiscal Year and                          Costs
+                                         Quarter)                ($)               ($)          ($)
+============================================================================================================
+<S>                                      <C>                     <C>               <C>          <C>
+1.  	2 & 10 tpd BioTherm pilot plant      FY 1997 Q1 to 2002 Q3    1,202,594                      1,202,594
+    equipment
+2.  	Canadian industrial demo plant       FY 2002 Q3 to 2005 Q1   11,777,962         3,086,977    8,690,985
+    (200 tpd)
+3.  Derivative product testing equipment FY 2003 Q3 to 2005 Q1       95,000            76,158       18,842
+------------------------------------------------------------------------------------------------------------
+Total                                                            13,075,556         3,163,135    9,912,421
+============================================================================================================
+</TABLE>
+
+Note:
+
+1)Government fiscal year runs April 1 - March 31. Q1 refers to April 1 -
+June 30.
+
+
+<PAGE>
+                                                   ANNEX A
+
+                                     FORM E-3 - MATERIALS COST BREAKDOWN
+
+<TABLE>
+<CAPTION>
+
+PROPONET NAME: DynaMotive Energy Systems Corporation                     PROJECT NUMBER: 730-452522
+
+============================================================================================================
+Materials Description               Planned Acquisition Period  Estimated       Less: Non-       Total
+                                    (Fiscal Year and Quarter)   Costs           Supported
+                                                                ($)            ($)               ($)
+============================================================================================================
+<S>                                <C>                          <C>             <C>             <C>
+1. BioTherm Operations 2 & 10 tpd   FY 1998 Q1 to FY 2004 Q4    391,515                         391,515
+2. BioOil & Char testing            FY 2001 Q1 to FY 2003 Q3     86,658                          86,658
+3. Derivative products              FY 2001 Q3 to FY 2005 Q1    145,169         24              145,145
+4. Canadian industrial demo plant   FY 2002 Q1 to FY 2005 Q1      6,433         965               5,468
+   (200 tpd)
+------------------------------------------------------------------------------------------------------------
+Total                                                          $629,776        $989          $1,287,530
+============================================================================================================
+</TABLE>
+
+
+Note: Government fiscal year runs April 1 - March 31. Q1 refers to April 1 -
+ June 30.
+
+<Page>
+                                                    ANNEX A
+
+                                    FORM E-4 - SUB-CONTRACT COST BREAKDOWN
+
+<TABLE>
+<CAPTION>
+
+PROPONET NAME: DynaMotive Energy Systems Corporation                            PROJECT NUMBER: 730-452522
+
+===========================================================================================================
+     Sub-contracts              Anticipated            Planned Period    Estimated    Less: Non-   Total
+                                Contractor(s)         (Fiscal Year and   Costs        Supported
+                                (non-exhaustive)       Quarter)          ($)          ($)          ($)
+===========================================================================================================
+<S>                              <C>                   <C>              <C>          <C>           <C>
+1. Pilot plant 2 & 10 tpd        Megatherm, Tecna,     Q1-1997 to Q3-     971,144                    971,144
+                                 S&W                   2002
+2. Research & development        UBC, BCRI, RTI,       Q1-1997 to Q1-   1,900,158      9,866       1,890,292
+                                 U.SASK                2005
+3. Canadian industrial demo      UMA, Harper, Ramsey   Q1-2002 to Q1    1,832,001    399,923       1,432,078
+   plant sub-contracts  (200     Tecna                 2005
+   tpd)
+------------------------------------------------------------------------------------------------------------
+Total                                                                   4,703,303    409,789       4,293,514
+============================================================================================================
+</TABLE>
+
+Note:
+
+Government fiscal year runs April 1 - March 31. Q1 refers to April 1 -
+June 30.
+
+Subcontract costs are technical in nature and incurred in Canada except where
+expertise is unavailable.
+
+<PAGE>
+                                                  ANNEX A
+
+                                     FORM E-5 - OTHER COSTS BREAKDOWN
+
+<TABLE>
+<CAPTION>
+
+PROPONET NAME: DynaMotive Energy Systems Corporation	                           PROJECT NUMBER: 730-452522
+
+=========================================================================================================
+Other Costs                                         Start Period        Estimated   Less: Non-   Total
+                                                   (Fiscal Year and     Costs       Supported
+                                                    Quarter)            ($)         ($)          ($)
+=========================================================================================================
+<S>                                                <C>                  <C>         <C>          <C>
+Pilot plant operation (2 & 10 tpd)                 Q1-1997 to Q3-       208,547     -            208,547
+                                                   2002
+
+Product development and research related           Q1-1997 to Q3         96,864     99            96,765
+travel costs                                       2003
+
+Patents and Intellectual Properties                Q1-1997 to Q3-        94,470     -             94,470
+protection costs                                   2003
+
+Canadian industrial demo plant related             Q1 2002 to Q1-       (111,952)   4,022       (115,974)
+travel costs (200 tpd)                             2005
+---------------------------------------------------------------------------------------------------------
+Total                                                                    287,929    4,121        283,808
+=========================================================================================================
+</TABLE>
+
+Note: Government fiscal year runs April 1 - March 31. Q1 refers to April 1
+- June 30.
+
+<PAGE>
+
+                               FORM TPC - 1
+
+           REPORT ON ESTIMATED & ACTUAL REPAYMENTS TO THE MINISTER
+
+PROPONENT:  DynaMotive Energy Systems Corporation
+
+PROJECT NO.:  731-452522
+<TABLE>
+<CAPTION>
+
+==============================================================================
+ 1          2                           3                              4
+------------------------------------------------------------------------------
+YEAR        ESTIMATED PAYMENT           ACTUAL PAYMENT               DUE DATE
+ENDING      (in $000)                   (in $000)                   (April 30)
+(Dec.31)
+------------------------------------------------------------------------------
+ <S>       <C>                                                         <C>
+ 2005      26                                                          2006
+------------------------------------------------------------------------------
+ 2006      82                                                          2007
+------------------------------------------------------------------------------
+ 2007      303                                                         2008
+------------------------------------------------------------------------------
+ 2008      801                                                         2009
+------------------------------------------------------------------------------
+ 2009      1,688                                                       2010
+------------------------------------------------------------------------------
+ 2010      2,583                                                       2011
+------------------------------------------------------------------------------
+ 2011      3,527                                                       2012
+------------------------------------------------------------------------------
+ 2012      4,411                                                       2013
+------------------------------------------------------------------------------
+ 2013      2,579                                                       2014
+------------------------------------------------------------------------------
+ 2014       0.0                                                        2015
+------------------------------------------------------------------------------
+Total     16,000
+==============================================================================
+</TABLE>
+
+
+SIGNATURE OF AUTHORIZED OFFICER:
+                                  -----------------------------------------
+
+REPORT DATE: August 25, 2004
+
+The Proponent certifies that the initial repayment projections provided
+at the time of the Agreement, and as may be revised from time to time per the
+requirements of Schedule 5, represent reasonable estimates of the repayments
+that the Minister can expect from this Project, as they could be determined
+at any particular time.  The Minister recognizes that those estimates may
+vary through time, due to factors over which the Proponent has little or no
+control.
+
+<PAGE>
+                                     FORM TPC - 2
+
+                      REPORT ON JOB CREATION AND MAINTENANCE
+
+PROPONENT:  DynaMotive Energy Systems Corporation
+
+PROJECT NO.:  731-452522
+
+GENERAL INSTRUCTIONS
+
+The intent of this schedule is to identify the number of PYs expended on
+Project related activities during any one year of the duration of the
+Agreement, according to category of employment. Both part-time and full-time
+employees should be claimed, as employment of all types represents a Project
+benefit. Part-time work should be converted into PY units on the basis
+normally used by the Proponent provided it is between 1800 and 2000 hours of
+work paid in a given year.
+
+1. Data is to be provided based on a 52 week calendar year and should be
+expressed in PY units.
+
+2. Direct PYs are to be counted.  The term "direct PY" relates to the work
+performed in Canada by employees of the proponent.  Only those direct PYs
+which result from the project are to be counted.  Work performed outside of
+Canada by Canadian employees is not to be included except for eligible
+activities performed as part of the Statement of Work during the Work
+Phase. Reported PYs may be performed by existing staff or by new hires.
+These PYs are normally located in the Proponent's facility and involve an
+eligible operation or activity supported by the industrial assistance
+program.  During the Benefits Phase, these PYs normally pertain to
+production/distribution activities associated with the supported facility,
+product or processes of the proponent.
+
+3. Indirect PYs refer to work performed in Canada as a result of the project
+by employees who are not employed by the Proponent, and normally at a
+location other than the Proponent's facility.  Apart from the following two
+exceptions, indirect PYs are never to be included in the PY count:
+
+ (1)  Sub-contracted PYs in the Work phase of R&D/innovation projects are
+included in the PY count, provided that the related activity is explicitly
+set out in the Statement of Work in the Contribution Agreement.
+
+ (2)  Benefit phase production PYs of related entities to the Proponent are
+included in the PY count, provided that the Contribution Agreement
+explicitly includes PY reporting requirements on the parties concerned and
+provides the Minister access to the related facilities for monitoring
+purposes.
+
+4. Reporting during the Work phase requires a yearly breakdown by category of
+employment.  Reporting during the Benefits phase requires the average
+number of PYs during this phase by category of employment.
+
+<PAGE>
+<TABLE>
+<CAPTION>
+==============================================================================
+PART 1 : WORK PHASE - Data compiled as of : August 25, 2004
+------------------------------------------------------------------------------
+CATEGORY OF EMPLOYMENT                          TOTAL NUMBER OF PERSON YEARS
+                                                 ESTIMATE       ACTUAL
+------------------------------------------------------------------------------
+<S>                                               <C>           <C>
+A]   KNOWLEDGE-BASED     Yr 1 ending 12/31/2000    9             7
+     (SCIENCE,           Yr 2 ending 12/31/2001   17            17
+     ENGINEERING &       Yr 3 ending 12/31/2002   10            10
+     TECHNICAL)          Yr 4 ending 12/31/2003    6             6
+                         Yr 5 ending 12/31/2004    8
+------------------------------------------------------------------------------
+B]   MANAGEMENT &        Yr 1 ending 12/31/2000    6             6
+     ADMINISTRATION      Yr 2 ending 12/31/2001    8             8
+                         Yr 3 ending 12/31/2002    7             7
+                         Yr 4 ending 12/31/2003    8             6
+                         Yr 5 ending 12/31/2004   10
+------------------------------------------------------------------------------
+C]   SUB-CONTRACTED      Yr 1 ending 12/31/2000    4             4
+     WORK                Yr 2 ending 12/31/2001    9             9
+                         Yr 3 ending 12/31/2002    3             3
+                         Yr 4 ending 12/31/2003    4             3
+                         Yr 5 ending 12/31/2004    3
+------------------------------------------------------------------------------
+     TOTAL               Yr 1 ending 12/31/2000    19           17
+                         Yr 2 ending 12/31/2001    34           34
+                         Yr 3 ending 12/31/2002    20           20
+                         Yr 4 ending 12/31/2003    18           15
+                         Yr 5 ending 12/31/2004    21
+==============================================================================
+PART 2 - BENEFIT PHASE - Data compiled as of : August 25, 2004
+------------------------------------------------------------------------------
+CATEGORY OF EMPLOYMENT                          TOTAL NUMBER OF PERSON YEARS
+                                                 ESTIMATE       ACTUAL
+------------------------------------------------------------------------------
+<S>                                               <C>           <C>
+A]     KNOWLEDGE-BASED                            23
+       (SCIENCE, ENGINEERING & TECHNICAL)
+------------------------------------------------------------------------------
+B]     GENERAL PRODUCTION
+------------------------------------------------------------------------------
+C]     MANAGEMENT, ADMINISTRATION, MARKETING,     29
+       SALES & SUPPORT
+------------------------------------------------------------------------------
+       TOTAL                                      52
+==============================================================================
+</TABLE>
+SIGNATURE OF AUTHORIZED OFFICER:
+                                 ---------------------------------------
+
+REPORT DATE: August 25, 2004
+
+The Proponent certifies that the initial employment projections presented at
+the time of the Agreement, and as may be revised from time to time per the
+requirements of Schedule 5, represent reasonable estimates of the employment
+benefits that the Minister can expect from this Project, as they could be
+determined at any particular time.  The Minister recognizes that those
+estimates may vary through time, due to factors over which the Proponent has
+little or no control.
+
+<PAGE>
+                                  FORM TPC - 3
+
+             REPORT ON OTHER REPRESENTATIONS & EXPECTED RESULTS
+
+PROPONENT: DynaMotive Energy Systems Corporation
+
+PROJECT NO.: 731-452522
+
+Other representations and expected results include:
+
+PATENTS: [are there any patents that are expected to result from the
+development work of the Project]
+
+ACQUISITION OF TECHNOLOGY: [is the Proponent planning to acquire intellectual
+property rights, technology, or know-how essential to the success of the
+Project]
+
+CORPORATE MANDATES: [specify any new or enhanced mandates expected]
+
+OTHER SIGNIFICANT REPRESENTATIONS/EXPECTED RESULTS:  [strategic alliances or
+partnerships, new applications of technology, technology diffusion, etc.]
+
+<TABLE>
+<CAPTION>
+==============================================================================
+DESCRIPTION OF EXPECTED RESULT/        PLANNED /            STATUS / ACTUAL
+REPRESENTATION                         REVISED  DATE        DATE
+------------------------------------------------------------------------------
+<S>                                   <C>                  <C>
+1. New patents are being              Q3 2004
+developed to protect knowledge
+gained from the R&D activities
+and pilot plant operation
+
+2. The Company acquired worldwide                           February 2000
+rights to its core BioTherm,
+BioOil production technology
+
+3. The Company's immediate focus                            Q3/99
+is commercialization of its
+pyrolysis technology instead of
+derivative products from the
+BioOil.
+
+4. The Company intends to expand      Q2 2004 - Q1 2005     Q1/2000; Q1/2001
+its partnership based with energy
+and forestry companies, diesel
+engine manufacturing and char and
+activated carbon processors.
+==============================================================================
+</TABLE>
+SIGNATURE OF AUTHORIZED OFFICER:
+                                 ------------------------------------------
+
+REPORT DATE: August 25, 2004
+
+The Proponent certifies that the initial projections presented at the time of
+the Agreement, and as may be revised from time to time per the requirements
+of Schedule 5, represent reasonable estimates of the benefits that the
+Minister can expect from this Project, as they could be determined at any
+particular time.  The Minister recognizes that those estimates may vary
+through time, due to factors over which the Proponent has little or no
+control.
+
+<PAGE>
+                                  FORM TPC - 4
+
+                         REPORT ON INVESTMENT LEVERAGE
+
+PROPONENT:  DynaMotive Energy Systems Corporation
+
+PROJECT NO.:  731-452522
+
+This form estimates all costs incurred in Canada and investment that may be
+leveraged by TPC funds.  These include:
+
+ELIGIBLE SUPPORTED COSTS:  Those costs incurred by the Proponent and towards
+which TPC provides financial support.
+
+OTHER PROJECT RELATED COSTS (INCLUDING POST WORK PHASE INVESTMENT): Other non-
+recurring costs incurred in Canada that are directly related to the project.
+This would include items such as cost overruns but would not include costs
+prior to the date indicated in Article 4.2. For example, a project may include
+capital costs (for land and building) that are not eligible for TPC support,
+but which the company will incur directly related to the project.
+
+Post work phase investment refers to any additional non-recurring, post work
+phase, project related investment in Canada by the Proponent (e.g.
+non-recurring related to production facilities, marketing and distribution
+activities, etc...). For example, a company may have to build new production
+lines, or create a new marketing team, or establish a new distribution
+line/network for the resulting product/technology.
+
+OTHER INVESTMENT:  Other investment unrelated to the specific project but
+included in the contractual commitments made by the Proponent. For example, a
+company may commit to construction of a building as a condition of receiving a
+TPC investment, although the building is not directly part of the project.
+<TABLE>
+<CAPTION>
+==============================================================================
+ESTIMATES ($ 000)                            ACTUAL ($ 000)
+------------------------------------------------------------------------------
+(1) Year   (2) Eligible (3)Other  (4)Other    (1)         (2)      (3)
+Ending     Supported    Project   Investment  Eligible   Other      Other
+Mar. 31)   Costs        Related               Supported Project     Investment
+------------------------------------------------------------------------------
+<S>         <C>                               <C>
+1997-2001   7,934                             7,934
+------------------------------------------------------------------------------
+2001/2002     670                               670
+------------------------------------------------------------------------------
+2002/2003   1,620                             1,620
+------------------------------------------------------------------------------
+2003/2004   2,936                             2,936
+------------------------------------------------------------------------------
+2004/2005   8,274
+------------------------------------------------------------------------------
+2005/2006     825        3,870
+==============================================================================
+</TABLE>
+
+<PAGE>
+SIGNATURE OF AUTHORIZED OFFICER:
+                                 ------------------------------------
+
+REPORT DATE: August 25, 2004
+
+The Proponent certifies that the initial projections presented at the time
+of the Agreement, and as may be revised from time to time per the
+requirements of Schedule 5, represent reasonable estimates of the benefits
+that the Minister can expect from this Project, as they could be determined
+at any particular time.  The Minister recognizes that those estimates may
+vary through time, due to factors over which the Proponent has little or
+no control.
+
+
+<PAGE>
+                                FORM TPC - 5
+
+                REPORT ON SUSTAINABLE DEVELOPMENT BENEFITS
+
+PROPONENT: DynaMotive Energy Systems Corporation
+
+PROJECT NO.: 730-452552
+
+On a full life cycle basis (from design through manufacture/ operation and
+decommissioning or disposal/recycling), the technologies that are to be
+developed during the course of the R&D project are expected to provided the
+following downstream Sustainable Development benefits (over existing
+industrial practices) as they are incorporated in the commercial activities of
+the firm.
+
+<TABLE>
+<CAPTION>
+============================================================================
+Benefits                                  Significant  Moderate   Minor/
+                                                                  None
+============================================================================
+<S>                                       <C>          <C>        <C>
+Reduced energy consumption (i.e.                       X
+efficiency of use) or increase energy
+production through sustainable means
+(i.e., efficiency of generation)
+----------------------------------------------------------------------------
+Increased supply of energy from           X
+renewable sources
+----------------------------------------------------------------------------
+Reduced water consumption or increased                             X
+supply of clean water
+----------------------------------------------------------------------------
+Reduced consumption of raw material or                             X
+manufactured materials (reduce material
+intensity)
+----------------------------------------------------------------------------
+Reduced production and/or release of      X
+pollutant species of any kind to the
+atmosphere
+----------------------------------------------------------------------------
+Reduced production and/or release of                               X
+pollutant species of any kind to
+receiving waters
+----------------------------------------------------------------------------
+Reduced production and/or disposal of     X
+solid wastes to the land
+----------------------------------------------------------------------------
+Reduced usage and/or production and/or                             X
+disposal of hazardous toxic substances
+----------------------------------------------------------------------------
+Remediation or rehabilitation of                                   X
+contaminated land or water
+============================================================================
+</TABLE>
+
+SIGNATURE OF AUTHORIZED OFFICER:
+                                  ----------------------------------------
+
+REPORT DATE: August 25, 2004
+
+
+</TEXT>
+</DOCUMENT>

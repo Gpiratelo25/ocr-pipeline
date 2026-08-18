@@ -1,0 +1,265 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>6
+<FILENAME>ex10qui.txt
+<DESCRIPTION>EXHIBIT 10.14(A)H
+<TEXT>
+[CONFIDENTIAL TREATMENT REQUESTED.  CONFIDENTIAL PORTIONS OF THIS DOCUMENT
+HAVE BEEN REDACTED AND HAVE BEEN SEPARATELY FILED WITH THE COMMISSION]
+
+
+                              FIRST AMENDMENT TO
+                            PRODUCT SUPPLY AGREEMENT
+
+     THIS FIRST AMENDMENT TO PRODUCT SUPPLY AGREEMENT (this "AMENDMENT") is
+made and entered into as of March 15, 1999, by and between QUIDEL
+CORPORATION, a Delaware corporation having a place of business at 10165
+McKellar Court, San Diego, California 92121 ("QUIDEL"), and HESKA
+CORPORATION, a Colorado corporation having a place of business at 1825
+Sharp Point Drive, Fort Collins, Colorado 80525 ("HESKA").
+
+                                    RECITALS
+
+     A.   QUIDEL and HESKA entered into that certain Product Supply Agreement
+dated July 3, 1997 (the "SUPPLY AGREEMENT").
+
+     B.   QUIDEL and HESKA desire to amend the Supply Agreement to make more
+clear certain mutual indemnification obligations of the parties as provided
+herein.
+
+     NOW, THEREFORE, in consideration of the premises and other good and
+valuable consideration, the receipt and sufficiency of which are hereby
+acknowledged, the parties hereto agree as follows:
+
+     1.   Section 12 of the Supply Agreement is hereby deleted in its entirety
+and replaced with the following:
+
+     12.1 QUIDEL Indemnity.  QUIDEL will defend, indemnify and save wholly
+harmless HESKA, its Affiliates, and their respective successors, assigns and
+customers, from and against any and all losses, damages, costs and expenses,
+including without limitation the actual reasonable legal fees, disbursements,
+investigation costs, other out-of-pocket expenses, settlements, payment of any
+third party royalties that may be due, and damages finally awarded in any claim,
+suit or cause of action (collectively, "LOSSES"), arising out of or in any way
+related to (a) any demand, claim, suit or cause of action (each a "CLAIM")
+alleging that any Products furnished and used as provided in this Agreement
+infringe a patent, trade secret or other intellectual property or proprietary
+right of any third party (unless and to the extent such a Claim alleges that any
+biological or other materials or technology supplied by HESKA infringes or
+violates any patent, trade secret or other intellectual property or proprietary
+right of any third part); (b) a beach of or default by QUIDEL of any of its
+representations, warranties, covenants or obligations contained in this
+Agreement with HESKA, including without limitation export and governmental
+requirements; (c) any actions taken by QUIDEL or its employees or agents in
+marketing any Products; or (d) any other act or omission of QUIDEL, its agents
+or employees taken or omitted in connection with the subject matter of this
+Agreement or any other written agreement with HESKA.
+
+     12.2 HESKA Indemnity.  HESKA will defend, indemnify and save wholly
+harmless QUIDEL, its Affiliates, and their respective successors, assigns
+and customers, from and against any and all Losses arising out of or in any
+way related to (a) any Claim alleging that any biological or other materials
+or technology supplied by HESKA infringes or violates any patent, trade
+secret or other intellectual property or proprietary right of any third
+party; (b) a breach of or default by HESKA of any of its representations,
+warranties, covenants or obligations contained in this Agreement with QUIDEL,
+including without limitation export and governmental requirements; (c) any
+actions taken by HESKA or its employees or agents in marketing any Products;
+or (d) any other act or omission of HESKA, its agents or employees taken or
+omitted in connection with the subject matter of this Agreement or any other
+written agreement with QUIDEL.  Without limiting the foregoing, HESKA
+acknowledges and agrees that its indemnification obligations under this
+Section 12.2 shall apply to any and all Claims by SYNBIOTICS CORPORATION
+("SYNBIOTICS"), alleging that any Product infringes or violates any patent,
+trade secret or other intellectual property or proprietary right owned
+or licensed by Synbiotics if and to the extent that such Claim arises out of or
+is related to biological or other materials or technology supplied by HESKA (a
+"SYNBIOTICS CLAIM").
+
+     12.3 Indemnification Procedures.  In the event that a Claim is filed by a
+third party against a party hereto (the "INDEMNIFIED PARTY"), its Affiliates or
+any of its customers, the Indemnified Party will notify the other party hereto
+(the "INDEMNIFYING PARTY") in writing within five (5) business days of being
+advised of the filing of such Claim.  Within five (5) business days of being
+advised of the filing of such Claim, the Indemnifying Party will elect whether
+to defend the Claim itself or to transfer the defense to the Indemnified Party,
+and will notify the Indemnified Party in writing of its election.  The
+Indemnifying Party will have the primary responsibility, at its cost and
+expense, to defend the Indemnified Party and its Affiliates, assigns,
+successors and customers against such Claim.  If the Indemnifying Party elects
+to defend the Claim itself, then (a) the Indemnified Party may be represented
+by advisory counsel selected by the Indemnified Party, at the Indemnified
+Party's cost and expense (including, without limitation, actual reasonable
+legal fees and disbursements); (b) the Indemnified Party will provide all
+reasonable assistance requested by the Indemnifying Party for the defense of
+the Claim; and (c) all decisions regarding the settlement thereof will made by
+the Indemnifying Party with the Indemnified Party's written consent, which
+consent shall not by unreasonably withheld.  Notwithstanding the foregoing,
+the Indemnifying Party shall also reimburse the Indemnified Party for the
+actual reasonable legal fees and disbursements of the Indemnified Party's
+advisory counsel, if any, in the event that the Claim against the Indemnified
+Party, its Affiliates or any of its customers is neither settled nor defeated
+in litigation or arbitration.  If the Indemnifying Party elects not to defend
+the Claim itself, then (i) the Indemnified Party may undertake its own defense
+or the defense of any of its Affiliates and customers, as the case may be:
+(ii) the Indemnifying Party will provide all reasonable assistance requested
+by the Indemnified Party for the defense of such Claim; (iii) all decisions
+regarding any such defense and settlement will be at the sole discretion of
+the Indemnified Party; (iv) the Indemnifying Party will reimburse the
+Indemnified Party, within thirty calendar (30) days of the Indemnified
+Party's written notification thereof, for any and all costs, actual
+reasonable legal fees, disbursements and out-of-pocket expenses incurred by
+the Indemnified Party in connection with such defense; and (v) the
+Indemnifying Party will be liable in any judgment for damages levied against
+the Indemnified Party or any of its Affiliates, assigns, successors and
+customers, and the Indemnifying Party will be liable for any royalties,
+fees and/or costs incurred by the Indemnified Party or any of its
+Affiliates, assigns, successors, and customers as a result of any
+settlement of such Claim.
+
+     The parties hereby acknowledge that QUIDEL has been advised
+of a Synbiotics Claim and has timely notified HESKA thereof, and that
+HESKA has elected to defend such Synbiotics Claim itself, all in
+accordance with and pursuant to the provisions of this Section 12.3.
+
+     2.   Capitalized terms not otherwise defined herein shall have the
+meanings ascribed to them in the Supply Agreement.
+
+     3.   Except as specifically amended herein, the terms of the Supply
+Agreement remain unmodified and in full force and effect.  In the event of
+a conflict between the terms of the Supply Agreement and this Amendment,
+this Amendment will control.
+
+     4.   This Amendment may be executed in any number of counterparts with
+the same effect as if all parties hereto had signed the same document.  All
+counterparts will be construed together and will constitute one instrument.
+
+     IN WITNESS WHEREOF, the parties have executed this Amendment as of the
+date first above written.
+
+QUIDEL CORPORATION                       HESKA CORPORATION
+
+
+By:  /S/                                 By:  /S/  Paul Hudnut
+Its:  President and Chief Executive      Its:  Executive Vice
+      Officer                                  President
+
+
+
+AMENDMENT NO. 1 TO PRODUCT SUPPLY AGREEMENT
+
+
+
+     THIS AMENDMENT AGREEMENT is entered into effective as of November 17, 1997
+by and between Quidel Corporation ("Quidel") and Heska Corporation ("Heska").
+
+     WHEREAS, Quidel and Heska entered into that certain Product Supply
+Agreement effective as of July 3, 1997 (the "Agreement"); and
+
+     WHEREAS, the parties desire to amend the Agreement with respect to the
+specifications for the Feline Heartworm Antibody Test Kit and the Canine
+Heartworm Antigen Test Kit;
+
+     NOW THEREFORE, in consideration of the foregoing, the parties agree as
+follows:
+
+     1.   Amendment to Exhibits B-1 and B-2.  Exhibits B-1 and B-2 to the
+          Agreement are hereby amended by deleting said Exhibits in their
+          entirety and substituting Exhibits B-1-2 and B-2-2 to this
+          Amendment Agreement therefor.
+
+     2    No Other Changes.  Except for the changes expressly made by this
+          Amendment Agreement, the Agreement remains in full force and
+          effect without change.
+
+      IN WITNESS WHEREOF, the parties have executed this Amendment Agreement
+as of the date first written above.
+
+QUIDEL CORPORATION                  HESKA CORPORATION
+
+
+By: /S/                             By:   /S/
+Name:  John D. Tamerius             Name: Fred M. Schwarzer
+Title: Vice President               Title: President
+
+
+
+                                  EXHIBIT B-1-2
+              Specifications for Feline Heartworm Antibody Test Kit
+
+                        NEW PRODUCT DESIGN SPECIFICATIONS
+                       Feline Heartworm Antibody Test Kit
+
+                         HESKA/QUIDEL TEST
+      SPECIFICATION                       SPECIFICATION
+--------------------             ---------------------------------
+1.   MARKET/SEGMENT                          In-clinic
+2.   FORMAT                                   One-step
+3.   TECHNOLOGY                   Lateral flow antibody detection
+4.   TYPE OF SPECIMEN            [ *** ]  anticoagulated whole blood,
+                                        serum or plasma, cat
+5.   STORAGE OF SPECIMEN         Uncoagulated whole blood fresh or
+                                 stored at 2-7C [*** ]
+                                 [          ***                  ]
+6.   [ *** ]                     [          ***                  ]
+7.   [ *** ]                     [          ***                  ]
+8.   [ *** ]                     [          ***                  ]
+9.   [ *** ]                     [          ***                  ]
+10.  [ *** ]                     [          ***                  ]
+11.  END OF TEST INDICATOR                       No
+12.  [ *** ]                     [          ***                  ]
+13.  [ *** ]                     [          ***                  ]
+14.  [ *** ]                     [          ***                  ]
+15.  TOTAL ASSAY TIME                      5 min or less
+       (RUN TIME)
+16.  [ *** ]                     [          ***                  ]
+17.  [ *** ]                     [          ***                  ]
+18.  [ *** ]                     [          ***                  ]
+19.  [ *** ]                     [          ***                  ]
+20.  KIT SIZE                                25, 10 and 1
+21.  [ *** ]                     [          ***                  ]
+
+
+*** Confidential Treatment Requested
+
+
+                                  EXHIBIT B-2-2
+              Specifications for Canine Heartworm Antigen Test Kit
+
+                        NEW PRODUCT DESIGN SPECIFICATIONS
+                        Canine Heartworm Antigen Test Kit
+
+                  HESKA/QUIDEL TEST
+    SPECIFICATION                 SPECIFICATION
+----------------------       --------------------------
+1.   MARKET/SEGMENT                 In-clinic
+2.   FORMAT                          One-step
+3.   TECHNOLOGY           Lateral flow antigen detection
+4.   TYPE OF SPECIMEN    [*** ] anticoagulated whole blood,
+                                 serum or plasma
+5.   STORAGE OF           Uncoagulated whole blood fresh
+       SPECIMEN            or stored at 2-7C [ ***]
+                                [          ***                  ]
+6.  [ *** ]                     [          ***                  ]
+7.  [ *** ]                     [          ***                  ]
+8.  [ *** ]                     [          ***                  ]
+9.  [ *** ]                     [          ***                  ]
+10. [ *** ]                     [          ***                  ]
+11. END OF TEST                      No
+      INDICATOR
+12. [ *** ]                     [          ***                  ]
+13. [ *** ]                     [          ***                  ]
+14. [ *** ]                     [          ***                  ]
+15. TOTAL ASSAY TIME           5 min or less
+       (RUN TIME)
+16. [ *** ]                     [          ***                  ]
+17. [ *** ]                     [          ***                  ]
+18. [ *** ]                     [          ***                  ]
+19. [ *** ]                     [          ***                  ]
+20. KIT SIZE                    25, 10 and 1
+21. [ *** ]                     [          ***                  ]
+
+*** Confidential Treatment Requested
+
+</TEXT>
+</DOCUMENT>

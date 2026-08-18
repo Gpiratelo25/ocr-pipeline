@@ -1,0 +1,160 @@
+<DOCUMENT>
+<TYPE>EX-10.52
+<SEQUENCE>4
+<FILENAME>a89304exv10w52.txt
+<DESCRIPTION>EXHIBIT 10.52
+<TEXT>
+<PAGE>
+                                                                   Exhibit 10.52
+
+                               AMENDMENT NO. 4 TO
+                                    AGREEMENT
+
+         This Amendment No. 4 ("AMENDMENT NO. 4") is entered effective March 5,
+2003 (the "AMENDMENT EFFECTIVE DATE") pursuant to and amending that certain
+Agreement between Gen-Probe Incorporated, a Delaware corporation ("GEN-PROBE")
+and Chiron Corporation, a Delaware corporation ("CHIRON"). Capitalized terms
+used but not defined herein shall have the meanings set forth in the Agreement.
+
+
+                                    Recitals
+
+         A. The parties entered into the Agreement as of June 11, 1998 pursuant
+to which, among other things, the parties described their respective rights and
+obligations with respect to the development, manufacture, marketing and
+distribution of Products in the Blood Screening and Clinical Diagnostic Fields.
+The Agreement was amended by the following: (i) June 11, 1998 Collaboration
+Agreement, (ii) June 11, 1998 Supplemental letter agreement, (iii) June 26, 1998
+Addendum to Collaboration Agreement, (iv) June 30, 1998 Supplemental letter
+agreement, (v) June 30, 1998 Consent, (vi) December 1, 1998 letter agreement re
+American Red Cross revenues, (vii) December 7, 1999 Amendment, (viii) February
+1, 2000 Second Amendment, (ix) June 7, 2001 Supplemental Agreement No. 1
+(Customer training and Support), (x) October 30, 2001 Confidentiality and Joint
+Interest Agreement, (xi) April 4, 2001 Agreement re Arbitration and (xii) April
+1, 2002 Amendment No. 3 (warehousing and shipping). In addition, the parties
+submitted a number of disputes under the Agreement to arbitration pursuant to
+Section 13 of the Agreement, and in resolution of those disputes, executed a
+Definitive Written Settlement Agreement, dated December 5, 2001, and a Short
+Form Agreement, dated November 16, 2001.
+
+         B. The parties have previously revised Article 14 of the Agreement,
+memorialized in that certain December 7, 1999 Amendment. The parties have
+discussed a further revision to and clarification of their respective rights and
+obligations with respect to Article 14, and have agreed to make certain
+additional changes to the Agreement in connection therewith, in accordance with
+the provisions of this Amendment No. 4.
+
+                                    Agreement
+
+         NOW, THEREFORE, for and in consideration of the mutual covenants and
+agreements set forth in this Amendment No. 4, the parties agree as follows:
+
+         1. ULTRIO ON TIGRIS. Article 14 of the Agreement shall be and is hereby
+amended to read as follows:
+
+         "In consideration for the rights originally granted to Chiron by this
+Agreement with respect to TMA and HPA, Chiron shall pay to Gen-Probe, or shall
+cause Bayer Corporation to pay to Gen-Probe, the following nonrefundable amounts
+upon the occurrence of each event set forth below:
+
+         (1)      ten million dollars ($10,000,000) upon the Effective Date; and
+
+
+
+                                       1
+<PAGE>
+
+
+         (2)      eight and one-half million dollars ($8,500,000) upon the first
+         to occur of the following:
+
+                  (a)(i) Gen Probe certifies to Chiron that Gen-Probe has
+                  completed manufacture of a Lot of the Initial Blood Screening
+                  Assay for the qualitative detection of both HCV and HIV-1 at
+                  Gen-Probe's Willow Court facility, which Lot is manufactured
+                  in accordance with FDA Good Manufacturing Processes and
+                  includes not less than 400,000 tests labeled for IVD
+                  distribution outside the United States; and (ii) Gen-Probe has
+                  released such tests for foreign sale; and (iii) Gen-Probe
+                  delivers to Chiron a copy of the Certificate of Analysis with
+                  respect to such Lot, in form reasonably satisfactory to
+                  Chiron, signed by Gen-Probe's quality assurance organization;
+                  or
+
+                  (b) Gen-Probe certifies to Chiron that it has successfully
+                  completed validation of the Enhanced Semi-Automated System
+                  ("ESAS") for use with the Initial Blood Screening Assay,
+                  including both instrument hardware and software, and delivers
+                  or makes available to Chiron a copy of the Validation Report
+                  with respect to both the instrument and the software, signed
+                  by Gen-Probe's quality assurance organization.
+
+         (3)      six and one-half million dollars ($6,500,000) upon the date on
+         which the following has occurred: (a) thirty (30) days has passed since
+         submission to the FDA of an Investigational New Drug application for a
+         Future Blood Screening Assay for qualitative detection of HCV, HIV-1,
+         and hepatitis B virus ("HBV"), specifying the use of such assay on the
+         Tigris Instrument in the Blood Screening Field; provided that no
+         clinical hold notice has been issued by the FDA as to such application,
+         and no agreement has been reached with the FDA to delay the clinical
+         trial, within such thirty-day period; and (b) Gen-Probe has installed a
+         Tigris Instrument pursuant to the IND referred to above, at the
+         clinical site and completed technologist training and proficiency
+         testing with a panel of specimens and control materials with respect to
+         the instrument and the Future Blood Screening Assay for the qualitative
+         detection of HCV, HIV-1, and HBV.
+
+         (4)      ten million dollars ($10,000,000) upon receipt of the required
+         marketing approval from the FDA to market the Future Blood Screening
+         Assay for the qualitative detection of HCV, HIV-1 and HBV in the United
+         States for use in Blood Screening Field on the Tigris Instrument.
+
+         2.       NO OTHER AMENDMENT. Except as is expressly set forth in this
+Amendment No. 4, all other terms and conditions of the Agreement shall continue
+in full force and effect.
+
+         3.       COUNTERPARTS. This Amendment No. 4 may be executed in
+counterparts, each of which shall be an original, and all of which together
+shall constitute one and the same instrument.
+
+
+
+
+                                       2
+<PAGE>
+
+
+
+         IN WITNESS WHEREOF, the parties have caused this Amendment No. 4 to be
+executed and the persons signing below warrant that they are duly authorized to
+sign for and on behalf of the respective parties.
+
+
+GEN-PROBE:                                 CHIRON:
+
+
+GEN-PROBE INCORPORATED,                    CHIRON CORPORATION,
+a Delaware corporation                     a Delaware corporation
+
+
+By: /s/ Henry L. Nordhoff                  By: /s/ Jack Goldstein
+    ---------------------                      ------------------
+Its:  President & Chief Executive           Its: President, Chiron Blood
+      Officer                                    Testing
+Date: March 5, 2003                        Date: March 18, 2003
+
+
+
+
+
+                                       3
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

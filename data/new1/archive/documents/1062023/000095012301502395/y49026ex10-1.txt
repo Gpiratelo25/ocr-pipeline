@@ -1,0 +1,353 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>y49026ex10-1.txt
+<DESCRIPTION>AMENDMENT TO SERVICES AND LICENSE AGREEMENT
+<TEXT>
+
+<PAGE>   1
+                                                                    EXHIBIT 10.1
+[Nasdaq Logo]
+
+Steven J. Randich
+Executive Vice President
+Chief Technology Officer
+
+                                                April  27, 2001
+Mr. Robert Warshaw
+Chief Executive Officer
+OptiMark Holdings, Inc.
+10 Exchange Place, 24th Floor
+Jersey City, NJ  07302
+
+Dear Bob:
+
+As you are well aware, The Nasdaq Stock Market, Inc. ("Nasdaq") has determined
+that a dual development track for SuperMontage (i.e. "Plan B") is no longer
+consistent with our business needs. Based on conversations between Nasdaq and
+OptiMark Holdings, Inc. ("OptiMark") that have occurred over the past month or
+so, led by Dan Moore and Hector Olmeda, respectively, we have collectively
+identified a workable alternative. This alternative provides for staff
+augmentation of Nasdaq's Multiple Parallel Architecture ("MPA") design,
+development and implementation teams with qualified OptiMark resources. We
+believe that through staff augmentation, knowledge transfer, and other technical
+assistance from OptiMark, the success of our MPA development effort will be
+enhanced.
+
+On October 2, 2000, Nasdaq and OptiMark entered into a Services and License
+Agreement (the "Agreement") that provided, in part, for Nasdaq to utilize
+OptiMark's development resources as an alternative development track for
+Nasdaq's SuperMontage system. Given the newly agreed upon work approach, we
+hereby request your agreement with respect to the following amendment to the
+Agreement, effective as of the date first set forth above, that will allow
+Nasdaq to continue utilizing OptiMark's development resources on new projects:
+
+         1.   Phases and Stages of the SuperMontage Effort. Attachment 8 and
+              Section 4 of the Agreement are deleted in their entirety and
+              replaced with the scope of services set forth in the attached Task
+              Order ("New Services"). The second sentence of Section 5.4 and the
+              last line of Section 28.1 (the reference to Attachment 8) are also
+              deleted. The Task Order may not be modified except with the prior
+              written consent of Nasdaq and OptiMark.
+
+         2.   Nasdaq Payments. Section 7 of the Agreement is deleted in its
+              entirety and replaced with the following:
+
+         (a)      Within five (5) days prior to the beginning of each month,
+                  OptiMark shall provide Nasdaq with a work plan (the "Monthly
+                  Work Plan") that sets forth the services to be performed in
+                  the upcoming month. The parties agree that the value of such
+                  services (such value to be determined on a time and materials
+                  basis pursuant to the rates listed in Attachment 2) should
+                  equal approximately $700,000 per month. Further, each Monthly
+                  Work Plan shall include the following information with respect
+                  to each OptiMark employee or subcontractor who is expected to
+                  perform work in support of any of the New Services to be
+                  provided to Nasdaq during the month: (i) name; (ii) title;
+                  (iii) rate (as listed in
+<PAGE>   2
+                  Attachment 2); (iii) number of hours expected to be worked
+                  during the month; and (iv) the New Services expected to be
+                  performed during the month. Nasdaq shall have four (4) days
+                  following its receipt of the Monthly Work Plan to notify
+                  OptiMark of any modifications it has to the Monthly Work Plan
+                  and the Monthly Work Plan shall be modified accordingly,
+                  subject to OptiMark accepting such modifications. OptiMark
+                  will provide the services pursuant to the Monthly Work Plan,
+                  as may be modified. If Nasdaq does not communicate any
+                  modifications within such four (4) day period, then the
+                  Monthly Work Plan shall be deemed acceptable to Nasdaq, such
+                  acceptance shall be subject to Nasdaq confirming to OptiMark
+                  that it received the Monthly Work Plan. OptiMark shall then
+                  provide the New Services to Nasdaq in accordance with the
+                  Monthly Work Plan, as modified.
+
+         (b)      Within five (5) days prior to the beginning of each month,
+                  OptiMark shall also provide Nasdaq with an invoice for the
+                  upcoming month (the "Invoice") in the amount of the Monthly
+                  Payment (as defined below), as such amount may be adjusted in
+                  accordance with the provisions set forth in Section 2(d)
+                  hereof. For purposes of clarification, each Invoice should
+                  reflect the amount set forth in the Nasdaq approved Monthly
+                  Work Plan with a deduction for any Carryover Value from the
+                  previous month.
+
+         (c)      Within five (5) days following the end of each month, OptiMark
+                  shall provide Nasdaq with a report (the "Monthly Report") that
+                  sets forth the following information with respect to each
+                  OptiMark employee or subcontractor who performed work in
+                  support of any of the New Services provided to Nasdaq during
+                  the month: (i) name; (ii) title; (iii) rate (as listed in
+                  Attachment 2); (iii) actual number of hours worked during the
+                  month; and (iv) the New Services performed during the month.
+
+         (d)      Subject to Nasdaq's approval of the Monthly Work Plan and its
+                  receipt of the Invoice, both for the upcoming month, and the
+                  Monthly Report for the prior month, Nasdaq shall pay OptiMark
+                  a fee as reflected in the Invoice for the New Services (the
+                  "Monthly Payment") provided through December 31, 2001;
+                  provided, however, that if the value of the New Services
+                  provided to Nasdaq in any given month (such value to be
+                  determined on a time and materials basis pursuant to the rates
+                  listed in Attachment 2) is less than the amount of the Monthly
+                  Payment remitted to OptiMark at the beginning of such month
+                  (the amount by which the Monthly Payment exceeds the value of
+                  the New Services shall be referred to herein as the "Carryover
+                  Value"), then OptiMark shall reflect the amount of such
+                  Carryover Value on the Invoice for the next succeeding month
+                  and Nasdaq shall deduct the amount of the Carryover Value from
+                  the Monthly Payment due to OptiMark for the next succeeding
+                  month. For purposes of clarification, if Nasdaq modifies the
+                  Monthly Work Plan (as permitted pursuant to Section 2(a)) such
+                  that the value of the New Services as set forth in the
+                  modified Monthly Work Plan is different than the value set
+                  forth in the Monthly Work Plan originally delivered by
+                  OptiMark, then the modified value shall be used to calculate
+                  the Carryover Value. OptiMark shall reimburse Nasdaq for any
+                  remaining
+<PAGE>   3
+                  Carryover Value that exists as of December 31, 2001. It is
+                  further agreed by the parties that if, at any time, the
+                  cumulative value of the Carryover Values exceeds $700,000,
+                  then Nasdaq shall have the right to terminate the Agreement
+                  pursuant to Section 9 hereof and OptiMark shall reimburse
+                  Nasdaq for any remaining Carryover Value that exists as of the
+                  date of termination. The Carryover Value shall not include
+                  deficiencies in time or work that are caused by Nasdaq's
+                  failure to provide information, software, and/or support
+                  associated with the Monthly Work Plan in a timely manner.
+                  OptiMark's decision to not perform work in view of the
+                  foregoing sentence shall not be made without consultation with
+                  Nasdaq.
+
+         (e)      Nasdaq will inspect an OptiMark deliverable and/or service
+                  under the Task Order to determine whether, in the reasonable
+                  opinion of Nasdaq, the deliverable and/or service is
+                  reasonably acceptable. Nasdaq will make this determination
+                  based on whether the deliverable and/or service substantially
+                  meets (a) the applicable specifications provided to OptiMark,
+                  if any; or (b) the work described in the Monthly Work Plan (as
+                  may be modified by Nasdaq).
+
+                           (i) If the deliverable and/or service is not
+                  accepted, then Nasdaq promptly will advise OptiMark in writing
+                  as to which aspect of the deliverable and/or service needs
+                  correcting. OptiMark will seek to remedy such aspect and
+                  deliver a corrected deliverable and/or service to Nasdaq on a
+                  date to be agreed to by Nasdaq and OptiMark.
+
+                           (ii) Following receipt of the corrected deliverable
+                  and/or service, Nasdaq will inspect the deliverable and/or
+                  service again. If Nasdaq does not accept the corrected
+                  deliverable and/or service, then OptiMark will issue a credit
+                  on its next Invoice to Nasdaq for the amounts paid for the
+                  deliverable and/or service. If Nasdaq accepts the corrected
+                  deliverable and/or service, then Nasdaq will pay OptiMark for
+                  the original work. Nasdaq will also pay OptiMark for remedial
+                  work performed on the deliverable to correct normal and
+                  reasonable development errors; provided, however, that the
+                  amount to be paid by Nasdaq for such remedial work shall be
+                  included as part of OptiMark's next Invoice and will be part
+                  of, rather than in addition to, the $700,000 per month Monthly
+                  Payment which the parties anticipate that Nasdaq will pay to
+                  OptiMark for the provision of New Services. As for remedial
+                  work performed on the deliverable to correct other errors,
+                  OptiMark and Nasdaq will mutually agree whether OptiMark
+                  should be paid for such remedial work. If they cannot so
+                  agree, either party may seek alternative dispute resolution
+                  pursuant to Section 25 of the Agreement to make this
+                  determination. All payments by Nasdaq under this sub-section
+                  will be made with its next Monthly Payment.
+
+         (f)      Subject to provisions set forth in Section 2(d) and in this
+                  Section 2(f), Nasdaq will make payment via wire transfer
+                  within fifteen (15) calendar days after its receipt of the
+                  Invoice. If Nasdaq reasonably disputes any item or amount set
+                  forth on the Invoice (including, without limitation, the
+                  amount of the Carryover Value), Nasdaq will pay all amounts
+                  not in dispute; provided, however, that disputed items
+<PAGE>   4
+                  and/or amounts covered in Section 2(e) will be paid as set
+                  forth in the current Invoice, subject to OptiMark and Nasdaq
+                  adjusting for amounts in dispute in a later Invoice as
+                  provided in Section 2(e). OptiMark will maintain accurate and
+                  complete records as to time spent in its performance of the
+                  New Services and will allow Nasdaq to examine its records from
+                  time to time upon written request, with reasonable notice and
+                  during normal business hours, in order that Nasdaq may
+                  ascertain the correctness of invoices submitted by OptiMark.
+                  Late payments shall bear daily interest at a rate of 1.5% per
+                  month.
+
+         (g)      OptiMark shall provide Nasdaq with a twenty (20) percent
+                  monthly discount for New Services performed over $840,000 in a
+                  given month.
+
+         3.   Term and Termination. The term of the Agreement shall continue in
+              full effect until December 31, 2001 unless terminated in
+              accordance with Section 19 of the Agreement; provided, however,
+              that if Nasdaq terminates the Agreement, except for a termination
+              pursuant to Section 9 hereof, prior to December 31, 2001, it shall
+              remain obligated to make Monthly Payments of $700,000 to OptiMark
+              through December 31, 2001.
+
+         4.   Nasdaq Investments. In consideration of the promises set forth
+              herein, OptiMark agrees that all Nasdaq warrants (the "Warrants")
+              set forth in Section 2(b)-(f) of the 1998 Warrant Agreement and as
+              further described in Section 18.1 of the Agreement, shall fully
+              vest as of December 31, 2001 without regard to the Critical
+              Milestones listed in the Agreement; provided, however, that
+              OptiMark has earned minimum cumulative Monthly Payments under the
+              Agreement of at least $7,700,000 for New Services performed
+              through December 31, 2001 (except that if OptiMark has failed to
+              earn cumulative Monthly Payments of at least $7,700,000 due to
+              OptiMark's material breach hereof for which Nasdaq has terminated
+              the Agreement pursuant to Section 9 hereof, then, the Warrants
+              shall, nevertheless, fully vest as of December 31, 2001). The
+              exercise date shall remain as stated in Section 18.1 of the
+              Agreement. In addition to the obligations set forth in Section
+              26.10 of the Agreement, this provision shall also survive any
+              termination or cancellation.
+
+         5.   Exclusivity. The first sentence of Section 13.1 of the Agreement
+              is deleted in its entirety and replaced with the following:
+              OptiMark (including any Affiliates) shall not directly or
+              indirectly (including permitting a licensee or owner of any
+              OptiMark intellectual property the right to) create or market
+              systems or services anywhere in the world for any customer in any
+              Financial Instrument, without at least fifteen (15) days prior
+              Notice to Nasdaq and subject to Nasdaq's right to consent in each
+              instance, such consent shall not be unreasonably withheld or
+              delayed.
+
+         6.   Attachment 6 is amended by adding the following at the end of
+              thereof:
+
+              "Swaps, equity indices, index options, Eurodollar futures and
+              spread market, Eurodollar options, government bonds, corporate
+              bonds, interest rate swaps and FRA markets, B2B products, mortgage
+              backed securities, stock loan, and options exchange."
+<PAGE>   5
+         7.   A new Section 11.7 is added:
+
+              "EXCEPT AS EXPRESSLY SET FORTH HEREIN, OPTIMARK AND ITS AFFILIATES
+              DO NOT MAKE ANY OTHER REPRESENTATIONS OR WARRANTIES WITH RESPECT
+              TO THE SOFTWARE, OTHER TECHNOLOGY, OR SERVICES PROVIDED HEREUNDER.
+              OPTIMARK AND ITS AFFILIATES EXPRESSLY DISCLAIM ALL OTHER
+              REPRESENTATIONS AND WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY
+              IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A SPECIFIC
+              PURPOSE."
+
+         8.   The following is inserted after "Consequential Damages." as the
+              first sentence of Section 26.8:
+
+              "THE ENTIRE LIABILITY OF OPTIMARK AND ITS AFFILIATES TO NASDAQ OR
+              ANY THIRD PARTY ARISING OUT OF OR IN CONNECTION WITH THIS
+              AGREEMENT, OR USE OF THE SOFTWARE OR ANY OTHER TECHNOLOGY OR
+              SERVICES PROVIDED BY OPTIMARK UNDER THIS AGREEMENT, HOWEVER CAUSED
+              AND ON ANY THEORY OF LIABILITY, INCLUDING CONTRACT, STRICT
+              LIABILITY, NEGLIGENCE OR OTHER TORT, SHALL BE LIMITED TO * . This
+              Section 26.8, as amended, is effective as of October 2, 2000."
+
+         9.   Section 19.2 is deleted in its entirety and replaced with the
+              following:
+
+              "In the event of a material breach by OptiMark, or if the
+              cumulative value of the Carryover Values exceeds $700,000 as
+              determined pursuant to Section 2(d) hereof, then Nasdaq shall have
+              the right to terminate the Agreement with 10 days Notice (with a
+              right to cure within such period, if the breach is curable)."
+
+Except as provided herein, the Agreement will continue in full force and effect
+until terminated in accordance with its terms. Nasdaq understands that this
+amendment to the Agreement shall not binding on OptiMark until the approval of
+its board of directors has been obtained. Please acknowledge your agreement by
+signing below.
+
+Bob, we, at Nasdaq, look forward to our renewed working relationship provided by
+this newly-defined staff integration plan.
+
+                                         Regards,
+
+                                         /s/ Steven J. Randich
+
+                                         Steven J. Randich
+
+Agreed and Accepted as of this 26th day of April, 2001:
+
+OPTIMARK HOLDINGS, INC.
+
+By:  /s/ Robert J Warshaw
+     -------------------------
+Name: Robert J Warshaw
+Title: CEO
+
+Attachment
+
+* This confidential portion has been omitted and filed separately with the
+Commission.
+<PAGE>   6
+                          THE NASDAQ STOCK MARKET, INC.
+                     AGREEMENT FOR PROFESSIONAL SERVICES NO.
+                          TASK ORDER NO. 00001-2001-03
+
+<TABLE>
+<CAPTION>
+SERVICES PERFORMED FOR                      SERVICES PERFORMED BY
+<S>                                         <C>
+THE NASDAQ STOCK MARKET, INC.               OPTIMARK, INC.
+SYSTEMS ENGINEERING                         10 EXCHANGE PLACE CENTER
+80 MERRITT BLVD.                            JERSEY CITY, NEW JERSEY 07302
+TRUMBULL, CT 06611                          (201) 536 7121
+</TABLE>
+
+                                            PERFORMANCE OF
+                                            SERVICES RESTRICTED TO:
+                                            SYSTEM ENGINEERING
+
+SCOPE OF WORK - MPA APPLICATION DEVELOPMENT - SYSTEM ENGINEERING - TEST SUPPORT
+SERVICES FOR SUPERMONTAGE
+
+The scope of work includes, but is not limited to, provision of the following
+services:
+
+*
+
+Based upon the previously defined services, the currently identified tasks with
+estimates include:
+
+*
+
+
+
+TASK ORDER PROJECT MANAGER
+
+Dan Moore
+203-502-6439
+dan.moore@nasd.com
+
+
+* This confidential portion has been omitted and filed separately with the
+Commission.
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,187 @@
+<DOCUMENT>
+<TYPE>EX-10.45
+<SEQUENCE>19
+<FILENAME>dex1045.txt
+<DESCRIPTION>FIRST AMENDMENT TO THE CALL CTR SERVICE AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                   EXHIBIT 10.45
+
+                            FIRST AMENDMENT TO THE
+                    CALL CENTER SERVICES AGREEMENT BETWEEN
+          MCI WORLDCOM COMMUNICATIONS, INC. AND RMH TELESERVICES INC.
+
+         COME NOW MCI WORLDCOM Communications, Inc. ("MCI") and RMH
+Teleservices, Incorporated ("RMH"), and in consideration of the mutual
+provisions contained herein and other good and valuable consideration, the
+receipt and sufficiency of which are hereby acknowledged, hereby agree to amend
+the Call Center Services Agreement, as follows:
+
+         This Amendment is entered into effective August 6, 2001.
+
+1.       Section 3.4 of the Agreement is amended by substituting the following
+         for the first sentence: RMH shall support the Services at its Houston,
+         TX and Sarnia, Ontario call center facilities.
+
+2.       Section 3.8 of the Agreement is amended by substituting the following
+         for the second sentence: If the number of Agency Escalations directly
+         caused by Calls made by RMH CSRs or TMRs exceeds the MCI Internal
+         Center rate by more than ten percent (10%) for any RMH Center in any
+         two months during the term of the Agreement, MCI has the right to
+         terminate the Agreement as to that RMH Center immediately for cause.
+
+3.       Section 4.1 (and all subparts) of the Agreement does not apply to the
+         Sarnia, Ontario Center.
+
+4.       Section 4.7.1 of the Agreement is amended by substituting the
+         following:
+
+         Initial Training. For the Houston, TX Center, MCI shall pay for Initial
+         ----------------
+         Training for CSRs at a rate of [REDACTED DUE TO REQUEST FOR
+         CONFIDENTIAL TREATMENT] per Training Hour and for TMRs at a rate of
+         [REDACTED DUE TO REQUEST FOR CONFIDENTIAL TREATMENT] per Training Hour
+         for all new hires up to the first [REDACTED DUE TO REQUEST FOR
+         CONFIDENTIAL TREATMENT] full-time equivalent ("FTE") productive CSRs
+         and and up to the first [REDACTED DUE TO REQUEST FOR CONFIDENTIAL
+         TREATMENT] FTE productive TMRs. For the Sarnia, Ontario Center, MCI
+         shall pay for Initial Training for CSRs at a rate of [REDACTED DUE TO
+         REQUEST FOR CONFIDENTIAL TREATMENT] per Training Hour for all new hires
+         up to the first [REDACTED DUE TO REQUEST FOR CONFIDENTIAL TREATMENT]
+         FTE productive CSRs. Thereafter, should MCI require the addition of
+         FTEs, the Parties will mutually agree upon the amount of additional
+         Initial Training MCI shall pay for. Any additional Initial Training
+         will be at the same rates, and under no circumstances shall MCI be
+         responsible for training expenses attributable to Attrition.
+
+5.       Section 4.7.2 of the Agreement does not apply to the Sarnia, Ontario
+         Center.
+
+6.       Section 4.8 of the Agreement is amended by substituting the following
+         for the second sentence: MCI will provide the Houston, TX and Sarnia,
+         Ontario Centers, at its own expense, all proprietary enhanced software
+         for the handling of Calls (the "MCI Proprietary Software") and all
+         other MCI Software listed in Schedule D.
+
+                                       1
+
+<PAGE>
+
+ 7.      Section 4.9.1 of the Agreement is amended by substituting the following
+         for the first sentence: MCI shall assign an MCI Operations Team
+         including technical support personnel at the Houston, TX and Sarnia,
+         Ontario Centers to work with RMH during the Term of this Agreement.
+
+ 8.      Section 7.1.1 of the Agreement is amended by substituting the
+         following:
+
+         MCI agrees not to terminate, discipline, evaluate or in any manner
+         promise any employee, independent contractor, agent or vendor of RMH
+         any term or condition of employment at the Houston, TX or Sarnia,
+         Ontario Centers.
+
+9.       Section 8.1 of the Agreement is amended by adding the following:
+         Notwithstanding the foregoing, as to the Sarnia, Ontario Center only,
+         the term of this Agreement will commence on August 6, 2001 and end on
+         February 6, 2002.
+
+10.      The last sentence of Section 8.2 of the Agreement does not apply to the
+         Sarnia, Ontario Center.
+
+11.      Section 8.4 of the Agreement is amended by adding the following:
+         Notwithstanding the foregoing, as to the Sarnia, Ontario Center only,
+         MCI may terminate this Agreement for convenience upon sixty (60) days
+         written notice to RMH.
+
+12.      Section 8.8 of the Agreement does not apply to termination of the
+         Agreement only as to the Sarnia, Ontario Center.
+
+13.      Section 8.9 (and all subparts) of the Agreement does not apply to
+         termination of the Agreement only as to the Sarnia, Ontario Center.
+
+14.      Schedule C of the Agreement is amended by adding the following
+         Sections:
+
+         1.1.4  For the Sarnia, Ontario Center only, RMH shall be compensated on
+                a monthly basis for all System Hours worked. RMH will document
+                actual System Hours worked per invoice via the ACD reports. MCI
+                reserves the right to review the ACD, ancillary reports, and any
+                back-up documentation as necessary, notwithstanding any limits
+                on number of audits set forth in Section 10 of the Agreement.
+                System Hour pricing will be [REDACTED DUE TO REQUEST FOR
+                CONFIDENTIAL TREATMENT]per System Hour.
+
+         2.3    For the Sarnia, Ontario Center only, RMH will not be eligible to
+                receive penalties and incentives for performance.
+                Notwithstanding the foregoing, RMH must manage Customer Service
+                performance based on the Top Center Rankings criteria as set out
+                in Schedule B.
+
+15.      Schedule D of the Agreement is amended by adding the attached Schedule
+         D for the Sarnia, Ontario Center only.
+
+16.      Schedule G of the Agreement is amended by adding the attached Schedule
+         G for the Sarnia, Ontario Center only.
+
+17.      Except as otherwise expressly set forth herein, the terms and
+         conditions contained in the Agreement
+
+                                       2
+
+<PAGE>
+
+         are unchanged.
+
+18.      This Amendment, together with the Agreement (together the "Agreement"),
+         constitutes the entire agreement between the Parties with respect to
+         the subject matter hereof and all prior agreements and representations
+         of the Parties related to these matters, whether written or oral, are
+         merged herein and shall be of no further force or effect. This
+         Agreement cannot be changed or modified except in writing signed by
+         both Parties.
+
+MCI WORLDCOM Communications, Inc.           RMH Teleservices, Incorporated
+
+By: /s/ Victoria Harker                     By: /s/ Paul J. Burkitt
+   ------------------------------               ---------------------
+Name: Victoria Harker                       Name: Paul J. Burkitt
+     ----------------------------                -----------------
+Title: SR. Vice President                   Title: EVP Sales & Marketing
+      ---------------------------                  ----------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       3
+
+<PAGE>
+
+                                  SCHEDULE G
+
+     Customer Service Rep/Sup/Manager Compensation Grids - Sarnia Ontario
+     ---------------------------------------------------------------------
+
+TABLE 1: Customer Service Rep/Supervisor/Manager Budgeted Salary, Incentives and
+Variable Costs
+
+             [REDACTED DUE TO REQUEST FOR CONFIDENTIAL TREATMENT]
+
+TABLE 2: Customer Service Variable Costs (per Headcount per Month)
+
+             [REDACTED DUE TO REQUEST FOR CONFIDENTIAL TREATMENT]
+
+
+
+</TEXT>
+</DOCUMENT>

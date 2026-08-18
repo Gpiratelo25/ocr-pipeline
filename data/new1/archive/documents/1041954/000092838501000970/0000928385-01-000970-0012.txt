@@ -1,0 +1,103 @@
+<DOCUMENT>
+<TYPE>EX-10.49.3
+<SEQUENCE>12
+<FILENAME>0012.txt
+<DESCRIPTION>AMEND TO INTERCONNECTION AGREEMENT/BELLSOUTH
+<TEXT>
+
+<PAGE>
+
+                                                                 Exhibit 10.49.3
+
+                   Amendment to the Interconnection Agreement
+               By and Between BellSouth Telecommunications, Inc.
+                    And ITC/\DeltaCom Communications, Inc.
+                               Dated June 5, 2000
+
+
+     This Amendment ("Amendment") is made and entered into by and between
+ITC/\DeltaCom Communications, Inc. ("ITC/\DeltaCom") and BellSouth
+Telecommunications, Inc. ("BellSouth") and is intended to amend the
+Interconnection Agreement (`The Agreement") entered into by ITC/\DeltaCom and
+BellSouth on June 5, 2000. This Amendment shall be deemed effective on the date
+executed by ITC/\DeltaCom and BellSouth.
+
+     WHEREAS, ITC/\DeltaCom and BellSouth (individually, a "Party" and
+collectively, the "Parties") have discovered that certain language was included
+in the Agreement in error and such language had not been agreed upon by the
+Parties; and
+
+     WHEREAS, the Parties desire to amend the Agreement to reflect the actual
+agreement of the Parties;
+
+     NOW THEREFORE, in consideration of the provisions contained herein and
+other good and valuable consideration, the receipt and sufficiency of which are
+hereby acknowledged, ITC/\DeltaCom and BellSouth hereby covenant and agree as
+follows:
+
+     1.  Paragraph 6.4 of Attachment 4 of the Agreement shall be deleted in its
+entirety, and in lieu thereof, a new Paragraph 6.4 of Attachment 4 shall be
+included in the Agreement as follows:
+
+          6.4  Construction and Provisioning Interval. BellSouth will negotiate
+               --------------------------------------
+               construction and provisioning intervals per request on an
+               individual case basis. Excluding the time interval required to
+               secure the appropriate government licenses and permits, BellSouth
+               will use best efforts to complete construction for collocation
+               arrangements under ordinary conditions as soon as possible and
+               within a maximum of 90 business days from receipt of a complete
+               and accurate Bona Fide Firm Order. Ordinary conditions are
+               defined as space available with only minor changes to support
+               systems required, such as but not limited to, HVAC, cabling and
+               the power plant(s). Excluding the time interval required to
+               secure the appropriate government licenses and permits, BellSouth
+               will use best efforts to complete construction of all other
+               collocation space ("extraordinary conditions") within 130
+               business days of the receipt of a complete and accurate Bona Fide
+               Firm Order. Extraordinary conditions are defined to include but
+               are not limited to major BellSouth equipment rearrangement or
+               addition; power plant addition or upgrade; major mechanical
+               addition or upgrade; major upgrade for ADA compliance;
+               environmental hazard or hazardous materials abatement.
+<PAGE>
+
+     2.  All of the other provisions of the Interconnection Agreement shall
+remain unchanged and in full force and effect.
+
+     3.  Either or both of the Parties are authorized to submit this Amendment
+to the appropriate State Public Service Commissions or other Regulatory Agencies
+for approval subject to Section 252 (e) of the Federal Telecommunications Act of
+1996.
+
+     IN WITNESS WHEREOF, the Parties hereto have caused this Amendment to be
+executed by their respective duly authorized representatives on the date
+indicated below.
+
+ITC/\DeltaCom Communications, Inc.  BellSouthTelecommunications, Inc.
+
+
+
+   /s/ Jerry W. Watts                             /s/ Patrick C. Finlen
+ --------------------                            -----------------------
+       Signature                                       Signature
+
+
+   Jerry W. Watts                                 Patrick C. Finlen
+ ----------------                                -------------------
+       Name                                            Name
+
+
+ Vice President-Gov't Affairs                      Managing Director
+ ----------------------------             ------------------------------------
+       Title                                             Title
+
+
+   February 13, 2001                               February 14, 2001
+ -------------------                             -------------------
+       Date                                              Date
+
+
+                                       2
+</TEXT>
+</DOCUMENT>

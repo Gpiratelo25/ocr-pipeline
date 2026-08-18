@@ -1,0 +1,803 @@
+<DOCUMENT>
+<TYPE>EX-10.3
+<SEQUENCE>3
+<FILENAME>d95474kex10-3.txt
+<DESCRIPTION>3RD AMENDED/RESTATED SATELLITE SERVICES AGREEMENT
+<TEXT>
+<PAGE>
+
+
+                                                                    EXHIBIT 10.3
+
+
+                           THIRD AMENDED AND RESTATED
+                    SATELLITE SERVICES SUPPLEMENTAL AGREEMENT
+
+
+         THIS THIRD AMENDED AND RESTATED SATELLITE SERVICES SUPPLEMENTAL
+AGREEMENT (this "Agreement") is made and entered into as of August 1, 2001 (the
+"Execution Date") by and between ITC DeltaCom Communications, Inc. ("ITCD"), as
+successor in interest to ITCD Systems, Inc., ITCD, and Weblink Wireless, Inc.
+("Weblink"), as successor in interest to Weblink Wireless, Inc. ("Weblink").
+
+                                    RECITALS
+
+         WHEREAS, ITCD and Weblink are parties to a Second Amended and Restated
+Satellite Services Supplemental Agreement, dated as of July 1, 1998, as amended
+by the First Amendment thereto dated September 24, 1998, and Second Amendment
+dated September 24, 1998 (the "Existing SSS Agreement"), concerning the purchase
+of certain satellite services;
+
+         WHEREAS, Weblink and ITCD have entered into an Amended and Restated
+Master Agreement dated December 18, 1997 ("Existing Master Agreement");
+
+         WHEREAS, on May 23, 2001, Weblink filed for protection under Chapter 11
+of the United States Bankruptcy Code, in the U.S. Bankruptcy Court, Northern
+District of Texas, Dallas Division (Case No. 01-34275-SAF-11) ("Bankruptcy
+Case"), and pursuant to an Order issued by the bankruptcy court, Weblink has
+assumed the Existing Master Agreement, and has entered into a new Master
+Agreement dated August 1, 2001; and
+
+         WHEREAS, pursuant to the Order of the bankruptcy court, Weblink has
+assumed the Existing Supplemental Services Agreement; and
+
+         WHEREAS, the parties desire to amend the Existing Supplemental Services
+Agreement as provided herein.
+
+                                    AGREEMENT
+
+
+         NOW, THEREFORE, in consideration of the premises, and other good and
+valuable consideration received and acknowledged, ITCD and Weblink agree as
+follows:
+
+         During the Satellite Services Term, ITCD shall provide Weblink's
+Satellite Capacity in accordance with, and Weblink shall be bound by, the terms
+and conditions set forth below:
+
+A. SATELLITE SERVICES TERM:
+
+    1.  "Commencement Date": 12:00 a.m. (Eastern Time) on August 1, 2001.
+
+    2.  "Termination Date": 11:59 p.m. (Eastern Time) on July 31, 2003, unless
+        earlier terminated pursuant to this Agreement.
+
+B.  WEBLINK'S SATELLITE CAPACITY: ITCD shall provide satellite transponder
+    capacity for the VNI Network according to the terms hereof. From the
+    Commencement Date through the Termination Date Weblink's Satellite Capacity
+    shall be provided through Ku-band transponder capacity leased by ITCD on
+    Satellite(s) in accordance with Schedule 1 attached hereto.
+
+C.  PRICE: Weblink shall pay to ITCD a monthly satellite capacity payment for
+    Weblink's Satellite Capacity, in accordance with Section J below and
+    Schedule 1 hereto. To the extent ITCD receives credits from the Satellite
+    Operator by reason of service interruption affecting the Satellite Capacity
+    provided hereunder for a period of one (1) hour or more (measured from the
+    time ITCD receives notice
+
+
+                                                                    Page 1 of 10
+
+             Third Amended and Restated Satellite Services Agreement
+                        ITC DeltaCom Communications, Inc
+                          Confidential and Proprietary
+
+
+<PAGE>
+
+
+                           THIRD AMENDED AND RESTATED
+                    SATELLITE SERVICES SUPPLEMENTAL AGREEMENT
+
+    thereof from Weblink), ITCD agrees to promptly credit Weblink with credits
+    provided by the Satellite Operator for such interruption. The credit shall
+    be equal to a pro rata portion (based on total bandwidth of the Satellite
+    Capacity contracted for by Weblink on the Satellite compared to total
+    bandwidth of the Satellite Capacity contracted for by ITCD for its own or
+    third party use on the Satellite) of all amounts credited by the Satellite
+    Operator to ITCD with respect to any interruption in service. ITCD will
+    apply the credit promptly to any outstanding invoice between ITCD and
+    Weblink under this Agreement or any other agreement between ITCD and
+    Weblink, as selected by ITCD in its sole discretion.
+
+D.  RESERVED.
+
+E.  CERTAIN DEFINITIONS
+
+    1.  "Affiliates" shall mean, with respect to any Person, any other Person
+        directly or indirectly controlling, controlled by or under common
+        control (i.e., the power to direct affairs by reason of ownership of
+        voting stock, by contract or otherwise) with such Person and any member,
+        director, officer or employee of such Person.
+
+    2.  "FCC" shall mean the Federal Communications Commission or any successor
+        organization.
+
+    3.  "Satellite(s)" shall mean GE-4, and GE-1 and Telstar 4, through which
+        ITCD will provide Weblink's Satellite Capacity.
+
+    4.  "Laws" shall mean all international, federal, state, local and other
+        laws, rules and other regulations, including, without limitation,
+        those issued by the FCC.
+
+    5.  "Person" shall mean any person or entity, whether an individual,
+        trustee, corporation, general partnership, limited partnership, trust,
+        unincorporated organization, business association, firm, joint venture,
+        governmental agency or authority, or otherwise.
+
+    6.  "Transponder(s)" shall mean a component of the Satellite(s) which, for a
+        particular frequency band, receives, amplifies, translates frequency and
+        retransmits radio signals. Each Transponder contains one traveling wave
+        tube amplifier (a "TWTA"). Transponder shall also mean, for purposes of
+        this definition, any replacement or alternate components thereof.
+
+    7.  "Satellite Capacity Failure" shall mean the failure of ITCD to provide
+        Weblink's aggregate Satellite Capacity on a Satellite(s)(due to a
+        Satellite or Transponder failure, including relocation of orbital
+        position by FCC order). Determination that a Satellite Capacity Failure
+        has occurred shall be made by ITCD in its sole discretion.
+
+    8.  "Usage" or "Use" shall refer to radio transmission to, or utilization
+        of, the Satellite(s) for the VNI Network.
+
+    9.  "Satellite Operators" shall mean the owner(s) if the Satellite(s)
+        specifically authorized by the FCC to operate the Satellite(s) and
+        through whom ITCD makes available the satellite capacity required for
+        the VNI Network.
+
+    10. "Primary Hub" shall mean the Equipment at ITCD's primary hub location in
+        Atlanta, Georgia which will be used to access Weblink's Satellite
+        Capacity to run the VNI Network.
+
+    11. "Alternate Hub" shall mean the Weblink equipment Weblink sets up at a
+        site to be determined which will be used to access Weblink's Satellite
+        Capacity to run the VNI Network in the event of a failure of the Primary
+        Hub.
+
+    12. "Weblink's Satellite Capacity" shall mean the satellite capacity to be
+        provided hereunder to Weblink (expressed as SCUs or High Power SCUs)
+        during the Satellite Services Term, as more particularly described in
+        Paragraph J.2. hereof and Schedule 1 hereto. In addition, if Weblink
+        requests additional satellite capacity as described in Schedule 1
+        hereto, subject to availability of such satellite capacity, such
+        additional satellite capacity shall be included upon commencement of
+        service for such satellite capacity.
+
+
+                                                                    Page 2 of 10
+
+             Third Amended and Restated Satellite Services Agreement
+                        ITC DeltaCom Communications, Inc
+                          Confidential and Proprietary
+
+
+<PAGE>
+
+
+                           THIRD AMENDED AND RESTATED
+                    SATELLITE SERVICES SUPPLEMENTAL AGREEMENT
+
+    13. "Equipment" shall mean the Very Small Aperture Satellite Terminals
+        (VSATs) and associated hub hardware and remote site hardware including
+        embedded software provided by ITCD under the Master Agreement.
+
+    14. "Satellite Capacity Unit" or "SCU" - One SCU equals 800 kHz of
+        bandwidth, which is normally configured as one (1) 128 Kbps outbound
+        channel and two (2) 64 Kbps inbound channels. Using standard power
+        levels and BPSK modulation, the percentage of available bandwidth in the
+        transponder that is utilized by a SCU is equal to the percentage of the
+        power available in the transponder utilized by that SCU.
+
+    15. "High Power SCU" - One High Power SCU consumes twice the satellite
+        capacity of one standard power SCU. Using high power levels and BPSK
+        modulation, the percentage of available power in the transponder that is
+        utilized by a High Power SCU is equal to two (2) times the percentage of
+        available bandwidth in the transponder that is utilized by a SCU. A High
+        Power SCU has a power density of not less than 9 dBW/4KHz and requires
+        authorization from the FCC.
+
+    16. "VNI" or "VNI Network" shall mean the VSAT network infrastructure
+        consisting of the Equipment and software provided by ITCD under the
+        Master Agreement.
+
+    17. "GE-l Satellite" shall mean a communications satellite owned and
+        operated by GE and positioned at 103 degrees west longitude orbital
+        position.
+
+    18. "GE-4 Satellite" shall mean a communications satellite owned and
+        operated by GE and positioned at 101 degrees W.L. orbital position.
+
+    19. "Telstar 4 Satellite" shall mean a communications satellite owned and
+        operated by Loral Skynet and positioned at 89 degrees west longitude
+        orbital position.
+
+F.  CERTAIN UNDERSTANDINGS
+
+    1.  Ownership of Transponders. Weblink understands and agrees that the
+        Satellite Operators are the FCC-authorized operators of the Satellites.
+        Neither this Agreement nor the provision of Weblink's Satellite Capacity
+        hereunder shall, or shall be deemed to, convey title or any other
+        ownership interest to Weblink in or to any Satellite, any Transponder or
+        any part thereof. Weblink acknowledges and agrees (i) that nothing
+        contained in this Agreement shall prevent any sale, mortgage, or
+        encumbrance of any Satellite or any Transponder thereof by the owner,
+        (ii) that Weblink's Satellite Capacity is provided on a right to use
+        basis (with Equipment and services provided by ITCD under the Master
+        Agreement) and is not being sold to Weblink, and (iii) that neither any
+        Transponder nor any Satellite, nor any right to use thereof nor
+        any interest of any type therein, shall be subject to any claim, prior,
+        subsequent or otherwise, of Weblink or its creditors as a result of this
+        Agreement. Notwithstanding the foregoing, ITCD shall use reasonable
+        efforts to provide that the foregoing restrictions shall not impact or
+        interfere with Weblink's use of Weblink's Satellite Capacity as provided
+        for herein.
+
+    2.  Control of Satellite. Weblink understands and agrees that the Satellite
+        Operator(s) shall control and provide for the operation of the
+        Satellite(s).
+
+    3.  Communication with Satellite. All communications with the Satellite(s)
+        will be provided through Equipment controlled by ITCD at either the
+        Primary Hub; provided, however, upon the prior written request of
+        Weblink, ITCD shall use its reasonable efforts to obtain the consent
+        of each Satellite Operator to permit Weblink to exercise control of the
+        Equipment at the Alternate Hub, and upon obtaining such consent(s),
+        Customer shall have the right to make communications with the
+        Satellite(s) through Equipment controlled by Weblink or its nominee at
+        the Alternate Hub.
+
+
+                                                                    Page 3 of 10
+
+             Third Amended and Restated Satellite Services Agreement
+                         ITC DeltaCom Communications, Inc
+                          Confidential and Proprietary
+
+
+<PAGE>
+
+
+                           THIRD AMENDED AND RESTATED
+                    SATELLITE SERVICES SUPPLEMENTAL AGREEMENT
+
+
+G.  CONTINUITY OF SERVICE
+
+    1.  Preemption/Interruption of Service. Weblink recognizes and agrees with
+        respect to each Satellite that for technical or safety reasons, which
+        shall include, but shall not be limited to, (1) the protection of the
+        overall health or performance of the Satellite or its Transponders; (2)
+        the prevention of interference or cross talk; (3) the protection of
+        public safety; or (4) compliance with an order from the FCC or other
+        governmental authorities - and the existence of which the Satellite
+        Operator shall determine in its sole discretion - the Satellite Operator
+        may take the following actions: (i) preempt or interfere with Weblink's
+        Use of any Transponder or other component of the Satellite, (ii)
+        reassign TWTAs to different Transponders on the Satellite, or (iii)
+        reassign the frequency assignment of Weblink's Satellite Capacity.
+        Weblink acknowledges and agrees that any such action by Satellite
+        Operator may result in the preemption or interruption of the Use of
+        Weblink's Satellite Capacity. ITCD shall notify Weblink as soon as
+        reasonably practical after receipt by ITCD of oral or written notice
+        from the Satellite Operator concerning any such action and shall use
+        reasonable efforts to cause the Satellite Operator to schedule and
+        conduct such action so as to minimize the Satellite Operator disruption
+        of Weblink's Use of Weblink's Satellite Capacity. Weblink acknowledges
+        and agrees that if such preemption or interruption occurs, then Weblink
+        shall cooperate with and assist ITCD and the Satellite Operator during
+        such periods and Weblink's sole remedies shall be any credits provided
+        pursuant to Section C herein and, in the case of a Satellite Capacity
+        Failure, the termination of this Agreement or reduction in Weblink's
+        Satellite Capacity pursuant to Paragraph K herein.
+
+    2.  Provision of Continuing Service. In the event of a Satellite Capacity
+        Failure, ITCD shall use its commercially reasonable efforts to cause the
+        Satellite Operator to provide Weblink's Satellite Capacity using spare
+        Transponder capacity on the Satellite, if available, or if such spare
+        capacity is unavailable, then by using an alternate Transponder on the
+        Satellite of the same polarity, if available. The availability of such
+        spare or alternate Transponder on the Satellite, on a permanent or
+        temporary basis, shall be determined by the Satellite Operator in its
+        sole discretion. The foregoing notwithstanding, Weblink's sole remedies
+        for any preemption of Use shall be any credits provided pursuant to
+        Section C herein and, in the case of a Satellite Capacity Failure, the
+        termination of this Agreement or reduction in Weblink's Satellite
+        Capacity pursuant to Paragraph K herein.
+
+H.  WEBLINK'S OBLIGATIONS
+
+    Compliance With Agreement and Laws. During the Satellite Services Term,
+    Weblink shall comply with the terms of this Agreement and shall be
+    responsible for complying with, and shall comply with all Laws applicable to
+    it regarding the operation and Use of the Satellites and the Transponders
+    and regarding Use of Weblink's Satellite Capacity. Weblink shall be
+    permitted to use Weblink's Satellite Capacity for any business unit,
+    subsidiary, or Strategic Alliance Partner of Weblink, subject to the
+    approval of ITCD, which shall not be unreasonably withheld; provided,
+    however, operation of the Equipment provided under the Master Agreement or
+    any other equipment used to access Weblink's Satellite Capacity, including
+    Weblink's Alternate Hub, must be in strict accordance with guidelines and
+    instructions provided by the Satellite Operator directly or through ITCD.
+
+I.  REMEDIES
+
+    1.  LIMITATION OF LIABILITY
+
+        a. ANY AND ALL EXPRESS AND IMPLIED WARRANTIES INCLUDING, BUT NOT LIMITED
+        TO, WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE OR USE, ARE
+        EXPRESSLY EXCLUDED AND DISCLAIMED BY ITCD. WEBLINK EXPRESSLY AGREES THAT
+        ITCD'S SOLE OBLIGATIONS AND WEBLINK'S EXCLUSIVE REMEDIES FOR ANY CAUSE
+        WHATSOEVER (INCLUDING, WITHOUT LIMITATION,
+
+
+                                                                    Page 4 of 10
+
+             Third Amended and Restated Satellite Services Agreement
+                        ITC DeltaCom Communications, Inc
+                          Confidential and Proprietary
+
+<PAGE>
+
+
+                           THIRD AMENDED AND RESTATED
+                    SATELLITE SERVICES SUPPLEMENTAL AGREEMENT
+
+        LIABILITY ARISING FROM NEGLIGENCE) ARISING OUT OF OR RELATING TO THIS
+        AGREEMENT AND/OR THE TRANSACTIONS CONTEMPLATED HEREBY AND THEREBY ARE
+        LIMITED TO TERMINATION OF THIS AGREEMENT FOR THE REASONS DESCRIBED IN
+        PARAGRAPH G ABOVE, AND ALL OTHER REMEDIES OF ANY KIND ARE EXPRESSLY
+        EXCLUDED.
+
+        b. IN NO EVENT SHALL ITCD BE LIABLE FOR ANY INCIDENTAL OR CONSEQUENTIAL
+        DAMAGES, WHETHER FORESEEABLE OR NOT, OCCASIONED BY ANY DEFECT IN
+        WEBLINK'S SATELLITE CAPACITY, FAILURE OF THE WEBLINK'S SATELLITE
+        CAPACITY TO PERFORM OR ANY OTHER CAUSE WHATSOEVER. ITCD MAKES NO
+        WARRANTY, EXPRESS OR IMPLIED, TO ANY OTHER PERSON CONCERNING WEBLINK'S
+        SATELLITE CAPACITY AND WEBLINK SHALL INDEMNIFY ITCD FROM ANY CLAIMS MADE
+        UNDER ANY WARRANTY OR REPRESENTATION BY WEBLINK TO ANY THIRD PARTY.
+
+    2.  Indemnification. Weblink shall indemnify and save ITCD and the Satellite
+        Operators harmless from all liability disclaimed by ITCD, as specified
+        above, to the extent such liability arises in connection with the
+        provision by ITCD or the Satellite Operators of facilities and/or
+        Weblink's Satellite Capacity or use of Weblink's Satellite Capacity
+        pursuant to this Agreement provided, however, Weblink shall not be
+        obligated to indemnify ITCD from such liability to the extent such
+        liability arises from the willful misconduct or gross negligence of
+        ITCD.
+
+J.  PAYMENTS TO ITCD
+
+    1.  Payment.
+
+        a. Commencing on the Effective Date, Weblink shall pay ITCD for
+        satellite capacity on GE-l, GE-4 and Telstar Satellites in accordance
+        with Schedule 1 hereto. Customer agrees to pay ITCD for satellite
+        capacity $348,800 (the "Baseline Amount") via electronic wire transfer
+        on the seventh (7th) business day of each month (Baseline Due Date).
+        This Baseline Amount represents the estimated recurring monthly amount
+        due to ITCD for Satellite Capacity to be provided by ITCD during the
+        month in which the payment is made. Customer agrees to pay interest
+        charges of one and one half percent (1.5%) per month on any Baseline
+        Amount not received by the appropriate Baseline Due Date. ITCD shall
+        invoice Customer for actual monthly recurring charges. In the event that
+        in a given month Customer's actual monthly recurring charges for
+        Satellite Capacity are less than the Baseline Amount, Customer shall
+        have the right to deduct the overpaid amount from the next Baseline
+        Amount payment due.
+
+        b. In the event that Customer's actual monthly recurring charges for
+        Satellite Capacity exceeds the Baseline Amount, e.g. due to taxes (the
+        "Additional Amounts"), then Customer agrees to pay all undisputed
+        Additional Amounts within thirty (30) days after receipt of the invoice
+        for the same ("Additional Due Date"). Customer agrees to pay interest
+        charges of one and one half percent (1.5 %) per month on any Additional
+        Amounts not received by appropriate Additional Due Date. In the event
+        Customer disputes any Additional Charges, Customer shall notify ITCD in
+        writing prior to the Additional Due Date for such amount.
+
+        c. Pursuant to an Order entered by the Bankruptcy Court on July 20,
+        2001, Customer agrees that it will cure the $493,664.52 pre-petition
+        debt it owes to ITCD by paying ITCD such pre-petition arrearage in six
+        equal payments over a six month period beginning on the first Baseline
+        Due Date occurring after the Order affirming such payment is entered by
+        the Court. Each of the six monthly payments will be made via wire
+        transfer on the same day that Customer remits the Baseline Amount each
+        month until the pre-petition arrearage is cured. Customer agrees to pay
+        interest charges of one and one half percent (1.5 %) per month on any
+        such payment not received by the appropriate Baseline Due Date.
+
+
+                                                                    Page 5 of 10
+
+
+             Third Amended and Restated Satellite Services Agreement
+                        ITC DeltaCom Communications, Inc
+                          Confidential and Proprietary
+
+
+<PAGE>
+
+
+                           THIRD AMENDED AND RESTATED
+                    SATELLITE SERVICES SUPPLEMENTAL AGREEMENT
+
+
+        d. Weblink's obligations to make the monthly satellite capacity payments
+        provided by Paragraph C above and J(2) below shall be absolute and
+        unconditional and shall not be affected by any circumstances, including,
+        without limitation, any setoff, counterclaim, recoupment, defense or
+        other right which Weblink may have against ITCD or anyone else for any
+        reason whatsoever.
+
+        e. The charges specified on Schedule 1 do not include any amounts for
+        sales, use, property, privilege, license, excise or similar taxes, fees
+        or assessments which may be levied by any governmental agency on this
+        Agreement, the services provided or the payments made hereunder. Any
+        such taxes or charges shall be paid directly by Weblink to the taxing
+        authority, if legally permitted. Otherwise, if required to be paid by
+        ITCD, the amount shall be reimbursed to ITCD by the Weblink. Upon
+        request, the Weblink shall provide ITCD with tax exemption certificates,
+        if applicable, or evidence of tax payments, if made by Weblink.
+
+    2.  Required Satellite Capacity.
+
+        a. Commencing August 1, 2001, Weblink shall pay for satellite capacity
+        in accordance with Schedule 1 hereto. Weblink shall have the right to
+        designate by written notice to ITCD that a portion of Weblink's
+        Satellite Capacity, not to exceed ten (10) SCUs (i.e., five (5) High
+        Power SCUs) on either GE-1 or GE-4, shall be provided as High Power
+        SCUs. The provision of Weblink's Satellite Capacity as High Power SCUs
+        on either GE-1 or GE-4 shall be subject to availability of High Power
+        SCUs on such Satellite(s) and regulatory approval by the FCC. Upon
+        receipt of such written notice, ITCD shall pursue such regulatory
+        approval on a "commercially reasonable efforts" basis, at Weblink's sole
+        cost and expense. For purposes of the unit pricing set forth on Schedule
+        1, One (1) High PoWer SCU shall be equivalent to pricing for two (2)
+        SCUs.
+
+        b. ITCD shall use commercially reasonable efforts to resell any SCUs (in
+        increments of 1/4 SCUs, or 200 kHz) that Weblink specifies in writing to
+        ITCD to resell; provided, however, that Weblink in such written notice
+        irrevocably releases the SCUs for the durations of this SSS Agreement.
+        Weblink shall be required to continue to pay for the SCUs until such
+        time, if any, as ITCD is able to resell the SCUs, as set forth below in
+        Paragraph J(2)(c).
+
+        c. ITCD shall reduce Weblink's minimum monthly payments in the amount of
+        $l,625 for each 1/4 SCU that ITCD resells on GE-1 or $1,875 for each 1/4
+        SCU that ITCD resells on GE-4; provided, however, that ITCD resells such
+        SCU at a rate equal or greater than $1,625 per 1/4 SCU that ITCD resells
+        on GE-1 or $1,875 for each 1/4 SCU that ITCD resells on GE-4. ITCD shall
+        be permitted to receive payments for such resold SCUs directly from the
+        purchaser.
+
+        d. ITCD further agrees not to purchase additional satellite capacity for
+        its own use from the time that Weblink gives ITCD written notice of
+        released satellite capacity pursuant to Paragraph J(2)(b) above if ITCD
+        determines, in its reasonable discretion, that ITCD's satellite capacity
+        needs can be reasonably satisfied from Weblink's released satellite
+        capacity, and in such event ITCD shall reduce Weblink's minimum monthly
+        payments for satellite capacity by $1,625 for each 1/4 SCU that ITCD
+        uses on GE-1 or $1,875 or each 1/4 SCU that ITCD uses on GE-4.
+
+K.  TERMINATION
+
+    1.  Events of Termination. This Agreement shall terminate automatically upon
+        the Termination Date, unless terminated earlier pursuant to one of the
+        following paragraphs:
+
+        a. Termination for Satellite Capacity Failure. If a Satellite Capacity
+        Failure continues uninterrupted for more than five (5) consecutive days,
+        or such other period is mutually agreed upon in writing by ITCD and
+        Weblink, then this Agreement may be immediately terminated by either
+        party by written notice to the other delivered on or before the
+        thirtieth day after the calendar day on
+
+
+
+                                                                    Page 6 of 10
+
+             Third Amended and Restated Satellite Services Agreement
+                        ITC DeltaCom Communications, Inc
+                          Confidential and Proprietary
+
+
+<PAGE>
+
+
+                           THIRD AMENDED AND RESTATED
+                    SATELLITE SERVICES SUPPLEMENTAL AGREEMENT
+
+        which the Satellite Capacity Failure began; provided, however, that if
+        such Satellite Capacity Failure affects only one Satellite and a portion
+        of Weblink's Satellite Capacity remains available from other
+        Satellite(s), then the right of termination shall apply only to
+        Weblink's Satellite Capacity received hereunder from such failed
+        Satellite and this Agreement shall continue in force with respect to the
+        remaining portion of Weblink's Satellite Capacity. If so terminated,
+        ITCD shall refund to Weblink the amount of any prepaid monthly charges
+        for the terminated capacity prorated from the date of the Satellite
+        Capacity Failure, and ITCD shall have no other or further liability to
+        Weblink.
+
+        b. Cancellation for Non-Payment and Violations of Law. Notwithstanding
+        anything to the contrary and in addition to all other remedies ITCD may
+        have, ITCD may immediately cancel this Agreement and accelerate all
+        remaining payments due through July 31, 2003 if Weblink materially
+        breaches any provision of this Agreement, including for example (but
+        without limitation), (1) if Weblink fails to pay when due any amounts
+        due pursuant to this Agreement within five (5) business days after the
+        Baseline Due Date or Additional Due Date, as applicable, or (2) if
+        Weblink violates the provisions of Paragraph H.l. ("Compliance with
+        Laws"). Weblink hereby acknowledges and agrees that the U.S. Bankruptcy
+        Court, Northern District of Texas, Dallas Division (Case No.
+        01-34275-SAF-11) has entered an Order dated July 20, 2001, stating that
+        the automatic stay of 11 USC 362 has been modified such that ITCD may
+        immediately proceed to enforce any of its rights and remedies with
+        respect to Customer in the event of a post-assumption default after five
+        (5) business days written notice and opportunity to cure has lapsed.
+        Upon termination, pursuant to this Paragraph K.1.b, ITCD shall be
+        entitled to transfer Weblink's Satellite Capacity immediately to
+        whomever ITCD sees fit, Weblink shall not be entitled to any equitable
+        relief as a result thereof, and Weblink's exclusive remedy shall be
+        limited to recovery of any payments made by it to ITCD for the period of
+        time as to which it has been canceled, without interest, less any claim
+        ITCD has against Weblink by reason of such Weblink's default; provided,
+        however during the thirty (30) days immediately following such default,
+        ITCD shall (1) offer Weblink's capacity to ITCD's existing customers of
+        satellite capacity, and prospective customers with whom ITCD has been
+        negotiating the sale of satellite capacity, (2) offer Weblink's
+        capacity to other 2-way paging companies, and (3) request that the
+        satellite vendor allow ITCD to terminate Weblink's capacity without
+        penalty to ITCD. In the event ITCD is able to resell satellite capacity
+        during such thirty (30) day period to customers or potential customers
+        who meet ITCD's credit and other business requirements, or return
+        satellite capacity to the vendor without charge or penalty, then
+        Weblink's obligation to pay accelerated amounts as provided in the first
+        sentence of this paragraph shall be reduced for such resold or returned
+        capacity as provided in Section J.2.c.
+
+        c. Termination by Weblink. In event that ITCD fails to provide Weblink's
+        Satellite Capacity to Weblink as a result of the termination by a
+        Satellite Operator of the lease to ITCD of Ku-Band satellite transponder
+        capacity due to a default by ITCD, Weblink, provided that Weblink is not
+        in default hereunder, shall have the right to reduce Weblink's Satellite
+        Capacity under this Agreement to the extent of the Weblink's Satellite
+        Capacity received hereunder from such Satellite Operator if ITCD fails
+        to cure such failure within thirty (30) days after receiving written
+        notice of such failure from Weblink. If Weblink's Satellite Capacity is
+        so reduced, ITCD shall (i) refund to Weblink the amount of any prepaid
+        monthly charges for the terminated Weblink's Satellite Capacity prorated
+        from the date ITCD failed to provide such Weblink's Satellite Capacity
+        and (ii) provide reasonable cooperation, at Weblink's request and
+        expense, with any efforts by Weblink to contract directly with the
+        Satellite Operator for such terminated Weblink's Satellite Capacity, and
+        ITCD shall have no other or further liability to Weblink with respect to
+        such terminated Weblink's Satellite Capacity.
+
+    2. Continuation after Termination of Master Agreement. The parties
+    acknowledge and agree that this Agreement is a separate, free standing
+    contract and is independent of the New Master Agreement. This Agreement, and
+    the parties' rights and obligations hereunder, shall continue in full force
+    and effect notwithstanding any termination of, or default by either party
+    under, the New Master Agreement.
+
+
+                                                                    Page 7 of 10
+
+             Third Amended and Restated Satellite Services Agreement
+                        ITC DeltaCom Communications, Inc
+                          Confidential and Proprietary
+
+
+
+<PAGE>
+
+
+                           THIRD AMENDED AND RESTATED
+                    SATELLITE SERVICES SUPPLEMENTAL AGREEMENT
+
+
+L.  MISCELLANEOUS
+
+    1.  Headings. The Paragraph headings used in this Agreement, except where
+        terms are specifically defined, are for reference and convenience only
+        and shall not enter into the interpretation hereof
+
+    2.  Waiver. No delay or omission by either party to exercise any right or
+        power shall impair any such right or power or be construed to be a
+        waiver thereof. A waiver by either of the parties of any of the
+        covenants, conditions or agreements to be performed by the other or any
+        breach thereof shall not be construed to be a waiver of any succeeding
+        breach thereof or of any other covenant, condition or agreement herein
+        contained.
+
+    3.  Severability. If, but only to the extent that, any provision of this
+        Agreement is declared or found to be illegal, unenforceable or void,
+        then both parties shall be relieved of all obligations arising under
+        such provision, it being the intent and agreement of the parties that
+        this Agreement shall be deemed amended by modifying such provision to
+        the extent necessary to make it legal and enforceable while preserving
+        its intent. If that is not possible, another provision that is legal and
+        enforceable and achieves substantially the same objective shall be
+        substituted. If the remainder of this Agreement is not affected by such
+        declaration or finding and is capable of substantial performance then
+        the remainder shall be enforced to the extent permitted by law.
+
+    4   Relationship of Parties. ITCD is performing pursuant to this Agreement
+        only as an independent contractor and nothing set forth in this
+        Agreement shall be construed to create the relationship of principal and
+        agent between ITCD and Weblink. Neither ITCD nor Weblink shall act or
+        attempt to act or represent itself, directly or by implication, as an
+        agent of the other party or its Affiliates or in any manner assume or
+        create, or attempt to assume or create, any obligation on behalf of, or
+        in the name of, the other party or its Affiliates.
+
+    5.  Approvals and Authorizations. The obligations of the parties hereto
+        shall be subject to obtaining and maintaining all necessary regulatory
+        and other governmental approvals and authorizations. The parties agree
+        to use their respective and, where applicable, collective best
+        reasonable efforts to obtain promptly and maintain any such approvals.
+
+    6.  Notices. In addition to such other requirements as may be set forth
+        herein, any notices hereunder by one party to the other party shall be
+        given in writing by personal delivery (or by recognized overnight
+        delivery service) or posted by certified mail return receipt requested,
+        to the parties at the following addresses:
+
+        IF ITCD, SEND TO:                      IF WEBLINK,SEND TO:
+        ITC DeltaCom Communications, Inc.      Weblink Wireless, Inc.
+        55 Marietta Street                     3333 Lee Parkway, Suite 100
+        Atlanta, GA 30303                      Dallas, TX 75219
+        Attn: Ivor Fredrickson                 Attn: John Hauge
+        V.P. and Treasurer                     V.P. and Chief Financial Officer
+
+        Notices will be deemed to have been given hereunder when delivered
+        (whether or not accepted by the addressee).
+
+    7.  Confidentiality. Each party hereby agrees that all non-public,
+        confidential or proprietary information communicated to it by the other
+        party, whether before or after the Execution Date, shall be and was
+        received in strict confidence, shall be used only for purposes of this
+        Agreement, and, for a period of five (5) years following the termination
+        of this Agreement, shall not be disclosed by such party, its agents or
+        employees without the prior written consent of the other
+
+
+                                                                    Page 8 of 10
+
+             Third Amended and Restated Satellite Services Agreement
+                        ITC DeltaCom Communications, Inc
+                          Confidential and Proprietary
+
+
+<PAGE>
+
+
+                           THIRD AMENDED AND RESTATED
+                    SATELLITE SERVICES SUPPLEMENTAL AGREEMENT
+
+        party, except as may be necessary by reason of legal, accounting or
+        regulatory requirements beyond the reasonable control of the disclosing
+        party. The obligations set forth in this Section shall survive
+        termination of this Agreement.
+
+    8.  Force Majeure. The term "Force Majeure" shall include, but not be
+        limited to, fires or other casualties or accidents, acts of God, severe
+        weather conditions, sun outages, strikes or labor disputes, war or other
+        violence, any law, order, proclamation, regulation, ordinance, demand or
+        requirement of any governmental agency or any other act or condition
+        whatsoever beyond the reasonable control of the affected party. A party
+        whose performance of its obligations hereunder is prevented, restricted
+        or interfered with by reason of a Force Majeure condition shall be
+        excused from such performance to the extent of such Force Majeure
+        condition so long as such party immediately continues performance
+        whenever and to the extent such causes are removed. Nothing in this
+        Section shall relieve Weblink of its obligations to make payments to
+        ITCD in accordance with Paragraphs C and J of this Agreement, except to
+        the extent that ITCD is relieved of its obligations to make payments to
+        the Satellite Operator by such Force Majeure condition.
+
+    9.  Applicable Law and Entire Agreement. THIS AGREEMENT SHALL BE
+        INTERPRETED, CONSTRUED AND GOVERNED IN ACCORDANCE WITH THE LAWS OF THE
+        STATE OF GEORGIA. This Agreement constitutes the entire agreement
+        between the parties, supersedes all previous understandings, commitments
+        or representations and is intended as the complete and exclusive
+        statement of the terms of the agreement between the parties concerning
+        the subject matter hereof. This Agreement may not be amended or modified
+        in any way, and none of its provisions may be waived, except by a
+        writing signed by each party hereto.
+
+    10. Attorney's Fees. In the event of any dispute or controversy arising
+        hereunder, any court having jurisdiction in any such dispute or
+        controversy shall determine which of the parties is the prevailing party
+        and shall award to the prevailing party the reasonable fees and expenses
+        of counsel, experts and other court costs incurred in connection with
+        such dispute or controversy.
+
+    11. No right of Transfer. Weblink shall not, and shall not have the right
+        to, grant, sell, assign, encumber, permit the utilization of, license,
+        lease, or otherwise convey, directly or indirectly, in whole or in part
+        (individually, a "Transfer"), Weblink's Satellite Capacity, or any of
+        its rights under this Agreement, to any other entity or person.
+        Notwithstanding the foregoing, Customer may assign its Satellite
+        Capacity, and its rights under this Agreement, without ITCD's written
+        consent, to any corporation, partnership or other entity which is
+        controlled by Customer and in which Customer has not less than fifty-
+        one percent (51%) of the ownership interest, provided that no such
+        assignment shall relieve Customer of any of its obligations hereunder.
+
+    12. Successors and Assigns. Subject to Paragraph L.11 above, this Agreement
+        shall be binding on and shall inure to the benefit of any successors and
+        assigns of the parties, provided that no assignment of this Agreement
+        shall relieve either party hereto of its obligations to the other party.
+        Any purported assignment by either party not in compliance with the
+        provisions of this Agreement shall be null and void and of no force and
+        effect.
+
+
+                                                                    Page 9 of 10
+
+
+             Third Amended and Restated Satellite Services Agreement
+                        ITC DeltaCom Communications, Inc
+                          Confidential and Proprietary
+
+
+<PAGE>
+
+
+
+
+                           THIRD AMENDED AND RESTATED
+                    SATELLITE SERVICES SUPPLEMENTAL AGREEMENT
+
+         IN WITNESS WHEREOF, each of the parties hereto has caused this
+Agreement to be duly executed on its behalf by an officer thereunto duly
+authorized, all as of the day and year first above written.
+
+
+                                         ITC DELTACOM COMMUNICATIONS, INC.
+
+                                         By: Harold E. Conan
+                                             -----------------------------------
+                                         Title: Vice President
+                                                --------------------------------
+                                         Date: August 1, 2001
+                                               ---------------------------------
+                                         Signed: /s/ HAROLD E. CONAN
+                                                 -------------------------------
+
+
+                                         WEBLINK WIRELESS, INC.
+
+                                         By: Douglas S. Glen
+                                             -----------------------------------
+                                         Title: Senior Vice President
+                                                --------------------------------
+                                         Date: July 31, 2001
+                                               ---------------------------------
+                                         Signed: /s/ DOUGLAS S. GLEN
+                                                 -------------------------------
+
+
+
+
+
+
+
+
+
+
+
+                                                                   Page 10 of 10
+
+             Third Amended and Restated Satellite Services Agreement
+                        ITC DeltaCom Communications, Inc
+                          Confidential and Proprietary
+
+
+
+</TEXT>
+</DOCUMENT>

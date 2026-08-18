@@ -1,0 +1,112 @@
+<DOCUMENT>
+<TYPE>EX-10.30
+<SEQUENCE>16
+<FILENAME>f90966exv10w30.txt
+<DESCRIPTION>EXHIBIT 10.30
+<TEXT>
+<PAGE>
+                                                                   EXHIBIT 10.30
+
+
+                                AMENDMENT # 2 TO
+                     PROFESSIONAL SERVICES AGREEMENT BETWEEN
+                     GE MEDICAL SERVICES AND SELECTICA INC.
+
+This Amendment #2 ("Amendment #2") to the Professional Services Agreement
+between GE Medical Services and Affiliates ("Customer") and Selectica Inc.
+("SELECTICA") dated June 28, 2002 (the "Agreement"), is made as of the date of
+signature by the last signing party (the "Effective Date") by and among Customer
+and SELECTICA.
+
+                                     RECITAL
+
+On June 28, 2002, Customer and SELECTICA entered into the Agreement by which
+SELECTICA is to provide certain Services. The parties to the Agreement now wish
+to amend the Agreement as follows by executing this Amendment #2.
+
+                                    AGREEMENT
+
+      1.    Schedule A, Section 1, Paragraph 3 (Payment Schedule Table) of the
+            Agreement, shall be deleted in its entirety and replaced with the
+            following:
+
+<TABLE>
+<CAPTION>
+                      Payment Date                    Amount of Payment
+                      ------------                    -----------------
+<S>                                                   <C>
+       Acceptance of Deliverable at Milestone 1          $  640,000
+       (estimated September 30, 2002)
+
+       Acceptance of Deliverable at Milestone 2          $  640,000
+       (estimated December 31, 2002)
+
+       "Gold Code" for Field Release R1+                 $  307,000
+       (estimated March 31, 2003)
+
+       "Gold Code" for Field Release R2+                 $  181,000
+       (estimated June 30, 2003)
+
+       "Gold Code" for Field Release R3+                 $  295,000
+       (estimated September 30, 2003)
+
+       "Gold Code" for Field Release R4+                 $  295,000
+       (estimated December 31, 2003)
+
+       Field Deployment of R4+ to GEMS Core              $  421,000
+       (estimated February 15, 2004)
+
+       Field Deployment (50%) of R4+ to GEMS Core        $  421,000
+       (estimated March 31, 2004)
+
+        TOTAL                                            $3,200,000
+</TABLE>
+
+      Customer agrees to issue the purchase orders approximately forty-five (45)
+days prior to the acceptance date. Selectica shall invoice to the Customer
+approximately thirty (30)
+
+<PAGE>
+
+days prior to the acceptance date and cash payments shall be made once
+acceptance has been received.
+
+2.    Miscellaneous
+
+All other terms and conditions of the Agreement, including exhibits and
+schedules remain unchanged.
+
+This Amendment #2 may be executed in any number of counterparts, each of which
+shall be deemed an original, but all of which together shall constitute one
+instrument.
+
+In the event of any inconsistency between the terms of the Agreement and the
+terms of this Amendment, this Amendment will prevail in all respects.
+
+THIS AMENDMENT, INCLUDING THE AGREEMENT OF WHICH IT IS A PART, IS A COMPLETE AND
+EXCLUSIVE STATEMENT OF THE AGREEMENT BETWEEN THE PARTIES, WHICH SUPERSEDES ALL
+PRIOR OR CONCURRENT PROPOSALS AND UNDERSTANDINGS, WHETHER ORAL OR WRITTEN, AND
+ALL OTHER COMMUNICATIONS BETWEEN THE PARTIES RELATING TO THE SUBJECT MATTER OF
+THIS AMENDMENT AND THE AGREEMENT.
+
+IN WITNESS WHEREOF, the parties have caused this Amendment #2 to the Agreement
+to be duly signed and authorized.
+
+GE Medical Services                        SELECTICA, INC.
+(CUSTOMER)                                 (SELECTICA)
+
+By:     /s/ RONALD J. MAUER                By:      /s/ Stephen Bennion
+    ------------------------------             ------------------------------
+Name:   RONALD J. MAUER                    Name:    Stephen Bennion
+      ----------------------------               ----------------------------
+Title:  Sourcing Leader                    Title:   CFO
+       ---------------------------                ---------------------------
+Address:                                   Address:
+         -------------------------                  -------------------------
+
+----------------------------------         ----------------------------------
+Date:   28 - Mar 03                        Date:    3-3-03
+      ----------------------------               ----------------------------
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,2352 @@
+<DOCUMENT>
+<TYPE>EX-10.6
+<SEQUENCE>8
+<FILENAME>u98524exv10w6.txt
+<DESCRIPTION>EX-10.6 TELECOMMUNICATIONS BUSINESS LAW
+<TEXT>
+<PAGE>
+                                                                   [Translation]
+
+
+
+                       THE TELECOMMUNICATIONS BUSINESS LAW
+             (Law No. 6822, partially amended on December 26, 2002)
+
+
+                          CHAPTER 1. GENERAL PROVISIONS
+
+
+Article 1. Purpose
+
+The purpose of this Law is to contribute to the sound development of the
+telecommunications business through proper business management and to the
+promotion of public welfare by pursuing consumers' convenience.
+
+
+Article 2. Definition
+
+(1)  Terms that are used in this Law are defined as follows:
+
+     a)   "Telecommunications service provider(s)" means the
+          person(s)/party(ies) which carry out telecommunications services under
+          the permit, registration or report as provided in this Law.
+
+     b)   "Users" mean the person(s)/party(ies) who concluded a service contract
+          regarding telecommunications service with Telecommunications Service
+          Provider in order to obtain telecommunications services.
+
+     c)   "Universal Services" mean the basic telecommunications services
+          affordable to all Users anywhere anytime at reasonable prices.
+
+(2)  The definitions of the terms used in this Law shall be in conjunction with
+     those under the "Telecommunications Basic Law", except for the terms
+     defined by Paragraph (1) above.
+
+
+Article 3. Obligation to Provide Services
+
+(1)  Telecommunications service providers shall not refuse to provide any
+     telecommunications service without reasonable cause.
+
+(2)  Telecommunications service providers shall be fair, fast, and accurate in
+     providing services.
+
+<PAGE>
+(3)  Telecommunications service tariffs shall be set at a reasonable rate in
+     order to promote smooth development of the telecommunications business as
+     well as to allow customers to enjoy various and convenient services at a
+     fair and low price.
+
+
+Article 3-2. Universal Services
+
+(1)  All telecommunications service providers shall provide universal services
+     or shall compensate for any and all losses arising from such provision of
+     universal services.
+
+(2)  Notwithstanding Paragraph (1) above, the Minister of Information and
+     Communication may exempt from such obligations, (i) those
+     telecommunications service providers, as provided in the Decree of the
+     Ministry of Information and Communication, whom it would be inappropriate
+     to impose the said obligations by the nature of the telecommunications
+     service, and (ii) those telecommunications service providers whose revenue
+     from telecommunications services do not exceed the amount set forth in the
+     Decree of the Ministry of Information and Communication within 1/100 of the
+     total revenues from all telecommunications services.
+
+(3)  The specific contents of universal services shall be determined in
+     consideration of each of the following matters:
+
+     a)   Development state of information and communication technology;
+
+     b)   Degree of supply of telecommunications services;
+
+     c)   Public benefit and safety;
+
+     d)   Promotion of social welfare; and
+
+     e)   Promotion of Informationization.
+
+(4)  The matters necessary for the specific contents of universal services,
+     designation of universal services providers, compensation for the losses
+     caused by the supply of universal services and the funding for such
+     compensation, etc. shall be determined by the Presidential Decree.
+
+
+                     CHAPTER 2. TELECOMMUNICATIONS BUSINESS
+
+
+                              I. General Provisions
+
+<PAGE>
+Article 4. Classification of Telecommunications Business
+
+(1)  Telecommunications business is classified into network service business,
+     specific service business and value added service business.
+
+(2)  Network service businesses are those that install telecommunications line
+     facilities and provide telecommunications services by using the
+     telecommunications line facilities("Network Services") in types and
+     contents as designated by the Decree of the Ministry of Information and
+     Communication, in consideration of public interest, effect on national
+     industry and necessity of stable provision of telecommunications services,
+     such as cable communications or telephone calling services.
+
+(3)  Specific service business are those that fall under any of the followings.
+
+     a)   Business providing Network Services by using telecommunications line
+          facilities of person(s) permitted for Network Service business under
+          Article 5 (hereinafter referred to as "Network Service Provider"); or
+
+     b)   Business installing telecommunications facilities in the building
+          provided in the Decree of the Ministry of Information and
+          Communication or providing telecommunications services by using such
+          facilities in such building.
+
+(4)  Value added service businesses are those that provide telecommunications
+     services ("Value Added Services") other than the Network Services provided
+     in Paragraph (2) above, with telecommunications line facilities leased from
+     Network Service Provider.
+
+
+                          II. Network Service Business
+
+
+Article 5. Permits for Network Service Providers
+
+(1)  Those who wish to be Network Service Providers shall obtain a permit from
+     the Minister of Information and Communication.
+
+(2)  When the Minister of Information and Communication wishes to permit a
+     Network Service Provider under Paragraph (1), he/she shall proceed through
+     reviews of the Information and Telecommunications Policy Deliberation
+     Committee (hereinafter referred to as the "Deliberation Committee")
+     pursuant to Article 44-2 of the Telecommunications Basic Law. However, such
+     review is not required for the permitting minor businesses provided by the
+     Decree of the Ministry of Information and Communication.
+
+(3)  When the Minister of Information and Communication permits a service
+     provider under Paragraph (1) above, he/she shall comprehensively consider
+     the following matters:
+
+<PAGE>
+     a)   Whether an applicant presents a reasonable plan for Network Service
+          provision;
+
+     b)   Whether the size/scale of the telecommunications facilities of an
+          applicant is adequate;
+
+     c)   Whether an applicant has a sound financial foundation and
+          technological capabilities;
+
+     d)   Whether an applicant accomplished any technological developments
+          concerning Network Services to be provided;
+
+     e)   Whether an applicant has a technological development plan for Network
+          Services;
+
+     f)   Whether an applicant has a technological assistance plan for
+          development of telecommunications services; and
+
+     g)   Any other matters necessary for implementation of business.
+
+(4)  The Minister of Information and Communication shall determine and notify
+     the detailed criteria of review, period for application and method of
+     application for each Item of Paragraph (3).
+
+(5)  When the Minister of Information and Communication permits a Network
+     Service Provider pursuant to Paragraph (1), he/she can attach conditions to
+     the permit, which are necessary for the provision of services, and research
+     and development for the improvement of the telecommunications industry.
+
+(6)  Those who can be permitted as Network Service Providers pursuant to
+     Paragraph (1) are limited to corporations.
+
+(7)  Procedures regarding the permit under Paragraph (1) and other necessary
+     matters are to be determined by the Decree of the Ministry of Information
+     and Communication.
+
+
+Article 5-2. (Deleted)
+
+
+Article 6.    Disqualification of an Approval
+
+Any person(s)/party(ies) falling under one or more of the following categories
+may not obtain a Network Service Provider license under Article 5.
+
+     a)   Foreign government or foreigner;
+
+<PAGE>
+     b)   (Deleted); or
+
+     c)   Corporation in which any one of the following individuals owns more
+          than 49/100 of the total issued and outstanding stock (limited to
+          stock with voting rights and including investment equity; the same to
+          apply hereinafter).
+
+          i)   Foreign government;
+
+          ii)  Foreigner; or
+
+          iii) Corporation owned by foreign government or foreigner in a
+               percentage exceeding that determined by the Presidential Decree.
+
+     d) and e) (Deleted)
+
+     f)   Corporation in which any one of the following individuals is the
+          largest shareholder (an individual whose ownership ratio of stock with
+          voting rights or investment equity is the highest; the same to apply
+          hereinafter)
+
+          i)   National government;
+
+          ii)  Local autonomous organizations;
+
+          iii) and iv) (Deleted)
+
+     g) through i) (Deleted)
+
+
+Article 6-2. Qualification for Officials, etc.
+
+(1)  A person who falls under any of the following Items shall not be an
+     official of Network Service Provider:
+
+     a)   A person who is minor, incompetent or quasi-incompetent;
+
+     b)   A person who is bankrupt and has not been reinstated;
+
+     c)   A person who is subjected to a prison sentence which is heavier than
+          imprisonment due to his/her violation of this Law, the
+          Telecommunications Basic Law, the Radio Waves Law or the Laws on
+          Promotion of Information and Communication Network Utilization and
+          Information Protection, and three (3) years have not elapsed after the
+          completion of the execution of the sentence (including cases when the
+          execution of the sentence is deemed to be completed) or exemption from
+          the execution of the
+
+<PAGE>
+          sentence;
+
+     d)   A person who is subjected to a suspended sentence which is heavier
+          than imprisonment due to his/her violation of this Law, the
+          Telecommunications Basic Law, the Radio Waves Law or the Laws on
+          Promotion of Information and Communication Network Utilization and
+          Information Protection, and is currently under probation;
+
+     e)   A person who is subjected to a fine due to his/her violation of this
+          Law, the Telecommunications Basic Law, the Radio Waves Law or the Laws
+          on Promotion of Information and Communication Network Utilization and
+          Information Protection, and three (3) years have not elapsed after the
+          date of such sentence; or
+
+     f)   A person who receives a measure for cancellation of permit as set
+          forth in Article 15, Paragraph (1), a measure for cancellation of
+          registration as set forth in Article 28, Paragraph (1), or an order
+          for cessation of business as set forth in Article 28, Paragraph (2),
+          and three (3) years have not elapsed after the date of receipt of such
+          measure or order. In such case, if a corporation, it shall mean the
+          person who caused such measures for cancellation of permit or
+          registration, or an order for cessation and its representative.
+
+(2)  Any official who comes to fall under each category of Paragraph (1) above,
+     or is proved to be a person who fell under such category at the time of
+     appointment, he/she shall automatically resign from office.
+
+(3)  Any act in which an official who resigned from office according to
+     Paragraph (2) above had been involved prior to his/her resignation shall
+     not lose its effect.
+
+
+Article 7. Limitations on Stockholders who Own an Excess Portion of Shares
+
+(1)  When a shareholder of the stock of Network Service Providers under the
+     provisions of Article 5, Paragraph (1), falls under Article 6, Item c)
+     through Item f), he/she may not exercise voting rights as to the specified
+     portion or excess portion of the shares.
+
+(2)  The Minister of Information and Communication can order correction of
+     related items within the period of six (6) months when a Network Service
+     Provider(s) or a shareholder(s) is subject to any Item of Article 6.
+
+(3)  When a Network Service Provider(s) or a shareholder(s) has received a
+     corrective order pursuant to the provisions of Paragraph (2), he/she shall
+     correct those items within such period.
+
+(4)  For stock falling under the provisions of Article 6, Items c) through f), a
+     Network Service
+
+<PAGE>
+     Provider(s) may refuse to change the shareholders' or members' registry for
+     all or the excess portion of the stock.
+
+
+Article 8.  Issuance of Stock
+
+In case of stock issued by a Network Service Provider, the stock shall be in
+registered form.
+
+
+Article 9.  Obligation of Commencement of Services
+
+(1)  A Network Service Provider(s) shall install telecommunications facilities
+     and commence business within the period prescribed by the Minister of
+     Information and Communication.
+
+(2)  When a Network Service Provider(s) cannot initiate service within the
+     prescribed period pursuant to Paragraph (1) due to unavoidable reasons such
+     as natural catastrophes, the Minister of Information and Communication can
+     extend the period once upon request of the Network Service Provider(s).
+
+(3)  (Deleted)
+
+
+Article 10. Addition of Services and Permit of Alteration
+
+(1)  When a Network Service Provider wishes to provide any additional Network
+     Services other than those already permitted under Article 5, he/she shall
+     obtain a permit of alteration from the Minister of Information and
+     Communication pursuant to the provisions of the Decree of the Ministry of
+     Information and Communication. However, when a Network Service Provider
+     providing telephone services wishes to provide additional Network Services
+     as prescribed by the Decree of the Ministry of Information and
+     Communication by using the existing facilities without hindering the
+     Network Services currently provided by him/her, he/she shall report to the
+     Minister of Information and Communication.
+
+(2)  When a Network Service Provider wishes to alter any important matters
+     determined by the Decree of the Ministry of Information and Communication
+     among those permitted matters under Article 5, he/she shall obtain a permit
+     of alteration from the Minister of Information and Communication pursuant
+     to the provisions of the Decree of the Ministry of Information and
+     Communication.
+
+(3)  The provisions of Article 5, Paragraph (5) and Article 9 shall apply
+     mutatis mutandis to the permit of alteration under Paragraph (1) of this
+     Article.
+
+
+Article 11. Additional Business
+
+<PAGE>
+(1)  When a Network Service Provider wishes to operate another business besides
+     the telecommunications service, he/she shall obtain an approval of the
+     Minister of Information and Communication. However, he/she need not obtain
+     approval for businesses designated by the Presidential Decree.
+
+(2)  The Minister of Information and Communication shall give approval pursuant
+     to Paragraph (1) when it is determined that an additional business under
+     the provisions of Paragraph (1) will not impede the operation of
+     telecommunications services and that it is necessary for the development of
+     telecommunications.
+
+
+Article 12. (Deleted)
+
+
+Article 13. Acquisition of Business and Merger of a Corporation
+
+(1)  Those who wish to acquire all or a part of the business of a Network
+     Service Provider or to merge with a Network Service Provider, shall obtain
+     the approval from the Minister of Information and Communication as
+     determined by the Decree of the Ministry of Information and Communication.
+
+(2)  When a Network Service Provider wishes to establish a new corporation to
+     provide a part of its permitted Network Services, he/she shall obtain an
+     approval from the Minister of Information and Communication as determined
+     by the Decree of the Ministry of Information and Communication.
+
+(3)  To issue a permit or an approval pursuant to Paragraph (1) or (2), the
+     Minister of Information and Communication shall examine the following Items
+     comprehensively:
+
+     a)   Appropriateness of financial and technological capacity and business
+          operation ability;
+
+     b)   Appropriateness of management of information and communication
+          resources, including frequency and telecommunication number;
+
+     c)   Effects on the competition in Network Service business; and
+
+     d)   Effects on the protection of users and public interest.
+
+(4)  Any matters necessary for the detailed standards for examination and
+     examination procedures for each examination item mentioned in Paragraph (3)
+     above, shall be determined and notified by the Minister of Information and
+     Communication.
+
+(5)  Those who have acquired a business of a Network Service Provider or the
+     corporations which either are in existence after a merger or have been
+     established as a result of a merger
+
+<PAGE>
+     under Paragraph (1) above and the corporations established with the
+     approval under Paragraph (2) shall inherit the duties and rights related to
+     the permit of the former Network Service Provider.
+
+(6)  To issue a permit or an approval pursuant to Paragraph (1) or (2), the
+     Minister of Information and Communication may annex a proviso necessary for
+     fair competition and protection of users.
+
+(7)  When the Minister of Information and Communication intends to issue an
+     approval pursuant to Paragraph (1), he/she shall discuss thereof with the
+     Information and Telecommunication Policy Review Committee under Article
+     44-2 of Telecommunications Basic Law and the Fair Trade Commission.
+
+(8)  The provisions of Article 6 shall apply mutatis mutandis to the approval
+     under Paragraphs (1) and (2).
+
+
+Article 14. Cessation/Abolition of Business or Dissolution of Corporation
+
+(1)  When a Network Service Provider wishes to cease/abolish its entire or a
+     part of its Network Service business, he/she shall obtain an approval from
+     the Minister of Information and Communication.
+
+(2)  A resolution for dissolution of a corporation or a unanimous agreement by
+     all members on dissolution of a corporation, which is a Network Service
+     Provider, requires an approval of the Minister of Information and
+     Communication.
+
+(3)  The Minister of Information and Communication shall not allow an approval
+     under Paragraph (1) or pursuant to Paragraph (2) when such
+     cessation/abolition of business or dissolution of a corporation might
+     endanger public interest.
+
+
+Article 15. Cancellation of Permit
+
+(1)  The Minister of Information and Communication can order cancellation of
+     permit or order a suspension of all or a part of the business for less than
+     one (1) year when a Network Service Provider falls under any of the
+     followings:
+
+     a)   When a Network Service Provider has obtained permit through fraud or
+          other illegitimate means;
+
+     b)   When a Network Service Provider does not comply with the conditions
+          set out under Paragraph (5) of Article 5 and Paragraph (6) of Article
+          13;
+
+     c)   When a Network Service Provider does not comply with the orders under
+          Paragraph (2) of Article 7;
+
+<PAGE>
+     d)   When a Network Service Provider has not commenced the services within
+          the period set out by Paragraph (1) of Article 9 (within the extended
+          period in case extension of the period was allowed under Paragraph (2)
+          of Article 9);
+
+     e)   When a Network Service Provider fails to comply with the standard
+          contract approved or reported under the provision of Article 29,
+          Paragraph (1);or
+
+     f)   When a Network Service Provider has violated this Law (except for the
+          provisions of Article 36-3 and Article 36-4), the Telecommunications
+          Basic Law, the Radio Waves Law, or the Laws on Promotion of
+          Information and Communication Network Utilization and Information
+          Protection , the Basic Informationization Promotion Law, or orders
+          based on such laws.
+
+(2)  Standards, procedures and other matters required pursuant to Paragraph (1)
+     shall be prescribed by the Decree of the Ministry of Information and
+     Communication.
+
+
+Article 16. (Deleted)
+
+
+                                 III. (Deleted)
+
+
+Articles 17 and 18 (Deleted)
+
+
+     IV.  Specific Service Business and Value Added Service Business
+
+
+Article 19. Registration for Specific Service Provider
+
+(1)  Those who wish to do specific service business shall resister to the
+     Minister of Information and Communication with the each of the following
+     requirements as designated by the Decree of Ministry of Information and
+     Communication.
+
+     a)   Financial and technical capability;
+
+     b)   Plan for protection of users; and
+
+     c)   Business plan and other matters determined by the Decree of Ministry
+          of Information and Communication.
+
+(2)  When receiving the registration for a specific service provider, the
+     Minister of Information and Communication may attach necessary conditions
+     to such as provision of services or research and development for the
+     development of telecommunication industry.
+
+<PAGE>
+(3)  Only a corporation may register for a specific service business as set
+     forth in Paragraph (1).
+
+(4)  Procedures, requirements and other necessary matters for registration as
+     set forth in Article 1 shall be determined by the Decree of Ministry of
+     Information and Communication.
+
+
+Article 20.   (Deleted)
+
+
+Article 21.   Report of Value Added Service Providers
+
+Those who wish to operate Value Added Service business shall report to the
+Minister of Information and Communication as designated by the Presidential
+Decree. However, this report is not required for the operation of a Value Added
+Service business by a Network Service Provider or for the operation of
+miscellaneous businesses to be determined by the Presidential Decree.
+
+
+Article 22.   Changes in Registration or Report
+
+When a person who has registered for a specific service business pursuant to
+Article 19 (hereinafter called "Specific Service Provider") or who has reported
+to operate a Value Added Service business pursuant to Article 21 (hereinafter
+called "Value Added Service Provider") wishes to change any item already
+registered or reported, it shall register or report such changes in advance in
+accordance with the Decree of Ministry of Information and Communication.
+
+
+Article 23.   (Deleted)
+
+
+Article 24.   (Deleted)
+
+
+Article 24-2. (Deleted)
+
+
+Article 25.    Transfer or Acquisition of a Business
+
+In case of an entire or partial transfer or acquisition of Specific Service
+business or Value Added Service business or merger or inheritance of Specific
+Service Provider or Value Added Service Provider, the company that acquired such
+business, the corporation surviving the merger, the new corporation established
+as a result of the merger, or the heir shall report to the Minister of
+Information and Communication as prescribed by the Decree of the Ministry of
+Information and Communication.
+
+<PAGE>
+Article 26. Succession of a Business
+
+In case of transfer or acquisition of Specific Service business or Value Added
+Service business or merger or inheritance of Specific Service Provider or a
+Value Added Service Provider, pursuant to the provisions of Article 25, the
+company that obtained such transferred business, the corporation which survives
+the merger, the new corporation established as a result of the merger, or the
+heir who inherited the business also inherits all the rights and duties related
+to a Specific Service Provider or a Value Added Service Provider.
+
+
+Article 27. Suspension and Cessation of a Business
+
+(1)  When a Specific Service Provider or a Value Added Service Provider wishes
+     to suspend or cease all or a part of its service, he/she shall notify such
+     fact to the Minister of Information and Communication and inform the
+     service users of such fact thirty (30) days prior to the scheduled
+     suspension or cessation.
+
+(2)  When a corporation of a Specific Service Provider or a Value Added Service
+     Provider is dissolved due to reasons other than a merger, its liquidator
+     (in case of bankruptcy, a trustee) shall notify such fact to the Minister
+     of Information and Communication without any delay.
+
+
+Article 28. Cancellation of Registration and Order of Cessation of Business
+
+(1)  The Minister of Information and Communication may cancel a registration or
+     order a suspension of a business for a period less than one (1) year when a
+     Specific Service Provider has committed any of the followings; however, the
+     Minister of Information and Communication shall cancel its registration in
+     each of the following Items:
+
+     a)   When a Specific Service Provider has registered through fraud or other
+          illegitimate means;
+
+     b)   When a Specific Service Provider has not commenced service within one
+          (1) year since the registered date under Article 19, Paragraph (1) or
+          has ceased service for one (1) year or longer;
+
+     c)   When a Specific Service Provider has not performed the conditions
+          under Article 19, Paragraph (2);
+
+     d)   (Deleted);
+
+     e)   When a Specific Service Provider has not complied with a corrective
+          order pursuant
+
+<PAGE>
+          to Article 65, Paragraph (1) without a justifiable cause;
+
+     f)   When a Specific Service Provider has not performed the order pursuant
+          to Article 7, Paragraph (2) applied mutatis mutandis by the provision
+          of Article 6, Paragraph (2) of Addendum; or
+
+     g)   When a Specific Service Provider has violated this Law (except for the
+          provisions of Article 36-3 and Article 36-4), the Telecommunications
+          Basic Law, the Radio Waves Law, or the Laws on Promotion of
+          Information and Communication Network Utilization and Information
+          Protection, the Basic Informationization Promotion Law or orders based
+          on such laws.
+
+(2)  The Minister of Information and Communication may order a cessation, or
+     order a suspension of a business for a period less than one (1) year when a
+     Value Added Service Provider has committed any of the followings; however,
+     the Minister of Information and Communication shall order cessation in each
+     of the following Items:
+
+     a)   When a Value Added Service Provider has reported through fraud or
+          other illegitimate means;
+
+     b)   When a Value Added Service Provider has not commenced service within
+          one (1) year since the registered date under Article 21 or has ceased
+          service for one (1) year or longer;
+
+     c)   (Deleted);
+
+     d)   When a Value Added Service Provider has not complied with a corrective
+          order pursuant to Article 65, Paragraph (1) without a justifiable
+          cause; or
+
+     e)   When a service provider has violated this Law (except for the
+          provisions of Article 36-3 and Article 36-4), the Telecommunications
+          Basic Law, the Radio Waves Law, or the Laws on Promotion of
+          Information and Communication Network Utilization and Information
+          Protection, the Basic Informationization Promotion Law or orders based
+          on such laws.
+
+(3)  Criteria, procedures and other necessary matters under Paragraph (1) or (2)
+     are to be determined by the Decree of the Ministry of Information and
+     Communication.
+
+
+                     CHAPTER 3. TELECOMMUNICATIONS BUSINESS
+
+
+Article 29. Report of Standard Contract
+
+(1)  Any Network Service Provider shall establish terms of tariff and other
+     service conditions (hereinafter called "standard contract") regarding each
+     telecommunications service to be
+
+<PAGE>
+     provided and shall report (including report of any change) them to the
+     Minister of Information and Communication. However, Network Service of
+     which the scope of business and market share falls under the standards as
+     designated by the Decree of the Ministry of Information and Communication
+     shall be subject to approve (including permit for any change) from the
+     Minister of Information and Communication.
+
+(2)  (Deleted)
+
+(3)  The Minister of Information and Communication shall approve a service
+     contract pursuant to the proviso of Paragraph (1) when he/she determines
+     that the service contract meets the following criteria:
+
+     a)   The fees for the telecommunications service are fair and appropriate;
+
+     b)   The computing method for fees is appropriate and clear;
+
+     c)   The terms regarding the responsibility of the service providers and
+          the users of networks as well as method of sharing the construction
+          costs, such as for installation of the telecommunications facility and
+          other construction, are appropriate and clear;
+
+     d)   It does not unfairly restrict methods of use of the telecommunications
+          line facilities by other telecommunications service provider or user;
+
+     e)   It does not discriminate against any particular person or party; and
+
+     f)   It takes into consideration the terms regarding the securement of
+          major communications under the regulations of Article 55.
+
+(4)  When there is a need to provide a new telecommunications service for an
+     experimental purpose, the Minister of Information and Communication may
+     temporarily approve a standard contract regardless of the provisions of
+     Paragraph (1).
+
+(5)  When a Specific Service Provider or a Value Added Service Provider uses
+     telecommunications line facilities of a Network Service Provider, the
+     standard contract under Paragraph (1) shall be applied to the uses of such
+     telecommunications line facilities.
+
+
+Article 30. Changes in Standard Contracts
+
+(1)  When the Minister of Information and Communication deems that the standard
+     contract is clearly unfair and thereby creates a problem in promoting
+     public interest due to the changes in the social and economic environment,
+     he can order a telecommunications service provider to alter a standard
+     contract within a certain period after consultation with the Communications
+     Commission established under Article 37 of the Telecommunications Basic Law
+     ("Communications Commission").
+
+<PAGE>
+(2)  When an order of alteration is issued pursuant to Paragraph (1), the
+     telecommunications service provider shall alter the standard contract
+     within the specified time period.
+
+
+Article 31.   (Deleted)
+
+
+Article 32.   Reduction or Waiver of Fees
+
+Network Service Providers may reduce or waive telecommunications fees as
+determined by the Presidential Decree.
+
+
+Article 32-2. Restrictions on Use by Others
+
+No person shall use telecommunications service to be provided by
+telecommunications service provider in order to mediate others'
+telecommunications or provide it for telecommunications for others. However, the
+foregoing provision shall not apply to each of the following cases:
+
+     a)   When such mediation or provision is deemed necessary to prevent
+          disaster or provide aid, to secure transportation?communication?power
+          supply, and to maintain public order, under a national emergency
+          situation;
+
+     b)   When a person who conducts a business other than the
+          telecommunications business, provides his/her customers with the
+          telecommunications business service as an incidental service;
+
+     c)   When a person who engages in the development and sale of
+          telecommunications facilities, such as terminal equipment usable for
+          telecommunications service, allow the third parties to use such
+          facilities for an experimental purpose;
+
+     d)   When a user allows a third party to use the telecommunications
+          business service on a non-recurrent basis; or
+
+     e)   Other cases as provided in the Presidential Decree, which is required
+          for the interest of the public or does not result in impediment to the
+          operations of telecommunications service providers.
+
+
+Article 32-3. (Deleted)
+
+
+Article 32-4. Use of Transmission/Line Facilities
+
+<PAGE>
+(1)  CATV broadcasting system operators, network operators or relay broadcasting
+     system operators under the Broadcasting Law may provide their
+     transmission/line facilities or CATV broadcasting facilities to network
+     service providers, pursuant to those terms set forth in the Presidential
+     Decree.
+
+(2)  If a CATV broadcasting system operator, network operator or relay
+     broadcasting system operator under the Broadcast Law wishes to provide
+     Value Added Services by using its transmission/line facilities or CATV
+     broadcasting facilities, it shall report to the Minister of Information and
+     Communication in accordance with Article 21.
+
+(3)  The provisions of Article 33-5 through Article 37 and Article 38 shall
+     apply mutatis mutandis to the provision of transmission or line facilities
+     or CATV broadcasting facilities as set forth in Paragraph (1).
+
+(4)  The provisions of Article 25, Paragraph (2) through Paragraph (6) of the
+     Telecommunications Basic Law shall apply mutatis mutandis to the provision
+     of the services as set forth in Paragraph (2).
+
+
+Article 33.   Consumer Protection
+
+(1)  (Deleted)
+
+(2)  Telecommunications service providers shall immediately process any
+     complaints or just suggestions regarding telecommunications services from
+     users. A telecommunications service provider shall notify a consumer of the
+     reason and the plan for processing when immediate processing is not
+     possible.
+
+(3)  Compensation for any damage arising out of any suggestions or complaints in
+     accordance with the provisions of Paragraph (2) or due to a delay in
+     processing shall be dealt in accordance with the provisions of Article
+     33-2.
+
+
+Article 33-2. Compensation for Damage
+
+If telecommunications service provider inflicts damage to the user in providing
+telecommunications service, he/she shall compensate for the damage. However, if
+the damage occurs due to force majeure event or due to the user's intention or
+negligence, the responsibilities for compensation of the damage shall be reduced
+or exempted.
+
+
+Article 33-3. Procedures for Compensation for Damage and Application for Ruling
+
+(1)  In the case of compensation for damage under Article 33-2, the compensation
+     shall be made
+
+<PAGE>
+     through consultation with the person who is eligible for compensation for
+     damage.
+
+(2)  If consultation on compensation for damage as set forth in Paragraph (1)
+     above is not or cannot be made, the relevant parties mayl request the
+     Communications Commission for a ruling.
+
+
+       CHAPTER 4. PROMOTION OF COMPETITION OF TELECOMMUNICATIONS BUSINESS
+
+
+Article 33-4. Promotion of Competition
+
+The Minister of Information and Communication shall make its efforts for
+establishment of efficient competition system of telecommunications business and
+for formation of fair competition environment.
+
+
+Article 33-5. Provision of Telecommunications Facilities
+
+(1)  When there is a request for provision of telecommunications facilities from
+     another Network Service Provider, the Network Service Provider may provide
+     other Network Service Provider with telecommunications facilities by
+     executing an agreement.
+
+(2)  Notwithstanding Paragraph (1) above, any Network Service Provider who falls
+     under any of the following Items shall, upon receipt of a request as set
+     forth in Paragraph (1), provide the requested telecommunications facilities
+     by executing an agreement.
+
+     a)   the Network Service Provider owns facilities that are essential other
+          telecommunications service providers' provisions of telecommunications
+          service; or
+
+     b)   the Network Service Provider whose business scale or market share
+          meets the standards set out in the Decree of the Ministry of
+          Information and Communication.
+
+(3)  The scope of the telecommunications facilities as set forth in Paragraphs
+     (1) and (2), and the standards on terms and conditions, procedures, method
+     and calculation of consideration of provision of the facilities shall be
+     determined and notified by the Minister of Information and Communication.
+     In this case, the scope of the telecommunications facilities to be provided
+     under Paragraph (2) above shall be determined by considering the level of
+     demand for the telecommunications facilities of the Network Service
+     Providers falling under any Item in Paragraph (2) above.
+
+(4)  Network Service Provider who receives telecommunications facilities may be
+     equipped with equipment which may raise efficiency of the facilities within
+     the limit required for providing the permitted telecommunications services.
+
+<PAGE>
+(5)  If the Minister of Information and Communication wishes to determine the
+     standards as set forth in the Paragraph (3), it shall be subject to
+     deliberation of the Communications Commission.
+
+
+Article 33-6. Joint Use of Subscriber Line
+
+(1)  If a Network Service Provider, owning a line installed in the segment from
+     the users to the exchange facilities directly connected to such users
+     ("Subscriber Line"), receives a request for joint use of the Subscriber
+     Line from another telecommunications service provider as determined and
+     notified by the Minister of Information and Communication, the Network
+     Service Provider shall permit such joint use.
+
+(2)  The Minister of Information and Communication shall establish and publish
+     the notification regarding the standards concerning the scope, conditions,
+     procedures, and methods of, and calculation of consideration for, the joint
+     use of the Subscriber Line as set forth in Paragraph (1).
+
+(3)  If the Minister of Information and Communications wishes to determine the
+     standards as set forth in the Paragraph (2), it shall be subject to
+     deliberation of the Communications Commission.
+
+
+Article 33-7. Joint Use of Wireless Telecommunications Facilities
+
+(1)  If a Network Service Provider receives any request for joint use of
+     wireless telecommunications facilities from another Network Service
+     Provider ("Joint Use"), the Network Service Provider may permit such Joint
+     Use through execution of an agreement. In such case, the consideration for
+     the Joint Use among Network Service Providers as determined and notified by
+     the Minister of Information and Communication shall be calculated and
+     settled in a fair and reasonable manner.
+
+(2)  Notwithstanding Paragraph (1) above, for the purposes of increasing
+     efficiency in telecommunications business and protecting users, if the
+     Network Service Providers designated in the notification of the Minister of
+     Information and Communication receives a request for joint use from another
+     Network Service Providers designated in the notification of the Minister of
+     Information and Communication, the relevant Network Service Providers shall
+     permit such joint use by executing an agreement.
+
+(3)  The Minister of Information and Communication shall establish and publish
+     the notification regarding the calculation standard, procedures and payment
+     methods of the consideration for the Joint Use as set forth in the latter
+     part of Paragraph (1) and the standards concerning the scope, conditions,
+     procedures, and methods of, and calculation of consideration for, the Joint
+     Use set forth in Paragraph (2).
+
+<PAGE>
+(4)  If the Minister of Information and Communications wishes to determine the
+     standards as set forth in the Paragraph (3), it shall be subject to
+     deliberation of the Telecommunications Commission.
+
+
+Article 34.   Interconnection
+
+(1)  When there is a request for interconnection of telecommunication facilities
+     from another telecommunications service provider, the telecommunications
+     service provider may allow interconnection by executing an agreement.
+
+(2)  The scope of interconnection of the telecommunications facilities as set
+     forth in the Paragraph (1) and the standards on terms and conditions,
+     procedures, method and calculation of consideration of interconnection of
+     the telecommunication facilities shall be determined and notified by the
+     Minister of Information and Communication.
+
+(3)  Notwithstanding Paragraphs (1) and (2), Network Service Provider who falls
+     under any of the following Items shall, upon receipt of the request as set
+     forth in Paragraph (1), allow interconnection by executing an agreement.
+
+     a)   If Network Service Provider possesses the facilities which are
+          essential in other telecommunications service providers' provision of
+          telecommunications service; or
+
+     b)   If Network Service Provider provides Network Service of which scope of
+          business and market share falls under the standards determined by the
+          Decree of the Ministry of Information and Communication.
+
+(4)  If the Minister of Information and Communication wishes to determine the
+     standards as set forth in Paragraph (2), it shall be subject to
+     deliberation of the Communications Commission.
+
+
+Article 34-2. Consideration for Interconnection
+
+(1)  Consideration for interconnection shall be calculated and settled in a fair
+     and reasonable manner, and the detailed standards and procedures for
+     calculation and method of payment shall be in accordance with the standards
+     as set forth in Article 34, Paragraph (2).
+
+(2)  If Network Service Provider is disadvantaged due to causes not attributable
+     to himself/herself in respect of interconnection method, quality of
+     connected call or provision of information necessary for interconnection,
+     he/she may adjust the consideration by reducing the consideration for
+     interconnection as determined by the standards as set forth in Article
+     34-2.
+
+<PAGE>
+Article 34-3. Joint Use of Telecommunications Facilities
+
+(1)  When there is a request for access or joint use of telecommunications
+     facilities or equipments, such as conduit line, cable, electric pole or
+     station of the Network Service Provider for installation or operation of
+     facilities necessary for interconnection of telecommunications facilities
+     from another telecommunications service provider, the telecommunications
+     service provider may allow access or joint use of the telecommunication
+     facilities or equipment by executing an agreement.
+
+(2)  The scope of access or joint use of the telecommunications facilities or
+     equipments as set forth in Paragraph (1) and the standards on terms and
+     conditions, procedures, method and calculation of consideration for access
+     or joint use of the telecommunication facilities shall be determined and
+     notified by the Minister of Information and Communication.
+
+(3)  Notwithstanding Paragraph (1), Network Service Provider who falls under any
+     of the following Items shall, upon receipt of the request as set forth in
+     Paragraph (1), allow access or joint use of telecommunications facilities
+     or equipment by executing an agreement.
+
+     a)   If Network Service Provider possesses the facilities which are
+          essential in other telecommunications service providers' provision of
+          telecommunications service; or
+
+     b)   If Network Service Provider provides Network Service of which scope of
+          business and market share falls under the standards determined by the
+          Decree of the Ministry of Information and Communication.
+
+(4)  If the Minister of Information and Communication wishes to determine the
+     standards as set forth in Paragraph (2), he shall be subject to
+     deliberation of the Communications Commission.
+
+
+Article 34-4. Provision of Information
+
+(1)  When a Network Service Provider receives demand for provision of technical
+     information and personal information for users in order to provide
+     telecommunications facilities, interconnect, jointly use, to impose,
+     collect the fee and to serve the telecommunication directory information
+     from other telecommunications service provider, the former may provide the
+     demanded information by executing an agreement.
+
+(2)  The scope of the provision of information as set forth in Paragraph (1) and
+     the standards on terms and conditions, procedures, method and calculation
+     of consideration of provision of information shall be determined and
+     notified by the Minister of Information and Communication.
+
+<PAGE>
+(3)  Notwithstanding Paragraph (1), Network Service Provider who falls under any
+     of the following Items shall, upon receipt of the request as set forth in
+     Paragraph (1), provide demanded information of telecommunications
+     facilities by executing an agreement.
+
+     a)   If Network Service Provider possesses the facilities which are
+          essential in other telecommunications service providers' provision of
+          telecommunications service; or
+
+     b)   If Network Service Provider provides Network Service of which scope of
+          business and market share falls under the standards determined by the
+          Decree of the Minister of the Information and Communication.
+
+(4)  The Network Service Provider as set forth in Paragraph (3) shall determine
+     technical standards, standards for use and supply and other standards
+     necessary for formation of fair competition environment, which are required
+     for other telecommunications service provider or user to use the
+     telecommunications facilities by connecting terminal or other
+     telecommunications facilities therewith, obtain an approval therefor from
+     the Minister of Information and Communication, and then make a public
+     notice on the standards.
+
+(5)  If the Minister of Information and Communication wishes to determine the
+     standards as set forth in Paragraph (2) or approve in accordance with
+     Paragraph (4), he shall be subject to deliberation of the Communications
+     Commission.
+
+
+Article 34-5. Prohibition of Misuse of Information
+
+(1)  Telecommunications service provider shall not disclose information on
+     individual user which is obtained due to provision of his/her service,
+     provision of telecommunications facilities or interconnection. However,
+     disclosure of information with the concerned person's consent or through
+     appropriate procedures under the relevant laws shall be an exception.
+
+(2)  Telecommunications service provider shall use the information which is
+     provided in accordance with Article 34-4 only for the prescribed purpose,
+     and shall not improperly use the information for other purpose nor provide
+     it to a third party.
+
+
+Article 34-6. Report of Agreement, Including Interconnection
+
+(1)  When there is a request for provision, joint use, interconnection or joint
+     utilization of telecommunication facilities, or provision of information
+     from another telecommunications service provider, the Network Service
+     Provider shall conclude an agreement in accordance with Article 33-5,
+     Paragraphs (1) and (2), Article 33-7, the former part of Paragraph (1),
+     Article 34, Paragraph (1), Article 34-3, Paragraph (1) or Article 34-4,
+     Paragraph (1) within
+
+<PAGE>
+     ninety (90) days, unless he has any special reasons, and shall report it
+     to the Communications Commission. In the case of alteration or abolishment
+     of agreement, the same shall apply.
+
+(2)  Notwithstanding Paragraph (1), an agreement to which the Network Service
+     Provider as set forth in Article 33-7, the latter part of Paragraph (1) and
+     Paragraph (2), Article 34, Paragraph (3), Article 34-3, Paragraph (3) and
+     Article 34-4, Paragraph (3) is a party shall be subject to procurement of
+     approval from the Communications Commission.
+
+(3)  Agreement as set forth in Paragraphs (1) and (2) shall be appropriate to
+     the standards notified by the Minister of Information and Communication in
+     accordance with Article 33-5, Paragraph (3), Article 33-7, Paragraph (3),
+     Article 34, Paragraph (2), Article 34-3, Paragraph (2) or Article 34-4,
+     Paragraph (2).
+
+(4)  When it is necessary to supplement to an application for approval in
+     accordance with Paragraph (2), the Communications Commission may issue an
+     order of supplementation to the application within a prescribed period.
+
+(5)  Agreement as set forth in Article 34-3, Paragraph (1) and Article 34-4,
+     Paragraph (1) may be concluded by being included in the agreement as set
+     forth in Article 34, Paragraph (1).
+
+
+Article 35. Application for Ruling
+
+(1)  In case an agreement on provision or joint use of telecommunications
+     facilities, interconnection/joint use, or provision of information is not
+     or cannot be concluded within the period specified by the provisions of
+     Article 34-6, Paragraph (1), telecommunications service provider may
+     request the Communications Commission for a ruling in accordance with
+     Article 40-2 of the Telecommunications Basic Law.
+
+(2)  If damage occurs arising from another telecommunications service provider's
+     failure to perform an agreement on provision or joint use of
+     telecommunications facilities, interconnection/joint use, or provision of
+     information, telecommunications service provider may request the
+     Communications Commission for a ruling to the effect of performance of
+     agreement or compensation for damage.
+
+(3), (4) and (5) (Deleted)
+
+
+Article 36. Telecommunications Signals
+
+(1)  The Minister of Information and Communication shall establish and enforce
+     the Telecommunications Signals Administration Plan in order to efficiently
+     provide telecommunications service, seek user's convenience and form fair
+     competition
+
+<PAGE>
+     environment between telecommunications service providers.
+
+(2)  The Minister of Information and Communication shall give a public notice
+     when a plan is established pursuant to Paragraph (1). When the plan is
+     altered, such fact shall be notified publicly.
+
+(3)  Telecommunications service providers shall observe the publicly notified
+     matters under Paragraph (2).
+
+(4)  In case the Minister of Information and Communication establishes or
+     changes the Telecommunications Signals Administration Plan under Paragraph
+     (1), he/she shall discuss thereof with Communications Commission in
+     advance.
+
+
+Article 36-2. Accounting
+
+(1)  Network Service Provider shall keep an accounting as determined by the
+     Decree of the Ministry of Information and Communication, prepare the
+     business report for the previous year, submit it to the Communications
+     Commission by the end of March of each year, and keep and maintain relevant
+     books and evidencing materials.
+
+(2)  Where the Minister of Information and Communication determines matters on
+     accounting under Paragraph (1), it shall in advance be subject to
+     deliberation by the Communications Commission and consultation with the
+     Minister of Finance and Economy.
+
+(3)  The Communications Commission may verify the contents of the business
+     report submitted by a Network Service Provider in accordance with Paragraph
+     (1).
+
+(4)  If it is necessary in order to conduct a verification as set forth in
+     Paragraph (3), the Communications Commission may order the Network Service
+     Provider to submit relevant materials or conduct an inspection necessary
+     for confirmation of the facts.
+
+(5)  In case the Communications Commission conducts a verification of the
+     contents of the business report according to Paragraph (3), it shall notify
+     the Minister of Information and Communication of the results thereof.
+
+
+Article 36-3. Prohibited Acts
+
+(1)  Telecommunications service providers shall not commit any of the following
+     acts which deteriorate the fair competition and/or damage or threaten to
+     damage users' interests (hereinafter referred to as "prohibited acts"), nor
+     cause another telecommunications service provider or a third party to
+     commit such an act.
+<PAGE>
+     a)   Unfair discrimination regarding provision, joint application, joint
+          use, interconnection, joint utilization of telecommunications
+          facilities, or provision of information, unreasonable refusal to
+          conclude an agreement, or failure to perform an agreement without
+          justifiable reasons;
+
+     b)   Misuse of information on other telecommunications service provider
+          which is obtained due to provision, joint application, joint use,
+          interconnection, joint utilization of telecommunications facilities,
+          or provision of information, for the purpose of its own business
+          activities;
+
+     c)   Calculation of fees for telecommunications service or consideration
+          for provision, joint application, joint use, interconnection or joint
+          utilization of telecommunications facilities, or provision of
+          information by improperly classifying costs or proceeds;
+
+     d)   Provision of telecommunications service not in compliance with the
+          standard contract or in a manner which is significantly contrary to
+          the users' interest; or
+
+     e)   In case of providing Network Services by using a frequency allocated
+          according to Article 11 or Article 12 of the Radio Wave Law, support
+          or subsidization for all or part of the acquisition cost of a terminal
+          equipment required for provision of the Network Service on the
+          condition that a service agreement is executed. However, the foregoing
+          provision shall not apply to cases where such support or subsidization
+          is deemed necessary for the sound development of the
+          telecommunications business and the promotion of public welfare, as
+          determined by the Presidential Decree.
+
+(2)  In case a person, who was contracted to represent a telecommunications
+     service provider in executing an agreement with a user (including revisions
+     to the contents of an existing agreement), commits an act falling under
+     Paragraph (1), Item d) or Item e), such act shall be deemed to have been
+     committed by the telecommunications service provider, and thereby the
+     provisions of Article 37 and Article 37-2 shall apply. However, if the
+     telecommunications service provider is deemed to have exercised due care in
+     order to prevent such act, the foregoing provision shall not apply.
+
+(3)  Matters concerning the type and standards of the prohibited acts set forth
+     in Paragraph (1) shall be determined by the Presidential Decree.
+
+
+Article 36-4. Investigation
+
+(1)  If the Communications Commission recognizes that a prohibited act as set
+     forth in Article 36-3 occurs on the basis of any report or recognition, it
+     may cause its public official to make investigation necessary for
+     confirming such prohibited act.
+
+<PAGE>
+(2)  If necessary for investigation as set forth in Paragraph (1) above, the
+     Communications Commission may request the telecommunications service
+     provider to submit all necessary materials or goods. In addition, it may
+     cause its public official to gain access to the telecommunications service
+     provider's office, place of business or the telecommunications service
+     provider's consignee's place of business and to investigate all books,
+     documents, other materials or goods, as prescribed by the Presidential
+     Decree.
+
+(3)  A person who gains access to the telecommunications service provider's
+     office, place of business or the telecommunications service provider's
+     consignee's place of business according to Paragraph (2) above shall
+     present a voucher indicating its authority to the relevant person.
+
+
+Article 37. Measures against Prohibited Acts
+
+(1)  If the Communications Commission recognizes that a prohibited act as set
+     forth in Article 36-3 occurs, it may request the telecommunications service
+     provider to take the following measures:
+
+     a)   Separation of organization providing the telecommunications service;
+
+     b)   Change of the internal accounting regulations with respect to the
+          telecommunications service;
+
+     c)   Disclosure of information on the telecommunications service;
+
+     d)   Execution and fulfillment of, or change in the contents of, any
+          agreement between the telecommunications service providers;
+
+     e)   Change of the standard contract and articles of incorporation of the
+          telecommunications service provider;
+
+     f)   Cessation of prohibited act;
+
+     g)   Public announcement of the order for curing the prohibited act;
+
+     h)   Measures necessary for restoring the violated matters from their
+          current condition resulting from a prohibited act, into their original
+          shape and condition, such as removal of telecommunications facilities
+          that are the cause of the prohibited act; or
+
+     i)   Other matters as determined by the Presidential Decree.
+
+(2)  The telecommunications service provider shall fulfill the order of the
+     Communications Commission as set forth in Paragraph (1) above within the
+     period as determined by the
+
+<PAGE>
+     Presidential Decree. However, if the Communications Commission recognizes
+     that the telecommunications service provider is unable to fulfill the order
+     within such period due to Acts of God or other unavoidable cause, it may
+     extend such period only one (1) time.
+
+(3)  The Communications Commission shall notify the relevant party of the
+     contents of the measure as set forth in Paragraph (1) above and give an
+     opportunity to speak his opinion within the fixed period before ordering to
+     take such measure. If deemed necessary, the Communications Commission may
+     hear any interested person's opinion, except when the relevant party fails
+     to conform thereto without any justifiable cause.
+
+
+Article 37-2. (Imposition of Surcharge on Prohibited Acts)
+
+(1)  The Communications Commission may impose a surcharge not exceeding the
+     amount equivalent to 3/100 of the sales amount as determined by the
+     Presidential Decree, when any telecommunications service provider commits
+     any acts prescribed in the Article 36-3; provided, however, that the
+     Communications Commission may impose a surcharge not exceeding 1 billion
+     Won in case there is no sales amount or its calculation is difficult as
+     determined by the Presidential Decree.
+
+(2)  Types of violative activities on which a surcharge will be imposed pursuant
+     to Paragraph (1), the appropriate amount of surcharges, and other necessary
+     matters shall be set forth under the Presidential Decree.
+
+(3)  In case the person who is subject to the surcharge pursuant to Paragraph
+     (1) fails to pay thereof by the due date, the Communications Commission
+     shall collect an additional charge calculated at the rate of 6/100 per
+     annum of the above surcharge for the delayed period from the day after the
+     due date thereof.
+
+(4)  In the case where the person who is subject to the surcharge pursuant to
+     Paragraph (1) above fails to pay thereof by the due date, the
+     Communications Commission shall urge payment with a time limit. If he/she
+     fails to pay the surcharge and the additional charge pursuant to Paragraph
+     (3) within such period, the Communications Commission pursuant to the
+     examples of the deposition of national taxes in arrears.
+
+
+Article 37-3. Relationship with Other Laws
+
+In case any corrective measure is taken pursuant to the provision of Article 37
+or imposition of surcharge is made pursuant to the provision of Article 37-2
+with respect to the acts of a telecommunications service provider falling under
+each Item of Article 36-3, Paragraph (1), any corrective measure or surcharge
+under the Monopoly Regulation and Fair Trade Law shall not be taken or imposed
+on the same acts of that telecommunications service provider for the same
+reason.
+
+<PAGE>
+Article 38.   Compensation
+
+When the measures as set forth in Article 37, Paragraph (1) are to be taken, a
+person who has suffered damage due to the prohibited act may claim a
+compensation for damage against the telecommunications service provider who has
+engaged in the prohibited act. The telecommunications service provider may not
+be indemnified unless he/she proves that he/she did not commit prohibited act by
+willful conduct or by negligence.
+
+
+Article 38-2. Improvement of Quality of Telecommunications Service
+
+(1)  The telecommunications service provider shall make efforts to improve the
+     quality of service provided thereby.
+
+(2)  The Minister of Information and Communication shall take measures,
+     including the evaluation of the quality of telecommunications service, to
+     improve the quality of telecommunications service and to increase the
+     convenience for the users thereof.
+
+(3)  The Minister of Information and Communication may order the
+     telecommunications service provider to submit data necessary for the
+     evaluation of the quality of service provided thereby under Paragraph (2).
+
+
+Article 38-3. Pre-selection Policy
+
+(1)  The Minister of Information and Communication shall enforce the policy
+     under which a user selects in advance his/her desired telecommunications
+     service provider for telecommunications services (hereinafter referred to
+     as "Pre-selection Policy"). In this case, the telecommunications businesses
+     shall mean those identified by the Decree of Ministry of Information and
+     Communication from among the telecommunications businesses being provided
+     by multiple telecommunications service providers.
+
+(2)  No telecommunications service providers shall force a user to make a
+     pre-selection of a certain telecommunications service provider, or solicit
+     or lead the user to do such in an unfair manner.
+
+(3)  The Minister of Information and Communication may designate an expert
+     institution to conduct the business of registration or change of the
+     pre-selection (hereinafter referred to as "Pre-selection Registration
+     Center") for efficient and impartial enforcement of the Pre-selection
+     Policy.
+
+(4)  Any matters regarding the enforcement of the Pre-selection Policy and any
+     matters
+
+<PAGE>
+     necessary for designating the Pre-selection Registration Center and its
+     business handling methods, etc. shall be established and notified by the
+     Minister of Information and Communication following the deliberation
+     thereof by the Telecommunication Commission.
+
+
+Article 38-4. Number Portability
+
+(1)  The Minister of Information and Communication may establish and enforce the
+     plan for telecommunications number portability (hereinafter referred to as
+     "Number Portability Plan") enabling users to maintain their
+     telecommunications numbers regardless of change of the telecommunications
+     service providers.
+
+(2)  The Number Portability Plan shall include each of the followings:
+
+     a)   Type of service subject to telecommunications number portability;
+
+     b)   Timing of the application of the number portability by each service
+          subject to telecommunications number portability; and
+
+     c)   Matters regarding sharing of expenses for the enforcement of
+          telecommunications number portability among telecommunications service
+          providers.
+
+(3)  The Minister of Information and Communication may order the relevant
+     telecommunications service providers to take such measures as are necessary
+     for enforcement of the Number Portability Plan.
+
+(4)  The establishment or change by the Minister of Information and
+     Communication of the Number Portability Plan shall be subject to the
+     deliberation of the Communications Commission.
+
+(5)  In order to implement telecommunications number portability in an efficient
+     and neutral manner, the Minister of Information and Communication may
+     designate an expert institution to handle operations relating to the
+     registration and change of the telecommunications number portability
+     (hereinafter referred to as "Number Portability Management Institution").
+
+(6)  Matters relating to implementation of telecommunications number
+     portability, the designation of the Number Portability Management
+     Institution, and its operations shall be publicly notified by the Minister
+     of Information and Communication through consultation with the
+     Communications Commission.
+
+
+    CHAPTER 5. INSTALLATION AND MAINTENANCE OF TELECOMMUNICATIONS FACILITIES
+
+<PAGE>
+Article 39. Use of Land
+
+(1)  A Network Service Provider may use other people's land or
+     building/structures on such land and water surface/under water (hereinafter
+     called the "lands") when such are necessary to install lines and air-laid
+     cables and their parts (hereinafter called the "lines") which are provided
+     for telecommunications services. In such case, a Network Service Provider
+     shall agree with the owner or the occupants of the land in advance.
+
+(2)  In case an agreement cannot be reached or the parties are unable to agree
+     based on the provisions of Paragraph (1), a Network Service Provider may
+     use the land of other people as determined by the Law on Acquisition of and
+     Compensation for Land for Public Utility.
+
+(3)  (Deleted)
+
+
+Article 40. Temporary Use of the Land
+
+(1)  A Network Service Provider may temporarily use private or national/public
+     telecommunications facilities and/or land to the extent not seriously
+     obstructing the current use when it is necessary to use such places for
+     measures such as laying new lines and installing or maintaining/repairing
+     telecommunications facilities.
+
+(2)  A Network Services Provider shall notify to occupants of private or
+     national/public property in advance of the purpose and duration of the use
+     when he/she wishes to temporarily use such properties based on the
+     provisions of Paragraph (1). However, when it is not possible to notify in
+     advance, a Network Service Provider shall notify the occupants when using
+     or after using without delay. In case addresses and locations of the
+     occupants are not available, a Network Service Provider shall give a public
+     notice.
+
+(3)  The duration of temporary use of the land based on the provisions of
+     Paragraph (1) shall not exceed six (6) months.
+
+(4)  A person who temporarily uses private or national/public telecommunications
+     facilities or land based on the provisions of Paragraph (1) shall carry a
+     certificate which specifies the right of such use and shall show this to
+     the relevant person.
+
+
+Article 41. Exit/Entry on the Land
+
+(1)  A Network Service Provider may exit/enter other people's land when it is
+     necessary for measuring and surveying for the purpose of installation and
+     maintenance of telecommunications facilities. However, when a Network
+     Service Provider has to exit/enter a private residence, he/she shall obtain
+     a consent of a resident.
+
+<PAGE>
+(2)  The provisions of Paragraphs (2) and (4) of Article 40 shall apply mutatis
+     mutandis to cases when the surveying/measuring personnel have to exit/enter
+     private or national/public land based on the provisions of Paragraph (1).
+
+
+Article 42. Request for Elimination of Obstacles
+
+(1)  A Network Service Provider can request removal, modification, repair and
+     other necessary measures to owners or occupants of obstacles such as gas
+     pipes, water pipes, sewers, electric light circuits, electric power cables
+     or self-telecommunications facilities (hereinafter called "obstacles")
+     which could damage the telecommunications facilities or installation of
+     lines.
+
+(2)  A Network Service Provider can request the owners and occupants to remove
+     any fixtures which might damage the installation and maintenance of lines
+     or telecommunications.
+
+(3)  In case the owner or occupant of the fixture does not comply with a request
+     based on the provisions of Paragraph (2) or there is any unavoidable reason
+     for not removing the fixture, a Network Service Provider may remove or
+     transplant such fixtures after obtaining permission of the Minister of
+     Information and Communication. In such case, a Network Service Provider
+     shall notify the owner or occupants of the fixtures of such action without
+     delay.
+
+(4)  The owner or occupant of the obstacles which could harm or have a
+     possibility of causing harm to the telecommunications facilities of a
+     Network Service Provider shall confer in advance with a Network Service
+     Provider when it is necessary to construct, expand, repair, demolish or
+     modify such obstacles.
+
+
+Article 43. Use of Transportation
+
+(1)  A Network Service Provider may use private or national/public ships,
+     airplanes or other transportation means or may use such means for special
+     provision needed to open a radio communication station which would provide
+     telecommunications services or may use such means after consulting with the
+     owners or occupants regarding the supply of facilities in advance.
+
+(2)  The provisions of Paragraph (2) of Article 40 and Article 44 shall apply
+     mutatis mutandis to the case of the provision of Paragraph (1).
+
+
+Article 44. Obligation of Restoring to Original Condition
+
+<PAGE>
+When a Network Service Provider finishes using the land based on the provisions
+of Article 39 and 40 or such land is no longer needed to provide for
+telecommunications services, he/she shall restore such land to its original
+condition. When the land cannot be restored to its original condition, a Network
+Service Provider shall compensate appropriately the losses of the owner or
+occupant.
+
+
+Article 45. Compensation for Losses
+
+A Network Service Provider shall pay an appropriate compensation to the injured
+party when he causes loss to other people, in accordance with Article 40,
+Paragraph (1); Article 41, Paragraph (1); or Article 42.
+
+
+Article 46. Compensation for Out-of-Pocket Expenses
+
+(1)  A Network Service Provider shall compensate for the out-of-pocket expenses
+     incurred when he was specially supplied with materials needed to open a
+     radio communication station which would provide telecommunications services
+     from an owner or occupant of a ship, airplane, or other means of
+     transportation based on the provision of Article 43, Paragraph (1).
+
+(2)  Procedures for compensation for damage and/or application for the ruling
+     set forth in Article 33-3 shall apply mutatis mutandis to those for
+     compensation for out-of-pocket expenses under Paragraph (1) above.
+
+
+Article 47. Procedure of Compensation for Land Losses
+
+(1)  A Network Service Provider shall consult with the injured parties when
+     compensating for any losses based on the provisions of Articles 44 and 45
+     when the injured is unable to recover fully the losses from the use of
+     land, exit/entry on land, or removal of obstacles based on Article 40,
+     Paragraph (1), Article 41, Paragraph (1), Article 42, and Article 44.
+
+(2)  When an agreement based on the provision of Paragraph (1) has not been
+     reached or it is not possible to consult concerned parties, an application
+     for a ruling shall be submitted to the local land confiscation commission
+     based on the Law on Acquisition of and Compensation for Land for the
+     Purpose of Public Utility.
+
+(3)  Except for matters specifically mentioned in this Law, the relevant
+     provisions of the Law on Acquisition of and Compensation for Land for the
+     Purpose of Public Utility shall apply mutatis mutandis with respect to the
+     standards, methods, and procedures of compensation for the land pursuant to
+     Paragraph (1) and application for ruling pursuant to Paragraph (2).
+
+<PAGE>
+Article 48. (Deleted)
+
+
+Article 49. (Deleted)
+
+
+Article 50. Protection of Telecommunications Facilities
+
+(1)  No one shall destroy telecommunications facilities; furthermore, no one
+     shall hinder the flow of telecommunications by interrupting the functions
+     of telecommunications facilities, such as through attachment of other
+     materials to such equipment.
+
+(2)  No one shall damage telecommunications facilities' measuring marks or
+     telecommunications facilities by throwing things at such facilities or by
+     attaching rafts, ships, or other moving objects.
+
+
+Article 51. Movement of Facilities
+
+(1)  When purpose or methods of use of the land where a Network Service
+     Provider's telecommunications facilities are installed or the nearby land
+     have changed and such facilities have come to hinder the use of such land,
+     the owner or occupant of such land may request a Network Service Provider
+     to move telecommunications facilities or take necessary measures to remove
+     such obstacles.
+
+(2)  When a Network Service Provider has been requested, based on the provision
+     of Paragraph (1), he/she shall arrange necessary measure except for case
+     when it is not possible to do so due to administrative or technological
+     reasons.
+
+(3)  The costs needed for the measures based on Paragraph (2) shall be borne by
+     the party who requested such action. However, such costs can be reduced or
+     waived as determined by Presidential Decree.
+
+
+Article 52. Cooperation of Other Organizations
+
+Cooperation of related public organizations may be requested when transportation
+of automobiles, ships, airplanes, and other transportation means are needed for
+the installation and maintenance of telecommunications facilities of a Network
+Service Provider. In this case, the public organization which received such
+request shall accept it unless there is just cause.
+
+
+                       CHAPTER 6. SUPPLEMENTARY PROVISIONS
+
+<PAGE>
+Article 53. Prohibition of Subversive Communication
+
+(1)  Those who use telecommunications shall not engage in any act falling under
+     the following Items:
+
+     a)   Telecommunications which contain contents that distribute, sell, rent
+          or openly display obscene signs, literature, sounds, pictures or
+          images;
+
+     b)   Telecommunications which contain contents that defame another person
+          by disclosing any facts or false facts for the purpose of slandering
+          the person;
+
+     c)   Telecommunications which contain contents that repeatedly send to a
+          person signs, literature, sounds, pictures or images that arouse fear
+          or a feeling of uneasiness;
+
+     d)   Telecommunications which contain contents that damage, destruct,
+          alter, forge or hinder the operation of information and communication
+          systems, data or programs without any justifiable reasons;
+
+     e)   Telecommunications which contain contents that offer media materials
+          that are harmful to juveniles, as set forth in the Juvenile Protection
+          Law, for the purpose of making profits, without performing the legal
+          obligations, such as confirming the age of users and obligation of
+          indication;
+
+     f)   Telecommunications which contain contents that fall under the category
+          of speculative acts that are legally prohibited;
+
+     g)   Telecommunications which contain contents that disclose state secrets,
+          such as classified information categorized as such by the laws and
+          regulations;
+
+     h)   Telecommunications which contain contents relating to the performance
+          of acts prohibited by the National Security Law; and
+
+     i)   Telecommunications which contain contents that are produced with
+          criminal intent, or instigate or abet crime.
+
+(2)  With respect to telecommunications described in Paragraph (1), the Minister
+     of Information and Communication may order the telecommunications service
+     provider to refuse, suspend or restrict such telecommunications through
+     consultation with the Information and Communication Ethics Committee under
+     Article 53-2. However, in the case of telecommunications set forth in
+     Paragraph (1), Items b) and c), the Minister of Information and
+     Communication shall not issue such an order against the relevant injured
+     party's intention; in the case of Paragraph (1), Items g) through i), the
+     Minister of Information and Communication may issue such an order only upon
+     the request from the head of the
+
+<PAGE>
+     relevant central administrative agency.
+
+(3)  The Minister of Information and Communication shall first give the
+     telecommunications service provider and the relevant users subject to the
+     order set forth in Paragraph (2) an opportunity to voice their opinion.
+     However, in each of the following Items, the foregoing provision shall not
+     apply:
+
+     a)   When such a measure should be taken urgently for the safety or welfare
+          of the public;
+
+     b)   When it is considerably difficult or obviously unnecessary to listen
+          to an opinion, as determined by the Presidential Decree; or
+
+     c)   When the relevant person clearly indicates his/her intention to waive
+          the opportunity to submit his/her opinion.
+
+
+Article 53-2. Information and Communication Ethics Committee
+
+(1)  The information and communication ethics committee (hereinafter
+     "Committee") shall be established in order to develope the sound
+     communications culture and create an upright using environment of
+     telecommunications.
+
+(2)  The Committee shall have between eleven (11) and fifteen (15) members
+     including one (1) chairman.
+
+(3)  The Minister of Information and Communication shall appoint members of the
+     Committee from the academic circle, legal circle, users groups and the
+     telecommunications industry. In this case, the Minister of Information and
+     Communication shall appoint more than one-fifth(1/5) of the members of the
+     Committee from the legal sector and those affiliated to users groups,
+     respectively.
+
+(4)  The Committee shall perform each of the following activities:
+
+     a)   The Committee shall present basic principles concerning information
+          and communication ethics;
+
+     b)   The Committee shall review information, as provided in this Law and
+          the Presidential Decree, which is disclosed and circulated to the
+          public through telecommunications line and shall demand the correction
+          of any matters according to the review;
+
+     c)   The Committee shall make a recommendation in order to establish
+          measures for circulating sound information through the
+          telecommunications lines;
+
+<PAGE>
+     d)   The Committee shall operate an agency for receiving reports regarding
+          circulation of information that is illegitimate or harmful to
+          juveniles;
+
+     e)   The Committee shall engage in activities for the promotion of a sound
+          culture of information; and
+
+     f)   The Committee shall carry out any other matters delegated by the
+          Minister of Information and Communication concerning the promotion of
+          circulation of sound information.
+
+(5)  Matters necessary for organization and operation of the Committee shall be
+     determined by the Presidential Decree.
+
+(6)  The government may subsidize any expenses necessary for operation of the
+     Committee within the scope of budget.
+
+
+Article 54. Protection of Confidentiality of Communications
+
+(1)  No one shall intrude on or disclose any confidential information while
+     providing telecommunications services.
+
+(2)  Those who work or worked in telecommunications services shall not disclose
+     any confidential information of other people that he/she might have known
+     during his employment.
+
+(3)  Telecommunications service providers may cooperate with the court,
+     prosecutor or the head of investigation agency (including military
+     investigation agency, hereinafter the same shall apply) and the head of
+     intelligence investigation agency when requested to disclose or submit the
+     following documents or data for the purpose of trial, investigation,
+     execution of sentence or collection of information to prevent any danger to
+     the national security ("provision of communication data"):
+
+     a)   User's name;
+
+     b)   User's resident registration number;
+
+     c)   User's address;
+
+     d)   User's telephone number;
+
+     e)   User's ID (this refers to a user identification code used to identify
+          authorized users of a computer system or communication network); and
+
+<PAGE>
+     f)   Date of subscription and/or termination of user.
+
+(4)  The request for the provision of communication data pursuant to Paragraph
+     (3) shall be made in written form which sets forth the reason for request,
+     relevancy of the user in question and scope of necessary data ("written
+     request for provision of data"); provided, however, in the case of urgent
+     circumstances for which there is no time to make a request in writing, such
+     request may be made without a written form and when such circumstances are
+     resolved, a written request for provision of data shall be submitted to the
+     telecommunications service providers without delay.
+
+(5)  When the telecommunications service provider provides communication data in
+     accordance with the procedures mentioned in Paragraphs (3) and (4), such
+     telecommunications service provider shall keep the relevant data, such as
+     the written request for provision of data and the ledger set forth in the
+     Ministerial Decree of Ministry of Information and Communication, containing
+     the necessary matters including the provision of data.
+
+(6)  The telecommunications service provider shall report to the Minister of
+     Information and Communication twice a year, the status regarding the
+     provision of communication data in accordance with the Presidential Decree,
+     and the Minister of Information and Communication may inspect the report
+     made by the telecommunications service provider and the management of the
+     relevant data provided in Paragraph (5).
+
+(7)  The telecommunications service provider shall notify in accordance with the
+     Ministerial Decree of the Ministry of Information and Communication the
+     contents described in the ledger provided in Paragraph (5), to the head of
+     the central administrative agency for which the person who requested the
+     communication data pursuant to the provision in Paragraph (3), is working.
+     However, in case the provision of communication data is requested by the
+     court, such contents shall be reported to the Minister of Court
+     Administration.
+
+(8)  The telecommunications service provider shall establish and operate a
+     special organization which is in charge of the communication secrets of the
+     users, and any matters regarding the function and formation of the special
+     organization shall be determined by the Ministerial Decree of the Ministry
+     of Information and Communication.
+
+(9)  Any necessary matters regarding the scope of the persons authorized to seal
+     the documents submitted to the telecommunications service provider in
+     accordance with the provision of Paragraph (4), shall be determined by the
+     Ministerial Decree of the Ministry of Information and Communication.
+
+
+Article 54-2. Notification of Caller's Telephone Number
+
+(1)  Upon the request of a call recipient, telecommunications service providers
+     may inform the
+
+<PAGE>
+     recipient of the telephone number of the caller, in accordance with those
+     terms set forth in the Decree of the Ministry of Information and
+     Communication. However, the foregoing shall not apply in the event that the
+     caller expresses his/her intention to refuse such disclose of his/her
+     telephone number.
+
+(2)  Notwithstanding the proviso of the last sentence of Paragraph (1) above,
+     the telecommunications service providers may inform the recipient of the
+     caller's telephone number, (i) if the call recipient so requests in
+     accordance with those terms set forth in the Decree of the Ministry of
+     Information and Communication in order to protect a call recipient from any
+     verbal violence, threat, harassment, etc. through telecommunications; or
+     (ii) if the relevant telecommunications service is the special number
+     telephone service set forth in the Decree of the Ministry of Information
+     and Communication.
+
+
+Article 55. Restrictions and Suspension of Business
+
+In case of national crisis, such as war, civil conflict, Acts of God or when
+there is a possibility of such crises, or when there are inevitable causes, the
+Minister of Information and Communication can order telecommunications services
+providers to restrict or suspend the entire or part of telecommunications
+services in order to secure primary communications means, based on the
+determinations of the Presidential Decree.
+
+
+Article 56. (Deleted)
+
+
+Article 57. (Deleted)
+
+
+Article 58. (Deleted)
+
+
+Article 59. Approval for International Telecommunications Business
+
+(1)  When there exist provisions related to international telecommunications
+     services in treaties or agreements that the government joined, those
+     provisions are to be applied.
+
+(2)  In case where a telecommunications service provider wants to conclude an
+     agreement or a contract with regards to the settlement of charges for
+     international telecommunications service with a foreign government or a
+     foreigner (excluding Value Added Service Providers) and other international
+     telecommunications service set forth under the Presidential Decree, he/she
+     shall obtain an approval from the Minister of Information and Communication
+     as provided in the Presidential Decree. The same is true when he/she wants
+     to alter or nullify such agreement or contract.
+
+<PAGE>
+(3)  The standards for the approval on the agreement or contract regarding the
+     settlement of charges for international telecommunications service provided
+     in Paragraph (2) shall be determined and publicly notified by the Minister
+     of Information and Communication.
+
+
+Article 59-2. Cross-Boarder Supply of Network Services
+
+(1)  Those who wish to provide Network Service from abroad into Korea
+     (hereinafter referred to as "Cross-Boarder Supply of Network Services)
+     without having any business place in Korea shall execute an agreement
+     regarding the Cross-Boarder Supply of Network Services with domestic
+     Network Service Provider or Specific Service Provider providing the same
+     Network Services.
+
+(2)  The provisions of Article 29, Article 30, Article 33 through 33-3, Article
+     36-3 through Article 37, Article 38, Article 53 through 55, Article 62 and
+     Article 65 shall apply mutatis mutandis to the provision of services
+     determined by an agreement of Network Service Provider or Specific Service
+     Provider pursuant to Paragraph (1).
+
+(3)  The Minister of Information and Communication may cancel the approval under
+     Article 59, Paragraph (2) or order a part or whole suspension of a
+     Cross-Boarder Supply of Network Services as set forth in the relevant
+     agreement for a period less than one (1) year when those who wish to
+     provide Cross-Board Supply of Network Services under Paragraph (1), or a
+     Network Service Provider or Specific Service Provider who executed an
+     agreement with those has violated the relevant provisions applied by
+     Paragraph (2).
+
+(4)  Criteria and procedures for such measures under Paragraph (3) and other
+     necessary matters are to be determined by the Decree of the Ministry of
+     Information and Communication.
+
+
+Article 60.   (Deleted)
+
+
+Article 61.   (Deleted)
+
+
+Article 62.   Reporting Statistics
+
+(1)  Telecommunications service providers shall report statistics related to
+     provision of telecommunications business to the Minister of Information and
+     Communication as set forth under the decree of the Minister of Information
+     and Communication, such as current status of facilities and results of use
+     by each telecommunications business, current status of users and call
+     traffic related documents necessary for imposition and collection of
+     charges, and shall keep and maintain all related documents.
+
+<PAGE>
+(2)  When requested by the Minister of Information and Communication, Network
+     Service Providers and their shareholders, Specific Service Providers and
+     their shareholders shall submit relevant materials needed for verification
+     of matters prescribed in Article 6 as set forth under the decree of the
+     Ministry of Information and Communication.
+
+(3)  The Minister of Information and Communication can request administrative
+     branches or other relevant branches to review submitted materials or to
+     submit relevant materials in order to make a verification under Paragraph
+     (2) or to check the authenticity of submitted materials. In this case, the
+     requested branches shall comply unless there is just cause.
+
+
+Article 63. Hearing
+
+In cases where the Minister of Information and Communication wants to make any
+of the following measures, the Minister shall hold a hearing.
+
+(1)  Cancellation of approval for Network Service Providers pursuant Article 15,
+     Paragraph (1);
+
+(2)  Cancellation of registration for Specific Service business or cessation for
+     Value Added Service business pursuant Article 28, Paragraph (1) and (2); or
+
+(3)  Cancellation of an approval pursuant Article 59-2, Paragraph (3).
+
+
+Article 64. Imposition of Surcharge
+
+(1)  In case the Minister of Information and Communication shall order a
+     suspension of business when any one of the Items of Article 15, Paragraph
+     (1), or Items of Article 28, Paragraphs (1) and (2) applies to
+     telecommunications service providers and such suspension may create
+     inconvenience to users of those services or damage public interests, the
+     Minister can substitute the imposition of a surcharge up to
+     three-hundredths (3/100) of the sales calculated according to the
+     Presidential Decree. However, in case the telecommunications service
+     provider records no sales or it is difficult to calculate the sales, the
+     Minister of Information and Communication may impose a surcharge up to 1
+     billion Won as set forth in the Presidential Decree.
+
+(2)  Types of violative activities on which a surcharge will be imposed pursuant
+     to Paragraph (1), the appropriate amount of surcharges, and other necessary
+     matters shall be set forth under Presidential Decree.
+
+(3)  the provision of Article 37-2, Paragraph (3) and Paragraph (4) shall apply
+     mutatis mutandis, to the collection of surcharge under Paragraph (1).
+
+<PAGE>
+(4)  (Deleted)
+
+
+Article 64-2. Extension of Due Date for Surcharge and Payment of Surcharge on
+              Installment Basis
+
+(1)  In case the surcharge which the telecommunications service provider is
+     subject to pay pursuant to the provisions of Article 37-2 and Article 64
+     exceeds the amount as determined by the Presidential Decree and it is
+     difficult for the relevant telecommunications service provider to make the
+     full payment of the surcharge in lump sum basis due to each of the
+     following reasons, the Minister of Information and Communication may extend
+     the due date or allow the payment on installment basis. In this case, when
+     deemed necessary, the relevant telecommunications service provider is
+     required to provide collateral.
+
+     a)   When a significant loss is inflicted on its property due to natural
+          disaster or fire;
+
+     b)   When its business reaches substantial crisis due to the difficult
+          business circumstances; or
+
+     c)   When considerable difficulties of the finance are anticipated with the
+          payment of surcharge in lump sum basis.
+
+(2)  Any matter necessary for extension of the due date for surcharge, payment
+     of surcharge on installment basis and provision of collateral shall be
+     determined by the Presidential Decree.
+
+
+Article 65.   Corrective Orders
+
+(1)  The Minister of Information and Communication shall order a correction when
+     any one of following Items applies to telecommunications service providers:
+
+     a)   In case of violation of this Law, the Telecommunications Basic Law,
+          the Radio Waves Law, the Laws on Promotion of Information and
+          Communication Network Utilization and Information Protection, the
+          Basic Informationization Promotion Law and the orders pursuant to
+          these laws;
+
+     b)   When service operation procedures of telecommunications service
+          providers are deemed to have caused significant damage to user
+          benefits; or
+
+     c)   When necessary measures, such as repair, are not taken immediately to
+          remove obstacles in case of occurrence of obstacles to the provision
+          of telecommunications services due to accidents, etc.
+
+(2)  The Minister of Information and Communication can order the following Items
+     regarding
+
+<PAGE>
+     telecommunications service providers when it is necessary for the
+     advancement of telecommunications:
+
+     a)   Integrated operation/management of telecommunications facilities;
+
+     b)   Expansion of telecommunications facilities for promoting society's
+          welfare;
+
+     c)   Establishment and management of communications networks for primary
+          communications in order to efficiently run national administration; or
+
+     d)   Other items determined by Presidential Decree.
+
+(3)  The Minister of Information and Communication may order any person who
+     falls under any of the following Items to suspend his/her the provision of
+     telecommunications business, or to remove his/her telecommunications
+     facilities:
+
+     a)   One who operated a network service providing business without a permit
+          under Article 5, Paragraph (1);
+
+     b)   One who operated a specific service providing business without
+          registration under Article 19, Paragraph (1); or
+
+     c)   One who operated a value added service providing business without a
+          report under Article 21, Paragraph (1).
+
+
+Article 66 and Article 67. (Deleted)
+
+
+Article 68. Commission and Delegation of Authority
+
+(1)  Part of the authority of the Minister of Information and Communication
+     based on this Law can be delegated to the Governor of Communications as set
+     forth under Presidential Decree.
+
+(2)  The Minister of Information and Communication may delegate a part of his
+     duties regarding report based on the provision of Article 21, Paragraph (1)
+     as set forth under the Presidential Decree to a telecommunications service
+     provider or the Association of the Data Communications Promotion based on
+     the Laws on Promotion of Information and Communication Network Utilization
+     and Information Protection.
+
+
+                          CHAPTER 7. PENAL REGULATIONS
+
+<PAGE>
+Article 69. Penal Regulations
+
+One to whom any of the following Items applies shall be sentenced with
+imprisonment of up to five (5) years or a fine of up to 200 million Won:
+
+     a)   One who operated Network Service business without a permit pursuant to
+          Article 5, Paragraph (1);
+
+     b)   One who damaged telecommunications facilities in violation of Article
+          50, Paragraph (1) or one who obstructed telecommunications services
+          through attachment of material to telecommunications facilities, etc.;
+
+     c)   One who disclosed other's confidential information that he/she
+          acquired during his/her term of office, violating the provision of
+          Article 54, Paragraph (2); or
+
+     d)   One who provided communication data or received such data in violation
+          of Article 54, Paragraph (3).
+
+
+Article 70. Penal Regulations
+
+One to whom any of the following items applies shall be sentenced with
+imprisonment of up to three (3) years or a fine of up to 150 million Won:
+
+     a)   One who refuses to provide telecommunications services without just
+          cause, violating the provision of Article 3, Paragraph (1);
+
+     b)   One who is in violation of the measure of business suspension pursuant
+          to the provision of Article 15, Paragraph (1);
+
+     c)   One who has operated Specific Service business without registration
+          pursuant to Article 19, Paragraph (1);
+
+     d)   One who conducts the prohibited acts as set forth in Article 36-3,
+          Paragraph (1), Items a) through d);
+
+     e)   One who has not observed an order pursuant to Article 37, Paragraph
+          (2);
+
+     f)   One who obstructed activities of line survey or preservation and
+          installation of telecommunications facilities pursuant to Article 40,
+          Paragraph (1); or
+
+     g)   One who infringes on or discloses confidential information about
+          communications served by telecommunications service providers,
+          violating the provision of Article 54, Paragraph (1).
+
+<PAGE>
+Article 71. Penal Regulations
+
+One to whom any of the following Items applies will be sentenced with
+imprisonment of up to two (2) years or a fine of up to 100 million Won:
+
+     a)   One who has not acquired a permit of alternation or has not made a
+          report under Article 10;
+
+     b)   One who has not acquired an approval under Article 11, Paragraph (1)
+          and Article 34-4, Paragraph (4);
+
+     c)   One who has not acquired an approval under Article 13, Paragraph (1)
+          or Paragraph (2) or Article 14, Paragraph (1);
+
+     d)   One who has operated Value Added Service Business without reporting
+          pursuant to Article 21;
+
+     e)   One who is in violation of the measure of business suspension pursuant
+          to the provision of Article 28, Paragraph (1);
+
+     f)   One who is in violation of the order of business cessation pursuant to
+          the provision of Article 28, Paragraph (2);
+
+     g)   One who has disclosed, used or provided any information in violation
+          of the main text of Article 34-5, Paragraph (1) or Article 34-5,
+          Paragraph (2);
+
+     h)   One who has not observed an order pursuant to Article 53, Paragraph
+          (2) or Article 55; or
+
+     i)   One who has not acquired an approval, approval on alteration or
+          cancellation under Article 59, Paragraph (2).
+
+
+Article 72. Penal Regulations
+
+One to whom any of the following Items applies will be sentenced with
+imprisonment of up to one (1) year or a fine of up to 50 million Won.
+
+     a)   One who has violated a corrective order under Article 7, Paragraph (2)
+          (cases applied mutatis mutandis by Article 4, Paragraph (4) of Addenda
+          to the Amended Telecommunications Business Law (No. 5385) are also
+          included);
+
+<PAGE>
+     b)   (Deleted);
+
+     c)   One who has not registered or reported an alteration pursuant to
+          Article 22;
+
+     d)   One who has not made a report pursuant to Article 25;
+
+     e)   One who is in violation of the measure of business suspension pursuant
+          to the provision of Article 28, Paragraph (2);
+
+     f)   One who has provided a telecommunications service without making
+          report or obtaining the necessary approval under Article 29, Paragraph
+          (1); or
+
+     g)   One who served as an intermediary for communications of others using
+          the telecommunications service provided by the telecommunications
+          service provider, or provided the aforesaid telecommunications service
+          to others for their communications in violation of the main text of
+          Article 32-2.
+
+
+Article 73. Penal Regulations
+
+One to whom any of the following Items applies will be sentenced with a fine of
+50 million Won or less.
+
+     a)   One who commits any prohibited acts set forth in Article 36-3,
+          Paragraph (1), Item e);
+
+     b)   One who denies or obstructs a temporary use of private
+          telecommunications facilities or land pursuant to Article 40,
+          Paragraph (1) without just cause;
+
+     c)   One who denies or obstructs entry/exit to land pursuant to Article 41,
+          Paragraph (1) without just cause;
+
+     d)   One who denies an order for moving, alteration, or repair of an
+          obstruction or other measures pursuant to Article 42, Paragraph (1),
+          or one who denies a request for removal of a plant pursuant to
+          Paragraph (2) under the same Article without just cause;
+
+     e)   One who denies a request for provision of facilities or use of
+          transportation pursuant to Article 43, Paragraph (1) without just
+          cause;
+
+     f)   (Deleted); or
+
+     g)   (Deleted).
+
+<PAGE>
+Article 74. (Deleted)
+
+
+Article 75. Penal Regulations
+
+One who damages the telecommunications facilities or injures measuring card of
+the telecommunications facilities in violation of Article 50, Paragraph (2)
+shall be sentenced with a fine of 1 million Won or less or with a police fine.
+
+
+Article 76. Attempts
+
+One who attempts to violate Article 69, Items b) and c) or Article 70, Item g),
+shall be punished.
+
+
+Article 77. Double Penalty Provision
+
+When a representative of a corporation, a proxy for a corporation/individual, an
+employee or a worker for a corporation/individual commits a violation of
+Articles 69 through 73 regarding services provided by that
+corporation/individual, not only the person who committed that violation will be
+punished, but also that corporation or individual will be sentenced with a fine
+pursuant to each pertinent Article.
+
+
+Article 78. Penalties
+
+(1)  One to whom any of the following Items applies will be sentenced with a
+     penalty of 10 million Won or less.
+
+     a)   One who has not reported in accordance with Article 27;
+
+     b)   One who has not observed an order to alter standard contracts in
+          accordance with Article 30;
+
+     c)   (Deleted);
+
+     d)   One who violates responsibilities concerning user protection under
+          Article 33, Paragraph (2);
+
+     e)   One who fails to notify technical standards, standards for use and
+          supply or any other standards for establishment of fair competition
+          environment in violation of Article 34-4, Paragraph (4);
+
+<PAGE>
+     f)   One who has not observed notified matters in violation of the
+          provision of Article 36, Paragraph (3);
+
+     g)   One who does not file accounting records or submit business reports,
+          or one who does not keep his books or any evidencing documents in
+          violation of Article 36-2, Paragraph (1);
+
+     h)   One who has not observed an order for submission of any related
+          documents under Article 36-2, Paragraph (4);
+
+     i)   One who refuses or avoids an order for submission of any materials or
+          goods or an inspection under Article 36-4, Paragraph (2) or conducts
+          any activities causing trouble in such order or inspection;
+
+     j)   One who fails to comply with the order to submit the relevant data
+          under Article 38-2, Paragraph (3);
+
+     k)   One who fails to keep the relevant data or keeps falsified data in
+          violation of Article 54, Paragraph (5);
+
+     l)   One who fails to notify the head of central administrative agency in
+          violation of Article 54, Paragraph (7);
+
+     m)   (Deleted);
+
+     n)   One who does not report or submit materials under Article 62 or one
+          who reports or submits them falsely; or
+
+     o)   One who does not observe a corrective order pursuant to Article 65.
+
+(2)  A penalty pursuant to Paragraph (1) is to be levied and collected by the
+     Minister of Information and Communication as set forth under Presidential
+     Decree.
+
+(3)  One who has a complaint with a disposition for a penalty pursuant to
+     Paragraph (2) can pose an objection to the Minister of Information and
+     Communication within thirty (30) days from the date of notification.
+
+(4)  When a person who is disposed for a penalty pursuant to Paragraph (2) poses
+     an objection pursuant to Paragraph (3), the Minister of Information and
+     Communication shall notify a competent court immediately, and the notified
+     competent court shall decide on a penalty in accordance with the
+     Non-Litigation Procedure Law.
+
+(5)  When a person neither poses an objection under Paragraph (3) nor pays a
+     penalty, the penalty will be collected as in the case of a coercive
+     collection of a national tax.
+
+<PAGE>
+                                     ADDENDA
+                     [as of December 26, 2002, Law No. 6822]
+
+
+Article 1. Date of Enforcement
+
+This Law shall come into effect as of the date on which three (3) months have
+elapsed from the date of promulgation. However, the amendments to Article 53,
+Article 53-2, Paragraph (1), the latter part of Paragraph (3), Paragraph (4),
+Article 54, Paragraph (3) and the proviso of Paragraph (7), and Article 71, Item
+h) shall come into effect as of the date of promulgation, and the amendment to
+Article 36-3, Paragraph (3) shall come into effect on the date on which six (6)
+months have elapsed from the date of promulgation.
+
+
+Article 2. Term of Validity
+
+The amendment to Article 36-3, Paragraph (1), Item e) shall be effective for a
+period of three (3) years from the date of enforcement of this Law.
+
+
+Article 3. Interim Measures for Disposition, etc.
+
+Approval, acceptance of report, order of correction of prohibited acts,
+imposition of surcharge which has been performed by the Minister of Information
+and Communication pursuant to previous Article 34-6, Article 37 and Article 37-2
+prior to the enforcement of this Law shall be deemed to have been performed by
+the Communications Commission pursuant to the respective provisions.
+
+
+Article 4. Interim Measures for Surcharges
+
+Surcharges imposed with respect to acts committed prior to the enforcement of
+this Law shall be subject to previous provisions, irrespective of the amendment
+to Article 64, Paragraph (1).
+
+
+</TEXT>
+</DOCUMENT>

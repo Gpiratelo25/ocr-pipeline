@@ -1,0 +1,342 @@
+<DOCUMENT>
+<TYPE>EX-10.8
+<SEQUENCE>5
+<FILENAME>a2076686zex-10_8.txt
+<DESCRIPTION>EXHIBIT 10.8
+<TEXT>
+<Page>
+
+                                                                    Exhibit 10.8
+
+Amendment #1 Amended and Restated fiber Purchase Agreement               12/7/01
+
+                                                ACCEPTANCE SHALL BE INDICATED BY
+                                                SIGNING AND RETURNING DUPLICATE
+
+
+TO:                                             FROM:
+
+PF.Net Corp.                                    AT&T Corp.
+2941 Fairview Park Dr.                          900 Route 202/206 North
+Suite 200                                       Room 3C213
+Falls Church VA 22942                           Bedminster, NJ 07921
+Attn: Donald L. Branscome
+
+
+The Amended and Restated Fiber Sale Agreement between PF.Net Corp. ("Purchaser")
+and AT&T Corp. ("AT&T") entered into as of July 17, 2001 is amended by this
+Amendment #1 as follows:
+
+1.    Purchaser's obligation to purchase Dark Fibers on the following Links is
+      amended in Exhibit A as follows:
+
+         A.    Link 5
+               (i)   The Estimated Delivery Date for Phase 1 is changed to
+                     September 30, 2003 and
+               (ii)  The 2002 Payments are changed to 2003 payments as follows:
+                     Orlando to Tampa to $524,400
+                     Tampa to Ft. Myers to $844,800
+                     Ft. Myers to Miami to $835,200
+
+         B.    Link 16
+               (i)   The Estimated Delivery Date for Phase 1 is changed to
+                     November 15,2003 and
+               (ii)  The 2002 payment of $3,735,780 is changed to a 2003
+                     payment.
+
+         C.    Link 18
+               (i)   The Estimated Delivery Date Phase 1 is changed to March 31,
+                     2004 and
+               (ii)  The 2002 payment of $3,910,200 is changed to a 2003
+                     payment.
+
+         D.    Link 18A
+               (i)   The Estimated Delivery Date Phase 1 is changed to March 31,
+                     2004 and
+               (ii)  The 2002 payment of $796,800 is changed to a 2004 payment.
+
+         E.    Link 26A
+               Purchaser's obligation to purchase Dark Fiber is cancelled in its
+               entirety without liability to AT&T.
+
+         F.    Link 26D
+               Purchaser's obligation to purchase Dark Fiber is cancelled in its
+               entirety without liability to AT&T.
+
+         G.    Link 26E
+               (i)   The Estimated Delivery Date Phase 1 is changed to September
+                     30, 2003 and
+
+                           AT&T / PFN Proprietary
+
+11/12/01
+<Page>
+
+               (ii)  The 2002 payment of $718,200 is changed to a 2003 payment.
+
+         H.    Link 27A
+               (i)   The Estimated Delivery Dates Phase 1 for those portions
+                     from Bakersfield to Manteca and from Manteca to San Jose
+                     are changed to September 30, 2003,
+               (ii)  The 2002 payment of $908,200 for Bakersfield to Manteca is
+                     changed to a 2003 payment and (iii) The 2002 payment of
+                     $923,400 for Manteca to San Jose is changed to a 2003
+                     payment.
+               (iii) The 2002 payment of $923,400 for Manteca to San Jose is
+                     changed to a 2003 payment.
+
+         I.    Link 27B
+               The Estimated Delivery Date Phase 1 is changed to November 30,
+               2001
+
+         J.    Link 27C
+               (i)   The Estimated Delivery Date Phase 1 is changed to September
+                     30, 2003 and
+               (ii)  The 2002 payment of $3,546,600 is changed to a 2003
+                     payment.
+
+         K.    Link 31
+               (i)   The Estimated Delivery Dates Phase 1 for those portions
+                     from Billings to Fargo and Fargo to St. Cloud and St. Cloud
+                     to Minneapolis are changed to November 15, 2003,
+
+               (ii)  The 2002 payment of $2,546,000 for Billings to Fargo is
+                     changed to a 2003 payment and
+
+               (iii) The 2002 payment of $665,000 for Fargo to St. Cloud is
+                     changed to a 2003 payment.
+
+               (iv)  The 2002 payment of $285,000 for St. Cloud to Minneapolis
+                     is changed to a 2003 payment.
+
+         L.    Link 33.2
+               (i)   The Estimated Delivery Date Phase 1 is changed to November
+                     30, 2001 and
+               (ii)  The Fiber Type is changed to TW
+
+         M.    Link 37.1
+
+               Purchaser's obligation to purchase Dark Fiber is cancelled in its
+               entirety without liability to AT&T.
+
+               With respect to Links 5,18,18A, 26E, 27A and 27C only, Purchaser
+               may elect to purchase its Dark Fiber for any such Link(s) from an
+               alternate supplier who can provide such Dark Fibers on any such
+               Link at a lower price or on an earlier delivery date. AT&T shall
+               have the right but not the obligation to match any such bona fide
+               offer from an alternate supplier and in the event AT&T does so
+               match the bona fide offer, Purchaser shall remain obligated to
+               purchase the Dark Fibers on the Link from AT&T at the modified
+               price or delivery date. In the event AT&T does not match the bona
+               fide offer of the alternate supplier, Purchaser shall have the
+               option to cancel, in whole or in part, its obligation to purchase
+               the Dark Fibers in any such Link without liability to AT&T
+               provided that Purchaser has given written notice to
+
+                           AT&T / PFN Proprietary
+
+11/12/01
+<Page>
+
+               AT&T by June 30, 2002 of its intent to exercise its cancellation
+               option along with a copy of the bona fide offer from the
+               alternate supplier. Any such cancellation notice shall provide
+               for a cancellation date no earlier than 30 days before and no
+               later than 90 days after the date of the cancellation notice.
+
+3.    For Links 16 and 31 Purchaser may at its option lease from AT&T OC-48
+      service in lieu of the fiber purchase from Seattle to Minneapolis. The
+      minimum term for this lease will be five (5) calendar years. In order to
+      exercise this option Purchaser must notify AT&T that Purchaser wishes to
+      enter into such a capacity lease with AT&T no later than December 31st
+      2002. The parties shall agree to use good faith efforts to enter into such
+      an agreement no later than sixty (60) days thereafter. The price Purchaser
+      pays for such service will be the market price in effect from AT&T to
+      Purchaser at the time the lease is executed. In the event that Purchaser
+      does not so exercise this option, the Purchaser's obligation to purchase
+      fiber as described in Exhibit A shall remain in full force and effect.
+
+4.    With respect to Exhibit I, the following words appearing in subparagraph E
+      of paragraph 3 are deleted in its entirety; it being understood that
+      Purchaser will not have a "take or pay" obligation with respect to rack
+      space:
+
+         "Purchaser agrees to reserve a minimum of two additional racks per year
+         for a total of eight racks after the first four years. In the event the
+         Purchaser fails to make such reservation, Purchaser will pay for the
+         space as if Purchaser had made such a reservation."
+
+4A.   For Exhibit I Attachment 1
+
+
+      Paragraphs B and C are deleted in their entirety and replaced with the
+      following paragraphs:
+
+               B.    The monthly Hut License Fee will be $ 700 per month per
+                     rack. This Hut License Fee includes a power drain of up to
+                     20 AMPS of power per rack with a 40 AMP breaker per rack.
+                     See Attachment B for monthly Hut License Fee for each Hut.
+
+               C.    The monthly power fee for any additional power drain above
+                     20 AMPS per rack will be charged at a rate of $100 for
+                     every additional 10 AMPS of power per rack per month. See
+                     Attachment B for the monthly power fee for each Hut. For
+                     billing purposes, this power fee will be added to the Hut
+                     License Fee. See Attachment B for total monthly Hut License
+                     Fee for each Hut.
+
+5.    Section 4 of Exhibit J is restated and inserted into this Amendment #1 as
+      a new Article 7.2 follows:
+
+7.2 MAINTENANCE SERVICES TO PFN
+
+         7.2.1 TERM. The maintenance activities set forth in Exhibit J, will be
+         performed by AT&T, commencing with the first Phase Closing Date of a
+         Link.
+
+                           AT&T / PFN Proprietary
+
+11/12/01
+<Page>
+
+         7.2.2 SUBCONTRACTING. AT&T may subcontract any maintenance activities
+         set forth in Exhibit J, provided that AT&T shall require the
+         subcontractor(s) to perform such maintenance activities pursuant to
+         Exhibit J. The use of any such subcontractor shall not relieve AT&T of
+         any of its obligations herein.
+
+7.2.3 FEES AND COSTS.
+
+         7.2.3 A. Effective with the Phase 1 Closing Date for each Link,
+         maintenance fees are due and payable on a monthly basis at the rate of
+         thirty dollars ($30) per route mile through December 1, 2003.
+         Commencing on January 1, 2004 and continuing on each anniversary date
+         thereafter for the term of this Agreement maintenance fees for all such
+         Links are due and payable annually at a rate of five hundred dollars
+         ($500) per route mile.
+
+         7.2.3 B. Emergency restoral activity as set forth in Section 1.3 or PCA
+         work in Section 1.2 of Exhibit J will be performed as needed and will
+         be billed on a time and material basis according to the parties'
+         respective proportionate interests in the affected Fiber, Conduit or
+         other property. With respect to emergency services only, the maximum
+         labor rate not to exceed one thousand dollars ($1,000.00) per hour. In
+         the event that AT&T collect any fees or recovers any costs for
+         emergency restoral from responsible third parties assessed for damages
+         to the AT&T System, AT&T will reimburse Purchaser for any fees or costs
+         it has previously paid to AT&T for such emergency restoral service
+         according to their respective proportionate interests in the affected
+         Fiber, Conduit or other property.
+
+         7.2.3 C The maintenance fees and maximum labor rate(s) in Article 7.2.3
+         A and 7.2.3 B above may be adjusted every two (2) years beginning on
+         January 1, 2004, by an amount equal to the increase, if any, in the
+         Consumer Price Index, All Urban Consumers (CPI-U), U.S. City Average,
+         published by the United States Department of Labor, Bureau of Labor
+         Statistics (1982-84=100) for the twenty- four (24) month period ending
+         three months prior to such anniversary. In the event the Bureau of
+         Labor Statistics (or any successor organization) no longer publishes
+         the CPI-U, AT&T may designate the statistical index it deems most
+         appropriate for adjustments and, from the date the CPI-U ceased to be
+         published, such index shall be used to make adjustments under this
+         provision. AT&T will confirm such increases to PFN in writing.
+
+7.2.4    TERM. Unless earlier terminated as set forth in this Agreement, this
+         Article 7.2 and Exhibit J will be in force for the lesser of the period
+         of time that the AT&T System is in use on a reasonably continuous basis
+         for telecommunications purposes or the Purchaser Fibers are in use for
+         the same purposes.
+
+6.    MODIFICATIONS TO EXHIBITS:
+
+         A.    Exhibit A is deleted in its entirety and replaced with Revised
+               Exhibit A dated November 7, 2001 attached hereto.
+
+         B.    Exhibit I: "Fiber Space Exhibit For Purchaser Equipment In
+               Optical Amplifier and Regenerator Huts" is hereby deleted in its
+               entirety and replaced with Revised Exhibit I: "Fiber Space
+               Exhibit For Purchaser Equipment In Optical Amplifier and
+               Regenerator Huts".
+
+                           AT&T / PFN Proprietary
+
+11/12/01
+<Page>
+
+         C.    Exhibit J is deleted in its entirety and replaced with Revised
+               Exhibit J titled Exhibit J Fiber Sales Maintenance Procedures
+               dated November 27, 2001 attached hereto.
+
+         D.    Exhibit K: E-Commerce Terms and Conditions are added to this
+               Agreement and attached hereto.
+
+
+
+
+THE REMAINDER OF THIS PAGE IS INTENTIONALLY LEFT BLANK
+
+
+
+
+
+
+
+
+This Amendment No. 1 is effective as of the execution of this Amendment by both
+parties and shall be incorporated in and shall constitute a part of the
+Agreement as if fully set forth therein. EXCEPT AS AMENDED HEREIN, ALL TERMS AND
+CONDITIONS OF THE AGREEMENT REMAIN UNCHANGED.
+
+
+
+
+
+
+
+
+
+                           AT&T / PFN Proprietary
+
+11/12/01
+<Page>
+
+<Table>
+<S><C>
+
+APPROVAL:
+
+ACKNOWLEDGED AND AGREED TO BY:
+
+PF.NET CORP.                                              AT&T CORP.
+
+BY            /S/ DONALD L. BRANSCOME                     BY         /S/ J. MICHAEL DOWNEY
+              ---------------------------------------                -------------------------------------------------
+              (signature)                                            (signature)
+
+NAME          DONALD L. BRANSCOME                         1.         J. MICHAEL DOWNEY
+
+
+              ---------------------------------------                -------------------------------------------------
+
+TITLE         SENIOR VICE PRESIDENT - BUSINESS            TITLE      SALES VICE PRESIDENT SERVICE PROVIDER MARKETS
+              DEVELOPMENT                                            NETWORK
+              ---------------------------------------                -------------------------------------------------
+
+
+DATE                                                      DATE
+              ---------------------------------------                -------------------------------------------------
+              (typed or printed)                                     (typed or printed)
+</Table>
+
+
+
+
+
+
+
+                           AT&T / PFN Proprietary
+
+11/12/01
+
+</TEXT>
+</DOCUMENT>

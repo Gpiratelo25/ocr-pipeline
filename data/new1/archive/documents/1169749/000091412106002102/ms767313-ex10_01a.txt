@@ -1,0 +1,116 @@
+<DOCUMENT>
+<TYPE>EX-10.01(A)
+<SEQUENCE>2
+<FILENAME>ms767313-ex10_01a.txt
+<DESCRIPTION>AMENDMENT TO MANAGEMENT AGREEMENT
+<TEXT>
+                                                                EXHIBIT 10.01(a)
+
+
+
+                                 AMENDMENT NO. 1
+
+                                       TO
+
+                              MANAGEMENT AGREEMENT
+
+      WHEREAS, DEMETER MANAGEMENT CORPORATION, a Delaware corporation (the
+"General Partner") on behalf of MORGAN STANLEY CHARTER CAMPBELL L.P., a Delaware
+limited partnership (the "Partnership"), and CAMPBELL & COMPANY, INC., a
+Maryland corporation (the "Trading Advisor"), have agreed to amend the
+Management Agreement, dated August 31, 2002 (the "Management Agreement"), among
+the Partnership, the General Partner, and the Trading Advisor, to incorporate
+confidentiality provisions as part of Section 1, "Undertakings in Connection
+with the Continuing Offering of Units" .
+
+      WHEREAS, all provisions contained in the Management Agreement remain in
+full force and effect and are modified only to the extent necessary to provide
+for the amendment set forth below.
+
+      NOW, THEREFORE, the parties hereto hereby amend Section 1 - Undertakings
+in Connection with the Continuing Offering of Units, of the Management
+Agreement, by adding the following language:
+
+      (d) For purposes of this Agreement, and notwithstanding any of the
+provisions hereof, all non-public information relating to the Trading Advisor
+including, but not limited to, records whether original, duplicated
+computerized, handwritten, or in any other form, and information contained
+therein, business and/or marketing and/or sales plans and proposals, names of
+past and current clients, names of past, current and prospective contacts,
+trading methodologies, systems, strategies and research data bases, portfolios,
+and computer software, and all written and oral information, furnished by the
+Trading Advisor to the Partnership or the General Partner and/ or their
+officers, directors, Members, employees, agents (including, but not limited to,
+attorneys, consultants, service consultants and financial advisors) or
+controlling persons (each a "Recipient"), whether furnished before or after the
+date hereof, and regardless of the manner in which it was furnished, together
+with any analysis, compilations, studies or other documents or records which are
+prepared by a Recipient of such information and which contain or are generated
+from such information, regardless of whether explicitly identified as
+confidential, with the exception of information which (i) is or becomes
+generally available to the public other than as a result of acts by the
+Recipient in violation of this Agreement, (ii) is in possession of the Recipient
+prior to its disclosure pursuant to the terms hereof, or (iii) is or becomes
+available to the Recipient from a source that is not bound by a confidentiality
+agreement with regard to such information or by any other legal obligation of
+confidentiality prohibiting such disclosure, are and shall be confidential
+information and/or trade secrets and the exclusive property of the Trading
+Advisor ("Confidential Information" and/or "Proprietary Information").
+
+      (e) The Partnership and the General Partner each warrants and agrees that
+they and their respective officers, directors, Members, employees and agents
+(including for purposes of this Agreement, but not limited to, attorneys,
+accountants, and service consultants) will protect and preserve the Confidential
+Information and will disclose Confidential Information or otherwise make
+Confidential Information available only to the Partnership or the General
+Partner's officers, employees, directors, Members and agents, who need to know
+the Confidential Information (or any part of it) for the purpose of satisfying
+its fiduciary, reporting, filing or other obligations hereunder or to monitor
+performance in the account during the term of this Agreement or thereafter,
+unless the Partnership, General Partner or a Recipient, as the case may be, is
+required to disclose it by judicial process. Additionally, the Partnership and
+the General Partner each warrants and agrees that it and any Recipient will use
+the Confidential Information solely for the purpose of satisfying the
+Partnership or the General Partner's obligations under this Agreement and not in
+a manner which violates the terms of this Agreement.
+
+      IN WITNESS WHEREOF, this Amendment to the Management Agreement has been
+executed for and on behalf of the undersigned as of the 13th day of June, 2006.
+
+                              MORGAN STANLEY CHARTER CAMPBELL L.P.
+
+
+                              By:  Demeter Management Corporation,
+                                   General Partner
+
+
+                              By:      /s/ Walter Davis
+                                  --------------------------------------
+                                    Name:  Walter Davis
+                                    Title: Chairman and President
+
+
+                              DEMETER MANAGEMENT CORPORATION
+
+
+                              By:      /s/ Walter Davis
+                                  --------------------------------------
+                                    Name:  Walter Davis
+                                    Title: Chairman and President
+
+
+                              CAMPBELL & COMPANY, INC.
+
+
+                              By:      /s/ Thomas P. Lloyd
+                                  --------------------------------------
+                                    Name:  Thomas P. Lloyd
+                                    Title: General Counsel
+
+
+                              By:      /s/ Theresa D. Becks
+                                  --------------------------------------
+                                    Name:  Theresa D. Becks
+                                    Title: Chief Financial Officer
+</TEXT>
+</DOCUMENT>

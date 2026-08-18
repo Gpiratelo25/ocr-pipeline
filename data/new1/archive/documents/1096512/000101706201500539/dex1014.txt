@@ -1,0 +1,339 @@
+<DOCUMENT>
+<TYPE>EX-10.14
+<SEQUENCE>2
+<FILENAME>dex1014.txt
+<DESCRIPTION>AMENDED AUCS MANAGEMENT AGREEMENT
+<TEXT>
+
+<PAGE>
+
+                                                                   Exhibit 10.14
+
+
+     DEED OF AMENDMENT TO MANAGEMENT AGREEMENT
+
+     THIS DEED OF AMENDMENT (the "Amendment"), made as of 30 MARCH 2001 by and
+                                  ---------
+among Infonet Services Corporation, a Delaware corporation ("ICS"), AUCS
+                                                             ---
+Communications Services v.o.f., a general partnership organized under the laws
+of The Netherlands ("AUCS"), and herein represented by AUCS Communications
+                     ----
+Services N.V., a company organized under the laws of The Netherlands ("AUCS"
+                                                                       ----
+N.V.", and, together with AUCS and all of their direct and indirect
+----
+subsidiaries, the "AUCS Entities" and each an "AUCS Entity"), Telia AB, a
+                   -------------               -----------
+company organized under the laws of Sweden ("Telia"), KPN Telecom B.V., a
+                                             -----
+company organized under the laws of The Netherlands ("KPN"), Swisscom AG, a
+                                                      ---
+company organized under the laws of Switzerland ("Swisscom" and, together with
+                                                  --------
+Telia and KPN, the "Indirect AUCS Stockholders" ), Telia Telecommunications
+                    --------------------------
+International B.V., a company organized under the laws of The Netherlands
+("Telia B.V."), Telki Holding Company B.V., a company organized under the laws
+  ----------
+of The Netherlands ("Telki B.V."), and Swisscorm Netherlands B.v., a company
+                     ----------
+organized under the laws of The Netherlands ("Swisscom B.V.", and together with
+                                              -------------
+Telia B.V. and Telki B.V., the "Acquiring Companies") (each, a "Party" and
+                                -------------------             -----
+collectively, the "Parties").
+                   -------
+
+     WHEREAS, among others, ISC, AUCS N.V., AUCS, the Indirect AUCS
+Stockholders, Unisource N.v., Unisource Pan-European Services B.V. ("UPES")
+                                                                     ----
+and Briap B.V. ("Briap") entered into that certain Management Agreement dated
+                 -----
+September 30, 1999 (the "Management Agreement");
+                         --------------------
+
+     WHEREAS, Unisource N.V. was demerged within the meaning of Sections 2:334a
+et seq of the Dutch Civil Code with effect from June 1, 2000, zero hours.
+Pursuant to the demerger and from the effective time of the demerger, among
+others: (a) Unisource N.V. ceased to exist, and (b) Unisource N.V.'s assets and
+liabilities, including its contractual position under the Management Agreement,
+was acquired by the Acquiring Companies under the universal title of succession;
+
+     WHEREAS, the Parties desire to amend the Management Agreement by, among
+others, deleting the partial loss rebate set for the in Section 5.2(b) of the
+Management Agreement;
+
+     WHEREAS, AUCS N.V., executes and delivers this Amendment on behalf of
+itself and AUCS;
+
+     WHEREAS, each Acquiring Company executes and delivers this Amendment on
+behalf of itself and UPES and Briap;
+
+
+<PAGE>
+
+     NOW THEREFORE, in consideration of the premises and the mutual covenants
+contained herein, and other good and valuable consideration, the receipt and
+sufficiency of which are hereby acknowledged, the parties hereto agree as
+follows:
+
+                                   ARTICLE I.
+                                  DEFINITIONS
+
+     Section 1.1   Certain Definitions. In this Amendment, capitalized terms
+                   -------------------
+used but not defined herein shall have the meaning set forth in the Management
+Agreement.
+
+                                  ARTICLE II.
+                       AMENDMENT OF MANAGEMENT AGREEMENT
+
+     Section 2.1.1 Restatement. Section 5.2(b) of the Management Agreement shall
+                   -----------
+be null and void, deleted in its entirety and replaced with the words
+"[Intentionally Omitted]".
+
+     Section 2.1.2 Section 5.2(d) of the Management Agreement shall read as
+follows:
+
+     "(d) If the Restructuring Costs are below (Euro) 55,000,000 (fifty five
+million Euro) ISC will receive an incentive payment which will be calculated as
+follows:
+(i) for every Euro the Restructuring Costs are below (Euro) 55,000,000 (fifty
+five million Euro) but in excess of (Euro) 40,000,000 (forty million Euro), ISC
+will receive an incentive payment equal to 25% (twenty five per cent) of the
+difference between (Euro) 55,000,000 (fifty five million Euro) and (Euro)
+40,000,000 (forty million Euro); (ii) for every Euro the Restructuring Costs are
+equal to or below (Euro) 40,000,000 (forty million Euro) but in excess of (Euro)
+30,000,000 (thirty million Euro), ISC will receive an incentive payment equal to
+50% (fifty per cent) of the difference between (Euro) 40,000,000 (forty million
+Euro) and (Euro) 30,000,000 (thirty million Euro); and (iii) for every Euro the
+Restructuring costs are equal to or below (Euro) 30,000,000 (thirty million
+Euro) ISC will receive an incentive payment equal to the amount that the
+Restructuring Costs are less than (Euro) 30,000,000 (thirty million Euro), such
+payment to be made by the Acquiring Companies jointly and severally to ISC by
+wire transfer of immediately available funds in Euro to an account designated by
+ISC in writing within 30 days of the agreement, deemed agreement or
+determination by the Accountant of the Closing Date Financial Statements for the
+Initial Term in accordance with Section 5.2(c) which shall apply mutatis
+mutandis to this Section 5.2(d)."
+
+
+
+
+<PAGE>
+
+     Section 2.1.3 The definition of "AUCS Entities Adjusted EBIDTA Losses" in
+the Management Agreement shall read as follows:
+"means the negative consolidated net earnings of the AUCS Entities from ordinary
+activities (including the AT&T Exit Obligations) before interest income and
+expense, taxation, depreciation and amortization for the relevant period as
+presented in the Management Accounts or the Consolidated Financial Statements,
+including any losses which may arise as a result of any AUCS entity acquiring or
+transferring any shares in another entity without the approval of the
+Supervisory Board, but excluding the Management Fee, any Restructuring Costs and
+any Liquidations Costs".
+
+     Section 2.1.4 The following subsections (n) and (o): shall be added to
+Section 12.1:
+"(n) any sale or transfer of any service related asset not contemplated in any
+agreement to which the Indirect AUCS Stockholders are a party by an AUCS Entity
+to Infonet, except when (i) such asset is sold or transferred for the bookvalue
+at that time; and (ii) the total bookvalue of the assets transferred in any
+given calendar year is less than (Euro) 1,000,000 (one million Euro). For the
+purpose of this Section 12.1 (n) service related assets shall be any and all
+assets which are either directly or indirectly necessary for the provision of
+services to customers, including but not limited to notes and IT equipment;
+
+(o) any acquisition, sale or transfer by an AUCS entity of shares in another
+entity."
+
+     Section 2.2   No Other Amendments. Except as set forth in Section 2.1 of
+                   -------------------
+this Amendment, this Amendment shall not amend the terms of the Management
+Agreement.
+
+     Section 2.3   Effective Date. This Amendment shall be effective as of
+                   --------------
+September 30, 1999.
+
+                                 ARTICLE III.
+                                  COVENANTS
+
+     Section 3.1   General Cooperation; Further Assurances. Each Party, at its
+                   ---------------------------------------
+expense, shall promptly and duly execute and deliver to the other Parties such
+further documents and assurances and take such further action as the other
+Parties may from time to time reasonably request in writing in order to carry
+out more effectively the intent and purpose of this Amendment (including,
+without limitation, any applications, documents and reports required by any
+governmental authority).
+<PAGE>
+
+                                  ARTICLE IV.
+                                REPRESENTATIONS
+
+     Section 4.1 AUCS and Indirect AUCS Stockholder and Acquiring Companies
+                 ----------------------------------------------------------
+Authority. Each of AUCS N.V., the Indirect AUCS Stockholders and the Acquiring
+---------
+Companies severally represents and warrants to ISC that (i) it has all necessary
+authority and power to execute and deliver this Amendment and that (ii) this
+Amendment and the Management Agreement as amended by this Amendment constitutes
+the legal, valid and binding obligation of it and of those entitics set out in
+the Recitals to this Amendment (other than ISC) on whose behalf it signs this
+Amendment, enforceable against it and against any such entities by ISC in
+accordance with its terms.
+
+     Section 4.2 ISC Autority. ISC represents and warrants to each of AUCS N.V.,
+                 ------------
+the Indirect AUCS Stockholders and the other parties to the Management Agreement
+that (i) it has all necessary corporate power and authority to execute and
+deliver this Amendment and that (ii) this Amendment and the Management Agreement
+as amended by this Amendment constitutes the legal, valid and binding obligation
+of it, enforceable against it by the other parties to the Management Agreement
+in accordance with its terms.
+
+                                  ARTICLE V.
+                                 MISCELLANEOUS
+
+     Section 5.1 Incorporation. This Amendment shall be deemed to be
+                 -------------
+incorporated into and made a part of the Management Agreement.
+
+     Section 5.2 Third Party Rights. A person who is not a party to this
+                 ------------------
+Amendment shall have no right under the Contracts (Rights of Third Parties) Act
+1999 to enforce any of its terms, however nothing in this Section 5.2 shall
+prevent a party to the Management Agreement from enforcing any obligation,
+rights and benefits that they may have conferred upon them under this Amendment.
+
+     Section 5.3 Governing Law. This Amendment shall be governed by and shall
+                 -------------
+be construed in accordance with English law, without reference to the choice of
+law provisions thereof. Accordingly any dispute arising out of or having any
+connection with this Amendment shall be referred, in the first instance, in
+accordance with the provisions of Section 10.2 of the Management Agreement.
+
+                           [Signature pages follow]
+
+
+
+<PAGE>
+
+     IN WITNESS WHEREOF this Amendment has been executed as a deed by the
+parties hereto and its intended to be and is hereby delivered on the date first
+before written.
+
+SIGNED AND DELIVERED                         )  /s/ JOSE A. COLLAZO
+AS A DEED by                                 )  -----------------------------
+INFONET SERVICES                             )      Jose A. Collazo
+CORPORATION acting by a                      )         Director
+director and its secretary or two directors  )
+                           --                )  /s/ PAUL A. GALLEBERG
+                                             )  -----------------------------
+                                             )      Paul A. Galleberg
+                                             )          Secretary
+
+                                      Director
+
+                                      Director/Secretary
+
+
+SIGNED AND DELIVERED                  )
+AS A DEED by                          )
+AUCS COMMUNICATIONS                   )
+SERVICES N.V. a company               )
+incorporated in The Netherlands       )
+by                                    )
+being a person who, in                )         /s/ DAVID JOWELL
+accordance with the laws of that      )         -------------------------
+territory, is acting under            )             David Jowell
+the authority of AUCS                 )             Attorney-in-fact
+Communications Services N.V.          )
+
+SIGNED AND DELIVERED                  )
+AS A DEED by                          )         /s/ JAN HENRIK AHRNELL
+TELIA AB a company                    )         -------------------------
+incorporated in Sweden                )             Jan Henrik Ahrnell
+by                                    )
+being a person who, in                )         /s/ MARIANNE NIVERT
+accordance with the laws of that      )         -------------------------
+territory, is acting under            )             Marianne Nivert
+the authority of Telia AB             )
+
+SIGNED AND DELIVERED                  )
+AS A DEED by                          )
+KPN TELECOM B.V.                      )
+
+                                                                               5
+
+<PAGE>
+
+a company incorporated in           )
+The Netherlands                     )    /s/ PAUL SMITS
+by                                  )    ------------------------
+being a person who, in              )        Paul Smits
+accordance with the laws of that    )
+territory, is acting under          )
+the authority of KPN                )
+Telecom B.V.                        )
+
+SIGNED AND DELIVERED                )   /s/ JORG BAUMANN
+AS A DEED by                        )   -------------------------
+SWISSCOM AG                         )       Jorg Baumann
+a company incorporated in           )       Vice-President
+Switzerland                         )
+by                                  )   /s/ LORNE SOMERVILLE
+being a person who, in              )   -------------------------
+accordance with the laws of that    )       Lorne Somerville
+territory, is acting under          )       Senior Vice-President
+the authority of Swisscom AG        )
+
+SIGNED AND DELIVERED                )
+AS A DEED by                        )
+TELIA TELECOMMUNICATIONS            )   /s/ JAN HENRIK AHRNELL
+INTERNATIONAL B.V. a company        )   --------------------------
+incorporated in The Netherlands     )       Jan Henrik Ahrnell
+by Jan Henrik Ahrneli and           )
+Annika Christiansson                )   /s/ ANNIKA CHRISTIANSSON
+being persons who, in               )   --------------------------
+accordance with the laws of that    )       Annika Christiansson
+territory, is acting under          )
+the authority of Telia Tele-        )
+communications International B.V.   )
+
+SIGNED AND DELIVERED                )
+AS A DEED by                        )
+TELKI HOLDING COMPANY               )   /s/ ERIC DE JONG
+B.V. a company                      )   --------------------------
+incorporated in The Netherlands     )       Eric de Jong
+by                                  )
+being a person who, in              )
+accordance with the laws of that    )
+
+<PAGE>
+
+
+
+
+
+
+territory, is acting under        )
+the authority of Tolki Holding    )
+Company B.V.                      )
+
+SIGNED AND DELIVERED              )  /s/ LORNE SOMERVILLE
+AS A DEED by                      )  --------------------
+SWISSCOM NETHERLANDS B.V.         )  LORNE SOMERVILLE
+a company incorporated            )  Director
+The Netherlands by                )
+being a person who, in            )
+accordance with the laws of that  )
+territory, is acting under        )
+the authority of Swisscom         )
+Netherlands B.V.                  )
+
+</TEXT>
+</DOCUMENT>

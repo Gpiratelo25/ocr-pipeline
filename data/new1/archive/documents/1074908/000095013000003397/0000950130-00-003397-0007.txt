@@ -1,0 +1,763 @@
+<DOCUMENT>
+<TYPE>EX-10.14.1
+<SEQUENCE>7
+<FILENAME>0007.txt
+<DESCRIPTION>AMENDED AND RESTATED SERVICES AGREEMENT
+<TEXT>
+
+<PAGE>
+
+                                                                 EXHIBIT 10.14.1
+
+Note: Portions of this exhibit indicated by "[*]" are subject to a confidential
+treatment request, and have been omitted from this exhibit. Complete, unredacted
+copies of this exhibit have been filed with the Securities and Exchange
+Commission as part of this company's confidential treatment request.
+
+
+                              AMENDED AND RESTATED
+
+                               SERVICES AGREEMENT
+
+       This Amended and Restated Services Agreement (this "Agreement") is
+                                                           ---------
+executed as of the 7th day of April, 2000 by and between Valley Media, Inc., a
+Delaware corporation("Valley") and Loudeye Technologies, Inc., a Delaware
+corporation, originally Loudeye.com, Inc. ("Loudeye") to amend and restate the
+Services Agreement between Valley and Loudeye dated as of December 17, 1999 (the
+"Effective Date.  The original Services Agreement is amended and restated in its
+ --------------
+entirety as set forth herein.
+
+                                    RECITALS
+
+       A.  Loudeye offers services and applications for Loudeye, optimizing and
+delivering audio and video content on the Internet.
+
+       B.  Valley is a distributor of music and video entertainment products.
+
+       C.  Valley desires to obtain certain services from Loudeye that will
+allow Valley to include a digital music sampling service as part of the consumer
+database it offers to its retail customers.
+
+                                   AGREEMENT
+
+       In consideration of the foregoing and the mutual promises and covenants
+contained herein, and for other good and valuable consideration the receipt and
+sufficiency of which are hereby acknowledged, Valley and Loudeye hereby agree as
+follows:
+
+1. Definitions.  For purposes of this Agreement, the following definitions will
+--------------
+  apply:
+
+  1.1.  The term "Confidential Information" means any information that one party
+     (the "Disclosing Party") furnishes or makes available to the other party
+     (the "Receiving Party") and all information related to the business of one
+           ---------------
+     party (the "Disclosing Party") which the other party (the "Receiving
+                 ----------------
+     Party") acquires in the course of performing its obligations under this
+     Agreement; provided, however, that the term "Confidential Information" does
+     not include any information that the Receiving Party can prove (a) is
+     generally available to or known by the public, (b) was available to or
+     known by the Receiving Party on a non-confidential basis prior to
+     disclosure by the Disclosing Party, (c) was independently developed for the
+     Receiving Party by persons who were not given access to the information
+     disclosed by the Disclosing Party, or (d) becomes generally known to the
+     public after the Effective Date through no act or omission of the Receiving
+     Party.
+
+  1.2.  The term "Major Labels" means, collectively, [*], and (f) any affiliate,
+     division or subsidiary of any of the entities described in parts (a)
+     through (e) of this Section 1.2.
+
+2. Inventory Loan.  Valley maintains an inventory of compact discs containing
+-----------------
+  prerecorded music (each, a "CD" and, collectively, the "CDs").    Valley will
+                              --                          ---
+  [*], one copy of each stock-keeping unit maintained by Valley among its
+  inventory of CDs during the term of this Agreement, including the original
+  artwork and packaging for each such CD (each, a "Loaned CD" and, collectively,
+                                                   ---------
+  the "Loaned CDs").  Valley will deliver the Loaned CDs to Loudeye at [*].
+  Loudeye will pay Valley a handling charge of [*] per Loaned CD delivered to
+  Loudeye by Valley.
+
+[*] Confidential Treatment Request
+
+                                       1
+<PAGE>
+
+3. Product Information File.  Valley maintains an electronic data file
+---------------------------
+  containing [*] for each recording contained in a CD in its inventory (the
+  "Product Information File").  Valley will deliver to Loudeye, at [*] charge,
+  -------------------------
+  one electronic copy of the Product Information File.  In addition, during the
+  term of this Agreement, Valley will deliver to Loudeye daily updates of the
+  Product Information File ("PIF Updates") containing artist and UPC information
+                             -----------
+  for recordings contained in CDs that have been added to Valley's inventory
+  since the original Product Information File or the last PIF Update was
+  delivered to Loudeye by Valley, whichever was later.  For purposes of this
+  Agreement, the term "Product Information File" means the Product Information
+  File as updated and/or amended by Loudeye to incorporate any and all PIF
+  Updates.  Valley will not be required to deliver updates of the Product
+  Information File to Loudeye following the termination or expiration of this
+  Agreement unless the parties agree otherwise.
+
+
+4. Encoding of Loaned CDs.
+-------------------------
+
+  4.1.  For each recording contained in a Loaned CD (each, a "Recording" and,
+                                                              ---------
+     collectively, the "Recordings"), Loudeye will create a storable electronic
+                        ----------
+     file containing a copy of that Recording in digital form (each, a "Song
+                                                                        ----
+     File" and, collectively, the "Song Files").  Loudeye will create each Song
+     ----                          ----------
+     File in a manner that will allow that Song File to be encoded into each of
+     the streaming and downloading formats and at each of the data rates
+     described in Exhibit A hereto, which is incorporated herein by this
+                  ---------
+     reference.  Valley may amend Exhibit A from time to time to include
+                                  ---------
+     additional streaming and/or downloading formats and/or additional data
+     rates, and Loudeye will create Song Files and Song Clips (as defined below)
+     for each Recording in such additional formats and/or at such additional
+     data rates in accordance with a schedule agreed upon by both parties.
+     Valley will [*] by Loudeye in encoding the Loaned CDs into such additional
+     formats and/or at such additional data rates pursuant to this Section 4.1.
+
+  4.2.  From each Song File, Loudeye will create a sound clip (each, a "Song
+                                                                        ----
+     Clip" and, collectively, the "Song Clips") of a length, in each of the
+     ----                          ----------
+     formats and at each of the data rates described in Exhibit B hereto, which
+                                                        ---------
+     is incorporated herein by this reference.
+
+  4.3.Loudeye will link each Song Clip to that portion of the Product
+     Information File containing product information for the Recording
+     underlying the Song Clip, so that users of the Product Information File [*]
+     for a particular Recording will be able to [*].
+
+  4.4  Loudeye will create a storable electronic file containing a copy of the
+     cover art of each Loaned CD in digital form (each, a "Front Cover Art File"
+                                                           --------------------
+     and, collectively, the "Front Cover Art Files".  Loudeye will also create a
+                             ---------------------
+     storable electronic file containing a copy of the art on the back of the CD
+     jewel case of each Loaned CD in digital form (each, a "Back Cover Art File"
+     and, collectively, the "Back Cover Art Files").  The combination of "Front
+     Cover Art Files" and "Back Cover Art Files" will be known collectively as
+     "Cover Art Files".  Loudeye will incorporate the Cover Art Files into the
+     Product Information File so that a digital image of the cover art for a
+     Loaned CD can appear on each screen viewed by a user of the Product
+     Information File that contains information regarding a Recording contained
+     in that Loaned CD.  The Back Cover Art Files will be captured through the
+     jewel case housing the CD at an additional cost to Valley Media of $0.67
+     per CD.  Loudeye will invoice Valley on a monthly basis for such costs.
+
+  4.5.  After Loudeye has created Song Files and Song Clips for each Recording
+     contained in a Loaned CD, and created a Cover Art File for that Loaned CD,
+     Loudeye will promptly return the Loaned CD to Valley at [*].  Loudeye may
+     return Loaned CDs without shrink-wrap, and Loudeye will use [*] efforts to
+     have each returned Loaned CD in a condition that would allow Valley to
+     return the Loaned CD to the vendor from which it was purchased without any
+     refurbishment on Valley's part; provided, however, if Loudeye is not able
+     to return a Loaned CDs in such returnable condition, Loudeye will pay [*]
+     of Valley's wholesale cost for any such Loaned CD.
+
+  4.6.  Loudeye will update and/or amend the Product Information File on a daily
+     basis to incorporate the information contained in any and all PIF Updates.
+
+  4.7.  If, in carrying out its responsibilities under this Agreement, but
+     without any separate obligation to do so, Loudeye becomes aware of a
+     Recording that is contained in a Loaned CD [*].
+
+
+[*] Confidential Treatment Request
+
+                                       2
+<PAGE>
+
+  4.8. Loudeye will attempt to create a customized clip service that will allow
+     an artist or label to select the portion of a Recording by that artist or
+     label that is used to create a Song Clip for that Recording. The artist or
+     label would be required to bear the cost related to the creation of any
+     such customized Song Clip.
+
+5.  Music Sampling Service.  Valley and Loudeye will use the Product
+--------------------------
+Information File and the Song Clips to create a music sampling service (the
+"Sampling Service") that will be sold or licensed to third parties.  Loudeye and
+-----------------
+Valley each will have the right to sell or license the Sampling Service to third
+parties; provided, however, that neither Loudeye nor Valley may sell, license or
+otherwise transfer the Sampling Service or any portion thereof to [*].  Loudeye
+and Valley will each be responsible for collecting sales revenue and/or license
+fees from their respective customers and/or licensees.  During the term of this
+Agreement, Loudeye and Valley will each be entitled to [*] of any license or
+other fees received by the other party for selling or licensing the Sampling
+Service; provided, however, that if [*] the Sampling Service to [*] in
+connection with [*] to that party, and [*], as the case may be, [*] for the
+Sampling Service beyond the [*] in an amount not greater than [*], then the
+parties shall not be required to [*].  The amount of license or other fees
+received in connection with selling or licensing the Sampling Service which must
+be shared pursuant to this paragraph shall be [*] determined in good faith in
+accordance with U.S. GAAP.  In the case of [*] shall include only [*] and other
+[*] to provide [*].  Loudeye will perform the following services to support the
+Sampling Service:
+
+  5.1.  Loudeye will store the Song Clips on its business systems and use those
+     systems to stream the Song Clips to consumers using the Sampling Service.
+     In hosting and streaming the Sampling Service, Loudeye will maintain
+     interface capabilities that are consistent with industry standards.
+     Loudeye's right to host and stream the Sampling Service on behalf of Valley
+     under this Section 5.1. is not exclusive, and Valley may retain other
+     persons or entities to perform such services in accordance with the
+     following conditions.  Valley will notify Loudeye in writing if it wishes
+     to have hosting and streaming services for the Sampling Service performed
+     by a person or entity other than Loudeye (the "Third Party Service
+     Provider").  For a period of sixty (60) days following Loudeye's receipt of
+     such notice, Valley and Loudeye will negotiate in good faith regarding
+     Loudeye's provision of such services instead of the Third Party Service
+     Provider.  If, at the conclusion of such sixty (60) day period, Valley and
+     Loudeye have not reached an agreement for Loudeye to perform such services
+     after negotiating in good faith, Valley will be permitted to retain the
+     Third Party Service Provider to perform such services.
+
+  5.2.  Loudeye will collect the data described in Exhibit D hereto (the
+                                                   ---------
+     "Consumer Data"), which is incorporated herein by this reference, regarding
+     --------------
+     the usage and purchasing habits of consumers that use the Sampling Service.
+
+6. Minimum Service Levels.  In consideration of the capital expenditures that
+   ----------------------
+   will be incurred by Loudeye in connection with this Agreement, which are
+   described in Section 7.1. below, Valley [*] that Loudeye will receive
+   revenues from the Sampling Service of at least [*] during each three month
+   period (an "Installment Period") during the first twelve (12) months after
+               ------------------
+   the Sampling Service becomes operational (the "Guaranteed Period") for a
+                                                  -----------------
+   total guaranteed payment of at least [*].  If Loudeye does not receive
+   Sampling Service Revenues of at least [*] during each Installment Period
+   during the Guaranteed Period, Valley will make a payment to Loudeye (each, a
+   "Guaranteed Payment") within thirty (30) Days of the conclusion of the
+    ------------------
+   applicable Installment Period equal to the difference between [*] and the
+   amount of revenues actually received by Loudeye from licensing or sale of the
+   Sampling Service during the applicable Installment Period together with any
+   amounts actually received by Loudeye pursuant to Section 7.4 (cumulatively,
+   the "Sampling Service Revenue"); provided, however, that Loudeye will not be
+        ------------------------
+   entitled to receive the Guaranteed Payment if Valley delivered the first [*]
+   in accordance with the [*] set forth on Exhibit G hereto, in each case
+                                           ---------
+   together with [*] which, at the time of delivery of the [*], were correct in
+   all elements necessary so that at least [*] of such [*] will pass through [*]
+   without interruption due to [*], and (a) the Sampling Service is not
+   operational on or before [*] and, or (b) [*], which is incorporated herein by
+   this reference; provided, further, that Valley shall not be obligated to make
+   a Guaranteed Payment for a particular Installment Period if Loudeye has
+   received an average of [*] or more from Guaranteed Payments and Sampling
+   Service Revenue during each of the preceding Installment Periods and the
+   Installment Period in question.  For purposes of this Section 6, the Sampling
+   Service will become "operational" when Loudeye has created Song Files and
+   Song Clips for that number of [*] equal to the [*].  The PIF Accuracy
+   Percentage shall be the [*], measured on all delivery dates set forth in
+   Exhibit H on and after March 17, 2000 with respect to the [*] delivered as of
+   ---------
+   those delivery dates.  For the purposes of this Section 6, all references to
+   "revenue" shall be revenue calculated in accordance with U.S. GAAP at the
+   time the Guaranteed Payment would be due.
+
+
+[*] Confidential Treatment Request
+
+                                       3
+<PAGE>
+
+7. Service Fees.
+---------------
+
+  7.1. Capital Expenses.  Loudeye will pay all the necessary upfront capital
+  ---------------------
+     equipment charges necessary for the creation of the Sampling Service which
+     are estimated to total [*] and to include:
+
+     7.1.1.  Facilities
+     7.1.2.  Ripping Stations
+     7.1.3.  Loudeye Stations
+     7.1.4.  Raid Online Storage
+     7.1.5.  Nearline Storage System
+     7.1.6.  Computer servers and Equipment
+
+  7.2. Encoding Costs.  Valley will pay by [*] of the costs of creating the
+  -------------------
+     Song Files and Song Clips.  This amount is fixed and in the event the
+     actual costs for this service increase or decrease, Valley will not have to
+     pay any portion of any overage.
+
+  7.3. Costs to Update Sampling Service.  Valley will pay Loudeye a fee of [*]
+  -------------------------------------
+     for each CD added to the Sampling Service in excess of the initial [*]
+     Loaned CDs delivered by Valley to Loudeye.  This fee is fixed through
+     September 2000.  In the event, Loudeye's costs for adding CDs are
+     determined to increase or decrease by [*] or higher, the parties agree to
+     renegotiate this clause and its fee schedule in good faith.  Loudeye will
+     invoice Valley on a monthly basis that reflects the actual number of files
+     added to the Sampling Service inventory.  Valley will deliver the
+     additional CDs described in this section to Loudeye at [*].  Loudeye will
+     pay Valley a handling charge of [*] per additional CD delivered to Loudeye
+     by Valley pursuant to this section.
+
+  7.4. Streaming Costs.  Loudeye will charge Valley [*] for the ongoing
+  --------------------
+     streaming and hosting costs.  [*] is defined as the [*] plus [*] of the [*]
+     plus [*].
+
+8. Ownership and Rights upon Termination.
+----------------------------------------
+
+  8.1. Loaned CDs.
+  ---------------
+
+     8.1.1.  The Loaned CDs are, and will at all times remain, Valley's sole and
+        exclusive property, and Valley will have the right to demand the return
+        of any or all of the Loaned CDs, with Loudeye to pay [*], including the
+        original artwork and packaging for each Loaned CD, at any time;
+        provided, however, that, if at any time any or all of the Loaned CDs
+        (other than any Loaned CDs purchased by Loudeye pursuant to Section 9.2
+        of this Agreement) are determined to be Loudeye's property, Loudeye
+        hereby grants Valley a security interest in such Loaned CDs.
+
+     8.1.2.  Upon the expiration or termination of this Agreement, Loudeye will
+        promptly return all of the Loaned CDs, including the original artwork
+        and packaging for each Loaned CD, at [*], to Valley (other than any
+        Loaned CDs Loudeye has already returned to, or purchased from, Valley
+        pursuant to Section 9.2 of this Agreement).
+
+  8.2. Files and Clips.
+  --------------------
+
+     8.2.1.  The Song Clips, the Song Files and the Cover Art Files will be, and
+        will at all times remain, the sole and exclusive property of Valley;
+        provided, however, that, if at any time any or all of the Song Files
+        and/or the Song Clips and/or the Cover Art Files are determined to be
+        Loudeye's property, Loudeye hereby grants Valley a security interest in
+        such Song Files and/or Song Clips and/or Cover Art Files.
+
+     8.2.2.  The Product Information File and any and all PIF Updates will be,
+        and will at all times remain, the sole and exclusive property of Valley;
+        provided, however, that, if at any time the Product Information File,
+        any portion thereof, or any or all of the PIF Updates are determined to
+        be Loudeye's property, Loudeye hereby grants Valley a security interest
+        in the Product Information File and/or such PIF Updates.
+
+
+[*] Confidential Treatment Request
+
+                                       4
+<PAGE>
+
+     8.2.3.  Valley hereby grants Loudeye a worldwide, perpetual, irrevocable,
+        nonexclusive license to use, store, modify, copy and distribute the
+        Product Information File, the PIF Updates, the Song Clips, the Song
+        Files and the Cover Art Files.  This license will survive any
+        termination or expiration of this Agreement.  Loudeye will have the
+        right to sublicense the Product Information File, the PIF Updates, the
+        Song Files, the Song Clips and the Cover Art Files to any entity other
+        than [*].
+
+     8.2.4.  Upon the expiration or termination of this Agreement, or at any
+        earlier time, upon demand by Valley, Loudeye will promptly deliver to
+        Valley, [*], copies of all of the Song Files, Song Clips and Cover Art
+        Files in the formats maintained hereunder; provided, however, if Valley
+        terminates this Agreement as a result of a breach of this Agreement by
+        Loudeye pursuant to Section 18.2, Loudeye shall [*].
+
+  8.3. Consumer Data. All of the Consumer Data will be, and will at all times
+  ------------------
+     remain, the sole and exclusive property of Valley; provided, however, that
+     Valley will pay Loudeye [*] of all payments received by Valley through the
+     sale, licensing or other commercial exploitation of all or any portion of
+     the Consumer Data during the term of this Agreement.
+
+9. Audiofile License and Deleted Product.
+----------------------------------------
+
+  9.1.  At the same time the parties enter into this Agreement, they will enter
+     into an Audiofile License Agreement substantially in the form attached
+     hereto as Exhibit F (the "Audiofile License"), which is incorporated herein
+               ---------       -----------------
+     by this reference, pursuant to which Valley will license its audiofile
+     database ("Audiofile") to Loudeye on a royalty free basis during the term
+                ---------
+     of this Agreement.  If Valley is notified by any of its suppliers that the
+     supplier is deleting one of the Loaned CDs from its catalog, Valley will
+     post a deletion notice regarding the Loaned CD on Audiofile, and Loudeye
+     will return, [*], its copy of the Loaned CD to Valley on or before the Last
+     Customer Return Date stated in the deletion notice [*].
+
+  9.2.  If Valley posts a deletion notice regarding a Loaned CD on Audiofile and
+     Audiofile is fully operational and accessible by Loudeye, and Loudeye fails
+     to return its copy of the Loaned CD to Valley prior to the Last Customer
+     Return Date stated in the deletion notice, Loudeye will purchase the Loaned
+     CD from Valley at Valley's wholesale price for the Loaned CD.
+
+10. Initial Warrant Grant.  Loudeye will issue warrants for [*] shares of
+-------------------------
+  Loudeye common stock with a strike price of [*] per share and an exercise
+  period of [*] (the "Initial Warrants").  The Initial Warrants will be granted
+                      ----------------
+  upon commencement of this agreement.
+
+11. Rights Acquisition.  Loudeye will grant Valley an additional [*] warrants on
+----------------------
+  the same terms and conditions as the Initial Warrants in consideration of
+  Valley's certification attached hereto as Exhibit G (the "Certificate"), which
+                                            ---------       -----------
+  is incorporated herein by this reference, regarding Valley's attempts to [*].
+  The statements contained in the Certificate will constitute representations
+  and warranties of Valley under this Agreement.  If Valley enters into a
+  definitive written agreement with [*] regarding the matters set forth in the
+  Certificate, Valley will provide a copy of such agreement to Loudeye.
+
+12. Future Endeavors.
+--------------------
+
+  12.1.  Valley and Loudeye may explore the possibility of a variety of new
+     offerings leveraging either the existing assets such as the Song Files,
+     Song Clips and/or the Product Information File or offerings leveraging
+     other assets of Valley and Loudeye.  However, neither party is obligated to
+     engage in any joint business activities beyond those specifically agreed to
+     in this Agreement unless the parties enter into a separate agreement which
+     sets forth their respective rights and obligations.
+
+  12.2.  Right of [*].  Valley agrees that during the term of this Agreement
+         ------------
+     Loudeye shall be [*] and, at Loudeye's option, [*] with respect to, any and
+     all [*] to [*] or any of its [*] for which Valley [*] any or all of such
+     [*] (individually, an "Opportunity," and collectively, "Opportunities"),
+                            -----------                      -------------
+     and Valley agrees to [*] with [*] in good faith for the [*] of such
+     Opportunities.  Prior to [*] an Opportunity to [*], Valley shall [*] such
+     Opportunity to [*].  Thereafter, Loudeye shall have [*] days (the "[*]
+     Period") during which it will [*] with respect to such Opportunity.  During
+     ------
+     the term of this Agreement, Valley shall not [*] such Opportunity to [*]
+     until the earliest to occur of (i) Loudeye's notifying Valley in writing
+     that [*] with respect to such Opportunity or (ii) the expiration of the [*]
+     Period.
+
+
+[*] Confidential Treatment Request
+
+                                       5
+<PAGE>
+
+13. Representations and Warranties of Loudeye.  To induce Valley to enter into
+---------------------------------------------
+  this Agreement and to perform the transactions contemplated hereunder, Loudeye
+  represents and warrants as follows:
+
+  13.1. Organization.  Loudeye is a corporation duly organized, validly
+  ------------------
+     existing and in good standing under the laws of the state of Delaware.
+
+
+  13.2. Authority; Consents and Approvals; No Violations. Loudeye has the full
+  ------------------------------------------------------
+     corporate power and authority and legal right to execute and deliver this
+     Agreement, and otherwise to perform its obligations hereunder.  This
+     Agreement has been validly executed and delivered by Loudeye and will
+     constitute a valid and binding obligation of Loudeye enforceable in
+     accordance with its terms, except to the extent such enforceability may be
+     limited by the effects of bankruptcy, insolvency, reorganization,
+     moratorium or other similar laws affecting creditors' rights generally, and
+     by the effect of general principles of equitable law, regardless of whether
+     such enforceability is considered in a proceeding in equity or at law.  The
+     execution and delivery of this Agreement and the consummation of the
+     transactions contemplated hereby do not and will not violate any provision
+     of Loudeye's Certificate of Incorporation or Bylaws, or violate, conflict
+     with, result in a breach of or constitute (with or without due notice,
+     lapse of time or both) a default under any agreement, license, contract,
+     franchise, permit, indenture, lease, or other instrument to which Loudeye
+     is a party, or by which it or any of its assets are bound.
+
+  13.3. Performance Standards.  Loudeye will perform the services described in
+  ---------------------------
+     Sections 4 and 5 of this Agreement in a professional and workmanlike manner
+     that is consistent with the highest industry standards.
+
+14. Representations and Warranties of Valley.  To induce Loudeye to enter into
+    ----------------------------------------
+    this Agreement and to perform the transactions contemplated hereunder,
+    Valley represents and warrants as follows:
+
+  14.1. Organization.  Valley is a corporation duly organized, validly existing
+  ------------------
+     and in good standing under the laws of the state of Delaware.
+
+  14.2. Authority; Consents and Approvals; No Violations. Valley has the full
+  ------------------------------------------------------
+     corporate power and authority and legal right to execute and deliver this
+     Agreement, and otherwise to perform its obligations hereunder.  This
+     Agreement has been validly executed and delivered by Valley and will
+     constitute a valid and binding obligation of Valley enforceable in
+     accordance with its terms, except to the extent such enforceability may be
+     limited by the effects of bankruptcy, insolvency, reorganization,
+     moratorium or other similar laws affecting creditors' rights generally, and
+     by the effect of general principles of equitable law, regardless of whether
+     such enforceability is considered in a proceeding in equity or at law.  The
+     execution and delivery of this Agreement and the consummation of the
+     transactions contemplated hereby do not and will not violate any provision
+     of Valley's Certificate of Incorporation or Bylaws or violate, conflict
+     with, result in a breach of or constitute (with or without due notice,
+     lapse of time or both) a default under any agreement, license, contract,
+     franchise, permit, indenture, lease, or other instrument to which Valley is
+     a party, or by which it or any of its assets are bound.
+
+15. Indemnification.  Each party will, at all times, indemnify, defend and hold
+-------------------
+  the other party harmless from and against any and all third-party claims,
+  damages, liabilities, costs and expenses (including reasonable attorney's
+  fees) arising out of any breach or alleged breach by the indemnifying party of
+  any representation, warranty or obligation of such party under this Agreement.
+  In addition, each party will, at all times, indemnify, defend and hold the
+  other party harmless from and against any and all third-party claims, damages,
+  liabilities, costs and expenses (including reasonable attorney's fees) arising
+  out of any infringement or alleged infringement of the patents, copyrights,
+  trademarks or other intellectual property rights of any third party that
+  results from the commercial use of the Sampling Service in a manner other than
+  that contemplated by this Agreement by the indemnifying party, any of the
+  indemnifying party's licensees, or any person or entity that has purchased the
+  Sampling Service, or any portion thereof, from the indemnifying party.
+
+16. Limitation on Damages.  IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE
+-------------------------
+  OTHER FOR INDIRECT OR CONSEQUENTIAL DAMAGES, WHETHER OR NOT SUCH PARTY HAS
+  BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE FORM OF
+  ACTION.
+
+17. Confidential Information.  Neither Loudeye nor Valley may use any
+----------------------------
+  Confidential Information of the other except as permitted under this
+  Agreement.  In addition, neither Loudeye nor Valley may disclose any
+  Confidential
+
+(*) Confidential Treatment Request
+
+                                       6
+<PAGE>
+
+  Information of the other unless (a) such disclosure is made to
+  the Disclosing Party's employees or agents on a "need to know" basis or (b)
+  such disclosure is required by law or legal process and the party from whom
+  such disclosure is required has given the other party prior notice of such
+  requirement and has cooperated with the non-Disclosing Party to oppose
+  disclosure.  For purposes of this Agreement, any unauthorized use or
+  disclosure of Confidential Information by an employee or agent of either party
+  will be treated as an unauthorized disclosure by such party.
+
+18. Term and Termination.
+------------------------
+
+  18.1.  This Agreement will terminate on the [*] of the Effective Date (the
+     "Initial Termination Date"), unless both parties provide a written
+     -------------------------
+     amendment at least ninety (90) days prior to the Initial Termination Date,
+     in which case this Agreement will be extended for an additional [*] years
+     and will terminate upon the [*] anniversary of the Effective Date.
+
+  18.2.  Either party may terminate this Agreement if (i) the other party
+     materially breaches any of its obligations under this Agreement, (ii) the
+     non-breaching party sends written notice to the breaching party describing
+     the breach in reasonable detail, and (iii) the breaching party does not
+     cure the breach within thirty (30) days following its receipt of such
+     notice.
+
+  18.3.  Either party may terminate this Agreement if (i) the other party
+     becomes insolvent, or (ii) a petition is filed by or against the other
+     party under any bankruptcy or insolvency laws and, in the event of any
+     involuntary petition, the petition is not dismissed within forty-five (45)
+     days of the filing date.
+
+  18.4.  The parties may terminate this Agreement by mutual consent through a
+     signed writing.
+
+19. Press Release.  Upon execution of this Agreement, Loudeye and Valley will
+-----------------
+  issue a joint press release (the "Press Release") announcing the execution of
+                                    -------------
+  this Agreement and briefly describing the transactions contemplated hereby.
+  Neither party will issue the Press Release, nor any other release concerning
+  this Agreement or the transactions contemplated hereby, without the other
+  party's prior consent.
+
+20. Miscellaneous
+-----------------
+
+  20.1. Assignment. Neither party may assign any of its rights under this
+  ----------------
+     Agreement without the other party's prior written consent; provided,
+     however, that either party may assign its rights under this Agreement to
+     any affiliate of such party, any entity into which such party is merged or
+     any entity that purchases substantially all of the assets of such party
+
+  20.2. Further Assurances.  In addition to the obligations required to be
+  ------------------------
+     performed by the parties hereto under the other provisions of this
+     Agreement, the parties agree to perform, without further consideration,
+     such other acts and to execute, file, acknowledge and deliver such other
+     instruments and documents, including without limitation UCC-1 financing
+     statements covering the Loaned CDs, the Song Files, the Song Clips, the
+     Product Information File and the PIF Updates, as may be reasonably required
+     to carry out the provisions and purposes of this Agreement and to fully and
+     properly consummate the transactions contemplated hereby.
+
+  20.3. Amendment and Waiver.  No amendment or modification of this Agreement
+  --------------------------
+     will be effective unless set forth in a writing signed by an authorized
+     representative of the party against which enforcement of such amendment is
+     sought.  No waiver by a party of the other party's obligation to comply
+     with any provision of this Agreement will be deemed or will constitute a
+     waiver of the nonwaiving party's obligation to comply with any other
+     provision of this Agreement or with the nonwaiving party's obligation to
+     comply with the waived provision on a subsequent occasion.
+
+  20.4. Arbitration.  Any dispute or controversy arising between Loudeye and
+  -----------------
+     Valley regarding this Agreement will be submitted to arbitration in the
+     state of the defending party in accordance with the rules then in effect of
+     the American Arbitration Association.  Any award made by an arbitrator
+     pursuant to this Section 20.4 will be binding upon both parties in the
+     absence of fraud and may be entered in any court of competent jurisdiction.
+
+  20.5. Notices.  Any notice to a party pursuant to this Agreement shall be
+  -------------
+     given by one of the following means:  (a) certified or registered United
+     States mail, postage prepaid, (b) private courier or express service
+     requesting evidence of receipt as a part of its service, or (c) by
+     telecopy, with a copy also to be given by first class United
+
+
+[*] Confidential Treatment Request
+
+                                       7
+<PAGE>
+
+     States mail, postage prepaid, or by any means permitted under parts (a) or
+     (b) of this Section 20.5. Notices shall be given to the parties at the
+     following addressees:
+
+          If to Valley:  Valley Media, Inc.
+                         1280 Santa Anita Court
+                         Woodland, California  95776
+                         Attention:  Sachin Adarkar
+                         Fax Number:  (530) 406-5231
+
+         If to Loudeye:  Loudeye Technologies, Inc.
+                         414 Olive Way, 3rd Floor
+                         Seattle, Washington  98101
+                         Attention:  General Counsel
+                         Fax Number:  206-832-4001
+
+                         with a mandatory copy to:  Venture Law Group
+                         4750 Carillon Point
+                         Kirkland, WA 98033
+                         Attention:  John W. Robertson
+                         Fax Number:  (425) 739-8750
+
+  20.6. Binding Effect.  Upon execution of this Agreement by all parties
+  --------------------
+     hereto, this Agreement shall inure to the benefit of, and be binding on and
+     enforceable against, the parties and their respective heirs, legal
+     representatives, successors and permitted assigns.
+
+  20.7. Entire Agreement.  This Agreement, including the exhibits and schedules
+  ----------------------
+     hereto, together with the Audiofile License and the Warrant, constitute the
+     entire agreement and understanding between the parties with respect to the
+     subject matter hereof, and supersede any prior or contemporaneous
+     agreements or understandings relating to the subject matter hereof, whether
+     written or oral.
+
+  20.8. Counterparts.  This Agreement may be executed in two or more
+  ------------------
+     counterparts, each of which shall be deemed an original and all of which,
+     taken together, will constitute one and the same instrument.
+
+  20.9. Attorneys' Fees.  If any arbitration, legal action or other proceeding
+  ---------------------
+     is brought for the enforcement of this Agreement, or because of an alleged
+     dispute, breach, default or misrepresentation in connection with any of the
+     provisions of this Agreement, the successful or prevailing party will be
+     entitled to recover reasonable attorneys' fees and other costs incurred in
+     such action or proceeding, in addition to any other relief to which it may
+     be entitled.
+
+  20.10. Survival.  The provisions of Sections 1, 8, 15, 16, 17, and 20 will
+  ---------------
+     survive any termination or expiration of this Agreement.
+
+  20.11. Headings. The headings of the paragraphs and sections of this
+  ---------------
+     Agreement are included for purposes of convenience only and shall not
+     affect the construction or interpretation of any provisions hereunder.
+
+  20.12. Partial Invalidity.  The invalidity of any part or provision of this
+  -------------------------
+     Agreement will not affect the enforceability of the remainder of this
+     Agreement.
+
+  20.13. Governing Law.    This Agreement will be governed by and construed in
+  --------------------
+     accordance with the substantive laws of the State of California applicable
+     to contracts entered into and performed entirely within that state.
+
+  20.14  Audit Right.  The parties shall keep at their respective principal
+  ------------------
+     places of business complete and accurate books of account relating to
+     revenues received and costs incurred which are relevant to the
+     determination of payment obligations of the parties under this Agreement.
+     Each party shall have the right, upon reasonable notice and during the
+     other party's normal business hours and no more often than once during any
+     12 month period, to enter the other party's premises for purposes of
+     auditing all books of account, documents, records and files relating to
+     calculations which are required under this Agreement.
+
+
+[*] Confidential Treatment Request
+
+                                       8
+<PAGE>
+
+In witness whereof, the parties have executed this Amended and Restated Services
+Agreement as of April 7, 2000.
+
+    Valley Media, Inc.               Loudeye Technologies, Inc.
+
+
+
+    /s/ Sachin Adarkar               /s/ David C. Bullis
+
+    ------------------------         --------------------------------
+
+    By:  Sachin Adarkar              By:  David C. Bullis
+
+    Its:  General Counsel            Its:    President/Chief Operating Officer
+
+
+
+[*] Confidential Treatment Request
+                                       9
+</TEXT>
+</DOCUMENT>

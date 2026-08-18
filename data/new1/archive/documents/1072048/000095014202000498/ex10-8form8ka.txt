@@ -1,0 +1,1504 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>10
+<FILENAME>ex10-8form8ka.txt
+<DESCRIPTION>EXHIBIT 10.8
+<TEXT>
+
+                                                                    EXHIBIT 10.8
+                                                                    ------------
+
+
+
+                            TERMINATION AND AMENDMENT
+                          TO AGREEMENT TO BUILD TO SUIT
+
+
+         THIS TERMINATION AND AMENDMENT TO AGREEMENT TO BUILD TO SUIT (this
+"Agreement"), made and entered into as of the 15th day of May, 2002 by and
+between SBC WIRELESS, LLC, a Delaware limited liability company ("SBCW"), for
+itself and as Agent for the SBCW Parties who were parties to the BTS Agreement
+and their successors and assigns (for purposes of this Agreement, the "SBCW
+Parties"), SPECTRASITE HOLDINGS, INC., a Delaware corporation ("TowerCo
+Parent"), and SPECTRASITE COMMUNICATIONS, INC., a wholly-owned subsidiary of
+TowerCo Parent and a Delaware corporation ("Vendor").
+
+                              W I T N E S S E T H:
+
+         WHEREAS, the parties have entered into that certain Agreement to Build
+to Suit, dated as of December 14, 2000, by and among SBCW, for itself and as
+Agent for the SBCW parties who were parties to the BTS Agreement and their
+successors and assigns, TowerCo Parent and Vendor, as amended by that certain
+Amendment No. 1 to the Agreement to Build to Suit, dated as of January 31, 2001,
+by and among SBCW, TowerCo Parent and Vendor, and amended by that certain
+Amendment No. 2 to the Agreement to Build to Suit, dated as of August 31, 2001,
+by and among SBCW, TowerCo Parent and Vendor, and as further amended by various
+side letters affecting the foregoing (as amended, the "BTS Agreement"). Unless
+otherwise defined herein in Article VIII or otherwise, the capitalized terms
+used herein shall have such meanings as ascribed to them in the BTS Agreement.
+
+         WHEREAS, the parties desire to enter into this Agreement (A) to
+terminate the BTS Agreement, as of the date hereof, with respect to any future
+rights or obligations regarding BTS Sites except as expressly provided herein
+with respect to In Process BTS Sites; (B) to provide for the transition from
+Vendor to SBCW (or its designee) of the In Process BTS Sites and Completed CA/NV
+Sites; and (C) for other purposes as more particularly set forth herein.
+
+         NOW, THEREFORE, for and in consideration of the premises, and other
+good and valuable consideration, the receipt and sufficiency of which are hereby
+acknowledged, the parties hereby agree as follows:
+
+                                    ARTICLE I
+             TERMINATION OF RIGHTS AND SERVICES RELATED TO BTS SITES
+
+         Effective as of the date hereof, the parties acknowledge and agree that
+the BTS Agreement is terminated in all respects, including but not limited to,
+any and all exclusive rights, and any and all commitments, of Vendor or any
+Vendor Affiliate or SBCW or any SBCW Parties or Cingular Affiliates thereunder
+except for the following: (i) the indemnities and warranties contained in
+Sections 6.06, 6.10 and 11.02 of the BTS Agreement which shall, with respect to
+acts or events occurring prior to the date hereof,
+
+
+<PAGE>
+
+survive the termination of the BTS Agreement subject to the following
+limitations -- (A) as to the Completed BTS Sites, such indemnities and
+warranties shall survive as if the BTS Agreement were not being terminated and
+(B) as to the Milestone Sites, the Construction Sites and the Completed CA/NV
+Sites, such indemnities and warranties shall survive for a period of one (1)
+year from and after the Applicable Site Transfer Date (and shall, in the case of
+the warranties contained in Section 6.10 of the BTS Agreement and the indemnity
+contained in Section 11.02 (a)(B) of the BTS Agreement, apply only with respect
+to Work performed by Vendor and not a third party), except with respect to
+Claims asserted during such one (1) year period or Claims brought by a third
+party against an indemnified party (as to which asserted and third-party Claims
+such indemnities and warranties shall survive until there is a final
+unappealable resolution of such Claims or, in the case of the warranties set
+forth in Section 6.10, until Vendor has remedied the defect or other condition
+in question); (ii) the right to inspect Vendor's books and records contained in
+Section 3.09 of the BTS Agreement with respect to the Completed BTS Sites, and,
+with respect to the other BTS Sites, to the extent such books and records are
+not delivered to SBCW or its designee; and (iii) all other rights and
+obligations of the parties with respect to the In Process BTS Sites or Completed
+Sites to the extent contained herein.
+
+                                   ARTICLE II
+                                 COMPLETED SITES
+
+         (a) SUBLEASE OF COMPLETED BTS SITES. The parties acknowledge and agree
+that on or before June 14, 2002, Vendor will deliver to SBCW the BTS Closing
+Package for each Completed BTS Site and reimburse to SBCW the SBCW Site
+Reimbursement Amount and any payments made by SBCW under the Ground Leases for
+such Completed BTS Sites which are also SBCW Sites. In connection therewith, the
+parties will execute and deliver to each other, a Site Designation Supplement
+for each Completed BTS Site (if not theretofore executed and delivered) and SBCW
+or the applicable Cingular Group Member will pay SBCW's Retroactive Rental
+Obligation and shall assign to Vendor or its designated Vendor's Affiliate such
+Cingular Group Member's right, title and interest in and to the Ground Lease and
+any other rights and materials of SBCW relating to such Completed BTS Sites on
+terms generally consistent with the provisions hereof applicable to the
+assignment of Ground Leases to SBCW or Cingular Group Members and as
+contemplated by (and on the terms and conditions of) the SBCW Transition
+Agreement Upon execution and delivery of the applicable Site Designation
+Supplement, the BTS Sublease, the applicable Site Designation Supplement and
+related documents shall govern the respective rights and obligations of the
+parties with respect to each Completed BTS Site (PROVIDED THAT the provisions of
+Section II and III of the MLA Term Sheet shall be deemed incorporated into the
+BTS Sublease for this purpose).
+
+         (b) TRANSFER OF COMPLETED CA/NV SITES. The parties acknowledge and
+agree that the BTS Agreement shall be hereby modified and amended with respect
+to the Completed Sites to provide as follows:
+
+
+                                       2
+<PAGE>
+
+                  (1) On or prior to June 17, 2002, Vendor shall deliver to
+SBCW, for its review, the Construction Package for each Completed CA/NV Site and
+SBCW Corporate shall have 20 days to review the Construction Package and the
+CA/NV Site Purchase Price set forth in each Construction Package; PROVIDED THAT
+if the Construction Package contains any Site Related Materials that violate any
+representations and warranties contained in Article V, Section (b), in any
+material respect (disregarding any knowledge qualifier) or, in the case of the
+representation contained in Section V(b)(8), the environmental assessments
+referred to therein disclose an Environmental Condition with respect to such
+Completed CA/NV Site, SBCW shall have the right to reject such Completed CA/NV
+Site (unless prior to the CA/NV Closing Date, Vendor remedies the condition on
+the basis of which SBCW has rejected such Completed CA/NV Site) and in addition,
+if the CA/NV Site Purchase Price for any Completed CA/NV Site is not approved by
+SBCW on the basis that it is not consistent with the provisions of this
+Agreement, then SBCW shall issue a Dispute Notice and the parties shall proceed
+with respect to such Completed CA/NV Site in accordance with the Dispute
+Procedure.
+
+         On the earlier of July 15, 2002 or the Transaction Closing Date (the
+"CA/NV Closing Date"), subject to the right to reject any Completed CA/NV Site
+as hereinabove provided, in consideration of the Total CA/NV Site Purchase
+Price, to be paid to Vendor by SBCW and/or the applicable Cingular Group Member,
+Vendor and/or the applicable Vendor Affiliate shall transfer to SBCW, or the
+applicable Cingular Group Member, all of Vendor's and/or such Vendor Affiliate's
+right, title and interest, with warranty of title (consistent with that set
+forth in Article V Section (b)(2)) as to the leasehold estate created by the
+applicable Ground Lease, in and to the Completed CA/NV Sites, free and clear of
+all Liens, other than the Permitted Liens in accordance with the terms hereof,
+and SBCW or the applicable Cingular Group Member shall assume all of the
+obligations contemplated to be assumed by it under the Assignment Agreement (but
+SBCW or NewCo shall not be obligated to assume any Site Contract, Ground Lease,
+Third Party Collocation or other obligation not disclosed to SBCW). In
+connection with such transfer, the Completed CA/NV Sites shall not be added to
+or governed by the BTS Sublease, the BTS Agreement or any related documents,
+except as expressly provided in this Agreement. The determination of Total CA/NV
+Site Purchase Price shall be subject to the provisions of Article IV. Except for
+any amounts in Dispute, which shall be paid within five business days after
+resolution of such Dispute, the Total CA/NV Site Purchase Price shall be paid on
+CA/NV Closing Date.
+
+                  (2) As to the Completed CA/NV Sites, the "Total CA/NV Site
+Purchase Price" shall be an amount equal to the lesser of (1) the aggregate sum
+of the CA/NV Budgeted Amounts as evidenced by the CA/NV Site Budget less any
+SBCW Reimbursement Amount for any Completed CA/NV Site which is also an SBCW
+Site (other than a Completed CA/NV Site which is rejected by SBCW in accordance
+with the terms of this Agreement) or (2) the sum of the CA/NV Site Purchase
+Price(s) for all Completed CA/NV Sites not rejected by SBCW in accordance with
+the terms of this Agreement. The CA/NV Budgeted Amount for each Completed CA/NV
+Site includes an
+
+
+                                       3
+<PAGE>
+
+estimated Allocated Developmental Overhead Reimbursement Amount as to each such
+Completed CA/NV Site.
+
+                                   ARTICLE III
+                              IN PROCESS BTS SITES
+
+         (a) SITE TRANSITION. The parties acknowledge and agree that the BTS
+Agreement shall be hereby further modified and amended to provide that in
+consideration of the Total Reimbursement Amount to be paid by SBCW to Vendor,
+Vendor and/or the applicable Vendor Affiliate shall transfer to SBCW or the
+applicable Cingular Group Member, all of Vendor's or such Vendor Affiliate's
+right, title and interest in and to the In Process BTS Sites, free and clear of
+all Liens, except Permitted Liens, as follows:
+
+                  (1) MILESTONE SITES. With respect to the Milestone Sites, from
+and after the Milestone Cut Off Date, Vendor shall not commence Work or Services
+on any Milestone which has not already commenced as to such Milestone Site prior
+to the Milestone Cut Off Date, PROVIDED THAT with respect to any Work or
+Services related to any Milestone which has commenced, Vendor shall continue
+Work and Services as to such Milestone in the ordinary course and shall, to the
+extent reasonably possible, complete such Milestone on or before the Milestone
+Completion Date. Subject to Article IV, Section (b), in no event shall Vendor be
+required to perform any such Work or Services after the Milestone Completion
+Date. As Milestone Packages are prepared and ready for delivery to SBCW, Vendor
+shall first notify SBCW at the notice address set forth herein of the volume of,
+and anticipated time that, Milestone Packages will be delivered and. Vendor
+shall thereafter upon receiving direction from SBCW deliver to SBCW in
+accordance with the Milestone Package Delivery Schedule, a Milestone Package for
+each Milestone Site, at a location as directed by SBCW, including, without
+limitation, all of the applicable Site Related Materials for the applicable
+Completed Milestones. SBCW shall have 30 days after receipt of a Milestone
+Package to review the Milestone Package and the Milestone Site Reimbursement
+Amount set forth in each such Milestone Package; PROVIDED THAT if the Milestone
+Package contains any Site Related Materials that violate, in any material
+respect, any representations and warranties contained in Article V, Section (b)
+and applicable to the Milestone Sites, disregarding any knowledge qualifier, or,
+in the case of the representation contained in Section V(b)(8), the
+environmental assessments referred to therein disclose an Environmental
+Condition with respect to such Milestone Site, SBCW shall have the right, during
+such 30 day period to reject such Milestone Site (unless prior to the Milestone
+Transition Date Vendor remedies the condition on the basis of which SBCW has
+rejected such Milestone Site). In addition, if the Milestone Site Reimbursement
+Amount for any Milestone Site is not approved by SBCW on the basis that it is
+not consistent with the provisions of the Agreement, then SBCW shall issue a
+Dispute Notice and the parties shall proceed with respect to such Milestone Site
+in accordance with the Dispute Procedure.
+
+         On the Milestone Transition Date, subject to the right to reject any
+Milestone Site as hereinabove provided, in consideration of the Total Milestone
+Reimbursement Amount, to be paid to Vendor by SBCW or the applicable Cingular
+Group Member of the Total Milestone Reimbursement Amount, Vendor or the
+applicable Vendor Affiliate shall
+
+
+                                       4
+<PAGE>
+
+transfer to SBCW or the applicable Cingular Group Member, all of Vendor's and/or
+such Vendor Affiliate's right, title and interest in and to the Milestone Sites,
+including as to any Milestone Site for which an executed Ground Lease is a
+Completed Milestone, with a warranty of title as to such leasehold estate
+created by the applicable Ground Lease (consistent with that set forth in
+Section V(b)(2)), pursuant to the applicable Assignment Agreement and in
+accordance with the other terms hereof and SBCW or the applicable Cingular Group
+Member shall assume all of the obligations contemplated to be assumed by it
+under the Assignment Agreement (but SBCW shall not be obligated to assume any
+Site Contract, Ground Lease, Third Party Collocation or other obligation not
+disclosed to it). If and to the extent any portion of any Milestone Site
+Reimbursement Amount is attributable to a Completed Milestone (or Deemed
+Completed Milestone), Vendor shall be responsible for payment of all costs and
+expenses (whether or not then currently due and payable) applicable to
+completing any such Completed Milestone or Deemed Completed Milestone to the
+extent payable (a) pursuant to contracts, purchase orders or other arrangements
+theretofore entered into by Vendor or (b) to the extent Vendor has not entered
+into such an arrangement, pursuant to arrangements entered into by SBCW or the
+applicable Cingular Group Member and approved by Vendor, such approval not to be
+unreasonably withheld or delayed. Vendor hereby agrees to provide SBCW with
+evidence of Vendor's payment of all costs and expenses applicable to completing
+any such Completed Milestone or Deemed Completed Milestone and Vendor shall and
+hereby does indemnify and hold harmless SBCW and the applicable Cingular Group
+Member from and against any loss, cost, expense or damages arising out of or
+incurred as a result of Vendor's failure to pay such amounts. The determination
+of the Total Milestone Reimbursement Amount shall be subject to the provisions
+of Article IV.
+
+                  (2) CONSTRUCTION SITES. With respect to the Construction
+Sites, Vendor shall continue all Work and Services necessary to Complete each
+Construction Site as necessary to deliver the Construction Site Package and
+satisfy the requirements of the BTS Agreement and this Agreement. Such Services
+and Work in connection with Completing each Construction Site shall be performed
+by Vendor in accordance with the applicable undertakings and standards set forth
+in Articles IV, V, VI and VIII of the BTS Agreement. Moreover, on or before the
+Construction Site Package Date (as the same may be extended for any Construction
+Site by the period of any event or condition constituting Force Majeure), Vendor
+shall deliver to SBCW, the Construction Site Package for each Construction Site
+including, without limitation, all of the applicable Site Related Materials for
+the applicable Construction Sites. Thereafter, SBCW Corporate shall have thirty
+(30) days to review the Construction Package and the Construction Site
+Reimbursement Amount set forth in each Construction Package; PROVIDED THAT if
+the Construction Package contains any Site Related Materials that violate, in
+any material respect, any representations and warranties contained in Article V,
+Section (b), disregarding any knowledge qualifier, or, in the case of the
+representation contained in Section V(b)(8), the environmental assessments
+referred to therein disclose an Environmental Condition with respect to such
+Construction Site, SBCW shall have the right during such 30 day period to reject
+such Construction Site (unless prior to the Construction Site Closing Date
+Vendor remedies the condition on the basis of which SBCW has rejected such
+Construction Site). In addition, if the Construction Site Reimbursement Amount
+set forth in each Construction Site Package is not approved by
+
+
+                                       5
+<PAGE>
+
+SBCW on the basis that it is not consistent with the provisions of the
+Agreement, then SBCW shall issue a Dispute Notice and the parties shall proceed
+with respect to such Construction Site in accordance with the Dispute Procedure.
+
+         On the Construction Site Closing Date, subject to the right to reject
+any Construction Site as hereinabove provided, in consideration of the Total
+Construction Site Reimbursement Amount, to be paid to Vendor by SBCW or the
+applicable Cingular Group Member, Vendor or the applicable Vendor Affiliate
+shall transfer to SBCW or the applicable Cingular Group Member (as identified by
+SBCW), all of Vendor's or such Vendor Affiliate's right, title and interest in
+and to the Construction Sites, as Completed, including a warranty of title
+(consistent with that set forth in Section V(b)(2)) as to such leasehold estate
+created by the applicable Ground Lease, pursuant to the applicable Assignment
+Agreement and in accordance with the other terms hereof and SBCW or the
+applicable Cingular Group Member shall assume all of the obligations
+contemplated to be assumed by it under the Assignment Agreement (but SBCW shall
+not be obligated to assume any Site Contract, Ground Lease Third Party
+Collocation or other obligation not disclosed to it). Vendor shall and hereby
+does agree to provide SBCW with evidence of Vendor's payment of all costs and
+expenses applicable to completing any such Construction Site and Vendor shall
+indemnify and hold harmless SBCW and the applicable Cingular Group Member from
+and against any loss, cost, expense or damages arising out of or incurred as a
+result of Vendor's failure to pay any such costs or expenses. Notwithstanding
+anything to the contrary contained herein, the Construction Site Closing Date
+shall, as to any Construction Site the Completion of which was delayed by reason
+of Force Majeure, be adjourned by the period of such delay plus five (5)
+Business Days, and the Construction Site Reimbursement Amount for such
+Construction Site shall be paid to Vendor on such adjourned Construction Site
+Closing Date; PROVIDED THAT, in the event that the Construction Site Closing
+Date is delayed beyond October 15, 2002, for any reason other than Force
+Majeure, SBCW shall be entitled to a credit against the Construction Site
+Reimbursement Amount in an amount equal to $7500 for each month the Construction
+Site Closing Date is delayed beyond October 15, 2002-, (which amount shall be
+appropriately prorated in the case of a partial month). The determination of the
+Total Milestone Reimbursement Amount shall be subject to the provisions of
+Article IV.
+
+         (b) VENDOR COMPENSATION. The parties further acknowledge and agree that
+the Total Reimbursement Amount shall be the sole compensation due and payable to
+Vendor for Work and other Services performed pursuant to the BTS Agreement and
+this Agreement in connection with the In Process BTS Sites and for transferring
+each In Process BTS Site as required hereby. The Total Reimbursement Amount
+shall be determined, as follows:
+
+                  (1) As to each Milestone Site, the "Milestone Site
+Reimbursement Amount" shall be the amount payable for each Milestone Site and
+shall be calculated as of the Milestone Cut off Date, based on the fixed price
+amounts (the "Fixed Price Amounts") set forth on the Milestone Reimbursement
+Schedule for the Completed Milestones or Deemed Completed Milestones for each
+Milestone Site. Except for any amounts in Dispute, which shall be paid within
+ten (10) Business Days
+
+
+                                       6
+<PAGE>
+
+after resolution of such Dispute, the Milestone Site Reimbursement Amount shall
+be paid on the Milestone Transition Date.
+
+                  (2) Notwithstanding the provisions of Section III(b)(2):
+
+                  (a) If one of the Deemed Complete Milestones is the ordering
+         of a Tower and such Tower has been ordered but not delivered, on the
+         Milestone Transaction Date, SBCW shall reimburse Vendor for all actual
+         costs incurred and paid by Vendor or any Vendor Affiliates related to
+         the purchase of such Tower (as evidenced by supporting documentation
+         reasonably acceptable to SBCW), and Vendor shall assign to SBCW all of
+         Vendor's rights and interest in, and SBCW shall assume all of Vendor's
+         obligations (other than to extent of the reimbursement) under, the
+         purchase order for such Tower including, without limitation, the
+         obligation to make all remaining payments for such Tower. At the
+         request of SBCW, Vendor shall store such Tower at Vendor's expense
+         until the Milestone Transition Date or such earlier date as requested
+         by SBCW.
+
+                  (b) If Vendor has ordered a Tower for a different site but
+         such Tower has been re-classified and designated for a Milestone Site,
+         SBCW may, at its option, either: (i) reject such Tower, in which event
+         Vendor shall retain such Tower and its associated rights and
+         obligations; or (ii) accept such Tower, in which event the provisions
+         of clause (a) above shall apply.
+
+                  (3) As to the Construction Sites, the "Total Construction Site
+Reimbursement Amount" shall be an amount equal to the lesser of (1) the
+aggregate sum of the Budgeted Amounts for all accepted Construction Sites as
+evidenced by the Construction Site Budget less any SBCW Reimbursement Amount for
+each such Construction Site which is also a SBCW Site (other than any
+Construction Site which is rejected by SBCW in accordance with the terms of this
+Agreement) or (2) the sum of the Construction Site Reimbursement Amounts for all
+Construction Sites not rejected by SBCW in accordance with the terms of this
+Agreement. With regard to the foregoing, attached hereto is the Construction
+Site Budget which provides a Budgeted Amount for each Construction Site and the
+aggregate Budgeted Amount(s) for all Construction Sites (as of the date hereof).
+The parties acknowledge that the Budgeted Amounts as set forth on the
+Construction Site Budget are Vendor's good faith estimates, as to each
+Construction Site, of the direct third party costs to Complete each of the
+Construction Sites PLUS the Allocated Developmental Overhead Reimbursement
+Amount. The Budgeted Amount for each Construction Site includes an estimated
+Allocated Developmental Overhead Reimbursement Amount as to each Construction
+Site. Except for any amounts in Dispute, which shall be paid within five (5)
+Business Days after resolution of such Dispute, and any credit to SBCW for a
+delay as set forth, in Article II, Section (a)(2) above, the Construction Site
+Reimbursement Amount shall be paid on the Construction Site Closing Date.
+
+
+                                       7
+<PAGE>
+
+         (c) CINGULAR WORK. The parties acknowledge that portions of the Work
+and Services relating to the Completed Sites or In Process BTS Sites may have
+been performed by SBCW or its Affiliates or by a third party on behalf of SBCW
+or its Affiliates ("Cingular Work"). Accordingly (and without duplicating the
+deduction for the SBCW Site Reimbursement Amount set forth in Section III(b)(3)
+or Section II(b)(2)), the cost and expense of any Cingular Work shall not be
+included in calculating the Total CA/NV Site Purchase Price or any portion of
+the Total Reimbursement Amount. In addition, SBCW shall be entitled to the
+applicable SBCW Reimbursement Amount with respect to any Completed BTS Site
+which is also an SBCW Site.
+
+         (d) IN PROCESS BTS SITES. The parties acknowledge and agree that the In
+Process BTS Sites will be Completed and/or Vendor's or the Vendor Affiliate's
+interest therein transferred to SBCW or the designated Cingular Group Member as
+provided in this Agreement and shall not be added to or governed by the BTS
+Sublease, the BTS Agreement or related documents, except as provided this
+Agreement.
+
+                                   ARTICLE IV
+               DISPUTE RESOLUTION; FURTHER ASSURANCES; PRORATIONS
+
+         (a) DISPUTED COSTS. Without limiting the foregoing, SBCW shall have the
+right to dispute and review any charge as to any Completed CA/NV Site or any In
+Process BTS Site to be included in the calculation of the Total CA/NV Site
+Purchase Price or any portion of the Total Reimbursement Amount (herein, a
+"Disputed Cost"). In connection with any Disputed Cost, SBCW shall be entitled
+to request and receive further supporting documentation evidencing such Disputed
+Cost, including copies of paid invoices and lien waivers (if applicable) to
+which such Disputed Cost relates. Any dispute regarding a Disputed Cost (a
+"Dispute"), shall be resolved in accordance with these Dispute Procedures. The
+parties agree to appoint representatives to facilitate resolution of any such
+Dispute as set forth below:
+
+                  (1) SBCW shall within the applicable period set forth in
+Article III herein, give written notice (the "Dispute Notice") to Vendor of any
+Dispute. The Dispute Notice shall include a short description of the Dispute and
+shall be sent to Vendor via confirmed (A) facsimile or (B) email. The designated
+representatives shall meet (in person or by conference call) as often as the
+parties reasonably deem necessary to discuss the Dispute in an effort to resolve
+the Dispute without the necessity of any formal proceeding. The parties'
+designated representatives shall have their first meeting, pursuant to this
+subsection, within five (5) business days from receipt of the Dispute Notice by
+Vendor.
+
+                  (2) In the event that such representatives are unable to
+resolve the Dispute within fifteen (15) business days after the receipt of the
+Dispute Notice, or if after at least two (2) meetings and ten (10) business days
+following the receipt of the Dispute Notice, either party determines in good
+faith that such representatives are unlikely to be able to resolve such Dispute,
+then within three (3) business days of written notice by either party of an
+impasse, the Dispute shall be referred by written notice to an
+
+
+                                       8
+<PAGE>
+
+executive officer of each of such parties for consideration or, if either party
+so elects, the parties shall submit the Dispute as to all Disputed Costs to
+arbitration in accordance with the Arbitration Procedures attached hereto as
+SCHEDULE IX.
+
+         (b) FURTHER ASSURANCES/COOPERATION. Without limiting the foregoing but
+without expanding or enlarging Vendor's obligations hereunder, Vendor agrees to
+furnish all such information, take all such other action, and cooperate with
+SBCW as SBCW may require in order to effectuate an orderly and systematic
+termination or Completion of the Services, Work and other Vendor duties,
+obligations and activities with respect to the In Process BTS Sites and
+Completed CA/NV Sites, as applicable. Vendor for itself and applicable Vendor
+Affiliates and SBCW for itself and applicable Cingular Group Members agree to
+execute whatever instruments, in addition to the Assignment Agreement, either
+party may reasonably request to effectuate or evidence the orderly transition
+and transfer of the In Process BTS Sites and Completed CA/NV Sites, as
+applicable. Vendor will, from time to time at SBCW's request, use Vendor's
+reasonable efforts to assist SBCW and the applicable Cingular Group Members in
+securing the consent of any ground lessors or other third parties, that may be
+required to effect or perfect the transition of any In Process BTS Site or
+Completed CA/NV Site, as applicable, in accordance with the provisions of this
+Agreement (it being agreed that if the parties are unable to obtain any such
+consent of a ground lessor, Vendor's interest in the applicable In Process Site,
+notwithstanding anything to the contrary contained in this Agreement, shall not
+be assigned to SBCW or a Cingular Group Member). To the extent it is legally
+able to do so, Vendor for itself and applicable Vendor Affiliates will, from
+time to time at SBCW's request, execute and deliver such bills of sale,
+assignments and other instruments, conveyances and transfers (all without
+representation or warranty, except for the warranty of title set forth in
+Section V(b)(2) hereof and other representations and warranties only as set
+forth herein, in the Assignment Agreement and the related individual assignment
+agreements) as are reasonably necessary in order to more fully and effectively
+confirm the transition and transfer of Vendor's or the applicable Vendor
+Affiliate's right, title and interest in and to the In Process BTS Sites and
+Completed CA/NV Sites, as applicable including, without limitation, as to each
+Completed CA/NV Site, Construction Site, and Milestone Site that has reached the
+Ground Lease Milestone, executing and delivering, on the Applicable Site
+Transfer Date, duly executed assignments (substantially in the form of the
+Assignment Agreement attached), and/or memoranda of Ground Leases, in each case,
+in proper recordable form for the State in which such BTS Site is located, to
+more fully perfect and vest leasehold title to those BTS Sites in SBCW or the
+applicable Cingular Group Member. With respect to the Completed CA/NV Sites and
+the Construction Sites, as applicable, SBCW and Vendor (and applicable Vendor's
+Affiliates) shall cooperate with each other toward effecting a smooth and
+orderly transition in the property management, lease administration and site
+operation of those BTS Sites (to the extent theretofore commenced) from Vendor
+to SBCW or the applicable Cingular Group Member.
+
+         SBCW and Vendor shall use good faith efforts to structure the transfer
+of Vendor's or the applicable Vendor Affiliate's right, title and interest in
+and to the In Process BTS Sites (or any of them) and/or Completed CA/NV Sites by
+Vendor to SBCW
+
+
+                                       9
+<PAGE>
+
+(or SBCW's designee) in a manner that will minimize the transaction costs
+associated with such transfer, including without limitation, any sales tax or
+real property transfer taxes. Without limiting the foregoing, the transfers of
+the In Process BTS Sites and/or Completed CA/NV Sites, as applicable, shall be
+accomplished either by (i) the transfer of such BTS Sites directly to SBCW or
+the applicable Cingular Group Member each pursuant to the Assignment Agreement,
+as applicable to such BTS Sites; or at the option of Vendor or SBCW, (ii) Vendor
+or the applicable Vendor Affiliate shall transfer, pursuant to the Assignment
+Agreement and other related documents, the Completed CA/NV Sites and/or the In
+Process BTS Sites to one (or more than one, if required in order to accommodate
+multiple closing dates), newly formed limited liability companies (collectively,
+"NewCo", which term may include as to the Completed CANV Sites, the Company (as
+defined in the NewCo Purchase Agreement)) to be formed by Vendor immediately
+prior to the transfer of such BTS Sites to NewCo and SBCW (or the applicable
+Cingular Group Member) shall thereafter acquire 100% of the membership interests
+in NewCo in a manner and for a price consistent with the terms of this Agreement
+(as if the transfers were being made directly SBCW or the applicable Cingular
+Group) and otherwise reasonably acceptable to the parties. The parties will each
+be responsible for 50% of the applicable transfer tax and sales tax associated
+with the transfers referred to herein. PROVIDED THAT as part of the Assignment
+Agreement, Vendor and Vendor Affiliates shall, among other things, cause NewCo
+to, jointly and severally represent and warrant to SBCW and the applicable
+Cingular Group Members with respect to NewCo substantially the same
+representations and warranties with respect to the Company (as defined in the SS
+NewCo Purchase Agreement) set forth in Sections 2.1(b), 2.2(b), 2.2(c) (except
+to the extent covered in Section V(a) (3) hereof), 2.3, 2.4, 2.5, 2.6 (not
+including the representations and warranties contained in the second and third
+sentence of section 2.6(a) of the SS NewCo Purchase Agreement) which are
+otherwise covered herein and 2.7 (collectively, the "Entity Representations") of
+the SS NewCo Purchase Agreement. Further, (a) Vendor and Vendor Affiliates
+shall, jointly and severally, indemnify SBCW and Cingular Group Members for,
+among other things, breaches of any of the Entity Representations (which shall,
+for indemnification purposes, be deemed not to include references to "material"
+or "material adverse effect"), (b) such Entity Representations shall survive
+indefinitely and (c) indemnification claims made with respect to breaches of
+such Entity Representations shall not be subject to any limitations (including
+thresholds, deductibles or maximums), except that in no event shall one party be
+liable to the other party for any special, incidental, consequential or other
+such damages.
+
+         (c) NEGATIVE COVENANTS. From the date of this Agreement until the
+Applicable Site Transfer Date as to the In Process BTS Sites and Completed CA/NV
+Sites, as applicable, except as otherwise expressly contemplated herein, Vendor
+covenants and agrees that it will not do or agree or commit to do, any of the
+following: (i) impose, or suffer the imposition or existence, on Vendor's or any
+Vendor Affiliate's interest, if any, in any In Process BTS Sites or Completed
+CA/NV Sites of any Lien (other than a Permitted Lien and security interests in
+favor of Vendor's senior lenders, which security interests will be released at
+or prior to the Applicable Site Transfer Date) or permit any such Lien to exist,
+except for such Liens that the Vendor will cure by
+
+
+                                       10
+<PAGE>
+
+bonding or otherwise discharging on or prior to the Applicable Site Transfer
+Date; (ii) sell, lease, mortgage or otherwise dispose of Vendor's or any Vendor
+Affiliate's interest, if any, in any In Process BTS Sites and Completed CA/NV
+Sites (other than the granting of security interests in favor of Vendor's senior
+lenders, which security interests will be released at or prior to the Applicable
+Site Transfer Date); or (iii) except as expressly required under Article III
+hereunder, enter into, modify or amend in any material respect or terminate any
+Ground Lease, Site Contract or Third Party Collocation Agreement or waive,
+release or compromise in any material respect or assign any material rights or
+claims relating thereto.
+
+         (d) PRORATIONS. As soon as practicable after the Applicable Site
+Transfer Date, real estate and personal property taxes ("Taxes") attributable to
+those BTS Sites being transferred shall be apportioned as of the Applicable Site
+Transfer Date for each. Such apportionments shall be made pro rata on a per diem
+basis as of the Effective Date so that all such Taxes attributable to the period
+prior to the Applicable Site Transfer Date are for the account of Assignor; and
+all such Taxes attributable to the period on and after the Applicable Site
+Transfer Date are for the account of SBCW or applicable Cingular Group Member.
+Taxes shall initially be determined based on the previous year's taxes and shall
+later be adjusted to reflect the current year's Taxes when the tax bills are
+finally rendered. The parties shall fully cooperate to avoid, to the extent
+legally possible, the payment of duplicate Taxes, and each party shall furnish,
+at the request of the other, proof of payment of any Taxes or other
+documentation which is a prerequisite to avoiding payment of a duplicate tax. In
+the event that either party (the "Payor") pays a Tax for which the other party
+(the "Payee") is obligated in whole or in part under this Section, the Payor
+shall present to the Payee evidence of payment and a statement setting forth the
+Payee's proportionate share of such Tax, and the Payee shall promptly pay such
+share to the Payor. In the event either Party (the "Recipient") receives refunds
+of a Tax to which the other Party (the "Beneficiary") is entitled in whole or in
+part under this Agreement, the Recipient shall promptly pay such share to the
+Beneficiary. In the event there exists as of the Applicable Site Transfer Date
+any pending appeals of ad valorem tax assessments with regard to any of the BTS
+Sites being transferred, the continued prosecution and/or settlement of such
+appeals shall be subject to the direction and control of Assignee with respect
+to assessments for the year within which the Assignment occurs.
+
+         The parties agree that the following items shall be also apportioned
+between Vendor and SBCW, as of the Applicable Site Transfer Date, as to the
+Completed CA/NV Sites and Construction Sites: (a) rents and revenues under all
+Third Party Collocation Agreements; (b) base rent, license fees, revenue sharing
+payments or other charges due to landlords, lessors or licensors under the
+Ground Lease and (c) utility charges relating to Tower lighting. Such
+apportionments shall be made pro rata on a per diem basis as of the Applicable
+Site Transfer Date so that all such rents, revenues, charges and payments
+attributable to the period prior to the Applicable Site Transfer Date are for
+the account of Vendor; and all such rents, revenues, charges and payments
+attributable to the period from and after the Applicable Site Transfer Date are
+for the account of SBCW with such adjustments (and adjustments pursuant to the
+first paragraph of this Section 4(d)) to be made as of the Applicable Site
+Transfer Date by the party that on a net basis owes money
+
+
+                                       11
+<PAGE>
+
+to the other party under this paragraph (d) by wire transfer of immediately
+available funds to such accounts as such other party shall direct in writing.
+The parties shall fully cooperate to avoid, to the extent legally possible,
+making duplicate payments to ground lessors or other counter-parties under the
+Ground Leases and to other third parties.
+
+                                    ARTICLE V
+                         REPRESENTATIONS AND WARRANTIES
+
+         (a) VENDOR AND TOWERCO PARENT ORGANIZATION, STANDING, POWER, AUTHORITY,
+NO BREACH BY AGREEMENT. Vendor and TowerCo Parent hereby jointly and severally
+represent and warrant to SBCW and the Cingular Group Members as follows:
+
+                  (1) Each of Vendor and TowerCo Parent is a Delaware
+corporation duly incorporated, validly existing and in good standing under the
+Laws of the State of Delaware, is (in the case of Vendor) duly qualified to
+transact business as a foreign corporation and is in good standing under the
+Laws of each state where the BTS Sites are located (to the extent required under
+applicable Law), and has the requisite corporate power and authority to own,
+lease and operate its properties and to carry on its business as now being
+conducted or proposed to be conducted.
+
+                  (2) Each of Vendor and TowerCo Parent has the corporate power
+and authority necessary to execute, deliver and perform this Agreement and the
+Assignment Agreement and to consummate the transactions contemplated hereby and
+thereby. The execution, delivery, and performance of this Agreement, and the
+Assignment Agreement and the consummation of the transactions contemplated
+herein have been duly and validly authorized by all necessary corporate action
+in respect thereof on the part of each of Vendor and TowerCo Parent.
+
+                  (3) Neither the execution and delivery of this Agreement by
+Vendor or TowerCo Parent, nor the consummation by Vendor or TowerCo Parent of
+the transactions contemplated hereby, nor compliance by Vendor or TowerCo Parent
+with any of the provisions hereof, will (i) conflict with or result in a breach
+of any provision of either Vendor's or TowerCo Parent's certificate of
+incorporation, bylaws, operating agreement or other organizational documents,
+(ii) constitute or result in a default under, or require any consent pursuant
+to, or result in the creation of any lien on any BTS Site, under any contract
+(other than a Ground Lease), permit or Site Related Asset of Vendor, Vendor
+Affiliate or TowerCo Parent, or to the best knowledge of Vendor or TowerCo
+Parent, constitute or result in a default under any Ground Lease, or (iii)
+constitute or result in a default under, or require any consent pursuant to, any
+Law or Order applicable to Vendor or TowerCo Parent or any of the BTS Sites.
+
+                  (4) This Agreement is, and the Assignment Agreement and all
+other transfer documents when delivered hereunder or in connection herewith
+shall be, the legal, valid and binding obligations of Vendor and/or TowerCo, as
+applicable, enforceable against Vendor and/or TowerCo, as applicable, in
+accordance with their respective terms, subject however, to the (1) application
+by a court of general principles
+
+
+                                       12
+<PAGE>
+
+of equity and (2) effect of any applicable bankruptcy, insolvency,
+reorganization, moratorium or similar laws affecting creditors' rights
+generally.
+
+                  (5) There has not been filed any petition or application with
+respect to, or any proceeding commenced by or against, any of the assets of
+Vendor or any Vendor Affiliate under any Bankruptcy Law, and Vendor has not made
+any assignment for the benefit of creditors. Vendor is not "insolvent" within
+the meaning of any Bankruptcy Law. Neither the execution and delivery of this
+Agreement nor the consummation of the transactions contemplated hereby shall
+render Vendor or any Vendor Affiliate insolvent, leave such party with an
+unreasonably small amount of assets to conduct its business or unable to pay its
+debts as they become due. Vendor acknowledges that, upon receipt of the Total
+CA/NV Site Purchase Price for the Completed CA/NV Sites, Vendor will have
+received fair market value for the Completed CA/NV Sites and upon receipt of the
+Milestone Site Reimbursement Amount as to any Milestone Site and the Total
+Construction Site Reimbursement Amount as to the Construction Sites, Vendor will
+have received fair market value for each such In Process BTS Sites.
+
+         (b) IN PROCESS BTS SITES AND COMPLETED SITES. With respect to the In
+Process BTS Sites and the Completed Sites, as applicable, Vendor and Vendor
+Affiliates hereby represent and warrant as follows:
+
+                  (1) As of the date hereof, Vendor is in compliance in all
+material respects with all terms and conditions of the BTS Agreement required to
+be complied with through the date hereof, and has performed in all material
+respects all the obligations and covenants required to be performed by Vendor
+thereunder through the date hereof.
+
+                  (2) As to each Completed Site or Construction Site or a
+Milestone Site for which an executed Ground Lease is a Completed Milestone, and
+for which the Ground Lease with respect to each was entered into by Vendor or a
+Vendor Affiliate:
+
+                  (A) Vendor or Vendor Affiliate has a valid leasehold title in
+         and to each such Completed Site, Construction Site or Milestone Site,
+         and each Ground Lease with respect thereto is in full force and effect
+
+                  (B) Each such Ground Lease (i)conforms in all material
+         respects to the form of Ground Lease heretofore made available to SBCW,
+         except in regards to Vendor's rights to assign its interest in the
+         Ground Lease as to any Milestone Site as hereinafter provided, (ii) The
+         term of each such Ground Lease, including extension terms, is no less
+         than twenty (20) years and the rents are on market terms, with no
+         revenue sharing; and.
+
+                  (C) Vendor's (or Vendor's Affiliate's) interest in such Ground
+         Leases for each Completed CA/NV Site and each Construction Site is
+         assignable to SBCW or applicable Cingular Group Member without the
+         landlord's prior consent and to the best knowledge of Vendor, Vendor's
+         interest in such Ground Leases for each of the Milestone Sites with an
+         executed Ground Lease is assignable to
+
+
+                                       13
+<PAGE>
+
+         SBCW or applicable Cingular Group Member without the landlord's prior
+         consent.
+
+                  (3) Neither the Vendor (to the extent it is a party under a
+Ground Lease) nor to the best knowledge of Vendor, the ground lessor or
+counter-party under any Ground Lease is in breach of such Ground Lease in any
+material respect and neither Vendor nor any Vendor Affiliate has received any
+notice that any Ground Lease is in default. Promptly after the date hereof,
+Vendor shall deliver to SBCW a schedule of the Ground Leases, together with
+true, correct and complete copies of the Ground Leases.
+
+                  (4)      Vendor does not hold fee simple title to any of the
+BTS Sites.
+
+                  (5) With respect to all Completed Sites and any In Process BTS
+Site for which Vendor, in each case, has entered into a Ground Lease or as to
+any Milestone Site for which an executed Ground Lease by Vendor is a Completed
+Milestone, Vendor has obtained all easements and rights-of-way that are
+reasonably necessary to provide vehicular and pedestrian ingress and egress to
+and from each of the Completed Sites and In Process BTS Sites and all such
+easements and rights-of-way run with title to Vendor, as the holder of the
+ground tenant or ground lessee interest to such Completed Site and In Process
+BTS Site. No action is pending or to the best of Vendor's knowledge, threatened
+which would have the effect of terminating or limiting such access.
+
+                  (6) The lease or use of the land respecting each Completed
+Site and Construction Site, as applicable, in each case for the construction and
+operation of a Tower (where Vendor (rather than SBCW or its affiliate) was
+responsible for completing the zoning or land use compliance Milestone), is in
+compliance with all applicable zoning and other land use requirements where the
+failure to so comply would materially limit the ability of any Person to use
+such land for such use (PROVIDED THAT in each case there may exist conditions or
+limitations on such use, none of which shall materially interfere with the use
+of such BTS Site by SBCW or the applicable Cingular Group Member as contemplated
+by the BTS Agreement and this Agreement).
+
+                  (7) Vendor has not received any written notice that any
+Governmental Authority having the power of eminent domain over any BTS Site has
+commenced or intends to exercise the power of eminent domain or a similar power
+with respect to all or any part of such BTS Site.
+
+                  (8) Except as set forth on the environmental assessments to be
+delivered by Vendor or Vendor Affiliate hereunder, to Vendor's and TowerCo
+Parent's knowledge, (i) no Environmental Condition exists at any BTS Site, and
+(ii) no pending or threatened litigation in respect of any such Environmental
+Condition exists. Neither Vendor nor Vendor Affiliate or any of its agents,
+representative, employees or consultants has caused any Environmental Condition
+at any BTS Site.
+
+                  (9) Vendor has not entered into any third party collocation
+agreements, subleases, master site leases or licenses for any BTS Site ("Third
+Party Collocation Agreements").
+
+
+                                       14
+<PAGE>
+
+                  (10) Except for Ground Leases, Vendor has not entered into any
+contracts ("Site Contracts", which term shall not include the Ground Leases) for
+the Completed CA/NV Sites or Construction Sites under which contracts
+obligations will survive the transfer of those BTS Sites and which contracts
+will be assumed by SBCW or a Cingular Group Member under this Agreement. With
+respect to the Milestone Sites, no obligations under any Site Contract which
+will be assumed by SBCW or a Cingular Group Member under this Agreement will
+survive the transfer of those Milestone Sites except as to contracts related to
+Deemed Completed Milestones as necessary to complete the Milestone. Vendor will
+include in each Milestone Package a true and complete copy of any Site Contract
+necessary to complete a Completed Deemed Milestone Site. Notwithstanding the
+foregoing, warranties of counterparties as set forth therein and any right of
+Vendor under such Site Contracts will survive as set forth therein and shall be
+assigned to SBCW or the applicable Cingular Group Member.
+
+                  (11) On and as of the CA/NV Closing Date, there will be no
+mechanics', materialmen's or laborers' liens filed against Vendor's interest in
+any of the Completed CA/NV Sites; and there will be no claims for labor,
+services, profit or material furnished for constructing, repairing or improving
+the Completed CA/NV Sites which will remain due and unpaid. On and as of the
+Applicable Site Transition Date, there will be no mechanics', materialmen's or
+laborers' liens filed against Vendor's interest in the Construction Sites with
+respect to any costs or expenses which are then currently due and payable and
+there will be no outstanding claims for labor, services, profit or material
+furnished for constructing, repairing or improving those Construction Sites
+which will remain due and unpaid, except for those which Vendor is contesting in
+good faith and as to which Vendor indemnifies SBCW in a manner reasonably
+acceptable to SBCW; PROVIDED THAT in connection with any contest, neither the In
+Process BTS Site nor any part thereof is in danger of sale, foreclosure or
+forfeiture by reason of the nonpayment thereof.
+
+         (c) SBCW's Representations and Warranties. SBCW represents and warrants
+to Vendor and TowerCo Parent as follows:
+
+                  (1) SBCW is a Delaware limited liability company duly
+incorporated, validly existing and in good standing under the Laws of the State
+of Delaware.
+
+                  (2) SBCW has the limited liability company power and authority
+necessary to execute, deliver and perform this Agreement and the Assignment
+Agreement and to consummate the transactions contemplated hereby and thereby.
+The execution, delivery, and performance of this Agreement and the Assignment
+Agreement and the consummation of the transactions contemplated herein have been
+duly and validly authorized by all necessary corporate action in respect thereof
+on the part of SBCW.
+
+                  (3) Neither the execution and delivery of this Agreement by
+SBCW, nor the consummation by SBCW of the transactions contemplated hereby, nor
+compliance by SBCW with any of the provisions hereof, will (i) conflict with or
+result in a breach of any provision of SBCW's operating agreement or other
+organizational
+
+
+                                       15
+<PAGE>
+
+documents, (ii) constitute or result in a default under any contract or permit
+of SBCW, or (iii) constitute or result in a default under, or require any
+consent pursuant to, any Law or Order applicable to SBCW.
+
+                  (4) This Agreement is, and the Assignment Agreement and all
+other transfer documents when delivered hereunder or in connection herewith
+shall be, the legal, valid and binding obligations of SBCW, as applicable,
+enforceable against SBCW, in accordance with their respective terms, subject
+however, to the (1) application by a court of general principles of equity and
+(2) effect of any applicable bankruptcy, insolvency, reorganization, moratorium
+or similar laws affecting creditors' rights generally.
+
+                  (5)      SBCW has the  authority  to execute and  deliver
+this  Agreement  on behalf of the SBCW Parties.
+
+All of the foregoing representations and warranties in this section c shall
+apply with equal force to the SBCW Parties, except that for such purpose such
+representations and warranties shall be deemed modified to reflect the form and
+jurisdiction of organization of each SBCW Party.
+
+         (d) SURVIVAL OF REPRESENTATIONS AND WARRANTIES. Vendor's
+representations and warranties provided in this Article V shall survive this
+Agreement indefinitely except that the representations and warranties set forth
+in Article V Section (b) (1) through (9) above shall only survive for a period
+of one (1) year from and after the Applicable Site Closing Date, except with
+respect to Claims asserted during such one (1) year period and Claims brought by
+a third party against SBCW or the applicable Cingular Group Member, which shall
+survive until there is a final unappealable resolution as to such Claims.
+
+         (e) BRING-DOWN CERTIFICATE. On the Applicable Site Transfer Date as to
+each of the Completed CA/NV Sites and In Process BTS Sites, as applicable, it
+shall be a condition precedent to the transfer of the BTS Site in question that
+a certificate shall be delivered to SBCW, signed by an executive officer of
+Vendor, Vendor Parent and applicable Vendor Affiliates, certifying that all
+representations and warranties in this Article V with respect to Vendor or a
+Vendor Affiliate and with respect to such BTS Site are true, complete and
+correct as of the Applicable Site Transfer Date.
+
+
+                                   ARTICLE VI
+                                    INDEMNITY
+
+         Without limiting the indemnities set forth in Section 11.02 of the BTS
+Agreement, which shall survive the termination of the BTS Agreement to the
+extent set forth in Article I hereof, Vendor shall, and Vendor does hereby agree
+to, indemnify and hold harmless each SBCW Indemnitee from and against any Claims
+in connection with the BTS Sites, by reason of or arising out of: (i) personal
+injury, death, and damage to tangible property resulting from (A) the
+intentional or negligent acts or omissions of Vendor's directors, officers,
+employees, agents, consultants, contractors or
+
+
+                                       16
+<PAGE>
+
+subcontractors in connection with any In Process BTS Site or performance of this
+Agreement, or (B) any design or manufacturing defect in any Tower, the
+Improvements or any part thereof, whether manufactured by Vendor hereunder or
+otherwise or any defects in construction or installation of any Tower,
+Improvements or Constructed Improvements; (ii) Vendor's breach of its
+obligations under this Agreement including without limitation in respect of any
+Work or Services; (iii) the termination or removal of any employee or
+subcontractor of Vendor pursuant to Section 3.06(d) of the BTS Agreement; (iv)
+Vendor's breach of any representation or warranty in this Agreement, or (v)
+failure of Vendor to comply with any obligation under this Agreement as to
+Governmental Requirements. In no event shall the foregoing indemnification
+provisions diminish, affect, impede or impair, in any manner whatsoever, the
+benefits to which any SBCW Indemnitee may be entitled under any insurance policy
+required by the BTS Agreement or otherwise with respect to any In Process BTS
+Site or under the terms of any waiver of any subrogation contained therein. The
+indemnities provided in this Article VII shall survive for one (1) year from and
+after the Applicable Site Transfer Date, except with respect to Claims asserted
+during such one (1) year period, Claims under clause (i) and Claims brought by a
+third party against SBCW or the applicable Cingular Group Member, which shall
+survive until there is a final unappealable resolution of such Claim.
+
+                                  ARTICLE VIII
+                                  MISCELLANEOUS
+
+         (a) DEFINITIONS. The following terms when used herein with initial
+capital letters shall have the following meanings:
+
+         "AGREED SITE RENT" means "BTS Rent" as defined in the BTS Agreement,
+and shall be calculated as set forth in Section 9 of the BTS Sublease.
+
+         "ALLOCATED DEVELOPMENTAL OVERHEAD REIMBURSEMENT AMOUNT" means as to any
+Construction Site or any Completed CA/NV Site, (i) that portion of the personnel
+and overhead expenses of Vendor's Development Group which is equitably allocated
+to such Construction Site or Completed CA/NV Site plus (ii) the direct cost of
+labor provided by Vendor with respect to the construction of such Construction
+Site or Completed CA/NV Site plus fifteen percent (15%) of the actual
+construction cost (including the cost of the aforesaid labor) with respect to
+such Construction Site or Completed CA/NV Site.
+
+         "APPLICABLE SITE TRANSFER DATE" means the Transaction Closing Date, as
+to the Completed CA/NV Sites, the Construction Site Closing Date, as to the
+Construction Sites and the Milestone Transition Date, as to the Milestone Sites.
+
+         "ASSIGNMENT AGREEMENT" means the form attached hereto as SCHEDULE VII
+to be used to globally assign Vendor's right, title and interest in and to all
+In Process BTS Sites and all Completed CA/NV Sites in accordance with the terms
+hereof to SBCW (or its designees) or, as applicable, to NewCo as contemplated
+hereby in Article IV Section (b) hereof.
+
+
+                                       17
+<PAGE>
+
+         "BTS CLOSING PACKAGE" means the same package of information and
+Completion Certification to be delivered by Vendor which would have been
+required to be delivered in connection with a Completed Site under the terms of
+the BTS Agreement prior to the date hereof.
+
+         "BTS SITES" means collectively the Completed Sites and the In Process
+BTS Sites.
+
+         "BUDGETED AMOUNT" means, with respect to a Construction Site, the total
+amount of the estimated development and construction budget for such
+Construction Site, as set forth on the Construction Site Budget.
+
+         "CA/NV BUDGETED AMOUNT" means as to each Completed CA/NV Site, the
+estimated reimbursement cost therefore as set forth on the CA/NV Site Budget.
+
+         "CA/NV SITE BUDGET" means, with respect to all Completed CA/NV Sites,
+the CA/NV Budgeted Amounts for the Completed CA/NV Sites, as set forth on the
+attached SCHEDULE II, as it may be adjusted to deduct and delete any CA/NV
+Budgeted Amount attributable to any Completed CA/NV Site which is rejected by
+SBCW in accordance with the terms hereof.
+
+         "CA/NV SITE PURCHASE PRICE" means the purchase price for each Completed
+CA/NV Sites equal to the (i) direct third party expenses actually incurred by
+Vendor in connection with development, construction and Completion of such
+Completed CA/NV Site, as evidenced by invoices or other reasonable supporting
+documentation, including without limitation, the Construction Site Package for
+each Completed CA/NV Sites PLUS the (ii) Allocated Developmental Overhead
+Reimbursement Amount for such Completed CA/NV Site.
+
+         "CINGULAR GROUP MEMBER" means (i) Cingular Wireless LLC; (ii) any other
+Person directly, or indirectly through one or more intermediaries, controlling,
+controlled by or under common control with Cingular Wireless LLC (including,
+without limitation, each of the members of Cingular Wireless LLC); or (iii) any
+other Person in which a Person referred to in (i) or (ii) above beneficially
+owns a majority of the outstanding capital stock or equity interests.
+
+         "CINGULAR WORK" shall have the meaning ascribed thereto in Article III,
+Section (c) hereof.
+
+         "COMPLETED BTS SITES" means the Completed Sites other than the
+Completed CA/NV Sites only as listed on attached SCHEDULE I.
+
+         "COMPLETED CA/NV SITES" means the Completed Sites other than the
+Completed BTS Sites, which are substantially complete as of the date hereof and
+which will be Completed on or before the CA/NV Closing Date, all only as listed
+on attached SCHEDULE
+
+
+                                       18
+<PAGE>
+
+II, together with the Site Related Assets, and Site Related Materials applicable
+to such Completed CA/NV Sites.
+
+         "COMPLETED MILESTONE" means a Milestone which was commenced in
+connection with a Milestone Site prior to the Milestone Cut off Date and which
+is completed by the Milestone Completion Date.
+
+         "COMPLETED SITES" means the BTS Sites the construction of which has
+been substantially completed prior to March 31, 2002 including, collectively,
+the Completed CA/NV Sites and the Completed BTS Sites.
+
+         "CONSTRUCTION SITE(S)" means those In Process BTS Sites for which a
+SARF has been issued pursuant to Section 5.01(a) of the BTS Agreement prior to
+the date hereof, and which is not a Completed Site (other than SBCW Sites which
+can not be transferred to Vendor as Completed BTS Sites because of failure to
+obtain a necessary ground lessor consent to assignment) but which has reached
+the Permit Milestone, all only as listed on the attached SCHEDULE IV, together
+with the Site Related Assets, and Site Related Materials applicable to such
+Construction Sites.
+
+         "CONSTRUCTION SITE BUDGET" means, with respect to all Construction
+Sites, the Budgeted Amounts for the Construction Sites, as set forth on the
+attached SCHEDULE IV, as it may adjusted to deduct and delete the Budgeted
+Amount attributable to any Construction Site which is rejected by SBCW in
+accordance with the terms hereof.
+
+         "CONSTRUCTION SITE CLOSING DATE" means thirty (30) days after the
+delivery of the last Construction Site Package, but in no event (subject to
+Force Majuere) later than October 3, 2002; being the date that the Construction
+Sites are to be Completed and transferred to SBCW or the applicable Cingular
+Group Member in accordance with the terms of Article III hereof.
+
+         "CONSTRUCTION SITE PACKAGE" means the package of information and
+executed Completion Certification to be delivered by Vendor to SBCW, together
+with a Document Checklist, which package would have been required to be
+delivered in connection with a Completed BTS Site under the terms of the BTS
+Agreement as it existed prior to the date hereof.
+
+         "CONSTRUCTION SITE PACKAGE DATE" means September 3, 2002 (which is
+subject to Force Majeure), the outside date for the Construction Site Packages
+to be delivered to SBCW for review prior to the Construction Site Closing Date;
+PROVIDED THAT if the Construction Packages are ready prior to that date they
+shall be delivered promptly after they are ready.
+
+         "CONSTRUCTION SITE REIMBURSEMENT AMOUNT" means, as to a Construction
+Site, an amount equal to the direct third party expenses actually incurred by
+Vendor in connection with development, construction and Completion of such
+Construction Site as evidenced by invoices or other reasonable supporting
+
+
+                                       19
+<PAGE>
+
+documentation, PLUS the Allocated Developmental Overhead Reimbursement Amount
+for such Construction Site.
+
+         "DEEMED COMPLETED MILESTONE" means a Milestone which was commenced in
+connection with a Milestone Site prior to the Milestone Cut off Date but which
+was not completed by the Milestone Completion Date, but for which Vendor is
+being compensated in accordance with the terms hereof.
+
+         "DISPUTE" shall have the meaning ascribed thereto in Article IV,
+Section (a) hereof.
+
+         "DISPUTED COST" shall have the meaning ascribed thereto in Article IV,
+Section (a) hereof.
+
+         "DISPUTE NOTICE" shall have the meaning ascribed thereto in Article IV,
+Section (a) (1) hereof.
+
+         "DISPUTE PROCEDURE" means the procedure set forth herein in Article IV,
+Section (a) for resolving a Dispute.
+
+         "DOCUMENT CHECKLIST" means the form annexed hereto as SCHEDULE VIII to
+be used by Vendor as the cover sheet to submit a Milestone Package or
+Construction Package, as applicable.
+
+         "ENVIRONMENTAL CONDITION" means, as to each BTS Site, any conditions or
+circumstances, including without limitation, the presence of Hazardous
+Materials, that (i) require abatement or correction under the Environmental
+Laws, (ii) give rise to any civil or criminal Liability under any Environmental
+Laws relating to the use or occupancy of any BTS Site or (iii) constitute a
+public or private nuisance to a third party.
+
+         "ENVIRONMENTAL LAWS" means all Laws relating to pollution or protection
+of human health or the environment (including ambient air, surface water, ground
+water, land surface, or subsurface strata) including the Comprehensive
+Environmental Response Compensation and Liability Act, as amended, 42 U.S.C.
+9601 ET SEQ. ("CERCLA"), the Resource Conservation and Recovery Act, as amended,
+42 U.S.C. 6901 ET SEQ. ("RCRA"), and other Laws relating to emissions,
+discharges, releases, or threatened releases of any Hazardous Material, or
+otherwise relating to the manufacture, processing, distribution, use, treatment,
+storage, disposal, transport, or handling of any Hazardous Material.
+
+         "HAZARDOUS MaTERIAL" means (i) any hazardous substance, hazardous
+material, hazardous waste, regulated substance, or toxic substance (as those
+terms are defined by any applicable Environmental Laws) and (ii) any chemicals,
+pollutants, contaminants, petroleum, petroleum products, or oil,
+asbestos-containing materials and any polychlorinated biphenyls.
+
+
+                                       20
+<PAGE>
+
+         "IN PROCESS BTS SITES" means collectively the Milestone Sites and the
+Construction Sites.
+
+         "LAW(S)" means any code, law (including common law), ordinance,
+regulation, reporting or licensing requirement, rule, or statute applicable to a
+Person or its assets, Liabilities, or business, including those promulgated,
+interpreted or enforced by any Regulatory Authority.
+
+         "LIABILITY" means any direct or indirect, primary or secondary,
+liability, indebtedness, obligation, penalty, cost or expense (including costs
+of investigation, collection and defense), claim, deficiency, guaranty of any
+type, whether accrued, absolute or contingent, liquidated or unliquidated,
+matured or unmatured, or otherwise.
+
+         "LIEN" means, with respect to any BTS Site, any interest in an asset
+securing an obligation owed to, or a claim by, any Person other than the owner
+of the asset, whether such interest shall be based on any Law or contract,
+whether such interest shall be recorded or perfected, and whether such interest
+shall be contingent upon the occurrence of some future event or events or the
+existence of some future circumstance or circumstances, including the lien or
+security interest arising from a mortgage, deed of trust, encumbrance, pledge,
+hypothecation, assignment, deposit arrangement, security agreement, or
+preferential arrangement of any kind, conditional sale or trust receipt, or from
+a lease, consignment or bailment for security purposes and also including
+reservations, exceptions, reservations, encroachments, easements, rights-of-way,
+covenants, conditions, restrictions, leases, licenses, occupancy agreement,
+restriction on transferability and other title exceptions and encumbrances
+affecting any real property.
+
+         "MASTER LEASE" means that certain Lease and Sublease, dated as of
+December 14, 2000, by and among SBC Tower Holdings LLC, SBCW, Southern Towers,
+Inc and TowerCo Parent as amended or affected by various side letters.
+
+         "MILESTONE" means as to any BTS Site, each of the tasks performed, or
+to be performed, by Vendor in connection with site acquisition, engineering and
+related work, all as listed as "milestones" on the Milestone Reimbursement
+Schedule and for which a fixed reimbursement cost is associated therewith and in
+addition, as to any Construction Site, the Permit Milestone.
+
+         "MILESTONE COMPLETION DATE" means June 17, 2002.
+
+         "MILESTONE CUT OFF DATE" means May 15, 2002.
+
+         "MILESTONE PACKAGE DELIVERY SCHEDULE" means, as to the Milestone Sites,
+that Milestone Packages shall be delivered to SBCW as they are completed, with
+the date of the last Milestone Package so delivered, the "Final Milestone
+Delivery Date"; provided that the Final Milestone Delivery Date shall be on or
+before July 15, 2002.
+
+         "MILESTONE PACKAGE" means a package of information required relating to
+a Milestone Site evidencing the completion of the applicable Completed
+Milestones or
+
+
+                                       21
+<PAGE>
+
+commencement of the applicable Deemed Completed Milestone which has been
+prepared by Vendor and submitted to SBCW for sign off, together with a Document
+Checklist and including all of the information, reports and materials related to
+Completed Milestones maintained or required to be obtained by Vendor or any
+Vendor Affiliate for each Milestone including as applicable, all related
+correspondence, third party reports and invoices related thereto, and
+applications filed for such Milestone Site, whether or not granted.
+
+         "MILESTONE REIMBURSEMENT SCHEDULE" means the fixed pricing schedule
+attached hereto as SCHEDULE V to be used to reimburse Vendor for the cost of the
+applicable Completed Milestones or Deemed Completed Milestones for each
+Milestone Site to be transferred in accordance with the terms of Article II
+hereof.
+
+         "MILESTONE SITE(S)" means those In Process BTS Sites for which a SARF
+has been issued pursuant to Section 5.01(a) of the BTS Agreement prior to the
+Milestone Cut Off Date and for which Services and Work was performed prior to
+the date hereof or is still being performed by Vendor at the date hereof, but
+which is not a Completed Site or a Construction Site, all only as listed on
+SCHEDULE III attached hereto, together with the Site Related Assets and Site
+Related Materials applicable for such Milestone Sites.
+
+         "MILESTONE SITE REIMBURSEMENT AMOUNT" means the reimbursement amount
+for each Milestone Site calculated as set forth in Article III, Section (b)(1)
+hereof.
+
+         "MILESTONE TRANSITION DATE" means the date which is thirty (30) days
+after the Final Milestone Delivery Date, which shall be the date that Vendor or
+the applicable Vendor's or Vendor's Affiliate's interest in the Milestone Sites
+is transferred by Vendor and/or Vendor Affiliate to SBCW or the applicable
+Cingular Group Member in accordance with the terms hereof.
+
+         "MLA TERM SHEET" means that certain term sheet regarding MLA and other
+pricing terms, which MLA Term Sheet is attached hereto as Schedule VI.
+
+         "NEWCO" shall have the meaning ascribed thereto in Article IV, Section
+(b) hereof.
+
+         "ORDER(S)" means all applicable orders, writs, judgments, decrees,
+rulings, consent agreements and awards of or by any forum or entered by consent
+of the party to be bound.
+
+         "PERMIT MILESTONE" means the Milestone after completion of all of the
+Milestones applicable to a Milestone Site for site acquisition and architectual
+and engineering work pursuant to which Milestone, Vendor has obtained both a
+zoning permit and building permit as required to permit Completion of the
+construction of a BTS Site.
+
+
+                                       22
+<PAGE>
+
+         "PERMITTED LIEN" means, with respect to a BTS Site, (i) liens for
+current real or personal property taxes not yet due and payable, (ii) any lien,
+mortgage, security interest, pledge, restriction on transferability, easement,
+option or other claim, charge or encumbrance of any nature placed upon the
+interest in a BTS Site of the lessor, landlord or other counter-party under the
+applicable Ground Lease, (iii) easements, rights of way or similar grants of
+rights to a third party for access to or across a BTS Site granted to any
+utility or similar entity in connection with the provision of electric, water,
+sewage, telephone, gas or similar services to the BTS Site, (iv) the applicable
+Ground Lease, (v) Site Contracts, (vi) Third Party Collocation Agreements; (vii)
+non-monetary encumbrances that are, individually or in the aggregate, de minimis
+in character, amount or extent, and that do not otherwise detract from the value
+and interfere in any respect with the permitted use of a BTS Site; and (viii)
+local, state and federal laws, ordinances or governmental regulations, including
+but not limited to, building and zoning laws, ordinances and regulations, now or
+hereafter in effect relating to the BTS Site. Notwithstanding the foregoing,
+"Permitted Lien" shall not include any Lien which results in or evidences that
+the holder of the leasehold interest evidenced by the Ground Lease, as otherwise
+subject to the Permitted Lien, is not Vendor or a Cingular Group Member, or that
+the lessor or landlord who executed a Ground Lease was not at the time of
+execution thereof the record owner of the land described therein.
+
+         "PERSON" means a natural person or any legal, commercial or
+governmental entity, such as, but not limited to, a corporation, general
+partnership, joint venture, limited partnership, limited liability company,
+limited liability partnership, trust, business association, group acting in
+concert, or any person acting in a representative capacity.
+
+         "REGULATORY AUTHORITIES" means, collectively, all federal, state,
+county, local or other governmental or regulatory agencies, authorities
+(including taxing and self-regulatory authorities), courts, instrumentalities,
+commissions, boards or bodies having jurisdiction over the parties and their
+respective subsidiaries.
+
+         "SBCW'S RETROACTIVE RENTAL OBLIGATION" means with respect to the
+Completed BTS Sites all rent payable by a Cingular Group Member, as computed
+pursuant to the BTS Sublease, accruing during the period commencing upon the
+Rental Commencement Date (as defined in the BTS Sublease) and ending on the date
+the Site Designation Supplement is delivered with respect to such Completed BTS
+Site pursuant to Section II (a).
+
+         "SBCW SITE(S)" means those BTS Sites (whether Completed Sites,
+Construction Sites or Milestone Sites) subject to that certain letter agreement
+dated August 31, 2001, by and among Vendor, TowerCo Parent and SBCW(the "SBCW
+Transition Agreement"), which were supposed to be transitioned to Vendor prior
+to the date hereof in accordance with the SBCW Transition Agreement..
+
+         "SBCW SITE REIMBURSEMENT AMOUNT" means the amount as to any SBCW Site,
+which Vendor is required to reimburse SBCW for Cingular Work pursuant to the
+SBCW Transition Agreement.
+
+
+                                       23
+<PAGE>
+
+         "SITE CONTRACTS" shall have the meaning ascribed thereto in Article V,
+Section (b)(8) hereof.
+
+         "SITE DESIGNATION SUPPLEMENT" means the Site Designation Supplement
+providing for a sublease of the Leased Space and a collocation of Communication
+Equipment by SBCW or a Cingular Group Member on a Completed BTS Site including
+the Agreed Site Rent, in substantially the form attached to the BTS Sublease,
+but incorporating the terms in Sections II and III of the MLA Term Sheet.
+
+         "SITE RELATED ASSETS" means collectively, as to Milestone Sites,
+Construction Sites or Completed Sites, as applicable, those existing Ground
+Leases, contracts, Permits, bonds, warranties, tower structures and related
+improvements, Site Related Materials and all other rights relating to such BTS
+Sites including as to any Construction Sites, all rights and other Site Related
+Materials as necessary for the Completion of the Construction Sites or as to any
+Milestone Site, as otherwise necessary to evidence a Completed Milestone as to
+such Milestone Sites.
+
+         "SITE RELATED MATERIAL" means collectively and without duplication, as
+applicable to any BTS Site, all materials, supplies, structural designs,
+construction documents and specifications, equipment keys, contracts, documents,
+zoning reports (including related correspondence and exhibits), applications and
+all other reports, books of account and records obtained or maintained by Vendor
+or any Vendor Affiliate for any BTS Site and any documents or information
+including the Compliance Data, Site Data Package or Due Diligence Package for
+such BTS Sites and Completed CA/NV Sites (to the extent the completion thereof
+is then appropriate) obtained or maintained by Vendor or its Affiliates in
+connection with any BTS Site and specifically including without limitation, the
+Construction Package as to the Construction Sites and Milestone Package as to
+the Milestone Sites.
+
+         "SS NEWCO PURCHASE AGREEMENT" means that certain proposed SpectraSite
+NewCo Purchase Agreement by and among Cingular Wireless, LLC, SpectraSite
+Holdings, Inc., Southern Towers, Inc. and CA/NV Tower Holdings, LLC and of even
+date herewith.
+
+         "THIRD PARTY COLLOCATION AGREEMENTS" shall have the meaning ascribed
+thereto in Article V, Section (b)(7) hereof.
+
+         "TOTAL CA/NV SITE PURCHASE PRICE" means the aggregate purchase price
+for all of the Completed CA/NV Sites to be transferred to SBCW (or NewCo, as
+applicable) as calculated in accordance with Article II, Section (b) hereof.
+
+         "TOTAL CONSTRUCTION SITE REIMBURSEMENT AMOUNT" " means the aggregate
+reimbursement amount for the Construction Sites to be transferred to SBCW (or
+NewCo, as applicable) as calculated in accordance with in Article III Section
+(b)(3) hereof.
+
+
+                                       24
+<PAGE>
+
+         "TOTAL MILESTONE REIMBURSEMENT AMOUNT" means the sum of all the
+Milestone Site Reimbursement Amounts for all of the Milestone Sites.
+
+         "TOTAL REIMBURSEMENT AMOUNT" means collectively the Total Construction
+Site Reimbursement Amount and Total Milestone Reimbursement Amount.
+
+         "TRANSACTION CLOSING DATE" means the closing date of the transaction
+  contemplated by the SS NewCo Purchase Agreement.
+
+         "VENDOR AFFILIATE" means any entity which is directly or indirectly
+controlled by Vendor Parent and has any right, title or interest, or
+obligations, in and to any BTS Sites, including specifically, but without
+limitation Southern Towers, Inc.
+
+         (b) COUNTERPARTS. This Agreement may be executed by one or more of the
+parties hereto on any number of separate counterparts and all such counterparts
+shall be deemed to be one and the same instrument.
+
+         (c) GOVERNING LAW. The parties agree that this Agreement shall be
+governed by, and construed in all respects in accordance with the laws of the
+State of New York, without regard to its conflict of law or choice of law
+principles.
+
+         (d) ANNEXES, EXHIBITS AND SCHEDULES. Each and every annex, exhibit and
+schedule referred to or otherwise mentioned in this Agreement is attached to
+this Agreement and is and shall be construed to be made a part of this Agreement
+by such reference or other mention at each point at which such reference or
+other mention occurs, in the same manner and with the same effect as if each
+annex and exhibit were set forth in full and at length every time it is referred
+to or otherwise mentioned.
+
+         (e) EXPENSES. Except as otherwise provided herein, each of the parties
+shall bear and pay all direct costs and expenses incurred by it or on its behalf
+in connection with the transactions contemplated hereunder, including fees and
+expenses of its own financial or other consultants, accountants and counsel;
+PROVIDED THAT, Vendor and SBCW shall each be responsible for fifty percent (50%)
+of any and all sales taxes, transfer taxes and documentary stamp taxes incurred
+in connection with transferring the Completed CA/NV Sites and In Process BTS
+Sites to NewCo as contemplated hereby. SBCW shall be responsible for any
+recording costs incurred by it in connection with recording any individual
+assignment of Ground Leases to SBCW or the applicable Cingular Group Member, but
+Vendor shall be responsible for recording costs of any memorandum of Ground
+Lease.
+
+         (f) WAIVER OF JURY TRIAL. THE PARTIES KNOWINGLY, VOLUNTARILY AND
+INTENTIONALLY WAIVE THE RIGHT TO A TRIAL BY JURY IN RESPECT OF ANY LITIGATION
+BASED HEREON, ARISING OUT OF, UNDER OR IN CONNECTION WITH THIS AGREEMENT
+(INCLUDING, WITHOUT LIMITATION, ANY ACTION TO TERMINATE THIS AGREEMENT, AND ANY
+CLAIM OR DEFENSE ASSERTING THAT THIS AGREEMENT WAS FRAUDULENTLY INDUCED OR IS
+OTHERWISE VOID OR VOIDABLE). THIS WAIVER IS A
+
+
+                                       25
+<PAGE>
+
+MATERIAL INDUCEMENT FOR THE PARTIES TO ENTER INTO THIS AGREEMENT.
+
+         (g) NOTICES. Whenever any notice, demand, request, advice or other
+communication is required or permitted under this Agreement such notice, demand
+or request shall be in writing and shall be sent by registered or certified
+mail, postage prepaid, return receipt requested, or be sent by nationally
+recognized commercial courier for next business day delivery so long as such
+commercial courier requires the recipient to sign a receipt evidencing delivery,
+or by facsimile (with a follow up confirmation by another method provided for
+herein) to the addresses or facsimile numbers set forth below or to such other
+addresses as are specified by written notice given in accordance herewith:
+
+         SBCW OR SBCW PARTY:          SBC Wireless, LLC
+         ------------ -----
+                                      c/o Cingular Wireless LLC
+                                      5565 Glenridge Connector
+                                      Atlanta, Georgia  30342
+                                      Attention:  Mila A. Ostin
+                                      Facsimile Number:  (404) 236-5574
+
+                                      And for purposes of Article III, Section
+                                      (a)(1) hereof:
+                                      Attention: Stephen Brake or Executive
+                                      Director of Partnerships and Real Estate
+                                      Facsimile Number:  (404) 236-5869
+
+                                      With a copy to:
+
+                                      Alston & Bird LLP
+                                      One Atlantic Center
+                                      1201 West Peachtree Street
+                                      Atlanta, Georgia  30309-3424
+                                      Attention:  Pinney L. Allen
+                                      Facsimile Number:  (404) 881-4777
+
+         VENDOR AND TOWERCO PARENT:   SpectraSite Holdings, Inc.
+         ------ --- --------------
+                                      100 Regency Forest Drive, Suite 400
+                                      Cary, North Carolina  27511
+                                      Attention:  Terry L. Armant
+                                      Facsimile No.:  (919) 468-8522
+
+                                      With a copy to:
+
+                                      Paul, Weiss, Rifkind, Wharton & Garrison
+                                      1285 Avenue of the Americas
+                                      New York, New York  10019-6064
+                                      Attention:  Mitchell L. Berg, Bruce A
+                                        Gutenplan
+                                      Facsimile No.:  (212) 757-3990
+
+
+                                       26
+<PAGE>
+
+All notices, demands, requests, advice or communications given by mailing shall
+be deemed given on the date of receipt in the United States Mail; those given by
+commercial courier shall be deemed given on the date such notice, demand,
+request, advice or communication is delivered to the recipients address set
+forth above or to such other address as is specified by written notice given in
+accordance herewith and all notices, demands, requests, advice or communications
+sent by facsimile to the recipients at the facsimile number set forth above
+shall be deemed given on the confirmation date of facsimile transmission. Any
+notice, demand, request, advice or communication not received because of changed
+address or facsimile number of which no notice was given or because of refusal
+to accept delivery shall be deemed received by the party to whom addressed on
+the date of hand delivery, on the date of facsimile transmittal, on the first
+calendar day after deposit with commercial courier, or on the third calendar day
+following deposit in the United States Mail, as the case may be.
+
+         (h) GUARANTEES. Without limiting any obligations of TowerCo Parent
+under the provisions of the BTS Agreement, TowerCo Parent hereby absolutely,
+unconditionally and irrevocably guarantees the timely performance of all
+obligations, undertakings, agreements, covenants, representations and warranties
+of Vendor under this Agreement.
+
+         (i) SPECIAL DAMAGES. In no event shall any party hereto be liable to
+the other party for any special, incidental, consequential or other such damages
+suffered by or incurred by such other parties to this Agreement.
+
+
+                      [EXECUTION BEGINS ON FOLLOWING PAGE]
+
+
+                                       27
+<PAGE>
+
+         IN WITNESS WHEREOF, each of the parties hereto has executed this
+Agreement as of the day and year first above written.
+
+                                SBCW:
+
+                                SBC WIRELESS, LLC,
+                                on behalf of itself and as Agent
+
+
+                                By: /s/ Stephen A. McGaw
+                                   -----------------------------
+                                Name:   Stephen A. McGaw
+                                Title:  Executive Vice President
+                                         - Corporate Development
+
+
+                                VENDOR:
+
+                                SPECTRASITE COMMUNICATIONS, INC.
+
+
+                                By: /s/ Stephen H. Clark
+                                   -----------------------------
+                                Name:   Stephen H. Clark
+                                Title:  President and CEO
+
+
+                                TOWERCO PARENT:
+
+                                SPECTRASITE HOLDINGS, INC.
+
+
+                                By: /s/ Stephen H. Clark
+                                   -----------------------------
+                                Name:   Stephen H. Clark
+                                Title:  President and CEO
+
+
+</TEXT>
+</DOCUMENT>

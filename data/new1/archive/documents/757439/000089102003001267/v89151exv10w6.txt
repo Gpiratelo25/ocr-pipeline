@@ -1,0 +1,110 @@
+<DOCUMENT>
+<TYPE>EX-10.6
+<SEQUENCE>4
+<FILENAME>v89151exv10w6.txt
+<DESCRIPTION>EXHIBIT 10.6
+<TEXT>
+<PAGE>
+
+                                                                    Exhibit 10.6
+
+       FIRST AMENDMENT TO CORPORATE SERVICES AGREEMENT BETWEEN NORDSTROM
+                         CREDIT INC AND NORDSTROM fsb
+
+         This First Amendment to Corporate Services Agreement ("First
+Amendment") is entered into effective February 1, 2001, between Nordstrom Credit
+Inc., a Colorado corporation with its corporate offices at 13531 East Caley
+Avenue, Englewood, Colorado 80111 ("NCI"), and Nordstrom fsb, a nationally
+chartered federal savings bank, with its main banking office located at 7320
+East Butherus Drive, Suite 100, Scottsdale, Arizona 85260 ("Bank").
+
+RECITALS:
+
+A.  NCI and Bank are parties to that certain Corporate Services Agreement
+entered into effective February 1, 2001 (the "Agreement").
+
+B.  The Parties desire to amend the Agreement to clarify the method of
+calculation of Labor Cost, as defined in the Agreement.
+
+AMENDMENT:
+
+Therefore, in consideration of the foregoing recitals, incorporated by this
+reference, and other good and valuable consideration, the receipt and
+sufficiency of which are hereby acknowledged, the parties agree to amend the
+Agreement as follows:
+
+1. Section 7 (b) of the Agreement is amended in its entirety to read as follows:
+
+(b)      The total Labor Cost for the Bank employees performing such Services.
+         The "Labor Cost" shall be calculated using one of the two following
+         methods:
+
+         (1) For Services performed by Bank employees in departments in which
+         automated systems track employee activity, such as call center
+         employees for whom phone reports are produced showing time spent
+         performing Services provided hereunder, the following method shall be
+         used:
+
+         A.       The department's average hourly rate including benefits (the
+                  "Department Rate") will be calculated.
+
+         B.       The automated reports will be used to calculate the total
+                  number of department employee hours spent on each Service.
+
+         C.       The Department Rate will be applied to the hours spent on each
+                  Service to determine the Labor Cost.
+
+         (2) For Services performed by other Bank employees, the following
+         method shall be used:
+
+         A.       The Bank employee will fill out the Excel spreadsheet
+                  established for time tracking purposes by the Bank's
+                  accounting department, or provide information to the
+                  accounting department as to the percentage of the employee's
+                  time spent providing Services.
+
+<PAGE>
+
+         B.       The accounting department will utilize this information to
+                  calculate the number of hours spent providing Services by each
+                  Bank department.
+
+         C.       The accounting department will also determine what percentage
+                  of the total number of hours worked by employees of that
+                  department was spent providing Services, and will further
+                  determine what percentage was spent on each Service.
+
+         D.       The percentages determined as described above will then be
+                  applied to the total monthly salary amount paid to employees
+                  of that department.
+
+         E.       The salary amounts attributable to each Service, determined as
+                  described above, will be added to the cost of benefits related
+                  to those salary amounts to determine the Labor Cost.
+
+         The calculation of Labor Cost as described in this Section 7(b) shall
+         be applied to Services performed by both hourly and salaried employees.
+         The Bank's accounting department shall periodically verify that the
+         calculation of Labor Cost as described above results in Fees equal to
+         or greater than the amount of Fees the Bank would have been paid if
+         Labor Cost were calculated utilizing the exact wage amounts plus
+         benefits of employees providing Services.
+
+2. Except as otherwise specifically set forth above, terms used in this First
+Amendment shall have the meanings defined in the Agreement. Except as otherwise
+specifically amended by this First Amendment, the Agreement remains in full
+force and effect according to its terms.
+
+IN WITNESS WHEREOF, NCI and Bank have each caused this First Amendment to be
+signed and delivered by its duly authorized officer, all as of the date first
+set forth above.
+
+Nordstrom Credit, Inc.                              Nordstrom fsb
+
+By: /s/ Kevin Knight                                By: /s/ Denny Dumler
+    -------------------------                           --------------------
+Name:   Kevin Knight                                Name:   Denny Dumler
+Title: President                                    Title: President
+
+</TEXT>
+</DOCUMENT>

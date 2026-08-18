@@ -1,0 +1,2067 @@
+<DOCUMENT>
+<TYPE>EX-10.87-2
+<SEQUENCE>20
+<FILENAME>a2042986zex-10_872.txt
+<DESCRIPTION>EXHIBIT 10.87.2
+<TEXT>
+
+<PAGE>
+
+                                                                 Exhibit 10.87.2
+
+                                                               [COLLINS STATION]
+
+
+
+
+
+                             POWER PURCHASE AGREEMENT
+
+
+                           DATED AS OF DECEMBER 15, 1999
+                 AS AMENDED AND RESTATED AS OF SEPTEMBER 13, 2000
+
+
+                                      BETWEEN
+
+
+                            COMMONWEALTH EDISON COMPANY
+
+
+                                        AND
+
+
+                              MIDWEST GENERATION, LLC
+
+
+
+
+
+
+                            COLLINS GENERATING STATION
+
+
+
+<PAGE>
+
+
+                                 TABLE OF CONTENTS
+
+
+<TABLE>
+<CAPTION>
+                                                                         PAGE
+                                                                         ----
+<S>                                                                      <C>
+
+1.      DEFINITIONS AND INTERPRETATION                                     1
+
+    (a) DEFINITIONS                                                        1
+    (b) INTERPRETATION                                                     9
+    (c) LEGAL REPRESENTATION OF PARTIES                                    9
+    (d) TITLES AND HEADINGS                                               10
+2.      TERM                                                              10
+
+3.      GENERATING CAPACITY                                               10
+
+    (a) CHARACTER                                                         10
+    (b) SUPPLY                                                            10
+    (c) DISPATCH                                                          10
+    (d) ENERGY IMBALANCE                                                  10
+5.      METERING; BILLING; PAYMENT                                        11
+
+    (a) METERING                                                          11
+    (b) METER INACCURACIES                                                11
+    (c) BILLING                                                           11
+    (d) BILLING DISPUTES.                                                 12
+    (d) BILLING DISPUTES                                                  12
+    (e) ANNUAL SETTLEMENT AMOUNT PAYMENT                                  12
+6.      OPERATION OF RESERVED UNITS                                       12
+
+    (a) STANDARD OF OPERATION                                             12
+    (b) ELECTRIC ENERGY GENERATION.                                       12
+    (b) ELECTRIC ENERGY GENERATION                                        12
+    (c) OUTAGES                                                           14
+        (i)    PLANNED OUTAGES                                            14
+        (ii)   MAINTENANCE OUTAGES                                        15
+        (iii)  FORCED OUTAGES                                             15
+        (iv)   INFORMATION RELATED TO OUTAGES                             15
+    (d) OPERATING CHARACTERISTICS                                         15
+    (e) FUEL SOURCE AND EMISSIONS REPORTS                                 15
+    (f) RECORDS                                                           16
+7.      COMPENSATION                                                      16
+
+    (a) MONTHLY CHARGES                                                   16
+        (i)    MONTHLY CAPACITY CHARGE                                    16
+        (ii)   ENERGY CHARGE                                              16
+        (iii)  START UP AND SUPPORT CHARGES                               16
+        (iv)   LOW LOAD CHARGES                                           17
+
+</TABLE>
+
+
+                                      -i-
+<PAGE>
+
+<TABLE>
+<S>                                                                      <C>
+
+        (v)    ANCILLARY SERVICES                                         17
+    MINIMUM TAKE TRUE-UP                                                  17
+8.      TESTING                                                           18
+
+9.      ANCILLARY SERVICES                                                18
+
+10.     LIMITATION OF LIABILITY                                           18
+
+    (a) ADMINISTRATIVE COMMITTEE PROCEDURE                                20
+    (b) ARBITRATION                                                       20
+    (c) OBLIGATIONS TO PAY CHARGES AND PERFORM                            21
+    (d) PRELIMINARY INJUNCTIVE RELIEF                                     21
+    (e) SETTLEMENT DISCUSSIONS                                            22
+12.     ASSIGNMENT; TRANSFER OF STATION                                   22
+
+    (a) ASSIGNMENT                                                        22
+    (b) COLLATERAL ASSIGNMENT                                             22
+    (c) TRANSFER OF STATION DURING THE TERM                               23
+13.     TERMINATION BY COMED WITH RESPECT TO CERTAIN UNITS                23
+
+14.     DEFAULT; TERMINATION AND REMEDIES                                 23
+
+    (a) SELLER'S DEFAULT                                                  23
+    (b) COMED DEFAULT                                                     24
+    (c) REMEDIES AND REMEDIES CUMULATIVE                                  24
+    (e) TERMINATIONS UNDER SECTION 13                                     25
+15.     FORCE MAJEURE                                                     25
+
+16.     REPRESENTATIONS AND WARRANTIES                                    26
+
+17.     INDEMNIFICATION                                                   28
+
+18.     NOTICES                                                           28
+
+19.     CONFIDENTIALITY                                                   30
+
+20.     GOVERNING LAW                                                     30
+
+21.     PARTIAL INVALIDITY                                                30
+
+22.     WAIVERS                                                           31
+
+24.     ENTIRE AGREEMENT AND AMENDMENTS                                   31
+
+</TABLE>
+
+                                      -ii-
+<PAGE>
+
+
+APPENDICES
+
+Appendix A     Equivalent Availability Factor
+Appendix B     Design Limits
+Appendix C     MAIN Guide Number 3A
+Appendix D     EO Communications and Guidelines
+Appendix E     Reporting Forms
+Appendix F     Regulating Performance Value Methodology
+Appendix G     GADS Cause Codes
+
+
+<PAGE>
+
+
+                             POWER PURCHASE AGREEMENT
+
+               THIS POWER PURCHASE AGREEMENT (including Appendices, this
+"AGREEMENT") dated as of December 15, 1999, as amended and restated as of
+September 13, 2000, between COMMONWEALTH EDISON COMPANY, an Illinois
+corporation ("COMED"), and MIDWEST GENERATION, LLC, a Delaware limited
+liability company ("SELLER"; ComEd and Seller are sometimes referred to
+herein individually as a "PARTY" and collectively as the "PARTIES");
+
+                               W I T N E S S E T H:
+
+               WHEREAS, Seller owns and operates the Collins electric generation
+station;
+
+               WHEREAS, ComEd desires to receive and purchase, and Seller
+desires to deliver and sell, electric capacity, energy and other
+generation-related services;
+
+               WHEREAS, ComEd desires to determine the dispatching of the units
+at such station as provided in this Agreement;
+
+               WHEREAS, the Parties are parties to a Power Purchase Agreement
+for the Collins electric generation station dated as of December 15, 1999, as
+amended as of July 12, 2000 ("PPA"); and
+
+               WHEREAS, the Parties have agreed to amend further the PPA in
+certain respects and to integrate said amendment and the prior amendment into a
+restated agreement.
+
+               NOW, THEREFORE, in consideration of the mutual covenants and
+agreements herein set forth, the Parties hereto agree as follows:
+
+1.      DEFINITIONS AND INTERPRETATION
+
+                (a) DEFINITIONS. As used in this Agreement, (i) the terms set
+forth below in this Section 1(a) shall have the respective meanings so set
+forth, (ii) the terms defined elsewhere in this Agreement shall have the
+meanings therein so specified and (iii) the terms "AVAILABLE," "AVAILABLE
+HOURS," "EQUIVALENT AVAILABILITY FACTOR," "FORCED OUTAGE," "MAINTENANCE OUTAGE,"
+"NET DEPENDABLE CAPACITY," "PLANNED OUTAGE," "PLANNED OUTAGE EXTENSION,"
+"SERVICE HOURS" and "UNAVAILABLE", and the associated terms referred to and used
+in the calculation of such terms, shall have the respective meanings assigned to
+such terms in Appendix A.
+
+               "ADJUSTMENT FACTOR" means, with respect to a month, the factor
+        (rounded to four decimal places) obtained from the following:
+
+               (a)    if such month is a Summer Month:
+
+
+<PAGE>
+
+
+<TABLE>
+<CAPTION>
+                      GROUP EAF                            ADJUSTMENT FACTOR
+                      ---------                            -----------------
+<S>                                                        <C>
+                      Greater than or equal to 90%         (100 +[(Group EAF - 90) x
+                                                           2]) /100
+                      Greater than or equal to 70%         (Group EAF + 10)/100
+                         but less than 90%
+                      Greater than or equal to 50% but     (80 + [(Group EAF - 70) x
+                      less than 70%                        4])/100
+                      Less than 50%                        Zero
+</TABLE>
+
+               (b)    if such month is a Non-Summer Month:
+
+<TABLE>
+<CAPTION>
+                      GROUP EAF                            ADJUSTMENT FACTOR
+                      ---------                            -----------------
+<S>                                                        <C>
+                      Greater than or equal to 50%        (Group EAF + 25)/100
+                      Less than 50%                       Zero
+</TABLE>
+
+        provided, however that all outage hours and derating attributable to
+        ComEd transmission system problems, outages or stability load
+        restrictions shall be deemed Available Hours.
+
+               "AFFECTED PARTY" has the meaning specified in Section 15(a).
+
+               "AGC" means Automatic Generation Control.
+
+               "ANCILLARY SERVICES" has the meaning set forth in Section 9.
+
+               "ANNUAL SETTLEMENT AMOUNT," for a Contract Year, means a payment
+        to be made by ComEd to compensate Seller for natural gas costs
+        (commodity only), to the extent that the commodity price of natural gas
+        consumed in generating megawatts at ComEd's request above the Minimum
+        Energy Amount for such Contract Year is greater than $2.52 per MMBTU,
+        after deducting therefrom the amount by which such commodity price is
+        less than $2.52 per MMBTU. Such Annual Settlement Amount shall be
+        calculated as follows:
+
+               ANNUAL SETTLEMENT = SUM{ (DGP - DGC) x CCT x 12,000
+                                  / 1000} for all subsequent days in such
+                                  Contract Year once the Minimum Energy Amount
+                                  for such Contract Year has been met.
+
+               WHERE:
+
+               DGP ($/ MMBTU)    = Daily Gas Price - Chicago City
+                                   Gate Average as reported by Natural Gas
+                                   Institute in their Daily Gas Price Index
+                                   Publication.
+
+               DGC ($ / MMBTU)   = $2.52.
+
+               CCT (MWHr)        = Daily Collins Net Generation
+                                   requested by ComEd (excludes generation sold
+                                   to third parties by Seller).
+
+
+                                       2
+
+<PAGE>
+
+
+               12,000 (BTU / NKWHR)= Collins Station True-up Defined Heat Rate.
+
+
+               "ASSET SALE AGREEMENT" means the Asset Sale Agreement dated as of
+        March 22, 1999, between ComEd and Seller, governing the transfer of the
+        Station from ComEd to Seller.
+
+               "BANKRUPTCY" means any case, action or proceeding under any
+        bankruptcy, reorganization, debt arrangement, insolvency or receivership
+        law or any dissolution or liquidation proceeding commenced by or against
+        a Person and, if such case, action or proceeding is not commenced by
+        such Person, such case or proceeding shall be consented to or acquiesced
+        in by such Person or shall result in an order for relief or shall remain
+        undismissed for 90 days.
+
+               "BUSINESS  DAY" means each weekday  (Monday  through  Friday)
+        except the days on which the  following  holidays  are  observed:
+        New Year's Day, Memorial Day,  Independence Day, Labor Day,
+        Thanksgiving Day and Christmas Day.
+
+               "CHANGE OF LAW" means the adoption, promulgation, modification or
+        reinterpretation of any law, rule, regulation, ordinance, order or other
+        Requirement of Law of any federal, state, county or local government,
+        governmental agency, court, commission, department or other such entity
+        which occurs subsequent to the date of execution of this Agreement but
+        excluding any change in law relating to (i) taxation of net income or
+        (ii) any requirement regarding reduction or control of nitrogen oxide
+        (NOx), carbon dioxide or volatile organic materials under any
+        Requirement of Law.
+
+               "COLD START" means a Successful Start-Up of a Reserved Unit
+        before which such Reserved Unit has been off-line for 48 hours or more.
+
+               "COMED CONTROL AREA" means the ComEd electrical system bounded by
+        interconnection (tie-line) metering and telemetry and wherein ComEd
+        controls generation to maintain the system's interchange schedule with
+        other control areas and contributes to frequency regulation of the
+        interchange.
+
+               "COMED EMS" means the  electronic  hardware  and  software  owned
+        by ComEd and known as the "ComEd Energy Management System."
+
+               "COMED  EVENT OF  DEFAULT"  has the  meaning  specified  in
+        Section 14(b).
+
+               "COMED SYSTEM" the electric  transmission  and  distribution
+        system owned by ComEd and its affiliates.
+
+               "CONFIDENTIAL INFORMATION" has the meaning specified in Section
+        18.
+
+               "CONTRACT YEAR" means, in the case of the First Contract Year,
+        the period beginning on the Effective Date and ending on the day prior
+        to the first anniversary of such beginning date, if the Effective Date
+        is the first day of a calendar month, or ending
+
+
+                                       3
+
+<PAGE>
+
+
+        on the day prior to the first anniversary of the beginning of the
+        month immediately following the Effective Date, if the Effective Date
+        is not the first day of a month; and, in the case of subsequent
+        Contract Years, means the period beginning on the day immediately
+        following the end of the preceding Contract Year and ending on the
+        day prior to the first anniversary of such beginning day. First
+        Contract Year refers to the first such period commencing on the
+        Effective Date; Second Contract Year refers to the second such
+        period; and so on.
+
+               "DEFAULT RATE" means (i) the "Prime Rate" as published from time
+        to time in the "Money Rates" section of THE WALL STREET JOURNAL, plus
+        (ii) 2.5% (250 basis points) per annum.
+
+               "DESIGN LIMITS" means, with respect to a Reserved Unit, the items
+        listed in Appendix B with respect to such Reserved Unit.
+
+               "EFFECTIVE DATE" means December 15, 1999.
+
+               "ELECTRIC ENERGY" has the meaning specified in Section 4(a).
+
+               "EMERGENCY CONDITION" means a condition or situation which (i) in
+        the sole judgment of ComEd (or any ISO) presents an imminent physical
+        threat of danger to life, or significant threat to health or property,
+        (ii) in the sole judgment of ComEd (or any ISO) could cause a
+        significant disruption on or significant damage to the ComEd System (or
+        any material portion thereof) or the transmission system of a third
+        party (or any material portion thereof), (iii) in the sole judgment of
+        Seller could cause significant damage to the equipment that constitutes
+        the Station (or any material portion thereof) or (iv) in the sole
+        judgment of ComEd could cause significant damage to the equipment
+        located in the switchyard associated with the Station (or any material
+        portion of such switchyard).
+
+               "ENERGY CHARGE" means an amount determined under Section 7(a)(ii)
+        in respect of a month.
+
+               "EO" means ComEd's Electric Operations Department.
+
+               "EO GENERATION DISPATCHER" means the Person so designated from
+        time to time by ComEd as contemplated in Appendix D. Notice provisions
+        for the EO Generation Dispatcher are contained in Appendix D.
+
+               "EQUIVALENT AVAILABILITY ADJUSTMENT FACTOR" means, for a Contract
+        Year, one minus the sum of (i) the product of 0.17 multiplied by the
+        number of Summer Months in such Contract Year in which the Equivalent
+        Availability Factor of the Reserved Units is less than 80%, plus (ii)
+        the product of 0.04 multiplied by the number of Non-Summer Months in
+        such Contract Year in which the Equivalent Availability Factor of the
+        Reserved Units is less than 80%. Any adjustment pursuant to the
+        foregoing in respect of a partial month during the First Contract Year
+        (as the result of the Effective Date occurring during a month) shall be
+        prorated by multiplying it by a fraction, the numerator
+
+
+                                       4
+
+<PAGE>
+
+
+        of which is the number of days from the Effective Date through the
+        last day of such month and the denominator of which is the total
+        number of days in such month. For the First Contract Year, only the
+        months of August 2000 through December 2000, if the Equivalent
+        Availability Factor of the Reserved Units is less than 80% for such
+        month, will be used in calculating the Equivalent Availability
+        Adjustment Factor.
+
+               "FERC" means the Federal Energy Regulatory Commission.
+
+               "FORCE MAJEURE EVENT" has the meaning specified in Section 15(a).
+
+               "GOVERNMENTAL ACTION" has the meaning specified in Section 15(a).
+
+               "GROUP" means, with respect to a Contract Year, all of the
+        Reserved Units for such Contract Year.
+
+               "GROUP EAF" means the Equivalent Availability Factor of the
+        Group, subject to the following adjustment and clarifications: (i) to
+        the extent that Seller declares a Substitute Unit to be Available to
+        ComEd for the generation of Electric Energy, the Available generating
+        capacity of such Substitute Unit may be used to offset the Unavailable
+        generating capacity of a Reserved Unit (up to (i) if such calculation is
+        being performed for a Summer Month, 90% of the Net Dependable Capacity
+        of such Reserved Unit as set forth in Appendix B or (ii) if such
+        calculation is being performed for a Non-Summer Month, 75% of the Net
+        Dependable Capacity of such Reserved Unit as set forth in Appendix B)
+        for purposes of calculating Group EAF; (ii) for clarity and the
+        avoidance of doubt, hours attributable to Planned Outages (including
+        extensions), Maintenance Outages (including extensions) and Forced
+        Outages shall be Unavailable hours for the purposes of calculating Group
+        EAF; and (iii) Availability of a Reserved Unit shall be measured on the
+        Station side of the Point of Delivery unless an event on the Station
+        side of the Point of Delivery has caused equipment on the transmission
+        system side of the Point of Delivery to be malfunctional or
+        nonfunctional.
+
+               "HOT START" means a Successful Start-Up of a Reserved Unit before
+        which such Reserved Unit has been off-line for eight hours or less.
+
+               "INTERCONNECTION AGREEMENT" means the Facilities, Interconnection
+        and Easement Agreement dated as of the Effective Date between ComEd and
+        Seller with respect to the Station.
+
+               "ISO" means any Person that becomes responsible under applicable
+        FERC guidelines for the transmission system to which the Station is
+        connected.
+
+               "LENDERS" means (i) any person or entity that, from time to time,
+        has made loans to Seller, its permitted successors or permitted assigns
+        for the financing or refinancing of a Station or which are secured by a
+        Station, (ii) any holder of such indebtedness, (iii) any trustee on
+        behalf of any such holders or (iv) any Person who purchases a Station in
+        connection with a sale-leaseback or other lease arrangement in which the
+        Seller is the lessee of such Station pursuant to a net lease.
+
+
+                                       5
+
+<PAGE>
+
+
+               "LOW LOAD CHARGES" means an amount determined under Section
+        7(a)(iv) in respect of a month.
+
+               "MAIN" means the Mid-America Interconnected Network.
+
+               "MINIMUM LOAD" means the "Minimum Operating Level" for a Reserved
+        Unit (below which it cannot operate in a stable manner) as set forth in
+        Appendix B. Minimum Load for a Reserved Unit shall be measured in net
+        megawatts.
+
+               "MINIMUM ENERGY AMOUNT" means, (a) with respect to the First
+        Contract Year, the product of (i) 2,000,000 megawatt hours, multiplied
+        by (ii) a fraction, the numerator of which is the Reserved Capacity for
+        the First Contract Year and the denominator is 2,698 megawatts and (b)
+        for all subsequent Contract Years, the product of (i) 2,700,000 megawatt
+        hours, multiplied by (ii) a fraction, the numerator of which is the
+        Reserved Capacity for such Contract Year and the denominator is 2,698
+        megawatts.
+
+               "MINIMUM TAKE TRUE-UP" means (i) the product of the Minimum
+        Energy Amount for a Contract Year, multiplied by the Equivalent
+        Availability Adjustment Factor for such Contract Year, multiplied by the
+        megawatt hour charge for such Contract Year, as determined from the
+        table in Section 7(a)(ii), less (ii) the aggregate amounts paid or
+        payable by ComEd to Seller under Section 7(a)(ii) in respect of the
+        months (including, in the case of the First Contract Year, any partial
+        month) constituting such Contract Year.
+
+               "MONTHLY CAPACITY CHARGE" means an amount determined under
+        Section 7(a) in respect of a month.
+
+               "NERC" means the North American Electric Reliability Council.
+
+               "NON-SUMMER MONTH" means any month other than a Summer Month.
+
+               "NON-SUMMER CAPACITY CHARGE" means, with respect to a Non-Summer
+        Month, (i) $1,667 per megawatt-month during the First through Third
+        Contract Years and (ii) $2,083 per megawatt-month during the Fourth and
+        Fifth Contract Years.
+
+               "NON-SUMMER CAPACITY PAYMENT" means, for a Non-Summer Month, the
+        sum of the following calculations for each Reserved Unit during such
+        month: the result of (i) the product (a) the Net Dependable Capacity of
+        such Reserved Unit as determined from Appendix B, multiplied by (b) the
+        Non-Summer Capacity Charge for such month, multiplied by (c) the
+        Adjustment Factor for such month, minus (ii) the Regulation Adjustment
+        for such Reserved Unit for such month.
+
+               "PERSON" means any individual, corporation, partnership, joint
+        venture, limited liability company, association, joint stock company,
+        trust, unincorporated organization, entity, government or other
+        political subdivision.
+
+               "POINT OF DELIVERY" means the point of Electric Energy delivery
+        from the Station to the ComEd System specified in the Interconnection
+        Agreement.
+
+
+                                       6
+
+
+<PAGE>
+
+
+               "PRUDENT UTILITY PRACTICE" means any of the practices, methods
+        and acts required or approved by any ISO or engaged in or approved by a
+        significant portion of the electric utility industry in the United
+        States of America during the relevant time period, or any of the
+        practices, methods and acts which, in the exercise of reasonable
+        judgment in light of the facts known at the time the decision was made,
+        could have been expected to accomplish the desired result at a
+        reasonable cost consistent with good business practices, reliability,
+        safety and expedition. "Prudent Utility Practice" is not intended to be
+        limited to the optimum practice, method or act to the exclusion of all
+        others, but rather to be acceptable practices, methods or acts generally
+        accepted in the United States of America.
+
+               "REGULATION ADJUSTMENT" means, with respect to a Reserved Unit
+        for a given month, (i) if the Adjustment Factor for such Reserved Unit
+        for such month is zero or the Service Hours for such Reserved Unit for
+        such month are less than twenty-four, an amount equal to zero, or (ii)
+        in all other cases, an amount equal to the RPV Adjustment.
+
+               "REQUIREMENT OF LAW" means any foreign, federal, state and local
+        laws, statutes, regulations, rules, codes or ordinances enacted,
+        adopted, issued or promulgated by any federal, state, local or other
+        governmental authority or regulatory body (including those pertaining to
+        electrical, building, zoning, environmental and occupational safety and
+        health requirements) or a tariff filed with any federal, state, local or
+        other governmental authority or regulatory body.
+
+               "RESERVED CAPACITY" means, with respect to a Contract Year, the
+        aggregate Net Dependable Capacity of the Reserved Units (as set forth in
+        Appendix B).
+
+               "RESERVED UNIT" means each, and "RESERVED UNITS" means all, of
+        the generating units of the Station except those units with respect to
+        which this Agreement has been terminated in accordance with Section 13.
+
+               "RAW RPV" means, with respect to a Reserved Unit, its (together
+        with any Substitute Unit substituted for such Reserved Unit) "regulating
+        performance value," which shall be calculated by ComEd EMS on a monthly
+        basis in accordance with the methodology set forth in Appendix G.
+
+               "RPVACT"  means,  with respect to a Reserved Unit for a given
+        month, the product of
+
+               Raw RPV x [(hours on AGC)/(Service Hours - Start-Up Adjustment)]
+
+        For purposes of the foregoing calculation, the term "START-UP
+        ADJUSTMENT" means, with respect to a given month, the sum of : [(2
+        hours) x (the number of Hot Starts in such month)] + [(4 hours) x (the
+        number of Warm Starts in such month)] + [(6 hours) x (the number of Cold
+        Starts in such month)].
+
+               "RPV ADJUSTMENT" means, with respect to a Reserved Unit for a
+        given month, the amount determined from the following:
+
+
+                                       7
+
+<PAGE>
+
+
+<TABLE>
+<CAPTION>
+                                                       RPV ADJUSTMENT
+                                                       --------------
+<S>                                                    <C>
+
+             If (RPVmin - RPVact) is less than zero    [(RPVmin   -   RPVact) x $5,330)]
+             If (RPVmin - RPVact) is zero              zero
+             If (RPVmin - RPVact) is greater
+                   than zero                           [(RPVmin   -   RPVact) x $5,330]
+</TABLE>
+
+        For purposes of the foregoing calculation, the term "RPVMIN" means the
+        "Unit RPV" listed for such Reserved Unit in Appendix B.
+
+               "SELLER'S EVENT OF DEFAULT" has the meaning specified in
+        Section 14(a).
+
+               "START-UP AND SUPPORT CHARGES" means an amount determined under
+        Section 7(a)(iii).
+
+               "STATION" means the Collins generating station being conveyed to
+        Seller pursuant to the Asset Sale Agreement.
+
+               "SUBSTITUTE UNIT" means a generating unit (other than a
+        combustion turbine generating unit or peaker that is subject to a power
+        purchase agreement with ComEd) within the ComEd Control Area which is
+        not a Reserved Unit under this Agreement at the time in question.
+
+               "SUCCESSFUL START-UP" means causing, at the request of ComEd, a
+        generating unit to achieve electrical synchronization with the
+        transmission provider's system to which the Station is interconnected
+        and to maintain at least the Minimum Load for such generating unit for a
+        period of two hours.
+
+               "SUMMER CAPACITY CHARGE" means, with respect to a Summer Month,
+        (i) $6,666 per megawatt-month during the First through Third Contract
+        Years and (ii) $8,333 per megawatt-month during the Fourth and Fifth
+        Contract Years.
+
+               "SUMMER CAPACITY PAYMENT" means, for a Summer Month, the sum of
+        the following calculations for each Reserved Unit during such month: the
+        result of (i) the product of (a) the Net Dependable Capacity of such
+        Reserved Unit, multiplied by (b) the Summer Capacity Charge for such
+        month, multiplied by (c) the Adjustment Factor for such month, minus
+        (ii) the Regulation Adjustment for such Reserved Unit for such month.
+
+               "SUMMER MONTH" means each of June, July, August and September.
+
+               "SUMMER PERIOD" means the period from May 15 through September 15
+        or, if the Effective Date or the Termination Date falls from May 15
+        through September 15 of a given year, then for the resulting shorter
+        period for such year.
+
+               "TERM" has the meaning specified in Section 2.
+
+
+                                       8
+
+<PAGE>
+
+
+               "TERMINATION DATE" means the earlier of (i) the day immediately
+        preceding the fifth anniversary of the Effective Date if the Effective
+        Date is the first day of a month and otherwise the day immediately
+        preceding the fifth anniversary of the first day of the month
+        immediately following the Effective Date and (ii) the date on which this
+        Agreement is terminated by a Party pursuant to its terms.
+
+               "WARM START" means a Successful Start-Up of a Reserved Unit
+        before which such Reserved Unit has been off-line for more than eight
+        hours, but less than 48 hours.
+
+               (b) INTERPRETATION. In this Agreement, unless a clear contrary
+intention appears:
+
+               (i)    the singular includes the plural and vice versa;
+
+               (ii)   reference to any Person includes such Person's successors
+        and assigns but, in the case of a Party, only if such successors and
+        assigns are permitted by this Agreement, and reference to a Person in a
+        particular capacity excludes such Person in any other capacity or
+        individually;
+
+               (iii)  reference to any gender includes each other gender;
+
+               (iv)   reference to any agreement (including this Agreement),
+        document, instrument or tariff means such agreement, document,
+        instrument or tariff as amended or modified and in effect from time to
+        time in accordance with the terms thereof and, if applicable, the terms
+        hereof;
+
+               (v)    reference to any Requirement of Law means such
+        Requirement of Law as amended, modified, codified or reenacted, in
+        whole or in part, and in effect from time to time, including, if
+        applicable, rules and regulations promulgated thereunder;
+
+               (vi)   reference to any Section or Appendix means such Section of
+        this Agreement or such Appendix to this Agreement, as the case may be,
+        and references in any Section or definition to any clause means such
+        clause of such Section or definition;
+
+               (vii)  "hereunder", "hereof", "hereto" and words of similar
+        import shall be deemed references to this Agreement as a whole and
+        not to any particular Section or other provision hereof or thereof;
+
+               (viii) "including" (and with correlative meaning "include") means
+        including without limiting the generality of any description preceding
+        such term; and
+
+               (ix)   relative to the determination of any period of time,
+        "from" means "from and including", "to" means "to but excluding" and
+        "through" means "through and including".
+
+               (c) LEGAL REPRESENTATION OF PARTIES. This Agreement was
+negotiated by the Parties with the benefit of legal representation and any
+rule of construction or interpretation
+
+
+                                       9
+
+<PAGE>
+
+
+otherwise requiring this Agreement to be construed or interpreted against any
+Party shall not apply to any construction or interpretation hereof or thereof.
+
+               (d) TITLES AND HEADINGS. Section and Appendix titles and
+headings in this Agreement are inserted for convenience of reference only and
+are not intended to be a part of, or to affect the meaning or interpretation
+of, this Agreement.
+
+2.      TERM
+
+               This Agreement shall have a term (the "TERM") commencing on
+the Effective Date and ending on the Termination Date. The provisions of
+Sections 6(e) (Fuel Source and Emissions Reports), 6(f) (Records), 10
+(Limitation of Liability), 11 (Disagreements), 14 (Default, Termination and
+Remedies), and 16 (Indemnification) shall survive the termination of this
+Agreement.
+
+3.      GENERATING CAPACITY
+
+               Subject to the terms and conditions of this Agreement, Seller
+shall, consistent with Prudent Utility Practice, cause the aggregate Net
+Dependable Capacity of the Reserved Units during a Contract Year to be not
+less than the Reserved Capacity for such Contract Year.
+
+4.      ELECTRIC ENERGY SUPPLY
+
+               (a) CHARACTER. All electric energy which Seller shall sell and
+deliver to ComEd from a Reserved Unit (or a Substitute Unit) hereunder (such
+electric energy being referred to herein as the "ELECTRIC ENERGY") shall be
+consistent with the requirements of Section 5.7 of the Interconnection
+Agreement.
+
+               (b) SUPPLY. Subject to the terms and conditions of this
+Agreement, Seller shall make available at the Point of Delivery to ComEd for
+delivery and sale, and ComEd may receive and purchase from Seller, Electric
+Energy. If a Reserved Unit is not Available, Seller may use a Substitute Unit
+to fulfil such obligation; PROVIDED, HOWEVER, that (i) if such Substitute
+Unit is not located within the Station, Seller shall be responsible for
+arranging transmission service for delivery to the Station from such
+Substitute Unit and (ii) such Substitute Unit shall have an RPVmin not less
+than the Unavailable Reserved Unit. ComEd shall not be obligated to receive
+or purchase any Electric Energy from Seller except such Electric Energy as is
+dispatched by ComEd pursuant to Section 4(c).
+
+               (c) DISPATCH. ComEd may dispatch the delivery of Electric
+Energy from each Reserved Unit (or Substitute Unit) in accordance with the
+provisions set forth in Appendix D at a rate up to such Reserved Unit's Net
+Dependable Capacity as set forth in Appendix B or such Substitute Unit's Net
+Dependable Capacity, as the case may be (or such greater or lesser rate as
+Seller may from time to time declare to be Available in accordance with
+Section 3 of Appendix D), at any time when such Reserved Unit is so declared
+by Seller to be Available.
+
+               (d) ENERGY IMBALANCE. ComEd shall hold Seller harmless from any
+energy imbalance charges that result from ComEd's dispatch orders under this
+Agreement.
+
+                                      10
+
+<PAGE>
+
+5.      METERING; BILLING; PAYMENT
+
+               (a) METERING. All Electric Energy delivered by Seller to ComEd
+from the Station under this Agreement shall be metered at billing meter
+installations provided, installed, owned, maintained and tested as provided
+in Section 5.18 of the Interconnection Agreement. At Sellers option and
+expense, back-up meters and associated metering equipment independent of the
+Metering Equipment may be installed at the Station; and such back-up meters
+and metering equipment shall be used in accordance with the practices and
+procedures established by the Parties for billing adjustments of discovered
+billing meter inaccuracies. Any such back-up meters may be tested by ComEd at
+Seller's expense, and any inaccuracies shall be handled as provided in
+Section 5.18 of the Interconnection Agreement. All Electric Energy delivered
+by Seller to ComEd from a Substitute Unit not located at the Station shall be
+metered at billing meter installations provided, installed, owned, maintained
+and tested by ComEd, if available, and otherwise at the billing meter
+installation available at the site where the Substitute Unit is located. In
+the event that ComEd's billing meters are not in service, ComEd will use
+meter information from the meters it uses for dispatch for the period that
+the billing meters are unavailable and provide the information to Seller. As
+soon as practicable but in any event no later than five Business Days after
+the end of each calendar month, ComEd shall provide Seller with information
+from the billing meter installations owned or controlled by ComEd for
+Seller's use in preparing billing statements and Seller shall have the right
+to witness such meter readings and testing.
+
+               (b) METER INACCURACIES. ComEd shall provide to Seller copies
+of all routine meter calibration test results. If any test of the billing
+meters by ComEd or Seller discloses an inaccuracy of more than 0.5% fast or
+0.5% slow, then a billing adjustment shall be made to correct for the
+inaccuracy. For purpose of the billing adjustment, if the inaccuracy is
+traceable to a specific event or occurrence at a reasonably ascertainable
+time, then the adjustment shall extend back to that time; otherwise, it shall
+be assumed that the error has existed for a period equal to one-half of the
+time elapsed since the meter was installed or one-half of the time since the
+last meter test, whichever is later. At any metering location, should the
+billing meter at any time fail to register, the delivered Electric Energy
+shall be determined by ComEd from the best available data, unless Seller
+objects within 30 days. Such disagreements shall be resolved pursuant to
+Section 11.
+
+               (c) BILLING. As soon as practicable after the end of each
+calendar month during the Term and after the Termination Date, Seller shall
+render a statement to ComEd for the amounts due in respect of such month
+under Section 7, which statement shall contain reasonable detail showing the
+manner in which the Monthly Capacity Charge, Energy Charge, Start-Up and
+Support Charges, Low Load Charges and any Minimum Take True-Up were
+determined.
+
+               Billings for Electric Energy shall be based on ComEd revenue
+quality meter information or, if such meters are not yet in service, on
+information from the meters that ComEd uses for dispatch. The amount due to
+Seller as shown on any such monthly statement rendered by Seller shall be
+paid by ComEd within fifteen Business Days after the date such statement is
+rendered to ComEd by electronic means to an account specified by Seller. Any
+amount not paid when due shall bear interest from the due date until paid at
+the Default Rate.
+
+
+                                      11
+
+
+<PAGE>
+
+               (d)    BILLING DISPUTES.
+
+               (i)    If ComEd questions or contests the amount of any amount
+        claimed by Seller to be due under Section 7 of this Agreement, ComEd
+        shall make such payment under protest and thereafter shall be reimbursed
+        by Seller for any amount in error after resolution of the dispute in
+        accordance with Section 5(d)(ii).
+
+               (ii)   In the event that ComEd, by timely notice to Seller,
+        questions or contests the correctness of any charge or payment claimed
+        to be due by Seller, Seller shall promptly review the questioned charge
+        or payment and shall notify ComEd, within fifteen Business Days
+        following receipt by Seller of such notice from ComEd, of the amount of
+        any error and the amount of any reimbursement that ComEd is entitled to
+        receive in respect of such alleged error. Any disputes not resolved
+        within fifteen Business Days after Seller's receipt of notice from ComEd
+        shall be resolved in accordance with Section 11. Upon determination of
+        the correct amount of any reimbursement, such amount shall be promptly
+        paid by Seller.
+
+               (iii)  Reimbursements made by Seller to ComEd under this Section
+        5(d) shall include interest from the date the original payment was made
+        until the date such reimbursement together with interest is made, which
+        interest shall accrue at the Default Rate.
+
+               (e)    ANNUAL SETTLEMENT AMOUNT PAYMENT.
+
+               ComEd shall pay Seller within thirty days after the end of each
+        Contract Year the Annual Settlement Amount for such Contract Year,
+        PROVIDED ComEd has received from Seller a calculation of such Annual
+        Settlement Amount at least fifteen (15) days before its due date. Seller
+        shall provide a schedule indicating actual natural gas costs (commodity
+        only) incurred by it during such Contract Year versus $2.52 per MMBTU
+        and calculating the Annual Settlement Payment, if any, due.
+
+6.      OPERATION OF RESERVED UNITS
+
+               (a) STANDARD OF OPERATION. Consistent with Prudent Utility
+Practice, Seller shall operate each Reserved Unit in accordance with (i) the
+applicable practices, methods, acts, guidelines, standards and criteria of
+MAIN, NERC, any ISO and any successors to the functions thereof; (ii) the
+requirements of the Interconnection Agreement; and (iii) all applicable
+Requirements of Law. Seller will maintain all certifications, permits,
+licenses and approvals necessary to operate and maintain each Reserved Unit
+and to perform its obligations under this Agreement during the Term.
+
+               (b)    ELECTRIC ENERGY GENERATION.
+
+               (i)    During a Contract Year, ComEd shall have the right to
+        receive and purchase Electric Energy represented by the Reserved
+        Capacity of each Reserved Unit for such Contract Year. To the extent
+        that ComEd has not dispatched the full Reserved
+
+                                      12
+
+<PAGE>
+
+        Capacity of the Reserved Units, Seller may sell the electric energy
+        represented by such undispatched Reserved Capacity to third parties
+        subject to the following requirements:
+
+               (w) if such undispatched Reserved Capacity relates to a Reserved
+        Unit which:
+
+                      (i)   has been synchronized to the ComEd System and is
+               delivering Electric Energy at the request of ComEd, the EO
+               Generation Dispatcher must have released such undispatched
+               capacity to Seller and any sales of electric energy from such
+               capacity shall be cancelable by Seller upon not more than ten
+               minutes notice through GCM from the EO Generation Dispatcher;
+
+                      (ii)  is off-line at the request of the EO Generation
+               Dispatcher and is operating in a two-hour start-up standby mode
+               at the request of ComEd, then any sales of electric energy from
+               such undispatched capacity shall be cancelable by Seller upon not
+               more than two hours notice through GCM from the EO Generation
+               Dispatcher;
+
+                      (iii) is off-line at the request of the EO Generation
+               Dispatcher and is operating in an eight-hour start-up standby
+               mode at the request of ComEd, then any sales of electric energy
+               from such undispatched capacity shall be cancelable by Seller
+               upon not more than eight hours notice through GCM from the EO
+               Generation Dispatcher; or
+
+                      (iv)  is off-line at the request of the EO Generation
+               Dispatcher and is not operating in a start-up standby mode at the
+               request of ComEd, then any sales of electric energy from such
+               undispatched capacity shall be cancelable by Seller upon not more
+               than twenty-four hours notice through GCM from the EO Generation
+               Dispatcher.
+
+               (x) Seller shall be responsible for arranging transmission
+        service for any deliveries of electric energy contemplated by any such
+        sales to third parties (it being understood that this Agreement does not
+        grant any rights of access to, or use of, any transmission service);
+
+               (y) the delivery of electric energy contemplated by any such
+        sales to third parties shall be in accordance with the provisions of the
+        Interconnection Agreement; and
+
+               (z) Seller shall schedule the sale of any energy so released
+        through EO and shall respond to any recall of such energy by EO within
+        the applicable time period specified in Section 6(b)(i)(w).
+
+               (i) No sales of electric energy shall be made to any Person from
+        a Reserved Unit (or any portion thereof) declared by Seller to be
+        Unavailable.
+
+               (ii) In the event that a Reserved Unit shall have electric
+        generation capacity in excess of its Net Dependable Capacity set forth
+        in Appendix B, Seller may offer and sell such capacity and associated
+        electric energy to third parties on such terms as Seller shall
+
+
+                                      13
+
+<PAGE>
+
+
+        determine in its sole discretion. Seller shall be responsible for
+        arranging transmission service for any deliveries of electric energy
+        contemplated by any such sales to third parties (it being understood
+        that this Agreement does not grant any rights of access to, or use of,
+        any transmission service); and the delivery of electric energy
+        contemplated by any such sales to third parties shall be in accordance
+        with the provisions of the Interconnection Agreement. It is further
+        understood that, in the event that any such sales to third parties
+        shall be made and there shall be a derating in the associated Reserved
+        Unit, such sales shall be curtailed in full before any curtailment of
+        Electric Energy dispatched by ComEd from such Reserved Unit as a result
+        of such derating.
+
+               (iii) Seller may not sell Ancillary Services with respect to any
+        undispatched Reserved Capacity referred to in Section 6(b)(i) or with
+        respect to any excess capacity referred to in Section 6(b)(ii).
+
+               (c)    Outages
+
+               (i)   PLANNED OUTAGES. On or prior to the Effective Date, Seller
+shall submit to ComEd a proposed schedule of Planned Outages (including
+Planned Deratings) scheduled by Seller for the following three Contract Years
+for the Reserved Units at the Station, which schedule shall be supplemented
+by Seller every six months following the Effective Date by notice to the EO
+Generation Dispatcher to extend the period covered by such schedule by six
+months; PROVIDED, HOWEVER, that no Planned Outage may be scheduled to cover
+any portion of a Summer Period. Such schedule, and each supplement thereto,
+shall indicate the planned start and completion dates for each Planned Outage
+shown during the period covered thereby and the amount of generating capacity
+that will be affected. Within sixty days of receipt of such schedule or any
+supplement thereto, ComEd may request reasonable modifications therein.
+Seller and ComEd shall work together to schedule Planned Outages to meet
+their mutual requirements; however, it is understood that in the event of a
+disagreement on such scheduling, ComEd will have the right to resolve such
+disagreements as it reasonably determines to be appropriate in accordance
+with Prudent Utility Practice. In addition, ComEd may at any time request,
+and Seller shall make, changes to such schedule or any such supplement if
+ComEd deems such changes to be necessary, PROVIDED THAT, Seller shall not be
+required in connection with any such change to split a single Planned Outage
+into more than one outage or to reduce the duration of a Planned Outage;
+PROVIDED FURTHER that, except for changes requested during the first six
+months of the Term, such changes do not affect any Planned Outages during the
+six months immediately following Seller's receipt of such request; and
+PROVIDED FURTHER, that if Seller reasonably incurs increased costs as a
+result of ComEd's request to reschedule a Planned Outage, ComEd shall
+reimburse Seller for the actual, documented increased out-of-pocket costs. At
+least one week prior to any Planned Outage, Seller shall orally notify the EO
+Generation Dispatcher of the expected start date of such Planned Outage, the
+amount of generating capacity at the Reserved Units which will not be
+available to ComEd during such Planned Outage, and the expected completion
+date of such Planned Outage. Seller shall orally notify the EO Generation
+Dispatcher promptly of any subsequent changes in such generating capacity not
+available or any subsequent changes in the Planned Outage completion date. As
+soon as practicable, all such oral notifications shall be confirmed in
+writing.
+
+
+                                      14
+
+<PAGE>
+
+
+               (ii)  MAINTENANCE OUTAGES. To the extent that during any
+Contract Year Seller needs to schedule a Maintenance Outage, Seller shall
+notify the EO Generation Dispatcher of such outage and shall plan such outage
+of generating capacity and use reasonable efforts to accommodate the
+requirements and service obligations of ComEd. Notice of a proposed
+Maintenance Outage shall include the expected start date of the outage, the
+amount of unavailable generating capacity of the Reserved Units and the
+expected completion date of the outage, and shall be given to ComEd at the
+time the need for the outage is determined by Seller. ComEd shall promptly
+respond to such notice and may request reasonable modifications in the
+schedule for the outage to accommodate the requirements and service
+obligations of ComEd. Seller shall use reasonable efforts to comply with such
+requested modifications and shall, if requested by ComEd, reschedule its
+Maintenance Outages, PROVIDED THAT it may do so in accordance with Prudent
+Utility Practice. Seller shall notify the EO Generation Dispatcher promptly
+of any subsequent changes in such generating capacity not available to ComEd
+or any subsequent changes in such outage completion date. As soon as
+practicable, any such notifications given orally shall be confirmed in
+writing.
+
+               (iii) FORCED OUTAGES. Seller shall provide to the EO
+Generation Dispatcher immediately an oral report of any Forced Outage
+(including Forced Deratings) of the Reserved Units, which report shall
+include the amount of generating capacity at the Reserved Units unavailable
+because of such Forced Outage and the expected return date of such generating
+capacity, and shall update such report by notice to the EO Generation
+Dispatcher promptly as necessary to advise ComEd of changed circumstances. As
+soon as practicable, all such oral reports shall be confirmed in writing.
+
+               (iv)  INFORMATION RELATED TO OUTAGES. In addition to the
+foregoing, Seller shall provide to the EO Generation Dispatcher information
+relating to outages of generating capacity at the Station which would affect
+Seller's ability to deliver Electric Energy from any Reserved Unit.
+
+               (d)   OPERATING CHARACTERISTICS. The operating characteristics
+of each Reserved Unit shall be consistent with the Design Limits for such
+Reserved Unit set forth in Appendix B unless otherwise mutually agreed by the
+Parties. Any changes to such operating characteristics which may affect the
+delivery of Electric Energy pursuant to this Agreement must be agreed by the
+Parties. Seller shall reduce, curtail or interrupt electrical generation at
+the Station in accordance with Prudent Utility Practice or take other
+appropriate action in accordance with the applicable provisions of the
+Interconnection Agreement which in the reasonable judgment of ComEd may be
+necessary to operate, maintain and protect the ComEd System or the
+transmission system of another utility during an Emergency Condition or in
+the reasonable judgment of Seller may be necessary to operate, maintain and
+protect the equipment at the Station during an Emergency Condition.
+
+               (e)   FUEL SOURCE AND EMISSIONS REPORTS. Seller shall provide
+ComEd with information concerning Seller's fuel sources and emissions
+(including carbon dioxide, nitrous oxides and sulfur dioxide emissions) as
+reasonably requested by ComEd in order to allow ComEd to meet its statutory
+reporting obligations (including those reporting obligations imposed by
+Section 16-127 of the Illinois Public Utilities Act and associated rules of
+the Illinois
+
+
+                                      15
+
+<PAGE>
+
+Commerce Commission) in respect of such information to governmental bodies,
+customers or other Persons.
+
+               (f)   RECORDS. Each Party shall keep and maintain all records
+as may be necessary or useful in performing or verifying any calculations or
+charges made pursuant to this Agreement, or in verifying such Party's
+performance hereunder. All such records shall be retained by each Party for
+at least three calendar years following the calendar year in which such
+records were created. Each Party shall make such records available to the
+other Party for inspection and copying at the other Party's expense, upon
+reasonable notice during such Party's regular business hours. Each Party and
+its agents, including auditors, shall have the right, upon thirty days
+written notice prior to the end of an applicable three calendar year period
+to request copies of such records. Each Party shall provide such copies, at
+the other Party's expense, within thirty days of receipt of such notice or
+shall make such records available to the other Party and its agents,
+including auditors, in accordance with the foregoing provisions of this
+Section.
+
+7.      COMPENSATION
+
+               (a)   MONTHLY CHARGES. ComEd shall pay to Seller, in respect
+of each calendar month during the Term, the following amounts:
+
+               (i)   MONTHLY CAPACITY CHARGE. A Monthly Capacity Charge equal
+to the Summer Capacity Payment, if such month is a Summer Month, or the
+Non-Summer Capacity Payment, if such month is a Non-Summer Month; PROVIDED,
+HOWEVER, if the first month of the First Contract Year is a partial month (as
+a result of the Effective Date occurring during a month), the amount payable
+under this Section 7(a)(i) in respect of such partial month shall be prorated
+by multiplying it by a fraction, the numerator of which is the number of days
+from the Effective Date through the last day of such month and the
+denominator of which is the total number of days in such month.
+
+               (ii)   ENERGY CHARGE. An amount equal to the product of (x)
+the Electric Energy (expressed in megawatt hours) sold to ComEd under this
+Agreement during such month, multiplied by (y) the megawatt hour charge
+applicable to such Electric Energy as determined from the following table:
+
+<TABLE>
+<CAPTION>
+
+                       ENERGY CHARGE
+           =======================================
+             Contract          ($/Megawatt Hour)
+               Year
+<S>                             <C>
+                1                    $30
+                2                     31
+                3                     32
+                4                     33
+                5                     34
+</TABLE>
+
+               (iii)  START UP AND  SUPPORT  CHARGES.  an  amount  equal to
+the sum of:
+
+
+                                      16
+
+<PAGE>
+
+                      (1) the product of (x) the number of Cold Starts for each
+               Reserved Unit during such month, multiplied by (y) $10,700, plus
+
+                      (2) the product of (x) the number of Warm Starts for each
+               Reserved Unit during such month, multiplied by (y) $7,500, plus
+
+                      (3) the product of (x) the number of Hot Starts for each
+               Reserved Unit during such month, multiplied by (y) $3,700, plus
+
+                      (4) the product of (x) the number of hours (if any) during
+               such month that a Reserved Unit was operated in the two-hour
+               start-up standby mode at the request of ComEd, multiplied by (y)
+               a fraction, the numerator of which is $30,000 and the denominator
+               of which is 24, plus.
+
+                      (5) the product of (x) the number of hours (if any) during
+               such month that a Reserved Unit was operated in the eight-hour
+               start-up standby mode at the request of ComEd, multiplied by (y)
+               a fraction, the numerator of which is $15,000 and the denominator
+               of which is 24.
+
+               (iv) LOW LOAD CHARGES. An amount equal to the sum of the
+following calculations for each Reserved Unit during such month: the product
+of (1) the number of megawatt hours (if any) during such month that such
+Reserved Unit was operated at the request of ComEd within the range set forth
+opposite such Reserved Unit in the following table and (2) the Low Load
+Charge set forth opposite such Reserved Unit in such table; PROVIDED,
+HOWEVER, that no Low Load Charge shall be due if, due to a derating (not
+directed by ComEd), the Reserved Unit is unable to operate above the Low Load
+Range specified in the table below.
+
+<TABLE>
+<CAPTION>
+               ---------------------------------------------------------------
+                    GENERATING UNIT    LOAD RANGE        LOW LOAD CHARGE
+                                        (NET MWS)     ($ PER MEGAWATT-HOUR)
+               ---------------------------------------------------------------
+<S>                                    <C>            <C>
+               Unit 1                  44-78                  $15
+               ---------------------------------------------------------------
+               Unit 2                  42-78                   15
+               ---------------------------------------------------------------
+               Unit 3                  24chi45                 40
+                                       45chi79                 10
+               ---------------------------------------------------------------
+               Unit 4                  25chi45                 40
+                                       45chi79                 10
+               ---------------------------------------------------------------
+               Unit 5                  25chi45                 40
+                                       45chi79                 10
+               ---------------------------------------------------------------
+</TABLE>
+
+               (v) ANCILLARY SERVICES. There shall not be any additional charges
+payable by ComEd or otherwise in respect of the Ancillary Services described in
+Section 9.
+
+               (b) MINIMUM TAKE TRUE-UP. The amount otherwise payable under
+Section 7(a)(ii) in respect of the last month of a Contract Year shall be
+subject to upward adjustment to reflect the Minimum Take True-Up, if any.
+
+
+                                      17
+
+<PAGE>
+
+               (c) ANNUAL SETTLEMENT AMOUNT. ComEd shall pay to Seller, with
+respect to each Contract Year, the Annual Settlement Amount, if any, for such
+Contract Year.
+
+               (d) AGREED UPON ADJUSTMENTS. Seller will reduce ComEd's monthly
+charges by $1,062,500 for each of the four months September 2000 through
+December 2000.
+
+8.      TESTING
+
+               Capability evaluations of the Reserved Units may be conducted by
+ComEd at reasonable intervals. Such evaluations shall consist of a period of one
+hour during which ComEd may request the Net Dependable Capacity of a Reserved
+Unit to generate Electric Energy for delivery to the ComEd System. Once a test
+period has been initiated, it must last one hour unless ComEd and the Station
+general manager mutually agree to a shorter duration. In addition, ComEd may
+request not more than once per Contract Year that a Reserved Unit undergo a
+generating test as specified in Guide No. 3A of MAIN (a copy of which is
+attached as Appendix C). No tests will be conducted or continued which, in the
+opinion of Seller, should not be conducted or continued in accordance with
+Prudent Utility Practice. If Seller prevents or discontinues a test in
+accordance with Prudent Utility Practice, ComEd shall have the right to retest
+the affected Reserved Unit upon prior notice to Seller. Seller shall have the
+right to retest any Reserved Unit after the failure of any test performed at the
+request of ComEd pursuant to this Section 8.
+
+9.      ANCILLARY SERVICES
+
+               As directed by ComEd, Seller shall provide the following
+additional services (the "ANCILLARY SERVICES") with respect to the Reserved
+Capacity (subject to any sale(s) of electric energy made by Seller to third
+parties to the extent permitted under Section 6(b)(i) or (ii)):
+
+               (a) Reactive supply and voltage control from generation sources
+               (b) Regulation and frequency response
+               (c) Operating reserve - spinning
+               (d) Operating reserve - supplemental
+
+The requirements of these services shall be as stated in ComEd's Open Access
+Transmission Tariff as filed with FERC, and any other Requirements of Laws
+and any requirements of MAIN, NERC, any ISO and any successors to the
+functions thereof.
+
+10.     LIMITATION OF LIABILITY
+
+               In no event or under any circumstances shall either Party
+(including such Party's affiliates and such Party's and such affiliates'
+respective directors, officers, employees and agents) be liable to the other
+Party (including such Party's affiliates and such Party's and such affiliate's
+respective directors, officers, employees and agents) for any special,
+incidental, exemplary, indirect, punitive or consequential damages or damages in
+the nature of lost profits, whether such loss is based on contract, warranty or
+tort (including intentional acts, errors or omissions, negligence, indemnity,
+strict liability or otherwise). A Party's liability under this
+
+
+                                      18
+
+<PAGE>
+
+
+Agreement shall be limited to direct, actual damages, and all other damages
+at law or in equity are waived.
+
+               Notwithstanding  the  foregoing  provisions  of this  Section
+or any other Section hereof, if
+
+               (i) ComEd dispatches the delivery of Electric Energy from a
+        Reserved Unit in accordance with the provisions hereof (other than
+        during a ComEd Event of Default under Section 14(b)(i)) and Seller fails
+        to provide all of the Electric Energy so dispatched by ComEd, or
+
+               (ii) if Seller fails to declare a Reserved Unit Available at its
+        Net Dependable Capacity,
+
+and, during such failure, Seller sells or provides electric energy from the
+Reserved Unit to any Person other than ComEd (including Seller but excluding
+provision or use of electric energy by Seller solely for use at the Station),
+ComEd shall, in addition to any rights it has to an adjustment of payments
+otherwise due hereunder or to terminate this Agreement, be entitled to
+reimbursement by Seller for all of ComEd's out-of-pocket costs related to or
+resulting from such failure by Seller, including:
+
+               (w) the costs to purchase and transmit electric energy in
+        substitution for the subject Electric Energy to the extent such costs
+        exceed the costs that would have been due hereunder had, in the case of
+        a failure under clause (i) above, Seller provided the Electric Energy
+        dispatched by ComEd, or the costs to purchase and transmit electric
+        energy in substitution for the Net Dependable Capacity (as set forth in
+        Appendix B) from the subject Reserved Unit to the extent such costs
+        exceed the costs that would have been due hereunder had, in the case of
+        a failure under clause (ii) above, Seller declared such Reserved Unit
+        Available and ComEd had dispatched Electric Energy from such Reserved
+        Unit in each case in an amount inclusive of the electric energy sold to
+        such Person;
+
+               (x) any and all amounts paid (whether in the form of cash
+        payments, bill credits, tariff adjustments or otherwise) by ComEd to its
+        customers pursuant to statute, tariff, order of a tribunal of competent
+        jurisdiction or other Requirement of Law because ComEd was unable to
+        provide electric energy to any of its customers to the extent that all
+        or any part of such inability could reasonably have been expected to
+        have been avoided absent such failure by Seller;
+
+               (y) attorneys', consultants' and witnesses' fees incurred by
+        ComEd in connection with a regulatory or judicial investigation or
+        proceeding of any kind related to or resulting from an inability of
+        ComEd to provide electric energy to any of its customers to the extent
+        that all or any part of such inability could reasonably have been
+        expected to have been avoided absent such failure by Seller; and
+
+               (z) any other amounts owed to third parties because of ComEd's
+        inability to deliver electric energy if all or any part of such
+        inability could reasonably have been expected to have been avoided
+        absent such failure by Seller.
+
+
+                                      19
+
+<PAGE>
+
+
+In addition, if ComEd is unable to provide electric energy to any customer or
+third party and all or part of such inability could reasonably have been
+expected to have been avoided absent such failure by Seller, ComEd will
+suffer significant damages in addition to its out-of-pocket costs, the
+quantification of which is difficult to ascertain. Accordingly, if ComEd is
+unable to provide electric energy to any customer or third party and all or
+any part such inability could reasonably have been expected to have been
+avoided absent such failure by Seller, and, during such failure by Seller,
+Seller sells or provides electric energy from the subject Reserved Unit to
+any Person other than ComEd (including Seller but excluding provision or use
+of electric energy by Seller solely for use at the Station), Seller shall pay
+for each occurrence, in addition to the out-of-pocket costs described above,
+liquidated damages to ComEd in the amount of $25,000 for each megawatt of Net
+Dependable Capacity (as set forth in Appendix B) for the relevant Reserved
+Unit.
+
+11.     DISAGREEMENTS
+
+               (a) ADMINISTRATIVE COMMITTEE PROCEDURE. Except to the extent
+otherwise provided in Section 5(d), if any disagreement arises on matters
+concerning this Agreement, the disagreement shall be referred to one
+representative of each Party, who shall attempt to timely resolve the
+disagreement. If such representatives can resolve the disagreement, such
+resolution shall be reported in writing to and shall be binding upon the
+Parties. If such representatives cannot resolve the disagreement within a
+reasonable time, or a Party fails to appoint a representative within 10 days of
+written notice of the existence of a disagreement, then the matter shall proceed
+to arbitration as provided in Section 11(b).
+
+               (b) ARBITRATION. If pursuant to Section 11(a), the Parties are
+unable to resolve a disagreement arising on a matter pertaining to this
+Agreement, such disagreement shall be settled by arbitration in Chicago,
+Illinois. The arbitration shall be governed by the United States Arbitration
+Act (9 U.S.C. Section 1 ET SEQ.), and any award issued pursuant to such
+arbitration may be enforced in any court of competent jurisdiction. This
+agreement to arbitrate and any other agreement or consent to arbitrate
+entered into in accordance herewith will be specifically enforceable under
+the prevailing arbitration law of any court having jurisdiction. Notice of
+demand for arbitration must be filed in writing with the other Party to this
+Agreement. Arbitration shall be conducted as follows:
+
+               (i)   Either Party may give the other Party written notice in
+        sufficient detail of the disagreement and the specific provision of this
+        Agreement under which the disagreement arose. The demand for arbitration
+        must be made within a reasonable time after the disagreement has arisen.
+        In no event may the demand for arbitration be made if the institution of
+        legal or equitable proceedings based on such disagreement is barred by
+        the applicable statute of limitations. Any arbitration related to this
+        Agreement may be consolidated with any other arbitration proceedings
+        related to this Agreement.
+
+               (ii)  The Parties shall attempt to agree on a person with special
+        knowledge and expertise with respect to the matter at issue to serve as
+        arbitrator. If the Parties cannot agree on an arbitrator within ten
+        days, each shall then appoint one person to serve as an arbitrator and
+        the two thus appointed shall select a third arbitrator with such special
+        knowledge and expertise to serve as Chairman of the panel of
+        arbitrators; and such three
+
+
+                                      20
+<PAGE>
+
+        arbitrators shall determine all matters by majority vote; PROVIDED
+        HOWEVER, if the two arbitrators appointed by the Parties are unable to
+        agree upon the appointment of the third arbitrator within five days
+        after their appointment, both shall give written notice of such failure
+        to agree to the Parties, and, if the Parties fail to agree upon the
+        selection of such third arbitrator within five days thereafter, then
+        either of the Parties upon written notice to the other may require
+        appointment from, and pursuant to the rules of, the Chicago office of
+        the American Arbitration Association for commercial arbitration. Prior
+        to appointment, each arbitrator shall agree to conduct such arbitration
+        in accordance with the terms of this Agreement.
+
+               (iii) The Parties shall have sixty days from the appointment of
+        the arbitrator(s) to perform discovery and present evidence and argument
+        to the arbitrator(s). During that period, the arbitrator(s) shall be
+        available to receive and consider all such evidence as is relevant and,
+        within reasonable limits due to the restricted time period, to hear as
+        much argument as is feasible, giving a fair allocation of time to each
+        Party to the arbitration. The arbitrator(s) shall use all reasonable
+        means to expedite discovery and to sanction noncompliance with
+        reasonable discovery requests or any discovery order. The arbitrator(s)
+        shall not consider any evidence or argument not presented during such
+        period and shall not extend such period except by the written consent of
+        both Parties. At the conclusion of such period, the arbitrator(s) shall
+        have forty-five calendar days to reach a determination. To the extent
+        not in conflict with the procedures set forth herein, which shall
+        govern, such arbitration shall be held in accordance with the prevailing
+        rules of the Chicago office of the American Arbitration Association for
+        commercial arbitration.
+
+               (iv)  The arbitrator(s) shall have the right only to interpret
+        and apply the terms and conditions of this Agreement and to order any
+        remedy allowed by this Agreement, but may not change any term or
+        condition of this Agreement, deprive either Party or any right or
+        remedy expressly provided hereunder, or provide any right or remedy
+        that has been expressly excluded hereunder.
+
+               (v)   The arbitrator(s) shall give a written decision to the
+        Parties stating their findings of fact and conclusions of law, and shall
+        furnish to each Party a copy thereof signed by him (them) within five
+        calendar days from the date of their determination. The arbitrator's(s')
+        decision shall be final and binding upon the Parties.
+
+               (vi)  Each Party shall pay the cost of the arbitrator(s) with
+        respect to those issues as to which they do not prevail, as determined
+        by the arbitrator(s).
+
+               (c)   OBLIGATIONS TO PAY CHARGES AND PERFORM. If a disagreement
+should arise on any matter which is not resolved as provided in Section 11(a),
+then, pending the resolution of the disagreement by arbitration as provided in
+Section 11(b), Seller shall continue to operate the Reserved Units in a manner
+consistent with the applicable provisions of this Agreement and ComEd shall
+continue to pay all charges and perform all other obligations required in
+accordance with the applicable provisions of this Agreement.
+
+               (d)   PRELIMINARY INJUNCTIVE RELIEF. Nothing in this Section 11
+shall preclude, or be construed to preclude, the resort by either Party to a
+court of competent jurisdiction solely
+
+
+                                      21
+
+<PAGE>
+
+for the purposes of securing a temporary or preliminary injunction to
+preserve the status quo or avoid irreparable harm pending arbitration
+pursuant to this Section 11.
+
+               (e)   SETTLEMENT DISCUSSIONS. The Parties agree that
+no statements of position or offers of settlement made in the course
+of the dispute process described in this Section 11 will be offered
+into evidence for any purpose in any litigation or arbitration
+between the Parties, nor will any such statements or offers of
+settlement be used in any manner against either Party in any such
+litigation or arbitration. Further, no such statements or offers of
+settlement shall constitute an admission or waiver of rights by
+either Party in connection with any such litigation or arbitration.
+At the request of either Party, any such statements and offers of
+settlement, and all copies thereof, shall be promptly returned to the
+Party providing the same.
+
+12.     ASSIGNMENT; TRANSFER OF STATION
+
+               (a)   ASSIGNMENT. Neither Party may assign its rights
+or obligations under this Agreement without the prior written consent
+of the other Party, which shall not be unreasonably withheld or
+delayed. Notwithstanding the foregoing, ComEd shall have the right to
+assign its rights and obligations hereunder without the consent of
+Seller to (i) any entity that has a net worth of at least $500
+million and credit ratings for long-term secured debt from Standard &
+Poor's Ratings Group of BBB- or higher and from Moody's Investors
+Service, Inc. of Baa3 or higher or (ii) any affiliate of ComEd. For
+the purposes of this Section 12(a), any direct transfer or series of
+direct transfers (whether voluntary or by operation of law) of a
+majority of the outstanding voting equity interests of Seller (or any
+entity or entities directly or indirectly holding a majority of the
+outstanding voting equity interests of Seller) to any party other
+than an affiliate controlled by, or under common control with, Seller
+shall be deemed an assignment of this Agreement.
+
+               (b)   COLLATERAL ASSIGNMENT. Notwithstanding the
+above, ComEd hereby consents to the assignment by Seller of a
+security interest in this Agreement to any Lenders; PROVIDED THAT
+Owner shall have provided notice of any such assignment to ComEd.
+ComEd further agrees to execute documentation to evidence such
+consent, PROVIDED it shall have no obligation to waive any of its
+rights under this Agreement. ComEd recognizes that such consent may
+grant certain rights to such Lenders, which shall be fully developed
+and described in the consent documents, including (i) this Agreement
+shall not be amended in any material respect or terminated (except
+for termination pursuant to the terms of this Agreement) without the
+consent of Lenders, which consent as to amendments shall not be
+unreasonably withheld or delayed, (ii) Lenders shall be given notice
+of, and a reasonable time period (but in no event more than the time
+period provided to Seller) to cure, any Seller breach or default of
+this Agreement, (iii) if a Lender forecloses, takes a deed in lieu or
+otherwise exercises its remedies pursuant to any security documents,
+that ComEd shall, at Lender's request, continue to perform all of its
+obligations hereunder, and Lender or its nominee may perform in the
+place of Seller, and may assign this Agreement to another party in
+place of Seller (PROVIDED either (i) such proposed assignee is
+creditworthy and possesses experience and skill in the operation of
+electric generation plants or (ii) ComEd consents to the assignment
+to such proposed assignee, which consent shall not be unreasonably
+withheld (it being understood that ComEd may, in deciding whether to
+grant such consent, take into account the creditworthiness and the
+electric generation plant experience and skill of the proposed
+assignee)), and enforce all of Seller's rights hereunder, (iv) that
+
+
+                                      22
+
+<PAGE>
+
+
+Lender(s) shall have no liability under this Agreement except during
+the period of such Lender(s)' ownership and/or operation of a
+Station(s), (v) that ComEd shall accept performance in accordance
+with this Agreement by Lender(s) or its (their) nominee, (vi) that
+ComEd shall make all payments to an account designated by Lender(s),
+and (vii) that ComEd shall make representations and warranties to
+Lender(s) as Lender(s) may reasonably request with regard to (A)
+ComEd's corporate existence, (B) ComEd's corporate authority to
+execute, deliver, and perform this Agreement, (C) the binding nature
+of this Agreement on ComEd, (D) receipt of regulatory approvals by
+ComEd with respect to its performance under this Agreement, and (E)
+whether any defaults by Owner are known by ComEd then to exist under
+this Agreement.
+
+               (c)   TRANSFER OF STATION DURING THE TERM. Prior to
+the Termination Date, Seller shall not sell or otherwise transfer any
+interest in the Station to any Person without first obtaining ComEd's
+written consent, which consent shall not be unreasonably withheld or
+delayed and may be conditioned upon the transferee's assumption of
+the obligations of Seller under this Agreement in respect of the
+Reserved Units. No such assignment shall relieve Seller from its
+obligations hereunder, unless otherwise agreed to by ComEd in
+writing. Any such sale or transfer without consent under this Section
+12 shall be null and void.
+
+13.     TERMINATION BY COMED WITH RESPECT TO CERTAIN UNITS
+
+               Subject to the notice and other requirements contained
+in this Section 13, ComEd shall have the right, in its sole
+discretion, with respect to each of the Third Contract Year, the
+Fourth Contract Year and the Fifth Contract Year, to terminate this
+Agreement with respect to any generating unit or units located at the
+Station (such rights to terminate being referred to herein
+collectively as "TERMINATION OPTIONS" and individually as a
+"TERMINATION OPTION"). ComEd may exercise a Termination Option with
+respect to the Third, Fourth and/or Fifth Contract Years by providing
+written notice of such exercise to Seller by no later than 90 days
+before the first day of the applicable Contract Year. Such notice
+shall contain (i) a statement that ComEd is exercising a Termination
+Option or Termination Options and (ii) the Contract Year or Contract
+Years with respect to which the Termination Option or Termination
+Options being exercised relate. Such termination(s) shall become
+effective as of the first day of the earliest Contract Year with
+respect to which such termination(s) relate, and at such time this
+Agreement shall terminate and be of no further force or effect with
+respect to the generating unit or units so terminated, PROVIDED THAT,
+the provisions of Sections 6(e) (Fuel Source and Emissions), 6(f)
+(Records), 10 (Limitation of Liability), 11 (Disagreements), 14
+(Default, Termination and Remedies), and 16 (Indemnification) shall
+survive such termination(s), and PROVIDED FURTHER, that any such
+termination(s) shall have no effect on this Agreement as it relates
+to the generating unit or units that are not terminated in accordance
+with this Section 13.
+
+14.     DEFAULT; TERMINATION AND REMEDIES
+
+               (a)   SELLER'S DEFAULT. The occurrence and
+continuation of any of the following events or circumstances at any
+time during the Term, except to the extent caused by, or resulting
+from, an act or omission of ComEd in breach of this Agreement, shall
+constitute an event of default by Seller ("SELLER'S EVENT OF
+DEFAULT"):
+
+
+                                      23
+
+<PAGE>
+
+               (i)   Seller fails to pay any sum due from it hereunder on the
+        due date thereof and such failure is not remedied within ten Business
+        Days after receipt of written notice thereof;
+
+               (ii)   Seller shall without reasonable cause abandon or willfully
+        desert the Station for a period in excess of 24 hours;
+
+               (iii)  Seller's Bankruptcy; or
+
+               (iv)   Seller fails in any material respect to perform or comply
+        with any other obligation in this Agreement on its part to be observed
+        or performed which failure materially and adversely affects ComEd, and
+        if reasonably capable of remedy, is not remedied within 60 days after
+        ComEd has given written notice to Seller of such failure and requiring
+        its remedy; PROVIDED, HOWEVER, that if such remedy cannot reasonably be
+        cured within such period of 60 days, such failure shall not constitute a
+        Seller's Event of Default if Seller has promptly commenced and is
+        diligently proceeding to cure such default.
+
+               (b) COMED DEFAULT. The occurrence and continuation of any of the
+following events or circumstances at any time during the Term, except to the
+extent caused by, or resulting from, an act or omission of Seller in breach of
+this Agreement, shall constitute an event of default by ComEd ("COMED EVENT OF
+DEFAULT"):
+
+               (i)    ComEd fails to pay any amount due from it pursuant to
+        Section 7 hereof on the due date thereof and such failure is not
+        remedied within ten Business Days after receipt of written notice
+        thereof;
+
+               (ii)   ComEd fails to pay any sum (other than one set forth in
+        subsection (i) above) due from it hereunder on the due date thereof and
+        such failure is not remedied within fifteen days after Seller has given
+        written notice to ComEd of such failure and requiring its remedy;
+
+               (iii)  ComEd's Bankruptcy; or
+
+               (iv)   ComEd fails in any material respect to perform or comply
+        with any other obligation in this Agreement on its part to be observed
+        or performed which failure materially and adversely affects Seller, and
+        if reasonably capable of remedy, is not remedied within 60 days after
+        Seller has given written notice to ComEd of such failure and requiring
+        its remedy; PROVIDED, HOWEVER, that if such remedy cannot reasonably be
+        cured within such period of 60 days, such failure shall not constitute a
+        ComEd Event of Default if ComEd has promptly commenced and is diligently
+        proceeding to cure such default.
+
+               (c)    REMEDIES AND REMEDIES CUMULATIVE.
+
+               (i)    Upon the occurrence and during the continuance of a ComEd
+        Event of Default or a Seller's Event of Default, the non-defaulting
+        party may at its discretion (A)
+
+
+                                      24
+
+<PAGE>
+
+        terminate this Agreement upon 30 days prior written notice to the
+        Party in default and (B) exercise any other rights and remedies
+        available at law or in equity.
+
+               (ii) If a ComEd Event of Default under Section 14(b)(i) has
+        occurred and is continuing, Seller shall have the right to sell the
+        electric energy represented by the Reserved Capacity on a daily basis
+        during the continuance of such ComEd Event of Default to third parties.
+
+               (d) EXTENDED OUTAGE. ComEd may terminate this Agreement upon
+thirty days prior written notice to Seller if an outage (including an outage
+caused by, or resulting from, a Force Majeure Event) at the Station prevents
+Seller from substantially performing its obligations hereunder for a consecutive
+period of 120 days, PROVIDED THAT, if Seller demonstrates that it has taken
+significant steps toward remediating the circumstances which led to such outage
+and certifies in writing to ComEd that such outage will end within 300 days of
+its commencement (and such outage in fact ends within such 300 days), then ComEd
+may not so terminate this Agreement.
+
+               (e) TERMINATIONS UNDER SECTION 13. This Agreement shall terminate
+at such time as all of the generating units located at the Station are
+terminated by ComEd in accordance with Section 13, PROVIDED THAT, the provisions
+of Sections 6(e) (Fuel Source and Emissions), 6(f) (Records), 10 (Limitation of
+Liability), 11 (Disagreements), 14 (Default, Termination and Remedies), and 16
+(Indemnification) shall survive such termination.
+
+15.     FORCE MAJEURE
+
+               (a) FORCE MAJEURE EVENT. For the purposes of this Agreement,
+"FORCE MAJEURE EVENT" means any unforeseeable event, condition or circumstance
+beyond the reasonable control of the Party affected (the "AFFECTED PARTY")
+which, despite all reasonable efforts of the Affected Party to prevent it or
+mitigate its effects, prevents the performance by such Affected Party of its
+obligations hereunder. Subject to the foregoing, "Force Majeure Event" shall
+include:
+
+               (i)    explosion  and fire (in either case to the extent not
+        attributable to the negligence of the Affected Party);
+
+               (ii)   flood, earthquake, storm, or other natural calamity or act
+        of God;
+
+               (iii)  strike or other labor dispute;
+
+               (iv)   war, insurrection or riot;
+
+               (v)    acts of, or failure to act by, legislative, judicial or
+        regulatory agencies or officials (collectively, "GOVERNMENTAL ACTION");
+        and
+
+               (vi)   Change of Law.
+
+               (b)    OBLIGATIONS UNDER FORCE MAJEURE.
+
+
+                                      25
+
+<PAGE>
+
+               (i)   If the Affected Party is rendered unable, wholly
+        or in part, by a Force Majeure Event, to carry out some or all of its
+        obligations under this Agreement, then, during the continuance of
+        such inability, the obligation of such Party to perform the
+        obligations so affected shall be suspended.
+
+               (ii)  The Affected Party shall give written notice of such Force
+        Majeure Event to the other Party as soon as practicable after such event
+        occurs, which notice shall include information with respect to the
+        nature, cause and date of commencement of the occurrence(s), and the
+        anticipated scope and duration of the delay. Upon the conclusion of the
+        Force Majeure Event, the Affected Party shall, with all reasonable
+        dispatch, take all steps reasonably necessary to resume the
+        obligation(s) previously suspended.
+
+               (iii) Notwithstanding the foregoing, an Affected Party shall not
+        be excused under this Section 15(b) for (x) any non-performance of its
+        obligations under this Agreement having a greater scope or longer period
+        than is justified by the Force Majeure Event or (y) the performance of
+        obligations that arose prior to the Force Majeure Event. Nothing
+        contained herein shall be construed as requiring an Affected Party to
+        settle any strike, lockout or other labor dispute in which it may be
+        involved.
+
+               (c) CONTINUED PAYMENT OBLIGATION. A Party's obligation to make
+payments already owing pursuant to this Agreement shall not be suspended by a
+Force Majeure Event.
+
+               (d) AVAILABILITY. Notwithstanding this Section 15, outages or
+deratings of Reserved Units caused by, or attributable to, Force Majeure Events
+shall be considered periods that the affected capacity is Unavailable unless
+such Force Majeure Event is an event described in clause (ii) or (iv) of Section
+15(a) (in which case, such affected capacity shall be considered Available at
+90% of the Net Dependable Capacity (as set forth in Appendix B) of the affected
+Reserved Unit(s) for the duration of such Force Majeure Event during a Summer
+Month and at 75% of such Net Dependable Capacity for the duration of such Force
+Majeure Event during a Non-Summer Month).
+
+16.     REPRESENTATIONS AND WARRANTIES
+
+               (a) REPRESENTATIONS AND WARRANTIES OF SELLER. Seller hereby makes
+the following representations and warranties to ComEd:
+
+               (i)   Seller is a limited liability company duly organized,
+        validly existing and in good standing under the laws of the State of
+        Delaware, is qualified to business in the State of Illinois and has
+        the legal power and authority to own its properties, to carry on its
+        business as now being conducted and to enter into this Agreement and
+        carry out the transactions contemplated hereby and perform and carry
+        out all covenants and obligations on its part to be performed under
+        and pursuant to this Agreement.
+
+               (ii)  The execution, delivery and performance by Seller of this
+        Agreement have been duly authorized by all necessary corporate action,
+        and do not and will not require any consent or approval of Seller's
+        Board of Directors or
+
+
+                                      26
+
+<PAGE>
+
+        equity holders other than that which has been obtained (evidence of
+        which shall be, if it has not heretofore been, delivered to ComEd).
+
+               (iii) The execution and delivery of this Agreement, the
+        consummation of the transactions contemplated hereby and the fulfillment
+        of and compliance with the provisions of this Agreement, do not and will
+        not conflict with or constitute a breach of or a default under, any of
+        the terms, conditions or provisions of any legal requirements, or any
+        organizational documents, agreement, deed of trust, mortgage, loan
+        agreement, other evidence of indebtedness or any other agreement or
+        instrument to which Seller is a party or by which it or any of its
+        property is bound, or result in a breach of or a default under any of
+        the foregoing.
+
+               (iv)  This Agreement constitutes the legal, valid and binding
+        obligation of Seller enforceable in accordance with its terms, except as
+        such enforceability may be limited by bankruptcy, insolvency,
+        reorganization or similar laws relating to or affecting the enforcement
+        of creditors' rights generally or by general equitable principles,
+        regardless of whether such enforceability is considered in a proceeding
+        in equity or at law.
+
+               (v)   There is no pending, or to the knowledge of Seller,
+        threatened action or proceeding affecting Seller before any governmental
+        authority which purports to affect the legality, validity or
+        enforceability of this Agreement.
+
+               (vi)  Seller has all governmental approvals necessary for it to
+        perform its obligations under this Agreement.
+
+               (b) REPRESENTATIONS AND WARRANTIES OF COMED. ComEd hereby makes
+the following representations and warranties to Seller:
+
+               (i) ComEd is a corporation duly organized, validly existing and
+        in good standing under the laws of the State of Illinois, is qualified
+        to do business in the State of Illinois and has the legal power and
+        authority to own its properties, to carry on its business as now being
+        conducted and to enter into this Agreement and carry out the
+        transactions contemplated hereby and perform and carry out all covenants
+        and obligations on its part to be performed under and pursuant to this
+        Agreement.
+
+               (ii) The execution, delivery and performance by ComEd of this
+        Agreement have been duly authorized by all necessary corporate action,
+        and do not and will not require any consent or approval of ComEd's Board
+        of Directors or shareholders other than that which has been obtained
+        (evidence of which shall be, if it has not heretofore been, delivered to
+        Seller).
+
+               (iii) The execution and delivery of this Agreement, the
+        consummation of the transactions contemplated hereby and the fulfillment
+        of and compliance with the provisions of this Agreement do not and will
+        not conflict with or
+
+
+                                      27
+
+<PAGE>
+
+        constitute a breach of or a default under, any of the terms,
+        conditions or provisions of any legal requirements, or its articles
+        of incorporation or bylaws, or any deed of trust, mortgage, loan
+        agreement, other evidence of indebtedness or any other agreement or
+        instrument to which ComEd is a party or by which it or any of its
+        property is bound, or result in a breach of or a default under any of
+        the foregoing.
+
+               (iv)  This Agreement constitutes the legal, valid and binding
+        obligation of ComEd enforceable in accordance with its terms, except as
+        such enforceability may be limited by bankruptcy, insolvency,
+        reorganization or similar laws relating to or affecting the enforcement
+        of creditors' rights generally or by general equitable principles,
+        regardless of whether such enforceability is considered in a proceeding
+        in equity or at law.
+
+               (v)   There is no pending, or to the knowledge of ComEd,
+        threatened action or proceeding affecting ComEd before any
+        governmental authority which purports to affect the legality,
+        validity or enforceability of this Agreement.
+
+               (vi)  ComEd has all governmental approvals necessary for it to
+        perform its obligations under this Agreement.
+
+17.     INDEMNIFICATION
+
+               Each Party shall indemnify and hold harmless the other Party, and
+its officers, directors, agents and employees from and against any and all
+claims, demands, actions, losses, liabilities, expenses (including reasonable
+legal fees and expenses), suits and proceedings of any nature whatsoever for
+personal injury, death or property damage to each other's property or facilities
+or personal injury, death or property damage to third parties caused by the
+gross negligence or willful misconduct of the indemnifying Party that arise out
+of or are in any manner connected with the performance of this Agreement, except
+to the extent such injury or damage is attributable to the gross negligence or
+willful misconduct of, or breach of this Agreement by, the Party seeking
+indemnification hereunder. Title, and all risk relating to, all Electric Energy
+purchased by ComEd under this Agreement shall pass to ComEd at the Point of
+Delivery. ComEd shall indemnify Seller for liability from Electric Energy once
+sold and delivered at the Point of Delivery. ComEd shall indemnify Seller for
+liability from Electric Energy once sold and delivered at such Point of
+Delivery; and Seller shall indemnify ComEd for liability from Electric Energy
+prior to its delivery at such Point of Delivery.
+
+18.     NOTICES
+
+               Unless otherwise provided in this Agreement, any notice, consent
+or other communication required to be made under this Agreement shall be in
+writing and shall be sent by facsimile, delivered or sent to the address set
+forth below or such other address as the receiving Party may from time to time
+designate by written notice:
+
+               If to ComEd, to:
+
+
+                                      28
+
+<PAGE>
+
+
+                      Commonwealth Edison Company
+                      Bank One Plaza, 37th Floor
+                      10 South Dearborn Street
+                      Chicago, Illinois  60603
+                      Attention: Executive Vice President-Enterprises
+                      Facsimile No.:  (312) 394-3110
+                      Confirmation No.:  (312) 394-3172
+
+               with a copy to:
+
+                      Commonwealth Edison Company
+                      Law Department
+                      Room 1535
+                      125 South Clark Street
+                      Chicago, Illinois  60603
+                      Attention:  Associate General Counsel-
+                                       Corporate and Commercial
+                      Facsimile No.:  (312) 394-3950
+                      Confirmation No.:  (312) 394-5400
+
+               If to Seller, to:
+
+                      Midwest Generation, LLC
+                      One Financial Place -- Suite 3500
+                      440 South LaSalle Street
+                      Chicago, Illinois 60605
+                      Attention:  President
+                      Facsimile No.:  (312) 583-6000
+                      Confirmation No.:  (312) 583-6111
+
+               with a copy to:
+
+                      Edison Mission Marketing & Trading Inc.
+                      160 Federal Street
+                      Boston, Massachusetts 02110-1776
+                      Attention:  Bulk Power Operations
+                      Fax No.:  (617) 912-6001
+                      Confirmation No.:  (617) 912-6000
+
+
+               and
+
+
+                                      29
+
+<PAGE>
+
+
+               Midwest Generation, LLC
+                      One Financial Place -- Suite 3500
+                      440 South LaSalle Street
+                      Chicago, Illinois 60605
+                      Attention:  General Counsel
+                      Fax No.:  (312) 583-4917
+                      Confirmation No.:  (312) 583-6082
+
+All notices shall be effective when received.
+
+19.     CONFIDENTIALITY
+
+               Each Party agrees that it will treat in confidence all
+documents, materials and other information marked "Confidential,"
+"Proprietary" or with similar designation by the disclosing Party
+("CONFIDENTIAL INFORMATION") which it shall have obtained during the course
+of the negotiations leading to, and its performance of, this Agreement
+(whether obtained before or after the date of this Agreement). Confidential
+Information shall not be communicated to any third party (other than, in the
+case of Seller, to its affiliates, to its counsel, accountants, financial or
+tax advisors, or insurance consultants, to prospective partners and other
+investors in Seller and their counsel, accountants, or financial or tax
+advisors, or in connection with any financing or refinancing, or its
+permitted assignees or transferees; and in the case of ComEd, to its
+affiliates, or to its counsel, accountants, financial advisors, tax advisors
+or insurance consultants, or its permitted assignees or transferees). As used
+herein, the term "Confidential Information" shall not include any information
+which (i) is or becomes available to a Party from a source other than the
+other Party, (ii) is or becomes available to the public other than as a
+result of disclosure by the receiving Party or its agents or (iii) is
+required to be disclosed under applicable law or judicial, administrative or
+regulatory process, but only to the extent it must be disclosed.
+
+20.     GOVERNING LAW
+
+               Except as provided in Section 11, this Agreement shall be
+deemed to be an Illinois contract and shall be construed in accordance with
+and governed by the laws of Illinois without regard to its conflicts of laws
+provisions.
+
+21.     PARTIAL INVALIDITY
+
+               Wherever possible, each provision hereof shall be interpreted
+in such manner as to be effective and valid under applicable law, but in case
+any one or more of the provisions contained herein shall, for any reason, be
+held to be invalid, illegal or unenforceable in any respect, such provision
+shall be ineffective to the extent, but only to the extent, of such
+invalidity, illegality or unenforceability without invalidating the remainder
+of such invalid, illegal or unenforceable provision or provisions or any
+other provisions hereof, unless such a construction would be unreasonable. In
+the event that such a construction would be unreasonable or would deprive a
+Party of a material benefit under this Agreement, the Parties shall seek to
+amend this Agreement to remove the invalid provision and otherwise provide
+the benefit unless prohibited by any Requirements of Law.
+
+
+                                      30
+
+<PAGE>
+
+22.     WAIVERS
+
+               The failure of either Party hereto to enforce at any time any
+provision of this Agreement shall not be construed to be a waiver of such
+provision, nor in any way to affect the validity of this Agreement or any
+part hereof or the right of a Party thereafter to enforce each and every such
+provision. A waiver under this Agreement must be in writing and state that it
+is a waiver. No waiver of any breach of this Agreement shall be held to
+constitute a waiver of any other or subsequent breach.
+
+23.     COMPETITIVE TRANSITION CHARGE
+
+               The Parties acknowledge that Seller has satisfied its
+Competitive Transition Charge (as defined in the Illinois Public Utilities
+Act) obligations with respect to the Stations by prepayment, which was
+included in the Purchase Price paid under the Asset Sale Agreement.
+
+24.     ENTIRE AGREEMENT AND AMENDMENTS
+
+               Except as provided in the Asset Sale Agreement and the
+Interconnection Agreement, this Agreement supersedes all previous
+representations, understandings, negotiations and agreements either written
+or oral between the Parties hereto or their representatives with respect to
+the subject matter hereof and constitutes the entire agreement of the Parties
+with respect to the subject matter hereof. No amendments or changes to this
+Agreement shall be binding unless made in writing and duly executed by both
+Parties.
+
+               IN WITNESS WHEREOF, the Parties hereto have executed this
+Agreement as of the date set forth at the beginning of this Agreement.
+
+                                   COMMONWEALTH EDISON COMPANY
+
+
+                                   By: /s/ Paul A. Elbert
+                                      --------------------------------
+                                           Name: Paul A. Elbert
+                                           Title: Executive Vice President
+
+
+                                    MIDWEST GENERATION, LLC
+
+                                   By: /s/ Georgia R. Nelson
+                                      --------------------------------
+                                           Name: Georgia R. Nelson
+                                           Title: President
+
+
+                                      31
+
+</TEXT>
+</DOCUMENT>

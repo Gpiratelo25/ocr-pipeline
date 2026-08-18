@@ -1,0 +1,484 @@
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>12
+<FILENAME>a2050023zex-10_2.txt
+<DESCRIPTION>EXHIBIT 10.2
+<TEXT>
+
+
+<PAGE>
+                                                                   EXHIBIT 10.2
+
+                        AMENDED AND RESTATED SERVICES AND
+                            RISK MANAGEMENT AGREEMENT
+
+
+         THIS AMENDED AND RESTATED SERVICES AND RISK MANAGEMENT AGREEMENT (this
+"Agreement"), dated as of March 30, 2001 (the "Effective Date"), is by and
+between MIRANT AMERICAS ENERGY MARKETING L.P. (formerly known as Southern
+Company Energy Marketing L.P.), a Delaware limited partnership ("MAEM"), and
+MIRANT CHALK POINT, LLC (formerly known as Southern Energy Chalk Point, LLC), a
+Delaware limited liability company ("Chalk Point").
+
+                                    RECITALS
+
+         WHEREAS, Chalk Point owns certain electric generation facilities and
+associated facilities located in Prince George's County, Maryland (the
+"Generating Station"); and
+
+         WHEREAS, MAEM is an energy marketer which has contracted to purchase
+electricity and related energy products from Chalk Point, Mirant Mid-Atlantic,
+LLC ("MIRMA"), Mirant Peaker, LLC ("Peaker"), and Mirant Potomac River, LLC
+("Potomac River", and collectively with Chalk Point, MIRMA and Peaker, the
+"MIRMA Group"); and
+
+         WHEREAS, MAEM is obligated to procure electricity and related energy
+products under certain power purchase agreements with Ohio Edison Company and
+Pennsylvania Power Company for 450MW, Panda-Brandywine or Panda for
+approximately 230MW, Northeast Maryland Waste Disposal for 50MW, and one other
+agreement for 2.6MW; and
+
+         WHEREAS, MAEM and Chalk Point entered into that certain Services and
+Risk Management Agreement dated December 18, 2000 (the "Existing SRMA"),
+pursuant to which the Parties contracted for the provision of certain services
+by MAEM to Chalk Point; and
+
+         WHEREAS, the Parties have agreed to amend and restate the Existing SRMA
+in its entirety as more particularly set forth herein; and
+
+         NOW, THEREFORE, in consideration of the foregoing and the mutual
+covenants contained herein, and other good and valuable consideration, the
+receipt and sufficiency of which are hereby acknowledged by the Parties, the
+Parties hereby agree as follows:
+
+                                   ARTICLE 1.
+                                   DEFINITIONS
+
+         The following capitalized terms, whether used in the singular or
+plural, shall be defined as provided in this Article 1.
+
+         "AGENCY PERIOD" has the meaning set forth in SECTION 3.2(b)(i).
+
+
+                                       1
+<PAGE>
+
+         "ANCILLARY AND FREQUENCY RESPONSE SERVICE" shall have the meaning
+assigned to that term from time to time by the PJM.
+
+         "BANKRUPTCY PROCEEDING" means, with respect to a Party, that Party (a)
+is dissolved (other than pursuant to a consolidation, amalgamation or merger),
+(b) makes an assignment or any general arrangement for the benefit of creditors,
+(c) institutes or has instituted against it a proceeding seeking a judgment of
+insolvency or bankruptcy or any other relief under any bankruptcy or insolvency
+or other law affecting creditors' rights and, in the case of any such proceeding
+or petition instituted or presented against it, such proceeding or petition (i)
+results in a judgment of insolvency or bankruptcy or the entry of an order for
+its winding-up or liquidation or (ii) is not withdrawn, dismissed or discharged
+within sixty (60) days after the institution or presentation thereof, (d)
+otherwise becomes bankrupt or insolvent (however evidenced), (e) has a secured
+party take possession of all or substantially all of its assets or has an action
+or proceeding taken or levied against all or substantially all of its assets and
+such secured party maintains possession, or any such action or proceeding is not
+dismissed, in either case for thirty (30) days thereafter, or (f) is unable to
+pay its debts or admits in writing its inability generally to pay its debts as
+they become due.
+
+         "BID" or "BIDDING" means the nomination or bidding of the output of the
+Generating Stations in the PJM.
+
+         "CAPACITY RESOURCES" shall have the meaning assigned to that term from
+time to time by the PJM.
+
+         "DISPATCH" means the scheduling of the delivery of PJM Products.
+
+         "EMISSION ALLOWANCES" means authorizations under state or federal (as
+applicable) air quality regulations to emit either one ton of nitrogen oxides
+("NOx") or sulfur dioxide ("SO2"), in the former case between May 1 through
+September 30 of any given year, and in the latter case at any time during any
+applicable calendar year.
+
+         "ENERGY" means electric energy as defined by PJM.
+
+         "FORCE MAJEURE" means an event which is not within the reasonable
+control of a Party which causes such Party to be delayed in or prevented from
+performing or carrying out any of its obligations under this Agreement and which
+by the exercise of due diligence in accordance with Good Utility Practices, such
+Party is unable to overcome or avoid or cause to be avoided, including, without
+limitation, acts of God; fire; ice; earthquake; lightning; tornado; hurricane,
+or other severe weather condition; civil disturbance; labor dispute; labor or
+material shortage; sabotage; acts of terrorism; acts of a public enemy;
+uprising; insurrection; civil unrest; war or rebellion; explosions; breakage or
+accident to machinery or equipment, action or restraint by court order or public
+or governmental authority or lawfully established civilian authorities, provided
+that a Force Majeure shall not include lack of finances or change in market
+conditions, and provided further that any failure of any supplier or
+subcontractor of a Party to perform any obligation to such Party will not
+constitute a Force Majeure unless such subcontractor or supplier
+
+
+                                       2
+<PAGE>
+
+is unable to perform such obligations for reasons that would constitute a "Force
+Majeure" hereunder.
+
+         "FUEL" means fuel oil, natural gas, or coal, as dictated by context.
+
+         "GENERATING STATION" has the meaning provided in the recitals.
+
+         "GOOD UTILITY PRACTICES" mean any of the practices, methods or acts
+engaged in or approved by a significant portion of the electric energy industry
+with respect to similar facilities during the relevant time period which in each
+case, in the exercise of reasonable judgment in light of the facts known or that
+should have been known at the time a decision was made, could have been expected
+to accomplish the desired result at reasonable cost consistent with good
+business practices, reliability, safety, law, regulation, environmental
+protection and expedition. Good Utility Practices are not intended to be limited
+to the optimum practices, methods or acts to the exclusion of all others, but
+rather to delineate the acceptable practices, methods or acts generally accepted
+in such industry.
+
+         "MIRMA ASSET BOOK" has the meaning set forth in SECTION 4.1.
+
+         "MIRMA GROUP" has the meaning set forth in the recitals.
+
+         "OPERATING RESERVES" shall have the meaning assigned to that term from
+time to time by the PJM.
+
+         "PARTY" means any of MAEM or Chalk Point. In the context where MAEM is
+referenced as a "Party," a reference to the "other Party" shall mean Chalk
+Point. In the context where Chalk Point is referenced as a "Party," a reference
+to the "other Party" shall mean MAEM. References to "either Party" or the
+"Parties" shall have comparable meanings.
+
+         "PJM" means the Pennsylvania - New Jersey - Maryland Power Pool.
+
+         "PJM PRODUCTS" means Energy, Operating Reserves, Capacity Resources and
+Ancillary and Frequency Response Service, as well as any other products and
+ancillary services which become commercially recognized in the PJM market during
+the term of this Agreement.
+
+                                   ARTICLE 2.
+                                      TERM
+
+         The initial term of this Agreement shall commence as of the Effective
+Date and shall continue, unless earlier terminated pursuant to its terms, until
+December 31, 2001. The Agreement will automatically renew for successive
+one-year terms unless one Party gives the other Party notice of such Party's
+intent to terminate this Agreement at least three (3) months prior to the
+expiration of any such term.
+
+
+                                       3
+<PAGE>
+
+                                   ARTICLE 3.
+                         SERVICES TO BE PROVIDED BY MAEM
+
+         3.1 BIDDING AND DISPATCH INTO THE PJM. MAEM shall be responsible for
+the Bidding and Dispatch of the output of the Generating Station. Without
+limitation, MAEM's Bidding and Dispatch strategies shall be consistent with:
+
+         (i)      the operating parameters and limitations of the Generating
+                  Station;
+
+         (ii)     Chalk Point's maintenance plans;
+
+         (iii)    the availability of the Generating Station (including Fuel
+                  handling and storage facilities), as communicated by Chalk
+                  Point to MAEM;
+
+         (iv)     PJM rules and procedures in effect from time to time;
+
+         (v)      other applicable transmission provider requirements; and
+
+         (vi)     Fuel availability.
+
+         3.2 FUEL SERVICES; AGENCY PERIOD. (a) MAEM will provide all Fuel
+necessary for the operation of the Generating Station at MAEM's cost, which
+shall be calculated as MAEM's actual cost for transportation, inventory and
+related costs, as adjusted for any gains or losses on fuel hedges and trading
+activities. MAEM will enter into arrangements for the purchase and procurement
+of Fuel meeting the specifications for the Generating Station, coordinate the
+scheduling, loading, unloading and storage of Fuel deliveries, maintain Fuel
+inventory levels, and perform such other Fuel-related services as Chalk Point
+may request from time to time, in each case in accordance with Good Utility
+Practices.
+
+                  (b)(i) If, at any time, MAEM determines that the
+         creditworthiness of Chalk Point is impaired, MAEM may, at its sole
+         discretion and upon written notice to Chalk Point, elect to suspend
+         Fuel procurement under SECTION 3.2(a) for a period until such
+         creditworthiness is restored (each such period, an "Agency Period").
+         During any such Agency Period, MAEM shall act solely as agent to Chalk
+         Point under this Agreement in taking the actions set forth in this
+         SECTION 3.2(b).
+
+                  (ii) During any Agency Period, MAEM's sole obligation shall be
+         to use commercially reasonable efforts to procure Fuel as agent of and
+         for the account of Chalk Point, and MAEM shall have no obligation to
+         provide credit enhancement to any supplier of Chalk Point. MAEM shall
+         have no liability to Chalk Point if Fuel suppliers do not agree to
+         supply Fuel to Chalk Point due to a lack of creditworthiness of Chalk
+         Point. As agent, MAEM shall neither directly purchase or contract for
+         the purchase of, nor take title to or possession and control of, any
+         Fuel procured for the account of Chalk Point, and MAEM shall have no
+         liability to any Fuel supplier or Chalk Point for nonpayment for or
+
+
+                                       4
+<PAGE>
+
+         nondelivery of procured Fuels, as appropriate. During any Agency
+         Period, as between MAEM and Chalk Point, Chalk Point shall be deemed to
+         have title, exclusive possession and control of all procured Fuel at
+         all times, and any risk of loss associated with any such procured Fuel
+         shall be born by Chalk Point.
+
+                  (iii) Each Agency Period shall continue until Chalk Point can
+         demonstrate to MAEM that Chalk Point's creditworthiness has been
+         restored, as reasonably determined by MAEM. After a positive
+         determination as to such creditworthiness, the applicable Agency Period
+         shall be terminated by MAEM by written notice to Chalk Point, and MAEM
+         shall resume procuring Fuel for Chalk Point under SECTION 3.2(A).
+
+         3.3 EMISSIONS PLANNING AND RELATED RESPONSIBILITIES. MAEM shall provide
+Chalk Point emissions planning, in consultation with Chalk Point, to assist in
+the compliance of the Generating Station at all times and on an ongoing basis
+with all currently effective emissions requirements, permits and regulations.
+MAEM will procure all Emission Allowances necessary for the operation of the
+Generating Station, and dispose of excess Emission Allowances, which are not
+needed for the operation of any other generating stations in the MIRMA Asset
+Book. MAEM will charge MAEM's actual cost of acquiring the Emission Allowances
+and remit the proceeds of any Emission Allowances sales to Chalk Point, as
+adjusted for any gains or losses on emission hedges and trading activities.
+
+         3.4 INSURANCE. MAEM will procure or assist Chalk Point in procuring
+business interruption insurance and forced outage insurance covering the
+Generating Station. The costs of such insurance will be charged to Chalk Point.
+
+         3.5 FINANCIAL PRODUCTS. MAEM will enter into financial products
+(including but not limited to, swaps, contracts for differences, options and
+weather derivatives) purchased for Chalk Point. The gains and losses arising
+from such financial products will be borne by MIRMA, and therefore the costs,
+including without limitation third party broker costs and transaction fees, and
+revenues related to such financial products will be charged to or paid to Chalk
+Point.
+
+         3.6 POWER MARKET TRANSACTIONS. MAEM will enter into third party
+bilateral contracts, forward sales, hedges and other transactions for the
+benefit of Chalk Point. The gains and losses arising from such transactions will
+be borne by MIRMA, and therefore the costs of such transactions, including
+without limitation, purchased power costs, transmission costs, third party
+broker costs, transaction fees and incremental credit costs, and revenues
+related to such activities will be charged to or paid to Chalk Point.
+
+                                   ARTICLE 4.
+                               BILLING AND PAYMENT
+
+         4.1 PAYMENT. MAEM shall pay Chalk Point all amounts payable to Chalk
+Point in connection with (a) the services provided by MAEM under ARTICLE 3
+hereof, or (b) power sales under any power sales agreements, which payments are
+due for the prior month by wire transfer to the payment address provided by
+Chalk Point on or before the twentieth (20th) day of each
+
+
+                                       5
+<PAGE>
+
+month, or if such day is not a business day, the immediately following business
+day; provided, that MAEM may deduct from any such payment all expenses incurred
+by MAEM in connection with the provision of its services hereunder.
+
+         4.2 SERVICE FEE; BONUS. Chalk Point acknowledges that pursuant to the
+terms of that certain Amended and Restated Sevices and Risk Management
+Agreement, dated of even date herewith, between MIRMA and MAEM (the "MIRMA
+Services Agreement"), MIRMA has agreed to pay MAEM a monthly service fee and a
+bonus based upon the aggregate net revenues of the entire MIRMA Group and
+calculated in accordance with Sections 4.2 and 4.3, respectively, of the MIRMA
+Services Agreement. Chalk Point agrees that MAEM may deduct Chalk Point's
+ratable amount of such monthly service fee and bonus from any payment to Chalk
+Point under the MIRMA Services Agreement; provided, that MAEM acknowledges that
+any such services fees and bonus payments made to MAEM may only be paid pursuant
+to the terms of the MIRMA Services Agreement. Such ratable amount shall be
+calculated as the total amount of such bonus multiplied by a fraction, the
+numerator of which is the amount of net revenues attributable to Chalk Point and
+the denominator of which is the aggregate net revenues for the entire MIRMA
+Group.
+
+                                   ARTICLE 5.
+                              DEFAULTS AND REMEDIES
+
+         5.1 EVENTS OF DEFAULT. Any one or more of the following shall
+constitute an "Event of Default" hereunder with respect to a Party:
+
+         (a) default shall occur in the payment of any amounts due from such
+Party hereunder which shall continue for more than ten (10) days after written
+notice from the other Party;
+
+         (b) other than as provided in SECTION 5.1(a) above, default shall occur
+in the performance of any covenant or condition to be performed by such Party
+under this Agreement and such default shall continue unremedied for a period of
+thirty (30) days after written notice from the other Party specifying the nature
+of such default;
+
+         (c) a Bankruptcy Proceeding has occurred with respect to such Party; or
+
+         (d) a representation or warranty made by such Party herein shall have
+been false or misleading in any material respect when made; provided, however,
+if such representation or warranty is capable of being corrected, no Event of
+Default shall have occurred if such Party is diligently pursuing such correction
+and such representation or warranty is corrected within thirty (30) days of such
+Party obtaining knowledge of the false and misleading nature of the statement.
+
+         5.2 REMEDIES. The Parties shall have the following remedies available
+to them hereunder:
+
+                                       6
+<PAGE>
+
+         (a) Upon the occurrence of an Event of Default by either Party
+hereunder, the non-defaulting Party shall have the right (i) to collect all
+amounts then or thereafter due to it from the defaulting Party hereunder, and
+(ii) upon written notice to the other Party, to terminate this Agreement at any
+time during the continuation of such Event of Default. The terminating Party
+shall have all rights and remedies available to it under applicable law, subject
+to the limitations set forth in SECTION 7.7.
+
+         (b) Without limiting the foregoing, any unexcused breach of this
+Agreement or failure of either Party to perform its obligations hereunder shall
+subject such Party to the payment of actual damages to the other Party,
+regardless of any cure period.
+
+                                   ARTICLE 6.
+                                  FORCE MAJEURE
+
+         If either Party is rendered wholly or partly unable to perform its
+obligations under this Agreement because of a Force Majeure event, that Party
+will be excused from whatever performance is affected by the Force Majeure event
+to the extent so affected, provided that (a) the non-performing Party, as soon
+as practical after knowing of the occurrence of the Force Majeure event, gives
+the other Party written notice describing the particulars of the occurrence; (b)
+the suspension of performance is of no greater scope and of no longer duration
+than is reasonably required by the Force Majeure event; (c) the non-performing
+Party uses commercially reasonable efforts to overcome or mitigate the effects
+of such occurrence; and (d) when the non-performing Party is able to resume
+performance of its obligations hereunder, that Party shall give the other Party
+written notice to that effect and shall promptly resume such performance.
+
+
+
+                                   ARTICLE 7.
+                            MISCELLANEOUS PROVISIONS
+
+         7.1 ASSIGNMENT; SUCCESSORS AND ASSIGNS. No assignment or delegation by
+either Party (or any successor or assignee thereof) of this Agreement, in whole
+or in part, shall be made or become effective without the prior written consent
+of the other Party in each case obtained, which consent may not be unreasonably
+withheld. Any assignments or delegations by either Party shall be in such form
+as to assure that such Party's obligations under this Agreement will be honored
+fully and timely by any succeeding party.
+
+         7.2 NOTICES. All notices, requests and other communications hereunder
+(herein collectively a "notice" or "notices") shall be deemed to have been duly
+delivered, given or made to or upon any Party hereto if in writing and delivered
+by hand against receipt, or by certified or registered mail, postage pre-paid,
+return receipt requested, or to a courier who guarantees next business day
+delivery or sent by telecopy (with confirmation) to such Party at its address
+set forth below or to such other address as such Party may at any time, or from
+time to time, direct by notice given in accordance with this SECTION 7.2.
+
+
+                                       7
+<PAGE>
+
+<TABLE>
+<S>                             <C>
+         IF TO CHALK POINT:     Mirant Chalk Point, LLC
+                                1155 Perimeter Center Place
+                                Atlanta, Georgia 30338
+                                Attention: President and Chief Executive Officer
+
+         IF TO MAEM:            Mirant Americas Energy Marketing L.P.
+                                1155 Perimeter Center Place
+                                Atlanta, Georgia 30338
+                                Attention:  Vice President, Mid-Atlantic Region
+</TABLE>
+
+
+The date of delivery of any such notice, request or other communication shall be
+the earlier of (i) the date of actual receipt or (ii) three (3) business days
+after such notice, request or other communication is sent by certified or
+registered mail, (iii) if sent by courier who guarantees next business day
+delivery, the business day next following the day of such notice, request or
+other communication is actually delivered to the courier or (iv) the day
+actually telecopied.
+
+         7.3 GOVERNING LAW. THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED
+UNDER THE LAWS OF THE STATE OF NEW YORK WITHOUT GIVING EFFECT TO PRINCIPLES OF
+CONFLICTS OF LAW THAT WOULD OTHERWISE CAUSE THE LAW OF ANY STATE OTHER THAN NEW
+YORK TO APPLY.
+
+         7.4 COMPLIANCE WITH LAWS. At all times during the term of this
+Agreement, the Parties shall comply with all laws, rules, regulations, and codes
+of all governmental authorities having jurisdiction over each of their
+respective businesses which are now applicable, or may be applicable hereafter,
+including without limitation, all special laws, policies, ordinances, or
+regulations now in force, as amended or hereafter enacted. The Parties hereto
+shall maintain all licenses, permits and other consents from all governmental
+authorities having jurisdiction for the necessary use and operation of their
+respective business. Nothing herein shall be deemed a waiver of the Parties'
+right to challenge the validity of any such law, rule or regulation.
+
+         7.5 ENTIRE AGREEMENT. This Agreement sets forth the entire agreement of
+the Parties with respect to the subject matter herein and takes precedence over
+all prior understandings. This Agreement may not be amended except by a writing
+signed by the Parties.
+
+         7.6 SEVERABILITY. The invalidity or unenforceability of any provisions
+of this Agreement shall not affect the other provisions hereof. If any provision
+of this Agreement is held to be invalid, such provisions shall not be severed
+from this Agreement; instead, the scope of the rights and duties created thereby
+shall be reduced by the smallest extent necessary to conform such provision to
+the applicable law, preserving to the greatest extent the intent of the Parties
+to create such rights and duties as set out herein. If necessary to preserve the
+intent of the Parties hereto, the Parties shall negotiate in good faith to amend
+this Agreement, adopting a substitute provision for the one deemed invalid or
+unenforceable that is legally binding and enforceable and which restores to the
+two Parties to the greatest extent possible the benefit of their respective
+bargains on the Effective Date.
+
+
+                                       8
+<PAGE>
+
+         7.7 LIMITATION ON DAMAGES. NEITHER PARTY SHALL BE ENTITLED TO RECOVER
+SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES HEREUNDER.
+
+         IN WITNESS WHEREOF, and intending to be legally bound hereby, the
+Parties hereto have caused this Agreement to be duly executed as an instrument
+under seal by their respective duly authorized officers as of the date and year
+first above written.
+
+<TABLE>
+<S>                                         <C>
+MIRANT AMERICAS ENERGY                      MIRANT CHALK POINT, LLC
+MARKETING L.P.
+
+By MIRANT AMERICAS
+DEVELOPMENT, INC.,
+its General Partner
+
+By:  _____________________________          By: _____________________________
+Name: ____________________________          Name:____________________________
+Title: ___________________________          Title:  _________________________
+</TABLE>
+
+
+
+
+                                       9
+
+</TEXT>
+</DOCUMENT>

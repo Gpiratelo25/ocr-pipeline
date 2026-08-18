@@ -1,0 +1,271 @@
+<DOCUMENT>
+<TYPE>EX-10.26
+<SEQUENCE>3
+<FILENAME>dex1026.txt
+<DESCRIPTION>INTERNET APPLICATIONS DIVISION (IAD) RESELLER
+<TEXT>
+
+<PAGE>
+
+                                                                   EXHIBIT 10.26
+
+                                 AMENDMENT NO. 1
+           TO INTERNET APPLICATIONS DIVISION (IAD) RESELLER AGREEMENT
+                            AND OUTSOURCING ADDENDUM
+
+This Amendment No, 1 ("Amendment"), effective February 5, 2001, ("Effective
+Date") is made by and between Sybase, Inc. ("Sybase") and Rainmaker Systems,
+Inc, ("Rainmaker'"). This Amendment supplements and amends the terms of the
+Internet Applications Division (IAD) Reseller Agreement (the "Reseller
+Agreement") and the Outsourcing Addendum (for IAD Subscription Services) to the
+IAD Reseller Agreement (the "Outsourcing Addendum") each between the parties
+hereto and each dated March 22, 1999. As used herein, the term "Agreement" shall
+collectively refer to the Reseller Agreement, the Outsourcing Addendum and all
+Addenda, Schedule(s) and Attachment(s) thereto. Capitalized terms not otherwise
+defined herein shall have the meaning set forth in the Agreement.
+
+For good and valid consideration, the receipt and sufficiency are hereby
+acknowledged, the parties hereby agree to amend the Agreement as follows:
+
+1.     A new Section 17 is added to the Reseller Agreement to read as follows:
+
+       "17. IAD Programs Marketing Funds. In addition to marketing funds related
+            ----------------------------
+       to Subscription Services (described in Section 7a) of the Agreement),
+       Sybase shall reserve funds in the amount of ___________ of all
+       amounts that Rainmaker has paid Sybase, as of January 1, 2000, solely for
+       new licenses of the IAD Programs (defined below) ordered by Rainmaker. In
+       the event the IAD Programs are not new licenses and are upgrades thereto
+       (i.e. additional seats/servers etc.), Sybase shall reserve ______________
+       of such amounts. Such funds are available only for the exclusive purpose
+       of Rainmaker's marketing and promoting of the IAD Programs. No more than
+       on a calendar quarter basis, Rainmaker shall report to Sybase its
+       commitments and expenditures associated with such funds, and any such
+       commitments or expenditures acceptable to Sybase shall be paid for by
+       Sybase to Rainmaker not to exceed the total amount of the aforementioned
+       funds. Any Rainmaker commitments or expenditures not pre-approved by
+       Sybase in writing shall not be paid for by Sybase. The foregoing shall
+       not include any updates under Subscription Service and is in addition to
+       the Marketing Fund for Subscription Service described in Section 7 of the
+       Outsourcing Addendum to the Agreement."
+
+2.     Schedule A of the Reseller Agreement is amended to add the following:
+
+       Programs (as defined in the Reseller Agreement) shall solely include:
+       PowerDesigner, PowerBuilder, PowerJ and Sybase Enterprise Application
+       Studio ("IAD Programs") running on all platforms generally available on
+       the then current Sybase Price List.
+
+3.     Schedule A of the Reseller Agreement is amended to change the discount
+       for IAD Programs from "Discounts for IAD development tool and design tool
+       software are specified in Sybase's then current IAD Reseller Price List"
+       to _____________________ discount off the then current North America
+       PartnerPrice List".
+
+Confidential treatment has been requested for portions of this exhibit. The copy
+filed herewith omits the information subject to the confidentiality request.
+Omissions are designated as _______. A complete version of this exhibit has been
+filed separately with the Securities and Exchange Commission.
+<PAGE>
+
+4.     Schedule A of the Reseller Agreement is amended to change the discount
+       percentage for sale of End-User Update Subscriptions from ______________
+       ______ to ______________________ off the North America Partner Price List
+       for update subscriptions Sybase makes generally available to its
+       customers for the Programs.
+
+5.     The Outsourcing Addendum, is amended to add a new Section 5(f) therein to
+       read as follows:
+
+       "(f) Rainmaker Resources. During the term of this Agreement and solely at
+            -------------------
+       Rainmaker's expense, Rainmaker shall maintain a team of personnel
+       dedicated to selling Subscription Service comprising senior level sales
+       representatives, territory-level sales representatives and one (1) sales
+       consultant (i.e. technical resource) to support Rainmaker's sales efforts
+       related to the IAD Programs.
+
+6.     The Outsourcing Addendum is amended by deleting the current Section 5(e)
+       and replacing it with the following: "(e) Rainmaker's Marketing Efforts.
+       Rainmaker shall use reasonable commercial efforts to market the IAD
+       Programs and Subscription Service within the Territory defined in the
+       Reseller Agreement.
+
+7.     The Outsourcing Addendum is amended to add a new Section 7(b) therein to
+       read as follows:
+
+       "(b) Additional Marketing Start-up Funds. In addition to the Marketing
+            -----------------------------------
+       Start-up Funds as defined in Section 4b) and specified in Exhibit B in
+       the Outsourcing Addendum, from the Effective Date of this Addendum
+       through March 31, 2000, Sybase shall pay up to a maximum of ________ for
+       the launch of start-up marketing efforts during such time, Rainmaker will
+       submit a detailed written marketing plan to Sybase for the provision of
+       such marketing services. Additionally, Rainmaker shall submit a detailed
+       report no later than fifteen days after the close of a calendar quarter,
+       of its expenditures and commitments associated with such marketing
+       efforts to Sybase. All such commitments and expenses (not to exceed
+       ________) which are approved in advance by Sybase, In writing, during
+       such period shall be paid by Sybase. Sybase shall not be obligated to pay
+       for any Rainmaker expenses or commitments not approved by Sybase in
+       writing. In addition, Rainmaker agrees to contribute and expend in
+       additional ________ (solely at Rainmaker's expense) for marketing efforts
+       detailed in such marketing plan during such time period. Rainmaker shall
+       provide Sybase with a written report, no later than fifteen days after
+       the close of a calendar quarter detailing all such Rainmaker contributed
+       expenses for such marketing efforts."
+
+8.     Section 8(a) of the Outsourcing Addendum is deleted in its entirety and
+       replaced with the following for transactions on and after the Effective
+       Date of this Amendment:
+
+       "Subscription Service pricing covered by this Addendum shall be provided
+       to Rainmaker at ____________________ off Sybase's then current North
+       American Partner Price List for the applicable Subscription Service. In
+       no event shall Sybase dictate to Rainmaker the price at which Rainmaker
+       may sell the Subscription Service to the IAD Customer.
+
+     Certain information on this page has been omitted and filed separately with
+the Securities and Exchange Commission. Confidential treatment has been
+requested with respect to omitted portions.
+
+                                       2
+<PAGE>
+
+       Sybase will provide rainmaker with thirty (30) days written notice
+       regarding changes to such Price List."
+
+9.     Rainmaker understands and agrees that Sybase will not pay Rainmaker for
+       any Subscription Services sold by Sybase or an- authorized reseller or
+       distributor of Sybase to an IAD Customer.
+
+10.    Section 4(b) of the Outsourcing Addendum is amended to add the following:
+       "Sybase may provide an updated IAD Named Account Customer List ("Named
+       List") to Rainmaker from time to time at Sybase's discretion; such list
+       may be subject to change. For the purposes of the Outsourcing Addendum,
+       Sybase IAD Customers (in addition to the definition in the Outsourcing
+       Addendum) shall only include (also set forth in the attached Exhibit C
+       attached hereto): (i) the Non-Named accounts (Sybase accounts not
+       included in the Named List; (ii) Named accounts for whom Subscription
+       Service has been expired for more than 90 days, and that are not on the
+       excluded list; and (iii) those Named accounts that Sybase's Director of
+       Channel Sales has authorized Rainmaker to contact In writing from time to
+       time.
+
+11.    Section 5(a) of the Outsourcing Addendum is amended to change the
+       Quarterly Revenue Targets therein as follows:
+
+       January 2000--March 2000            __________
+       April 2000--June 2000               __________
+       July 2000--September 2000           __________
+       October 2000--December 2000         __________
+       January 2001--March 2001            __________
+       April 2001--June 2001               __________
+       July 2001--Sept 2001                __________
+       Oct 2001--Dec 2001                  __________
+       Jan 2002--March 2002                __________
+
+12.    With respect to the Reseller Agreement, End Users (as such is defined in
+       the Reseller Agreement) may not include customers identified by Sybase as
+       Named. Notwithstanding the foregoing, Rainmaker may contact solely those
+       Named List Accounts that Sybase's Director of Channel Sales has
+       authorized Rainmaker to contact in writing.
+
+13.    With respect to the Marketing Fund for Subscription Service described in
+       Section 7(a) of the Outsourcing Addendum to the Agreement, and the
+       Marketing Fund described in 7(b) as added by Section 1 of this Amendment,
+       within five (5) business days following the end of each calendar month,
+       Rainmaker shall provide Sybase with reports covering the immediately
+       preceding month detailing: (i) the beginning balance for the Marketing
+       Fund; (ii) activities and amounts to be expensed against the Marketing
+       Fund; (iii) additional monies accrued towards the Marketing Fund during
+       the month; and (iv) ending balance for the Marketing Fund. Additionally,
+       within five (5) business days following the end of each calendar quarter,
+       Rainmaker shall provide Sybase with a report covering the immediately
+       preceding quarter that details the return of investment pertaining to
+       activities that are expensed to each of the Marketing Funds. Such
+       quarterly
+
+     Certain information on this page has been omitted and filed separately with
+the Securities and Exchange Commission. Confidential treatment has been
+requested with respect to omitted portions.
+
+                                       3
+<PAGE>
+
+       report shall, at a minimum, include activities expensed to the Marketing
+       Fund, the amount expensed and revenues attributable to such specific
+       activity.
+
+14.    Section 9(b)(i) of the Outsourcing Addendum is deleted and replaced by
+       the following: "9(b)(i) Rainmaker does not meet _________________________
+       of its Quarterly Revenue Target specified in Section 5(a) of the
+       Outsourcing Addendum;"
+
+15.    Term. The second sentence in Section 8 of the Agreement, and all of
+       Section 9a) in the Outsourcing Addendum, are replaced with the following
+       new sentence:
+
+                        After the initial term of this Agreement ends, this
+                        Agreement and all Amendments will automatically renew on
+                        an annual basis unless terminated by either party with
+                        written notice to the other party at least thirty (30)
+                        days prior to the renewal date.
+
+Except as amended above, the Agreement shall remain unchanged and in full force
+and effect. In the event of a conflict between this Amendment and the Agreement,
+the terms and conditions of this Amendment shall prevail.
+
+SYBASE, INC.:                              RAINMAKER SYSTEMS, INC.:
+
+By: /s/ Karen K. Williams                  By: /s/ Steven Trotter
+
+Name: Karen K. Williams                    Name: Steven Trotter
+
+Title: Senior Corporate Counsel            Title: VP Sales & Marketing
+
+Date: ____________________________         Date: February 5, 2001
+
+     Certain information on this page has been omitted and filed separately with
+the Securities and Exchange Commission. Confidential treatment has been
+requested with respect to omitted portions.
+
+                                       4
+<PAGE>
+
+                                   EXHIBIT C
+                   IAD CUSTOMERS TO WHOM USPS MAY BE MARKETED
+<TABLE>
+<CAPTION>
+------------------------------------------------------------------------------------------------------------------
+Business Rules                                    USP         USP          Upgrades      New          10 pack
+                                                  New         renewal                    license      of
+                                                                                                      support
+------------------------------------------------------------------------------------------------------------------
+<S>                                               <C>         <C>          <C>           <C>          <C>
+Non-Named Accounts                                ___         ___          ___           ___          ___
+------------------------------------------------------------------------------------------------------------------
+Named Accounts
+
+------------------------------------------------------------------------------------------------------------------
+ .     90 days after lapse of USP (except for      ___         ___          ___           ___          ___
+      companies on excluded list)
+------------------------------------------------------------------------------------------------------------------
+ .     USP attachment after sale of new            ___         ___          ___           ___          ___
+      license and approved by
+      Sybase (within 30 days of sale)
+------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+Notes:
+
+     1/st/ year USP sales need to be reported back to: Sybase Support Renewal
+Department, 561 Virginia Road, Concord MA 01742.
+
+                                   EXHIBIT C
+
+     Certain information on this page has been omitted and filed separately with
+the Securities and Exchange Commission. Confidential treatment has been
+requested with respect to omitted portions.
+</TEXT>
+</DOCUMENT>

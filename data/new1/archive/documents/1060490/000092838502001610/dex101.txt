@@ -1,0 +1,664 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>3
+<FILENAME>dex101.txt
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 10.1
+                                                                    ------------
+
+                                 Amendment No. 1
+
+                                       to
+
+                              Procurement Agreement
+
+
+This Amendment ("Amendment") is made and entered into effective this 22nd day of
+April, 2002, by and between Qwest Communications Corporation ("Qwest") and
+Corvis Operations, Inc. ("Corvis").
+
+                                  -WITNESSETH-
+
+WHEREAS, Qwest and Corvis are parties to that certain Procurement Agreement
+dated June 5, 2000 (the "Agreement"); and
+
+WHEREAS, Qwest and Corvis desire to amend the Agreement.
+
+NOW, THEREFORE in consideration of the foregoing premises and mutual promises
+and covenants of the Parties hereto, the receipt and sufficiency of which is
+hereby acknowledged, Qwest and Corvis agree to amend the Agreement as follows:
+
+
+1.    Unless specifically indicated otherwise, all capitalized terms used herein
+shall have the same meaning given to them in the Agreement. Notwithstanding the
+foregoing, all references to "Minimum Deployment Commitment" in the Agreement
+shall be changed to read "Purchase Commitment" and all references to the
+"Initial Deployment Commitment" shall be deleted.
+
+
+2.    Sections 1.1 - 1.4 are deleted in their entirety, and the following
+inserted in substitution thereof:
+
+1.1   Purchase Commitment. Qwest will purchase and accept from Corvis, subject
+to acceptance criteria, Equipment, Software and/or Services in quantities and in
+configurations priced at twelve million dollars US ($12,000,000) (the "Purchase
+Commitment"), seven million dollars US ($7,000,000) of which (the "Initial
+Purchase Commitment") must be purchased on or before December 29, 2002, and the
+balance of which, totalling five million dollars US ($5,000,000), must be
+purchased on or before December 29, 2003, in each case based on the prices and
+license fees set forth in the Price List attached hereto as Attachment 3.1 or in
+a Corvis sales quote. For purposes of the preceding sentence, Qwest will be
+deemed to have purchased a Product if Qwest has ordered the Product for delivery
+and acceptance before the end of the applicable period (i.e., [*] or [*]). The
+provisions of Section 1.11 of the Agreement shall not apply to the Purchase
+Commitment.
+
+[*] Confidential treatment requested
+
+<PAGE>
+
+1.2   Qwest Future Purchases. Qwest, in its sole discretion, may purchase
+additional Corvis Equipment, Software and/or Services in quantities and
+configurations at prices totalling up to one hundred thirty eight million
+dollars US ($138,000,000) Corvis will offer such Equipment and Software during
+the Initial Term based on the pricing set forth in the Price List attached
+hereto as Attachment 3.1, or in a Corvis sales quote. Because of the rapid pace
+of change in technology in the area of telecommunications equipment and the
+uncertainty as to the exact nature of Qwest's future system needs, it is agreed
+that, notwithstanding any other provision of this Agreement, including, among
+others, this Section 1.2, Qwest shall have no binding obligation to purchase
+Corvis Equipment, Software and Services beyond those amounts specified in
+Section 1.1 above, and Qwest shall have no liability to Corvis with respect to,
+or arising from, Qwest's failure, for any reason, to make any purchases under
+this Agreement beyond those set forth in Section 1.1 above, provided, however,
+that Purchase Orders shall constitute binding commitments in accordance with the
+terms of this Agreement.
+
+1.3   Incomplete Purchases Per Purchase Commitment. If Qwest fails to purchase,
+as provided in Section 1.1, a total dollar value of Corvis Equipment, Software
+and/or Services equal to or exceeding the Purchase Commitment within each
+relevant time period, Corvis may then invoice Qwest for an amount equal to the
+purchase price and license fees for such Corvis Equipment, Software and/or
+Services that Qwest failed to purchase pursuant to Section 1.1 for such time
+period (the "Purchase Shortfall") and Qwest shall pay such invoice within [*]
+days after receipt. If Qwest issues Purchase Orders for at least the amount of
+the Purchase Shortfall within such [*]-day payment period for delivery of
+Equipment, Software and/or Services within [*] months of such Purchase Orders,
+Qwest will receive a credit towards the Purchase Commitment for the full amount
+of the payment made for the Purchase Shortfall.
+
+1.4 [RESERVED]
+
+
+3.    Section 1.7 is deleted in its entirety, and the following inserted in
+substitution thereof:
+
+1.7   Alteration of Delivery Dates. Qwest will have the right to alter the
+destination site at least ten (10) days prior to Corvis' scheduled shipment date
+for Products, without cost or expense to Qwest, by timely transmitting notice to
+Corvis of the new Specified Site(s). In addition, Qwest may, by written notice
+to Corvis, unilaterally modify the content of any Purchase Order issued
+hereunder, so long as (i) such modification is received at least 12 weeks prior
+to the agreed delivery date of the affected Products, and (ii) the total dollar
+value of the Purchase Order is not reduced.
+
+
+4.    New Sections 1.14 - 1.21 are inserted, as follows:
+
+1.14  Release 1 Field Trial.
+
+[*] Confidential treatment requested
+
+                                      -2-
+
+<PAGE>
+
+(a) On or before [*], the Parties shall mutually agree in good faith upon: (i) a
+list of Equipment and Software (the " R1 Field Trial System"), (ii) equipment
+pricing, (iii) a test plan, including lab certification requirements, (iv)
+tests, (v) expected test results, and (vi) roles and responsibilities (the "R1
+Field Trial Test Plan") for Qwest to accomplish a field trial, as defined below,
+of the Corvis R 1 Field Trial System, using a budget not to exceed the Initial
+Purchase Commitment, unless otherwise agreed in writing. Corvis shall deliver to
+Qwest the R1 Field Trial System on or before [*] (the "R1 Delivery Date"). All
+equipment shall be NEBS 1 certified by NTRL according to the requirements set
+forth on Attachment 1.14 hereto. The R1 Field Trial System, and any Equipment to
+be loaned by Corvis to Qwest for the R1 Field Trial, shall be identified in
+Attachment 1.14 to the R1 Field Trial Test Plan. Qwest may use the R1 Field
+Trial System in accordance with the license specified in Section 1.18(a).
+
+(b) On or before [*], Corvis shall commence installation and turn up, at Corvis'
+expense, the R1 Field Trial System, and the R1 Field Trial, as defined below,
+shall also commence. The field trial will use current field or next generation
+fiber, at Qwest's option, and shall test the R1 Field Trial System in a test
+route or test configuration to be specified by Qwest (the "R1 Field Trial"). The
+R1 Field Trial shall be conducted in accordance with terms of this Section 1.14,
+Sections 1.16-1.20, and the R1 Field Trial Test Plan which, when executed by the
+Parties, shall be incorporated herein by reference. Should there be any conflict
+between the terms of the R1 Field Trial Test Plan and the Agreement as amended,
+the Agreement shall control.
+
+(c) The Parties shall use commercially reasonable efforts to conduct and
+complete the R1 Field Trial no later than [*]; provided, however, that Qwest's
+obligation to conduct the lab or R1 Field Trial shall not extend beyond [*]
+after the commencement of the R1 Field Trial, unless (i) such extension is
+necessitated by Qwest's failure to devote adequate resources to execution of the
+R1 Field Trial Test Plan, or (ii) an extension is agreed to in writing by the
+Parties. Should the R1 Field Trial System fail to meet any test criterion
+specified in the R1 Field Trial Test Plan, Qwest shall promptly notify Corvis of
+any such failure and Corvis shall diligently work to correct such failure. The
+R1 Field Trial shall be deemed successfully completed when the R1 Field Trial
+System passes the R1 Field Trial Test Plan, and Qwest shall certify such
+success, in writing, to Corvis within five (5) days thereafter. If the R1 Field
+Trial is not successfully completed, Qwest will ship the R1 Field Trial System
+to Corvis at Corvis' expense.
+
+(d) Upon successful completion of the R1 Field Trial and the R1 Field Trial
+System's passage of the R1 Field Trial Test Plan, Qwest shall purchase the R-1
+Field Trial System (other than any loaner equipment) at the prices specified in
+the R-1 Field Trial Agreement, and payment shall be made thirty (30) days after
+receipt of invoice. Purchase of the R-1 Field Trial System shall be counted
+toward the Purchase Commitment.
+
+(e) Subject to the last sentence of this Section 1.14(e), upon payment of the
+purchase price for any portion of the R1 Field Trial System by Qwest, that
+portion of the R1 Field Trial System will be deemed covered by the terms and
+conditions of the Agreement to the same extent as if that portion of the R1
+Field Trial System had been procured by Qwest pursuant to the Agreement, and the
+terms and conditions of this Section 1.14, and Sections 1.16 through 1.20 shall
+no longer apply to that portion of the R1 Field Trial System. Prior to the
+payment of the
+
+[*] Confidential treatment requested
+
+                                      -3-
+
+<PAGE>
+
+purchase price for the portion of the R1 Field Trial System, the terms and
+conditions of this Section 1.14, and 1.16 through 1.20, will apply to the R1
+Field Trial System. Any software right to use ("RTU") as specified in the Price
+List (attached  hereto as Attachment 3.1) associated with the R1 Field Trial
+System shall become due and payable if and when Qwest uses any component of the
+R1 Field Trial System to carry commercial traffic.
+
+
+1.15     Release 4 Field Trial.
+
+(a) On or before [*] the Parties shall mutually agree in good faith upon: (i) a
+list of Equipment and Software (the " R4 Field Trial System"), (ii) equipment
+pricing, (iii) a test plan, including lab certification requirements, (iv)
+tests, (v) expected test results, and (vi) roles and responsibilities (the "R4
+Field Trial Test Plan") for Qwest to accomplish a field trial, as defined below,
+of the Corvis R4 Field Trial System, using a budget not to exceed the Purchase
+Commitment, unless otherwise agreed in writing. Corvis shall deliver to Qwest
+the R4 Field Trial System on or before [*] (the "R4 Delivery Date"). All
+equipment shall be NEBS 1 certified by NTRL according to the requirements set
+forth in Attachment 1.14 to this Amendment. The R4 Field Trial System, and any
+Field Trial System to be loaned by Corvis to Qwest, shall be identified in
+Attachment 1.14 to the R4 Field Trial Test Plan. Qwest may use the Field Trial
+System in accordance with the license specified in Section 1.18(a).
+
+(b) On or before [*], Corvis shall commence installation and turn up, at Corvis'
+expense, the R4 Field Trial System, and the R4 Field Trial, as defined below,
+shall also commence. The field trial will use current field or next generation
+fiber, at Qwest's option, and shall test the R4 Field Trial System in a test
+route or test configuration to be specified by Qwest (the "R4 Field Trial"). The
+R4 Field Trial shall be conducted in accordance with terms of this Section 1.15,
+1.16 through 1.20, and the R4 Field Trial Test Plan which, when executed by the
+Parties, shall be incorporated herein by reference. Should there be any conflict
+between the terms of the R4 Field Trial Test Plan and the Agreement, as amended,
+the Agreement shall control.
+
+(c) The Parties shall use commercially reasonable efforts to conduct and
+complete the R4 Field Trial no later than [*]; provided, however, that Qwest's
+obligation to conduct the lab or R4 Field Trial shall not extend beyond [*] days
+after the commencement of the R4 Field Trial, unless (i) such extension is
+necessitated by Qwest's failure to devote adequate resources to execution of the
+R4 Field Trial Test Plan, or (ii) an extension is agreed to in writing by the
+Parties. Should the R4 Field Trial System fail to meet any test criterion
+specified in the R4 Field Trial Test Plan, Qwest shall promptly notify Corvis of
+any such failure and Corvis shall diligently work to correct such failure. The
+R4 Field Trial shall be deemed successfully completed when the R4 Field Trial
+System passes the R4 Field Trial Test Plan, and Qwest shall certify such
+success, in writing, to Corvis within five (5) days thereafter. If the R4 Field
+Trial is not successfully completed, Qwest will ship the R4 Field Trial System
+to Corvis at Corvis' expense.
+
+(d) Upon successful completion of the R4 Field Trial and the R4 Field Trial
+System's passage of the R4 Field Trial Test Plan, Qwest shall purchase the R4
+Field Trial System (other
+
+[*] Confidential treatment requested
+
+                                      -4-
+
+<PAGE>
+
+than any loaner equipment) at the prices specified in the R4 Field Trial
+Agreement, and payment shall be made thirty (30) days after receipt of invoice.
+Purchase of the R4 Field Trial System shall be counted toward the Purchase
+Commitment.
+
+(e)  Subject to the last sentence of this Section 1.15(e), upon payment of the
+purchase price for any portion of the R4 Field Trial System by Qwest, that
+portion of the R4 Field Trial System will be deemed covered by the terms and
+conditions of the Agreement to the same extent as if that portion of the R4
+Field Trial System had been procured by Qwest pursuant to the Agreement, and the
+terms and conditions of this Section 1.15 and Sections 1.16 through 1.20 shall
+no longer apply to that portion of the R4 Field Trial System. Prior to the
+payment of the Purchase Price for the R4 Field Trial System, the terms and
+conditions of Sections 1.15 through 1.20 will apply to the R4 Field Trial
+System. Any software right to use ("RTU") as specified in the Price List
+(attached hereto as Attachment 3.1) associated with the R4 Field Trial System
+shall become due and payable if and when Qwest uses any component of the R4
+Field Trial System to carry commercial traffic.
+
+1.16 Field Trial System Delivery Dates.
+
+(a)  Should Corvis fail to deliver the equipment on the R1 Delivery Date, then
+Corvis shall have [*] days thereafter to so deliver the equipment (the "R1
+Delivery Extension Period").
+
+(b)  Should Corvis fail to deliver the equipment on the R4 Delivery Date, then
+Corvis shall have [*] days thereafter to so deliver the equipment (the "R4
+Delivery Extension Period").
+
+(c)  If Corvis delivers the equipment during the R1 Delivery Extension Period or
+the R4 Delivery Extension Period, then the commencement date for the
+corresponding field trial, and the subsequent dates contemplated for that
+particular release's field trial, will be pushed back by the number of
+additional days after the applicable delivery date the equipment was actually
+delivered. If Corvis fails to deliver the equipment during the R1 Delivery
+Extension Period or the R4 Delivery Extension Period, then, unless otherwise
+agreed in writing by the Parties, Qwest shall have no obligation to proceed with
+the corresponding field trial.
+
+1.17 Reporting Obligations. Qwest shall provide oral feedback and evaluation
+data to Corvis that describes Qwest's experience with the Corvis Products. As to
+written feedback and evaluation, at a minimum, Qwest shall provide summary test
+data generated by the R1 and R4 Field Trials. Qwest agrees that it will notify
+Corvis of any errors in the Corvis Products within a reasonable time after such
+discovery. Qwest agrees to (i) meet with Corvis, upon Corvis' reasonable request
+to document such errors if any, and (ii) to discuss the performance of the
+Corvis Products and suggest ideas for improving Corvis' performance either in
+person or by telephone. Any such meeting will be at a location and time mutually
+agreed upon by Corvis and Qwest.
+
+[*]  Confidential treatment requested
+
+                                       -5-
+
+<PAGE>
+
+1.18 Field Trial License.
+
+(a)  Notwithstanding Sections 9.1 and 9.4 of the Agreement, subject to the terms
+and conditions of this Agreement, Corvis grants to Qwest a non-exclusive and
+non-transferable license (the "Field Trial License") to use the applicable Field
+Trial System and associated Software at the sites of the applicable Field Trial
+in object code form only solely for the purpose of internal evaluation of the
+Products with Qwest's equipment. Use of the Field Trial System and associated
+Software is restricted to the applicable Field Trial System. Use of the
+applicable Field Trial System is limited to the Software in the Field Trial
+System and as otherwise expressly provided for herein. Qwest may not relocate
+the applicable Field Trial System or knowingly give any third party, except as
+expressly allowed by this Agreement, access to the applicable Field Trial
+System, without Corvis' prior written consent. With respect to any third party
+software included with the applicable Field Trial System, Qwest will abide by
+the applicable terms and conditions for such third party software. Corvis may
+revoke the Field Trial License if Qwest breaches this license, or if the Field
+Trial is not successfully completed.
+
+1.19 Warranty. PRIOR TO QWEST'S FULL PAYMENT OF THE PURCHASE PRICE FOR THE R1
+FIELD TRIAL SYSTEM AND THE R4 FIELD TRIAL SYSTEM, AND NOTWITHSTANDING SECTIONS
+13.1, 13.2, AND 13.5-13.8 HEREOF: (i) SAID EQUIPMENT IS PROVIDED "AS-IS", AND
+(ii) CORVIS MAKES NO WARRANTIES WHATSOEVER, EXPRESS OR IMPLIED, WITH RESPECT TO
+ANY OF THE PRODUCTS OR SERVICES PROVIDED IN CONNECTION WITH THE R1 FIELD TRIAL
+AND THE R4 FIELD TRIAL, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+1.20 Risk of Loss. Notwithstanding Section 1.6 hereof, Qwest shall bear the risk
+of loss, theft, destruction of or damage to the R1 Field Trial System or R4
+Field Trial System up to a value of [*], beginning from Qwest's receipt of the
+Equipment at Qwest's location until such Equipment is placed with a carrier for
+shipping to Corvis, at Corvis' expense, pursuant to the provisions of the
+Agreement, including, without limitation, while such Equipment is in Qwest's
+possession or under its control, except to the extent such loss, theft,
+destruction or damage is caused by Corvis, its employees, contractors and/or
+agents.
+
+1.21 Testing of OC-192 Product. Within [*] days from execution of this
+Amendment, Corvis shall provide at no cost to Qwest, and Qwest shall accept
+delivery from Corvis of the Corvis OC-192 Product for completion of Qwest's lab
+certification process by Qwest; provided, however, that subject to Qwest's using
+reasonably diligent efforts to perform certification tests thereon, if the
+OC-192 Product has not achieved certification after [*] days of additional
+testing by Qwest, Qwest shall have no further obligation to test or certify such
+cards.
+
+[*]  Confidential treatment requested
+
+                                       -6-
+
+<PAGE>
+
+6.  A new Attachment 3.1 ("Price List") is inserted as Attachment 3.1 hereto,
+incorporated herein by reference. This Price List shall supersede and replace
+any prior Price List.
+
+7.  A new Section 3.3(f) is inserted:
+
+(f) PMSI. Until such time as Corvis is fully paid for Product shipped, as
+collateral security for the prompt and complete payment and performance of all
+obligations due hereunder, Qwest hereby pledges and assigns to Corvis, and
+grants to Corvis a purchase money security interest in, the Products. Qwest will
+assist Corvis in taking reasonable actions necessary to perfect and protect
+Corvis' security interest, including execution of a reasonable and standard
+purchase money security agreement. Once Corvis has received full payment for any
+Products, or Qwest has returned to Corvis any loaner Products or Products that
+Qwest may return pursuant to the terms of this Agreement, then Corvis shall make
+appropriate filings to release such security interests in said Products.
+
+8.  Section 4.1 is deleted in its entirety and the following inserted in
+substitution thereof:
+
+4.1 Term. The "Commencement Date" shall mean April 22, 2002. Subject to the
+terms and conditions of this Agreement, the initial term of this Agreement will
+be from the Effective Date of June 5, 2000 and continue thereafter until
+December 31, 2005 ("Initial Term"). This Agreement will be automatically renewed
+for successive one-year terms unless either Party gives notice of non-renewal at
+least 90 days before the expiration of the Initial Term or any renewal term;
+provided, however, that the Purchase Commitment shall not be renewed. The
+Initial Term in combination with any extensions is also referred to in this
+Agreement as the "Term".
+
+9.  Article 22 Notices, the "copy to" address for Qwest shall be changed to read
+as follows:
+
+    Qwest Communications
+    General Counsel
+    52nd Floor
+    1801 California Street
+    Denver Colorado 80202
+
+10. The following language is inserted at the end of Section 23.7:
+
+Upon execution of this Amendment No. 1, Corvis may issue a press release
+regarding the completion of this Amendment No. 1, subject to the written
+approval of Qwest regarding the content of said press release, which approval
+shall not be unreasonably withheld.
+
+[*] Confidential treatment requested
+
+                                       -7-
+
+<PAGE>
+
+11.  Each Party represents and warrants that this Amendment and any attachments
+thereto will constitute, when executed in full, the legal, valid and binding
+obligations of said Party, enforceable in accordance with their respective
+terms, subject to applicable bankruptcy, insolvency, reorganization, fraudulent
+transfer, moratorium or similar laws affecting the enforcement of creditors
+rights generally and general principles of equity.
+
+12.  Except as specifically amended herein, all terms, conditions and provisions
+contained in the Agreement shall remain unchanged and in full force and effect.
+
+IN WITNESS WHEREOF, the Parties have executed this Amendment on the day and year
+first above set forth.
+
+QWEST COMMUNICATIONS                          CORVIS Operations, Inc.
+  CORPORATION
+
+   /s/ James L. Becker                               /s/ Lynn D. Anderson
+----------------------------------            ----------------------------------
+         (SIGNATURE)                                (SIGNATURE)
+
+       James L. Becker                                  Lynn D. Anderson
+----------------------------------            ----------------------------------
+         (PRINT)                              (PRINT)
+
+
+      EVP - Network Ops. and Eng.                CFO
+----------------------------------            ----------------------------------
+         (TITLE)                               (TITLE)
+
+[*]  Confidential treatment requested
+
+                                       -8-
+
+<PAGE>
+
+                                 ATTACHMENT 1.14
+
+NEBS Level 1
+
+GR-63
+-----
+- System Fire Test and Material / Components Criteria
+
+GR-1089
+-------
+- Electrical SafetyA Listing Requirements
+- Bonding and Grounding
+- EMI-Emissions (or FCC Part 15 Compliance)
+- Short Circuit TestA Lightning Immunity (Second Level)
+- Current Limiting Protector Test
+- AC Power Fault Immunity (Second Level)
+- Voltage Limiting Protector Test
+
+
+[*] Confidential treatment requested
+
+                                       -9-
+
+<PAGE>
+
+                                 ATTACHMENT 3.1
+
+                                   Price List
+
+     ---------------------------------------------------------------------------
+     Corvis ON Unified                                Ordering       Selling
+     Network Platform                                   Code           Price
+     T-ONG-F
+     T-ONG-F LHN [*] Base Rack                                         $[*]
+     T-ONG-F Expansion                                                 $[*]
+
+     T-OA
+     T-2                                                [*]            $[*]
+     T-3                                                [*]            $[*]
+     T-2 [*]                                                           $[*]
+     T-3 [*]                                                           $[*]
+
+     T-OADM
+     T-OADM-HF [*]                                      [*]            $[*]
+     T-OADM-SC [*]                                                     $[*]
+
+     T-OS-F
+     T-OS-F 3 port [*]                                  [*]            $[*]
+     T-OS-F 4 port [*]                                  [*]            $[*]
+
+     DCUs
+     DCU Module                                                        $[*]
+     GFF                                                               $[*]
+
+     Miscellaneous
+     Element Controller                                 [*]            $[*]
+     [*] switch                                         [*]            $[*]
+     Shelf Kit [*]                                                     $[*]
+
+     Software RTU
+     Optical Network Gateway [*]                        [*]            $[*]
+     Optical Amplifiers [*]                             [*]            $[*]
+     Optical Add/Drop Multiplexer [*]                   [*]            $[*]
+     Optical Add/Drop Multiplexer [*]                                  $[*]
+     Optical Switch [*]                                 [*]            $[*]
+
+     Transport Interfaces
+     OC-768 LH [*]                                                     $[*]
+     OC-192LHN [*]                                                     $[*]
+     [*] Mux Client Interface                                          $[*]
+     OC-192HC [*]                                                      $[*]
+     ---------------------------------------------------------------------------
+
+[*] Confidential treatment requested
+
+                                      -10-
+
+<PAGE>
+
+
+--------------------------------------------------------------------------------
+                            DESCRIPTION                       PART      SELLING
+                                                             NUMBER      PRICE
+
+                         Corvis CorManager
+
+     CNM Base - standard Fault, Configuration, Performance
+     and Security Management                                   [*]        $[*]
+     [*]
+     CEI-ON/XF License                                         [*]        $[*]
+     CWP License [*]                                           [*]        $[*]
+
+     Additional Licenses
+     CNM license for OCS                                       [*]        $[*]
+     CNM license for ON Node (ONG, OADM, OS)                   [*]        $[*]
+     CNM license for ON [*]                                    [*]        $[*]
+     CNM license for ON [*]                                    [*]        $[*]
+     CNM user seats                                            [*]        $[*]
+     CWP user seats                                            [*]        $[*]
+
+     Optional CNM Application Suite A
+     Protection Management [*]                                 [*]        $[*]
+     Path Management                                           [*]        $[*]
+     OSS Gateway [*]                                           [*]        $[*]
+
+     Complete CNM Optional Application Suite A Upgrade         [*]        $[*]
+
+     Optional CNM Application Suite B
+     TruePath Manager[*]                                       [*]        $[*]
+     Multi-vendor Element Adapter                              [*]        $[*]
+
+     Complete CNM Optional Application Suite B Upgrade         [*]        $[*]
+
+     Optional CNM Application Suite C
+     High-Availability                                         [*]        $[*]
+     Disaster Recovery                                         [*]        $[*]
+     Web Access                                                [*]        $[*]
+
+     Complete CNM Optional Application Suite C Upgrade         [*]        $[*]
+
+
+     CNM Hardware Platform
+     High Availability / Disaster Recovery - [*]               [*]        $[*]
+
+     Corvis Element Controller Optional Hardware
+
+     Element Controller                                        [*]        $[*]
+     [*] Switch                                                [*]        $[*]
+
+     Corvis OCS TruePath Software
+
+     TruePath Instant Provisioning and Restoration [*]         [*]        $[*]
+     TruePath Bandwidth on Demand  [*]                         [*]        $[*]
+
+     Corvis ON TruePath Software
+
+     TruePath Instant Provisioning and Restoration  [*]
+          Node (ONG, OADM and OS) RTU                          [*]        $[*]
+          [*] RTU                                              [*]        $[*]
+     TruePath Bandwidth on Demand  [*]
+          Node (ONG, OADM and OS) RTU                          [*]        $[*]
+          [*] RTU                                              [*]        $[*]
+
+
+
+
+--------------------------------------------------------------------------------
+[*] Confidential treatment requested
+
+
+                                      -11-
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+Corvis OCS                                                                  Ordering Code     Unit Selling Price
+----------                                                                  -------------     ------------------
+<S>                                                               <C>       <C>               <C>
+OCS Racks
+
+    Rack Assy, OCS US Telco                                        Each          [*]                 $[*]
+         Power Distribution Control Unit, OCS                       1            [*]
+
+    Fiber Management Kit, OCS Vertical                             Each          [*]                 $[*]
+    Fiber Management Kit, OCS ETSI Vertical                        Each          [*]                 $[*]
+    Fiber Management Kit, OCS Vertical w/ Cable Storage            Each          [*]                 $[*]
+
+OCS Subracks
+
+    Subrack Assy, OCS I/O-E US Telco                               Each          [*]                 $[*]
+         Shelf Assy, OCS I/O-E                                      1            [*]                 $[*]
+         *Fan Assy, OCS Upper                                       2            [*]                 $[*]
+         *Filter, OCS Fan                                           1            [*]                 $[*]
+         *Module Assy, Power Access                                 2            [*]
+
+    Subrack Assy, OCS Center Stage US Telco                        Each          [*]                 $[*]
+         Shelf Assy, OCS Center Stage                               1            [*]                 $[*]
+         *Fan Assy, OCS Upper                                       2            [*]                 $[*]
+         *Filter, OCS Fan                                           1            [*]                 $[*]
+         *Module Assy, Power Access                                 2            [*]
+
+    Shelf Cover Assy, Unpopulated Shelf                            Each          [*]                 $[*]
+
+OCS I/O Modules
+
+    OC-192/STM-64 Specific I/O Modules
+    ==================================
+    *Module Assy, OCS [*] OC-192/STM-64 [*]                        Each          [*]                 $[*]
+    *Module Assy, OCS OC-192/STM-64 [*], SC Conn                   Each          [*]                 $[*]
+    Module Assy, OCS OC-192/STM-64 [*] Filler                      Each          [*]                 $[*]
+
+    OC-48/STM-16 Specific I/O Modules
+    =================================
+    *Module Assy, OCS [*] OC-48/STM-16 [*]                         Each          [*]                 $[*]
+    *Module Assy, OCS OC-48/STM-16 [*], SC Conn                    Each          [*]                 $[*]
+    Module Assy, OCS OC-48/STM-16 [*] Filler                       Each          [*]                 $[*]
+    Module Assy, OCS I/O-E [*] Filler                              Each          [*]                 $[*]
+
+OCS Switch Modules
+
+    *Module Assy, OCS Switch Single Shelf  [*]                     Each          [*]                 $[*]
+    *Module Assy, OCS Switch End Stage  [*]                        Each          [*]                 $[*]
+    Module Assy, OCS, Switch, Filler                               Each          [*]                 $[*]
+    *Module Assy, OCS Switch Center Stage                          Each          [*]                 $[*]
+
+OCS Synchronization Module
+
+    Module Assy, OCS Synchronization, US Telco Wire Wrap           Each          [*]                 $[*]
+    Module Assy, OCS Synchronization, US Telco Bantam              Each          [*]                 $[*]
+
+OCS Shelf Processor Modules
+
+    *Module Assy, OCS Shelf Processor [*]                          Each          [*]                 $[*]
+    Module Assy, OCS, SPROC, Filler                                Each          [*]                 $[*]
+
+
+OCS Software
+
+    OCS RTU per shelf                                              Each                              $[*]
+
+---------------------------------------------------------------------------------------------------------
+[*] Confidential treatment requested
+</TABLE>
+
+                                      -12-
+
+</TEXT>
+</DOCUMENT>

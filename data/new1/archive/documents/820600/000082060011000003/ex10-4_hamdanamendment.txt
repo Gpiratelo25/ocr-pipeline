@@ -1,0 +1,54 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>3
+<FILENAME>ex10-4_hamdanamendment.txt
+<DESCRIPTION>EXHIBIT 10.4, HAMDAN AMENDMENT
+<TEXT>
+                    AMENDMENT AGREEMENT
+
+This amendment agreement dated as of December 31, 2010 (the
+"Fourth Amendment Agreement") is between Omagine, Inc.
+(formerly Alfa International Holdings Corp.), a Delaware
+corporation (the "Company") and Sam Hamdan, an individual
+("Hamdan").
+
+This Fourth Amendment Agreement is an amendment to that
+certain consulting agreement dated March 19, 2007 to which
+the Company and Hamdan are Parties (the "March Agreement")
+as amended by that certain "Amendment Agreement" dated
+December 31, 2007, that certain "Second Amendment Agreement"
+dated December 31, 2008 and that certain "Third Amendment
+Agreement" dated December 31, 2009 is made pursuant to
+Section 12 thereof.  All capitalized terms in this Fourth
+Amendment Agreement shall, unless otherwise indicated
+herein, have the meanings assigned to them in the March
+Agreement (a copy of which is attached hereto as Exhibit A.)
+
+The Parties hereby agree as follows:
+
+     1.  The words in Section 2(ii) of the March Agreement,
+         the Amended Agreement, the Second Amendment
+         Agreement and the Third Amendment Agreement are
+         hereby deleted in their entirety and replaced by
+         the following words: "December 31, 2011, or"
+
+     2.  All other terms and conditions of the March
+         Agreement remain in full force and effect.
+
+
+IN WITNESS WHEREOF, the Parties have executed this Fourth
+Amendment Agreement as of December 31, 2010.
+
+
+Sam Hamdan                        Omagine, Inc.
+                                  a Delaware corporation
+
+
+By:  /s/ Sam Hamdan               By:  /s/ Frank J. Drohan
+   ------------------                -----------------------
+        Sam Hamdan                        Frank J. Drohan
+                                          President
+
+
+</TEXT>
+</DOCUMENT>

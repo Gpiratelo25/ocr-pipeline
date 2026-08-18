@@ -1,0 +1,634 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<FILENAME>anth_10.txt
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+                                                                  Exhibit 10.1
+
+
+                             AMENDED AND RESTATED
+                         INVESTMENT ADVISORY AGREEMENT
+
+
+         AGREEMENT, dated as of March 11, 2004, between Anthracite Capital,
+Inc. (the "Company"), a Maryland corporation, and BlackRock Financial
+Management, Inc. (the "Manager"), a Delaware corporation.
+
+         WHEREAS, the Company is a real estate finance company that generates
+income based on the spread between the interest income on its mortgage loans
+and securities investments and the interest expense from borrowings used to
+finance its investments. The Company seeks to earn high returns on a
+risk-adjusted basis to support a consistent quarterly dividend. The Company
+expects to qualify for the tax benefits accorded by Sections 856 through 860
+of the Internal Revenue Code of 1986, as amended (the "Code");
+
+         WHEREAS, the Company desires to retain the Manager to acquire, sell
+and otherwise manage the investments of the Company and to perform certain
+supervisory services for the Company in the manner and on the terms set forth
+herein;
+
+         WHEREAS, the Company and the Manager entered into that certain
+Amended and Restated Investment Advisory Agreement, dated as of March 27, 2003
+(the "Prior Agreement");
+
+         WHEREAS, the Manager and the Company desire to amend and restate the
+Prior Agreement in its entirety as set forth below; and
+
+         WHEREAS, this Agreement amends and restates the Prior Agreement in
+all respects.
+
+         NOW THEREFORE, in consideration of the mutual promises and agreements
+herein contained and other good and valuable consideration, the receipt of
+which is hereby acknowledged, it is agreed by and between the parties hereto
+as follows:
+
+         1. Certain Definitions
+
+            (a) "Affiliate" means, when used with reference to a specified
+person, (i) any person that directly or indirectly controls or is controlled
+by or is under common control with the specified person, (ii) any person that
+is an officer of, partner in or trustee of, or serves in a similar capacity
+with respect to, the specified person or of which the specified person is an
+officer, partner or trustee, or with respect to which the specified person
+serves in a similar capacity and (iii) any person that, directly or
+indirectly, is the beneficial owner of 5% or more of any class of equity
+securities of the specified person or of which the specified person is
+directly or indirectly the owner of 5% or more of any class of equity
+securities; provided, however, that neither the Company nor any of its
+controlled Affiliates will be treated as an Affiliate of the Manager or any of
+its Affiliates.
+
+            (b) "Agreement" means this Amended and Restated Investment
+Advisory Agreement, as amended from time to time.
+
+            (c) "Board of Directors" means the Board of Directors of the
+Company.
+
+            (d) "GAAP" means accounting principles generally accepted in the
+United States of America.
+
+            (e) "Mortgage-Backed Securities" means debt obligations (bonds)
+that are secured by Mortgage Loans or mortgage certificates.
+
+            (f) "Mortgage Loans" means multifamily, residential and commercial
+term loans secured by real property.
+
+            (g) "Quarterly Average Total Stockholders' Equity" means the
+average of (i) the Total Stockholders' Equity at the end of the quarter
+preceding the applicable quarter and (ii) the Total Stockholders' Equity at
+the end of the applicable quarter, as reported in the Company's publicly filed
+financial statements.
+
+            (h) "REIT Provisions of the Code" means Sections 856 through 860
+of the Code.
+
+            (i) "Ten-Year U.S. Treasury Rate" means the arithmetic average of
+the weekly average yield to maturity for actively traded current coupon U.S.
+Treasury fixed interest rate securities (adjusted to constant maturities of
+ten years) published by the Federal Reserve Board during a quarter, or if such
+rate is not published by the Federal Reserve Board, any Federal Reserve Bank
+or agency or department of the federal government selected by the Company. If
+the Company determines in good faith that the Ten-Year U.S. Treasury Rate
+cannot be calculated as provided above, then the rate shall be the arithmetic
+average of the per annum average yields to maturities, based upon closing
+asked prices on each business day during a quarter, for each actively traded
+marketable U.S. Treasury fixed interest rate security with a final maturity
+date not less than eight nor more than twelve years from the date of the
+closing asked prices as chosen and quoted for each business day in each such
+quarter in New York City by at least three recognized dealers in U.S.
+government securities selected by the Company.
+
+            (j) "Unaffiliated Directors" shall mean those directors serving on
+the Board of Directors who (a) do not own greater than a de minimis interest
+in the Manager or any of its Affiliates or (b) within the last two years, have
+not directly or indirectly (i) been an officer of or employed by the Company
+or the Manager or any of their respective Affiliates, (ii) been a director of
+the Manager or any of its Affiliates, (iii) performed more than a de minimis
+amount of services for the Manager or any of its Affiliates or (iv) had any
+material business or professional relationship with the Manager or any of its
+Affiliates.
+
+         2. In General
+
+         The Manager agrees, as more fully set forth herein, to act as
+investment adviser to the Company with respect to the investment of the
+Company's assets and to supervise and arrange the purchase of securities and
+loans for and the sale of securities and loans held in the investment
+portfolio of the Company. The Manager shall manage the business affairs of the
+Company in conformity with the policies that are approved and monitored by the
+Board of Directors. The Manager shall prepare regular reports for the Board of
+Directors that will review the Company's acquisitions of assets, portfolio
+composition and characteristics, credit quality, performance and compliance
+with the policies approved by the Board of Directors. The Manager shall
+allocate investment and disposition opportunities in accordance with policies
+and procedures the Manager considers fair and equitable, including, without
+limitation, such considerations as investment objectives, restrictions and
+time horizons, availability of cash and the amount of existing holdings.
+
+         3. Duties and Obligations of the Manager with Respect to Investment
+            of Assets of the Company
+
+            (a) Subject to the succeeding provisions of this Section and
+subject to the direction and control of the Board of Directors, the Manager
+will be responsible for the day-to-day operations of the Company and will
+perform (or cause to be performed) such services and activities relating to
+the assets and operations of the Company as may be appropriate, including, but
+not limited to:
+
+                  (i) providing a complete program of investing and
+reinvesting the capital and assets of the Company in pursuit of the Company's
+investment objectives and in accordance with the policies adopted by the Board
+of Directors from time to time;
+
+                  (ii) serving as the Company's consultant with respect to
+formulation of investment criteria and preparation of policy guidelines by the
+Board of Directors;
+
+                  (iii) assisting the Company in developing criteria for
+mortgage asset purchase commitments that are specifically tailored to the
+Company's investment objectives and making available to the Company the
+Company's knowledge and experience with respect to mortgage assets and other
+real estate related assets;
+
+                  (iv) counseling the Company in connection with policy
+decisions made by the Board of Directors;
+
+                  (v) evaluating and recommending hedging strategies to the
+Board of Directors in accordance with hedging guidelines and policies adopted
+by the Board of Directors, and engaging in hedging activities on behalf of the
+Company, consistent with the Company's status as a REIT;
+
+                  (vi) maintaining the Company's exemption from regulation as
+an investment company under the Investment Company Act of 1940, as amended
+(the "Investment Company Act");
+
+                  (vii) representing the Company in connection with the
+purchase and commitment to purchase or sell mortgage assets, including the
+accumulation of Mortgage Loans for securitization and the incurrence of debt;
+
+                  (viii) arranging for the issuance of Mortgage-Backed
+Securities from pools of Mortgage Loans owned by the Company;
+
+                  (ix) furnishing reports and statistical and economic
+research to the Company regarding the Company's activities and the services
+performed for the Company by the Manager;
+
+                  (x) monitoring and providing to the Board of Directors on an
+ongoing basis price information and other data, obtained from certain
+nationally recognized dealers that maintain markets in mortgage assets
+identified by the Board of Directors from time to time, and providing data and
+advice to the Board of Directors in connection with the identification of such
+dealers;
+
+                  (xi) administering the day-to-day operations of the Company
+and performing and supervising the performance of such other administrative
+functions necessary in the management of the Company as may be agreed upon by
+the Manager and the Board of Directors;
+
+                  (xii) contracting, as necessary, with third parties for
+master servicing and special servicing of assets acquired by the Company;
+
+                  (xiii) communicating on behalf of the Company with the
+holders of the equity and debt securities of the Company as required to
+satisfy the reporting and other requirements of any governmental bodies or
+agencies and to maintain effective relations with such holders;
+
+                  (xiv) causing the Company to qualify to do business in all
+applicable jurisdictions;
+
+                  (xv) causing the Company to retain qualified accountants and
+legal counsel to assist in developing appropriate accounting procedures,
+compliance procedures and testing systems and to conduct quarterly compliance
+reviews;
+
+                  (xvi) assisting the Company in complying with all regulatory
+requirements applicable to the Company in respect of its business activities,
+including preparing or causing to be prepared all financial statements
+required under applicable regulations and contractual undertakings and all
+reports and documents, if any, required under the Securities Exchange Act of
+1934, as amended (the "Exchange Act");
+
+                  (xvii) assisting the Company in making all required tax
+filings and reports and maintaining its status as a REIT, including soliciting
+stockholders for required information to the extent provided in the REIT
+Provisions of the Code;
+
+                  (xviii) performing such other services as may be required
+from time to time for management and other activities relating to the assets
+of the Company as the Board of Directors shall reasonably request or the
+Manager shall deem appropriate under the particular circumstances; and
+
+                  (xix) using all reasonable efforts to cause the Company to
+comply with all applicable laws.
+
+            (b) In the performance of its duties under this Agreement, the
+Manager shall at all times use all reasonable efforts to conform to and act in
+accordance with any requirements imposed by (i) the status of the Company as a
+REIT as defined in the REIT Provisions of the Code; (ii) the Company's status
+as an entity exempt from regulation under the Investment Company Act; (iii)
+any other applicable provision of law; (iv) the provisions of the Articles of
+Incorporation and By-Laws of the Company, as such documents are amended from
+time to time; (v) the investment objectives and policies of the Company as set
+forth in its Registration Statement on Form S-11; and (vi) any policies and
+determinations of the Board of Directors.
+
+            (c) The Manager will bear all costs and expenses of the Manager's
+officers and employees and any overhead incurred in connection with the
+Manager's duties hereunder, the cost of office space and equipment required
+for performance of the Manager's duties and shall bear the costs of any
+salaries or directors' fees of any officers or directors of the Company who
+are Affiliates of the Manager, except that the Board of Directors may approve
+reimbursement to the Manager of the Company's pro rata portion of the
+salaries, bonuses, health insurance, retirement benefits and all similar
+employment costs for the time spent on Company operations and administration
+(other than the provision of services covered by Section 3(a) above) of all
+personnel employed by the Manager who devote substantial time to Company
+operations and administration or the operations and administration of other
+companies advised by the Manager; provided that the Manager shall not be
+expected to bear the following expenses: issuance and transaction costs
+incident to the acquisition, disposition and financing of investments, legal,
+accounting and auditing fees and expenses, the compensation and expenses of
+the Company's Unaffiliated Directors, the costs of printing and mailing
+proxies and reports to stockholders, costs incurred by employees of the
+Manager for travel on behalf of the Company, costs associated with any
+computer software or hardware that is used solely for the Company, costs to
+obtain liability insurance to indemnify the Company's directors and officers,
+the Manager and its employees and directors and any underwriters, and the
+compensation and expenses of the Company's custodian and transfer agent, if
+any. The Company will also be required to pay all expenses incurred in
+connection with due diligence, the accumulation of Mortgage Loans, the master
+and special servicing of Mortgage Loans, the issuance and administration of
+Mortgage-Backed Securities from pools of Mortgage Loans or otherwise, the
+raising of capital, the incurrence of debt, the acquisition of assets,
+interest expenses, taxes and license fees, non-cash costs, litigation, the
+base and incentive management fee and extraordinary or non-recurring expenses.
+
+            (d) The Manager shall give the Company the benefit of its best
+judgment and effort in rendering services hereunder.
+
+            (e) Nothing in this Agreement shall prevent the Manager or any
+partner, officer, employee or other Affiliate of the Manager from acting as
+investment adviser for any other person, firm or corporation, or from engaging
+in any other lawful activity, and shall not in any way limit or restrict the
+Manager or any of its shareholders, officers, employees or agents from buying,
+selling or trading any securities for its or their own accounts or for the
+accounts of others for whom it or they may be acting; provided, however that
+the Manager will not undertake activities which, in its judgment, will
+substantially and adversely affect the performance of its obligations under
+this Agreement.
+
+            (f) The Manager shall maintain an appropriate books of accounts
+and records relating to services performed under this Agreement, and such
+books of accounts and records shall be accessible for inspection by
+representatives of the Company or any of its subsidiaries at any time during
+normal business hours. The Manager shall keep confidential any and all
+information obtained in connection with the services rendered under this
+Agreement and shall not disclose any such information to nonaffiliated third
+parties except with the prior written consent of the Board of Directors or as
+may be required by law or order of a court or other tribunal having requisite
+jurisdiction.
+
+            (g) The Manager shall require each seller or transferor of assets
+to be acquired by the Company to make such representations and warranties
+regarding such assets as may be directed by the Board of Directors, or, if no
+such directions are given, as may, in the judgment of the Manager, be
+necessary and appropriate. In addition, the Manager shall take such other
+action as may be directed by the Board of Directors, or, if no such directions
+are given, as it deems necessary or appropriate with regard to the protection
+of the Company's assets.
+
+         4. Portfolio Transactions and Brokerage
+
+         The Manager is authorized, for the purchase and sale of the Company's
+assets, to employ such securities dealers as may, in the judgment of the
+Manager, implement the policy of the Company to obtain the best net results
+taking into account such factors as price, including dealer spread, the size,
+type and difficulty of the transaction involved, the firm's general execution
+and operational facilities and the firm's risk in positioning the securities
+involved. Consistent with this policy, the Manager is authorized to direct the
+execution of the Company's portfolio transactions to dealers and brokers
+furnishing statistical information or research deemed by the Manager to be
+useful or valuable to the performance of the Manager's investment advisory
+functions for the Company.
+
+         5. Compensation of the Manager
+
+         (a) The Company agrees to pay to the Manager and the Manager agrees
+to accept as full compensation for all services rendered by the Manager as
+such, (i) a quarterly base management fee calculated as 2% of the Quarterly
+Average Total Stockholders' Equity for the applicable quarter and (ii)
+incentive compensation in an amount equal to the product of 25% of the dollar
+amount by which:
+
+         (1) net income of the Company (before incentive fee) determined in
+         accordance with GAAP, plus $534,623.47 (the "Fixed Amount") for each
+         fiscal quarter for which a calculation is made under this Section
+         (provided, that, if this Agreement is not renewed pursuant to Section
+         7 hereof or, in the event this Agreement is so renewed, if the terms
+         of this Section 5(a)(ii)(1) are amended to modify the Fixed Amount,
+         then the Fixed Amounts which would have been payable through and
+         including the quarter ended December 31, 2005 shall be included in
+         the final calculation made pursuant to this Section 5(a)(ii)(1) prior
+         to giving effect to any such non-renewal or modification; provided,
+         further, that the Fixed Amount for the quarter ended December 31,
+         2005 shall be deemed to be $446,141.80)
+
+         exceeds
+
+         (2) an amount equal to (A) the weighted average of the price per
+         share of the Common Stock in the initial public offering and the
+         prices per share of Common Stock in any secondary offerings of Common
+         Stock by the Company, including, without limitation, issuances of
+         Common Stock pursuant to the Company's Dividend Reinvestment and
+         Stock Purchase Plan, private placements, public offerings and
+         exercises of options granted under the Company's 1998 Stock Option
+         Plan, multiplied by (B) the greater of: (i) 8.5% or (ii) the Ten-Year
+         U.S. Treasury Rate plus 4.0% per annum (expressed as a quarterly
+         percentage) multiplied by (C) the weighted average number of shares
+         of Common Stock outstanding during such quarter.
+
+         Calculation of the incentive fee payable to the Manager shall be
+calculated using a rolling four-quarter high watermark (the "Watermark"). In
+determining the Watermark, the Manager shall calculate the incentive fee based
+upon the current and prior three quarters' net income (the "Yearly Incentive
+Fee"). The Company shall pay the Manager an incentive fee in the current
+quarter if the Yearly Incentive Fee is greater than the amount the Company
+paid to the Manager in the prior three quarters cumulatively. Calculation of
+the incentive fee shall be based on GAAP and adjusted to exclude special
+one-time events pursuant to changes in GAAP accounting pronouncements, or
+other one-time events, after discussion between the Manager and the
+Unaffiliated Directors.
+
+         For any period less than a fiscal quarter during which this Agreement
+is in effect, the fee shall be prorated according to the proportion which such
+period bears to a full quarter of 90, 91 or 92 days, as the case may be.
+
+         (c) The management fees earned under Section 5(a)(i) will be payable
+in arrears. The Manager shall compute the compensation payable under Section
+5(a) of this Agreement within 45 days after the end of each calendar quarter.
+A copy of the computations made by the Manager to calculate its compensation
+shall thereafter promptly be delivered to the Board of Directors and, upon
+such delivery, payment of the compensation earned under Section 5(a) of this
+Agreement shown therein shall be due and payable within 60 days after the end
+of such fiscal quarter. If requested by the Manager, the Company will make
+advance payments of the base management fee in Section 5(a)(i) above as often
+as semi-monthly at the rate of 75% of such fee estimated by the Manager.
+
+         (d) The base management fee is intended to compensate the Manager for
+its costs in providing management services to the Company. The Board of
+Directors may adjust the base management fee with the consent of the Manager
+in the future if necessary to align the fee more closely with the costs of
+such services.
+
+         6. Indemnity
+
+         (a) The Company hereby agrees to indemnify the Manager and each of
+the Manager's shareholders, officers, employees, agents, associates and
+controlling persons and the shareholders, officers, employees and agents
+thereof (including any individual who serves at the Manager's request as
+director, officer, partner, trustee or the like of another corporation) (each
+such person being an "indemnitee") against any liabilities and expenses,
+including amounts paid in satisfaction of judgments, in compromise or as fines
+and penalties, and counsel fees (all as provided in accordance with applicable
+corporate law) reasonably incurred by such indemnitee in connection with the
+defense or disposition of any action, suit or other proceeding, whether civil
+or criminal, before any court or administrative or investigative body in which
+he may be or may have been involved as a party or otherwise or with which he
+may be or may have been threatened, while acting in any capacity set forth
+above in this Section 6 or thereafter by reason of his having acted in any
+such capacity, except with respect to any matter as to which he shall have
+been adjudicated not to have acted in good faith in the reasonable belief that
+his action was in the best interests of the Company and furthermore, in the
+case of any criminal proceeding, so long as he had no reasonable cause to
+believe that the conduct was unlawful; provided, however, that (1) no
+indemnitee shall be indemnified hereunder against any liability to the Company
+or its stockholders or any expense of such indemnitee arising by reason of (i)
+willful misfeasance, (ii) bad faith, (iii) gross negligence or (iv) reckless
+disregard of the duties involved in the conduct of his position (the conduct
+referred to in such clauses (i) through (iv) being sometimes referred to
+herein as "disabling conduct"), (2) as to any matter disposed of by settlement
+or a compromise payment by such indemnitee, pursuant to a consent decree or
+otherwise, no indemnification either for such payment or for any other
+expenses shall be provided unless there has been a determination that such
+settlement or compromise is in the best interests of the Company and that such
+indemnitee appears to have acted in good faith in the reasonable belief that
+his action was in the best interests of the Company and did not involve
+disabling conduct by such indemnitee and (3) with respect to any action, suit
+or other proceeding voluntarily prosecuted by any indemnitee as plaintiff,
+indemnification shall be mandatory only if the prosecution of such action,
+suit or other proceeding by such indemnitee was authorized by a majority of
+the Board of Directors.
+
+         (b) The Company shall make advance payments in connection with the
+expenses of defending any action with respect to which indemnification might
+be sought hereunder if the Company receives a written affirmation of the
+indemnitee's good faith belief that the standard of conduct necessary for
+indemnification has been met and a written undertaking to reimburse the
+Company unless it is subsequently determined that he is entitled to such
+indemnification and if a majority of the Board of Directors determine that the
+facts then known to them would not preclude indemnification. In addition, at
+least one of the following conditions must be met: (A) the indemnitee shall
+provide a security for his undertaking, (B) the Company shall be insured
+against losses arising by reason of any lawful advances or (C) a majority of a
+quorum consisting of directors of the Company who are neither affiliated
+persons of the Company nor parties to the proceeding ("Disinterested Non-Party
+Directors") or an independent legal counsel in a written opinion, shall
+determine, based on a review of readily available facts (as opposed to a full
+trial-type inquiry), that there is reason to believe that the indemnitee
+ultimately will be found entitled to indemnification.
+
+         (c) All determinations with respect to indemnification hereunder
+shall be made (1) by a final decision on the merits by a court or other body
+before whom the proceeding was brought that such indemnitee is not liable by
+reason of disabling conduct or (2) in the absence of such a decision, by (i) a
+majority vote of a quorum of the Disinterested Non-Party Directors of the
+Company or (ii) if a majority vote of such quorum so directs, independent
+legal counsel in a written opinion. All determinations that advance payments
+in connection with the expense of defending any proceeding shall be authorized
+shall be made in accordance with the immediately preceding clause (2).
+
+         (d) The rights accruing to any indemnitee under these provisions
+shall not exclude any other right to which he may be lawfully entitled.
+
+         7. Duration and Termination
+
+         This Agreement shall commence on the date hereof for an initial term
+expiring on March 31, 2005. Thereafter, successive extensions, each for a
+period not to exceed one year, may be made by agreement between the Company
+and the Manager, with the approval of a majority of the Unaffiliated Directors
+until terminated or assigned under the provisions of this Section 7 or Section
+9, as the case may be, of this Agreement.
+
+         Upon termination of this Agreement by the Company, the Company is
+obligated to pay the Manager a termination fee that will be determined by
+independent appraisal other than in the case of termination by the Company for
+cause (as described below). The Company may terminate, or decline to renew the
+term of, this Agreement without cause at any time upon 60 days' written notice
+by a majority vote of the Unaffiliated Directors; provided that the Company
+shall pay the Manager a termination fee determined by independent appraisal of
+the value of this Agreement. Such appraisal is to be conducted by a nationally
+recognized appraisal firm mutually agreed upon by the Company and the Manager.
+If the Company and the Manager are unable to agree upon an appraisal firm,
+then each of the Company and the Manager is to choose an independent appraisal
+firm to conduct an appraisal. In such event, (i) if the appraisals prepared by
+the two appraisers so selected are the same or differ by an amount that does
+not exceed 20% of the higher of the two appraisals, the termination fee is to
+be deemed to be the average of the appraisals as prepared by each party's
+chosen appraiser and (ii) if these two appraisals differ by more than 20% of
+such higher amount, the two appraisers together are to select a third
+appraisal firm to conduct an appraisal. If the two appraisers are unable to
+agree as to the identity of such third appraiser, either of the Manager and
+the Company may request that the American Arbitration Association ("AAA")
+select the third appraiser. The termination fee then is to be the amount
+determined by such third appraiser, but in no event shall the termination fee
+be less than the lower of the two initial appraisals or more than the higher
+of such two initial appraisals. Each party shall pay the costs of the
+appraisers chosen by it, and each party shall pay one half of the costs of the
+third appraiser. Any appraisal hereunder shall be performed no later than 45
+days following selection of the appraiser or appraisers.
+
+         At the option of the Company, this Agreement, or any extension
+hereof, shall be and become terminated with cause upon 60 days' prior written
+notice of termination from the Board of Directors to the Manager, without
+payment of any termination fee, if any of the following events occur: (i) if
+the Manager commits a material breach of any provision of this Agreement
+(including any material breach of the provisions contained in Section 3(a) and
+(b) herein) and, after notice of such violation, shall not cure such violation
+within 30 days; or (ii) there is entered an order for relief or similar decree
+or order with respect to the Manager by a court having competent jurisdiction
+in an involuntary case under the federal bankruptcy laws as now or hereafter
+constituted or under any applicable federal or state bankruptcy, insolvency or
+other similar laws; or the Manager (A) ceases, or admits in writing its
+inability, to pay its debts as they become due and payable, or makes a general
+assignment for the benefit of, or enters into any composition or arrangement
+with, creditors; (B) applies for, or consents (by admission of material
+allegations of a petition or otherwise) to the appointment of a receiver,
+trustee, assignee, custodian, liquidator or sequestrator (or other similar
+official) of the Manager or of any substantial part of its properties or
+assets, or authorizes such an application or consent, or proceedings seeking
+such appointment are commenced without such authorization, consent or
+application against the Manager and continue undismissed for 30 days; or (C)
+authorizes or files a voluntary petition in bankruptcy, or applies for or
+consents (by admission of material allegations of a petition or otherwise) to
+the application of any bankruptcy, reorganization, arrangement, readjustment
+of debt, insolvency, dissolution, liquidation or other similar law of any
+jurisdiction, or authorizes such application or consent, of proceedings to
+such end are instituted against application or consent, or proceedings to such
+end are instituted against the Manager without such authorization, application
+or consent and are approved as properly instituted and remain undismissed for
+30 days or result in adjudication of bankruptcy or insolvency; or (D) permits
+or suffers all or any substantial part of its properties or assets to be
+sequestered or attached by court order and the order remains undismissed for
+30 days.
+
+         The Manager agrees that if any of the events specified above occur,
+it will give prompt written notice thereof to the Board of Directors after the
+occurrence of such event.
+
+         Upon written request from the Company, the Manager shall prepare,
+execute and deliver to a successor manager any and all documents and other
+instruments, place in such successor manager's possession all files and do or
+cause to be done all other acts or things necessary or appropriate to effect
+the purposes of such notice of termination, to the successor manager at the
+Manager's sole expense; provided, however, that the Manager shall be entitled
+to retain copies of all such documents and other instruments as it may be
+required by federal or state law. The Manager agrees to cooperate with Company
+and such successor manager in effecting the termination of the Manager's
+responsibilities and rights under this Agreement.
+
+         8. Action Upon Termination.
+
+         From and after the effective date of termination of this Agreement
+pursuant to Section 7 hereof, the Manager shall not be entitled to
+compensation for further services under this Agreement, but shall be paid all
+compensation accruing to the date of termination and, if such termination is
+not for cause, the termination fee determined pursuant to Section 7. The
+Manager shall forthwith upon such termination deliver to the Board of
+Directors all funds and property, documents, corporate records, reports and
+software of the Company or any subsidiary of the Company then in the custody
+of Manager; provided, however, that the Manager shall be entitled to retain
+copies of all such documents and other instruments as it may be required by
+federal or state law.
+
+         9. Assignment
+
+         This Agreement may not be assigned without the prior written consent
+of all the parties to this Agreement. For the foregoing purposes, "assigned"
+shall have the meaning ascribed to it under the Investment Advisers Act of
+1940, as amended and the rules promulgated thereunder.
+
+         10. Notices
+
+         Any notice under this Agreement shall be in writing to the other
+party at such address as the other party may designate from time to time for
+the receipt of such notice and shall be deemed to be received on the earlier
+of the date actually received or on the fourth day after the postmark if such
+notice is mailed first class postage prepaid.
+
+         11. Governing Law
+
+         This Agreement shall be construed in accordance with the laws of the
+State of New York for contracts to be performed entirely therein without
+reference to choice of law principles thereof.
+
+         12. Amendments
+
+         This Agreement shall not be amended, changed, modified, terminated or
+discharged in whole or in part except by an instrument in writing signed by
+all parties hereto, or their respective successors or assigns, or otherwise as
+provided herein.
+
+         13. Severability
+
+         The invalidity or unenforceability of any provision of this Agreement
+shall not affect the validity of any other provision, and all other provisions
+shall remain in full force and effect.
+
+         14. Entire Agreement
+
+         This instrument contains the entire agreement between the parties as
+to the rights granted and the obligations assumed in this instrument.
+
+         15. Counterparts
+
+         This Agreement may be signed by the parties in counterparts which
+together shall constitute one and the same agreement among the parties.
+
+         16. Manager Brochure
+
+         The Company hereby acknowledges that it has received from the Manager
+a copy of the Manager's Form ADV, Part II, at least forty-eight hours prior to
+entering into this Agreement.
+
+
+<PAGE>
+
+
+         IN WITNESS WHEREOF, the parties hereto have caused the foregoing
+instrument to be executed by their duly authorized officers, all as of the
+date and the year first above written.
+
+                                         ANTHRACITE CAPITAL, INC.
+
+
+                                         By:
+                                            -------------------------------
+                                         Name:   Chris A. Milner
+                                         Title:  President and Chief
+                                                 Executive Officer
+
+
+                                         BLACKROCK FINANCIAL MANAGEMENT, INC.
+
+
+                                         By:
+                                            -------------------------------
+                                         Name:   Laurence D. Fink
+                                         Title:  Chairman and Chief
+                                                 Executive Officer
+
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,1306 @@
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>d86428ex99-2.txt
+<DESCRIPTION>AMENDED/RESTATED ADMINISTRATIVE SERVICES AGREEMENT
+<TEXT>
+
+<PAGE>   1
+                                                                    EXHIBIT 99.2
+
+
+
+
+
+                              AMENDED AND RESTATED
+                        ADMINISTRATIVE SERVICES AGREEMENT
+
+                            EFFECTIVE APRIL 23, 2001
+
+
+
+
+
+
+                                 BY AND BETWEEN
+
+                THE WILLIAMS COMPANIES, INC. AND ITS SUBSIDIARIES
+                             (THE "WILLIAMS GROUP")
+
+                                       AND
+
+            WILLIAMS COMMUNICATIONS GROUP, INC. AND ITS SUBSIDIARIES
+                          (THE "COMMUNICATIONS GROUP")
+
+
+
+
+
+
+
+
+
+                                   SUPERSEDES:
+
+(1) The May 27, 1999, Technical, Management and Administrative Services
+Agreement by and between Williams International Company and Communications (the
+"1999 INTERNATIONAL SERVICES AGREEMENT");
+
+(2) The September 30, 1999, the Administrative Services Agreement by and between
+the Williams Group and the Communications Group (THE "1999 ADMINISTRATIVE
+SERVICES AGREEMENT"); and
+
+(3) The September 30, 1999, the Service Agreement for Data Processing and
+Computer related services by and between Williams Information Services
+Corporation and the Communications Group (the "1999 DATA PROCESSING SERVICE
+AGREEMENT").
+
+
+
+
+
+<PAGE>   2
+
+
+                              AMENDED AND RESTATED
+                        ADMINISTRATIVE SERVICES AGREEMENT
+
+                                TABLE OF CONTENTS
+
+
+
+<TABLE>
+<S>                                                                                                              <C>
+1.   SERVICES.....................................................................................................2
+
+   1.1    TERMINATION OF THE PRIOR AGREEMENTS.....................................................................2
+   1.2    SCOPE OF SERVICES.......................................................................................2
+
+2.   CHARGES FOR SERVICES.........................................................................................3
+
+   2.1    SERVICE CHARGES.........................................................................................3
+   2.2    SURCHARGE...............................................................................................4
+   2.3    INVOICES................................................................................................4
+
+3.   TAXES........................................................................................................7
+
+
+4.   NO SET-OFF RIGHT.............................................................................................7
+
+
+5.   MANNER AND TIME OF PERFORMANCE...............................................................................7
+
+
+6.   BOOKS AND RECORDS............................................................................................8
+
+   6.1    RECORDS.................................................................................................8
+   6.2    RIGHT TO AUDIT..........................................................................................8
+
+7.   INDEPENDENT CONTRACTOR.......................................................................................8
+
+
+8.   CONFIDENTIALITY..............................................................................................8
+
+   8.1    COMMUNICATIONS INFORMATION..............................................................................8
+   8.2    WILLIAMS INFORMATION....................................................................................8
+
+9.   TERM OF AGREEMENT............................................................................................8
+
+   9.1    INITIAL TERM; RENEWAL; PARTIAL TERMINATION; TERMINATION.................................................8
+   9.2    TERMINATION FOR CAUSE...................................................................................9
+   9.3    POST-TERMINATION OBLIGATIONS............................................................................9
+
+10.  ASSIGNMENT...................................................................................................9
+
+
+11.  INDEMNIFICATION.............................................................................................10
+
+   11.1   INDEMNIFICATION OF WILLIAMS............................................................................10
+   11.2   INDEMNIFICATION OF COMMUNICATIONS......................................................................10
+   11.3   LIMITATION AND SURVIVAL................................................................................10
+
+12.  INSURANCE...................................................................................................10
+
+   12.1   OBLIGATION TO OBTAIN...................................................................................10
+   12.2   POLICY REQUIREMENTS....................................................................................11
+   12.3   WAIVER OF SUBROGATION..................................................................................11
+   12.4   BLANKET POLICIES.......................................................................................11
+
+13.  LITIGATION..................................................................................................11
+
+13.1  WILLIAMS LITIGATION........................................................................................11
+</TABLE>
+
+
+
+
+
+<PAGE>   3
+
+<TABLE>
+<S>                                                                                                             <C>
+13.2    COMMUNICATIONS LITIGATION................................................................................12
+
+14.     WARRANTY OF SERVICE......................................................................................12
+
+
+15.     LIMITATION OF LIABILITY..................................................................................13
+
+
+16.     FORCE MAJEURE............................................................................................13
+
+
+17.     NO THIRD PARTY BENEFICIARY...............................................................................14
+
+
+18.     MUTUAL COOPERATION.......................................................................................14
+
+
+19.     COMPLIANCE WITH LAWS.....................................................................................14
+
+
+20.     GOVERNING LAW............................................................................................15
+
+
+21.     IMPROPER PAYMENTS........................................................................................15
+
+
+22.     NOTICES..................................................................................................15
+
+
+23.     FURTHER ASSURANCES.......................................................................................16
+
+
+24.     WAIVER...................................................................................................16
+
+
+25.     DISPUTE RESOLUTION.......................................................................................16
+
+
+26.     CONSTRUCTION.............................................................................................16
+
+
+27.     SUBCONTRACTORS...........................................................................................16
+
+
+28.     AMENDMENT................................................................................................16
+
+
+29.     ENTIRE AGREEMENT.........................................................................................17
+
+
+30.     SEVERABILITY.............................................................................................17
+
+
+31.     CONFLICT WITH SERVICE LEVEL AGREEMENTS...................................................................17
+
+
+32.     COUNTERPARTS.............................................................................................17
+</TABLE>
+
+
+
+
+
+<PAGE>   4
+
+
+
+                                   ATTACHMENTS
+
+
+
+ATTACHMENT A:  SERVICE LEVEL AGREEMENTS
+
+ATTACHMENT B:  SELECTED CERTIFIED PUBLIC ACCOUNTANTS
+
+
+
+<PAGE>   5
+
+
+
+             AMENDED AND RESTATED ADMINISTRATIVE SERVICES AGREEMENT
+
+
+THIS AMENDED AND RESTATED ADMINISTRATIVE SERVICES AGREEMENT (this "AGREEMENT")
+is made and entered into as of the 23rd day of April 2001 (the "EFFECTIVE
+DATE"), by and between
+
+         The Williams Companies, Inc., a Delaware corporation ("WILLIAMS"), and
+         those certain subsidiaries of Williams listed on the Signature Pages of
+         this Agreement (collectively the "WILLIAMS SUBSIDIARIES" and, together
+         with Williams, the "WILLIAMS GROUP"),
+
+         and
+
+         Williams Communications Group, Inc., a Delaware corporation,
+         ("COMMUNICATIONS") and those certain subsidiaries of Communications
+         listed on the Signature Pages of this Agreement (collectively THE
+         "COMMUNICATIONS SUBSIDIARIES" and, together with Communications, the
+         "COMMUNICATIONS GROUP").
+
+The parties to this Agreement are collectively referred to herein as the
+"PARTIES", and singularly as a "PARTY". Where the context indicates that there
+are two parties to this Agreement (such as references to the "other Party",
+"either Party", "neither Party"), "Party" shall be deemed to refer to Williams
+(as the representative of the Williams Group) and Communications (as the
+representative of the Communication Group). The Williams Group and the
+Communications Group are collectively referred to herein as the "Groups" and
+singularly as a "Group."
+
+WHEREAS, Williams plans to spin-off a portion of the issued and outstanding
+Communications Class A common stock, par value $.01 per share, held by Williams
+to the shareholders of Williams (the "SPIN-OFF");
+
+WHEREAS, the Williams Group and the Communications Group entered into multiple
+agreements during 1999 regarding the delivery of services from the Williams
+Group to facilitate the operations of the Communications Group;
+
+WHEREAS, the parties desire to supersede the Prior Agreements (as defined
+hereafter);
+
+WHEREAS, the Communications Group desires to continue to obtain certain Services
+from the Williams Group to facilitate the operations of the Communications Group
+upon the terms and subject to the conditions that are set forth in this
+Agreement and the Williams Group desires to continue to provide such Services;
+
+WHEREAS, the Williams Group desires to continue to obtain certain services from
+the Communications Group to facilitate the operations of the Williams Group upon
+the terms and subject to the conditions that are set forth in this Agreement and
+the Communications Group desires to continue to provide such services; and
+
+
+
+
+<PAGE>   6
+
+WHEREAS, the Williams Group and the Communications Group desire to establish new
+arrangements regarding Services in contemplation of the Spin-Off;
+
+NOW, THEREFORE, in consideration of the foregoing premises and the mutual
+promises and obligations contained herein, the Parties hereto agree as follows:
+
+1.       SERVICES.
+
+         1.1      Termination of the Prior Agreements.
+
+         The Parties acknowledge that (1) on May 27, 1999, Williams
+         International Company and Communications entered into a Technical,
+         Management and Administrative Services Agreement on (the "1999
+         INTERNATIONAL SERVICES AGREEMENT"); (2) on September 30, 1999, the
+         Williams Group and the Communications Group entered into an
+         Administrative Services Agreement (THE "1999 ADMINISTRATIVE SERVICES
+         AGREEMENT"); and (3) on September 30, 1999, Williams Information
+         Services Corporation and the Communications Group entered into a
+         Service Agreement for Data Processing and Computer related services on
+         September 30, 1999 (the "1999 DATA PROCESSING SERVICE AGREEMENT"). The
+         1999 International Services Agreement, the 1999 Administrative Services
+         Agreement, and the 1999 Data Processing Service Agreement shall be
+         collectively referred to herein as the "PRIOR AGREEMENTS".
+
+         As of the Effective Date, the Prior Agreements are hereby terminated
+         and the terms and conditions of this Agreement supersede and replace
+         those of the Prior Agreements, except for obligations arising under the
+         Prior Agreements prior to such termination.
+
+         1.2      Scope of Services.
+
+         The term "SERVICES" as used in this Agreement means each of the
+         services set forth in a Service Level Agreement attached hereto as
+         Attachment A, and incorporated as part of this Agreement, as well as
+         any other services ("ADDITIONAL SERVICES") that the Williams Group or
+         the Communications Group provides at the written request of a Vice
+         President, President, or Chairman of the other Group. Certain Services
+         shall also be subject to the Supplemental Terms and Conditions attached
+         to Attachment A. The Party providing Services shall be referred to
+         herein as the "PROVIDER" and the Party receiving the Services shall be
+         referred to herein as the "RECIPIENT". The Parties acknowledge that in
+         the event the Communications Group provides Services or Additional
+         Services to the Williams Group, such services shall be provided by
+         Williams Communications, LLC or one of its subsidiaries.
+
+         The Provider shall use its reasonable efforts to provide Additional
+         Services using available personnel. Neither Group shall be obligated to
+         retain additional personnel in order to provide the requested
+         Additional Services. In the event Additional Services are requested and
+         the Provider agrees to provide such Additional Services, the Parties
+         shall amend Attachment A as soon as practicable thereafter to include
+         the requested Additional Services. Except as set forth to the contrary
+         in this Agreement, for Services provided to
+
+
+
+
+
+                                       2
+<PAGE>   7
+
+         the Communications Group under the Prior Agreements the course of
+         dealing between the Williams Group and the Communications Group under
+         the Prior Agreements shall define the scope of each Service. Neither
+         Group shall be obligated under this Agreement to provide, or pay for,
+         other services, including any services provided under the Prior
+         Agreements not included in this Agreement. Provided however, that if
+         services are discovered that are not included under a Service Level
+         Agreement hereunder and the Recipient desires to continue to receive
+         such service, the applicable Service Level Agreement will be amended
+         and the Recipient shall pay the associated charges for such service
+         retroactively to the Effective Date hereof. In the event the Recipient
+         desires to discontinue such service upon its discovery, the Recipient
+         shall not be obligated to pay for the past delivery of such service.
+
+         1.3      The Parties agree that any Services obtained hereunder by the
+         Recipient or any wholly owned subsidiary of Recipient shall be used for
+         internal purposes only and shall not be resold to third parties;
+         provided however, Services may be provided to third parties in the
+         event of a divestiture or other corporate combination under a
+         transition services agreement with the acquiring entity. The Parties
+         specifically acknowledge that Communications may provide Services it
+         acquires hereunder to Platinum Equity Holdings (now known as Nextira),
+         the entity that acquired Williams Communications Services.
+
+2.       CHARGES FOR SERVICES.
+
+         2.1      Service Charges.
+
+         In consideration of Services rendered, the Recipient shall pay for
+         Services performed by the Provider (the "SERVICE CHARGES"). Except for
+         Additional Services, Service Charges shall be computed in accordance
+         with individual Service Level Agreements in Attachment A. Charges for
+         Additional Services shall be computed:
+
+         (a)      pursuant to the written agreement between the Parties executed
+                  after the Effective Date of this Agreement; or
+
+         (b)      if there is no such agreement, then in accordance with the
+                  computational method for the Service set forth in Attachment A
+                  that, in the Provider's bona fide judgment, is most similar to
+                  the Additional Service, provided that if no such Service is,
+                  in the Provider's bona fide judgment, reasonably similar to
+                  such Additional Service, then at prevailing market rates for
+                  similar services.
+
+         The intent of the parties with respect to payment for Services
+         performed hereunder is that the Service Charges includes (i) the
+         charges for Services computed in accordance with individual Service
+         Level Agreements in Attachment A; (ii) other reasonable out-of-pocket
+         expenses incurred by the Provider upon the written request or approval
+         of the Recipient, and reasonable expenses with respect to travel and
+         charges by third parties incurred by the Provider on behalf of the
+         Recipient and upon its written request or subject to its written
+         approval, shall be reimbursed to the Provider; and (iii) amounts
+         expended
+
+
+
+
+                                       3
+<PAGE>   8
+
+         by the Provider on behalf of the Recipient pursuant to Section 13
+         (including settlement costs and reasonable expenses associated
+         therewith including attorneys' fees and expenses and court costs) shall
+         be reimbursed to the Provider.
+
+         For any Services based on headcount, headcount shall be determined by
+         Williams' general accounting group on a monthly basis from the prior
+         month end (as of the last day of the month).
+
+         2.2      Surcharge.
+
+         From the Effective Date to December 31, 2001, the Provider shall be
+         entitled to charge an additional amount equal to 11.00% of the total
+         Services Charges for all Services provided hereunder (THE "SURCHARGE")
+         (unless otherwise provided in the attached Service Level Agreements in
+         Attachment A). The Surcharge represents those costs incurred by the
+         Provider that are not billed to the individual Provider cost centers
+         under the existing expense accounting processes. The Surcharge and the
+         Service Charges shall be collectively referred to herein as the "TOTAL
+         CHARGES". Except as otherwise provided in a Service Level Agreement the
+         Surcharge: (a) applies to any Services the Provider provides internally
+         and administrative fees associated with providing those Services and
+         (b) does apply to any externally provided product/service (e.g.
+         catering, travel expenses, overnight delivery, postage, office
+         products, copy paper, external consultants).
+
+         The Surcharge shall not apply to the IT Service Level Agreements
+         (numbered IT-1 through IT-21), the North/South Parking Garage Service
+         Level Agreement (ASF-3), the Travel Services Service Level Agreement
+         (ASF-10), the Technology Center Parking Garage (ASF-14), the Business
+         Media Services Service Level Agreements (BMS-1 through BMS-10), the
+         Employee Connections Service Level Agreement (HR-5), the Warren Clinic
+         Service Level Agreement (HR-17), or the Strategic Sourcing Service
+         Level Agreement (SS-1).
+
+         2.3      Invoices.
+
+         With respect to the Total Charges, the Provider shall submit invoices
+         to the Recipient on at least a monthly basis in the amounts determined
+         in accordance with this Section 2. The Recipient shall pay or cause to
+         be paid each invoice submitted pursuant to the foregoing sentence
+         within thirty (30) calendar days after the receipt by the Recipient of
+         such invoice (except with respect to amounts in any such invoice that
+         are objectively and manifestly in error). If the Recipient questions
+         the amount of any such invoice, the manner of its computation, or the
+         underlying data on which the invoice was based, it shall pay the
+         related invoice in accordance with the preceding sentence (except with
+         respect to amounts in any such invoice that are objectively and
+         manifestly in error) and thereafter notify the Provider of such
+         questions and, for a period of thirty (30) days thereafter, the
+         Provider shall make or cause to be made available to the Recipient, its
+         employees and designees, at a location in the Provider's headquarters
+         designated by the Provider during normal business hours, all
+         documentation necessary for the Recipient to review the
+
+
+
+
+                                       4
+<PAGE>   9
+
+         invoice, the computation and the data (the Provider shall retain such
+         documentation as set forth in Section 6.1). If, upon completion of the
+         review, the Parties are not in agreement upon the amount of the
+         invoice, the amount shall be referred to the nationally recognized firm
+         of certified public accountants set forth on Attachment B attached
+         hereto and made a part hereof, which firm shall make a final binding
+         decision as to the correct amount of the invoice. If the firm
+         identified on Attachment B determines in its sole judgment that it
+         cannot maintain its independence for any reason, the Parties shall
+         mutually agree on an alternate firm to review the dispute in accordance
+         with this Agreement. In the event that it is determined that the
+         correct amount of the invoice is less than the amount that was paid by
+         the Recipient with regard thereto, the Provider shall promptly refund
+         the excess amount to the Recipient. The Groups shall equally share in
+         the cost associated with retaining such firm of certified public
+         accountants. Nothing herein shall be deemed to prevent either Group
+         from proposing adjustments to prior invoices after payment thereof; the
+         Groups shall propose such adjustments by written notice and shall
+         resolve any disputes arising from such proposed adjustments in the
+         manner set forth above.
+
+         If either Group fails to pay as and when due and payable any amount
+         hereunder (including, without limitation, the Total Charges but
+         excluding disputed amounts), then either Williams or Communications, as
+         the case may be, shall pay interest on such amount from the due date up
+         to and including the date when such amount and all interest thereon are
+         paid in full at the rate per annum equal to the prime rate of Citibank
+         N.A., plus one percent (1%). For the purposes hereof, the "PRIME RATE
+         OF CITIBANK N.A." shall mean the annual rate of interest announced from
+         time to time by Citibank N.A. as a reference rate then in effect for
+         determining annual interest rates of U.S. dollar commercial loans.
+
+         Until the Recipient notifies the Provider otherwise, invoices shall be
+         delivered in written, tangible form (including by facsimile or
+         electronic invoicing)to the following addresses:
+
+IF TO WILLIAMS OR ANY WILLIAMS SUBSIDIARY:
+
+IF TO CORPORATE:
+
+         THE WILLIAMS COMPANIES
+         ONE WILLIAMS CENTER
+         TULSA, OKLAHOMA  74712
+         ATTENTION:  KAY POPE (48-8)
+                    GENERAL ACCOUNTING DEPARTMENT
+
+IF TO WISC:
+
+         WILLIAMS INFORMATION SERVICES CORPORATION
+         ONE WILLIAMS CENTER
+         TULSA, OKLAHOMA  74172
+         ATTENTION:  JOE B. JONES (33-7)
+
+
+
+
+                                       5
+<PAGE>   10
+
+IF TO WILLIAMS RELOCATION MANAGEMENT:
+
+         WILLIAMS RELOCATION MANAGEMENT
+         ONE WILLIAMS CENTER
+         TULSA, OKLAHOMA  74172
+         ATTENTION:  MICHAEL BRADLEY (MD-WRM)
+
+IF TO COMMUNICATIONS OR ANY COMMUNICATIONS SUBSIDIARY (INVOICES FOR INFORMATION
+TECHNOLOGY SERVICES):
+
+         WILLIAMS COMMUNICATIONS GROUP, INC.
+         320 SO. BOSTON
+         7TH FLOOR, NORTHEAST
+         TULSA, OKLAHOMA  74102
+         ATTENTION:  LARRY WIMMER, MANAGER, FINANCIAL ANALYSIS
+
+IF TO COMMUNICATIONS OR ANY COMMUNICATIONS SUBSIDIARY (ALL OTHER INVOICES):
+
+         WILLIAMS COMMUNICATIONS GROUP, INC.
+         ONE WILLIAMS CENTER
+         MD 27-1
+         TULSA, OKLAHOMA  74172
+         ATTENTION:  TRACY HEARON, DIRECTOR, PROCESS ADMINISTRATION
+
+         2.4      The Parties acknowledge that the Initial Term for the majority
+of Services expires December 31, 2001. The Provider shall not be obligated to
+provide Services beyond the Initial Term. Except as otherwise agreed, with
+respect to Service Charges for Services with an Initial Term expiring on
+December 31, 2001:
+
+         (a)      On or before June 30, 2001, the Provider shall provide the
+                  Recipient with a list of Services the Provider is willing to
+                  provide beyond December 31, 2001 ("Secondary Term Services").
+
+         (b)      On or before July 31, 2001, the Recipient shall designate
+                  which Secondary Term Services it is interested in obtaining
+                  from the Provider ("Selected Secondary Term Services").
+
+         (c)      On or before September 1, 2001, the Provider shall provide a
+                  proposed pricing scheme for the Services Charges for the
+                  Selected Secondary Term Services to the Recipient ("Secondary
+                  Term Pricing"). The Secondary Term Pricing shall designate a
+                  fixed price or a defined cost-plus basis for the Services.
+
+         (d)      On or before November 30, 2001, Recipient shall accept
+                  (subject to negotiation of a binding agreement or renewal) or
+                  reject the proposed Secondary Term Pricing. In the event
+                  Recipient fails to respond by November 30, 2001 for any of the
+
+
+
+
+
+                                       6
+<PAGE>   11
+
+                  Selected Secondary Term Services, Provider shall assume such
+                  failure to respond means a rejection of the Secondary Term
+                  Pricing.
+
+         (e)      On or before December 31, 2001, the affected Parties shall
+                  execute an amended Service Level Agreement for all Selected
+                  Secondary Term Services accepted by the Recipient.
+
+         For other Services with an Initial Term that expires after December 31,
+         2001, the affected Parties shall follow the same process set forth
+         above with the Provider indicating whether or not it is willing to
+         provide the Services beyond the expiration of the Initial Term six (6)
+         months prior to the expiration of the Initial Term.
+
+3.       TAXES.
+
+The Recipient shall be responsible for payment to the Provider of all goods and
+services tax and any other tax that is applicable to the Total Charges payable
+by the Recipient hereunder. The Williams Group and the Communications Group
+shall cooperate with each other and take reasonable steps to minimize the total
+tax obligations arising under this Agreement, provided that neither the Williams
+Group nor the Communications Group shall have any obligation to increase its own
+tax liability.
+
+4.       NO SET-OFF RIGHT.
+
+Neither the Williams Group nor the Communications Group shall have a right to
+set off any amounts owed by the Recipient to the Provider under this Agreement,
+notwithstanding any rule of law or provision otherwise in any other agreement,
+except that, if:
+
+         (a)      Williams becomes insolvent, the Communications Group shall
+                  have the right to set off any amounts it owes under this
+                  Agreement against amounts that the Williams Group owes it
+                  under this Agreement; and
+
+         (b)      Communications becomes insolvent, the Williams Group shall
+                  have the right to set off any amounts it owes under this
+                  Agreement against amounts that the Communications Group owes
+                  it under this Agreement.
+
+5.       MANNER AND TIME OF PERFORMANCE.
+
+The Provider shall perform or cause to be performed the Services hereunder with
+the same degree of care, skill and diligence with which it performs or would
+perform similar services for itself and its respective subsidiaries and
+affiliates consistent with practices as of the Effective Date (including,
+without limitation, with respect to the type, quantity, quality and timeliness
+of such services).
+
+
+
+
+
+
+                                       7
+<PAGE>   12
+
+6.       BOOKS AND RECORDS.
+
+         6.1      Records.
+
+         The Provider shall maintain and retain books, records, documents and
+         other written evidence, consistent with its normal accounting
+         procedures and practices (collectively, the "RECORDS"), sufficient to
+         accurately, completely and properly reflect the performance of the
+         Services hereunder and the amounts due in accordance with any provision
+         of this Agreement, provided that to the extent any Service Charge or
+         credit is based on other than a fixed amount, the Provider shall retain
+         the relevant Records for a period of two (2) years after issuing the
+         relevant invoice.
+
+         6.2      Right to Audit.
+
+         For a period of two (2) years after issuance of an invoice, the
+         Provider shall provide the Recipient and its representatives access,
+         subject to reasonable notice, at all times during normal business hours
+         to the Records for any purpose deemed appropriate by the Recipient
+         relating to the confirming, checking, reviewing, examining, auditing or
+         verifying the accuracy of the invoices submitted to them. Recipient
+         shall reimburse the Provider for any costs incurred as a result of such
+         audit.
+
+7.       INDEPENDENT CONTRACTOR.
+
+In performing the Services hereunder, the Provider shall operate as and have the
+status of an independent contractor, subject only to the general direction of
+the Recipient regarding the Services to be rendered as opposed to the method of
+performance of the Services.
+
+8.       CONFIDENTIALITY.
+
+         8.1      Communications Information.
+
+         All non-public information provided by any member of the Communications
+         Group or by any of their respective representatives pursuant to this
+         Agreement shall be confidential and not disclosed to any person except
+         with the consent of Communications.
+
+         8.2      Williams Information.
+
+         All non-public information provided by any member of the Williams Group
+         or by any of their respective representatives pursuant to this
+         Agreement shall be confidential and not disclosed to any person except
+         with the consent of Williams.
+
+9.       TERM OF AGREEMENT.
+
+         9.1      Initial Term; Renewal; Partial Termination; Termination.
+
+         This Agreement shall continue in force from the Effective Date through
+         December 31, 2001 (the "INITIAL TERM"), and shall automatically renew
+         for additional one (1) year terms thereafter (the "RENEWAL TERMS");
+         provided, however, that either
+
+
+
+
+                                       8
+<PAGE>   13
+
+         Communications or Williams (as the Provider or the Recipient) may
+         terminate any Service being provided at any time and from time to time
+         by providing ninety (90) days advance written notice of such
+         termination to the other Group. Any such termination shall be effective
+         on the time and date stated therein; provided, however, for fixed fee
+         based Services, termination shall be effective at the end of a month,
+         unless otherwise provided. Either Group shall have the right to
+         terminate any Renewal Term of this Agreement by providing one hundred
+         and eighty (180) days advance written note of such termination of the
+         other Group.
+
+         9.2      Termination for Cause.
+
+         Either Communications or Williams may terminate this Agreement or any
+         addendum to this Agreement (i) for any material breach or default of
+         the other Group if such breach or default is not corrected within
+         thirty (30) days of giving written notice of such breach or default to
+         the defaulting Group; or (ii) immediately and without notice upon
+         insolvency or the commencement of any proceedings under any bankruptcy
+         or insolvency laws by or against the member of the other Group
+         performing a Service or obligated to pay for a Service; or (iii)
+         immediately and without notice upon the assignment by the member of the
+         other Group performing a Service or obligated to pay for a Service of
+         all or substantially all of its property for the benefit of its
+         creditors.
+
+         In the event that the Recipient fails to pay any amount that is
+         required to be paid hereunder when due and such payment is not
+         thereafter made within fifteen (15) business days after the date on
+         which the Provider has notified the Recipient in writing of such
+         failure to pay, the Provider may at its option and without further
+         notice immediately terminate the Services after the expiration of such
+         fifteen (15) business day period.
+
+         9.3      Post-Termination Obligations.
+
+         Upon termination of this Agreement or any individual Service provided
+         hereunder, the Recipient shall reimburse the Provider for all unpaid
+         amounts due as provided for in Section 2 incurred by the Provider up to
+         such date of termination; provided that if the Provider has received
+         more than the portion of such unpaid amounts due as provided for under
+         Section 2 as of the date of termination, the Provider shall reimburse
+         the Recipient the portion of such unpaid amounts to which it is not
+         entitled under Section 2.
+
+         Upon termination of this Agreement, the Provider will, at the request
+         of the Recipient, transfer to the Recipient historical data then in the
+         Provider's custody relating to the Services provided hereunder to the
+         Recipient.
+
+10.      ASSIGNMENT.
+
+No member of either Group shall assign, in whole or in part, any of the rights,
+obligations or benefits of this Agreement without the prior written consent of
+the other Group, except that either Group may assign its rights (but not its
+obligations, except as expressly provided otherwise) hereunder to any of its
+affiliates or majority owned subsidiaries.
+
+
+
+
+                                       9
+<PAGE>   14
+
+11.      INDEMNIFICATION.
+
+         11.1     Indemnification of Williams.
+
+         Communications and each member of the Communications Group will,
+         jointly and severally, and to the fullest extent permitted by
+         applicable law, indemnify and hold harmless Williams, Williams
+         Subsidiaries and their respective officers, directors, agents and
+         employees (collectively, THE "WILLIAMS INDEMNITEES") from and against
+         all claims, demands, damages, losses, liabilities, costs or expenses
+         (including, without limitation, reasonable attorneys' fees and
+         expenses) (collectively, "COSTS") incurred or suffered by an Williams
+         Indemnitee as a result of the Services; provided, however, that the
+         foregoing terms of this sentence shall not apply to the extent such
+         Costs result from or arise out of the negligence or willful misconduct
+         of the Williams Group or any member thereof.
+
+         11.2     Indemnification of Communications.
+
+         Williams and each member of the Williams Group will, jointly and
+         severally, and to the fullest extent permitted by applicable law,
+         indemnify and hold harmless Communications, Communications Subsidiaries
+         and their respective officers, directors, agents and employees
+         (collectively, the "COMMUNICATIONS INDEMNITEES") from and against all
+         Costs incurred or suffered by a Communications Indemnitee as a result
+         of the Services; provided, however, that the foregoing terms of this
+         sentence shall not apply to the extent such Costs result from or arise
+         out of the negligence or willful misconduct of the Communications Group
+         or any member thereof.
+
+         11.3     Limitation and Survival.
+
+         In no case shall Costs be deemed to include Total Charges. This Section
+         11 shall survive the termination of the other terms of this Agreement.
+
+12.      INSURANCE.
+
+         12.1     Obligation to Obtain.
+
+         During the Initial Term or the Renewal Term, the Groups shall each
+         obtain and maintain not less than the following insurance:
+
+         (a)      Commercial General Liability Insurance, with a combined single
+                  limit of $5,000,000 for bodily injury and property damage per
+                  occurrence and in the aggregate.
+
+         (b)      Worker's Compensation Insurance in amounts required by
+                  applicable law and Employers Liability Insurance with limits
+                  not less than $1,000,000 each accident. If work is to be
+                  performed in Nevada, North Dakota, Ohio, Washington,
+
+
+
+
+                                       10
+<PAGE>   15
+
+                  Wyoming or West Virginia, the party shall participate in the
+                  appropriate state fund(s) to cover all eligible employees and
+                  provide a stop gap endorsement.
+
+         (c)      Automobile Liability Insurance with a combined single limit of
+                  $2,000,000 for bodily injury and property damage per
+                  occurrence, to include coverage for all owned, non-owned, and
+                  hired vehicles.
+
+         The limits set forth above are minimum limits and shall not be
+         construed to limit the liability of either Group.
+
+         12.2     Policy Requirements.
+
+         Each Group shall obtain and maintain the insurance policies required
+         above with companies rated A- or better by Best's Key Rating Guide or
+         with a similar rating by another generally recognized rating agency.
+         The other Group, its affiliates, officers, directors, and employees,
+         and any other party entitled to indemnification hereunder shall be
+         named as additional insureds to the extent of such indemnification.
+         This insurance will be primary insurance with respect to the interests
+         of the additional insured, and any other insurance maintained by or on
+         behalf of the additional insured is excess and not contributory with
+         this insurance. Each Group shall provide the other Group with an
+         insurance certificate confirming compliance with the insurance
+         requirements of this Section 12. The insurance certificate shall
+         indicate that the other Group shall be notified not less than thirty
+         (30) calendar days prior to any cancellation or material change in
+         coverage. If either Group provides any of the foregoing coverages
+         through a claims-made policy basis, that Group shall cause such policy
+         or policies to be maintained for at least three (3) years beyond the
+         expiration of this Agreement.
+
+         12.3     Waiver of Subrogation.
+
+         The Groups shall each obtain from the insurance companies providing the
+         coverages required by this Agreement a waiver of all rights of
+         subrogation or recovery in favor of the other Group and, as applicable,
+         its members, managers, shareholders, affiliates, assignees, officers,
+         directors, and employees or any other party entitled to indemnity under
+         this Agreement to the extent of such indemnity.
+
+         12.4     Blanket Policies.
+
+         Nothing in this Agreement shall be construed to prevent either Group
+         from satisfying its insurance obligations pursuant to this Agreement
+         under a blanket policy or policies of insurance that meet or exceed the
+         requirements of this Section 12.
+
+13.      LITIGATION.
+
+         13.1     Williams Litigation.
+
+
+
+
+                                       11
+<PAGE>   16
+
+         In the event that any litigation, proceeding, or investigation by or
+         before any court or governmental agency or body is commenced or
+         threatened against Williams or any member of the Williams Group after
+         the Effective Date of this Agreement and that relates to Services
+         rendered hereunder and arises out of or is based solely upon the past,
+         present, or future business or operations of Communications or of any
+         member of the Communications Group, then at Williams' option, Williams
+         and Communications shall use their best reasonable efforts to have
+         Communications or the relevant member of the Communications Group, as
+         the case may be, substituted in the place of and for Williams or the
+         relevant member of the Williams Group, as the case may be, and to have
+         Williams or the relevant member of the Williams Group, as the case may
+         be, removed as a party, as promptly as is practicable. Pending such
+         substitution, and in the cases where such substitution cannot be
+         effected, Communications, with the full cooperation of Williams and the
+         Williams Group, shall promptly assume and direct the defense,
+         prosecution, and/or settlement of the claims concerned, employing for
+         such purpose counsel reasonably satisfactory to Williams, and shall pay
+         all expenses related thereto. To the extent that any such expenses are
+         paid by Williams or the relevant member of the Williams Group, as the
+         case may be, Communications shall promptly reimburse Williams or the
+         relevant member of the Williams Group, as the case may be, therefor.
+
+         13.2     Communications Litigation.
+
+         In the event that any litigation, proceeding, or investigation by or
+         before any court or governmental agency or body is commenced or
+         threatened against Communications or a member of the Communications
+         Group after the Effective Date of this Agreement and that relates to
+         Services rendered hereunder and arises out of or is based solely upon
+         the past, present, or future business or operations of Williams or any
+         member of the Williams Group but not of Communications or a member of
+         the Communications Group, then at Communications' option,
+         Communications and Williams shall use their best reasonable efforts to
+         have Williams or the relevant member of the Williams Group, as the case
+         may be, substituted in the place of and for Communications or the
+         relevant member of the Communications Group, as the case may be, and to
+         have Communications or the relevant member of the Communications Group,
+         as the case may be, removed as a party, as promptly as is practicable.
+         Pending such substitution and in cases where such substitution cannot
+         be effected, Williams shall, with the full cooperation of
+         Communications and Communications Group, promptly assume and direct the
+         defense, prosecution, and/or settlement of the claims concerned,
+         employing for such purpose counsel reasonably satisfactory to
+         Communications, and shall pay all expenses related thereto. To the
+         extent that any such expenses are paid by Communications or the
+         relevant member of the Communications Group, Williams shall promptly
+         reimburse Communications or the relevant member of the Communications
+         Group, as the case may be, therefor.
+
+14.      WARRANTY OF SERVICE.
+
+The Provider warrants that the Services provided will be provided in a
+workmanlike manner. THE PROVIDER MAKES NO OTHER WARRANTIES OR REPRESENTATIONS,
+
+
+
+
+
+                                       12
+<PAGE>   17
+
+EXPRESSED OR IMPLIED, IN FACT OR IN LAW, INCLUDING THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE WITH RESPECT TO ANY SERVICE
+PROVIDED HEREUNDER, WHETHER DEVELOPED BY PROVIDER OR LICENSED, PURCHASED, OR
+OTHERWISE OBTAINED BY PROVIDER FROM A THIRD PARTY.
+
+Notwithstanding the above, the Provider shall make reasonable efforts to
+promptly notify the Recipient of any claim the Provider may have under any
+third-party (a party other than a Williams Indemnitee or a Communications
+Indemnitee, as defined below) warranty or representation relating to the
+Service. At the Recipient's election, the Provider shall either pursue such
+claim or assign such claim (or the portion of the claim attributable to the
+Services) to the Recipient. If the Provider pursues such claim, Recipient shall
+reimburse Provider for all reasonable out-of-pocket costs incurred by the
+Provider (including settlement costs and reasonable expenses associated
+therewith including attorneys' fees and expenses and court costs) and Recipient
+shall be entitled to any amounts recovered. If such claim relates both to
+Services and to services the Provider provides to itself, its affiliates, or
+third parties (the "OTHER SERVICES"), and if the Provider elects to pursue such
+claim on its own behalf, then both the costs and the recovery shall be pro-rated
+in an amount that fairly allocates such amounts between the Services and the
+Other Services.
+
+15.      LIMITATION OF LIABILITY.
+
+IN NO EVENT SHALL ANY MEMBER OF THE WILLIAMS GROUP OR OF THE COMMUNICATIONS
+GROUP BE LIABLE FOR ANY INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES SUCH AS LOSS
+OF PROFITS OR ANTICIPATED PROFITS, LOSS OF GOODWILL, LOSS OF USE OR DATA IN
+CONNECTION WITH, OR ARISING OUT OF THE SERVICES PROVIDED HEREUNDER WHETHER BASED
+UPON ANY THEORY IN CONTRACT OR IN TORT AND WHETHER OR NOT THE PARTIES HAVE BEEN
+ADVISED OF THE POSSIBILITY OF SUCH LOSS.
+
+NOTWITHSTANDING THE ABOVE, IF THE PROVIDER RECOVERS ANY INDIRECT, SPECIAL OR
+CONSEQUENTIAL DAMAGES FROM A PARTY OTHER THAN THE PROVIDER'S AFFILIATES (THE
+WILLIAMS INDEMNITEES OR THE COMMUNICATIONS INDEMNITIES, AS DEFINED BELOW), THE
+PROVIDER SHALL PAY THE RECIPIENT THE NET AMOUNT (NET OF ANY COSTS OF LITIGATION)
+OF SUCH RECOVERY THAT IS ATTRIBUTABLE TO THE SERVICES.
+
+16.      FORCE MAJEURE.
+
+For purposes of this Section, "FORCE MAJEURE" means an event beyond the control
+of either Group, that by its nature could not have been foreseen by such Group,
+or if it could have been foreseen, was unavoidable, and includes without
+limitation, acts of God, storms, floods, riots, fires, sabotage, civil commotion
+or civil unrest, interference by civil or military authorities, acts of war
+(declared or undeclared) and failure of energy sources.
+
+         Neither Group shall be under any liability for failure to fulfill any
+obligation under this Agreement, so long as and to the extent to which the
+fulfillment of such obligation is prevented,
+
+
+
+
+                                       13
+<PAGE>   18
+
+frustrated, hindered, or delayed as a consequence of circumstances of force
+majeure, provided always that such Group shall have exercised all due diligence
+to minimize to the greatest extent possible the effect of force majeure on its
+obligations hereunder.
+
+         Promptly on becoming aware of force majeure causing a delay in
+performance or preventing performance of any obligations imposed by this
+Agreement (and termination of such delay), the Group affected shall give written
+notice to the other Group giving details of the same, including particulars of
+the actual and, if applicable, estimated continuing effects of such force
+majeure on the obligations of the Group whose performance is prevented or
+delayed. If such notice shall have been duly given, and actual delay resulting
+from such force majeure shall be deemed not to be a breach of this Agreement,
+and the period for performance of the obligation to which it relates shall be
+extended accordingly, provided that if force majeure results in the performance
+of a Group being delayed by more than 60 days, the other Group shall have the
+right to terminate this Agreement with respect to any Service effected by such
+delay forthwith by written notice.
+
+         The Parties acknowledge that Williams and Williams Communications
+Solutions, LLC ("WCS") entered into a Transition Services Agreement effective
+March 31, 2001 (the "WCS AGREEMENT"), whereby Williams obtains certain services
+from WCS that Williams then provides to the Communications Group hereunder. In
+the event the WCS Agreement expires, terminates, or Williams is no longer able
+to obtain a certain service under the WCS Agreement, Williams shall attempt to
+obtain similar service from an alternate source. In the event Williams fails to
+obtain similar services on substantially the same terms and conditions as the
+WCS Agreement, such failure to obtain similar services shall be considered a
+force majeure event hereunder.
+
+17.      NO THIRD PARTY BENEFICIARY.
+
+Nothing in this Agreement provides any legal rights to, or creates any liability
+for, anyone not a signatory party to this Agreement.
+
+18.      MUTUAL COOPERATION.
+
+The Parties shall provide each other with such assistance as may reasonably be
+required by any of them in connection with the performance of all obligations
+hereunder.
+
+19.      COMPLIANCE WITH LAWS.
+
+Williams and Communications shall comply and each of Williams and Communications
+shall cause compliance by the Williams Group and the Communications Group,
+respectively, providing or receiving, as the case may be, Services hereunder,
+with all applicable federal, state, and local laws and regulations in the
+performance of this Agreement.
+
+
+
+
+                                       14
+<PAGE>   19
+
+20.      GOVERNING LAW.
+
+This Agreement shall be construed in accordance with, and all disputes hereunder
+shall be governed by, the laws of the State of Oklahoma, without giving regard
+to its conflicts of laws principles.
+
+21.      IMPROPER PAYMENTS.
+
+Neither Group shall use any funds received hereunder for illegal or otherwise
+"improper" purposes, nor pay any commissions, fees or rebates to any employee of
+the other Group, nor favor any employee of the other Group with gifts or
+entertainment of significant cost or value.
+
+22.      NOTICES.
+
+Any notice, request, instruction, correspondence, document or other
+communication to be given hereunder by any Group to another (herein collectively
+called a "NOTICE") shall be in writing and delivered personally or mailed by
+certified mail, postage prepared and return receipt requested, or by facsimile,
+as follows:
+
+IF TO WILLIAMS OR ANY WILLIAMS SUBSIDIARY:
+
+         THE WILLIAMS COMPANIES, INC.
+         (OR IF TO A WILLIAMS SUBSIDIARY, TO IT IN CARE OF WILLIAMS)
+         ONE WILLIAMS CENTER
+         TULSA, OKLAHOMA 74172
+         ATTENTION:  GENERAL COUNSEL
+         FACSIMILE NO. 918-573-5942
+
+         WITH A COPY TO CORPORATE CONTROLLER
+
+IF TO COMMUNICATIONS OR ANY COMMUNICATIONS SUBSIDIARY:
+
+         WILLIAMS COMMUNICATIONS GROUP, INC.
+         ONE WILLIAMS CENTER
+         TULSA, OKLAHOMA 74172
+         ATTENTION:  GENERAL COUNSEL
+         FACSIMILE NO. 918-573-3005
+
+         WITH A COPY TO CORPORATE CONTROLLER
+
+Notice given by personal delivery shall be effective upon actual receipt. Notice
+given by mail shall be effective upon forty-eight (48) hours after it is placed
+in a mailbox for mailing. Notice given by facsimile shall be effective upon
+actual receipt if received during the recipient's normal business hours, or at
+the beginning of the recipient's next business day after receipt if not received
+during the recipient's normal business hours; provided that Notices by facsimile
+are confirmed promptly after transmission by delivery to the recipient of a copy
+thereof in writing by certified mail or personal delivery. Any Group may change
+any address to which Notice is to be given to it by giving Notice as provided
+above of such change of address. For purposes of this
+
+
+
+
+                                       15
+<PAGE>   20
+
+Agreement, the term "BUSINESS DAY" means any day other than a Saturday, Sunday
+or a day on which national banks in the State of Oklahoma are permitted or
+required by law to close.
+
+23.      FURTHER ASSURANCES.
+
+Both Groups shall cooperate with each other and take reasonable steps to execute
+and deliver such additional instruments or documents as shall be necessary to
+otherwise carry out the intent and purposes of this Agreement.
+
+24.      WAIVER.
+
+No waiver by any Party of any term or breach of this Agreement shall be
+effective unless in writing and signed by the person against whom such waiver is
+asserted, and a waiver of any one term or breach may not be construed as a
+waiver of any other term or breach hereof or of the same or a similar term or
+breach on any other occasion; provided, however, Williams may effect waivers or
+amendments for any member of the Williams Group or Williams Indemnitee, and
+Communications may effect waivers or amendments for any member of the
+Communications Group or Communications Indemnitee.
+
+25.      DISPUTE RESOLUTION.
+
+The Parties agree that any dispute arising under this Agreement shall be
+resolved in accordance with the Dispute Resolution Procedures set forth in the
+Amended and Restated Separation Agreement made by and between Williams and
+Communications dated concurrently herewith.
+
+26.      CONSTRUCTION.
+
+Except where otherwise expressly provided, all references to Sections,
+paragraphs and Schedules in this Agreement shall be deemed to be references to
+such Sections and paragraphs of this Agreement or Attachment A attached to this
+Agreement, respectively. The terms "hereof," "herein," "hereunder" and other
+terms of similar import shall be deemed to refer to this Agreement in its
+entirety, and not to any Section or paragraph.
+
+27.      SUBCONTRACTORS.
+
+The Provider shall bind every subcontractor it engages to perform Services for
+Recipient to the provisions of this Agreement insofar as the same shall be
+applicable to the subcontractor's performance of such Services. The Provider
+shall be fully responsible to the Recipient for the acts or omissions of its
+subcontractors, and of persons either directly or indirectly employed by them.
+
+28.      AMENDMENT.
+
+No modification or amendment of this Agreement shall be binding upon any Party
+unless in writing and signed by the party against which the modification or
+amendment is asserted.
+
+
+
+
+
+
+
+                                       16
+<PAGE>   21
+
+29.      ENTIRE AGREEMENT.
+
+This Agreement and the attachments hereto (which are incorporated herein in
+accordance with Section 1.2), constitute the entire understanding of the Parties
+with respect to the subject matter hereof, superseding all negotiations, prior
+discussions and preliminary agreements, if any.
+
+30.      SEVERABILITY.
+
+Any Section or any other provision of this Agreement that is, or becomes,
+illegal, invalid or unenforceable shall be severed herefrom and shall be
+ineffective to the extent of such illegality, invalidity or unenforceability and
+shall not affect or impair the remaining provisions hereof, which provisions
+shall (a) be severed from any illegal, invalid or unenforceable Section or any
+other provision of this Agreement, and (b) otherwise remain in full force and
+effect; provided, however, that the Parties shall use their best efforts to
+achieve the purpose of the invalid or unenforceable provision or part thereof by
+a new valid and enforceable stipulation.
+
+31.      CONFLICT WITH SERVICE LEVEL AGREEMENTS.
+
+In the event of a conflict with the terms and conditions of this Agreement and
+the terms and conditions of the Service Level Agreements set forth in Attachment
+A, the terms and conditions of the Service Level Agreements shall control except
+in the case of dispute resolution in which case the terms and conditions of this
+Agreement shall control.
+
+32.      COUNTERPARTS.
+
+This Agreement may be executed in two or more counterparts, each of which shall
+be deemed an original, but all of which shall constitute one and the same
+instrument.
+
+
+IN WITNESS WHEREOF, the Parties hereto have executed this Amended and Restated
+Administrative Services Agreement on and as of the date and year first-above
+written.
+
+
+THE WILLIAMS COMPANIES, INC.
+
+
+BY: /s/ JACK D. MCCARTHY
+   --------------------------------------
+
+NAME: Jack D. McCarthy
+     ------------------------------------
+
+TITLE: Senior Vice President
+      -----------------------------------
+
+
+
+
+                                       17
+<PAGE>   22
+
+
+
+WILLIAMS INFORMATION SERVICES CORPORATION
+
+
+BY: /s/ JACK D. MCCARTHY
+   ----------------------------------------
+
+NAME: Jack D. McCarthy
+     --------------------------------------
+
+TITLE: Senior Vice President
+      -------------------------------------
+
+
+
+WILLIAMS STRATEGIC SOURCING COMPANY
+
+
+BY: /s/ TIM PARKER
+   ----------------------------------------
+
+NAME: Tim Parker
+     --------------------------------------
+
+TITLE: Vice President -  Strategic Sourcing
+      -------------------------------------
+
+
+
+WILLIAMS ENERGY SERVICES
+
+
+BY: /s/ S. J. MALCOLM
+   ----------------------------------------
+
+NAME: S. J. Malcolm
+     --------------------------------------
+
+TITLE: President
+      -------------------------------------
+
+
+WILLIAMS COMMUNICATIONS GROUP, INC.
+
+
+BY: /s/ HOWARD S. KALIKA
+   ----------------------------------------
+
+NAME: Howard S. Kalika
+     --------------------------------------
+
+TITLE: Vice President
+      -------------------------------------
+
+
+
+
+                                       18
+<PAGE>   23
+
+
+WILLIAMS COMMUNICATIONS LLC
+
+BY: /s/ BOB F. MCCOY
+   --------------------------------------
+
+NAME: Bob F. McCoy
+     ------------------------------------
+
+TITLE: Senior Vice President
+      -----------------------------------
+
+
+
+
+
+                                       19
+</TEXT>
+</DOCUMENT>

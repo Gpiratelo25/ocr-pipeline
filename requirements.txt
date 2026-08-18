@@ -2,3 +2,7 @@ pytest
 langchain
 pymongo
 pytesseract
+pillow
+opencv-python
+pdf2image
+pymupdf

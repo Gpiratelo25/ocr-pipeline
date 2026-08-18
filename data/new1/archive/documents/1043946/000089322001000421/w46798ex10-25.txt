@@ -1,0 +1,95 @@
+<DOCUMENT>
+<TYPE>EX-10.25
+<SEQUENCE>8
+<FILENAME>w46798ex10-25.txt
+<DESCRIPTION>FIRST AMENDMENT TO PROFESSIONAL SERVICES AGREEMENT
+<TEXT>
+
+<PAGE>   1
+                                                                   EXHIBIT 10.25
+
+               FIRST AMENDMENT TO PROFESSIONAL SERVICES AGREEMENT
+
+This First Amendment to Professional Services Agreement ("Amendment") is entered
+into as of January 31, 2001, by and between VerticalNet Solutions LLC, a
+Delaware limited liability company that is the successor by merger to Tradeum,
+Inc. ("VNS"), and Converge, Inc., a Delaware corporation formerly known as
+eHITEX, Inc. ("Converge").
+
+                                   BACKGROUND
+
+A.       VNS and Converge entered into a Professional Services Agreement dated
+December 19, 2000 (the "Services Agreement").
+
+B.       VNS and Converge desire to amend the Services Agreement.
+
+         NOW, THEREFORE, for good and valuable consideration, the receipt and
+sufficiency of which are hereby acknowledged, the parties hereby agree as
+follows:
+
+1.       ADDITIONAL WARRANTIES OF VNS. Clause (i) of Section 5.2 of the Services
+Agreement is hereby amended to replace the phrase "the specifications and
+requirements set forth in the applicable SOW" with the phrase "its corresponding
+Final Specifications".
+
+2.       LICENSES TO INVENTIONS AND PREEXISTING IP. The third sentence of
+Section 6.7 of the Services Agreement is hereby amended to replace the phrase
+"Converge-owned Inventions" with the phrase "Converge Preexisting IP".
+
+3.       GOVERNING LAW. This Amendment shall be governed by the laws of the
+United States of America and of the State of California as applied to agreements
+entered into and to be performed entirely within California between California
+residents, excluding its conflicts of law provisions.
+
+4.       RATIFICATION. Except as specifically modified by this Amendment, all of
+the provisions of the Services Agreement are hereby ratified and confirmed to be
+in full force and effect.
+
+5.       BINDING EFFECT. This Amendment shall be binding upon, and shall inure
+to the benefit of, VNS and Converge and their respective successors and
+permitted assigns.
+
+6.       COUNTERPARTS. This Amendment may be executed in one or more
+counterparts, each of which shall be deemed an original and all of which
+together shall constitute one and the same instrument. This Amendment shall
+become binding when any one or more counterparts hereof, individually or taken
+together, bear the signatures of authorized representatives of each of VNS and
+Converge. For the purposes hereof, a facsimile copy of this Amendment, including
+the signature pages hereto, shall be deemed an original.
+
+
+                                       1
+
+<PAGE>   2
+
+
+
+         IN WITNESS WHEREOF, the undersigned do hereby execute this parties have
+caused this Amendment to be signed by their duly authorized representatives as
+of the date first written above in this Amendment.
+
+VerticalNet Solutions LLC                        Converge, Inc.
+
+
+By: /s/ David W. Smith                           By:  /s/ Wendy Caswell
+   ----------------------------                     ----------------------------
+
+       David W. Smith                                   Wendy Caswell
+-------------------------------                  -------------------------------
+(Print Name)                                     (Print Name)
+
+Title: VP Enterprise Solutions                    Title:  VP
+       ------------------------                          -----------------------
+
+
+
+
+
+
+
+
+                                       2
+
+
+</TEXT>
+</DOCUMENT>

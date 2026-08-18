@@ -1,0 +1,191 @@
+<DOCUMENT>
+<TYPE>EX-10.87-1
+<SEQUENCE>19
+<FILENAME>a2042986zex-10_871.txt
+<DESCRIPTION>EXHIBIT 10.87.1
+<TEXT>
+
+<PAGE>
+
+                                                                 Exhibit 10.87.1
+
+                             AMENDMENT NO. 1 TO THE
+
+                            POWER PURCHASE AGREEMENT
+
+                          Dated as of December 15, 1999
+
+
+                                     Between
+
+                           Commonwealth Edison Company
+
+                                       and
+
+                             Midwest Generation, LLC
+
+
+                           Collins Generating Station
+
+
+
+<PAGE>
+
+
+
+
+                             AMENDMENT NO. 1 TO THE
+               COLLINS GENERATING STATION POWER PURCHASE AGREEMENT
+
+                          Dated as of December 15, 1999
+
+                                     Between
+
+                         Commonwealth Edison Company and
+
+                             Midwest Generation, LLC
+
+
+1.       PARTIES: The parties to this Amendment are MIDWEST GENERATION, LLC
+("Seller"), a Delaware limited liability company, and COMMONWEALTH EDISON
+COMPANY ("ComEd"), an Illinois corporation, sometimes hereinafter referred to
+individually as "Party" and collectively as "Parties".
+
+2.       RECITALS: This Amendment is made with reference to the following
+facts, among others:
+
+         2.1      The parties entered into the Power Purchase Agreement for
+Collins Station ("Collins PPA") dated as of December 15, 1999 pursuant to
+which ComEd has the right to purchase Electric Energy from the Collins
+Station.
+
+         2.2      The parties desire to amend the Collins PPA to modify the
+Minimum Energy Amount for the Second through the Fifth Contract Years
+(inclusive), and to provide for an Annual Settlement Payment (as hereinafter
+defined).
+
+3.       DEFINITIONS: Except as specifically provided in this Amendment,
+terms used herein with initial capitalization shall have the respective
+meanings set forth in the Collins PPA.
+
+4.       EFFECTIVE DATE: The effectiveness of this Amendment shall be
+conditioned upon the receipt of the consents of certain entities which have
+extended financing to Seller (including Collins Trust I, Collins Trust II,
+Collins Trust III and Collins Trust IV); PROVIDED that this Amendment shall
+not become effective if such consents are not received by December 31, 2000
+and Seller so notifies ComEd prior to January 15, 2001. Upon the receipt of
+such consents, this Amendment shall be deemed effective as of June 23, 2000;
+provided, however, that if the Federal Energy Regulatory Commission ("FERC")
+enters into a hearing to determine whether this Amendment is just
+
+                                      1
+
+<PAGE>
+
+and reasonable, it shall not become effective until the date when an order
+subject to judicial review has been issued by the FERC determining this
+Amendment to be just and reasonable without changes or new conditions
+unacceptable to either Party.
+
+5.       AMENDMENT:
+
+         5.1.     The definition of the term "Minimum Energy Amount" in Section
+         1 of the Collins PPA is hereby amended to read in its entirety as
+         follows:
+
+         "`MINIMUM ENERGY AMOUNT' means (a) with respect to the First Contract
+         Year, the product of (i) 3,000,000 megawatt hours, multiplied by (ii) a
+         fraction, the numerator of which is the Reserved Capacity for the First
+         Contract Year and the denominator is 2,698 megawatts and (b) for all
+         subsequent Contract Years, the product of (i) 2,700,000 megawatt hours,
+         multiplied by (ii) a fraction, the numerator of which is the Reserved
+         Capacity for such Contract Year and the denominator is 2,698
+         megawatts."
+
+         5.2      Section 1 of the Collins PPA is hereby amended to add the
+         following new definition of "Annual Settlement Amount":
+
+         "`ANNUAL SETTLEMENT AMOUNT,' for a Contract Year, means a payment to be
+         made by ComEd to compensate Seller for natural gas costs (commodity
+         only), to the extent that the commodity price of natural gas consumed
+         in generating megawatts at ComEd's request above the Minimum Energy
+         Amount for such Contract Year is greater than $2.52 per MMBTU, after
+         deducting therefrom the amount by which such commodity price is less
+         than $2.52 per MMBTU. Such Annual Settlement Amount shall be calculated
+         as follows:
+
+                             ANNUAL SETTLEMENT = SUM{ (DGP - DGC) x CCT
+                                            x 12,000 / 1000} for all subsequent
+                                            days in such Contract Year once the
+                                            Minimum Energy Amount for such
+                                            Contract Year has been met.
+
+                             WHERE:
+
+                             DGP ($/ MMBTU) = Daily Gas Price -
+                                            Chicago City Gate Average as
+                                            reported by Natural Gas Institute in
+                                            their Daily Gas Price Index
+                                            Publication.
+
+                                      2
+
+<PAGE>
+
+                             DGC ($ / MMBTU) =$2.52.
+
+                             CCT (MWHr) =   Daily Collins Net Generation
+                                            requested by ComEd (excludes
+                                            generation sold to third parties by
+                                            Seller).
+
+                             12,000 (BTU / NKWHR)= Collins Station True-up
+                             Defined Heat Rate.
+
+         5.3      Section 5 of the Collins PPA is hereby amended add a new
+         subsection (e) to read as follows:
+
+         "(e)     ANNUAL SETTLEMENT AMOUNT PAYMENT.
+
+                  ComEd shall pay Seller within thirty days after the end of
+         each Contract Year the Annual Settlement Amount for such Contract Year,
+         PROVIDED ComEd has received from Seller a calculation of such Annual
+         Settlement Amount at least fifteen (15) days before its due date.
+         Seller shall provide a schedule indicating actual natural gas costs
+         (commodity only) incurred by it during such Contract Year versus $2.52
+         per MMBTU and calculating the Annual Settlement Payment, if any, due.
+
+         5.4 Section 7 of the Collins PPA is hereby amended by adding a new
+         subsection (c) to read as follows:
+
+         "(c)     ComEd shall pay to Seller, with respect to each Contract Year,
+         the Annual Settlement Amount, if any, for such Contract Year."
+
+                                      3
+
+<PAGE>
+
+6.       SIGNATURE CLAUSE: The signatories hereto represent that they are
+authorized to enter into this Agreement on behalf of the Party for which they
+sign. This Amendment is hereby executed as of the 12th day of July, 2000.
+
+                                            MIDWEST GENERATION, LLC
+
+                                            By:      /s/ Georgia R. Nelson
+                                                     -------------------------
+                                            Name:    Georgia R. Nelson
+                                            Title:   President
+
+
+                                            COMMONWEALTH EDISON COMPANY
+
+                                            By:      /s/ Paul A. Elbert
+                                                     -------------------------
+                                            Name:    Paul A. Elbert
+                                            Title:   Executive Vice President
+
+
+                                      4
+
+</TEXT>
+</DOCUMENT>

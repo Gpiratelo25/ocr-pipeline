@@ -1,0 +1,952 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>3
+<FILENAME>gas-bre.txt
+<TEXT>
+
+
+                              AMENDED AND RESTATED
+                         GAS SALE AND PURCHASE AGREEMENT
+
+         This AMENDED AND RESTATED GAS SALE AND PURCHASE AGREEMENT (the
+"Agreement") is made and entered into as of this ____ day of June, 2001 and is
+by and between GSF ENERGY L.L.C., a Delaware limited liability company
+("Seller") and RIDGEWOOD POWER MANAGEMENT, LLC, a New Jersey limited liability
+company ("Ridgewood"), acting on behalf of and as agent for BREA POWER PARTNERS,
+L.P., a Delaware limited partnership ("Brea") and RIDGEWOOD OLINDA, LLC, a New
+Jersey limited liability company ("Olinda") (collectively referred to as the
+"Buyer"). Seller and Buyer shall be referred to herein as a "Party" and
+collectively as the "Parties").
+
+                                    RECITALS
+
+         WHEREAS, Brea is the owner of a 5 MW electric generating facility and
+related equipment (the "Brea Facility") located on a municipal solid waste
+landfill owned by the County of Orange, California (the "Landfill"); and
+
+         WHEREAS, pursuant to a certain "Amended and Restated Gas Lease
+Agreement" dated December 14, 1993, by and between Seller and the County of
+Orange, Seller has certain rights to extract, process and sell landfill gas from
+the Landfill; and
+
+         WHEREAS, Seller and Brea entered into a "Gas Sale and Purchase
+Agreement" dated November 29, 1994, as subsequently amended by that certain
+Amendment to Transaction Documents dated May 31, 1997 (as amended, the "Original
+Agreement"), pursuant to which Brea would purchase from Seller certain
+quantities of landfill gas in order to operate the Brea Facility; and
+
+         WHEREAS, Olinda has decided to expand the electric generating
+capabilities at the Landfill by installing and operating a 2.5 MW electric
+generating facility at the Landfill (the "Olinda Facility"), which facility may
+be expanded in the future; and
+
+         WHEREAS, Olinda desires to purchase from Seller and Seller desires to
+sell to Olinda certain quantities of landfill gas necessary to run the Olinda
+Facility and any future expansions of the Olinda Facility; and
+
+         WHEREAS, Ridgewood, as agent for Brea and Olinda, and Seller desire to
+amend and restate the terms of the Original Agreement to purchase from Seller
+all of the landfill gas extracted and processed by Seller, all upon the terms
+and conditions hereof.
+
+         NOW, THEREFORE, the Parties hereto agrees as follows:
+
+                                 ARTICLE I: TERM
+
+1.1 Term.  This Agreement shall be effective from the Effective Date and, unless
+terminated  earlier as provided herein,  shall continue and remain in full force
+and effect until December 31, 2018. Thereafter,  the terms of this Agreement may
+be extended at the Buyer's option, on a year-to-year  basis. Buyer shall provide
+written  notice to Seller of its  intention  to  extend  this  Agreement  for an
+additional  year no  later  than 90 days  prior  to the  expiration  of the then
+current term.
+
+                             ARTICLE II: DEFINITIONS
+
+2.1 Definitions.  As used in this Agreement,  the following terms shall have the
+meanings  ascribed to them (such  meaning to be equally  applicable  to both the
+singular and plural forms of the terms defined);
+
+(a) "Affiliate"  means, with respect to any Person, any other Person directly or
+indirectly  controlling  or  controlled  by or under  direct or indirect  common
+control with such specified Person.  For purposes of this definition,  "control"
+(including,  with correlative meanings, the terms "controlling," "controlled by"
+and "under common control with"), as used with respect to any Person, shall mean
+the  possession,  directly  or  indirectly,  of the power to direct or cause the
+direction  of the  management  or policies of such Person,  whether  through the
+ownership of voting securities, by agreement or otherwise"
+
+(b) "Assignment" shall have the meaning set forth in Section 14.1.
+
+(c) "Btu"  means  one (1)  British  thermal  unit,  which is the  amount of heat
+required  to raise the  temperature  of one (1) pound of water  from  fifty-nine
+degrees Fahrenheit (59(0)F) to sixty degrees Fahrenheit (60(0)F).
+
+(d) "Brea  Facility"  means the 5 MW landfill gas electric  generating  facility
+located at the  Landfill  and owned by Brea,  as such  facility  may be expanded
+pursuant to the terms hereof.
+
+(e) "Business Day" shall have the meaning set forth in Section 7.3.
+
+(f) "Buyer's Facilities" means the Brea Facility and the Olinda Facility.
+
+(g) "Buyer's Taxes" shall have the meaning set forth in Section 3.4.
+
+(h) "Claims" shall have the meaning set forth in Section 4.5.
+
+(i) "Contract  Year" means a calendar year,  except with respect to the Contract
+Year  beginning  with the  Effective  Date,  which year shall  commence  on such
+Effective Date and shall end on the following December 31.
+
+(j) "Day or "day"  shall mean a period of  twenty-four  (24)  consecutive  hours
+beginning and ending at 8:00 am Pacific Prevailing Time ("PPT").
+
+(k)  "Delivery  Point(s)"  has the meaning  assigned to that term in Section 4.1
+hereof.
+
+(l)  "Effective  Date"  shall  mean the day that the Olinda  Facility  commences
+commercial  operation.  For purposes of this  definition,  commercial  operation
+shall mean that the Olinda Facility is capable of generating electric energy.
+
+(m)  "Environmental  Claim" means claims,  demands,  administrative  or judicial
+proceedings,  notices of noncompliance  or violation,  consent orders or consent
+agreements (i) relating to the Landfill or Seller's  Facilities,  the operations
+or  activities  thereon or the use or occupancy  thereof,  (ii)  relating to the
+Buyer's  Facilities  and the  operations  or  activities  thereon  or the use or
+occupancy thereof, and (iii) arising out of any (A) past or present violation of
+any  applicable  Environmental  Law,  (B)  action by a  Governmental  Entity for
+enforcement, clean-up, removal, response or remedial action or damages, pursuant
+to any Environmental  Law, or (C)  compensation,  or injunctive relief resulting
+from  injuries to persons or property  due to  Hazardous  Substances  or alleged
+violation of any Environmental Law.
+
+(n)  "Environmental  Laws"  means  any  applicable  federal,   state,  or  local
+governmental law, statute,  rule,  regulation,  order,  consent decree,  decree,
+judgment, license, covenant, deed restriction, ordinance or other requirement or
+standard  relating to  pollution  or the  regulation  or  protection  of health,
+safety,  natural  resources or the environment,  including  without  limitation,
+those  relating to releases,  discharges,  emissions,  injections,  leachings or
+disposal of Hazardous  Substances or hazardous  materials  into the air,  water,
+land, or groundwater,  or to the use,  handling,  treatment,  removal,  storage,
+disposal,  processing,   distribution,  transport  or  management  of  Hazardous
+Substances.
+
+(o)  "Flare  Facilities"  means the  flares and all  related  equipment  used in
+connection  with the  flares,  including  those  existing as of the date of this
+Agreement and those that may be constructed in the future.
+
+(p) "Force  Majeure"  means any  occurrence  beyond the control of a Party which
+would cause that Party to be unable to perform  its  obligations  hereunder  and
+which the Party has been unable to overcome  by the  exercise of due  diligence,
+including  but  not  limited  to  flood,  drought,   earthquake,   storm,  fire,
+pestilence, lightning and other natural catastrophes, epidemic, war, riot, civil
+disturbance  or  disobediance,   strike,  labor  dispute,  act  or  inaction  of
+Governmental  Entity,  fuel supply or material shortage,  or failure,  threat of
+failure or sabotage of facilities, which have been maintained in accordance with
+Good Engineering Practices.
+
+(q) "Gas" means Landfill Gas or other gas of similar methane content meeting the
+specifications set forth in Exhibit A, which is acquired by Seller and which may
+be methane gas from landfill areas other than the Property.
+
+(r) "Gas  Collection  System" shall mean the network of Landfill Gas  collection
+headers,  interconnecting pipes, valves, monitoring and measuring equipment, and
+any and all  equipment,  machinery  and  fixtures  currently  installed or to be
+installed  at,  in or on the  Landfill  and used for or in  connection  with the
+extraction,  collection,  production,  treatment,  selling  or  transporting  of
+Landfill Gas up to the Delivery  Points,  and all  modifications,  replacements,
+additions  and  expansions  thereof,  but  excluding  in all cases (i) the Flare
+Facilities and (ii) the Brea Facility and Olinda Facility and all equipment used
+in the production of electrical power.
+
+(s) "Gas Lease  Agreement" means the Amended and Restated Gas Lease Agreement by
+and between Seller and Landfill Owner dated as of December 14, 1993.
+
+(t) "Good Engineering Practice" means any practices,  methods and acts which, in
+the exercise of reasonable judgment in light of the facts known, or which in the
+exercise of due  diligence,  should  have been known at the time a decision  was
+made,  would have been  expected  to  accomplish  the  desired  result in manner
+consistent with reliability,  safety, environmental protection,  expedition, and
+applicable laws and regulations for similar  facilities  located in the State of
+California.
+
+(u)  "Governmental  Entity"  means  any  federal,   state,  local  or  municipal
+governmental  body;  any  governmental,  regulatory  or  administrative  agency,
+commission,  body or other  authority  exercising  or entitled  to exercise  any
+administrative,  executive, judicial, legislative,  policy, regulatory or taxing
+authority or power; or any court or governmental tribunal.
+
+(v) "Hazardous  Substances" means any chemical,  substance,  material,  or waste
+which is now or  becomes  listed,  defined  or  regulated  in any  manner by any
+federal, state or local law based upon, directly or indirectly,  such chemicals,
+substances,  materials or wastes being hazardous, harmful or potentially harmful
+to human health or to the environment.
+
+(w) "Interest Rate" means, for any date, the lesser of (a) the per annum rate of
+interest  equal to the prime  lending rate as may from time to time be published
+in The Wall Street  Journal under "Money Rates" on such day (or if not published
+on such day on the most  recent  preceding  day on  which  published),  plus two
+percent (2%) and (b) the maximum rate permitted by applicable law.
+
+(x)  "Landfill"  means the  municipal  solid  waste  landfill  located in Orange
+County,  California and referred to as the Olinda/Olinda Alpha Sanitary Landfill
+as described more fully in Exhibit B.
+
+(y) "Landfill Gas" means gas, composed of methane and other gaseous  substances,
+generated  from the  decomposition  of refuse and other  solid  wastes  from the
+Landfill and collected by Seller's Facility.
+
+(z) "Landfill Owner" means the County of Orange, a political  subdivision of the
+State of California, which owns and operates the Landfill.
+
+(aa) "Minimum Daily Quantity" shall have the meaning set forth in Section 3.2.
+
+(bb) "MMBtu" means one million (1,000,000) Btus.
+
+(cc) "MW" means one million (1,000,000) watts.
+
+(dd)  "Olinda  Facility"  means the proposed  landfill  gas electric  generating
+facility to be located at the Landfill,  owned by Olinda,  and which is intended
+to  produce  2.5 MW of  electrical  energy,  as such  facility  may be  expanded
+pursuant to the terms hereof.
+
+(ee) "Person" means any individual, Governmental Authority, corporation, limited
+liability company, partnership, limited partnership, trust, association or other
+entity.
+
+(ff)  "Residual  Gas" shall mean all Landfill Gas purchased by Buyer that is not
+used by Buyer to  generate  electricity  at either the Brea  Facility  or Olinda
+Facility.
+
+(gg)  "Royalty"  means a payment  equal to a  percentage  of the gross  revenues
+generated by the sale of  electricity  from the Brea Facility  and/or the Olinda
+Facility, as more fully described in Section 3.3.
+
+(hh) "Seller's Facilities" means the Gas Collection System, the Flare Facilities
+and all the equipment,  fixtures and other assets located in the space above the
+Property which are owned,  operated,  leased or otherwise used by Seller for the
+purpose of collecting,  processing, treating and delivering, or facilitating the
+collection,  processing  and  delivery  of,  Gas  to  Buyer  (including  without
+limitation the Delivery Point) or for the purpose of disposing of Residual Gas.
+
+(ii) "Seller's Taxes" shall have the meaning set forth in Section 3.4.
+
+(jj) "Utility"  shall mean Southern  California  Edison Company or any successor
+thereto  or any  other  entity  that  has the  legal  obligation  of  delivering
+electricity to end-use  electric  customers in the geographic  area in which the
+Landfill is located.
+
+2.2  References.  References in this Agreement to Exhibit,  Article,  or Section
+numbers shall be to Exhibits,  Articles,  or Sections of this Agreement,  unless
+expressly  stated to the  contrary.  References  in this  Agreement to "hereby,"
+"herein,"  "hereinafter,"  "hereof,"  "hereunder,"  and words of similar  import
+shall  be to this  Agreement  in its  entirety  and not  only to the  particular
+Exhibit, Article, or Section in which such reference appears.
+
+                     ARTICLE III: PURCHASE AND SALE OF GAS
+
+3.1 Purchase and Sale.  Commencing on the Effective Date,  Seller shall sell and
+deliver or cause to be delivered  exclusively to Buyer at the Delivery Points as
+set forth in Section 4.1, and the Buyer shall purchase and receive,  or cause to
+be  received,  from Seller at the Delivery  Points,  all the Gas produced by the
+Landfill and collected by Seller via the Gas Collection System.  Seller shall be
+deemed  to be in  control  and  possession  of the Gas and  responsible  for any
+Seller's Taxes (as described in Section 3.4),  costs,  losses or charges imposed
+on or associated with the Gas prior to the Delivery  Point.  Except as set forth
+in Article  VIII,  Buyer shall be deemed to be in control and  possession of the
+Gas and responsible for any Buyer's Taxes (as described in Section 3.4),  costs,
+losses or charges imposed on or associated with the Gas at and from the Delivery
+Point.
+
+3.2 Minimum Daily Quantity. (a) Seller shall be obligated to sell and deliver to
+Buyer,  Gas in  sufficient  quantities  to enable the Buyer to operate  the Brea
+Facility and Olinda Facility at their current full rated capacity, such capacity
+to be adjusted for expected and unexpected maintenance of the Buyer's Facilities
+("Minimum  Daily  Quantity").  Seller's  failure to deliver such  Minimum  Daily
+Quantity shall subject Seller to damages in accordance with Section 4.8 hereof
+
+(b)  Notwithstanding  anything contrary  contained in this Section 3.2, if Buyer
+desires to make any improvement or addition to the Buyer's Facilities that would
+increase  the then  current  capacity  of the Buyer's  Facilities,  but does not
+increase  such  facilities'  Gas usage,  then Buyer shall have the right without
+Seller's consent or approval, to make such improvement or install such addition.
+However, if such improvement or addition will increase the then current capacity
+of the Buyer's  Facilities,  then Buyer and Seller shall confer in good faith to
+determine whether and to what extent Gas of the required quality is available to
+accommodate such increase. After such conference,  Buyer shall have the right to
+make such  improvement  or install  such  addition  if such Gas of the  required
+quality  is  available  or to alter its  proposed  improvement  or  addition  to
+accommodate such available Gas.
+
+(c) If Buyer's Gas usage  increases  pursuant to Section  3.2(b),  then such Gas
+shall be part of the Minimum Daily Quantity.
+
+3.3 Price.  Buyer shall pay to Seller for  delivery of Gas,  and for disposal of
+Residual Gas in accordance with Article VIII, the following:
+
+(a) For the  period  beginning  on the  Effective  Date  through  and  including
+December 31, 2004:
+
+(i) $60,000 per month (escalating at 3.7% annually beginning June 1, 2002); plus
+
+(ii) a monthly Royalty equal to 9.5% of the monthly gross revenues  generated by
+the sale of electricity from only the Olinda Facility (including such sales from
+any future expansions of the Olinda Facility).
+
+(b) For the period beginning on January 1, 2005 through December 31, 2018:
+
+(i) a monthly  Royalty equal to 19% of the monthly gross  revenues  generated by
+the sale of  electricity  from both the Brea  Facility  and the Olinda  Facility
+(including  such sales from any future  expansions of the Olinda Facility and/or
+the Brea Facility);  provided however,  that if in any Contract Year during this
+period the annual  Royalty paid to Seller under this Section  3.3(b)(i) does not
+equal or exceed  $720,000,  then Buyer shall make a payment to Seller,  no later
+than the end of January of the next succeeding  Contract Year, equal to $720,000
+minus the annual Royalty paid by Buyer in such Contract Year.
+
+(ii) Any liquidated  damages owed by Seller to Buyer, and credited Buyer against
+a Royalty due Seller as set forth in Section  7.1,  shall be included as Royalty
+paid for  purposes  of  determining  whether  the  Royalty  equaled or  exceeded
+$720,000 in any Contract Year.
+
+3.4 Taxes. All production  (including ad valorem  production  taxes)  gathering,
+severance or other tax,  excise or assessment  upon the  existence,  extraction,
+processing,  treatment, production,  transportation or disposal of Gas delivered
+hereunder,  now in existence or authorized  in the future for  collection by any
+Governmental  Entity or duly constituted  authority  ("Seller's Taxes") shall be
+paid entirely by Seller.  All sales,  utility or other tax, excise or assessment
+upon or measured by Gas sold to Buyer hereunder, or Buyer's purchase,  ownership
+or use of Gas, except for disposal of such Gas now in existence or authorized in
+the  future  for  collection  by any  Governmental  Entity  or duly  constituted
+authority  ("Buyer's Taxes"),  shall be paid entirely by Buyer. Each Party shall
+indemnify,  defend and hold  harmless the other Party from and against any taxes
+for which such Party is responsible pursuant to this Section 3.4.
+
+3.5 Expansion of Buyer's Facilities.  The Parties acknowledge that the Buyer may
+expand either or both the Brea Facility and the proposed  Olinda Facility beyond
+their  current  rated  capacity  of 5 MW  and  2.5  MW  respectively.  If  Buyer
+determines,  in its sole  discretion,  to expand  Brea and/or  Olinda,  it shall
+provide such notice to Seller,  whereupon the Parties shall  determine,  in good
+faith and within a reasonable time period,  whether sufficient Gas exists at the
+Landfill to accommodate such expansion or expansions. Buyer shall have access to
+any  Seller's  records or  information  reasonably  necessary  for  making  such
+determination. If it is determined that sufficient Gas exists to accommodate the
+expansion(s),  then  Buyer  shall  proceed  with  such  expansion,  at its  sole
+discretion,  and the Gas  quantities  necessary  to enable  Buyer to operate the
+expansion at full rated capacity shall be included in the Minimum Daily Quantity
+Seller is  required to deliver,  the  failure of which shall  subject  Seller to
+damages in  accordance  with Section 4.8. If  quantities  of Gas  sufficient  to
+accommodate the expansion,  as  contemplated  by the Buyer, do not exist,  Buyer
+shall have the right to proceed  with the  expansion  as amended and designed to
+utilize the Gas that does exist on the  Landfill or, in the  alternative  and at
+Buyer's  discretion,   Buyer  can  proceed  with  the  expansion  as  originally
+contemplated  notwithstanding  insufficient  supplies of Gas and, in such event,
+the Seller shall have no obligation to deliver Gas related to such  expansion in
+quantities  above those  determined to exist at the Landfill.  If as a result of
+the natural  expansion of the Landfill  such Gas  quantities  become  available,
+Seller shall deliver such Gas to Buyer and such Gas quantities shall then become
+part of and be included within the Minimum Daily  Quantity.  Buyer shall provide
+Seller with  notice of its  intentions  regarding  any such  expansion  within a
+reasonable time after the Parties have made the determinations  required by this
+Section 3.5.
+
+ARTICLE IV: DELIVERY
+
+4.1 Delivery Point.  All Gas delivered by Seller to the Brea Facility and Olinda
+Facility shall be delivered to the points further specified in Exhibit C.
+
+4.2  Delivery  Pressure.  Seller  shall  deliver  Gas to the Brea  Facility at a
+pressure of not less than seventy-five pounds per square inch gauge (75 psig) at
+the Delivery Point and shall deliver Gas to the Olinda Facility at a pressure of
+not less than one-half pounds per square inch gauge (0.5 psig).
+
+4.3  Seller's  Electricity.  During  any time in  which  the  Brea  Facility  is
+generating  electrical  power,  Buyer  shall  provide to  Seller,  at no cost to
+Seller,  the lesser of (i) all electrical power required by Seller for operation
+and  maintenance of Seller's Gas Collection  System (but not to exceed 1,000 KW)
+or (ii) the  total  amount  (net of  internal  use) of  electrical  power  being
+produced at the Brea Facility.  In addition,  Buyer shall, at Seller's  request,
+pass  through  electrical  power  from the  Utility to  Seller,  across  Buyer's
+electric  transmission  lines, at any time Seller requires more electrical power
+than the Buyer is  required  to supply  under this  Section  4.3.  Seller  shall
+promptly  reimburse the Brea  Facility for the cost of any such  electric  power
+passed through from the Utility to the Seller. Buyer may offset any such amounts
+owed by Seller from amounts owed to Seller hereunder.  Notwithstanding  anything
+contrary in this Section, the Olinda Facility shall have no obligation to supply
+Seller electrical power.
+
+4.4  Title/Risk of Loss.  Except as set forth in Section 8.1,  title and risk of
+loss to Gas shall pass to Buyer at the Delivery Points. Seller warrants title to
+all Gas  delivered  hereunder,  that  Seller  has the right to sell and  receive
+payments for such Gas and that such Gas shall be free from liens,  encumbrances,
+and  adverse  claims of every kind prior to  delivery  at the  Delivery  Points,
+including, but not limited to, liens to secure payment of production,  severance
+and other taxes.
+
+4.5 Indemnity.  Subject to Section 8.2, each Party shall  indemnify,  defend and
+hold  harmless the other Party from any Claims  arising from any act or incident
+occurring during the period when control and title to Gas is vested,  as between
+the Parties as provided in Section  4.4,  in the  indemnifying  Party.  "Claims"
+means all claims or actions, including Environmental Claims, threatened or filed
+and, whether groundless, false or fraudulent, that directly or indirectly relate
+to the  subject  matter of an  indemnity,  and the  resulting  losses,  damages,
+expenses,  attorneys'  fees and court costs,  whether  incurred by settlement or
+otherwise,  and whether such claims or actions are  threatened or filed prior to
+or after termination of this Agreement.
+
+4.6  Quality/Specifications.  All Gas  purchased  from and delivered to Buyer by
+Seller hereunder shall meet the quality  specifications  set forth in Exhibit A.
+Seller shall  monitor Gas quality in  accordance  with Section 6.2.  Buyer shall
+have the right to reject,  without  obligation,  any Gas not in conformance with
+such  specifications,  and, upon such rejection by Buyer,  Seller shall have the
+right to reprocess, if possible, or shall otherwise be required to dispose of or
+use such  non-conforming  Gas. Seller shall retain title to and the risk of loss
+of all such rejected  non-conforming Gas. Buyer's rejection of Gas in accordance
+with this Section 4.6 shall not relieve Seller of its obligations  under Section
+3.1. In the event of such rejection, Seller shall be liable to Buyer pursuant to
+Section 4.8 for any damages caused by such non-conforming Gas. Buyer may, at its
+option,  elect to accept,  at any time or from time to time, Gas not meeting any
+or all of such specifications;  provided however, that (i) such acceptance shall
+not  constitute a waiver of Buyer's  continuing  right to refuse to take Gas not
+meeting such  specifications  and (ii) Seller shall not be liable for any damage
+to  Buyer's  Facility  resulting  in  whole  or in  part  from  Buyer's  use  of
+non-conforming Gas.
+
+4.7 Operator.  Seller  acknowledges  that  Ridgewood is the operator of the Brea
+Facility and Olinda Facility. Seller agrees that Ridgewood shall be permitted to
+act on behalf of Brea and Olinda  under this  Agreement in  connection  with the
+performance  of such services for Buyer,  subject to the terms and conditions of
+this  Agreement.  Brea and Olinda shall be responsible for the acts or omissions
+of  Ridgewood,  and Seller  shall be entitled to rely on any notice or direction
+given to it by Ridgewood.
+
+4.8  Remedies for  Seller's  Failure to Deliver.  If Seller fails to deliver the
+Minimum  Daily  Quantity and such failure is not excused by Force  Majeure or by
+Buyer's  failure to perform,  then Seller  shall pay Buyer,  on the date payment
+would  otherwise  be due in respect of the month in which the failure  occurred,
+liquidated  damages  in an  amount  equal  to the  actual  out-of-pocket  losses
+incurred by Buyer due to such failure to deliver, provided however, that (a) for
+the period from the Effective  Date hereof  through and  including  December 31,
+2004, such liquidated  damage payment shall not exceed $60,000 per month and (b)
+for the period from January 1, 2005 through  December 31, 2018,  such liquidated
+damages  payment  shall not exceed in any one month fifty  (50%)  percent of the
+Royalty.  The  invoice  for  such  amount  shall  include  a  written  statement
+explaining  in   reasonable   detail  the   calculation   of  any  such  amount.
+Notwithstanding  anything  contrary in this  Section  4.8,  Seller  shall not be
+subject to liquidated  damages,  as set forth herein, for failure to deliver the
+Minimum Daily  Quantity for a total of  twenty-four  (24) hours during any month
+due  specifically  and only to either an unplanned  outage of the Gas Collection
+System or to minor  routine  maintenance,  provided  however,  that  such  minor
+maintenance shall be taken (a) upon twenty-four hours prior notice to Buyer, (b)
+in no less than one hour increments, and (c) only during non-peak hours, defined
+as the hours between 11:00 pm PPT and 7:00 am PPT and weekends and holidays.  In
+the event of an unplanned outage, Seller shall provide notice to Buyer providing
+sufficient  detail  regarding the outage,  including the causes  thereof and the
+period of such outage.  Seller shall not be entitled to utilize such twenty-four
+hour period,  or any un-used portion  thereof,  for any other failure to deliver
+other than an unplanned outage or minor routine maintenance.
+
+                      ARTICLE V: OPERATION AND MAINTENANCE
+
+5.1 Seller.  Seller shall,  at its own expense and  regardless of who may be the
+operator of Seller's  Facilities  (which operator shall be a prudent operator in
+the  industry),  maintain,  operate,  and preserve  Seller's  Facilities in good
+working order and condition,  ordinary wear and tear excepted, and in conformity
+with Good Engineering Practices,  applicable laws, rules and regulations. Seller
+shall  obtain  or cause to be  obtained,  and  shall  comply  with,  any and all
+governmental and other authorizations or permits necessary to locate and operate
+Seller's Facilities and to collect,  process,  treat and sell Gas and dispose of
+Residual Gas, as required hereunder.
+
+5.2 Buyer.  Buyer shall,  at its own expense,  maintain,  operate,  and preserve
+Buyer's  Facilities at all times in good working order and  condition,  ordinary
+wear and tear  excepted,  and in  conformity  with Good  Engineering  Practices,
+applicable  laws,  rules  and  regulations.  Buyer  shall  obtain or cause to be
+obtained,   and  shall  comply  with,  any  and  all   governmental   and  other
+authorizations or permits necessary to locate and operate Buyer's Facilities and
+conduct Buyer's business, and purchase and use Gas.
+
+5.3 Scheduled  Major  Maintenance.  The Parties shall use reasonable  efforts to
+schedule major  maintenance for their  respective  facilities and, to the extent
+possible, coordinate major maintenance to minimize interruptions in the delivery
+and  acceptance  of Gas  hereunder or in the  production  and sale of electrical
+energy from  Buyer's  Facilities.  The Parties  shall  establish  and agree to a
+schedule of major  maintenance  for each  Contract Year at the beginning of such
+year.  Any changes to such schedule shall be made upon not less than thirty (30)
+days notice.
+
+                       ARTICLE VI: MEASUREMENT AND TESTING
+
+6.1      Metering.
+
+(a) Seller shall install and maintain metering and other appropriate  facilities
+for the purpose of measuring  the volume and Btu content of all Gas delivered by
+Seller to Buyer  pursuant  to this  Agreement.  Buyer  shall have access to such
+metering and Seller shall  continuously  measure the volume of Gas  delivered to
+Buyer at the  Delivery  Points and shall  sample such Gas to  determine  its Btu
+content on a daily basis.
+
+(b) Seller shall calibrate the metering facilities,  and adjust, clean or repair
+such  facilities to eliminate any  inaccuracy,  on the first working day of each
+calendar  quarter or more  frequently as Seller may determine.  Buyer shall have
+the right to request a special  calibration of Seller's  metering  facilities at
+any reasonable time;  however,  if any such special  calibration shows that such
+metering facilities were registering within five percent (5%) accuracy, then the
+cost of such  special  calibration  shall be borne by  Buyer.  In the  event any
+calibration  of a metering  facility does not register  within five percent (5%)
+accuracy,  then the volume and/or Btu content of Gas  theretofore  delivered and
+received shall be recalculated and corrected to eliminate the entire  inaccuracy
+for any period of inaccuracy  definitely known. If any such period of inaccuracy
+is not definitely known, then such recalculation shall only be made for a period
+covering one-half of the elapsed time since the last calibration,  not to exceed
+a period of forty-five (45) days.
+
+         6.2      Testing.
+
+(a) Seller shall  monitor and test the Gas at the  Delivery  Points daily at its
+expense for purposes of determining whether the quality specifications set forth
+in Exhibit A are being met. The results thereof shall promptly be made available
+to Buyer and will be deemed  conclusive  unless Buyer requests a re-test.  Buyer
+shall have the right to test or re-test  the Gas for said  purposes  through the
+services  of an  outside  independent  laboratory.  If Buyer  requests a test or
+re-test of the Gas,  Buyer  shall pay the cost of such test or re-test if Gas is
+found to meet the quality  specifications  set forth in Exhibit A; otherwise the
+Seller shall pay the costs.  It is understood and agreed that both parties shall
+have access to any test results and shall have the right to be  represented  and
+to witness all tests as well as the right to inspect and test any  equipment  in
+determining Gas quality.
+
+(b) Each  Party  shall  have the right to have its  representatives  and  agents
+present  at  any  installing,  changing,  inspecting,  testing,  calibrating  or
+adjusting  done in  connection  with the metering  facilities  used in measuring
+deliveries  of  Gas  hereunder.  The  records  and  charts  from  such  metering
+facilities shall remain the property of Seller, but Buyer, upon reasonable prior
+notice to Seller,  shall have rights to full  access to such  records and charts
+together with  calculations  for  inspection and  verification,  and may, at its
+expense, copy such records or charts.
+
+(c) The Btu content of the Gas delivered in any month  hereunder  shall be equal
+to the sum of the MMBtus  delivered  in each day during such  month.  The MMBtus
+delivered  in each day shall be  calculated  by taking  the  product  of (i) the
+volume of Gas delivered  during each day (as such  information  is obtained from
+the meters) and (ii) the Btu content of the Gas sample taken on such day.
+
+                              ARTICLE VII: PAYMENT
+
+7.1  Statement/Payment.  On or before the twenty-fifth  (25th) day of each month
+Buyer shall furnish to Seller a statement and payment for deliveries of Gas made
+during the prior month. Such statement shall provide,  in reasonable detail, the
+methodology  used by Buyer to  calculate  the  payment  and/or  Royalty for such
+month.  In  addition,  such  statement  shall also show  whether any  liquidated
+damages,  as set forth in  Section  4.8,  are due for the  preceding  month from
+Seller,  which  damages,  if any, shall be credited  against  amounts due Seller
+under such statement.  Any amounts not paid by Buyer by the due date will accrue
+interest at the Interest Rate, such interest to be calculated from and including
+the due date to, but excluding, the date the delinquent amount is paid.
+
+7.2 Estimated Statement.  If all information required for statement purposes for
+any month is not  available  in time for Buyer to prepare the  statement,  Buyer
+shall  prepare a statement  and pay Seller  based upon an  estimated  statement.
+Buyer shall, as soon as thereafter possible,  submit a corrected statement.  Any
+overpayment  by Buyer pursuant to such  estimated  statement  shall be credited,
+with interest at the Interest Rate, against Buyer's payment  obligations for the
+next month, and any  underpayment,  with interest at the Interest Rate, shall be
+included in the next monthly statement.
+
+7.3  Disputes  and  Adjustments.  A  Party  may,  in  good  faith,  dispute  the
+correctness  of any  statement or any  adjustment  thereto  rendered  under this
+Agreement or adjust any statement  for any  arithmetic  or  computational  error
+within  twelve  (12)  months  of the  date the  statement,  or  adjustment,  was
+rendered.  If a statement or portion  thereof,  or any other claim or adjustment
+arising  hereunder,  is  disputed,  payment  of the  undisputed  portion  of the
+statement  shall be required to be made when due,  with notice of the  objection
+given to the other Party. Any dispute or adjustment shall be made in writing and
+shall state the basis for the  dispute or  adjustment.  Payment of the  disputed
+amount shall not be required until the dispute is resolved.  Upon  resolution of
+the dispute,  any required payment shall be made within two (2) Business Days of
+such  resolution  along  with  interest  accrued at the  Interest  Rate from and
+including the due date to but excluding the date paid. Inadvertent  overpayments
+shall  be  returned  upon  request  or  deducted  by the  Party  receiving  such
+overpayment from subsequent payments, with interest accrued at the Interest Rate
+from and including the date of such overpayment to but excluding the date repaid
+or deducted by the Party receiving such overpayment. Any dispute with respect to
+an invoice is waived unless the other Party is notified in accordance  with this
+Section  7.3 within  twelve  (12)  months  after the  invoice is rendered or any
+specific adjustment to the invoice is made.  "Business Day" means any day except
+a Saturday, Sunday, or a Federal Reserve Bank holiday.
+
+7.4 Audit.  Each Party (and its  Representatives)  shall have the right,  at its
+sole  expense and during  normal  working  hours,  to examine the records of the
+other  Party  relating  to this  Agreement  but  only to the  extent  reasonably
+necessary to verify the accuracy of any statement,  charge or  computation  made
+pursuant to this Agreement. If requested,  each Party shall provide to the other
+Party  statements  evidencing the quantities of Gas delivered or received at the
+Delivery  Points.  If  any  such  examination  reveals  any  inaccuracy  in  any
+statement,  the necessary adjustments in such statement and the payments thereof
+will be promptly  made and shall bear  interest  calculated at the Interest Rate
+from the date the  overpayment or  underpayment  was made until paid;  provided,
+however,  that no  adjustment  for any  statement or payment will be made unless
+objection to the  accuracy  thereof was made prior to the lapse of one year from
+the delivery of such Gas at the Delivery Points; and provided further, that this
+Section will survive any  termination of this Agreement for a period of one year
+from the date of such  termination for the purpose of such statement and payment
+objections.
+
+                           ARTICLE VIII: RESIDUAL GAS
+
+8.1 Residual Gas. As partial  consideration  for the provision of Gas hereunder,
+Seller shall assume full responsibility for and shall perform all obligations of
+Buyer to  transport  and  combust  or  otherwise  dispose of such  Residual  Gas
+purchased  by  Buyer  all  in  compliance   with  applicable   laws,   including
+Environmental Laws, regulations and permits.
+
+8.2 Environmental  Indemnity.  Notwithstanding  Section 4.5 hereof, Seller shall
+protect, defend, indemnify and save harmless Buyer, from, against and in respect
+of, any and all Claims,  including Environmental Claims, and reasonable expenses
+for  accounting,  consulting,  engineering,  investigation,  cleanup,  response,
+removal and/or disposal and other remedial costs, directly or indirectly imposed
+upon, incurred by or asserted against Buyer arising out of or in connection with
+any Claim(s) by any other party or parties  (including,  without  limitation,  a
+Governmental Entity),  arising out of or in connection with Seller's possession,
+transportation,  use or  disposal  of  Residual  Gas,  except to the extent such
+Claims are due to Buyer's negligence or willful misconduct.
+
+                             ARTICLE IX: LIMITATIONS
+
+9.1 Limitation of Remedies,  Liability and Damages.  EXCEPT AS SET FORTH HEREIN,
+THERE IS NO WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, AND
+ANY AND ALL IMPLIED  WARRANTIES  ARE  DISCLAIMED.  THE PARTIES  CONFIRM THAT THE
+EXPRESS REMEDIES AND MEASURES OF DAMAGES PROVIDED IN THIS AGREEMENT  SATISFY THE
+ESSENTIAL  PURPOSES  HEREOF.  FOR BREACH OF ANY  PROVISION  FOR WHICH AN EXPRESS
+REMEDY OR  MEASURE OF DAMAGES IS  PROVIDED,  SUCH  EXPRESS  REMEDY OR MEASURE OF
+DAMAGES SHALL BE THE SOLE AND EXCLUSIVE REMEDY, THE OBLIGOR'S LIABILITY SHALL BE
+LIMITED AS SET FORTH IN SUCH  PROVISION AND ALL OTHER REMEDIES OR DAMAGES AT LAW
+OR IN EQUITY  ARE  WAIVED.  IF NO REMEDY OR  MEASURE  OF  DAMAGES  IS  EXPRESSLY
+PROVIDED HEREIN OR IN A TRANSACTION, THE OBLIGOR'S LIABILITY SHALL BE LIMITED TO
+DIRECT  ACTUAL  DAMAGES ONLY,  SUCH DIRECT ACTUAL  DAMAGES SHALL BE THE SOLE AND
+EXCLUSIVE  REMEDY  AND ALL OTHER  REMEDIES  OR  DAMAGES  AT LAW OR IN EQUITY ARE
+WAIVED.  UNLESS  EXPRESSLY  HEREIN  PROVIDED,  NEITHER PARTY SHALL BE LIABLE FOR
+CONSEQUENTIAL, INCIDENTAL, PUNITIVE, EXEMPLARY OR INDIRECT DAMAGES, LOST PROFITS
+OR OTHER BUSINESS INTERRUPTION  DAMAGES, BY STATUTE, IN TORT OR CONTRACT,  UNDER
+ANY INDEMNITY  PROVISION OR OTHERWISE.  TO THE EXTENT ANY DAMAGES REQUIRED TO BE
+PAID  HEREUNDER ARE  LIQUIDATED,  THE PARTIES  ACKNOWLEDGE  THAT THE DAMAGES ARE
+DIFFICULT OR IMPOSSIBLE TO DETERMINE,  OR OTHERWISE OBTAINING AN ADEQUATE REMEDY
+IS INCONVENIENT  AND THE DAMAGES  CALCULATED  HEREUNDER  CONSTITUTE A REASONABLE
+APPROXIMATION OF THE HARM OR LOSS.
+
+                            ARTICLE X: FORCE MAJEURE
+
+10.1 Force Majeure. If either Party is rendered unable by Force Majeure to carry
+out,  in whole or part,  its  obligations  (other  than the  obligation  to make
+payments due and outstanding) under this Agreement, such Party shall give notice
+orally to the other Party as soon as  reasonably  practicable,  followed  within
+five (5) Business  Days  thereafter by a written  notice  setting forth the full
+details of the cause or causes constituting such Force Majeure.  The obligations
+of the Party  affected by such Force Majeure  (other than the obligation to make
+payments  then due or  becoming  due with  respect to  performance  prior to the
+event) shall be suspended to the extent made  necessary,  and for no longer than
+is required,  by the cause or causes constituting such Force Majeure.  The other
+Party,  within ten Business Days after receipt of such written notice,  may give
+written notice that it disputes the existence of Force Majeure.
+
+10.2 Remedy for Force  Majeure.  The Party  affected by the Force  Majeure shall
+initiate and continue  commercially  reasonable good faith efforts to remedy the
+Force  Majeure  with  all  reasonable  dispatch;  provided,  however,  that  the
+settlement of strikes,  lockouts or other labor disputes shall be totally within
+the discretion of the affected Party.
+
+10.3  Continuance  of Force  Majeure.  If an event  of Force  Majeure  affecting
+performance  by either Party  persists  for a continuous  period of more than 12
+months,  the other Party shall have the right, upon not less than three Business
+Days' prior written  notice,  to terminate this Agreement and the obligations of
+the Parties hereunder,  except those rights and obligations  specifically stated
+to continue after termination.
+
+                     ARTICLE XI: SALE OF SELLER'S FACILITIES
+
+11.1 Sale of Seller's Facilities.  If Seller, for any reason and within its sole
+and exclusive judgment,  determines that its continued  ownership,  operation or
+use of Seller's  Facilities  is no longer is in its best  interest,  economic or
+otherwise,  Seller shall provide written notice to Buyer of such  determination.
+Upon  receipt of such  written  notice,  Buyer  shall have  ninety  (90) days to
+determine  whether it desires,  for a purchase price of one dollar  ($1.00),  to
+purchase  Seller's  Facilities and assume Seller's  rights and obligations  with
+respect to such facilities. If Buyer decides not to make such purchase, it shall
+provide  Seller with written  notice of such  determination  and, in such event,
+within thirty (30) days from  Seller's  receipt of such notice,  this  Agreement
+shall  terminate  without  liability or penalty,  except as otherwise may be set
+forth in this Agreement.
+
+11.2  Buyer's  Due  Diligence.  During the ninety (90) day period  described  in
+Section 11.1,  Seller shall  provide Buyer with access to all Seller's  records,
+books and accounts as Buyer may  reasonably  request,  including but not limited
+to, any filings, reports or other documents filed with the Landfill Owner or any
+Governmental  Entity  regarding  the  Landfill  or  Seller's  Facilities  or any
+Environmental Claim relating thereto. In addition,  Buyer shall have full access
+to Seller's Facilities and shall be permitted to conduct any tests,  assessments
+or investigations  it determines is necessary,  at its sole cost and in its sole
+discretion. Seller shall cooperate fully with Buyer during this period and shall
+be reimbursed  by Buyer for the  reasonable  and  verifiable  costs  incurred by
+Seller with respect to such cooperation.
+
+                   ARTICLE XII: EVENTS OF DEFAULT AND REMEDIES
+
+12.1  Event of Default  Defined.  Any one or more of the  following  shall be an
+"Event of Default" under this Agreement:
+
+(a) Failure by Seller or Buyer to pay any amount due on the date  specified that
+such payment is due and payable which failure shall have  continued for a period
+of five (5) Business Days after  written  notice of such failure shall have been
+given to the defaulting party by the non-defaulting party.
+
+(b)  Failure by Seller or Buyer to  observe or perform to a material  extent any
+covenant,  condition,  or  agreement  on their part to be observed or  performed
+hereunder,  other than a payment  default by Seller or Buyer as described in the
+foregoing subsection (A), for a period of ten (10) Days after the non-defaulting
+party has given written notice  specifying  such failure,  requesting that it be
+remedied, and stating that it is a notice of default; provided, however, that if
+the default is such that it cannot be corrected within the applicable period, it
+shall not  constitute  an Event of  Default  until  ninety  (90) Days after said
+default if corrective  action is instituted by the party in default  within such
+ten (10) day period and diligently  pursued until the default is corrected.  The
+foregoing notwithstanding, the defaulting party shall remain liable to the other
+party for any damages  incurred during the period beginning on the date on which
+the failure of  performance  occurred  through the date on which  performance is
+cured.
+
+(c) The institution by Seller or Buyer of proceedings to be adjudicated bankrupt
+or  insolvent,  or  the  consent  by it to  the  institution  of  bankruptcy  or
+insolvency  proceedings  against  it, or the filing of a  petition  or answer or
+consent seeking  reorganization  or relief under the federal  Bankruptcy Code or
+any other applicable federal or state law, or the consent by it to the filing of
+such  petition  or to  the  appointment  of a  receiver,  liquidator,  assignee,
+trustee,  sequestrator, or similar official or the making by it of an assignment
+for the benefit of creditors, or the admission by it in writing of its inability
+to pay its debts generally as they become due, or the taking of action by any of
+them in furtherance of any such action.
+
+(d) Any material breach of any representation made in this Agreement by a Party.
+
+12.2 Termination  Remedies on Default.  In addition to any other right or remedy
+of the  Parties,  Buyer and Seller  shall each have the right,  by notice to the
+other Party,  to terminate this Agreement if the other Party commits an Event of
+Default.
+
+                             ARTICLE XIII: INSURANCE
+
+13.1 Insurance  Policies.  During the Term, Buyer shall keep Buyer's  Facilities
+and  activities,  and Seller  shall keep  Seller's  Facilities  and  activities,
+insured against loss or damage by fire or other casualty, with extended coverage
+as  shall  from  time  to time  be  commercially  available  and  customary  for
+facilities of a similar  type,  and otherwise in the type and amount of coverage
+required under the Landfill Gas Lease.  As of the Effective Date, and thereafter
+for the Term,  each Party,  at its sole cost and expense,  shall  maintain broad
+form general public  liability  insurance  against all claims for bodily injury,
+death  or  property  damage,  occurring  upon,  in or  about  the  such  Party's
+facilities,  in the minimum amount of $2 million per occurrence.  such insurance
+shall  include  coverage  for  premises   operations,   contractual   liability,
+explosion,  collapse,  underground  property damage and broad form comprehensive
+general liability.
+
+13.2  Additional  Insured.  All policies  described in Section 13.1  obtained by
+Buyer shall name  Seller,  and the  Landfill  Owner if required by the Gas Lease
+Agreement,  and all policies  described in Section 13.1 obtained by Seller shall
+name Buyer as additional  insureds as their  interests may appear,  inclusive of
+third  party  claims for  bodily  injury or  property  damage  arising  from the
+insuring party's  performance under the Agreement.  All insurance to be provided
+by each Party  hereunder is primary and not in excess of, or  contributing  with
+any insurance of the other Party, nor does such insurance create a limitation on
+any liability under this  Agreement.  Buyer shall provide Seller its certificate
+of insurance  evidencing  the insurance  required  hereunder at the beginning of
+each policy period.
+
+                           ARTICLE XIV: MISCELLANEOUS
+
+14.1 Assignment.  (a) Neither Party shall assign, delegate or otherwise transfer
+(collectively,  an  "Assignment")  this  Agreement  or  any  of  its  rights  or
+obligations  hereunder  without the prior  written  consent of the other  Party,
+which consent shall not be unreasonably withheld or delayed. Notwithstanding the
+foregoing,  either Party may,  without the need for consent from the other Party
+(and,  except as hereinafter  provided,  without relieving itself from liability
+hereunder),  make an  Assignment  of this  Agreement to (i) an Affiliate of such
+Party, or (ii) any Person acquiring or succeeding to all or substantially all of
+the  assets of such  Party.  Any  assignee  of all or any  portion  of a Party's
+interest  hereunder  shall  assume and agree in  writing  to perform  all of the
+obligations of its assignor  arising  hereunder after the effective date of such
+Assignment. No Assignment of all or any portion of a Party's interest under this
+Agreement  shall  relieve such Party from  obligations  or liability  hereunder,
+except that an  Assignment  pursuant to Section  14.1(a)(ii)  shall  relieve the
+assigning  Party of any  obligation  or liability  arising  hereunder  after the
+effective  date of the  Assignment,  provided  that the assignee has assumed the
+obligations of the assigning  Party as provided in the preceding  sentence.  Any
+Party making an Assignment  pursuant to this Section 12.1 shall promptly  notify
+the other Party thereof and furnish such Party a copy of such Assignment.
+
+(b) This Agreement shall inure to the benefit of and be binding upon the Parties
+and their respective successors and permitted assigns.
+
+14.2 Integration;  Amendment. This Agreement constitutes the entire agreement of
+the Parties relating to the subject matter hereof. There are no promises, terms,
+conditions,  obligations,  or warranties other than those contained herein. This
+Agreement supersedes all prior communications,  representations,  or agreements,
+oral or written,  among the Parties relating to the subject matter hereof.  This
+Agreement may not be amended except in writing signed by the Parties.
+
+14.3  Severability.  Any  provision of this  Agreement,  which is  prohibited or
+unenforceable  in  any  jurisdiction,   shall,  as  to  such  jurisdiction,   be
+ineffective  to the  extent  of such  prohibition  or  unenforceability  without
+invalidating  the  remaining   provisions  of  this  Agreement,   and  any  such
+prohibition  or  unenforceability  in any  jurisdiction  shall not invalidate or
+render unenforceable such provision in any other jurisdiction
+
+14.4 Notices and Consents. All notices, requests,  demands, claims, consents and
+other  communications  or  deliveries  hereunder  shall  be in  writing  and (a)
+delivered in person or by courier,  (b) sent by facsimile  transmission,  or (c)
+mailed certified first class mail, postage prepaid, return receipt requested, to
+the appropriate party at the following addresses:
+
+                  Ridgewood Power Management, LLC
+                  c/o Chief Operating Officer
+                  947 Linwood Avenue
+                  Ridgewood, NJ 07450
+                  (201) 447-9000
+                  (201) 447-0474 (Fax)
+
+                  GSF Energy, LLC
+                  c/o LFG Management Services, LLC
+                  400 Fairway Drive, Suite 150
+                  Moon Township, PA 15108
+                  Fax: 412-393-1262
+                  Attn:  President
+
+or such other  address  as a Party may  designate  to the other  Party by notice
+given as provided  herein.  Such notices  shall be effective (i) if delivered in
+person or by courier,  upon actual  receipt by the intended  recipient,  (ii) if
+sent by facsimile transmission,  when the sender receives confirmation that such
+notice  was  received  at the  facsimile  number of the  addressee,  or (iii) if
+mailed, upon the date of delivery as shown by the return receipt therefore.
+
+14.5  Multiple  Counterparts.  This  Agreement  may be  executed  in two or more
+counterparts,  each of which  shall be  deemed an  original,  and it will not be
+necessary  in making proof of this  Agreement or the terms of this  Agreement to
+produce or account  for more than one of such  counterparts,  provided  that the
+counterpart produced bears the signature of the party sought to be bound.
+
+14.6 No Third  Party  Beneficiary  Rights.  Nothing in this  Agreement  shall be
+deemed to grant any third party  beneficiary or similar rights to any Person not
+a signatory to or contemplated by this Agreement.
+
+14.7  Waiver.  Any  waiver at any time by either  Party of its  rights,  duties,
+and/or  obligations  with respect to any default under this  Agreement,  or with
+respect to any other matter arising out of or in connection with this Agreement,
+shall  not be  deemed a  continuing  waiver  nor a waiver  with  respect  to any
+subsequent default or other matter.
+
+14.8 Governing Law. This Agreement  shall be interpreted in accordance  with and
+governed  by the laws of the  State of  California,  without  giving  effect  to
+principles of conflicts of law.
+
+         14.9 Survival. The rights and obligations of the Parties as described
+in Section 4.5, Section 8.2 and Section 9.1 shall survive termination of this
+Agreement, including but not limited to, termination pursuant to Section 11.1.
+
+         IN WITNESS WHEREOF, the Parties have set their hands as of the date
+first above written.
+
+                       RIDGEWOOD POWER MANAGEMENT, L.L.C.
+
+
+                       By:_______________________________
+                              Name: Martin V. Quinn
+                   Title: Executive Vice President and Chief Operating Officer
+
+                                GSF ENERGY, L.L.C.
+                      By: LFG  Management Services, LLC, Its Manager
+
+                        By:_____________________________
+                        Name:___________________________
+                       Title:____________________________
+
+
+
+<PAGE>
+
+
+         EXHIBIT A
+         Landfill Gas Specifications
+
+                           BREA FACILIITY                     OLINDA FACILITY
+
+Methane (CH4)              Minimum of 50%                     Minimum of 43%
+Nitrogen (N2)                ( 0% - 6%)                       (10% - 15%)
+Oxygen (O2)                  (0% - 3%)                        ( 0% - 5%)
+Carbon Dioxide (CO2)       Minimum of 40%                     Minimum of 36%
+Heating Value BTU / SCF
+         (Dry)             (Minimum of 500                    Minimum of 430
+Delivery Pressure to Plant
+         (psig)              75 maximum                        0.5 Minimum
+
+Typical operations of the Brea Facility will require the landfill gas stream
+delivered by the Seller to be treated by the selexol process, which is currently
+implemented within the Seller's Gas Collection System.
+
+
+<PAGE>
+
+
+                                                     EXHIBIT B
+         Description of the Landfill and the Property
+
+(See Attachment)
+
+The Landfill is comprised of the two portions  described below. The two portions
+are collectively known as the Olinda/Olinda  Alpha Sanitary Landfill.  Following
+is a general  description of the refuse fill area within the Olinda/Olinda Alpha
+Sanitary  Landfill located in the County of Orange,  State of California as well
+as an outline of the general location of such canyons on a plot plan.
+
+The Olinda Canyon  portion of the Landfill  contains one hundred  thirty - eight
+(138) acres, more or less; described as:
+
+The South half of Northeast  quarter and the North half of the Southeast quarter
+and the East  half of the  Southwest  quarter  and a  portion  of the  Northwest
+quarter of  Section 5,  Township  3 South,  Range 9 West,  S.B.B.  & M., and the
+Southwest  quarter of the  Northwest  quarter of Section of 4, Township 3 South,
+Range 9 West, S.B.B. & M.
+
+The Alpha  Canyon  portion of the Landfill  contains  one hundred  fifty - seven
+(157) acres, more or less; described as:
+
+The Southeast quarter of Section 5, Township 3 South, Range 9 West, S.B.B. & M.,
+and the South  half of the  Northwest  quarter  and a portion  of the  Southwest
+quarter  Section 4, Township 3 South,  Range 9 West, S.B. B. & M., and a portion
+of the Northeast quarter of Section 8, Township 3 South,  Range 9 West, S.B.B. &
+M.
+
+
+
+
+
+<PAGE>
+
+
+                                                     EXHIBIT C
+         Delivery Point Description
+
+(See Attachment)
+
+BREA FACILITY Flow Element 101 is located between the GSF Gas Recovery Plant and
+the Brea Facility. The flow element consists of a flanged mass flow meter with a
+304 Stainless Steel meter run, pressure and temperature transducers.
+
+
+
+OLINDA  FACILITY Flow Element 202 is located  between the Flare Facility and the
+Olinda Facility. The flow meter consists of a flanged mass flow meter with a 304
+Stainless Steel meter run, pressure and temperature transducers.
+
+
+
+
+</TEXT>
+</DOCUMENT>

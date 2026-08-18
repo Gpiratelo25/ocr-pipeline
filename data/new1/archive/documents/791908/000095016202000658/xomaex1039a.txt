@@ -1,0 +1,387 @@
+<DOCUMENT>
+<TYPE>EX-10.39A
+<SEQUENCE>3
+<FILENAME>xomaex1039a.txt
+<DESCRIPTION>AMEND. NO. 1 TO THE PROC. DEV. AND MANU. AGREE.
+<TEXT>
+                                                                  Exhibit 10.39A
+
+
+[*] indicates that a confidential portion of this Amendment has been omitted and
+filed separately with the Securities and Exchange Commission.
+
+
+                               AMENDMENT #1 TO THE
+
+                "PROCESS DEVELOPMENT AND MANUFACTURING AGREEMENT"
+
+                                     BETWEEN
+
+                  ONYX PHARMACEUTICALS, INC., and XOMA (US) LLC
+
+
+This Amendment #1 to the Process Development and Manufacturing Agreement (the
+"Amendment") is made and entered into on April 15, 2002 by and between ONYX
+Pharmaceuticals, Inc., a Delaware Corporation having its principal place of
+business at 3031 Research Drive, Richmond, California 94806 ("ONYX"), and XOMA
+(US) LLC, a Delaware limited liability company ("XOMA") with offices at 2910
+Seventh Street, Berkeley, California 94710. ONYX and XOMA are sometimes referred
+to herein individually as a "Party" and collectively as "Parties."
+
+                                    RECITALS
+
+
+     Whereas ONYX and XOMA entered into a Process Development and Manufacturing
+Agreement, dated January 29, 2001, to engage XOMA to scale up and improve the
+process for the manufacture of ONYX-015, and to manufacture and supply ONYX-015
+in bulk form for clinical trials and for the commercial launch of the ONYX-015
+product, such that the Development Phase was to occur at a [*] liter scale and
+the commercial Manufacturing Phase was to occur at a [*] liter scale;
+
+     Whereas the Parties desire to amend the Agreement as follows:
+
+     1. Section 2.5(a) of the Agreement is deleted in its entirety, and the
+following substituted in its place:
+
+     2.5 Specifications; Changes to Specifications and Work Plan.
+
+     (a) As of the Effective Date, ONYX and Pfizer have agreed upon the current
+Specifications for Drug Substance, which are attached hereto as Exhibit A. ONYX
+may change the Specifications from time to time, after consulting with XOMA in
+advance as to such changes, and such revised Specifications shall replace the
+previous Specifications and shall be deemed to be part of this Agreement as
+Exhibit A. A copy of the current Specifications for Drug Substance is attached
+to this Amendment as Exhibit A. In particular, after XOMA has produced [*]
+releasable Batches of Drug Substance at the [*]L Development Scale, the Project
+Team shall determine if any changes to the Specifications are desirable or
+required. In particular, the Parties expect that ONYX will change the
+Specifications as a result of process changes made during the Development Phase
+under Section 4 and the data obtained from registration Batches manufactured
+pursuant to Section 4.2, and that such modified Specifications will be
+consistent with FDA expectations for purity, potency, and other product
+characteristics. ONYX and XOMA expect that the modified Specifications will be
+comparable to Specifications existing as of the Effective Date, particularly as
+regards purity and potency, except as these Specifications may require revision
+per the request of any Regulatory Authority (e.g., FDA, EMEA).
+
+
+<PAGE>
+
+     2. Section 4.2(a) of the Agreement is deleted in its entirety, and the
+following substituted in its place:
+
+     4.2 Scale-up of Manufacture
+
+     (a) Establishment of Commercial Scale. Subject to sections 4.2(c) and 4.3,
+in accordance with the Work Plan and as quickly as reasonably practicable, XOMA
+will scale up the manufacturing scale for Drug Substance to Commercial Scale,
+including, without limitation, performing process development work to improve
+the manufacturing process for Drug Substance that is transferred to XOMA
+pursuant to Section 4.1, increasing of the Drug Substance Yield, and addressing
+FDA expectations for quality (i.e., purity and potency). The goal of such
+efforts will be the production of the first Batch at Commercial Scale of Drug
+Substance that meets Specifications and that results in an overall Drug
+Substance Yield of at least [*] (which Yield level will not be deemed pursuant
+to this Section 4.2(a) to be a Specification). This minimum Yield percentage of
+[*] is an estimate based on production at the [*]L fermentation bioreactor
+scale, and it is subject to confirmation and mutually agreed good faith
+adjustment by the Parties based upon initial manufacturing runs at Development
+Scale.
+
+     3. Section 4.3 of the Agreement is deleted in its entirety, and the
+following substituted in its place:
+
+     4.3 Production at Development Scale. Prior to the establishment of
+Commercial Scale per section 4.2(a), as quickly as reasonably practicable, but
+no later than [*], XOMA will initiate [*] cGMP Batches of Drug Substance at the
+[*] liter Development Scale in calendar [*], and ONYX will receive all of each
+such Batch for purposes of (i) satisfying ONYX and Pfizer's projected needs for
+a working stock of active ONYX-015 virus and for ONYX-015 supplies for critical
+clinical trials, (ii) generating experimental data to support proposed process
+changes, (iii) supporting the preparation and filing of appropriate
+documentation (e.g. a Drug master file or any new or amended INDs for ONYX-015
+that ONYX or an ONYX Partner may file), and/or (iv) supporting any BLA that ONYX
+or Pfizer may file for ONYX-015. The Parties will consult as to ONYX's
+additional needs for Development Scale Batches, based on its needs for the
+purposes set forth in this Section 4.3, and XOMA will consider in good faith any
+requests by ONYX for such additional production of Drug Substance at Development
+Scale, with any production to be included in the Work Plan only upon the
+Parties' mutual agreement. If XOMA produces any additional Development Scale
+Batch pursuant to this Section 4.3, then: (i) the Parties will agree upon an
+extension of the timeframes in Section 11.3(a) pursuant to which ONYX may
+terminate this Agreement without penalty; and/or (ii) the Parties will agree
+upon an extension of the period during which XOMA will manufacture the
+guaranteed minimum number of Batches so as to permit XOMA to recapture its
+economic benefits as contemplated in this Agreement.
+
+In addition, as soon as practical but not later than [*], XOMA shall produce [*]
+cell suspension-adapted HEK 293 cell banks (to include [*]) in full compliance
+with cGMP and produced in Xoma's cGMP cell banking facility. Each bank must
+contain at least [*] vials (net of vials removed for QC testing and retains),
+and must meet Onyx specifications for suspension-adapted HEK 293 master or
+working cell banks ("Cell Bank Specifications"), as appropriate. Additionally,
+Xoma shall use reasonable efforts to produce [*] additional cell
+suspension-adapted HEK 293 cell banks, also to include [*], in full compliance
+with cGMP and produced in Xoma's cGMP cell banking facility. Each bank must also
+contain at least [*] vials (net of vials removed for QC testing and retains),
+and must meet
+
+
+
+                                      -2-
+<PAGE>
+
+Onyx specifications, as appropriate. Copies of the current cell bank
+specifications are attached to this Amendment as Exhibits B and C.
+
+     4. Section 5.4 of the Agreement is deleted in its entirety, and the
+following substituted in its place:
+
+     5.4 Commercial Supply Forecast. On or before [*], Onyx will provide XOMA
+with a non-binding written [*] year forecast by calendar quarter of Onyx's or
+any Onyx Partner's anticipated orders for Drug Substance, based upon demand for
+clinical trials and commercial sales and upon reasonably anticipated dates for
+issuance of Regulatory Approvals for the ONYX-015 product and launch dates
+therefor. This forecast shall be for facility planning purposes only and shall
+not constitute an order. Onyx will update this forecast on a calendar quarterly
+basis.
+
+     5. Section 6.2 of the Agreement is deleted in its entirety, and the
+following substituted in its place:
+
+     6.2 Space Fee. Beginning with the calendar quarter commencing [*], and
+until production of the first registration Batch at Commercial Scale pursuant to
+Section 4.2(a), ONYX shall pay XOMA a dedicated space fee for the Suite of [*]
+per calendar quarter, payable on a calendar quarterly basis in advance by wire
+transfer of immediately available funds to an account designated by XOMA. After
+the calendar quarter in which such first registration Batch is supplied to ONYX,
+no further dedicated space fee shall be payable. Adjustment for the first two
+quarters of 2002 will be wired to XOMA promptly after signing this Amendment.
+
+     6. Section 6.5 of the Agreement is deleted in its entirety, and the
+following substituted in its place:
+
+     6.5 Milestone Payments. Within thirty (30) days of the achievement of each
+milestone set forth in this Section 6.5, ONYX will pay to XOMA the applicable
+milestone payment by wire transfer of immediately available funds to an account
+designated by XOMA.
+
+     (a) Commercial Scale
+
+     Other than milestones for additional Yield improvements pursuant to Section
+6.5(a)(ii), no Commercial Scale milestone payment will be payable more than
+once.
+
+          (i) Initial Commercial Scale Batch Meeting Specifications and with
+     Adequate Yield. Upon production of the initial Batch at the [*]L Commercial
+     Scale in compliance with Specifications and cGMP with the required minimum
+     Yield pursuant to Section 4.2(a), as adjusted, ONYX will pay to XOMA a
+     milestone payment of [*].
+
+          (ii) Yield Improvements. For each increase of [*] percentage points in
+     manufacturing Yield in excess of [*] Yield (as such Yield level may be
+     adjusted pursuant to Section 4.2(a)), as calculated at the completion of
+     the first [*] Batches of Drug Substance at [*]L Commercial Scale that
+     comply with the warranties in Section 8.1(a) pursuant to Sections 4.2(a)
+     and (b), ONYX will pay to XOMA a milestone payment of [*]. Increases in
+     Yield must be evidenced by the average Yield of the [*] Batches of Drug
+     Substance (or, if the Yield for one Batch differs by at least [*]
+     percentage points from the average Yield of the other [*] Batches, the
+     average Yield of
+
+
+
+                                      -3-
+<PAGE>
+
+     such [*] Batches and the next Batch at Commercial Scale that complies with
+     the warranties in Section 8.1(a)) at or in excess of [*] Yield (as so
+     adjusted).
+
+For purposes of example:
+
+If [*] consecutive Batches result in Yields of [*], respectively, XOMA will have
+earned an aggregate milestone payment of [*], as there has been a demonstrated
+Yield improvement of [*] percentage points, which is equal to [*] increments of
+[*] percentage points so that XOMA would receive [*] milestone payments of [*].
+If [*] consecutive Batches result in Yields of [*], respectively, and a [*]
+Batch results in a Yield of [*], the [*] Batch would be disregarded, and XOMA
+will have earned an aggregate milestone payment of [*] based upon the other [*]
+Batches, as there has been a demonstrated Yield improvement of [*] percentage
+points, which is equal to [*] increments of [*] percentage points so that XOMA
+would receive [*] milestone payments of [*].
+
+Milestone payments for Yield improvements under this Section 6.5(b) shall be
+payable only once for each [*] percentage points of Yield improvement.
+
+     (b) [*] Liter Development Scale
+
+     (i) Number of Batches and Production of Drug Substance
+
+     ONYX shall pay XOMA a milestone payment of [*] upon initiation of the [*]
+run at [*] liter Development Scale provided all [*] runs are initiated during
+the calendar year [*], and further provided that at least [*] liter runs yield
+releasable Batches of Drug Substance. In addition, during the calendar year [*],
+ONYX shall pay XOMA [*] for each releasable Batch of Drug Substance produced
+after the first [*] releasable Batches have been produced.
+
+     (ii) Yield Improvements
+
+     ONYX shall pay XOMA a milestone payment of [*] for every incremental [*]
+point improvement in Drug Substance Yield evidenced by the average Yield of [*]
+consecutive releasable Batches of Drug Substance, starting from the current
+baseline Yield of [*]. A given batch may be used only once for the purpose of
+determining an incremental Yield improvement under this Amendment. The average
+Yield used to demonstrate attainment of each Yield improvement milestone will be
+used as the new baseline Yield for determining the next incremental Yield
+improvement milestone.
+
+For purposes of example:
+
+With regard to the initial milestone payment, if [*] consecutive releasable
+Batches result in Yields of [*], respectively, XOMA will have earned an
+aggregate milestone payment of [*], as there has been an average demonstrated
+Yield improvement over the [*] Batches of [*] percentage points, which is equal
+to [*] increments of [*] percentage points above the initial baseline Yield of
+[*], so that XOMA would receive [*] milestone payments of [*].
+
+In the above example, the average Yield for the [*] Batches of [*] would become
+the new baseline Yield for the next incremental Yield improvement milestone
+payment. If the following [*] consecutive releasable Batches result in Yields of
+[*], respectively, XOMA will have earned an additional milestone payment of [*],
+as there has been a demonstrated Yield improvement over the [*] Batches of [*]
+percentage points, which is equal to [*] increments of [*] percentage points
+above the new baseline Yield of [*].
+
+
+
+                                      -4-
+<PAGE>
+
+     (c) Regulatory Approval for Facility. Upon licensure by the FDA of ONYX-015
+for manufacture of Drug Substance by XOMA at the Facility, ONYX will pay to XOMA
+a milestone payment of [*].
+
+     7. Section 11.3(a) of the Agreement is deleted in its entirety, and the
+following substituted in its place:
+
+     (a) Delay in Performance by XOMA. If ONYX has not materially breached its
+obligations to assist XOMA or enable XOMA's performance under this Agreement,
+then ONYX may terminate this Agreement without penalty or further obligation to
+XOMA (except as otherwise stated in this Section 11.3) upon at least ninety (90)
+days prior written notice if:
+
+          (i) XOMA has not initiated manufacture of Drug Substance (defined as
+     thawing a vial of cells in preparation for manufacturing a Batch of Drug
+     Substance) in the Suite by [*];
+
+          (ii) XOMA has not manufactured and supplied to ONYX or its designee a
+     Batch of Drug Substance meeting the then current Specifications at the [*]L
+     Development Scale by [*], provided that ONYX has not significantly delayed
+     the timelines for the Project due to ONYX's decisions based on changed
+     needs for ONYX-015 for clinical trials or on implementation of process
+     changes;
+
+          (iii) XOMA has not manufactured and supplied to ONYX or its designee a
+     Batch of Drug Substance at [*]L Commercial Scale meeting the then-current
+     Specifications by [*], provided that ONYX has not significantly delayed the
+     timelines for the Project due to ONYX's decisions based on changed needs
+     for ONYX-015 for clinical trials on implementation of process changes; or
+
+          (iv) After the Attainment of Commercial Scale, XOMA fails to
+     successfully manufacture the number of Batches of Drug Substance ordered by
+     ONYX in compliance with its guaranteed minimum annual number of Batches in
+     any applicable twelve (12) month period under Section 5.2.
+
+If ONYX's actions, inactions (e.g. ONYX's failure to provide raw materials,
+etc., pursuant to Section 2.1(b)) or decisions cause a delay in achievement of
+the target dates in this Section 11.3(a), ONYX and XOMA will in good faith agree
+upon an extension of the target dates. If ONYX terminates this Agreement
+pursuant to this Section 11.3(a), ONYX will reimburse XOMA for all appropriate
+costs under this Agreement incurred by XOMA to the date of notice of termination
+by ONYX for services performed, for commitments that cannot be canceled, and for
+resources that cannot be reallocated, and for all other costs that XOMA incurs
+in transferring the technology to ONYX or a Third Party at ONYX's request
+pursuant to Section 7.1(b). XOMA will use diligent, commercially reasonable
+efforts to minimize any costs or obligations that cannot be canceled and to
+reallocate any resources that were dedicated to the Project.
+
+     8. Counterparts. This Amendment may be executed in counterparts with the
+same force and effect as if each of the signatories had executed the same
+instrument.
+
+
+
+
+                                      -5-
+<PAGE>
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be executed
+by their duly authorized officers as of the date first set forth above.
+
+
+XOMA (US) LLC                                   ONYX PHARMACEUTICALS, INC.
+
+
+By:    /s/ Clarence L. Dellio                   By:    /s/ Hollings C. Renton
+       ---------------------------------------         ----------------------
+
+Name:    Clarence L. Dellio                     Name:    Hollings C. Renton
+
+Title:   Senior Vice President, Operations      Title:   Chief Executive Officer
+
+
+
+
+                                      -6-
+<PAGE>
+                                                                       EXHIBIT A
+
+                                       [*]
+
+
+
+
+
+
+
+
+
+
+
+
+                                      A-1
+<PAGE>
+
+
+                                                                       EXHIBIT B
+
+                                       [*]
+
+
+
+
+
+
+
+
+
+
+                                      B-1
+<PAGE>
+
+
+                                                                       EXHIBIT C
+
+                                       [*]
+
+
+
+
+
+
+
+                                      C-1
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,1300 @@
+<DOCUMENT>
+<TYPE>EX-10.8
+<SEQUENCE>14
+<FILENAME>d67933_ex10-8.txt
+<DESCRIPTION>AMENDED AND RESTATED SERVICE AGREEMENT
+<TEXT>
+                                                                    Exhibit 10.8
+
+Portions  of  this  exhibit  have  been  omitted   pursuant  to  a  request  for
+confidential  treatment filed with the Securities and Exchange  Commission.  The
+omissions have been indicated by asterisks  ("*****"),  and the omitted text has
+been filed separately with the Securities and Exchange Commission.
+
+[T-SYSTEMS LOGO]
+
+                    AMENDED AND RESTATED FULL-TIME SATELLITE
+                       AND TERRESTRIAL SERVICES AGREEMENT
+
+            THIS  AMENDED  AND  RESTATED  FULL-TIME  SATELLITE  AND  TERRESTRIAL
+SERVICES  AGREEMENT (the "Agreement") is made and entered into as of this 30 day
+of September, 2003 by and between T-Systems Canada, Inc. (f/k/a Deutsche Telekom
+(Canada),  Inc.), a Canadian  corporation,  with its principal place of business
+located at 70 York St, Suite 1700,  Toronto,  Ontario Canada M5J 1S9 ("TSC") and
+STV  International  B.V. with its registered  office and operational  address in
+Strawinskylaan 3111, 1077 ZX Amsterdam ("Customer") (together, the "Parties").
+
+1.  Customer  has  contracted  with TSC in an  agreement  dated  July  20,  2001
+("Original  Agreement") for the provision of certain  services  described herein
+(the  "Services") and subject to the technical  parameters  contained in Annex 4
+attached hereto;
+
+2. Customer and TSC have agreed to amend and restate the terms and conditions of
+the Original Agreement to reflect the Parties current business relationship. The
+terms and  conditions  of this  Amended and  Restated  Full-Time  Satellite  And
+Terrestrial  Services  Agreement  replace and supercede the terms and conditions
+set forth in the  Original  Agreement  in all ways,  the  Amended  and  Restated
+Full-Time  Satellite And  Terrestrial  Services  Agreement  will  constitute the
+entire  agreement  of the  Parties  with  regard to the  Products  and  Services
+described herein,  and the Original  Agreement is hereby terminated by agreement
+with effect from 30 September 2003; and
+
+3. TSC  agrees to provide  the  Service  to  Customer,  subject to the terms and
+conditions set forth herein.
+
+NOW,  THEREFORE,  in  consideration  of the  mutual  covenants,  agreements  and
+obligations contained herein, the Parties agree as follows:
+
+1.    Services to be Provided by TSC.
+
+      (a)   In General.  TSC,  acting  through its corporate  affiliates,  shall
+            provide, and Customer shall accept, the Services as described herein
+            and in Annex 4 hereto,  subject to and in accordance  with the terms
+            and conditions of this Agreement.
+
+      (b)   Service  Elements.  Beginning with the Service  Commencement Date as
+            defined in Section  1(g) below,  TSC shall  provide to Customer  two
+            elements of full-time service, jointly comprising the Services:
+
+<PAGE>
+
+            (i)   a contribution service (the "Contribution  Service") comprised
+                  of a fibre link between the  Customer's  Point of  Origination
+                  (UPC Digital Media Centre,  Amsterdam,  The  Netherlands)  and
+                  TSC's  Usingen  earth  station  located  in  the  vicinity  of
+                  Frankfurt,  Germany,  the  point of uplink  transmission.  The
+                  fixed rate fibre link will be physically  comprised of two (2)
+                  El data rate circuits (each bearing a data rate of 2.048 Mbps)
+                  whose   bandwidth  will  be  multiplexed  to  accommodate  the
+                  Customer's  signal  bearing a maximum data rate of 3.0 Mbps as
+                  specified in Section 2 below. TSC will provide this fibre link
+                  as a service designated as a  `CityInterconnect-International'
+                  ("CICI")  service  as  further  described  in Annex 1 attached
+                  hereto. In the event of any inconsistency  between Annex 1 and
+                  the terms and conditions set forth herein, the terms set forth
+                  herein shall prevail.  Without  limiting the generality of the
+                  foregoing  sentence,  for the avoidance of doubt,  the parties
+                  acknowledge  that the  terms set forth  herein  shall,  in the
+                  event of ambiguity or conflict, prevail over Sections 6, 7, 9,
+                  10, 12.2, and 12.4 of the CICI Terms & Conditions.
+
+            (ii)  a distribution service (the "Distribution Service"), comprised
+                  of the reception of the Contribution Service signal at Usingen
+                  earth  station for  purposes of  full-time  digital  satellite
+                  transmission.  TSC will  provide  a  redundant  uplink  of the
+                  Customer's  signal to a 3.0 Mbps digital slot on TSC's Divicom
+                  MCPC  satellite  platform  located on  Transponder  129 of the
+                  Hotbird 6 Satellite located at 13.0 degrees East. For purposes
+                  of the  provision  of the  Services,  TSC  warrants  that this
+                  platform  is  MPEG2   (4:2:0),   DVB-compliant.   The  Parties
+                  acknowledge   and  agree  that  the   Services   will  not  be
+                  statistically multiplexed by TSC.
+
+            (iii) The Customer Point of Origination is hereby designated as:
+
+                  UPC Digital Media Centre
+                  Kon. Wilhelminaplein 2-4
+                  1062 HK Amsterdam
+                  The Netherlands
+
+                  The Customer has the right to change the location of the Point
+                  of  Origination  at any time during the  contract by providing
+                  TSC with 60 days  written  notice.  In this  event,  TSC would
+                  modify  the  routing  on a  reasonable  efforts  basis and any
+                  incremental  charges associated with the modification would be
+                  passed on to the Customer.
+
+            (iv)  Subject  to a change in  Service  Charges  as noted in Section
+                  3(a) and to facilities availability,  the Customer may request
+                  an increase to its bandwidth  requirements  to 3.5 Mbps at any
+                  time during the
+
+
+                                       2
+<PAGE>
+
+                  Initial  Term or any  extension  thereof  upon sixty (60) days
+                  notice.  Upon such notice,  the Parties will promptly commence
+                  discussions regarding such requested change.
+
+      (c)   Service  Availability.  Subject to the terms and conditions  herein,
+            the  Services  shall be  provided  24 hours per day, 7 days per week
+            (except,  without  limitation,  for  outages  caused  by  reasonable
+            maintenance  and  repair,  inclement  weather  and  events  of force
+            majeure) on a full-time basis during the term of the Agreement.
+
+      (d)   Technical Compliance.  The Services provided by TSC shall conform in
+            all material respects with the technical specifications set forth in
+            Annex 4 attached hereto.
+
+      (e)   Specific  Technical  Equipment and Facilities.  The Services will be
+            provided by TSC  utilizing  the  following  technical  equipment and
+            facilities,  which  shall at all times  remain  within the  control,
+            ownership and possession of TSC, all as more specifically  described
+            in Annex 4 hereto:
+
+            (i)   TSC shall provide ASI  multiplexing  equipment for purposes of
+                  processing  Customers  transmission signals in connection with
+                  the contribution service. Such multiplexing  equipment will be
+                  housed  by  TSC at  UPC's  facility  at  Customer's  Point  of
+                  Origination  pursuant to a separate  contract  between TSC and
+                  UPC,  and  Customer  shall have no rights or  responsibilities
+                  under such separate  agreement,  nor any ownership interest in
+                  such multiplexing equipment.
+
+            (ii)  TSC shall  procure from a third party of its choice local loop
+                  connections (in both Amsterdam and Frankfurt) and of long-haul
+                  connection  (from  Amsterdam to Frankfurt) in connection  with
+                  the terrestrial portion of the Contribution Service.
+
+            (iii) TSC  shall  provide  monitoring  of the  Contribution  Service
+                  through the use of the `Line Watch' software  application that
+                  furnishes alarms on the ASI Multiplex system and is integrated
+                  with TSC's Network Monitoring systems (QSS).
+
+            (iv)  TSC shall  provide a dedicated  IRD to monitor  the  satellite
+                  transmission parameters of the Hotbird 6 satellite signal.
+
+            (v)   The provision by TSC of a VHS tape playout  machine at Usingen
+                  earth station to be used in the following circumstances: a) If
+                  the  Contribution  Service  between the  Facility  and Usingen
+                  fails;  or b) If the  Customer's  conditional  access  service
+                  fails. In the case of a) and/or b) above, the tape provided by
+                  the Customer  shall contain a maximum of 30 minutes of content
+                  that is legally appropriate for
+
+
+                                       3
+<PAGE>
+
+                  unencrypted  broadcasting  free to  air,  as  governed  by the
+                  German Broadcast Authority.
+
+      (f)   Useable  Bandwidth.  TSC notes, and the Customer hereby  recognizes,
+            that the `useable data rate' on the  Contribution  and  Distribution
+            Service  is  approximately  3.0 Mbps.  The  useable  bandwidth  of a
+            circuit is a function of capacity data rate less equipment overhead.
+
+      (g)   Service  Commencement Date. The Service Commencement Date is October
+            I, 2003.
+
+      (h)   Legal and Regulatory Compliance. TSC shall be entitled, at all times
+            during this Agreement and without liability to Customer, to preempt,
+            suspend or  terminate  provisioning  of any of the  Services  in the
+            event  that  a  competent   legal   authority  (in  the   reasonable
+            determination  of TSC)  prohibits,  suspends,  enjoins or  otherwise
+            takes  action to  suspend or  terminate,  or that may  culminate  in
+            suspension or  termination  of,  provisioning  of the Services under
+            this Agreement ("Legal Action").  Except if immediate  suspension or
+            termination   is  required  or  threatened  by  a  competent   legal
+            authority,  and to the extent reasonably possible, TSC shall provide
+            the  Customer  with 10  business  days'  notice to take  measures to
+            address  the Legal  Action  before  suspending  its  obligations  to
+            provide the Service  hereunder.  In the event that the Legal  Action
+            requires  immediate  suspension or termination  of the Service,  TSC
+            shall comply with that  requirement and inform the Customer  thereof
+            as  promptly  as  possible.  If TSC is  required  to  terminate  the
+            Services  in whole or in part by a  competent  legal  authority,  it
+            shall have the right to terminate this Agreement in accordance  with
+            Section  7(a) below.  Except as  otherwise  provided in Section 9(d)
+            below, neither TSC nor Customer shall have any liability, (financial
+            or  otherwise)  to the  other  Party in the event of  suspension  or
+            termination  of the  Services  in whole or in part  pursuant to this
+            Section 1(h).
+
+      (i)   Transmitted Content. TSC shall not be responsible in any way for the
+            content of the programming  transmitted by Customer,  and shall bear
+            no liability for any  consequence,  legal,  commercial or otherwise,
+            that may arise from the transmission of any programming  transmitted
+            by means of the Services pursuant to this Agreement by Customer. TSC
+            acknowledges the nature of the programming content to be transmitted
+            by Customer by means of the Services and the Customer agrees that it
+            will be, and will remain,  in compliance  with all relevant laws and
+            regulations  with respect to the  transmission of such content,  and
+            will conduct its  activities  in respect of this  Agreement so as to
+            avoid the occurrence of any Legal Action.
+
+
+                                       4
+<PAGE>
+
+      (j)   Transponder Ownership.  The Parties agree and acknowledge that title
+            to  the   Transponder   shall   remain   at  all   times   with  TSC
+            notwithstanding the payment of the Service Charges by Customer under
+            this Agreement.
+
+2.    Responsibilities of Customer.
+
+      Customer shall be responsible for the timely  performance of the following
+      actions:
+
+      (a)   Technical   Preparation  and   Procurement.   (i)  the  procurement,
+            installation,  testing and  maintenance  of playout;  MPEG2  digital
+            video  encoding;   and  conditional  access  equipment   (altogether
+            described as 'program  origination  equipment')  related to Customer
+            programming within the Point of Origination;
+
+            (ii)  the  procurement  and  maintenance  and ensuring the technical
+                  compatibility  of all program  origination  hardware and other
+                  equipment provided by Customer;
+
+            (iii) securing the technical  transfer  ("handing off') of a digital
+                  signal  to TSC at the Point of  Origination  at a data rate of
+                  3.0 Mbps in DVB-ASI format;
+
+            (iv)  the provision to TSC of two (2) authorized smart cards and two
+                  (2)  Irdeto  PCMCI  card  readers  to be used  solely  for the
+                  purpose of  monitoring  the  Customer's  video and  associated
+                  audio signal at Usingen earth station  receipt of which by TSC
+                  is hereby acknowledged.
+
+      (b)   Regulatory Matters. (i) Customer shall be responsible for the timely
+            procurement  and   maintenance  of  all  necessary   regulatory  and
+            broadcast licenses, permits and authorizations,  copies of which are
+            attached hereto as Annex 2;
+
+            (ii)  Customer  warrants that it will not,  directly or  indirectly,
+                  engage in or permit the marketing, sale or distribution of any
+                  device or item,  including  Smart  Cards,  in violation of any
+                  applicable laws and regulations of each  jurisdiction in which
+                  the Services are originated, transmitted and/or received;
+
+            (iii) Customer warrants that all content transmitted by it utilizing
+                  the Services are, and will remain at all times during the term
+                  of this Agreement,  in compliance with all applicable laws and
+                  regulations  of each  jurisdiction  in which the  Services are
+                  originated, transmitted and received.
+
+3.    Payment.
+
+
+                                       5
+<PAGE>
+
+      (a)   Service  Charges.  Customer  agrees to pay TSC the monthly amount of
+            ***** Euros for each month of full-time service provided to Customer
+            during the Term of Service ("Service Charges").  Income taxes on the
+            charge of TSC are excluded  from the scope of this  provision.  Such
+            Initial  Service  Charges  shall apply  during the Initial  Term (as
+            defined in Section 6 below).  If the Customer  exercises its ability
+            to increase the bandwidth of the Distribution Service to 3.5 Mbps as
+            set forth in Section 1(b)(iii),  then the Customer will agree to pay
+            the monthly  amount of ***** Euros (or the pro-rated  amount subject
+            to the date of the  increase)  for each month of  full-time  Service
+            provided to Customer during the Term of Service.
+
+      (b)   Invoicing.  TSC shall submit an invoice to Customer on the first day
+            of each  month  during  the Term  for the  Service  Charges  for the
+            applicable  month of Service.  Customer  shall make  payment of each
+            invoice by wire transfer in  immediately  available  funds to TSC no
+            later than  thirty  (30) days  following  receipt  of such  invoice;
+            provided  that the initial  payment  shall be due and owing no later
+            than the Commencement Date. If payment is not timely received by TSC
+            in accordance with the terms hereof,  and such default or failure is
+            not remedied within a period of ten (10) business days after receipt
+            of written  notice  thereof from TSC,  then TSC shall be entitled to
+            immediately   terminate  the  Service   without  further  notice  to
+            Customer.
+
+      (c)   Security Deposit. Customer has provided to TSC a security deposit in
+            the amount of ***** Euros  applicable to the  Distribution  Services
+            only.  The  deposit  will  be  applied  to  the  last  month  of the
+            Customer's term of Service.  If the security deposit is greater than
+            the total amount of Service Charges due and owing by Customer at the
+            end of the Term, any additional  amount of the security deposit will
+            be remitted to Customer within 30 days of the end of the Term.
+
+      (d)   Guaranty.  The obligation of Customer  hereunder,  including but not
+            limited to, the payment of the Service Charges,  shall be guaranteed
+            by  Playboy  TV  International,  LLC as set forth in Annex 3 hereto.
+            Notwithstanding  the foregoing,  the termination of the Agreement by
+            Customer for  Commercial  Failure,  as set forth in Clause  7(b)(ii)
+            shall relieve  Playboy TV  International,  LLC of its obligations to
+            guarantee the obligations of Customer.
+
+      (e)   Competitiveness   Review.  If  at  any  time  following  the  second
+            anniversary of the Service  Commencement Date, Customer receives two
+            bona fide  offers  from  third  parties  to  provide  a  package  of
+            telecommunications  services  that is  substantially  similar to the
+            range of Services offered under this Agreement,  including,  without
+            limitation,   fees,  term,  volume,   product  mix,   functionality,
+            features,  credits offered,  level of service and geographic breadth
+            ("Competitive  Offers"), and such Competitive Offers
+
+
+                                       6
+<PAGE>
+
+            would  result in an overall  cost  savings to  Customer  equal to or
+            greater than five percent (5%) over the then  remaining Term of this
+            Agreement when compared to the effective  rates charged by TSC, then
+            the Parties will meet to discuss  competitive  service  alternatives
+            and other  technological  or marketplace  developments.  TSC and the
+            Customer will  cooperate in efforts to develop a mutually  agreeable
+            proposal within a commercially  reasonable  period of time that will
+            satisfy the concerns of both Parties and comply with all  applicable
+            legal and regulatory requirements. This provision shall not apply to
+            a change  resulting  from a decision  by the  Customer  to  transfer
+            portions of Customer's traffic or projected growth to carriers other
+            than TSC. This provision does not constitute a waiver of any charges
+            or any terms and conditions applicable to the Customer, prior to the
+            time the Parties  mutually agree to amend or replace this Agreement.
+            If  the  Parties  are  unable  to  reach  mutual   agreement  on  an
+            alternative proposal within thirty days of the Parties first meeting
+            to discuss the  alternate  proposals,  then the Customer may, at his
+            option and upon ninety (90) days' written  notice to TSC,  terminate
+            this Agreement  subject to payment of a Termination Fee equal to 25%
+            of the total fees due for the Service for the  remainder of the Term
+            of Service.
+
+4.    Fault Reporting.
+
+      (a)   Reporting.  Customer will report any faults in the  provisioning  of
+            the service to TSC's Satellite  Network  Services ( SNS ) in Usingen
+            earth station ( Telephone  number : + 49 6081100 02 / 05) as soon as
+            they are detected. All such reports must be stated, either initially
+            or promptly thereafter in writing. The agreed language for the fault
+            reporting is English.
+
+      (b)   Investigation.   TSC  shall   record  and   investigate   all  fault
+            notifications  received by Custonier.  In the event the fault report
+            is confirmed by TSC, TSC will  undertake all  reasonable  efforts to
+            remedy  the fault as  quickly as  possible.  In case of a  confirmed
+            fault the paragraphs of Section 5 below shall apply for  calculating
+            the  credits  for  outages.  The  findings of SNS will be final with
+            regard  to the  confirmation  of a fault  unless  Customer  provides
+            objectively verified proof of the alleged fault.
+
+5.    Interruption Credits.
+
+      (a)   Calculation of Credits. In the event of an interruption, through the
+            Fault Reporting procedure noted above, in the Service to be provided
+            pursuant  to this  Agreement,  which  interruption  continues  for a
+            consecutive  period  of (30)  minutes  or more (an  "Interruption"),
+            Customer  shall be  granted  pro rata  outage  credits  against  the
+            monthly  Service  Charges,  which  credits  shall  be  equal  to the
+            aggregate  amount  of all such  Interruptions  or  portions  thereof
+            occurring during a particular month. The aggregate credit allowances
+            during a particular  month shall be  reflected in TSC's  invoice
+
+
+                                       7
+<PAGE>
+
+            for the succeeding calendar month, and Customer shall be entitled to
+            deduct the amount of such credit allowances from its next succeeding
+            monthly  payment  of the  Service  Charges.  In no event  shall  the
+            aggregate  Interruption  credits  for one month  exceed the  Service
+            Charges for such month. For purposes of clarification,  such credits
+            shall be based  upon the (i)  number of hours (or  portion  thereof)
+            during  a month  that  the  transponder  that is part of  Customer's
+            transponder   capacity   has   failed   to  meet   its   performance
+            specifications,  divided  by (ii) the  number of hours in the month,
+            and  such  fraction   multiplied  by  (iii)  Customer's  lease  fee,
+            applicable to the affected transponder for said month.
+
+      (b)   Limitations.  No  credits  shall  be  granted  to  Customer  if  the
+            Interruption  is a result of, or is  attributable,  in whole or part
+            to:  (i)  the  negligence  or  willful  default  of  Customer;  (ii)
+            temporary or intermittent  Interruptions  due to sun outages;  (iii)
+            the  failure  or   non-performance  of  any  equipment  provided  or
+            maintained  by Customer in  connection  with the Service  under this
+            Agreement.
+
+      (c)   Substitute  Transponder  Capacity.  In the event that the Service is
+            interrupted  for a period of longer than 2 consecutive  hours due to
+            the technical  malfunction of the satellite capacity provided,  then
+            TSC  will  use  all   reasonable   efforts  to  procure   substitute
+            transponder  capacity  on  another  satellite  at a cost  reasonably
+            equivalent to the service Charges hereunder;  provided however, that
+            TSC shall have no  liability  to Customer for its failure to procure
+            such substitute transponder capacity.
+
+6.    Term.
+
+      This  Agreement  shall have an initial term (the "Initial  Term") of three
+      (3) years, commencing October 1, 2003 and continuing through September 30,
+      2006, unless terminated earlier as set forth herein.  Except if terminated
+      by either  Party by written  notice to the other Party  delivered at least
+      three months (90 days) before the end of the Initial Term or any extension
+      thereof,  this Agreement  shall be  automatically  extended for successive
+      terms of one year under the same terms and conditions as set forth herein.
+
+7.    Termination; Assignment.
+
+      (a)   Termination  by TSC.  TSC  shall  have the right to  terminate  this
+            Agreement  with  immediate  effect,  with  written  notice  of  such
+            termination provided to Customer,  upon the occurrence of any one or
+            more of the following acts or omissions:  (i) upon a material breach
+            or default by Customer of any of the  provisions  of this  Agreement
+            that has not been cured  within  thirty  (30) days after  receipt of
+            notice from TSC of such breach or default;  (ii) upon the failure of
+            Customer  to make  timely  payment  in  strict  accordance  with the
+            payment  provisions  of this  agreement  as set  forth in  Section 3
+            above;  or (iii) in the event that the
+
+
+                                       8
+<PAGE>
+
+            performance of this Agreement  pursuant to the terms hereof has been
+            prohibited  by any  court,  governmental  or  regulatory  body  with
+            jurisdiction  over either  party and such  prohibition  is no longer
+            subject to further review or proceedings and as to which no stay has
+            been  granted or request  for stay is pending.  Notwithstanding  the
+            foregoing,   except  if  immediate  suspension  is  required  by  an
+            administrative  or judicial or competent legal authority,  TSC shall
+            provide  the  Customer  with 10  business  days'  notice to cure the
+            situation before  suspending its obligations to provide the Services
+            hereunder.  In the event of such termination by TSC pursuant to this
+            Section 7, TSC shall  have no further  liability  to  Customer,  and
+            Customer shall pay within ten (10) days  thereafter all  outstanding
+            amounts as of the date of termination
+
+      (b)   Termination by Customer. The Customer may terminate the Agreement:
+
+            (i)   upon  a  material  breach  or  default  by  TSC  of any of the
+                  provisions  of this  Agreement  that has not been cured within
+                  thirty (30) days after receipt of notice from Customer of such
+                  breach or default; or
+
+            (ii)  at any time during the Initial  Term of this  Agreement or any
+                  extension thereof, upon ninety (90) days' prior written notice
+                  to TSC in the  event  that  Customer  ceases to  transmit  the
+                  television  channel  known  as at the  date  hereof  as  Spice
+                  Platinum  or  any  successor   because,   in  Customer's  sole
+                  discretion,  of the commercial  failure of that channel.  Such
+                  termination  shall be without penalty and shall not be subject
+                  to any Termination or  Cancellation  Fees as set forth herein;
+                  provided,  however,  that  Customer  may  not  recommence  the
+                  transmission of Spice Platinum or commence the transmission of
+                  a television  channel  materially the same as Spice  Platinum,
+                  within  eighteen (18) months of the date of such  termination.
+                  If Customer recommences transmission within the eighteen month
+                  period,   Customer  shall  pay  to  TSC  the  Termination  and
+                  Cancellation Fees set forth in Section 7(b)(3) below; or
+
+            (iii) beginning  two (2) years after the Service  Commencement  Date
+                  for either Service for convenience subject to ninety (90) days
+                  prior   written   notice,   provided  that  in  the  event  of
+                  termination for convenience,  Customer shall pay a termination
+                  fee  equal  to fifty  percent  (50%)  of the  Service  Charges
+                  associated with the remaining  number of months in the Initial
+                  Term or in any remaining successive term.
+
+      (c)   Assignment.  Neither  Party may assign  this  Agreement  without the
+            prior written consent of the other Party, provided however, (1) upon
+            prior  written  notice TSC may assign this  Agreement  without  such
+            consent to a present or future affiliate,  subsidiary,  successor or
+            distributor or may
+
+
+                                       9
+<PAGE>
+
+            assign its right to receive  payment;  and (2) in the event Customer
+            requests  the  consent of TSC to assign  its rights and  obligations
+            hereunder,  TSC shall not  unreasonably  withhold or  condition  its
+            consent to such  assignment in the event of assignment of Customer's
+            rights and obligations  hereunder (a) to any affiliate  wholly owned
+            by  Customer  or (b) to any  assignee  which  presents a  reasonably
+            acceptable financial profile so as to meet its obligations under the
+            Agreement  and  possesses  all  appropriate  licenses,  permits  and
+            authorizations  required for use of the Services and which  proposed
+            assignee  does  not  compete  with  TSC  or  its  affiliates  in the
+            provision of satellite  broadcasting  services as provided for under
+            this Agreement; provided in each case that, in the event of any such
+            assignment by Customer,  Customer shall remain fully responsible for
+            the  performance  of all  obligations  and  liabilities  under  this
+            Agreement notwithstanding such assignment by Customer.
+
+8.    Notices.
+
+      Notices under this agreement will be provided to the following persons:
+
+              TSC:       Jennifer Racine
+                         Account Manager, Video Services
+                         T-Systems Canada, Inc.
+                         70 York St., Suite 1700
+                         Toronto, Ontario M5J 1S9
+                         Tel.: 416 360 1019
+                         Fax: 416 360 2910
+
+                         with a copy to:
+                         Legal Counsel
+                         T-Systems North America
+                         701 Warrenville Road
+                         Lisle, Illinois 60532
+
+              Customer:
+                         Designated representative:
+                         Nanno van der Werff
+                         STV International B.V.
+                         Starwinskylaan 3105
+                         7th Floor
+                         1077 ZZ Amsterdam
+                         The Netherlands
+                         Fax: 011-3120-406-4555
+                         ph: 011-3120-406-4444
+
+                         with a copy to:
+                         Mark Rudolph
+                         Executive VP
+
+
+                                       10
+<PAGE>
+
+                         2706 Media Center Drive
+                         Los Angeles, California 90065
+
+
+                                       11
+<PAGE>
+
+                         William Campbell
+                         Managing Director
+                         Spice Television International
+                         Aquis House, Station Road
+                         Hayes
+                         Middlesex
+                         United Kingdom
+                         UB3 2dX
+                         Fax:44-20-85-81-7005
+
+9.    Liability and Warranty.
+
+      (a)   Except  as  otherwise   expressly  agreed  herein,  with  regard  to
+            international communications service contemplated by this Agreement,
+            the liability  exclusion in accordance with article 36 of the Geneva
+            International   Telecommunications   Convention  of  1992  shall  be
+            applicable to the liability of TSC hereunder.
+
+      (b)   Neither Party hereunder shall be liable for consequential,  special,
+            punitive,  indirect and/or financial damages, lost profits, or other
+            losses or damages  hereunder,  whether  such any of such damages are
+            foreseen or foreseeable by either Party.
+
+      (c)   Customer warrants that the audio/visual programming transmitted over
+            the Service is not in breach of any legal or  regulatory  provision,
+            nor in any manner subjects TSC to legal  liability.  Customer agrees
+            that  in  no  circumstances   will  the  Service  be  used  for  the
+            transmission  of the  following  contents:  exploitation  of minors,
+            paedophilia,   sexual   violence,   bestiality,   sadomasochism   or
+            necrophilia,  malicious  provocation  of  crimes  and  offences  and
+            content facilitating criminal associations.
+
+      (d)   (i) Customer shall  indemnify and hold TSC harmless  against any and
+            all expenses, damages, costs, liabilities, and claims of every kind,
+            including,  without  limitation,  reasonable  counsel fees, by or on
+            behalf of any person or entity  arising out of or caused by: (1) the
+            failure by Customer to comply with any law or regulation  applicable
+            to  Customer  of any  governmental  authority,  or (2) any claims by
+            third  parties  with  respect  to  Customer's  use of the  Services;
+            provided  however,  that the aggregate  liability of Customer  under
+            this  Section 9 shall be limited to an amount equal to the total sum
+            of all payment owed by Customer to TSC for the Services  rendered in
+            connection with this Agreement.
+
+            (ii)  TSC shall indemnify and hold Customer harmless against any and
+                  all expenses, damages, costs, liabilities, and claims of every
+                  kind, including, without limitation,  reasonable counsel fees,
+                  by or on behalf of any  person  or  entity  arising  out of or
+                  caused  by:  (I)  failure  by TSC to  comply  with  any law or
+                  regulation of any
+
+
+                                       12
+<PAGE>
+
+                  governmental authority applicable to TSC, or (2) any claims by
+                  third parties with respect to TSC's provision of the Services;
+                  provided  however,  that the aggregate  liability of TSC under
+                  this  Section 9 shall be  limited  to an  amount  equal to the
+                  total sum of all payment received by TSC from Customer for the
+                  Services rendered in connection with this Agreement.
+
+            (iii) This Section 9(d) shall survive  termination  of the Agreement
+                  for a period of twelve (12) months.
+
+      (e)   It is  expressly  agreed that all  express  and implied  warranties,
+            including,  but not limited to,  warranties  of  merchantability  or
+            fitness for any  particular  purpose or use, are expressly  excluded
+            and  disclaimed.  It is  further  expressly  agreed  that TSC's sole
+            obligations and liabilities  and Customer's  exclusive  remedies for
+            any  cause  whatsoever  arising  out of this  Agreement  and/or  the
+            transactions  contemplated  hereby are limited to those specifically
+            set forth in this Agreement,  and all other remedies of any kind are
+            expressly excluded.
+
+      (f)   TSC  undertakes  that it will use all  reasonable  efforts to enable
+            Customer to have the benefit of any  representations  or  warranties
+            that TSC has  received  from any  manufacturer  or  provider  of the
+            equipment for the Services.
+
+10.   Miscellaneous.
+
+      (a)   This  Agreement  shall be  governed  by the laws of the State of New
+            York without reference to its conflict of law principles.
+
+      (b)   The  language  of the  Agreement,  and  all  notices  hereunder,  is
+            English.
+
+      (c)   All other disputes  arising in connection  with this Agreement shall
+            be finally  settled by  arbitration  under the Rules of the American
+            Arbitration  Association.  The  arbitration  shall take place in New
+            York, New York, and shall be conducted in English. The parties shall
+            instruct  the  arbitrator(s)  to conclude  the  arbitration  process
+            within sixty (60) days after the  commencement of  arbitration.  The
+            award of the  arbitrators  shall be final and  binding.  The parties
+            waive any right to appeal  the  arbitration  award,  to the extent a
+            right of appeal may be lawfully waived. Each party retains the right
+            to seek judicial assistance to compel arbitration and to enforce any
+            decision of the  arbitrators,  including the final award. The losing
+            party to the  arbitration  shall  be  responsible  for all  costs of
+            arbitration,  including reasonable attorney's fees of the prevailing
+            party, unless otherwise determined by the arbitration.  This Section
+            10(c) shall survive termination of the Agreement.
+
+      (d)   Any waiver by either Party of the  application  of any  provision of
+            this  Agreement must be made in written form and must be accepted by
+            the
+
+
+                                       13
+<PAGE>
+
+            other Party,  and any such waiver shall not be deemed to  constitute
+            any subsequent  waiver of any provision or right or claim under this
+            Agreement.
+
+      (e)   This  Agreement  shall  not be  construed  or  deemed  to  create  a
+            partnership,  joint venture,  affiliation or any other kind of legal
+            relationship between the Parties.
+
+11.   Force Majeure.
+
+      No failure or omission  by either  Party to carry out or to perform any of
+      the terms or  conditions  of this  Agreement  shall give the other Party a
+      claim against such Party, or be deemed a breach of this Agreement,  if and
+      to the extent  that such  failure or omission  arises from Force  Majeure,
+      which shall  include,  but not limited to, acts of God;  fire,  flood,  or
+      ether catastrophes;  government,  legal or statutory restrictions on forms
+      of  commercial  activity;  or order of any  civil or  military  authority;
+      national emergencies,  insurrections,  riots, wars; or strikes, lock-outs,
+      work stoppages,  or other labor  difficulties.  In the event of any one or
+      more of the  foregoing  occurrences,  notice  shall be given by the  party
+      unable to perform to the other Party and the Party unable to perform shall
+      be  permitted  to  delay  its  performance  for so long as the  occurrence
+      continues. In such event, the other Party shall be entitled to suspend its
+      performance  as long as such event or force  majeure  continues,  provided
+      that the  suspension of performance by such other Party shall not have the
+      effect of impeding  resumption of performance of the other party declaring
+      the event of Force Majeure.  Should the  suspension of obligations  due to
+      Force Majeure exceed thirty (30) days of continued  interruption  or sixty
+      (60) days in the  aggregate,  either party may terminate this Agreement by
+      sending a appropriate written notice to the other party without liability.
+
+12.   Legal Form, Amendment, Entire Agreement
+
+      (a)   Amendments or  supplements  to this  Agreement are only effective if
+            agreed to by both Parties in writing.
+
+      (b)   If any  provisions  in  this  Agreement  should  be  ineffective  or
+            unenforceable,  this will not affect the  validity of the  remaining
+            parts  of the  Agreement.  In  such  an  event,  the  Parties  shall
+            undertake to replace the ineffective or  unenforceable  provision by
+            an  effective  or  enforceable  provision  which  comes  as close as
+            possible to the spirit and purpose of the provision to be replaced.
+
+      (c)   This Agreement, including all the component parts hereto, represents
+            the entire  understanding  of the Parties hereto with respect to the
+            subject matter hereof, supersedes all prior negotiations, agreements
+            and tariffs regarding such subject matter.
+
+      (d)   This Agreement may be executed in one or more counterparts,  each of
+            which shall constitute one and the same instrument.
+
+
+                                       14
+<PAGE>
+
+13.   Confidentiality.
+
+      The  contents  and  substance  of this  Agreement  shall  in no  event  be
+      disclosed by either Party or their  employees to third parties  except for
+      purposes of fulfilling obligations required by this Agreement, or with the
+      prior written  consent of the other Party  hereto,  or as may otherwise be
+      required by law.  Notwithstanding the foregoing, in the event either Party
+      has entered into discussions with a third party,  involving either a joint
+      venture, merger or acquisition, or the sale of all or substantially all of
+      the assets of the Party to which this Agreement pertains,  then such party
+      may  disclose the terms of this  Agreement  to such third Party,  provided
+      such disclosure is pursuant to a Non-Disclosure Agreement. This Section 13
+      shall survive the  termination of the Agreement for a period of 12 months.
+
+14.   Press Releases.
+
+      Each Party agrees that no press releases or other announcements  regarding
+      this  Agreement  or the  Service  shall be issued or made by either  Party
+      without  the  prior  written  approval  of  the  other  party,  not  to be
+      unreasonably  withheld.  Notwithstanding the foregoing,  that Customer may
+      issue a press  release  provided that such press release does not refer to
+      TSC or any of its  affiliates,  unless  TSC  provides  its  prior  written
+      consent.  Both Parties will inform its subcontractors,  if any, under this
+      Agreement, and will use its best efforts to ensure that its subcontractors
+      adhere to this provision.
+
+T-SYSTEMS CANADA, INC.                  STV INTERNATIONAL BV
+
+By: /s/ [signature illegible]           By: /s/ [signature illegible]
+
+Title: President T-Systems Canada       Title: Director
+
+Date: Oct. 6/03                         Date: 30/9/03
+
+
+                                       15
+<PAGE>
+
+                                 List of Annexes
+
+Annex 1
+
+CICI Terms & Conditions
+
+Annex 2
+
+Copy of Customer Broadcast License
+
+Annex 3
+
+Guaranty
+
+Annex 4
+
+Service Concept
+
+
+                                       16
+<PAGE>
+
+                                                                         Annex 1
+
+T-Systems International GmbH
+General Terms and Conditions
+for CityInterConnect international.
+
+      T-Systems  International GmbH (hereinafter referred to as T-Systems) shall
+      provide  CityInterConnect  international in accordance with the provisions
+      of the German  Telecommunications  Customer  Protection  Ordinance and the
+      following  General  Terms and  Conditions.  The German  Telecommunications
+      Customer  Protection  Ordinance  shall  apply even if it is not  expressly
+      referred to in the following terms and conditions.
+
+1     Subject matter of terms and conditions
+
+      The  following  terms and  conditions  set forth the terms  governing  the
+      provision of CityinterConnect international of T-Systems.
+
+2     Standard Service
+
+2.1   Monthly charges
+
+      Subject to technical and operational feasibility,  T-Systems shall provide
+      the customer with a CityinterConnect international with transmission rates
+      between   1,920  kbit/s  and  622  Mbit/s  and  with  a  monthly   average
+      availability of 99.8% relating to the respective transmission path.
+
+      CityInterConnect  international is a permanent international  transmission
+      path with digital  interfaces  (full circuit)  between  selected cities in
+      Germany and other countries in accordance with the list of countries shown
+      below.  CityInterConnect  international serves the purpose of transmitting
+      digital signals to the extent possible with the existing technology.  They
+      shall  be  provided  with   interfaces   in  accordance   with  the  ITU-T
+      recommendations shown in the table below.
+
+2.2   Installation
+
+      In the  vicinity  of the  customer's  first  terminal  at each  end of the
+      CityInterConnect international,  T-Systems shall install a connecting unit
+      that serves as the termination of the CityInterConnect international.
+
+      The  installation of the  CityinterConnect  international - especially its
+      routing  within  T-Systems'  network - shall be carried out in  compliance
+      with the rules  governing  the  standard  installation  procedure  used by
+      T-Systems at the time of performance.
+
+2.3   Maintenance windows
+
+      T-Systems  shall schedule  maintenance  windows,  in  particular,  for the
+      purpose of modifying  the network  configuration.  The  customer  shall be
+      notified thereof at least one week in advance.
+
+      During  maintenance  window  periods,  T-Systems  may put equipment out of
+      operation.  Maintenance window periods are not included in the calculation
+      of availability.
+
+
+T-Systems Logo     Last revision:  1 May 2003     CityInterConnect international
+                                                                     Page 1 of 8
+<PAGE>
+
+                                                    General Terms and Conditions
+
+3     Additional Services
+
+      By  agreement  and  subject  to  technical  and  operational  feasibility,
+      T-Systems shall in particular  perform the following  additional  services
+      for an additional charge:
+
+      a)    Relocate,  replace or modify the  connecting  unit and  relocate the
+            subscribers drop;
+
+      b)    Provision   by   T-Systems   of   19-inch    cabinets   in   foreign
+            telecommunications  equipment centers. The service shall be provided
+            in  accordance  with the  additional  terms and  conditions  for the
+            provision of equipment accommodation.
+
+4     Fault clearance
+
+      Subject  to  technical  and  operational   feasibility,   T-Systems  shall
+      eliminate any faults in its equipment without undue delay. In this regard,
+      T-Systems shall render the following services:
+
+4.1   Reporting faults
+
+      Faults may be reported to T-Systems 24 hours a day,  seven days a week, by
+      calling a customer service telephone number.
+
+4.2   Customer service hours
+
+      Customer service shall be available  twenty-four hours a day, seven days a
+      week.
+
+4.3   Customer service appointments
+
+      If  necessary,  T-Systems  shall  arrange a time with the  customer  for a
+      service  technician's  visit. In the event that service cannot be rendered
+      during the agreed  period due to  reasons  attributable  to the  customer,
+      another time shall be arranged and additional travel expenses charged,  if
+      applicable.
+
+4.4   Response period
+
+      Upon request,  T-Systems  shall inform the customer of the initial results
+      within one hour after the fault has been  reported,  provided a number for
+      the return call has been given.  The initial  response to the customer may
+      also be made during the service technician's visit.
+
+4.5   Interim report
+
+      Upon request,  T-Systems shall call the number provided once an hour after
+      the end of the response  period to give an interim report on the status of
+      the work and the outlook for additional measures.
+
+4.6   Subsequent notification
+
+      T-Systems shall inform the customer after a fault has been cleared. In the
+      event  that  the  customer  is not  contacted  upon the  initial  attempt,
+      additional  attempts to subsequently  notify the customer shall be made at
+      regular intervals.
+
+5     Duties and obligations of the customer
+
+      In particular, the customer shall
+
+      a)    pay the  agreed  prices in due  time.  For any check not paid or any
+            direct debit not honored or returned,  the customer shall  reimburse
+            T-Systems for the costs incurred to the extent that the customer was
+            responsible for the event giving rise to the costs.
+
+      b)    provide any  electricity in accordance  with the features  common in
+            the  respective  country  (type  of plug  and  voltage)  needed  for
+            installation,
+
+
+T-Systems Logo     Last revision:  1 May 2003     CityInterConnect international
+                                                                     Page 2 of 8
+<PAGE>
+
+                                                    General Terms and Conditions
+
+            operation   and   maintenance   and,  if  required,   the  potential
+            equalization including earthing at his own expense.
+
+      c)    reimburse any costs incurred by T-Systems for checking its equipment
+            following  submission  of a fault  report  if the  fault  was not in
+            T-Systems'  equipment  and this  could have been  recognized  by the
+            customer if he had made a reasonable effort to find the fault.
+
+      d)    have all installation and modification work on the  CityInterConnect
+            international performed solely by T-Systems.
+
+      e)    upon T-Systems' request,  provide assistance with measurements taken
+            for the purpose of clearing faults (measurement assistance).
+
+      f)    not use for other  purposes the telephone or ISDN line that has been
+            provided  excursively for management  purposes.  In the event of use
+            for other purposes, the charges incurred thereby shall be billed.
+
+6     Use by third parties
+
+      The  customer  shall  not  be  permitted  to  make  the   CityInterConnect
+      international available to third parties for their permanent and exclusive
+      use without the prior consent of T-Systems.  If T-Systems  refuses to give
+      its consent,  the customer shall not have a right of termination  for good
+      cause.
+
+7     Terms of payment
+
+7.1   Starting on the third  calendar  day after the service has been  installed
+      ready for operation,  monthly charges shall be payable for the rest of the
+      month on a pro rata basis.  Afterwards,  these  charges shall be paid on a
+      monthly basis in advance.
+
+      If the price is to be calculated  for parts of a calendar  month,  1/30 of
+      the monthly charge shall be due for each day.
+
+7.2   Other  charges  shall be  payable  after  the  relevant  service  has been
+      performed.
+
+7.3   The amount due must be credited to the  account  specified  in the bill no
+      later than on the tenth day after  receipt of the bill,  or the  competent
+      accounting  office must have  received a check for the amount shown on the
+      bill by that date. In the event that the customer furnishes a direct debit
+      authorization,  T-Systems  shall debit the agreed  account with the billed
+      amount.
+
+8     Changes  in the  prices,  service  specifications  and  general  terms and
+      conditions
+
+8.1   In the case of  prices,  service  specifications  and  general  terms  and
+      conditions  that have been  approved or reviewed by the German  Regulatory
+      Authority for Telecommunications and Posts (RegTP), T-Systems is obligated
+      to charge  only those  prices  that have been  approved or reviewed by the
+      German Regulatory Authority for Telecommunications  and Posts.  Agreements
+      on services  containing prices other than those that have been approved or
+      reviewed shall be effective, provided that the approved price replaces the
+      agreed price.
+
+      T-Systems  shall  inform the customer in writing of any changes in prices,
+      service  specifications  and  general  terms and  conditions  approved  or
+      reviewed by the German  Regulatory  Authority for  Telecommunications  and
+      Posts.  This shall also apply to services whose prices consist of approved
+      or reviewed  prices,  provided
+
+
+T-Systems Logo     Last revision:  1 May 2003     CityInterConnect international
+                                                                     Page 3 of 8
+<PAGE>
+
+                                                    General Terms and Conditions
+
+      that the  change  was based  exclusively  on a change in the  approved  or
+      reviewed prices, service specifications or general terms and conditions.
+
+      In the event of an increase in price or other changes to the  disadvantage
+      of the customer,  the customer may terminate the agreement  effective from
+      the time the  change  goes into  effect.  T-Systems  shall  make  specific
+      reference to this special  termination  right in the letter  notifying the
+      customer thereof.  Notice of termination must be received within six weeks
+      after receipt of the notification.
+
+8.2   If  T-Systems  intends  to change any other  prices or change the  general
+      terms and  conditions  or service  specifications,  the customer  shall be
+      informed of the proposed change in writing. The changes shall be deemed to
+      be accepted if the customer  does not object in writing.  T-Systems  shall
+      make specific  reference to this  consequence in the letter  notifying the
+      customer  thereof.  The objection must be received  within six weeks after
+      receipt of the  notification.  If the  customer  makes use of his right to
+      object,  the changes proposed by T-Systems shall be deemed to be rejected.
+      The agreement shall then continue without the proposed changes. This shall
+      be  without  prejudice  to the  right  of the  parties  to  terminate  the
+      agreement.
+
+9     Change in the value-added tax
+
+      If the  value-added  tax  prescribed by law changes,  the monthly  charges
+      shall be changed accordingly as from that date.
+
+10    Delay in payment
+
+10.1  If the customer is in arrears  with a  significant  amount due,  T-Systems
+      shall have the right to bar the customer's CityInterConnect  international
+      at the  customer's  expense.  In this case,  the  customer  shall still be
+      required to pay the monthly charges.
+
+10.2  in the event that the customer is in default
+
+      a)    in the payment of charges,  or a significant  part thereof,  for two
+            consecutive months, or
+
+      b)    for a period of more than two  months  in the  payment  of an amount
+            corresponding  to, or exceeding,  the basic  monthly  charge for two
+            months,
+
+      T-Systems  shall have the right to terminate the agreement  without notice
+      and in the  case  of  agreements  with a fixed  lease  period  may  demand
+      compensation as a single,  lump-sum payment that falls due immediately and
+      amounts to one-fourth of the monthly  charges payable up to the end of the
+      regular period of the agreement.
+
+      The compensation payment shall be higher or lower if T-Systems proves that
+      the loss suffered was greater or the customer, that it was less.
+
+
+T-Systems Logo     Last revision:  1 May 2003     CityInterConnect international
+                                                                     Page 4 of 8
+<PAGE>
+
+                                                    General Terms and Conditions
+
+10.3  T-Systems  reserves  the right to assert any other  claims  arising from a
+      default in payment.
+
+10.4  If T-Systems  fails to perform the service on time,  liability shall be in
+      accordance with the provisions of the German  Telecommunications  Customer
+      Protection Ordinance.  The customer shall be entitled to withdraw from the
+      agreement  only if  T-Systems  fails to  perform  the  service  within  an
+      additional  reasonable period of time granted by the customer,  which must
+      be at least two weeks.
+
+11    Lease period/termination
+
+11.1  Lease period
+
+      CityInterConnect  international  shall be provided  with a lease period of
+      one year or two, three,  four or five years.  The lease period shall begin
+      on the day the CityInterConnect  international has been provided ready for
+      operation.
+
+11.2  Termination
+
+      The agreement may be  terminated  by either party,  at the earliest,  with
+      effect from the end of the fixed lease period  agreed upon.  This shall be
+      without prejudice to the right to terminate the agreement for good cause.
+
+      After the  expiration  of the fixed  lease  period  the  agreement  may be
+      terminated  by either party with effect from the end of any  weekday.  For
+      any termination to become effective,  a written notice of termination must
+      be received by  T-Systems or by the customer at least eight weeks prior to
+      the date of termination. Saturdays are not deemed to be weekdays.
+
+12    Failure to ensure availability
+
+      In the  event  that  T-Systems  fails to  ensure  the  availability  of an
+      CityInterConnect  international and this is attributable to T-Systems,  it
+      shall credit the amount stipulated below to the customer.
+
+      The prerequisite for the credit is that
+
+      -     the  customer  notifies  T-Systems  without  undue  delay  that  the
+            CityInterConnect international is inoperable;
+
+      -     the   customer   allows   T-Systems   to  clear  the  fault  in  the
+            CityInterConnect international immediately and upon request provides
+            T-Systems with assistance in taking measurements.  In the event that
+            T-Systems   cannot   clear   the   fault  in  the   CityInterConnect
+            international  for reasons  attributable  to the customer,  the time
+            that counts towards the reimbursement shall be suspended;
+
+      -     the period of  inoperability  (downtime)  counted in seconds is more
+            than one minute per failure.
+
+      In the event that the ensured  availability is not provided,  the customer
+      shall receive a credit amounting to
+
+      -     10% of the  monthly  charge in the case of  downtime of more than 86
+            minutes to 4 hours per calendar month;
+
+      -     20% of the  monthly  charge in the case of  downtime  of more than 4
+            hours to 8 hours per calendar month;
+
+      -     30% of the  monthly  charge in the case of  downtime  of more than 8
+            hours to 12 hours per calendar month;
+
+
+T-Systems Logo     Last revision:  1 May 2003     CityInterConnect international
+                                                                     Page 5 of 8
+<PAGE>
+
+                                                    General Terms and Conditions
+
+      -     40% of the  monthly  charge in the case of  downtime of more than 12
+            hours to 16 hours per calendar month;
+
+      -     50% of the  monthly  charge in the case of  downtime of more than 16
+            hours per calendar  month plus 1/720 of the monthly  charge for each
+            additional  hour  or part  thereof,  but a  maximum  of 100 % of the
+            monthly charge for the connection.
+
+      T-Systems shall offset the credit against amounts due on the basis of this
+      agreement.
+
+      This  shall  be  without  prejudice  to  any  compensation  claims  of the
+      customer.
+
+13    Miscellaneous
+
+13.1  If the  customer,  in turn,  uses the  contractually  agreed  services  to
+      provide  telecommunications  services  for the public,  T-Systems  assumes
+      liability with respect to providers of telecommunications services for the
+      public in accordance with the general  legislation  subject to the proviso
+      that the liability for financial loss caused through negligence is limited
+      to EUR  12,500 for each of the other  provider's  end  customers  who have
+      suffered damage.  In this case, the sum of all claims for damages shall be
+      no more than ten million euros for each  damage-causing  event pursuant to
+      ss. 7 (2) of the German Telecommunications Customer Protection Ordinance.
+
+      If the sum of the individual  claims for damages  exceeds the upper limit,
+      the  compensation  shall be reduced in proportion to the ratio between the
+      total claims for damages and the upper limit.
+
+13.2  The customer  shall have the right to transfer the rights and  obligations
+      under this agreement to a third party only with the prior written  consent
+      of T-Systems.
+
+13.3  The  provisions  of  the  German   Product   Liability  Act  shall  remain
+      unaffected.
+
+13.4  The contractual  relations  between the parties shall be subject to German
+      law.
+
+
+T-Systems Logo     Last revision:  1 May 2003     CityInterConnect international
+                                                                     Page 6 of 8
+<PAGE>
+
+                                                    General Terms and Conditions
+
+List of cities
+
+o     Domestic
+
+      Berlin,  Dusseldorf,  Frankfurt on the Main, Hamburg, Hanover,  Nuremberg,
+      Munich and Stuttgart
+
+o     International (1)
+
+      Amsterdam,  Brussels,  Copenhagen, London, Madrid, Milan, New York, Paris,
+      Prague, Stockholm, Vienna and Zurich
+
+Transmission rates
+
+   No.      Transmission rate                  No.      Transmission rate
+----------------------------------          -----------------------------------
+    1          1,920 kbit/s                     5          45 Mbit/s
+----------------------------------          -----------------------------------
+    2          1,984 kbit/s                     6          155 Mbit/s
+----------------------------------          -----------------------------------
+    3          2,048 kbit/s                     7          622 Mbit/s
+----------------------------------
+    4            34 Mbit/s
+
+Interfaces
+
+<TABLE>
+<CAPTION>
+    DTE/Data Network Termination Unit interfaces
+          pursuant to ITU-T Recommendation                                        Transmission rates
+--------------------------------------------------------------------------------------------------------------------------------
+                                                        1,920 kbit/s
+                                                             to           2,048        34         45         155       622
+     Mechanical and functional          electrical      1,984 kbit/s     kbit/s      Mbit/s     Mbit/s     Mbit/s     Mbit/s
+--------------------------------------------------------------------------------------------------------------------------------
+<S>                                   <C>                  <C>            <C>         <C>         <C>        <C>        <C>
+     15-pin D-sub connector
+     pursuant to ISO/IEC 4903
+     X.24 (X.21), but without              V.11              X              X          o          o           o          o
+     validation of the C and I
+        Interface circuits
+--------------------------------------------------------------------------------------------------------------------------------
+     34-pin D-sub connector
+       pursuant to ISO 2593                V.11            X (2)          X (2)        o          o           o          o
+                V35
+--------------------------------------------------------------------------------------------------------------------------------
+     2 x BNC socket (coaxial)          G.703, 75 O,          X              o          o          o           o          o
+    Signal with frame (2,048          asymmetrical,
+   kbit/s) pursuant to ITU-T            HDB3 code
+                G.704
+--------------------------------------------------------------------------------------------------------------------------------
+   Screw coupling, coax 1.6/5.6        G.703, 75 O,
+       pursuant to DIN 47295          asymmetrical,
+ Signal with frame (2,048 kbit/s)        HDB3 cod            X              o          o          o           o          o
+      pursuant to ITU-T G.704
+--------------------------------------------------------------------------------------------------------------------------------
+    RJ45 socket pursuant to           G.703, 120 ?,
+           ISO/IEC 8877                symmetrical,
+   Signal with frame (2.048             HDB3 code            X              o          o          o           o          o
+   kbit/s) pursuant to ITU-T
+             G.704
+</TABLE>
+
+
+T-Systems Logo     Last revision:  1 May 2003     CityInterConnect international
+                                                                     Page 7 of 8
+<PAGE>
+
+                                                    General Terms and Conditions
+
+<TABLE>
+<CAPTION>
+    DTE/Data Network Termination Unit interfaces
+          pursuant to ITU-T Recommendation                                          Transmission rates
+--------------------------------------------------------------------------------------------------------------------------------
+                                                        1,920 kbit/s
+                                                             to           2,048        34         45         155       622
+     Mechanical and functional          electrical      1,984 kbit/s     kbit/s      Mbit/s     Mbit/s     Mbit/s     Mbit/s
+--------------------------------------------------------------------------------------------------------------------------------
+<S>                                   <C>                  <C>            <C>         <C>         <C>        <C>        <C>
+      RJ45 socket pursuant to         G.703, 120 ?,          o              X          o          o           o          o
+           ISO/IEC 8877                symmetrical,
+       Signal without frame             HDB3 code
+           (transparent)
+--------------------------------------------------------------------------------------------------------------------------------
+     2 x BNC socket (coaxial)          G.703, 75 ?,          o              X          X          o           o          o
+       Signal without frame           asymmetrical,
+           (transparent)                HDB3 code
+--------------------------------------------------------------------------------------------------------------------------------
+   Screw coupling, coax 1.6/5.6        G.703, 75 ?,
+       pursuant to DIN 47295          asymmetrical,          o              X          X          o           o          o
+  Frameless signal (transparent)        HDB3 code
+--------------------------------------------------------------------------------------------------------------------------------
+     2 x BNC socket (coaxial)          G.703, 75 ?,
+       Signal without frame           asymmetrical,          o              o          o          X           o          o
+           (transparent)                B3ZS code
+--------------------------------------------------------------------------------------------------------------------------------
+   Screw coupling, coax 1.6/5.6        G.703, 75 ?,
+       pursuant to DIN 47295          asymmetrical,          o              o          o          X           o          o
+  Frameless signal (transparent)        B3ZS code
+--------------------------------------------------------------------------------------------------------------------------------
+     2 x BNC socket (coaxial)          G.703, 75 ?,          o              o          o          o           X          o
+      Signal with frame (155          asymmetrical,
+     Mbit/s) pursuant to ITU-T           CMI code
+               G.707
+--------------------------------------------------------------------------------------------------------------------------------
+   Screw coupling, coax 1.6/5.6        G.703, 75 ?,
+       pursuant to DIN 47295          asymmetrical,
+   Signal with frame pursuant to         CMI code            o              o          o          o           X          o
+            ITU-T G.707
+--------------------------------------------------------------------------------------------------------------------------------
+  Optical connection pursuant to      G.957 (optical         o              o          o          o           X          X
+    88135-01 Signal with frame          interface)
+      pursuant to ITU-T G.707
+</TABLE>
+
+----------
+(1)   Information on other cities in which CityInterConnect international can be
+      installed shall be provided upon request
+
+(2)   Only provided for links outside of Germany.
+
+This translation H not the authentic text. The German version shall be part of
+the agreement.
+
+
+T-Systems Logo     Last revision:  1 May 2003     CityInterConnect international
+                                                                     Page 8 of 8
+</TEXT>
+</DOCUMENT>

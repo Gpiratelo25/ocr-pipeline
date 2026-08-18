@@ -1,0 +1,3504 @@
+<DOCUMENT>
+<TYPE>EX-10.32
+<SEQUENCE>5
+<FILENAME>dex1032.txt
+<DESCRIPTION>EXHIBIT 10.32
+<TEXT>
+<PAGE>
+
+                                                                   Exhibit 10.32
+
+                            MEDICAL SERVICES CONTRACT
+
+                        FLORIDA HEALTHY KIDS CORPORATION
+
+                                       and
+
+                        PHYSICIANS HEALTHCARE PLANS, INC.
+
+                                       FOR
+
+                          ORANGE, OSCEOLA AND SEMINOLE
+
+                    Amendment #1 - Effective December 1, 2001
+                    Amendment #3 - Effective December 1, 2002
+
+<PAGE>
+
+                        FLORIDA HEALTHY KIDS CORPORATION
+                          CONTRACT FOR MEDICAL SERVICES
+
+                                TABLE OF CONTENTS
+
+SECTION   1     GENERAL PROVISIONS
+
+          1-1   Definitions
+
+SECTION   2     FLORIDA HEALTHY KIDS CORPORATION RESPONSIBILITIES
+
+          2-1   Participant Identification
+          2-2   Payments
+          2-3   Reduced Fee Arrangements
+                2-3-1   Specialty Fee Arrangements
+                2-3-2   Children's Medical Services
+          2-4   Quarterly Program Updates
+          2-5   Change in Benefit Schedule
+          2-6   Marketing
+          2-7   Forms and Reports
+          2-8   Coordination of Benefits
+          2-9   Entitlement to Reimbursement
+
+SECTION   3     PHYSICIANS HEALTHCARE PLANS, INC.
+
+          3-1   Benefits
+          3-2   Access to Care
+          3-3   Marketing Materials
+          3-4   Use of Name
+          3-5   Eligibility
+          3-6   Effective Date of Coverage
+          3-7   Termination of Participation
+          3-8   Continuation of Coverage Upon Termination of this Agreement
+          3-9   Individual Contracts
+          3-10  Refusal of Coverage
+          3-11  Extended Coverage
+          3-12  Grievances and Complaints
+          3-13  Claims Payment
+          3-14  Notification
+          3-15  Rates
+          3-16  Rate Modification
+          3-17  Conditions of Services
+          3-18  Medical Records Requirements
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE                                  Page 2 of 41
+
+<PAGE>
+
+                3-18-1  Medical Quality Review and Audit
+          3-19  Quality Enhancement
+                3-19-1  Authority
+                3-19-2  Staff
+                3-19-3  Peer Review
+                3-19-4  Referrals
+          3-20  Availability of Records
+          3-21  Audits
+                3-21-1  Accessibility of Records
+                3-21-2  Financial Audit
+                3-21-3  Post-Contract Audit
+                3-21-4  Accessibility for Monitoring
+          3-22  Indemnification
+          3-23  Confidentiality of Information
+          3-24  Insurance
+          3-25  Lobbying Disclosure
+          3-26  Reporting Requirements
+          3-27  Participant Liability
+          3-28  Protection of Proprietary Information
+          3-29  Regulatory Filings
+
+SECTION   4     TERMS AND CONDITIONS
+
+          4-1   Effective Date
+          4-2   Multi-year Agreement
+          4-3   Entire Understanding
+          4-4   Independent Contractor
+          4-5   Assignment
+          4-6   Notice
+          4-7   Amendments
+          4-8   Governing Law
+          4-9   Contract Variation
+          4-10  Attorney's Fees
+          4-11  Representatives
+          4-12  Termination
+          4-13  Contingency
+
+SECTION   5     EXHIBITS
+
+          Exhibit A: Premium Payment and Rates
+          Exhibit B: Enrollment Dates
+          Exhibit C: Benefits
+          Exhibit D: Coordination of Benefits
+          Exhibit E: Access Standards
+          Exhibit F: Grievance Procedure
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE                                  Page 3 of 41
+
+<PAGE>
+
+          Exhibit G: Eligibility
+          Exhibit H: Reporting Requirements
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE                                  Page 4 of 41
+
+<PAGE>
+
+                              AGREEMENT TO PROVIDE
+                       COMPREHENSIVE HEALTH CARE SERVICES
+
+        This agreement is made by and between the Florida Healthy Kids
+Corporation, hereinafter referred to as "FHKC" and PHYSICIANS HEALTHCARE PLANS,
+INC., hereinafter referred to as "PHP".
+
+        WHEREAS, FHKC has been specifically empowered in subsections 624.91 (4)
+(b) 4, 7, 8 and 10, Florida Statutes, to enter into contracts with HMO's,
+insurers, or any provider of health care services, meeting standards established
+by FHKC, for the provision of comprehensive health insurance coverage to
+participants; and
+
+        WHEREAS, Sections 641.2017 (1) and (2), Florida Statutes, allows PHP to
+enter such a contractual arrangement on a prepaid per capita basis whereby PHP
+assumes the risk that costs exceed the amount paid on a prepaid per capita
+basis; and
+
+        WHEREAS, FHKC desires to increase access to health care services and
+improve children's health; and
+
+        WHEREAS, FHKC did issue an Invitation to Participate in the FHKC School
+Enrollment-Based Health Insurance Program inviting PHP as well as other
+entities, to submit a proposal for the provision of those comprehensive health
+care services set forth in the Invitation to Participate; and
+
+        WHEREAS, PHP's proposal in response to the Invitation to Participate was
+selected through a competitive bid process as the most responsive bids; and
+
+        WHEREAS, PHP has assured FHKC of full compliance with the standards
+established in this Agreement and agrees to promptly respond to any required
+revisions or changes in the FHKC operating procedures which may be required by
+law or implementing regulations; and
+
+        WHEREAS, FHKC is desirous of using PHP's provider network to deliver
+comprehensive health care services to all eligible FHKC participants in Orange,
+Osceola and Seminole Counties;
+
+        NOW, THEREFORE, in consideration of the premises and the mutual
+covenants and promises contained herein, the parties agree as follows:
+
+SECTION 1 GENERAL PROVISIONS
+
+1-1     Definitions
+
+        As used in this agreement, the term:
+
+                A.      "COMPREHENSIVE HEALTH CARE SERVICES" means those
+                        services, medical equipment, and supplies to be provided
+                        by PHP in accordance with standards set by FHKC and
+                        further described in Exhibit C.
+
+                B.      "THE PROGRAM" shall mean the project established by FHKC
+                        pursuant to Section 624.91, Florida Statutes and
+                        specified herein.
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE                                  Page 5 of 41
+
+<PAGE>
+
+                C.      "PARTICIPANT" means those individuals meeting FHKC
+                        standards of eligibility and who have been enrolled in
+                        the program.
+
+                D.      "PHP PROVIDERS" shall mean those providers set forth in
+                        the participant's handbook as from time to time amended.
+
+                E.      "CO-PAYMENT" is the payment required of the participant
+                        at the time of obtaining service. In the event the
+                        participant fails to pay the required co-payment, PHP
+                        may decline to provide non-emergency or non-urgently
+                        needed care.
+
+SECTION 2 FLORIDA HEALTHY KIDS CORPORATION RESPONSIBILITIES
+
+2-1     Participant Identification
+
+FHKC shall promptly furnish to PHP information to sufficiently identify
+participants in the Comprehensive Health Care Services plan authorized by this
+agreement. Additionally, FHKC shall provide PHP a compatible computer tape, or
+other computer-ready media, with the names of participants along with monthly
+additions or deletions throughout the term of this contract in accordance with
+the following:
+
+        A.      With respect to participants who enroll during open enrollment,
+                such listing shall be furnished not less than seven (7) working
+                days prior to the effective date of coverage.
+
+        B.      With respect to additions and deletions occurring after open
+                enrollment, such listing shall be furnished not less than seven
+                (7) working days prior to effective date of coverage.
+
+        C.      With respect to both A and B above, furnish a supplemental list
+                of eligible participants by the third day after the effective
+                date of coverage. PHP shall adjust enrollment retroactively to
+                the 1st day of that month in accordance with the supplemental
+                list and as listed in Exhibit B.
+
+        D.      FHKC may request PHP to accept additional participants after the
+                supplemental listing for enrollment retroactive to the 1st of
+                that coverage month. Such additions will be limited to those
+                participants who made timely payments but were not included on
+                the previous enrollment reports. If such additions exceed more
+                than one percent on that month's enrollment, PHP reserves the
+                right to deny FHKC's request.
+
+2-2     Payments
+
+FHKC will promptly forward the authorized premiums in accordance with Exhibit A
+attached hereto and incorporated herein as part of this Agreement on or before
+the 1st day of each month this Agreement is in force commencing with the 1st day
+of October, 1998. Premiums are past due on the 15th day of each month.
+
+In the case of non-payment of premiums by the 15th day of the month for that
+month of coverage, PHP shall have the right to terminate coverage under this
+contract, provided FHKC is given written notice prior to such termination.
+Termination of coverage shall be retroactive to the last day for which premium
+payment has been made.
+
+2-3     Reduced Fee Arrangements
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE                                  Page 6 of 41
+
+<PAGE>
+
+        2-3-1   Specialty Service Fee Arrangements
+
+                Upon prior approval of PHP, FHKC shall have the right to
+                negotiate specialty service fee arrangements with non-PHP
+                affiliated providers and make such rates available to PHP. In
+                such cases if there is a material impact on the premium, the
+                premium in Exhibit A will be adjusted by PHP in a manner
+                consistent with sound actuarial practices.
+
+        2-3-2   Children's Medical Services Network
+
+                If there is a material impact on the premium in Exhibit A due to
+                the implementation of the Children's Medical Services Network as
+                created in Chapter 391, Florida Statutes, PHP agrees to reduce
+                the premium in Exhibit A in an amount consistent with sound
+                actuarial practices.
+
+2-4     Program Updates
+
+FHKC shall provide PHP with updates on program highlights such as participant
+demographics, profiles, newsletters, legislative or regulatory inquiries and
+program directives.
+
+2-5     Change in Benefit Schedule
+
+FHKC agrees that any changes to the participant benefit schedule as set forth in
+Exhibit C attached hereto and incorporated herein as part of this Agreement,
+shall only be made as the parties hereto may mutually agree in writing.
+
+2-6     Marketing
+
+FHKC will market the program primarily through the Orange, Osceola and Seminole
+school districts. FHKC agrees that PHP shall be allowed to participate in any
+scheduled marketing efforts to include, but not be limited to, any scheduled
+open house type activities. However, PHP is prohibited from any direct marketing
+to applicants or the use of FHKC's logo, name or corporate identity unless such
+activity has received prior written authorization from FHKC. Written
+authorization must be received for every individual activity.
+
+FHKC will have the right of approval or disapproval of all descriptive plan
+literature and forms.
+
+2-7     Forms and Reports
+
+FHKC agrees that PHP shall participate in the development of any FHKC
+eligibility report formats which may be required from time to time.
+
+2-8     Coordination of Benefits
+
+FHKC agrees that PHP shall be able to coordinate health benefits with other
+insurers as provided for in Florida Statutes and the procedures contained in
+Exhibit D attached hereto and incorporated herein as part of this Agreement.
+
+If PHP identifies a participant covered through another health benefits program,
+PHP shall notify FHKC. FHKC shall make the decision as to whether the
+participant may continue coverage through FHKC in accordance with the
+eligibility standards contained herein.
+
+2-9     Entitlement to Reimbursement
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE                                  Page 7 of 41
+
+<PAGE>
+
+In the event PHP provides medical services or benefits to participants who
+suffer injury, disease or illness by virtue of the negligent act or omission of
+a third party, PHP shall be entitled to reimbursement from the participant, at
+the prevailing rate, for the reasonable value of the services or benefits
+provided. PHP shall not be entitled to reimbursement in excess of the
+participant's monetary recovery for medical expenses provided, from the third
+party.
+
+SECTION 3 PHP RESPONSIBILITIES
+
+3-1     Benefits
+
+PHP agrees to make its provider network available to FHKC participants in
+Orange, Osceola and Seminole Counties and to provide the comprehensive health
+care services as set forth in Exhibit C attached hereto and by reference made a
+part hereof.
+
+3-2     Access to Care
+
+PHP agrees to meet or exceed the appointment and geographic access standards for
+pediatric care existing in the community and as specifically provided for in
+Exhibit E attached hereto and incorporated herein as a part of this Agreement.
+
+In the event PHP's provider network is unable to provide those medically
+necessary benefits specified in Exhibit C, for any reason, except force majeure,
+PHP shall be responsible for those contract benefits obtained from providers
+other than PHP for eligible FHKC participants. In the event PHP fails to meet
+those access standards set forth in Exhibit E, FHKC may, after following
+procedures set forth in Exhibit E, direct its participants to obtain such
+contract benefit from other providers and may contract for such services. All
+financial responsibility related to services received under these specific
+circumstances shall be assumed by PHP.
+
+3-3     Marketing Materials
+
+PHP agrees that it shall not utilize the marketing materials, logos, trade
+names, service marks or other materials belonging to FHKC without FHKC's consent
+which shall not be unreasonably withheld.
+
+PHP will be responsible for all preparation, cost and distribution of members
+PHP handbooks, plan documents, materials, and orientation, for FHKC
+participants. Materials will be appropriate to the population served and unique
+to the program.
+
+3-4     Use of Name
+
+PHP consents to the use of its name in any marketing and advertising or media
+presentations describing FHKC, which are developed and disseminated by FHKC to
+participants, employees, employers, the general public or the Orange, Osceola
+and Seminole counties school systems, provided however, PHP reserves the right
+to review and concur in any such marketing materials prior to their
+dissemination.
+
+3-5     Eligibility
+
+PHP agrees to accept participants who meet the eligibility standards contained
+in Exhibit G attached hereto and incorporated herein as a part of this
+Agreement. Provided, PHP reserves the right upon reasonable notification to
+periodically review certain eligibility determinations and FHKC shall ensure all
+records and findings concerning a particular eligibility determination will be
+made available with reasonable promptness.
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE                                  Page 8 of 41
+
+<PAGE>
+
+3-6     Effective Date of Coverage
+
+Coverage for every participant shall become effective at 12:01 a.m. EST/EDT, as
+appropriate, and as indicated in Exhibit B.
+
+3-7     Termination of Participation
+
+A participant's coverage under this program shall terminate on the last day of
+the month in which the participant:
+
+        A.      ceases to be eligible to participate in the program;
+
+        B.      establishes residence outside the service area; or
+
+        C.      is determined to have acted fraudulently in obtaining coverage
+                hereunder.
+
+3-8     Continuation of Coverage Upon Termination of this Agreement
+
+PHP agrees that, upon termination of this Agreement for any reason, unless
+instructed otherwise by FHKC, it will continue to provide inpatient services to
+FHKC participants who are then inpatients until such time as such participants
+have been appropriately discharged. However, PHP shall not be required to
+provide such extended benefits beyond 12 calendar months from the date the
+Agreement is terminated.
+
+If PHP terminates this Contract at its sole option and through no fault of the
+FHKC and if on the date of termination a participant is totally disabled and
+such disability commenced while coverage was in effect, that participant shall
+continue to receive all benefits otherwise available under this contract for the
+condition under treatment which caused such total disability until the earlier
+of (1) the expiration of the contract benefit period for such benefits; (2)
+determination by the Medical Director of PHP that treatment is no longer
+medically necessary; (3) twelve (12) months from the date of termination of
+coverage; (4) a succeeding carrier elects to provide replacement coverage
+without limitation as to the disability condition; provided however, that
+benefits will be provided only so long as the participant is continuously
+totally disabled and only for the illness or injury which caused the total
+disability.
+
+For the purpose of this section, a participant who is "totally disabled" shall
+mean a participant who is physically unable to work, as determined by the
+Medical Director of PHP, due to an illness or injury at any gainful job for
+which the participant is suited by education, training, experience or ability.
+Pregnancy, childbirth or hospitalization in and of themselves do not constitute
+"total disability". In the case of maternity coverage, when participant is
+eligible for such coverage, when not covered by a succeeding carrier, a
+reasonable period of extension of benefits shall be granted. The extension of
+benefits shall be only for the period of pregnancy, and shall not be based on
+total disability.
+
+3-9     Participant Certificates and Handbooks
+
+PHP will issue participant certificates and handbooks to all FHKC designated
+participants. Except as specifically provided in Sections 3-8 and 3-11 hereof,
+all participant rights and benefits shall terminate upon termination of this
+Agreement or upon termination of participation in the program.
+
+3-10    Refusal of Coverage
+
+PHP shall not refuse to provide coverage to any participant on the basis of past
+or present health status.
+
+3-11    Extended Coverage
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE                                  Page 9 of 41
+
+<PAGE>
+
+With regards to those participants who have been terminated pursuant to Section
+3-7 A, PHP will offer individual coverage to all participants without regard to
+health condition or status.
+
+3-12    Grievances and Complaints
+
+PHP agrees to provide all FHKC participants a Grievance Process and make reports
+quarterly to the FHKC, as required, in accordance with Exhibit F attached hereto
+and incorporated herein as a part of this Agreement.
+
+In addition, the grievance and complaint procedures shall be governed by the
+following rules and guidelines:
+
+        A.      There must be sufficient support staff (clerical and
+                professional) available to process grievances.
+
+        B.      Staff must be educated concerning the importance of the
+                procedure and the rights of the enrollee.
+
+        C.      Someone with problem solving authority must be part of the
+                grievance procedure.
+
+        D.      In order to initiate the grievance process, such grievance must
+                be filed in writing.
+
+        E.      The parties will provide assistance to grievant during the
+                grievance process to the extent FHKC deems necessary.
+
+        F.      Grievances shall be resolved within sixty days from initial
+                filing by the participant, unless information must be collected
+                from providers located outside the authorized service area or
+                from non-contract providers. In such exceptions, an additional
+                extension shall be authorized upon establishing good cause.
+
+        G.      A record of informal complaints received which are not
+                grievances shall be maintained and shall include the date, name,
+                nature of the complaint and the disposition.
+
+3-13    Claims Payment
+
+PHP will pay any claims from its offices located at 777 South Harbor Island
+Blvd., Tampa, Florida 33602 (or any other designated claims office located in
+its service area). PHP will pay clean claims filed within thirty (30) working
+days or request additional information of the claimant necessary to process the
+claim.
+
+3-14    Notification
+
+PHP shall immediately notify FHKC of:
+
+        A.      Any judgment, decree, or order rendered by any court of any
+                jurisdiction or Florida Administrative Agency enjoining PHP from
+                the sale or provision of service under Chapter 641, Part II,
+                Florida Statutes.
+
+        B.      Any petition by PHP in bankruptcy or for approval of a plan of
+                reorganization or arrangement under the Bankruptcy Act or
+                Chapter 631, Part I, Florida Statutes, or an admission seeking
+                the relief provided therein.
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE                                 Page 10 of 41
+
+<PAGE>
+
+        C.      Any petition or order of rehabilitation or liquidation as
+                provided in Chapters 631 or 641, Florida Statutes.
+
+        D.      Any order revoking the Certificate Of Authority granted to PHP.
+
+        E.      Any administrative action taken by the Department of Insurance
+                or Agency for Health Care Administration in regard to PHP.
+
+        F.      Any medical malpractice action filed in a court of law in which
+                a FHKC participant is a party (or in whose behalf a
+                participant's allegations are to be litigated).
+
+        G.      The filing of an application for change of ownership with the
+                Florida Department of Insurance.
+
+        H.      On a monthly basis, inform FHKC of any changes to the provider
+                network that differ from the network presented in the original
+                bid proposal, including discontinuation of any primary care
+                providers or physician practice associations or groups with
+                Healthy Kids enrollees on their panels.
+
+3-15    Rates
+
+The rate charged for provision of Comprehensive Health Care Services shall be as
+stated in Exhibit A.
+
+3-16    Rate Modification
+
+        I.      Annual Adjustment
+
+                Upon request by PHP, the Board of Directors of the FHKC may
+                approve an adjustment to the premium effective only on October
+                1, however each adjustment must meet the following minimum
+                conditions:
+
+                A.      Any request to adjust the premium must be received by
+                        the preceding April 1;
+
+                B.      The request for an adjustment must be accompanied by a
+                        supporting independent actuarial memorandum; and
+
+                C.      The proposed premium shall not be excessive or
+                        inadequate in accordance with the standards established
+                        by the Department of Insurance for such determination.
+
+        II.     Coverage\Copayment Adjustment
+
+                In the event, FHKC requires a change in coverage or benefits to
+                be effective immediately, PHP shall have the right within ninety
+                (90) calendar days from the effective date of the such change to
+                propose in writing any adjustment to premium necessitated by
+                such change. Such proposed premium adjustments shall comply with
+                paragraph (d) of Section I above and upon approval of FHKC shall
+                be retroactive to
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE                                 Page 11 of 41
+
+<PAGE>
+
+                the effective date of such change. The retroactive payment of
+                the adjusted premium shall apply only to non-subsidized
+                participants. The proposed premium increase shall not be
+                excessive or inadequate as determined by an independent actuary
+                mutually acceptable to both FHKC and PHP.
+
+3-17    Conditions of Services
+
+Services shall be provided by PHP under the following conditions:
+
+        A.      Appointment. Participants shall first contact their assigned
+                primary care physician for an appointment in order to receive
+                non-emergency health services.
+
+        B.      Provision of Services. Services shall be provided and paid for
+                by PHP only when PHP performs, prescribes, arranges or
+                authorizes the services. Services are available only from and
+                under the direction of PHP and neither PHP nor PHP Physicians
+                shall have any liability or obligation whatsoever on account of
+                any service or benefit sought or received by any member from any
+                other physician or other person, institution or organization,
+                unless prior special arrangements are made by PHP and confirmed
+                in writing except as provided for in Section 3-2.
+
+        C.      Hospitalization. PHP does not guarantee the admission of a
+                participant to any specific hospital or other facility or the
+                availability of any accommodations or services therein.
+                Inpatient Hospital Service is subject to all rules and
+                regulations of the hospital or other medical facility to which
+                the member is admitted.
+
+        D.      Emergency Services. Exceptions to Section 3-17 A, B and C are
+                services which are needed immediately for treatment of an injury
+                or sudden illness where delay means risk of permanent damage to
+                the participant's health. PHP shall provide and pay for
+                emergency services both inside and outside the service area.
+
+3-18    Medical Records Requirements
+
+PHP shall require providers to maintain medical records for each participant
+under this contract in accordance with applicable state and federal law.
+
+        3-18-1  Medical Quality Review and Audit
+
+                FHKC shall conduct an independent medical quality review of PHP
+                at the conclusion of the first twelve months of coverage. The
+                independent auditor's report will include a written review and
+                evaluation of care provided to FHKC participants in Orange,
+                Osceola and Seminole Counties.
+
+3-19    Quality Enhancement (Assurance)
+
+The PHP shall have a quality enhancement program. If the PHP has an existing
+program, it must satisfy the FHKC's quality enhancement standards. Approval will
+be based on the PHP adherence to the minimum standards listed below.
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE                                 Page 12 of 41
+
+<PAGE>
+
+        3-19-1  Quality Enhancement Authority. The Plan shall have a quality
+                enhancement review authority which shall:
+
+                (a)     Direct and review all quality enhancement activities.
+
+                (b)     Assure that quality enhancement activities take place in
+                        all areas of the plan.
+
+                (c)     Review and suggest new or improved quality enhancement
+                        activities.
+
+                (d)     Direct task forces/committees in the review of focused
+                        concern.
+
+                (e)     Designate evaluation and study design procedures.
+
+                (f)     Publicize findings to appropriate staff and departments
+                        within the plan.
+
+                (g)     Report findings and recommendations to the appropriate
+                        executive authority.
+
+                (h)     Direct and analyze periodic reviews of enrollees'
+                        service utilization patterns.
+
+        3-19-2  Quality Enhancement Staff. The plan shall provide for quality
+                enhancement staff which has the responsibility for:
+
+                (a)     Working with personnel in each clinical and
+                        administrative department to identify problems related
+                        to quality of care for all covered professional
+                        services.
+
+                (b)     Prioritizing problem areas for resolution and designing
+                        strategies for change.
+
+                (c)     Implementing improvement activities and measuring
+                        success.
+
+                (d)     Performing a quarterly review of a random selection of
+                        10 percent or 50 enrollee records, whichever is fewer.
+                        Reviewing elements shall include management of specific
+                        diagnosis, appropriateness and timeliness of care,
+                        comprehensiveness of and compliance with the plan of
+                        care, and evidence of special screening for high risk
+                        individuals or conditions.
+
+                (e)     Providing outcome of any Quality Enhancement activities
+                        involving children 5-19 years of age to the FHKC.
+
+        3-19-3  Peer Review Authority. The plan's quality enhancement program
+                shall have a peer review component and a peer review authority.
+
+                Scope of Activities
+
+                (a)     The review of the practice methods and patterns of
+                        individual physicians and other health care
+                        professionals.
+
+                (b)     The ability and responsibility to evaluate the
+                        appropriateness of care rendered by professionals.
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE                                 Page 13 of 41
+
+<PAGE>
+
+                (c)     The authority to implement corrective action when deemed
+                        necessary.
+
+                (d)     The responsibility to develop policy recommendations to
+                        maintain or enhance the quality of care provided to plan
+                        participants.
+
+                (e)     A review process which includes the appropriateness of
+                        diagnosis and subsequent treatment, maintenance of
+                        medical record requirements, adherence to standards
+                        generally accepted by professional group peers, and the
+                        process and outcome of care.
+
+                (f)     The maintenance of written minutes of the meetings and
+                        provision of reports to FHKC of any activities related
+                        to FHKC participants.
+
+                (g)     Peer review must include examination of morbidity and
+                        mortality.
+
+        3-19-4  Referrals To Peer Review Authority
+
+                (a)     All written and/or oral allegations of inappropriate or
+                        aberrant service must be referred to the Peer Review
+                        Authority.
+
+                (b)     Recipients and staff must be advised of the role of the
+                        Peer Review Authority and the process to advise the
+                        authority of situations or problems.
+
+                (c)     All grievances related to medical treatment must be
+                        presented to the Authority for examination and, when a
+                        FHKC participant is involved, the outcome of the
+                        grievance resolution reported to FHKC.
+
+3-20    Availability of Records
+
+PHP shall make all records available at its own expense for review, audit, or
+evaluation by authorized federal, state and FHKC personnel. The location will be
+determined by PHP subject to approval of FHKC. Access will be during normal
+business hours and will be either through on-site review of records or through
+the mail.
+
+Copies of all records, will be sent to FHKC by certified mail within seven
+working days of request. It is FHKC's responsibility to obtain sufficient
+authority, as provided for by applicable statute or requirement, to provide for
+the release of any patient specific information or records requested by the
+FHKC, State or Federal agencies.
+
+3-21    Audits
+
+        3-21-1  Accessibility of Records
+
+                PHP shall maintain books, records, documents, and other evidence
+                pertaining to the administrative costs and expenses of the
+                contract relating to the individual participants for the
+                purposes of audit requirements. These records, books, documents,
+                etc., shall be available for review by authorized federal, state
+                and FHKC personnel during the contract period and five (5) years
+                thereafter, except if an audit is in progress or audit findings
+                are yet unresolved in which case records shall be kept until all
+                tasks are completed. During the contract period these records
+                shall be available at PHP's offices at all reasonable times.
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE                                 Page 14 of 41
+
+<PAGE>
+
+                After the contract period and for five years following, the
+                records shall be available at PHP's chosen location subject to
+                the approval of FHKC. If the records need to be sent to FHKC,
+                PHP shall bear the expense of delivery. Prior approval of the
+                disposition of PHP and subcontractor records must be requested
+                and approved if the contract or subcontract is continuous.
+
+                This agreement is subject to unilateral cancellation by FHKC if
+                PHP refuses to allow such public access.
+
+        3-21-2  Financial Audit
+
+                Upon reasonable notice by FHKC, PHP shall permit an independent
+                audit by FHKC of its financial condition or performance standard
+                in accordance with the provisions of this agreement and the
+                Florida Insurance Code and regulations adopted thereunder.
+
+        3-21-3  Post-Contract Audit
+
+                PHP agrees to cooperate with the post-contract audit
+                requirements of appropriate regulatory authorities and in the
+                interim will forward promptly PHP's annual audited financial
+                statements to the FHKC. In addition, PHP agrees to the
+                following:
+
+                PHP agrees to retain and make available upon request, all books,
+                documents and records necessary to verify the nature and extent
+                of the costs of the services provided under this Agreement, and
+                that such records will be retained and held available by PHP for
+                such inspection until the expiration of four (4) years after the
+                services are furnished under this Agreement. If, pursuant to
+                this Agreement and if PHP's duties and obligations are to be
+                carried out by an individual or entity subcontracting with PHP
+                and that subcontractor is, to a significant extent, owns or is
+                owned by or has control of or is controlled by PHP, each
+                subcontractor shall itself be subject to the access requirement
+                and PHP hereby agrees to require such subcontractors to meet the
+                access requirement.
+
+                PHP understands that any request for access must be in writing
+                and contain reasonable identification of the documents, along
+                with a statement as to the reason that the appropriateness of
+                the costs or value of the services in question cannot be
+                adequately or efficiently determined without access to its books
+                or records. PHP agrees that it will notify FHKC in writing
+                within ten (10) days upon receipt of a request for access.
+
+        3-21-4  Accessibility for Monitoring
+
+                PHP shall make available to all authorized federal, state and
+                FHKC personnel, records, books, documents, and other evidence
+                pertaining to the contract as well as appropriate personnel for
+                the purpose of monitoring under this contract. The monitoring
+                shall occur periodically during the contract period.
+
+3-22    Indemnification
+
+PHP agrees to indemnify and hold harmless FHKC from any losses resulting from
+negligent, dishonest, fraudulent or criminal acts of PHP, its officers, its
+directors, or its employees, whether acting alone or in collusion with others.
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE                                 Page 15 of 41
+
+<PAGE>
+
+PHP shall indemnify, defend, and hold FHKC and its officers, employees and
+agents harmless from all claims, suits, judgments or damages, including court
+costs and attorney fees, arising out of any negligent or intentional torts by
+PHP.
+
+PHP shall hold all enrolled participants harmless from all claims for payment of
+covered services, except co-payments, including court costs and attorney fees
+arising out of or in the course of this contract pertaining to covered services.
+In no case will FHKC or program participants be liable for any debts of the PHP.
+
+PHP agrees to indemnify, defend, and save harmless FHKC, its officers, agents,
+and employees from:
+
+        A.      Any claims or losses attributable to a service rendered by any
+                subcontractor, person, or firm performing or supplying services,
+                materials, or supplies in connection with the performance of the
+                contract regardless of whether FHKC knew or should have known of
+                such improper service, performance, materials or supplies.
+
+        B.      Any failure of PHP, its officers, employees, or subcontractors
+                to observe Florida law, including but not limited to labor laws
+                and minimum wage laws, regardless of whether the FHKC knew or
+                should have known of such failure.
+
+With respect to the rights of indemnification given herein, FHKC agrees to
+provide to PHP, if known to FHKC, timely written notice of any loss or claim and
+the opportunity to mitigate, defend and settle such loss or claim as a condition
+to indemnification
+
+3-23    Confidentiality of Information
+
+PHP shall treat all information, and in particular information relating to
+participants which is obtained by or through its performance under the contract,
+as confidential information to the extent confidential treatment is provided
+under state and federal laws. PHP shall not use any information so obtained in
+any manner except as necessary for the proper discharge of its obligations and
+securement of its rights under the contract.
+
+All information as to personal facts and circumstances concerning participants
+obtained by PHP shall be treated as privileged communications, shall be held
+confidential, and shall not be divulged without the written consent of FHKC or
+the participant, provided that nothing stated herein shall prohibit the
+disclosure of information in summary, statistical, or other form which does not
+identify particular individuals. The use or disclosure of information concerning
+participants will be limited to purposes directly connected with the
+administration of the contract. It is expressly understood that substantial
+evidence of PHP's refusal to comply with this provision shall constitute a
+breach of contract.
+
+3-24    Insurance
+
+PHP shall not commit any work in connection with the contract until it has
+obtained all types and levels of insurance required and approved by appropriate
+state regulatory agencies. The insurance includes but is not limited to worker's
+compensation, liability, fire insurance, and property insurance. Upon request,
+FHKC shall be provided proof of coverage of insurance by a certificate of
+insurance accompanying the contract documents.
+
+FHKC shall be exempt from and in no way liable for any sums of money which may
+represent a deductible in any insurance policy. The payment of such a deductible
+shall be the sole responsibility of PHP and/or subcontractor holding such
+insurance. The same holds true of any premiums paid on any insurance policy
+pursuant to this contract. Failure to provide proof of coverage may result in
+the contract being terminated.
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE                                 Page 16 of 41
+
+<PAGE>
+
+3-25    Lobbying Disclosure
+
+PHP shall comply with applicable state and federal requirements for the
+disclosure of information regarding lobbying activities of the firm,
+subcontractors or any authorized agent. Certification forms shall be filed by
+PHP certifying that no state or federal funds have been or will be used in
+lobbying activities, and the disclosure forms shall be used by PHP to disclose
+lobbying activities in connection with the Program that have been or will be
+paid for with non-federal funds.
+
+3-26    Reporting Requirements
+
+PHP agrees to provide on a timely basis the quarterly statistical reports
+detailed in Exhibit H to FHKC which FHKC must have to satisfy reporting
+requirements.
+
+3-27    Participant Liability
+
+PHP hereby agrees that no FHKC participant shall be liable to PHP or any PHP
+network providers for any services covered by FHKC under this Agreement. Neither
+PHP or any representative of PHP shall collect or attempt to collect from an
+FHKC participant any money for services covered by the program and neither PHP
+nor representatives of PHP may maintain any action at law against a FHKC
+participant to collect money owed to PHP by FHKC. FHKC participants shall not be
+liable to PHP for any services covered by the participant's contract with FHKC.
+This provision shall not prohibit collection of co-payments made in accordance
+with the terms of this Agreement. Nor shall this provision prohibit collection
+for services not covered by the contract between FHKC and the participants.
+
+3-28    Protection of Proprietary Information
+
+PHP and FHKC mutually agree to maintain the integrity of all proprietary
+information, including but not limited to membership lists, including names,
+addresses and telephone numbers. Neither parties will disclose or allow to be
+disclosed proprietary information, by any means, to any person without the prior
+written approval of the other party. All proprietary information will be so
+designated.
+
+This requirement does not extend to routine reports and membership disclosure
+necessary for efficient management of the program.
+
+3-29    Regulatory Filings
+
+PHP will forward all regulatory filings, (i.e., documents, forms and rates)
+relating to this contract to FHKC for their review and approval. Once such
+regulatory filings are approved, FHKC will submit them to the Department of
+Insurance on PHP's behalf.
+
+SECTION 4 TERMS AND CONDITIONS
+
+4-1     Effective Date
+
+This Agreement shall be effective on the first (1st) day of January, 1999 and
+shall remain in effect through September 30,2001.
+
+4-2     Multiple Year Agreement
+
+Parties hereto agree this is a "Multiple Year Agreement" meaning this Agreement
+which is effective as of January
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE                                 Page 17 of 41
+
+<PAGE>
+
+1, 1999 shall extend through September 30, 2001, and shall thereafter be
+automatically renewed for no more than (2) successive one year periods. Either
+party may elect not to renew this Agreement and in that event shall give written
+notice to said effect to the other party at least six (6) months prior to the
+expiration of the then current term.
+
+4-3     Entire Understanding
+
+This Agreement embodies the entire understanding of the parties in relationship
+to the subject matter hereof. No other agreement, understanding or
+representation, verbal or otherwise, relative to the subject matter hereof
+exists between the parties at the time of execution of this Agreement.
+
+4-4     Independent Contractor
+
+The relations of PHP to the FHKC shall be solely that of an independent
+contractor. As an independent contractor, PHP agrees to comply with the
+following provisions:
+
+                a.      Title VI of the Civil Rights Act of 1964, as amended, 42
+                        U.S.C. 2000d et seq., which prohibits discrimination on
+                        the basis of race, color, or national origin.
+
+                b.      Section 504 of the Rehabilitation Act of 1973, as
+                        amended, 29 U.S.C. 794, which prohibits discrimination
+                        on the basis of handicap.
+
+                c.      Title IX of the Education Amendments of 1972, as amended
+                        29 U.S.C. 601 et seq., which prohibits discrimination on
+                        the basis of sex.
+
+                d.      The Age Discrimination Act of 1975, as amended, 42
+                        U.S.C. 6101 et seq., which prohibits discrimination on
+                        the basis of age.
+
+                e.      Section 654 of the Omnibus Budget Reconciliation Act of
+                        1981, as amended, 42 U.S.C. 9848, which prohibits
+                        discrimination on the basis of race, creed, color,
+                        national origin, sex, handicap, political affiliation or
+                        beliefs.
+
+                f.      The American with Disabilities Act of 1990, P.L.
+                        101-336, which prohibits discrimination on the basis of
+                        disability and requires reasonable accommodation for
+                        persons with disabilities.
+
+                g.      Section 274A (e) of the Immigration and Nationalization
+                        Act, FHKC shall consider the employment by any
+                        contractor of unauthorized aliens a violation of this
+                        Act. Such violation shall be cause for unilateral
+                        cancellation of this contract.
+
+4-5     Assignment
+
+This Agreement may not be assigned by PHP without the express prior written
+consent of FHKC. Any purported assignment shall be deemed null and void.
+
+This contract and the monies which may become due hereunder are not assignable
+by PHP except with the prior written approval of FHKC.
+
+4-6     Notice
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE                                 Page 18 of 41
+
+<PAGE>
+
+Notice required or permitted under this Agreement shall be directed as follows:
+
+                For PHYSICIANS HEALTH CARE PLAN:
+                PHYSICIANS HEALTHCARE PLANS, INC.
+                2333 PONCE DE LEON BLVD., SUITE 303
+                CORAL GABLES, FL 33134
+
+                For FHKC:
+                EXECUTIVE DIRECTOR
+                FLORIDA HEALTHY KIDS CORPORATION
+                POST OFFICE BOX 980
+                TALLAHASSEE, FL 32302
+
+                or to such other place or person as written notice thereof may
+                be given to the other party.
+
+4-7     Amendment
+
+Not withstanding anything to the contrary contained herein, this Agreement may
+be amended by mutual written consent of the parties at any time.
+
+4-8     Governing Law
+
+This Agreement shall be construed and governed in accordance with the laws of
+the State of Florida.
+
+4-9     Contract Variation
+
+If any provision of the contract (including items incorporated by reference) is
+declared or found to be illegal, unenforceable, or void, then both FHKC and PHP
+shall be relieved of all obligation arising under such provisions. If the
+remainder of the contract is capable of performance, it shall not be affected by
+such declaration or finding and shall be fully performed. In addition, if the
+laws or regulations governing this contract should be amended or judicially
+interpreted as to render the fulfillment of the contract impossible or
+economically infeasible, both FHKC and PHP will be discharged from further
+obligations created under the terms of the contract.
+
+4-10    Attorneys Fees
+
+In the event that either party deems it necessary to take legal action to
+enforce any provision of this Agreement the court or hearing officer, in his
+discretion, may award costs and attorneys' fees to the prevailing party. Legal
+actions are defined to include administrative proceedings.
+
+4-11    Representatives
+
+Each party shall designate a representative to serve as the day to day
+management of FHKC School Based Health Insurance Plan, helping to resolve
+services questions, assuring proper arbitration in the event of a dispute, as
+well as responding to general administrative and procedural problems. These
+individuals will be the principal points of contact for all inquiries unless the
+designated representatives specifically refer the inquiry to another party
+within their respective organizations.
+
+4-12    Termination
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE                                 Page 19 of 41
+
+<PAGE>
+
+        A. Termination for Cause
+
+        FHKC shall have the absolute right to terminate for cause, this
+        Agreement, and all obligations contained hereunder. Cause shall be
+        defined as any material breach of PHP's responsibilities as set forth
+        herein, which can not be cured by PHP within 30 days from the date of
+        written notice from FHKC but, if the default condition cannot be cured
+        within the 30 days, PHP may, if it has commenced reasonable efforts to
+        correct the condition within that 30 day period, have up to 90 days to
+        complete the required cure. Nothing in this Agreement shall extend this
+        90 day period except the mutual consent of the parties hereto.
+
+        PHP shall have the absolute right to terminate for cause this Agreement,
+        and all obligations contained hereunder. Cause shall be defined as any
+        material breach of FHKC's responsibilities as set forth herein, which
+        can not be cured by FHKC within 30 days from the date of written notice
+        from PHP but, if the default condition cannot be cured within the 30
+        days, FHKC may, if it has commenced reasonable efforts to correct the
+        condition within that 30 day period, have up to 90 days to complete the
+        required cure. Nothing in this Agreement shall extend this 90 day period
+        except the mutual consent of the parties hereto.
+
+        B. Change of Controlling Interest
+
+        FHKC shall have the absolute right to elect to continue or terminate
+        this Agreement, at its sole discretion, in the event of a change in the
+        controlling interest of PHP. PHP shall provide notice of regulatory
+        agency approval prior to any transfer or change in control, and FHKC
+        shall have ten (10) days thereafter to elect continuation or termination
+        of this Agreement.
+
+4-13    Contingency
+
+        This Agreement and all obligations created hereunder, are subject to
+        continuation and approval of funding of the FHKC by the appropriate
+        state and federal or local agencies.
+
+        IN WITNESS WHEREOF the parties hereto have executed this Agreement on
+        the 16th day of NOVEMBER, 1998.
+
+                                               PHYSICIANS HEALTHCARE PLANS, INC.
+                                               BY:
+
+/s/ Daisy Gomez                                /s/ Peter L. Jimenez
+------------------------                       ------------------------------
+Witness                                        Name: PETER L. JIMENEZ
+                                               Title Vice President
+
+                                               FLORIDA HEALTHY KIDS CORPORATION
+                                               BY:
+
+/s/ Jennifer K. Lloyd                          /s/ Rose M. Naff
+------------------------                       ------------------------------
+Witness                                        Rose M. Naff
+                                               Executive Director
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE                                 Page 20 of 41
+
+<PAGE>
+
+                                                                       EXHIBIT A
+
+                            HEALTH SERVICES AGREEMENT
+
+The Comprehensive Health Care Services premium for participants in the Florida
+Healthy Kids School Enrollment-Based Health Insurance Program for the coverage
+period January 1,1999 through September 30, 2000 shall be $65.31 per member per
+month.
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE                                 Page 21 of 41
+
+<PAGE>
+
+                                                                       EXHIBIT B
+
+                              ENROLLMENT PROCEDURES
+
+1.      All FHKC eligible participants will be provided with necessary
+        enrollment materials and forms from FHKC or its assignee.
+
+2.      FHKC will provide PHP with eligible participants who have selected PHP
+        or who have been assigned by FHKC to PHP according to the provisions of
+        Section 2 - 1 via an enrollment tape, using a tape layout to be
+        specified by FHKC.
+
+3.      Upon receipt of such enrollment tape, PHP acting as an agent for FHKC
+        shall provide each participant with an enrollment package including:
+
+        A.      A members PHP card displaying participants name, participation
+                number, and effective date of coverage.
+
+        B.      Participants handbook.
+
+        C.      Current listing of primary care and hospital providers.
+
+4.      All additions or deletions will be submitted in accordance with
+        referenced sections of this Agreement and Exhibit B.
+
+5.      Upon receipt of monthly tape from FHKC, PHP will process all new
+        enrollments and provide new participants with enrollment package
+        described above.
+
+6.      Deletions will be processed by PHP and participants will be notified in
+        writing by regular mail advising them of the effective date of deletion.
+
+7.      A waiting period of sixty days will be imposed on those participants who
+        voluntarily cancel their coverage by non-payment of the required monthly
+        premium. Canceled participants must request reinstatement from FHKC and
+        wait at least sixty days from the date of that request before coverage
+        can be reinstated.
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE                                 Page 22 of 41
+
+<PAGE>
+
+                                                                       EXHIBIT C
+
+                            ENROLLEE BENEFIT SCHEDULE
+
+The following health care benefits are included under this contract and PHP
+shall pay an enrollee's covered expenses up to a lifetime maximum of $1 million
+per covered enrollee.
+
+<TABLE>
+<CAPTION>
+                 BENEFIT                               LIMITATIONS                           CO-PAYMENT
+<S>                                       <C>                                     <C>
+A.      Inpatient Hospital Services       All admissions must be authorized by    NONE
+                                          PHP.
+All covered services provided for the
+medical care and treatment of an          The length of the patient stay shall
+enrollee who is admitted as an inpatient  be determined based on the medical
+to a hospital licensed under part I of    condition of the enrollee in relation
+Chapter 395.                              to the necessary and appropriate level
+                                          of care.
+
+Covered services include: physician's     Room and board may be limited to
+services; room and board; general         semi-private accommodations, unless a
+nursing care; patient meals; use of       private room is considered medically
+operating room and related facilities;    necessary or semi-private
+use of intensive care unit and services;  accommodations are not available.
+radiologic, laboratory and other
+diagnostic tests; drugs; medications;     Private duty nursing limited to
+biologicals; anesthesia and oxygen        circumstances where such care is
+services; special duty nursing;           medically necessary.
+radiation and chemotherapy; respiratory
+therapy; administration of whole blood    Admissions for rehabilitation and
+plasma; physical, speech and              physical therapy are limited to 15
+occupational therapy; medically           days per contract year.
+necessary services of other health
+professionals.
+
+                                          Shall Not Include Experimental or
+                                          Investigational Procedures as defined
+                                          as a drug, biological product, device,
+                                          medical treatment or procedure that
+                                          meets any one of the following
+                                          criteria, as determined by the Plan:
+
+                                          1. Reliable Evidence shows the drug,
+                                          biological product, device, medical
+                                          treatment, or procedure when applied
+                                          to the circumstances of a particular
+                                          patient is the subject of ongoing
+                                          phase I, II or III clinical trials or
+                                          2. Reliable Evidence shows the drug,
+                                          biological product, device, medical
+                                          treatment or procedure when applied to
+                                          the circumstances of a particular
+                                          patient is under study with a written
+                                          protocol to determine maximum
+                                          tolerated
+</TABLE>
+
+Enrollee Benefit Schedule                                          Page 23 of 41
+
+<PAGE>
+
+<TABLE>
+<S>                                       <C>                                     <C>
+Inpatient Services, (cont'd)              dose, toxicity, safety, efficacy, or
+                                          efficacy in comparison to conventional
+                                          alternatives, or
+                                          3. Reliable Evidence shows the drug,
+                                          biological product, device, medical
+                                          treatment, or procedure is being
+                                          delivered or should be delivered
+                                          subject to the approval and
+                                          supervision of an Institutional Review
+                                          Board (IRB) as required and defined by
+                                          federal regulations, particularly
+                                          those of the U.S. Food and Drug
+                                          Administration or the Department of
+                                          Health and Human Services.
+
+B.      Emergency Services                Must use a PHP designated facility or   $10 per visit
+                                          provider for emergency care unless the  (waived if primary care physician
+Covered Services include visits to an     time to reach such facilities or        authorizes or if admitted)
+emergency room or other licensed          providers would mean the risk of
+facility if needed immediately due to an  permanent damage to patient's health.
+injury or illness and delay means risk
+of permanent damage to the enrollee's
+health.
+
+C.      Maternity Services and Newborn    Infant is covered for up to three (3)   NONE
+        Care                              days following birth or until the
+                                          infant is transferred to another
+Covered services include maternity and    medical facility, whichever occurs
+newborn care; prenatal and postnatal      first.
+care; initial inpatient care of
+adolescent participants, including        Coverage may be limited to the fee for
+nursery charges and initial pediatric or  vaginal deliveries.
+neonatal examination.
+
+D.      Organ Transplantation Services    Coverage is available for transplants   NONE
+                                          and medically related services if
+Covered services include pretransplant,   deemed necessary and appropriate
+transplant and postdischarge services     within the guidelines set by the Organ
+and treatment of complications after      Transplant Advisory Council or the
+transplantation.                          Bone Marrow Transplant Advisory
+                                          Council.
+</TABLE>
+
+Enrollee Benefit Schedule                                          Page 24 of 41
+
+<PAGE>
+
+<TABLE>
+<S>                                       <C>                                     <C>
+C.      Outpatient Services               Services must be provided directly by   No co-payment for well child care,
+                                          PHP or through pre-approved referrals.  preventive care or for routine vision
+                                                                                  and hearing screenings.
+Preventive, diagnostic, therapeutic,
+palliative care, and other services
+provided to an enrollee in the
+outpatient portion of a health facility   Routine hearing and screening must be   $3 per office visit
+licensed under chapter 395.               provided by primary care physician.
+
+Covered services include Well-child       Family planning limited to one annual
+care, including services recommended in   visit and one supply visit each ninety
+the Guidelines for Health Supervision of  days.
+Children and Youth as developed by
+Academy of Pediatrics; immunizations and  Chiropractic services shall be
+injections; health education counseling   provided in the same manner as in the
+and clinical services; family planning    Florida Medicaid program.
+services, vision screening; hearing
+screening; clinical radiologic,           Podiatric services are limited to one
+laboratory and other outpatient           visit per day totaling two visits per
+diagnostic tests; ambulatory surgical     month for specific foot disorders.
+procedures; splints and casts;            Routine foot care must be for
+consultation with and treatment by        conditions that result in circulatory
+referral physicians; radiation and        embarrassment or desensitization.
+chemotherapy; chiropractic services;
+podiatric services.
+                                          Dental services must be provided to an
+                                          oral surgeon for medically necessary
+                                          reconstructive dental surgery due to
+                                          injury.
+
+                                          Treatment for temporomandibular joint
+                                          (TMJ) disease is specifically
+                                          excluded.
+
+                                          Shall Not Include Experimental or
+                                          Investigational Procedures as defined
+                                          as a drug, biological product, device,
+                                          medical treatment or procedure that
+                                          meets any one of the following
+                                          criteria, as determined by the Plan:
+
+                                          1. Reliable Evidence shows the drug,
+                                          biological product, device, medical
+                                          treatment, or procedure when applied
+                                          to the circumstances of a particular
+                                          patient is the subject of ongoing
+                                          phase I, II or III clinical trials or
+                                          2. Reliable Evidence shows the drug,
+                                          biological product, device, medical
+                                          treatment or procedure when applied to
+                                          the circumstances of a particular
+                                          patient is under study with a written
+                                          protocol to determine maximum
+                                          tolerated dose, toxicity, safety,
+                                          efficacy, or efficacy in comparison to
+                                          conventional alternatives, or
+                                          3. Reliable Evidence shows the drug,
+                                          biological product, device, medical
+                                          treatment, or procedure is being
+</TABLE>
+
+Enrollee Benefit Schedule                                          Page 25 of 41
+
+<PAGE>
+
+<TABLE>
+<S>                                       <C>                                     <C>
+Outpatient Services, (cont'd)             delivered or should be delivered
+                                          subject to the approval and
+                                          supervision of an Institutional Review
+                                          Board (IRB) as required and defined by
+                                          federal regulations, particularly
+                                          those of the U.S. Food and Drug
+                                          Administration or the Department of
+                                          Health and Human Services.
+
+D.      Behavioral Health Services        All services must be provided directly
+                                          by PHP or upon approved referral.
+Covered services include inpatient and
+outpatient care for psychological or      Inpatient services are limited to not   INPATIENT: NONE
+psychiatric evaluation, diagnosis and     more than thirty inpatient days per
+treatment by a licensed mental health     contract year for psychiatric
+professional.                             admissions, or residential services in
+                                          lieu of inpatient psychiatric
+                                          admissions; however, a minimum of ten
+                                          of the thirty days shall be available
+                                          only for inpatient psychiatric
+                                          services when authorized by PHP
+                                          physician.
+
+                                          Outpatient services are limited to a    OUTPATIENT: $3 per visit
+                                          maximum of forty outpatient visits per
+                                          contract year.
+
+E.      Substance Abuse Services          All services must be provided directly  INPATIENT: NONE
+                                          by PHP or upon approved referral.
+Includes coverage for inpatient and
+outpatient care for drug and alcohol
+abuse including counseling and placement
+assistance.                               Inpatient services are limited to not
+                                          more than seven inpatient days per
+                                          contract year for medical
+                                          detoxification only and thirty days
+                                          residential services.
+
+Outpatient services include evaluation,   Outpatient visits are limited to a      OUTPATIENT: $3 per visit
+diagnosis and treatment by a licensed     maximum of forty visits per contract
+practitioner.                             year.
+</TABLE>
+
+Enrollee Benefit Schedule                                          Page 26 of 41
+
+<PAGE>
+
+<TABLE>
+<S>                                       <C>                                     <C>
+F.      Therapy Services                  All treatments must be performed        $3 per visit
+                                          directly or as authorized by PHP.
+Covered services include physical,
+occupational, respiratory and speech      Limited to up to twenty-four treatment
+therapies for short-term rehabilitation   sessions within a sixty day period per
+where significant improvement in the      episode or injury, with the sixty day
+enrollee's condition will result.         period beginning with the first
+                                          treatment.
+
+G.      Home Health Services              Coverage is limited to skilled nursing  $3 per visit
+                                          services only.
+
+Includes prescribed home visits by both   Meals, housekeeping and personal
+registered and licensed practical nurses  comfort items are excluded.
+to provide skilled nursing services on a
+part-time intermittent basis.
+                                          Services must be provided directly by
+                                          PHP.
+
+H.      Hospice Services                  Once a family elects to receive         $3 per visit
+                                          hospice care for an enrollee, other
+                                          services that treat the terminal
+Covered services include reasonable and   condition will not be covered.
+necessary services for palliation or
+management of an enrollee's terminal
+illness.                                  Services required for conditions
+                                          totally unrelated to the terminal
+                                          condition are covered to the extent
+                                          that the services are covered under
+                                          this contract.
+</TABLE>
+
+Enrollee Benefit Schedule                                          Page 27 of 41
+
+<PAGE>
+
+<TABLE>
+<S>                                       <C>                                     <C>
+I.      Nursing Facility Services         All admissions must be authorized by    NONE
+                                          PHP and provided by a PHP affiliated
+                                          facility.
+Covered services include regular nursing
+services, rehabilitation services, drugs  Participant must require and receive
+and biologicals, medical supplies, and    skilled services on a daily basis as
+the use of appliances and equipment       ordered by PHP physician.
+furnished by the facility.
+                                          The length of the enrollee's stay
+                                          shall be determined by the medical
+                                          condition of the enrollee in relation
+                                          to the necessary and appropriate level
+                                          of care, but is no more than 100 days
+                                          per contract year.
+
+                                          Room and board is limited to
+                                          semi-private accommodations unless a
+                                          private room is considered medically
+                                          necessary or semi-private
+                                          accommodations are not available.
+
+                                          Specialized treatment centers and
+                                          independent kidney disease treatment
+                                          centers are excluded.
+
+                                          Private duty nurses, television, and
+                                          custodial care are excluded.
+
+                                          Admissions for rehabilitation and
+                                          physical therapy are limited to
+                                          fifteen days per contract year.
+
+J.      Durable Medical Equipment and     Equipment and devices must be provided  NONE
+        Prosthetic Devices                by authorized PHP supplier.
+
+Equipment and devices that are medically  Covered prosthetic devices include
+indicated to assist in the treatment of   artificial eyes and limbs, braces, and
+a medical condition and specifically      other artificial aids.
+prescribed as medically necessary by
+enrollee's PHP physician.                 Low vision and telescopic lenses are
+                                          not included.
+
+                                          Hearing aids are covered only when
+                                          medically indicated to assist in the
+                                          treatment of a medical condition.
+</TABLE>
+
+Enrollee Benefit Schedule                                          Page 28 of 41
+
+<PAGE>
+
+<TABLE>
+<S>                                       <C>                                     <C>
+K.      Refractions                       Enrollee must have failed vision        $3 per visit
+                                          screening by primary care physician.
+Examination by a PHP optometrist to
+determine the need for and to prescribe   Corrective lenses and frames are        $10 for corrective lenses
+corrective lenses as medically            limited to one pair every two years
+indicated.                                unless head size or prescription
+                                          changes. Coverage is limited to
+                                          Medicaid frames with plastic or SYL
+                                          non-tinted lenses.
+
+L.      Pharmacy                          Covered drugs are limited to the        $3 per prescription for up to a 31-day
+                                          Florida Medicaid formulary with         supply
+                                          generic substitution.
+Prescribed drugs for the treatment of
+illness or injury or injury.              Brand name products are covered if a
+                                          generic substitution is not available
+                                          or where the prescribing physician
+                                          indicates that a brand name is
+                                          medically necessary.
+
+                                          All medications must be dispensed
+                                          through PHP or a PHP designated
+                                          pharmacy.
+
+                                          All prescriptions must be written by
+                                          the participant's primary care
+                                          physician, PHP approved specialist or
+                                          consultant physician.
+
+M.      Transportation Services           Must be in response to an emergency     $10 per service
+                                          situation.
+
+Emergency transportation as determined
+to be medically necessary in response to
+an emergency situation.
+</TABLE>
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE                                 Page 29 of 41
+
+<PAGE>
+
+                                                                       EXHIBIT D
+
+                    WORKER'S COMPENSATION, THIRD PARTY CLAIM
+                    PERSONAL INJURY PROTECTION BENEFITS, AND
+                            COORDINATION OF BENEFITS
+
+A.      WORKER'S COMPENSATION
+
+        Worker's compensation benefits are primary to all benefits which may be
+        provided pursuant to this contract. In the event PHP provides services
+        or benefits to a participant who is entitled to worker's compensation
+        benefits, PHP shall complete and submit to the appropriate carrier, such
+        forms, assignments, consents and releases as are necessary to enable PHP
+        to obtain payment, or reimbursement, under the worker's compensation
+        law.
+
+B.      THIRD PARTY CLAIMS
+
+        In the event PHP provides medical services or benefits to participants
+        who suffer injury, disease or illness by virtue of the negligent act or
+        omission of a third party, PHP shall be entitled to reimbursement from
+        the participant, at the prevailing rate, for the reasonable value of the
+        services or benefits provided. PHP shall not be entitled to
+        reimbursement in excess of the participant's monetary recovery for
+        medical expenses provided, from the third party.
+
+C.      NO-FAULT. PERSONAL INJURY PROTECTION AND MEDICAL PAYMENTS COVERAGE
+
+        As noted in the Florida Statutes (F.S. 641.31(8)), automobile no-fault,
+        personal injury protection, and medical payments insurance, maintained
+        by or for the benefit of the participant, shall be primary to all
+        services or benefits which may be provided pursuant to this contract. In
+        the event PHP provides services or benefits to a participant who is
+        entitled to the aforesaid automobile insurance benefits, the
+        parent/guardian or participant shall complete and submit to PHP, or to
+        the automobile insurance carrier, such forms, assignments, consents and
+        releases as are necessary to enable PHP to obtain payment or
+        reimbursement from such automobile insurance carrier.
+
+D.      COORDINATION OF BENEFITS AMONG HEALTH INSURERS
+
+        PHP shall coordinate benefits in accordance with NAIC principles as may
+        be amended from time to time. If any benefits to which a participant is
+        entitled under this contract are also covered under any other group
+        health benefit plan or insurance policy, the benefits hereunder shall be
+        reduced to the extent that benefits are available to participant under
+        such other plan or policy whether or not a claim is made for the same,
+        subject to the following:
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE
+
+<PAGE>
+
+                                                                       EXHIBIT D
+                                                                     (Continued)
+
+1.      The rules establishing the order of benefit determination between this
+        contract and other plan covering the participant on whose behalf a claim
+        is made are as follows:
+
+        (a)     The benefits of a policy or plan which covers the person as an
+                employee, member, or subscriber, other than as a dependent are
+                determined before those of the policy or plan which covers the
+                person as a dependent.
+
+        (b)     Except as stated in paragraph C, when two or more policies or
+                plans cover the same child as a dependent of different parents:
+
+                (l)The benefits of the policy or plan of the parent whose
+                birthday, excluding year of birth, falls earlier in a year are
+                determined before those of the policy of the parent whose
+                birthday, excluding year of birth, falls later in that year; but
+
+                (2)If both parents have the same birthday, the benefits of the
+                policy or plan which covered the parent for a longer period of
+                time are determined before those of the policy or plan which
+                covered the parent for shorter period of time. However, if a
+                policy or plan subject to the rule based on the birthday of the
+                parents as stated above coordinates with an out-of-state policy
+                or plan which contains provisions under the benefits of a policy
+                or a person as a dependent of a male are determined before those
+                of a policy or plan which covers the person as a dependent of a
+                female and if, as a result, the policies or plans do not agree
+                in the order of benefits, the provisions or the other policy or
+                plan shall determine the order of benefits.
+
+        (c)     If two or more policies or plans cover a dependent child of
+                divorced or separated parents, benefits for the child are
+                determined in this order:
+
+                (l)First, the policy or plan of the parent with custody of the
+                child;
+
+                (2)Second, the policy or plan of the spouse of the parent with
+                custody of the child, and
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE
+
+<PAGE>
+
+                                                                       EXHIBIT D
+                                                                     (Continued)
+
+                (3)Third, the policy or plan of the parent not having custody of
+                the child. However, if the specific terms of a court decree
+                state that one of the parents is responsible for the health care
+                expenses of the child and of the entity obliged to pay or
+                provide the benefits of the policy or plan or that parent has
+                actual knowledge of those terms, the benefits of that policy are
+                determined first. This does not apply with respect to any claim
+                determination period or plan or policy year during which any
+                benefits are actually paid or provided before the entity has
+                that knowledge.
+
+        (d)     The benefits of a policy or plan which covers a person as an
+                employee which is neither laid off nor retired, or as that
+                employee's dependent, are determined before those of a policy or
+                plan which covers that person as a laid off or retired employee
+                or as that employee's dependent. If the other policy or plan is
+                not subject to this rule, and if, as result, the policies or
+                plans do not agree on the order of benefits, this paragraph
+                shall not apply.
+
+        (e)     If none of the rules in paragraph a, paragraph b, paragraph c,
+                or paragraph d, determine the order of benefits of the policy or
+                plan which covered an employee, member or subscriber for a
+                longer period of time are determined before those of the policy
+                or plan which covered that person for the shorter period of
+                time.
+
+2.      None of the above rules as to coordination of benefits shall limit the
+        participant's right to receive direct health services hereunder.
+
+3.      Any participant claiming benefits under the contract shall furnish to
+        PHP all information deemed necessary by it to implement this provision.
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE
+
+<PAGE>
+
+                                                                       EXHIBIT E
+
+                                ACCESS STANDARDS
+
+PHP shall maintain a medical staff, under contract, sufficient to permit
+reasonably prompt medical service to all participants in accordance with the
+following:
+
+1.      Geographical Access:
+
+        Geographical access to family practice physicians, pediatric physicians,
+        or ARNP's, experienced in child health care, of approximately twenty
+        (20) minutes driving time from residence to provider, except that this
+        driving time limitation shall be reasonably extended in those areas
+        where such limitation with respect to rural residence is unreasonable.
+        In such instance, PHP shall provide access for urgent care through
+        contracts with nearest providers.
+
+2.      Timely Treatment:
+
+        Timely treatment by providers, such that the participant shall be seen
+        by a provider in accordance with the following:
+
+        A.      Emergency care shall be provided immediately;
+
+        B.      Urgently needed care shall be provided within twenty-four (24)
+                hours;
+
+        C.      Routine care of patients who do not require emergency or
+                urgently needed care shall be provided within seven (7) calendar
+                days;
+
+        D.      Physical examinations shall be provided within four (4) weeks of
+                request for appointment; and
+
+        E.      Follow-up care shall be provided as medically appropriate.
+
+For the purposes of this section, the following definitions shall apply:
+
+        Emergency care is that required for the treatment of an injury or acute
+        illness which, if not treated immediately, could reasonably result in
+        serious or permanent damage to the patient's health.
+
+        Urgently needed care is that required within a twenty-four (24) hour
+        period to prevent a condition from requiring emergency care.
+
+        Routine care is that level of care which can be delayed without
+        anticipated deterioration in the patient's medical condition for a
+        period of seven (7) calendar days.
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE
+
+<PAGE>
+
+                                                                       EXHIBIT E
+                                                                     (Continued)
+
+By utilization of the foregoing standards, FHKC does not intend to create
+standards of care or access different from those which are deemed acceptable
+within the PHP service area. Rather FHKC intends that the provider timely and
+appropriately respond to patient care needs, as they are presented, in
+accordance with standards of care existing within the service area. In applying
+the foregoing standards, the provider shall give due regard to the level of
+discomfort and anxiety of the patient and/or parent.
+
+In the event FHKC determines that PHP, or its providers, has failed to meet the
+access standards herein set forth, FHKC shall provide PHP with written notice of
+non-compliance. Such notice can be provided via facsimile or other means,
+specifying the failure in such detail as will reasonably allow PHP to
+investigate and respond. Failure of PHP to obtain reasonable compliance or
+acceptable community care under the following conditions shall constitute a
+breach of this agreement:
+
+        A.      immediately upon receipt of notice for emergency or urgent
+                problem; or
+
+        B.      within ten (10) days of receipt of notice for routine visit
+                access.
+
+Such breach shall entitle FHKC to such legal and equitable relief as may be
+appropriate. In particular, FHKC may direct its participants to obtain such
+services outside the PHP provider network. PHP shall be financially responsible
+for all services under this provision.
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE
+
+<PAGE>
+
+                                                                       EXHIBIT F
+
+                    GRIEVANCE, ARBITRATION AND LEGAL PROCESS
+
+A.      GRIEVANCE AND ARBITRATION
+
+        Complaints or disputes which do not involve allegations of "medical
+        negligence" against a health care provider as defined in Chapter 768,
+        Florida Statutes, shall be subject to grievance and arbitration as
+        hereinafter set forth:
+
+        1.      Initiation of Complaint:
+
+                a.      If a participant's complaint cannot be resolved
+                        satisfactorily on an informal basis, the participant
+                        shall complete and submit to Physicians Health Care
+                        Plan, a grievance form recording the participant's name,
+                        address, telephone number, client number and as many
+                        facts as possible related to the problem (date, time,
+                        people, circumstances, etc.). The completed form shall
+                        be filed with the Physicians Health Care Plan Member
+                        Relations Counselor (MRC) within sixty (60) days from
+                        the date the problem occurred.
+
+                b.      A written response shall be made acknowledging receipt
+                        and filing of said form by the MRC within two (2)
+                        working days from the date written grievance was
+                        received.
+
+                c.      The Executive Director and Medical Director of
+                        Physicians Health Care Plan, or their designee(s) shall
+                        review the written grievance, conduct a fact-finding
+                        examination, and issue a decision in writing to all
+                        parties concerned, within ten (10) working days from
+                        date the written grievance was received by the MRC.
+
+        2.      Appeal to the Grievance Committee:
+
+                a.      If any participant declines to accept the decision of
+                        Executive Director and Medical Director, that
+                        participant has fourteen (14) working days within which
+                        to file a formal written appeal to the Grievance
+                        Committee.
+
+                b.      The composition of the Grievance Committee shall comply
+                        with appropriate state and federal regulations.
+
+                c.      The Grievance Committee shall be convened within thirty
+                        (30) days of receipt of the written appeal. The
+                        complaining participant shall present, either in person
+                        or in writing, his/her complaint. Upon completion of the
+                        participant's presentation, the Grievance Committee
+                        shall have seven (7)
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE
+
+<PAGE>
+
+                        days in which to deliberate and issue a formal written
+                        decision. The deliberations of the Grievance Committee
+                        shall be closed to both the complaining participant and
+                        the public.
+
+                d.      Any decision to resolve the complaint that involves
+                        distribution of Physicians Health Care Plan monies is
+                        subject to confirmation and ratification by Physicians
+                        Health Care Plan's Executive Committee or the Board of
+                        Directors.
+
+        3.      The participant always has the right to appeal to the FHKC
+                and/or the Statewide Subscriber Assistance Program prior to
+                entering arbitration or legal process.
+
+        4.      Arbitration:
+
+                If a participant refuses to accept the decision of the Grievance
+                Committee, or the decision of the Physicians Health Care Plan
+                Executive Committee or the Board of Directors, or the Statewide
+                Subscriber Assistance Program as provided above, such
+                participant shall file a claim for binding arbitration as
+                follows:
+
+                a.      Participant shall initiate the claim by serving on
+                        Physicians Health Care Plan, by registered mail, a
+                        notice of the existence and nature of claims, the remedy
+                        sought, the amount claimed, and a demand for
+                        arbitration. A copy of such letter shall be sent to
+                        Physicians Health Care Plan at the address listed in
+                        Section 4-7. Within thirty (30) calendar days after
+                        initial notice to Physicians Health Care Plan,
+                        participant and Physicians Health Care Plan shall each
+                        designate an arbitrator and notify the other of that
+                        designation. Within thirty (30) days after designation
+                        of the arbitrators and payments of the initial deposits,
+                        the two arbitrators shall select a neutral arbitrator,
+                        and the three arbitrators shall hold a hearing within
+                        210 days from the date of initial designation, at a time
+                        and place designated pursuant to paragraph g below. If
+                        the claimant and respondent agree, in writing, the
+                        arbitration may be conducted by a single arbitrator.
+
+                b.      All claims based upon the same incident, transaction or
+                        related circumstances shall be arbitrated in one
+                        proceeding, and any claim based upon the incident and
+                        not submitted to arbitration shall be waived and forever
+                        barred to any claimant.
+
+                c.      The arbitrators shall have jurisdiction only over
+                        parties ("Respondent") actually served or who submit
+                        voluntarily to their jurisdiction.
+
+                d.      The arbitrators shall not have jurisdiction to determine
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE
+
+<PAGE>
+
+                        whether Physicians Health Care Plan is liable for the
+                        professional negligence of any physician providing
+                        services under the contract.
+
+                e.      A claim shall be waived and forever barred if, on the
+                        date notice thereof is received by the party served, the
+                        claim, if it were asserted in a civil action filed on
+                        that day, would be barred by the applicable statute of
+                        limitations of the state in which the cause for action
+                        arose. Such determination shall be made by the
+                        arbitrators.
+
+                f.      Initial service shall be by registered mail, postage
+                        prepaid. Any subsequent notices or other papers required
+                        to be served in the course of arbitration proceedings,
+                        shall be directed to the arbitrators at the address or
+                        addresses which they designate by written notice to the
+                        other party.
+
+                g.      The neutral arbitrator shall designate the time and
+                        place for the hearing in a county in which an alleged
+                        wrongful act or omission allegedly occurred, except that
+                        if the claim involves both parties, evidence or
+                        witnesses located in more than one country or state, the
+                        arbitrators may select a time and place of hearing to
+                        facilitate presentation of evidence necessary or
+                        desirable for arbitration.
+
+                h.      Modifications of any matter herein provided for may be
+                        made by mutual agreement of the parties and the neutral
+                        arbitrator. With respect to any matter not expressly
+                        provided for herein, the arbitration shall be governed
+                        by Florida law.
+
+                I.      The decision of the arbitrators shall be enforceable in
+                        a court of competent jurisdiction.
+
+B.      LEGAL PROCESS
+
+        Complaints or disputes which do involve allegations of "medical
+        negligence" against a "health care provider" as defined in Chapter 768,
+        Florida Statutes, shall be subject to the provision of that chapter as
+        may be amended from time to time.
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE
+
+<PAGE>
+
+                                                                       EXHIBIT G
+
+                              ELIGIBILITY STANDARDS
+
+                        PARTICIPANT ELIGIBILITY CRITERIA
+
+The following eligibility criteria for participation in the Healthy Kids Program
+must be met:
+
+1.      The participants must be children who are age 5 through 18.
+
+2.      All enrolled participants must have had no comparable health insurance
+        coverage at the time of program enrollment.
+
+3.      Participants must not be enrolled in or eligible for Medicaid, Medicare,
+        the Children's Medical Services program or other comparable governmental
+        sponsored health benefits program.
+
+4.      In addition to the open enrollment period, new students enrolling in the
+        Orange, Osceola or Seminole County School Districts may be eligible for
+        the School Enrollment Based Insurance Program. In order to become a
+        participant, a student must meet all other eligibility standards and
+        must apply for coverage within thirty (30) days of entry into the
+        Orange, Osceola or Seminole County School Systems.
+
+5.      In addition to the open enrollment period otherwise eligible
+        participants may enroll in the program upon submission of proof of
+        involuntary termination of comparable health insurance coverage,
+        including termination of eligibility for Medicaid.
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE
+
+<PAGE>
+
+                                                                       EXHIBIT H
+
+                             REPORTING REQUIREMENTS
+
+PHP shall provide the following reports and data tapes to FHKC according to the
+time schedules detailed below. This information shall include all services
+provided by PHP's subcontractors.
+
+I.      Data Tape
+
+        A quarterly data tape shall be prepared that will contain the following
+        data fields. The tape shall reflect claims and encounters entered during
+        the quarter and shall be delivered to FHKC according to the time table
+        listed below. PHP shall also provide quarterly tapes that reflect claims
+        run-off once the contract between PHP and FHKC terminates.
+
+                REQUIRED DATA FIELDS TO BE CAPTURED
+
+        .       Provider's name, address and tax I.D. number (and payee's group
+                number if applicable)
+
+        .       Patient's name, address, social security number, I.D. number,
+                birth date, and sex
+
+        .       Third party payor information, including amount(s) paid by other
+                payor(s).
+
+        .       Primary and secondary diagnosis code(s) and treatment(s) related
+                to diagnosis
+
+        .       Date(s) of service
+
+        .       Procedure code(s)
+
+        .       Unit(s) of service
+
+        .       Total charge(s)
+
+        .       Total payment(s)
+
+        Additional required hospital fields include the following:
+
+        .       Date and type of admission (emergency, outpatient, inpatient,
+                newborn, etc.)
+
+        .       For inpatient care: covered days and date of discharge
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE
+
+<PAGE>
+
+                                                                       EXHIBIT H
+                                                                     (Continued)
+
+        Specific pharmacy fields include:
+
+        .       Pharmacy name and tax I.D. number
+
+        .       Other payor information
+
+        .       Rx number and date filled
+
+        .       National drug code, manufacturer number, item number, package
+                size, quantity, days supply
+
+        .       Prescriber's Florida Department of Professional Regulations
+                number
+
+                REQUIRED TAPE FORMAT SPECIFICATIONS
+
+        The tape format is as follows:
+
+        .       1600 BPI
+
+        .       EBCDIC
+
+        .       9 Track
+
+        .       no labels
+
+        .       each file not to exceed 100 megs in size
+
+        .       fixed record length
+
+                         TIME TABLE FOR DELIVERY OF TAPE
+
+For encounters and claims processed during:          Claims tape due to FHKC by:
+--------------------------------------------------------------------------------
+                January 1 - March 31                         April 15
+--------------------------------------------------------------------------------
+                April 1 - June 30                            July 15
+--------------------------------------------------------------------------------
+                July 1 - September 30                        October 15
+--------------------------------------------------------------------------------
+                October 1 - December 31                      January 15
+
+PHP - ORANGE, OSCEOLA AND SEMINOLE
+
+<PAGE>
+
+                                                                       EXHIBIT H
+                                                                     (Continued)
+II.     Utilization and Cost Information
+
+        The following information is to be 1) provided monthly for the current
+        month as well as year-to-date; and 2) delivered by the last day of each
+        month for services rendered during the prior month.
+
+        .       Member months
+
+        .       Hospital admissions per 1000
+
+        .       Hospital bed days per 1000
+
+        .       Surgeries per 1000
+
+        .       Primary care physician visits per 1000
+
+        .       Specialist/referral visits per 1000
+
+        .       Emergency room visits per 1000
+
+        .       Average length of hospital stay
+
+        .       Listing of hospital admissions, including admission and
+                discharge date, diagnosis, type of service, name of hospital,
+                and amount paid
+
+        .       Listing of outpatient procedures, including date, diagnosis,
+                procedure, and name of hospital
+
+        .       Average cost per hospital day
+
+        .       Average cost per hospital admission
+
+PHP - ORANGE, OSCEOLA AND SEM1NOLE
+
+<PAGE>
+
+                                  AMENDMENT #1
+
+                        FLORIDA HEALTHY KIDS CORPORATION
+                          PHYSICIANS HEALTH CARE PLANS
+                       ORANGE, OSCEOLA AND SEMINOLE COUNTY
+
+                        EFFECTIVE DATE - DECEMBER 1, 2001
+
+<PAGE>
+
+                                                               Orange, Osceola &
+                                                                        Seminole
+
+                                  AMENDMENT #1
+                             TO THE CONTRACT BETWEEN
+                      THE FLORIDA HEALTHY KIDS CORPORATION
+                                       AND
+                          PHYSICIANS HEALTH CARE PLANS
+
+THIS AMENDMENT, entered into between the Florida Healthy Kids Corporation,
+hereinafter referred to as "FHKC" and PHYSICIANS HEALTH CARE PLANS, hereinafter
+referred to as "PHP", amends its contract dated November 16, 1998.
+
+WHEREAS, the contract between FHKC and PHP allows for amendments to said
+contract by mutual written consent of the parties;
+
+WHEREAS, the federal regulations governing programs such as FHKC became
+effective August 24, 2001 and this Amendment will effectuate the changes
+required by said federal regulations;
+
+THEREFORE, be it resolved that the Parties agree to the following amendment of
+their contract:
+
+I.      Section 1-1 is amended to read:
+        1-1     Definitions
+                As used in this agreement, the term:
+                A.      "COMPREHENSIVE HEALTH CARE SERVICES" means those
+                        services, medical equipment, and supplies to be provided
+                        by PHP in accordance with standards set by FHKC and
+                        further described in Exhibit C.
+                B.      "THE PROGRAM" shall mean the project established by FHKC
+                        pursuant to Section 624.91, Florida Statutes and
+                        specified herein.
+                C.      "PARTICIPANT" means those individuals meeting FHKC
+                        standards of eligibility and who have been enrolled in
+                        the program.
+                D.      "PHP PROVIDERS" shall mean those providers set forth in
+                        the participant's handbook as from time to time amended.
+                E.      "CO-PAYMENT" or "COST SHARING" is the payment required
+                        of the participant at the time of obtaining service. In
+                        the event the participant fails to pay the required
+                        co-payment, PHP may decline to provide non-emergency or
+                        non-urgently needed care unless the participant meets
+                        the conditions for waiver of co-payments described in
+                        Exhibit C.
+                F.      "FRAUD" shall mean:
+                        1)      Any FHKC participant or person who knowingly:
+
+                                a)      Fails, by any false statement,
+                                        misrepresentation, impersonation, or
+                                        other fraudulent means, to disclose a
+                                        material fact used in making a
+
+PHP/Orange, Osceola, Seminole                                       Page 1 of 19
+Effective Date: December 1, 2001
+                [ILLEGIBLE]
+
+<PAGE>
+
+                                        determination as to such person's
+                                        qualification to receive comprehensive
+                                        health care services coverage under the
+                                        FHKC program;
+                                b)      Fails to disclose a change in
+                                        circumstances in order to obtain or
+                                        continue to receive comprehensive health
+                                        care services coverage under the FHKC
+                                        program to which he or she is not
+                                        entitled or in an amount larger than
+                                        that which he or she is entitled;
+                                c)      Aids and abets another person in the
+                                        commission of any such act.
+                        2)      Any person or FHKC participant who:
+                                a)      Uses, transfers, acquires, traffics,
+                                        alters, forges, or possess, or
+                                b)      Attempts to use, transfer, acquire,
+                                        traffic, alter, forge or possess, or
+                                c)      Aids and abets another person in the
+                                        use, transfer, acquisition, traffic,
+                                        alteration, forgery or possession of a
+                                        FHKC identification card.
+
+                G.      "STATE CHILDREN'S HEALTH INSURANCE PROGRAM (SCHIP)" OR
+                        "TITLE XXI" shall mean the program created by the
+                        federal Balanced Budget Act of 1997 as Title XXI of the
+                        Social Security Act.
+
+II.     Section 3-2- Access to Care is amended to read:
+
+        3-2-1   Access and Appointment Standards
+
+        PHP agrees to meet or exceed the appointment and geographic access
+        standards for pediatric care existing in the community and as
+        specifically provided for in Exhibit E attached hereto and incorporated
+        herein as a part of this Agreement.
+
+        In the event PHP's provider network is unable to provide those medically
+        necessary benefits specified in Exhibit C, for any reason, except force
+        majeure, PHP shall be responsible for those contract benefits obtained
+        from providers other than PHP for eligible FHKC participants. In the
+        event PHP fails to meet those access standards set forth in Exhibit E,
+        FHKC may, after following procedures set forth in Exhibit E, direct its
+        participants to obtain such contract benefit from other providers and
+        may contract for such services. All financial responsibility related to
+        services received under these specific circumstances shall be assumed by
+        PHP.
+
+        3-2-2   Integrity of Professional Advice to Enrollees
+
+        PHP ensures no interference with the advice of health care professionals
+        to enrollees and that information about treatments will be provided to
+        enrollees and their families in the appropriate manner.
+
+PHP/Orange, Osceola, Seminole                                       Page 2 of 19
+Effective Date: December 1, 2001
+
+<PAGE>
+
+        PHP agrees to comply with any federal regulations related to physician
+        incentive plans and any disclosure requirements related to such
+        incentive plans.
+
+III.    Section 3-3 is amended to read:
+
+        3-3     Fraud and Abuse (renumber subsequent sections)
+
+        PHP ensures that it has appropriate measures in place to ensure against
+        fraud and abuse. PHP shall report to FHKC any information on violations
+        by subcontractors or participants that pertain to enrollment or the
+        payment and provision of health care services under this Agreement.
+
+IV.     Section 3-9 is amended to read:
+
+        PHP will issue participant certificates, identification cards, provider
+        network listings and handbooks to all FHKC designated participants
+        within five business days of receipt of an eligibility tape. Except as
+        specifically provided in Sections 3-8 and 3-11 hereof, all participant
+        rights and benefits shall terminate upon termination of this Agreement
+        or upon termination of participation in the program. All participant
+        handbooks and member materials must be approved by FHKC prior to
+        distribution.
+
+V.      Section-3-12 is amended to read:
+
+        Grievances and Complaints
+        PHP agrees to provide all FHKC participants a Grievance Process and the
+        grievance and complaint procedures shall be governed by federal and
+        state regulations issued for SCHIP, and the following additional rules
+        and guidelines:
+
+        A.      There must be sufficient support staff (clerical and
+                professional) available to process grievances.
+        B.      Staff must be educated concerning the importance of the
+                procedure and the rights of the enrollee.
+        C.      Someone with problem solving authority must be part of the
+                grievance procedure.
+        D.      In order to initiate the grievance process, such grievance must
+                be filed in writing.
+        E.      The parties will provide assistance to grievant during the
+                grievance process to the extent FHKC deems necessary.
+        F.      Grievances shall be resolved within sixty days from initial
+                filing by the participant, unless information must be collected
+                from providers located outside the authorized service area or
+                from non-contract providers. In such exceptions, an additional
+                extension shall be authorized upon establishing good cause.
+        G.      A record of informal complaints received that are not grievances
+                shall be maintained and shall include the date, name, nature of
+                the complaint and the disposition.
+        H.      The grievance procedures must conform with the federal
+                regulations governing the State Children's Health Insurance
+                Program (SCHIP).
+        I.      A quarterly report of all grievances involving FHKC participants
+                must be submitted to FHKC. The report should list the number of
+                grievances received during the quarter and the disposition of
+                those grievances. PHP
+
+PHP/Orange, Osceola, Seminole                                       Page 3 of 19
+Effective Date: December 1, 2001
+
+<PAGE>
+
+                shall also inform FHKC of any grievances that are referred to
+                the Statewide Subscriber Assistance Panel prior to their
+                presentation at the panel.
+
+VI.     Section 3-14 is amended to read:
+        3-14    Notification
+
+        A.      PHP shall immediately notify FHKC of:
+
+                1.      Any judgment, decree, or order rendered by any court of
+                        any jurisdiction or Florida Administrative Agency
+                        enjoining PHP from the sale or provision of service
+                        under Chapter 641, Part II, Florida Statutes.
+                2.      Any petition by PHP in bankruptcy or for approval of a
+                        plan of reorganization or arrangement under the
+                        Bankruptcy Act or Chapter 631, Part I, Florida Statutes,
+                        or an admission seeking the relief provided therein.
+                3.      Any petition or order of rehabilitation or liquidation
+                        as provided in Chapters 631 or 641, Florida Statutes.
+                4.      Any order revoking the Certificate Of Authority granted
+                        to PHP.
+                5.      Any administrative action taken by the Department of
+                        Insurance or Agency for Health Care Administration in
+                        regard to PHP.
+                6.      Any medical malpractice action filed in a court of law
+                        in which a FHKC participant is a party (or in whose
+                        behalf a participant's allegations are to be litigated).
+                7.      The filing of an application for change of ownership
+                        with the Florida Department of Insurance.
+                8.      Any change in subcontractors who are providing services
+                        to FHKC participants.
+
+        B.      Monthly Notification Requirements
+                PHP shall inform FHKC monthly of any changes to the provider
+                network that differ from the network presented in the original
+                bid proposal, including discontinuation of any primary care
+                providers or physician practice associations or groups with
+                Healthy Kids enrollees on their panels. FHKC may require PHP to
+                provide FHKC with evidence that its provider network continues
+                to meet the access standards described in Exhibit E.
+
+VII.    Section 3-18 is amended to read:
+
+        3-18    Medical Records Requirements
+
+        PHP shall require providers to maintain medical records for each
+        participant under this Agreement in accordance with applicable state and
+        federal law.
+
+        3-18-1  Medical Quality Review and Audit
+
+                FHKC shall conduct an independent medical quality review of PHP
+                at the conclusion of the first twelve months of coverage. The
+                independent auditor's report will include a written review and
+                evaluation of care
+
+PHP/Orange, Osceola, Seminole                                       Page 4 of 19
+Effective Date: December 1, 2001
+
+<PAGE>
+
+                provided to FHKC participants in Orange, Osceola, and Seminole
+                County. Additional reviews may also be conducted after
+                completion of the baseline review at the discretion of FHKC. PHP
+                agrees to cooperate in all evaluation efforts conducted or
+                authorized by FHKC.
+
+        3-18-2  Privacy of Medical Records
+
+                PHP will ensure that all individual medical records will be
+                maintained with confidentiality in accordance with state and
+                federal guidelines. PHP agrees to abide by all applicable state
+                and federal laws governing the confidentiality of minors and the
+                privacy of individually identifiable health information.
+
+        3-18-3  Requests by Participants for Medical Records
+
+                PHP will ensure that each participant may request and receive a
+                copy of records and information pertaining to that enrollee in a
+                timely manner. Additionally, the participant may request that
+                such records be corrected or supplemented.
+
+VIII.   Section 3-26 is amended to read:
+
+        3-26    Reporting Requirements
+
+        PHP agrees to provide on a timely basis the quarterly statistical
+        reports detailed in Exhibit H to FHKC that FHKC must have to satisfy
+        reporting requirements. PHP also agrees to attest to the accuracy,
+        completeness and truthfulness of claims and payment data that are
+        submitted to FHKC under penalty of perjury. Access to participant claims
+        data by FHKC, the State of Florida, the federal Centers for Medicaid and
+        Medicare Services, the Department of Health and Human Services Inspector
+        General will be allowed to the extent allowed under any state privacy
+        protections.
+
+IX.     A new section 4-4 is created and subsequent sections are renumbered as
+        follows:
+
+        4-4     Relation to Other Laws (renumber subsequent sections)
+
+                4-4-1   Health Insurance Portability and Accountability Act
+                        (HIPAA)
+                Coverage offered under this Agreement is considered creditable
+                coverage for the purposes of part 7 of subtitle B of title II of
+                ERISA, title XXVII of the Public Health Services Act and
+                subtitle K of the Internal Revenue Code of 1986.
+                Additionally, PHP agrees to comply with all other applicable
+                provisions of the HIPAA.
+
+                4-4-2   Mental Health Parity Act (MHPA)
+                PHP agrees to comply with the requirements of the Mental Health
+                Parity Act of 1996 regarding parity in the application of annual
+                and lifetime dollar limits to mental health benefits in
+                accordance with 45 CFR 146.136.
+
+        4-4-3   Newborns and Mothers Health Protection Act of 1996 (NMHPA)
+
+PHP/Orange, Osceola, Seminole                                       Page 5 of 19
+Effective Date: December 1, 2001
+
+<PAGE>
+
+                PHP agrees to comply with the requirements of the NMHPA of 1996
+                regarding requirements for minimum hospital stays for mothers
+                and newborns in accordance with 45 CFR 146.130 and 148.170.
+
+X.      Section 4-4 is renumbered and amended to read:
+
+        4-4     Independent Contractor
+
+        The relationship of PHP to the FHKC shall be solely that of an
+        independent contractor. As an independent contractor, PHP agrees to
+        comply with the following provisions:
+
+                a.      Title VI of the Civil Rights Act of 1964, as amended, 42
+                        U.S.C. 2000d et seq., which prohibits discrimination on
+                        the basis of race, color, or national origin.
+                b.      Section 504 of the Rehabilitation Act of 1973, as
+                        amended, 29 U.S.C. 794, which prohibits discrimination
+                        on the basis of handicap.
+                c.      Title IX of the Education Amendments of 1972, as amended
+                        29 U.S.C. 601 et seq., which prohibits discrimination on
+                        the basis of sex.
+                d.      The Age Discrimination Act of 1975, as amended, 42
+                        U.S.C. 6101 et seq., which prohibits discrimination on
+                        the basis of age.
+                e.      Section 654 of the Omnibus Budget Reconciliation Act of
+                        1981, as amended, 42 U.S.C. 9848, which prohibits
+                        discrimination on the basis of race, creed, color,
+                        national origin, sex, handicap, political affiliation or
+                        beliefs.
+                f.      The American with Disabilities Act of 1990, P.L.
+                        101-336, which prohibits discrimination on the basis of
+                        disability and requires reasonable accommodation for
+                        persons with disabilities.
+                g.      Section 274A(e) of the Immigration and Nationalization
+                        Act, FHKC shall consider the employment by any
+                        contractor of unauthorized aliens a violation of this
+                        Act. Such violation shall be cause for unilateral
+                        cancellation of this Agreement.
+                h.      OMB Circular A-l10 (Appendix A-4) which identifies
+                        procurement procedures which conform to applicable
+                        federal law and regulations with regard to debarment,
+                        suspension, ineligibility, and involuntary exclusion of
+                        contracts and subcontracts and as contained in Exhibit I
+                        of this Agreement. Covered transactions include
+                        procurement contracts for services equal to or in excess
+                        of $100,000 and all non-procurement transactions.
+                i.      The federal regulations implementing the State
+                        Children's Health Insurance Program (SCHIP) as found in
+                        42 CFR Parts 431,433,435,436 and 457 and any subsequent
+                        revisions to the regulation.
+
+PHP/Orange, Osceola, Seminole                                       Page 6 of 19
+Effective Date: December 1, 2001
+
+<PAGE>
+
+XI.     Section 4-8 is amended to read as follows:
+
+        4-8     Governing Law
+
+        This Agreement shall be construed and governed in accordance with the
+        laws of the State of Florida. In the event any action is brought to
+        enforce the provisions of this Agreement, venue shall be in Leon County,
+        Florida.
+
+XII.    Exhibits B, C, E and G are hereby amended as attached and incorporated
+        into the Agreement.
+
+XIII.   Exhibit F is removed from the Agreement and the remaining Amendments are
+        renumbered.
+
+XIV.    Exhibits I and J are new Exhibits to the existing Agreement between FHKC
+        and PHP and are hereby attached and incorporated into the Agreement.
+
+XV.     The effective date of this Amendment is December 1, 2001.
+
+All provisions in the contract and any attachments thereto in conflict with this
+amendment shall be and are hereby changed to conform with this amendment.
+
+All provisions not in conflict with this amendment are still in effect and are
+to be performed at the level specified in the contract. This amendment and all
+of its attachments are hereby made a part of this contract.
+
+IN WITNESS WHEREOF, the parties hereto have caused this 19 page amendment to be
+executed by their officials thereunto duly authorized.
+
+FLORIDA HEALTHY KIDS CORPORATION
+
+/s/ Rose M. Naff
+----------------------------------------
+Rose M. Naff, Executive Director
+Date: 12/20/01
+
+PHYSICIANS HEALTH CARE PLANS
+
+/s/ PETER L. JIMENEZ
+----------------------------------------
+Name: PETER L. JIMENEZ
+Date: 11/26/01
+
+PHP/Orange, Osceola, Seminole                                       Page 7 of 19
+Effective Date: December 1, 2001
+
+<PAGE>
+
+                                    EXHIBIT B
+                              ENROLLMENT PROCEDURES
+
+1.      All FHKC eligible participants will be provided with necessary
+        enrollment materials and forms from FHKC or its assignee.
+
+2.      FHKC will provide PHP with eligible participants who have selected PHP
+        or who have been assigned by FHKC to PHP according to the provisions of
+        Section 2-1 via an enrollment tape, using a tape layout to be specified
+        by FHKC.
+
+3.      Upon receipt of such enrollment tape, PHP acting as an agent for FHKC
+        shall provide each participant with an enrollment package within five
+        business days of receipt of an enrollment tape that includes at a
+        minimum the following items:
+
+        A.  A membership card displaying participant's name, participation
+            number and effective date of coverage.
+
+        B.  Participant's handbook that complies with any federal requirements,
+            including at a minimum, a description of how to access services, a
+            listing of any copayment requirements, the grievance process and the
+            covered benefits.
+
+        C.  Current listing of primary care physicians, specialists and hospital
+            providers.
+
+4.      All additions or deletions will be submitted in accordance with
+        referenced sections of this Agreement and Exhibit B.
+
+5.      Upon receipt of monthly tape from FHKC, PHP will process all new
+        enrollments and provide new participants with an enrollment package
+        within five business days of receipt of the enrollment tape.
+
+6.      Deletions will be processed by PHP and PHP will notify each cancelled
+        participant in writing by regular mail of the effective date of
+        deletion.
+
+7.      In accordance with state law, a waiting period of sixty days will be
+        imposed on those participants who voluntarily cancel their coverage by
+        non-payment of the required monthly premium. Cancelled participants must
+        request reinstatement from FHKC and wait at least sixty days from the
+        date of that request before coverage can be reinstated.
+
+8.      FHKC is the sole determiner of eligibility and effective dates of
+        coverage.
+
+9.      PHP must also comply with the guidance issued by the Office of Civil
+        Rights of the United States Department of Health and Human Services
+        ("Policy Guidance on the Title VI Prohibition against National Origin
+        Discrimination as it Effects Persons with Limited English Proficiency")
+        regarding the availability of information and assistance for persons
+        with limited English proficiency.
+
+PHP/Orange, Osceola, Seminole                                       Page 8 of 19
+Effective Date: December 1, 2001
+
+<PAGE>
+
+                                    EXHIBIT C
+                            ENROLLEE BENEFIT SCHEDULE
+
+I.      Minimum Benefits; Statutory Requirements
+          PHP agrees to provide, at a minimum, those benefits that are
+          prescribed by state law under Section 409.815(2)(a-p) and 409.815
+          (r-t). PHP shall pay an enrollee's covered expenses up to a lifetime
+          maximum of $1 million per covered enrollee.
+
+          The following health care benefits are included under this Agreement:
+
+BENEFIT               LIMITATIONS                             CO-PAYMENTS
+--------------------------------------------------------------------------------
+A. Inpatient          All admissions must be authorized by    NONE
+Services              PHP.
+All covered services  The length of the patient stay shall
+provided for the      be determined based on the medical
+medical care and      condition of the enrollee in relation
+treatment of an       to the necessary and appropriate level
+enrollee who is       of care.
+admitted as an        Room and board may be limited to
+inpatient to a        semi-private accommodations, unless a
+hospital licensed     private room is considered medically
+under part I of       necessary or semi-private
+Chapter 395.          accommodations are not available.
+Covered services      Private duty nursing limited to
+include: physician's  circumstances where such care is
+services; room and    medically necessary.
+board; general        Admissions for rehabilitation and
+nursing care;         physical therapy are limited to 15
+patient meals; use    days per contract year.
+of operating room     Shall Not Include Experimental or
+and related           Investigational Procedures as defined
+facilities; use of    as a drug, biological product, device,
+intensive care unit   medical treatment or procedure that
+and services;         meets any one of the following
+radiological,         criteria, as determined by the Plan:
+laboratory and other  1. Reliable Evidence shows the drug,
+diagnostic tests;     biological product, device, medical
+drugs; medications;   treatment, or procedure when applied
+biologicals;          to the circumstances of a particular
+anesthesia and        patient is the subject of ongoing
+oxygen services;      phase I, II or III clinical trials or
+special duty          2. Reliable Evidence shows the drug,
+nursing; radiation    biological product, device, medical
+and chemotherapy;     treatment or procedure when applied to
+respiratory therapy;  the circumstances of a particular
+administration of     patient is under study with a written
+whole blood plasma;   protocol to determine maximum
+physical, speech and  tolerated dose, toxicity, safety,
+occupational          efficacy, or efficacy in comparison to
+therapy; medically    conventional alternatives, or
+necessary services    3. Reliable Evidence shows the drug,
+of other health       biological product, device, medical
+professionals.        treatment, or procedure is being
+                      delivered or should be delivered
+                      subject to the approval and
+                      supervision of an Institutional Review
+                      Board (IRB) as required and defined by
+                      federal regulations, particularly
+                      those of the U.S. Food and Drug
+                      Administration or the Department of
+                      Health and Human Services.
+
+PHP/Orange, Osceola, Seminole                                       Page 9 of 19
+Effective Date: December 1, 2001
+
+<PAGE>
+
+BENEFIT               LIMITATIONS                             CO-PAYMENTS
+--------------------------------------------------------------------------------
+B. Emergency          Must use a PHP designated facility or   $10 per visit
+Services              provider for emergency care unless the  waived if admitted
+Covered Services      time to reach such facilities or        or authorized by
+include visits to an  providers would mean the risk of        primary care
+emergency room or     permanent damage to patient's health.   physician
+other licensed
+facility if needed
+immediately due to
+an injury or illness
+and delay means risk
+of permanent damage
+to the enrollee's
+health.
+
+C. Maternity          Infant is covered for up to three (3)   NONE
+Services and Newborn  days following birth or until the
+Care                  infant is transferred to another
+Covered services      medical facility, whichever occurs
+include maternity     first.
+and newborn care;
+prenatal and          Coverage may be limited to the fee for
+postnatal care;       vaginal deliveries.
+initial inpatient
+care of adolescent
+participants,
+including nursery
+charges and initial
+pediatric or
+neonatal
+examination.
+
+D. Organ              Coverage is available for transplants   NONE
+Transplantation       and medically related services if
+Services              deemed necessary and appropriate
+Covered services      within the guidelines set by the Organ
+include               Transplant Advisory Council or the
+pretransplant,        Bone Marrow Transplant Advisory
+transplant and        Council.
+postdischarge
+services and
+treatment of
+complications after
+transplantation.
+
+E. Outpatient         Services must be provided directly by   No co-payment for
+Services              PHP or through pre-approved referrals.  well child care,
+Preventive,                                                   preventive care or
+diagnostic,           Routine hearing and screening must be   for routine vision
+therapeutic,          provided by primary care physician.     and hearing
+palliative care, and                                          screenings.
+other services        Family planning limited to one annual
+provided to an        visit and one supply visit each ninety
+enrollee in the       days.                                   $3 per office
+outpatient portion                                            visit
+of a health facility  Chiropractic services shall be
+licensed under        provided in the same manner as in the
+chapter 395.          Florida Medicaid program.
+
+Covered services      Podiatric services are limited to one
+include Well-child    visit per day totaling two visits per
+care, including       month for specific foot disorders.
+those services        Routine foot care must be for
+recommended in the    conditions that result in circulatory
+Guidelines for        embarrassment or desensitization.
+Health Supervision    Dental services must be provided to an
+of Children and       oral surgeon for medically necessary
+Youth as developed    reconstructive dental surgery due to
+by Academy of         injury.
+Pediatrics;
+immunizations and     Treatment for temporomandibular joint
+injections as         (TMJ) disease is specifically
+recommended by the    excluded.
+Advisory Committee
+on Immunization       Shall Not Include Experimental or
+Practices; health     Investigational Procedures as defined
+education counseling  as a drug, biological product, device,
+and clinical          medical treatment or procedure that
+services; family      meets any one of the following
+planning services,    criteria, as determined by PHP:
+vision screening;     1. Reliable Evidence shows the drug,
+hearing screening;    biological product,
+clinical
+radiological,
+laboratory and other
+outpatient
+diagnostic tests;
+ambulatory surgical
+procedures; splints
+and casts;
+consultation with
+and treatment
+
+PHP/Orange, Osceola, Seminole                                      Page 10 of 19
+Effective Date: December 1, 2001
+
+<PAGE>
+
+BENEFIT               LIMITATIONS                             CO-PAYMENTS
+--------------------------------------------------------------------------------
+by referral           device, medical treatment, or
+physicians;           procedure when applied to the
+radiation and         circumstances of a particular patient
+chemotherapy;         is the subject of ongoing phase I, II
+chiropractic          or III clinical trials or
+services; podiatric   2. Reliable Evidence shows the drug,
+services.             biological product, device, medical
+                      treatment or procedure when applied to
+                      the circumstances of a particular
+                      patient is under study with a written
+                      protocol to determine maximum
+                      tolerated dose, toxicity, safety,
+                      efficacy, or efficacy in comparison to
+                      conventional alternatives, or
+                      3. Reliable Evidence shows the drug,
+                      biological product, device, medical
+                      treatment, or procedure is being
+                      delivered or should be delivered
+                      subject to the approval and
+                      supervision of an Institutional Review
+                      Board (IRB) as required and defined by
+                      federal regulations, particularly
+                      those of the U.S. Food and Drug
+                      Administration or the Department of
+                      Health and Human Services
+
+E. Behavioral Health  All services must be provided directly
+Services              by PHP or upon approved referral.
+Covered services
+include inpatient     Inpatient services are limited to not   INPATIENT:
+and outpatient care   more than thirty inpatient days per     NONE
+for psychological or  contract year for psychiatric
+psychiatric           admissions, or residential services in
+evaluation,           lieu of inpatient psychiatric
+diagnosis and         admissions; however, a minimum of ten
+treatment by a        of the thirty days shall be available
+licensed mental       only for inpatient psychiatric
+health professional.  services when authorized by PHP
+                      physician.
+
+                      Outpatient services are limited to a    OUTPATIENT: $3 per
+                      maximum of forty outpatient visits per  visit
+                      contract year.
+
+F. Substance Abuse    All services must be provided directly  INPATIENT:
+Services              by PHP or upon approved referral.       NONE
+Includes coverage
+for inpatient and     Inpatient services are limited to not
+outpatient care for   more than seven inpatient days per
+drug and alcohol      contract year for medical
+abuse including       detoxification only and thirty days
+counseling and        residential services.
+placement
+assistance.           Outpatient visits are limited to a      OUTPATIENT: $3 per
+Outpatient services   maximum of forty visits per contract    visit
+include evaluation,   year.
+diagnosis and
+treatment by a
+licensed
+practitioner
+
+G. Therapy Services   All treatments must be performed        $3 per visit
+Covered services      directly or as authorized by PHP.
+include physical,
+occupational,         Limited to up to twenty-four treatment
+respiratory and       sessions within a sixty day period per
+speech therapies for  episode or injury, with the sixty day
+short-term            period beginning with the first
+rehabilitation where  treatment.
+significant
+improvement in the
+enrollee's condition
+will result.
+
+H. Home Health        Coverage is limited to skilled nursing  $3 per visit
+Services              services only. Meals, housekeeping and
+Includes prescribed   personal comfort items are excluded.
+home visits by both   Services must be provided directly by
+registered and        PHP.
+licensed practical
+nurses to provide
+skilled nursing
+services on a
+part-time
+intermittent basis.
+
+PHP/Orange, Osceola, Seminole                                      Page 11 of 19
+Effective Date: December 1, 2001
+
+<PAGE>
+
+BENEFIT               LIMITATIONS                             CO-PAYMENTS
+--------------------------------------------------------------------------------
+I. Hospice Services   Once a family elects to receive         $3 per visit
+Covered services      hospice care for an enrollee, other
+include reasonable    services that treat the terminal
+and necessary         condition will not be covered.
+services for
+palliation or         Services required for conditions
+management of an      totally unrelated to the terminal
+enrollee's terminal   condition are covered to the extent
+illness.              that the services are covered under
+                      this contract.
+
+J.Nursing Facility    All admissions must be authorized by    NONE
+Services              PHP and provided by a PHP affiliated
+                      facility.
+Covered services      Participant must require and receive
+include regular       skilled services on a daily basis as
+nursing services,     ordered by PHP physician.
+rehabilitation        The length of the enrollee's stay
+services, drugs and   shall be determined by the medical
+biologicals, medical  condition of the enrollee in relation
+supplies, and the     to the necessary and appropriate level
+use of appliances     of care, but is no more than 100 days
+and equipment         per contract year.
+furnished by the
+facility.             Room and board is limited to
+                      semi-private accommodations unless a
+                      private room is considered medically
+                      necessary or semi-private
+                      accommodations are not available.
+                      Specialized treatment centers and
+                      independent kidney disease treatment
+                      centers are excluded.
+                      Private duty nurses, television, and
+                      custodial care are excluded.
+                      Admissions for rehabilitation and
+                      physical therapy are limited to
+                      fifteen days per contract year.
+
+K. Durable Medical    Equipment and devices must be provided  NONE
+Equipment and         by authorized PHP supplier.
+Prosthetic Devices
+Equipment and         Covered prosthetic devices include
+devices that are      artificial eyes and limbs, braces, and
+medically indicated   other artificial aids.
+to assist in the
+treatment of a        Low vision and telescopic lenses are
+medical condition     not included.
+and specifically
+prescribed as         Hearing aids are covered only when
+medically necessary   medically indicated to assist in the
+by enrollee's PHP     treatment of a medical condition.
+physician.
+
+L. Refractions        Enrollee must have failed vision        $3 per visit
+Examination by a PHP  screening by primary care physician.
+optometrist to
+determine the need    Corrective lenses and frames are
+for and to prescribe  limited to one pair every two years
+corrective lenses as  unless head size or prescription
+medically indicated.  changes.                                $10 for corrective
+                                                              lenses
+                      Coverage is limited to Medicaid frames
+                      with plastic or SYL non-tinted lenses.
+
+M. Pharmacy           Prescribed drugs covered under this     $3 per
+Prescribed drugs for  Agreement shall include all prescribed  prescription for
+the treatment of      drugs covered under the Florida         up to a 31-day
+illness or injury or  Medicaid program. PHP may implement a   supply
+injury.               pharmacy benefit management program if
+                      FHKC so authorizes. Brand name
+                      products are covered if a generic
+                      substitution is not available or where
+                      the prescribing physician indicates
+                      that a brand name is medically
+                      necessary.
+                      All medications must be dispensed
+                      through PHP or a PHP designated
+                      pharmacy.
+                      All prescriptions must be written by
+                      the participant's
+
+PHP/Orange, Osceola, Seminole                                      Page 12 of 19
+Effective Date: December 1, 2001
+
+<PAGE>
+
+BENEFIT               LIMITATIONS                             CO-PAYMENTS
+--------------------------------------------------------------------------------
+                      primary care physician, PHP approved
+                      specialist or consultant physician.
+
+N. Transportation     Must be in response to an emergency     $10 per service
+Services              situation.
+Emergency
+transportation as
+determined to be
+medically necessary
+in response to an
+emergency situation.
+
+II.             Cost Sharing Provisions
+
+PHP agrees to comply with all cost sharing restrictions imposed on FHKC
+participants by federal or state laws and regulations, including the following
+specific provisions:
+
+        A.      Special Populations
+                Enrollees identified by FHKC to PHP as Native Americans or
+                Alaskan Natives are prohibited from paying any cost sharing
+                amounts.
+
+        B.      Cost Sharing Limited to No More than Five Percent of Family's
+                Income FHKC may identify to PHP other enrollees who have met
+                federal requirements regarding maximum out of pocket
+                expenditures. Enrollees identified by FHKC as having met this
+                threshold are not required to pay any further cost sharing for
+                covered services for a time specified by FHKC.
+
+        C.      PHP is responsible for informing its providers of these
+                provisions and ensuring that enrollees under this section incur
+                no further out of pocket costs for covered services and are not
+                denied access to services. FHKC will provide these enrollees
+                with a letter indicating that they may not incur any cost
+                sharing obligations.
+
+III.            Other Benefit Provision
+
+                All requirements for prior authorizations must conform with
+                federal and state regulations and must be completed within
+                fourteen (14) days of request by the enrollee. Extensions to
+                this process may be granted in accordance with federal and/or
+                state regulations.
+
+PHP/Orange, Osceola, Seminole                                      Page 13 of 19
+Effective Date: December 1, 2001
+
+<PAGE>
+
+                                                                       EXHIBIT E
+
+                       ACCESS AND CREDENTIALING STANDARDS
+
+PHP shall maintain a medical staff, under contract, sufficient to permit
+reasonably prompt medical service to all participants in accordance with the
+following:
+
+1.              Physician and Medical Provider Standards
+
+                PHP shall provide include only board certified pediatricians and
+                family practice physicians or physician extenders working under
+                the direct supervision of a board certified practitioner to
+                serve as primary care physicians in its provider network for
+                Orange, Osceola, and Seminole County.
+
+                Additionally, PHP shall identify a medical home, as defined by
+                the American Academy of Pediatrics, for each enrollee. The
+                enrollee shall be given the opportunity to select a primary care
+                physician and if a physician has not been selected, Insurer will
+                assign the enrollee to a provider meeting the primary medical
+                care standards above.
+
+                The PHP may request that an individual provider be granted an
+                exception to this policy by making such a request in writing to
+                the Corporation and providing the provider's curriculum vitae
+                and a reason why the provider should be granted an exception to
+                the accepted standard. Such requests will be reviewed by the
+                Corporation on a case by case basis and a written response will
+                be made to PHP on the outcome of the request.
+
+2.              Geographical Access:
+
+                Geographical access to board certified family practice
+                physicians, pediatric physicians, primary care dental providers
+                or ARNP's, experienced in child health care, of approximately
+                twenty (20) minutes driving time from residence to provider,
+                except that this driving time limitation shall be reasonably
+                extended in those areas where such limitation with respect to
+                rural residence is unreasonable. In such instance, PHP shall
+                provide access for urgent care through contracts with nearest
+                providers.
+
+3.              Timely Treatment:
+
+                Timely treatment by providers, such that the participant shall
+                be seen by a provider in accordance with the following:
+
+                A.      Emergency care shall be provided immediately;
+                B.      Urgently needed care shall be provided within
+                        twenty-four (24) hours;
+                C.      Routine care of patients who do not require emergency or
+                        urgently needed care shall be provided within seven (7)
+                        calendar days;
+
+PHP/Orange, Osceola, Seminole                                      Page 14 of 19
+Effective Date: December 1, 2001
+
+<PAGE>
+
+                D.      Physical examinations and appointments for dental oral
+                        examinations and routine cleanings shall be provided
+                        within four (4) weeks of request for appointment; and
+                E.      Follow-up care shall be provided as medically
+                        appropriate.
+
+For the purposes of this section, the following definitions shall apply:
+
+                Emergency care is that required for the treatment of an injury
+                or acute illness that, if not treated immediately, could
+                reasonably result in serious or permanent damage to the
+                patient's health.
+
+                Urgently needed care is that required within a twenty-four (24)
+                hour period to prevent a condition from requiring emergency
+                care.
+
+                Routine care is that level of care that can be delayed without
+                anticipated deterioration in the patient's medical condition for
+                a period of seven (7) calendar days.
+
+By utilization of the foregoing standards, FHKC does not intend to create
+standards of care or access different from those which are deemed acceptable
+within the PHP service area. Rather FHKC intends that the provider timely and
+appropriately respond to patient care needs, as they are presented, in
+accordance with standards of care existing within the service area. In applying
+the foregoing standards, the provider shall give due regard to the level of
+discomfort and anxiety of the patient and/or parent.
+
+In the event FHKC determines that PHP, or its providers, has failed to meet the
+access standards herein set forth, FHKC shall provide PHP with written notice of
+non-compliance. Such notice can be provided via facsimile or other means,
+specifying the failure in such detail as will reasonably allow PHP to
+investigate and respond. Failure of PHP to obtain reasonable compliance or
+acceptable community care under the following conditions shall constitute a
+breach of this agreement:
+
+                A.      immediately upon receipt of notice for emergency or
+                        urgent problem; or
+                B.      within ten (10) days of receipt of notice for routine
+                        visit access.
+
+Such breach shall entitle FHKC to such legal and equitable relief as may be
+appropriate. In particular, FHKC may direct its participants to obtain such
+services outside the PHP provider network. PHP shall be financially responsible
+for all services under this provision.
+
+PHP/Orange, Osceola, Seminole                                      Page 15 of 19
+Effective Date: December 1, 2001
+
+<PAGE>
+
+                                    EXHIBIT F
+                    GRIEVANCE, ARBITRATION AND LEGAL PROCESS
+
+                     DELETE EXHIBIT FROM CONTRACT; RENUMBER
+                               SUBSEQUENT EXHIBITS
+
+PHP/Orange, Osceola, Seminole                                      Page 16 of 19
+Effective Date: December 1, 2001
+
+<PAGE>
+
+                                    EXHIBIT G
+                              ELIGIBILITY STANDARDS
+                        PARTICIPANT ELIGIBILITY CRITERIA
+
+The following eligibility criteria for participation in the Healthy Kids Program
+must be met:
+
+1.              The participants must be children who are age 5 through 18, and
+                the following groups are also eligible:
+
+                Children who received coverage prior to October 1, 1998 will be
+                eligible through their 19th birthday.
+
+2.              Participants must meet the eligibility criteria established
+                under Section 624.91, Florida Statutes and as implemented by
+                FHKC Board of Directors.
+
+3.              Eligible participants may enroll during time periods established
+                by FHKC Board of Directors and in accordance with Section
+                624.91, Florida Statutes.
+
+PHP/Orange, Osceola, Seminole                                      Page 17 of 19
+Effective Date: December 1, 2001
+
+<PAGE>
+
+                                    EXHIBIT I
+          CERTIFICATION REGARDING DEBARMENT, SUSPENSION, INELIGIBILITY,
+                             AND VOLUNTARY EXCLUSION
+                           CONTRACTS AND SUBCONTRACTS
+
+This certification is required by the regulations implementing Executive Order
+12549, Debarment and Suspension, signed February 18, 1986. The guidelines were
+published in the May 29, 1987, Federal Register (52 Fed. Reg., pages
+20360-20369).
+                                  INSTRUCTIONS
+A.              Each Provider whose contract\subcontract equals or exceeds
+$25,000 in federal monies must sign this certification prior to execution of
+each contract\subcontract. Additionally, providers who audit federal programs
+must also sign, regardless of the contract amount. The Florida Healthy Kids
+Corporation cannot contract with these types of providers if they are debarred
+or suspended by the federal government.
+
+B.              This certification is a material representation of fact upon
+which reliance is placed when this contract\subcontract is entered into. If it
+is later determined that the signer knowingly rendered an erroneous
+certification, the Federal Government may pursue available remedies, including
+suspension and/or debarment.
+
+C.              The provider shall provide immediate written notice to the
+contract manager at any time the provider learns that its certification was
+erroneous when submitted or has become erroneous by reason of changed
+circumstances.
+
+D.              The terms "debarred," "suspended," "ineligible," "person,"
+"principal," and "voluntarily excluded," as used in this certification, have the
+meanings set out in the Definitions and Coverage sections of rules implementing
+Executive Order 12549. You may contact the contract manager for assistance in
+obtaining a copy of those regulations.
+
+E.              The provider agrees by submitting this certification that, it
+shall not knowingly enter into any subcontract with a person who is debarred,
+suspended, declared ineligible, or voluntarily excluded from participation in
+this contract/subcontract unless authorized by the Federal Government.
+
+F.              The provider further agrees by submitting this certification
+that it will require each subcontractor of this contract/subcontract whose
+payment will equal or exceed $25,000 in federal monies, to submit a signed copy
+of this certification.
+
+G.              The Florida Healthy Kids Corporation may rely upon a
+certification of a provider that it is not debarred, suspended, ineligible, or
+voluntarily excluded from contracting\subcontracting unless it knows that the
+certification is erroneous.
+
+H.              This signed certification must be kept in the contract manager's
+file. Subcontractor's certifications must be kept at the contractor's business
+location.
+
+                                  CERTIFICATION
+The prospective provider certifies, by signing this certification, that neither
+he nor his principals is presently debarred, suspended, proposed for debarment,
+declared ineligible, or voluntarily excluded from participation in this
+contract/subcontract by any federal agency.
+
+Where the prospective provider is unable to certify to any of the statements in
+this certification, such prospective provider shall attach an explanation to
+this certification.
+
+Signature                                        Date
+
+Name and Title of Authorized Signee
+
+PHP/Orange, Osceola, Seminole                                      Page 18 of 19
+Effective Date: December 1, 2001
+
+<PAGE>
+
+                                    EXHIBIT J
+                        CERTIFICATION REGARDING LOBBYING
+                 CERTIFICATION FOR CONTRACTS, GRANTS, LOANS AND
+                             COOPERATIVE AGREEMENTS
+
+The undersigned certifies, to the best of his or her knowledge and belief, that:
+
+(1)     No federal appropriated funds have been paid or will be paid, by or on
+        behalf of the undersigned, to any person for influencing or attempting
+        to influence an officer or employee of any agency, a member of congress,
+        an officer or employee of congress, or an employee of a member of
+        congress in connection with the awarding of any federal contract, the
+        making of any federal grant, the making of any federal loan, the
+        entering into of any cooperative agreement, and the extension,
+        continuation, renewal, amendment, or modification of any federal
+        contract, grant, loan, or cooperative agreement.
+
+(2)     If any funds other than federal appropriated funds have been paid or
+        will be paid to any person for influencing or attempting to influence an
+        officer or employee of any agency, a member of congress, an officer or
+        employee of congress, or an employee of a member of congress in
+        connection with this federal contract, grant, loan, or cooperative
+        agreement, the undersigned shall complete and submit Standard Form-LLL,
+        "Disclosure Form to Report Lobbying," in accordance with its
+        instructions.
+
+(3)     The undersigned shall require that the language of this certification be
+        included in the award documents for all subawards at all tiers
+        (including subcontracts, subgrants, and contracts under grants, loans,
+        and cooperative agreements) and that all subrecipients shall certify and
+        disclose accordingly.
+
+This certification is a material representation of fact upon which reliance was
+placed when this transaction was made or entered into. Submission of this
+certification is a prerequisite for making or entering into this transaction
+imposed by section 1352, Title 31, U.S. Code. Any person who fails to file the
+required certification shall be subject to a civil penalty of not less than
+$10,000 and not more than $100,000 for each such failure.
+
+/s/ PETER L. JIMENEZ                           11/26/01
+-------------------------------------------------------
+Signature                                        Date
+
+PETER L. JIMENEZ
+-----------------------------
+Name of Authorized Individual
+
+PHPI 55 Alnambra Plaza, 7th fl. Coral Gables, PL. 33134
+-------------------------------------------------------
+Name and Address of Organization
+
+PHP/Orange, Osceola, Seminole                                      Page 19 of 19
+Effective Date: December 1, 2001
+
+<PAGE>
+
+                        STANDARD AMENDMENT TO HEALTH PLAN
+                                  AMENDMENT #3
+                             TO THE CONTRACT BETWEEN
+                      THE FLORIDA HEALTHY KIDS CORPORATION
+                                       AND
+                           PHYSICIANS HEALTHCARE PLANS
+
+THIS AMENDMENT, entered into between the Florida Healthy Kids Corporation,
+hereinafter referred to as "FHKC" and PHYSICIANS HEALTHCARE PLANS, hereinafter
+referred to as "PHP", amends its contract dated November 16, 1998.
+
+WHEREAS, the contract between FHKC and PHP allows for amendments to said
+contract by mutual written consent of the parties;
+
+WHEREAS, FHKC conducts an annual review of its contracts in order to identify
+any contract provisions that require modification in order to conform to changes
+in the federal and state laws and regulations as well as to reflect programmatic
+changes; and,
+
+THEREFORE, be it resolved that the Parties agree to the following amendment of
+their contract:
+
+        I.      Section 3-19-2 is amended to insert the following after
+                "information.":
+
+                PHP's policies and procedures for handling medical records and
+                protected health information (PHI) shall be compliant with the
+                Health Insurance Portability and Accountability Act of 1996
+                (HIPAA) and shall include provisions for when an enrollee's PHI
+                may be disclosed without consent or authorization.
+
+        II.     Section 3-20-2(d) is deleted from the contract.
+
+        III.    Section 4-4-1 is amended to insert the following after "1986.":
+
+                PHP Insurer is responsible for issuing a certificate of
+                creditable coverage to those FHKC participants who disenroll
+                from the Program.
+
+        IV.     Exhibit C, Section E, "Outpatient Services" is amended to
+                include the following additional provision:
+
+                Immunizations are to be provided by the primary care physician.
+
+        V.      Exhibit E, "Access and Credentialling Standards", Paragraph I,
+                A. is amended to include the following additional provision:
+
+                Primary care physicians must provide covered immunizations to
+                enrollees.
+
+        VI.     Exhibit K is a new amendment to the Agreement between FHKC and
+                Insurer and is hereby attached and incorporated into this
+                Agreement.
+
+PHP - Orange, Osceola, Seminole                                      Page 1 of 4
+Effective Date: December 1, 2002
+
+<PAGE>
+
+        VII.    This contract amendment is effective December 1, 2002.
+
+All provisions in the contract and any attachments thereto in conflict with this
+amendment shall be and are hereby changed to conform with this amendment.
+
+All provisions not in conflict with this amendment are still in effect and are
+to be performed at the level specified in the contract. This amendment and all
+of its attachments are hereby made a part of this contract.
+
+IN WITNESS WHEREOF, the parties hereto have caused this four (4) page amendment
+to be executed by their officials thereunto duly authorized.
+
+FLORIDA HEALTHY KIDS CORPORATION
+
+-------------------------------------            -------------------------------
+Rose M. Naff, Executive Director                           Witness
+Date:
+
+PHYSICIANS HEALTHCARE PLANS
+
+/s/ Daisy Gomez                                  /s/ [ILLEGIBLE]
+-------------------------------------            -------------------------------
+NAME  Daisy Gomez                                          Witness
+Date: 10/14/02
+
+PHP - Orange, Osceola, Seminole                                      Page 2 of 4
+Effective Date: December 1, 2002
+
+<PAGE>
+
+                                  CERTIFICATION
+
+            REGARDING HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY
+                             ACT OF 1996 COMPLIANCE
+
+This certification is required for compliance with the requirements of the
+Health Insurance Portability and Accountability Act of 1996 (HIPAA).
+
+The undersigned Insurer certifies and agrees as to abide by the following:
+
+        1.      Protected Health Information. For purposes of this
+                Certification, Protected Health Information shall have the same
+                meaning as the term "protected health information" in 45 C.F.R.
+                Section 164.501, limited to the information created or received
+                by the Provider from or on behalf of the FHKC.
+
+        2.      Limits on Use and Disclosure of Protected Health Information.
+                The Insurer shall not use or disclose Protected Health
+                Information other than as permitted by this Contract or by
+                federal and state law. The Insurer will use appropriate
+                safeguards to prevent the use or disclosure of Protected Health
+                Information for any purpose not in conformity with this Contract
+                and federal and state law. The Insurer will not divulge,
+                disclose, or communicate in any manner any Protected Health
+                Information to any third party without prior written consent
+                from the FHKC. The Insurer will report to the FHKC, within two
+                (2) business days of discovery, any use or disclosure of
+                Protected Health Information not provided for in this Contract
+                of which the Insurer is aware. A violation of this paragraph
+                shall be a material violation of this Contract.
+
+        3.      Use and Disclosure of Information for Management,
+                Administration, and Legal Responsibilities. The Insurer is
+                permitted to use and disclose Protected Health Information
+                received from the Insurer for the proper management and
+                administration of the Insurer or to carry out the legal
+                responsibilities of the Insurer, in accordance with 45 C.F.R.
+                164.504(e)(4). Such disclosure is only permissible where
+                required by law, or where the Insurer obtains reasonable
+                assurances from the person to whom the Protected Health
+                Information is disclosed that: (1) the Protected Health
+                Information will be held confidentially, (2) the Protected
+                Health Information will be used or further disclosed only as
+                required by law or for the purposes for which it was disclosed
+                to the person, and (3) the person notifies the Insurer of any
+                instance of which it is aware in which the confidentiality of
+                the Protected Health Information has been breached.
+
+        4.      Disclosure to Subcontractors or Agents. The Insurer agrees to
+                enter into a subcontract with any person, including a
+                subcontractor or agent, to whom it provides Protected Health
+                Information received from, or created or received by the Insurer
+                on behalf of, the FHKC. Such subcontract shall contain the same
+                terms, conditions, and restrictions that apply to the Insurer
+                with respect to Protected Health Information.
+
+        5.      Access to Information. The Insurer shall make Protected Health
+                Information available in accordance with federal and state law,
+                including providing a right of access to persons who are the
+                subjects of the Protected Health Information.
+
+PHP - Orange, Osceola, Seminole                                      Page 3 of 4
+Effective Date: December 1,  2002
+
+<PAGE>
+
+        6.      Amendment and Incorporation of Amendments. The Insurer shall
+                make Protected Health Information available for amendment and to
+                incorporate any amendments to the Protected Health Information
+                in accordance with 45 C.F.R. Section 164.526.
+
+        7.      Accounting for Disclosures. The Insurer shall make Protected
+                Health Information available as required to provide an
+                accounting of disclosures in accordance with 45 C.F.R. Section
+                164.528.
+
+        8.      Access to Books and Records. The Insurer shall make its internal
+                practices, books, and records relating to the use and disclosure
+                of Protected Health Information received from, or created or
+                received by the Insurer on behalf of, the FHKC to the Secretary
+                of the Department of Health and Human Services or the
+                Secretary's designee for purposes of determining compliance with
+                the Department of Health and Human Services Privacy Regulations.
+
+        9.      Termination. At the termination of this contract, the Insurer
+                shall return all Protected Health Information that the Insurer
+                still maintains in any form, including any copies or hybrid or
+                merged databases made by the Insurer; or with prior written
+                approval of the FHKC, the Protected Health Information may be
+                destroyed by the Insurer after its use. If the Protected Health
+                Information is destroyed pursuant to the FHKC's prior written
+                approval, the Insurer must provide a written confirmation of
+                such destruction to the FHKC. If return or destruction of the
+                Protected Health Information is determined not feasible by the
+                FHKC, the Provider agrees to protect the Protected Health
+                Information and treat it as strictly confidential.
+
+CERTIFICATION
+--------------------------------------------------------------------------------
+                The Insurer and the Florida Healthy Kids Corporation have caused
+                this Certification to be signed and delivered by their duly
+                authorized representatives, as of the date set forth below.
+
+                Provider Name:
+
+                /s/ Daisy Gomez                                  10/14/02
+                -----------------------------------        ---------------------
+                       Signature                                   Date
+
+                Daisy Gomez Gov't Prog. Dir.
+                -----------------------------------
+                Name and Title of Authorized Signee
+
+PHP - Orange, Osceola, Seminole                                      Page 4 of 4
+Effective Date: December 1, 2002
+
+</TEXT>
+</DOCUMENT>

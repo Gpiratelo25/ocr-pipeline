@@ -1,0 +1,243 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>5
+<FILENAME>parl3q104.txt
+<DESCRIPTION>EXHIBIT 10.4
+<TEXT>
+                                                              EXHIBIT 10.4
+
+                               FIRST AMENDMENT
+                                     TO
+                           JOINT VENTURE AGREEMENT
+
+      This First Amendment to Joint Venture Agreement (this "Amendment") is
+entered into as of March 28, 2005, by and between Parlex Asia Pacific Ltd.,
+a corporation organized under the laws of Hong Kong and having its
+registered office at 2802 Admiralty Centre Tower One, 18 Harcourt Road,
+Hong Kong ("Parlex"), and Infineon Technologies Asia Pacific Pte. Ltd., a
+corporation organized under the laws of Singapore and having its registered
+office at 168 Kallang Way, Singapore ("Infineon").
+
+      WHEREAS, the parties hereto are parties to that certain Joint Venture
+Agreement, dated as of December 22, 2004 (the "Agreement"), establishing
+the rights and obligations arising in connection with the parties joint
+ownership and management of new entities that shall be created under the
+laws of Hong Kong and the People's Republic of China for the purpose of
+supplying Infineon with FCOSTM substrate and flip chip module substrate
+material; and
+
+      WHEREAS, the parties have agreed to amend the Agreement as provided
+herein.
+
+      NOW THEREFORE, in consideration of the mutual promises and covenants
+herein set forth and as set forth in the Agreement, and for other good and
+valuable consideration, the receipt and sufficiency of which the parties
+hereby acknowledge, each to the other, the parties hereto agree as follows:
+
+      1.    Modification to Section 1.5
+            ---------------------------
+
+      Section 1.5 of the Agreement shall be amended to read as follows:
+
+      1.5   "Long Stop Date" means 1 July 2005.
+
+      2.    Modification to Section 2.1(b)
+            ------------------------------
+
+      The second sentence of Section 2.1(b) of the Agreement shall be
+amended to read as follows:
+
+      The parties acknowledge and understand that the process to apply for
+the issuance of a business license and to register NewCo may take
+approximately 160 days, but Parlex shall exercise its best efforts to
+procure the issuance of a business license and to register NewCo.
+
+3.      3.    Modification to Section 4.5
+              ---------------------------
+
+      Section 4.5 of the Agreement shall be amended to read as follows:
+
+      The Board of Directors of HoldCo shall assess NewCo's cash flow and
+financial situation on a quarterly basis.  If the Board of Directors of
+HoldCo by unanimous decision determines that NewCo requires additional
+capital contributions, it shall by written notice to the Parties call for
+
+
+<PAGE>
+
+
+the Parties to subscribe for additional shares of HoldCo in proportion to
+their respective pro rata shareholding based on the total number of issued
+shares of HoldCo then outstanding.  To the extent a party does not fully
+subscribe for its pro rata share of such additional shares, the remaining
+party shall be entitled to purchase any of such unsubscribed shares in
+proportion to its pro rata shareholding and then the respective pro-rata
+shareholding of the party not fully subscribing for its pro rata share of
+such additional shares shall be decreased in the proportion which its
+failure to purchase additional shares bears to the entire capitalization of
+HoldCo.  Each party agrees (i) to advise HoldCo of its intention to
+subscribe to its pro rata share of any additional shares at the earliest
+practicable date and in any event within thirty (30) days following a
+determination by the Board of Directors of HoldCo in accordance with Section
+4(4) of the Rules of Procedure requesting an additional capital contribution
+and (ii) to pay the purchase price in cash for such shares not later than
+thirty (30) days thereafter.
+
+      4.    Modification to Section 5.3.2
+            -----------------------------
+
+      Section 5.3.2 of the Agreement shall be amended by the insertion of
+the following clause at the end of the section:
+
+      "c)   At Parlex's sole discretion, at any time, and for any reason;
+provided, however, that such call option may only be exercised in the event
+that Parlex Corporation or any  Parlex's Associate (as said term is defined
+in section 5.4(a) below) has entered into an arrangement or agreement with
+either Molex Incorporated or Johnson Electric Capital Limited (or its
+affiliate) which will cause a Change of Control (as said term is defined in
+section 5.4 (a) below) to occur."
+
+      5.    Miscellaneous
+            -------------
+
+      5.1   Capitalized Terms
+            -----------------
+
+Capitalized terms used but not defined herein shall have the meanings
+ascribed in the Agreement.
+
+      5.2   Consistent Changes
+            ------------------
+
+      The Agreement, Stock Transfer Agreement and License Agreement are
+hereby amended wherever necessary to reflect the changes set forth herein.
+Except as otherwise amended hereby, all provisions of each of the
+aforementioned agreements shall remain in full force and effect.  The parties
+acknowledge and agree that except for the provisions contained in this
+Amendment, the Agreement constitutes the full and complete understanding
+and agreement of the parties.  In the event of a conflict between the
+provisions of this Amendment and the Agreement, the Amendment shall govern.
+
+      5.3   Binding; Assignments
+            --------------------
+
+      This Amendment and all of the provisions hereof shall be binding upon
+and inure to the benefit of the Parties and their respective successors and
+permitted assigns.  This Amendment, and the rights, interests and
+obligations hereunder, shall not be assigned by any party hereto without
+
+
+<PAGE>  2
+
+
+the prior written consent of the other party, which consents may be granted
+or withheld in the sole discretion of the person whose consent is required.
+
+      5.4   Severability
+            ------------
+
+      If any term or other provision of this Amendment is invalid, illegal
+or incapable of being enforced by any rule of law or public policy, all
+other conditions and provisions of this Amendment shall nevertheless remain
+in full force and effect so long as the economic or legal substance of the
+transactions contemplated hereby is not affected in any manner adverse to
+any Party in any material respect.  Upon such determination that any term
+or other provision is invalid, illegal or incapable of being enforced, the
+Parties hereto shall negotiate in good faith to modify this Amendment so as
+to effect the original intent of the Parties as closely as possible in a
+mutually acceptable manner in order that the transactions contemplated
+hereby be consummated as originally contemplated to the greatest extent
+possible.
+
+      5.5   Clause Headings, Construction
+            -----------------------------
+
+      The headings or clauses in this Amendment are provided for convenience
+only and shall not affect its construction or interpretation.  All references
+to "Article," "Clause" or "Clauses" refer to the corresponding Article,
+Clause or Clauses of this Amendment.  All words used in this Amendment shall
+be construed to be of such gender or number as the circumstances require.
+Unless otherwise expressly provided, the word "including" does not limit the
+preceding words or terms.
+
+      5.6   Governing Law
+            -------------
+
+      This Amendment shall be governed by, and construed in accordance with,
+the laws of Singapore.
+
+      5.7   Counterparts
+            ------------
+
+      This Amendment may be executed in one or more counterparts, each of
+which shall be deemed to be an original of this Amendment and all of which,
+when taken together, shall be deemed to constitute one and the same
+agreement.  Delivery of an executed counterpart of a signature page to this
+Amendment by facsimile shall be effective as delivery of a manually
+executed counterpart of this Amendment.
+
+      5.8   No Third Party Beneficiaries
+            ----------------------------
+
+      This Amendment is for the sole benefit of the Parties hereto and
+their permitted assigns and nothing herein, express or implied, is intended
+to or shall confer upon any other Person any legal or equitable benefit,
+claim, cause of action, remedy or right of any kind. The Parties further
+agree that the Contracts (Rights of Third Parties) Act (Chapter 53B) is
+hereby expressly excluded.
+
+
+<PAGE>  3
+
+
+      5.9   No Strict Construction
+            ----------------------
+
+      The language used in this Amendment shall be deemed to be the
+language chosen by the parties to express their mutual intent.  Each
+provision hereof has been subject to the mutual consultation, negotiation
+and agreement of the parties, and there shall be no construction against
+any Party based on any presumption of that Party's involvement in the
+drafting thereof.
+
+
+                          [Signature Page Follows]
+
+
+<PAGE>  4
+
+
+      IN WITNESS WHEREOF the Parties have caused their duly authorized
+representatives to execute this Amendment as of the day and year first
+above written.
+
+
+INFINEON TECHNOLOGIES ASIA
+PACIFIC PTE LTD
+
+
+By: /s/ Ng Fook San
+    -------------------------------
+    Name:  Ng Fook San
+    Title: President and Managing Director
+
+
+By: /s/ Klaus Gohlke
+    -------------------------------
+    Name:  Klaus Gohlke
+    Title: Vice President, AP Corporate
+           Finance and Company Director
+
+
+PARLEX ASIA PACIFIC LTD
+
+
+By: /s/ Peter J. Murphy
+    -------------------------------
+    Name:  Peter J. Murphy
+    Title: Director
+
+
+<PAGE>  5
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,827 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>5
+<FILENAME>ex10istat.txt
+<DESCRIPTION>EXHIBIT 10.5H
+<TEXT>
+[CONFIDENTIAL TREATMENT REQUESTED.  CONFIDENTIAL PORTIONS OF THIS DOCUMENT
+HAVE BEEN REDACTED AND HAVE BEEN SEPARATELY FILED WITH THE COMMISSION]
+
+
+
+                              AMENDED AND RESTATED
+                             DISTRIBUTION AGREEMENT
+
+                                     between
+
+                               HESKA CORPORATION,
+                                   Distributor
+
+                                       and
+
+                               i-STAT CORPORATION,
+                                  Manufacturer
+
+
+                              AMENDED AND RESTATED
+                             DISTRIBUTION AGREEMENT
+
+
+
+                                     PARTIES
+
+This Amended and Restated Distribution Agreement (it, together with any
+Schedules and Exhibits, the "Agreement"), between i-STAT Corporation, a
+Delaware corporation having its principal place of business at 104 Windsor
+Center Drive, East Windsor, New Jersey 08520 U.S.A. ("Manufacturer"), and Heska
+Corporation, a Delaware corporation having its principal place of business at
+1613 Prospect Parkway, Fort Collins, Colorado, 80525 U.S.A. ("Distributor").
+
+                                    RECITALS
+
+     Distributor desires to market and distribute Manufacturer's Products to
+the animal health care market and Manufacturer desires to grant Distributor
+such marketing and distribution rights, all on the terms and conditions of this
+Agreement.
+
+     Manufacturer and Distributor previously executed and delivered that
+certain Distribution Agreement dated as of February 9, 1998 (the "Prior
+Agreement"), which Prior Agreement is hereby amended and restated in its
+entirety by this Agreement.
+
+                               TERMS OF AGREEMENT
+
+     1.  APPOINTMENT AND TERRITORY  Subject to the terms and conditions of
+this Agreement, Manufacturer hereby appoints Distributor as its exclusive
+distributor worldwide except for Japan and New Zealand, as its non-exclusive
+distributor in Japan and, commencing July 1, 1999 through the end of the Term,
+as its exclusive distributor in New Zealand (the "Territory"), to distribute,
+market and sell the Products to Customers in the Territory, and Distributor
+accepts such appointment.  "Products" means only the articles listed on
+Schedule 1.1, including the i-STAT analyzers (the "Analyzers") and cartridges
+(the "Cartridges") listed thereon.  Manufacturer agrees that, subject only to
+the prior fights of Abbott Laboratories ("Abbott") under that certain Funded
+Research and Development and License Agreement dated as of August 3, 1998, as
+the same may be amended from time to time, between Manufacturer and Abbott,
+prior to offering any other or new products to any other person for resale in
+the animal health care market, it will first offer Distributor the opportunity
+to negotiate to have such products included as a Product hereunder on such
+terms and conditions as are mutually acceptable to the parties.  "Customer"
+means any animal healthcare organization or animal healthcare individual that
+purchases Products, excluding individuals operating within human healthcare
+institutions.  Manufacturer reserves the right, upon reasonable notice to
+Distributor, to modify any of the Products and their specifications and to
+discontinue sales of any Product.  Recognizing the end use of the Products in
+healthcare, Distributor shall not solicit or sell any Products to Customers or
+other third parties which Distributor has reason to believe will redistribute
+or otherwise direct them for use to classes of customers not contained within
+the Customer class described above, and shall otherwise take all reasonable
+necessary actions to prevent sales of Products to classes of customers known by
+Distributor to be not contained within the Customer class described above.
+Upon request by Manufacturer, if and to the extent Distributor sells Products
+to customers outside the Customer class in violation of the above restrictions,
+Distributor will remit to Manufacturer an amount equal to the difference
+between (i) the amount of Net Sales collected by Distributor from sales of such
+Products and (ii) the Purchase Price paid to Manufacturer for such Products.
+Distributor represents that it is competent under the laws of the Territory to
+enter into this Agreement and to act hereunder.
+
+     2.   TERMS AND CONDITIONS.
+
+          2.1.PRICES.  Manufacturer shall sell the Products to Distributor at
+the prices set forth on Schedule 1.1. Manufacturer has the right to modify
+prices as described on Schedule 1.1.
+
+          2.2.PAYMENT TERMS AND CONDITIONS.  Prices quoted by Manufacturer,
+unless otherwise stated, shall be paid in U.S. Dollars and are freight on board
+(FOB) at Manufacturer's facility in East Windsor, New Jersey, U.S.A.  Legal
+title, control of, right of possession and risk of loss of Products shall pass
+to Distributor upon shipment FOB.  Distributor shall pay for each order within
+the terms stated in Schedule 1.1 by check or wire transfer through a bank
+designated by Manufacturer which shall cover, at Distributor's charge, the
+price of Products in such order.  Distributor shall pay all expenses associated
+with the cost of export packing, carriage to the port of shipment, refrigerated
+freight to the port of destination, customs clearance, warehousing and
+insurance, including war risk insurance, if applicable, and other costs and
+expenses occurring after the Products are made available to Distributor.
+Distributor shall ensure that Products are shipped, stored and handled in
+accordance with the specifications Manufacturer shall from time to time
+provide.  Manufacturer reserves the right at any time to take legal proceedings
+to recover overdue payments by Distributor.
+
+          2.3.PLACEMENT OF ORDERS.  Distributor shall place all orders with
+Manufacturer at Manufacturer's principal office.  Manufacturer shall promptly,
+and in any event within five (5) business days, notify Distributor of any
+Purchase Orders (or parts of Purchaser Orders) accepted, rejected, or delayed,
+and the reason for any such rejection or delay.  No Purchase Order shall be
+binding upon Manufacturer until accepted by Manufacturer.  Purchase Orders not
+rejected within five (5) business days shall be deemed accepted.  Distributor
+may not modify any Purchase Orders after acceptance by Manufacturer of such
+Purchase Order without Manufacturer's prior consent.  All Purchase Orders
+should be placed 45 days prior to the requested shipping date from
+Manufacturer.  Products shipped in connection with Purchase Orders placed less
+than 45 days prior to required shipment of product from Manufacturer may not
+have optimum dating.
+
+          2.4.SUBMISSION OF FORECASTS.  Distributor shall furnish Manufacturer
+with a non-binding forecast for the following quarter 45 days in advance of
+that quarter.
+
+     3.   RESPONSIBILITIES OF MANUFACTURER.
+
+          3.1. CATALOGS, BULLETINS.  Manufacturer shall, without charge,
+furnish to Distributor reasonable quantities of technical data and technical
+bulletins adequate to describe the Products in the English language, and in
+other languages to the extent already available.  Distributor may, at its own
+cost, provide a translation of the documents into the local language.
+
+          3.2. TRAINING.  Manufacturer shall provide follow-up training, as
+mutually agreed by the parties, at Distributor's facility.  In connection with
+such follow-up training, Manufacturer shall pay for its employees' salaries and
+their travel and travel-related expenses, including meals, lodging and other
+living expenses.  For training situations not covered by the above, both Parties
+agree to discuss how to equitably share the travel and related expenses.
+
+          3.3. INTERFACE TRAINING.  Manufacturer shall assist Distributor with
+ASTM interface training, as to how to interface between a Central Data Station
+at the Customer's site and other computer workstations of the Customer.
+
+          3.4. PRODUCT SUPPLY.  To the extent Manufacturer is unable to supply
+adequate quantities of Products to fill Distributor's Purchase Orders submitted
+from time to time, and provided that such Purchase Orders are not for
+quantities of Products materially exceeding Distributor's ordinary requirements
+or forecasted needs, the minimum sales Targets and Milestones set forth in
+Section 4.2 hereof shall be adjusted accordingly by the parties.
+
+     4.   RESPONSIBILITIES OF DISTRIBUTOR.
+
+          4.1. SALES EFFORTS; MARKETING SUPPORT.  (a) Distributor shall devote
+commercially reasonable efforts to the promotion, sale and servicing of the
+Products to Customers in the Territory.  Distributor shall, at its expense,
+take such commercially reasonable actions as it deems necessary to promote the
+Products, which may include:  (i) including the Products in its appropriate
+catalogs, promotional mailings and like publications; (ii) developing,
+preparing and placing advertising concerning the Products in appropriate media
+or through direct mail; (iii) exhibiting the Products at appropriate trade
+shows and informing Manufacturer at least 30 days in advance of trade shows;
+(iv) conducting appropriate market research as it deems necessary or desirable;
+and (v) rendering other services customarily rendered by a distributor of
+veterinary medical products.  Manufacturer shall have the right to prior review
+and to approve (or not approve) any and all copy, layout or other advertising,
+promotional or other distributed material involving the Products.  Failure to
+object to any materials within fifteen (15) business days of sending shall be
+deemed approval.  Distributor shall discuss strategy and Product positioning
+with Manufacturer and shall use commercially reasonable efforts to market and
+position the Products in accordance with the recommendations of Manufacturer.
+
+          (b)  In furtherance of the above, for each calendar year during the
+Term, Distributor shall use commercially reasonable efforts to make or commit
+to make Marketing Expenditures (as defined below) in connection with its
+promotion of the Products, which should be approximately five percent (5%) of
+Net Sales (as defined below) of Analyzers for the preceding calendar year. As
+used herein, "Marketing Expenditures" shall include, without limitation,
+amounts spent or committed to be spent (whether internally or externally) on
+promotion of the Products (or any of them) (i) in catalogs, brochures,
+pamphlets, product information sheets and other mailings and publications, (ii)
+in broad or targeted advertising (including the development, preparation and
+cost of placing advertisements), (iii) at trade shows or other formal or
+informal industry or customer gatherings, (iv) by other accepted means employed
+by Distributor or the industry in general, but excluding salaries or
+commissions paid to Distributor's employees.  Notwithstanding the foregoing, in
+the event, Distributor fails to make the Marketing Expenditures set forth above
+in any year during the Term, but reaches the total sales Milestones for such
+year set forth in Section 4.2 below, such failure shall not constitute a breach
+of this Agreement or otherwise entitle Manufacturer to exercise any rights or
+remedies under this Agreement or otherwise.  "Net Sales" for purposes of this
+Agreement shall mean, with respect to any Products (or any of them specifically
+designated for any purpose in this Agreement) sold by Distributor, its
+affiliates and sales agents or distributors, the invoiced sales price of such
+Products billed to independent Customers who are not affiliates of Distributor,
+less (a) credits, allowances, discounts and rebates to, and chargebaeks from
+the account of, such Customers for damaged, rejected, outdated or returned
+product returned in accordance with Distributor's or Manufacturer's policies;
+(b) freight and insurance costs incurred in transporting such Products to such
+Customers; (c) quantity, trade and cash discounts and other price reductions
+allowed; (d) discounts, fees and commissions payable to third party sales
+agents or distributors (but not Distributor's employees) with respect to orders
+or sales of such Products; (e) sales, use, value-added and other direct taxes
+incurred; and (f) customs, duties, tariffs surcharges and other governmental
+charges incurred in connection with the exportation or importation of such
+Products.  For purposes of Distributor's obligation to meet its Marketing
+Expenditures goal set forth above, Net Sales shall be measured by reference to
+sales of Analyzers only.
+
+          4.2. SALES TARGETS AND MILESTONES.  The tables below set forth sales
+targets ("Targets") and sales milestones ("Milestones") for Purchase Orders
+submitted by Distributor.  The parties acknowledge that it is their goal that
+Distributor will take delivery of or schedule delivery within 30 days of the
+end of the periods referenced below of the number of Analyzers and the number
+of Cartridges set forth below under the caption "Milestones," in the aggregate,
+for sales by Distributor in each of North America and the remainder of the
+Territory outside of North America during the periods referenced, and
+Distributor shall use reasonable commercial efforts to achieve such Milestones.
+For purposes of determining achievement of Milestones, monthly total Purchase
+Orders for each of the last three months of the year cannot exceed [  ***  ]% of
+the monthly average for Purchase Orders for the previous six months.
+
+(numbers shown represent units of products ordered)
+
+TARGETS                   1999     2000      2001
+--------------------    -------   -------   -------
+US
+-------------
+    Analyzers           [ *** ]   [ *** ]    [ *** ]
+    Cartridges          [ *** ]   [ *** ]    [ *** ]
+International
+-------------
+    Analyzers           [ *** ]   [ *** ]    [ *** ]
+    Cartridges          [ *** ]   [ *** ]    [ *** ]
+Target Totals
+-------------
+    Analyzers           [ *** ]   [ *** ]    [ *** ]
+    Cartridges          [ *** ]   [ *** ]    [ *** ]
+
+
+MILESTONES                         2000      2001
+--------------------              -------   -------
+US
+--------------
+    Analyzers                    [ *** ]    [ *** ]
+    Cartridges                   [ *** ]    [ *** ]
+International
+--------------
+    Analyzers                    [ *** ]    [ *** ]
+    Cartridges                   [ *** ]    [ *** ]
+Milestone Totals
+----------------
+    Analyzers                    [ *** ]    [ *** ]
+    Cartridges                   [ *** ]    [ *** ]
+
+*** Confidential Treatment Requested
+
+
+          The parties further agree that (i) the above Targets for all years
+shown are intended to be goals and not minimum purchase obligations and any
+failure to achieve such Targets shall in no event constitute or give rise to a
+breach of this Agreement by Distributor or the exercise of any remedy by
+Manufacturer; (ii) in the event Distributor fails to reach the above Milestones
+in 2000 for either the United States or the rest of the Territory, but
+nonetheless achieves the total Milestone in 2000, Distributor will be deemed to
+have reached the Milestone 2000 for each of the United States and the rest of
+the Territory; and (iii) in the event Distributor fails to reach the Milestones
+in 2000 for either the United States or the rest of the Territory, or both, and
+also fails to achieve the total Milestone in 2000, Manufacturer will have the
+option, exercisable by delivery of written notice to Distributor, to convert
+the distribution rights of Distributor under this Agreement, effective not
+sooner than January 1, 2001, from exclusive to non- exclusive during 2001 in
+the portion of the Territory in which Distributor has failed to achieve its
+2000 Milestones, with Distributor's exclusive distribution rights remaining
+unaffected in the portion of the Territory where Distributor has achieved its
+Milestones in 2000.  In the event Manufacturer exercises its rights set forth
+in (iii) above, Distributor's obligation to make Marketing Expenditures
+pursuant to Section 4.1 above shall terminate and be deemed waived by
+Manufacturer.
+
+          4.3. MODIFIED AND NEW PRODUCTS.  Distributor shall timely provide
+comprehensive information to its Customers with respect to newly available
+Products, discontinuance of Products and changes in existing Products,
+including, but not limited to, performance specification changes and required
+software upgrades in Analyzers (which may or may not be coupled to specific
+lots of Cartridges).  Distributor shall use commercially reasonable efforts to
+ensure that each Customer in the Territory makes any such performance
+specification changes and software upgrades in a timely manner.
+
+          4.4. COMPETITIVE PRODUCTS.  In ftutherance of its duties, and in
+recognition of the unique healthcare and related responsibilities in connection
+with the distribution of the Products, during the Term, Distributor shall not
+anywhere in the Territory market or sell any hand held device performing blood
+gas or electrolyte tests currently performed by the Analyzer.  For purposes of
+this Section 4.4, the term "Analyzer" will be amended by the parties from time
+to time to include other categories (such as future tests) added as Products to
+this Agreement.  Distributor shall exclusively use Manufacturer's control
+products unless Manufacturer gives prior written approval for substitution.
+
+          4.5. COMPETENCE OF PERSONNEL.  Distributor shall have an adequate
+number of technically competent personnel for sales and after-sales service of
+the Products.  The number of sales personnel will depend on the market size and
+the market penetration over time.
+
+          4.6. MARKETING OF THE PRODUCTS IN THE TERRITORY.  Distributor shall
+be informed of Manufacturer's suggested resale prices but shall retain full
+discretion to set resale prices of the Products.
+
+          4.7. TRAINING OF CUSTOMERS.  Distributor shall, prior to shipment,
+provide to each Customer Product storage and use instructions, and shall
+provide its Customers with adequate training and support within the first two
+months after delivery to a Customer of the first batch of Products.
+Distributor shall use commercially reasonable efforts to ensure that all
+introductory training is made available to the Customer within the first week
+after receipt of Analyzers and Cartridges.  Full use will be made of training
+material and technical information supplied by Manufacturer.
+
+          4.8. PRODUCT WARRANTY.  Distributor shall provide to Customers
+Manufacturer's standard written limited warranty for all Products.  Distributor
+shall not alter or expand such warranty.  During the term of this Agreement,
+Distributor shall be responsible for providing technical support to Customers
+at its expense and shall assist them without charge in obtaining warranty
+service from Manufacturer.  In addition, at the written request of
+Manufacturer, Distributor shall perform certain warranty repairs during the
+standard warranty period which shall be billed to and paid by Manufacturer at
+mutually agreed upon labor rates.
+
+          4.9. COMPUTER INTERFACING.  At a Customer's request, during the
+Termof this Agreement, Distributor shall perform all computer interfacing
+activities between Central Data Stations ("CDS") and other computer
+workstations for each of its Customers based upon the ASTM interface provided
+on the CDS.
+
+          4.10.    INVENTORY.  Distributor shall maintain inventory of the
+Products sufficient to satisfy the reasonably projected needs of its Customers
+in light of order and shipping lead times.
+
+          4.11.    REGULATORY COMPLIANCE.  Distributor shall advise
+Manufacturer promptly of all Rovemment regulations outside the United States
+affecting the importation, use, sale, record maintenance and disposal of the
+Products and shall be responsible for compliance therewith.  Without limiting
+the foregoing, Distributor shall obtain from competent govemmental authorities
+such import permits, licenses, exemptions from customs duties and governmental
+approvals and consents required in connection with the execution and
+performance of this Agreement.  All governmental permits, registrations,
+licenses, exemptions and consents specifically relating to i- STAT products,
+shall be sought in the name of and shall, at the end of the Term, be the
+exclusive property of Manufacturer.  Distributor shall comply with all
+applicable United States of America and Territory laws, rules and regulations
+and shall not engage in any activity that is illegal under, or would cause
+Manufacturer to be in violation of, any law, decree, rule or regulation in the
+Territory or in the United States of America.
+
+          4.12.BOOKS AND RECORDS.  Distributor shall maintain books and records
+in keeping with standard industry practice regarding the performance of its
+obligations hereunder and shall retain such records during the Term and for
+three years thereafter.
+
+          4.13.PROPRIETARY INFORMATION AND TRADE SECRETS.  Neither Party shall
+use for any purpose, other than as contemplated by this Agreement, or divulge
+to any third party, any trade secrets, processes, techniques, designs, know how
+or other confidential information provided to such Party by the other.
+Notwithstanding anything to the contrary provided herein, these confidentiality
+provisions shall not apply to any information:  (a) which is independently
+developed by the receiving Party or its affiliated company or lawfully received
+free of restriction from another source having the right to so furnish such
+information; (b) after it has become generally available to the public without
+breach of this Agreement by the receiving Party or its affiliated company; (c)
+which at the time of disclosure to the receiving Party was known to such Party
+or its affiliated company free of restriction; or (d) which the receiving Party
+is required to disclose pursuant to law, regulations, or an order of a court of
+competent jurisdiction, provided that the disclosing Party shall have been
+afforded a reasonable opportunity to limit such disclosure.
+
+          4.14.NOTICE OF INFRINGEMENT ACTIVITIES.  Distributor shall notify
+Manufacturer of any actual or suspected infringement or misappropriation of any
+of Manufacturer's patents, copyrights (including its computer software),
+proprietary information or trade and service marks and at Manufacturer's
+expense shall fully cooperate with and assist Manufacturer in any legal action
+that Manufacturer elects to bring to prevent or redress such violations of its
+rights.
+
+          4.15.CATALOG AND PRODUCT LABELS.  Distributor may affix its label on
+catalogs and Products being distributed by Distributor in the Territory during
+the Term, provided that Manufacturer shall have been provided with a catalog
+and a photograph of each Product with Distributor's label affixed in the same
+manner in which the Products will be distributed.  If Manufacturer shall
+reasonably object to the manner in which such label is affixed, Distributor
+shall promptly cease any such use and change its use to comply with the
+Manufacturers requirements.
+
+          4.16.REVIEW OF PRACTICES.  Periodically, and at least quarterly,
+Manufacturer and Distributor shall review Distributor's marketing and selling
+strategy, training of Customers, inventory, computer interfacing activities and
+other practices with a view toward maximizing Customer use of and satisfaction
+with the Products.
+
+     5.   RIGHTS TO PROPERTY OF MANUFACTURER.
+
+          5.1. MARKS.  Manufacturer hereby authorizes Distributor to use, on a
+nonexclusive basis for the Term, without cost to Distributor other than payment
+for the Products, the trademark "i- STAT" and any other trademarks, service
+marks or trade names used by Manufacturer to identify the Products (the
+"Marks"), solely for Distributor's distribution of Products and related
+performance under this Agreement.  The Marks and the goodwill associated with
+the Marks are the exclusive property of Manufacturer.  Distributor shall not
+(a) use the Marks as part of any composite mark including any elements not
+approved in advance in writing by Manufacturer, (b) challenge the validity or
+enforceability of the Marks or (c) acquire any proprietary rights in the Marks
+by reason of any activities under this Agreement or otherwise.  All uses of the
+Marks by Distributor and any additional goodwill created thereby shall inure to
+the exclusive benefit of Manufacturer.  Manufacturer shall, at all times during
+the Term on reasonable notice, have the right to inspect the materials and
+services on or in connection with which the Marks are used in order to assure
+Manufacturer that Manufacturer's quality standards relating to the Products and
+Distributor's servicing and other mark-pertinent provisions of this Agreement
+are being observed.  If Manufacturer shall at any time reasonably object to any
+use to which the Marks are put, Distributor shall promptly cease any such use.
+
+          5.2. LICENSE TO USE COMPUTER SOFTWARE.  All software, on whatever
+media and in whatever form, which Manufacturer shall deliver to Distributor
+(the "Software") is and shall remain the property of Manufacturer and its
+suppliers and licensors thereof and shall only be used in accordance with the
+terms of this Agreement.  Upon the sale of any central data station software
+package during the Term, Distributor shall collect and pay to Manufacturer the
+first year's fee for the use of such software as set forth in Schedule 1.1.
+Manufacturer shall thereafter invoice Customers directly for any further
+license or maintenance fees.  Software contains copyrighted and proprietary
+trade secrets of Manufacturer (and its suppliers and licensors), and
+Distributor shall keep the Software in confidence.  Distributor shall not copy,
+use or disassemble the Software unless agreed by Manufacturer.  Distributor
+shall have the right to reproduce Software only for (a) one backup/archival
+copy and (b) installation on and use with equipment designated by Manufacturer
+as suitable therefor and for use solely with the Products distributed by
+Distributor.  Distributor shall reproduce the copyright and other proprietary
+notices of Manufacturer and third parties present in the Software delivered to
+Distributor.  Distributor's license to use and distribute the Software shall
+terminate on the earlier of (a) the end of the Term; (b) discontinuance of use
+of the designated equipment for the Software; (c) discontinuance of payment of
+periodic license and maintenance fees, if any; and (d) breach of any of the
+above given terms.  All copies of Software with respect to which the license
+hereunder is terminated shall be returned to Manufacturer within 30 days after
+such termination.  Distributor shall deliver to each end user a copy of
+Manufacturer's written software license.
+
+     6.   CORRUPT PRACTICES.  Distributor shall not use any compensation
+hereunder as payment to any governmental official or employee of any country in
+the Territory for the purpose of influencing such person's decisions or actions
+regarding the Products.
+
+     7.   DURATION AND TERMINATION.
+
+          7.1. TERM OF AGREEMENT.  The initial term of this Agreement (the
+"Initial Term") shall commence effective February 9, 1999 after signed and
+delivered by both parties, and shall expire (if not automatically renewed as
+provided herein) on December 31, 2001.  (As provided in Section 4.2, however,
+Distributor's rights in the third year of this Agreement may be made
+non-exclusive if the Milestones are not achieved).  Thereafter, this Agreement
+shall renew automatically for additional renewal terms (each an "Additional
+Tenn") of twelve (12) months each, unless either party gives at least nine (9)
+months prior written notice to the other before the expiration of the Initial
+Term or any Additional Tenn that it does not wish to renew this Agreement
+beyond such Initial Term or such Additional Tenn; provided, however, that if
+Manufacturer fails to provide notice of termination within such nine month
+period, and Distributor fails to reach the Milestones for 2001 or any
+subsequent year of the Agreement (as adjusted pursuant to this Agreement),
+Manufacturer may elect to convert Distributor's distribution rights hereunder
+from exclusive to non-exclusive for the following year Milestones for years
+after 2001 shall be determined at the beginning of the preceding year,
+commencing at the beginning of 2001 for 2002 Milestones).  (The Initial Tenn
+and each Additional Termshall be collectively referred to herein as the
+"Term").
+
+          7.2. IMMEDIATE TERMINATION.  Either party may terminate this
+Agreement immediately upon the occurrence of any one or more of the events
+contemplated in this Section 7.2.
+
+          7.2.1.  Material breach or default of this Agreement by the other
+party and failure to cure such default within 30 days after the other party
+has given written notice of such breach or default.
+
+          7.2.2.  On the 30th day following written notice by one party to
+the other of such party's election to terminate this Agreement as a result of
+the bankruptcy or insolvency of the other party or the appointment of a
+receiver or trustee for assets of the other party.
+
+          7.2.3.  On the 30th day following written notice by Manufacturer
+to Distributor of Distributor's unauthorized assignment or transfer of this
+Agreement.
+
+          7.3. ACTIONS UPON TERMINATION.  Upon the termination of this
+Agreement, the parties shall:
+
+          7.3.1.  Immediately cease the use of any confidential,
+proprietary or secret information of the other party and, in the case of
+Distributor, of the Marks except as permitted in Section 7.3.2; and
+
+          7.3.2.  unless this Agreement is terminated by Manufacturer for
+Distributor's breach or bankruptcy, and, subject to Manufacturer's rights under
+Section 7.3.3 below, (i) Manufacturer shall honor all accepted purchase orders
+providing for delivery within 30 days of the date of termination and for which
+Distributor pays in full prior to shipment, and (ii) Distributor may sell on a
+nonexclusive basis but otherwise on the terms set forth in this Agreement
+(except that its license to the Trademarks is also nonexclusive) its remaining
+inventory of Products for a period of up to ninety (90) days following the date
+of termination;
+
+          7.3.3.  Manufacturer shall have the right (but not the
+obligation) on notice to Distributor given within ten days after termination to
+purchase from Distributor all or any portion of the Products in its inventory
+at the time of such expiration or termination for credit against outstanding
+invoices, or for cash refund to the extent there are no invoices then
+outstanding.  Any credit or refund due Distributor for such Product shall be
+equal to the purchase price of the Product, less any discounts or credits
+previously received; and
+
+          7.3.4.  Distributor shall return to Manufacturer all promotional
+and sales training materials provided to Distributor by Manufacturer.
+
+          7.3.5.  Assign to Manufacturer and deliver to Manufacturer any
+import permits, health resignations, licenses, exemptions from customs duties
+and governmental consents of any nature specifically relating to i-STAT
+products, which Distributor may have or retain directly or indirectly in
+connection with the Products imported, sold and/or distributed under this
+Agreement, which it has not yet assigned or waived, or which have not yet been
+delivered prior to termination.
+
+          7.4.CONTINUING OBLIGATIONS.  Following any termination of this
+Agreement Distributor shall (a) cooperate in referring Customers to
+Manufacturer or to such other persons as Manufacturer may direct for continuing
+purchase of Products and related services; (b) transfer to Manufacturer or its
+nominees all outstanding maintenance contracts; and (c) provide Manufacturer
+with lists of each Customer who purchased product through Distributor,
+including records of all Software updates performed.  The parties agree that
+following termination of this Agreement for any reason Distributor shall have
+no further obligations to Customers with respect to software updates and
+maintenance or technical support.  The parties further agree that nothing in
+this Agreement shall be construed as preventing Distributor from soliciting
+Customers for other products following the termination of this Agreement.
+
+     8.   INDEMNIFICATION; WARRANTY; LIMITATION OF LIABILITY.
+
+          8.1.INDEMNIFICATION.  Manufacturer and Distributor shall each at all
+times indemnify and hold the other party and their respective affiliates,
+stockholders, directors, officers, employees and agents harmless from and
+against all liabilities, losses, claims, damages and expenses, including
+reasonable attorneys' fees and disbursements, arising out of or in connection
+with the breach of any covenant, agreement, warranty or representation made by
+it herein.  In the event of any third party action, the other party shall have
+the right to participate in the defense, at its own expense, with counsel of
+its own choosing.  Distributor shall indemnify Manufacturer against all claims,
+losses, damages, liabilities and expenses, including reasonable attorneys' fees
+and disbursements, incurred by Manufacturer arising with respect to the sale,
+distribution or use of a Product to the extent caused by any action or omission
+of Distributor or its stockholders, directors, officers, employees or agents.
+
+          8.2.WARRANTY.  Manufacturer agrees to extend to Distributor and to
+Distributor's Customers standard product warranties, as modified from time to
+time, the current version of which is attached as Schedule 8.2.  EXCEPT FOR THE
+WARRANTY PROVIDED FOR IN'SCHEDULE 8.2, MANUFACTURER MAKES NO REPRESENTATIONS OR
+WARRANTIES OF ANY KIND AND THE WARRANTIES OF MANUFACTURER ARE IN LIEU OF ALL
+OTHER WARRANTIES, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTY OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR OF NONINFRINGEMENT OF
+ANY THIRD PARTY PATENTS, COPYRIGHTS OR MARKS.  EXCEPT FOR THE WARRANTY PROVIDED
+FOR IN SCHEDULE 8.2, MANUFACTURER MAKES NO WARRANTY OF ANY KIND TO CUSTOMERS OF
+DISTRIBUTOR HEREUNDER.
+
+          8.3. LIMITATION OF LIABILITY.  UNDER NO CIRCUMSTANCES SHALL A PARTY
+BE RESPONSIBLE TO THE OTHER PARTY FOR INDIRECT, SPECIAL, INCIDENTAL OR
+CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE SALE, DELIVERY,
+NONDELIVERY, SERVICING, USE, MAINTENANCE, SUPPORT, CONDITION OR POSSESSION OF
+PRODUCTS, OR FOR ANY OTHER CLAIM AGAINST A PARTY BY ANY OTHER PERSON OR ENTITY
+RELATING TO THIS AGREEMENT, WHETHER SUCH CLAIM IS BASED ON BREACH OF WARRANTY,
+CONTRACT, TORT OR OTHER LEGAL THEORY.
+
+     9.   MISCELLANEOUS.
+
+          9.1.NO IMPLIED WAIVERS.  A failure by one of the parties to assert
+its rights for or upon any breach of this Agreement shall not be deemed to be a
+waiver of such rights, nor shall such waiver be implied from the acceptance of
+any payment.
+
+          9.2.FORCE MAJEURE.  Neither party shall be liable to the other party
+or in default hereunder by reason of any delay or omission caused by epidemic '
+fire, labor disputes, governmental law or regulations, executive or court
+order, Act of God or public enemy, war, civil commotion, earthquake, flood,
+accident or explosion.
+
+          9.3.NOTICES.  All notices given pursuant to this Agreement shall be
+in writing in the English language and shall be deemed effective on the day
+they are received by certified air mail or confirmed facsimile addressed to the
+other party at the address or facsimile number stated below.
+
+If to the Distributor:
+
+               Heska Corporation
+               1613 Prospect Parkway
+               Fort Collins, Colorado, 80525
+               Attn: President
+               Telephone Number: (970) 493-7272
+               Facsimile Number:(970) 484-9505
+
+If to the Manufacturer:
+
+               i-STAT Corporation
+               104 Windsor Center Drive
+               East Windsor, New Jersey 08520
+               Attention: Mr. Noah Kroloff
+               Vice-President, International Sales and Marketing and
+               Corporate Development
+               Telephone Number: (609) 443-9300
+               Facsimile Number: (609) 443-3621
+
+          9.4.GOVERNING LAW.  THIS AGREEMENT SHALL IN ALL RESPECTS BE GOVERNED
+BY, AND CONSTRUED IN ACCORDANCE WITH, THE INTERNAL LAWS (AND NOT THE LAWS OF
+CONFLICTS) OF THE STATE OF NEW JERSEY, USA.
+
+          9.5. ENTIRE AGREEMENT; AMENDMENTS.  This Agreement, including the
+schedules, constitutes the entire understanding of the parties with respect to
+the subject matter hereof and supersedes all prior or contemporaneous writings
+or discussions.  Except asotherwise expressly provided, no agreement varying or
+extending the terms of this Agreement shall be binding on either party unless
+covered by an addendum signed by an authorized representative of each party.
+
+          9.6. ASSIGNABILITY.  Distributor may not assign any of its rights or
+obligations hereunder, whether voluntarily or by operation of law, without the
+prior written consent of Manufacturer, which shall not be unreasonably
+withheld; provided, however, that no consent shall be required for the
+assignment of this Agreement to any corporation controlled by Heska Corporation
+which has, as one of its principal lines of business, the sale of diagnostic
+equipment for the veterinary market Manufacturer may assign this Agreement to
+any person to whom Manufacturer has sold or transferred the assets of the
+business relating to the Products.
+
+          9.7. SURVIVAL.  Sections 2.1, 2.2, 4.13, 5.2, 7 and 8 shall survive
+the Term.
+
+          9.8. RELATIONSHIP OF THE PARTIES.  Nothing in this Agreement or any
+other document or agreement between the Parties shall constitute or be deemed
+to constitute a partnership or joint venture between the Parties.  The
+relationship between Manufacturer and Distributor shall be that of seller and
+buyer.  No officer, agent or employee of one party shall under any
+circumstances be considered the agent, employee or representative of the other
+party.  Neither party shall have the right to enter into any contracts or
+binding commitments in the name of or on behalf of the other party in any
+respect whatsoever.
+
+                                    EXECUTION
+
+The parties have duly executed this Agreement through their duly authorized
+representatives.  This Agreement is effective as of February 9, 1999, after
+signed and delivered by both parties.
+
+                                 i-STAT CORPORATION
+
+Date:  February 24, 1999         By:  /S/
+                                    ----------------------------
+Place of Execution:              Name Noah Kroloff
+East Windsor, New Jersey,        Title:  Vice President
+U.S.A.                           International Sales and
+                                 Marketing and
+                                 Corporate Development
+
+                                 HESKA CORPORATION
+
+Date:  February 19, 1999         By:  /S/
+                                    ----------------------------
+Place of Execution:              Name:  Paul S. Hudnut
+Fort Collins, Colorado, U.S.A.   Title: Executive Vice President
+
+
+                                  SCHEDULE 1.1
+
+                        PRICE LIST FOR HESKA CORPORATION
+
+Distributor shall pay to Manufacturer the prices set forth below for purchases
+of Cartridges and Analyzers, subject to adjustment from time to time as
+specified below.
+
+Payment Terms: Net 30 days FOB, East Windsor, New Jersey.
+
+ CARTRIDGE
+PRODUCTS NO  DESCRIPTION   PRICE/TEST   QTY/BOX PRICE/BOX
+-----------  -----------   ----------   ------- ---------
+
+220300       EG7+          [ *** ]   [ *** ]    [ *** ]
+220200       EG6+          [ *** ]   [ *** ]    [ *** ]
+220100       G3+           [ *** ]   [ *** ]    [ *** ]
+125000-02    EC8+          [ *** ]   [ *** ]    [ *** ]
+121000-02    6+            [ *** ]   [ *** ]    [ *** ]
+123000-02    EC6+          [ *** ]   [ *** ]    [ *** ]
+121500-02    EC4+          [ *** ]   [ *** ]    [ *** ]
+120100-02    G             [ *** ]   [ *** ]    [ *** ]
+
+
+***  Confidential Treatment Requested
+
+Cartridge Price Adjustments.  The parties acknowledge and agree that the above
+prices for Cartridges are intended to provide Distributor with a gross profit
+of approximately fifty percent (50%).  In the event Distributor in good faith
+deems it beneficial to offer to certain, specified Customers any volume
+purchase or similar price discounts on volume or other strategic sales of
+Cartridges, or in the event competitive products or competitive pressure
+prevailing in the industry result in Distributor lowering prices on Products in
+order to maintain or increase its market or competitive position with respect
+to the Products, Manufacture agrees that it will negotiate in good faith with
+Distributor a reduction of the prices on Cartridges so that Distributor and
+Manufacturer share equally any such discount or price reductions to the extent
+of sales of such discounted Cartridges.  (By way of example, in the event
+Distributor offers a volume or other discount to a Customer of $0.20 on the
+price of EG7+ Cartridges (ex-Distributor), the transfer price to Distributor of
+such Cartridges would be reduced by $0.10, or to $4.50 per Cartridge).  As used
+herein, the term "gross profit" shall have the meaning determined in accordance
+with United States generally accepted accounting principles and Distributor's
+customary practices commensurate therewith, applied on a consistent basis
+during the periods in question.
+
+   ANALYZER
+  PRODUCT NO.           DESCRIPTION                        PRICE
+-------------      ------------------------            -------------
+
+   210000          Thermal Controlled PCA              [    ***     ]
+   111700          HP Portable Printer                 [    ***     ]
+   111501          Portable Printer Paper              [    ***     ]
+   111502          HP Portable Printer AC Adapter      [    ***     ]
+   112100          Printer Cradle w/o IR Link          [    ***     ]
+   ANALYZER
+  PRODUCT NO.           DESCRIPTION                        PRICE
+-------------      ------------------------            -------------
+
+   111002          9 Volt Lithium Batteries            [    ***     ]
+   131000          Aqueous Controls Level 1            [    ***     ]
+   131500          Aqueous Controls Level 2            [    ***     ]
+   132000          Aqueous Controls Level 3            [    ***     ]
+   135681          Calibration Verification Set        [    ***     ]
+   114000          Capillary Tubes 65 uL               [    ***     ]
+   112200          IR Link With Cradle                 [    ***     ]
+   111900          Seiko Printer with IR Link          [    ***     ]
+   142000          Comprehensive Service Plan -        [    ***     ]
+                   Analyzer
+   142000          Comprehensive Service Plan - CDS    [    ***     ]
+
+  PRODUCT NO.              DESCRIPTION                 PRICE
+-------------      ------------------------            -------------
+
+   010382-02       Cable, IR Link, 5 feet              [    ***     ]
+
+                   CDS Configuration
+   115002          CDS Hardware (CPU)                  [    ***     ]
+   012124-01       CDS Monitor                         [    ***     ]
+   010514          Cable, Printer                      [    ***     ]
+   111800          Printer, CDS                        [    ***     ]
+   013040-01       CDS Software                        [    ***     ]
+                   Total CDS Configuration             [    ***     ]
+
+                   Software Download Kit
+   112200          IR Link                             [    ***     ]
+   112250          Power Adaptor                       [    ***     ]
+   010382-02       Cable, IR, 5 ft                     [    ***     ]
+   012127-01       Adaptor, Keyboard, AT, IBM          [    ***     ]
+   012128-01       Adaptor, Keyboard, IBM, AT          [    ***     ]
+   517000          Total Software Download Kit         [    ***     ]
+
+   011786-01       Paper, Printer, Seiko (2)           [    ***     ]
+
+
+*** Confidential Treatment Requested
+
+Annual Price Adjustment-Analyzers.  In the event of an increase in
+Manufacturing Costs (as defined below) to Manufacturer resulting in an
+increase, individually or in the aggregate, of total finished cost of goods of
+any series 200 Analyzer in 2000 or 2001 for at least ninety (90) days, the
+Purchase Price to Distributor for each such Analyzer may be adjusted upwards by
+Manufacturer for contract year 2000 or 2001, as applicable (but only once in
+each such contract year) by not more than an aggregate percentage increase in
+the Purchase Price for such Analyzer of ten percent (10%).  Manufacturer will
+notify Distributor of such price adjustments at least 60 days priorto such
+price adjustment and will furnish Distributor a revised Schedule 1.1 to this
+Agreement.  Upon Distributor's request, Manufacturer will finmish supporting
+documentation therefor and permit Distributor to verify the accuracy of the
+Manufacturing Costs and any increases thereof passed through to Distributor
+hereunder Such adjustments may not be applied to previously-issued invoices.
+For purposes of this Schedule 1.1, "Manufacturing Cost" shall mean direct
+material and labor cost incurred by Manufacturer to manufacture Analyzers, or
+alternatively, the bona fide invoice cost to Manufacturer for Analyzers
+manufactured for Manufacturer by an unaffiliated third party manufacturer.
+
+Other Hardware and Software Price Adjustments (excluding Cartridges).  In the
+event of a change in the cost of manufacturing or acquiring other hardware
+components, the Purchase Price to Distributor may be adjusted upwards or
+downwards by Manufacturer in proportion to the percentage change in the cost of
+manufacture or acquisition.
+
+Dating:
+
+Four months of Cartridge shelf life is guaranteed for any Purchase order issued
+45 days in advance of ship date.  Cartridges will not be shipped to Distributor
+with less than 4 months shelf life unless Distributor is notified in advance
+and agrees to a shorter shelf life.
+
+                                  SCHEDULE 8.2
+
+                                    WARRANTY
+
+Subject to Distributor's and Distributor's Customers' shipping, storing and
+handling the Products in accordance with Manufacturer's (or the maker's)
+specifications and instructions, Manufacturer warrants the Products (excluding
+consumable supplies) to be free from defects in materials or workmanship for
+one year from the original date of purchase subject to these terms and
+conditions.  Returns will not be accepted without prior written authorization
+from Manufacturer and Products must show no evidence of improper shipping,
+storing or handling or operation, including unauthorized repairs and/or damage
+caused by batteries.
+
+At its option, Manufacturer may repair or replace defective Products covered by
+this warranty.  MANUFACTURER EXPRESSLY DISCLAIMS ALL OTHER WARRANTIES, WHETHER
+EXPRESS, IMPLIED, OR STATUTORY, INCLUDING THE WARRANTY OF MERCHANTABILITY AND
+FITNESS OF USE.  In no event shall Manufacturer be liable for consequential
+damages arising out of the use of its Products.
+
+
+</TEXT>
+</DOCUMENT>

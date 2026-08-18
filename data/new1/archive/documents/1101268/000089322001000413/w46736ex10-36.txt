@@ -1,0 +1,105 @@
+<DOCUMENT>
+<TYPE>EX-10.36
+<SEQUENCE>17
+<FILENAME>w46736ex10-36.txt
+<DESCRIPTION>AMENDMENT NO. 2 TO VALUE ADDED SELLER AGREEMENT
+<TEXT>
+
+<PAGE>   1
+                                                                   EXHIBIT 10.36
+
+
+  Confidential  Materials omitted and filed separately with the Securities and
+                Exchange Commission. Asterisks denote omissions.
+
+                              AMENDMENT NUMBER TWO
+
+                        TO VALUE ADDED RESELLER AGREEMENT
+
+THIS AMENDMENT NUMBER TWO TO VALUE ADDED RESELLER AGREEMENT (the "Amendment"),
+is made and entered into on the date authorized signatures of both parties are
+affixed hereto, by and between BellSouth Wireless Data, L.P., with an address at
+10 Woodbridge Center Drive, Woodbridge, New Jersey 07095 ("BellSouth"), and
+GoAmerica Communications Corporation, with an address at 401 Hackensack Avenue,
+Hackensack, New Jersey , 07601 ("GoAmerica").
+
+WHEREAS. BellSouth and GoAmerica have entered into a "Value Added Reseller
+Agreement", dated August 31, 1999 which agreement was amended by the parties by
+Amendment Number Two to Value Added Reseller Agreement signed by GoAmerica on
+March 10, 2000 and by BellSouth on March 10, 2000 (collectively the
+"Agreement"); and
+
+WHEREAS, BellSouth and GoAmerica desire to further amend the Agreement to permit
+GoAmerica to provide for certain Supplemental Services as defined and set forth
+below.
+
+NOW, THEREFORE, in consideration of the mutual covenants hereinafter set forth
+and other good and valuable consideration. BellSouth and GoAmerica hereby agree
+to further amend the Agreement as follows:
+
+1.   A) GoAmerica shall have the right to provide GoAmerica Service to
+     subscribers for use in connection with Subscriber Units activated on the
+     BellSouth Facilities by BellSouth, or by third party resellers (the
+     "Supplemental Services") only under the following conditions: a) GoAmerica
+     shall provide Supplemental Services only In connection with GoAmerica's
+     GoWeb service (the "Supplemental GoWeb Service") and not in connection with
+     any other GoAmerica Service, b) it shall be GoAmerica's obligation to
+     obtain any consent which may be required by the third party reseller, if
+     any, which has registered the unit an the BellSouth Facilities,
+     b) GoAmerica shall not provide Supplemental GoWeb Services to a Subscriber
+     Unit without prior written notice to BellSouth Informing BellSouth of the
+     MAN number of each radio modem to which GoAmerica Intends to provide
+     Supplemental GoWeb Service, c) GoAmerica shall Identify a unique Fixed
+     Terminal Subscription which shall permit BellSouth to Isolate and bill the
+     Supplemental GoWeb Service as stand alone GoWeb traffic and d) GoAmerica
+     shall pay for the use of the BellSouth Facilities, in connection With the
+     provision of Supplemental GoWeb Services, as provided In Section 2 of this
+     Amendment,
+
+<PAGE>   2
+  Confidential  Materials omitted and filed separately with the Securities and
+                Exchange Commission. Asterisks denote omissions.
+
+     A) Except as provided in Section 1A above with respect to Supplemental
+     GoWeb Service, GoAmerica shall not provide Supplemental Services without
+     the written consent of BellSouth. As a condition of BellSouth's consent,
+     BellSouth shall have the right to charge such additional fees and impose
+     such additional terms and conditions, as BellSouth in its sole discretion
+     shall deem appropriate.
+
+2.   Section III of Schedule 2.2 is amended to add the following additional
+     Price Plan:
+
+          "Supplemental GoWeb Services Price Plan
+
+          Any Subscriber unit billable under this Price Plan shall be billed
+          each month at the rate of i) $[**] for the first [**] Kilobytes or
+          part thereof, plus ii) $[**] for each Kilobyte or part thereof in
+          excess of the [**] Kilobyte per month limit."
+
+3.   Except as modified and/or amended herein, all of the definitions, terms,
+     covenants and conditions contained in the Agreement shall remain in full
+     force and effect and shall be applicable to this Amendment.
+
+IN WITNESS WHEREOF, GoAmerica and BellSouth have caused this Amendment to be
+duly executed by their respective duly authorized representatives as of the day
+and year first above written. This Amendment will not be fully executed and
+binding on the parties unless and until authorized signatures of both parties
+are affixed hereto.
+
+<TABLE>
+
+<S>                                                <C>
+GoAmerica Communications Corp.                     BellSouth Wireless Data, L.P.
+
+By:     Joseph Korb                               By:        Thomas Langan
+   -----------------------------                     ---------------------------
+Title:  Executive Vice President                  Title:     Vice President
+      --------------------------                        ------------------------
+Date:   March 21, 2000                            Date:      3/10/00
+     ---------------------------                        ------------------------
+</TABLE>
+
+                                       -2-
+</TEXT>
+</DOCUMENT>

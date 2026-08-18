@@ -1,0 +1,951 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>36
+<FILENAME>ex10-6_3.txt
+<TEXT>
+                                                                  Exhibit 10.6.3
+
+                                                                  CONFORMED COPY
+
+                                28 SEPTEMBER 2001
+
+                        GRANITE FINANCE FUNDING LIMITED
+
+                                     -and-
+
+                      MOURANT & CO. CAPITAL (SPV) LIMITED
+                         as Corporate Services Provider
+
+
+
+--------------------------------------------------------------------------------
+
+                           AMENDMENT AND RESTATEMENT
+
+                                 relating to a
+
+                     CORPORATE SERVICES PROVIDER AGREEMENT
+
+                              dated 26 March 2001
+
+--------------------------------------------------------------------------------
+
+
+<PAGE>
+
+
+THIS AMENDMENT AND RESTATEMENT is made on 28 September 2001
+
+BETWEEN:
+
+(1)   GRANITE FINANCE FUNDING LIMITED, a company incorporated under the laws of
+      Jersey, registered number 79308, whose registered office is at 22
+      Grenville Street, St. Helier, Jersey JE4 8TB, Channel Islands (Company);
+      and
+
+(2)   MOURANT & CO. CAPITAL (SPV) LIMITED, a company incorporated under the laws
+      of England and Wales, registered number 4092438, whose registered office
+      is at 4th Floor, 35 New Bridge Street, London EC4V 6BW (Corporate Services
+      Provider).
+
+WHEREAS:
+
+(A)   The Corporate Services Provider has agreed to provide corporate services
+      to the Company on the terms and subject to the conditions contained in the
+      Corporate Services Provider Agreement dated 26 March 2001 (the Corporate
+      Services Provider Agreement).
+
+(B)   The parties now wish to amend and restate the Corporate Services Provider
+      Agreement pursuant to the provisions set out herein.
+
+(C)   With effect from the date hereof, the provisions of the Corporate Services
+      Provider Agreement and this Amendment and Restatement shall be read and
+      construed as one document.
+
+      NOW IT IS HEREBY AGREED as follows:
+
+1.    INTERPRETATION
+
+1.1.  The master Definitions Schedule signed for the purposes of identification
+      by Brown & Wood and Clifford Chance Limited Liability Partnership on 26
+      March 2001 (as the same may be amended, varied or supplemented from time
+      to time with the consent of the parties hereto) is expressly and
+      specifically incorporated into this Amendment and Restatement and (to the
+      extent necessary) these presents, and accordingly, the expressions defined
+      in the Master Definitions Schedule (as so amended, varied or supplemented)
+      shall, except where the context otherwise requires and save where
+      otherwise defined herein, have the same meanings in these presents,
+      including the recitals hereto and these presents shall be construed in
+      accordance with the interpretation provisions set out in Clause 2
+      (Interpretation and Construction) of the Master Definitions Schedule.
+
+1.2.  The Corporate Services Provider Agreement as amended and restated pursuant
+      hereto shall be referred to herein as the Amended and Restated Agreement.
+
+
+                                       1
+<PAGE>
+
+
+1.3.  As used in the Corporate Services Provider Agreement and as amended and
+      restated by this Deed of Amendment and Restatement, the terms "CORPORATE
+      SERVICES PROVIDER AGREEMENT", "THIS CORPORATE SERVICES PROVIDER
+      AGREEMENT", "AGREEMENT", "THIS AGREEMENT", "HEREIN", "HEREINAFTER",
+      "HEREOF", "HERETO" and other words of similar import shall mean or refer
+      to the Amended and Restated Corporate Services Provider Agreement, unless
+      the context otherwise specifically requires.
+
+2.    AMENDMENTS TO THE CORPORATE SERVICES PROVIDER AGREEMENT
+
+      Upon execution of this Amendment and Restatement by the parties hereto,
+      the Corporate Services Provider Agreement shall be and hereby is amended
+      and restated in the form of Appendix I hereto.
+
+3.    COUNTERPARTS
+
+      This Deed of Amendment and Restatement may be executed in any number of
+      counterparts, and has the same effect as if the signatures on the
+      counterparts were on a single copy of this Deed of Amendment and
+      Restatement.
+
+4.    GOVERNING LAW
+
+      This Amendment and Restatement is governed by, and shall be construed in
+      accordance with, the laws of Jersey.
+
+
+                                       2
+<PAGE>
+
+
+                                 EXECUTION PAGE
+
+IN WITNESS WHEREOF THIS AMENDMENT AND RESTATEMENT HAS BEEN EXECUTED BY THE
+PARTIES HERETO AND ENTERED INTO THE DAY AND YEAR FIRST ABOVE WRITTEN.
+
+
+
+SIGNED BY J.C. WALKER
+
+For and on behalf of
+Granite Finance Funding Limited
+
+
+
+SIGNED BY NIGEL C. BRADLEY
+
+For and on behalf of
+Mourant & Co. Capital (SPV) Limited
+
+
+                                       3
+<PAGE>
+
+
+                                   APPENDIX I
+
+           AMENDED AND RESTATED CORPORATE SERVICE PROVIDER AGREEMENT
+
+
+                                       4
+<PAGE>
+
+
+                               28 SEPTEMBER 2001
+
+
+                        GRANITE FINANCE FUNDING LIMITED
+
+
+                                      AND
+
+
+                      MOURANT & CO. CAPITAL (SPV) LIMITED)
+
+
+
+             ======================================================
+
+                      FIRST AMENDED AND RESTATED CORPORATE
+                          SERVICES PROVIDER AGREEMENT
+             DATED 28 SEPTEMBER, 2001 WHICH AMENDS AND RESTATES THE
+              CORPORATE SERVICES PROVIDER AGREEMENT DATED 26 MARCH
+                                      2001
+
+             ======================================================
+
+
+
+
+                                     [LOGO]
+                             MOURANT DU FEU & JEUNE
+
+                   ADVOCATES, SOLICITORS AND NOTARIES PUBLIC
+   PO Box 87, 22 Grenville Street, St. Helier, Jersey JE4 8PX, Channel Islands
+                      Tel: 01534 609000 Fax: 01534 609333
+
+
+(C) Mourant du Feu & Jeune
+
+
+<PAGE>
+
+
+THIS AGREEMENT is made the 28 day of September 2001 and amends and restates the
+Corporate Services Provider Agreement dated 26 March 2001.
+
+BETWEEN
+
+(1)   GRANITE FINANCE FUNDING LIMITED, a company incorporated under the laws of
+      Jersey, registered number 79308, whose registered office is at 22
+      Grenville Street, St. Helier, Jersey JE4 8TB, Channel Islands (COMPANY);
+      and
+
+(2)   MOURANT & CO. CAPITAL (SPV) LIMITED, a company incorporated under the
+      laws of England and Wales, registered number 4092438, whose registered
+      office is at 4th Floor, 35 New Bridge Street, London EC4V 6BW (CORPORATE
+      SERVICES PROVIDER).
+
+WHEREAS
+
+(A)   The Company has executed a Mortgages Trust Deed dated 26 March 2001 (as
+      amended, varied or supplemented from time to time) between itself,
+      Northern Rock plc as Seller and Beneficiary (SELLER) and Granite Finance
+      Trustee Limited as Trustee (TRUSTEE) (MORTGAGES TRUST DEED), whereby the
+      Trustee undertakes to hold the benefit of all the Trust Property (as
+      defined in the Mortgages Trust Deed) from time to time transferred to it
+      or acquired by it from Northern Rock plc upon trust for the Seller and the
+      Company in accordance with the terms of the Mortgages Trust Deed.
+
+(B)   In order to fund its Contributions from time to time to the Mortgages
+      Trustee for the Funding Share of the Trust Property, the Company shall
+      from time to time enter into Intercompany Loan Agreements.
+
+(C)   The Company has requested the Corporate Services Provider to provide
+      administrative and secretarial services to the Company upon the terms set
+      out in this Agreement in order to carry out its obligations under the
+      Transaction Documents. The Corporate Services Provider is willing to
+      provide such services to the Company upon such terms.
+
+NOW IT IS HEREBY AGREED as follows:
+
+1.    INTERPRETATION
+
+      1.1.  Terms used herein and not otherwise defined herein shall have the
+            meanings ascribed to them in the Articles of Association of the
+            Company as in full force from time to time (hereinafter the ARTICLES
+            OF ASSOCIATION).
+
+      1.2.  Words importing the singular shall include the plural and the
+            masculine gender shall include the feminine and the neuter and vice
+            versa in each case and words importing persons shall include bodies
+            of persons whether corporate or unincorporated.
+
+      1.3.  The Master Definitions Schedule signed for the purposes of
+            identification by Brown & Wood and Clifford Chance Limited Liability
+            Partnership on 26 March 2001 (as the same may be amended, varied or
+            supplemented from time to time with the consent of the parties
+            hereto) is expressly and specifically incorporated into this
+            Agreement and, accordingly, the expressions defined in
+
+
+                                       1
+<PAGE>
+
+
+            the Master Definitions Schedule (as amended, varied or supplemented)
+            shall, except where the context otherwise requires and save where
+            otherwise defined herein, have the same meanings in this Agreement
+            and in the Recitals hereto, and this Agreement shall be construed in
+            accordance with the interpretation provisions set out in Clause 2
+            (Interpretation and Construction) of that Master Definitions
+            Schedule.
+
+      1.4.  The headings in this Agreement do not affect its interpretation.
+
+      1.5.  References to "clauses" (unless otherwise specified) are references
+            to clauses of this Agreement.
+
+      1.6.  References to any Agreement shall be construed as a reference to
+            such Agreement as the same may be, or may from time to time have
+            been amended, modified, supplemented or restated.
+
+      1.7.  '(pound)' and 'sterling' denote lawful currency of the United
+            Kingdom.
+
+2.    ADMINISTRATIVE SERVICES
+
+      The Corporate Services Provider shall provide the following services (the
+      SERVICES) in England and shall arrange for the Services (where indicated
+      below) to be provided by its sister company, Mourant & Co. Limited in
+      Jersey:
+
+      2.1   a registered office in Jersey and administrative office in England
+            for the Company;
+
+      2.2   the services of two individuals who will accept the office as
+            Directors of the Company;
+
+      2.3   the services of a secretary to the Company to perform all the duties
+            properly required of a secretary by the directors of the Company and
+            the Companies (Jersey) Law 1991 (the LAW);
+
+      2.4   the arrangement of meetings of directors and shareholders of the
+            Company in England and the preparation of minutes of such meetings;
+
+      2.5   the arrangement of annual meetings and any other meetings of the
+            shareholders of the Company;
+
+      2.6   the maintenance of the statutory books of the Company and any other
+            books and records required by law or ordinarily required by a Jersey
+            company and the preparation and issue of share certificates;
+
+      2.7   the preparation and submission of annual returns of the Company and
+            procuring that the Company pays the fee required to be paid to the
+            Jersey authorities in connection therewith;
+
+      2.8   the preparation and submission of any other documents required by
+            law to be prepared or filed by the Company;
+
+
+                                       2
+<PAGE>
+
+
+      2.9   the provision of book keeping services and preparation of the
+            Company's accounts based upon the Finance Trustees Ledgers as
+            maintained by the Cash Manager, the quarterly management accounts
+            maintained by the Cash Manager and the records maintained by the
+            Administrator;
+
+      2.10  the instruction of the Company's auditors to prepare the annual
+            audited financial statements;
+
+      2.11  the safekeeping of the common seal of the Company and arranging for
+            sealing of documents as authorised by the directors of the Company.
+
+      2.12  obtaining exempt status for the Company under the provisions of the
+            Income Tax (Jersey) Law 1961, as amended and procuring that the
+            Company pays the fee required to be paid to the Comptroller of
+            Income Tax in order to obtain such status;
+
+      2.13  the provision (if necessary) of nominees to hold the issued shares
+            of the Company; and
+
+      2.14  the execution of all such agreements, documents and undertakings as
+            shall be necessary in connection with the Business of the Company if
+            so authorised by valid resolution of the Board of Directors of the
+            Company;
+
+      2.15  the acceptance of service of process and any other documents or
+            notices to be served on the Company.
+
+3.    THE CORPORATE SERVICE PROVIDER'S DUTIES
+
+      3.1   The Corporate Service Provider shall at all time (subject to Clause
+            5 hereof) act in accordance with all reasonable and proper
+            directions, orders and instructions given by the Board of Directors
+            of the Company.
+
+      3.2   The Corporate Service Provider shall not knowingly do or knowingly
+            omit to do anything which would constitute a breach of any
+            provisions of the Articles of Association of the Company or of any
+            legally binding restrictions applying to the Company. This includes
+            but is not limited to any legally binding restrictions applying to
+            the Company as a consequence of its being a party to the Transaction
+            Documents.
+
+4.    TRANSACTION ACCOUNTS AND GIC ACCOUNTS
+
+      4.1   The Company confirms that the Funding Bank Accounts have been, or,
+            as the case may be, will be established and that mandates in
+            accordance with the Bank Account Agreement and the relevant Funding
+            (Issuer) Bank Account Agreement, as applicable, have been, or as the
+            case may be, will delivered to the Account Bank immediately
+            following the execution of this Agreement and that as at the date of
+            this Agreement none of the Accounts are overdrawn.
+
+
+                                       3
+<PAGE>
+
+
+      4.2   The Company will operate the Funding Bank Accounts and the Funding
+            GIC Accounts in accordance with the terms of the Funding Transaction
+            Documents, as applicable. The Corporate Services Provider shall
+            (subject to clause 5 hereof) only give instructions on behalf of the
+            Company to the Account Bank for the deposit, withdrawal or transfer
+            of funds in accordance with information provided by the Cash Manager
+            from time to time pursuant to the Cash Management Agreement.
+
+      4.3   The Corporate Service Provider shall be entitled to rely upon the
+            information provided by the Cash Manager and it shall be no part of
+            its duties to make enquiry as to the accuracy or completeness of
+            that information.
+
+5.    ENFORCEMENT NOTICE
+
+      5.1   The Company shall notify the Corporate Services Provider of the
+            receipt of an Enforcement Notice.
+
+      5.2   In the event that the Corporate Service Provider has received
+            notification pursuant to Clause 5.1 hereof, the Corporate Services
+            Provider shall act only in accordance with the directions of the
+            Security Trustee.
+
+6.    STATUTORY ACCOUNTS
+
+      6.1   The Corporate Services Provider shall, subject to all applicable
+            laws, provide all information and access to books and records as the
+            Auditors may reasonably require for the purpose auditing the annual
+            accounts of the Company;
+
+      6.2   The Corporate Services Provider shall, in conjunction with the
+            Auditors and subject to the provision of any necessary information
+            by the Cash Manager, assist in the preparation of the profit and
+            loss account, balance sheet and directors' report and any other
+            report or information required by law to be attached to them or
+            incorporated in them for the Company in respect of each accounting
+            reference period. Subject to the approval of the Company, the
+            Corporate Service Provider shall procure, so far as it is able to do
+            so, that the Auditors shall make a report thereon as required by
+            law;
+
+      6.3   The Corporate Services Provider shall arrange for the Cash Manager
+            and the Security Trustee to receive such copies of the audited
+            accounts as shall be required by the Transaction Documents within
+            120 days of the end of each accounting reference period. It shall
+            also send copies of the audited accounts to such other parties as
+            either the Cash Manager or the Security Trustee shall request;
+
+      6.4   The Corporate Services Provider shall take all reasonable steps to
+            procure that, within 120 days of the end of each accounting
+            reference period, the Auditors provide to the Cash Manager for
+            submission to the Financial Services Authority, the London Stock
+            Exchange plc, the Jersey Registrar of Companies, S&P, Moody's and
+            Fitch a copy of the Auditors' report.
+
+
+                                       4
+<PAGE>
+
+
+7.    DATA PROTECTION AND CONSUMER CREDIT
+
+      The Company confirms that it has applied for registration under the Data
+      Protection Act 1998 and obtained a licence under the Consumer Credit Act
+      1974 in the United Kingdom. The Corporate Services Provider will use its
+      best endeavours to procure that the Company maintains such registrations
+      and that the Company obtains and maintains all necessary registrations,
+      licences and authorities required to enable the Company to perform its
+      obligations under the Transaction Documents.
+
+8.    DESIGNATED RESOURCES - DESIGNATED CSP STAFF
+
+      8.1   The Corporate Service Provider shall procure that from the Initial
+            Closing Date until the Final Redemption (the CSP STAFF PERIOD),
+            three full time employees of its sister company Mourant & Co.
+            Limited in Jersey (the DESIGNATED CSP STAFF, each employee being a
+            DESIGNATED SCP STAFF MEMBER) are available on a non-exclusive and
+            part time basis to the Company in Jersey.
+
+      8.2   On the Initial Closing Date, the initial Designated CSP Staff
+            Members are expected to be: Richard Gough; Shelagh Thornhill and
+            Annette Cunningham. The Corporate Services Provider may designate an
+            alternative individual or individuals to be a Designated CSP Staff
+            Member, PROVIDED THAT if the Corporate Services Provider becomes
+            aware of any notice of termination of the contract of employment
+            given or received from a Designated CSP Staff Member, the Corporate
+            Services Provider will promptly notify the Security Trustee and
+            shall ensure that an alternative individual is designated as a
+            replacement Designated CSP Staff Member AND PROVIDED THAT at all
+            times the Designated CSP Staff are resident in Jersey.
+
+      8.3   This Agreement is a contract for services and is not intended to
+            constitute and nothing in this Agreement shall have the effect of
+            constituting any relationship of employer and employee between the
+            Company, (as employer), and the Designated CSP Staff Members (as
+            employee). Notwithstanding the designation of the Designated CSP
+            Staff as available on a non-exclusive basis to provide Services, the
+            Designated CSP Staff will not, at any time, be under the control or
+            management of the Company. None of the Designated CSP Staff will be
+            employed by the Corporate Services Provider (or such other company
+            as the Corporate Services Provider may designate for this purpose)
+            exclusively to perform the Services.
+
+      8.4   This Agreement is not intended to an nothing in this Agreement shall
+            have the effect of constituting a Designated CSP Staff Member as
+            agent of the Company. No Designated CSP Staff member shall have the
+            authority or right to contract on behalf of the Company or to bind
+            it in any way in relation to third parties, save as specifically
+            authorised by the Company from time to time or, as applicable, where
+            the Designated CSP Staff Member is acting solely in his capacity as
+            a director of the Company and has been duly authorised in that
+
+
+                                       5
+<PAGE>
+
+
+            regard by the board of directors of the Company. Nothing in this
+            Agreement shall constitute a partnership or joint venture between
+            the parties.
+
+      8.5   For the avoidance of doubt, the Corporate Services Provider may at
+            its discretion, and shall where necessary, use other persons in the
+            performance of the Services where needed in supplement to, or
+            substitution of the Designated CSP Staff PROVIDED THAT such persons
+            are resident in Jersey.
+
+9.    DESIGNATED RESOURCES - OFFICE SPACE
+
+      9.1   The Corporate Services Provider agrees to arrange for its sister
+            company Mourant & Co. Limited in Jersey to designate a specific area
+            (the DESIGNATED OFFICE SPACE) within the premises of the Mourant &
+            Co. Limited in Jersey as the office from which the Designated CSP
+            Staff may perform the Services, and where the Corporate Services
+            Provider may (but is not required to) store files, records and
+            correspondence referred to in Clause 10 below.
+
+      9.2   The Designated Office Space will not be used exclusively by Mourant
+            & Co. Limited in Jersey to provide the Services.
+
+      9.3   The Corporate Services Provider and Mourant & Co. Limited in Jersey
+            may provide services to other companies managed and administered by
+            the Corporate Services Provider and/or Mourant & Co. Limited from
+            the Designated Office Space.
+
+      9.4   Mourant & Co. Limited in Jersey will retain possession and control
+            of the Designated office Space and the Company will not have
+            possession or control of either;
+
+            (a)   the Designated Office Space itself; or
+
+            (b)   any means of access thereto or egress therefrom; or
+
+            (c)   any plant or substance in the Designated Office Space; or
+
+            (d)   any equipment or files in the Designated Office Space.
+
+            For the avoidance of doubt, nothing in this Agreement shall be taken
+            as granting a lease, licence or other interest in the Designated
+            Office Space which shall remain the property of Mourant & Co.
+            Limited.
+
+10.   DESIGNATED RESOURCES
+
+      10.1  The Corporate Services Provider further agrees that it will arrange
+            for its sister company Mourant & Co. Limited in Jersey to provide
+            dedicated communication facilities to the Company, which facilities
+            may include a separate telephone and telefax line and be (but shall
+            not be required to be provided in the Designated office Space and
+            which may be (but shall not be required to be) manned by the
+            Designated CSP Staff.
+
+
+                                       6
+<PAGE>
+
+
+      10.2  The Corporate Services Provider shall maintain files, records and
+            correspondence relating to the Company and may do so, but shall not
+            be required to do so, in the Designated Office Space.
+
+11.   WARRANTIES AND UNDERTAKINGS OF THE CORPORATE SERVICES PROVIDER
+
+      11.1  The Corporate Services Provider warrants to the Company:
+
+            a)    it is duly registered as a company limited by shares under
+                  English Law;
+
+            b)    it has power under its Memorandum and Articles of Association,
+                  and all necessary corporate authority has been obtained and
+                  action taken for it to sign and deliver and perform the
+                  transactions contemplated in this Agreement; and
+
+            c)    the signing and deliver of this Agreement does or will not
+                  contravene or constitute a default under, or cause to be
+                  exceeded any limitation on it or the powers of its directors,
+                  imposed by the contained in, (1) any law by which it or any of
+                  its assets is bound or affected, (2) its Memorandum and
+                  Articles of Association, or (3) any agreement to which it is a
+                  party or by which any of its assets is bound.
+
+      11.2  The Corporate Services Provider undertakes generally to provide or
+            procure such human and other resources as is appropriate to perform
+            all the Services described in this Agreement to the appropriate
+            standard.
+
+12.   NON - PETITION AND LIMITED RECOURSE
+
+      12.1  The Corporate Services Provider agrees that it will no initiate or
+            join any person in initiating an Insolvency Event in relation to the
+            Company so long as any sum is outstanding under any Intercompany
+            Loan Agreement of any Issuer or for two years plus one day since the
+            last day of which such sum was outstanding.
+
+      12.2  In relation to Funding:
+
+            (a)   only the Security Trustee may enforce the security created in
+                  favour of the Security Trustee under the Funding Deed of
+                  Charge in accordance with the provisions thereof;
+
+            (b)   notwithstanding any other provision of this Agreement or any
+                  other Transaction Document, no sum owing to any part to this
+                  Agreement from or by Funding under this Agreement shall be
+                  payable by Funding (following enforcement of the Funding
+                  Security) the Security Trustee has realised sufficient funds
+                  from the Funding Security to pay such sum subject to and in
+                  accordance with the relevant Funding Priority Payments and
+                  provided that all liabilities of Funding required to be paid
+                  in priority thereto or pari passu therewith pursuant to such
+                  Funding
+
+
+                                       7
+<PAGE>
+
+
+                  Priority of Payments have been paid, discharged and/or
+                  otherwise provided for in full; and
+
+            (c)   it shall not take any steps for the purpose of recovering any
+                  amount payable by Funding or enforcing rights arising out of
+                  this Agreement against Funding otherwise than in accordance
+                  with the Funding Deed of Charge.
+
+13.   ASSIGNMENT
+
+      Except with the consent of the Security Trustee, the Corporate Services
+      Provider may not assign or transfer or purport to assign or transfer a
+      right or obligation under this Agreement.
+
+14.   INFORMATION AND DATA REGARDING THE COMPANY
+
+      14.1  The Corporate Services Provider hereby agrees that all information
+            and data held by it in respect of the Company on any computer system
+            of the Corporate Services Provider is the sole property of the
+            Company.
+
+      14.2  The Corporate Services Provider agrees that all such information and
+            data and all other information relating to the service provided
+            under this Agreement shall be kept safely and treated as
+            confidential. It shall not be disclosed to any third party, except
+            with the prior written consent of the Company or except as may be
+            required by law or by any regulatory authority. The Corporate
+            Services Provider agrees to use the same solely for the purposes of
+            this Agreement. The Agreement constituted by the terms of the Clause
+            14.2 shall continue even after the termination of this Agreement.
+
+      14.3  After termination of this Agreement the Corporate Services Provider
+            shall deliver up to the Company, within 2 working days of the
+            Company's request therefor, all such information and data, or, at
+            the request of the Company destroy the same.
+
+15.   REMUNERATION
+
+      15.1  The Company shall remunerate the Corporate Service Provider in
+            accordance with the fees set out in the Schedule hereto for the
+            supply of services to the Company pursuant to this Agreement.
+
+      15.2  In addition to the scale of fees, the Corporate Services Provider,
+            its officers, employees, and any person to whom it has delegated its
+            duties hereunder shall be entitled to reimbursement of all out of
+            pocket expenses reasonably incurred by them in the proper
+            performance of such services hereunder.
+
+16.   INDEMNITY
+
+      16.1  The Company shall at all times keep the Corporate Services Provider,
+            its directors, officer, employees, agents and nominees fully and
+            effectively indemnified and saved harmless against all actions,
+            proceedings, claims,
+
+
+                                       8
+<PAGE>
+
+
+            demands, damages, costs and other liabilities whatsoever arising out
+            of the performance of its or their duties under this Agreement save
+            only liabilities arising as a consequence of negligence, bad faith,
+            fraud or wilful misconduct on the part of such persons. This
+            indemnity shall continue after the termination of the duties of the
+            Corporate Services Provider under this Agreement and the benefit
+            shall extend to all directors, officers, employees, agents and
+            nominees of the Corporate Services Provider from time to time and to
+            the successors in title of the Corporate Services Provider.
+
+      16.2  The Corporate Services Provider shall at all times keep the Company,
+            its directors, officers, employees, agents and nominees fully and
+            effectively indemnified and saved harmless against all actions,
+            proceedings, claims, demands, damages, costs and other liabilities
+            whatsoever arising out of any breach by the Corporate Services
+            Provider in its duties under this Agreement or arising as a
+            consequence of negligence, bad faith, fraud or wilful misconduct on
+            the part of the Corporate Services Provider. This indemnity shall
+            continue after the termination of the duties of the Corporate
+            Services Provider under this Agreement and the benefit shall extend
+            to all directors, officers, employees, agents and nominees of the
+            Company from time to time and to the successors in title of the
+            Company.
+
+17.   LIABILITY OF THE CORPORATE SERVICES PROVIDER
+
+      17.1  The Corporate Services Provider shall not be liable for any loss to
+            the Company arising in consequence of the failure, depreciation or
+            loss of any investments (of the Company) made in accordance with
+            instructions and guidelines given by the Board of Directors of the
+            Company except by reason of fraud, wilful misconduct or negligence
+            of the part of the Corporate Services Provider.
+
+      17.2  Without prejudice to the generality of clause 17.1 of this Agreement
+            the Corporate Services Provider shall not incur any liability
+            whatsoever arising from:
+
+            (a)   the negligence or fraud of any delegate or agent appointed or
+                  employed with the consent, or on the instructions of, the
+                  Board of Directors of the Company; or
+
+            (b)   anything done or omitted in conformity with any advice given
+                  or purporting to have been given by any agent appointed or
+                  employed in connection with the affairs of the Company with
+                  the consent of the Board of Directors of the Company.
+
+18.   SCOPE OF OBLIGATIONS
+
+      18.1  The Corporate Services Provider, its directors, officers, employees,
+            agents and nominees shall not be obliged to act in any manner which
+            may be contrary to law.
+
+
+                                       9
+<PAGE>
+
+
+      18.2  The Corporate Services Provider shall not be required to take any
+            legal action on behalf of the Company unless fully indemnified to
+            its satisfaction.
+
+      18.3  When deemed necessary for the proper performance of its
+            administrative duties, the Corporate Services Provider may, on
+            behalf of the Company seek legal, tax, financial, administrative or
+            other advice as well as employ third parties to provide services.
+
+      18.4  The Corporate Services Provider's obligations hereunder to procure
+            that the Company make all payments required of it shall be subject
+            to the availability of the Company's funds to do so and in no
+            circumstances shall the Corporate Services Provider be required to
+            make payments in connection with the Business of the Company out of
+            its own funds.
+
+19.   TERMINATION
+
+      19.1  The appointment of the Corporate Services Provider hereunder shall
+            terminate:
+
+            (a)   upon the expiration of 90 days notice in writing given by the
+                  Corporate Services Provider or by the Company and provided
+                  that a substitute administrator acceptable to the Company and
+                  (if applicable) the Financial Services Department of the
+                  States of Jersey Finance & Economics Committee or the Jersey
+                  Financial Services Commission (if require under any consent
+                  granted pursuant to the control of Borrowing (Jersey) Order
+                  1958 as amended) has been appointed on terms substantially the
+                  same as those set out in the Agreement and that such
+                  appointment will be effective not later than the date of the
+                  termination.
+
+            (b)   immediately if:
+
+                  (i)   an order has been made or a resolution has been passed
+                        to put the Corporate Services Provider into liquidation
+                        (except a voluntary liquidation for the purpose of
+                        reconstruction or amalgamation); or
+
+                  (ii)  the Corporate Services Provider has broken or is in
+                        breach of any of the Terms of this Agreement and shall
+                        not have remedied such breach within 30 days after
+                        services of notice requiring the same to be remedied; or
+
+                  (iii) the Corporate Services Provider is declared en desastre
+                        or has committed any act or omission indicative of
+                        insolvency; or
+
+                  (iv)  the Corporate Services Provider ceases or threatens to
+                        cease to carry on its business or a substantial part of
+                        its business or stops payment or threatens to stop
+                        payment of its debts.
+
+      19.2  Termination of the appointment of the Corporate Services Provider
+            under this Clause shall be without prejudice to the rights of any
+            party in respect of any
+
+
+                                       10
+<PAGE>
+
+
+            antecedent claim against or breach of the terms of this Agreement by
+            the Corporate Services Provider.
+
+20.   NOTICES
+
+      Notices to be given hereunder shall be delivered by hand or mailed to the
+      address of the relevant party set out herein and where mailed shall be
+      deemed to be duly given on the third day after the day of mailing.
+
+21.   NO RESTRICTIONS
+
+      Nothing in this Agreement shall limit or restrict the right of any
+      director, officer or employee of the Corporate Services Provider or any
+      director, officer, employee or partner of any of its subsidiaries or its
+      affiliates to engage in any other business or to devote his time and
+      attention to the management or other aspects of any other business,
+      whether of a similar or dissimilar nature, nor to limit or restrict the
+      right of the Corporate Services Provider or any of its subsidiaries or
+      affiliates to engage in any other business or to render services of any
+      kind of any other corporation, firm, individual or association.
+
+22.   COUNTERPARTS
+
+      The Agreement may be signed in several counterparts which, taken together,
+      shall constitute one and the same Agreement.
+
+23.   GOVERNING LAW
+
+      This Agreement shall be governed and construed in accordance with the laws
+      of Jersey.
+
+
+                                       11
+<PAGE>
+
+
+IN WITNESS WHEREOF the parties hereto have caused this Agreement to be duly
+executed this day and year first above written.
+
+
+SIGNED by                            )
+
+For and on behalf of                 )
+
+GRANITE FINANCE FUNDING LIMITED
+
+
+
+SIGNED by                            )
+
+for and on behalf of                 )
+
+MOURANT & CO. CAPITAL (SPV)          )
+LIMITED
+
+
+                                       12
+<PAGE>
+
+
+                                    SCHEDULE
+
+                 THE CORPORATE SERVICES PROVIDER'S REMUNERATION
+
+The Corporate Services Provider's remuneration for the provision of the Services
+during the period that it acts as Corporate Services Provider of the Company on
+the terms of this Agreement will be subject to review on an annual basis from
+the date of the Corporate Services Provider's appointment and initially will be
+as follows:
+
+SET-UP FEES
+
+A one off set-up fee cost of (pound)2,000.
+
+A one off set-up fee cost of (pound)1,000 per subsequent Issuer.
+
+DIRECTORS FEES
+
+A fixed annual fee of (pound)2,500 per annum.
+
+MANAGEMENT FEES
+
+A fixed annual management fee of (pound)2,000 per annum to include provision of
+registered office, company secretary, maintenance of the Company's statutory
+records, dealing with filing requirements, keeping the company in good standing
+and maintaining its exempt company status.
+
+ADMINISTRATION AND PREPARATION OF ACCOUNTS
+
+Fees calculated on a time spent basis in respect of the day to day
+administration of the Company's affairs and for the preparation of Financial
+Statements and the provision of accounting data to the auditors of the Company.
+
+OTHER COSTS
+
+Out of pocket expenses/disbursements incurred in the course of administration
+(including but not limited to the prescribed filing fee in relation to the
+Company's annual return and the annual exempt company charge payable by the
+Company pursuant to Article 123A of the Income Tax (Jersey) Law of 1961 (as
+amended)).
+
+
+                                       13
+<PAGE>
+
+
+                                    CONTENTS
+
+CLAUSE                                                                   PAGE NO
+
+1.  Interpretation ........................................................... 1
+
+2.  Administrative Services .................................................. 2
+
+3.  Corporate Service Provider's Duties ...................................... 3
+
+4.  Transaction Accounts and GIC Accounts .................................... 3
+
+5.  Enforcement Notice ....................................................... 4
+
+6.  Statutory Accounts ....................................................... 4
+
+7.  Data Protection and Consumer Credit ...................................... 5
+
+8.  Designated Resources-Staff ............................................... 5
+
+9.  Designated Resources-Office Space ........................................ 6
+
+10. Designated Resources ..................................................... 6
+
+11. Warranties and Undertakings .............................................. 7
+
+12. Non-Petition and Limited Recourse ........................................ 7
+
+13. Assignment ............................................................... 8
+
+14. Information and Data ..................................................... 8
+
+15. Remuneration ............................................................. 8
+
+16. Indemnity ................................................................ 8
+
+17. Liability and Corporate Services Provider ................................ 9
+
+18. Scope of Obligations ..................................................... 9
+
+19. Termination ..............................................................10
+
+20. Notices ..................................................................11
+
+21. No Restriction ...........................................................11
+
+22. Counterparts .............................................................11
+
+23. Governing Law ............................................................11
+
+24. Schedule .................................................................13
+
+
+                                       14
+
+</TEXT>
+</DOCUMENT>

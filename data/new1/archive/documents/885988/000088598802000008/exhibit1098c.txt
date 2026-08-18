@@ -1,0 +1,144 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>5
+<FILENAME>exhibit1098c.txt
+<DESCRIPTION>INTEGRAMED AMERICA, INC.
+<TEXT>
+
+                                     BETWEEN
+
+                            INTEGRAMED AMERICA, INC.
+
+                                       AND
+
+                        MPD MEDICAL ASSOCIATES (MA), P.C.
+
+
+         THIS AMENDMENT NO. 1 TO SERVICE AGREEMENT ("Amendment No. 1"), is dated
+March 5, 2002 by and between IntegraMed America,  Inc., a Delaware  corporation,
+with its principal place of business at One Manhattanville Road,  Purchase,  New
+York 10577  ("INMD") and MPD Medical  Associates  (MA),  P.C.,  a  Massachusetts
+professional   corporation,   with   its   principal   place  of   business   at
+Deaconess-Waltham Hospital, 9 Hope Avenue, Waltham, Massachusetts 02454 ("PC").
+
+                                    RECITALS:
+
+         WHEREAS, INMD and PC are parties to a Service Agreement dated May 25,
+2001, as amended (the "Agreement");
+
+         WHEREAS, as a result of uncertainties regarding the future availability
+of PC's current Facilities, it is the intent of the parties that pursuant to the
+Agreement INMD provide for new Facilities for PC and negotiate and enter into,
+on or before December 31, 2002 a 10-year lease for such new Facilities (the "New
+Lease"); and
+
+         WHEREAS, INMD and PC wish to amend further the Agreement, in pertinent
+part, to modify certain financial and other terms and conditions.
+
+         NOW THEREFORE, in consideration of the mutual promises and covenants
+herein contained, and as contained in the Agreement, as amended, INMD and PC
+agree as follows:
+
+         1. All capitalized terms used herein shall have the meaning ascribed to
+the term in the Agreement unless otherwise indicated herein.
+
+         2. Section 7.1.5 is hereby deleted in its entirety and the following is
+substituted therefor:
+
+         "7.1.5 Commencing with the execution (the "Lease Date") of the lease
+         for the new Facilities that INMD will provide for PC (the "New Lease"),
+         an Additional Service Fee, paid monthly, but reconciled quarterly, in
+         accordance with the following table:
+
+
+
+         Applicable Period                           Additional Service Fee
+         --------------------------------------      ----------------------
+
+         Jan. 1, 2002 - Lease Date                            20% of PDE
+         Lease Date - 1st Anniversary thereof                 19% of PDE
+         1st Ann. Lease Date - 2d Ann.                        18% of PDE
+         2d Ann. Lease Date - 3d Ann.                         17% of PDE
+         3d Ann. Lease Date - 4th Ann.                        16% of PDE
+         4th Ann. Lease Date - 5th Ann.                       15% of PDE
+         5th Ann. Lease Date - 6th Ann.                       14% of PDE
+         6th Ann. Lease Date - 7th Ann.                       13% of PDE
+         7th Ann. Lease Date - 8th Ann.                       12% of PDE
+         8th Ann. Lease Date - 9th Ann.                       11% of PDE
+         9th Ann. Lease Date - 10th Ann.                      10% of PDE
+
+         The Additional Service Fee for a given calendar year shall be finally
+         reconciled using the weighted average of the applicable percentages for
+         such year (based upon the number of months such percentages are in
+         effect), provided however, the Service Fee for the final partial
+         calendar year hereunder shall be 10%."
+
+<PAGE>
+
+         3. The first  sentence of Section 8.1 is hereby deleted in its entirety
+and the following is substituted therefor:
+
+         "The term of this Agreement shall begin as of January 1, 2001 (the
+         "Effective Date") and shall expire on the later of (i) February 28,
+         2012 or (ii) upon the expiration of the initial term of the New Lease
+         (the "Term") unless earlier terminated pursuant to Article 9, below.
+         INMD agrees to use its best efforts to ensure that the New Lease (x)
+         has an initial term of ten (10) years and (y) may be assigned to PC
+         without the consent of the Landlord. In addition, INMD agrees that if
+         so requested in writing by PC, upon expiration of the Term (or, if this
+         Agreement is extended, the Extended Term, as defined below) of this
+         Agreement, it will assign all of tenant's rights and interests in, and
+         obligations under, the New Lease to PC, provided however, INMD shall be
+         obligated to so assign the New Lease only if INMD is fully discharged
+         by the Landlord of its obligations under said New Lease.
+         Notwithstanding the foregoing, any termination of this Agreement
+         pursuant to the provisions of Article 9 hereof shall be governed by the
+         provisions of said Article 9 and Article 10 hereof."
+
+         4. A new Section 7.6 is hereby added to the Agreement as follows:
+
+                  "7.6 FIXED ASSET INTEREST. Except as provided below, PC will
+         not be charged any interest (whether directly or as a Cost of Services)
+         on INMD net fixed assets, leasehold improvements or equipment at the
+         Facilities (the "Fixed Assets"). PC agrees to pay INMD interest equal
+         to the prime rate of INMD's primary bank, plus two (2%), on new (i.e.,
+         assets or equipment acquired after the date hereof or leasehold
+         improvements made at the Facilities covered by the New Lease) INMD
+         Fixed Assets at the Facilities in excess of $2.0 million, such interest
+         being a Cost of Services."
+
+         5. This Amendment may be executed in any number of  counterparts,  each
+of which shall be deemed an original and all of which shall together  constitute
+one and the same agreement.
+
+         6. All other provisions of the Agreement,  as amended,  not in conflict
+with this Amendment No. 1 remain in full force and effect.
+
+7. Notwithstanding any provision hereof to the contrary Sections 2, 3 and 4 of
+this Amendment No. 1 shall take effect only upon execution of a New Lease,
+provided however, in the event that a New Lease is not executed prior to January
+1, 2003, this Amendment No. 1 shall terminate and be of no force or effect,
+unless otherwise agreed in writing by the parties hereto.
+
+         IN WITNESS WHEREOF, the parties have signed this Amendment No.1 as of
+the date first written above.
+
+
+INTEGRAMED AMERICA, INC.
+
+
+By:/s/Gerardo Canet
+   ------------------------------------------------
+      Gerardo Canet, President
+
+
+MPD MEDICAL ASSOCIATES (MA), P.C.
+
+
+By:/s/Patricia McShane
+   ------------------------------------------------
+      Patricia McShane, M.D., President
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,135 @@
+<DOCUMENT>
+<TYPE>EX-10.3
+<SEQUENCE>4
+<FILENAME>anthra103.txt
+<TEXT>
+                                                                  Exhibit 10.3
+
+
+            SECOND AMENDMENT, dated as of July 1, 2001 (the "Second
+Amendment"), to the Investment Advisory Agreement (the "Agreement"), dated as
+of March 27, 1998 between Anthracite Capital, Inc., a Maryland corporation
+(the "Company"), and BlackRock Financial Management, Inc., a Delaware
+corporation (the "Manager"), as amended by that (i) certain First Amendment,
+dated as of January 1, 2001 between the Company and the Manager; and (ii)
+certain letter agreement dated May 5, 2000 between the Company and the Manager.
+
+                               R E C I T A L S
+
+            Section 12 of the Agreement provides, among other things, that
+the Company and the Manager may amend the Agreement, if, but only if, such
+amendment is in writing and is signed by the parties thereto.
+
+            The Company and the Manager hereby enter into this Second
+Amendment pursuant to Section 12 of the Agreement, for good and valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged.
+
+            All things necessary to make this Second Amendment a valid
+agreement between the Company and the Manager in accordance with its terms
+have been done.
+
+            In the event that any term or provision contained herein shall
+conflict or be inconsistent with any provision contained in the Agreement,
+the terms and provisions of this Second Amendment shall govern.
+
+            All terms used in this Second Amendment which are defined in the
+Agreement have the meanings assigned to such terms in the Agreement.
+
+
+                                  ARTICLE I
+
+                                  AMENDMENTS
+
+            Section 1.1 Amendment and Restatement of Section 5(a) of the
+Agreement.
+
+            Section 5(a) of the Agreement is hereby Amended and Restated as
+follows:
+
+            "(a) Commencing with the first fiscal quarter after the Closing
+Date, the Company agrees to pay to the Manager and the Manager agrees to
+accept as full compensation for all services rendered by the Manager as such,
+(i) a quarterly base management fee calculated as a percentage of the Average
+Invested Assets of the Company on the last business day for which market
+quotations are available of each calendar quarter and equal to 1% per annum
+of such Average Invested Assets rated lower than BB- or not rated, 0.75% of
+such Average Invested Assets rated BB- through BB+, and 0.20% of such Average
+Invested Assets that are rated above BB+ and (ii) incentive compensation for
+each fiscal quarter in an amount equal to the product of (A) 25% of the
+dollar amount by which (1)(a) Funds From Operations of the Company (before
+incentive fee) per share of Common Stock (based on the weighted average
+number of shares outstanding) plus (b) gains (or minus losses) from debt
+restructuring and sales of property per share of Common Stock (based on the
+weighted average number of shares outstanding), exceed (2) an amount equal to
+(a) the weighted average of the price per share of the initial offering and
+the prices per share of any secondary offerings of Common Stock by the
+Company multiplied by (b) the greater of: (i) 9.5% or (ii) the U.S. Treasury
+Rate plus 3.5% per annum (expressed as a quarterly percentage) multiplied by
+(B) the weighted average number of shares of Common Stock outstanding during
+such quarter. Notwithstanding the foregoing, no payment of any portion of the
+incentive compensation provided for in clause (ii) above that is attributable
+to net capital gains of the Company prior to the end of the first full fiscal
+quarter of the Company's operations following any minimum calculation period
+longer than a quarter or other time period required by Rule 205-3 of the
+Investment Advisers Act of 1940 at the time of such calculation, shall accrue
+or be payable until completion of such fiscal quarter, at which time the
+cumulative net capital gains of the Company through the end of such quarter
+shall be computed and incentive compensation shall be paid on such net gains
+at the rate provided in clause (ii) above and after which time the net
+capital gains includible in clause (ii) above for each quarter shall be the
+excess of such net capital gains for such minimum calculation period through
+the end of such quarter (the "Total Period") over the net capital gains (if
+any) for the portion of the Total Period other than such quarter. For any
+period less than a quarter during which this Agreement is in effect, the fee
+shall be prorated according to the proportion which such period bears to a
+full quarter of 90, 91 or 92 days, as the case may be."
+
+
+                                 ARTICLE II
+
+                                MISCELLANEOUS
+
+            Section 2.1 Governing Law. This Second Amendment shall be
+construed in accordance with the laws of the State of New York for contracts
+to be performed entirely therein without reference to choice of law
+principles thereof.
+
+            Section 2.2 Severability. The invalidity or unenforceability of
+any provision of this Second Amendment shall not affect the validity of any
+other provision, and all other provisions shall remain in full force and
+effect.
+
+            Section 2.3 Counterparts. This Second Amendment may be signed by
+the parties in counterparts which together shall constitute one and the same
+agreement among the parties.
+
+            Section 2.4 Ratification of the Agreement. As amended by this
+Second Amendment, the Agreement is in all respects ratified and confirmed and
+the Agreement as so amended by this Second Amendment shall be read, taken and
+construed as one and the same instrument.
+
+<PAGE>
+
+                                  SIGNATURES
+
+            IN WITNESS WHEREOF, the parties hereto have caused this Second
+Amendment to be duly executed all as of the date first written above.
+
+
+                                   ANTHRACITE CAPITAL, INC.
+
+                                   By:  /s/  Hugh R. Frater
+                                        --------------------------------
+                                   Name:   Hugh R. Frater
+                                   Title:  President and Chief Executive Officer
+
+
+                                   BLACKROCK FINANCIAL MANAGEMENT, INC.
+
+                                   By: /s/  Laurence D. Fink
+                                        --------------------------------
+                                   Name:  Laurence D. Fink
+                                   Title: Chairman and Chief Executive Officer
+
+</TEXT>
+</DOCUMENT>

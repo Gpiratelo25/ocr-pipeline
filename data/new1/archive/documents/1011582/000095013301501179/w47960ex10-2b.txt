@@ -1,0 +1,134 @@
+<DOCUMENT>
+<TYPE>EX-10.2(B)
+<SEQUENCE>5
+<FILENAME>w47960ex10-2b.txt
+<DESCRIPTION>SECOND AMENDMENT TO RESELLER AGREEMENT
+<TEXT>
+
+<PAGE>   1
+THIS EXHIBIT HAS BEEN REDACTED AND IS THE SUBJECT OF A CONFIDENTIAL TREATMENT
+REQUEST. REDACTED MATERIAL IS MARKED WITH "*" AND BRACKETS AND HAS BEEN FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.
+
+                                                                EXHIBIT 10.2(b)
+
+                     AMENDMENT TO THE RESELLER AGREEMENT
+                       DATED 22ND DAY OF JULY, 1996 AND
+                            24TH DAY OF JULY, 1997
+
+
+         The Reseller Agreement between Tropix, Inc. ("Tropix") and Digene
+Corporation ("Digene") is hereby amended as follows:
+
+
+Schedule A is amended as follows:
+
+
+                                  SCHEDULE-A
+
+
+                        PRODUCT AND MINIMUM PURCHASES
+
+
+Product:          [*******] CDP-Star(R) with [************] of
+                  Emerald-II(TM)Enhancer in [**************].
+
+Minimum Annual Purchases For Product Purchased for Use in Human In Vitro
+Diagnostics:
+
+                  [**] Liters of Product in [**********************]
+                         [***] Liters of Product in [******]
+                         [***] Liters of Product in [******]
+                         [***] Liters of Product in [******]
+
+Minimum Annual Purchases For Product Purchased for Pharmaceutical Screening:
+
+
+                           [**] Liters of Product in [*****************]
+                         [***] Liters of Product in each Fiscal Year thereafter
+
+
+
+*FY = Fiscal Year is July 1 through June 30
+
+
+
+<PAGE>   2
+
+THIS EXHIBIT HAS BEEN REDACTED AND IS THE SUBJECT OF A CONFIDENTIAL TREATMENT
+REQUEST. REDACTED MATERIAL IS MARKED WITH "*" AND BRACKETS AND HAS BEEN FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.
+
+Schedule B is amended as follows:
+
+                                  SCHEDULE B
+
+                             PRICES AND ROYALTIES
+
+PRICES
+
+Price per liter of Product based upon aggregate purchases per calendar year:
+
+[******]       [******]          [*****************]
+[*****]        [******]          [*****]                $[***]/liter
+[********]     [*********]       [*********]            $[***]/liter
+[*****]        [*****]           [*****]                $[***]/liter
+
+Beginning [**************], each of the foregoing prices may be changed by
+multiplying such price by a fraction, the numerator of which shall be the
+Index as of the most recent date available prior to the date of such change
+and the denominator of which shall be the Index as of the most recent date
+available prior to the date of the Agreement to which this Schedule B is
+attached. As used herein, "Index" shall mean the Producer Price Index
+published by the U.S. Department of Labor.
+
+ROYALTY RATES:
+
+For Product Purchased for Use in Human In Vitro Diagnostics or Pharmaceutical
+Therapeutics Research and Development
+
+<TABLE>
+<S>                                               <C>
+The first $[*********] of Net Sales:              the greater of: [***]% of Net Sales of
+                                                  Tests, or $[****] per Test.
+Thereafter:                                       the greater of [***]% of Net Sales of
+                                                  Tests, or $[****] per Test.
+</TABLE>
+
+For Product Purchased for Pharmaceutical Screening
+
+                          [***]% of Net Sales of Tests
+
+
+
+<PAGE>   3
+
+THIS EXHIBIT HAS BEEN REDACTED AND IS THE SUBJECT OF A CONFIDENTIAL TREATMENT
+REQUEST. REDACTED MATERIAL IS MARKED WITH "*" AND BRACKETS AND HAS BEEN FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.
+
+IN WITNESS WHEREOF, the undersigned have executed and delivered this Amendment
+by their duly authorized representatives as of 5/14/1998.
+
+
+<TABLE>
+<CAPTION>
+TROPIX, INC.                            DIGENE CORPORATION
+<S>                                     <C>
+By: /s/Michael A. Nemzek                By: /s/Donna Marie Seyfried
+   -----------------------------           ----------------------------------------
+
+Name: Michael A. Nemzek                 Name: Donna Marie Seyfried
+      --------------------------             --------------------------------------
+
+Title: Vice President, Marketing        Title: Vice President, Business Development
+      --------------------------              -------------------------------------
+
+Date: May 14,1998                       Date: May 14, 1998
+      --------------------------             --------------------------------------
+</TABLE>
+
+                                      3
+
+</TEXT>
+</DOCUMENT>

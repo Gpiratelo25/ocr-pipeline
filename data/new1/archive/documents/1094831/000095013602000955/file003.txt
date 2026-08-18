@@ -1,0 +1,88 @@
+<DOCUMENT>
+<TYPE>EX-10.4
+<SEQUENCE>4
+<FILENAME>file003.txt
+<DESCRIPTION>AMENDED AND RESTATED JOINT SERVICES AGREEMENT
+<TEXT>
+<PAGE>
+
+        AMENDMENT NO. 1 TO AMENDED AND RESTATED JOINT SERVICES AGREEMENT
+
+         This Amendment No.1 to the Amended and Restated Joint Services
+Agreement between Cantor Fitzgerald, L.P., on behalf of itself and its direct
+and indirect, current and future, subsidiaries, other than eSpeed, Inc. and its
+direct and indirect, current and future, subsidiaries, and eSpeed, Inc., on
+behalf of itself and its direct and indirect, current and future subsidiaries,
+dated as of April 1, 2001 (the "JSA"), is made as of this 30th day of January
+2002. Capitalized terms used herein and not defined herein shall have the
+meanings ascribed in the JSA.
+
+         WHEREAS, the parties to the JSA desire to amend the JSA to provide for
+the sharing of transaction revenues for a new product.
+
+         NOW THEREFORE, in consideration of the premises, mutual covenants and
+agreements contained herein and for other good and valuable consideration, the
+receipt and adequacy of which is hereby acknowledged, the Cantor Parties and the
+eSpeed Parties hereby agree as follows:
+
+         1.   Section 3(f) is hereby amended to add the following sentence at
+              the end thereof.
+
+"With respect to Information and Data revenues generated from any regulated
+futures or options contract(s) consisting of or related to Commodity Futures
+Trading Commission regulated futures or options contract(s) that are related to
+movies, music or any other aspect of the entertainment business and sponsored by
+CIH, or a subsidiary thereof, then the applicable eSpeed Party will receive the
+aggregate revenues resulting from the publication or sale of such Information
+and Data and will pay the applicable Cantor Party 65% of such revenues. "
+
+         2.   Section 4(A)(d) and 4(A)(e) are hereby amended by adding the
+              following sentence at the end thereof to each.
+
+"With respect to exchange fees on any regulated futures or options contract(s)
+consisting of or related to Commodity Futures Trading Commission regulated
+futures or options contract(s) that are related to movies, music or any other
+aspect of the entertainment business and sponsored by CIH, or a subsidiary
+thereof, the applicable eSpeed Party will receive the aggregate exchange fees
+and will pay to the applicable Cantor Party a fee equal to 50% of the exchange
+fees."
+
+         3.   Except as amended hereby, the Agreement remains in full force and
+              effect.
+
+<PAGE>
+
+         IN WITNESS WHEREOF, the parties hereto have executed or caused this
+Amendment No. 1 to be executed in their respective names by their respective
+officers thereunto duly authorized, as of the date first written above.
+
+
+                                       CANTOR FITZGERALD, L.P.,
+                                       on behalf of itself and its direct and
+                                       indirect, current and future,
+                                       subsidiaries, other than eSpeed, Inc.
+                                       and its current and future, subsidiaries
+
+                                       By: CF Group Management, Inc.,
+                                       its Managing General Partner
+
+                                       By: /s/ Howard W. Lutnick
+                                           -------------------------------------
+                                           Name:  Howard W. Lutnick
+                                           Title: President
+
+
+                                       ESPEED, INC.,
+                                       on behalf of itself and its direct and
+                                       indirect, current and future,
+                                       subsidiaries
+
+                                       By: /s/ Howard W. Lutnick
+                                           -------------------------------------
+                                           Name:  Howard W. Lutnick
+                                           Title: Chairman, Chief Executive
+                                                  Officer and President
+
+
+</TEXT>
+</DOCUMENT>

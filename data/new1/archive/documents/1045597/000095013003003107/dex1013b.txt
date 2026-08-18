@@ -1,0 +1,204 @@
+<DOCUMENT>
+<TYPE>EX-10.13(B)
+<SEQUENCE>11
+<FILENAME>dex1013b.txt
+<DESCRIPTION>AMENDMENT NUMBER 2 TO AGREEMENT DATED FEBRUARY 1, 2002
+<TEXT>
+<PAGE>
+                                                                  Exhibit 10.13b
+
+February 1, 2002
+
+iNetNow, Inc.
+4322 Wilshire Boulevard
+Second Floor
+Los Angeles, California 90010
+
+Attention:  Mr. Errol Gerson, Chief Executive Officer
+
+
+     Re:  Agreement between i3 Mobile. Inc. and iNetNow, Inc., dated as of
+          October 1, 2001
+
+Gentlemen:
+
+Reference is made to that certain Agreement, dated as of October 1, 2001, (the
+"Agreement") between iNetNow, Inc. ("iNetNow") and 13 Mobile, Inc. ("i3"), as
+amended on November 7, 2001 (the "Amendment"). This letter sets forth the
+agreement between iNetNow and i3 with respect to the subject matter thereof, and
+shall supersede any aspect of the Agreement and/or the Amendment contrary to or
+inconsistent with the terms regarding the subject matter hereof. Capitalized
+terms used but not otherwise defined herein shall have the meanings set forth in
+the Agreement and the Amendment.
+
+1.   Indebtedness. (a) Upon satisfactory completion (as determined by i3 in its
+sole discretion) of the matters set forth in Sections 2-4 below, 13 shall
+irrevocably forgive any and all debts and obligations in excess of $675,600.00
+outstanding as of January 15, 2002 (including interest expenses) pursuant to
+Section 1.7 of the Agreement (as amended) and that certain Senior Secured
+Promissory Note, dated October 17, 2001, of iNetNow in favor of i3.
+
+     (b) The last three sentences of Section 1.8 of the Agreement (as amended)
+are hereby deleted in their entirety and replaced with the following:
+
+         "In the event that the Fee for any month is less than the Expense
+     Payment for such month, then the following calculations shall apply to
+     determine the amount of the additional advance for such month
+     (collectively, "Incremental Debt") under the Senior Secured Promissory
+     Note, dated October 17, 2001, between iNetNow and i3, and shall increase
+     the outstanding indebtedness of iNetNow to i3 thereunder: (i) if the excess
+     of Expense Payment for such month over the Fee for such month ("Monthly
+     Excess") is less than the Expense Payment less any amounts attributable to
+     salary and benefits for i3Mobile-Dedicated Personnel ("Non-Payroll
+     Expenses") then the Incremental Debt for that month shall be equal to the
+     Monthly Excess; and (ii) if the Monthly Excess is greater than the
+     Non-Payroll Expenses then the Incremental Debt for that month shall be
+     equal to the Non-Payroll Expenses. In the event that the Fee for any month
+     is greater than the Expense Payment for such month, then, in lieu of i3
+     paying such Fee, there shall be credited against the $675,600.00, plus
+     Incremental Debt and accrued interest, owed to i3 as of January 15, 2002,
+     as partial repayment thereof, the amount by which such Fee exceeds such
+     Expense Payment. Such crediting and partial repayment shall continue until
+     such $675,600.00, plus any Incremental Debt and accrued interest, has been
+     fully repaid, and thereafter i3 shall pay to iNetNow the monthly Fee in
+     cash to the extent in excess of such monthly Expense Payment."
+
+Revised February 1, 2002
+
+                                   Page 1 of 3
+
+<PAGE>
+
+
+2. Transfer of Customers. Concurrently with the execution of this agreement,
+iNetNow provided i3 with an accurate and complete list of iNetNow's current
+customers as of the date hereof; including information regarding the service
+ordered by each such customer, and each such customer's name, billing address,
+billing and usage history, email address, home, mobile and work telephone
+numbers, and any other information relevant to the servicing of such customer's
+business and the billing and collection of charges therefor from such customer
+in connection with iNetNow's business. iNetNow agrees and acknowledges that i3
+shall have the right to contact, market to, encourage and induce such customers
+to subscribe to i3's mobile concierge service (currently known as "Pronto")
+instead of iNetNow' s service offering, and iNetNow shall cooperate with and
+assist i3 in connection therewith. iNetNow will cease offering services to these
+customers on and after February 28, 2002. iNetNow hereby waives any claims,
+known or unknown, in law or in equity, which it has or may have relating to the
+exercise by i3 of its rights under this Section 2.
+
+3. Software License Agreement. In connection with the execution and delivery of
+this agreement, and as a material portion of the consideration therefor, iNetNow
+shall execute and deliver the Software License Agreement, in the form attached
+hereto as Exhibit i3, concurrently with the execution and delivery of this
+agreement. i3 shall have the tight, exercisable at any time until the fifth
+anniversary of the date hereof; to execute and deliver a. counterpart of such
+Software License Agreement to iNetNow, and such Software License Agreement shall
+be effective from the date of the delivery thereof to iNetNow by i3 until the
+fifth anniversary of the date hereof.
+
+4. Corporate Documents. As soon as possible following the date hereof; and in
+any event prior to February 25, 2002, iNetNow shall take all necessary measures
+(including, without limitation, obtaining the consents of its Board of Directors
+in substantially the form of Exhibit A-1 hereto and the owners of a majority of
+its capital stock in the form of Exhibit A-2 hereto, if applicable) to (i) adopt
+and file the amendments to its Certificate of Incorporation in the form of
+Exhibit A-3 hereto, and (ii) to issue to i3 in consideration of the forgiveness
+of the indebtedness described in Section 1 above 100 shares of iNetNow's Class B
+Common Stock, consisting of all of the authorized shares of Class B Common Stock
+set forth in Exhibit A3, all of which shall be validly issued, fully paid and
+non-assessable, and free and clear of all liens, encumbrances, claims, security
+interests, pledges and other restrictions (other than those imposed by
+applicable securities law). i3 agrees that it will surrender these shares to
+iNetNow at such time when iNetNow fully pays or earns down its outstanding
+indebtedness to i3 and the balance remains at zero for a period of at least
+thirty (30) days.
+
+5. Waiver of Exclusivity. Notwithstanding the terms of the Amendment, iNetNow
+shall hereafter have the right to grant non-exclusive licenses to its software
+to any third party for use in the United States and its territories and
+possessions during the Term of the Agreement.
+
+6. Employees. Upon the occurrence of a "Trigger Event" (as defined below), i3
+shall have the right to directly or indirectly hire or employ (contractually or
+otherwise) those persons listed on Exhibit C hereto, and to solicit, induce and
+encourage such persons to accept employment with i3, and upon the occurrence of
+a Trigger Event, iNetNow shall be deemed to irrevocably waive any and all
+claims, known or unknown, in law or in equity, against i3 and each such person
+which arise out of or relate to the hiring or employment of any such person by
+i3, including, without limitation, any claims in respect of the breach of any
+terms of any employment agreements, company policies, noncompetition covenants,
+etc. between iNetNow and such persons which breach is a result of the hiring or
+employment of such persons by i3. A "Trigger Event," as used herein, shall mean
+any of the following:
+
+               (a) Any sale of all or substantially all of the capital stock or
+          assets of. iNetNow;
+
+               (b) Any merger or other reorganization of iNetNow with, or into
+          another corporation such that (i) iNetNow is not the surviving
+          corporation following such merger and (ii) the stockholders of iNetNow
+          prior to such transaction own less than 50% of the outstanding voting
+          equity securities of the surviving corporation after such transaction;
+          or
+
+               (c) Any event whereby iNetNow (i) commences a voluntary case
+          under the Federal bankruptcy laws (as now or hereafter in effect),
+          (ii) files a petition seeking to take advantage of
+
+Revised February 1, 2002
+
+                                  Page 2 of 3
+
+<PAGE>
+
+                  any other laws, domestic or foreign, relating to bankruptcy,
+                  insolvency, reorganization, liquidation, winding up or
+                  composition or adjustment of debts, (iii) consents to arty
+                  petition filed against it in an involuntary case under such
+                  bankruptcy laws or other similar laws, (iv) applies for or
+                  consents to the appointment of the taking of possession by, a
+                  receiver, custodian, trustee, liquidator or the like of itself
+                  or of a substantial part of its assets, domestic or foreign,
+                  (v) admits in writing its inability to pay, or generally not
+                  be paying, its debts (other than those that are the subject of
+                  bona fide disputes) as they become due, (vi) makes a general
+                  assignment for the benefit of creditors, (viii) is the subject
+                  of an involuntary case under bankruptcy laws or other similar
+                  laws, which case is not dismissed within 30 days, or (viii)
+                  takes any corporate action for the purpose of effecting any of
+                  the foregoing.
+
+Except as specifically set forth above, all terms and conditions set forth in
+the Agreement and the Amendment shall remain unchanged, and in full force and
+effect. This agreement cannot be amended except by a writing signed by
+authorized representatives of both parties. Sections 15 through 23, the second
+sentence of Section 24, and Sections 25 and 26 of the Agreement are hereby
+incorporated by reference, rnutatis mutandis, and shall have the same force and
+effect with respect to this agreement as if fully set forth herein.
+
+Please indicate your agreement with the forgoing by executing this agreement in
+the appropriate space indicated below
+
+i3 MOBILE, INC.
+
+
+/s/ John A. Lack
+----------------------------------
+Name:  John A. Lack
+Title: President and Chief
+       Executive Officer
+
+                                                    iNetNow, INC.
+
+
+                                                    /s/ Errol M. Gerson
+                                                    ----------------------------
+                                                    Name:    Errol M. Gerson
+                                                    Title:   CEO
+
+Revised February 1, 2002
+
+                                   Page 3 of 3
+
+</TEXT>
+</DOCUMENT>

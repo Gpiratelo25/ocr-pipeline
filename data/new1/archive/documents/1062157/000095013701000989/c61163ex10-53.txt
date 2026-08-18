@@ -1,0 +1,237 @@
+<DOCUMENT>
+<TYPE>EX-10.53
+<SEQUENCE>11
+<FILENAME>c61163ex10-53.txt
+<DESCRIPTION>5TH AMENDMENT TO THE MASTER AFFILIATION AGREEMENT
+<TEXT>
+
+<PAGE>   1
+                                                                   EXHIBIT 10.53
+
+NOTE: INFORMATION IN THIS DOCUMENT MARKED WITH AN "[*]" HAS BEEN OMITTED AND
+FILED SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED
+WITH RESPECT TO THE OMITTED PORTIONS.
+
+
+                 FIFTH AMENDMENT TO MASTER AFFILIATION AGREEMENT
+
+This Fifth Amendment (the "Fifth Amendment") to the Master Affiliation Agreement
+dated as of December 22, 1998, as amended in the First Amendment dated March 8
+1999, the Second Amendment dated June 28, 1999, the Third Amendment dated July
+24, 2000 and the Fourth Amendment dated September 7, 2000 (the "Master
+Agreement"), by and between Wink Communications, Inc., a Delaware corporation
+("Wink"), whose address is 1001 Marina Village Parkway, Alameda, California
+94501 and DIRECTV, Inc., a California corporation, whose address is 2230 East
+Imperial Highway, El Segundo, California 90245 ("DIRECTV") is made as of this
+22nd day of December, 2000.
+
+1. Pursuant to section 14.11 of the Master Agreement, and considering recent
+public announcements by DIRECTV regarding the higher number of projected
+Wink-enabled DIRECTV Subscribers, Wink hereby provides notice to DIRECTV that
+Wink's agreement with EchoStar Communications Corporation includes commercial
+terms related to marketing support that may be deemed more favorable to Echostar
+than those currently provided to DIRECTV by Wink under the Master Agreement.
+While the exact terms of the agreement between Wink and Echostar must remain
+confidential under the terms of that agreement, Wink represents and warrants
+that the following changes to section 6.7 of the Master Agreement will restore
+the Master Agreement to compliance with section 14.11 for the number of
+Wink-enabled DIRECTV System Receivers currently projected to be deployed by
+DIRECTV (taking into account the payments made by Wink under section 3.4 and
+other commercial terms of the Master Agreement).
+
+As a result, the parties have agreed to replace the existing section 6.7 with
+the following new section 6.7:
+
+         "6.7. Starting with the first Wink-enabled DIRECTV System Receiver,
+         Wink agrees to fund a marketing pool with funds in the amount of [*]
+         per Wink-enabled DIRECTV System Receiver activated through December 31,
+         2000, plus [*] per Wink-enabled DIRECTV System Receiver activated on or
+         after January 1, 2001 (together, the "Wink MDF Funds"). In addition,
+         Wink agrees to provide an additional [*] in Wink MDF Funds once DIRECTV
+         has reached 1,000,000 Wink-enabled DIRECTV System Receivers. The
+         parties acknowledge and agree that as of the date of this Fifth
+         Amendment, said 1,000,000 Wink-enabled DIRECTV System Receiver
+         milestone has been met.
+
+         The Wink MDF Funds shall be allocated to support mutually agreed
+         marketing and promotional tactics by the parties that directly relate
+         to the promotion of the Wink platform to potential customers and/or
+         existing Wink-enabled customers. In addition to using the Wink MDF
+         Funds to reimburse out of pocket costs incurred under mutually agreed
+         programs, the parties agree that each party may, upon approval of the
+         other, contribute "in-kind" products and services in place of cash
+         outlays, the value of which shall be reimbursed from the Wink MDF
+         Funds. "In-kind" products and services may include, but are not limited
+         to, local advertising avails and templates for various forms of
+         advertising and promotion that can be tailored for DIRECTV's use.
+
+         Upon mutual execution of the Fifth Amendment, DIRECTV shall invoice
+         Wink for the Wink MDF Funds associated with DIRECTV System Receivers
+         which are Wink-enabled as of the date of the Fifth Amendment. Then, as
+         soon as reasonably practicable subsequent to the execution of the Fifth
+         Amendment, and each year thereafter for the term of the Master
+         Agreement (which may be extended pursuant to the terms thereof)
+         commencing with 2001, DIRECTV and Wink shall mutually agree in writing
+         upon a marketing plan and budget (the "Marketing Plan") for the
+         expenditure of the Wink MDF Funds projected to be earned by DIRECTV for
+         the following calendar year, commencing with 2001. Either Wink or
+         DIRECTV may incur expenses to be paid from the Wink MDF Funds,
+         consistent with the Marketing Plan. In the event either party incurs
+         expenses consistent with the Marketing Plan, such party shall submit
+         receipts to the other
+
+
+[*] Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+<PAGE>   2
+         evidencing such payment. Wink shall reimburse DIRECTV for those
+         expenses submitted by DIRECTV which are consistent with the Marketing
+         Plan within forty five (45) days of Wink's receipt of evidence of such
+         payment by DIRECTV.
+
+In addition to and not in lieu of the Wink MDF Funds, Wink agrees to pay DIRECTV
+marketing funds to be used by DIRECTV in its sole discretion in promoting the
+DIRECTV System network, which may include the promotion of the Wink platform to
+potential and/or existing Wink-enabled customers (the "System Funds"). The
+amount of the System Funds shall be [*] for each Wink-enabled DIRECTV System
+Receiver that is activated on or after January 1, 2001. On each March 31st, June
+30th, September 30th and December 31st commencing with the year 2001 and
+continuing for the duration of the term of the Master Agreement, DIRECTV shall
+invoice Wink in an amount equal to any and all System Funds earned by DIRECTV
+for the three month period ending with the month indicated above. Subject to
+Wink's audit rights contained in this Master Agreement and based upon the
+subscriber reports defined in Section 6.6, Wink shall pay the invoice amount
+within thirty (30) days of receipt of such invoice."
+
+2. The parties hereby agree to amend Section 3.5 of the Master Agreement to
+include the following:
+
+         "Notwithstanding the foregoing, DIRECTV hereby agrees to allocate 480
+         kbits/sec. of bandwidth (the "Incremental Bandwidth") in the calendar
+         year 2001 as follows: (a) in the first half of the year, 240 kbits/sec.
+         shall be allocated to introduce Interactive Wink Programming on the
+         transmission of the affiliates of the four major broadcast networks
+         (i.e., ABC, CBS, NBC and Fox) in two markets identified by DIRECTV
+         where DIRECTV does not currently transmit Interactive Wink Programs
+         (such markets to be selected by DIRECTV with the goal of maximizing the
+         distribution and availability of Interactive Wink Programming); and (b)
+         in the second half of the year, 240 kbits/sec. shall be allocated to
+         introduce Interactive Wink Programming with either (i) new Programmers,
+         (ii) additional markets for the four major broadcast networks, and/or
+         (iii) Virtual Channels, whereby the determination shall be made by
+         DIRECTV, in DIRECTV's reasonable discretion, based upon a determination
+         of that which is in the financial best interest of DIRECTV and Wink
+         with respect to Wink Revenue Transactions. All of the Incremental
+         Bandwidth shall continue to be allocated to transmission of Interactive
+         Wink Programs throughout the Term, once allocated during 2001."
+
+3. The parties hereby agree to amend Section 7.2 of the Master Agreement by
+adding the following:
+
+         "(vii) DIRECTV will dedicate the necessary resources and make a good
+         faith effort to complete the definition and requirement specifications
+         for inserting Interactive Wink Programs synchronized with the "local
+         avails" provided DIRECTV by many cable networks at DIRECTV's broadcast
+         facilities by no later than January 31, 2001, which specifications
+         shall be mutually agreed upon between DIRECTV and Wink. Consistent with
+         the results of such specifications, DIRECTV and Wink will work together
+         in good faith to undertake the implementation of the specifications for
+         inserting Wink-enhanced advertisements locally at DIRECTV's broadcast
+         facilities, provided that any and all business issues related thereto
+         (including allocation of applicable costs) are resolved and mutually
+         agreed upon. Consistent with the foregoing, the parties acknowledge
+         that currently both parties desire to complete such implementation by
+         the end of June, 2001."
+
+4. DIRECTV hereby acknowledges and agrees that the launch of its spot-beam
+technology shall not result in the loss of any previously dedicated bandwidth
+for the broadcast of Interactive Wink Programming in the local markets of the
+national networks.
+
+
+
+[*] Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+
+                                       2
+<PAGE>   3
+5. The last two complete paragraph of Section 3.2(g), repeated for convenience
+below:
+
+         "Such payments shall not be considered Incremental Wink Revenues for
+         DIRECTV under the Master Agreement. The payments shall be made by Wink
+         to DIRECTV quarterly for all Wink-enabled DIRECTV System Receivers
+         through the Term on:
+
+         (x) the later of the date of shipment by the applicable manufacturer if
+         the Wink Engine is installed at the factory;
+
+         (y) the date of the Wink Engine download to such DIRECTV System
+         Receiver if the Wink Engine is downloaded.
+
+         DIRECTV shall submit a quarterly report to Wink containing a good faith
+         estimate of the total number of Wink-enabled DIRECTV System Receivers
+         (by manufacturer and model) for which Wink must make payments to
+         DIRECTV, and Wink shall pay DIRECTV promptly upon receipt of such
+         report. Such reports from DIRECTV shall be subject to the audit rights
+         per Section 14.12 of the Master Agreement. The parties agree that
+         Wink's cumulative payments to DIRECTV under the Second Amendment shall
+         not exceed the total price of the Wink Series D Preferred Stock
+         purchased by DIRECTV (or an affiliate of DIRECTV) [*]."
+
+Is hereby replaced by the following:
+
+         "Such payments shall not be considered Incremental Wink Revenues for
+         DIRECTV under the Master Agreement. DIRECTV shall invoice Wink for all
+         Wink-capable DIRECTV System Receivers upon DIRECTV's receipt of an
+         invoice (or portion thereof) not in controversy (as determined by
+         DIRECTV in its reasonable discretion) between DIRECTV and the
+         manufacturer for subsidy of the Wink-capable DIRECTV System Receivers.
+         Such invoice shall indicate the manufacturer and model of the DIRECTV
+         System Receivers included in the invoice. The total amount due and
+         owing to DIRECTV pursuant to this Section 3.2(g) shall be paid by Wink
+         in equal quarterly installments on or before March 31, 2001, June 30,
+         2001, September 30, 2001 and December 31, 2001 (e.g., if DIRECTV
+         invoices Wink for $[*] on December 29, 2000 and $[*] on
+         February 15, 2001, Wink shall remit to DIRECTV four equal quarterly
+         payments in 2001 in the amount of $[*] each). Such reports
+         from DIRECTV shall be subject to the audit rights per Section 14.12 of
+         the Master Agreement. The parties agree that Wink's cumulative payments
+         to DIRECTV under this Section 3.2(g) shall not exceed the total price
+         of the Wink Series D Preferred Stock purchased by DIRECTV (or an
+         affiliate of DIRECTV) (i.e., $[*])."
+
+In the event of any inconsistency between the Fifth Amendment and the Master
+Agreement or any other agreement between the parties, the Fifth Amendment shall
+be deemed controlling. In all other respects, the Master Agreement shall
+continue in full force and effect.
+
+
+[*] Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+                                       3
+<PAGE>   4
+IN WITNESS WHEREOF, the parties have caused this Fifth Amendment to be executed
+by their duly authorized officers and representatives as of the day and year
+first written above.
+
+
+WINK COMMUNICATIONS, INC.                   DIRECTV, INC.
+
+By: _______________________________         By: ________________________________
+
+Name: ____________________________          Name: ______________________________
+
+Title:_____________________________         Title:______________________________
+
+
+
+
+                                       4
+</TEXT>
+</DOCUMENT>

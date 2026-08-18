@@ -1,0 +1,1889 @@
+<DOCUMENT>
+<TYPE>EX-10.6
+<SEQUENCE>7
+<FILENAME>g00994exv10w6.txt
+<DESCRIPTION>EX-10.6  AMENDED AND RESTATED MANUFACTURING AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 10.6
+
+                              AMENDED AND RESTATED
+                      U.S. PRODUCT MANUFACTURING AGREEMENT
+
+          THIS AMENDED AND RESTATED U.S. PRODUCT MANUFACTURING AGREEMENT (the
+"Agreement") dated as of February 27, 2006, is made and entered into by and
+between SANOFI-AVENTIS DEUTSCHLAND GMBH (formerly known as HOECHST MARION
+ROUSSEL DEUTSCHLAND GMBH), a German limited liability company ("Supplier"), and
+KING PHARMACEUTICALS, INC., a Tennessee corporation ("King"). Capitalized terms
+used in this Agreement shall have the meanings ascribed to them in Article I
+hereof or as otherwise set forth herein.
+
+                                    RECITALS
+
+          WHEREAS, Supplier is engaged in the manufacture of the Product;
+
+          WHEREAS, Supplier and King are parties to that certain U.S. Product
+Manufacturing Agreement dated December 17, 1998, as amended June 22, 2000,
+December 16, 2002 and September 13, 2004 (the "Original Agreement");
+
+          WHEREAS, Supplier and King have agreed to amend and restate the
+Original Agreement;
+
+          WHEREAS, Supplier and King have also entered into that certain General
+Products Agreement dated December 17, 1998, as amended (the "General Products
+Agreement") whereby King acquired certain Assets (as such term is defined in the
+General Products Agreement) which relate to, among other things, Ramipril;
+
+          WHEREAS, Supplier and King have entered into that certain U.S. Product
+Agreement dated December 17, 1998, as amended (the "U.S. Product Agreement")
+whereby King acquired, among other things, certain rights which relate to
+Ramipril;
+
+          WHEREAS, King desires to have Supplier manufacture the Product in
+accordance with this Agreement; and
+
+          WHEREAS, Supplier agrees to supply the Product to King, upon the terms
+and subject to the conditions provided herein.
+
+          NOW, THEREFORE, in consideration of the mutual covenants and
+agreements set forth in this Agreement, and for other good and valuable
+consideration, the receipt of which is hereby acknowledged, the parties hereto
+hereby agree as follows:
+
+                                    ARTICLE I
+                                   DEFINITIONS
+
+          The following terms shall have the meanings set forth below. Unless
+the context indicates otherwise, the singular shall include the plural and the
+plural shall include the singular.
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+
+<PAGE>
+
+          1.1. "ACT" shall mean the Federal Food, Drug and Cosmetic Act, as
+amended.
+
+          1.2. "AFFILIATE" shall mean any entity that directly, or indirectly
+through one or more intermediaries, controls or is controlled by or is under
+common control with the entity specified.
+
+          1.3. "AGREEMENT" shall mean this U.S. Product Manufacturing Agreement.
+
+          1.4. "ANNUAL COMMITTED QUANTITY" shall have the meaning set forth in
+Section 2.10(a) herein.
+
+          1.5. "ARBITRATING ACCOUNTANT" shall have the meaning set forth in
+Section 3.2(d) herein.
+
+          1.6. "BUSINESS DAY" or "BUSINESS DAY" shall mean a day other than
+Saturday, Sunday or any day on which banks located in the State of Missouri are
+authorized or obligated to close. Whenever this Agreement refers to a number of
+days, such number shall refer to calendar days unless Business Days (or business
+days) are specified.
+
+          1.7. "CALENDAR QUARTER" shall mean, with respect to the first such
+Calendar Quarter, the period beginning on the date hereof and ending on the last
+day of the calendar quarter within which the date hereof falls and, thereafter,
+each successive period of three consecutive calendar months ending on March 31,
+June 30, September 30 or December 31. In the event that the termination of this
+Agreement does not fall on the last day of a Calendar Quarter, the "Final
+Calendar Quarter" shall mean the period from the last day of the most recent
+Calendar Quarter through the applicable date of termination of this Agreement.
+
+          1.8. "CALENDAR YEAR" shall mean each successive twelve (12)-month
+period commencing on January 1 and ending on December 31; provided that the
+first such Calendar Year shall begin on the date hereof and end on December 31,
+2006. In the event that the termination of this Agreement does not fall on the
+last day of a Calendar Year, the "Final Calendar Year" shall mean the period
+from the last day of the most recent Calendar Year through the applicable date
+of termination of this Agreement.
+
+          1.9. "CGMP" shall mean current Good Manufacturing Practices as
+promulgated under the Act at 21 CFR (chapters 210, 211, 600 and 610), as the
+same may be amended or re-enacted from time to time.
+
+          1.10. "DISCRETIONARY MANUFACTURING CHANGES" shall have the meaning set
+forth in Section 2.7(b) herein.
+
+          1.11. "EXCESS PRICE" shall have the meaning set forth in Section 3.1
+herein.
+
+          1.12. "FDA" shall mean the United States Food and Drug Administration
+or any successor entity thereto.
+
+          1.13. "FORCE MAJEURE" shall have the meaning set forth in Section 11.3
+herein.
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+
+
+                                        2
+
+<PAGE>
+
+          1.14. "GENERAL PRODUCTS AGREEMENT" shall have the meaning set forth in
+the Recitals.
+
+          1.15. "GENERIC VERSION" shall have the meaning set forth in Section
+2.9(f) herein.
+
+          1.16. "GOVERNMENTAL OR REGULATORY AUTHORITY" shall mean any court,
+tribunal, arbitrator, authority, agency, commission, official or other
+instrumentality of the United States, any foreign country or any domestic or
+foreign state, county, city or other political subdivision.
+
+          1.17. "INDEMNITEE" shall have the meaning set forth in Section 9.3
+herein.
+
+          1.18. "INDEMNITOR" shall have the meaning set forth in Section 9.3(a)
+herein.
+
+          1.19. "INITIAL COSTS" shall have the meaning set forth in Section 3.1
+herein.
+
+          1.20. "LIABILITIES" shall have the meaning set forth in Section 9.1
+herein.
+
+          1.21. "LAWS" shall mean all laws, statutes, rules, regulations,
+ordinances and other pronouncements having the effect of law of the United
+States, any foreign country or any domestic or foreign state, county, city or
+other political subdivision or of any Governmental or Regulatory Authority.
+
+          1.22. "LICENSED PRODUCTS" shall have the meaning ascribed to such term
+in the U.S. Product Agreement.
+
+          1.23. "MINIMUM PRICE" shall have the meaning set forth in Section 3.1
+herein.
+
+          1.24. "MINIMUM QUARTERLY PAYMENT" shall have the meaning set forth in
+Section 2.9(b) herein.
+
+          1.25. "NDA" shall mean the new drug applications related to the
+Products, submitted to the FDA pursuant to provisions of the Act and applicable
+regulations related thereto.
+
+          1.26. "ORIGINAL AGREEMENT" shall have the meaning set forth in the
+Recitals.
+
+          1.27. "PEDIATRIC EXTENSION" shall mean any pediatric exclusivity
+extension that may be granted by the FDA to King for Licensed Mono-Product (as
+defined in the U.S. Product Agreement).
+
+          1.28. "PEDIATRIC EXTENSION EXPIRATION DATE" shall mean the date of
+expiration of any Pediatric Extension, provided that in no event will such date
+extend beyond April 30, 2009.
+
+          1.29. "PRIME RATE" shall have the meaning set forth in Section 3.2(a)
+herein.
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+
+
+                                       3
+
+<PAGE>
+
+          1.30. "PRODUCT(S)" shall mean Ramipril in either a (a) powder form or
+(b) PC granules (i.e., coated) form intended for further processing into a
+pharmaceutical formulation, the Specifications for which are set forth on
+SCHEDULE 1.30, attached hereto.
+
+          1.31. "RAMIPRIL" shall mean the compound (2S,3aS,6aS)-1[(S)-N-[(S)-
+1Carboxy-3-phenylpropyl]alanyl]octahydrocyclopenta[b]pyrrole-2-carboxylic acid,
+1-ethyl ester, as depicted in the chemical formula set forth on SCHEDULE 1.31,
+attached hereto.
+
+          1.32. "REQUIRED MANUFACTURING CHANGES" shall have the meaning set
+forth in Section 2.7(a) herein.
+
+          1.33. "SPECIFICATIONS" shall mean the written specifications for
+Products as set forth in the NDA.
+
+          1.34. "TECHNICAL AGREEMENT" shall mean the Agreement set forth on
+EXHIBIT D, attached hereto.
+
+          1.35. "TERM" shall have the meaning set forth in Section 4.1 herein.
+
+          1.36. "THIRD PARTY" shall have the meaning set forth in Section 2.9(f)
+herein.
+
+          1.37. "U.S. PRODUCT AGREEMENT" shall have the meaning set forth in the
+Recitals.
+
+          1.38. "U.S. TERRITORY" shall mean the U.S. Territory as such term is
+defined in the U.S. Product Agreement.
+
+                                   ARTICLE II
+                            MANUFACTURE, PURCHASE AND
+                        SALE OF PRODUCT; ANNUAL MINIMUMS
+
+          2.1. EXCLUSIVE SUPPLY; NON-COMPETE.
+
+               (a) Exclusive Supply. Pursuant to the terms and conditions of
+     this Agreement, Supplier agrees to manufacture exclusively for King (except
+     as permitted in the U.S. Product Agreement), during the Term, the Products
+     for King to make or have made, sell or use Licensed Products in the U.S.
+     Territory in accordance with the U.S. Product Agreement. During the Term,
+     King agrees to purchase all of its requirements for the Products in the
+     U.S. Territory exclusively from Supplier.
+
+               (b) Non-Compete. Except as permitted in the U.S. Product
+     Agreement, during the Term: (i) Supplier agrees that it will not, and will
+     cause its Affiliates to not, manufacture, package, distribute or sell in
+     the U.S. Territory the Product included in this Agreement; and (ii) King
+     agrees that it will not and will cause its Affiliates to not, manufacture,
+     package, distribute or sell the Product outside the U.S. Territory.
+
+          2.2. FORECASTS.
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+
+
+                                        4
+
+<PAGE>
+
+               (a) Long-Range Forecasts. Within [***] from the execution of this
+     Agreement, and at least [***] prior to the beginning of each Calendar Year
+     for the Term or any renewals or extensions thereof, King shall furnish
+     Supplier with a rolling quarterly forecast of the quantities of Products
+     that King intends to order during the [***] commencing with the upcoming
+     Calendar Year. Such forecasts shall represent the most current estimates
+     for planning purposes, and will include the quantities of Product in either
+     powder or PC granules form, but shall not be purchase commitments.
+
+               (b) Short Term Forecasts. At least [***] prior to the first day
+     of each succeeding Calendar Quarter, King shall furnish Supplier with a
+     rolling forecast of the quantities of each Product, (i) Ramipril in powder
+     form and (ii) Ramipril in PC granules form, by kg, that King intends to
+     order by month, during the [***] period commencing with that Calendar
+     Quarter. Subject to the provisions of Section 2.9 and to the extent
+     Supplier can supply any quantities in excess of the Annual Committed
+     Quantity, such forecasts shall constitute binding commitments of King to
+     purchase the percentages of Products set forth below pursuant to firm
+     orders issued in accordance with Section 2.3. Supplier will use its
+     reasonable best efforts to fill orders by King in excess of the Annual
+     Committed Quantities:
+
+<TABLE>
+<CAPTION>
+                         Percentage of each Product
+                         (in powder form and PC granules form)
+Period of the Forecast   that King is Required to Purchase
+----------------------   -------------------------------------
+<S>                      <C>
+[***]                                    [***]%
+[***]                                    [***]%
+[***]                                    [***]%
+[***]                                    [***]%
+[***]                                    [***]%
+[***]                                    [***]%
+</TABLE>
+
+          2.3. FIRM ORDERS. King shall place each purchase order with Supplier
+for Products to be delivered hereunder at least [***] prior to the delivery date
+specified in each respective order. King acknowledges that each Product is
+produced in full lot quantities, as set forth in EXHIBIT B. Such orders shall
+specify Ramipril in powder form and/or Ramipril in PC granules form, by
+kilogram, in full lots and minimum order quantities and shall specify [***] an
+aggregate quantity of Products which is at least as great as the amount of
+Products (in powder form and/or in PC granules form) required to be purchased by
+King pursuant to Sections 2.2 and 2.9. In addition, the number of such purchase
+orders shall not exceed [***] per month, unless a greater monthly number is
+agreed to by Supplier, and, to the extent possible, be delivered to Supplier on
+or about the fifteenth (15th) of such month. Supplier shall confirm in writing
+each such purchase order within [***] of receipt thereof. Supplier shall deliver
+against each such order in accordance with Section 2.4. King shall be obligated
+to purchase all such Products ordered and delivered by the delivery date
+specified in King's purchase order, provided that such Products meet the
+Specifications. Unless otherwise specified in writing by Supplier, all orders
+placed by King with Supplier hereunder shall be addressed as follows:
+
+               Manager of PharmaChemical Sales Germany
+               Sanofi-Aventis Deutschland GmbH
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+
+
+                                        5
+
+<PAGE>
+
+               PharmaChemical Sales
+               Industriepark Hoechst
+               Gebaude / Building D 711
+               65926 Frankfurt am Main
+
+Notwithstanding anything else in this Section 2.3 or in Section 2.4, if at any
+time the amount of Product King is required to purchase in order to meet its
+Quarterly Minimum Quantity or Annual Minimum Quantity is less than a full lot or
+if King has met the Annual Minimum Quantity, King's orders and deliveries may be
+in fractional, not full, lot quantities.
+
+          2.4. DELIVERY. Delivery terms for Products shall be F.O.B. Supplier's
+manufacturing facility, or such other facility mutually agreed to by the
+parties. Supplier shall ship Products on a carrier or carriers specified by King
+and at King's expense in accordance with Supplier's purchase order form or as
+otherwise directed by King in writing. Title and risk of loss as to any Products
+purchased by King shall pass to King upon the earlier of (i) a common carrier
+accepting possession or control of such Products, or (ii) the passage of such
+Products from the loading dock of Supplier's facility to any employee, agent or
+contractor of King or such common carrier. It is understood that all quantities
+shipped shall be shipped in full lots, as set forth in EXHIBIT B.
+
+          2.5. REJECTED GOODS/SHORTAGES.
+
+               (a) Notice; Replacement. King shall notify Supplier in writing of
+     any claim relating to Products that fail to meet the Specifications,
+     arising from defective manufacture, storage or handling of such Products by
+     Supplier which occur prior to transfer of Product to King or any shortage
+     in quantity of any shipment of Products as soon as reasonably practical,
+     but not later than [***] (or [***] in the event an outside testing
+     laboratory is used) of receipt of such Products. Provided the parties agree
+     that such Products are defective or that there is a shortage, Supplier
+     shall replace the defective Products or make up the shortage at the time of
+     the next order, [***]. King shall make arrangements with Supplier for the
+     return or disposal of any rejected Products; the costs of such return or
+     disposal shall be paid [***]. In the event that only a limited supply of
+     Products is available to replace or supply such rejection or shortage, then
+     Supplier shall ship to King such quantities of Products as are available
+     and King will be promptly reimbursed or credited against future orders, at
+     King's option, for amounts paid for the remaining quantity of rejected
+     Products.
+
+               (b) Disputes. If Supplier disagrees with King's claim that such
+     Products fail to meet the Specifications, Supplier and King representatives
+     shall attempt to resolve such dispute. If the representatives cannot
+     resolve such dispute, a sample of such Products shall be submitted by
+     Supplier to a mutually agreed-to qualified laboratory for testing against
+     the Specifications and the test results obtained by such laboratory shall
+     be final and controlling. The fees and expenses of such laboratory testing
+     shall be borne [***]. In the event the test results indicate that the
+     Products in question do not conform to the Specifications, Supplier shall
+     replace such Products [***] to King as soon as reasonably possible after
+     receipt of such results. In the event the test results indicate that
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+
+
+                                        6
+
+<PAGE>
+
+     the Products in question do conform to the Specifications, [***] costs
+     incurred by Supplier as a result of the disagreement.
+
+               (c) Sole Remedy. The provisions of Sections 2.5(a) in the case of
+     shortage in quantity of any shipment of Product, and except as otherwise
+     provided in Section 9.2(a) herein, Sections 2.5(a) and (b), in the case of
+     Product that fails to meet the Specifications, shall be the sole remedy
+     available to King with respect to any shortage in quantity of any shipment
+     of Product, or Product that fails to meet the Specifications, as the case
+     may be.
+
+          2.6. CAPACITY ALLOCATION; FAILURE TO SUPPLY.
+
+               (a) Capacity. Supplier's maximum annual capacity to manufacture
+     each Product is set forth on EXHIBIT B.
+
+               (b) Supplier Notice. In the event that Supplier, upon receiving a
+     forecast under Section 2.2(b) or a firm order under Section 2.3, is, or
+     anticipates that it will be, unable to meet such forecast or firm order,
+     either in whole or in part, due to any reason, Supplier shall give written
+     notice of such inability to King within [***] of receipt of such forecast
+     or firm order (or upon Supplier's reasonable belief that it cannot fulfill
+     the forecast or firm order, if such date is after such [***] period). If
+     such inability is partial, Supplier shall fulfill firm orders with such
+     quantities of Products as are available. Supplier shall consistently use
+     its commercially reasonable efforts to ensure that firm orders are supplied
+     in full on a timely basis.
+
+               (c) Supply Alternatives. Supplier and King shall meet within
+     [***] of such written notice pursuant to Section 2.6(b) to consider
+     alternative arrangements for meeting King's requirements for Products. Any
+     such alternative pursued shall be subject to all required regulatory
+     approvals and approval of both parties, which approval shall not be
+     unreasonably withheld. Any alternative arrangements entered into pursuant
+     to this Section 2.6(c) shall act in no way as a waiver of any other rights
+     or remedies which King or Supplier may have under this Agreement or
+     otherwise; provided, however, King shall have no obligation to pay for
+     orders of Products that Supplier is unable to provide.
+
+               (d) Capacity Allocation. In the event that Supplier's inability
+     to meet firm orders or forecasts is due to a shortage of production
+     capacity at Supplier's facility, in addition to the requirements of Section
+     2.6(a) and Section 2.6(b) above, Supplier shall promptly notify King of
+     such shortage of production capacity, and, if possible, the date such
+     shortage of production capacity is expected to end. In such event, Supplier
+     shall allocate its available production capacity to the production of
+     Products in such proportion (expressed as a function of equipment utilized)
+     as the production equipment capacity actually utilized to meet orders for
+     the Products over the previous [***] period bears to total production
+     equipment capacity in such Supplier facility(ies) over that same period.
+
+               (e) Supply Resumption. Supplier shall notify King as soon as
+     possible of the date upon which such shortage of production capacity will
+     cease. Upon resumption of production of Products, King shall resume
+     obtaining its requirements for
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+
+
+                                        7
+
+<PAGE>
+
+     Products from Supplier to the extent such resumption is consistent with any
+     contractual arrangements entered into with third parties pursuant to
+     Section 2.6(c).
+
+          2.7. MANUFACTURING CHANGES. Subject to the procedures set forth in
+Section 3.1(d) of the U.S. Product Agreement:
+
+               (a) Required Manufacturing Changes. For changes to the
+     Specifications or manufacturing processes that are required by Laws or by
+     medical or scientific concerns as to the toxicity, safety and/or efficacy
+     of the Products (collectively "Required Manufacturing Changes"), the
+     parties shall cooperate in making such changes promptly.
+
+               (b) Discretionary Manufacturing Changes. For changes to the
+     Specifications or Manufacturing process that are not Required Manufacturing
+     Changes (collectively "Discretionary Manufacturing Changes") the parties
+     must both agree to such Discretionary Manufacturing Changes and shall, to
+     the extent commercially reasonable under the circumstances, cooperate in
+     making such changes, and each party agrees that it shall not unreasonably
+     withhold its consent to such Discretionary Manufacturing Changes.
+     Notwithstanding the foregoing, Supplier's standard change control
+     procedures shall be utilized in reviewing such changes.
+
+               (c) Manufacturing Changes. Notwithstanding the foregoing, (i) all
+     costs associated with Required Manufacturing Changes, (including, without
+     limitation, obsolete raw materials, work-in-process and finished product
+     inventories, and excluding all printed materials, including without
+     limitation, packaging and labeling materials) shall be shared equally; (ii)
+     all costs associated with Required Manufacturing Changes regarding all
+     printed materials, including without limitation, packaging and labeling
+     materials shall be borne by King; and (iii) all costs associated with
+     Discretionary Manufacturing Changes shall be borne by the party initiating
+     such change. If any of the Required Manufacturing Changes (other than those
+     regarding printed materials) will result in aggregate costs in excess of
+     [***] (per Required Manufacturing Change event), then the parties agree
+     that either party may elect to be excused from its requirements under this
+     Agreement unless the other party agrees to bear the entire cost of such
+     Required Manufacturing Changes, and such an election shall be treated as an
+     early termination under Section 4.2 and subject to the requirements of
+     Section 4.4. An election by one (1) party to discontinue this Agreement in
+     accordance with the immediately preceding sentence shall apply only as to
+     the requirements of that electing party with respect to the particular
+     Product(s) precipitating such Required Manufacturing Changes. Furthermore,
+     if the aggregate costs of a Required Manufacturing Change with aggregate
+     costs in excess of [***] are paid for by King, then thereafter (i) King
+     shall have the right to terminate this Agreement pursuant to Section 4.1
+     upon [***] prior written notice to Supplier, and (ii) King shall own all
+     rights, title and interests in and to any assets purchased by Supplier for
+     such Required Manufacturing Change.
+
+          2.8. LABELING AND PACKAGING. Supplier shall ensure that all labeling
+and packaging for the Products shall be consistent with the FDA or other
+Governmental or Regulatory Authority approved labeling and packaging for the
+Products.
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+
+
+                                        8
+
+<PAGE>
+
+          2.9. ANNUAL MINIMUM QUANTITIES.
+
+               (a) King shall purchase from Supplier a minimum quantity of [***]
+     of Product for each of 2006, 2007 and 2008 and, in the event that the Term
+     of this Agreement is extended to the Pediatric Extension Expiration Date,
+     pursuant to Section 4.1 of this Agreement, a minimum quantity of [***] of
+     Product for 2009 (the "Annual Minimum Quantity"). For the sake of clarity
+     it is agreed that the Annual Minimum Quantity for 2008 applies even if the
+     term of the Agreement expires prior to December 31, 2008.
+
+               King shall order the Annual Minimum Quantity in quarterly
+     installments of at least [***] of Product for each Calendar Quarter of each
+     year through 2008 and at least [***] of Product for the Calendar Year 2009
+     ("Quarterly Minimum Quantity"). For the avoidance of doubt, the Annual
+     Minimum Quantities set forth in this Section 2.9(a) shall constitute the
+     aggregate of Product both in its powder and PC granules forms.
+     Additionally, the parties acknowledge that the Ramipril content of the
+     Product in PC granules form shall consist of approximately [***] of
+     Ramipril for each kilogram of Product.
+
+               (b) Subject to Section 2.9(e) below, the total payment made by
+     King to Supplier for each Calendar Quarter during the Term shall be [***]
+     (the "Minimum Quarterly Payment"). In the event that King does not order
+     and pay for at least the applicable Quarterly Minimum Quantity in any given
+     Calendar Quarter, then King shall pay [***].
+
+               (c) In the event that King does not pay the amount(s) described
+     in Section 2.9(b) pursuant to Section 3.2(a), Supplier in its sole
+     discretion may exercise the mechanism for default as set forth in Section
+     3.3.
+
+               (d) King shall have discretion to determine the schedule for
+     delivery of Product purchased and paid for by King in accordance with this
+     Agreement. For purposes of clarification, nothing in this Section 2.9(d)
+     shall modify or affect in any way King's obligation to place and pay for
+     orders of Product on a quarterly basis.
+
+               (e) In the event King's cumulative purchases of Product during
+     any Calendar Year meet the Annual Minimum Quantity, then King will no
+     longer be subject to the Annual Minimum Quantity (or the corresponding
+     Quarterly Minimum Quantity) or the Minimum Quarterly Payment for the rest
+     of that Calendar Year, and King may (i) cease orders of Product for the
+     rest of that Calendar Year, or (ii) order additional quantities of Product
+     during that Calendar Year, which additional quantities will be at the
+     Excess Price set forth in Section 3.1.
+
+               (f) In the event that any party other than Supplier, King or
+     Cobalt Pharmaceuticals, Inc. or its Affiliates (to the extent they are
+     selling a generic version of King's Altace(R) capsule product pursuant to
+     rights granted to them by King) (such other party being a "Third Party")
+     launches a generic formulation that contains Ramipril as its sole active
+     ingredient in the U.S. Territory (a "Generic Version"), the parties agree
+     that:
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+
+
+                                        9
+
+<PAGE>
+
+                    (i)  King's obligations to purchase Product exclusively from
+                         Supplier shall continue throughout the Term; and
+
+                    (ii) King and Supplier shall negotiate in good faith to
+                         determine the Annual Minimum Quantity, and the
+                         corresponding Quarterly Minimum Quantity, for any
+                         Calendar Year or Calendar Quarter that shall be
+                         affected by such occurrence. Any such good faith
+                         negotiation shall not include a reduction of the
+                         Minimum Price or Excess Price, as set forth in Section
+                         3.1 of this Agreement. In the event that the parties
+                         are unable to reach agreement concerning a reduced
+                         Annual Minimum Quantity, such dispute shall be subject
+                         to the dispute resolution provisions of Section 10.1 of
+                         this Agreement.
+
+          2.10. ANNUAL COMMITTED QUANTITIES.
+
+               (a) During the Term of this Agreement and only if required by
+     King, Supplier shall be obligated to supply to King the following
+     quantities of Product for each Calendar Year indicated below (the "Annual
+     Committed Quantity"):
+
+<TABLE>
+<CAPTION>
+Calendar Year   Annual Committed Quantity
+-------------   -------------------------
+<S>             <C>
+     2006           [***] metric tons
+     2007           [***] metric tons
+     2008           [***] metric tons
+     2009           [***] metric tons
+</TABLE>
+
+     The Annual Committed Quantity shall be the amount of Product reserved for
+     King each Calendar Year and shall be provided by Supplier to King in
+     accordance with the purchase order and forecast provisions of this
+     Agreement, including the Quarterly Minimum Quantity obligations. The
+     foregoing notwithstanding, in no event shall King be obligated or required
+     to purchase the Annual Committed Quantity in any given Calendar Year (other
+     than that portion consisting of the Annual Minimum Quantity).
+
+               (b) Supplier shall exert its reasonable best efforts to supply
+     King with quantities of Product required by King which exceed the Annual
+     Committed Quantity in any Calendar Year provided always that this Section
+     2.10(b) shall not be deemed to amend any rights of King or obligations of
+     Supplier under this Agreement, except that the parties agree that Section
+     2.6(d) of this Agreement shall not apply with regard to quantities
+     requested by King which exceed the Annual Committed Quantity. For
+     quantities that King requires which exceed the Annual Committed Quantity,
+     King is obligated to purchase such exceeding quantities from Supplier to
+     the extent Supplier is able to supply such exceeding quantities.
+
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+
+
+                                       10
+
+<PAGE>
+
+                                   ARTICLE III
+                           PRODUCT PRICING AND PAYMENT
+
+          3.1. PRICING. The price for the Products constituting the Annual
+Minimum Quantity shall be $[***] of Product (the "Minimum Price"). In the event
+that King's orders exceed the Annual Minimum Quantity, the price shall be $[***]
+of Product for the remaining orders in that Calendar Year (the "Excess Price").
+The Minimum Price and the Excess Price shall remain firm during the Term.
+
+          3.2. PAYMENT.
+
+               (a) Terms. All payments required by this Agreement shall be made
+     in United States Dollars by wire transfer to an account designated by
+     Supplier. All invoices are strictly net and payment must be received within
+     [***] from the date of invoice. The date of each invoice shall be the date
+     of shipment of Products pursuant to Section 2.4. Payment shall be made
+     without deduction, deferment, set-off, lien or counterclaim of any nature,
+     other than for rejected or returned goods for which a credit acknowledgment
+     has been issued by Supplier. Time for payment shall be of the essence.
+
+               (b) Late Payments. Unless King notifies Supplier in writing of a
+     good faith dispute, with respect to payments not received within such
+     [***], interest shall accrue on any amount overdue, at the lesser of (i)
+     the prime rate as reported by the Morgan Guaranty Bank and Trust, New York,
+     New York (the "Prime Rate") on the date such payment is due, plus an
+     additional [***] or (ii) the maximum rate permitted by law, such interest
+     to begin accruing on a daily basis from the date of invoice, and shall
+     accrue both before and after judgment; provided, however, in the case of a
+     good faith dispute regarding payment resolved to be due and not paid within
+     [***] after such resolution, such interest shall begin accruing on a daily
+     basis from the date such payment becomes overdue, and shall accrue [***];
+     provided, further, in the case of a good faith dispute regarding payment,
+     King may in its discretion determine to pay such amounts disputed to be
+     overdue and in the event amounts are finally determined not to be due by
+     King, Supplier shall repay such excess amounts to King determined not be
+     due, and interest shall accrue on any such amount, at the lesser of (i)
+     Prime Rate plus an additional [***] or (ii) the maximum rate permitted by
+     law, such interest to begin accruing on a daily basis from the date such
+     disputed payment was received by Supplier.
+
+               (c) Default. In the event that King fails to make its payments
+     consistent with the terms in Sections 2.9(b) or 3.2(a), then Supplier shall
+     give to King a notice of default, and King shall have thirty (30) days to
+     cure the default. If King has not cured such default within the [***]
+     period, then Supplier shall, in its sole discretion, and without prejudice
+     to any other of its accrued rights, be entitled to liquidated damages as
+     set forth in Section 3.3; provided, however, a good faith bona fide dispute
+     by King regarding a payment pursuant to this Agreement shall not be
+     considered a default of payment so long as King notifies Supplier in
+     writing of such dispute within the later of [***] from the date of invoice
+     or the date of payment. King acknowledges it will notify Supplier promptly
+     upon a determination that a dispute exists regarding a payment.
+
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+
+
+                                       11
+
+<PAGE>
+
+               (d) Resolution of Payment Disputes. Unless the parties otherwise
+     agree, if the parties are unable to resolve any payment dispute within the
+     [***] period after receipt by Supplier of written notice from King of a
+     dispute regarding payment, the New York office of the certified public
+     accounting firm of Arthur Andersen, LP (the "Arbitrating Accountant") shall
+     be engaged as arbitrator hereunder to settle such dispute as soon as
+     practicable. In the event Arthur Andersen, LP is unwilling or unable to
+     serve as the Arbitrating Accountant, the parties hereto shall select by
+     mutual agreement another nationally-recognized independent certified public
+     accounting firm, who is not rendering (and during the preceding two-year
+     period has not rendered) services to either Supplier, King, or any of their
+     respective Affiliates, to serve as the Arbitrating Accountant. In
+     connection with the resolution of any dispute, the Arbitrating Accountant
+     shall have access to all documents, records, work papers, facilities and
+     personnel necessary to perform its function as arbitrator. The arbitration
+     before the Arbitrating Accountant shall be conducted in accordance with the
+     Commercial Arbitration Rules of the American Arbitration Association. The
+     Arbitrating Accountant's award with respect to any dispute shall be final
+     and binding upon the parties hereto, and judgment may be entered on the
+     award. The party against whom an award is made shall pay fees and expenses
+     of the Arbitrating Accountant with respect to any dispute; provided,
+     however, if there is no award made or an award is made for or against both
+     parties, [***] the fees and expenses of the Arbitrating Accountant.
+
+          3.3. LIQUIDATED DAMAGES. In the event that King does not comply with
+its requirements under Section 2.9(b), then Supplier in its sole discretion
+shall be entitled to the following as liquidated damages:
+
+               (a) Until such time as a Third Party has launched a Generic
+     Version, a payment in an amount equal to (i) [***] if King had purchased
+     its Annual Minimum Quantity requirements of Product at the Minimum Price
+     [***] (ii) an amount equal to [***] as of the date of default through the
+     expiration of the Term based on its Annual Minimum Quantity requirements;
+     or
+
+               (b) In the event that a Third Party has launched a Generic
+     Version and Supplier and King have mutually agreed to a modified Annual
+     Minimum Quantity to be purchased by King pursuant to Section 2.9(f), a
+     payment in an amount equal to (i) [***] if King had purchased its modified
+     Annual Minimum Quantity of Product at the Minimum Price through the
+     expiration of the Term minus (ii) [***] as of the date of default through
+     the expiration of the Term based on the modified Annual Minimum Quantity
+     requirements.
+
+          3.4. ADVERTISING/MARKETING/SALES COSTS AND PRODUCT PRICING. King shall
+be responsible for all advertising, marketing and sales costs associated with
+Licensed Product distribution. King shall have complete authority for all sales
+pricing decisions for the Licensed Products.
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+
+
+                                       12
+
+<PAGE>
+
+                                   ARTICLE IV
+
+                              TERM AND TERMINATION
+
+          4.1. TERM. Unless terminated earlier in accordance with the provisions
+of Section 4.2 herein, the term of this Agreement (the "Term") will commence
+upon execution of this Agreement and continue through October 29, 2008; provided
+that the Term automatically will be extended until the Pediatric Extension
+Expiration Date in the event any Pediatric Extension is granted to King.
+
+          4.2. EARLY TERMINATION. Either King or Supplier, as the case may be,
+may terminate this Agreement forthwith by notice in writing to the other party
+upon the occurrence of any of the following events:
+
+               (a) if the other party commits a material breach of this
+     Agreement, which in the case of a breach capable of remedy shall not have
+     been remedied within thirty (30) days of the receipt by the other party of
+     a notice identifying the breach and requiring its remedy or such longer
+     time as the party in breach may demonstrate to the other party is necessary
+     to remedy the breach using its reasonable efforts to do so; or
+
+               (b) if the other party ceases for any reason to carry on business
+     (but not as the result of a merger, acquisition or reorganization with one
+     or more entities whether in a single transaction or a series of
+     transactions) or convenes a meeting of its creditors or has a receiver or
+     manager appointed in respect of all or substantially all of its assets or
+     is the subject of an application for an administration order or of any
+     proposal for a voluntary arrangement or enters into liquidation (whether
+     compulsorily or voluntarily) or undergoes any analogous act or proceedings
+     under foreign law; or
+
+               (c) the enactment of any law, order or regulation by a
+     governmental unit that would render it impossible for the other party to
+     perform its obligations hereunder.
+
+          4.3. CONSEQUENCES OF TERMINATION AND SURVIVAL. Termination of this
+Agreement for whatever reason shall not affect the accrued rights and
+obligations of either Supplier or King arising under or out of this Agreement.
+The obligations under Article VI (Product Recalls), Article VII (Warranties),
+Article VIII (Nondisclosure and Confidentiality), Article IX (Indemnification
+and Insurance), Article X (Dispute Resolution) or any other provision which
+expressly or by implication is intended to survive expiration or termination
+shall survive expiration or termination of this Agreement.
+
+          4.4. ACCRUED OBLIGATIONS. At the end of the Term, and in the event
+that this Agreement is terminated by Supplier pursuant to the provisions of
+Section 4.2, King shall in each case pay to Supplier: (i) all amounts
+outstanding and remaining to be paid for Products supplied prior to the end of
+the applicable term or termination; (ii) all binding amounts for Products
+forecasted pursuant to Section 2.2 herein or ordered pursuant to Section 2.3
+herein prior to the end of the applicable term or termination; provided,
+Supplier delivers such orders in accordance with the Specifications; and (iii)
+an amount to compensate Supplier at its actual out-of-pocket costs for all raw
+materials that Supplier has reasonably purchased in reliance on King's forecasts
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+
+
+                                       13
+
+<PAGE>
+
+or is contractually committed to purchase at the time of such end of the
+applicable term or termination pursuant to authorization received from King in
+accordance with Section 2.3(b) herein which is not subsequently used by Supplier
+to manufacture any Product or any other product.
+
+                                    ARTICLE V
+                 CERTIFICATES AND ACCESS AND REGULATORY MATTERS
+
+          5.1. CERTIFICATES OF ANALYSIS. Supplier shall perform, or cause to be
+performed, sample tests on each lot of Product manufactured pursuant to this
+Agreement before delivery to King. Each test report shall set forth the items
+tested, Specifications and test results in a certificate of analysis, containing
+the types of information which shall have been approved by mutual agreement of
+the parties, for each lot delivered. Supplier shall send, or cause to be sent,
+such certificates to King simultaneously with delivery of each lot unless
+otherwise agreed. Supplier shall provide King with [***] per year.
+
+          5.2. NOTICE OF FAILURE TO MEET SPECIFICATIONS. Upon Supplier's
+discovery that any batch or lot of Product, which has previously been approved
+by Supplier, fails to conform to the Specifications, Supplier will immediately
+notify King of such failure to meet the Specifications and of the nature thereof
+in detail, including, but not limited to, supplying King with all investigatory
+reports, data, and communications, out-of-specification reports and data and the
+results of all outside laboratory testing and conclusions, if any. Supplier
+shall investigate all such failures promptly, and [***], cooperate with King in
+determining the cause for the failure and a corrective action to prevent future
+failures.
+
+          5.3. STABILITY. At Supplier's expense, Supplier shall be responsible
+for taking quality control stability samples of the Product in support of the
+NDAs for the Licensed Products, testing stability samples on a timely basis, and
+providing King with all reports and data generated therefrom. Upon learning of a
+stability test failure, Supplier shall immediately notify King and immediately
+initiate a stability failure investigation [***] and cooperate with King in
+determining the cause for the failure and corrective action to prevent future
+failures. For Product manufactured by Supplier prior to the date of this
+Agreement, Supplier shall, [***], maintain its current stability test program
+and protocols and report the results to King.
+
+          5.4. DMFS. Upon King's written request, Supplier shall promptly send a
+letter in form and substance satisfactory to King to each of Supplier's
+suppliers that are referenced in the NDA with respect to the Products requesting
+permission for King to reference such supplier's DMFs, in order to notify such
+supplier of the transfer of the Products from Supplier to King (pursuant to the
+General Products Agreement and the Operative Agreements (as such term is defined
+in the General Products Agreement)) and to obtain appropriate Drug Master File
+reference authorizations from such supplier.
+
+          5.5. RECORDS. Supplier shall maintain all manufacturing, packaging,
+analytical and stability records, all records of shipment, and all validation
+data relating to the Product to the extent and for the time periods required by
+applicable Laws with respect to the Products.
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+
+
+                                       14
+<PAGE>
+
+          5.6. REGULATORY COMPLIANCE. Supplier shall advise King promptly if an
+authorized agent of the FDA or other Governmental or Regulatory Authority visits
+any of Supplier's manufacturing facilities, or the facilities where the Products
+are being manufactured, concerning the Products. Supplier shall furnish to King
+all material information supplied to, or supplied by, the FDA or other
+governmental regulatory agency, including the Form 483 observations and
+responses, to the extent that such report relates to Products (or the ability of
+Supplier to supply such Products), within [***] of Supplier's receipt of such
+information or delivery of such information, as the case may be. Supplier's
+response to the Form 483 is subject to the requirements of Sections 2.7 and 5.7
+of this Agreement.
+
+          5.7. CHANGES. In addition to the requirements of Section 2.7 herein,
+Supplier shall not change the critical specified raw materials, packaging
+materials, their source, analytical test procedures or critical manufacturing
+conditions or manufacturing equipment used in the manufacture of Product without
+the prior written consent of King, which consent shall not be unreasonably
+withheld.
+
+          5.8. ACCESS TO FACILITIES.
+
+               (a) King Access. Upon the reasonable prior written request of
+     King, King shall have the right to inspect those portions of the
+     manufacturing, storage, packaging and testing facilities of Supplier where
+     Products are being manufactured, stored, packaged or tested, as the case
+     may be, during regular business hours, to ascertain compliance with cGMPs,
+     the Specifications and the regulatory application associated with the
+     Product. If the FDA or other applicable Governmental or Regulatory
+     Authority asserts any notice to the effect that Supplier has failed to
+     comply with any law or regulation in connection with the manufacture of
+     Products, or if Supplier delivers Product that does not meet the
+     Specifications, then King shall have the right to inspect such portions of
+     the manufacturing facilities of Supplier that relate to the manufacture of
+     Product upon reasonable notice and during normal business hours.
+     Notwithstanding the provisions of this Section 5.8(a), King shall have no
+     obligation or be deemed to have an obligation to inspect the manufacturing
+     and testing facilities of Supplier.
+
+               (b) Supplier Access. Upon the reasonable prior written request of
+     Supplier, Supplier shall have the right based upon demonstrable cause to
+     inspect those portions of the warehouse and distribution facilities of King
+     where Products are being stored and distributed, during regular business
+     hours, to observe Product storage and distribution or other related
+     activities. Notwithstanding the provisions of this Section 5.8(b), Supplier
+     shall have no obligation or be deemed to have an obligation to inspect the
+     warehouse and distribution facilities of King.
+
+          5.9. REGULATORY CORRESPONDENCE. Within [***] of receipt, King and
+Supplier shall make available, or cause to be made available, to each other,
+regulatory correspondence regarding regulatory letters, withdrawal of Product,
+and correspondence bearing on the safety and efficacy of the Product.
+
+          5.10. LICENSED PRODUCT INQUIRIES AND COMPLAINTS. King will promptly
+submit to Supplier all Licensed Product safety and efficacy inquiries, Licensed
+Product quality
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+
+
+                                       15
+
+<PAGE>
+
+complaints and adverse drug event reports received by it, together with all
+available evidence and other information relating thereto, in accordance with
+procedures to be agreed upon by the parties. Except as otherwise required by law
+or governmental regulation, King will be responsible for investigating and
+responding to all such inquiries, complaints and adverse events regarding
+Licensed Product. It shall be the responsibility of King to comply with all
+federal, state and local governmental reporting requirements regarding adverse
+drug events and Licensed Product quality matters, except where such events or
+matters are caused by acts or omissions of Supplier, in which case King may,
+consistent with applicable law and regulation, request Supplier's assistance in
+such compliance. In addition to the foregoing, King will forward a copy of all
+FDA submissions concerning Licensed Product adverse drug events or any Licensed
+Product safety-related topic to Supplier within [***] of submission.
+
+          5.11. RESPONSE TO COMPLAINTS AND/OR ADVERSE DRUG EVENTS. Pursuant to
+reported complaint and/or adverse drug event, if the nature of the reported
+complaint and/or adverse drug event requires testing, Supplier will, at King's
+reasonable request and expense, perform analytical testing of corresponding
+retention samples and provide the results thereto to King as soon as reasonably
+practicable; provided, however, Supplier shall be responsible for [***] costs of
+such testing and reporting to the FDA or any other governmental regulatory
+agency if it is determined that Supplier is responsible for such reported
+complaint and/or adverse drug event. Such testing shall be performed using NDA
+approved testing procedures as set forth in the NDA.
+
+          5.12. ADDITIONAL INFORMATION. Supplier shall provide to King in a
+timely manner, but in no event less than [***] prior to the due date of King's
+annual report to the FDA with respect to the Products, all information (in
+written form) which King requests regarding the Products in order to comply with
+applicable Laws. King shall be responsible for assuring that all promotional
+material produced by it relating to Licensed Products comply with applicable
+Laws. King shall provide to Supplier a copy of such FDA annual report. Such
+information shall include, without limitation, manufacturing and testing
+documentation.
+
+          5.13. TECHNICAL AGREEMENT. Each party shall perform the duties
+required of it pursuant to the Technical Agreement to be entered into by the
+parties in the form of EXHIBIT D. To the extent the Technical Agreement either
+conflicts with this Agreement or is silent on an issue addressed herein, this
+Agreement shall control.
+
+                                   ARTICLE VI
+                                 PRODUCT RECALLS
+
+          6.1. PRODUCT RECALLS. In the event (i) any Government or Regulatory
+Authority issues a request, directive or order that Product be recalled, (ii) a
+court of competent jurisdiction orders such a recall, or (iii) Supplier shall
+reasonably determine that Product should be recalled, the parties shall take all
+appropriate corrective actions, and shall cooperate in the investigations
+surrounding the recall. In the event Supplier determines that Product should be
+recalled, Supplier shall consult with King prior to taking any corrective
+actions. Supplier shall be responsible for all expenses of such recall which
+shall include the expenses of notification and destruction or return of the
+recalled Product and all other documented out-of-pocket costs incurred in
+connection with such recall, but shall not include lost profits of either party.
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+
+
+                                       16
+
+<PAGE>
+
+Notwithstanding the foregoing Supplier shall not be responsible for the costs of
+any recall resulting from King's improper use, handling or storage of Product.
+
+          6.2. DISPUTES. If there is any dispute concerning which party's acts
+or omissions gave rise to such recall of Product, such dispute shall be referred
+for decision to an independent expert (acting as an expert and not as an
+arbitrator) to be appointed by agreement between King and Supplier or, in the
+absence of agreement, by the President for the time being of the Pharmaceutical
+Research and Manufacturers of America. The decision of such independent expert
+shall be in writing and, except for manifest error on the face of the decision,
+shall be binding on both King and Supplier. The costs of such independent expert
+shall be borne [***]. After such determination, costs shall be paid by the
+responsible party in accordance with Section 6.1.
+
+                                   ARTICLE VII
+                                   WARRANTIES
+
+          7.1. COMPLIANCE WITH CGMP. Supplier warrants that all Products will be
+manufactured in conformity with the regulations of the FDA and any comparable
+state agency applicable thereto.
+
+          7.2. CONFORMITY WITH SPECIFICATIONS. Supplier warrants that each
+Product manufactured by Supplier and sold to King pursuant to this Agreement
+will meet the Specifications for such Product in effect at the time title to
+such Product passes from Supplier to King pursuant to Section 2.4. King may
+amend such Specifications from time to time only with the prior written consent
+of Supplier, which consent shall not be unreasonably withheld.
+
+          7.3. COMPLIANCE WITH THE ACT. Supplier warrants that all Product
+delivered to King pursuant to this Agreement will, at the time of such delivery,
+not be adulterated within the meaning of the Act and will not be an article
+which may not, under the provisions of such Act, be introduced into interstate
+commerce.
+
+          7.4. NO LIENS. Supplier warrants that all Product delivered to King
+pursuant to this Agreement will, at the time of such delivery, be free and clear
+of all liens, encumbrances, security interests and other encumbrances.
+
+          7.5. COMPLIANCE WITH APPLICABLE LAWS. During the term of this
+Agreement, Supplier shall comply in all material respects with all Laws
+applicable to the conduct of its business in the performance of this Agreement.
+
+          7.6. EXCLUSION OF OTHER WARRANTIES. EXCEPT WHERE OTHERWISE SET FORTH
+IN THIS AGREEMENT, SECTIONS 7.1, 7.2, 7.3, 7.4 AND 7.5 ARE IN LIEU OF ALL
+CONDITIONS, WARRANTIES AND STATEMENTS IN RESPECT OF PRODUCT AND IN RESPECT OF
+THE MANUFACTURING SERVICES PROVIDED HEREUNDER, WHETHER EXPRESSED OR IMPLIED BY
+STATUTE, CUSTOM OF THE TRADE OR OTHERWISE (INCLUDING BUT WITHOUT LIMITATION ANY
+SUCH CONDITION, WARRANTY OR STATEMENT RELATING TO THE DESCRIPTION OR QUALITY OF
+PRODUCT, ITS MERCHANTABILITY OR ITS FITNESS FOR A PARTICULAR PURPOSE OR USE
+UNDER ANY CONDITIONS) AND ANY SUCH CONDITION, WARRANTY OR
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+
+
+                                       17
+
+<PAGE>
+
+STATEMENT IS HEREBY EXCLUDED. EXCEPT AS PROVIDED IN ARTICLE IX HEREIN,
+REPLACEMENT OF ANY NONCONFORMING PRODUCT AND REASONABLE DOCUMENTED OUT-OF-POCKET
+EXPENSES SHALL BE KING'S SOLE REMEDY FOR BREACH OF ANY EXPRESS WARRANTY
+CONTAINED IN THIS ARTICLE VII. In no event shall Supplier or King be liable
+under or with respect to this Agreement for any indirect, incidental,
+consequential, special or punitive damages of any kind, including, but not
+limited to, loss of profits, including, but not limited to, due to breach of
+warranty, tort, breach or repudiation of any term or condition of this
+Agreement.
+
+                                  ARTICLE VIII
+                        NONDISCLOSURE AND CONFIDENTIALITY
+
+          8.1. NONDISCLOSURE OBLIGATIONS.
+
+               (a) Except as otherwise provided in this Agreement, Supplier
+     acknowledges that the know-how with which it may be supplied pursuant to
+     this Agreement is supplied in circumstances imparting an obligation of
+     confidence and agrees to keep such know-how secret and confidential and to
+     respect King's proprietary rights therein and to use the same for the sole
+     purpose of this Agreement and during the period of this Agreement or at any
+     time for any reason whatsoever not to disclose or cause or permit to be
+     disclosed such know-how to any third party.
+
+               (b) Supplier shall ensure that only its employees or employees of
+     its Affiliates or consultants and contractors shall have access to know-how
+     on a need to know basis and shall be subject to the same obligations of
+     confidence as the principals pursuant to Section 8.1(a) above and shall
+     enter into secrecy agreements in support of such obligations. Insofar as
+     this is not reasonably practicable, Supplier shall take all reasonable
+     steps to ensure that any such employees, consultants and contractors are
+     made aware of such obligations.
+
+               (c) Both parties undertake and agree not to disclose or permit to
+     be disclosed at any time for any reason whatsoever to any third party or
+     otherwise make use of or permit to be made use of any trade secrets or
+     confidential information relating to the technology, business affairs or
+     finances of the other or of any Affiliates, suppliers, agents,
+     distributors, licensees, licensors or other customers of the other which
+     comes into their possession pursuant to this Agreement.
+
+               (d) The obligations of confidence referred to in this Section 8.1
+     shall not extend to any information which:
+
+                    (i) is or becomes part of the public domain other than by
+          unauthorized acts of the party obligated not to disclose such
+          information or its Affiliates or sublicensees, as applicable;
+
+                    (ii) can be shown by written documents to have been
+          disclosed to the receiving party or its Affiliates or sublicensees by
+          a third party, provided such information was not obtained by such
+          third party directly or indirectly from the other party under this
+          Agreement pursuant to a confidentiality agreement;
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+
+
+                                       18
+
+<PAGE>
+
+                    (iii) prior to disclosure under this Agreement, was already
+          in the possession of the receiving party or its Affiliates or
+          sublicensees, provided such information was not obtained directly or
+          indirectly from the other party under this Agreement pursuant to a
+          confidentiality agreement;
+
+                    (iv) can be shown by written documents to have been
+          independently developed by the receiving party or its Affiliates
+          without breach of any of the provisions of this Agreement;
+
+                    (v) is disclosed by the receiving party pursuant to oral
+          questions, interrogatories, requests for information or documents,
+          subpoena, or a civil investigative demand of a court or governmental
+          agency; provided, however, that the receiving party notifies the other
+          party immediately upon receipt thereof so that the other may seek a
+          protective order or other appropriate remedy, and provided further
+          that the disclosing party furnishes only that portion of the
+          information which it is advised by counsel is legally required and
+          impose such obligations of secrecy as are possible in that regard; or
+
+                    (vi) is required to be disclosed by a party under any
+          statutory, regulatory or similar legislative requirement or any rule
+          of any stock exchange to which it or any Affiliate is subject;
+          provided, however, that the non-disclosing party shall be allowed to
+          review the proposed disclosure and the disclosing party agrees to
+          consider in good faith any proposed revisions thereof provided to the
+          disclosing party within [***] of the non-disclosing party's receipt of
+          the proposed disclosure, and the parties shall seek confidential
+          treatment for such disclosure as permitted by applicable law.
+
+          8.2. TERMS OF THIS AGREEMENT. The parties agree not to disclose any
+terms or conditions of this Agreement to any third party without the prior
+consent of the other parties, except as required by applicable Laws.
+
+          8.3. INJUNCTIVE RELIEF. The parties hereto understand and agree that
+remedies at law may be inadequate to protect against any breach of any of the
+provisions of this Article VIII by either party or their employees, agents,
+officers or directors or any other person acting in concert with it or on its
+behalf. Accordingly, each party shall be entitled to the granting of injunctive
+relief by a court of competent jurisdiction against any action that constitutes
+any such breach of this Article VIII.
+
+                                   ARTICLE IX
+             LIMITATION OF LIABILITY, INDEMNIFICATION AND INSURANCE
+
+          9.1. INDEMNIFICATION BY KING. Except as otherwise specifically
+provided herein, King shall indemnify and maintain Supplier against all claims,
+actions, costs, expenses (including court costs and legal fees on a full
+indemnity basis) or other liabilities ("Liabilities") whatsoever in respect of:
+
+               (a) any negligence or willful misconduct by King in relation to
+     the use, marketing, storage, distribution, handling or sale of Product;
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+
+
+                                       19
+
+<PAGE>
+
+               (b) any labeling of any Product to the extent that such labeling
+     has been supplied by or at the direction of King and applied in accordance
+     with instructions from King; and
+
+               (c) any representation or warranty made by King to its customers
+     or users with respect to Product, other than representations or warranties
+     contained in Sections 7.1, 7.2, 7.3, 7.4 or 7.5.
+
+          9.2. INDEMNIFICATION BY SUPPLIER. Except as otherwise specifically
+provided herein, Supplier shall indemnify and maintain King against all
+Liabilities whatsoever in respect of:
+
+               (a) Supplier's failure to comply with the Specifications, cGMP,
+     or applicable Laws;
+
+               (b) any breach of a representation or warranty made by Supplier
+     in Article VII; and
+
+               (c) any negligence or willful misconduct by Supplier in the
+     manufacture, storage, packaging, testing, labeling, handling or shipping of
+     Product.
+
+          9.3. INDEMNIFICATION PROCEDURES. A party (the "Indemnitee") that
+intends to claim indemnification under this Article IX shall:
+
+               (a) notify the other party (the "Indemnitor") of any Liability
+     with respect to which the Indemnitee intends to claim indemnification as
+     soon as practicable after the Indemnitee becomes aware of any such
+     Liability;
+
+               (b) permit the Indemnitor to assume the defense thereof with
+     counsel mutually satisfactory to the parties; and
+
+               (c) cooperate with the Indemnitor, at the Indemnitor's expense,
+     in the defense thereof.
+
+          With respect to any matter for which the Indemnitor has an obligation
+to indemnify the Indemnitee under this Agreement, the Indemnitee shall have the
+right to participate and be represented (at the Indemnitor's expense) by legal
+counsel of the Indemnitee's choice in all proceedings and negotiations, if
+representation by counsel retained by Indemnitor would be inappropriate due to
+actual or potential differing interests between the Indemnitee and any other
+party represented by such counsel in such proceedings. The indemnity agreement
+in this Article IX shall not apply to amounts paid in settlement of any
+Liability if such settlement is effected without the consent of the Indemnitor,
+which consent shall not be unreasonably withheld. Failure of the Indemnitee to
+deliver notice to the Indemnitor within a reasonable time after becoming aware
+of a Liability shall not relieve the Indemnitor of any liability to the
+Indemnitee pursuant to this Article IX, except to the extent such delay
+prejudices the Indemnitor's ability to defend such action.
+
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+
+
+                                       20
+
+<PAGE>
+
+          9.4. DISTRIBUTION/ PRODUCT LIABILITY INSURANCE. King shall obtain and
+maintain in effect for the Term of this Agreement, liability insurance or
+indemnity policies with an insurer reasonably acceptable to Supplier, in an
+amount not less than [***] (in the aggregate) with an indemnity to principals
+clause with respect to products liability and distribution, which policies shall
+name Supplier as an additional insured and shall be blanket policies. Such
+policies shall insure against liability on the part of King and any of its
+Affiliates, as their interests may appear, due to injury, disability or death of
+any person or persons, or injury to property, arising from the distribution of
+Products. Upon the execution of this Agreement and thereafter on January 1 of
+each year during the Term, King shall provide to Supplier a certificate of
+insurance (i) summarizing the insurance coverage and (ii) identifying any
+exclusions. King shall promptly notify Supplier of any material adverse
+alterations to the terms of this policy or decreases in the amounts for which
+insurance is provided.
+
+          9.5. PRODUCT LIABILITY CLAIMS. As soon as it becomes aware, each party
+will give the other prompt written notice of any defect or alleged defect in a
+Product, any injury alleged to have occurred as a result of the use or
+application of a Product, and any circumstances that may give rise to litigation
+or recall of a Product or regulatory action that may affect the sale or
+manufacture of a Product, specifying, to the extent the party has such
+information, the time, place and circumstances thereof and the names and
+addresses of the persons involved. Each party will also furnish promptly to the
+other copies of all papers received in respect of any claim, action or suit
+arising out of such alleged defect, injury or regulatory action.
+
+                                    ARTICLE X
+                               DISPUTE RESOLUTION
+
+          10.1. DISPUTE RESOLUTION.
+
+               (a) Any dispute, controversy or claim arising out of or relating
+     to this Agreement, or the breach, termination, or invalidity of this
+     Agreement, except as set forth in Section 10.2, shall be submitted in the
+     first instance to the Chief Operating Officer of Supplier, or such person's
+     designee of equivalent or superior position, and the Chief Operating
+     Officer of King, or such person's designee of equivalent or superior
+     position.
+
+               (b) If the matter or dispute cannot be resolved by the
+     individuals designated in Section 10.1(a) within [***] after such
+     submission, it shall be settled by arbitration in accordance with the
+     Commercial Arbitration Rules of the American Arbitration Association,
+     except as modified by this Section. The number of arbitrators shall be
+     three (3), [***]. The arbitration proceeding shall be conducted in the
+     English language. The arbitration proceeding shall be brought in New York,
+     New York, unless the parties agree in writing to conduct the arbitration in
+     another location.
+
+               (c) The arbitration decision shall be binding and not be
+     appealable to any court in any jurisdiction. The prevailing party may enter
+     such decision in any court having competent jurisdiction.
+
+               (d) Each party shall pay its own expenses of arbitration and the
+     expenses of the arbitrators shall be equally shared except that if, in the
+     opinion of the
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+
+
+                                       21
+
+<PAGE>
+
+     arbitrators, any claim by a party hereto or any defense or objection
+     thereto by the other party was unreasonable, the arbitrators may in their
+     discretion assess as part of the award any part of the arbitration expenses
+     of the other party (including reasonable attorneys' fees) and expenses of
+     the arbitrators against the party raising such unreasonable claim, defense
+     or objection.
+
+               (e) Any party may, without inconsistency with this Agreement,
+     apply to any court having jurisdiction hereof and seek injunctive relief so
+     as to maintain the status quo until such time as the arbitration award is
+     rendered or the controversy is otherwise resolved.
+
+          10.2. NON-ARBITRABLE ISSUES. The parties acknowledge that matters
+relating to Specifications as set forth in Section 2.5(a), payments as set forth
+in Section 3.2(a), (b) or (c), or product recalls as set forth in Section 6.1
+shall not be submitted to arbitration pursuant to Section 10.1 hereof, but
+instead shall be resolved in accordance with Section 2.5(b), 3.2(d) and 6.2,
+respectively.
+
+                                   ARTICLE XI
+                               GENERAL PROVISIONS
+
+          11.1. NOTICES.
+
+               (a) Except as otherwise specifically provided herein, any notice
+     or other documents to be given under this Agreement shall be in writing and
+     shall be deemed to have been duly given if sent by registered post,
+     nationally recognized overnight courier or facsimile transmission to a
+     party or delivered in person to a party at the address or facsimile number
+     set out below for such party or such other address as the party may from
+     time to time designate by written notice to the other:
+
+     If to King, to:
+
+                        King Pharmaceuticals, Inc.
+                        501 Fifth Street
+                        Bristol, Tennessee 37620
+                        Attn: Chairman of the Board
+                        Facsimile: 423-989-8006
+
+     with copies to:
+
+                        King Pharmaceuticals, Inc.
+                        501 Fifth Street
+                        Bristol, Tennessee 37620
+                        Attn: Executive Vice President and General Counsel
+                        Facsimile: 423-989-6282
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+
+
+                                       22
+
+<PAGE>
+
+               and
+
+                        Monarch Pharmaceuticals, Inc.
+                        355 Beecham Street
+                        Bristol, TN 37620
+                        Attn: Chief Executive Officer
+                        Facsimile: 423-989-8006
+
+     If to Supplier to:
+
+                        Sanofi-Aventis Deutschland GmbH
+                        Attn: Legal Department
+                        Brueningstrasse 50
+                        65926 Frankfurt
+                        Germany
+                        Fax: Legal Department No.: ++ 49 69 305 24590
+
+     with copies to:
+
+                        Sanofi-Aventis Deutschland GmbH
+                        Attn: Head of PharmaChemical Sales
+                        IndustriePark Hoechst
+                        Gebaude / Building D 711
+                        65926 Frankfurt am Main
+                        Fax: ++ 49 69 31 97 69
+
+               and
+
+                        Sanofi-Aventis
+                        174 Avenue de France
+                        75013 Paris France
+                        Attn: Head of Direction Juridique
+                        Facsimile: +33-01-53-77-40-48
+
+               (b) Any such notice or other document shall be deemed to have
+     been received by the addressee [***] following the date of dispatch of the
+     notice or other document by post or, where the notice or other document is
+     sent by overnight courier, by hand or is given by facsimile, simultaneously
+     with the transmission or delivery. To prove the giving of a notice or other
+     document it shall be sufficient to show that it was dispatched.
+
+          11.2. ENTIRE AGREEMENT; AMENDMENT.
+
+               (a) This Agreement, together with the General Products Agreement
+     and the other Operative Agreements (as such term is defined in the General
+     Products Agreement) and the Exhibits and Schedules attached hereto and
+     thereto, embodies and sets forth the entire agreement and understanding of
+     the parties with respect to the subject
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+
+
+                                       23
+
+<PAGE>
+
+     matter herein and there are no promises, terms, conditions or obligations,
+     oral or written, expressed or implied, other than those contained in this
+     Agreement. The terms of this Agreement shall supersede all previous oral or
+     written agreements which may exist or have existed between the parties
+     relating to the subject matter of this Agreement, including without
+     limitation the Original Agreement. No party shall be entitled to rely on
+     any agreement, understanding or arrangement which is not expressly set
+     forth in this Agreement. Any other terms and conditions (including without
+     limitation any terms and conditions contained in any purchase order or
+     sales invoice issued pursuant to this Agreement) are hereby expressly
+     excluded.
+
+               (b) This Agreement shall not be amended, modified, varied or
+     supplemented except in writing signed by duly authorized representatives of
+     the parties.
+
+          11.3. FORCE MAJEURE. If a party is prevented or delayed in the
+performance of any of its obligations under this Agreement by Force Majeure (as
+defined herein) and shall give written notice thereof to the other parties
+specifying the matters constituting Force Majeure together with such evidence as
+such party reasonably can give and specifying the period for which it is
+estimated that such prevention or delay will continue, the party shall be
+excused from the performance or the punctual performance of such obligations as
+the case may be from the date of such notice for so long as such cause of
+prevention or delay shall continue. The expression "Force Majeure" shall be
+deemed to include any cause substantially affecting the performance by a party
+of this Agreement arising from or attributable to acts, events, non-happenings,
+omissions or accidents beyond the reasonable control of the party whose
+performance is so affected.
+
+          11.4. ASSIGNMENT. No party shall be entitled to assign its rights and
+obligations hereunder without the prior written consent of the other parties;
+provided, however, a party shall be entitled, without the prior written consent
+of the other parties, to assign its rights and obligations hereunder to an
+Affiliate, but such assignment to an Affiliate shall not relieve the assigning
+party of its obligations hereunder. No permitted assignment hereunder shall be
+deemed effective until the assignee shall have executed and delivered an
+instrument in writing reasonably satisfactory in form and substance to the other
+parties pursuant to which the assignee assumes all of the obligations of the
+assigning party hereunder. Any purported assignment of this Agreement in
+violation of this Section 11.4 shall be void. This Agreement shall be binding
+upon the successors and permitted assigns of the parties and the name of a party
+appearing herein shall be deemed to include the names of its successors and
+assigns. Notwithstanding the foregoing provisions of this Section 11.4, King's
+rights hereunder may be assigned as security to one or more financial
+institutions providing financing to King and may be assigned pursuant to the
+terms of the relevant security agreement, it being understood that no such
+assignment shall release King from any of its obligations hereunder (or be
+deemed to constitute an assumption by such an assignee of such obligations) or
+increase or otherwise modify the obligations of Supplier hereunder.
+
+          11.5. HEADINGS, INTERPRETATION. The headings used in this Agreement
+are for convenience only and are not a part of this Agreement nor affect the
+interpretation of any of its provisions.
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+
+
+                                       24
+
+<PAGE>
+
+          11.6. ATTACHMENTS. All Exhibits and Schedules referenced herein are
+hereby made a part of this Agreement.
+
+          11.7. INDEPENDENT PARTIES. This Agreement shall not be deemed to
+create any partnership, joint venture, amalgamation or agency relationship
+between the parties. Each party shall act hereunder as an independent
+contractor.
+
+          11.8. GOVERNING LAW. This Agreement shall be governed by and construed
+under the laws of the State of Missouri, without giving effect to the choice of
+law provisions thereof.
+
+          11.9. NO WAIVER. Neither the failure nor delay on the part of a party
+to require the strict performance of any term, covenant or condition of this
+Agreement or to exercise any right or remedy available on a breach thereof shall
+constitute a waiver of any such breach or of any such term or condition. The
+consent to, or the waiver of, any breach, or the failure to require on any
+single occasion the performance or timely performance of any term, covenant, or
+condition of this Agreement shall not be construed as authorizing any subsequent
+or additional breach and shall not prevent a subsequent enforcement of such
+term, covenant, or condition.
+
+          11.10. SEVERABILITY. In the event that any provision of this Agreement
+or the application thereof to any party or circumstance shall be finally
+determined by a court of proper jurisdiction to be invalid or unenforceable to
+any extent, then (i) a suitable and equitable provision shall be substituted
+therefore in order to carry out, so far as may be valid and enforceable, the
+intent and purpose of such invalid and unenforceable provision and (ii) the
+remainder of this Agreement and the application of such provision to the parties
+or circumstances other than those to which it is held invalid or unenforceable
+shall not be affected thereby.
+
+          11.11. INTERPRETATION. The parties hereto acknowledge and agree that:
+(i) each party and its representatives has reviewed and negotiated the terms and
+provisions of this Agreement and have contributed to its revision; (ii) the rule
+of construction to the effect that any ambiguities are resolved against the
+drafting party shall not be employed in the interpretation of this Agreement;
+and (iii) the terms and provisions of this Agreement shall be construed fairly
+as to each party hereto and not in favor of or against either party regardless
+of which party was generally responsible for the preparation of this Agreement.
+
+          11.12. COUNTERPARTS. This Agreement may be executed simultaneously in
+two or more counterparts, each of which shall be deemed an original, but both of
+which together shall constitute a single agreement.
+
+          11.13. THIRD PARTY BENEFICIARIES. This Agreement is not intended to
+confer upon any non-party rights or remedies hereunder, except as may be
+received or created as part of a valid assignment.
+
+          11.14. FURTHER ASSURANCES. Each party shall execute and deliver such
+additional instruments and other documents and use all commercially reasonable
+efforts to take or cause to be taken, all actions and to do, or cause to be
+done, all things necessary under applicable law to consummate the transactions
+contemplated hereby.
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+
+
+                                       25
+
+<PAGE>
+
+                  [Remainder of page intentionally left blank]
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+
+
+                                       26
+
+<PAGE>
+
+          IN WITNESS WHEREOF, the parties hereto have each caused this Amended
+And Restated U.S. Product Manufacturing Agreement to be duly executed as of the
+date first above written.
+
+                                        SANOFI-AVENTIS DEUTSCHLAND GMBH
+
+
+                                        By:
+                                            ------------------------------------
+                                        Name:
+                                              ----------------------------------
+                                        Title:
+                                               ---------------------------------
+
+
+                                        SANOFI-AVENTIS DEUTSCHLAND GMBH
+
+
+                                        By:
+                                            ------------------------------------
+                                        Name:
+                                              ----------------------------------
+                                        Title:
+                                               ---------------------------------
+
+
+                                        KING PHARMACEUTICALS, INC.
+
+
+                                        By:
+                                            ------------------------------------
+                                        Name:
+                                              ----------------------------------
+                                        Title:
+                                               ---------------------------------
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+<PAGE>
+
+                                  SCHEDULE 1.30
+
+                           SPECIFICATIONS FOR PRODUCT
+
+                                     POWDER
+
+The Specifications are as set forth in the attached Certificate of Analysis of a
+representative sample.
+
+                                    GRANULES
+
+The Specifications are as set forth in the attached Certificate of Analysis of a
+representative sample.
+
+                        CONFIDENTIAL TREATMENT REQUESTED
+
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+<PAGE>
+
+                                  SCHEDULE 1.31
+
+                          CHEMICAL FORMULA OF RAMIPRIL
+
+                         (CHEMICAL FORMULA OF RAMIPRIL)
+
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+<PAGE>
+
+                                    EXHIBIT B
+                               QUANTITIES/CAPACITY
+
+                                   Quantities
+
+[***]
+
+[***]
+
+                                    Capacity
+
+<TABLE>
+<CAPTION>
+Calendar Year   Technical Capacity
+-------------   ------------------
+<S>             <C>
+2006             [***] of Product
+2007             [***] of Product
+2008             [***] of Product
+2009             [***] of Product
+</TABLE>
+
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+<PAGE>
+
+                                    EXHIBIT D
+                               TECHNICAL AGREEMENT
+
+                                December 17, 1998
+
+PURSUANT TO THE TERMS OF THE U.S. PRODUCT MANUFACTURING AGREEMENT BY AND BETWEEN
+KING PHARMACEUTICALS, INC. ("KING") AND HOECHST MARION ROUSSEL, INC. ("HMRI")
+DATED AS OF DECEMBER 17, 1998, HMRI AND KING HEREBY AGREE AS FOLLOWS:
+
+1.   RESPONSIBILITIES
+
+     The obligations and responsibilities of either party regarding the drug
+regulatory approval, the raw materials, manufacturing, quality control,
+complaint handling and drug safety are specified in ANNEX A hereto.
+
+2.   RESPONSIBLE PERSONNEL
+
+     The personnel responsible for the manufacture and/or the quality control of
+the supplied product are specified in ANNEX B hereto. The parties undertake to
+keep the other party informed of any changes in such personnel.
+
+          IN WITNESS WHEREOF, this Technical Agreement has been duly executed by
+the parties as of the date first set forth above.
+
+                                        HOECHST MARION ROUSSEL, INC.
+
+
+                                        By:
+                                            ------------------------------------
+                                        Name:
+                                              ----------------------------------
+                                        Title:
+                                               ---------------------------------
+
+
+                                        KING PHARMACEUTICALS, INC.
+
+
+                                        By:
+                                            ------------------------------------
+                                        Name:
+                                              ----------------------------------
+                                        Title:
+                                               ---------------------------------
+
+
+
+  PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH THE
+              SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+<PAGE>
+
+                                     Annex A
+
+to the Technical Agreement between KING and HMRI
+
+<TABLE>
+<CAPTION>
+                        RESPONSIBILITIES                            KING    HMRI
+                        ----------------                           -----   -----
+<S>                                                                <C>     <C>
+[***]
+   [***]                                                           [***]   [***]
+   [***]                                                           [***]   [***]
+   [***]                                                           [***]   [***]
+   [***]                                                           [***]   [***]
+   [***]                                                           [***]   [***]
+   [***]                                                           [***]   [***]
+   [***]                                                                   [***]
+
+[***]
+   [***]                                                           [***]
+   [***]                                                           [***]
+   [***]                                                           [***]   [***]
+   [***]                                                                   [***]
+      [***]                                                                [***]
+      [***]                                                                [***]
+      [***]                                                        [***]   [***]
+      [***]                                                                [***]
+
+[***]
+   [***]                                                                   [***]
+   [***]                                                                   [***]
+   [***]                                                                   [***]
+   [***]                                                                   [***]
+   [***]                                                                   [***]
+   [***]                                                                   [***]
+   [***]                                                                   [***]
+   [***]                                                                   [***]
+   [***]                                                                   [***]
+   [***]                                                                   [***]
+   [***]                                                                   [***]
+   [***]                                                                   [***]
+   [***]                                                                   [***]
+   [***]                                                                   [***]
+   [***]                                                                   [***]
+   [***]                                                           [***]   [***]
+   [***]                                                                   [***]
+   [***]                                                                   [***]
+   [***]                                                                   [***]
+   [***]
+   [***]                                                           [***]   [***]
+   [***]                                                           [***]   [***]
+</TABLE>
+
+X    Responsible party
+
+(X)  Co-operation necessary
+
+
+    PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH
+      THE SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S APPLICATION
+      REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+<PAGE>
+
+                                     Annex B
+
+to the Technical Agreement between KING and HMRI
+
+Responsible Personnel:
+
+<TABLE>
+<CAPTION>
+FUNCTION:                                                   KING    HMRI
+---------                                                  -----   -----
+<S>                                                        <C>     <C>     <C>
+MANUFACTURING                                              [***]   [***]   [***]
+                                                           [***]   [***]   [***]
+                                                           [***]           [***]
+                                                           [***]   [***]   [***]
+                                                           [***]   [***]   [***]
+
+PACKAGING                                                  [***]   [***]   [***]
+                                                           [***]   [***]   [***]
+                                                           [***]           [***]
+                                                           [***]   [***]   [***]
+                                                           [***]   [***]   [***]
+
+LABELING                                                   [***]   [***]   [***]
+                                                           [***]   [***]   [***]
+                                                           [***]           [***]
+                                                           [***]   [***]   [***]
+                                                           [***]   [***]   [***]
+
+QUALITY CONTROL                                            [***]   [***]   [***]
+                                                           [***]   [***]   [***]
+                                                           [***]           [***]
+                                                           [***]   [***]   [***]
+                                                           [***]   [***]   [***]
+
+QUALITY ASSURANCE                                          [***]   [***]   [***]
+                                                           [***]   [***]   [***]
+                                                           [***]           [***]
+                                                           [***]   [***]   [***]
+                                                           [***]   [***]   [***]
+
+DRUG SAFETY                                                [***]   [***]   [***]
+                                                           [***]   [***]   [***]
+                                                           [***]           [***]
+                                                                           [***]
+                                                           [***]   [***]   [***]
+                                                           [***]   [***]   [***]
+</TABLE>
+
+    PORTIONS OF THIS EXHIBIT WERE OMITTED AND HAVE BEEN FILED SEPARATELY WITH
+      THE SECRETARY OF THE COMMISSION PURSUANT TO THE COMPANY'S APPLICATION
+      REQUESTING CONFIDENTIAL TREATMENT UNDER RULE 24B-2 OF THE SECURITIES
+                              EXCHANGE ACT OF 1934.
+</TEXT>
+</DOCUMENT>

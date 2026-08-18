@@ -1,0 +1,93 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>4
+<FILENAME>ex102.txt
+<DESCRIPTION>EXHIBIT 10.2
+<TEXT>
+                                                                  Exhibit 10.2
+
+          AMENDMENT TO PRIVATE LABEL CREDIT CARD PROGRAM AGREEMENT
+
+
+This Amendment is to that certain Private Label Credit Card Program
+Agreement between World Financial Network National Bank, ("Bank ") and
+United Retail Group, Inc. and United Retail Incorporated (collectively
+referred to as "Retailer"), dated January 27, 1998.
+
+                  * * * * * * * * * * * * * * * * * * * *
+
+         WHEREAS, Bank and Retailer entered into that certain Private Label
+Credit Card Program Agreement dated January 27, 1998, amended as of July 1,
+1999 (the "Agreement"); and,
+
+         WHEREAS, Bank and Retailer now desire to amend the Agreement as
+set forth herein;
+
+         NOW, THEREFORE, Bank and Retailer hereby agree as follows:
+
+1.       The definition of "Cost of Funds" in Section 1.1., Definitions, is
+         hereby amended effective as of December 1, 1999 to read as
+         follows:
+
+         "Cost of Funds" means, for any period, the following: (a) for up
+         to the first Seventy Million Dollars ($70,000,000) tranche of
+         Receivables, the cost of financing such Receivables for the three
+         (3) month period commencing December 1, 1999 and for each three
+         (3) month period thereafter will be based on one-year treasuries
+         plus 25 basis points to be reset every three (3) months, with one
+         (1) year treasuries not to be more than six and three-quarters
+         percent (6.75%) per annum and not to be less than five percent
+         (5%) per annum for the purpose of this calculation, and (b) for
+         the balance of the Receivables, the cost of financing such
+         Receivables for that period, based on the following: the average
+         annualized cost of borrowings of the Master Trust(s) for that
+         period (weighted at 90% of the cost of financing) and the average
+         annualized cost of Bank's borrowings for that period (weighted at
+         10% of the cost of financing), it being understood that Bank shall
+         use its best efforts to obtain appropriate derivative instruments
+         in respect of tranches of Receivables other than the first Seventy
+         Million Dollars ($70,000,000) tranche of Receivables for amounts
+         acceptable to Retailer ("Appropriate Derivative Instruments"),
+         provided that such amounts shall be treated as Pass Through
+         Expenses.
+
+2.       For and in consideration of Bank's agreement to amend the
+         Agreement Retailer agrees to pay to Bank on or before January 30,
+         2000 the sum of Sixty-Six Thousand Dollars ($66,000).
+
+3.       As hereby amended and supplemented, the Agreement shall remain in
+         full force and effect.
+
+         IN WITNESS WHEREOF, the parties hereto have executed this
+Amendment the date(s) set forth below.
+
+World Financial Network National Bank
+
+
+By: /s/ Robert P. Armiak
+    ----------------------------------
+Title:  Treasurer
+
+Date:  12/29/99
+
+
+United Retail Group, Inc.
+
+By: /s/ George R. Remeta
+    ---------------------------------
+Title:  Vice Chairman
+
+Date:  12/1/99
+
+
+United Retail Incorporated
+
+By:  /s/ Jon Grossman
+     --------------------------------
+Title:  Vice President - Finance
+
+Date:  11/26/99
+
+
+</TEXT>
+</DOCUMENT>

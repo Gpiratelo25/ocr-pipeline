@@ -1,0 +1,125 @@
+<DOCUMENT>
+<TYPE>EX-10.11
+<SEQUENCE>23
+<FILENAME>0023.txt
+<DESCRIPTION>AMENDMENT TO THE BUSINESS COLLABORATION AGREEMENT
+<TEXT>
+
+<PAGE>
+
+                                                                   Exhibit 10.11
+
+
+
+                               AMENDMENT TO THE
+                               ----------------
+                       BUSINESS COLLABORATION AGREEMENT
+                       --------------------------------
+
+
+     This AMENDMENT TO THE BUSINESS COLLABORATION AGREEMENT ("Amendment"), dated
+as of September 20, 2000 is made and entered into by and among (i) Halis, Inc.
+("HALIS"), a Georgia corporation and (ii) HealthWatch, Inc. ("HealthWatch"), a
+Minnesota corporation.
+
+     WHEREAS, HALIS and HealthWatch have entered into that certain Business
+Collaboration Agreement dated as of October 10, 1997 (the Agreement") to provide
+both parties with access to the other party's software products; and
+
+     WHEREAS, HALIS and HealthWatch both desire to extend the term of the
+Agreement and adjust the royalty fees contained therein.
+
+     THEREFORE, for good and valuable consideration, the receipt and sufficiency
+of which hereby are acknowledged, the parties, intending to be legally bound, do
+hereby agree as follows:
+
+     1.   Section 2 of the Agreement shall be deleted in its entirety and
+replaced with the following:
+
+     "2.1 HealthWatch License. HALIS grants to HealthWatch a non-exclusive
+          -------------------
+     right to distribute, market, sub-license, and private label HALIS software
+     products. HealthWatch agrees to pay HALIS, a $50,000 per month
+     collaboration fee.  HealthWatch will share revenues received from such
+     activities on a 60/40 basis, whereby 60% will be allocated to HealthWatch
+     and 40% will be allocated to HALIS.  All collaboration fees paid to HALIS
+     for the life of this agreement will be cumulated in the form of a credit to
+     be applied to the revenue sharing amounts owed to HALIS by HealthWatch.
+     Revenue sharing amounts will be determined on a quarterly basis, and any
+     amount owed, net of the collaboration fee credits, will be paid to HALIS
+     within 30 days after the conclusion of each quarter.  HALIS shall (i)
+     provide support to HealthWatch for the HALIS software products and
+     reasonable product enhancements as part of product release updates and (ii)
+     accept and review input from HealthWatch with regard to reasonable product
+     enhancement requests to be included in future product release updates.
+     HealthWatch shall have the option to terminate its license granted under
+     this Section 2.1 on or after October 1, 2001 upon 90 days prior written
+     notice to Halis (provided all net revenue sharing fees are paid and
+     current), in which event its obligation to pay the $50,000 monthly
+     collaboration fee shall terminate.  Revenue sharing shall continue with
+     respect to any sub-license previously granted by HealthWatch under this
+     Agreement.  Previously paid collaboration fees shall continue to operate as
+     a credit against amounts owed to HALIS.   HALIS shall continue to provide
+     support required under this Agreement for all outstanding product licenses
+     issued by HealthWatch after such termination.  However, should HealthWatch
+     exercise its option to terminate the monthly collaboration fee, HALIS shall
+     have the option to terminate its support obligations under this Section 2.1
+     in exchange for waiving all unearned future revenue sharing payments due to
+     HALIS under this Section 2.1.
+
+     2.2. HALIS License. HealthWatch grants to HALIS a non-exclusive right to
+          -------------
+     market, distribute, sub-license and private label HealthWatch's information
+     technology software. HALIS will share revenues received from such sales or
+     sub-licensing of the HealthWatch software technology on a 60/40 basis,
+     whereby 60% will be allocated to HALIS and 40% will be allocated to
+     HealthWatch. The provisions of the Business Collaboration Agreement
+     associated with this paragraph 2.2 will remain in effect for the term of
+     the Agreement. All revenue sharing shall be paid to HealthWatch on a
+     quarterly basis within 30 days after the conclusion of each quarter.
+<PAGE>
+
+     2.3  Set-Offs Permitted.  HealthWatch and HALIS both agree that either
+          ------------------
+     party shall be permitted to deduct any amounts payable under this Agreement
+     and apply such payment to any undisputed amounts due and payable from the
+     other party as a result of fees payable under this Agreement, cost sharing
+     arrangements between the parties or any other similar arrangements."
+
+
+     2.   Section 6 of the Agreement shall be deleted in its entirety and
+replaced with the following:
+
+     "6.  Term.  The term of this Agreement shall expire on September 20, 2005,
+          ----
+     and shall be automatically extended for additional one-year terms, unless
+     terminated by  one of the parties by giving a written notice to the other
+     party ninety days prior to the end of the original term or the additional
+     one year renewal terms."
+
+     3.   Except as modified by this Amendment, all terms and conditions of the
+Agreement are hereby reaffirmed.
+
+
+     IN WITNESS WHEREOF, the undersigned have executed this Amendment as of the
+effective date mentioned above.
+
+
+HEALTHWATCH, INC.                   HALIS, INC.
+
+/s/ David Engert                    /s/ Paul W. Harrison
+-----------------------------       -----------------------------
+By:  David Engert                   By: Paul W. Harrison
+Its: Chief Operating Officer        Its: President
+Date: September 20, 2000            Date: September 20, 2000
+
+
+/s/ Tom Ridenour                    /s/ Joel Greenspan
+-----------------------------       -----------------------------
+By: Tom Ridenour                    By: Joel Greenspan
+Its: Chief Financial Officer        Its: Director
+Date: September 20, 2000            Date: September 20, 2000
+
+                                       2
+</TEXT>
+</DOCUMENT>

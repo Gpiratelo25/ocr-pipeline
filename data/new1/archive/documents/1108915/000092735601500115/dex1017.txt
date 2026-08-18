@@ -1,0 +1,214 @@
+<DOCUMENT>
+<TYPE>EX-10.17
+<SEQUENCE>2
+<FILENAME>dex1017.txt
+<DESCRIPTION>EXHIBIT 10.17 - FIRST AMENDMENT AND FURTHER TERMS
+<TEXT>
+
+<PAGE>
+
+                                                                   Exhibit 10.17
+
+                                       *** Text Omitted and filed Separately
+                                       Confidential Treatment Requested
+                                       Under 17 C.F.R. (Sections) 200.80 (b)(4),
+                                       200.83 and 240.24(b)-2.
+
+
+               FIRST AMENDMENT AND FURTHER TERMS TO THE PRODUCT
+                      DEVELOPMENT AND RESELLER AGREEMENT
+
+
+     This FIRST AMENDMENT AND FURTHER TERMS TO THE PRODUCT DEVELOPMENT AND
+RESELLER AGREEMENT ("Amendment"), dated this 30th day of March, 2001, amends the
+Product Development and Reseller Agreement dated April 7, 2000 ("Reseller
+Agreement") that was executed by and between Genomica Corporation ("Genomica")
+and PE Corporation, by and through its PE Biosystems divisions, as follows:
+
+     WHEREAS, the parties wish to amend certain terms of the Reseller Agreement;
+
+     THEREFORE, the parties agree as follows:
+
+     1.  Name Change Amendment.  All relevant Sections of the Reseller Agreement
+shall be amended to incorporate the name change executed by PE Corporation,
+changing PE Biosystems to "Applied Biosystems, Inc." (hereinafter "ABI").  In
+the Reseller Agreement, all references to "PE Biosystems" are hereby amended to
+"Applied Biosystems, Inc." and all references to "PEB" are hereby amended to
+"ABI."
+
+     2.  Consulting and Services Further Terms - ABI acknowledges that Genomica
+has, since the execution of the Reseller Agreement until the date of this
+Amendment, allocated substantial resources and incurred costs in support of ABI
+achieving the Sales Milestones under the Agreement.  These resources and costs
+include, but are not limited to, Genomica employees' ongoing time and effort
+associated with developing marketing collateral, travel, training the ABI sales
+force, participating in joint ABI/Genomica marketing meetings, and resolving
+product integration issues, which are deemed by the parties to be over and above
+that otherwise required of Genomica in the Reseller Agreement ("Extraordinary
+Services").  ABI agrees to compensate Genomica for these Extraordinary Services
+incurred in the first calendar quarter of 2001 by paying Genomica a one-time fee
+of [***], payable within a reasonable time.
+
+     3.  Sales Milestones Amendment.  Section 2.2 ("Conditional Exclusivity") is
+hereby amended and replaced in its entirety by the following:
+
+       2.2    Conditional Exclusivity
+
+       ABI and Genomica acknowledge and agree that the grant of Exclusive
+       distribution rights under Section 2.1 herein is in consideration of ABI's
+       on-going achievement of the Sales Milestones, as defined in Exhibit D.
+       In the event that ABI fails to either (i) achieve a Sales Milestone in
+       two (2) consecutive quarters, or (ii) achieve 75% of the aggregate Sales
+       Milestones for four (4) consecutive quarters, Genomica may, at its sole
+       discretion, elect to cause this Agreement to change from conditionally
+       Exclusive to a
+
+* Confidential Treatment Requested
+<PAGE>
+
+       non-exclusive Agreement for the remainder of the term of the Agreement.
+       For the period from the second quarter of 2001 through the first quarter
+       of 2002, inclusive, ABI may choose to fulfill its Sales Milestone
+       obligations by remitting quarterly payments to Genomica equal to the
+       number of Genomica Product and Technical Support and Maintenance
+       contracts that were to be sold by ABI for that quarter multiplied by the
+       agreed upon fees for Genomica Product and Technical Support and
+       Maintenance contracts to be paid to Genomica pursuant to Exhibit D.
+
+     4.  Conditional Exclusivity Payment Further Terms.
+
+       Genomica agrees to accept from ABI a one-time payment of [***], payable
+       promptly following execution of this Amendment and in lieu of any other
+       payment or consideration that may otherwise be called for under the
+       Reseller Agreement or this Amendment, thereby allowing ABI to maintain
+       its conditional exclusivity under the Reseller Agreement and nullifying
+       any consequence under the Reseller Agreement for failing to meet any
+       requirements for retention of exclusivity. Following this payment of
+       [***], ABI's responsibility to meet its Sales Milestones pursuant to
+       Exhibit D, or to fulfill its milestone obligations by making the
+       quarterly payments specified in Section 2.2, shall commence on April 1,
+       2001, as noted under Section 3 above of this Amendment.
+
+
+
+[THE REST OF THIS PAGE INTENTIONALLY LEFT BLANK.]
+
+* Confidential Treatment Requested
+<PAGE>
+
+     5.  Exhibit D.  Both tables in Exhibit D shall be amended as follows:
+
+         Product Description                                Price
+<TABLE>
+<S>                                      <C>
+-----------------------------------------------------------------------------------------
+Genomica Product - List Price               [***] list price per unit
+
+                                            Genomica to receive [***] of the [***] price.
+-----------------------------------------------------------------------------------------
+Genomica Product - Package Price            [***] package price per unit
+
+[***] when [***] with AB hardware [***] to  Genomica to receive [***] of the [***] price.
+GeneMapper (e.g. [***])
+-----------------------------------------------------------------------------------------
+Genomica Product - Multiple Units           [***] multiple units price per unit
+Price
+
+[***] for any [***] that [***] or more      Genomica to receive [***] of the [***] price.
+LinkMapper [***] at [***]. This price
+applies only to [***] purchased [***]
+the [***]. The [***] is priced per
+boxes one or two above.
+-----------------------------------------------------------------------------------------
+Technical Support and Maintenance           [***] per Genomica Product per year
+Agreement
+
+[***] Genomica Product units [***] be       Genomica to receive [***] of [***] price
+sold with the Technical Support             North America and Europe for the first
+and Maintenance fee.                        year, and 100% in subsequent years.
+
+                                            Genomica will be responsible for customer
+                                            invoicing and collections beginning on
+                                            the anniversary date of year 1 and in all
+                                            subsequent years in North America and
+                                            Europe.
+
+                                            Genomica to receive [***] of [***] price for
+                                            outside of North America and Europe for
+                                            the first and subsequent years.
+
+                                            ABI will be responsible for customer
+                                            invoicing and collections for all support
+                                            contracts sold outside of North America
+                                            and Europe.
+-----------------------------------------------------------------------------------------
+</TABLE>
+
+
+*Confidential Treatment Requested
+
+<PAGE>
+
+Sales Milestones
+
+<TABLE>
+<CAPTION>
+Sales Milestone
+----------------------------------------------------------------------------
+<S>                         <C>
+Q2'01                       [***] product and maintenance agreements sold
+----------------------------------------------------------------------------
+Q3'01                       [***] product and maintenance agreements sold
+----------------------------------------------------------------------------
+Q4'01                       [***] product and maintenance agreements sold
+----------------------------------------------------------------------------
+Q1'02                       [***] product and maintenance agreements sold
+----------------------------------------------------------------------------
+Q2'02                       [***] product and maintenance agreements sold
+----------------------------------------------------------------------------
+Q3'02                       TBD 30 days prior to Q3'02
+----------------------------------------------------------------------------
+Q4'02                       TBD 30 days prior to Q3'02
+----------------------------------------------------------------------------
+Q1'03                       TBD 30 days prior to Q3'02
+----------------------------------------------------------------------------
+Q2'03                       TBD 30 days prior to Q3'02
+----------------------------------------------------------------------------
+</TABLE>
+
+
+     6.  Entire Agreement.  This Amendment, together with the Reseller
+Agreement, constitutes the final, complete and exclusive statement of the
+agreement between the parties pertaining to their subject matter and supersedes
+any and all prior and contemporaneous understandings or agreements of the
+parties.
+
+     7.  Modification.  This Amendment may be supplemented, amended or modified
+only by the mutual agreement of the parties.  No supplement, modification or
+amendment of this Amendment shall be binding unless it is in writing and signed
+by both parties.
+
+     8.  Inconsistency.  In the event of any conflict between this Amendment and
+the Reseller Agreement, the terms of this Amendment shall govern.
+
+     9.  Reseller Agreement Continuance.  Except with respect to the changes
+effected by this Amendment, the Reseller Agreement continues to remain in full
+force and effect.
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be signed
+by duly authorized officers or representatives on March 30, 2001.
+
+[GENOMICA]                               [APPLIED BIOSYSTEMS, INC.]
+
+    /s/   Kenneth S. Rubin                  /s/ Robert C. Jones
+---------------------------------------  ---------------------------------------
+Name:     Kenneth S. Rubin               Name:  Robert C. Jones
+Title:    EVP of Commercial Development  Title: Vice President
+Date:     March 30, 2001                 Date: March 30, 2001
+
+
+*Confidential Treatment Requested
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,1599 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>b39224aiex10-1.txt
+<DESCRIPTION>EX-10.1 AMENDED AND RESTATED RESEACH, DEVELOPMENT
+<TEXT>
+
+<PAGE>   1
+                                                                    EXHIBIT 10.1
+
+  CONFIDENTIAL MATERIALS OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND
+             EXCHANGE COMMISSION. ASTERISKS DENOTE SUCH OMISSIONS.
+
+                              AMENDED AND RESTATED
+                   RESEARCH, DEVELOPMENT AND LICENSE AGREEMENT
+
+      This Agreement, effective as of January 1, 2001 (the "Effective Date"), is
+between ArQule, Inc. ("ArQule"), a Delaware corporation, and Solvay
+Pharmaceuticals B.V. ("Solvay"), a Dutch corporation.
+
+                                 R E C I T A L S
+
+      WHEREAS, the parties previously entered into that certain Research,
+Development and License Agreement, effective as of November 2, 1995 (the "Prior
+Agreement");
+
+      WHEREAS, the Prior Agreement will, by its terms, expire on December 31,
+2000; and
+
+      WHEREAS, the parties desire to continue certain activities under the Prior
+Agreement and to continue their collaboration by undertaking additional research
+and development activities;
+
+      NOW, THEREFORE, in consideration of the mutual covenants set forth in this
+Agreement, the parties hereby agree as follows:
+
+1.    Definitions.
+
+      1.1.  "Active Compound" shall mean an ArQule Compound that has exhibited
+biological activity against a Target and as to which Solvay has provided the
+required notice to ArQule under the Prior Agreement or under this Agreement
+pursuant to Sections 3.2. and 3.4
+
+      1.2.  "Affiliate" shall mean a corporation or other legal entity that
+controls, is controlled by, or is under common control with such party. For
+purposes of this definition, control means the ownership, directly or
+indirectly, of fifty percent (50%) or more of the outstanding equity securities
+of a corporation which are entitled to vote in the election of directors or a
+fifty percent (50%) or greater interest in the net assets or profits of an
+entity which is not a corporation.
+
+      1.3.  "Agreement" shall mean this Research, Development and License
+Agreement, together with Exhibits A and B hereto.
+
+      1.4.  "ArQule Compound" shall mean a chemical compound provided by ArQule
+to Solvay pursuant to this Agreement or under the Prior Agreement as part of a
+screening library
+<PAGE>   2
+including, without limitation, the compounds provided in the Compass Array
+Library and Mapping Array Libraries.
+
+      1.5.  "ArQule Derivative Compound" shall mean a Derivative Compound
+developed from a Licensed Compound [*****].
+
+      1.6.  "Array" shall mean a set of samples of structurally related chemical
+compounds arranged in a format such as a microtiter screening plate.
+
+      1.7.  "Available Compound" shall mean an Active Compound which ArQule has
+determined is not (i) licensed or otherwise committed to a third party in the
+Field or (ii) committed to an internal ArQule program in the Field and is
+reserved to Solvay on an exclusive basis pursuant to Section 3.
+
+      1.8.  "Chemical Theme" shall mean the chemical or structural
+characteristics shared by (i) the ArQule Compounds in a Mapping Array Library or
+(ii) a group of compounds in a Directed Array Library as determined by the
+Research Committee pursuant to Section 2.2.1.
+
+      1.9.  "Compass ArrayO Library" shall mean a collection of ArQule Compounds
+that is a diverse representative subset of the Mapping Array Libraries produced
+in calendar year 2001 and used for initial screening of those Mapping Array
+Libraries. The description of, and the specifications for, the Compass Array
+Library are set forth in Exhibit A attached hereto.
+
+      1.10. "Confidential Information" shall have the meaning set forth in
+Section 10.1.1.
+
+
+--------
+ CONFIDENTIAL MATERIALS OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND
+EXCHANGE COMMISSION. ASTERISKS DENOTE SUCH OMISSIONS.
+
+
+                                       2
+<PAGE>   3
+      1.11. "Derivative Compound" shall mean a chemical compound that [*****].
+
+      1.12. "Directed Array(R) Library" shall mean an Array comprised of
+Derivative Compounds synthesized by ArQule under the Directed Array Program. The
+description of, and the specifications for, the Directed Array Libraries are set
+forth in Exhibit A attached hereto.
+
+      1.13. "Directed Array(R) Program" or "DA Program" shall mean the Directed
+Array Library component of the Research Program conducted by ArQule for Solvay
+in general accordance with the Research Plan, as set forth in Section 4.
+
+      1.14. "Field" shall mean applications in [*****].
+
+      1.15. "Full-Time Equivalent" or "FTE" shall mean one (1) or more employees
+of ArQule who, collectively, spend time and effort working on a specific project
+or task equivalent to the time and effort of one (1) full-time employee working
+on such project or task (approx. [*****] hours per year).
+
+      1.16. "Licensed Compound" shall mean (i) any Available Compound that, as
+of the Effective Date, has already been designated as a Licensed Compound under
+the Prior Agreement or (ii) any Available Compound that the Research Committee
+designates as a Licensed Compound in accordance with Section 3.6.
+
+      1.17. "Licensed Compound Set" shall mean a set of one or more Licensed
+Compounds from the same Mapping Array Library that have biological activity for
+the same Target.
+
+      1.18. "Mapping Array(R) Library" shall mean an Array of ArQule Compounds
+which ArQule makes available to its collaborators for screening on a
+non-exclusive basis. ArQule previously delivered Mapping Array Libraries to
+Solvay under the Prior Agreement. The description of, and the specifications
+for, the Mapping Array Libraries that ArQule will deliver to Solvay under
+Article 3 of this Agreement are set forth in Exhibit A attached hereto.
+
+      1.19. "Mapping Array(R) Program" or "MA Program" shall mean the component
+of the Research Program under which ArQule previously provided to Solvay under
+the Prior Agreement with Mapping Array Libraries. Under this Agreement ArQule
+will provide Solvay with a portion of the Compass Array Library and with
+selected Mapping Array Libraries, as further described in Section 3.
+
+      1.20. "Net Sales" shall mean the aggregate Net Sales Price of
+Royalty-Bearing Products in any Royalty Period.
+
+      1.21. "Net Sales Price" shall mean the gross amount received on sales by
+Solvay, its Affiliates and sublicensees of Royalty-Bearing Products in the
+Field, less the following: [*****]. In any transfers of Royalty-Bearing Products
+between Solvay and an Affiliate, the Net Sales
+
+--------
+ CONFIDENTIAL MATERIALS OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND
+EXCHANGE COMMISSION. ASTERISKS DENOTE SUCH OMISSIONS.
+
+
+                                       3
+<PAGE>   4
+Price shall be calculated based on the first sale of the Royalty-Bearing Product
+to an independent third party. In the event that Solvay receives non-monetary
+consideration for any Royalty-Bearing Products, the Net Sales Price shall be
+calculated based on the average price charged by Solvay for such Royalty-Bearing
+Products during the preceding Royalty Period.
+
+      1.22. "Patent Rights" shall mean all issued patents and reissues,
+reexaminations, extensions and supplementary protection certificates thereof and
+all patent applications and any divisions, continuations, or
+continuations-in-part thereof (to the extent directed to the subject matter of
+the parent application) or patents issuing thereon. "ArQule Patent Rights" means
+Patent Rights that are either (i) assigned solely to ArQule, (ii) assigned
+jointly to ArQule and a party other than Solvay, or (iii) licensed to or
+otherwise controlled by ArQule, in each case to the extent that ArQule has the
+ability to license or sublicense the rights required under this Agreement
+without payment to a third party. "Solvay Patent Rights" means Patent Rights
+that are either (i) assigned solely to Solvay, (ii) assigned jointly to Solvay
+and a party other than ArQule, or (iii) licensed to or otherwise controlled by
+Solvay, in each case to the extent that Solvay has the ability to license or
+sublicense the rights required under this Agreement without payment to a third
+party. "Joint Patent Rights" means Patent Rights assigned to both ArQule and
+Solvay as joint owners in relation to Joint Technology. Explicitly excluded are
+rights in the compounds specified in Section 6.1. Joint Patent Rights will
+include (i) Patent Rights claiming Joint Technology and (ii) Patent Rights
+claiming both ArQule Technology and Solvay Technology in a single filing.
+
+      1.23. "Phase II Clinical Trials" shall mean clinical trials in a small
+sample of the intended patient population commencing on the filing of a trial
+protocol with the appropriate regulatory authority to assess the efficacy for a
+specific indication of a compound proposed to be used as a prophylactic,
+therapeutic or diagnostic pharmaceutical product, to determine dose tolerance
+and the optimal dose range as well as to gather additional information relating
+to safety and potential adverse effects, and meeting the requirements
+established by the U. S. Food and Drug Administration for Phase II clinical
+trials.
+
+      1.24. "Phase III Clinical Trials" shall mean clinical trials designed to
+demonstrate safety and efficacy of a compound proposed to be used as a
+prophylactic, therapeutic or diagnostic pharmaceutical product in an expanded
+patient population at geographically dispersed study sites, meeting the
+requirements established by the U.S. Food and Drug Administration for Phase III
+clinical trials.
+
+      1.25. "Priority Substance" shall mean [*****].
+
+      1.26. "Project Declaration" shall mean, with respect to a compound under
+this Agreement, [*****].
+
+      1.27. "Proprietary Materials" shall have the meaning set forth in Section
+10.2.1.
+
+--------
+ CONFIDENTIAL MATERIALS OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND
+EXCHANGE COMMISSION. ASTERISKS DENOTE SUCH OMISSIONS.
+
+
+                                       4
+<PAGE>   5
+      1.28. "Research Committee" shall mean the Research Committee described in
+Section 2.
+
+      1.29. "Research Period" shall mean the period commencing on the Effective
+Date and continuing through December 31, 2003.
+
+      1.30. "Research Plan" shall mean a plan of research for the DA Program
+covering a six-month period, which shall be updated quarterly pursuant to
+Section 2.2 to reflect developments during the previous three (3) months and
+extended for the subsequent three (3) months.
+
+      1.31. "Research Program" shall mean, collectively, the Directed Array
+Program and the Mapping Array Program.
+
+      1.32. "Royalty-Bearing Product" shall mean a product containing as one of
+its constituents [*****].
+
+      1.33. "Royalty Period" shall mean every calendar quarter, or partial
+calendar quarter, in which a royalty is payable to ArQule pursuant to Section
+9.5. commencing with the first commercial sale of a Royalty-Bearing Product in
+any country.
+
+      1.34. "Solvay Compound" shall mean any chemical compound provided by
+Solvay or its Affiliates to ArQule under the Prior Agreement or in the Directed
+Array Program under this Agreement.
+
+      1.35. "Solvay Derivative Compound" shall mean a Derivative Compound
+[*****].
+
+      1.36. "Target" shall mean the biological target against which activity of
+an Active Compound was revealed, together with any related biomolecules that (i)
+(A) exhibit substantial structural homology with the identified biomolecule, as
+measured by the degree of similarity in the primary structure (i.e., amino acid
+sequence, nucleotide sequence, monosaccharide linkages) and secondary structure
+(i.e., three-dimensional structure), or (B) perform a substantially similar
+function as the identified biomolecule, and (ii) have therapeutic relevance.
+Biological targets shall not be considered as exhibiting substantial structural
+homology nor functional similarity if such biological targets are generally
+recognized by the scientific community as being different.
+
+      1.37. "Technology" shall mean any proprietary development, information,
+know-how, idea, design, concept, technique, process, invention, compound,
+discovery, improvement whether or not patentable or copyrightable. "ArQule
+Technology" means Technology that is either (i) assigned solely to ArQule, (ii)
+assigned jointly to ArQule and a party other than Solvay, or (iii) licensed to
+or otherwise controlled by ArQule, in each case to the extent that ArQule has
+the ability to license or sublicense the rights required under this Agreement
+without payment to a third party. "Solvay Technology" means Technology that is
+either (i) assigned solely to Solvay, (ii) assigned jointly to Solvay and a
+party other than ArQule, or (iii) licensed to or otherwise
+
+--------
+ CONFIDENTIAL MATERIALS OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND
+EXCHANGE COMMISSION. ASTERISKS DENOTE SUCH OMISSIONS.
+
+
+                                       5
+<PAGE>   6
+controlled by Solvay, in each case to the extent that Solvay has the ability to
+license or sublicense the rights required under this Agreement without payment
+to a third party. "Joint Technology" means Technology that is developed or
+discovered jointly by one or more employees or consultants of Solvay and one or
+more employees or consultants of ArQule pursuant to this Agreement, explicitly
+excluded are the compounds specified in Section 6.1.
+
+      1.38. "Valid Claim" means either (i) a claim of an issued patent that has
+not been held unenforceable or invalid by an agency or a court of competent
+jurisdiction in any unappealable or unappealed decision or (ii) a claim of a
+pending patent application that has not been abandoned or finally rejected
+without the possibility of appeal or refiling.
+
+      1.39. The above definitions are intended to encompass the defined terms in
+both the singular and plural tenses.
+
+2.    Management of Research Programs.
+
+      2.1.  Composition of Research Committee. The parties hereby establish a
+Research Committee comprised of six (6) members, with three (3) representatives
+appointed by each party. A party may change one or more of its representatives
+to the Research Committee at any time upon notice to the other party.
+
+      2.2.  Duties of the Research Committee. The Research Committee shall
+direct and administer the Research Program in general accordance with the
+following provisions:
+
+            2.2.1. DA Program. With respect to the DA Program, the Research
+Committee has heretofore determined the general specifications for the Directed
+Array Libraries to be delivered to Solvay during the Research Period. ArQule
+shall have the right, at the time Solvay seeks to include any compound(s) in the
+DA Program, to exclude from the DA Program any compound that ArQule has
+determined is (i) licensed or otherwise committed to a third party in the Field
+or (ii) committed to an internal ArQule program in the Field. The Solvay
+representatives on the Research Committee shall, in consultation with the ArQule
+representatives, determine the identity, scope and priority of each Chemical
+Theme. The identity and scope of such Chemical Theme will be determined on the
+basis of the following criteria: (i) the specific reaction or reaction sequence
+used to combine members of two or more discrete chemical units in which each
+chemical unit bears the functional group(s) required for the specific
+reaction(s) that result in the combination of the chemical units; and (ii) the
+extent to which a class of compounds is related by a recurring structural motif
+associated with a particular biological activity.
+
+            2.2.2. Other Responsibilities. In addition, the Research Committee
+shall (i) revise and extend the Research Plan each calendar quarter for the
+subsequent six (6) months based on prior developments, (ii) designate Available
+Compounds as Licensed Compounds as described in Section 3.6; (ii) maintain and
+update the list of Licensed Compounds and Licensed Compound Sets; (iii)
+determine the allocation of the funding and personnel resources to be
+contributed by ArQule for the Directed Array Program; and (iv) resolve matters
+involving scientific questions and publication disputes that may arise under
+Section 10.4.
+
+
+                                       6
+<PAGE>   7
+      2.3.  Meetings of the Research Committee. The Research Committee shall
+conduct telephone conferences at least once every six (6) weeks and shall
+prepare and deliver a brief written report (which may be in the form of
+confirmed electronic mail) describing the significant issues and discussions
+that take place during such telephone conferences. A representative of the
+Research Committee jointly appointed by its members shall provide each member
+with five (5) business days notice of the time of telephone conferences, unless
+such notice is waived by all members. ArQule will prepare and deliver to the
+members of the Research Committee a brief progress report at least one week in
+advance of the telephone conference, which report will list the ArQule employees
+then working on the Research Program. The Research Committee shall meet at least
+twice each year with the location alternating between the ArQule site and the
+Solvay site, or at such other times and locations as the Research Committee
+determines. A representative of the Research Committee jointly appointed by its
+members shall provide each member with five (5) business days notice of the time
+and location of meetings, unless such notice is waived by all members. If a
+designated representative of a party cannot attend any meeting of the Research
+Committee, such party may designate a different representative for that meeting
+without notice to the other party, and the substitute member will have full
+power to vote on behalf of the permanent member. Except as otherwise provided in
+this Section 2, all actions and decisions of the Research Committee will require
+the unanimous consent of all of its members. If the Research Committee fails to
+reach agreement upon any matter, the dispute will be resolved in accordance with
+the procedures set forth in Section 13.5 below. Within fourteen (14) days
+following each meeting, the Research Committee shall prepare and deliver, to
+both parties, a written report describing the decisions made, conclusions and
+actions agreed upon.
+
+      2.4.  Cooperation. Each party agrees to provide the Research Committee
+with information and documentation as reasonably required for the Research
+Committee to fulfill its duties under this Agreement. In addition, each party
+agrees to make available its employees and consultants as reasonably requested
+by the Research Committee. The parties anticipate that members of the Research
+Committee will communicate informally with each other and with employees and
+consultants of the parties on matters relating to the Research Programs.
+
+      2.5.  Visits to Facilities. Members of the Research Committee shall have
+reasonable access to the facilities of each party where activities under this
+Agreement are in progress, but only during normal business hours and with
+reasonable prior notice. Each party shall bear its own expenses in connection
+with such site visits.
+
+3.    Mapping Array Program.
+
+      3.1.  Prior Agreement. Solvay acknowledges that ArQule has fully performed
+and discharged its obligations under Section 3.1. of the Prior Agreement. ArQule
+acknowledges that Solvay has fully satisfied and discharged its obligations
+under Section 3.2. of the Prior Agreement. Solvay acknowledges and agrees ArQule
+remains eligible to receive milestone and royalty payments on Royalty-Bearing
+Products as set forth in this Agreement. Solvay and ArQule expressly acknowledge
+and agree that the provisions of this Agreement supersede the provisions of the
+Prior Agreement with respect to the Mapping Array Program.
+
+
+                                       7
+<PAGE>   8
+      3.2.  Compass Array Library. ArQule will supply Solvay with one (1) copy
+of the Compass Array Library corresponding to Mapping Array Libraries produced
+in calendar year 2001 in four (4) quarterly portions promptly after such ArQule
+Compounds become available, with the last shipment delivered not later than
+[*****]. ArQule will not disclose the structures of individual ArQule Compounds
+in the Compass Array Library and Solvay will have no obligation to disclose its
+Targets. ArQule will disclose to Solvay the Chemical Themes in the Compass Array
+Library in Markush format. Solvay will diligently screen the Compass Array
+Library against its selected Targets. When Solvay detects and confirms Active
+Compounds in the Compass Array Library, Solvay will inform ArQule through the
+Research Committee.
+
+      3.3.  Selection of Mapping Array Libraries. During the Research Period,
+ArQule will promptly determine whether the Active Compounds identified by Solvay
+in the Compass Array Library are Available Compounds, and then notify Solvay of
+such determination. If any Active Compound is not an Available Compound, ArQule
+shall not disclose the structure and Solvay shall have no rights under this
+Agreement with respect to that Active Compound. If an Active Compound is an
+Available Compound, ArQule shall reserve such Available Compound to Solvay under
+this Agreement. ArQule then shall disclose to Solvay the structure of such
+Available Compound correlated to its well location and its Mapping Array
+Library. ArQule shall maintain the reserved status of the Available Compound for
+a period of up to [*****] weeks after the date upon which the structure was
+disclosed to Solvay. All such disclosed structures shall be treated as ArQule
+Confidential Information. During the [*****]-week reservation period, Solvay
+will confirm its interest in that Available Compound and may request the Mapping
+Array Library for that Available Compound (if Solvay does not already have that
+Mapping Array Library in its possession) upon written notice to ArQule
+(including by electronic mail). If Solvay does not confirm its interest in
+writing and does not request the Mapping Array Library for that Available
+Compound (if that Mapping Array Library is not already in the possession of
+Solvay) during the [*****]-week reservation period, the Available Compound shall
+automatically lose its reserved status and Solvay shall have no further rights
+to such compound. ArQule will promptly deliver to Solvay the selected Mapping
+Array Libraries; provided, however, that ArQule will have no obligation to
+deliver more than one (1) copy of each Mapping Array Library pursuant to this
+Agreement. In addition, with each shipment of a Mapping Array Library, or upon
+confirmation of interest by Solvay in the case of a Mapping Array Library
+already in the possession of Solvay, ArQule will furnish Solvay with [*****].
+ArQule shall not identify the structures of the individual ArQule Compounds in
+the Mapping Array Libraries.
+
+      3.4.  Mapping Array Library. Upon receipt of each Mapping Array Library,
+or upon receipt of the relevant information as described in Section 3.3. in the
+case of Mapping Array Libraries already in the possession of Solvay, Solvay
+shall diligently screen such Mapping Array Library for activity against the
+relevant Target(s). ArQule will maintain the reserved status of the Available
+Compound(s) identified in the Compass Array Library for a period of
+
+
+--------
+ CONFIDENTIAL MATERIALS OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND
+EXCHANGE COMMISSION. ASTERISKS DENOTE SUCH OMISSIONS.
+
+
+                                       8
+<PAGE>   9
+[*****]months after Solvay receives the relevant Mapping Array Library and
+accompanying information or, in the case of Mapping Array Libraries already in
+the possession of Solvay, for a period of [*****] months after Solvay receives
+the relevant information as described in Section 3.3. In addition, Solvay shall
+have the right to screen all Mapping Array Libraries in its possession
+irrespective of the Compass Array Library. If Solvay detects and confirms Active
+Compounds, Solvay shall inform ArQule through the Research Committee in writing
+(including by electronic mail) of the spatial location of Active Compounds in
+the Mapping Array Libraries. ArQule will promptly determine whether the Active
+Compounds identified by Solvay in the Mapping Array Libraries are Available
+Compounds, and then notify Solvay of such determination. If any Active Compound
+is not an Available Compound, ArQule shall not disclose the structure and Solvay
+shall have no rights under this Agreement with respect to that Active Compound.
+If an Active Compound is an Available Compound, ArQule shall reserve such Active
+Compound as an Available Compound to Solvay under this Agreement. ArQule then
+shall disclose to Solvay the structure of such Available Compound correlated to
+its well location, and Solvay shall disclose to ArQule the class of the Target
+involved. All such disclosed structures and the target class shall be treated as
+Confidential Information. ArQule shall maintain the reserved status of every
+Active Compound that is an Available Compound from the same Mapping Array
+Library for a period of up to [*****] weeks after the date upon which the last
+structure of these Available Compounds is disclosed to Solvay. If Solvay
+requests resynthesis of [*****] Available Compounds from the same Mapping Array
+Library during the [*****]-week reservation period, the Research Committee will
+determine which of these Available Compounds if not all would become a Licensed
+Compound Set if the resynthesized compounds are confirmed to be Active
+Compounds, and ArQule will continue to reserve this group of Available
+Compounds, all as more fully described below. The Research Committee will
+resolve any disagreements regarding which Available Compounds constitute the
+"group" represented by the compound or compounds resynthesized. If the
+[*****]-week reservation period expires for a group of Available Compounds
+without any resynthesis request by Solvay or without agreement by the Research
+Committee as to which Available Compounds should constitute the group pending
+resynthesis and confirmation, the other Available Compounds (i.e., Available
+Compounds that are not selected for resynthesis by Solvay) from that Mapping
+Array Library shall automatically lose their reserved status and Solvay shall
+have no further rights to such compounds.
+
+      3.5.  Resynthesis. During the Research Period, ArQule shall resynthesize
+and deliver to Solvay an additional [*****] mg quantity of any Available
+Compound requested by Solvay to enable Solvay to conduct confirmatory screening
+activities. Solvay shall provide ArQule with written notice of the Available
+Compounds that Solvay desires to have resynthesized by ArQule. ArQule shall
+resynthesize the requested compounds in accordance with the specifications set
+forth in Exhibit A. In each case the actual amount of, and delivery schedule
+for, resynthesized Available Compounds will be determined by the Research
+Committee. ArQule will maintain the reservation on each group of Available
+Compounds (as determined by the Research Committee under Section 3.4.) while
+ArQule prepares resynthesis quantities of selected Available Compounds from that
+group and will then continue to reserve that group of Available Compound
+
+--------
+ CONFIDENTIAL MATERIALS OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND
+EXCHANGE COMMISSION. ASTERISKS DENOTE SUCH OMISSIONS.
+
+
+                                       9
+<PAGE>   10
+for a period of up to [*****]months after Solvay receives the resynthesized
+Available Compounds.
+
+      3.6.  Designation of Licensed Compounds. At the request of Solvay, the
+Research Committee will review and consider the pertinent confirmatory data with
+respect to each group of Available Compounds (as determined by the Research
+Committee under Section 3.4.) and, if the activity of the resynthesized compound
+or compounds has been confirmed, designate the Available Compounds within the
+group as "Licensed Compounds" under this Agreement, whereupon Solvay shall
+disclose the Target and level of activity for the Licensed Compounds and, at the
+request of Solvay, ArQule shall disclose the structures but not the locations of
+the other ArQule Compounds in the same Mapping Array Library as the Licensed
+Compounds. Upon the designation of an Available Compound as a Licensed Compound
+and the disclosure by Solvay of the Target and level of activity, the licenses
+set forth in Section 7.2 shall automatically apply, and ArQule shall confirm
+such license in writing. If the Research Committee determines that the activity
+of the resynthesized compound or compounds has not been confirmed, then the
+Available Compounds within the group shall automatically lose their reserved
+status and Solvay shall have no further rights to such compounds.
+
+      3.7.  Changes to Reservation Periods. The Research Committee may extend
+the reservation periods described in Sections 3.3., 3.4., and 3.5. if requested
+by Solvay and approved in writing by the Chief Scientific Officer of ArQule.
+
+      3.8.  Optimization Rights. During the Research Period, Solvay may submit
+any Licensed Compound Set to ArQule for optimization in the Directed Array
+Program; however, ArQule has no obligation to increase its commitment to the
+Directed Array Program as set forth in Section 4.3. At any time, Solvay may
+conduct optimization of any Licensed Compound Set. In the event that Solvay
+conducts optimization of a Licensed Compound Set, then at the request of Solvay,
+ArQule will provide Solvay with synthetic protocols (in American Chemical
+Society experimental format, not automated protocols) to enable Solvay to make
+those Licensed Compounds.
+
+      3.9.  Extension Right. If ArQule continues to offer the Mapping Array
+Program during the year 2002, Solvay may extend on the same terms the supply of
+ArQule Compounds in the form of the Compass Array Library and the Mapping Array
+Libraries through December 31, 2002 upon written notice to ArQule which is
+received by ArQule not later than October 1, 2001. In addition, ArQule and
+Solvay agree to negotiate in good faith an arrangement under which Solvay may
+screen the Mapping Array Compounds and have access to the structures of Active
+Compounds after the conclusion of the Research Period.
+
+4.    Directed Array Program.
+
+      4.1.  Prior Agreement. Solvay acknowledges that ArQule has fully satisfied
+and discharged its obligations under Sections 4.1. and 4.2. of the Prior
+Agreement. ArQule
+
+--------
+ CONFIDENTIAL MATERIALS OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND
+EXCHANGE COMMISSION. ASTERISKS DENOTE SUCH OMISSIONS.
+
+
+                                       10
+<PAGE>   11
+acknowledges that Solvay has fully satisfied and discharged its obligations
+under Section 4.3. of the Prior Agreement. Solvay acknowledges and agrees ArQule
+remains eligible to receive milestone and royalty payments on Royalty-Bearing
+Products as set forth in this Agreement. Solvay and ArQule expressly acknowledge
+and agree that the provisions of this Agreement supersede the provisions of the
+Prior Agreement with respect to the Directed Array Program.
+
+      4.2.  Description of Program. Under the direction of the Research
+Committee and in accordance with the Research Plan, ArQule will synthesize
+multiple Directed Array Libraries of compounds derived from (i) Solvay Compounds
+provided to ArQule by Solvay or (ii) Licensed Compounds requested by Solvay to
+be included in the DA Program. The parties intend that, during the Research
+Period, ArQule will produce such Directed Array Libraries based on approximately
+[*****] different Chemical Themes each calendar year, which will result in the
+production of up to [*****] Derivative Compounds per Chemical Theme per year;
+provided, however, that the number of Chemical Themes actually submitted to the
+DA Program and the number of Derivative Compounds actually produced per Chemical
+Theme will be determined by the Research Committee. The parties also intend that
+ArQule will produce approximately [*****] milligrams of each Derivative Compound
+in the Directed Array Libraries, subject to the availability of the original
+Solvay Compounds or Licensed Compounds; the amount of each Derivative Compound
+that ArQule actually produces, however, will be determined by the Research
+Committee. ArQule agrees that any Derivative Compounds provided to Solvay under
+the DA Program will not be (i) licensed or otherwise committed to a third party
+in the Field or (ii) committed to an internal ArQule program in the Field, and
+Solvay agrees that ArQule may exclude from the DA Program any Derivative
+Compounds that ArQule has determined are (i) licensed or otherwise committed to
+a third party in the Field or (ii) committed to an internal ArQule program in
+the Field.
+
+      4.3.  Conduct of Directed Array Program. The DA Program will be conducted
+in accordance with the Research Plan. ArQule shall commit a total of [*****]
+FTEs per calendar year to the Directed Array Program (including at least [*****]
+full-time synthetic organic chemists). ArQule shall furnish Solvay with a
+quarterly report describing [*****]. Solvay shall propose projects to the
+Research Committee for inclusion as a Directed Array Program. If the Research
+Committee approves the inclusion of the proposed project, ArQule shall thereupon
+diligently synthesize Directed Array Libraries of ArQule Derivative Compounds or
+Solvay Derivative Compounds in accordance with the Research Plan; Solvay shall
+provide ArQule with the requisite amount and purity of Solvay Compounds, as
+directed by the Research Committee, for any Directed Array Library Programs
+based on such Solvay Compounds. Solvay shall, in its discretion, test all
+compounds in the Directed Array Libraries. The parties shall perform the
+Directed Array Programs under this Agreement during the [*****] years of the
+Research Period. ArQule shall have no obligation to expand or extend its
+commitments to the Directed Array Program, including without limitation the
+commitment of [*****] FTEs per calendar year and the [*****]-year performance
+period.
+
+
+--------
+ CONFIDENTIAL MATERIALS OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND
+EXCHANGE COMMISSION. ASTERISKS DENOTE SUCH OMISSIONS.
+
+
+                                       11
+<PAGE>   12
+5.    Ownership of Physical Compounds.
+
+      ArQule acknowledges and agrees that all Solvay Compounds, Solvay
+Derivative Compounds, and ArQule Derivative Compounds are Solvay Proprietary
+Materials and, as such, are owned by Solvay. Solvay acknowledges and agrees that
+all ArQule Compounds are ArQule Proprietary Materials and, as such, are owned by
+ArQule.
+
+6.    Intellectual Property Rights.
+
+      6.1.  Rights in Compounds. Solvay shall have the sole right to prepare,
+file, prosecute, and maintain Patent Rights that claim the composition or use of
+(i) ArQule Derivative Compounds or Solvay Derivative Compounds developed by
+either party under this Agreement and (ii) Licensed Compounds that come within
+the scope of the claims to ArQule Derivative Compounds under clause (i) above,
+provided that such Licensed Compounds are not already covered by a claim in an
+ArQule Patent Right. ArQule shall assign to Solvay all right, title, and
+interest in any Patent Rights filed by Solvay that claim the composition or use
+of such ArQule Derivative Compounds, Solvay Derivative Compounds, or Licensed
+Compounds. Therefore, such Patent Rights are considered Solvay Patent Rights
+under this Agreement rather than Joint Patent Rights, and Solvay shall be the
+sole owner of such Patent Rights. ArQule shall not in any way seek to rely on
+any ArQule Patent Right or other intellectual property right in the ArQule
+Technology to prevent Solvay from exercising its rights under this Section 6.1.
+
+      6.2   Ownership of Patent Rights and Technology. Other than as expressly
+provided herein, neither party shall have any rights in Patent Rights and
+Technology that is invented, developed or discovered by the other party prior to
+the Effective Date subject to the provisions of the Prior Agreement or outside
+the research performed under this Agreement. Ownership of Patent Rights and
+Technology arising from the research performed under this Agreement shall be
+allocated in the following manner:
+
+      (i)   ArQule shall have sole ownership of all right, title, and interest
+            in ArQule Patent Rights and ArQule Technology, subject to the
+            licenses granted to Solvay under Section 7.1. and Section 7.2.;
+
+      (ii)  Solvay shall have sole ownership of all right, title, and interest
+            in Solvay Patent Rights and Solvay Technology; and
+
+      (iii) ArQule and Solvay shall have joint ownership of all right, title,
+            and interest in Joint Patent Rights and Joint Technology.
+
+      6.3.  Management of Patent Rights. Solvay shall have sole responsibility
+for, and control over, the management of Solvay Patent Rights and ArQule shall
+have sole responsibility for, and control over, the management of ArQule Patent
+Rights. Each party will bear its own expenses in connection with such Patent
+Rights. In the case of Joint Patent Rights, the parties shall agree on the
+allocation of responsibility for, and the expense of, the preparation, filing,
+prosecution, and maintenance of any Joint Patent Rights claiming such inventions
+as decided by the Research Committee. In the event of any disagreement
+concerning any Joint Patent Rights,
+
+
+                                       12
+<PAGE>   13
+the matter shall be resolved by the CEO of ArQule and the Vice
+President-Research of Solvay. The party controlling a Joint Patent Right shall
+consult with the other party as to the preparation, filing, prosecution, and
+maintenance of such Joint Patent Right reasonably prior to any deadline or
+action with the U.S. Patent & Trademark Office or any foreign patent office, and
+shall furnish to the other party copies of all relevant documents reasonably in
+advance of such consultation. In the event that the party controlling a Joint
+Patent Right desires to abandon such Joint Patent Right, or if the party
+assuming control of a Joint Patent Right later declines responsibility for such
+Joint Patent Right, the controlling party shall provide reasonable prior written
+notice to the other party of such intention to abandon or decline
+responsibility, and such other party shall have the right, at its expense, to
+prepare, file, prosecute, and maintain such Joint Patent Rights.
+
+      6.4.  Cooperation of the Parties. Each party agrees to cooperate fully in
+the preparation, filing, and prosecution of any Patent Rights under this
+Agreement and any potential infringement issues relating to ArQule Technology.
+Such cooperation includes, but is not limited to:
+
+            (a)   executing all papers and instruments, or requiring its
+employees or agents, to execute such papers and instruments, so as to effectuate
+the ownership of Patent Rights set forth in Section 6.1 above and to enable the
+other party to apply for and to prosecute patent applications in any country;
+
+            (b)   promptly informing the other party of any matters coming to a
+party's attention that may affect the preparation, filing, or prosecution of any
+such patent applications or potential infringement issues relating to the ArQule
+Technology; and
+
+            (c)   undertaking no actions that are potentially deleterious to the
+preparation, filing, or prosecution of such patent applications.
+
+      6.5   Representation. ArQule represents and warrants to Solvay that, to
+the best of ArQule's knowledge and belief, [*****]. In addition, ArQule
+covenants that, during the Research Period, ArQule will [*****]. Solvay
+acknowledges and agrees that the representations and warranties set forth in
+this Section 6.5. have effect only in connection with the activities undertaken
+by ArQule under Articles 3 and 4 of this Agreement and have no effect with
+respect to the transfer of AMAP Technology under Article 8 of this Agreement.
+
+      6.6.  Infringement.
+
+            6.6.l. Offensive Actions. With respect to infringement of any Solvay
+Patent Right or any ArQule Patent Right or Joint Patent Right exclusively
+licensed to Solvay claiming the composition or use of a Licensed Compound,
+ArQule Derivative Compound, or Royalty-Bearing Product, Solvay shall have the
+primary right, but not the obligation, to enforce such Patent Right under its
+sole control and at its sole expense. In such event, Solvay shall be exclusively
+entitled to all proceeds or recoveries resulting therefrom, but from such
+proceeds or
+
+--------
+ CONFIDENTIAL MATERIALS OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND
+EXCHANGE COMMISSION. ASTERISKS DENOTE SUCH OMISSIONS.
+
+
+                                       13
+<PAGE>   14
+recoveries Solvay shall pay ArQule a royalty in accordance with Section 9.5. on
+sales lost to the infringer after deduction of all costs, including reasonable
+attorney fees incurred by Solvay in the action to enforce such Patent Rights. In
+the event that Solvay declines to enforce such Patent Right with respect to a
+Royalty-Bearing Product where the sales of the alleged infringer are at least
+[*****] percent [*****] of the market for said product, then ArQule shall have
+the secondary right to enforce such Patent Right under its sole control and at
+its sole expense. In such event, ArQule shall be exclusively entitled to all
+proceeds or recoveries resulting therefrom.
+
+            6.6.2. Defensive Actions. Solvay will indemnify, defend, and hold
+harmless ArQule, its Affiliates, and their respective officers, directors,
+employees, and agents from any and all loss, damage, cost, and expense
+(including reasonable attorneys fees) and amounts paid in settlement arising
+from any actual or alleged infringement claim brought by a third party, in law
+or in equity, based on activities undertaken by Solvay or by ArQule at the
+direction of Solvay (except for claims based solely on the practice of an ArQule
+Patent Right or the use of ArQule Technology) or based on the manufacture or
+sale of a Royalty-Bearing Product. In the event that ArQule intends to claim
+indemnification under this Subsection, ArQule shall promptly notify Solvay of
+the infringement action and Solvay shall assume the defense of the action under
+its sole control, including the right to effect a settlement. A failure by
+ArQule to deliver notice to Solvay within a reasonable time shall relieve Solvay
+of its indemnity obligation under this Section to the extent such failure
+prejudices the ability of Solvay to defend such action. ArQule shall cooperate
+fully with Solvay and its legal representatives in the investigation and defense
+of the action. In the event of a settlement, Solvay shall obtain the consent of
+ArQule before agreeing to any settlement that imposes restrictions which are
+inconsistent with the rights and obligations of the parties under this
+Agreement.
+
+7.    License Grants.
+
+      7.1.  ArQule Screening License. Subject to the terms and conditions of
+this Agreement, ArQule hereby grants Solvay and its Affiliates a nonexclusive,
+worldwide, royalty-free, license (without the right to grant sublicenses) under
+ArQule Patent Rights and ArQule Technology to use the ArQule Compounds during
+the Research Period to screen for activity against any biological targets in the
+Field.
+
+      7.2.  ArQule Commercial License. Effective upon designation by the
+Research Committee of an ArQule Compound as a Licensed Compound and the
+disclosure by Solvay of the Target and level of activity pursuant to Section
+3.6, ArQule hereby grants to Solvay and its Affiliates with respect to each such
+Licensed Compound the following licenses in the Field:
+
+      (i)   an exclusive (even as to ArQule), worldwide license (with the right
+            to sublicense) under the ArQule Patent Rights and other rights in
+            ArQule Technology to conduct development of Licensed Compounds,
+            including the right to develop Derivative Compounds based on
+            Licensed Compounds;
+
+--------
+ CONFIDENTIAL MATERIALS OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND
+EXCHANGE COMMISSION. ASTERISKS DENOTE SUCH OMISSIONS.
+
+
+                                       14
+<PAGE>   15
+      (ii)  an exclusive (even as to ArQule), worldwide license (with the right
+            to sublicense) under the ArQule Patent Rights and other rights in
+            ArQule Technology to make, have made, use, have used, sell and have
+            sold in the Field Licensed Compounds; and
+
+      (iii) a non-exclusive, worldwide license (with the right to sublicense)
+            under the ArQule Patent Rights and other rights in ArQule Technology
+            to use chemical synthesis methods within the ArQule Patent Rights
+            and ArQule Technology to make Royalty-Bearing Products.
+
+Solvay further acknowledges and agrees that the license grant in clause (iii) of
+this Section is subject to the terms, conditions, and limitations of any
+agreement under which ArQule has acquired or will acquire rights in a chemical
+synthesis method from a third party, which shall be promptly notified by ArQule
+to Solvay and, in such event, ArQule may require Solvay to enter into a separate
+sublicense agreement before such license grant shall take effect. ArQule
+represents and warrants that Solvay will not incur any payment obligation to a
+third party as a result of the practice of the license grant set forth in clause
+(iii) above for third-party licenses that ArQule has executed prior to the
+Effective Date. ArQule covenants that ArQule will seek to obtain such
+royalty-free manufacturing licenses as part of its chemistry licenses in the
+future. In the event that Solvay decides to sublicense its rights under this
+Section to a third party, Solvay shall furnish ArQule with written notice of the
+sublicense grant and shall ensure that all sublicense agreements conform to this
+Agreement.
+
+      7.3.  Diligence. Solvay agrees to use reasonable commercial efforts to
+develop and market Royalty-Bearing Products based on or incorporating any
+Licensed Compound, or Derivative Compounds thereof, using a level of effort
+consistent with that used for other Solvay products having similar commercial
+potential. The parties hereby acknowledge their understanding that Solvay's
+obligations under this Section do not apply to each Licensed Compound in itself,
+but only to at least one Licensed Compound or Derivative Compound thereof that
+is active against the same Target. Subject to Section 7.5, Solvay shall have the
+sole and absolute discretion to make all decisions relating to the research,
+development, marketing and other commercialization activities with respect to
+any Licensed Compound or its Derivative Compounds or any Royalty-Bearing Product
+derived therefrom.
+
+      7.4.  Reports of Development Progress. Solvay agrees to keep ArQule
+informed of its development progress with respect to each Licensed Compound or
+Derivative Compound thereof for which it has obtained a license under Section
+7.2 as follows:
+
+            (a)   Initial Research Plan. Within 60 days after obtaining a
+license, Solvay will provide ArQule with a time line of its planned research
+activities for that Licensed Compound and will keep ArQule periodically informed
+of its progress under such schedule.
+
+            (b)   Lead Compound. Solvay will notify ArQule of the designation of
+any Licensed Compound or Derivative Compounds thereof as a lead compound that
+fulfills Solvay's primary criteria in a particular project (e.g., potency,
+selectivity, and bioavailability). Within 60 days of such designation, Solvay
+will provide ArQule with a copy of a revised time line of its
+
+
+                                       15
+<PAGE>   16
+research activities for that lead compound and will keep ArQule periodically
+informed of its progress under such schedule.
+
+            (c)   Priority Substance. Solvay will notify ArQule of the
+designation of any Licensed Compound or Derivative Compounds thereof as a
+Priority Substance. Within 60 days of such designation, Solvay will provide
+ArQule with a copy of a revised time line of its research activities for that
+Priority Substance and will keep ArQule periodically informed of its progress
+under such schedule.
+
+            (d)   Project Declaration. Solvay will promptly notify ArQule of a
+Project Declaration for any Licensed Compound or Derivative Compounds thereof.
+
+            (e)   Discontinuation of Development. Solvay agrees to notify ArQule
+if it decides to discontinue development or marketing of any Licensed Compound
+or Derivative Compounds thereof.
+
+In addition, throughout the term of this Agreement, Solvay will submit to ArQule
+annual written reports and semi-annual verbal reports of the activities of
+Solvay and its Affiliates with respect to all such compounds during the
+reporting period. These reports will include relevant chemical and biological
+data and other information sufficient to allow ArQule to determine whether
+Solvay and/or its Affiliates are engaging in significant activity with respect
+to each such compound prior to Project Declaration. The information in such
+reports shall be considered Confidential Information under Section 10.1. hereof.
+During the Research Period, Solvay shall provide such reports on a schedule such
+that they can be reviewed at the meetings of the Research Committee. In
+addition, Solvay agrees to inform ArQule at least once each calendar year
+regarding the status of any Solvay Derivative Compounds that Solvay develops
+based on Solvay Derivative Compounds synthesized by ArQule under this Agreement.
+
+      7.5.  Reversion of Rights. In the event that (i) Solvay notifies ArQule
+pursuant to Section 7.4(e) above that it has determined to discontinue the
+development of any Licensed Compound or Derivative Compounds thereof or (ii)
+Solvay and/or its Affiliates fail, prior to Project Declaration with respect
+thereto, to engage in significant activities for a continuous period of
+[*****]months with respect to any Licensed Compound, or Derivative Compounds
+thereof and significant activities are not resumed within [*****] months of
+notice thereof, ArQule shall have the right, immediately upon notice, to
+terminate the license granted to Solvay under Section 7.2 with respect to such
+Licensed Compound, and ArQule will thereafter be free to grant licenses to third
+parties under ArQule Patent Rights and ArQule Technology to make, use, sell and
+have sold in the Field products incorporating that Licensed Compound. Any
+dispute concerning whether Solvay or its Affiliates have engaged in significant
+activity within the meaning of clause (ii) above shall be resolved under the
+dispute resolution provisions of Section 13.5.
+
+
+--------
+ CONFIDENTIAL MATERIALS OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND
+EXCHANGE COMMISSION. ASTERISKS DENOTE SUCH OMISSIONS.
+
+
+                                       16
+<PAGE>   17
+8.    AMAP Technology.
+
+      Solvay acknowledges that ArQule has fully satisfied and discharged all of
+its obligations under Section 8 of the Prior Agreement, except for the transfer
+of certain technology that was developed prior to December 31, 2000 and which
+the Research Committee has agreed to transfer during calendar year 2001, as
+described in Exhibit B (the "2000 Technology"). ArQule will transfer the 2000
+Technology to the extent, and in the manner, approved by the Research Committee
+and documented in Exhibit B. Solvay may substitute the FTE resources in the
+Directed Array Program to this technology transfer activity. For any resource
+commitments beyond the FTEs that are reallocated from the Directed Array Program
+Solvay shall reimburse ArQule for such activities at the rate of [*****]
+per FTE per year. In all cases Solvay shall reimburse ArQule for out-of - pocket
+expenses (e.g., travel) in relation to these activities.
+
+9.    Payments, Reports, and Records.
+
+      9.1.  Access Fee Payments.
+
+            9.1.1. Compass Array Library. In partial consideration of the
+delivery of the Compass Array Library in accordance with Section 3.2, Solvay
+shall pay ArQule the amount of [*****], payable in four installments of [*****]
+within thirty (30) days after Solvay receives each quarterly segment of such
+Compass Array Library.
+
+            9.1.2. Mapping Array Libraries. In partial consideration of the
+delivery of up to [*****] Mapping Array Libraries during the Research Period in
+accordance with Section 3.3, Solvay shall pay ArQule an annual fee in the amount
+of [*****], payable as follows:
+
+            [*****]
+
+Solvay may obtain access to additional available Mapping Array Libraries during
+the Research Period at a cost of [*****] per Mapping Array Library which amount
+shall be paid to ArQule within thirty (30) days of shipment.
+
+      9.2   Resynthesis Payments. In consideration of the synthesis and delivery
+of resynthesis compounds during the Research Period in accordance with Section
+3.5, Solvay shall pay ArQule [*****] per compound within thirty (30) days of
+receipt ( for requested resynthesis of up to [*****] mg.).
+
+      9.3.  Directed Array Program Payments. In partial consideration of the
+performance by ArQule of the DA Program in accordance with Section 4, Solvay
+shall pay ArQule at the rate of [*****] per FTE per year for a total of [*****]
+per year. Solvay shall make such annual payment in advance in equal quarterly
+installments.
+
+
+--------
+ CONFIDENTIAL MATERIALS OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND
+EXCHANGE COMMISSION. ASTERISKS DENOTE SUCH OMISSIONS.
+
+
+                                       17
+<PAGE>   18
+      9.4.  Milestone Payments. In partial consideration of the performance of
+the Research Program by ArQule and of the rights granted Solvay under this
+Agreement, Solvay shall pay ArQule the following amounts within thirty (30) days
+after each occurrence of the following milestones:
+
+      (i)   with respect to a Royalty-Bearing Product containing as one of its
+            constituents any [*****].
+
+            [*****]           [*****]
+
+
+            [*****]           [*****]
+
+      (ii)  with respect to a Royalty-Bearing Product containing as one of its
+            constituents any [*****]:
+
+            [*****]     [*****]
+
+            [*****]     [*****]
+
+            [*****]     [*****]
+
+If a Royalty-Bearing Product contains a compound discovered or designed by
+Solvay [*****], then the higher milestone payments shall apply. Such milestone
+payments shall be non-refundable and shall not be credited against royalties
+payable to ArQule under this Agreement. Solvay shall promptly notify ArQule of
+each occurrence of either of the foregoing milestones.
+
+      9.5.  Royalties. In partial consideration of the performance of the
+Research Program by ArQule and the rights granted to Solvay under this
+Agreement, Solvay shall pay to ArQule the following royalty on Net Sales of
+Royalty-Bearing Products:
+
+      (i)   [*****]
+
+      (ii)  [*****]
+
+If a Royalty-Bearing Product contains a compound discovered or designed by
+Solvay [*****], then the higher royalty rate shall apply. Such royalty shall be
+payable on a country-by-country basis for as long as a Royalty-Bearing Product
+is covered by a Valid Claim of a Patent Right.
+
+      9.6.  Other Milestone and Royalty Payments. The parties shall negotiate in
+good faith the commercially reasonable financial terms pertaining to payments
+for achievement of development milestones relating to Royalty-Bearing Products
+and for a royalty on Royalty-
+
+--------
+ CONFIDENTIAL MATERIALS OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND
+EXCHANGE COMMISSION. ASTERISKS DENOTE SUCH OMISSIONS.
+
+
+                                       18
+<PAGE>   19
+Bearing Products for uses within the Field other than as a [*****], which terms
+shall be set forth in a separate agreement and shall be no higher than those set
+forth in Sections 9.4. and 9.5. above. Solvay shall not develop or sell a
+Royalty-Bearing Product for uses within the Field other than as a [*****] until
+such agreement is executed by both parties.
+
+      9.7.  Reports and Payments. Within thirty (30) days after the conclusion
+of each Royalty Period, Solvay shall deliver to ArQule a report containing the
+following information:
+
+                  (a)   gross sales of Royalty-Bearing Products by Solvay and
+      its Affiliates and sublicensees during the applicable Royalty Period in
+      each country of sale;
+
+                  (b)   calculation of Net Sales for the applicable Royalty
+      Period in each country of sale; and
+
+                  (c)   total Net Sales in U.S. dollars, together with the
+      exchange rates used for conversion.
+
+All such reports shall be maintained in confidence by ArQule. If no royalties
+are due to ArQule for any reporting period, the report shall so state.
+Concurrent with this report, Solvay shall remit to ArQule any payment due for
+the applicable Royalty Period. The method of payment shall be mutually agreed
+to. All amounts payable to ArQule under this Section will first be calculated in
+the currency of sale and then converted into U.S. dollars in accordance with
+Section 9.8.
+
+      9.8.  Invoices; Payments in U.S. Dollars. With the exception of royalty
+payments due under Section 9.5, ArQule shall submit invoices to Solvay for each
+payment due ArQule hereunder, and Solvay shall pay such invoices within thirty
+(30) days of receipt thereof. All payments due under this Agreement shall,
+except as provided in Section 9.9 below, be payable in United States dollars.
+Conversion of foreign currency to U.S. dollars shall be made at the conversion
+rate existing in the United States (as reported in the Wall Street Journal) on
+the last working day of the calendar quarter preceding the applicable calendar
+quarter. Such payments shall be without deduction of exchange, collection, or
+other charges.
+
+      9.9.  Payments in Other Currencies. If by law, regulation, or fiscal
+policy of a particular country, conversion into United States dollars or
+transfer of funds of a convertible currency to the United States is restricted
+or forbidden, Solvay shall give ArQule prompt written notice of such
+restriction, which notice shall satisfy the thirty-day payment deadline
+described in Section 9.7. Solvay shall pay any amounts due ArQule through
+whatever lawful methods ArQule reasonably designates; provided, however, that if
+ArQule fails to designate such payment method within thirty (30) days after
+ArQule is notified of the restriction, then Solvay may deposit such payment in
+local currency to the credit of ArQule in a recognized banking institution
+selected by Solvay and identified by written notice to ArQule, and such deposit
+shall fulfill all obligations of Solvay to ArQule with respect to such payment.
+
+--------
+ CONFIDENTIAL MATERIALS OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND
+EXCHANGE COMMISSION. ASTERISKS DENOTE SUCH OMISSIONS.
+
+
+                                       19
+<PAGE>   20
+      9.10. Records. Solvay and its Affiliates shall maintain complete and
+accurate records of Royalty-Bearing Products made, used or sold by them or their
+sublicensees under this Agreement, and any amounts payable to ArQule in relation
+to such Royalty-Bearing Products, which records shall contain sufficient
+information to permit ArQule to confirm the accuracy of any reports delivered to
+ArQule in accordance with Section 9.7. The relevant party shall retain such
+records relating to a given Royalty Period for at least three (3) years after
+the conclusion of that Royalty Period.
+
+      ArQule will maintain complete and accurate records of the activities
+engaged in by the ArQule FTEs, which records shall contain sufficient
+information to permit Solvay to confirm the compliance of ArQule with Section 4.
+
+      Each party (acting as the "Auditing Party") shall have the right, at its
+own expense, to cause an independent, certified public accountant to inspect
+such records of the other party (the "Audited Party") during normal business
+hours for the sole purpose of verifying any reports and payments delivered under
+this Agreement. Such accountant shall not disclose to the Auditing Party any
+information other than information relating to accuracy of reports and payments
+delivered under this Agreement and shall provide the Audited Party with a copy
+of any report given to the Auditing Party. The parties shall reconcile any
+underpayment or overpayment within thirty (30) days after the accountant
+delivers the results of the audit. In the event that any audit performed under
+this Section reveals an underpayment in excess of five percent (5%) in any
+Royalty Period, the Audited Party shall bear the full cost of such audit. Each
+party may exercise its rights under this Section only once every year and only
+with reasonable prior notice to the other party.
+
+      9.11. Late Payments. Any payments by Solvay that are not paid on or before
+the date such payments are due under this Agreement shall bear interest, to the
+extent permitted by law, at two percentage points above the Federal Reserve Bank
+discount rate on the last day of the month the payments are due, calculated
+based on the number of days that payment is delinquent.
+
+      9.12. Withholding Taxes. Any tax required to be withheld by Solvay or any
+Affiliate or sublicensee under the laws of any foreign country for the account
+of ArQule under this Article 9 shall be promptly paid by Solvay or said
+Affiliate or sublicensee for and on behalf of ArQule to the appropriate
+governmental authority, and Solvay or the Affiliate or sublicensee shall furnish
+ArQule with proof of payment of such tax together with official or other
+appropriate evidence issued by the appropriate governmental authority sufficient
+to enable ArQule to support a claim for income tax credit in respect of any sum
+so withheld.
+
+10.   Confidential Information and Proprietary Materials.
+
+      10.1. Confidential Information.
+
+            10.1.1. Definition of Confidential Information. Confidential
+Information shall mean any technical or business information furnished by one
+party (the "Disclosing Party") to the other party (the "Receiving Party") in
+connection with this Agreement and specifically designated as confidential. Such
+Confidential Information may include, without limitation, the
+
+
+                                       20
+<PAGE>   21
+identity of or other information pertaining to Proprietary Materials, the
+identity of a chemical compound, the use of a chemical compound, trade secrets,
+know-how, inventions, technical data or specifications, testing methods,
+business or financial information, research and development activities, product
+and marketing plans, and customer and supplier information. The parties
+expressly agree that the structures of Active Compounds and the identity of the
+related Target shall be considered Confidential Information until such time as
+the parties have mutually agreed to disclose such information in patent filings
+pursuant to Section 6.3.
+
+            10.1.2. Designation of Confidential Information. Confidential
+Information that is disclosed in writing shall be marked with a legend
+indicating its confidential status. Confidential Information that is disclosed
+orally or visually shall be documented in a written notice prepared by the
+Disclosing Party and delivered to the Receiving Party within thirty (30) days of
+the date of disclosure; such notice shall summarize the Confidential Information
+disclosed to the Receiving Party and reference the time and place of disclosure.
+
+            10.1.3. Obligations. The Receiving Party agrees that it shall:
+
+                  (a)   maintain all Confidential Information in strict
+      confidence, except that the Receiving Party may disclose or permit the
+      disclosure of any Confidential Information to its, and its Affiliates,
+      directors, officers, employees, consultants, Solvay sublicensees, and
+      advisors who are obligated to maintain the confidential nature of such
+      Confidential Information and who need to know such Confidential
+      Information for the purposes set forth in this Agreement;
+
+                  (b)   use all Confidential Information solely for the purposes
+      set forth in, or as permitted by, this Agreement; and
+
+                  (c)   allow its directors, officers, employees, consultants,
+      and advisors to reproduce the Confidential Information only to the extent
+      necessary to effect the purposes set forth in this Agreement, with all
+      such reproductions being considered Confidential Information.
+
+            10.1.4. Exceptions. The obligations of the Receiving Party under
+Section 10.1.3 above shall not apply to the extent that the Receiving Party can
+demonstrate that certain Confidential Information:
+
+                  (a)   was in the public domain prior to the time of its
+      disclosure under this Agreement;
+
+                  (b)   entered the public domain after the time of its
+      disclosure under this Agreement through means other than an unauthorized
+      disclosure resulting from an act or omission by the Receiving Party;
+
+                  (c)   was independently developed or discovered by the
+      Receiving Party without use of the Confidential Information;
+
+
+                                       21
+<PAGE>   22
+                  (d)   is or was disclosed to the Receiving Party at any time,
+      whether prior to or after the time of its disclosure under this Agreement,
+      by a third party having no fiduciary relationship with the Disclosing
+      Party and having no obligation of confidentiality to the Disclosing Party
+      with respect to such Confidential Information; or
+
+                  (e)   is required to be disclosed to comply with applicable
+      laws or regulations (such as disclosure to the United States Food and Drug
+      Administration or the United States Patent and Trademark Office or to
+      their foreign equivalents), or to comply with a court or administrative
+      order, provided that the Disclosing Party receives prior written notice of
+      such disclosure and that the Receiving Party takes all reasonable and
+      lawful actions to obtain confidential treatment for such disclosure and,
+      if possible, to minimize the extent of such disclosure.
+
+      10.2. Proprietary Materials.
+
+            10.2.1. Definition of Proprietary Materials. Proprietary Materials
+shall mean any tangible chemical, biological, or physical research materials
+that are furnished by one party (the "Transferring Party") to the other party
+(the "Receiving Party") in connection with this Agreement regardless of whether
+such materials are specifically designated as proprietary to the Transferring
+Party. Proprietary Materials shall include, without limitation, all ArQule
+Compounds, ArQule Derivative Compounds, Solvay Compounds and Solvay Derivative
+Compounds..
+
+            10.2.2. Limited Use. The Receiving Party shall use Proprietary
+Materials solely for the purposes set forth in this Agreement. The Receiving
+Party shall use the Proprietary Materials only in compliance with all applicable
+governmental laws and regulations.
+
+            10.2.3. Limited Disposition. The Receiving Party shall not transfer
+or distribute any Proprietary Materials to any third party, except to its
+Affiliates, without the prior written consent of the Transferring Party.
+
+            10.2.4. Reverse Engineering. Solvay shall not attempt to reverse
+engineer, or attempt to determine the structure of, any ArQule Compound until
+the structure of such compound has been disclosed to Solvay by ArQule following
+notification by Solvay of the location of an Active Compound pursuant to
+Sections 3.3. and 3.4.
+
+      10.3. Return of Confidential Information and Proprietary Materials. Upon
+the termination of this Agreement, at the request of the Disclosing Party, the
+Receiving Party shall destroy or return to the Disclosing Party all originals,
+copies, and summaries of documents, materials, and other tangible manifestations
+of Confidential Information in the possession or control of the Receiving Party,
+except that the Receiving Party may retain one copy of the Confidential
+Information in the possession of its legal counsel (for ArQule) and its Legal
+and Trademarks Department (for Solvay) solely for the purpose of monitoring its
+obligations under this Agreement. Upon the termination of this Agreement, the
+Receiving Party shall at the instruction of the Transferring Party either
+destroy or return any unused Proprietary Materials.
+
+
+                                       22
+<PAGE>   23
+      10.4. Publications. In the event that either party desires to publicly
+disclose (through journals, lectures, or otherwise) any results relating to the
+Research Programs, such party (the "Publishing Party") shall furnish the other
+party (the "Reviewing Party") with (i) a copy of any written publication at
+least sixty (60) days prior to submission or (ii) a summary or abstract of an
+oral disclosure at least thirty (30) days prior to the intended disclosure date.
+The Reviewing Party shall have the right to (i) consent to the disclosure with
+modifications to protect patentable inventions or prevent disclosure of
+Confidential Information, (ii) delay the disclosure for a period of ninety (90)
+days to enable the preparation and filing of a patent application, or (iii)
+refuse to allow the disclosure in order to maintain certain information as a
+trade secret, which refusal shall not be unreasonably exercised. Any
+disagreements arising under this Section shall be referred to the Research
+Committee.
+
+      10.5. Survival of Obligations. The obligations set forth in this Article
+shall remain in effect for a period of five (5) years after termination of this
+Agreement, except that the obligations of the Receiving Party to return or
+destroy Confidential Information to the Disclosing Party and to return or
+destroy Proprietary Materials received from the Transferring Party shall survive
+until fulfilled.
+
+11.   Indemnification and Insurance.
+
+      11.1. Indemnification. Each party (the "Indemnitor") shall indemnify,
+defend, and hold harmless the other party and its Affiliates and their
+directors, officers, employees, and agents and their respective successors,
+heirs and assigns (the "Indemnitees"), against any liability, damage, loss, or
+expense (including reasonable attorneys fees and expenses of litigation)
+incurred by or imposed upon the Indemnitees or any one of them in connection
+with any claims, suits, actions, demands, or judgments arising out of any theory
+of product liability (including, but not limited to, actions in the form of
+tort, warranty, or strict liability) concerning any product (or any process or
+service) that is made, used, or sold by such other party pursuant to any right
+or license granted under this Agreement or arising out of any breach of a
+representation or warranty under this Agreement; provided, however, that such
+indemnification right shall not apply to any liability, damage, loss, or expense
+to the extent directly attributable to the negligent activities, reckless
+misconduct, or intentional misconduct of the Indemnitees.
+
+      11.2. Procedures. Any Indemnitee that intends to claim indemnification
+under Section 11.1 shall promptly notify the appropriate Indemnitor of any claim
+in respect of which the Indemnitee intends to claim such indemnification, and
+the Indemnitor shall assume the defense thereof with counsel selected by the
+Indemnitor (Indemnitor shall consult with Indemnitee with respect to a possible
+conflict of interest of such counsel retained by Indemnitor); provided, however,
+that an Indemnitee shall have the right to retain its own counsel at its cost;
+provided, further, that if representation of such Indemnitee by the counsel
+retained by the Indemnitor would be inappropriate due to actual or potential
+conflict of interest between such Indemnitee and any other party represented by
+such counsel in such proceedings, the Indemnitor and Indemnitee will each pay an
+equal share of the costs of the Indemnitee. The indemnity agreement in Section
+11.1. shall not apply to amounts paid in settlement of any loss, claim,
+liability or action if such settlement is effected without the consent of
+Solvay, which consent shall not be withheld unreasonably. The failure to deliver
+notice to the Indemnitor within a reasonable time
+
+
+                                       23
+<PAGE>   24
+after the commencement of any such action, if prejudicial to its ability to
+defend such action, shall relieve the Indemnitor of any liability to the
+Indemnitee under Section 11.1. Each party and its Affiliates and their employees
+and agents shall cooperate fully with the other party and its legal
+representatives in the investigation of any action, claim or liability covered
+by this indemnification.
+
+      11.3. Insurance. Each party shall maintain reasonably adequate insurance
+or self-insurance coverage for its own potential liabilities to the Indemnitees
+as set forth in this Article.
+
+12.   Term and Termination.
+
+      12.1. Term. This Agreement shall commence on the Effective Date and shall
+remain in effect until the expiration of the Research Period, unless earlier
+terminated as provided in this Article 12.
+
+      12.2. Breach of Payment Obligations. In the event that Solvay fails to
+make timely payment of any amounts due to ArQule under this Agreement, ArQule
+may terminate this Agreement upon thirty (30) days written notice to Solvay,
+unless Solvay (i) pays all past-due amounts within such thirty-day notice period
+or (ii) invokes dispute resolution under Section 13.5. within such thirty-day
+notice period.
+
+      12.3. Material Breach. In the event that either party commits a material
+breach of any of its obligations under this Agreement and such party fails (i)
+to remedy that breach within ninety (90) days after receiving written notice
+thereof from the other party or (ii) to commence dispute resolution pursuant to
+Section 13.5., within ninety (90) days after receiving written notice of that
+breach from the other party, the other party may immediately terminate this
+Agreement upon written notice to the breaching party.
+
+      12.4. Effect of Termination. The following provisions shall survive the
+expiration or termination of this Agreement: Articles 5, 10, and 11; Sections
+3.9, 6.1 through 6.4, 6.6, 7.2 through 7.5, 9.4 through 9.12, 12.4, 13.3, 13.4,
+13.5, and 13.10.
+
+13.   Miscellaneous.
+
+      13.1. Relationship of Parties. Nothing in this Agreement is intended or
+shall be deemed to constitute a partnership, agency, employer-employee or joint
+venture relationship between the parties. No party shall incur any debts or make
+any commitments for the other, except to the extent, if at all, specifically
+provided therein.
+
+      13.2. Publicity. Neither party shall use the name of the other party or
+reveal the terms of this Agreement in any publicity or advertising without the
+prior written approval of the other party, except that (i) either party may use
+the text of a written statement approved in advance by both parties without
+further approval, (ii) either party shall have the right to identify the other
+party and to disclose the terms of this Agreement as required by applicable
+securities laws or other applicable law or regulation, and (iii) either party
+may use the name of the other party and reveal the existence of this Agreement.
+
+
+                                       24
+<PAGE>   25
+      13.3. Non-Solicitation. During the term of this Agreement and thereafter
+for a period of two (2) years, each party agrees not to seek to persuade or
+induce any employee of the other party to discontinue his or her employment with
+that party in order to become employed by or associated with any business,
+enterprise, or effort that is associated with its own business.
+
+      13.4. Governing Law. The License Agreement shall be governed by and
+construed in accordance with the laws of England.
+
+      13.5. Dispute Resolution Procedures.
+
+                  (a)   The parties hereby agree that they will attempt in good
+      faith to resolve any controversy, claim or dispute ("Dispute") arising out
+      of or relating to this Agreement promptly by negotiations. Any such
+      Dispute which is not settled by the parties within fifteen (15) days after
+      notice of such Dispute is given by one party to the other in writing shall
+      be referred to a senior executive of ArQule and the Vice
+      President-Research of Solvay who are authorized to settle such Disputes on
+      behalf of their respective companies ("Senior Executives"). The Senior
+      Executives will meet for negotiations within fifteen (15) days of the end
+      of the 15 day negotiation period referred to above, at a time and place
+      mutually acceptable to both Senior Executives. If the Dispute has not been
+      resolved within thirty (30) days after the end of the 15 day negotiation
+      period referred to above (which period may be extended by mutual
+      agreement), subject to any rights to injunctive relief and unless
+      otherwise specifically provided for herein, any Dispute will be settled
+      first by non-binding mediation and thereafter by binding arbitration as
+      described in subsections (b) and (c) below.
+
+                  (b)   Any Dispute which is not resolved by the parties within
+      the time period described in subsection (a) shall be submitted to an
+      alternative dispute resolution process ("ADR"). Within five (5) business
+      days after the expiration of the thirty (30) day period set forth in
+      subsection (a), each party shall select for itself a representative with
+      the authority to bind such party and shall notify the other party in
+      writing of the name and title of such representative. Within ten (10)
+      business days after the date of delivery of such notice, the
+      representatives shall schedule a date for engaging in non-binding ADR with
+      a neutral mediator or dispute resolution firm mutually acceptable to both
+      representatives. Any such mediation shall be held in London, England.
+      Thereafter, the representatives of the parties shall engage in good faith
+      in an ADR process under the auspices of such individual or firm. If the
+      representatives of the parties have not been able to resolve the Dispute
+      within thirty (30) business days after the conclusion of the ADR process,
+      or if the representatives of the parties fail to schedule a date for
+      engaging in non-binding ADR within the ten (10) day period set forth
+      above, the Dispute shall be settled by binding arbitration as set forth in
+      subsection (c) below. If the representatives of the parties resolve the
+      dispute within the thirty (30) day period set forth above, then such
+      resolution shall be binding upon the parties. If either party fails to
+      abide by such resolution, the other party can immediately refer the matter
+      to arbitration under Section 13.5(c).
+
+
+                                       25
+<PAGE>   26
+                  (c)   If the parties have not been able to resolve the Dispute
+      as provided in subsections (a) and (b) above, the Dispute shall be finally
+      settled by binding arbitration. Any arbitration hereunder shall be
+      conducted under the Rules of Arbitration of the International Chamber of
+      Commerce. The arbitration shall be conducted in the English language
+      before three arbitrators chosen according to the following procedure: each
+      of the parties shall appoint one arbitrator and the two so nominated shall
+      choose the third. If the arbitrators chosen by the parties cannot agree on
+      the choice of the third arbitrator within a period of thirty (30) days
+      after their appointment, then the third arbitrator shall be appointed by
+      the Court of Arbitration of the International Chamber of Commerce. Any
+      such arbitration shall be held in London, England. The arbitrators shall
+      have the authority to grant specific performance, and to allocate between
+      the parties the costs of arbitration in such equitable manner as they
+      determine. The arbitral award (i) shall be final and binding upon the
+      parties; and (ii) may be entered in any court of competent jurisdiction in
+      accordance with the 1958 Convention on the Recognition and Enforcement of
+      Arbitral Awards.
+
+                  (d)   Nothing contained in this Section or any other
+      provisions of this Agreement shall be construed to limit or preclude a
+      party from bringing any action in any court of competent jurisdiction for
+      injunctive or other provisional relief to compel the other party to comply
+      with its obligations hereunder before or during the pendency of mediation
+      or arbitration proceedings. The parties hereby irrevocably consent to
+      submit to the jurisdiction of the courts of England and/or any other court
+      having jurisdiction for this purpose.
+
+      13.6. Counterparts. This Agreement may be executed in one or more
+counterparts, each of which shall be deemed an original, and all of which
+together shall be deemed to be one and the same instrument.
+
+      13.7. Headings. All headings in this Agreement are for convenience only
+and shall not affect the meaning of any provision hereof.
+
+      13.8. Binding Effect. This Agreement shall inure to the benefit of and be
+binding upon the parties, their Affiliates, and their respective lawful
+successors and assigns.
+
+      13.9. Assignment. This Agreement may not be assigned by either party
+without the prior written consent of the other party, except that either party
+may assign this Agreement to a successor in connection with the merger,
+consolidation, or sale of all or substantially all of its assets or that portion
+of its business pertaining to the subject matter of this Agreement.
+
+      13.10. Notices. All notices, requests, demands and other communications
+required or permitted to be given pursuant to this Agreement shall be in writing
+and shall be deemed to have been duly given upon the date of receipt if
+delivered by hand, recognized international overnight courier, confirmed
+facsimile transmission, or registered or certified mail, return receipt
+requested, postage prepaid to the following addresses or facsimile numbers:
+
+
+                                       26
+<PAGE>   27
+If to Solvay:                             If to ArQule:
+
+Solvay Pharmaceuticals B.V.               ArQule, Inc.
+C.J. van Houtenlaan 36                    19 Presidential Way
+1381 CP Weesp                             Woburn, MA  01801
+The Netherlands                           Attention:  President
+Attention:                                Tel: (781) 994-0300
+Manager Technology Development            Fax: (781) 503-0009
+
+Tel: +31 294 479696
+Fax: +31 294 477148
+
+with a copy to:                           with a copy to:
+
+Same Address                              Same Address
+Attention: Head Legal Department          Attention:  General Counsel
+Tel: +31 294 477479                       Tel: (781) 994-0300
+Fax: +31 294 477126                       Fax: (781) 503-0009
+
+Either party may change its designated address and facsimile number by notice to
+the other party in the manner provided in this Section.
+
+      13.11. Amendment and Waiver. This Agreement may be amended, supplemented,
+or otherwise modified only by means of a written instrument signed by both
+parties. Any waiver of any rights or failure to act in a specific instance shall
+relate only to such instance and shall not be construed as an agreement to waive
+any rights or fail to act in any other instance, whether or not similar.
+
+      13.12. Severability. In the event that any provision of this Agreement
+shall, for any reason, be held to be invalid or unenforceable in any respect,
+such invalidity or unenforceability shall not affect any other provision hereof,
+and the parties shall negotiate in good faith to modify the Agreement to
+preserve (to the extent possible) their original intent.
+
+      13.13. Entire Agreement. This Agreement constitutes the entire agreement
+between the parties with respect to the subject matter hereof and supersedes all
+prior agreements or understandings between the parties relating to the subject
+matter hereof, including without limitation the Prior Agreement.
+
+      13.14. Hardship. The underlying objective of this Agreement is to realize
+in an economical and reasonable way the mutual interests and requirements of the
+parties. If at any time this Agreement should no longer meet this objective
+because of technical developments, economic developments or political changes
+that could not reasonably be foreseen at the time of signing this Agreement thus
+causing undue and prolonged hardship, the parties shall meet in order to bring
+about a mutually agreeable solution according to the economic and reasonable
+objectives of this Agreement.
+
+
+                                       27
+<PAGE>   28
+      13.15. Force Majeure. Neither party shall be held liable or responsible to
+the other party, nor be deemed to be in breach of this Agreement, for failure or
+delay in fulfilling or performing any provisions of this Agreement when such
+failure or delay is caused by or results from any cause whatsoever outside the
+reasonable control of the party concerned including, but not limited to, fire,
+explosion, breakdown of plant, strike, lock-out, labor disputes, casualty or
+accident, lack or failure of transportation facilities, flood, lack or failure
+of sources of supply or of labor, raw materials or energy, civil commotion,
+blockage or embargo, any law, regulation, decision, demand or requirement of any
+national or local government or authority. The party claiming relief shall,
+without delay, notify the other party by registered airmail or by telefax of the
+interruption and cessation thereof and shall use its best efforts to remedy the
+effects of such hindrance with all reasonable dispatch. The onus of proving that
+any such Force Majeure event exists shall rest upon the party so asserting.
+During the period that one party is prevented from performing its obligations
+under this Agreement due to a Force Majeure event, the other party may, in its
+sole discretion, suspend any obligations that relate thereto. Upon cessation of
+such Force Majeure event the parties hereto shall use their best efforts to make
+up for any suspended obligations. If such Force Majeure event is anticipated to
+continue, or has existed for nine (9) consecutive months or more, this Agreement
+may be forthwith terminated by either party by registered airmail or by telefax.
+In case of such termination the terminating party will not be required to pay to
+the other party any indemnity whatsoever.
+
+
+      IN WITNESS WHEREOF, the undersigned have duly executed and delivered this
+Agreement as a sealed instrument effective as of the date first above written.
+
+
+      SOLVAY PHARMACEUTICALS BV              ARQULE, INC.
+
+
+
+      By:___________________________         By:__________________________
+            E.A.A.M. Koopmans                      Stephen A. Hill, M.D.
+            President, Solvay Pharmaceuticals BV,  President and Chief Executive
+              Weesp                                Officer
+
+      By:___________________________
+            Prof. S.G. Schaefer
+            Vice President Global Research
+            Solvay Pharmaceuticals
+
+
+                                       28
+<PAGE>   29
+                                    EXHIBIT A
+
+
+
+
+
+                             Compound Specifications
+
+1.    Compass Array Library.
+
+[*****]
+
+2.    Mapping Array Libraries.
+
+[*****]
+
+3.    Confirmation Samples and Resynthesized Compounds.
+
+[*****]
+
+4.    Directed Array Compounds.
+
+[*****]
+
+
+--------
+ CONFIDENTIAL MATERIALS OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND
+EXCHANGE COMMISSION. ASTERISKS DENOTE SUCH OMISSIONS.
+
+
+                                       29
+<PAGE>   30
+                                    EXHIBIT B
+
+                            AMAP Technology Transfer
+
+
+List of 2000 Technology to be transferred and implemented in 2001
+
+
+                                    [*****]
+
+
+--------
+ CONFIDENTIAL MATERIALS OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND
+EXCHANGE COMMISSION. ASTERISKS DENOTE SUCH OMISSIONS.
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,282 @@
+<DOCUMENT>
+<TYPE>EX-10.J
+<SEQUENCE>8
+<FILENAME>h94727ex10-j.txt
+<DESCRIPTION>3RD AMEND. TO POWER PURCHASE AGREEMENT
+<TEXT>
+<PAGE>
+                                                                   EXHIBIT 10.J
+
+                   THIRD AMENDMENT TO POWER PURCHASE AGREEMENT
+
+                  THIS THIRD AMENDMENT TO POWER PURCHASE AGREEMENT (the "Third
+Amendment"), made and entered into as of the 1st day of August, 1999, by and
+between Cogen-Technologies Linden Venture, L.P. ("Seller") and Consolidated
+Edison Company of New York, Inc. ("Buyer" and collectively with Seller, the
+"Parties"), constitutes an amendment to the Power Purchase Agreement, dated
+April 14, 1989, between Buyer and Cogen Technologies, Inc., as assigned to
+Seller by Cogen Technologies Linden Ltd., assignee of Cogen Technologies, Inc.,
+and as amended by the First Amendment to Power Purchase Agreement between Buyer
+and Seller, dated September 17, 1990 (the "First Amendment") and the Second
+Amendment to the Power Purchase Agreement between Buyer and Seller, dated
+December 22, 1993 (the "Second Amendment") (the Power Purchase Agreement, the
+First Amendment and the Second Amendment are referred to herein together as the
+"Agreement").
+
+                              W I T N E S S E T H:
+
+                  WHEREAS, Buyer and Seller previously entered into the
+Agreement for the purchase by Buyer of certain capacity and energy to be
+produced by a gas-fired cogeneration plant and appurtenant facilities to be
+constructed in Linden, New Jersey (the "Plant");
+
+                  WHEREAS, certain matters not specifically addressed in the
+Agreement have arisen which Buyer and Seller desire to address in the form of an
+amendment to the Agreement;
+
+                  WHEREAS, the Agreement neither expressly permits nor expressly
+prohibits the sale by Seller of Plant capacity in excess of 645 megawatts ("MW")
+to Third Parties; and
+
+
+<PAGE>
+
+
+                  WHEREAS, Buyer and Seller desire to amend the Agreement with
+respect to the right of the Seller to sell Plant capacity and associated energy
+in excess of 645 MW to Third Parties:
+
+                  NOW, THEREFORE, in consideration of the mutual covenants
+contained herein and other valuable consideration, the receipt and sufficiency
+of which are hereby acknowledged, the Parties, intending legally to be bound,
+agree to amend the Agreement as follows:
+
+                  FIRST.  By inserting after Article 4.8 a new Article 4.9, as
+                          follows:
+
+                  "4.9 Rights to Excess Capacity and Energy.
+
+                  (A) Definitions.  For purposes of this Article 4.9:
+
+                  (1) The term "DMNC" means the DMNC determined pursuant to
+                  Article 13.1 (A) (1) and 13.1(D), notwithstanding anything to
+                  the contrary in Article 13.1(A) (4).
+
+                  (2 The term "Excess Capacity" means any Plant power production
+                  capacity in excess of a DMNC of 645 MW.
+
+                  (3 The term "Excess Energy" means energy associated with
+                  Excess Capacity.
+
+                  (4 The term "Excess Energy Fuel Component" means, for any
+                  month, an amount equal to the product of:
+
+                     (a) the average cost incurred in such month by Seller with
+                     respect to Fuel acquired for use in the Plant, expressed in
+                     $/Btu (at the higher heating value),
+
+                                       2
+<PAGE>
+
+
+                     (b) an assumed heat rate of 11,500 Btu/kWh (at the higher
+                     heating value), and
+
+                     (c) the sum of the number of kWh of energy sold in each
+                     hour in such month associated with the first 20 MW of
+                     Excess Capacity.
+
+                  (5 The term "Excess Energy O & M Component" means, for any
+                  month, an amount equal to the product of:
+
+                     (a) 1.0 cents per kWh and
+
+                     (b) the sum of the number of kWh of energy sold in each
+                     hour in such month associated with the first 20 MW of
+                     Excess Capacity.
+
+                  (6 The term "Net Capacity Revenue" means, for any month, the
+                  revenue received by Seller from the sale of the first 20 MW of
+                  Excess Capacity, but, if Seller sells more than 20 MW of
+                  Excess Capacity in any Month, no less than the product of (i)
+                  20 and (ii) the weighted average price per MW for all sales of
+                  Excess Capacity in such month less the sum of:
+
+                     (a) any taxes associated with making such sale, and
+
+                     (b) any other reasonable and customary costs and expenses
+                     paid to Third Parties or to Buyer relating to such sale.
+
+                  (7 The term "Net Energy Revenue" means, for any month, the
+                  revenue received by Seller from the sale of energy associated
+                  with the first 20 MW of Excess Capacity, but, if Seller sells
+                  energy in
+
+
+                                       3
+<PAGE>
+
+                  excess of an amount associated with the first 20 MW of Excess
+                  Capacity in any Month, no less than the product of (i the sum
+                  of the number of kWh of energy sold in each hour in such month
+                  associated with the first 20 MW of Excess Capacity and (ii the
+                  weighted average price per kWh for all sales of Excess Energy
+                  in each hour of such Month less the sum of:
+
+                     (a) the Excess Energy Fuel Component,
+
+                     (b) the Excess Energy O & M Component,
+
+                     (c) any taxes associated with making such sale,
+
+                     (d) any transmission and distribution costs and expenses
+                     relating to such sale, and
+
+                     (e) any other reasonable and customary costs and expenses
+                     paid to Third Parties or to Buyer relating to such sale.
+
+                  (8 The term "Third Party" means any person other than Buyer
+                  and Seller.
+
+                  (B) Notwithstanding anything to the contrary contained in this
+                  Agreement, but without affecting the parties' rights under
+                  Section 11.2 (E), Seller shall have the right to sell and
+                  deliver any Excess Capacity or Excess Energy or both to any
+                  Third Parties or to Buyer under a separate agreement, except
+                  that
+
+
+                                       4
+<PAGE>
+
+
+                  (1) to the extent that Buyer has scheduled has scheduled Plant
+                  output at levels at or less than 645 MW, Seller shall first
+                  provide energy to Buyer at the levels requested by Buyer at
+                  time,
+
+                  (2) Seller may utilize the Plant to produce energy above the
+                  level requested by Buyer for sales to Third Parties or to
+                  Buyer under a separate agreement only in an amount equivalent
+                  to that associated with the amount of the Excess Capacity,
+
+                  (3) to the extent that ambient temperatures in any hour in
+                  such month are above the average ambient temperature which the
+                  DMNC of the Plant available for delivery is adjusted pursuant
+                  to Section 13.1(A) (1) of this Agreement and to the extent to
+                  which such higher temperature limits the amount of energy that
+                  can be produced by the Plant, then both Buyer's and Seller's
+                  rights to energy from the Plant will be adjusted accordingly
+                  and, in such case,
+
+                     (a) Buyer shall be entitled in such hour of such month to a
+                     portion of the energy produced by the Plant during such
+                     hour equal to all the energy produced by the Plant during
+                     such hour multiplied by a fraction, the numerator of which
+                     is the DMNC less the Excess Capacity, and the denominator
+                     of which is the DMNC, and
+
+
+
+                                       5
+<PAGE>
+
+                     (b) Seller shall be entitled to the remainder of the energy
+                     produced by the Plant during such hour, which remainder
+                     shall not exceed an amount of energy equivalent to the
+                     energy associated with the amount of Excess Capacity, and
+
+                  4) Seller's right to sell Excess Capacity shall not impair
+                  Buyer's capacity entitlement under this Agreement except as
+                  specifically provided herein.
+
+                  (C) In any month, the Net Capacity Revenue shall be shared
+                  equally between Buyer and Seller.
+
+                  (D) In any month, Net Energy Revenue shall be shared equally
+                  between Buyer and Seller.
+
+                  (E) Notwithstanding anything to the contrary contained in this
+                  Agreement except as specifically provided in this Article 4.9,
+                  Buyer shall have no right or claim to any Excess Capacity or
+                  Excess Energy or to any revenue from the sale of Excess
+                  Capacity and Excess Energy. Nothing herein shall obligate
+                  Seller to make any sale of Excess Capacity or Excess Energy
+                  and Seller shall have no liability to Buyer should it not make
+                  any such sales.
+
+                     For purposes of Section 4.1(B), 4.1(C) and 4.3 of this
+                  Agreement; any Excess Energy sold shall not be included in
+                  "the total kWh actually delivered by the Plant" or "the Kwh
+                  actually delivered to
+
+
+                                       6
+<PAGE>
+
+                  Buyer" or "the kWh actually delivered by Seller or Buyer" or
+                  "the kWh delivered during such month" and
+
+                  (2) Fuel costs and any other costs related thereto incurred by
+                  Seller for the production of Excess Energy shall be deducted
+                  from the "sum of all costs incurred" in computing the Fuel
+                  Component. For purposes of this Section 4.9 (F) (2) Fuel costs
+                  incurred by Seller for the production of Excess Energy in any
+                  month shall amount to the product of (a) the average cost
+                  incurred in such month by Seller with respect to Fuel acquired
+                  for use in the Plant, expressed in $/Btu (at the higher
+                  heating value), (b) an assumed heat rate of 11,500 Btu/kWh (at
+                  the higher heating value) and (c) the sum of the number of kWh
+                  of Excess Energy sold in each hour in such month.
+
+                     SECOND. This Third Amendment shall become effective as of
+                     August 1, 1999.
+
+                     THIRD. All corporate action required for Buyer and Seller
+                     to execute, deliver, and perform their respective
+                     obligations hereby have been completed, and no approval by
+                     the Public Service Commission of the State of New York is
+                     required for Buyer to execute, deliver, and perform its
+                     obligations under this Third Amendment and the Agreement as
+                     amended hereby.
+
+
+                                       7
+<PAGE>
+
+                     FOURTH This Third Amendment and the rights and obligations
+                     of the Parties hereunder shall be governed by, and
+                     construed and interpreted in accordance with, the laws of
+                     the State of New York.
+
+         IN WITNESS WHEREOF, the Parties have caused this Third Amendment to be
+duly executed and delivered by their proper and duly authorized officers as of
+the day and year first above written.
+
+
+                                   COGEN TECHNOLOGIES LINDEN VENTURE, L.P.
+
+
+                                   By:        /s/ Robert J. Licato
+                                       -----------------------------------------
+                                   Printed Name:  Robert J. Licato
+                                   Title:         President
+                                   Date:          April 25, 2000
+
+
+                                   CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+
+
+                                   By:        /s/ Michael Forte
+                                        ----------------------------------------
+                                   Printed Name:  Michael Forte
+                                   Title:         Acting Vice President
+                                   Date:          October 21, 1999
+
+
+
+
+                                       8
+
+</TEXT>
+</DOCUMENT>

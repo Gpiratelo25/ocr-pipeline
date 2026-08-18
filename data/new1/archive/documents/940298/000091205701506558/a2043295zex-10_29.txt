@@ -1,0 +1,178 @@
+<DOCUMENT>
+<TYPE>EX-10.29
+<SEQUENCE>7
+<FILENAME>a2043295zex-10_29.txt
+<DESCRIPTION>EXHIBIT 10.29
+<TEXT>
+
+<PAGE>
+
+
+          Confidential Materials omitted and filed separately with the
+                       Securities and Exchange Commission.
+                        Asterisks denote such omissions.
+
+
+EXHIBIT 10.29
+
+
+                                 FIRST AMENDMENT
+
+                                       TO
+
+                                SUPPLY AGREEMENT
+
+         The First Amendment ("First Amendment") to the Supply Agreement dated
+September 30, 2000 ("Agreement") between Manufacturers' Services Salt Lake City
+Operations, Inc., having its principal place of business at 5742 West Harold
+Getty Drive, Salt Lake City, Utah 84116 ("MSSLO") and 3Com Corporation, having
+its principal place of business at 5400 Bayfront Plaza, Santa Clara, California
+95052 ("3Com") is entered into and is effective this 15th day of January, 2001.
+
+         WHEREAS, MSSLO and 3Com have previously entered into the Agreement
+dated September 30, 2000; and
+
+         WHEREAS, the parties desire to modify the terms of the Agreement as set
+forth herein.
+
+         NOW THEREFORE, for good and valuable consideration, the receipt and
+sufficiency of which is hereby acknowledged, the parties hereto agree as
+follows:
+
+1.       SECTION 4.  PURCHASE COMMITMENT
+
+         The first sentence of the first paragraph of Section 4 is hereby
+         amended by replacing the period "." at the end of the sentence with a
+         comma "," and adding the following:
+
+         "... provided however, that solely for the purposes of the Quarter
+         ending on November 30, 2000, Products shall include the products
+         purchased from MSSLO by U.S. Robotics in the Value Add amount of
+         approximately $[**]."
+
+2.       SECTION 7.  MATERIALS MANAGEMENT; D.  EXCESS MATERIAL
+
+         Section D is hereby deleted in its entirety and replaced with the
+following:
+
+D. EXCESS MATERIALS. With respect to any Excess Materials on hand, MSSLO will
+notify 3Com of the amount and the cost of such Excess Materials in a
+consolidated report on the first week of a Quarter. 3Com shall either (i) pay
+carrying costs for Excess Materials at a rate of [one percent (1%)] per month of
+MSSLO's purchase price (less any premiums for such Excess Materials for which
+the forecasted use, based on the forecast
+
+<PAGE>
+
+          Confidential Materials omitted and filed separately with the
+                       Securities and Exchange Commission.
+                        Asterisks denote such omissions.
+
+
+in effect as of the first business day of such Quarter, is between 60 days and
+120 days measured from such first business day such Quarter or (ii) buy such
+Excess Materials at MSSLO's purchase price (less any premiums) plus a Materials
+acquisition charge equal to [**] percent ([**]%) of MSSLO's purchase price (less
+any premiums); provided, however, that for any such Excess Materials for which
+the forecasted use, based on the forecast in effect as of the first business day
+of such Quarter, is more than 120 days measured from such first business day of
+such Quarter, 3Com must buy such Materials in accordance with clause (ii) of
+this sentence.
+
+MSSLO's quarterly consolidated report for such Excess Material claims must
+include the following information: 3Com part-number, part description, part
+lead-time, top level product "where used", quantity used per top level product,
+quantity on-hand, days of supply based upon total forward looking 52 weeks of
+demand, MSSLO's purchase price less any premiums, extended cost (quantity
+on-hand multiplied by purchase price less any premiums), MSSLO's comments
+regarding the root cause for excess and a detailed description of actions taken
+to mitigate such Excess Materials. Additionally, MSSL will provide a waterfall
+report in conjunction with the consolidated Excess Material report. The
+waterfall report (form of such report illustrated in Attachment A, hereto) will
+detail the monthly demand forecast loaded by MSSLO into MRP for each top level
+product and indicate the changes in monthly demand each month over the 12 month
+forecast. Upon receipt of this quarterly consolidated report and the waterfall
+report, 3Com will have 5 business days to review and respond to such reports.
+Upon mutual agreement by the parties regarding the disposition of such Excess
+Materials, MSSLO will invoice 3Com accordingly and 3Com will pay such invoice in
+accordance with Section 6.G of this Agreement.
+
+Upon 3Com's instructions, MSSLO will use reasonable commercial efforts to sell
+Excess Materials at market prices. The proceeds from such sales will be credited
+to 3Com or MSSLO, as applicable. In no event will 3Com have any liability for
+any Materials that are not Unique Materials unless otherwise agreed to in
+writing. MSSLO may, with 3Com's prior written approval, sell Excess Materials at
+less than market price. If any Excess Material is sold for less than MSSLO's
+book value, 3Com shall pay MSSLO the amount by which such sale price is less
+than MSSLO's purchase price (less any premiums) plus a Materials acquisition
+charge equal to [**] percent ([**]%)of MSSLO's purchase price (less any
+premiums). MSSLO will document and use commercially reasonable efforts to
+mitigate any Excess Materials through including but not limited to returning
+materials to vendors, endeavoring to find other MSSLO customers willing to use
+such Materials, proper rescheduling and cancellation efforts with its suppliers.
+
+MSSLO agrees to repurchase from 3Com any Excess Materials purchased by 3Com
+under this Section 7D, subject to such Excess Material meeting current quality
+specifications, at 3Com's purchase price (which includes an acquisition charge
+of[**] percent ([**]%)) prior to scheduling and accepting receipt of any
+Material other than what is already ordered on existing MSSLO purchase orders
+with scheduled deliveries inside 30 days. Such purchase orders will be issued
+consistent with MSSLO's normal supply chain practices. Any supplier objections,
+cancellation charges or penalties for
+
+
+                                       2
+<PAGE>
+
+
+3Com Controlled Materials resulting from such rescheduling or cancellations
+should be escalated (within two (2) business days) by MSSLO to 3Com for
+resolution and/or payment. To ensure that MSSLO has adequate visibility to
+3Com's Excess Materials, 3Com will, on a weekly basis, provide MSSLO, in a
+format to be defined by MSSLO, an electronic listing of all Excess Material
+owned by 3Com which is available for purchase by MSSLO. Such listing will be
+incorporated into MSSLO's systems as consignment inventory.
+
+Should MSSLO fail to issue a purchase order to 3Com for previously purchased
+Excess Material as a priority for any current demand requirements outside of
+thirty (30) days, MSSLO will be required to immediately place a purchase order
+and schedule receipt of such Excess Material from 3Com within four (4) weeks
+(regardless of MSSLO's normal supply chain practices). If 3Com fails to provide
+such electronic listing of Excess Materials owned by 3Com for a given week, then
+MSSLO will be excused from taking action to issue such purchase orders for
+Excess Material during such week. Additionally, should such Excess Material
+repurchased or "should have been repurchased" by MSSLO ultimately become
+Obsolete Materials, the liability for such Obsolete Materials will remain with
+MSSLO.
+
+3. CONFIRMATION OF AGREEMENT TERMS. Except as expressly set forth herein, the
+terms and conditions of the Agreement shall remain in full force and effect. In
+the event of any conflict between the terms and conditions of this First
+Amendment and the Agreement, the terms and conditions set forth in this First
+Amendment shall control with respect to the subject matter hereof.
+
+4. COUNTERPARTS. This First Amendment may be executed in counterparts, each of
+which shall constitute an original and all of which, when taken together, shall
+constitute one instrument.
+
+         IN WITNESS WHEREOF, the parties have executed this First Amendment
+effective as of the date first set forth above.
+
+3COM CORPORATION                         MANUFACTURERS' SERVICES SALT LAKE
+                                         CITY OPERATIONS, INC.
+
+By:    /s/ David H. Orr                  By:    /s/ Albert A. Notini
+       --------------------------               -------------------------------
+
+Name:  David H. Orr                      Name:  Albert A. Notini
+       --------------------------               -------------------------------
+
+Title:  Sr. Dir. Supply Chain            Title: EVP AND CHIEF FINANCIAL OFFICER
+         Operations
+       --------------------------               -------------------------------
+
+
+
+                                       3
+</TEXT>
+</DOCUMENT>

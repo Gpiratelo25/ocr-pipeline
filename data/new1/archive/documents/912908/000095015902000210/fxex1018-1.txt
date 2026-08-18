@@ -1,0 +1,764 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>20
+<FILENAME>fxex1018-1.txt
+<DESCRIPTION>EXHIBIT 10.18.1
+<TEXT>
+                                                                 Exhibit 10.18.1
+
+                  AMENDED AND RESTATED JOINT VENTURE AGREEMENT
+
+     THIS AGREEMENT is made on this 3rd day of December, 2001 by and between:
+
+     a. HUA KEE COMPANY LIMITED, a limited company organized and existing under
+     the laws of the Kingdom of Thailand, with its registered office located at
+     107-109 Suapa Road, Kwaeng Pomprab, Khet Pomprabsattrupai, Bangkok,
+     Thailand ("HK");
+
+     b. FOAMEX ASIA, INC., a corporation organized and existing under the laws
+     of the State of Delaware, U.S.A., with its principal office and place of
+     business at 1000 Columbia Avenue, Linwood, Pennsylvania 19061, U.S.A.
+     ("FAI"); and
+
+     c. The Other Shareholders listed on Schedule 1 attached hereto (the "Other
+     Shareholders").
+
+     WHEREAS:
+
+     A. The parties formed a private limited company incorporated in the Kingdom
+     of Thailand on June 5, 1997, Foamex Asia Co., Ltd. ("FAC").
+
+     B. The parties entered into a Joint Venture Agreement, dated July 8, 1997
+     (the "Original Agreement"), to govern the business of FAC and subsequently
+     entered into an Amendment to the Original Agreement, dated July 15, 1998
+     (the "Amendment").
+
+     C. The parties have agreed to amend and restate the Original Agreement as
+     set forth below to reflect the Amendment and subsequent changes in their
+     relations as shareholders in FAC. As a result of the execution of this
+     Agreement, the Amendment and the Loan Agreement (as hereinafter defined,
+     including the Option Agreement attached as Annex D thereto) shall cease to
+     be of any further force and effect.
+
+     D. The Other Shareholders are Shareholders of the Company and members of
+     the HK Group.
+
+
+                  NOW, THEREFORE, IT IS AGREED as follows:
+
+                                       1
+
+<PAGE>
+
+
+     1. Interpretation.
+
+          1.1 Definitions. In this Agreement the following terms shall, unless
+the context otherwise requires, have the following meanings:
+
+     "Asia" means Thailand, Brunai, China, Taiwan, Korea, Philippines, Malaysia,
+Vietnam, Myanmar, Indonesia, Laos, Cambodia and Singapore.
+
+     "Board" means the board of directors of FAC;
+
+     "Competing Business" means a company which imports, exports, sells,
+markets, trades, manufactures or otherwise deals with polymer foams that are
+manufactured by FAC in any country in Asia in which FAC markets its products
+other than a country in which, as of July 8, 1997, either of the parties
+directly or indirectly holds shares in a company which engages in similar
+activities; provided, however, that the automotive, furniture and bedding
+polymer foam businesses shall not constitute a Competing Business.
+
+     "Completion" means November 30, 2001;
+
+     "control" means the ownership, direct or indirect, of more than fifty
+percent (50%) of the issued and outstanding voting capital shares of a company;
+
+     "FAC" means the limited company, Foamex Asia Co., Ltd., with its registered
+address at 20th Floor, Sathorn City Tower, 175 South Sathorn Road, Tungmahamek,
+Sathorn, Bangkok, 10120, Thailand, which has been incorporated and shall be used
+by the parties pursuant to the terms of this Agreement;
+
+     "FAI Group" means FAI and any company or individual which controls, is
+under common control with, or is controlled by FAI;
+
+     "FAI Equity Note" means the promissory note in the principal amount of
+$1.35 million executed by FAI in favor of HK as set out in Annex 4 hereto;
+
+     "FAI Note" means the promissory note in the principal amount of $4.2
+million executed by FAC in favor of FAI as set out in Annex 5 hereto;
+
+     "FI" means Foamex International Inc., a Delaware corporation;
+
+     "Foamex L.P." means Foamex L.P., a Delaware limited partnership;
+
+     "Group A Director" means a director of FAC nominated by HK pursuant to
+clause 4.1;
+
+     "Group B Director" means a director of FAC nominated by FAI pursuant to
+clause 4.1;
+
+     "Group A Shares" means ordinary shares of FAC held by HK;
+
+                                       2
+
+<PAGE>
+
+
+     "Group B Shares" means ordinary shares of FAC held by FAI;
+
+     "HK Group" means HK, the Other Shareholders and any company or individual
+which controls, is under common control with, or is controlled by HK;
+
+     "HK Note" means the promissory note in the principal amount of $1.8 million
+executed by FAC in favor of HK (as assignee of FAI) as set out in Annex 6
+hereto;
+
+     "Loan Agreement" means the term sheet by and among FAI, HK and FAC as set
+out in Annex 3 hereto.
+
+     "Memorandum and Articles" means the Memorandum of Association and Articles
+of Association, respectively, of FAC as set out in Annex 1A and Annex 2A,
+respectively; and
+
+     "Notes" means the FAI Equity Note, the FAI Note and the HK Note,
+collectively.
+
+     "Parties" means FAI and HK.
+
+     "Technology License Agreement" means the form of Technology License
+Agreement, between Foamex L.P. and FAC attached hereto as Annex 7 together with
+the form of Trademark License Agreement between Foamex L.P. and FAC attached
+hereto as Annex 8.
+
+          1.2 Headings. Headings are inserted for convenience only and shall not
+affect the construction of this Agreement.
+
+     2. Corporate Existence.
+
+          2.1 Structure. On or prior to the date of execution of this Agreement,
+the following events have taken place:
+
+               (a) there shall have been obtained or effected each of the
+consents, amendments, approvals and notifications identified in Section 3.3(i),
+(ii) and (iii) of the Share Purchase Agreement (as hereinafter defined) which,
+in the opinion of Thai counsel, are required to be obtained prior to FAI being
+able to lawfully purchase the Subject Shares (as hereinafter defined);
+
+               (b) pursuant to the Loan Agreement whereby FAC has remitted the
+payment for the outstanding loan made in the amount of Baht 36,366,340 plus
+accrued interest on the loan, net of Thai tax withholding, i.e., Baht 14,955,034
+less withholding tax of Baht 2,243,255, plus subsequent advances to FAC made by
+FAI of US$415,615.43 (which for purposes hereunder is calculated at the exchange
+rate of Baht 44.70=US$1.00, being Baht 18,578,010) to FAI and FAI thereupon has
+remitted, or caused to be remitted, payment for the 5,091,288 Group B Shares to
+FAC of Baht 50,912,880 at Baht 10 par value per share, plus premium of Baht
+18,986,504;
+
+                                       3
+
+<PAGE>
+
+
+               (c) FAC has executed and delivered to FAI the HK Note and the FAI
+Note;
+
+               (d) FAI and HK have entered into the Share Purchase Agreement,
+dated September 7, 2001, (the "Share Purchase Agreement"), pursuant to which FAI
+shall purchase from HK 2,205,000 Group A Shares (the "Subject Shares"), which
+shall be converted into 2,205,000 Group B Shares in exchange for (i) the
+assignment of the HK Note, (ii) delivery of the FAI Equity Note and (iii)
+certain contingency payments set forth in the Share Purchase Agreement;
+
+               (e) Advances made to FAC and guaranteed by HK in the aggregate
+amount of Baht 15,000,000 and any FAI Advances in excess of $6.0 million shall
+have been paid in cash by FAC to HK or its designee and FAI, respectively;
+
+               (f) the Articles of Association as set out in Annex 2A have been
+amended as set out in Annex 2B by passing a special resolution at two (2)
+successive shareholders meetings in accordance with Thai law; and
+
+               (g) the Technology License Agreement has been executed.
+
+          2.2 Name. Subject to the provisions of the Technology License
+Agreement, the name of FAC shall be "Foamex Asia Co., Ltd."
+
+     3. Capital; Further Finance.
+
+          3.1 Share Capital. FAC shall, in accordance with and following
+completion of the events and transactions referred to in clause 2 and the
+subscription by FAI of 5,091,288 newly issued shares of FAC, having a total par
+value of Baht 50,912,880 newly issued shares of FAC (Baht 10 per share) with a
+premium payable on said newly issued shares of Baht 18,986,504, have registered
+and issued, and paid up, share capital of Baht 105,000,000, consisting of a
+total of 10,500,000 shares, Baht 10 par value per share, with 3,150,000 Group A
+Shares owned by HK and the Other Shareholders, and 7,350,000 Group B Shares
+owned by FAI.
+
+          3.2 Increase in Share Capital. The share capital of FAC may from time
+to time be increased by the issuance of ordinary shares by such sum as the
+parties shall mutually agree but so that such increased share capital shall be
+held in the proportions of 30% by HK (or other members of the HK Group), being
+Group A Shares and 70% by FAI (or other member of the FAI Group), being Group B
+Shares.
+
+          3.3 Further Finance.
+
+               (a) If, after the date of this Agreement, FAC shall in the
+opinion of the Board require further finance, FAC shall first approach its own
+bankers. The parties shall not be obliged to provide guarantees for FAC's
+liabilities in respect of such finance.
+
+                                       4
+
+<PAGE>
+
+               (b) If finance cannot be obtained from FAC's own bankers, neither
+party shall be obliged to provide any such further finance to FAC.
+
+          3.4 Party Ceasing as Shareholder. Upon either party ceasing to be a
+shareholder in FAC, the other party shall cause any further finance provided by
+that party under clause 3.3 to be repaid to it and that it shall be relieved of
+its obligations under any guarantees provided under clause 3.3 (provided that,
+notwithstanding the termination of this Agreement, a party ceasing to be a
+shareholder shall remain liable under any such guarantees for any claims arising
+in respect of any default by FAC or the subsidiary in question occurring during
+the period during which that party was a shareholder in FAC).
+
+     4. Directors and Management.
+
+          4.1 Board of Directors. The business and affairs of FAC shall (subject
+to the Reserved Shareholder Matters set out in clause 5) be managed by the Board
+of FAC. The board shall consist of six (6) persons of which:
+
+               (a) HK shall be entitled to nominate three (3) directors (the
+"Group A Nominees" and, after election, the "Group A Directors") (and, at the
+request of HK, the shareholders shall remove any directors so nominated from
+office and to nominate another in the place of any director so removed);
+
+               (b) FAI shall be entitled to nominate three (3) directors (the
+"Group B Nominees" and, after election, the "Group B Directors") (and, at the
+request of FAI, the shareholders shall remove any director so nominated from
+office and to nominate another in the place of any director so removed);
+
+               (c) the Board shall consist, at all times, of an equal number of
+Group A Directors and Group B Directors;
+
+               (d) Accordingly, if the number of directors is increased or
+decreased, it shall be done in pairs, one (1) director being a Group A Director
+and the other director being a Group B Director.
+
+               (e) each of HK and FAI agree to vote their shares in favor of the
+Group A Nominees and the Group B Nominees.
+
+               (f) the initial Group A Directors, effective as soon as
+practicable after the date hereof, shall be Dr. Pichit Nithivasin (Chairman),
+Mr. Stephen Scibelli and Mr. Pichai and the initial Group B Directors, effective
+as soon as practicable after the date hereof, shall be Mr. John Tunney (Vice
+Chairman), Mr. Robert Hay and Mr. John Televantos.
+
+          4.2 Appointments and Removals. Every nomination and request for
+removal by FAI or HK of a director pursuant to its entitlement shall be notified
+in writing to the other party. FAI and HK shall each use their respective votes
+
+                                       5
+
+<PAGE>
+
+in FAC to ensure that the Board of FAC is constituted by persons appointed in
+the manner set out in this Agreement.
+
+          4.3 Meetings. The Board shall hold at least three regular meetings per
+year, two in Thailand and one in New York City.
+
+          4.4 Quorum. The quorum for the transaction of business at any meeting
+of the Board shall be at least two (2) Group A Directors (or his proxy) and at
+least two (2) Group B Directors (or his proxy) present in person or by telephone
+at the time when the relevant business is transacted.
+
+          4.5 Voting. At any meeting of the Board, each Director shall be
+entitled to one (1) vote. Any director who is absent from any meeting may
+nominate (and confirm in writing) any other director to act as his proxy and to
+vote in place at the meeting.
+
+          4.6 Notice and Agenda. At least thirty (30) days written notice shall
+be given to each of the members of the Board of any meeting of the Board,
+provided always that a shorter period of notice may be given with the written
+approval of at least two (2) Group A Directors and at least two (2) Group B
+Directors. Any such notice shall contain, inter alia, an agenda identifying in
+reasonable detail the matters to be discussed at the meeting and shall be
+accompanied by copies of any relevant papers to be discussed at the meeting.
+
+          4.7 Decisions of Board.
+
+               (a) FAI, HK and the Other Shareholders agree to accept as binding
+upon them any decision affecting FAC, and/or the relationship of FAC with FAI or
+HK (as the case may be), duly taken by the Board of FAC in which a majority of
+the FAI and HK nominated directors (or their alternates) have concurred except
+that the Reserved Shareholder Matters covered by clause 5 shall require the
+prior approval of the parties in accordance with clause 5.3.
+
+               (b) In the event of a deadlock among the directors of the Board
+regarding any proposed capital expenditure by FAC, Mr. Marshall Cogan, for so
+long as he is the Chairman of FI, shall be consulted and his decision regarding
+such proposed expenditure shall be the determination of the entire Board and, if
+such matter is also a Reserved Shareholder Matter, both HK and FAI shall vote
+their shares in accordance with such decision.
+
+          4.8 Chairman, President and Chief Executive Officer ("CEO"). The
+parties confirm that as of the date hereof the Chairman of FAC is Dr. Pichit
+Nithivasin and the President and CEO of FAC is Mr. Stephen P. Scibelli, Jr. The
+Chairman and CEO shall be under the direction of the Board. The Chairman shall
+have responsibility for FAC's conformity with Thai governmental policies and
+procedures, financial accounting and reporting, and domestic Thai banking
+relationships. The CEO shall have responsibility for the day to day management
+of the operations, other financial matters and property of FAC. The CEO shall
+have sole authority in matters relating to operations, sales, marketing,
+
+                                       6
+
+<PAGE>
+
+customer relations and technology. Matters relating to senior staff such as
+hiring, disengaging and remuneration shall be approved by the Chairman and CEO.
+
+          4.9 Authorization to Bind FAC. The individual signature of either Mr.
+Stephen Scibelli, President and CEO or Dr. Pichit Nithivasin, Chairman, is
+authorized to bind FAC. For any juristic act in excess of Baht 5,000,000, the
+prior approval of two (2) of the Group A Directors together with the written
+approval of two (2) of the Group B Directors shall be required.
+
+          4.10 Budget. The management of FAC shall present to the Board for
+approval an operating budget (together with a supporting business plan) and a
+capital budget no later than the first week of December of each year for the
+succeeding year in such form as may be reasonably requested by the Board.
+
+     5. Reserved Shareholder Matters.
+
+          5.1 Matters Requiring Approval of the Parties. The following matters
+("Reserved Shareholder Matters") shall require the prior approval of FAI and HK:
+
+               (a) any sale of the whole or any substantial part of FAC;
+
+               (b) any borrowing by FAC in excess of the Baht equivalent of
+US$100,000 (or such other limit as the parties shall from time to time agree);
+
+               (c) approval of the annual budget and operating plan of FAC;
+
+               (d) any expansion of the marketing territory of FAC beyond Asia;
+
+               (e) any repayment by FAC of any loan prior to its maturity;
+
+               (f) the formation of any subsidiary of FAC;
+
+               (g) the purchase by FAC of the shares or other securities, stock
+or debentures of any other company;
+
+               (h) the appointment (and removal) and the amendment of the terms
+of reference of the Chairman or CEO;
+
+               (i) the appointment (and removal) of the auditors of FAC;
+provided, however, that, upon FAI's request, such auditors shall be the same
+
+                                       7
+
+<PAGE>
+
+independent firm of certified public accountants (registered auditors) of
+internationally recognized standing as retained by FI to audit its financial
+statements;
+
+               (j) the entry into of any contract or commitment by FAC having a
+value or likely to involve expenditure by FAC in excess of the Baht equivalent
+of US$100,000 (or such other limit as the parties shall from time to time
+agree), provided, however, that FAI and HK agree to vote their shares in favor
+of any action proposed by the Board pursuant to Section 4.7(b); and
+
+               (k) any change in the number of directors authorized to bind FAC.
+
+          5.2 Shareholder Resolutions.
+
+               (a) The parties acknowledge that under the Civil and Commercial
+Code of Thailand, the following matters require a resolution that has been
+passed at a general meeting of the shareholders by a vote of at least
+seventy-five percent (75%) of all shares outstanding:
+
+                    (i) Investment in any other company or joint venture,
+exceeding Baht 5,000,000.
+
+                    (ii) Borrowing money, or guaranteeing liabilities in any
+amount exceeding the paid-in capital of the Company.
+
+                    (iii) Transfer of any assets of the Company except in the
+normal course of Business.
+
+               (b) The parties acknowledge that under the Civil and Commercial
+Code of Thailand, the following matters require a special resolution of the
+shareholders of FAC, which includes, inter alia, the requirement that the
+resolution has been passed by seventy-five percent (75%) of the votes cast at a
+general shareholders meeting, and sixty-six and two-thirds percent (66 2/3%) of
+the votes at a subsequent general meeting:
+
+                    (i) amendment of the Memorandum or Articles;
+
+                    (ii) increase or reduction of FAC's registered share
+capital;
+
+                    (iii) allotting new shares as fully or party paid-up
+otherwise than in money;
+
+                    (iv) amalgamation of FAC with another company; and
+
+                    (v) dissolution or liquidation of FAC.
+
+                                       8
+
+<PAGE>
+
+          5.3 Method of Approval.
+
+               (a) Shareholders or their representatives representing at least
+seventy-five percent (75%) of the Company's shares shall constitute a quorum for
+all general meetings of the shareholders.
+
+               (b) Each Shareholder shall have one vote for each share of which
+he is the holder.
+
+               (c) Approval for the purposes of clause 5.1 may be given by FAI
+and HK either in writing or by unanimous resolution at a general meeting of the
+shareholders of FAC or by written resolution.
+
+     6. Transfer Of Shares.
+
+          6.1 Transfer Notice. Each party hereby undertakes that, if at any time
+any member of its Group shall desire to sell or otherwise dispose of any of its
+shares in FAC other than to another member of the HK Group or another member of
+the FAI Group, as the case may be, then:
+
+               (a) the relevant party (the "Selling Party") shall give notice in
+writing to the other party (the "Continuing Party") of such desire and of its
+proposed price (in this clause referred to as a "Transfer Notice");
+
+               (b) within thirty (30) days after receipt of the Transfer Notice,
+the Continuing Party shall have the right by notice in writing (a "Purchase
+Notice") to inform the Selling Party that it wishes to purchase the shares
+included in the Transfer Notice (the "Sale Shares") at such price as may be
+specified in the Transfer Notice;
+
+               (c) if the Continuing Party so serves a Purchase Notice, the sale
+and purchase of the Sale Shares shall be completed accordingly; if not, neither
+the Selling Party nor any other member of its Group shall thereafter be entitled
+to sell the Sale Shares but shall be entitled to request an independent,
+internationally recognized banker or other expert customarily engaged in company
+valuation mutually agreed upon by HK and FAI (acting as experts and not as
+arbitrators) to determine the price (herein called the "Fair Price")
+representing in their opinion a fair selling value of the Sale Shares as between
+a willing buyer and a willing seller, provided, however, that if HK and FAI
+cannot agree upon the party to determine the Fair Price, each of HK and FAI
+shall select an otherwise qualified party and the two parties selected shall
+select a third party which party shall determine the Fair Price.
+
+               (d) upon the Fair Price being so determined, the Selling Party
+may give to the Continuing Party a further notice in writing (herein called a
+"Second Transfer Notice") offering to sell the Sale Shares at the Fair Price;
+
+               (e) if the Continuing Party serves notice within thirty (30) days
+of receipt of the Second Transfer Notice accepting such offer, the sale and
+
+                                       9
+
+<PAGE>
+
+purchase of the Sale Shares shall be completed accordingly; if not, the Selling
+Party or any other member of its Group shall thereafter be entitled to sell the
+Sale shares at not less than the Fair Price to a third party purchaser (approved
+by the Continuing Party in writing but such approval shall not be unreasonably
+withheld) and who shall thereupon be regarded for purposes of this Agreement as
+a member of the same Group as the Selling Party) within a period of sixty (60)
+days but not otherwise; and
+
+               (f) if any party is prevented or prohibited from acquiring any
+shares because of any legal requirement, that party shall have the right to
+nominate either (i) another person(s) from that party's Group, who is not
+prohibited from purchasing such shares to acquire such shares, and such shares
+shall be sold to such person(s) or (ii) a person(s) who is not a member of a
+party's Group, in which case, the other party shall have no right to approve or
+object to any such person unless the other party has demonstrated that a
+commercial or other conflict would arise were such person to be allowed to
+acquire such shares.
+
+          6.2 Transfers to Members of its Group.
+
+               (a) Each party shall have the right, upon thirty (30) days
+advance written notice to the other party, to transfer all or part of its shares
+to one or more members of its Group, provided that the other party has no
+reasonable objection to the transfer.
+
+               (b) The member of the FAI Group, or member of the HK Group, as
+the case may be, shall, in writing, agree to re-transfer such shares to the
+transferring party without further action on the date on which the transferee
+ceases to be a member of that Group.
+
+               (c) The parties intend that all transfers within Groups and to
+parties outside Groups be done in a manner which will preserve the foreign vs.
+Thai shareholding structure.
+
+          6.3 No Dealings in Beneficial Interest. Neither FAI nor HK (nor any
+member of its respective Group) shall deal or attempt to deal with the
+beneficial interest in any share of FAC except by transfer of its shareholding
+permitted in accordance with this clause 6 or the transfer of shares (or
+interests therein) by FAI to Stephen Scibelli or John Tunney or as permitted by
+paragraph 7 of the Articles of Association.
+
+          6.4 Undertaking by Transferee. No transfer of shares of FAC shall be
+registered or become effective unless the transferee shall first have entered
+into an agreement undertaking to be bound by this Agreement (including this
+clause 6) to the same extent as the transferor would have been bound had the
+transfer not been effected.
+
+          6.5 Minimum Period. Neither party (nor any member of the HK Group or
+any member of the FAI Group, as the case may be) shall be entitled to serve a
+Transfer Notice under clause 6.1 prior to five (5) years from Completion.
+
+                                       10
+
+<PAGE>
+
+          6.6 Shareholder Ceasing to be a Member of the Group. Each of FAI and
+HK respectively undertakes to procure that, if any member of its Group holding
+shares in FAC ceases at any time to be a member of that party, that member
+shall, prior to so ceasing, have transferred all its shares in FAC held by it at
+the time in question to the relevant party (or another member of its Group).
+
+     7. Confidentiality.
+
+          7.1 Confidentiality. Each of the parties at all times shall use all
+reasonable endeavors to keep confidential (and to ensure that its employees and
+agents shall keep confidential) any confidential information which it may
+acquire in relation to FAC and its subsidiaries, if any, or in relation to the
+clients, business or affairs of the other party (or any member of its respective
+Group) and shall not use or disclose such information except with the consent of
+the other party or, in the case of information relating to FAC or one of its
+subsidiaries, if any, in the ordinary course of advancing the business of FAC.
+The restriction in this clause 7.1 shall not apply to any information:
+
+               (a) which is publicly available or becomes publicly available
+through no act of the first mentioned party;
+
+               (b) which was in the possession of that party prior to its
+disclosure;
+
+               (c) which is disclosed to that party by a third party which did
+not acquire the information under an obligation of confidentiality;
+
+               (d) which is independently acquired by that party as the result
+of work carried out by an employee to whom no disclosure of such information had
+been made; or
+
+               (e) which is disclosed in accordance with the requirements of
+law, any stock exchange regulation or any binding judgment, order or requirement
+of any court or other competent authority.
+
+          7.2 Employees, Agents, etc. Each party shall use all of its respective
+powers to procure (so far as it is able) that FAC and its subsidiaries, if any,
+shall use all reasonable endeavors to ensure that the officers, employees and
+agents of each of them shall observe a similar obligation of confidence in favor
+of the parties to this Agreement.
+
+          7.3 Survival After Termination. The provisions of this clause 7 shall
+survive any termination of this Agreement.
+
+     8. Restrictions On The Parties. Neither FAI nor HK nor any member of its
+respective Group (other than FAC) shall (either solely or jointly with any other
+person, firm or company and whether directly or indirectly) carry on or be
+engaged in or interested (except as the holder for investment of securities
+dealt in on a stock exchange and not exceeding five percent (5%) in nominal
+value of the securities of any class) in any Competing Business during the
+
+                                       11
+
+<PAGE>
+
+period of this Agreement; provided, however, that the foregoing shall not
+restrict any member of the FAI Group from selling polyurethane foam and related
+products to any customer (a) located outside of Asia, (b) not in competition
+with FAC in a specific application market in Asia as of September 1, 2001 or (c)
+that FAC is unwilling or unable to supply provided that it has a reasonable
+opportunity to do so.
+
+     9. Supremacy of This Agreement.
+
+               (a) FAI and HK shall each use their respective votes in FAC and
+make reasonable efforts (i) to ensure that this Agreement is duly performed and
+(ii) to ensure that the provisions of the Memorandum and Articles are not
+infringed (save that, in the event of any conflict between this Agreement and
+the Memorandum and the Articles, this Agreement shall prevail as between the
+parties).
+
+               (b) FAI and HK shall cause their nominated directors on the Board
+to vote at Board meetings and shall also exercise or cause to be exercised their
+voting rights with respect to the shares at general meetings of the shareholders
+to effect the matters provided for under this Agreement concerning directors and
+also to implement all the rights and obligations of the parties and FAC under
+this Agreement.
+
+     10. Costs. Costs of FAI and HK incurred as of 1 February 1997 in connection
+with the establishment of FAC and the costs of the incorporation of FAC shall be
+borne and paid by FAC. FAC shall reimburse FAI or HK, as the case may be, who,
+after having obtained the prior written approval of the other party, being FAI
+or HK, as the case may be, has advanced, or incurred, costs for the
+incorporation of FAC. All other costs of each party as from 1 February 1997
+shall be solely for the account of that party except that FAC shall pay all
+reasonable legal fees and expenses incurred by HK and Stephen Scibelli in
+connection with this Agreement.
+
+     11. No Partnership or Agency. Nothing in this Agreement shall be deemed to
+constitute a partnership between the parties or constitute any party the agent
+of the other parties for any purpose or entitle any party to commit or bind any
+other party (or any member of its respective Group) in any manner.
+
+     12. Entire Agreement. This Agreement, together with that certain letter
+agreement of even date herewith among FAI, HK, FAC, FI and Foamex L.P., sets out
+the entire agreement and understanding between the parties and shall supersede
+all previous communications, either oral or written, between the parties with
+respect to the subject matter hereof including the Memorandum of Understanding,
+dated June 20, 2001, between FAI and HK.
+
+     13. Amendments. This Agreement may be amended only by an instrument in
+writing signed by or on behalf of each of the parties. No amendment to this
+Agreement which is purported to have been made verbally shall be valid.
+
+     14. Mutual Consultation And Goodwill. The parties confirm their intention
+to promote the best interests of FAC and to consult fully on all matters
+materially affecting the development of the business of FAC. Each party shall
+
+                                      12
+
+<PAGE>
+
+act in good faith towards the other party in order to promote the success of
+FAC.
+
+     15. Notices. Any notice pursuant to this Agreement shall be in writing
+signed by (or by some person duly authorized by) the person giving it and shall
+be deemed effectively served when delivered personally or when sent, if given by
+facsimile transmission (which is confirmed by registered mail notice on the same
+or next business day as the facsimile transmission) or if sent by registered
+post (airmail if the recipient is in a country other than the place of remitting
+the notice) ten (10) days after having been deposited in the mail with
+sufficient postage affixed to the address of the other party as follows (or to
+such other address as shall have been duly notified in accordance with this
+clause).
+
+                                    if to HK or the Other Shareholders:
+
+                                    Hua Kee Company Limited
+                                    c/o Polymers Marketing Co., Ltd.
+                                    20th Floor, Sathorn City Tower
+                                    175 South Sathorn Road
+                                    Bangkok, Thailand 10120
+                                    Fax:  (662) 679-6311
+                                    Attention:  Dr. Pichit Nithivasin
+
+                                    if to FAI:
+
+                                    Foamex Asia, Inc.
+                                    1000 Columbia Avenue
+                                    Linwood, Pennsylvania 19061
+                                    U.S.A.
+                                    Fax:  1 610 859-3085
+                                    Attention:  Chief Financial Officer
+
+                                    with copies to:
+
+                                    Foamex International Inc.
+                                    1000 Columbia Avenue
+                                    Linwood, Pennsylvania 19061
+                                    U.S.A.
+                                    Fax:  1 610 859-3085
+                                    Attention:  General Counsel
+
+     16. Invalidity. If any of the provisions of this Agreement is or becomes
+invalid, illegal or unenforceable, the validity, legality or enforceability of
+the remaining provisions shall not in any way be affected or impaired. The
+parties shall negotiate in good faith in order to agree the terms of a mutually
+satisfactory provision, achieving as near as possible the same commercial
+effect, to be substituted for the provision found to be void or unenforceable.
+
+                                       13
+
+<PAGE>
+
+     17. Assignment. None of the parties (nor any member of its respective
+Group) shall be entitled to assign this Agreement or any of its rights or
+obligations hereunder except to a transferee of that party's shares in FAC in
+accordance with clause 6 of this Agreement or as permitted by paragraph 7 of the
+Articles of Association.
+
+     18. Authority. Each of the undersigned represents and warrants that he, by
+his signature below, is duly authorized to execute and deliver this Agreement
+and the other documents contemplated hereby on behalf of the entity indicated.
+
+     19. Governing Law. This Agreement shall be governed by, and construed in
+accordance with, the laws of the Kingdom of Thailand.
+
+
+                                       14
+<PAGE>
+
+
+     AS WITNESS this Agreement has been executed the day and year first before
+written.
+
+                                        HUA KEE COMPANY LIMITED
+
+
+                                        By:  /s/ Dr. Pichit Nithiwasin
+                                             Name:  Dr. Pichit Nithiwasin
+                                             Title: Director
+
+
+                                        FOAMEX ASIA, INC.
+
+
+
+                                        By: /s/ George L. Karpinksi
+                                            ----------------------------------
+                                            Name: George L. Karpinski
+                                            Title: Vice President
+
+
+                                        By: /s/ Pichit Lerttamrab
+                                            ----------------------------------
+                                            Name: Pichit Lerttamrab
+
+
+                                        By: /s/ Supachorn Nithiwasin
+                                            ----------------------------------
+                                            Name: Supachorn Nithiwasin
+
+
+
+                                        By: /s/ Orla Nithiwasin
+                                            ----------------------------------
+                                            Name: Orla Nithiwasin
+
+
+
+                                        By: /s/ Pichit Nithiwasin
+                                            ----------------------------------
+                                            Name: Pichit Nithiwasin
+
+
+
+                                        NITHI & ASSOCIATES CO., LTD.
+
+                                        By: /s/ Pichit Nithiwasin
+                                            ----------------------------------
+                                            Name: Pichit Nithiwasin
+
+
+                                       15
+
+</TEXT>
+</DOCUMENT>

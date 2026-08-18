@@ -1,0 +1,281 @@
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>4
+<FILENAME>c69040ex10-2.txt
+<DESCRIPTION>AMENDMENT DATED APRIL 1, 2002
+<TEXT>
+<PAGE>
+                                                                    EXHIBIT 10.2
+
+
+                                 FIRST AMENDMENT
+                                     TO THE
+                                CONTRACT BETWEEN
+                  THE OFFICE OF MEDICAID POLICY AND PLANNING,
+             THE OFFICE OF THE CHILDREN'S HEALTH INSURANCE PROGRAM
+                                      AND
+                   COORDINATED CARE CORPORATION INDIANA, INC.
+
+         This FIRST AMENDMENT to the above-referenced Contract is made and
+entered into by and between the State of Indiana [hereinafter "State" of "State
+of Indiana"], through the Office of Medicaid Policy and Planning and Office of
+the Children's Health Insurance Program [hereinafter called "Office"], of the
+Indiana Family and Social Services Administration, 402 West Washington Street,
+Room W382, Indianapolis, Indiana 46204, and Coordinated Care Corporation
+Indiana, Inc., doing business as Managed Health Services, 950 North Meridian,
+Suite 200, Indianapolis, Indiana., (hereinafter "Contractor").
+
+         WHEREAS, the State of Indiana and Contractor have previously entered
+into a contract for a term beginning January 1, 2001 and ending December 31,
+2002, [hereinafter "the original contract"] for services to arrange for and to
+administer a risk-based managed care (RBMC) program for certain Hoosier
+Healthwise enrollees in packages A, B and C as procured through Broad Agency
+Announcement (BAA) 01-28;
+
+         WHEREAS, the parties desire to further extend the duties to be
+performed by the Contractor due to mandatory risk-based managed care (RBMC)
+enrollment in certain counties, pursuant to IC 12-15-12-14;
+
+         NOW THEREFORE, the parties enter into this FIRST AMENDMENT for the
+consideration set out below, all of which is deemed to be good and sufficient
+consideration in order to make this FIRST AMENDMENT a binding legal instrument.
+
+    1.   The parties hereby ratify and incorporate herein each term and
+         condition set out in the original contract, as well as all written
+         matters incorporated therein except as specifically provided for by
+         this FIRST AMENDMENT.
+
+    2.   The term of this amendment is from April 1, 2002, through December 31,
+         2002, subject to the termination and/or extension provisions as
+         provided for under the original contract.
+
+    3.   The parties agree that the BAA is amended to add the following
+         additional Contractor Duties:
+
+         A.       Section 3.6.1.3 of the BAA is amended to require the
+                  Contractor to submit the "Mandatory RBMC Transition Report"
+                  (Attachment A) according the schedule set out in the "2002
+                  Hoosier Healthwise MCO Reporting Calendar for Mandatory RBMC
+                  Transition Report" (Attachment B), unless the MCO has received
+                  written notification from OMPP that the report, or certain
+                  data elements in the report, is/are no longer required or may
+                  be reported less frequently.
+
+
+
+MCO Contract, First Amendment            Coordinated Care Corp. of Indiana, Inc.
+
+
+                                   Page 1 of 5
+
+<PAGE>
+
+
+
+         B.       The parties agree that Section 3.6.3 of the BAA is amended to
+                  require the Contractor to obtain written approval of the State
+                  prior to closing its provider networks, which shall not be
+                  unreasonably withheld or delayed.
+
+         C.       The parties agree that Sections 3.6.6 and 3.6.7.3 of the BAA
+                  are amended to require the Contractor to maintain a monthly
+                  telephone abandonment rate equal to or less than five percent
+                  of calls received each by the member helpline and provider
+                  helpline. The parties agree that BAA Section 3.16 is amended
+                  to add a new section 3.16.8 to read as follows:
+
+                           Section 3.16.8 The MCO will comply with the call
+                           abandonment requirements for the member and provider
+                           helplines described in Sections 3.6.6. and 3.6.7.3 of
+                           this BAA. Because actual damages caused by
+                           non-compliance are not subject to exact
+                           determination, the State will assess the MCO, as
+                           liquidated damages and not as a penalty, (a) two
+                           hundred dollars ($200.00) for each business day the
+                           MCO fails to submit required documentation to provide
+                           evidence of compliance with this requirement, or (b)
+                           two thousand dollars ($2000.00) for each month the
+                           MCO fails to meet the requirement after 2 consecutive
+                           months of non-compliance on the member helpline or
+                           (c) two thousand dollars ($2000.00) for each month
+                           the MCO fails to meet the requirement after 2
+                           consecutive months of non-compliance on the provider
+                           helpline.
+
+         D.       The parties agree that Section 3.5.3 of the BAA is amended to
+                  allow OMPP to change, at OMPP's discretion, the frequency of
+                  the MCO Enrollment Rosters generated by OMPP's fiscal agent to
+                  once per month, upon reasonable and adequate prior written
+                  notice to the Contractor.
+
+         E.       The parties agree that Section 3.6.3 of the BAA is amended to
+                  require the Contractor to develop and adhere to a plan for
+                  identifying and serving people with special needs. The plan
+                  must satisfy any applicable federal requirements.
+
+    4.   The parties agree that, in consideration of the services to be
+         performed by the Contractor as delineated in this First Amendment and
+         the original contract, the Offices' will adjust the capitation rates,
+         as contained in the Offices' capitation payment listing, as the
+         counties transition to mandatory MCO enrollment. The rate adjustment
+         factors shown in the following table will be applied to the base rates
+         for the entire region upon implementation of mandatory enrollment for
+         the specified county or county combinations. The base rates for the
+         region are the rates in effect on January 1, 2002, without any
+         adjustment for mandatory enrollment.
+
+<Table>
+<Caption>
+REGION                  COUNTY                PACKAGE A/B               PACKAGE C
+------                  ------                -----------               ---------
+<S>                  <C>                      <C>                       <C>
+North                   Allen                    0.9%                      1.7%
+North                  Elkhart                   0.7%                      0.9%
+North                St. Joseph                  1.4%                      1.6%
+North                   Lake                     2.1%                      2.1%
+</Table>
+
+
+MCO Contract, First Amendment            Coordinated Care Corp. of Indiana, Inc.
+
+
+                                   Page 2 of 5
+<PAGE>
+
+
+<Table>
+<Caption>
+REGION                  COUNTY                PACKAGE A/B               PACKAGE C
+------                  ------                -----------               ---------
+<S>        <C>                                <C>                       <C>
+North               Allen/Elkhart                1.4%                      2.2%
+North             Allen/St. Joseph               1.9%                      2.5%
+North                Allen/Lake                  2.4%                      2.8%
+North            Elkhart/St. Joseph              1.8%                      2.1%
+North               Elkhart/Lake                 2.6%                      2.8%
+North              Lake/St. Joseph               2.6%                      2.8%
+North         Allen/Elkhart/ St. Joseph          2.2%                      2.8%
+North            Allen/Elkhart/ Lake             2.7%                      3.1%
+North          Elkhart/St. Joseph/Lake           2.8%                      3.0%
+North      Allen/Elkhart/St. Joseph/Lake         3.0%                      3.4%
+Central               Marion                     1.8%                      2.1%
+Central              Hamilton                    0.3%                      0.6%
+Central          Marion/Hamilton                 1.9%                      2.3%
+South               Vanderburgh                  4.1%                      3.7%
+</Table>
+
+    5.   The Contractor agrees to provide OMPP with prior written notice at
+         least ninety (90) days in advance of their inability to maintain a
+         sufficient Primary Medical Provider (PMP) network in any of the
+         counties where mandatory RBMC has been or will be implemented,
+         including Marion, Allen, Elkhart, St. Joseph, Lake, Hamilton, and
+         Vanderburgh Counties, such that the program would not be able to
+         maintain the appropriate member choice of two (2) MCOs, pursuant to
+         federal requirements.
+
+    6.   The Contractor agrees that agreements with PMPs in mandatory RBMC
+         counties shall comply with the following requirements:
+
+         A.       Any PMP agreements entered into on or after April 1, 2002,
+                  shall include a provision allowing the PMP to terminate the
+                  agreement for any reason upon written notice to the
+                  Contractor. The Contractor may require that the physician
+                  provide said notice to the Contractor up to ninety (90) days
+                  prior to termination.
+
+         B.       Any PMP agreements entered into before April 1, 2002, in which
+                  the initial term, as defined in the agreement, will expire on
+                  or after June 30, 2002, will be amended by July 1, 2002, to
+                  allow the PMP to terminate the agreement for any reason upon
+                  written notice to the Contractor. The Contractor may require
+                  that the physician provide said notice to the Contractor up to
+                  ninety (90) days prior to termination. The Contractor agrees
+                  to notify these PMPs, by April 30, 2002, that their agreements
+                  will be amended and that they may terminate the agreement upon
+                  ninety (90) days written notice.
+
+         C.       The Contractor agrees that PMP agreements in which the initial
+                  term has expired, or will expire before July 1, 2002, may be
+                  terminated by the PMP for any reason upon one hundred twenty
+                  (120) days written notice to the Contractor. The Contractor
+                  agrees to notify the PMPs whose initial agreement term has
+                  expired that they may terminate the agreement upon one hundred
+                  twenty (120) days written notice. If an agreement described in
+                  this paragraph is amended for any reason, the agreement shall
+                  include a provision allowing the PMP to terminate the
+                  agreement for any reason upon written
+
+
+MCO Contract, First Amendment            Coordinated Care Corp. of Indiana, Inc.
+
+
+                                   Page 3 of 5
+<PAGE>
+
+
+                  notice to the Contractor. The Contractor may require that the
+                  physician provide said notice to the Contractor up to ninety
+                  (90) days prior to termination.
+
+    7.   The parties agree that this First Amendment has been duly prepared and
+         executed pursuant to Section VII.B. of the original contract.
+
+    8.   The undersigned attests, subject to the penalties for perjury, that he
+         is the contracting party, or that he is the representative, agent,
+         member or officer of the contracting party, that he has not, nor has
+         any other member employee, representative, agent or officer of the
+         firm, company, corporation or partnership represented by him, directly
+         or indirectly, to the best of his knowledge, entered into or offered to
+         enter into any combination, collusion or agreement to receive or pay,
+         and that he has not received or paid, any sum of money or other
+         consideration for the execution of this agreement other than that which
+         appears upon the face of the agreement.
+
+
+
+MCO Contract, First Amendment            Coordinated Care Corp. of Indiana, Inc.
+
+                                   Page 4 of 5
+<PAGE>
+WHEREOF, the parties have executed this Contract.
+
+For the Contractor:                             For the State of Indiana:
+
+/s/ Rita Johnson-Mills                          /s/ Melanie M. Bella
+------------------------------                  --------------------------------
+Rita Johnson-Mills                              Melanie M. Bella
+Plan President and CEO                          Assistant Secretary
+Coordinated Care Corporation Indiana, Inc.      Office of Medicaid Policy and
+                                                Planning
+
+Date: 4-5-02                                    Date: 4-8-02
+    -----------                                      -----------
+
+                                                Kathryn H. Moses, Director
+APPROVED:                                       Office of Children's Health
+                                                Insurance Program
+
+Betty Cockrum, Director                         Date:
+State Budget Agency                                  -----------
+
+Date:
+    -----------
+
+
+APPROVED AS TO FORM AND                         APPROVED:
+LEGALITY:
+
+------------------------------                  --------------------------------
+Stephen Carter                                  Glenn R. Lawrence Commissioner
+Attorney General of Indiana                     Department of Administration
+
+Date:                                           Date:
+    -----------                                      -----------
+
+
+MCO Contract, First Amendment            Coordinated Care Corp. of Indiana, Inc.
+
+                                   Page 5 of 5
+
+</TEXT>
+</DOCUMENT>

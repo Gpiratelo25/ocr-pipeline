@@ -1,0 +1,60 @@
+<DOCUMENT>
+<TYPE>EX-10.50
+<SEQUENCE>4
+<FILENAME>f90751exv10w50.txt
+<DESCRIPTION>EXHIBIT 10.50
+<TEXT>
+<PAGE>
+
+                                                                   Exhibit 10.50
+
+                                AMENDMENT NO. ONE
+                                       TO
+                      MANUFACTURING AND PURCHASE AGREEMENT
+                                     BETWEEN
+                               BROCADE AND HON HAI
+
+This Amendment Number One ("Amendment") to the Manufacturing and Purchase
+Agreement by and between Brocade Communications Systems, Inc. ("Brocade"), and
+Hon Hai Precision Industry Co., Ltd. ("Hon Hai"), dated February 27, 2003
+("Agreement") is entered into as of March __, 2003.
+
+In consideration of the mutual covenants and promises set forth herein and for
+other good and valuable consideration, the receipt of which both parties hereby
+acknowledge, Brocade and Hon Hai agree as follows:
+
+    1.   Section 8.3. The first two sentences of Section 8.3 are deleted and
+         replaced with the following:
+
+                  Hon Hai will submit invoice(s) periodically to Brocade upon
+                  shipment of Product(s) for which the recipient takes delivery
+                  within the United States. (All Products for which the
+                  recipient takes delivery outside of the United States shall be
+                  governed by the agreement entered into by and between Brocade
+                  Switzerland SarL and Hon Hai, dated March __, 2003.)
+
+    2.   Section 19. Section 19 is deleted in its entirety and replaced with the
+         following:
+
+                  [THIS SECTION INTENTIONALLY LEFT BLANK]
+
+    3.   No Other Changes. Except as specified in this Amendment, the Agreement
+         remains unchanged and in full force and effect.
+
+    4.   Counterparts. This Amendment may be executed in two or more
+         counterparts, all of which, taken together, shall be regarded as one
+         and the same instrument.
+
+BROCADE COMMUNICATIONS SYSTEMS INC.          HON HAI
+
+Signature:____________________________       Signature:_________________________
+
+Name:     ____________________________       Name:     _________________________
+
+Title:    ____________________________       Title:    _________________________
+
+Brocade Confidential
+
+
+</TEXT>
+</DOCUMENT>

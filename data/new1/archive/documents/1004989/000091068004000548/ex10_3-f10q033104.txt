@@ -1,0 +1,544 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>4
+<FILENAME>ex10_3-f10q033104.txt
+<DESCRIPTION>EX-10.3; AMND & RSTD PRGMG & SUPRT AGMT
+<TEXT>
+                                                                    EXHIBIT 10.3
+
+
+             AMENDED AND RESTATED PROGRAMMING AND SUPPORT AGREEMENT
+
+                  This Amended and Restated  Programming  and Support  Agreement
+dated and  effective  as of  January  1, 2004 (as the same may be  supplemented,
+modified, amended, restated or replaced from time to time in the manner provided
+herein,  this  "Agreement"),  is by and between  SPAR  InfoTech,  Inc., a Nevada
+corporation  ("SIT"),  and SPAR Marketing Force, Inc., a Nevada corporation (the
+"Company"). SIT and the Company may be referred to individually as a "Party" and
+collectively as the "Parties".
+
+                                    Recitals
+
+                  SIT and the  Company  are  parties  to a  Contract  for Hourly
+System and Managerial  Support dated as of October 1, 1998 (as the same may have
+been supplemented,  modified, amended, restated or replaced from time to time in
+the manner provided  therein,  the "Existing  Support  Agreement"),  pursuant to
+which SIT has provided and currently  provides certain  programming,  management
+and other technology services on an hourly basis to the Company and (through the
+Company) SPAR Group, Inc., and its subsidiaries (together with the Company, each
+a "SPAR Company" and  collectively  the "SPAR  Companies").  The Company and SIT
+desire to update the terms and conditions on which SIT will continue to provide,
+on a nonexclusive  basis,  such  programming,  management  and other  technology
+services to the SPAR Companies as from time to time may be requested by any SPAR
+Company,  all upon the  terms  and  provisions  and  subject  to the  conditions
+hereinafter set forth.
+
+                                    Agreement
+
+                  NOW,  THEREFORE,  in  consideration of the mutual promises and
+covenants  contained  herein  and other  good and  valuable  consideration,  the
+receipt and  sufficiency of which are hereby  acknowledged  by the Parties,  the
+Parties hereto hereby agree as follows:
+
+                  Section 1. Term.  This Agreement  shall commence upon the date
+hereof, and shall continue through December 31, 2007, and shall be automatically
+renewed and continue for  additional one year periods  thereafter  (the "Term"),
+unless and until (a) either Party gives the other written  notice at least sixty
+days prior to December 31 of any year  (commencing in 2007) of its desire to not
+renew this  Agreement,  or (b) this Agreement is sooner  terminated  pursuant to
+Section 5 hereof.
+
+                  Section  2.   Programming,   Management,   Support  and  other
+Technology  Services.  During the Term, SIT shall provide (a) such  programming,
+management,  support  and  other  technology  services  as the  Company  and the
+Company's affiliates may from time to time request, and (b) all related services
+(collectively,  the  "Services").  The  Company  and SIT  shall  in  good  faith
+establish and implement  mutually  acceptable  procedures for the scheduling and
+coordination of the performance of the Services.
+
+                  Section 3. Hourly  Compensation and Expenses.  (a) The Company
+shall  compensate SIT for the performance of the Services to the Company and its
+affiliates  on an hourly  basis at the rates for the  classes of  personnel  set
+forth in the "Rate  Schedule"  annexed hereto (as the same may be  supplemented,
+modified, amended, restated or replaced from time to time in the manner provided
+therein,  the "Rate  Schedule").  SIT may amend and restate the Rate Schedule at
+any time and from time to time by  providing  notice  and a copy  thereof to the
+Company,  which restated Rate Schedule shall automatically take effect the later
+of (i)  thirty  (30) days  after  receipt  thereof  by the  Company or (ii) such
+effective  date as may be  specified  therein;  provided  that the  Company  may
+terminate  this  Agreement by written  notice to SIT at any time within ten (10)
+days after its receipt of such  restated  Rate  Schedule if the Company does not
+accept such restated Rate Schedule.
+
+                  (b) The Company shall  reimburse SIT for (or, at the Company's
+option,  directly  pay) all  business  travel  and other  similar  out-of-pocket
+business expenses  reasonably  incurred by SIT's personnel in the performance of
+the Services  hereunder in accordance  with the policies of the SPAR  Companies.
+All reimbursable expenses shall be appropriately documented in reasonable detail
+by SIT's  personnel upon submission of any request for  reimbursement,  and in a
+format and manner consistent with the SPAR Companies'  expense reporting policy,
+as well as applicable federal and state tax record keeping requirements.
+
+                  Section 4.  Payments.  The  Company  shall pay to SIT the full
+amount  invoiced  within ten (10) days after  receiving  such  invoice from SIT;
+provided that the Company shall have the right to contest and withhold from such
+payment  any hourly  charge or any out of pocket  expense  that the  Company
+
+                                      -1-
+<PAGE>
+
+has determined in good faith to be excessive or not authorized by the Company or
+any of its  public-company  affiliates.  The Company shall have the right at its
+own cost and  expense  to audit  such  hourly  charges  from  time to time  upon
+reasonable notice to SIT, provided that the audit shall be conducted in a manner
+that is not unreasonably disruptive of SIT's business.
+
+                  Section 5. Early Termination. Notwithstanding any provision to
+the contrary  contained  herein,  either Party shall have the right to terminate
+this  Agreement:  (a) at any time for any reason or no reason  upon  thirty (30)
+days months prior written notice to the other Party;  (b) upon ten (10) business
+days prior  written  notice to the other  Party in the event  such  other  Party
+material  breaches  this  Agreement  and fails to cure such breach within thirty
+(30) days after notice of such breach from the  terminating  Party;  or (c) upon
+ten (10) business days prior written  notice from the  terminating  Party to the
+other  Party  in the  event  of (i)  any  voluntary  or  involuntary  filing  or
+submission of any petition or other document for relief, bankruptcy, insolvency,
+receivership or other remedy by or with respect to such other Party, or (ii) the
+existence of any case,  action,  suit,  or proceeding by or with respect to such
+other  Party,  whether  voluntary  or  involuntary,   under  the  United  States
+Bankruptcy  Code,  as amended,  or any other present or future  federal,  state,
+provincial or foreign  applicable  law  respecting  bankruptcy,  reorganization,
+insolvency,   readjustment   of  debts,   relief  of  debtors,   dissolution  or
+liquidation.
+
+                  Section 6. Force  Majeure.  Notwithstanding  any other term or
+provision of this  Agreement,  no Party shall be responsible for or be in breach
+of or default under this Agreement for any performance  delay or failure that is
+the  result of any and all acts of God and other  acts,  events,  circumstances,
+impediments  or  occurrences  beyond the control of the delayed  person  (each a
+"Force Majeure"),  including (without limitation) any (i) accident or mishap not
+caused by the delayed person, (ii) assault, attack, battle,  blockade,  bombing,
+embargo, police action, siege or other act of defense, offense, terrorism or war
+(whether or not declared), in each case whether civilian,  militia,  military or
+otherwise  and whether  domestic or foreign,  (iii)  governmental  regulation or
+decree or other act or failure  to act of any  governmental  authority  or other
+regulatory  body, in each case whether civil,  military or otherwise and whether
+domestic or foreign, (iv) earthquake, explosion, fire, flood, hurricane or other
+natural  or  man-made   calamity  or  disaster,   (v)  epidemic,   environmental
+contamination or other natural or man-made pestilence or toxic exposure (whether
+biological,  chemical,  radiological  or otherwise),  or any quarantine or other
+restriction arising therefrom, (vi) failure of, interruption in or impairment of
+any delivery, internet, mail, monetary, power, telecommunication,  transmission,
+transportation  or utility  system or any other  service,  product or  equipment
+provided or maintained by a third party, (vii) lockout,  strike or similar labor
+interruptions,  (viii)  insurrection,  riot or  other  civil  disturbance,  (ix)
+hacking  or  other  unauthorized  access,  spamming,   virus,  trojan  or  other
+unauthorized program, or other computer or technological tampering or attack, or
+(x) sabotage or other criminal or  intentionally  disruptive third party act, in
+each case together with any and all consequential  disruptions,  delays, effects
+or  other  acts,   events,   circumstances,   impediments  or  occurrences   and
+irrespective  of how  localized or  widespread.  Upon prompt notice to the other
+Party, the Party affected by any Force Majeure shall be excused from performance
+hereunder  to the  extent  and  for so  long  as its  performance  hereunder  is
+prevented or restricted  by a Force Majeure (and the other Party shall  likewise
+be excused  from  performance  of its  obligations  hereunder  relating  to such
+delayed or failed  performance  to the same  extent and for the same  duration);
+provided  that the Party so  affected  shall  use  reasonable  efforts  (without
+increased cost) to avoid,  mitigate or remove such Force Majeure and to minimize
+the consequences  thereof,  and both Parties shall resume performance  hereunder
+with the utmost dispatch whenever such non-performance causes are removed.
+
+                  Section 7. General  Representations of the Parties. Each Party
+represents and warrants to the other Party that, as of the date hereof and as of
+the date of each extension,  modification  or amendment of this  Agreement,  and
+covenants  and  agrees  with the other  Party that for so long as  products  and
+services are being provided by SIT to the Company or any of its affiliates under
+this Agreement: (a) such Party is and will continue to be a corporation or other
+entity duly organized,  validly  existing and in good standing under the laws of
+its  state of  organization  and  maintains  its chief  executive  office at the
+address(es)  set forth for it either on the signature  page to this Agreement or
+in the  introduction  thereto,  or as otherwise set forth in a written notice to
+the other Party; (b) such Party has and will maintain the legal capacity, power,
+authority and  unrestricted  right to execute and deliver this  Agreement and to
+perform all of its obligations hereunder; (c) the execution and delivery by such
+Party  of  this  Agreement  and the  performance  by  such  Party  of all of its
+obligations  hereunder  will  not  violate  or be in  conflict  with any term or
+provision of (i) any applicable law, (ii) any judgment, order, writ, injunction,
+decree or consent of any court or other  judicial  authority  applicable to such
+Party or any material part of such Party's assets and  properties,  (iii) any of
+the  organizational  or governing  documents of such Party, or (iv) any material
+agreement,  document or obligation  to which it is a Party,  and such Party will
+not adopt any such  conflicting  organizational  or governing  document or enter
+into any such  conflicting  agreement,  document or obligation;  (d) no consent,
+approval or authorization  of, or registration,  declaration or filing with, any
+governmental  authority  or other  person is
+
+                                      -2-
+<PAGE>
+
+required as a condition precedent,  concurrent or subsequent to or in connection
+with the due and valid execution, delivery and performance by such Party of this
+Agreement or the legality,  validity, binding effect or enforceability of any of
+the terms and provisions of this Agreement; (e) this Agreement is a legal, valid
+and  binding  obligation  of such  Party,  enforceable  against  such  Party  in
+accordance with their respective terms and provisions; (f) the Services will not
+be  requested,  provided or used for any illicit or illegal  business or scheme;
+(g) the financial information (if any) respecting the Customer furnished to SPAR
+is  complete,  accurate  and fairly  presents  the  financial  condition  of the
+Customer;  (h) the information furnished or to be furnished by or on behalf of a
+Party to the  other  Party  does not and will not  contain a  misstatement  of a
+material fact or omit to state a material fact required to be stated  therein in
+order to make it,  in the  light of the  circumstances  under  which  made,  not
+misleading;  and (i)  each  Party  has  independently  and  fully  reviewed  and
+evaluated this Agreement and all related documents, the contemplated obligations
+and transactions and the potential  effects of such obligations and transactions
+on the assets, business, cash flow, expenses, income,  liabilities,  operations,
+properties,   prospects,   reputation,   taxation  or  condition  (financial  or
+otherwise) of such Party and its  affiliates,  which review and  evaluation  was
+made  together with the officers,  directors and other  representatives  of such
+Party,  its legal counsel and (to the extent deemed prudent by such Party) other
+legal  counsel and financial  and other  advisors to such Party,  and such Party
+hereby absolutely,  unconditionally,  irrevocably, expressly and forever assumes
+any and all attendant risks and waives any and all rights,  claims,  defenses or
+objections with respect thereto.
+
+                  Section 8. Independent Contractor,  Non-exclusive Status, Etc.
+The Parties each  acknowledge  and agree that SIT's sole  relationship  with the
+Company is that of independent contractor, and that no term or provision of this
+Agreement or any related document is intended to create, nor shall any such term
+or  provision  be deemed  or  construed  to have  created,  any  joint  venture,
+partnership,  trust, agency or other fiduciary  relationship between the Parties
+or any of their respective affiliates. No term or provision of this Agreement or
+any related document is intended, or shall be deemed or construed, to in any way
+(a) limit the power,  authority or  discretion of SIT to conduct its business in
+such manner as it may choose, or (b) confer upon the Company any right, power or
+privilege to control,  direct,  approve or otherwise affect any manner chosen by
+SIT or any of its  affiliates to conduct its business,  irrespective  of whether
+any of the Services may be involved in or affected by any such conduct.  Without
+limiting the  generality  of the  foregoing,  SIT shall have full and  exclusive
+power,  authority and  discretion at any time and from time to time (i) to hire,
+direct and discharge from time to time any and all officers,  employees, agents,
+brokers and other representatives of SIT (including, without limitation, the its
+stockholders), (ii) to engage such independent contractors, affiliates and other
+subcontractors as it may deem necessary or appropriate in the performance of the
+Services,  (iii) to exercise  or  otherwise  enforce any of its rights,  powers,
+privileges,  remedies or interests in whole or in part,  (iv) to delay,  refrain
+from or discontinue any such exercise or other  enforcement,  (v) to perform the
+same or similar services for others and pursue any and all other continuing, new
+or other business opportunities of any nature or description,  which may include
+(without  limitation,) one or more of the business  activities engaged in by the
+Company or its affiliates or aspects  thereof,  whether  independently or for or
+with other persons, and irrespective of location,  and (vi) to allocate the time
+and attention and the other  resources of SIT among the Services and its various
+other  activities,  provided that such allocation does not adversely  affect the
+performance  of SIT  hereunder  in any  material  respect,  in each case without
+notice to the Company (except as otherwise  expressly required  hereunder),  for
+any reason or no reason whatsoever and whether  intentionally or otherwise.  The
+Company  shall not be  required  to use SIT  exclusively  for the  provision  of
+Services in any Stores or otherwise at any time and may purchase  Services  from
+any affiliate or other person without limitation or restriction of any kind.
+
+                  Section 9. No Other  Warranties,  Waiver of  Set-Off,  Special
+Damages,  Etc. Except as otherwise  expressly  provided in this  Agreement,  the
+Company  (on  behalf of itself and each other  SPAR  Company)  acknowledges  and
+agrees that: (a) SIT makes no  representation  or warranty of any kind or nature
+whatsoever with respect to any product or service provided under this Agreement,
+whether  express or implied  (either in fact, by operation of law or otherwise),
+including  (without  limitation) no warranty as to  merchantability,  fitness or
+usefulness  for a  particular  purpose,  title,  interference,  infringement  or
+conformance  to any  specifications;  (b) SIT shall not be liable or responsible
+for any  claim,  liability,  loss or  expense  of any SPAR  Company or any other
+person on account  of or  directly  or  indirectly  arising  from the use of any
+product  or  service  furnished  by or  through  SIT;  all of which  are  hereby
+expressly   disclaimed  by  SIT  and  all  of  which  are  hereby   irrevocably,
+unconditionally,  expressly  and forever  waived and released by the Company (on
+behalf of itself,  each other SPAR Company and all those using or receiving such
+products and services through any SPAR Company);  (c) none of the SPAR Companies
+will seek,  recover or retain any, and the Company (on behalf of itself and each
+other SPAR Company) hereby irrevocably,  unconditionally,  expressly and forever
+waives any and all, special, exemplary, punitive, statutory and/or consequential
+damages (whether through action, suit,  counterclaim or otherwise and whether in
+contract,  tort,  strict  liability or  otherwise)  to the extent  waiver is not
+limited under  applicable law; and (d) the Company will not exercise or enforce,
+and the  Company  (on  behalf of itself  and each  other  SPAR  Company)  hereby
+
+                                      -3-
+<PAGE>
+
+irrevocably, unconditionally, expressly and forever waives, any right of setoff,
+recoupment,  abatement or reduction  that may now or hereafter be accorded to it
+(whether  under  this  Agreement,  applicable  law or  otherwise)  against or in
+respect of any payment due (whether as scheduled or required,  upon demand or as
+sought in any action,  suit or  proceeding)  to or for the benefit of SIT or any
+SIT  Affiliate  under this  Agreement or  applicable  law,  except to the extent
+required as a compulsory counterclaim in any related ongoing proceeding, and the
+Company will pursue separate exercise and enforcement thereof.
+
+                  Section 10.  Indemnification.  (a) The Company, its affiliates
+and their  respective  officers,  employees,  independent  contractors,  agents,
+brokers and other  representatives  (a "MF Indemnified  Person") shall not incur
+any liability for any acts or omissions (and the other Party hereby  absolutely,
+unconditionally,  irrevocably and expressly  waives and releases forever any and
+all related  claims and actions  against each MF Indemnified  Person),  and each
+shall be  indemnified,  reimbursed  and held  harmless by SIT upon  demand,  and
+defended at the  expense of SIT with  counsel  selected  by SIT (and  reasonably
+acceptable to the Company),  from and against, any and all claims,  liabilities,
+expenses  (including,  without  limitation,  the  disbursements,   expenses  and
+reasonable  fees of their  respective  attorneys)  and other  losses that may be
+imposed  upon,  incurred  by or  asserted  against  any  MF  Indemnified  Person
+resulting  from,  arising out of or directly  or  indirectly  related to (i) any
+Service or other activity performed by SIT or any of its representatives or (ii)
+any misrepresentation,  omission, breach, default or wrongdoing by SIT or any of
+its representatives; in each case (A) other than to the extent occasioned by the
+acts  or  omissions  of any MF  Indemnified  Person  materially  breaching  this
+Agreement or any duty owed to the other Party  hereunder  and amounting to gross
+negligence,  willful  misconduct or material breach of this Agreement as finally
+determined  pursuant  to  applicable  law  by a  governmental  authority  having
+jurisdiction,  and (B) subject to the  limitations,  waivers and other terms and
+provisions  of  Sections  9 and 12 hereof  (which  are  intended  to limit  this
+subsection).
+
+                  (b)  SIT,  its  affiliates  and  their  respective   officers,
+employees, independent contractors, agents, brokers and other representatives (a
+"SIT  Indemnified  Person")  shall  not  incur  any  liability  for any  acts or
+omissions (and the other Party hereby absolutely,  unconditionally,  irrevocably
+and expressly waives and releases forever any and all related claims and actions
+against each SIT Indemnified Person), and each shall be indemnified,  reimbursed
+and held harmless by the Company upon demand, and defended at the expense of the
+Company with counsel selected by the Company (and reasonably acceptable to SIT),
+from and against, any and all claims, liabilities,  expenses (including, without
+limitation, the disbursements,  expenses and reasonable fees of their respective
+attorneys)  and other losses that may be imposed  upon,  incurred by or asserted
+against any SIT Indemnified Person resulting from, arising out of or directly or
+indirectly related to (i) any Service or other activity performed  substantially
+in accordance with the directions of the Company or any of its  representatives,
+(ii) any product  defect in or other  condition of any  merchandise or equipment
+provided the Company,  its  affiliate,  its customer,  any Store or any of their
+respective  representatives or (iii) any  misrepresentation,  omission,  breach,
+default  or  wrongdoing  by the  Company  or any  of  its  representatives,  but
+excluding  any  Indemnified  Amounts;  in each case (A) other than to the extent
+occasioned  by the acts or omissions of any SIT  Indemnified  Person  materially
+breaching  this  Agreement  or any duty owed to the other  Party  hereunder  and
+amounting to gross  negligence,  willful  misconduct or material  breach of this
+Agreement as finally  determined  pursuant to applicable  law by a  governmental
+authority having jurisdiction,  and (B) subject to the limitations,  waivers and
+other terms and  provisions  of Sections 9 and 12 hereof  (which are intended to
+limit this subsection).
+
+                  (c) The preceding  general  exculpations and  indemnifications
+are not intended  (and shall not be deemed or  construed) to in any way qualify,
+condition, diminish, restrict, limit or otherwise affect any (and is in addition
+to each) other release, waiver, consent, acknowledgment, agreement or other term
+or provision of this Agreement or any related document.
+
+                  Section  11.  Notice.  Any  notice,  request,  demand or other
+communication  permitted or required to be given to a Party under this Agreement
+shall be in writing and shall be sent to the  addressee at the address set forth
+above (or at such other  address as shall be  designated  by notice to the other
+Party and Persons receiving  copies),  effective upon actual receipt (or refusal
+to accept  delivery) by the addressee on any business day or the first  business
+day  following  receipt  after  the  close of  normal  business  hours or on any
+non-business  day, by (a) FedEx (or other  equivalent  national or international
+overnight  courier) or United States Express Mail,  (b)  certified,  registered,
+priority or express United States mail, return receipt  requested,  (c) telecopy
+or (d) messenger, by hand or any other means of actual delivery.
+
+                  Section 12. Use of Electronic  Systems,  Responsibilities  and
+Waiver of Liability. The Parties desire to send and receive applications, calls,
+data,  emails,  invoices,  orders and other documents and information  ("eData")
+among themselves and their respective  representatives by any one or more of the
+following means (each an "eSystem"):  (a) email or other internet communication;
+(b) any  internet  site,  whether  maintained  by or on  behalf  of a  Party  or
+otherwise  (each a "Web Site");  (c)  telecopy;  (d) cellular or
+
+                                      -4-
+<PAGE>
+
+other wireless  communication;  or (e) other electronic  communication;  in each
+case whether or not open,  guarded,  scrambled or  encrypted.  Each Party hereby
+authorizes  and directs the other  Party to send and receive  eData  through any
+eSystem  and to act upon any request or other  content of any eData  received or
+obtained  through any eSystem by the receiving  Party,  any of its affiliates or
+any of their  respective  representatives  purporting to be from or on behalf of
+the sending Party or its representatives, and the sending Party acknowledges and
+agrees  that the  receiving  Party or  person  may in good  faith  rely  upon as
+accurate, authentic and duly authorized. Each Party acknowledges and agrees that
+the other Party, its affiliates and their respective  representatives  shall not
+under any  circumstance  be or become  responsible or liable in any way for, and
+each Party hereby irrevocably, unconditionally, expressly and forever waives and
+releases any and all related claims and actions against each of the other Party,
+its affiliates and their respective representatives respecting, any claim, cost,
+expense,  loss, or liability whatsoever directly or indirectly arising from: (A)
+any  transmission,  receipt or use of or  reliance  upon any eData or use of any
+eSystem;  (B) any  unauthorized  Person's use of or access to any eData, any Web
+Site or any other eSystem;  (C) any access,  misuse or  appropriation  a Party's
+eData or any failed, forged,  altered,  deciphered,  intercepted,  incomplete or
+inaccurate transmission of any eData; (D) any eSystems, anti-virus firewalls and
+security  measures,  their use or operation or their  compatibility with any Web
+Site or other  eSystem  of the  other  Party or any of its  affiliates;  (E) any
+virus,  macro or  similar  program  or  script;  (F) the  viability,  integrity,
+robustness,  fitness or adequacy of any  encryption,  firewall or other security
+measures used by a Party or any of its affiliates; (G) any eData of a Party sent
+or  received  through  or stored on the Web Site or other  eSystem  of the other
+Party or any of its  affiliates  or the security or retention  thereof;  (H) any
+failure to act on any  request or other eData (1) not  actually  received by the
+appropriate the representative, (2) that appears to be unauthorized,  incomplete
+or  inaccurate  in any  respect;  or (3) pending  receipt from the sender of any
+resubmission, clarification, confirmation or verification of any eData requested
+by a Party; or (I) without limiting any applicable force majeure, (1) any error,
+poor  transmission  or other casualty to, loss of or delay or failure in sending
+or receiving any eData, or (2) any failure of any ISP or other eSystem provider.
+
+                  Section  13. No Waiver by Action,  Etc.  Any waiver or consent
+from either Party  respecting  any  provision  of this  Agreement or any related
+document  shall be effective  only in the specific  instance for which given and
+shall  not  be  deemed,  regardless  of  frequency  given,  to be a  further  or
+continuing  waiver or consent.  The failure or delay of any Party at any time to
+require  performance  of, or to exercise or enforce its rights or remedies  with
+respect to, any provision of this Agreement  shall not affect such Party's right
+at a later time to  exercise  or  enforce  any such  provision.  No notice to or
+demand on any Party shall  entitle  such Party to any other  notice or demand in
+similar or other circumstances. Any acceptance by or on behalf of a Party of (A)
+any partial or late payment, reimbursement or performance shall not constitute a
+satisfaction or waiver of the obligation then due or the resulting  default,  or
+(B) any payment,  reimbursement  or  performance  of any  obligation  during the
+continuance  of any default shall not  constitute a waiver or cure thereof,  and
+the Party or its designee may accept or reject any such  payment,  reimbursement
+or performance  without  affecting any obligation or any of the Party's  rights,
+powers,  privileges,  remedies and other  interests  under this  Agreement,  any
+related document or applicable law. All rights, powers, privileges, remedies and
+other interests of each Party hereunder are cumulative and not alternatives, and
+they are in addition to (and shall not limit) any other right, power, privilege,
+remedy or other  interest  of such  Party  under  this  Agreement,  any  related
+document or applicable law.
+
+                  Section  14.  Successors  and  Assigns;  Assignment;  Intended
+Beneficiaries.  This  Agreement and each related  document shall be binding upon
+and  inure  to the  benefit  of the  successors,  permitted  assigns  and  legal
+representatives of each Party (including,  without  limitation,  any assignee of
+substantially  all of the  business or assets of any Party or any  successor  by
+merger).  Neither Party may assign any of its rights or  obligations  under this
+Agreement or any related document to any other person without the consent of the
+other Party; provided,  however, that (i) either Party may assign its rights and
+obligations  hereunder  in whole or in part to any of its  affiliates  (without,
+however,  relieving the assignor of any of its obligations  hereunder) by giving
+the other Party a copy of such assignment, (ii) SIT acknowledges and agrees that
+the Company may request (for its account  hereunder)  that SIT provide  services
+for affiliates of the Company  without the need to formally assign any rights or
+obligations of the Company to such  affiliates to the extent the Company remains
+liable  for any and all  payments  hereunder  with  respect  thereto,  and (iii)
+nothing in this Section is intended, or shall be deemed or construed,  to in any
+way  limit  the use of  independent  contractors  as  field  representatives  or
+managers  by  SIT.  Without  limiting  the  generality  of  the  foregoing,  SIT
+acknowledges  and agrees  that the Company  may pledge  this  Agreement  and all
+accounts, payment intangibles, general intangibles and other rights and interest
+arising  hereunder to one or more  lender(s),  such lender(s)  shall be entitled
+upon default to enforce any and all of the rights, powers, privileges,  remedies
+and interests of the Company as so assigned in accordance  with this  Agreement,
+the applicable  loan documents and applicable  law, and such lender(s) shall not
+be responsible or liable for any of the acts, omissions,  duties, liabilities or
+obligations  of the Company or any of its  affiliates  under this  Agreement  or
+otherwise.  Except as otherwise provided in this Agreement, the representations,
+agreements and other
+
+                                      -5-
+<PAGE>
+
+provisions  of this  Agreement  are for the  exclusive  benefit  of the  Parties
+hereto, and no other person (including,  without  limitation,  any creditor of a
+Party) shall have any right or claim against any Party by reason of any of those
+provisions or be entitled to enforce any of those provisions against any Party.
+
+                  Section 15. Counterparts, Governing Law, Amendments, Etc. This
+Agreement  shall be  effective on the date as of which this  Agreement  shall be
+executed and  delivered  by the Parties  hereto.  This  Agreement or any related
+document  may be  executed  in two or  more  counterpart  copies  of the  entire
+document or of signature pages to the document, each of which may be executed by
+one or more of the Parties hereto and may be sent by fax, but all of which, when
+taken  together,  shall  constitute a single  agreement  binding upon all of the
+Parties  hereto.  This Agreement and all related  documents shall be governed by
+and construed in accordance with the applicable laws pertaining, in the State of
+New York  (other  than  those  conflict  of law rules  that  would  defer to the
+substantive  laws of  another  jurisdiction).  The  headings  contained  in this
+Agreement or any related document are for reference  purposes only and shall not
+affect the meaning or  interpretation of this Agreement or any related document.
+Each and every supplement or modification to or amendment or restatement of this
+Agreement or any related  document  shall be in writing and signed by all of the
+Parties hereto,  and each and every waiver of, or consent to any departure from,
+any term or provision  of this  Agreement  or any related  document  shall be in
+writing and signed by each affected Party hereto.
+
+                  Section  16.  Waiver of Jury Trial;  All Waivers  Intentional,
+Etc. In any action,  suit or proceeding in any jurisdiction  brought against SIT
+by the Company,  or vice versa, each Party hereby  absolutely,  unconditionally,
+irrevocably  and expressly  waives  forever  trial by jury.  This waiver of jury
+trial by each Party, and each other waiver,  release,  relinquishment or similar
+surrender of rights (however  expressed) made by a Party in this Agreement,  has
+been absolutely, unconditionally,  irrevocably, knowingly and intentionally made
+by such Party.
+
+                  Section  17.  Entire  Agreement.   No  Party  or  any  of  its
+representatives has made, accepted or acknowledged any representation, warranty,
+promise, assurance,  agreement,  obligation or understanding (oral or otherwise)
+to,  with or for the  benefit of the other  Party or any of its  representatives
+other than as expressly set forth in this Agreement. This Agreement contains the
+entire agreement of the Parties,  amends,  restates and completely  replaces the
+Existing Support Agreement, and supersedes and completely replaces all prior and
+other  communications,   discussions  and  other  representations,   warranties,
+promises, assurances, agreements and understandings (oral, implied or otherwise)
+between the Parties, with respect to the matters contained in this Agreement.
+
+                  IN WITNESS  WHEREOF,  the Parties have executed this Agreement
+effective as of the day and year first written above.
+
+
+SPAR InfoTech, Inc.,                             SPAR Marketing Force, Inc.,
+      a Nevada corporation                            a Nevada corporation
+
+By:                                              By:
+
+
+
+
+
+
+                                      -6-
+<PAGE>
+
+                                  RATE SCHEDULE
+
+                                       to
+
+             Amended and Restated Programming And Support AgreemeNT
+
+                           Dated as of January 1, 2004
+
+                      ------------------------------------
+
+
+
+                  Hourly Rates Effective as of January 1, 2004
+
+
+
+      ----------------------------------- ---------------- -------------------
+      Person or Group                                         Hourly Rate
+      ----------------------------------- ---------------- -------------------
+      Patricia Franco                                             $80
+      ----------------------------------- ---------------- -------------------
+      Panos Mastrogiannis                                         $60
+      ----------------------------------- ---------------- -------------------
+      Administrative Support                                      $20
+      ----------------------------------- ---------------- -------------------
+      Programming and Other - Domestic                            $40
+      ----------------------------------- ---------------- -------------------
+      Programming and Other - India                               $15
+      ----------------------------------- ---------------- -------------------
+
+
+
+
+                                      -7-
+
+</TEXT>
+</DOCUMENT>

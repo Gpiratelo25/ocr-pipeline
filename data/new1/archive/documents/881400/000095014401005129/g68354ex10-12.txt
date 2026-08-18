@@ -1,0 +1,172 @@
+<DOCUMENT>
+<TYPE>EX-10.12
+<SEQUENCE>4
+<FILENAME>g68354ex10-12.txt
+<DESCRIPTION>AMENDMENT TO RISK CONTRACT
+<TEXT>
+
+<PAGE>   1
+                                                                   EXHIBIT 10.12
+
+
+                                    AMENDMENT
+                       RISK CONTRACT MANAGEMENT AGREEMENT
+                                 BY AND BETWEEN
+
+                 ELMHURST PHYSICIAN HOSPITAL ORGANIZATION, LLC.
+                                       &
+                NORTH AMERICAN MEDICAL MANAGEMENT-ILLINOIS, INC.
+
+                                   MAY, 2000
+
+
+The Risk Contract Management Agreement between Elmhurst Physician Hospital
+Organization, LLC (ELMCARE), an Illinois limited liability company, and North
+American Medical Management-Illinois, Inc. (NAMM), an Illinois general business
+corporation, entered into on May 1, 1995, is hereby amended as follows:
+
+ARTICLE I - DEFINITIONS
+
+1.8 "Territory" - Omitted in its entirety.
+
+ARTICLE 2 - RESPONSIBILITIES OF NAMM
+
+2.3 (b) Allocation of Funds
+
+ELMCARE shall, in good faith and based upon general parameters developed in
+consultation with NAMM and approved by ELMCARE, allocate capitated payments
+negotiated with third party payors under the Risk Contracts (to the extent that
+the third party payor has not already allocated the capitated payments) among
+the various ELMCARE contracting providers. In addition, ELMCARE shall, in good
+faith and based upon general parameters developed in consultation with NAMM,
+develop internal "risk pools" and withhold pools" to create incentives for
+providers to efficiently provide services under the Risk Contracts (the "NAMM
+Pools"). The NAMM pools need not coincide with or be identical to risk pools or
+withhold arrangements established under the Risk Contracts. In creating the
+amounts to fund such pools, NAMM shall subtract from the capitated payments
+received under the Risk Contracts: (a) an amount determine by NAMM as the
+aggregate capitated rates to be paid by ELMCARE to providers; and (b) the
+Administrative Expense Charge due to NAMM under Section 4.3 below.
+
+2.3 (g) Claims Payment.
+
+NAMM will pay claims to be in compliance with Illinois prompt pay laws. Failure
+to meet prompt pay requirements may result in interest penalties, as deemed by
+Illinois prompt pay laws. If such penalties are incurred due to NAMM's lack of
+payment of eligible claims, NAMM will pay 100% of the penalty cost, to be
+identified by NAMM and deducted from NAMM's monthly administrative fee, or in
+paid in a method mutually agreed to by NAMM & ELMCARE.
+
+2.3 (m) - Omitted in its entirety.
+
+
+<PAGE>   2
+2.3 (o) - Licensure and Accreditation
+
+NAMM shall assist and cooperate fully with ELMCARE and its contract providers
+and shall provide such information in the possession of NAMM that is reasonably
+necessary for ELMCARE and its contract providers to satisfy applicable licensure
+and accreditation standards that are imposed upon ELMCARE by accrediting bodies
+or by payors, with which ELMCARE contracts if such payor imposes standards upon
+ELMCARE, including but not limited to National Committee on Quality Assurance
+("NCQA) and Utilization Management Standards of the American Accreditation
+Healthcare Commission (URAC).
+
+2.6 - Medical Advisory - Omitted in its entirety.
+
+ARTICLE 3 - REVENUES AND EXPENSES
+
+Article omitted in its entirety.
+
+ARTICLE 4 - COMPENSATION FOR ADMINISTRATIVE SERVICES
+
+4.2 - Development Fee - Omitted in its entirety.
+
+4.3-
+
+<TABLE>
+<CAPTION>
+                               -------------------------------------------------
+                                     Administrative Expense Charge
+                               -------------------------------------------------
+                                 Professional              Full Risk
+                                Risk Contracts             Contracts
+--------------------------------------------------------------------------------
+<S>                 <C>            <C>                      <C>
+Commercial Payors - 1st Yr         $4.50 pmpm               $6.51 pmpm
+                  - 2nd Yr         $4.60 pmpm               $6.65 pmpm
+--------------------------------------------------------------------------------
+Medicare                        To be determined         To be determined
+--------------------------------------------------------------------------------
+</TABLE>
+
+4.4 - Adjustment to Administrative Expense Charge - Omitted in its entirety.
+
+6.1 - Term; Renewal.
+
+Unless sooner terminated pursuant to this Article 6, the term of this Agreement
+shall be two (2) years. This Agreement shall automatically renew at the end of
+the initial term, and each subsequent term, for an additional one (1) year term,
+unless either party provides the other party with written notice of its intent
+to terminate the Agreement at least ninety (90) days prior to the end of the
+then current term.
+
+6.7 - Termination Due to Termination of Fritch. - Omitted in its entirety.
+
+ARTICLE 10 - EXCLUSIVITY
+
+10.1 - Exclusive Relationship with NAMM - Omitted in its entirety
+
+
+<PAGE>   3
+10.2 - Exclusivity Relationship with ELMCARE.
+
+In the event that ELMCARE rejects or decides not to enter into a Risk Contract
+with a third party payor and an investor in ELMCARE elects to pursue such Risk
+Contract with the third party payor as permitted by the agreement between such
+investor and ELMCARE, then NAMM may provide to the investor in ELMCARE with
+respect to such Risk Contract services similar to those provided hereunder;
+provided however, that the cost of providing such services shall be charged to,
+and born entirely by, such investor in ELMCARE.
+
+16.2 - Notice.
+
+All notices, requests, demands and other communications required or permitted to
+be given hereunder shall be sent by (a) certified mail, return receipt requested
+or (b) facsimile to the parties or (c) commercial carrier that provides a signed
+receipt verifying actual delivery at the address set forth below. Such notices
+shall be deemed given seven (7) business days after being deposited in the
+United States mail or when receipt acknowledged, if sent by facsimile:
+
+If to ELMCARE:                 ELMCARE, LLC
+                               855 Church Court
+                               Elmhurst, Illinois 60126
+                               Attn: Executive Director
+                               Facsimile: 630-993-5619
+
+If to NAMM:                    North American Medical Management -Illinois Inc
+                               4415 West Harrison Street, Suite 300
+                               Hillside, Illinois
+                               Attn: President
+                               Facsimile: 630-432-4077
+
+IN WITNESS WHEREOF, the parties hereto have executed this Amendment to be
+effective as of May 1, 2000.
+
+ELMHURST PHYSICIAN HOSPITAL                   NORTH AMERICAN MEDICAL
+ORGANIZATION, L.L.C.                          MANAGEMENT - ILLINOIS, INC.
+
+
+
+BY:  /s/ Denise L. Meyers                     By: /s/ David Kanzler
+    ----------------------------------            ------------------------------
+         Denise L. Meyers                             David Kanzler
+
+Title: Executive Director                     Title: Regional Vice President
+       -------------------------------               ---------------------------
+
+Date: May 22, 2000                            Date: June 15, 2000
+      --------------------------------              ----------------------------
+
+</TEXT>
+</DOCUMENT>

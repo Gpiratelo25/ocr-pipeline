@@ -1,0 +1,57 @@
+<DOCUMENT>
+<TYPE>EX-10.4.10
+<SEQUENCE>12
+<FILENAME>b55316atexv10w4w10.txt
+<DESCRIPTION>EX-10.4.10 AMEND.NO.1 TO SHIP MANAGEMENT AGREEMENT (STENA VICTORY)
+<TEXT>
+<PAGE>
+
+                                                                 EXHIBIT 10.4.10
+
+                                 AMENDMENT NO. 1
+                                       TO
+                            SHIP MANAGEMENT AGREEMENT
+
+                                 April 11, 2005
+
+            Reference is hereby made to the Ship Management Agreement, dated
+October 20, 2004 (the "Ship Management Agreement"), between Victory Ltd., a
+company incorporated in the Islands of Bermuda (the "Owners") and Northern
+Marine Management Ltd., a company incorporated in Scotland (the "Managers").
+Capitalized terms used but not defined herein shall have the meanings assigned
+to them in the Time Charter.
+
+            The Owners and the Managers hereby agree that the provisions of the
+Ship Management Agreement shall be amended as follows:
+
+            1. The schedule set forth in Clause 21 shall be deleted and replaced
+      by the following:
+
+<TABLE>
+<CAPTION>
+                      "Period                               Management Fee
+<S>                                                         <C>
+1  (Effective date stated in Box 4 - November 10, 2005)        $ 7,500
+2  (November 11, 2005 - November 10, 2006)                     $ 7,875
+3  (November 11, 2006 - November 10, 2007)                     $ 8,269
+4  (November 11, 2007 - November 10, 2008)                     $ 8,682
+5  (November 11, 2008 - November 10, 2009)                     $ 9,116
+Option 1 (November 11, 2009 - November 10, 2010)               $ 9,572
+Option 2 (November 11, 2010 - November 10, 2011)               $10,051
+Option 3 (November 11, 2011 - November 10, 2012)               $10,553"
+</TABLE>
+
+      This Amendment shall be governed by and construed in accordance with the
+laws of England. Except as provided herein, the Ship Management Agreement shall
+remain unchanged.
+
+      OWNERS                                MANAGERS
+
+      Victory Ltd.                          Northern Marine Management Ltd.
+
+      By: /s/ Arthur L. Regan               By: /s/ Mats Berglund
+          -------------------                   -----------------
+      Name: Arthur L. Regan                 Name: Mats Berglund
+      Title: President and CEO              Title: Director
+</TEXT>
+</DOCUMENT>

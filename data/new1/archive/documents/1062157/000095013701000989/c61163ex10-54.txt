@@ -1,0 +1,116 @@
+<DOCUMENT>
+<TYPE>EX-10.54
+<SEQUENCE>12
+<FILENAME>c61163ex10-54.txt
+<DESCRIPTION>6TH AMENDMENT TO THE MASTER AFFILIATION AGREEMENT
+<TEXT>
+
+<PAGE>   1
+                                                                   EXHIBIT 10.54
+
+NOTE: INFORMATION IN THIS DOCUMENT MARKED WITH AN "[*]" HAS BEEN OMITTED AND
+FILED SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED
+WITH RESPECT TO THE OMITTED PORTIONS.
+
+
+                 SIXTH AMENDMENT TO MASTER AFFILIATION AGREEMENT
+
+This Sixth Amendment (the "Sixth Amendment") to the Master Affiliation Agreement
+dated as of December 22, 1998, as amended in the First Amendment dated March 8
+1999, the Second Amendment dated June 28, 1999, the Third Amendment dated July
+24, 2000, the Fourth Amendment dated September 7, 2000 and the Fifth Amendment
+dated December 22, 2000 (as amended, the "Master Agreement"), by and between
+Wink Communications, Inc., a Delaware corporation ("Wink"), whose address is
+1001 Marina Village Parkway, Alameda, California 94501 and DIRECTV, Inc., a
+California corporation, whose address is 2230 East Imperial Highway, El Segundo,
+California 90245 ("DIRECTV") is made as of this 1st day of March, 2001.
+
+1. The parties hereby agree to amend Section 3.5 of the Master Agreement to
+   delete in its entirety the provision that was added to such Section pursuant
+   to the Fifth Amendment dated December 22, 2000, and to add (in lieu of such
+   provision) the following:
+
+         "Notwithstanding the foregoing, DIRECTV hereby agrees to allocate 600
+         kbits/sec. of bandwidth (the "Incremental Bandwidth") in the calendar
+         year 2001 as follows: (a) in the first half of the year, 360 kbits/sec.
+         shall be allocated to introduce Interactive Wink Programming on the
+         transmission of the affiliates of the four major broadcast networks
+         (i.e., ABC, CBS, NBC and Fox) in six markets identified by DIRECTV
+         where DIRECTV does not currently transmit Interactive Wink Programs
+         (such markets to be selected by DIRECTV with the goal of maximizing the
+         distribution and availability of Interactive Wink Programming); and (b)
+         in the second half of the year, 240 kbits/sec. shall be allocated to
+         introduce Interactive Wink Programming with either (i) new Programmers,
+         (ii) additional markets for the four major broadcast networks, and/or
+         (iii) Virtual Channels, whereby the determination shall be made by
+         DIRECTV, in DIRECTV's reasonable discretion, based upon a determination
+         of that which is in the financial best interest of DIRECTV and Wink
+         with respect to Wink Revenue Transactions. All of the Incremental
+         Bandwidth shall continue to be allocated to transmission of Interactive
+         Wink Programs throughout the Term, once allocated during 2001."
+
+2. The parties hereby agree to replace Section 3.10 in its entirety with the
+   following:
+
+         "3.10. DIRECTV agrees to hire and retain the full-time services of a
+         content engineer who will work primarily on the development of
+         Interactive Wink Programs for DIRECTV (the "Content Engineer"). The
+         Content Engineer will be retained by DIRECTV promptly upon execution of
+         the Sixth Amendment and continuing throughout the Term, and will be
+         primarily based at DIRECTV's offices; it being understood that DIRECTV
+         may, in its discretion, at any time replace such Content Engineer with
+         a different individual, provided that DIRECTV makes commercially
+         reasonable efforts to keep the position filled throughout the Term.
+         DIRECTV shall be responsible, as employer of the Content Engineer, for
+         any and all costs associated with such employment arrangement by
+         DIRECTV (including, but not limited to, any travel or other costs or
+         expenses that DIRECTV undertakes as employer of the Content Engineer).
+         Wink hereby agrees to provide training to the Content Engineer, as well
+         as technical support as reasonably necessary, at no cost to DIRECTV.
+         DIRECTV hereby agrees that the Content Engineer, as an employee of
+         DIRECTV, shall be exclusively supervised and directed by DIRECTV.
+         Accordingly, DIRECTV expressly acknowledges and agrees that the Content
+         Engineer shall not have the status of an employee of Wink or its
+         subsidiaries. DIRECTV acknowledges and agrees that the Content Engineer
+         shall not be eligible to participate in any employee benefit, group
+         insurance or executive compensation plans or programs maintained by
+         Wink. Wink shall not be responsible for Social Security, unemployment
+         compensation, disability insurance, workers' compensation or similar
+         coverage, nor any other statutory benefits, with respect to the Content
+         Engineer. DIRECTV further agrees to provide any and all necessary
+         licenses permits, insurance policies and other documents required for
+         the performance of its duties hereunder at its own expense. In exchange
+<PAGE>   2
+         for the foregoing, Wink hereby agrees to pay to DIRECTV by no later
+         than the fifteenth day of the first month of each quarter commencing
+         with the first quarter of 2001 and continuing throughout the Term, the
+         sum of [*]; provided, however, that the payment for the first
+         quarter of 2001 shall be paid concurrently with (i.e., on the payment
+         date for) the payment for the second quarter 2001."
+
+In the event of any inconsistency between this Sixth Amendment and the Master
+Agreement or any other agreement between the parties, the Sixth Amendment shall
+be deemed controlling. In all other respects, the Master Agreement shall
+continue in full force and effect.
+
+IN WITNESS WHEREOF, the parties have caused this Sixth Amendment to be executed
+by their duly authorized officers and representatives as of the day and year
+first written above.
+
+
+WINK COMMUNICATIONS, INC.                   DIRECTV, INC.
+
+By: _______________________________         By: ________________________________
+
+Name: ____________________________          Name: ______________________________
+
+Title:_____________________________         Title:______________________________
+
+[*] Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+
+                                       2
+</TEXT>
+</DOCUMENT>

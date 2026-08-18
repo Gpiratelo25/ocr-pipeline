@@ -1,0 +1,113 @@
+<DOCUMENT>
+<TYPE>EX-10.7
+<SEQUENCE>9
+<FILENAME>y60822ex10-7.txt
+<DESCRIPTION>FIRST AMENDMENT TO SERVICES AGREEMENT
+<TEXT>
+<PAGE>
+                                                                  Exhibit 10.7
+
+
+                   FIRST AMENDMENT TO THE SERVICES AGREEMENT
+
+         Whereas The NPD Group, Inc., a New York corporation  ("NPD"), and
+Media Metrix, Inc., a Delaware corporation ("MMX"), executed a Services
+Agreement dated September 30, 1998 (the "SERVICES AGREEMENT");
+
+         Whereas, Jupiter Media Metrix, Inc., a Delaware corporation ("JMXI"),
+is the successor-in-interest to MMX;
+
+         Whereas, NetRatings, Inc., a Delaware corporation ("NETRATINGS," and
+with JMXI and NPD, the "PARTIES") as of the date hereof is entering into a
+settlement agreement under which it shall settle Civil Action No. 01-CV-193
+filed by JMXI in the United  States District Court for the District of
+Delaware, and, as a term thereof, NTRT is acquiring all rights and interests
+in U.S. Patent No. 6,115,680 entitled "Computer Use Meter and Analyzer"
+(the "PATENT"); and
+
+         Whereas, the Parties wish to clarify the interpretation of the terms of
+the Services Agreement.
+
+         NOW, THEREFORE, in return for good and valuable consideration, the
+sufficiency of which is acknowledged by all the Parties, the Parties agree as
+follows:
+
+         1.       AMENDMENT OF THE SERVICES AGREEMENT:
+                  -----------------------------------
+
+                  (a) The second sentence of the preamble of the Services
+Agreement is amended and restated in its entirety to read, "The Company is in
+the business of developing, marketing and selling internet audience measurement
+services and operates a national consumer usage panel (the "Panel") in order to
+generate data for measuring internet audiences and assessing internet audience
+behavior (the "Business")."
+
+                  (b) The first sentence of Section 1.2 of the Services
+Agreement is amended and restated in its entirety to read, "The Company hereby
+grants to NPD and its affiliated companies a perpetual, non-forfeitable,
+worldwide license (the "License") to use the Software in the operation of its
+businesses; PROVIDED, HOWEVER, that such Software may not be used by NPD or its
+affiliated companies in furtherance of, or for, any purpose which is the same
+as, or substantially similar to, the Business."
+
+         2. ESTOPPEL FROM ENFORCEMENT OF THE PATENT. So long as the Services
+Agreement is in full force and effect and no assignment or transfer of the
+rights of either NPD or JMXI under the terms of the Services Agreement occurs,
+NetRatings hereby agrees that it shall not seek to enforce its rights under the
+Patent against NPD to the extent that the Patent may otherwise limit or impair
+the usage of the "data bases" (as such term is used in Section 1.2 of the
+Services Agreement) or the Software (as such term is defined in the preamble of
+the Services Agreement). Effective, and contingent, upon the termination of the
+Services Agreement, NetRatings hereby agrees to grant NPD and its affiliated
+companies a non-exclusive, worldwide, non-sublicensable, irrevocable,
+non-transferable, limited right to exploit the Patent in any manner other than
+in furtherance of, or for, any purpose which is the same as, or substantially
+similar to, the Business subject to the payment of an annual royalty fee of
+$30,000 per annum, paid in advance on January 1 of each calendar year, and in
+advance, pro-rated on a monthly basis for each month preceding January 1, 2003.
+Such limited right to exploit the Patent may be terminated at the sole option of
+NPD upon 120 days advance written notice by NPD to NetRatings prior to December
+31 of each year.
+
+         3. NO FURTHER AMENDMENT. Notwithstanding any other term or provision of
+the Services Agreement, JMXI and NPD each agree not to (a) either further amend
+the Services Agreement or (b) waive either party's rights or obligations under
+the Services Agreement, without first obtaining the consent of NetRatings.
+Nothing in this section 3 shall be construed so as to prevent either JMXI or NPD
+from terminating the Services Agreement in accordance with Section 2 of the
+Services Agreement.
+
+         4. FULL FORCE. Except as expressly set forth above, the Services
+Agreement shall remain in full force and effect as written.
+
+
+<PAGE>
+
+
+
+         IN WITNESS WHEREOF, the parties have duly executed and delivered this
+First Amendment to the Services Agreement as of this 7th day of May, 2002.
+
+
+THE NPD GROUP, INC.                              JUPITER MEDIA METRIX, INC.
+
+By: /s/ Tod Johnson                              By: /s/ Jean Robinson
+
+Name: Tod Johnson                                Name:  Jean Robinson
+
+Title: Chairman and Chief Executive Officer      Title:  Chief Financial Officer
+
+
+NETRATINGS, INC.
+
+By: /s/ William Pulver
+
+Name: William Pulver
+
+Title: President and Chief Executive Officer
+
+
+
+
+</TEXT>
+</DOCUMENT>

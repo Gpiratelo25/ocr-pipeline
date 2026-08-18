@@ -1,0 +1,464 @@
+<DOCUMENT>
+<TYPE>EX-10.48.2
+<SEQUENCE>3
+<FILENAME>p15265_ex10-48.txt
+<DESCRIPTION>AMENDMENT NO. 2 TO PURCHASE & SUPPLY AGREEMENT
+<TEXT>
+
+                             Confidential Treatment Requested    Exhibit 10.48.2
+
+                AMENDMENT NO. 2 TO PURCHASE AND SUPPLY AGREEMENT
+
+         This Amendment No. 2 to Purchase and Supply  Agreement  ("Amendment No.
+2") is entered into by and between Spectrian Corporation, a Delaware corporation
+("Spectrian")  and  UltraRF,  Inc.,  a North  Carolina  corporation  ("UltraRF")
+formerly  known as Zoltar  Acquisition,  Inc. and a  wholly-owned  subsidiary of
+Cree, Inc., effective as of March 31, 2002 ("Amendment Effective Date").
+
+                                    Recitals
+
+A.  Spectrian  and UltraRF  previously  have  entered into a Purchase and Supply
+Agreement  dated December 29, 2000 and with an effective date of January 1, 2001
+(the  "Supply  Agreement"),  which was amended by the  Amendment of Purchase and
+Supply  Agreement  dated October 19, 2001  ("Amendment No. 1"). (As used herein,
+"Agreement" refers to the Supply Agreement, as amended by Amendment No. 1 and by
+this Amendment No. 2.)
+
+B. Under the Supply  Agreement and Amendment No. 1, UltraRF  agreed to supply to
+Spectrian  certain  electronic  components,  and Spectrian  agreed to purchase a
+number of those  components  equal to a  minimum  price  within a  defined  time
+period.
+
+C. The parties wish to, among other things, adjust the minimum purchase amounts,
+to extend the term of the Agreement,  to revise which products will be delivered
+under existing  purchase  orders,  and to modify and clarify certain  provisions
+regarding future deliveries and adjustments in the minimum purchase commitments,
+on the terms and conditions of this Amendment No. 2.
+
+                                    Agreement
+
+         In  consideration  for the mutual  covenants set forth herein,  and for
+other good and valuable  consideration,  the receipt and sufficiency of which is
+hereby acknowledged, the parties agree as follows:
+
+1. Term of Agreement.  Section 1.1 of the Supply  Agreement is amended to extend
+the term by replacing Section 1.1 in its entirety with the following:
+
+                  Section  1.1 Term.  The term of this  Agreement  commences  on
+         January 1, 2001 (the "Effective  Date") and ends at the conclusion of a
+         thirty (30) month period  following the Effective  Date,  which is June
+         30, 2003 (the "Term").
+
+                                      -1-
+<PAGE>
+                                              Confidential  Treatment  Requested
+
+2. Minimum Commitments.
+
+         (a)  Section 1.2 of the Supply  Agreement,  as modified by Section 1 of
+Amendment No. 1, is amended by revising the table of Minimum Commitments to read
+as follows:
+
+              Calendar Quarter Ending             Minimum Commitment
+         --------------------------------       ----------------------
+
+         March 31, 2001 (Q1'01)                      $  6,800,000
+         June 30, 2001 (Q2'01)                       $  7,500,000
+         September 30, 2001 (Q3'01)                  $  8,300,000
+         December 31, 2001 (Q4'01)                   $  7,500,000
+         March 31, 2002 (Q1'02)                      $  3,400,000
+         June 30, 2002 (Q2'02)                       $  5,000,000
+         September 30, 2002 (Q3'02)                  $  5,000,000
+         December 31, 2002 (Q4'02)                   $  5,000,000
+         March 31, 2003 (Q1'03)                      $  5,000,000
+         June 30, 2003 (Q2'03)                       $  1,250,000
+
+         (b) UltraRF  acknowledges  that  Spectrian  has  satisfied  the Minimum
+Commitment for each of the five calendar quarters from the Effective Date of the
+Supply Agreement through March 31, 2002.
+
+         (c) For each of the calendar quarters  beginning on or after October 1,
+2002,  if the  aggregate  purchase  price for  Components  delivered in any such
+calendar  quarter  exceeds  the  Minimum  Commitment,  then up to $[***] of such
+excess will be carried forward and used to reduce the Minimum Commitment for the
+immediately  succeeding  calendar  quarter.   Notwithstanding  anything  in  the
+Agreement to the contrary,  including,  without  limitation,  the  provisions of
+Sections  1.2, 2.2 and 3.1 of the Supply  Agreement,  and Section 2 of Amendment
+No. 1, unless otherwise agreed to in writing by the parties,  during each of the
+calendar  quarters  ending June 30,  2002,  September  30, 2002 and December 31,
+2002,  UltraRF  will not and is not  obligated to ship  Components  to Spectrian
+having  an  aggregate   purchase  price  that  exceeds  the  respective  Minimum
+Commitment  amount referred to above in Section 2(a) of this Amendment No. 2 for
+such calendar quarters.
+
+3. Certain Defined Terms.
+
+         (a) For  purposes of this  Agreement,  "New  Components"  are  discrete
+Components  that  incorporate  devices  based on UltraRF's  LDMOS 8 or LDMOS 8.5
+process technology.
+
+         (b) For purposes of this  Agreement,  "Older  Components"  are discrete
+Components  that  incorporate   devices  based  on  UltraRF's  LDMOS  7  process
+technology, or on its bi-polar process technology.
+
+         (c) For  purposes of this  Agreement,  "Development  Period"  means the
+nine-month  period referred to in Section 1.4(a) of the Supply Agreement as such
+period may be modified or extended by the terms of this Amendment No. 2.
+
+4. Revisions to Existing Firm Orders for Delivery in Q1 2002.
+
+         (a) Section 5, Section 6 and Section 7 of  Amendment  No. 1 are deleted
+in their  entirety.  To the extent any credit  would have been earned by UltraRF
+from  Spectrian  pursuant  to  Section 7 of  Amendment  No.  1,  that  credit is
+considered cancelled.
+
+[***]  Confidential  treatment  requested pursuant to a request for confidential
+treatment filed with the Securities and Exchange  Commission.  Omitted  portions
+have been filed separately with the Commission.
+
+                                      -2-
+<PAGE>
+                                              Confidential  Treatment  Requested
+
+         (b)  Spectrian  previously  delivered  to UltraRF and UltraRF  accepted
+(pursuant  to  Sections  2.2 and 2.4 of the Supply  Agreement)  Firm  Orders for
+Components to be delivered during Q1 2002 having an aggregate  purchase price of
+approximately  $7,500,000  (inclusive of the $[***] of Components referred to in
+Section 3 of  Amendment  No. 1). Those  orders were for New  Components  with an
+aggregate  purchase  price of $[***]  and  Older  Components  with an  aggregate
+purchase price of $[***].
+
+         (c)  In  Q1  2002,  UltraRF  delivered  and  Spectrian  accepted  Older
+Components  pursuant to the Firm Orders described in paragraph (b) above with an
+aggregate purchase price of approximately $3,400,000.  All remaining portions of
+the Firm Orders for Components for delivery in Q1 2002 are cancelled and neither
+party has any further obligation therefor with respect to products not delivered
+prior to the execution date of this Amendment No. 2.
+
+5. Revisions to Existing Firm Orders for Delivery in Q2 2002.
+
+         (a)  Spectrian  previously  delivered  to UltraRF and UltraRF  accepted
+(pursuant  to  Sections  2.2 and 2.4 of the Supply  Agreement)  Firm  Orders for
+Components to be delivered during Q2 2002 having an aggregate  purchase price of
+$[***]. Those orders were for New Components with an aggregate purchase price of
+$[***] and Older Components with an aggregate purchase price of $[***]. All such
+Firm Orders are cancelled and neither party has any further obligation therefor.
+
+         (b) Within five business days after the execution of this Amendment No.
+2  Spectrian  will  deliver,  and  UltraRF  will  accept,  new Firm  Orders  for
+Components to be delivered during Q2 2002 for which the aggregate purchase price
+will be $[***],  based on the  Component  prices  separately  agreed upon by the
+parties,  in accordance  with the following,  subject to adjustment  pursuant to
+Section 8 below:(i)  New  Components  will  represent no more than $[***] of the
+$[***] total  aggregate  purchase  price,  of which 30 Watt New Components  will
+represent at least $[***] of the total aggregate  purchase price, and (ii) Older
+Components will represent at least $[***] of the $[***] total aggregate purchase
+price,  of  which  approximately  $[***]  will  be for  LDMOS 7  Components  and
+approximately $[***] will be for bi-polar Components(with the exact mix of those
+Older Components as agreed upon by the parties).
+
+6. Qualification of Drop-in Compatible Parts.
+
+         (a)  Section  8 and  Section  9 of  Amendment  1 are  deleted  in their
+entirety.
+
+         (b) UltraRF shall use all  commercially  reasonable  efforts to produce
+and fully  qualify  (i.e.,  successfully  passing the 1000 hour burn-in test) by
+June 30, 2002,  and to deliver to  Spectrian by June 30, 2002 in the  quantities
+ordered pursuant to Section 5 above, New Components that are Drop-in  Compatible
+Parts (as defined below). Each party shall provide timely access to each other's
+personnel  and  relevant  technical  information  and  equipment as necessary or
+helpful  to  produce  and  fully  qualify  Drop-in  Compatible  Parts  and shall
+cooperate  in good faith to produce and fully  qualify New  Components  that are
+Drop-in  Compatible  Parts  by June  30,  2002.  UltraRF's  sole  liability  and
+Spectrian's  sole  remedy  for delay or failure in  delivery  of New  Components
+ordered for delivery in Q2 2002 is the reduction of the Minimum  Commitments set
+forth in Section 8 below.
+
+         (c) (i) For purposes of this Agreement,  a Component will be considered
+to be a "Drop-in  Compatible Part" and will be deemed to meet the  "Competitive"
+requirements within the meaning of Section 1.4(a) of the Supply Agreement (other
+than  subparagraphs  (iii),  (iv) and (v)  thereof)  if it can be placed  into a
+Spectrian product and meets all of the following requirements:  (A) it must have
+comparable  yield (equal to or greater) and  consistency  required by the system
+which would be achieved using the other  vendor's  Locked-in  Component,  (B) it
+must  have  mechanically  compatible  packages  and  (C)  it  meets  performance
+requirements as specified in the Spectrian  Source Control  Document  ("SCD") in
+the  application  circuit,  as designed using the Locked In Components (it being
+understood that the SCD must reflect the system and application requirements and
+be met by the Locked-in Component). Should it be necessary,  Spectrian agrees to
+allow limited circuit  changes to the application  circuit to achieve the system
+and application  performance  relative to the above requirements.  These limited
+changes may include changes to the printed circuit  pattern,  re-positioning  of
+components and transistors  and/or changes of component  values,  provided those
+changes
+
+[***]  Confidential  treatment  requested pursuant to a request for confidential
+treatment filed with the Securities and Exchange  Commission.  Omitted  portions
+have been filed separately with the Commission.
+
+                                       -3-
+<PAGE>
+                                              Confidential  Treatment  Requested
+
+conform to currently employed design practices.  These limited changes shall not
+include:  (x) changes to the printed  circuit board substrate  material  (either
+manufacturer  or   specification)  or  (y)  changes  to  the  absolute  external
+dimensions  of the product  subassembly.  The SCD must be  delivered  to UltraRF
+within a two-week  period  after  Spectrian  provides  UltraRF  with the lock-in
+notice and may change after that date without extending the Development  Period.
+However, if Spectrian makes significant changes to the SCD during the last three
+months of the Development  Period, then the Development Period shall be extended
+by a period of up to three months from the effective date of the change to allow
+for adaptation to accommodate the significant change.  UltraRF acknowledges that
+Spectrian will be deemed to have timely  delivered the SCD to UltraRF within the
+required two weeks after the lock-in date for Locked In Components [***], [***],
+[***] and [***]  (which are listed in Section  7(a)),  if such SCD is  delivered
+within  five days after the date that this  Amendment  No. 2 is signed.  For all
+other Locked In Components  listed in Sections 7(a) and 7(b),  Spectrian will be
+deemed to have timely delivered the SCD to UltraRF within the required two weeks
+after the  lock-in  date,  if such SCD is  delivered  within 15 days  after this
+Amendment No. 2 is signed.
+
+                  (ii) In the event that the parties,  acting in good faith, are
+unable to agree on whether a  Component  supplied  by  UltraRF  meets all of the
+criteria in Section  6(c)(i),  then the  Component  will be  considered  a "Drop
+Compatible Part" only if it meets the "Competitive"  requirements established in
+accordance with Section 1.4(a) of the Supply Agreement.
+
+                  (iii) The  parties  shall  cooperate  in good  faith to timely
+determine  whether an UltraRF device  qualifies as a "Drop-in  Compatible  Part"
+hereunder.
+
+         (d) A "Replacement Part" is either (i) a Locked In Component identified
+in Section 7(b) of this  Amendment No. 2 that is not available from UltraRF as a
+Drop In  Compatible  Part at any time after the  expiration  of the  Development
+Periods  set  forth  in  Section  7  below,  or (ii) a Drop In  Compatible  Part
+available  from a third  party to  replace a  Component  that  UltraRF  had been
+delivering  regularly (whether a New Component or an Older Component),  but that
+it no longer delivers or that is no longer a Drop in Compatible Part (other than
+End of Life Components covered under Section 1.5 of the Supply Agreement,  which
+continue to be subject to that Section 1.5),  provided that Spectrian  furnishes
+written notice to UltraRF of the lack of compatibility  and UltraRF has a 30 day
+period  thereafter  to cure or, if the SCD should change as described in Section
+6(c), the  Development  Period shall be extended for the period therein  stated.
+The Minimum  Commitment will be reduced by the aggregate  invoice purchase price
+of all like Replacement Parts ordered by Spectrian for delivery in that quarter,
+with the reduction  effective in the quarter that Spectrian  accepts delivery of
+the  Replacement  Parts from the vendor,  provided that the reduction  shall not
+exceed Spectrian's internally forecasted demand as approved by Spectrian's Board
+of Directors or senior management, a copy of which shall be furnished to UltraRF
+upon  request.  If UltraRF  later  makes  available  a fully  qualified  Drop-in
+Compatible Part to replace the Replacement Part, then Spectrian will order those
+Components from UltraRF,  for delivery after (x) a reasonable  design-in time in
+the case of Locked In Components  (taking into account the type of Component and
+customary  industry  design-in  standards)  plus  (y) a  reasonable  lead  time;
+provided  that  if the  lead  time is  greater  than  UltraRF's  lead  time  and
+cancellation  or  rescheduling  of the order  would  require  payment  of a fee,
+UltraRF  may (at its  option)  pay that fee and  deliver  Components  under this
+Agreement beginning as soon as the end of the design-in time.
+
+         (e)  Locked In  Components  identified  in  Section  7(a) below are not
+eligible to become Replacement Parts under this Section 6.
+
+[***]  Confidential  treatment  requested pursuant to a request for confidential
+treatment filed with the Securities and Exchange  Commission.  Omitted  portions
+have been filed separately with the Commission.
+
+                                       -4-
+<PAGE>
+                                              Confidential  Treatment  Requested
+
+7. Identification of Locked In Components.
+
+         (a) For all purposes under this  Agreement  except Section 6(d) of this
+Amendment  No. 2, the  parties  acknowledge  that,  to the extent the  following
+Components are based on the Motorola  equivalent  process to UltraRF's LDMOS 8.0
+or 8.5 process, the following parts are Locked In Components as of July 1, 2001,
+with a Development Period ending on April 1, 2002:
+
+                  [***]
+                  [***]
+                  [***]
+                  [***]
+
+         (b) For all purposes under this Agreement, the parties acknowledge that
+following  parts are Locked In Components,  with a Notice or Lock In Date and an
+expected end of Development Period set forth below:
+
+    Part          Notice or Lock In Date     Expected End of Development Period
+-------------    ------------------------   ------------------------------------
+
+   [***]                   [***]                        [***]
+   [***]                   [***]                        [***]
+   [***]                   [***]                        [***]
+   [***]                   [***]                        [***]
+   [***]                   [***]                        [***]
+   [***]                   [***]                        [***]
+   [***]                   [***]                        [***]
+   [***]                   [***]                        [***]
+   [***]                   [***]                        [***]
+
+         (c)  Notwithstanding  Section  1.4 of the Supply  Agreement,  after the
+Amendment  Effective  Date a component  will be considered a Locked In Component
+pursuant to Section 1.4(b) of the Supply  Agreement:  (i) if production parts of
+such  component are  commercially  available,  then upon written notice given by
+Spectrian  to  UltraRF  identifying  the  particular  component,  provided  that
+Spectrian provides UltraRF  substantially  complete Source Control Documents for
+such component within two weeks thereafter, and (ii) if production parts of such
+component  are not  commercially  available,  then when  Spectrian  has provided
+UltraRF a substantially complete Source Control Document for such component.
+
+8.  Effect on Firm  Orders in Q2 2002 of  Failure  to Produce  and  Qualify  New
+Components  Drop-in  Compatible  Parts.  If UltraRF  does not  deliver the fully
+qualified New Component  Drop-in  Compatible Parts (including  either or both of
+the 30 Watt versions and 45 Watt versions) on or before June 30, 2002,  then the
+Firm Orders for Q2 2002 will be modified as follows:
+
+         (a) If by June  30,  2002  UltraRF  delivers  30 Watt  versions  of New
+Component  Drop-in  Compatible  Parts but not 45 Watt  versions of New Component
+Drop-in  Compatible Parts, then Spectrian's  orders for delivery in Q2 2002 will
+be amended by  canceling  the orders for the 45 Watt  versions  and by adding an
+additional  amount of 30 Watt versions of New Components (but only to the extent
+UltraRF is capable of supplying such  Components) and Older  Components based on
+the  LDMOS 7  process  such  that the  aggregate  purchase  price of  Components
+delivered in Q2 2002 will be $[***],  or Spectrian may alternatively pay UltraRF
+cash in an amount equal to the Shortfall  Surcharge as defined in Section 1.2 of
+the Supply Agreement.  In other words,  assuming the foregoing mix is delivered,
+the  Minimum  Commitment  for Q2 2002 will be  reduced  to $[***]  and the total
+Minimum Commitments will be reduced by $[***].
+
+[***]  Confidential  treatment  requested pursuant to a request for confidential
+treatment filed with the Securities and Exchange  Commission.  Omitted  portions
+have been filed separately with the Commission.
+
+                                      -5-
+<PAGE>
+                                              Confidential  Treatment  Requested
+
+         (b) If by June 30, 2002  UltraRF  does not  deliver  any New  Component
+Drop-in  Compatible Parts, then Spectrian's  orders for delivery in Q2 2002 will
+be amended by  canceling  the  orders  for the New  Components  and by adding an
+additional  amount for Older  Components  based on the LDMOS 7 process such that
+the aggregate purchase price of Components  delivered in Q2 2002 will be $[***],
+or  Spectrian  may  alternatively  pay  UltraRF  cash in an amount  equal to the
+Shortfall Surcharge as defined in Section 1.2 of the Supply Agreement.  In other
+words,  assuming the foregoing mix is delivered,  the Minimum  Commitment for Q2
+2002 will be reduced to $[***] and the total Minimum Commitments will be reduced
+by $[***].
+
+         (c) Spectrian is not required to purchase  additional  components  from
+another  vendor to obtain a  reduction  in the  Minimum  Commitment  under  this
+Section 8.
+
+9.  Effect on Firm  Orders in Q3 2002 and  Thereafter  of Failure to Produce and
+Qualify New Component Drop-in Compatible Parts.
+
+         (a) If UltraRF  does not  deliver  any fully  qualified  New  Component
+Drop-in  Compatible  Parts on or  before  June 30,  2002,  then for  orders  for
+delivery in Q3 2002 and  thereafter,  the Minimum  Commitment will be reduced by
+$[***] for each calendar month thereafter in which fully qualified New Component
+Drop-in  Compatible  Parts are not  delivered  on or before the last day of that
+month.  Reductions in the Minimum  Commitment  under this paragraph may be up to
+$[***] per quarter,  up to a maximum of the total  Minimum  Commitment  for that
+quarter.
+
+         (b) If UltraRF does not deliver fully qualified 45 Watt versions of New
+Component  Drop-in  Compatible Parts on or before June 30, 2002, then for orders
+for delivery in Q3 2002 and thereafter,  Spectrian will accept delivery of fully
+qualified 30 Watt versions of New Component  Drop-in  Compatible Parts up to the
+greater of (i) $[***] or (ii) the purchase  order amount of 30 Watt  versions in
+each calendar month thereafter that the 45 Watt versions are not available.  The
+Minimum  Commitment will be reduced by $[***] less the amount of delivered fully
+qualified  30 Watt  versions  for each month in which  fully  qualified  45 Watt
+versions of New  Component  Drop-in  Compatible  Parts are not  delivered  on or
+before the last day of the month. Reductions in the Minimum Commitment may be up
+to $[***] per quarter,  up to a maximum of the total Minimum Commitment for that
+quarter.  Spectrian  is not  required  to  order  any 30  Watt  versions  of New
+Components for delivery after  September 30, 2002, or to accept  delivery of any
+30 Watt versions after that date if the 45 Watt versions remain unavailable.
+
+         (c) Spectrian is not required to purchase  additional  components  from
+another  vendor to obtain a  reduction  in the  Minimum  Commitment  under  this
+Section 9.
+
+10. Payment Terms.  Section 1.8 of the Supply  Agreement is deleted and replaced
+in its entirety with the following:
+
+                  Section  1.8   Payment.   Spectrian   shall  pay  UltraRF  the
+         applicable  price for the  Components  that UltraRF  ships to Spectrian
+         hereunder  within  [**] days  after the date of the  invoice  for those
+         Components.  Payments  due to UltraRF  must be made in U.S.  Dollars by
+         Spectrian  by wire  transfer  to an  account  designated  in writing by
+         UltraRF from time to time.  All amounts not paid when due bear interest
+         at the rate of one  percent  per month (or such  other  percentage,  if
+         lower,  as  shall  not  exceed  the  maximum  rate  permitted  by law),
+         commencing  immediately  upon the due date  (i.e.,  the date  [**] days
+         after the invoice date).  Spectrian shall be responsible for reasonable
+         attorneys' fees and other  reasonable  expenses  incurred by UltraRF in
+         connection   with  the  collection  of  any  amounts  due  and  payable
+         hereunder.
+
+11. Cancellation.  All Firm Orders canceled pursuant to this Amendment No. 2 are
+considered  canceled  pursuant  to  Section  2.2 of  the  Supply  Agreement.  No
+penalties,  restocking  fees,  or any other fees that  otherwise  might apply to
+cancellation,  rescheduling,  failure to  accept,  or failure to submit an order
+apply to those cancellations.
+
+[***]  Confidential  treatment  requested pursuant to a request for confidential
+treatment filed with the Securities and Exchange  Commission.  Omitted  portions
+have been filed separately with the Commission.
+
+                                       -6-
+<PAGE>
+                                              Confidential  Treatment  Requested
+
+12. Entire Agreement.  The Supply Agreement,  as modified by, and together with,
+Amendment No. 1 and this  Amendment No. 2, is the entire  agreement  between the
+parties with respect to the subject  matter,  and  references to  "Agreement" in
+this  Amendment  No.  2, and in  Amendment  No. 1 or the  Supply  Agreement  are
+references to the Supply Agreement, as modified by, and together with, Amendment
+No. 1 and this Amendment No. 2.
+
+13. Supply Agreement Remains in Effect. Except as otherwise specified, all terms
+used  in this  Amendment  have  the  same  meaning  as  such  terms  have in the
+Agreement.  Except as specifically set forth in this Amendment, the relationship
+between the parties with respect to the subject matter of the Supply  Agreement,
+and the  rights and  obligations  of the  parties  thereunder,  continues  to be
+governed by the terms of the Supply  Agreement  (as amended by Amendment No. 1),
+the  provisions  of which  remain in full force and effect,  including,  without
+limitation,  Spectrian's  rights and obligations under Section 1.2 of the Supply
+Agreement  with respect to the  Shortfall  Shortage.  In the event of a conflict
+between the terms of the Supply  Agreement  (as amended by Amendment  No. 1) and
+the terms of this Amendment, the terms of this Amendment control.
+
+
+                            (signature page follows)
+
+
+
+                                       -7-
+<PAGE>
+
+                                                Confidential Treatment Requested
+
+      (signature page to Amendment No. 2 to Purchase and Supply Agreement)
+
+
+Accepted and Agreed:
+
+Spectrian Corporation                               UltraRF, Inc.
+
+
+By: /s/ Michael D. Angel                          By: /s/ M. Todd Tucker
+    -------------------------------------------       --------------------------
+    Michael Angel, Executive Vice President and       M. Todd Tucker, President
+    Chief Financial Officer
+
+Date:  April 5, 2002                              Date:  April 5, 2002
+       ----------------------------------------         ------------------------
+
+                                      -8-
+
+</TEXT>
+</DOCUMENT>

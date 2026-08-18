@@ -1,0 +1,601 @@
+<DOCUMENT>
+<TYPE>EX-10.A
+<SEQUENCE>4
+<FILENAME>h05502exv10wa.txt
+<DESCRIPTION>AMENDED GENERAL & ADMINISTRATIVE SERVICES AGMT
+<TEXT>
+<PAGE>
+                                                                    EXHIBIT 10.A
+
+
+                  GENERAL AND ADMINISTRATIVE SERVICES AGREEMENT
+
+         This General and Administrative Services Agreement (this "Agreement")
+is entered into as of May 5, 2003 by and among DeepTech International Inc., a
+Delaware corporation ("DII"), GulfTerra Energy Company, L.L.C., a Delaware
+limited liability company ("GTLLC"), and El Paso Field Services, L.P., a
+Delaware limited partnership ("EPFS"). DII, GTLLC and EPFS are sometimes
+referred to collectively herein as the "Parties" and individually as a "Party."
+
+                                    RECITALS
+
+         WHEREAS, GTLLC is a wholly-owned subsidiary of GulfTerra GP Holding
+Company, a Delaware corporation and wholly-owned subsidiary of DII, and the
+general partner (in such capacity, the "General Partner") of El Paso Energy
+Partners, L.P., a publicly-owned Delaware limited partnership (the
+"Partnership");
+
+         WHEREAS, all management powers over the business and affairs of the
+Partnership are exclusively vested in the General Partner and the General
+Partner is required to conduct, direct and exercise full control over all
+activities of the Partnership, including, among other things, providing various
+general and administrative resources;
+
+         WHEREAS, DII historically has provided certain operational, financial,
+accounting and other general and administrative services to El Paso Energy
+Partners Company, a Delaware corporation and former general partner (in such
+capacity, the "Old General Partner") of the Partnership through the General and
+Administrative Services Agreement dated April 8, 2002 (as amended, restated,
+supplemented or otherwise modified through the date hereof, the "Existing
+Agreement");
+
+         WHEREAS, pursuant to that certain Assignment and Assumption Agreement
+dated as of the date hereof by and between the Old General Partner and the
+General Partner, the Old General Partner has assigned and transferred to the
+General Partner the Old General Partner's 1% general partner interest in the
+Partnership, which the General Partner has taken and accepted; and
+
+         WHEREAS, the General Partner desires DII to provide to the General
+Partner those operational, financial, accounting and other general and
+administrative services under substantially the same terms and conditions that
+it provided to the Old General Partner under the Existing Agreement.
+
+         NOW, THEREFORE, in consideration of the premises and mutual covenants
+contained herein and other good and valuable consideration (the receipt and
+sufficiency of which are hereby confirmed and acknowledged), the Parties agree
+as follows:
+
+                                 I. DEFINITIONS
+
+         For purposes of this Agreement, the following capitalized terms shall
+have the following meanings:
+
+         "Affiliates" means, with respect to either Party, entities that
+directly or indirectly through one or more intermediaries control, or are
+controlled by, or are under common control with such
+
+
+
+
+                                       1
+<PAGE>
+
+
+Party, and the term "control" shall mean the possession, directly or indirectly,
+of the power to direct or cause the direction of the management and policies of
+an entity, whether through the ownership of voting securities, by contract or
+otherwise; provided, however, that (i) with respect to DII, the term "Affiliate"
+shall exclude each member of the Partnership Group and (ii) with respect to
+GTLLC, the term "Affiliate" shall exclude each member of the El Paso Group.
+
+         "Agreement" shall have the meaning set forth in the preamble.
+
+         "Communications Facilities" means communications equipment, towers and
+other facilities (including rights-of-way and fee property).
+
+         "Communications Services" means communications services, including: (i)
+providing access to Communication Facilities; (ii) providing use of
+Communication Facilities; (iii) maintaining bandwidth and network connectivity
+to meet the communications requirements for Partnership Facilities; (iv)
+transporting and networking of voice, data and video used to support field
+operations, including mobile radio systems, SCADA communications, telephone
+systems, videoconferencing and wide area and local area networking; (v)
+operating and maintaining the Communication Facilities so as to ensure reliable
+service at a consistent level across the entire network; (vi) operating and
+maintaining Communications Facilities in compliance with all applicable laws and
+regulations and in accordance with all licenses and permits; (vii) maintaining
+in full force and effect all rights-of-way used with respect to Communications
+Facilities; (viii) designing and engineering additions and modifications to the
+existing Communications Facilities so as to provide the above-described
+communications services for future growth and changes (as agreed to by the
+Parties); and (ix) all other communications-related services necessary for the
+operation of the Partnership Facilities consistent with their level of operation
+prior to the date of this Agreement.
+
+         "DII" shall have the meaning set forth in the preamble.
+
+         "El Paso Corporation" means El Paso Corporation, a Delaware
+corporation.
+
+         "El Paso Group" means, other than members of the Partnership Group, (i)
+each Affiliate of El Paso Corporation in which El Paso Corporation owns
+(directly or indirectly) an equity interest and (ii) each natural person that is
+an Affiliate of any person described in (i) above solely because of such natural
+person's position as an officer (or natural person performing similar
+functions), director (or natural person performing similar functions) or other
+representative of any person described in (i) above, but only to the extent that
+such natural person is acting in such capacity.
+
+         "GTLLC" shall have the meaning set forth in the preamble.
+
+         "EPFS" shall have the meaning set forth in the preamble.
+
+         "Existing Agreement" shall have the meaning set forth in the recitals.
+
+         "Fiscal Year" shall mean the period from July 1 through June 30.
+
+         "General Partner" shall have the meaning set forth in the recitals.
+
+
+
+                                       2
+<PAGE>
+
+         "Old General Partner" shall have the meaning set forth in the recitals.
+
+         "Party" and "Parties" shall have the meanings set forth in the
+preamble.
+
+         "Partnership" shall have the meaning set forth in the recitals.
+
+         "Partnership Agreement" shall mean Agreement of Limited Partnership of
+the Partnership, as amended, supplemented, restated or otherwise modified from
+time to time.
+
+         "Partnership Facilities" means all of the Partnership's assets and
+facilities.
+
+         "Partnership Group" means (i) GTLLC, (ii) the Partnership, (iii) each
+Affiliate of the Partnership in which the Partnership owns (directly or
+indirectly) an equity interest and (iv) each natural person that is an Affiliate
+of any person described in (i) - (iii) above solely because of such natural
+person's position as an officer (or natural person performing similar
+functions), director (or natural person performing similar functions) or other
+representative of any person described in (i) - (iii) above, but only to the
+extent that such natural person is acting in such capacity.
+
+         "Renewal Date" means December 31, 2005.
+
+                      II. DUTIES AND OBLIGATIONS OF GTLLC
+
+         2.1 General and Administrative. DII or any Affiliate or designee of DII
+shall provide non-exclusive management, employee-related and other related
+services to GTLLC, its subsidiaries and the Partnership through GTLLC, which
+shall include, but shall not be limited to, services related to acquisitions to
+be made by GTLLC, cash management, review of significant operating, financial
+opportunities, accounting, legal, engineering, commercial, human resources,
+information technology and such other management, employee-related and other
+general and administrative services as the Parties may from time to time agree.
+
+         2.2 Chief Executive Officer. In order to provide the services set forth
+in Section 2.1, DII shall provide to GTLLC the services of a Chief Executive
+Officer who shall serve with GTLLC in that capacity. The individual to serve as
+Chief Executive Officer of GTLLC shall be recommended by DII but shall be
+subject to the approval of the Board of Directors of GTLLC.
+
+         2.3 Communications Services. DII will, or will cause the applicable El
+Paso Group member to, provide Communications Services for the Partnership
+Facilities, as necessary or appropriate to operate the Partnership Facilities in
+the manner in which such facilities had been operated prior to the date of this
+Agreement. All Communications Services will be provided in a good and
+workmanlike manner, and in accordance with industry standards. DII will ensure
+that the Partnership has the right to inspect all Communications Facilities on
+reasonable (but no less than 24 hours) notice.
+
+                    III. COMPENSATION, EXPENSES AND PAYMENT
+
+         3.1 Fees. Prior to the date hereof, the annual compensation due DII
+from GTLLC for services provided pursuant to this Agreement shall accrue in
+accordance with the terms and conditions of the Existing Agreement. On and as of
+the date hereof through the term of this
+
+
+
+
+                                       3
+<PAGE>
+
+Agreement, the annual compensation (prorated for any portion of a month) due DII
+from GTLLC for services provided pursuant to this Agreement shall be (including
+costs associated with Communication Services) a fee of $2,900,000 per month.
+GTLLC shall also promptly reimburse DII for (i) amounts actually paid by DII for
+reasonable out-of-pocket expenditures to persons and entities other than the El
+Paso Group and who are directly engaged to provide goods or services to the
+Partnership Group, (ii) the value for the use of materials or equipment (other
+than in connection with Communications Services, which costs are included in the
+fee described in Section 4.1) provided by the El Paso Group to the Partnership
+Group (including, but not limited to, field equipment, vehicles and vessels) and
+(iii) to the extent of the actual time expended directly in connection with
+providing services to the Partnership Group, the corresponding portion of the
+salaries, wages and employee benefit costs of employees (1) who work in the
+field, (2) whose primary function is the direct supervision of employees who
+work in the field or (3) who have special and specific engineering, geological
+or other professional skills and whose primary function is addressing, resolving
+and otherwise handling operating conditions and problems related to assets of
+the Partnership Group. DII shall maintain time sheets and other appropriate
+records to substantiate such costs and allocations thereof.
+
+
+         3.2 Payment of Fee. For purposes of accounting and periodic payment,
+before the first day of each calendar month, DII shall present GTLLC with an
+invoice which reflects an amount equal to all reimbursable amounts. GTLLC shall
+pay such sum on or before the first day of that calendar month. On or before
+September 1 of each calendar year, DII shall furnish a statement to GTLLC
+detailing (i) payments made from GTLLC to DII for such Fiscal Year and (ii) any
+adjustment balance due to/from DII. Within 15 days of the date of such
+statement, GTLLC or DII, as applicable, shall remit the balance due.
+
+         3.3 Uncompensated Services. It is recognized by the Parties that DII is
+the sole member of GTLLC. It is expressly acknowledged and agreed by the Parties
+that the compensation to DII provided for in Section 3.1 is solely to compensate
+DII for services to be rendered by DII to GTLLC or on GTLLC's behalf which are
+of direct benefit to GTLLC and such compensation is not and shall not be related
+to DII's status as a member of GTLLC.
+
+                  IV. ACCESS TO INFORMATION, BOOKS AND RECORDS
+
+         DII and its duly authorized representatives shall have complete access
+to GTLLC's offices, facilities and records wherever located, in order to
+discharge DII's responsibilities hereunder; provided, however, that GTLLC shall
+provide and make available to DII and its duly authorized representatives at
+DII's Houston offices, at DII's request, all such records required by DII to
+perform its duties pursuant to this Agreement. All records and materials
+furnished to DII by GTLLC in performance of this Agreement shall at all times
+during the term of this Agreement remain the property of GTLLC.
+
+                    V. TERM AND TERMINATION OF THE AGREEMENT
+
+         5.1 Initial and Extended Term. This Agreement shall be in effect until
+the Renewal Date subject, however, to the terms of Section 5.2. Beginning on the
+Renewal Date, this
+
+
+
+                                       4
+<PAGE>
+
+Agreement shall continue in full force and effect for subsequent one-year
+periods unless terminated by either Party pursuant to Section 5.2.
+
+         5.2 Termination. This Agreement may be sooner terminated on the first
+to occur of the following:
+
+                  (a) Termination by Mutual Agreement. If the Parties so
+         mutually agree in writing, this Agreement may be terminated on the
+         terms and dates stipulated therein.
+
+                  (b) Optional Termination. Any Party may, 90 days prior to the
+         Renewal Date or any anniversary thereof, provide to the other Parties
+         written notice of its intent to terminate this Agreement on such date,
+         whereupon this Agreement shall terminate on the date specified in such
+         notice.
+
+                  (c) Uncorrected Material Breach. If any Party shall fail to
+         discharge any of its material obligations hereunder, or shall commit a
+         material breach of this Agreement, and such default or breach shall
+         continue for a period of 30 days after any other Party has served
+         notice of such default, this Agreement may then be terminated at the
+         option of such noticing Party by notice thereof to the other Parties.
+
+         5.3 Effects of Termination. Except for covenants or other provisions
+herein that, by their terms, expressly extend beyond the term of this Agreement,
+the Parties' obligations hereunder are limited to the term of this Agreement.
+
+         5.4 GTLLC's Remedies. If DII shall at any time owe or otherwise become
+liable to GTLLC for any amount pursuant to the terms of this Agreement, in
+addition to GTLLC's other rights hereunder, at law or in equity, GTLLC shall
+have the right to offset any such amount against any amount held by GTLLC for
+the account of DII and against any amount otherwise due or to become due to DII
+from GTLLC.
+
+                           VI. INDEMNIFICATION OF DII
+
+         GTLLC hereby agrees to indemnify and hold harmless DII from and against
+any and all claims, courses of action, liabilities, damages, costs, charges,
+fees, expenses (including reasonable attorneys' fees and expenses to be
+reimbursed as incurred), suits, order, judgments, adjudications and losses of
+whatever nature and kind which DII or its Affiliates or designees or for which
+DII or its Affiliates or designees become liable as the result of the
+performance of DII's obligations and duties pursuant to this Agreement;
+provided, however, that GTLLC shall not be obligated to indemnify DII for any
+claims, courses of action, liabilities, damages, costs, charges, fees, expenses
+(including reasonable attorneys' fees and expenses to be reimbursed as
+incurred), suits, order, judgments, adjudications and losses attributable to the
+gross negligence or willful misconduct of DII or its Affiliates or
+subcontractors.
+
+                            VII. OBLIGATIONS OF EPFS
+
+         EPFS executes this Agreement for the sole purpose of assuming all
+obligations of DII hereunder and agrees to fully and timely perform and
+discharge (including the payment of money) all obligations and liabilities of
+DII now existing or hereafter arising under this
+
+
+
+
+                                       5
+<PAGE>
+
+Agreement and hereby agrees that if DII shall fail (i) to pay any amount when
+and as the same shall be due and payable by DII to GTLLC or (ii) timely to
+perform and discharge in full any other obligation or liability in accordance
+with the terms of this Agreement, EPFS will forthwith pay to GTLLC such amount
+or perform and discharge any such obligation or liability, as the case may be,
+as such payment or performance and discharge is required to be made or done by
+the DII pursuant to the terms of this Agreement.
+
+                              VIII. MISCELLANEOUS
+
+         8.1 Relationship of Parties. This Agreement does not create a
+partnership, joint venture or association; nor does this Agreement, or the
+operations hereunder, create the relationship of lessor and lessee or bailor and
+bailee. Nothing contained in this Agreement or in any agreement made pursuant
+hereto shall ever be construed to create a partnership, joint venture or
+association, or the relationship of lessor and lessee or bailor and bailee, or
+to impose any duty, obligation or liability that would arise therefrom with
+respect to either or both or the Parties. Specifically, but not by way of
+limitation, except as otherwise expressly provided for herein, nothing contained
+herein shall be construed as imposing any responsibility on DII for the debts or
+obligations of GTLLC or any if its Affiliates. It is expressly understood that
+DII is hereby engaged by GTLLC to provide management and operational services as
+an agent of GTLLC. DII, its Affiliates and designees shall have the right to
+render similar services for other business entities and persons, including its
+own, whether or not engaged in the same business as GTLLC, and may enter into
+such other business activities as DII and its Affiliates, in their sole
+discretion, may determine.
+
+         8.2 No Third Party Beneficiaries. Except to the extent (i) that GTLLC
+utilizes services provided hereunder by DII to perform its obligations as
+General Partner to the Partnership in accordance with the terms of the
+Partnership Agreement or (ii) a third party is expressly given rights herein,
+any agreement herein contained, expressed or implied, shall be only for the
+benefit of the Parties and their respective legal representatives, successors,
+and permitted assigns, and such agreements or assumption shall not inure to the
+benefit of any other party whomsoever, it being the intention of the Parties
+that no person or entity shall be deemed a third party beneficiary of this
+Agreement except to the extent a third party is expressly given rights herein.
+
+         8.3 General Representations. Each Party represents and warrants that on
+the date hereof: (i) it is either a corporation or a limited liability company
+(as applicable), duly established, validly existing and in good standing under
+the laws of its state or jurisdiction of incorporation, with power and authority
+to carry on the business in which it is engaged and to perform its respective
+obligations under this Agreement; (ii) the execution and delivery of this
+Agreement have been duly authorized and approved by all requisite corporate
+action; (iii) it has all the requisite corporate power and authority to enter
+into this Agreement and to perform its obligations hereunder; and (iv) the
+execution and delivery of this Agreement do not, and consummation of the
+transactions contemplated herein shall not, violate any of the provisions of its
+certificate of incorporation or certificate of formation (as applicable) or
+bylaws or limited liability company agreement (as applicable) or any applicable
+state or federal laws applicable to it.
+
+
+
+                                       6
+<PAGE>
+
+         8.4 Notices. All notices, requests, demands, claims, and other
+communications hereunder shall be in writing. Any notice, request, demand,
+claim, or other communication hereunder shall be deemed duly given two business
+days after it is sent by registered or certified mail, return receipt requested,
+postage prepaid, and addressed to the intended recipient as set forth below:
+
+If to DII, to:                              DeepTech International Inc.
+                                            Attention:  President
+                                            El Paso Building
+                                            1001 Louisiana
+                                            Houston, Texas  77002
+                                            (713) 420-2600
+
+If to GTLLC, to:                            GulfTerra Energy Company, L.L.C.
+                                            Attention:  President
+                                            4 Greenway Plaza
+                                            Houston, Texas  77046
+                                            (832) 676-6152
+
+If to EPFS, to:                             El Paso Field Services, L.P.
+                                            Attention:  President
+                                            El Paso Building
+                                            1001 Louisiana
+                                            Houston, Texas  77002
+                                            (713) 420-2600
+
+
+Any Party may send any notice, request, demand, claim, or other communication
+hereunder to the intended recipient at the addresses set forth above using any
+other means (including personal delivery, expedited courier, messenger service,
+telecopy, ordinary mail, or electronic mail), but no such notice, request,
+demand, claim, or other communication shall be deemed to have been duly given
+unless and until it actually is received by the intended recipient. Any Party
+may change the address to which notices, requests, demands, claims, and other
+communications hereunder are to be delivered by giving the other Party notice in
+the manner herein set forth.
+
+         8.5 GOVERNING LAW. THIS AGREEMENT HAS BEEN EXECUTED AND DELIVERED AND
+SHALL BE INTERPRETED, CONSTRUED, GOVERNED AND ENFORCED PURSUANT TO AND IN
+ACCORDANCE WITH THE LAWS OF THE STATE OF TEXAS WITHOUT REGARD TO ANY CHOICE OR
+CONFLICT OF LAW PRINCIPLES (WHETHER OF THE STATE OF TEXAS OR ANY OTHER
+JURISDICTION) WHICH, IF APPLIED, MIGHT PERMIT OR REQUIRE THE APPLICATION OF THE
+LAWS OF ANY JURISDICTION OTHER THAN THE STATE OF TEXAS.
+
+         8.6 Assignment. No assignment of this Agreement or any of the rights or
+obligations set forth herein by either Party shall be valid without the specific
+written consent of the other Party; provided, however, that DII shall have the
+right to assign its rights and obligations under this Agreement to any Affiliate
+without the consent of GTLLC, and any such Affiliate may
+
+
+
+                                       7
+<PAGE>
+
+reassign such rights and obligations so long as such rights and obligations are
+not assigned to any entity other than an Affiliate of DII.
+
+         8.7 Waiver of Breach. The waiver by either Party of a breach or
+violation of any provision of this Agreement, whether intentional or not, shall
+not operate as, or be construed to be, a waiver of any subsequent breach of the
+same or any other provision hereof.
+
+         8.8 Additional Assurances. The provisions of this Agreement shall be
+self-operative and shall not require further accord between the Parties except
+as may herein specifically be provided to the contrary; provided, however, that
+at the request of either Party, the other Parties shall execute such additional
+instruments and take such additional actions as shall be necessary to effectuate
+this Agreement.
+
+         8.9 Severability. If any provision of this Agreement is held to be
+unenforceable for any reason, such provision shall be severable from this
+Agreement if it is capable of being identified with and apportioned to
+reciprocal consideration or to the extent that it is a provision that is not
+essential and the absence of which would not have prevented the Parties from
+entering into this Agreement. The unenforceability of a provision that has been
+performed shall not be grounds for invalidation of this Agreement under
+circumstances in which the true controversy between the Parties does not involve
+such provision.
+
+         8.10 Article and Section Headings. The article and section headings
+contained in this Agreement are for reference purposes only and shall not affect
+in any way the meaning of interpretation of this Agreement.
+
+         8.11 Amendments. No amendment of any provision of this Agreement shall
+be valid unless the same shall be in writing and signed by each Party.
+
+         8.12 Entire Agreement. This Agreement (including the documents referred
+to herein) supersedes all previous understandings, representations, contracts or
+agreements, written, oral or otherwise, between the Parties and constitutes the
+entire Agreement between the Parties with respect to the subject matter of this
+Agreement, and no changes in or additions to this Agreement shall be recognized
+unless incorporated herein by written amendment.
+
+         8.13 Construction. The Parties have participated jointly in the
+negotiation and drafting of this Agreement. If an ambiguity or question of
+intent or interpretation arises, this Agreement shall be construed as if drafted
+jointly by the Parties and no presumption or burden of proof shall arise
+favoring or disfavoring any Party by virtue of the authorship of any of the
+provisions of this Agreement. Any reference to any federal, state, local, or
+foreign statute or law shall be deemed also to refer to all rules and
+regulations promulgated thereunder, unless the context requires otherwise. The
+word "including" shall mean "including without limitation". All personal
+pronouns used in this Agreement, whether used in the masculine, feminine or
+neuter gender, shall include all other genders; the singular shall include the
+plural, and vice versa. All references herein to Exhibits, Schedules, Articles,
+Sections or subdivisions thereof shall refer to the corresponding Exhibits,
+Schedules, Article, Section or subdivision thereof of this Agreement unless
+specific reference is made to such exhibits, articles, sections or subdivisions
+of another document or instrument. The terms "herein," "hereby," "hereunder,"
+"hereof," "hereinafter," and
+
+
+
+                                       8
+<PAGE>
+
+other equivalent words refer to this Agreement in its entirety and not solely to
+the particular portion of the Agreement in which such word is used.
+
+         8.14 Counterparts. This Agreement may be executed in counterparts, each
+of which shall be deemed an original but which together shall constitute one and
+the same instrument.
+
+         8.15 Termination of Existing Agreement. The Existing Agreement is
+hereby terminated.
+
+
+
+
+                                     *******
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       9
+<PAGE>
+
+
+         IN WITNESS WHEREOF, the Parties have caused this Agreement to be
+executed by their respective duly authorized representatives as of the day and
+year first above written.
+
+
+
+DII:                   DEEPTECH INTERNATIONAL INC.
+
+                       By:    /s/ D. Mark Leland
+                              ------------------------
+                       Name:  D. Mark Leland
+                       Title: Senior Vice President
+
+
+GTLLC:                 GULFTERRA ENERGY COMPANY, L.L.C.
+
+                       By:      /s/ D. Mark Leland
+                                ----------------------
+                       Name:    D. Mark Leland
+                       Title:   Senior Vice President
+
+
+EPFS:                  EL PASO FIELD SERVICES, L.P.
+
+                       By:      /s/ D. Mark Leland
+                               -----------------------
+                       Name:    D. Mark Leland
+                       Title:   Senior Vice President
+
+Solely with respect to Section 8.15:
+
+EL PASO ENERGY PARTNERS COMPANY, L.L.C.
+successor to El Paso Energy Partners Company
+
+
+By:      /s/ D. Mark Leland
+         ----------------------------
+Name:    D. Mark Leland
+Title:   Senior Vice President
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                [Signature Page]
+
+
+
+</TEXT>
+</DOCUMENT>

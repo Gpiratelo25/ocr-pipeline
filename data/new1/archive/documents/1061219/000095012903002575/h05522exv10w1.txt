@@ -1,0 +1,2704 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>3
+<FILENAME>h05522exv10w1.txt
+<DESCRIPTION>6TH AMEND.TO CONVEYANCE OF GAS PROCESSING RIGHTS
+<TEXT>
+<PAGE>
+                                                                    EXHIBIT 10.1
+
+PAGES WHERE CONFIDENTIAL TREATMENT HAS BEEN REQUESTED ARE MARKED "CONFIDENTIAL
+TREATMENT REQUESTED." THE REDACTED MATERIAL HAS BEEN SEPARATELY FILED WITH THE
+COMMISSION, AND THE APPROPRIATE SECTION HAS BEEN MARKED AT THE APPROPRIATE PLACE
+AND THE MARGIN WITH A STAR(*).
+
+
+
+
+
+
+                          SIXTH AMENDMENT TO CONVEYANCE
+                                       OF
+                              GAS PROCESSING RIGHTS
+
+
+
+
+                            DATED AS OF MARCH 1, 2003
+
+
+                                     BETWEEN
+
+                         ENTERPRISE GAS PROCESSING, LLC,
+
+                               SHELL OIL COMPANY,
+
+                     SHELL EXPLORATION & PRODUCTION COMPANY,
+
+                              SHELL OFFSHORE, INC.,
+
+                   SHELL CONSOLIDATED ENERGY RESOURCES, INC.,
+
+                          SHELL LAND & ENERGY COMPANY,
+
+                         SHELL FRONTIER OIL & GAS, INC.
+
+                                       AND
+
+                            SHELL GULF OF MEXICO INC.
+
+
+
+
+<PAGE>
+
+
+
+                                TABLE OF CONTENTS
+<TABLE>
+
+<S>                                                                                                              <C>
+RECITALS..........................................................................................................1
+1.      DEFINITIONS...............................................................................................3
+2.      TERM......................................................................................................6
+   2.1    PRIMARY AND SUCCESSIVE TERMS............................................................................6
+   2.2    Termination of Agreement................................................................................7
+   2.3    SURVIVAL PROVISION......................................................................................7
+     2.3.1     POST TERMINATION:  CONTINUATION AS TO COMMITTED LEASES.............................................7
+     2.3.2     POST TERMINATION: PROPOSALS FOR NEW VOLUMES........................................................7
+   2.4    EARLY TERMINATION OF ENTIRE AGREEMENT DUE TO UNPROFITABLE PROCESSING....................................7
+     2.4.1     RIGHT TO TERMINATE.................................................................................7
+     2.4.2     OBLIGATION TO CONTINUE PROCESSING..................................................................8
+3.      ASSIGNMENT OF GAS PROCESSING RIGHTS.......................................................................8
+   3.1    GRANT OF PROCESSING RIGHTS..............................................................................8
+   3.2    ATTACHMENT OF GAS PROCESSING RIGHTS.....................................................................8
+   3.3    PRODUCERS NONDISTURBANCE COVENANT; PRIOR RESERVATIONS OR CONTRACTS......................................9
+   3.4    PROCESSOR'S RIGHT TO CONSUME PTR........................................................................9
+   3.5    TITLE TO RAW MAKE, PRODUCTS, PROCESSOR'S RETROGRADE AND PTR.............................................9
+   3.6    LIMITATIONS ON UPSTREAM PROCESSING......................................................................9
+     3.6.1     PRODUCER'S OPERATIONAL REQUIREMENTS................................................................9
+     3.6.2     PROCESSOR'S EXCLUSIVE RIGHTS......................................................................10
+   3.7    NGL BANKS..............................................................................................10
+4.      PROCESSOR'S OBLIGATION TO PROCESS AND REDELIVER; LIMITATIONS.............................................10
+   4.1    PROCESSOR'S OBLIGATION TO PROCESS AND REDELIVER RESIDUE GAS............................................10
+   4.2    TEMPORARY CESSATION OF PROCESSING......................................................................10
+   4.3    REFUSED VOLUMES........................................................................................11
+     4.3.1     INSUFFICIENT CAPACITY; OPTION TO REFUSE VOLUMES...................................................11
+     4.3.2     OPTION TO REACQUIRE REFUSED VOLUMES...............................................................11
+   4.4    EXCLUDABLE GAS.........................................................................................11
+     4.4.1     OPTION TO EXCLUDE CERTAIN GAS.....................................................................11
+     4.4.2     TERMS OF CONTINUED PROCESSING PENDING THIRD PARTY CONTRACT........................................11
+     4.4.3     OPTION TO REACQUIRE EXCLUDABLE GAS................................................................12
+   4.5    UNPROFITABLE PLANT.....................................................................................12
+     4.5.1     RIGHT TO CLOSE UNPROFITABLE PLANT.................................................................12
+     4.5.2     TERMS OF CONTINUED PROCESSING.....................................................................12
+   4.6    SUSPENSION IN CASE OF DANGEROUS CONDITION..............................................................12
+5.      SPECIFICATIONS FOR GAS AND SLUG LIQUIDS..................................................................13
+   5.1    QUALITY SPECIFICATIONS.................................................................................13
+   5.2    TESTING................................................................................................13
+   5.3    OFF-SPEC DELIVERIES....................................................................................13
+   5.4    NOTIFICATION OF NON-CONFORMITY; REJECTION OF DELIVERY..................................................13
+   5.5    ACCEPTANCE OF NONCONFORMING PRODUCT....................................................................13
+   5.6    PROCESSOR'S LIMITED COMMITMENT TO ACCEPT NON-CONFORMING PRODUCT........................................14
+</TABLE>
+
+                                       ii
+
+<PAGE>
+<TABLE>
+<S>                                                                                                             <C>
+   5.7    SPECIFICATIONS FOR RESIDUE GAS REDELIVERED BY PROCESSOR................................................14
+   5.8    OFF SPEC PIPELINE......................................................................................14
+6.      CONSIDERATION............................................................................................14
+   6.1    PAYMENT................................................................................................14
+   6.2    CONSIDERATION BASIS....................................................................................14
+   6.3    CONSIDERATION TIMING...................................................................................14
+   6.4    CONSIDERATION BASIS UPDATES............................................................................15
+   6.5    PROCESSOR PROVIDED PTR.................................................................................15
+   6.6    CONSIDERATION ADJUSTMENT OUTSIDE OF NORMAL OPERTIONS...................................................15
+7.      PTR AND PTR TRANSPORTATION...............................................................................17
+   8.1    RESPONSIBILITY FOR ROYALTY PAYMENTS....................................................................17
+   8.2    DELIVERY OF ROYALTY TAKEN IN KIND......................................................................18
+   8.3    COMPLIANCE WITH FEDERAL ACTS...........................................................................18
+9.      METERING, ANALYSIS, AND ALLOCATION.......................................................................18
+   9.1    GAS METERING, ANALYSIS AND REPORTS.....................................................................18
+   9.2    LIQUIDS METERING AND ANALYSIS..........................................................................19
+   9.3    METER FAILURE..........................................................................................19
+10.     INDEMNITY................................................................................................19
+11.     CURTAILMENT..............................................................................................19
+   11.1      MUTUAL AGREEMENT NOT TO CURTAIL OR WITHHOLD.........................................................19
+   11.2      LIMITED RIGHT TO INTERRUPT PERFORMANCE FOR MAINTENANCE, ETC.........................................20
+12.     FORCE MAJEURE............................................................................................20
+   12.1      PERFORMANCE EXCUSED.................................................................................20
+   12.2      FORCE MAJEURE DEFINED...............................................................................20
+13.     AUDIT RIGHTS.............................................................................................21
+14.     NOTIFICATIONS............................................................................................21
+   14.1      ANNUAL INFORMATION..................................................................................21
+   14.2       NOTICE OF  MATERIAL CHANGES TO ANNUAL INFORMATION..................................................21
+   14.3      NOTICE OF PROPOSED TRANSFERS OF DEDICATED LEASES....................................................21
+   14.4      NOTICE OF PENDING TRANSPORTATION AGREEMENTS.........................................................21
+   14.5      NOTICE OF SCHEDULED PLANT DOWNTIME..................................................................22
+15.     CONFIDENTIALITY..........................................................................................22
+   15.1      GENERAL.............................................................................................22
+   15.2      ANNUAL INFORMATION..................................................................................22
+16.     DISPUTE RESOLUTION.......................................................................................22
+   16.1      ARBITRATION.........................................................................................22
+   16.2      INITIATION OF PROCEDURES............................................................................23
+   16.3      NEGOTIATION BETWEEN EXECUTIVES......................................................................23
+   16.4      BINDING ARBITRATION.................................................................................23
+17.     TRANSFER AND ASSIGNMENT..................................................................................24
+   17.1      SUCCESSORS AND ASSIGNS..............................................................................24
+   17.2      PROCESSOR'S RIGHTS UNDER LEASES.....................................................................24
+   17.3      AFFILIATES OF PRODUCER PARTIES......................................................................24
+18.     MISCELLANEOUS............................................................................................24
+   18.1      TITLE AND CAPTIONS..................................................................................24
+</TABLE>
+
+                                      iii
+<PAGE>
+
+<TABLE>
+<S>                                                                                                             <C>
+   18.2      PRONOUNS AND PLURALS................................................................................25
+   18.3      SEPARABILITY........................................................................................25
+   18.4      SUCCESSORS..........................................................................................25
+   18.5      FURTHER ACTIONS.....................................................................................25
+   18.6      NOTICES.............................................................................................25
+   18.7      AMENDMENT ONLY IN WRITING...........................................................................26
+   18.8      RIGHT OF INGRESS AND EGRESS.........................................................................26
+   18.9      NO SPECIAL DAMAGES..................................................................................26
+   18.10     APPLICABLE LAW......................................................................................26
+   18.11     ENTIRE AGREEMENT....................................................................................26
+   18.12     COUNTERPARTS........................................................................................26
+</TABLE>
+
+EXHIBIT A         Dedicated Leases as of August 1, 1999
+EXHIBIT B         Excluded Leases
+EXHIBIT C         Consideration Bases
+EXHIBIT D         Upstream Pipelines
+EXHIBIT E         Letter of Attornment
+
+
+                                       iv
+
+<PAGE>
+PAGES WHERE CONFIDENTIAL TREATMENT HAS BEEN REQUESTED ARE MARKED "CONFIDENTIAL
+TREATMENT REQUESTED." THE REDACTED MATERIAL HAS BEEN SEPARATELY FILED WITH THE
+COMMISSION, AND THE APPROPRIATE SECTION HAS BEEN MARKED AT THE APPROPRIATE PLACE
+AND THE MARGIN WITH A STAR(*).
+
+
+                          SIXTH AMENDMENT TO CONVEYANCE
+                            OF GAS PROCESSING RIGHTS
+
+
+         THIS SIXTH AMENDMENT TO CONVEYANCE OF GAS PROCESSING RIGHTS (this
+"Agreement") dated as of March 1, 2003 ("Effective Date") is made by and between
+Enterprise Gas Processing, LLC ("Processor"), a Delaware limited liability
+company, on the one hand, and Shell Oil Company ("SOC"), Shell Exploration &
+Production Company ("SEPCO"), Shell Offshore Inc., individually and as successor
+in interest by merger to Shell Deepwater Development Inc. and Shell Deepwater
+Production Inc. ("SOI"), Shell Consolidated Energy Resources Inc. ("SCERI"),
+Shell Land & Energy Company ("SLEC"), Shell Frontier Oil & Gas Inc. ("SFOGI"),
+and Shell Gulf of Mexico Inc. ("SGOM"), all Delaware corporations, on the other,
+the latter seven parties and their respective Affiliates (as defined below),
+successors and assigns being collectively referred to as "Producer" or
+"Producers".
+
+                                    RECITALS
+
+         A. Effective January 1, 1982, SOI and SOC executed that certain
+Conveyance of Gas Processing Rights (the "Original Conveyance"), which granted
+to SOC the right to process SOI's gas sold pursuant to certain identified gas
+sale contracts.
+
+         B. Effective January 1, 1984, SOC assigned its rights under the
+Original Conveyance to Shell Western E&P Inc. ("SWEPI").
+
+         C. Effective January 1, 1992, the Original Conveyance was amended (the
+"First Amendment") to provide for a different method of calculating the annual
+compensation to be paid to SOI by SWEPI and to provide that a list of mineral
+leases, rather than gas sales contracts, to which the Original Conveyance
+applied, would be updated annually.
+
+         D. Effective January 1, 1997, the First Amendment was amended ("Second
+Amendment") solely with respect to certain mineral leases, the production from
+which was dedicated for Processing at the Venice Plant of Venice Energy Services
+Company, L.L.C., to confirm SWEPI's ownership of the Gas Processing Rights for
+those mineral leases.
+
+         E. Effective January 1, 1998, the Second Amendment was amended in its
+entirety (the "Third Amendment") to (1) recognize and confirm SWEPI's ownership
+of the Producers' Gas Processing Rights associated with the Equity Gas
+attributable to the leases listed on Exhibit "A" to such Third Amendment,
+including the right to Process Equity Gas, and receive the benefits therefrom,
+with respect to such leases; (2) confirm that the transfer of such rights to
+SWEPI was and is binding on Producers as SOI's successors and assigns, and their
+respective Affiliates, notwithstanding non-compliance by Producer or SWEPI with
+respect to any provision concerning annual notification requirements of the
+First Amendment; (3) provide that SWEPI
+
+<PAGE>
+
+shall be conveyed without further act, the Gas Processing Rights for Equity Gas
+from any Lease upon the earlier of that point in time (x) when Gas production
+from such Lease is committed to be transported in an Upstream Pipeline, (y) when
+such Lease (or unitized portion thereof) begins Gas production to an Upstream
+Pipeline, or (z) when SWEPI requires a written dedication of Gas Processing
+Rights for a Lease in connection with SWEPI's efforts to provide Processing
+capacity for Gas production from such Lease, regardless of whether Exhibit A is
+thereafter amended to include Leases; and (4) to make such other changes to the
+Conveyance as specified in the Third Amendment.
+
+         F. Effective January 12, 1998, SWEPI assigned to Tejas Holdings, LLC
+all of its rights under the Third Amendment and Tejas Holdings, LLC subsequently
+assigned all of such rights to Tejas Natural Gas Liquids, LLC.
+
+         G. Effective August 1, 1999, the Third Amendment was amended and, as so
+amended, restated in its entirety (the "Fourth Amendment") to clarify the
+respective rights and obligations of the Processor and Producers thereunder.
+
+         H. Effective September 30, 1999, Tejas Natural Gas Liquids LLC changed
+its name to Enterprise Natural Gas Liquids, LLC.
+
+         I. Effective October 31, 1999, Enterprise Natural Gas Liquids, LLC
+merged with and into Enterprise Products Operating L.P., with Enterprise
+Products Operating L.P. being the surviving entity of such merger.
+
+         J. Effective March 31, 2001, Enterprise Products Operating L.P.
+assigned all of its rights under the Fourth Amendment to its wholly-owned
+subsidiary, Enterprise Gas Processing, LLC, which assignment is hereby in all
+respects approved and consented to by Producers.
+
+         K.Effective April 1, 2001, the Fourth Amendment was amended and, as so
+amended, restated in its entirety (the "Fifth Amendment") to incorporate certain
+changes in the respective rights and obligations of the Processor and Producers
+thereunder.
+
+         L. Effective September 18, 2002, SGOM ratified and joined in the Fifth
+Amendment as a Producer party.
+
+         M. The parties desire to further amend the Fifth Amendment to
+incorporate certain changes in their respective rights and obligations
+thereunder and to restate the Conveyance in its entirety.
+
+
+
+                                       2
+<PAGE>
+         NOW THEREFORE, in consideration of the mutual agreements, covenants and
+conditions herein contained, the Parties hereby agree as follows:
+
+1. DEFINITIONS.
+
+         1.1 "Affiliate" means, with respect to any relevant Person, any other
+Person that directly or indirectly controls, is controlled by, or is under
+common control with, such relevant Person in question. As used herein, the term
+"control" (including its derivatives and similar terms) means owning, directly
+or indirectly, the power (1) to vote ten percent or more of the voting stock of
+any such relevant Person and (2) to direct or cause the direction of the
+management and policies of any such relevant Person.
+
+         1.2 "Annual Information" has the meaning given it in Section 14.
+
+         1.3 "BTU" or "British Thermal Unit" means the quantity of heat required
+to raise the temperature of one pound of pure water from 58.5 degrees to 59.5
+degrees on the Fahrenheit temperature scale at a constant pressure of 14.73
+psia. The term "MMBTU" shall mean 1,000,000 BTU's.
+
+         1.4 "Commitment Date" has the meaning given it in Section 3.2.
+
+         1.5 "Consideration Basis" has the meaning given it in Section 6.2.
+
+         1.6 "Conveyance" means the Original Conveyance described in Recital A,
+as amended to date and by this Agreement and as hereafter amended from time to
+time.
+
+         1.7 "Cubic foot of Gas" shall mean the volume of Gas contained in one
+cubic foot of space at a standard pressure base of 14.73 pounds per square inch
+absolute, and at a standard temperature base of 60 (Degree)F. Whenever the
+conditions of pressure and temperature differ from the above standard,
+conversion of the volume from these conditions to the above stated standard
+conditions shall be made in accordance with the Ideal Gas Laws, corrected for
+deviation due to supercompressibility by the methods set forth in ANSI/API 2530,
+as revised or amended from time to time, and further detailed in American
+Petroleum Institute Manual of Petroleum Measurement Standards (API MPMS) Chapter
+14, Section 2, American Gas Association (AGA) Report Number 3, "Compressibility
+Factors of Natural Gas and Other Related Hydrocarbons," as revised or amended
+from time to time. The terms "MCF" and "MMCF" shall mean, respectively, 1,000
+Cubic Feet of Gas and 1,000,000 Cubic Feet of Gas.
+
+         1.8 "Dedicated" means, with respect to a Lease, a Lease owned by a
+Producer as of or after the Commitment Date.
+
+         1.9 "Equity Gas" means Gas that is produced from a Dedicated Lease and
+is owned and marketed by, or on behalf of, Producers. Equity Gas shall also
+include any lessor's royalty Gas that is not taken "in-kind" by lessor and which
+is marketed by, or on behalf of, Producers. Equity Gas shall exclude the
+following:
+
+
+                                       3
+<PAGE>
+
+
+                  (i)      Gas consumed by a Producer in the development and
+                           operation of Dedicated Leases, including, but not
+                           limited to, the following operations: drilling;
+                           deepening; reworking of wells; compression; Gas lift;
+                           treating; separation; operationally integrated power
+                           generation; maintenance of facilities; and consumed
+                           as fuel in such operations.
+
+                  (ii)     Gas provided by a Producer to another operator or
+                           producer in the general vicinity of such Producer's
+                           operations to be used by such operators or producers
+                           for purposes similar to those set forth in (i) above;
+                           provided, however, if Gas furnished by Producer is
+                           used for such purposes, Producer shall keep Processor
+                           whole from an economic standpoint for any volumes
+                           that are so used.
+
+                  (iii)    Gas used by a Producer as makeup or non-consent Gas
+                           to or for the benefit of third parties as may be
+                           required under joint operating, Gas balancing or
+                           other similar agreements and produced from wells
+                           covered by such agreements or to settle Gas imbalance
+                           claims with other mineral and/or leasehold interest
+                           owners.
+
+                  (iv)     Gas used by a Producer to make payment of royalty
+                           and/or overriding royalty in kind if required in the
+                           Dedicated Leases or instruments pursuant to which
+                           such royalties and overriding royalties were created,
+                           excluding any overriding royalties held by Affiliates
+                           of Producer.
+
+                  (v)      Gas which is actually used by pipelines for fuel to
+                           transport lease production and/or is otherwise
+                           flared, lost or unaccounted for prior to delivery to
+                           a Plant.
+
+                  (vi)     Gas which is precluded from being produced or
+                           Processed due to governmental intervention,
+                           regulations, laws or judicial or administrative
+                           orders.
+
+         1.10 "Excludable Gas" means any Equity Gas that contains less than or
+equal to one GPM of ethane and heavier hydrocarbons as measured at a Field
+Delivery Point.
+
+         1.11 "Excluded Lease" means a Lease listed on Exhibit B.
+
+         1.12 "Field Delivery Point" means any point at which Gas being
+transported in Upstream Pipelines is measured for the purpose of allocating PTR
+and Products from a Plant.
+
+         1.13 "Gallon" means one U.S. Standard Liquid Gallon of 231 cubic
+inches, adjusted to a temperature of 60 degrees F and either the equilibrium
+pressure of the product at 60 degrees F or 14.696 psia, whichever is greater.
+
+
+                                       4
+<PAGE>
+         1.14 "Gas" means all vaporized hydrocarbons and vaporized concomitant
+materials whether produced from wells classified as oil wells or gas wells.
+
+         1.15 "Gas Processing Rights" has the meaning given it in Section 3.1.
+
+         1.16 "Geographical Scope" means that area (i) within the state waters
+of Louisiana, Texas, Mississippi, Alabama and Florida, (ii) within the federal
+waters of the United States of America in the Gulf of Mexico, including any
+portion thereof claimed by Mexico.
+
+         1.17 "GPM" means Gallons per MCF of Gas.
+
+         1.18 "Injected Liquids" means liquid hydrocarbons and liquid
+concomitant materials that are delivered into an Upstream Pipeline.
+
+         1.19 "Lease" means any oil, Gas, and/or mineral lease or interest
+therein owned now or hereafter acquired by Producers or their Affiliates within
+the Geographical Scope excluding any lease listed on Exhibit B.
+
+         1.20 "New Volumes" has the meaning given it in Section 2.3.2.
+
+         1.21 "Off-Spec Deliveries" has the meaning given it in Section 5.3.
+
+         1.22 "Person" means any individual or entity, including, without
+limitation, any corporation, limited liability company, partnership (general or
+limited), joint venture, association, joint stock company, trust, unincorporated
+organization or government (including any board, agency, political subdivision
+or other body thereof).
+
+         1.23 "Plant" means a natural gas processing plant.
+
+         1.24 "Plant Delivery Point" means the point where an Upstream Pipeline
+interconnects with a Plant.
+
+         1.25 "Plant Redelivery Point" means the point at or near the tailgate
+of a Plant at which the Residue Gas is redelivered by a Plant into any
+interstate or intrastate pipeline connected to that Plant.
+
+         1.26 "Process" or "Processing" means the removal of liquefiable
+hydrocarbons and/or impurities from Gas using mechanical separation, extraction,
+condensation, compression, absorption, stripping, refrigeration, adiabatic
+expansion, and/or other generally accepted natural gas processing methods.
+
+         1.27 "Processor" means Enterprise Gas Processing, LLC, a Delaware
+limited liability company, and its successors and assigns.
+
+
+                                       5
+<PAGE>
+         1.28 "Processor's Retrograde" means (i) liquefiable hydrocarbons that
+condense from Equity Gas in the Upstream Pipelines listed in Exhibit D, and (ii)
+any liquid hydrocarbons that are collected in the Plant prior to Processing.
+Processor's Retrograde shall not include Injected Liquids but shall include any
+lessor's royalty share of such liquefiable hydrocarbons in clauses (i) and (ii)
+of this definition not taken "in kind" by lessor.
+
+         1.29 "Producer" means each of those entities listed in the first
+paragraph of this Agreement and their respective Affiliates, successors and
+assigns (but as to any such assigns, only to the extent such assigns acquire all
+or part of a lessee's interest in a Dedicated Lease).
+
+         1.30 "Products" means the individual liquefied hydrocarbons recovered
+from Equity Gas and/or Processor's Retrograde by Processing including, but not
+by way of limitation, condensate, natural gasoline, butanes, propane, ethane,
+and/or any unfractionated mixture thereof including, in each case, such methane
+as is liquefied and incidentally recovered.
+
+         1.31 "PTR" means plant thermal reduction or the heat content stated in
+MMBTU's removed from the Equity Gas and/or Processor's Retrograde as a result of
+Processing including those MMBTU's (i) associated with extraction of Products,
+(ii) consumed in the operation of a Plant, and (iii) flared, lost or otherwise
+unaccounted for in the operation of a Plant.
+
+         1.32 "Quality Specifications" has the meaning given it in Section 5.1.
+
+         1.33 "Raw Make" means a combined stream of liquefied hydrocarbons and
+concomitant materials extracted from Equity Gas by Processing including
+Processor's Retrograde if subsequently combined with the other Raw Make.
+
+         1.34 "Residue Gas" means the portion of Equity Gas remaining after
+removal of PTR during Processing and available for redelivery to a pipeline at
+the Plant Redelivery Point.
+
+         1.35 "Slug Liquids" means free water, liquid hydrocarbons and other
+concomitant materials which are separated from Gas upstream of the Plant
+Delivery Point.
+
+         1.36 "Transportation Cost" means the cost of transportation of PTR from
+the wellhead to the Plant Delivery Point.
+
+         1.37 "Termination Date" has the meaning given it in Section 2.2.
+
+         1.38 "Upstream Pipeline" means any pipeline that transports Gas and/or
+Slug Liquids between the Field Delivery Points and the Plant Delivery Points.
+
+2. TERM.
+
+         2.1 PRIMARY AND SUCCESSIVE TERMS. The term of this Agreement shall
+begin on August 1, 1999, and continue for a primary term of 20 years, unless
+sooner terminated under
+
+
+                                       6
+<PAGE>
+
+Section 2.2. At the end of the primary term, the term of this Agreement shall be
+automatically extended for ten successive two year terms, unless sooner
+terminated under Section 2.2.
+
+         2.2 TERMINATION OF AGREEMENT. The Processor or any Producer shall have
+the right, subject to Section 2.3, to terminate this Agreement as to such
+Producer at the end of the primary term or at the end of any successive two year
+term thereafter ("Termination Date") by giving written notice of termination, in
+accordance with Section 18.6, no sooner than 20 nor later than 18 months prior
+to the expiration of the then effective primary term or two year successive
+term.
+
+         2.3 SURVIVAL PROVISION.
+
+                  2.3.1 POST TERMINATION: CONTINUATION AS TO COMMITTED LEASES.
+Notwithstanding termination of this Agreement pursuant to Section 2.2 above (but
+not Section 2.4), the Gas Processing Rights held by Processor and all the
+provisions of this Agreement shall continue in full force and effect with
+respect to each Dedicated Lease until the expiration of such Dedicated Lease.
+
+                  2.3.2 POST TERMINATION: PROPOSALS FOR NEW VOLUMES. For a
+period of 20 years after the Termination Date, as to Leases (other than
+Dedicated Leases) from which Gas is discovered to be ultimately produced by
+Producers ("New Volumes"), Producers agree to provide Processor, as soon as
+reasonably practicable, with notice of the estimated quantity of New Volumes and
+the estimated date on which such New Volumes will be available for Processing.
+Producers further agree that they will provide Processor a nonexclusive
+opportunity to submit a proposal to Process the New Volumes. If, in the sole
+discretion of the Producer offering the New Volumes, the proposal of Processor
+is not acceptable, then the Producer will notify Processor of such, without any
+obligation to disclose terms or conditions of, or differences between, other
+proposals. The Producer will then enter into negotiations with Processor for no
+more than a 15-day period in an effort to enter into agreements concerning the
+New Volumes. If Processor and Producer do not enter into such mutually agreeable
+Processing agreements within the 15-day period, then Producer shall be free to
+deliver and/or dedicate said New Volumes, in their sole discretion, and for any
+purpose, to a third party.
+
+         2.4 EARLY TERMINATION OF ENTIRE AGREEMENT DUE TO UNPROFITABLE
+PROCESSING.
+
+                  2.4.1 RIGHT TO TERMINATE. If for any 12-month period, the
+expenses of Processor incurred in Processing Equity Gas exceed revenues obtained
+therefrom, then Processor may, at its sole option, terminate this Agreement upon
+delivery to all Producers of notice to terminate in accordance with Section
+18.6. After delivery of such notice, at the written request of Processor or any
+Producer, the Processor and such Producer shall enter into exclusive good faith
+negotiations for a period of 90 days from delivery of notice of termination to
+negotiate the terms and conditions of a mutually agreeable alternative
+Processing arrangement. If the Processor and Producer are unable to negotiate
+and execute the definitive agreement for such alternative Processing arrangement
+within the 90-day period, then any Producer that has not entered into such a
+definitive agreement shall be free to negotiate and enter into an agreement with
+any one or more third parties for Processing services; provided, however, that
+the terms agreed to between
+
+
+                                       7
+<PAGE>
+
+such Producer and a potential third party processor for Processing services are,
+taken as a whole, more favorable to the Producer than the latest terms for
+Processing services previously offered by Processor to Producer during such
+90-day period.
+
+                  2.4.2 OBLIGATION TO CONTINUE PROCESSING. Processor shall
+continue to process Equity Gas for each Producer until the earlier of (i) 12
+months after the expiration of the 90-day period referenced in Section 2.4.1, or
+(ii) the effective date of the Producer's new third party processing agreement
+with respect to such Gas. In any such case, if Processor's expenses incurred
+exceed the revenues obtained through Processing a Producer's Equity Gas in any
+given month, such Producer shall reimburse Processor on a monthly basis the
+difference between the Processor's expenses and revenues for such month.
+Producer shall pay Processor any cash due no later than 60 days following the
+end of the month in which the Producer's Equity Gas is delivered for Processing.
+
+3. ASSIGNMENT OF GAS PROCESSING RIGHTS.
+
+         3.1 GRANT OF PROCESSING RIGHTS. Subject to the other provisions of this
+Agreement, Producers hereby grant, sell, transfer, convey and assign to
+Processor the following (the "Gas Processing Rights"):
+
+                  (1)      the exclusive right to process any and all Equity Gas
+                           for the extraction and retention of liquefiable
+                           hydrocarbons and other constituents of Raw Make
+                           and/or Products;
+
+                  (2)      all title, interest and/or ownership in Raw Make
+                           and/or Products recovered from Processing Equity Gas;
+                           and
+
+                  (3)      the right and option to assume all economic burdens
+                           and to obtain all economic benefits reserved to the
+                           Gas producer under a contract for Processing Equity
+                           Gas that is assumed by a Producer in connection with
+                           the acquisition of a Lease.
+
+It is the intention of the parties to confer on the Processor all of the
+economic benefits to be derived from Processing all Gas from Leases, whether
+derived from Leases currently owned and/or Dedicated or Leases subsequently
+acquired by a Producer and/or subsequently Dedicated, subject only to (i) rights
+previously granted by the transferors of subsequently acquired Leases to third
+parties as provided in Section 3.3 and (ii) the right of Producers under Section
+3.2 to transfer, free of Processor's rights under this Agreement, Leases that at
+the time of transfer are not Dedicated Leases.
+
+         3.2 ATTACHMENT OF GAS PROCESSING RIGHTS. This conveyance of Gas
+Processing Rights shall be irrevocable as to "Dedicated Leases". A Lease shall
+be considered a Dedicated Lease upon the earliest of that point in time (the
+"Commitment Date"): when (i) when a well is spud on the Lease; (ii) a Plan of
+Exploration ("POE") or similar document including all or part of the Lease is
+submitted or amended to the appropriate regulatory agency and a well is or has
+been
+
+                                       8
+<PAGE>
+
+spud on any of the Leases included in the POE; (iii) a Development Operations
+Coordination Document ("DOCD") or similar document including all or part of the
+Lease is submitted or amended to the appropriate regulatory agency; or (iv) Gas
+production begins from the Lease. A Lease acquired by a Producer shall become a
+Dedicated Lease on the later of (1) the effective date of the acquisition of
+such Lease by Producer if at any time prior to such acquisition an event
+occurred that would constitute a Commitment Date had the Producer owned an
+interest in such Lease at the time of such event, or (2) the later Commitment
+Date for such Lease. Dedicated Leases as of August 1, 1999 are listed on Exhibit
+A. Producer shall have the right to transfer, sell, assign, exchange or
+otherwise alienate a Lease free of any obligations under this Agreement and
+without any obligation to the Processor with respect to the Lease prior to the
+Commitment Date with respect to a Lease.
+
+         3.3 PRODUCERS' NONDISTURBANCE COVENANT; PRIOR RESERVATIONS OR
+CONTRACTS. Excepting Producers' rights to sell, assign, exchange or otherwise
+alienate Leases as provided for in Section 3.2, Producers agree not to make any
+assignment or conveyance of, or enter into any other obligation concerning Gas
+Processing Rights with respect to, any Lease to the prejudice of Processor or
+its rights under this Agreement. Producers further agree that, in connection
+with the acquisition of a Lease, they will not permit the transferor to reserve
+to itself or convey to any person any right to Process Equity Gas to be produced
+from the Lease. However, as to any Lease acquired by a Producer subject to a
+prior grant of rights to Process Equity Gas to be produced under the Lease to
+Persons other than a Producer, Processor's rights under this Agreement shall be
+subject to such rights previously granted, to the extent thereof.
+
+         3.4 PROCESSOR'S RIGHT TO CONSUME PTR. In conveying the Gas Processing
+Rights under this Agreement, Producers acknowledge and agree that the Equity Gas
+Processed in a Plant will be subject to a PTR incidental to the exercising of
+the Gas Processing Rights, and Producers hereby grant to Processor the rights to
+consume Equity Gas as PTR associated with Processor's Retrograde and Products.
+
+         3.5 TITLE TO RAW MAKE, PRODUCTS, PROCESSOR'S RETROGRADE AND PTR.
+Producers hereby (i) represent and warrant to Processor that title to the
+liquefiable hydrocarbons in Equity Gas is and will be free from all production
+burdens, liens and adverse claims, (ii) warrant their right to sell the same and
+(iii) agree to indemnify, defend and hold harmless Processor against all claims
+to said liquefiable hydrocarbons arising (x) by, through, or under Producers or
+(y) prior to Producers' delivery of said liquefiable hydrocarbons to Processor.
+The transfer of title to, and risk of loss for, the extracted liquefiable
+hydrocarbons shall pass to Processor at the meters for Raw Make and/or Products,
+as appropriate, of the applicable Plant. As between the parties, Producers shall
+be deemed to be in exclusive control and possession of the liquefiable
+hydrocarbons prior to such transfer of title to Processor. The Processor and
+Producers acknowledge and agree that title to PTR does not pass to Processor.
+
+         3.6 LIMITATIONS ON UPSTREAM PROCESSING.
+
+                  3.6.1 PRODUCER'S OPERATIONAL REQUIREMENTS. Producers agree
+that, except as dictated by operational requirements, including the need to meet
+pipeline specifications, they will
+
+
+                                       9
+<PAGE>
+
+not remove or permit to be removed any liquefiable hydrocarbons from Equity Gas
+upstream of the Plants except for liquefiable hydrocarbons that condense from
+the gas during transportation to the Plants.
+
+                  3.6.2 PROCESSOR'S EXCLUSIVE RIGHTS. The rights granted to
+Processor herein are exclusive, and Producers shall use their commercially
+reasonable efforts to ensure that no owner or operator of an Upstream Pipeline
+shall have or exercise any right or opportunity to Process, or extract Products
+from, Equity Gas as to which the Gas Processing Rights have been conveyed to
+Processor under this Agreement.
+
+         3.7 NGL BANKS. In the event that any Upstream Pipeline or the shippers
+on an Upstream Pipeline institute a bona fide mechanism to mitigate inequities
+that may occur between shippers on such Upstream Pipeline as a result of such
+shippers' Gas streams containing different liquifiable hydrocarbon compositions
+being commingled in a pipeline with multiple delivery points located upstream of
+Gas Processing Plants (an "NGL Bank"), Producers and Processor agree to
+participate in the NGL Bank so as to confer on Processor the financial benefits
+and detriments related to such liquifiable hydrocarbons under the terms of the
+NGL Bank. Producers and Processor agree to execute and deliver to one another
+such instruments as may be necessary or useful and to take such further actions
+as may be reasonably necessary to carry out or further evidence the intent of
+this Section 3.7. Pending execution of such instruments, Producers shall not be
+required to curtail any Equity Gas production. However, Producers shall ensure
+Processor receives all financial benefits and detriments referenced in this
+Section 3.7 from the date of initiation of the NGL Bank.
+
+4. PROCESSOR'S OBLIGATION TO PROCESS AND REDELIVER; LIMITATIONS.
+
+         4.1 PROCESSOR'S OBLIGATION TO PROCESS AND REDELIVER RESIDUE GAS.
+Subject to the provisions of this Agreement, throughout the term of this
+Agreement and for any subsequent period of time as contemplated by Section
+2.3.1, Processor agrees to Process, or cause to be Processed, all Equity Gas.
+After Processing Equity Gas and/or Slug Liquids and the recovery of the Raw
+Make, Products and Processor's Retrograde therefrom, Processor shall deliver or
+cause to be delivered Producers' Residue Gas to Producers or Producers' designee
+at the applicable Plant Redelivery Point.
+
+         4.2 TEMPORARY CESSATION OF PROCESSING. If at any time or from time to
+time Processor reasonably determines that the temporary cessation of Processing
+Equity Gas at a Plant would not cause curtailment of the applicable Equity Gas,
+then Processor shall have the option, in its sole discretion, to temporarily
+cease Processing at that Plant. Processor shall provide Producer with at least
+two business days' notice of any such election to temporarily cease Processing
+or to subsequently recommence Processing at a Plant and shall not change its
+election more than two times in a month.
+
+
+                                       10
+<PAGE>
+
+         4.3 REFUSED VOLUMES.
+
+                   4.3.1 INSUFFICIENT CAPACITY; OPTION TO REFUSE VOLUMES.
+Processor may, at its option, elect not to Process a volume of Equity Gas that
+exceeds its available Processing capacity at a Plant ("Refused Volumes") and
+agrees to provide the applicable Producer with notice of such election as soon
+as reasonably practicable. If Processor elects not to Process such Refused
+Volumes, Producer may, nonetheless, by written notice to Processor, require that
+Processor and Producer enter into exclusive good faith negotiations for a period
+of 90 days from the date of the notice to negotiate the terms and conditions of
+a mutually agreeable alternative Processing arrangement for the Refused Volumes
+that would allow Processor in its sole judgment to economically acquire or
+construct additional capacity at the Plant. If within the 90-day period
+Processor and Producer are unable to negotiate and execute such a definitive
+agreement, then Producer shall be free to negotiate with any third party for
+Processing services for the Refused Volumes for a primary terms not to exceed
+one year and Processor shall have no further obligation to negotiate with
+Producer. In any event, Processor shall have no obligation to acquire or
+construct new capacity. Producers shall make a reasonable effort to deliver
+Equity Gas to Upstream Pipelines that will subsequently deliver it to Plants in
+which Processor has sufficient capacity to Process such Equity Gas.
+
+                  4.3.2 OPTION TO REACQUIRE REFUSED VOLUMES. Processor shall
+have the option, exercisable by three months' written notice to the Producers,
+to acquire the right to Process such Refused Volumes beginning on any
+anniversary date of the third party agreement and may do so without prejudice to
+subsequent exercise of its rights under Section 4.3.1.
+
+         4.4 EXCLUDABLE GAS.
+
+                  4.4.1 OPTION TO EXCLUDE CERTAIN GAS. Processor may, at its
+option, elect to not Process all or any part of Equity Gas that contains less
+than or equal to one GPM of ethane and heavier hydrocarbons as measured at a
+Field Delivery Point ("Excludable Gas") and agrees to provide the applicable
+Producer with notice of such election as soon as reasonably practicable. If
+Processor elects not to Process such Excludable Gas, a Producer may,
+nonetheless, by written notice to Processor, require that Processor and Producer
+enter into exclusive good faith negotiations for a period of 90 days from the
+date of the notice to negotiate the terms and conditions of a mutually agreeable
+alternative Processing arrangement for the Excludable Gas. If within the 90-day
+period Processor and Producer are unable to negotiate and execute a definitive
+agreement related thereto, then Producer shall be free to negotiate with any
+third party for Processing services for the Excludable Gas for a primary term
+not to exceed one year and Processor shall have no further obligation to
+negotiate with Producer.
+
+                  4.4.2 TERMS OF CONTINUED PROCESSING PENDING THIRD PARTY
+CONTRACT. Upon the written request of a Producer, Processor shall continue to
+Process such Producer's Excludable Gas until the earlier of (i) 12 months after
+the expiration of the 90-day period referenced in Section 4.4.1, or (ii) the
+effective date of the new third party Processing agreement. In any such case, if
+Processor's expenses incurred exceed revenues obtained from Processing a
+Producer's Excludable Gas in any given month during that period of time, such
+Producer shall reimburse
+
+
+                                       11
+<PAGE>
+
+Processor on a monthly basis the difference between the Processor's expenses and
+revenues for such month. Producer shall pay Processor any cash due no later than
+60 days following the end of the month in which the Producer's Excludable Gas is
+delivered for Processing.
+
+                  4.4.3 OPTION TO REACQUIRE EXCLUDABLE GAS. Processor shall have
+the option, exercisable by three months' written notice to the Producers, to
+acquire the right to Process any Excludable Gas under this Agreement beginning
+on any anniversary date of the third party agreement and may do so without
+prejudice to subsequent exercise of its rights under Section 4.4.1.
+
+         4.5 UNPROFITABLE PLANT.
+
+                  4.5.1 RIGHT TO CLOSE UNPROFITABLE PLANT. If for any 12-month
+period, expenses of operating one or more Plants that Process Equity Gas exceed
+revenues obtained from Processing, then Processor shall have the right, upon at
+least 90 days' prior written notice to all affected Producers in accordance with
+Section 18.6, to elect to shut down any such Plant for a continuous period of at
+least one year and, if such Equity Gas cannot be delivered to another Plant, to
+exclude the Equity Gas delivered to the shut down Plant from this Agreement.
+After delivery of such notice, at the written request of Processor or any
+Producer, the Processor and Producer shall enter into exclusive good faith
+negotiations for a period of 90 days from delivery of such notice to negotiate
+the terms and conditions of a mutually agreeable alternative Processing
+arrangement for the Equity Gas delivered to the Plant that would allow the Plant
+to remain profitable. If the Processor and Producer are unable to negotiate and
+execute the definitive agreement for such alternative Processing arrangement
+within the 90-day period, then any Producer that has not entered into such a
+definitive agreement shall be free to negotiate and enter into an agreement with
+any one or more third parties for Processing services; provided, however, that
+the terms agreed to between such Producer and a potential third party processor
+for Processing services are, taken as a whole, more favorable to the Producer
+than the latest terms for Processing services previously offered by Processor to
+Producer during such 90-day period. The parties shall promptly amend Exhibit B
+to include among Excluded Leases any Lease that is excluded from this agreement
+under the terms of this Section 4.5.1.
+
+                  4.5.2 TERMS OF CONTINUED PROCESSING. Upon the written request
+of a Producer, Processor shall continue to process such Equity Gas at the Plant
+for a period of time not to exceed 12 months after the expiration of the 90-day
+period referenced in Section 4.5.1. In any such case, if Processor's expenses
+incurred exceed the revenues obtained through Processing such Producer's Equity
+Gas in any given month during that period of time, such Producer shall reimburse
+Processor on a monthly basis the difference between the Processor's expenses and
+revenues for the month. Producer shall pay Processor any cash due no later than
+60 days following the end of the month in which the Equity Gas is delivered for
+Processing.
+
+         4.6 SUSPENSION IN CASE OF DANGEROUS CONDITION. If any of Producer's
+operations or any of the Equity Gas or Slug Liquids delivered hereunder create a
+condition that, in the exclusive judgment of Processor, may endanger the Plant
+or property of Processor or the lives or property of Processor's employees or
+any third party, Processor may, without liability,
+
+
+                                       12
+<PAGE>
+
+immediately discontinue receipt of Equity Gas and/or Slug Liquids, as the case
+may be, until the condition has been remedied to the reasonable satisfaction of
+Processor.
+
+5. SPECIFICATIONS FOR GAS AND SLUG LIQUIDS.
+
+         5.1 QUALITY SPECIFICATIONS. Producers shall deliver Equity Gas and
+Injected Liquids to each Field Delivery Point in conformity with the
+specifications of the applicable Upstream Pipeline (the "Quality
+Specifications").
+
+         5.2 TESTING. The determination as to the conformity of Equity Gas or
+Injected Liquids to the Quality Specifications shall be made by Processor in
+accordance with generally accepted procedures of the gas processing industry.
+Such determinations shall be made as often as Processor deems necessary, and
+Producer may witness such determinations or make joint determinations with its
+own appliances. If, in Producer's judgment, the result of any such test or
+determination is inaccurate, Processor, at Producer's request, will again
+conduct the questioned test or determination, and the costs of such additional
+test or determination shall be borne by Producer unless same shows the original
+test or determination to be materially inaccurate.
+
+         5.3 OFF-SPEC DELIVERIES. If any of Equity Gas or Injected Liquids
+delivered at a Field Delivery Point fail to meet the Quality Specifications
+("Off-Spec Deliveries"), Processor, subject to the provisions of Sections 5.4,
+5.5 and 5.6, at its sole option, may accept, or notify the appropriate Producer
+to discontinue or curtail, such Off-Spec Deliveries. Processor's acceptance of
+Off-Spec Deliveries shall not be deemed a waiver of Processor's right to later
+reject such Off-Spec Deliveries, nor shall acceptance of Off-Spec Deliveries
+from one Field Delivery Point require Processor to accept similar Off-Spec
+Deliveries from any other Field Delivery Point.
+
+         5.4 NOTIFICATION OF NON-CONFORMITY; REJECTION OF DELIVERY. Processor
+shall notify a Producer of any Off-Spec Deliveries, and Producer shall make a
+diligent effort to conform such Equity Gas and/or Injected Liquids to the
+Quality Specifications. If any Producer reasonably concludes that it cannot
+economically deliver Equity Gas and/or Injected Liquids conforming to the
+Quality Specifications, then such Producer shall so advise Processor in writing
+within 30 days after receipt of Processor's notice. Within 30 days after receipt
+of Producer's notice, Processor shall give notice to the Producer in writing of
+its election to accept or reject such Off-Spec Deliveries. If Processor rejects
+such Off-Spec Deliveries, then upon receipt of said notice by such Producer,
+this Agreement will be suspended with respect to the Field Delivery Points with
+such Off-Spec Deliveries until such time as the Off-Spec Deliveries conform to
+the Quality Specifications or Processor subsequently notifies such Producer of
+its acceptance of the Off-Spec Deliveries.
+
+         5.5 ACCEPTANCE OF NONCONFORMING PRODUCT. If Processor accepts such
+Off-Spec Deliveries, Processor, after written notice to Producers as specified
+in Section 5.4, may charge Producers any reasonable costs incurred by Processor
+to monitor the quality of Equity Gas and/or Injected Liquids and bring them
+within the Quality Specifications. Processor shall invoice Producer on a monthly
+basis for any such costs, the payment of which shall be due and payable within
+30 days after Producer's receipt thereof.
+
+
+                                       13
+<PAGE>
+
+         5.6 PROCESSOR'S LIMITED COMMITMENT TO ACCEPT NON-CONFORMING PRODUCT.
+Notwithstanding the provisions of Sections 5.3, 5.4 and 5.5, Processor agrees
+that it will use reasonable efforts to continue acceptance of a Producer's
+Off-Spec Deliveries for Processing in those cases where (i) Section 4.6 does not
+apply and (ii) the acceptance of such Off-Spec Deliveries does not (x) cause
+damage to the Plant, (y) render the Plant unable to meet applicable
+specifications of the pipelines receiving Residue Gas at the Plant Redelivery
+Points or of the purchaser or transporter of the Products from the Plant, or (z)
+does not cause the Plant to violate applicable emissions permits or other
+regulatory requirements.
+
+         5.7 SPECIFICATIONS FOR RESIDUE GAS REDELIVERED BY PROCESSOR. The
+Residue Gas redelivered by Processor shall comply with the Quality
+Specifications in effect on the date of delivery to the transporter receiving
+such Residue Gas at the Plant Redelivery Point if that Equity Gas and/or
+Injected Liquids meets the Quality Specifications upon delivery to the Upstream
+Pipeline at the Field Delivery Point or Processor has elected to accept Off-Spec
+Deliveries under the conditions of Sections 5.5 and 5.6 of this Agreement.
+
+         5.8 OFF SPEC PIPELINE. Nothing in this Agreement shall require
+Processor to accept delivery of any Gas that does not conform to the Quality
+Specifications at the Plant Delivery Point.
+
+6. CONSIDERATION.
+
+         6.1 PAYMENT. For each calendar month during the term of this Agreement,
+Processor agrees, for each Plant, to pay to each of the respective Producers
+delivering Equity Gas to such Plant, a cash amount equal to the product of:
+
+                  (1)      the Consideration Basis, as defined in Section 6.2,
+                           for the respective Plant; and
+
+                  (2)      the PTR for (1) such Producer's Equity Gas Processed
+                           at such Plant and (2) any Processor's Retrograde
+                           associated with such Producer's Equity Gas.
+
+
+         6.2 CONSIDERATION BASIS. For purposes of Section 6.1, the term
+"Consideration Basis" shall mean, and be defined as, for each calendar month
+during the term of this Agreement, the respective adjusted index price listed by
+Plant on Exhibit C.
+
+         6.3 CONSIDERATION TIMING. Processor shall pay to Producer the
+applicable cash consideration set forth in Section 6.1 no later than the last
+business day of the second month following the month in which the subject PTR
+and Processor's Retrograde is delivered to a Plant, such payment to be made by
+wire transfer of immediately available funds to an account designated from time
+to time by Producers at least fifteen days prior to the date any such payment is
+due and payable by Processor.
+
+
+                                       14
+<PAGE>
+
+*CONFIDENTIAL TREATMENT REQUESTED. THE REDACTED MATERIAL HAS BEEN SEPARATELY
+FILED WITH THE COMMISSION, AND THE APPROPRIATE SECTION HAS BEEN MARKED AT THE
+APPROPRIATE PLACE AND THE MARGIN WITH A STAR(*).
+
+         6.4 CONSIDERATION BASIS UPDATES. Processor and Producers shall
+periodically amend Exhibit C, as appropriate, if (i) another Plant is added by
+Processor, (ii) the price indexes listed in Exhibit C are no longer available or
+(iii) different index prices would, in the reasonable judgment of Processor and
+Producers, more accurately represent market conditions. The amount of any new
+Consideration Basis (as a result of any such amendment to Exhibit C) shall
+represent the market value of Gas at the appropriate Plant Redelivery Point.
+
+         6.5 PROCESSOR PROVIDED PTR. Producers and Processor acknowledge and
+agree that, in lieu of, and as an alternative to, any cash payment required
+under Section 6.1 to be paid by Processor to Producers, Processor shall have an
+election to provide, from time to time, PTR at a particular Plant for
+Processor's own account in respect of all of Producer's Equity Gas Processed at
+such Plant. Processor agrees that any such election to have Processor so provide
+PTR for its own account begin on the first day of a month and to provide
+Producers with at least fifteen days' prior written notice of any such election.
+If, for any month, Processor has provided to Producers a notice of any such
+election, Processor shall not be entitled to rescind, revoke or change any such
+notice for such month. Processor agrees to provide any notifications with
+respect to such Processor-provided PTR that may be required by an Upstream
+Pipeline to which Processor delivers such PTR.
+
+         6.6 CONSIDERATION ADJUSTMENT OUTSIDE OF NORMAL OPERATIONS.
+
+                  (a) The cash amount of the total of all payments to be made by
+         Processor to each of the respective Producers calculated under Section
+         6.1 (the "Consideration Payment") shall be adjusted, proportionately
+         for each such payment, for each calendar month during the term of this
+         Agreement in which the Average Net Margin (as defined hereafter) is
+*        [REDACTED] as follows:
+
+                           (i)      in the event the Average Net Margin is
+*                                   [REDACTED], the Consideration Payment shall
+                                    be reduced by an amount that equals the
+                                    product of the amount by which the Average
+*                                   Net Margin is [REDACTED] multiplied by the
+                                    Products Volume; or
+
+                           (ii)     in the event the Average Net Margin is
+*                                   [REDACTED], the Consideration Payment shall
+                                    be increased by an amount that equals the
+                                    product of the amount by which the Average
+*                                   Net Margin is [REDACTED] multiplied by the
+                                    Products Volume.
+
+                  (b) Processor shall provide Producer with an estimate of the
+         Average Net Margin and the Products Volume for each calendar month, in
+         writing, no later than the fifth business day of the next calendar
+         month following the month in which the subject PTR and Processor's
+         Retrograde is delivered to a Plant.
+
+
+                                       15
+<PAGE>
+*CONFIDENTIAL TREATMENT REQUESTED. THE REDACTED MATERIAL HAS BEEN SEPARATELY
+FILED WITH THE COMMISSION, AND THE APPROPRIATE SECTION HAS BEEN MARKED AT THE
+APPROPRIATE PLACE AND THE MARGIN WITH A STAR(*).
+
+                  (c) For purposes of this Section 6.6, the following
+         definitions shall be applicable.
+
+                           (i)      "Average Net Margin" means the Average Gross
+                                    Margin less the Calculated Expenses.
+
+                           (ii)     "Average Gross Margin" means (A) the
+                                    Products Value minus the PTR Value divided
+                                    by (B) the Products Volume.
+
+                           (iii)    "Products Value" means the Products Volume
+                                    multiplied by the Products Price.
+
+                           (iv)     "Products Price" means: (A) for natural gas
+                                    liquids, the respective monthly average of
+*                                   the [REDACTED], minus [REDACTED]; and (B)
+                                    for condensate, the calendar monthly average
+*                                   of the [REDACTED], less [REDACTED], divided
+                                    by 42.
+
+                           (v)      "Products Volume" means the total volume of
+                                    Products, in Gallons, allocated to Equity
+                                    Gas in a calendar month, less the applicable
+                                    volume of in-kind fractionation fees for
+                                    such month attributable to gross production
+*                                   from the Yscloskey Plant ([REDACTED]) and
+*                                   the Toca Plant ([REDACTED]).
+
+                           (vi)     "PTR Value" means the sum, for a calendar
+                                    month, of the product of the PTR and the
+                                    Consideration Basis for each Plant where
+                                    Equity Gas is Processed during such calendar
+                                    month.
+
+                           (vii)    "Calculated Expenses" means the monthly
+                                    expenses associated with the Processing of
+                                    Equity Gas, in cents per Gallon, calculated
+                                    for each calendar month using the following
+                                    formula:
+
+                                    CALCULATED EXPENSES
+*                                   IN CENTS PER GALLON    =    [REDACTED]
+
+                      Where:
+
+                      X equals the index price, in dollars per million BTUs,
+*                     [REDACTED]
+
+*                     Y equals [REDACTED] increased annually commencing March 1,
+*                     2004, at the rate of [REDACTED] per year compounded.
+*                     [REDACTED]. Either party has the right to request good
+                      faith negotiation of a new Y escalation factor if they
+                      feel this portion of Calculated Expenses is inappropriate.
+                      Any such request must be made in writing at least sixty
+                      (60) days prior to the end of an anniversary year to be
+                      effective for the following anniversary year. In the event
+                      the parties do not agree on a new Y escalation factor at
+                      least thirty (30)
+
+
+                                       16
+<PAGE>
+
+                      days prior to the end of the anniversary year, the
+                      determination of the new Y escalation factor shall be a
+                      Dispute under this Agreement.
+
+                  (d) If for any reason any of the price indexes used in this
+         Section 6.6 cease to be published, then such affected index price(s)
+         shall, if available, be obtained from an alternative industry
+         publication (private or government) which publishes the same pricing
+         information. If an index price is no longer available, then Producer
+         and Processor shall, within 60 days of the first day of the month that
+         the cessation occurred, agree upon an alternate pricing mechanism for
+         such affected index price(s). The alternate pricing mechanism agreed
+         upon shall apply retroactively to the first day of the month that the
+         former index terminated. If the parties cannot agree on an alternate
+         pricing mechanism within the 60 day period, then the issue of how such
+         affected index price(s) should be determined shall be a Dispute under
+         this Agreement. It is the intent of the parties that any replacement
+         methodology or index shall resemble as closely as possible the index
+         being replaced.
+
+7. PTR AND PTR TRANSPORTATION.
+
+         Producers shall provide, or cause to be provided, the PTR and the
+transportation for (i) the PTR associated with the Processing of Equity Gas and
+(ii) Processor's Retrograde from the wellhead to the Plant Delivery Point, for
+all Equity Gas and Processor's Retrograde subject to the payment of
+consideration under Section 6.1. Producers shall also pay for all necessary
+facilities to cause the Equity Gas and/or Injected Liquids to meet the Quality
+Specifications and all other costs associated with delivering such PTR and
+Processor's Retrograde to the Plant Delivery Point. Processor shall pay
+Producers, for transportation of the PTR and Processor's Retrograde referenced
+in this Section 7, an amount equal to three cents ($0.03) per MMBTU. If
+Processor provides PTR for its own account under Section 6.5, Processor shall
+provide, or cause to be provided, transportation for such PTR at its sole
+expense.
+
+8. ROYALTY.
+
+         8.1 RESPONSIBILITY FOR ROYALTY PAYMENTS.
+
+                  (a) As between Processor and Producers, (i) Producers shall be
+         and remain fully liable for, and shall be fully responsible for
+         remitting any and all payments to the Department of the Interior, the
+         Minerals Management Service, the States of Louisiana, Texas,
+         Mississippi, Alabama and Florida, any other governmental agencies or
+         authorities, and any private lessors who are not federal or state
+         lessors in respect of, any and all federal, state or local royalties
+         and/or severance taxes due on any or all hydrocarbon production of
+         Producers or which in any way relate to, or are in connection with, any
+         of the transactions under this Agreement, including, without
+         limitation, any such federal, state or local royalties and/or severance
+         taxes on, relating to, or calculated on the basis of, any value of (x)
+         the PTR used by Processor, (y) the Products extracted from the Equity
+         Gas and (z) Processor's Retrograde (collectively, "Royalty Charges"),
+         and (ii) Processor shall have no liability for or in respect of any
+         such Royalty Charges.
+
+
+                                       17
+<PAGE>
+
+                  (b) Producers hereby agree to hold harmless and indemnify
+         Processor (and its Affiliates) from and against, and shall fully and
+         promptly reimburse Processor (and its Affiliates) for, any and all
+         claims, demands, and causes of action of any kind and all losses,
+         damages, costs, and expenses (including court costs and reasonable
+         attorneys' fees) arising from, relating to, or in connection with, any
+         Royalty Charges.
+
+         8.2 DELIVERY OF ROYALTY TAKEN IN KIND. Any request by a private, state
+or federal governmental lessor to take royalty production in kind for any Raw
+Make or Products recovered through Processing shall, if lawful, be fulfilled by
+Processor's delivery to the lessor or its designee of such in kind royalty at a
+specified location, all as may be required in accord with properly promulgated
+notices, regulations, or lease terms and to the extent that such delivery by
+Processor is approved (if required) by private, state or federal lessor. In such
+case, Processor shall be entitled to recover all costs allowed by statute,
+regulation or lease term including but not limited to costs of transportation
+and administrative services. In the event that Processor is prohibited from
+fulfilling such in kind royalty requests by the private state or federal lessor,
+then Processor shall be relieved of such obligation but shall tender to
+Producers an amount of Raw Make or Products recovered from Processing sufficient
+to fulfill such obligations at a mutually agreeable delivery point.
+
+         8.3 COMPLIANCE WITH FEDERAL ACTS. As between Processor and Producers,
+Processor agrees to fulfill Producers' obligation under Section 8(b)(7) of the
+Outer Continental Shelf Lands Act of 1978 by offering Processor's Retrograde and
+Products recovered through processing at the market value and point of delivery
+provided by regulators to small and independent refiners as defined in the
+Emergency Petroleum Allocations Act of 1973. Processor shall be entitled to
+retain the proceeds derived from such sale. In the event Processor is prevented
+for any reason from fulfilling this obligation, Processor shall tender to
+Producers' sufficient volumes of such Processor's Retrograde and Products
+sufficient for Producers themselves to fulfill such obligation, and Producers
+shall reimburse Processor for such liquids at a mutually agreed price which
+shall include the cost of handling and administration of such sales. Producer
+shall be entitled to retain the proceeds derived from such sale.
+
+9. METERING, ANALYSIS, AND ALLOCATION.
+
+         9.1 GAS METERING, ANALYSIS AND REPORTS.
+
+                  9.1.1 Producers shall be responsible for the metering at the
+Field Delivery Points of all Equity Gas and Injected Liquids, the calibration of
+such meters and any disputes with respect to such metering. Producers agree to
+use reasonable efforts to cause Gas meters to be tested on a minimum 45-day
+frequency for correct calibration and agree to provide, or cause to be provided,
+to Processor reasonable access to all meters.
+
+                  9.1.2 Producers shall furnish to Processor such statements as
+Processor may reasonably require to show the volume in MCF of Equity Gas
+delivered to Upstream Pipelines during a month at each of Producers' Field
+Delivery Points no later than the tenth business day of
+
+
+                                       18
+<PAGE>
+
+the month immediately following the month in which such Gas is delivered to the
+Upstream Pipeline. This information may be conveyed by facsimile transmission,
+with subsequent written confirmation, if necessary to meet the aforesaid
+deadline.
+
+                  9.1.3 Producers shall furnish to Processor a representative
+sample of Equity Gas measured at each Field Delivery Point that identifies GPM
+for each liquefiable hydrocarbon component in accordance with generally accepted
+industry standards by no later than the tenth business day of the month
+immediately following the month in which such Gas is delivered to the Upstream
+Pipeline. This information may be conveyed by facsimile transmission, with
+subsequent written confirmation, if necessary to meet the aforementioned
+deadline.
+
+         9.2 LIQUIDS METERING AND ANALYSIS. Processor shall be responsible for
+the metering and analysis of all liquefiable hydrocarbons extracted from Equity
+Gas, calibration of such meters and any disputes with respect to such metering.
+Processor agrees to cause such liquids meters to be tested on a minimum 45-day
+frequency for correct calibration and agrees to provide, or cause to be provided
+to Producers, reasonable access to such meters.
+
+         9.3 METER FAILURE. In the case of the failure of any measurement meter
+of a Plant with multiple Gas suppliers, the residue stream attributable to
+Equity Gas production shall be determined and allotted to Producers according to
+the provisions of either the applicable agreement controlling the construction
+and operation of the Plant involved or according to related agreements executed
+between the owners of the Plant and the owners of any Upstream Pipeline.
+
+10. INDEMNITY.
+
+         Processor hereby indemnifies and holds Producers harmless against any
+and all claims, demands, and causes of action of any kind and all losses,
+damages, costs, and expenses (including court costs and reasonable attorneys'
+fees) arising from injuries to persons or property attributable to the Equity
+Gas or Processor's Retrograde, after delivery thereof has been made to Processor
+at a Plant Delivery Point. Producers hereby indemnify and hold Processor
+harmless against any and all claims, demands, and causes of action of any kind
+and all losses, damages, costs, and expenses (including court costs and
+reasonable attorneys' fees) arising from injuries to persons or property
+attributable to the Equity Gas or Injected Liquids, including but not limited to
+Processor's Retrograde, prior to delivery to Processor at the Plant Delivery
+Point(s) and after Producer's share of the Residue Gas and Products (if
+applicable under Section 8.2) is delivered to Producer or Producer's designee at
+the Plant Redelivery Point(s).
+
+11. CURTAILMENT.
+
+         11.1 MUTUAL AGREEMENT NOT TO CURTAIL OR WITHHOLD. Producers agree not
+to unreasonably or arbitrarily withhold production of Equity Gas solely to
+prejudice the rights granted to Processor hereunder. However, Producers will
+have no liability to Processor under this Agreement if production is restricted
+or curtailed for any good faith reason. Likewise, Processor agrees not to
+arbitrarily withhold Processing services solely to prejudice the rights
+
+
+                                       19
+<PAGE>
+
+granted to Producer hereunder. In any such case, Processor shall have no
+liability to Producer if Processing services are withheld for any good faith
+reason.
+
+         11.2 LIMITED RIGHT TO INTERRUPT PERFORMANCE FOR MAINTENANCE, ETC.
+Processor and any Producer may, without liability, interrupt its performance
+hereunder for the purpose of making necessary or desirable inspections,
+maintenance, repairs, alterations and replacements; and the Processor or
+Producer requiring such relief shall give to the other reasonable notice of its
+intention to interrupt its performance hereunder, except in cases of emergency
+where such notice is impracticable or in cases where the operations of the other
+party will not be affected. The Processor or Producer requiring such relief
+shall endeavor to arrange such interruptions so as to minimize any adverse
+economic effect on the other party.
+
+12. FORCE MAJEURE.
+
+         12.1 PERFORMANCE EXCUSED. If either Processor or any Producer is
+rendered unable, wholly or in part by Force Majeure to perform its obligations
+under this Agreement, other than the obligation to make payments then due or
+thereafter becoming due as a result of performance of an obligation prior to
+such Force Majeure, it is agreed that performance of the respective obligations
+of Processor and such Producer hereunder, so far as they are affected by such
+Force Majeure, shall be suspended from the inception of any such inability until
+it is corrected, but for no longer period. The party claiming such inability
+shall give notice thereof to the other party as soon as reasonably practicable
+after the occurrence of the Force Majeure. The party claiming such inability
+shall promptly correct such inability to the extent it may be corrected through
+the exercise of reasonable diligence. Neither party shall be liable to the other
+for any losses or damages, regardless of the nature thereof and howsoever
+occurring, whether such losses or damages be direct or indirect, immediate or
+remote, by reason of, caused by, arising out of, or in any way attributable to
+the suspension or performance of any obligation of either party to the extent
+that such suspension occurs because a party is rendered unable, wholly or in
+part, by Force Majeure to perform its obligations.
+
+         12.2 FORCE MAJEURE DEFINED. For purposes of this Agreement, the term
+"Force Majeure" shall mean an event, which (i) is not within the reasonable
+control of the party claiming suspension, and which by the exercise of
+reasonable diligence such party is unable to overcome or (ii) acts of God;
+strikes, lockouts or other industrial disturbances, acts of the public enemy,
+wars, blockades, insurrections, civil disturbances and riots, and epidemics;
+landslides, lightning, earthquakes, fires, storms, hurricanes and threats of
+hurricanes, floods and washouts; arrests, orders, requests, directives,
+restraints and requirements of the government and governmental agencies, either
+federal or state, civil or military; explosions, breakage or accident to
+machinery, equipment or lines of pipe and outages (shutdowns) of equipment,
+machinery or lines of pipe. The term "Force Majeure" shall also include any
+event of force majeure occurring with respect to the facilities or services of
+either party's suppliers or customers delivering or receiving any Raw Make,
+Products, Slug Liquids, Gas, fuel, or other substance necessary to the
+performance of such party's obligations, and shall also include curtailment or
+interruption of deliveries or services by such third party suppliers or
+customers as a result of an event of force majeure.
+
+
+                                       20
+<PAGE>
+
+13. AUDIT RIGHTS.
+
+         For a period of two years following any statement or payment hereunder
+or such other period of time, if any, as may be prescribed under applicable
+COPAS standards, Producers or Processor or any third party representative
+thereof shall have the right, at its expense, upon reasonable notice and at
+reasonable times, to examine the books and records of the other party hereto, to
+the extent reasonably necessary to verify the accuracy of any such statement or
+payment under this Agreement. In addition, Processor and Producer shall be
+required to retain all records, contracts and files pertaining to royalty
+payments for the period of time necessary to comply with contractual or
+regulatory obligations to lessors, and the same shall be made available upon
+reasonable notice to the other parties hereunder.
+
+14. NOTIFICATIONS.
+
+         14.1 ANNUAL INFORMATION. On or before September 1 of each year, each
+Producer shall provide to Processor, without warranty as to accuracy, in
+reasonable form and substance, Producer's projected volumes and Gas richness
+(best available composition data) at each existing and projected Field Delivery
+Point by prospect, Upstream Pipeline and year for the following ten year period.
+Producers' current "C" volume exploration models or other statistical production
+models shall be included but may be reported in aggregate. Such provided
+information shall be referred to collectively as, the "Annual Information".
+Producers shall also inform Processor as part of the Annual Information of any
+plans to purchase or sell Dedicated Lease(s).
+
+         14.2 NOTICE OF MATERIAL CHANGES TO ANNUAL INFORMATION. Processor and
+Producers shall review the Annual Information regularly. Producer shall advise
+Processor as soon as reasonably practicable of any changes to the Annual
+Information that could materially impact Processor's plans to Process the
+projected Equity Gas Volumes.
+
+         14.3 NOTICE OF PROPOSED TRANSFERS OF DEDICATED LEASES. In addition to
+notifying Processor as a part of the Annual Information, Producers shall notify
+Processor, as soon as reasonably practicable, of, but in any case prior to, any
+efforts to sell, exchange, or otherwise assign any Dedicated Lease, and
+Processor shall inform the Producer of its intent to reserve or release such
+Dedicated Lease from this Agreement.
+
+         14.4 NOTICE OF PENDING TRANSPORTATION AGREEMENTS. Each Producer shall
+notify Processor as soon as reasonably practicable of any ongoing or planned
+negotiation for the transportation of Equity Gas in an Upstream Pipeline, in
+order to facilitate Processor's entering into a Gas Processing Agreement for
+such Equity Gas. Processor and Producer agree to enter into such transportation
+and Gas Processing contracts contemporaneously, to the extent reasonably
+practicable and provided that a Producer shall not be obligated to delay entry
+into any transportation contract when such Producer reasonably believes such
+delay will result in curtailment of Equity Gas.
+
+
+                                       21
+<PAGE>
+
+         14.5 NOTICE OF SCHEDULED PLANT DOWNTIME. Processor agrees to notify
+Producers as soon as reasonably practicable of any scheduled Plant downtime that
+could impact Producer's ability to continue to produce Equity Gas.
+
+15. CONFIDENTIALITY.
+
+         15.1 GENERAL. Producers or Processor shall not disclose the terms of
+this Agreement (or the results of any audit pursuant to Section 13) to a third
+party (other than the employees, lenders, counsel, consultants, or accountants
+of a Processor or a Producer who have agreed to keep such terms confidential)
+except (i) in order to comply with any applicable law, order, regulation or
+exchange rule, (ii) in connection with bona fide negotiations with a potential
+third party transferee of a Dedicated Lease or (iii) in connection with bona
+fide negotiations involving the acquisition or construction of Plant capacity or
+negotiations on contracts for third party Gas Processing agreements. Each party
+shall notify the other party of any proceeding of which it is aware which may
+result in disclosure and use reasonable efforts to prevent or limit the
+disclosure. Such confidentiality obligations shall terminate two years after the
+Termination Date.
+
+         15.2 ANNUAL INFORMATION. Processor hereby agrees to maintain Annual
+Information as confidential and agrees to disclose Annual Information only (i)
+to employees, lenders, counsel, consultants, or accountants of Processor or an
+Affiliate of Processor, who need to know and agree to maintain the
+confidentiality of such Annual Information, and (ii) to the extent necessary to
+comply with any applicable law, order, regulation or exchange rule. Processor
+shall notify the applicable Producers of any proceeding of which it is aware
+which may result in disclosure and use reasonable efforts to prevent or limit
+the disclosure. Such confidentiality obligations shall terminate two years after
+the Termination Date.
+
+16. DISPUTE RESOLUTION.
+
+         16.1 ARBITRATION. Producers and Processor hereby agree that any claim,
+controversy or dispute arising among the parties or their successors in interest
+or between any of them relating to this Agreement, or any of their respective
+rights, duties or obligations under or in connection with this Agreement (a
+"Dispute"), if not resolved by the parties in the ordinary course of business or
+under the procedures set forth in Sections 16.2 and 16.3, shall with reasonable
+promptness be submitted to and determined by binding arbitration in Houston,
+Texas in accordance with the commercial arbitration rules of the American
+Arbitration Association ("AAA") then in effect; and judgment upon any
+arbitration award rendered pursuant to and in accordance with the arbitration
+provisions of Section 16.4 may be entered in any court having jurisdiction over
+such arbitration proceeding and over Producers and Processor; and any such party
+may institute proceedings in any court having jurisdiction for the specific
+performance by any party of any such arbitration award. Each of the parties
+specifically agrees to be bound by any arbitration award or determination made
+in any such arbitration proceeding. This Section 16 will be the sole and
+exclusive procedure for the resolution of any Dispute, except that any party,
+without prejudice to the following procedures, may file a complaint to seek
+preliminary injunctive or other provisional judicial relief in a court of
+competent jurisdiction, if in its sole judgment, that action is necessary to
+avoid irreparable damage or to preserve the status quo;
+
+
+                                       22
+<PAGE>
+
+provided, however, that any such provisional relief granted shall be vacated or
+extended upon and in accordance with any determination of the arbitrators with
+respect thereto.
+
+         16.2 INITIATION OF PROCEDURES. Any party wishing to initiate the
+dispute resolution procedures set forth in this Section 16 with respect to a
+Dispute not resolved in the ordinary course of business must give written notice
+of the Dispute to the other parties ("Dispute Notice"). The Dispute Notice must
+include (1) a statement of that party's position and a summary of arguments
+supporting that position, and (2) the name and title of (a) the executive
+responsible for administering this Agreement or the matter in Dispute and who
+will represent that party and (b) any other person who will accompany the
+executive in the negotiations under Section 16.3. Within 15 days after delivery
+of the Dispute Notice, the receiving parties will submit to the other a written
+response. The response will include (1) a statement of that party's position and
+a summary of arguments supporting that position, and (2) the name and title of
+(x) the executive who will represent that party and (y) any other person who
+will accompany the executive in the negotiations conducted under Section 16.3.
+
+         16.3 NEGOTIATION BETWEEN EXECUTIVES. If any party has given a Dispute
+Notice under Section 16.2, the parties will attempt in good faith to resolve the
+Dispute within 30 days after the receipt of the written response to the Dispute
+Notice by negotiations between executives identified in Section 16.2. During the
+30 days following the receipt of the written response to the Dispute Notice, the
+executives (identified in Section 16.2) will meet no less than eight hours a day
+and exhaustively negotiate in good faith and at the expense of all other
+responsibilities.
+
+         16.4 BINDING ARBITRATION. At the end of the 30-day period provided in
+Section 16.3, if the executives have been unable to resolve the Dispute, and if
+a disputing party wishes to submit the Dispute to binding arbitration, the
+disputing party shall provide to the other disputing party three business days'
+prior written notice of such disputing party's intention to submit the Dispute
+to binding arbitration. The other disputing party shall be entitled to join in
+the submission of the Dispute to binding arbitration in accordance with the
+commercial arbitration rules of the AAA (expedited procedures). The AAA shall be
+instructed to choose an arbitrator who shall have a minimum of 15 years
+experience in the oil and gas processing industry, or such other experience such
+that he or she is considered an expert on the business of the Processor. Notice
+of a disputing party's submission of the matter for arbitration shall be given
+to the other party or parties within three business days thereafter (the
+"Arbitration Notice"). Upon delivery of the Arbitration Notice by the disputing
+party, each disputing party shall have 30 days to provide the arbitrator (and
+the disputing party) with a statement of its position (with supporting
+documentation) regarding the matter or matters in dispute together with its best
+and final offer for settlement of the Dispute. The failure to provide a
+statement of position within this period shall constitute a waiver of a
+disputing party's right to have such materials considered by the arbitrator. The
+arbitrator shall consider the statements of position submitted by the disputing
+parties and shall, within 30 business days after receipt of such materials,
+issue his or her decision in writing picking one of the statements of position
+submitted by the disputing parties as the position to be adopted to settle the
+Dispute. All determinations made by the arbitrator shall be final, conclusive
+and binding on the disputing parties. Each of the disputing parties will pay
+
+
+                                       23
+<PAGE>
+one-half of the fees of the arbitrator and all other arbitration fees and
+expenses and the fees of their respective arbitrators (if required).
+
+17. TRANSFER AND ASSIGNMENT.
+
+         17.1 SUCCESSORS AND ASSIGNS. This Agreement shall be binding upon
+Producers and Processor. Except for an assignment by Processor in connection
+with the sale of all or a substantial part of Processor's assets, this Agreement
+shall not be assignable by Processor except with the prior written consent of
+the affected Producer, or by a Producer, except with the prior written consent
+of Processor; provided, however, that no such consent may be unreasonably
+withheld or delayed.
+
+         17.2 PROCESSOR'S RIGHTS UNDER LEASES. Subject to Section 17.4,
+Producers hereby agree that it is their intent that, to the extent permitted by
+law, this Agreement constitutes a conveyance by Producers of a portion of their
+rights as lessee under the Dedicated Leases and that this Agreement shall bind
+all persons that now or at any time hereafter have any right as lessee or
+otherwise under any Dedicated Leases, whether by voluntary transfer, involuntary
+transfer, or otherwise of Leases; provided, however, that nothing in this
+Section 17.2 or any other provision of this Agreement shall require, or be
+deemed to require, Processor to pay, or be responsible for, any Royalty Charges,
+it being the intent of the parties to this Agreement that Producers shall pay,
+and be responsible for, any and all Royalty Charges, as provided in Section 8.1.
+Producers further agree (i) to make any transfer of any Dedicated Lease subject
+to the terms and conditions of this Agreement and (ii) not to transfer
+Producer's interest in a Dedicated Lease without first requiring the transferee
+to execute and deliver to Producer and Processor a Letter of Attornment in the
+form attached hereto as Exhibit E.
+
+         17.3 AFFILIATES OF PRODUCER PARTIES. Subject to Section 17.4, it is the
+intention of the parties that this Agreement shall bind not only the Producers
+who are made a party to this Agreement but also their respective Affiliates,
+successors and assigns. Each Producer covenants and agrees to exercise its best
+efforts to have each of its Affiliates, successors and assigns that acquires an
+interest in a Lease become and be made a party to this Agreement and to perform
+its obligations hereunder.
+
+         17.4 EXCEPTED LEASES. As to any Dedicated Leases, or portions thereof,
+that were transferred or assigned by Producers to third parties during the
+period of January 1, 1998 through May 30, 1999, inclusive, that were not made
+subject to the Third Amendment as a condition of any such transfer or assignment
+("Excepted Leases"), Processor waives the application of the Third Amendment as
+to the Excepted Leases, and the Parties agree that this Agreement shall not
+apply to the Excepted Leases.
+
+18. MISCELLANEOUS.
+
+         18.1 TITLE AND CAPTIONS. All section titles or captions in this
+Agreement are for convenience of reference only. They are not intended to be
+part of this Agreement or to in any way define, limit, extend, or describe the
+scope or intent of any provisions of this Agreement.
+
+
+                                       24
+<PAGE>
+Except as specifically provided otherwise, reference to "Sections" and
+"Exhibits" are to Articles and Sections of and Exhibits to this Agreement.
+
+         18.2 PRONOUNS AND PLURALS. Whenever the context so requires, any
+pronoun used in this Agreement includes the corresponding masculine, feminine or
+neuter forms, and the singular form of nouns, pronouns and verbs includes the
+plural and vice versa.
+
+         18.3 SEPARABILITY. Each provision of this Agreement shall be considered
+to be separable and, if, for any reason, any such provision, is determined to be
+in whole or part invalid and contrary to any existing or future applicable law,
+such invalidity shall not impair the operation of or affect those portions of
+this Agreement that are valid, and this Agreement shall be construed and
+enforced in all respects as if the invalid or unenforceable provision had been
+omitted.
+
+         18.4 SUCCESSORS. This Agreement shall be binding upon and inure to the
+benefit of the parties and their respective successors and assigns but this
+provision shall not be deemed to permit any assignment by a party of any of its
+rights or obligations under this Agreement except as expressly provided herein.
+
+         18.5 FURTHER ACTIONS. Each party agrees to execute and deliver such
+further instruments and do such further acts and things as may be required or
+useful to carry out or further evidence the intent and purpose of this Agreement
+and which are not inconsistent with its terms.
+
+         18.6 NOTICES. All notices or other communications hereunder must be in
+writing and must be delivered either personally or by (i) facsimile means
+(delivered during the recipient's regular business hours), (ii) registered or
+certified mail (postage prepaid and return receipt requested), or (iii) express
+courier or delivery service, addressed as follows:
+
+<TABLE>
+<S>                                                       <C>
+Producers:        [Producer]                              Processor:   Enterprise Gas Processing, LLC
+                   --------                                            2727 North Loop West - 7th Floor
+                  c/o Shell Offshore, Inc.                             Houston, TX  77008
+                  200 N. Dairy Ashford                                 Fax #:  (713) 880-6960
+                  Houston, TX 77079                                    Attn:   President
+                  Fax #: (281) 544-3544
+                  Attn:   Manager
+                          Marketing & Transportation
+</TABLE>
+
+or at such other address and number as any party shall have previously
+designated by notice given to the other parties in the manner provided in this
+Section. Notices shall be deemed given when received during normal business
+hours if sent by facsimile means (confirmation of such receipt by confirmed
+facsimile transmission being deemed receipt of communications sent by facsimile
+means), and when delivered and receipted for (or upon the date of attempted
+delivery where delivery is refused), if hand-delivered, sent by express courier
+or delivery service, or sent by certified or registered mail.
+
+
+                                       25
+<PAGE>
+
+         18.7 AMENDMENT ONLY IN WRITING. No amendment, waiver, modification or
+change of this Agreement shall be enforceable unless in writing signed by the
+Party against whom enforcement is sought.
+
+         18.8 RIGHT OF INGRESS AND EGRESS. To the extent Producers are able to
+grant such rights, Processor shall have the right of ingress and egress to and
+from the premises of Producers and to and from the Field Delivery Points for all
+purposes necessary for the fulfillment of this Agreement.
+
+         18.9 NO SPECIAL DAMAGES. No party shall be liable for any
+consequential, incidental, punitive, exemplary, or indirect damages in tort,
+contract, under any indemnity provision or otherwise.
+
+         18.10 APPLICABLE LAW. This Agreement shall be governed by, and
+construed, interpreted and enforced in accordance with, the substantive law of
+the state of Louisiana without regard to principles of conflicts of laws.
+
+         18.11 ENTIRE AGREEMENT. This Agreement embodies the entire agreement
+and understanding between Producers and Processor and supersedes all prior
+agreements and understandings relating to the subject matter hereof, except that
+Section 2 of the Third Amendment is hereby incorporated in this Agreement by
+reference and shall survive this Agreement as though fully set forth herein.
+
+         18.12 COUNTERPARTS. This Agreement may be executed in one or more
+counterparts and each of such counterparts, for all purposes, shall be deemed to
+be an original, but all of such counterparts together shall constitute but one
+and the same instrument, binding upon all parties, notwithstanding that all of
+the parties may not have executed the same counterpart.
+
+
+                                       26
+<PAGE>
+     IN WITNESS WHEREOF, the Parties hereto, by their duly authorized
+representatives have executed this Agreement effective as of the Effective Date.
+
+PRODUCERS:
+
+SHELL OIL COMPANY                           WITNESSES:
+
+
+By:      /s/ B. K. Garrison                 /s/ Maria Perez Chahin
+         ---------------------              ----------------------
+Name:    B. K. Garrison
+Title:   Attorney-in-Fact                   /s/ Jane A. Newitt
+                                            ----------------------
+
+
+SHELL OFFSHORE INC.                         WITNESSES:
+
+
+By:      /s/ J. W. Kimmel                   /s/ Maria Perez Chahin
+         ---------------------              -----------------------
+Name:    J. W. Kimmel
+Title:   Attorney-in-Fact                   /s/ Martha R. Sparks
+                                            -----------------------
+
+
+SHELL CONSOLIDATED ENERGY                   WITNESSES:
+RESOURCES INC.
+
+
+By:      /s/ B. K. Garrison                 /s/ Maria Perez Chahin
+         ---------------------              ----------------------
+Name:    B. K. Garrison
+Title:   Attorney-in-Fact                   /s/ Jane A. Newitt
+                                            ----------------------
+
+
+SHELL LAND & ENERGY COMPANY                 WITNESSES:
+
+
+By:      /s/ B. K. Garrison                 /s/ Maria Perez Chahin
+         ---------------------              ----------------------
+Name:    B. K. Garrison
+Title:   Attorney-in-Fact                   /s/ Jane A. Newitt
+                                            ----------------------
+
+
+SHELL FRONTIER OIL & GAS INC.               WITNESSES:
+
+
+By:      /s/ J. W. Kimmel                   /s/ Maria Perez Chahin
+         ---------------------              ----------------------
+Name:    J. W. Kimmel
+Title:   Attorney-in-Fact                   /s/ Martha R. Sparks
+                                            ----------------------
+
+
+                                       27
+<PAGE>
+
+SHELL EXPLORATION &                         WITNESSES:
+PRODUCTION COMPANY
+
+
+By:      /s/ R. M. Restucci                 /s/ Maria Perez Chahin
+         ---------------------              ----------------------
+Name:    R. M. Restucci
+Title:   President & CEO                    /s/ Shirley R. Holm
+                                            ----------------------
+
+
+SHELL GULF OF MEXICO INC.                   WITNESSES:
+
+
+By:      /s/ J. W. Kimmel                   /s/ Maria Perez Chahin
+         ---------------------              ----------------------
+Name:    J. W. Kimmel
+Title:   Attorney-in-Fact                   /s/ Martha R. Sparks
+                                            ----------------------
+
+
+PROCESSOR:
+
+ENTERPRISE GAS PROCESSING, LLC              WITNESSES:
+
+
+By:      /s/ W. Ordemann                    /s/ Brigid A. Walsh
+         ---------------------              ---------------------
+Name:    W. Ordemann
+Title:   Senior Vice President              /s/ Thomas M. Zulim
+                                            ---------------------
+
+
+
+                                       28
+<PAGE>
+
+STATE OF TEXAS
+COUNTY OF HARRIS
+
+BEFORE ME, the undersigned Notary Public, on this day personally appeared B. K.
+Garrison, known to me to be the person whose name is subscribed to the foregoing
+instrument and acknowledged to me that he, being fully authorized to do so,
+executed and delivered the same as Attorney-in-Fact for Shell Oil Company, a
+Delaware corporation, on the day and year therein mentioned and as the act and
+deed of said corporation, for the purpose and consideration therein expressed.
+
+GIVEN UNDER MY HAND AND SEAL OF OFFICE, this 9th day of April, 2003.
+
+
+                                             /s/ Belinda Hirsch
+                                             -----------------------
+                                             Notary Public
+
+My Commission Expires March 26, 2006.
+
+
+
+STATE OF TEXAS
+COUNTY OF HARRIS
+
+BEFORE ME, the undersigned Notary Public, on this day personally appeared J. W.
+Kimmel, known to me to be the person whose name is subscribed to the foregoing
+instrument and acknowledged to me that he, being fully authorized to do so,
+executed and delivered the same as Attorney-in-Fact for Shell Offshore Inc., a
+Delaware corporation, on the day and year therein mentioned and as the act and
+deed of said corporation, for the purpose and consideration therein expressed.
+
+GIVEN UNDER MY HAND AND SEAL OF OFFICE, this 9th day of April, 2003.
+
+
+                                             /s/ Maria Cristina Charles
+                                             --------------------------
+                                             Notary Public
+
+My Commission Expires April 4, 2004.
+
+
+                                       29
+<PAGE>
+
+
+STATE OF TEXAS
+COUNTY OF HARRIS
+
+BEFORE ME, the undersigned Notary Public, on this day personally appeared B. K.
+Garrison, known to me to be the person whose name is subscribed to the foregoing
+instrument and acknowledged to me that he, being fully authorized to do so,
+executed and delivered the same as Attorney-in-Fact for Shell Consolidated
+Energy Resources Inc., a Delaware corporation, on the day and year therein
+mentioned and as the act and deed of said corporation, for the purpose and
+consideration therein expressed.
+
+GIVEN UNDER MY HAND AND SEAL OF OFFICE, this 9th day of April, 2003.
+
+
+                                                  /s/ Belinda Hirsch
+                                             ------------------------------
+                                             Notary Public
+
+My Commission Expires March 26, 2006.
+
+
+
+STATE OF TEXAS
+COUNTY OF HARRIS
+
+BEFORE ME, the undersigned Notary Public, on this day personally appeared B. K.
+Garrison, known to me to be the person whose name is subscribed to the foregoing
+instrument and acknowledged to me that he, being fully authorized to do so,
+executed and delivered the same as Attorney-in-Fact for Shell Land & Energy
+Company, a Delaware corporation, on the day and year therein mentioned and as
+the act and deed of said corporation, for the purpose and consideration therein
+expressed.
+
+GIVEN UNDER MY HAND AND SEAL OF OFFICE, this 9th day of April, 2003.
+
+
+                                                  /s/ Belinda Hirsch
+                                             ------------------------------
+                                             Notary Public
+
+My Commission Expires March 26, 2006.
+
+
+
+                                       30
+<PAGE>
+
+STATE OF TEXAS
+COUNTY OF HARRIS
+
+BEFORE ME, the undersigned Notary Public, on this day personally appeared J. W.
+Kimmel, known to me to be the person whose name is subscribed to the foregoing
+instrument and acknowledged to me that he, being fully authorized to do so,
+executed and delivered the same as Attorney-in-Fact for Shell Frontier Oil & Gas
+Inc., a Delaware corporation, on the day and year therein mentioned and as the
+act and deed of said corporation, for the purpose and consideration therein
+expressed.
+
+GIVEN UNDER MY HAND AND SEAL OF OFFICE, this 9th day of April, 2003.
+
+
+
+                                              /s/ Maria Cristina Charles
+                                             ----------------------------
+                                             Notary Public
+
+My Commission Expires April 4, 2004.
+
+
+
+STATE OF TEXAS
+COUNTY OF HARRIS
+
+BEFORE ME, the undersigned Notary Public, on this day personally appeared R. M.
+Restucci, known to me to be the person whose name is subscribed to the foregoing
+instrument and acknowledged to me that he, being fully authorized to do so,
+executed and delivered the same as President and CEO of Shell Exploration &
+Production Company, a Delaware corporation, on the day and year therein
+mentioned and as the act and deed of said corporation, for the purpose and
+consideration therein expressed.
+
+GIVEN UNDER MY HAND AND SEAL OF OFFICE, this 9th day of April, 2003.
+
+
+                                               /s/ Maria Cristina Charles
+                                              ----------------------------
+                                              Notary Public
+
+My Commission Expires April 4, 2004.
+
+
+                                       31
+<PAGE>
+STATE OF TEXAS
+COUNTY OF HARRIS
+
+BEFORE ME, the undersigned Notary Public, on this day personally appeared J. W.
+Kimmel, known to me to be the person whose name is subscribed to the foregoing
+instrument and acknowledged to me that he, being fully authorized to do so,
+executed and delivered the same as Attorney-in-Fact for Shell Gulf of Mexico
+Inc., a Delaware corporation, on the day and year therein mentioned and as the
+act and deed of said corporation, for the purpose and consideration therein
+expressed.
+
+GIVEN UNDER MY HAND AND SEAL OF OFFICE, this 9th day of April, 2003.
+
+                                              /s/ Maria Cristina Charles
+                                             ----------------------------
+                                             Notary Public
+
+My Commission Expires April 4, 2004.
+
+
+
+STATE OF TEXAS
+COUNTY OF HARRIS
+
+BEFORE ME, the undersigned Notary Public, on this day personally appeared W.
+Ordemann, known to me to be the person whose name is subscribed to the foregoing
+instrument and acknowledged to me that he, being fully authorized to do so,
+executed and delivered the same as a Senior Vice President of Enterprise Gas
+Processing, LLC, a Delaware limited liability company, on the day and year
+therein mentioned and as the act and deed of said corporation, for the purpose
+and consideration therein expressed.
+
+GIVEN UNDER MY HAND AND SEAL OF OFFICE, this 9th day of April, 2003.
+
+
+                                              /s/ Brigid A. Walsh
+                                             ---------------------
+                                             Notary Public
+
+My Commission Expires October 30, 2006.
+
+
+                                       32
+<PAGE>
+                                    EXHIBIT A
+             SIXTH AMENDMENT TO CONVEYANCE OF GAS PROCESSING RIGHTS
+                      DEDICATED LEASES AS OF AUGUST 1, 1999
+                                 FEDERAL LEASES
+
+
+<Table>
+<Caption>
+      AREA           BLOCK         LEASE #      CURRENT LEASE OPERATOR             LEASE DATE      SPUD DATE
+---------------------------------------------------------------------------------------------------------------
+<S>                  <C>           <C>         <C>                                 <C>             <C>
+       AC             0556          11607      Shell Deepwater Dev                  10/01/89
+       AC             0557           8272      Shell Deepwater Dev                  10/01/85
+       AC             0558           9263      Shell Deepwater Dev                  10/01/87
+       AC             0600           8580      Shell Deepwater Dev                  10/01/86       04/15/96
+       AC             0601           8581      Shell Deepwater Dev                  10/01/86
+       AC             0602           9266      Shell Deepwater Dev                  10/01/87
+       AC             0644          11609      Shell Deepwater Dev                  10/01/89
+       AC             0645           9268      Shell Deepwater Dev                  10/01/87
+       AC             0646          11610      Shell Deepwater Dev                  10/01/89
+       BA             0505          15724      IP Pet                               11/01/95       03/04/97
+       BA             0577          17111      IP Pet                               01/01/97       08/12/97
+       BA            A0019           3936      Shell Offshore                       03/01/79       11/26/79
+       BA            A0020           3472      Shell Offshore                       08/01/77       05/23/94
+       BA            A0023           3938      Shell Offshore                       03/01/79       07/19/79
+       EC             0060           5359      Shell Offshore                       07/01/83       03/30/93
+       EC             0126          15139      Shell Offshore                       07/01/95       08/04/98
+       EC             0187          15142      Shell Offshore                       07/01/95       07/23/97
+       EC             0276          12845      Walter O&G                           07/01/91       04/27/96
+       EC             0287          16268      Newfield Exp                         06/01/96       10/20/97
+       EI             0097          17964      Shell Offshore                       07/01/97       01/31/99
+       EI             0136           3152      Shell Offshore                       07/01/75       09/04/97
+       EI             0152          15244      Shell Offshore                       07/01/95       02/26/96
+       EI             0157          11951      Shell Offshore                       05/01/90       07/05/94
+       EI             0158           1220      Shell Offshore                       06/01/62       07/12/62
+       EI             0176           445       Shell Offshore                       01/01/55       09/18/68
+       EI             0183          17981      Elf Exp                              08/01/97       05/31/98
+       EI             0184           5498      Elf Exp                              07/01/83       02/12/88
+       EI             0331           2116      Shell Offshore                       01/01/71       02/10/71
+       EW             0833          18167      Shell Offshore                       07/01/97
+       EW             0834          18168      Shell Offshore                       07/01/97       07/11/98
+       GA             0180           3228      Shell Offshore                       09/01/75       01/16/78
+       GA             0213          17120      Basin Exp                            02/01/97       01/19/98
+       GB             0083          11450      Shell Offshore                       12/01/89       03/02/90
+       GB             0084          11451      Shell Offshore                       12/01/89       07/04/91
+       GB             0127          11454      Shell Offshore                       12/01/89       01/28/95
+       GB             0128          11455      Shell Offshore                       12/01/89       03/16/94
+       GB             0168          15846      Shell Offshore                       11/01/95       01/05/99
+       GB             0172          14221      Shell Offshore                       01/01/94       02/03/95
+       GB             0215           9216      Amerada Hess                         10/01/87       03/23/88
+       GB             0248          13815      Shell Deepwater Dev                  10/01/92       10/04/97
+       GB             0254          13816      Chevron USA                          12/01/92       06/15/93
+       GB             0336          15877      Shell Deepwater Dev                  11/01/95       07/31/96
+       GB             0341          15879      Shell Deepwater Dev                  02/01/96       12/01/98
+       GB             0426           8241      Shell Deepwater Prod                 10/01/85       05/09/88
+       GB             0427           7493      Shell Deepwater Prod                 09/01/84       06/03/87
+       GB             0451          15898      Shell Deepwater Dev                  11/01/95       01/23/98
+       GB             0452          15899      Shell Deepwater Dev                  11/01/95
+       GB             0470           8248      Shell Deepwater Prod                 10/01/85       07/08/87
+       GB             0471           7498      Shell Deepwater Prod                 09/01/84       02/23/87
+       GB             0472          11528      Shell Deepwater Dev                  10/01/89       07/13/99
+       GB             0515          20792      Marathon Oil                         01/01/99       06/04/99
+       GB             0516           8252      Shell Deepwater Dev                  10/01/85       09/21/95
+       GB             0559          11546      Shell Deepwater Dev                  10/01/89       02/08/99
+</TABLE>
+
+                                  Page 1 of 4
+<PAGE>
+                                    EXHIBIT A
+             SIXTH AMENDMENT TO CONVEYANCE OF GAS PROCESSING RIGHTS
+                      DEDICATED LEASES AS OF AUGUST 1, 1999
+                                 FEDERAL LEASES
+
+
+<Table>
+<Caption>
+      AREA           BLOCK         LEASE #      CURRENT LEASE OPERATOR             LEASE DATE      SPUD DATE
+---------------------------------------------------------------------------------------------------------------
+<S>                  <C>           <C>         <C>                                 <C>             <C>
+       GB             0602          11553      Shell Deepwater Dev                  10/01/89       09/13/95
+       GB             0919          11591      Shell Deepwater Dev                  10/01/89
+       GB             0920          11592      Shell Deepwater Dev                  10/01/89       06/07/99
+       GB             0963          11597      Shell Deepwater Dev                  10/01/89
+       GB             0964          11598      Shell Deepwater Dev                  10/01/89
+       GC             0019           4131      Shell Offshore                       10/01/79       02/09/80
+       GC             0065           5889      Shell Offshore                       07/01/83       08/04/83
+       GC             0069          13159      Shell Deepwater Dev                  05/01/91       02/23/98
+       GC             0073           5897      Shell Deepwater Prod                 07/01/83       05/26/85
+       GC             0108          14668      Shell Offshore                       07/01/94
+       GC             0109           5900      Shell Offshore                       07/01/83       06/02/84
+       GC             0110          14023      Shell Offshore                       07/01/93       04/09/95
+       GC             0112          15545      Shell Deepwater Dev                  07/01/95       03/29/97
+       GC             0113          15546      Shell Deepwater Dev                  09/01/95       08/08/97
+       GC             0116           5904      Shell Deepwater Prod                 07/01/83       11/14/84
+       GC             0117           5905      Shell Deepwater Prod                 07/01/83       07/15/85
+       GC             0155          16698      Shell Deepwater Dev                  09/01/96       04/28/98
+       GC             0158           7995      Shell Deepwater Dev                  07/01/85       12/23/88
+       GC             0177          16702      Spinnaker Exp                        09/01/96       07/08/99
+       GC             0200          12209      BP Exp & Oil                         05/01/90       03/16/97
+       GC             0201          12210      BP Exp & Oil                         05/01/90
+       GC             0202           7998      Shell Deepwater Dev                  07/01/85       09/29/97
+       GC             0244          11043      BP Exp & Oil                         05/01/89       02/14/94
+       GC             0245           5916      BP Exp & Oil                         07/01/83       08/08/95
+       GC             0247          15564      Shell Deepwater Dev                  09/01/95
+       GC             0248          15565      Shell Deepwater Dev                  09/01/95       02/21/96
+       GC             0472           5097      Shell Deepwater Dev                  04/01/82       12/08/88
+       GC             0473           5922      Shell Deepwater Dev                  07/01/83       09/17/91
+       GC             0517           5923      Shell Deepwater Dev                  07/01/83
+       GC             0644          11080      BP Exp & Oil                         05/01/89       12/20/98
+       GC             0645          11081      BP Exp & Oil                         05/01/89
+       GI             0110          13943      Anadarko Pet                         08/01/93       11/15/98
+       GI             0111          18069      Anadarko Pet                         07/01/97
+       GI             0116          13944      Anadarko Pet                         07/01/93       04/16/98
+       HI             0035          15768      IP Pet                               12/01/95       08/31/96
+       HI             0037          15769      IP Pet                               12/01/95       06/28/96
+       HI             0068          15771      IP Pet                               11/01/95       01/09/97
+       HI             0108          15776      IP Pet                               11/01/95       05/31/96
+       HI             0119          14882      Shell Offshore                       10/01/94       07/08/96
+       HI             0135           741       Shell Offshore                       05/01/60       03/21/64
+       HI             0136           742       Shell Offshore                       05/01/60       05/17/64
+       HI             0161           744       Shell Offshore                       05/01/60       06/26/61
+       HI             0179           3236      Shell Offshore                       09/01/75       02/14/76
+       HI             0194           6166      Shell Offshore                       10/01/83       06/16/84
+       HI             0201           4576      Shell Offshore                       01/01/81       06/19/82
+       HI            A0006           4734      Shell Offshore                       09/01/81       04/04/93
+       HI            A0350           2428      Shell Offshore                       08/01/73       08/15/73
+       MC             0108           9777      BP Exp & Oil                         07/01/88       04/02/89
+       MC             0110          18192      Shell Offshore                       08/01/97       03/12/98
+       MC             0119          14629      Shell Deepwater Dev                  05/01/94       05/12/99
+       MC             0151           2643      Shell Offshore                       05/01/74       07/27/75
+       MC             0194           2638      Shell Offshore                       05/01/74       06/28/75
+       MC             0195           2639      Shell Offshore                       05/01/74       01/22/76
+       MC             0311           2968      Shell Offshore                       12/01/74       12/21/74
+       MC             0383           7937      Shell Deepwater Dev                  08/01/85       06/27/87
+       MC             0385           7938      Shell Deepwater Dev                  07/01/85
+</TABLE>
+
+
+                                  Page 2 of 4
+<PAGE>
+                                    EXHIBIT A
+             SIXTH AMENDMENT TO CONVEYANCE OF GAS PROCESSING RIGHTS
+                      DEDICATED LEASES AS OF AUGUST 1, 1999
+                                 FEDERAL LEASES
+
+
+<Table>
+<Caption>
+      AREA           BLOCK         LEASE #      CURRENT LEASE OPERATOR             LEASE DATE      SPUD DATE
+---------------------------------------------------------------------------------------------------------------
+<S>                  <C>           <C>         <C>                                 <C>             <C>
+       MC             0429           7944      Shell Deepwater Dev                  07/01/85       11/08/95
+       MC             0430           9808      Shell Deepwater Dev                  05/01/88
+       MC             0496          14005      Shell Deepwater Dev                  07/01/93       07/03/98
+       MC             0520           9821      Amoco Prod                           05/01/88       10/30/96
+       MC             0521           8822      Amoco Prod                           06/01/87
+       MC             0522           8823      Amoco Prod                           06/01/87       04/27/89
+       MC             0565          11002      Amoco Prod                           05/01/89
+       MC             0566           8831      Amoco Prod                           06/01/87
+       MC             0584          14010      Union Pacific Res                    08/01/93       12/16/97
+       MC             0607           9837      Amoco Prod                           05/01/88       09/20/97
+       MC             0608           9838      Amoco Prod                           05/01/88
+       MC             0657           8496      Shell Deepwater Dev                  06/01/86       11/07/87
+       MC             0686           5862      Shell Deepwater Prod                 07/01/83       09/10/96
+       MC             0687           5863      Shell Deepwater Prod                 07/01/83       12/19/95
+       MC             0730           7954      Shell Deepwater Prod                 07/01/85       06/10/88
+       MC             0731           7955      Shell Deepwater Prod                 07/01/85       11/20/86
+       MC             0762           7957      Shell Offshore                       07/01/85
+       MC             0763           7958      Shell Offshore                       07/01/85       01/13/89
+       MC             0764           8852      Shell Deepwater Dev                  06/01/87       07/23/88
+       MC             0806           7962      Shell Deepwater Prod                 07/01/85       04/10/91
+       MC             0807           7963      Shell Deepwater Prod                 07/01/85       07/26/89
+       MC             0809           5868      Shell Deepwater Dev                  07/01/83       07/19/93
+       MC             0810           9873      Shell Deepwater Dev                  05/01/88       03/01/95
+       MC             0850           9881      Shell Deepwater Dev                  05/01/88
+       MC             0851           9882      Shell Deepwater Dev                  05/01/88
+       MC             0852           5870      Shell Deepwater Dev                  07/01/83       12/07/83
+       MC             0853           5871      Shell Deepwater Dev                  07/01/83
+       MC             0854           9883      Shell Deepwater Dev                  05/01/88       07/10/90
+       MC             0890           7969      Shell Deepwater Dev                  07/01/85       10/29/98
+       MC             0891           9889      Shell Deepwater Dev                  05/01/88
+       MC             0898           9895      BP Exp & Oil                         05/01/88
+       MC             0899           9896      BP Exp & Oil                         05/01/88       01/25/91
+       MC             0911           9899      BP Exp & Oil                         05/01/88       08/03/97
+       MC             0912           9900      BP Exp & Oil                         05/01/88
+       MC             0934           7975      Shell Deepwater Dev                  07/01/85       12/22/94
+       MC             0935           7976      Shell Deepwater Dev                  07/01/85       01/28/94
+       MC             0942           9904      Shell Deepwater Dev                  05/01/88       09/23/98
+       MC             0955           8862      Shell Deepwater Dev                  06/01/87
+       MC             0956           8863      Shell Deepwater Dev                  06/01/87
+       MC             0999           8866      Shell Deepwater Dev                  06/01/87
+       MC             1000           8867      Shell Deepwater Dev                  06/01/87
+       MO             0821           5058      Shell Offshore                       04/01/82       10/16/85
+       MP             0251           7823      Shell Deepwater Prod                 08/01/85       11/16/86
+       MP             0252           7824      Shell Deepwater Prod                 08/01/85       11/13/85
+       MP             0309           8760      Shell Offshore                       06/01/87       06/21/89
+       MP             0310           4126      Shell Offshore                       10/01/79       05/19/80
+       MP             0312          16520      Shell Offshore                       07/01/96       01/20/97
+       MP             0315           8467      Shell Offshore                       07/01/86       10/16/86
+       PN             0969           5953      Shell Offshore                       10/01/83       02/04/84
+       PN             0975          20603      Shell Offshore                       10/01/98       12/09/98
+       PN             0976           5954      Shell Offshore                       10/01/83       04/09/90
+       SA             0010           3958      Shell Offshore                       03/01/79       03/30/79
+       SA             0012          14590      IP Pet                               07/01/94       10/02/82
+       SM             0130           2280      Shell Offshore                       02/01/73       04/05/73
+       SM             0131           2281      Shell Offshore                       01/01/73       02/21/73
+       SS             0076          15276      Mobil E&P SE                         08/01/95       11/04/95
+</TABLE>
+
+
+                                  Page 3 of 4
+<PAGE>
+                                    EXHIBIT A
+             SIXTH AMENDMENT TO CONVEYANCE OF GAS PROCESSING RIGHTS
+                      DEDICATED LEASES AS OF AUGUST 1, 1999
+                                 FEDERAL LEASES
+
+
+<Table>
+<Caption>
+      AREA           BLOCK         LEASE #      CURRENT LEASE OPERATOR             LEASE DATE      SPUD DATE
+---------------------------------------------------------------------------------------------------------------
+<S>                  <C>           <C>         <C>                                 <C>             <C>
+       SS             0201           5557      L L & E                              07/01/83       11/24/90
+       SS             0258           5560      Shell Frontier O&G                   07/01/83       01/18/86
+       SS             0259           5044      Shell Frontier O&G                   04/01/82       08/21/82
+       ST             0211          16435      IP Pet                               07/01/96
+       ST             0300           4240      Shell Offshore                       12/01/79       07/10/81
+       ST             0301           3594      Shell Offshore                       08/01/77       02/08/78
+       ST             0302           6779      Shell Offshore                       06/01/84       12/16/84
+       SX             0017           4143      Shell Offshore                       10/01/79       02/22/81
+       SX             0040           4745      Shell Offshore                       09/01/81       10/28/86
+       VK             0736          13987      Shell Offshore                       07/01/93       09/23/98
+       VK             0780           6884      Shell Offshore                       06/01/84       02/04/86
+       VK             0783           6886      Shell Deepwater Prod                 06/01/84       11/02/84
+       VK             0784          13060      Shell Deepwater Prod                 07/01/91       02/10/96
+       VK             0824          15436      Shell Offshore                       09/01/95       06/09/98
+       VK             0827           7910      Shell Deepwater Prod                 09/01/85       09/14/98
+       VK             0867           6889      Amoco Prod                           07/01/84
+       VK             0871           8469      Amoco Prod                           06/01/86       05/26/94
+       VK             0872          19907      Shell Deepwater Dev                  08/01/98       11/20/98
+       VK             0873          19908      Shell Deepwater Dev                  08/01/98       12/15/98
+       VK             0911           6892      Shell Deepwater Prod                 07/01/84       08/27/98
+       VK             0912           6893      Shell Deepwater Prod                 07/01/84       03/01/85
+       VK             0915           6894      Amoco Prod                           06/01/84       04/14/93
+       VR             0161           1127      Samedan                              06/01/62       01/01/63
+       VR             0195          19760      Shell Offshore                       08/01/98
+       VR             0196          19760      Shell Offshore                       08/01/98       01/01/63
+       VR             0207          19760      Shell Offshore                       08/01/98
+       VR             0260          15197      Shell Offshore                       07/01/95       12/04/95
+       VR             0308          11892      Newfield Exp                         05/01/90       10/25/94
+       VR             0355          12876      Shell Offshore                       07/01/91       02/14/92
+       WC             0094          15054      IP Pet                               07/01/95       10/26/96
+       WC             0170           4085      CXY Energy Off                       10/01/79       06/25/80
+       WC             0182          15062      Seneca Res                           08/01/95       10/22/96
+       WC             0195          16123      IP Pet                               06/01/96       05/09/97
+       WC             0266          13838      Shell Offshore                       08/01/93       11/01/96
+       WC             0269          13563      Shell Offshore                       08/01/92       06/22/95
+       WC             0270          15073      Shell Offshore                       07/01/95       06/24/96
+       WC             0311          15079      IP Pet                               07/01/95       04/27/96
+       WC             0505          16200      LLOG Exp Off                         06/01/96       10/04/98
+       WC             0565           2015      Shell Offshore                       02/01/71       01/06/72
+       WC             0633           2238      Shell Offshore                       01/01/73       01/22/73
+       WD             0034           3414      Forcenergy                           01/01/77       01/30/77
+</Table>
+
+
+                                  Page 4 of 4
+<PAGE>
+                                    EXHIBIT A
+             SIXTH AMENDMENT TO CONVEYANCE OF GAS PROCESSING RIGHTS
+                      DEDICATED LEASES AS OF AUGUST 1, 1999
+                          LEASES WITH OPERATING RIGHTS
+
+
+<Table>
+<Caption>
+                                                    CURRENT
+                                                     LEASE
+  AREA      BLOCK     LEASE #        LEASE          OPERATOR        LEASE DATE            DESCRIPTION OF OPERATING RIGHTS
+------------------------------------------------------------------------------------------------------------------------------------
+<S>         <C>       <C>           <C>            <C>              <C>          <C>
+   EI       0088       10721        G10721         Burlington        07/01/89    N1/2; SE1/4; E1/2SW1/4; NW1/4SW1/4; E1/2SW1/4SW1/4,
+                                                                                 limited from the surface to a depth of 25,000'
+                                                                                 subsea; and W1/2SW1/4SW1/4, limited from a depth of
+                                                                                 8,200' subsea to a depth of 25,000' subsea.
+
+
+   EI       0089        044         G00044         Burlington        08/28/45    N1/2; SW1/4; W1/2SE1/4; W1/2E1/2SE1/4;
+                                                                                 NE1/4NE1/4SE1/4; SE1/4SE1/4SE1/4, Block 89, Eugene
+                                                                                 Island Area, limited from the surface to a depth of
+                                                                                 25,000' subsea; and the SE1/4NE1/4SE1/4;
+                                                                                 NE1/4SE1/4SE1/4, limited from a depth of 8,200'
+                                                                                 subsea to a depth of 25,000' subsea.
+
+   EI       0090        229         G00229         Burlington        11/19/48    SE1/4 of Block 90, Eugene Island Area, INSOFAR AND
+                                                                                 ONLY INSOFAR AS lease covers the following:
+                                                                                 NE1/4SE1/4; W1/2SE1/4; W1/2SE1/4SE1/4, limited from
+                                                                                 the surface to a depth of 25,000' subsea; and the
+                                                                                 E1/2SE1/4SE1/4, limited from a depth of 10,800'
+                                                                                 subsea to a depth of 25,000' subsea.
+
+   EI       0093        228         G00228         Burlington        11/19/48    E1/2 of Block 93, Eugene Island Area, INSOFAR AND
+                                                                                 ONLY INSOFAR AS said lease covers the following:
+                                                                                 W1/2E1/2NE1/4; W1/2NE1/4; SE1/4, limited from the
+                                                                                 surface to a depth of 25,000' subsea; and the
+                                                                                 E1/2E1/2NE1/4, limited from a depth of 25,000'
+                                                                                 subsea.
+
+   EI       0094       5488         G05488         Burlington        07/01/83    N1/2; SE1/4; N1/2SW1/4; N1/2S1/2SW1/4;
+                                                                                 S1/2SE1/4SW1/4; E1/4SW1/4SW1/4, limited from the
+                                                                                 surface to a depth of 25,000' subsea; and the
+                                                                                 SW1/4SW1/4SW1/4, limited from a depth of 10,800'
+                                                                                 subsea; to a depth of 25,000' subsea.
+
+   EI       0095        046         G00046         Burlington        08/28/45    E1/2; E1/2W1/2; SW1/4SW1/4; S1/2NW1/4SW1/4;
+                                                                                 NW1/4NW1/4SW1/4; SW1/4NW1/4NW1/4; W1/2SW1/4NW1/4;
+                                                                                 Block 95, Eugene Island Area, limited from the
+                                                                                 surface to a depth of 25,000' subsea ; and the
+                                                                                 N1/2NW1/4NW1/4; SE1/4NW1/4NW1/4; E1/2SW1/4NW1/4;
+                                                                                 NE1/4NW1/4SW1/4; limited from a depth of 8,200'
+                                                                                 subsea to a depth of 25,000' subsea.
+
+   EI       0109       17967        G17967            Tana           07/01/97    All of Block 109, Eugene Island Area, INSOFAR AND
+                                                                                 ONLY INSOFAR AS said lease covers that portion of
+                                                                                 Eugene Island Block 109 below 17,000 feet true
+                                                                                 vertical depth (TVD) down to and including 35,000
+                                                                                 feet TVD;
+</TABLE>
+
+
+                                   Page 1 of 3
+<PAGE>
+                                    EXHIBIT A
+             SIXTH AMENDMENT TO CONVEYANCE OF GAS PROCESSING RIGHTS
+                      DEDICATED LEASES AS OF AUGUST 1, 1999
+                          LEASES WITH OPERATING RIGHTS
+
+
+<Table>
+<Caption>
+                                                    CURRENT
+                                                     LEASE
+  AREA      BLOCK     LEASE #        LEASE          OPERATOR        LEASE DATE            DESCRIPTION OF OPERATING RIGHTS
+------------------------------------------------------------------------------------------------------------------------------------
+<S>         <C>       <C>           <C>            <C>              <C>          <C>
+   EI       0255       1958         G01958           Forest          01/01/70    S1/2 of Block 255, Eugene Island Area, INSOFAR AND
+                                                                                 ONLY INSOFAR AS the operating rights affect the
+                                                                                 SW1/4SW1/4SW1/4 INSOFAR AND ONLY INSOFAR AS the "P"
+                                                                                 Sand which is defined in that certain Federal Unit
+                                                                                 Agreement (Contract No. 14-08-0001-12325) Eugene
+                                                                                 Island Block 276 "P" Sand, Reservoir 'A', as the
+                                                                                 stratigraphic equivalent of that productive sand.
+
+   GA       0394       13317        G13317           IP Pet          12/01/91    All of Block 394, Galveston Area, INSOFAR AND ONLY
+                                                                                 INSOFAR as the operating rights in the lease cover
+                                                                                 the depths from the surface of the earth down to
+                                                                                 the stratigraphic equivalent of 8,850 feet true
+                                                                                 vertical depth as seen in the Electric log for the
+                                                                                 OCS-G 13317 Well No. 2.
+
+   GA       0395       12508        G12508           IP Pet          10/01/90    All of Block 395, Galveston Area, INSOFAR AND ONLY
+                                                                                 INSOFAR AS the operating rights in the lease cover
+                                                                                 the depths from the surface of the earth down to
+                                                                                 the stratigraphic equivalent of 100 feet below the
+                                                                                 total depth drilled in the OCS-G 12508 Well 1,
+                                                                                 which was drilled to a true vertical depth of 8,508
+                                                                                 feet.
+
+   HI       0131       14863        G14863           Vastar          10/01/94    All of Block 131, High Island Area, INSOFAR AND
+                                                                                 ONLY INSOFAR AS said lease includes Assignor's
+                                                                                 operating rights from the surface to 8,000 feet TVD
+                                                                                 in the W1/2 of the Lease;
+
+   HI       0154       14159        G14159             SOI           01/01/94    N1/2 of block 154, High Island Area, INSOFAR AND
+                                                                                 ONLY INSOFAR as the lease covers the NW1/4;
+                                                                                 W1/2NE1/4 and W1/2E1/2NE1/4 of said Block 154, from
+                                                                                 below 8,000 TVD to 30,000 TVD;
+
+   HI       0154       2357         G02357          Northstar        08/01/73    S1/2 of Block 154, High Island Area, INSOFAR AND
+                                                                                 ONLY INSOFAR AS said lease covers all depths from
+                                                                                 the surface down to 100 feet below the base of the
+                                                                                 stratigraphic equivalent of that sand encountered
+                                                                                 at a measured depth of 9,815 feet in OCS-G 14159,
+                                                                                 Well No. 1.
+
+   MC       0267       3799         G03799            Exxon          06/01/78    All of Block 267, Mississippi Canyon, INSOFAR AND
+                                                                                 ONLY INSOFAR AS the operating rights cover the W1/2
+                                                                                 of said block from the surface to the earth down to
+                                                                                 and including the stratigraphic equivalent of
+                                                                                 12,135' MD, as seen in Shell OCS-G 3799 No. 3 Sonic
+                                                                                 Log.
+
+   MP       0131       13651        G13651             ATP           09/01/92    All of Block 131, Main Pass Area, INSOFAR AND ONLY
+                                                                                 INSOFAR AS the lease covers all depths below 8,000
+                                                                                 feet true vertical depth.
+
+   MP       0303       4253         G04253             Oxy           12/01/79    INSOFAR AND ONLY INSOFAR AS the lease covers the
+                                                                                 S1/2S1/2 of Block 303, Main Pass Area, South and
+                                                                                 East Addition, down to a depth of 25,000'.
+</TABLE>
+
+
+                                  Page 2 of 3
+<PAGE>
+                                    EXHIBIT A
+             SIXTH AMENDMENT TO CONVEYANCE OF GAS PROCESSING RIGHTS
+                      DEDICATED LEASES AS OF AUGUST 1, 1999
+                          LEASES WITH OPERATING RIGHTS
+
+
+<Table>
+<Caption>
+                                                    CURRENT
+                                                     LEASE
+  AREA      BLOCK     LEASE #        LEASE          OPERATOR        LEASE DATE            DESCRIPTION OF OPERATING RIGHTS
+------------------------------------------------------------------------------------------------------------------------------------
+<S>         <C>       <C>           <C>            <C>              <C>          <C>
+   MP       0304       3339         G03339             Oxy           04/01/76    INSOFAR AND ONLY INSOFAR AS the lease covers the
+                                                                                 SW1/4SW1/4 and the W1/2SE1/4SW1/4 of Block 304,
+                                                                                 Main Pass Area, South and East Addition, down to a
+                                                                                 depth of 25,000'.
+
+   MP       0313       4127         G04127           Chevron         10/01/79    All of Block 313, Main Pass Area, South & East
+                                                                                 Addition, INSOFAR AND ONLY INSOFAR AS said lease
+                                                                                 covers depths below a true vertical depth of
+                                                                                 12,000'.
+
+   SS       0202       5558         G05558            LL&E           07/01/83    All of Block 202, Ship Shoal Area, all intervals
+                                                                                 lying at depths greater than the stratigraphic
+                                                                                 equivalent of the top of the "MI" Sand at a depth
+                                                                                 350' below the total depth of Conoco's Ship Shoal
+                                                                                 201 No. 1 Well, same being 12,450' TVD.
+
+   SS       0356       5206         G05206          Soco Off         01/01/83    All of Block 356, Ship Shoal Area, INSOFAR BUT ONLY
+                                                   (Delmar Op)                   INSOFAR AS said lease covers depths below 8,600'.
+
+   VR       0171       1130         G01130            LL&E           06/01/62    Block 171, Vermilion Area, INSOFAR BUT ONLY INSOFAR
+                                                                                 AS said lease covers depths from the surface down
+                                                                                 to a depth of 11,022' below the mean low wave of
+                                                                                 the Gulf of Mexico.
+
+   VR       0241       15194        G15194             EEX           07/01/95    All of Block 241, Vermillion Area, INSOFAR AND ONLY
+                                                                                 INSOFAR AS said lease covers the NW1/4 as to all
+                                                                                 depths from the surface down to 100 feet below the
+                                                                                 base of the stratigraphic equivalent of that sand
+                                                                                 encountered at a measured depth of 11,840 feet as
+                                                                                 seen in the OCS-G 5386, Well No. 1.
+
+   VR       0332       9514         G09514           Samedan         07/01/88    All of Block 332, Vermilion Area, South Addition,
+                                                                                 INSOFAR AND ONLY INSOFAR AS the lease covers a
+                                                                                 depth from 12,000' subsea to 100,000' subsea.
+</Table>
+
+
+                                  Page 3 of 3
+<PAGE>
+                                    EXHIBIT A
+             SIXTH AMENDMENT TO CONVEYANCE OF GAS PROCESSING RIGHTS
+                      DEDICATED LEASES AS OF AUGUST 1, 1999
+            OVERRIDING ROYALTY INTERESTS AND OTHER OIL AND GAS RIGHTS
+
+
+<Table>
+<Caption>
+      AREA           BLOCK         LEASE #         LEASE       CURRENT LEASE OPERATOR             LEASE DATE     SPUD DATE
+--------------------------------------------------------------------------------------------------------------------------
+<S>                  <C>           <C>             <C>        <C>                                 <C>            <C>
+       BS             0050        LA. 16393        L06393     Log Exploration                      02/15/99
+       EB             0642           9183          G09183     Kerr-McGee                           10/01/87          -
+       EB             0643           9184          G09184     Kerr-McGee                           10/01/87       11/25/97
+       EB             0688           9191          G09191     Kerr-McGee                           11/01/87       01/17/98
+       EB             0732           9194          G09194     Kerr-McGee                           10/01/87          -
+       EI             0116           478           G00478     Ocean Energy                         01/01/55       09/05/97
+       EI             0172           5494          G05494     Newfield                             07/01/83       01/21/99
+       EI             0255           1958          G01958     Forest                               01/01/70       06/04/99
+       EI             0354          10752          G10752     Texaco                               05/01/89       10/03/97
+       EW             0921          12142          G12142     British-Borneo                       05/01/90       02/05/99
+       EW             0963          13084          G13084     Marathon                             07/01/91       11/19/96
+       EW             0964          12144          G12144     British-Borneo                       05/01/90       07/20/99
+       EW             0965          12145          G12145     British-Borneo                       05/01/90       01/23/98
+       GA             0144          17119          G17119     Mariner                              01/01/97       08/23/98
+       GA             0321          11316          G11316     Apache                               11/01/89       01/23/92
+       GB             0117          12631          G12631     Flextrend                            10/01/90       11/04/96
+       GB             0200          15852          G15852     Amerada Hess                         11/01/95       01/18/99
+       GI             0076           2161          G02161     Forcenergy                           10/01/72       01/05/78
+       GC             0020          15531          G15531     Reading & Bates                      09/01/95       12/23/96
+       GC             0825           9981          G09981     Amoco                                05/01/88          -
+       GC             0826           9982          G09982     Amoco                                05/01/88       12/08/98
+       MP             0047        LA. 16392        L16392     Log Exploration                      02/15/99
+       MP             0233          16509          G16509     Coastal Oil                          09/01/96       04/07/98
+       MP             0255           7825          G07825     Snyder                               08/01/85       09/10/97
+       MP             0259           7827          G07827     Snyder                               09/01/85       11/03/98
+       MP             0260           7828          G07828     Snyder                               09/01/85       02/26/98
+       MC             0546          14642          G14642     British-Borneo                       05/01/94       05/25/98
+       MC             0718           7952          G07952     Mariner                              08/01/85       06/03/95
+       MO            TR.92         ALA 705         A00705     Mobil                                07/19/88          -
+       MO            TR.74         ALA 703         A00703     Mobil                                07/19/88          -
+       MO            TR.75        1584/0130        A01584     Mobil
+                                   2865/585
+                                   2865/591
+                                   3322/346
+       MO            TR.93         ALA 706         A00706     Mobil                                07/19/88          -
+       MU            862-L       TX.M-98756        T98756                                          10/07/97
+       MU            863-L       TX.M-98757        T98757                                          10/07/97
+       SS             0103          18007          G18007     Basin                                07/01/97       04/03/99
+       SS             0321          12955          G12955     ATP                                  05/01/91       04/24/97
+       SM             0255           9564          G09564     Seagull                              08/01/88       07/11/93
+       SM             0266           9565          G09565     Seagull                              08/01/88       09/23/93
+       VR             0159           3128          G03128     McMoran                              07/01/75       06/04/98
+       VR             0221           4424          G04424     TDC                                  11/01/80       06/04/94
+       VR             0296           9511          G09511     Seneca Res                           06/01/88       03/11/93
+       VR             0370           2275          G02275     Transworld                           02/01/73       10/19/98
+       VR             0385          12880          G12880     Transworld                           07/01/91       06/04/96
+       VK             0692           7898          G07898     Snyder                               09/01/85          -
+       VK             0693           7898          G07898     Snyder                               09/01/85       11/19/90
+       VK             0698           7901          G07901     Snyder                               08/01/85       06/07/97
+       WD             0137          14566          G14566     Sonat                                05/01/94       01/31/99
+       WC             0368           5315          G05315     Century Offshore                     07/01/83       5/59/98
+</Table>
+
+
+                                     Page 1
+<PAGE>
+                                    EXHIBIT A
+             SIXTH AMENDMENT TO CONVEYANCE OF GAS PROCESSING RIGHTS
+                      DEDICATED LEASES AS OF AUGUST 1, 1999
+                                  STATE LEASES
+
+
+<Table>
+<Caption>
+                                                                      LEASE
+         AREA               BLOCK         LEASE #                   OPERATOR                LEASE DATE
+----------------------------------------------------------------------------------------------------------------
+<S>                         <C>          <C>                  <C>                           <C>
+Mobile - Fairway             113          AL 531                       SOI                  4/2/81
+Mobile - Fairway             132          AL 532                       SOI                  4/2/81
+Mobile Bay                   109          AL 627                       SOI                  8/14/84
+South Pass                    1           LA 988                       SOI                  4/25/47
+Galveston                   249 L        TX 98156             Spinnaker Exp Co, LLC         4/1/97
+Galveston                   249 L        TX 99204             Spinnaker Exp Co, LLC         4/7/98
+Galveston                   250 L        TX 98157             Spinnaker Exp Co, LLC         4/1/97
+South Pass 31                31           LA14860                      SOI                  1/17/95
+South Pass 31                31           LA14861                      SOI                  1/17/95
+Main Pass                    47          La 16392                 Main Pass LLC             2/15/99
+Breton Sound                 50          La 16393                 Main Pass LLC             2/15/99
+</Table>
+
+
+                                     Page 1
+<PAGE>
+                                    EXHIBIT A
+             SIXTH AMENDMENT TO CONVEYANCE OF GAS PROCESSING RIGHTS
+                      DEDICATED LEASES AS OF AUGUST 1, 1999
+                            PARTICIPATION AGREEMENTS
+
+
+<Table>
+<Caption>
+    AREA         BLOCK      LEASE #      LEASE     CURRENT LEASE OPERATOR           LEASE DATE   SPUD DATE
+------------------------------------------------------------------------------------------------------------
+<S>              <C>        <C>         <C>       <C>                               <C>          <C>
+     HI          A545        17199      G17199    SOI                                01/01/97    09/12/97
+     VK          0779        13673      G13673    ELF                                08/01/95    02/16/99
+     VK          0823        10942      G10942    ELF                                07/01/89    07/17/99
+     EI          0172        5494       G05494    NEWFIELD EXP                       07/01/83    01/21/99
+</Table>
+
+
+                                     Page 1
+<PAGE>
+                                    EXHIBIT B
+             SIXTH AMENDMENT TO CONVEYANCE OF GAS PROCESSING RIGHTS
+                                 EXCLUDED LEASE
+
+
+<TABLE>
+<CAPTION>
+SUPPLY SOURCE          RECEIPT POINT          RELATED PLANT / OPERATOR          RELATED PIPELINE
+-------------          -------------          ------------------------          ----------------
+<S>                    <C>                    <C>                               <C>
+Grand Isle 33          Grand Isle 33          Grand Isle / Exxon                Exxon's Grand Isle Gathering System
+</TABLE>
+
+
+                                     Page 1
+<PAGE>
+                                    EXHIBIT C
+             SIXTH AMENDMENT TO CONVEYANCE OF GAS PROCESSING RIGHTS
+                               CONSIDERATION BASES
+
+
+<TABLE>
+<CAPTION>
+PLANT                       CONSIDERATION BASIS
+-----                       -------------------
+<S>                         <C>
+Barracuda                   GMR - Transcontinental Gas Pipeline Corp., Zone 2 (pooling point)
+
+Blue Water                  Average of GMR - Tennessee Gas Pipeline, Louisiana, 800 leg
+                                       GMR - Columbia Gulf Transmission Co., Louisiana
+
+Burns Point                 GMR - Koch Gateway Pipeline Co., South Louisiana/East Side
+
+Calumet (ANR)               GMR - ANR Pipeline Co., Louisiana
+
+Calumet (Trunkline)         GMR - Trunkline Gas Co., Louisiana
+
+Garden City/Neptune         Average of GMR - Koch Gateway Pipeline Co., South Louisiana/East Side
+                                       GMR - Columbia Gulf Transmission Co., Louisiana
+                                       GMR - Texas Gas Transmission Corp., Zone SL
+                                       GMR - Henry Hub
+
+Iowa                        GMR - Texas Eastern Transmission Corp., West Louisiana Zone
+
+N. Terrebonne (Transco)     GMR - Transcontinental Gas Pipeline Corp., Zone 3 (pooling point)
+
+N. Terrebonne (Koch)        GMR - Koch Gateway Pipeline Co., South Louisiana/East Side
+
+Mobile Bay*                 Average of GMR - Transcontinental Gas Pipe Line Corp., Mississippi, Alabama less 9.6 cents
+(Yellowhammer only)                    GMR - Florida Gas Transmission Co., Zone 3
+</TABLE>
+
+
+Note:  GMR ==> Inside F.E.R.C.'s Gas Market Report, First of Month Index
+
+* Assumes Processor or Processor's agent pays any cost associated with moving
+  all of the Yellowhammer Gas to the Plant.
+
+
+                                  Page 1 of 2
+<PAGE>
+                                    EXHIBIT C
+             SIXTH AMENDMENT TO CONVEYANCE OF GAS PROCESSING RIGHTS
+                               CONSIDERATION BASES
+
+
+<TABLE>
+<CAPTION>
+PLANT                    CONSIDERATION BASIS
+-----                    -------------------
+<S>                      <C>
+Pascagoula               Average of GMR - Transcontinental Gas Pipe Line Corp., Mississippi, Alabama
+                                    GMR - Koch Gateway Pipeline Co., South Louisiana/East Side
+                                    GMR - Florida Gas Transmission Co., Zone 3
+                                    GMR - Southern Natural Gas, Louisiana
+                                    GMR - Tennessee Gas Pipeline, Louisiana, 500 leg
+
+Sabine Pass              GMR - Tennessee Gas Pipeline, Louisiana, 800 leg
+
+Sea Robin                Average of GMR - Columbia Gulf Transmission Co., Louisiana
+                                    GMR - Southern Natural Gas Co., Louisiana
+
+Stingray                 GMR - Natural Gas Pipeline Co. of America, Louisiana
+
+Toca                     GMR - Southern Natural Gas, Louisiana
+
+Venice                   Average of GMR - Texas Eastern Transmission Corp., East Louisiana zone
+                                    GMR - Columbia Gulf Transmission Co., Louisiana
+                                    GMR - Koch Gateway Pipeline Co., South Louisiana/East Side
+
+Yscloskey                GMR - Tennessee Gas Pipeline, Louisiana, 500 leg
+</TABLE>
+
+
+Note:  GMR ==> Inside F.E.R.C.'s Gas Market Report, First of Month Index
+
+
+                                  Page 2 of 2
+<PAGE>
+                                    EXHIBIT D
+             SIXTH AMENDMENT TO CONVEYANCE OF GAS PROCESSING RIGHTS
+                 UPSTREAM PIPELINES WITH PROCESSOR'S RETROGRADE
+
+
+<TABLE>
+<CAPTION>
+UPSTREAM PIPELINE                                  GAS PLANT                    COUNTY/PARISH
+------------------                                 ---------                    -------------
+<S>                                                <C>                          <C>
+Southern Natural Pipeline                          Toca                         St. Bernard, LA
+Mississippi Canyon Gas Pipeline                    Venice                       Plaquemines, LA
+Destin Pipeline                                    Pascagoula                   Jackson, MS
+</TABLE>
+
+
+                                     Page 1
+<PAGE>
+                                    EXHIBIT E
+             SIXTH AMENDMENT TO CONVEYANCE OF GAS PROCESSING RIGHTS
+                                ATTORNMENT LETTER
+
+
+[Name of Producer]                              [Name of Transferee of Lease]
+[Address of Producer]                           [Address of Transferee of Lease]
+
+
+Ladies and Gentlemen:
+
+Subject: Transfer of Certain Leases
+         Notification and Consent to Assignment
+
+         1. AGREEMENT FOR TRANSFER OF LEASES. Per prior discussions, your
+respective offices have been apprised that [name of producer] ("[name of
+producer]") and [name of transferee] ("Successor Producer") have entered an
+agreement by which [name of producer] will transfer to Successor Producer (the
+"Transfer") those certain interests in and to certain properties and leases as
+described on Exhibit A ( the "Properties").
+
+         2. COGNIZANCE OF PRIOR CONVEYANCE OF PROCESSING RIGHTS. The parties
+acknowledge that all gas processing rights associated with the Properties have
+been conveyed to Processor by virtue of that certain Sixth Amendment to
+Conveyance of Gas Processing Rights (as the same may be amended from time to
+time after March 1, 2003, the "Conveyance of Processing Rights") dated March 1,
+2003 by and between Enterprise Gas Processing, LLC ("Processor") and Shell Oil
+Company and certain of its named affiliates (collectively, "Producers"), a copy
+of which is attached hereto and made a part hereof as if set forth herein in its
+totality.
+
+         3. RESERVATION OF RIGHTS BY PROCESSOR. Processor hereby expressly
+reserves all its rights under the Conveyance of Processing Rights with respect
+to the Properties. Successor Producer hereby acknowledges and agrees that it is
+acquiring the Properties subject to the rights conveyed to Processor in the
+Conveyance of Processing Rights.
+
+         4. ASSUMPTION OF PRODUCER'S OBLIGATIONS. Successor Producer hereby
+assumes and agrees to perform all of the obligations of [name of producer] to
+Processor, and receives and accepts all rights of [name of producer], under the
+Conveyance of Processing Rights, insofar as they relate to the Properties.
+
+         5. CONSENT TO TRANSFER. Processor hereby acknowledges and consents to
+the Transfer and agrees to render to Successor Producer the performance of
+Processor's obligations to Producers under the Conveyance of Processing Rights
+insofar as they relate to the Properties.
+
+         6. COUNTERPARTS. This document may be executed in any number of
+counterparts, each of which when combined and taken together, shall be
+considered but one and the same document.
+
+<PAGE>
+         7. COVENANTS RUNNING WITH THE LAND. The parties intend that, to the
+extent permitted by law, this instrument and the Conveyance of Gas Processing
+Rights shall be considered to be covenants running with the Properties which
+shall inure to the benefit of, and be binding upon, the successors and assigns
+of the parties' interests insofar as they relate to the Conveyance of Gas
+Processing Rights or the Properties.
+
+         Your prompt attention to this matter will be appreciated. Should you
+have any questions or require further information in this regard, please contact
+our office.
+
+Yours very truly,
+
+
+
+Name
+[title]
+
+<TABLE>
+<CAPTION>
+[NAME OF TRANSFEREE]                               [NAME OF PRODUCER]
+<S>                                                <C>
+Agreed to and approved this ______ day of          Agreed to and approved this ______ day of
+______________________, 20__.                      ______________________, 20__.
+
+By:                                                By:
+   -----------------------------                      -----------------------------
+
+Title:                                             Title:
+      --------------------------                         --------------------------
+</TABLE>
+
+
+
+ENTERPRISE GAS PROCESSING, LLC
+
+Agreed to and approved this ______ day of ______________________, 20__.
+
+By:
+   -----------------------------
+
+Title:
+      --------------------------
+
+</TEXT>
+</DOCUMENT>

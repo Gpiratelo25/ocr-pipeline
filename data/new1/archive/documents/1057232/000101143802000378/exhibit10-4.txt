@@ -1,0 +1,333 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>6
+<FILENAME>exhibit10-4.txt
+<TEXT>
+
+
+                                                                EXHIBIT 10.4
+
+Interplay(TM)
+
+
+                               AMENDED & RESTATED
+                              AMENDMENT NUMBER 1 TO
+                                PRODUCT AGREEMENT
+
+                             (Hunter: The Reckoning
+                                       For
+                                  Xbox and PS2)
+
+     This AMENDED & RESTATED AMENDMENT NUMBER 1 TO PRODUCT AGREEMENT
+("AMENDMENT") is effective as of March 5, 2002, by and between INTERPLAY
+ENTERTAINMENT CORP., a Delaware corporation ("INTERPLAY") and HIGH VOLTAGE
+SOFTWARE, INC., an Illinois corporation ("Developer").
+
+                                    RECITALS
+
+     A. Interplay and Developer previously entered into a Product Agreement
+dated January 25, 2001 (the "ORIGINAL AGREEMENT"), providing for Developer's
+development of the Interplay Product entitled "Hunter: The Reckoning" for the
+Microsoft Xbox platform (hereinafter, the "XBOX PRODUCT").
+
+     B. Interplay and Developer subsequently entered into that certain Amendment
+Number 1 to Product Agreement dated September 2001 (the "FIRST AMENDMENT"),
+pursuant to which, among other things, the parties: (i) amended the Xbox Product
+Milestone descriptions, delivery dales and mounts set forth in Schedule C to the
+Agreement ("Schedule C"); and (ii) modified the royalty rates applicable to the
+Xbox Product and conversions thereof.
+
+     C. Prior to execution of this Amendment, (i) Developer has performed and
+Interplay has accepted the Xbox Product milestones #1 through #1lb of the
+Agreement, all as set forth in Schedule C to the First Amendment, and (ii)
+Interplay has paid Developer in full for the Xbox Product milestones #1 through
+#11a (less an outstanding current balance of $85,000).
+
+     D. Interplay and Developer now desire to amend and restate the First
+Amendment in order to, among other things: (i) amend and restate the Xbox
+Product milestone descriptions, delivery dates and amounts set forth in Schedule
+C., and (ii) provide for Developer's development of a conversion of the Xbox
+Product to the Sony PlayStation 2 platform with a working title of "***"
+(hereinafter, the "PS2 PRODUCT").
+
+                                    AGREEMENT
+
+     NOW, THEREFORE, in consideration of the promises and mutual covenants
+contained herein, and of other good and valuable consideration, the receipt and
+sufficiency of which are hereby acknowledged, Interplay and Developer, intending
+to be legally bound, have agreed and do hereby agree as follows:
+
+
+------------------------
+*** Terms represented by this symbol are considered confidential. These
+confidential terms have been omitted pursuant to a Confidential Treatment
+Request filed with the Securities and Exchange Commission ("SEC") and have been
+filed separately with the SEC.
+
+
+                                     Page 1
+<PAGE>
+
+
+     1. INCORPORATION. This Amendment is incorporated into the Original
+Agreement by this reference, and all references hereinafter to the "AGREEMENT"
+shall include references to the Original Agreement as amended hereby. The First
+Amendment shall be of no further force or effect. Unless Otherwise defined
+herein, thc words and phrases in this Amendment shall have thc same respective
+definitions given in the Original Agreement. Unless the context otherwise
+dictates, all references in the Original Agreement to the term "Product" shall
+hereinafter refer to the Xbox Product and the PS2 Product.
+
+     2. DEVELOPMENT OF PS2 PRODUCT.
+
+          (a)  AMENDMENT TO XBOX PRODUCT MILESTONES. SCHEDULE C to the Agreement
+is hereby deleted in its entirety and replaced with the SCHEDULE C attached
+hereto as ATTACHMENT 1.
+
+     3. DEVELOPMENT OF PS2 PRODUCT.
+
+          (a)  ADDITION OF PS2 PRODUCT. The terms and conditions of thc Original
+Agreement, as mended hereby, shall hereby be extended to include the PS2
+Product.
+
+          (b)  MILESTONE SCHEDULES. Developer shall develop thc PS2 Product, and
+Interplay shall pay royalty advance milestone payments to Developer, in
+accordance with the Initial Milestone Schedule set forth in ATTACHMENT 2 hereto
+("SCHEDULE C-1"). Subject to and upon completion of these initial PS2 Product
+milestones to the satisfaction of Interplay, and subject to Section 9.01 of the
+Agreement, Developer and Interplay shall mutually agree upon a detailed PS2
+Product milestone and payment schedule for completion of the PS2 Product (the
+"FINAL PS2 PRODUCT MILESTONE SCHEDULE"), and Developer and Interplay shall
+incorporate such schedule into the Agreement. As with the Xbox Product
+milestones payments, all milestone payments set forth in the Initial and Final
+PS2 Milestone Schedules shall be (1) subject to Interplay's acceptance (which
+acceptance may be conveyed to Developer by Interplay via e-mail or by writing)
+of such milestone in accordance with the guidelines set forth in the Agreement,
+and (2) considered recoupable advances against royalties. Without limitation,
+the Final PS2 Product Milestone Schedule shall include third-party licensor
+(e.g., Sony and White Wolf) final approval milestones which must be satisfied
+before further milestone payments are due.
+
+     4. AMENDMENT TO ROYALTY PAYMENTS. Subparagraphs (1), (2) and (3) of
+Paragraph E of SCHEDULE A to the Agreement ("PAYMENTS: ROYALTY") are hereby
+deleted in their entirety and replaced with the following:
+
+     "(1) With respect to the sale or license of the Xbox Product (including OEM
+sales), a royalty equal to *** percent (***%) of net receipts (as defined below)
+for retail units ***; *** percent (***%) of net receipts for retail units ***;
+*** percent (***%) of net receipts for retail units ***; *** percent (***%) of
+net receipts for retail units ***; and *** percent (***%) of net receipts for
+retail units *** and above.
+
+     (2) Developer shall receive the following royalty payments for conversions
+and derivatives of the Xbox Product:
+
+
+--------------------
+*** Terms represented by this symbol are considered confidential. These
+confidential terms have been omitted pursuant to a Confidential Treatment
+Request filed with the Securities and Exchange Commission ("SEC") and have been
+filed separately with the SEC.
+
+
+                                     Page 2
+<PAGE>
+
+
+     (a) Except for PC conversions, Developer shall receive a royalty in an
+amount equal to *** for any exploitation of conversions or derivatives of the
+Xbox Product (including the PS2 Product) for which Developer performs the
+development services for Interplay.
+
+     (i) Developer shall receive a royalty equal to *** percent (***%) of net
+receipts for retail units *** and *** percent (***%) of net receipts for retail
+units *** and above for any exploitation of conversions of the Xbox Product to
+the PC for which Developer performs the development services for Interplay.
+
+     (b) Developer shall receive a royalty equal to *** of the royalty rate set
+forth in subparagraph (1) for the exploitation of conversions or derivatives for
+which Developer does not perform the development services but Interplay utilizes
+the Developer's Game Engine. In such event Interplay shall pay to Developer the
+mutually agreed upon fee and Developer agrees such amount shall be an advance
+against any royalty payments to be paid Developer pursuant to this subsection
+E(2)(b).
+
+     (c) Developer shall receive a royalty equal to *** of the royalty rate set
+forth in subparagraph (1) for the exploitation of conversions or derivatives for
+which Developer does not perform the development services and Interplay does not
+utilize the Developer's Game Engine."
+
+     5. CROSS-COLLATERALIZATION. Developer acknowledges and agrees that the
+royalty advance milestone payments made by Interplay to Developer in connection
+with the Xbox Product and the PS2 Product shall be cross-collateralized.
+
+     6. MILESTONE #11B PAYMENT. Interplay agrees to pay Developer the milestone
+#1lb payment, in the amount of $***, within *** days following the mutual
+execution and delivery of this Amendment.
+
+     7. EFFECT OF DELAY OF MILESTONE # 13. Without limitation, in the event that
+the Developer fails to timely deliver to Interplay's satisfaction the Xbox
+Product Milestone 13 deliverables, Interplay thereafter shall incur no further
+development costs whatsoever associated with the Xbox Product, and any
+additional development work necessary to achieve final Xbox Milestone 13
+deliverables shall be performed and funded solely by Developer.
+
+     8. DEVELOPMENT AND DEBUG EQUIPMENT LOAN FOR PS2 PRODUCT. To the extent
+permitted by Sony Computer Entertainment America, Inc. ("SONY"), Interplay shall
+provide to Developer the use of four (4) Sony PlayStation 2 development
+stations, which are valued at *** each, and *** Sony PlayStation 2 "debug"
+stations, which are valued at *** each, for an aggregate total of *** in Sony
+equipment (the "PS2 EQUIPMENT"). Upon receipt of the PS2 Equipment, Developer
+shall provide Interplay with the serial numbers for the PS2 Equipment. Developer
+hereby represents and warrants that it has executed all agreements required by
+Sony to allow delivery to Developer of the PS2 Equipment and is in full
+compliance with the terms of all such agreements. Developer also agrees to the
+following: (i) Developer shall use the PS2 Equipment solely for the development
+of the PS2 Product and not for any other
+
+
+--------------------
+*** Terms represented by this symbol are considered confidential. These
+confidential terms have been omitted pursuant to a Confidential Treatment
+Request filed with the Securities and Exchange Commission ("SEC") and have been
+filed separately with the SEC.
+
+
+                                     Page 3
+<PAGE>
+
+
+project or purpose; (ii) Developer shall maintain the PS2 Equipment in a safe
+and secure manner and insure the PS2 Equipment in an amount sufficient to cover
+the replacement cost of all PS2 Equipment in the event of loss or damage, naming
+Interplay as the insured on such insurance policy or policies; (iii) Developer
+shall not loan the PS2 Equipment, or any portion thereof, nor provide the PS2
+Equipment, or any portion thereof, to any subcontractor without the prior
+written consent of Interplay or its designated representative, which consent
+shall be at Interplay's sole discretion; and (iv) Developer shall consent to
+inspection of the PS2 Equipment by Interplay, Sony, or their designated
+representative(s), which inspection shall be at Interplay's and Sony's sole
+discretion (as applicable), without announcement or prior notice to Developer.
+Upon request by Interplay, the PS2 Equipment shall be returned to Interplay, at
+Interplay's expense, (i) in the same condition as provided to Developer,
+reasonable wear and tear excepted, and (ii) within five (5) days of request by
+Interplay. Interplay may withhold milestone payment(s) and/or other amounts
+outstanding to Developer, but not to exceed two (2) times the value of the PS2
+Equipment, at the time Interplay requests return of the PS2 Equipment until
+receipt and acceptance by Interplay of the PS2 Equipment in its entirety.
+Developer further acknowledges that Developer shall have no right, title or
+interest in and to the PS2 Equipment. In the event Sony permits and Interplay
+provides (in its sole discretion) Developer additional Sony PlayStation 2
+development and/or debug stations, Developer acknowledges that it shall have no
+right, title or interest in and to these additional Sony PlayStation 2
+development and/or debug stations.
+
+     9. CAPITAL. Assuming Interplay's timely delivery of milestone payments in
+accordance with the terms of the Agreement, Developer represents that it shall
+continue to be sufficiently staffed and capitalized to undertake and timely
+complete its development obligations contemplated by the Agreement.
+
+     10. INTEREST ON PAST OVERDUE PAYMENTS. Within ten (10) business days after
+the mutual execution and delivery of this Amendment Interplay shall pay to
+Developer a one-time additional payment of ***, such amount representing any and
+all out-of-pocket interest expense incurred by Developer as a direct consequence
+of milestone payments due to Developer but not timely paid by Interplay as of
+the date of this Amendment. The Interest Reimbursement Payment shall not be
+recoupable by Interplay against royalties due under the Agreement.
+
+     11. INTEREST ON FUTURE OVERDUE PAYMENTS. From and after the date of this
+Amendment, Interplay agrees that in the event any milestone advance payments are
+more than *** days overdue pursuant to the terms of the Agreement, then
+Interplay shall pay Developer interest, at a rate of ***, on such overdue
+amounts calculated from the date such milestone payments were due. No such
+interest payments shall be recoupable by Interplay against royalties.
+
+     12. TERMINATION OF PRODUCT. In the event Interplay (or any division
+thereof) or any successor-in-interest to the Product permanently terminates the
+development of the Product, Developer shall ***; provided, however, that any
+such use shall be subject to any and all necessary approvals of Interplay's
+licensor White Wolf, Inc. at its sole and absolute discretion.
+
+
+--------------------
+*** Terms represented by this symbol are considered confidential. These
+confidential terms have been omitted pursuant to a Confidential Treatment
+Request filed with the Securities and Exchange Commission ("SEC") and have been
+filed separately with the SEC.
+
+
+                                     Page 4
+<PAGE>
+
+
+     13. NO FURTHER MODIFICATIONS. Except as set forth above, the Original
+Agreement remains in full force and effect without amendment or modification of
+any kind.
+
+     IN WITNESS HEREOF, the parties hereto have executed this Amendment
+effective as of the date first written above.
+
+"INTERPLAY"                                 "DEVELOPER"
+
+INTERPLAY ENTERTAINMENT CORP.               HIGH VOLTAGE SOFTWARE, INC.
+
+By:     /S/ JEFF GONZALEZ                   By:    /S/ JOHN W. KOPECKY
+   ----------------------------------           -------------------------------
+
+Name:   JEFF GONZALEZ                       Name:  JOHN W. KOPECKY
+     --------------------------------            ------------------------------
+
+Title:  CHIEF FINANCIAL OFFICER             Title: PRESIDENT
+      -------------------------------             -----------------------------
+
+By:     /S/ HERVE CAEN                      By:    /S/ KENNY GANOFSKY
+   ----------------------------------          --------------------------------
+
+Name:   HERVE CAEN                          Name:  KENNY GANOFSKY
+     --------------------------------            ------------------------------
+
+Title:  CHIEF EXECUTIVE OFFICER             Title: CHIEF EXECUTIVE OFFICER
+      -------------------------------             -----------------------------
+
+
+--------------------
+*** Terms represented by this symbol are considered confidential. These
+confidential terms have been omitted pursuant to a Confidential Treatment
+Request filed with the Securities and Exchange Commission ("SEC") and have been
+filed separately with the SEC.
+
+
+
+                                     Page 5
+<PAGE>
+
+
+
+                                  Attachment 1
+
+                                   SCHEDULE C
+
+                         HUNTER XBOX MILESTONE SCHEDULE
+
+
+
+
+                                    Page 6
+<PAGE>
+
+
+
+
+                                  Attachment 2
+
+                                  SCHEDULE C-1
+
+                      HUNTER PS2 INITIAL MILESTONE SCHEDULE
+
+
+
+                                    Page 7
+
+
+</TEXT>
+</DOCUMENT>

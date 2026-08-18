@@ -1,0 +1,93 @@
+<DOCUMENT>
+<TYPE>EX-10.01
+<SEQUENCE>3
+<FILENAME>f81618ex10-01.txt
+<DESCRIPTION>EXHIBIT 10.01
+<TEXT>
+<PAGE>
+
+                                                                   EHXIBIT 10.01
+
+                                 FIRST AMENDMENT
+
+This First Amendment to the Services Agreement No. 01-02-203 ("Amendment") made
+by and between George Reyes and ONI Systems Corp. is entered into as of the 9th
+day of April 2002 (the "Amendment Effective Date") by George Reyes
+("Contractor") and ONI Systems Corp. ("ONI").
+
+                                    RECITALS
+
+A.      The parties have previously entered into the Services Agreement No.
+        01-02-203 ("Agreement"), effective as of January 24, 2002.
+
+B.      The parties desire to amend the Agreement in order to extend its Term as
+        provided below.
+
+Accordingly, the parties agree as follows:
+
+        1.      The terms used in this Amendment shall have the same meanings as
+                set out in the Agreement.
+
+        2.      Section 1 of the Statement of Work is hereby deleted in its
+                entirety and replaced with the following:
+
+                Contractor shall, consistent with the terms of this Agreement,
+                perform services for, and on behalf of ONI for the three (3)
+                month period following the Effective Date ("Initial Term"),
+                which shall be automatically renewed for successive one (1)
+                month periods ("Renewal Period") unless either party provides
+                thirty (30) days prior written notice of its intent not to renew
+                (collectively, "Term").
+
+        3.      Section 3 of the Statement of Work should be modified by the
+                insertion of the following at the end of the provision:
+
+                As consideration for Services rendered by Contractor during any
+                Renewal Period following the Initial Term, ONI will pay
+                Contractor twenty thousand dollars ($20,000) and grant
+                Contractor a stock option to purchase eight thousand (8,000)
+                shares of ONI's common stock with an exercise price equal to the
+                fair market value on the date of grant. The stock option(s) must
+                be approved by ONI's Board of Directors. The option(s) will vest
+                and become exercisable upon the monthly anniversary of the
+                Effective Date. Vesting will depend upon Contractor continuing
+                to provide Services to ONI for each Renewal Period. Contractor
+                will be able to exercise the option for a period of one (1) year
+                following the date on which Contractor ceases to provide
+                Services to ONI, provided that the option may not be exercised
+                more than ten (10) years after the date of grant. The option
+                will be subject to the terms of ONI's 2000 Equity Incentive Plan
+                and a Stock Option Agreement between Contractor and ONI.
+
+        4.      This Amendment shall prevail and control with respect to any
+                inconsistency between the terms of this Amendment and the terms
+                of the Agreement. Except as specifically provided by this
+                Amendment, the Agreement shall continue in full force and effect
+                in accordance with its terms. This Amendment shall be effective
+                as of the Amendment Effective Date set forth above.
+
+        In witness whereof, the parties have caused this Amendment to be
+executed by their respective authorized representatives.
+
+
+ONI SYSTEMS CORP.                       GEORGE REYES ("CONTRACTOR")
+
+
+
+Signed Name: /s/ Stewart Grierson       Signed Name: /s/ George Reyes
+            -------------------------               ----------------------------
+
+Printed Name: Stewart Grierson
+             ------------------------
+
+Title: V.P. Corporate Controller
+      -------------------------------
+
+Date: 4/17/02                           Date: 4/16/02
+     ---------------------------------       ----------------------------------
+
+
+
+
+</TEXT>
+</DOCUMENT>

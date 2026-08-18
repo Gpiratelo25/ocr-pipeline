@@ -1,0 +1,481 @@
+<DOCUMENT>
+<TYPE>EX-10.32
+<SEQUENCE>13
+<FILENAME>w46736ex10-32.txt
+<DESCRIPTION>AMEND. NO 1 TO AIRBRIDGE PACKET SERVICE AGREE
+<TEXT>
+
+<PAGE>   1
+                                                                  EXHIBIT 10.32
+
+
+  Confidential  Materials omitted and filed separately with the Securities and
+                Exchange Commission. Asterisks denote omissions.
+
+                                 AMENDMENT NO.1
+
+     This AMENDMENT No. 1 (the "Amendment") is made and entered into by and
+between GoAmerica Communications Corporation ("Customer") and Cellco
+Partnership, doing business as Bell Atlantic Mobile ("BAM") for attachment to
+Contract ####-##-####, dated May 13, 1997 (the "Agreement").
+
+     This Amendment is an integral part of and modifies the Agreement. The terms
+used herein which are defined or specified in the Agreement shall have the
+meanings set forth in the Agreement. If there are any inconsistencies between
+the provisions of this Amendment and the provisions of the Agreement, the
+provisions of this Amendment shall control.
+
+     The term of the Agreement is hereby extended for three (3) years, from the
+date this Amendment is executed, and shall automatically renew for additional
+one (1) year terms, unless Customer notifies BAM in writing at least sixty (60)
+day prior to the expiration of the then current term, that it does not wish to
+renew the Agreement.'
+
+     Exhibit B, Price Schedule is hereby deleted in its entirety and replaced
+with a new Exhibit B and B1, as attached hereto.
+
+     A new Section 8.5, which applies to "Electronic Billing", is hereby added
+to "Billing", of the Agreement, which shall read as follows:
+
+     8.5 Should Electronic Billing become available, BAM will notify Customer of
+the availability of Electronic Billing and make Electronic Billing available to
+the Customer.
+
+     Section 4, of the Agreement, "Installation", is hereby deleted in its
+entirety.
+
+     Section 2, of the Agreement, "Provision of Service", second sentence, the
+term "exclusively", is hereby deleted and replaced with the term "preferred".
+
+     Section 19.6 of the Agreement, "Notices", is hereby deleted in its entirety
+and replaced with the following:
+
+     Notices. Any change in the Exhibits contained herein, shall require written
+notification from both parties and shall not be valid until mutually agreed upon
+and accepted by both parties. In addition, any notice to be given hereunder by
+either party to the other shall also be in writing and shall be valid and
+sufficient only if dispatched by: a) registered or certified mail, postage
+prepaid in any post office in the United States; b) hand delivery; or c)
+overnight courier prepaid.
+
+<PAGE>   2
+
+     Notices to BAM shall be addressed to:
+Bell Atlantic Mobile
+180 Washington Valley Road
+Bedminster, NJ 07921
+Attn: Mr. Peter Rohr
+      Staff Director - Contract Mgt. and Administration
+      (908) 306-7550
+     Notices to Customer shall be addressed to:
+GoAmerica Communications Corporation
+401 Hackensack Avenue
+Hackensack, NJ 07601
+Attn: Mr. Frank Elenio
+      Chief Financial Officer
+
+     Exhibit A, is hereby deleted in its entirety and replaced with a new
+Exhibit A, in the form attached hereto.
+
+     Exhibit C, "Airbridgea Packet Service Request Form", is hereby deleted in
+its entirety and replaced with a new Exhibit C, "Bell Atlantic Mobile Activation
+Procedures for Value Added Customers", in the form attached hereto.
+
+     This Amendment shall be effective when executed by both parties.
+
+     All provisions of the Agreement, including attachments thereto, not
+addressed by this Amendment remain in full force and effect.
+
+     IN WITNESS WHEREOF, and intending to be bound hereby, the parties affix
+their signature to this Amendment.
+
+<TABLE>
+<S>                                                    <C>
+CELLCO PARTNERSHIP                                     GOAMERICA
+
+BY BELL ATLANTIC MOBILE, INC.                          COMMUNICATIONS CORPORATION
+
+ITS MANAGING GENERAL PARTNER:
+
+By:     /s/Robert J. Hirsh                             By:    /s/ Francis J.Elenio
+   ----------------------------------                     ------------------------
+Name:   Robert J. Hirsh                             Name:     Francis J.Elenio
+     --------------------------------                       ----------------------
+Title:  Exec. Dir. Data Sales & Mrtg.                  Title: CFO
+      -------------------------------                        ---------------------
+Date:          1/7/00                                  Date:         12/28/99
+      -------------------------------                       ----------------------
+</TABLE>
+
+<PAGE>   3
+
+                                    EXHIBIT A
+
+This Exhibit C sets forth the Area(s), as that term is used in this Agreement,
+in which BAM is authorized to provide CRS as described in this Agreement. In
+this Exhibit there is described the individual counties of the MSAs and/or RSAs
+in which BAM is authorized to conduct its CRS operations.
+
+COUNTIES OF THE MSA(s) IN WHICH BAM IS LICENSED:
+
+NORTHEAST REGION: Norfolk MA, Essex MA, Middlesex MA, Plymouth MA, Suffolk MA
+and Rockingham NH of the Boston MSA; Hartford CT, Middlesex CT and Tolland CT of
+the Hartford MSA; New Haven CT of the New Haven MSA; Madison NY, Worcester MA of
+the Worcester MSA; Hampden MA and Hampshire MA of the Springfield MSA; Bristol
+MA of the New Bedford MSA; Hillsborough NH of the Manchester MSA; Orange NY of
+the Orange County MSA; Dutchess NY of the Poughkeepsie MSA; New London CT of the
+New London MSA; Berkshire MA of the Pittsfield MSA; Warren NY and Washington NY
+of the Glen Falls MSA; Chittenden VT and Grand Isle VT of the Burlington MSA;
+Bristol R1, Kent RI, Providence RI, Washington RI of the Providence MSA;
+Fairfield CT of the Bridgeport MSA; Albany NY, Montgomery NY, Rensselaer NY,
+Saratoga NY, Schenectady NY of the Albany MSA.
+
+PITTSBURGH REGION: Allegheny PA, Beaver PA, Washington PA and Westmoreland PA of
+the Pittsburgh MSA
+
+NORTHERN NEW JERSEY/NY METRO REGION: Bronx NY, Kings NY, New York NY, Queens NY,
+Richmond NY, Putnam NY, Rockland NY, Westchester NY, Bergen NJ, Nassau NY,
+Suffolk NY, Essex NJ, Morris NJ, Somerset NJ, Union NJ, Hudson NJ and Passaic NJ
+of the New York MSA; Middlesex NJ of the New Brunswick MSA; Monmouth NJ of the
+Long Branch MSA.
+
+PHILADELPHIA REGION: Bucks PA, Chester PA, Delaware PA, Montgomery PA,
+Philadelphia PA, Burlington NJ, Camden NJ and Gloucester NJ of the Philadelphia
+MSA; Carbon PA, Lehigh PA, Northampton PA and Warren NJ of the Allentown MSA;
+Cumberland NJ of the Vineland MSA, New Castle DE, Salem NJ, Cecil MD of the
+Wilmington MSA, Berks PA of the Reading MSA, Mercer NJ of the Trenton MSA,
+Atlantic NJ, Cape May NJ of the Atlantic City MSA.
+
+WASHINGTON/BALTIMORE: District of Columbia, Charles MD, Montgomery MD, Prince
+Georges MD, Alexandria City VA, Fairfax City VA, Falls Church City VA, Manassas
+City VA, Manassas Park City VA, Arlington VA, Fairfax VA, Loudoun VA and Prince
+William VA of the Washington DC MSA; Baltimore City MD, Anne Arundel MD,
+Baltimore MD, Carroll MD, Harford MD and Howard MD of the Baltimore MSA
+
+SOUTHEAST: Gaston NC, Meklenburg NC. and Union NC of the Charlotte MSA;
+Greenville SC, Pickens SC and Spartanburg SC of the Greenville MSA; Lexington SC
+and Richland SC of the Columbia MSA; Alexander NC, Burke NC and Catawba NC of
+the Hickory MSA; Buncombe and Madison of the Asheville, NC MSA; Anderson SC of
+the Anderson MSA.
+
+COUNTIES OF THE RSA(s) IN WHICH BAM IS LICENSED:
+
+<PAGE>   4
+
+NORTHEAST REGION: Windham in CT 2-WINDHAM; Newport in 111-NEWPORT; Barnstable,
+Dukes and Nantucket in MA 2-BARNSTABLE; Carroll, Belknap and Merrimack in NH
+2-CARROLL; Franklin, Orleans, Essex, Lamoille, Washington, Caledonia and Orange
+in VT 1 -FRANKLIN; Addison, Rutland, Windsor, Bennigton and Windham in VT
+2-ADDISON (131); Ostego, Delaware, Schoharie, Sullivan and Ulster in NY
+5-OSTEGO.
+
+PITTSBURGH REGION: Mason, Jackson, Roane, and Calhoun in WV 1 MASON; Wetzel,
+Tyler, Doddridge, Ritchie, Gilmer, Lewis, Pleasants in WV 2 WETZEL; McKean,
+Cameron, and Elk in PA 2 MCKEAN; Butler, Clarion, Lawrence and Armstrong in PA 6
+LAWRENCE 1132); Indiana, Jefferson and Clearfield in PA 7 JEFFERSON; Greene and
+Fayette in PA 9 GREENE; Huntingdon, Juniata and Mifflin in PA 11 HUNTINGDON
+(132).
+
+NORTHERN NEW JERSEY/NY METRO REGION: Hunterdon in NJ I-HUNTERDON; Sussex in NJ
+3-SUSSEX.
+
+PHILADELPHIA REGION: Ocean -- in NJ 2-OCEAN; Kent and Sussex in DE 1 -KENT.
+
+WASHINGTON/BALTIMORE: Kent, Queen Annes, Talbot, Caroline, Dorchester, Wicomico,
+Somerset, Calvert, St. Marys, and Worcester in MD 2-KENT; Frederick in MD
+3-FREDERICK; Frederick, Clark, Shenandoah, Page, Rappahannock, Fauquier, Warren
+and Winchester City in VA 10-FREDERICK (131); Madison, Culpeper, Orange,
+Fredericksburg City, Spotsylvania, Louisa and Stafford VA 11 -MADISON (133);
+Caroline, King George, King William, King & Queen, Essex, Richmond,
+Westmoreland, Northumberland. Lancaster, Mathews, Northampton, Accomack, and
+Middlesex in VA 12-CAROLINE (132).
+
+SOUTHEAST: Yancey, Mitchell, Avery, Watauga, and Caldwell in NC 2-YANCEY;
+Cherokee, Clay, Graham, Macon, Swain, Haywood, Jackson and Transylvania in NC
+1-CHEROKEE; Anson, Montgomery, Richmond, Scotland in NC 5-ANSON; Cabarrus,
+Stanly, Rowan, Iredell, and Davie in NC 15-CABARRUS; Laurens, Greenwood,
+McCormick, Edgefield, Saluda, Newberry and Abbeville in SC 2-LAURENS; Oconee in
+SC 1-OCONEE; Cherokee, Chester, Union and Fairfield in SC 3-CHEROKEE; Lancaster
+and York in SC 9-LANCASTER; Dawson, Lumpkin, White, Habersham, Hall, Banks,
+Franklin, Stephens, Rabun, Barrow in GA 2-DAWSON, Henderson, Polk, Rutherford,
+Cleveland, McDowell and Lincoln in NC4-HENDERSON; Lee, Wise, Dickenson,
+Buchanan, Russell and Norton City in VA 1-LEE.
+
+<PAGE>   5
+
+     Confidential Materials omitted and filed separately with the Securities and
+Exchange Commission. Asterisks denote omissions.
+
+                                    EXHIBIT B
+
+AirBridge@) Internet Access
+
+<TABLE>
+<S>                                            <C>
+Monthly Access fee:                            [**] per month per NEI
+                                                -----
+Rate over Allowance:                           [**]/kilobyte
+                                                -----
+Usage outside BAM markets:                     [**]/kilobyte
+                                                ----
+</TABLE>
+
+General Pricing Terms
+
+Use of these rate plans is limited to the following software applications (note:
+This list may be amended from time to time):
+Ail www browser software J clients, or Citrix
+All e-mail servers and systems
+AOL, Prodigy, CompuServe client software
+Lotus Domino and Microsoft Exchange systems
+PalmPilot compatible browsers (HandWeb, etc.)
+These rate plans are not to be used for other applications such as telemetry or
+customized third party software packages.
+
+<PAGE>   6
+
+   Confidential Materials omitted and filed separately with the Securities and
+                Exchange Commission. Asterisks denote omissions.
+
+                                   EXHIBIT B1
+
+AirBridge@) Internet Access Silver Price Plan
+
+         <TABLE>
+         <CAPTION>
+
+         <S>                                  <C>
+         Access Fee                           $[**]
+         Usage in BAM Markets                 [**]*
+         Usage Outside BAM Markets            $[**]
+         NEI Unit Commitment                  [**]
+         Activation fee                       $[**]
+         Contract Term in Years               3
+
+         </TABLE>
+
+<TABLE>
+<CAPTION>
+
+Commitment Schedule:                               NEIs in Service
+--------------------------------                   ---------------
+<S>                                                <C>
+Month                   1                                [**]
+Month                   2                                [**]
+Month                   3                                [**]
+Month                   4                                [**]
+Month                   5                                [**]
+Month                   6                                [**]
+Month                   7                                [**]
+Month                   8                                [**]
+Month                   9                                [**]
+Month                   10                               [**]
+Month                   11                               [**]
+Month                   12 to 36                         [**]
+$[**] Traveler Option Available
+</TABLE>
+
+Pricing does not include electronic billing information
+Use limited to the following  applications    All web browser software
+                                              AOL, Prodigy, Compuserve
+                                              All customer E-mail servers
+                                              LOTUS DOMINO, MICROSOFT EXCHANGE
+NEIS IN SERVICE ON THE RATE PLAN SHOWN IN EXHIBIT B SHALL NOT COUNT TOWARDS THE
+NEI COMMITMENT OF THIS RATE PLAN. SHOULD CUSTOMER NOT HAVE THE NUMBER OF ACTIVE
+NELS CORRESPONDING TO THE COMMITMENT SCHEDULE SHOWN ABOVE, CUSTOMER SHALL BE
+CHARGED AS IF THOSE NEW WERE IN SERVICE.
+
+<PAGE>   7
+                                    EXHIBIT C
+
+                                                                          Page 1
+
+<TABLE>
+<S>                 <C>
+OBJECTIVE:          To streamline the data activation process for Value Added
+                    Customers.
+
+GOAL:               To establish activation procedures that will maximize
+                    efficiency for both Bell Atlantic Mobile and our Value Added
+                    Customers. This procedure will create an activation process
+                    that will allow for easier activation, billing, tracking and
+                    reporting that will benefit DAM as well as our customers.
+
+INTRODUCTION:       Once a customer has been identified as a VAC with a contract
+                    in place, it is our recommendation that they have the
+                    ability to reserve and activate NEls directly through our
+                    Credit & Ordering Operations Department. This will allow for
+                    . maximum efficiency given the quantity of NEIs that are
+                    activated through our VACs. Alternative procedures may be
+                    evaluated due to the needs of a particular customer on a
+                    case by case basis.
+
+PROCEDURE:          NEI Reservations
+                    VACs will have the ability to reserve NEIs in blocks of 100.
+                    These NEIs will be reserved by BAM geographic region (i.e.
+                    100 NEI's out of NY Metro, 100 NEI's out of Wash/Balt,
+                    please see Exhibit C, page 2). This form will be filled out
+                    by an authorized VAC representative and faxed directly to
+                    our COOS department in Morristown, NJ (Fax number
+                    973-971-1036, Tel number 800-627-2791). Reservation requests
+                    may take up to 2 business days to complete. Once the request
+                    has been processed, a COOS representative will complete the
+                    form and list of reserved NEIs and fax it back to the VAC
+                    representative as well as to Greg Fucheck, Manager -- Value
+                    Added Customers (Fax 908-306-4227, Tel 908-306-7746).
+
+                    NEI Activations
+                    In order to activate an NEI, Value Added Customers will be
+                    able to fax a form directly to the DAM COOS department
+                    (Please see Exhibit C, page 3). This form will be filled out
+                    by an authorized VAC representative and will list the NEls
+                    from the reserved block to be activated. The DAM COOS
+                    department will convert these NEIs from reserved status to
+                    active status in our systems. Once all the NEIs have been
+                    activated, a COOS representative will fax back the
+                    activation form to the VAC as well as to Greg Fucheck.
+
+                    NOTE: THESE FORMS CAN ONLY BE SIGNED BY AN AUTHORIZED VAC
+                    REPRESENTATIVE. EACH VAC WILL BE RESPONSIBLE FOR PROVIDING A
+                    LIST OF AUTHORIZED REPRESENTATIVES THAT WILL BE FORWARDED TO
+                    GREG FUCHECK WHO WILL THEN FORWARD TO THE COOS DEPARTMENT.
+
+</TABLE>
+
+<PAGE>   8
+                                    EXHIBIT C
+
+                                                                          Page 2
+<TABLE>
+<S>                                            <C>
+CUSTOMER:                                      GO AMERICA
+CUSTOMER #:                                    758
+ADDRESS:                                       401 HACKENSACK AVENUE
+                                               HACKENSACK, NJ  07601
+PHONE:                                         (201) 996-7306
+FAX:                                           (201) 996-1772
+AUTHORIZED PERSON:
+                  --------------------------------------------------------------
+
+SIGNATURE:                                     DATE:
+          -----------------------------             ----------------------------
+
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+---------------------------------------------------------------------------------------------
+PRIMARY CITY, ST          PRICE PLAN CODE     SALEFORCE ID     CONTRACT LENGTH    NEI
+---------------------------------------------------------------------------------------------
+<S>                       <C>                 <C>              <C>                <C>
+                                              HQ VAC
+---------------------------------------------------------------------------------------------
+                                              HQ VAC
+---------------------------------------------------------------------------------------------
+                                              HQ VAC
+---------------------------------------------------------------------------------------------
+                                              HQ VAC
+---------------------------------------------------------------------------------------------
+                                              HQ VAC
+---------------------------------------------------------------------------------------------
+                                              HQ VAC
+---------------------------------------------------------------------------------------------
+                                              HQ VAC
+---------------------------------------------------------------------------------------------
+                                              HQ VAC
+---------------------------------------------------------------------------------------------
+                                              HQ VAC
+---------------------------------------------------------------------------------------------
+                                              HQ VAC
+---------------------------------------------------------------------------------------------
+                                              HQ VAC
+---------------------------------------------------------------------------------------------
+                                              HQ VAC
+---------------------------------------------------------------------------------------------
+</TABLE>
+
+Special Requests/Comments
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+
+NOTE: THIS FORM IS TO BE USED WHEN REQUESTING ACTIVATION OF IP ADDRESSES ON BAM
+CDPD NETWORK. PLEASE FAX THIS FORM TO BAM'S COOS DEPARTMENT AT 973-971-1036
+
+
+<PAGE>   9
+                                    EXHIBIT C
+
+                                                                          Page 3
+<TABLE>
+<S>                                            <C>
+CUSTOMER:                                      GO AMERICA
+CUSTOMER #:                                    758
+ADDRESS:                                       401 HACKENSACK AVENUE
+                                               HACKENSACK, NJ  07601
+PHONE:                                         (201) 996-7306
+FAX:                                           (201) 996-1772
+AUTHORIZED PERSON:
+                  --------------------------------------------------------------
+SIGNATURE:                                     DATE:
+          ------------------------------            ----------------------------
+</TABLE>
+
+TOTAL NUMBER OF NEI TO BE RESERVED (IN BLOCKS OF 100):
+
+<TABLE>
+<CAPTION>
+------------------------------------------------------------------------------------------
+QTY. TO                   PRIMARY CITY, STATE               NEI RANGE
+RESERVE                                                     (TO BE COMPLETED BY BAM)
+------------------------------------------------------------------------------------------
+<S>                       <C>                               <C>
+
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+</TABLE>
+
+
+Special Requests/Comments
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+NOTE: THIS FORM IS TO BE FAXED TO BAM'S COOS DEPARTMENT AT 973-971-1036 (ATTN.
+CHARLENE OR DAVE) WHEN RESERVING BLOCKS OF IP ADDRESSES FOR FUTURE USE.
+
+</TEXT>
+</DOCUMENT>

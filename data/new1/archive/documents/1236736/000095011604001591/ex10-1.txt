@@ -1,0 +1,217 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>4
+<FILENAME>ex10-1.txt
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+<PAGE>
+
+
+                                                                    Exhibit 10.1
+
+                               AMENDMENT NO. 1 TO
+                         MASTER AGREEMENT FOR PHARMACY,
+                             PHARMACY CONSULTING AND
+                          RELATED PRODUCTS AND SERVICES
+
+         This Amendment No. 1 to Master Agreement for Pharmacy, Pharmacy
+Consulting and Related Products and Services is made effective as of May 7, 2004
+
+                                   BACKGROUND
+
+         1. As of December 1, 2003, Genesis HealthCare Corporation, a
+Pennsylvania corporation (together with its Affiliates, "GHC") and NeighborCare
+Pharmacy Services, Inc. d/b/a NeighborCare, a Delaware corporation (together
+with its Affiliates, "NeighborCare"), entered a Master Agreement for Pharmacy,
+Pharmacy Consulting and Related Products and Services ("Master Agreement").
+
+         2. Pursuant to the Master Agreement NeighborCare and GHC entered
+various Pharmacy Services Agreements ("Facility Agreements") with Facilities.
+
+         3. GHC and NeighborCare now desire to amend the Master Agreement, the
+Facility Agreements and document certain additional agreements relating to the
+subject matter of the Master Agreement, which are set forth in this Amendment
+No. 1 to Master Agreement for Pharmacy, Pharmacy Consulting and Related Products
+and Services ("Amendment").
+
+                                   AGREEMENT
+
+         NOW THEREFORE, in consideration of the foregoing and the mutual
+promises set forth in this Amendment, and for other good and valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged, the
+parties hereto, intending to be legally bound, hereby agree as follows:
+
+         1. Section 2.6 of the Master Agreement is amended in its entirety to
+read as follows:
+
+            2.6 Four Year Anniversary Pricing Adjustment. At least 180 days
+            prior to the fourth anniversary date of this Master Agreement, GHC
+            and NeighborCare shall negotiate in good faith to modify the pricing
+            under this Master Agreement and all Service Agreements (the "Four
+            Year Price Adjustment") to reflect the median pricing provided by
+            NeighborCare to NeighborCare's 10 largest customers other than GHC
+            (as determined by number of SNF beds); provided, however, that if
+            GHC is not one of NeighborCare's 10 largest customers as of the
+            negotiation commencement date, the pricing shall reflect the median
+            pricing of the largest number of NeighborCare customers which is a
+            multiple of 5 and which includes GHC (by way of example only, if GHC
+            is NeighborCare's 11th, 12th 13th, 14th or 15th largest customer,
+            the pricing would reflect the median pricing provided by
+            NeighborCare to NeighborCare's 15 largest customers). If there is a
+            price change as a result of the foregoing calculations, one half of
+            the change will take effect on the fourth anniversary date of this
+            Master Agreement and the remaining half will take effect on the
+            following June 1 and remain in effect for the remainder of the
+            Initial Term. As part of such negotiations, the parties shall in
+            good faith negotiate the appropriate charge to add, if any, for the
+            Utilization Management services described in section 1.8.1 hereof.
+            If the parties have not reached agreement on the Four Year Price
+            Adjustment by the date which is 90 days prior to the fifth
+            anniversary date of this Master Agreement, either party may submit
+            the matter to dispute resolution pursuant to section 24 hereof.
+
+
+
+<PAGE>
+
+         2. All references to the "Five Year Price Adjustment" in the Master
+Agreement and any related agreements are changed to read "Four Year Price
+Adjustment."
+
+         3. NeighborCare agrees to permit any Facility located in Maryland or
+Delaware to change its election in its Facility Agreement from "Medicare Part B
+Supplies and Services" to "Medicare Part B Claim Filing Services."
+
+         4. Section 2.3 of the Master Agreement is amended to read in its
+entirety as follows:
+
+            2.3   If a resident's coverage is "pending" under the applicable
+                  state Medical Assistance Program ("MAP"), GHC agrees to pay
+                  for any Services supplied to such residents upon, and
+                  NeighborCare agrees to hold all billings to GHC regarding such
+                  residents until, the earliest of: (a) denial of MAP coverage
+                  by MAP; (b) the expiration of the state Retroactive Approval
+                  Period, with respect to Services provided prior to such
+                  period; and (c) 90 days except in the states of Connecticut
+                  and Maryland, which will be 150 days.
+
+         5. For each Facility the NeighborCare Pricing Schedule A of the
+Facility Agreement is amended to read as Schedule A attached to this Agreement.
+
+         6. Capitalized terms not otherwise defined in this Amendment have the
+meaning defined in the Master Agreement.
+
+         IN WITNESS WHEREOF, the parties hereto, intending to be legally bound,
+have duly executed this Amendment as of the day and year first written above.
+
+NEIGHBORCARE PHARMACY SERVICES, INC.              GENESIS HEALTHCARE CORPORATION
+
+
+By:  /s/ John Arlotta                             By:  /s/ George V. Hager, Jr.
+   -----------------------------------------         ---------------------------
+     John Arlotta                                      George V. Hager, Jr.
+     Chairman, President and Chief Executive           Chairman and
+     Officer                                           Chief Executive Officer
+
+                                       2
+
+<PAGE>
+
+
+                                                                         Amended
+                                    EXHIBITS
+
+
+                         NEIGHBORCARE PRICING SCHEDULE A
+                     (AWP pricing based on First Data Bank)
+<TABLE>
+<CAPTION>
+---------------------------------------- ---------------------------------------------------------------------
+             THERAPY/SERVICE                                          PROVIDER CHARGE
+---------------------------------------- ---------------------------------------------------------------------
+<S>                                      <C>
+Oral/Topical Medications billed to       Prevailing State Medicaid Formula (not including FULs or
+Facility                                 State MACs)
+---------------------------------------- ---------------------------------------------------------------------
+All IV push/Injectible                   Prevailing State Medicaid Formula (not including FULs or State MACs)
+medications
+---------------------------------------- ---------------------------------------------------------------------
+OTC medications                          76% of AWP, or if no AWP
+                                         110% of NeighborCare Acquisition Cost
+---------------------------------------- ---------------------------------------------------------------------
+IV Hydration                             $40.00/day
+ Standard Hydration up to 4L/dy
+Additives billed at (AWP- 10%) of drug
+---------------------------------------- ---------------------------------------------------------------------
+TPN (Includes dextrose, standard         1 liter - $90.00
+    amino acids, electrolytes & trace    2 liters - $100.00
+    elements) or Procalamine:            3 liters - $110.00
+---------------------------------------- ---------------------------------------------------------------------
+Additives for TPN (i.e. Vitamins,        (AWP - 10%)
+    heparin, Zofran, insulin, Zantac,
+    Pepcid, etc.)
+---------------------------------------- ---------------------------------------------------------------------
+All Medications for Infusion             Daily price: AWP - 10% plus $25 for 1 dose plus an additional
+                                         $5.00 for each additional dose.
+---------------------------------------- ---------------------------------------------------------------------
+All Infusion Supplies                    76% of AWP, or if no AWP
+                                         110% of NeighborCare Acquisition Cost
+---------------------------------------- ---------------------------------------------------------------------
+Delivery Systems                         Stationary Pump                 $10/day
+                                         Ambulatory Pump                 $12/day
+                                         Elastomeric Devices             $10/dose
+---------------------------------------- ---------------------------------------------------------------------
+Catheter Care                            $2.00 for heparin/saline flushes
+---------------------------------------- ---------------------------------------------------------------------
+Midline Insertion                        $150.00 per insertion plus supplies + 20% on
+                                         nights/weekends/holidays
+---------------------------------------- ---------------------------------------------------------------------
+PICC Insertion                           $250.00 per insertion plus supplies + 20% on
+                                         nights/weekends/holidays
+---------------------------------------- ---------------------------------------------------------------------
+Nursing IV Certifications (C.E.U.s)      See attached schedule B for details
+---------------------------------------- ---------------------------------------------------------------------
+Nursing Professional Services            See attached schedule B for details
+---------------------------------------- ---------------------------------------------------------------------
+Standard Pharmacy Consulting             $7.00/bed/month
+Services
+---------------------------------------- ---------------------------------------------------------------------
+Additional Pharmacy Consulting           $60.00 per hour
+Services
+---------------------------------------- ---------------------------------------------------------------------
+Clinical Records Fee                     $1.50/bed/mo
+---------------------------------------- ---------------------------------------------------------------------
+Emergency box utilization                Per above schedule (IV considered as single dose)
+---------------------------------------- ---------------------------------------------------------------------
+</TABLE>
+
+                                       1
+
+<PAGE>
+
+
+<TABLE>
+<CAPTION>
+---------------------------------------- ---------------------------------------------------------------------
+<S>                                      <C>
+Returns (where allowed by state)         Restocking fee: The higher of $5.00 per prescription or the
+                                         State Medicaid Allowable Restocking Fee
+---------------------------------------- ---------------------------------------------------------------------
+After hours non-emergency deliveries     $50.00 each delivery
+---------------------------------------- ---------------------------------------------------------------------
+o Routine refill (due to Facility error)
+o Replace lost med. Cart key
+o Non-emergency equipment
+  requests
+o Floor stock/OTC orders
+o Healthcare supply orders
+o Emergency kit exchanges
+o Service to a resident not selecting
+  NeighborCare as primary provider
+---------------------------------------- ---------------------------------------------------------------------
+</TABLE>
+
+                                       2
+
+</TEXT>
+</DOCUMENT>

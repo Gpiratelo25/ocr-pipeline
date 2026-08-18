@@ -1,0 +1,76 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>5
+<FILENAME>ex103.txt
+<DESCRIPTION>EXHIBIT 10.3
+<TEXT>
+                                                                  EXHIBIT 10.3
+
+          AMENDMENT TO PRIVATE LABEL CREDIT CARD PROGRAM AGREEMENT
+
+This Amendment is to that certain Private Label Credit Card Program
+Agreement between World Financial Network National Bank, ("Bank") and
+United Retail Group, Inc. and United Retail Incorporated (collectively
+referred to as "Retailer"), dated January 27, 1998.
+
+                  * * * * * * * * * * * * * * * * * * * *
+
+         WHEREAS, Bank and Retailer entered into that certain Private Label
+Credit Card Program Agreement dated January 27, 1998, (the "Agreement");
+and,
+
+         WHEREAS, Bank and Retailer now desire to amend the Agreement as
+set forth herein;
+
+         NOW, THEREFORE, Bank and Retailer hereby agree as follows:
+
+1.       The definition of "BDIP Lagged AR" in Section 1.1., Definitions,
+         is hereby amended to read as follows:
+
+         "BDIP Lagged AR" means, with respect to the period from February
+         1, 1999 through January 31, 2000, the sum of the Receivables
+         (excluding all late fees billed on Receivables), as the end of
+         each Billing Cycle during the period from July 1, 1998 through
+         June 30, 1999, and, for each February 1 to January 31 thereafter,
+         the sum of the Receivables (excluding all late fees billed on
+         Receivables), for the comparable July 1 through June 30 period,
+         divided by twelve (12)."
+
+2.       The Effective date of this Amendment shall be July 1, 1999.
+
+3.       As hereby amended and supplemented, the Agreement shall remain in
+         full force and effect.
+
+         IN WITNESS WHEREOF, the parties hereto have executed this
+Amendment the date(s) set forth below.
+
+World Financial Network National Bank
+
+
+By: /s/ Daniel T. Groomes
+    ---------------------------------
+    President
+
+Date: 8/19/99
+
+
+United Retail Group, Inc.
+
+By: /s/ George R. Remeta
+    -------------------------------
+    CAO
+
+Date: 8/17/99
+
+United Retail Incorporated
+
+By: /s/ Jon Grossman
+    ------------------------------
+    Vice President
+
+Date: 8/16/99
+
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,133 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>3
+<FILENAME>firstamend101.txt
+<DESCRIPTION>FIRST AMEND TO PAID SERVICES
+<TEXT>
+[SBC LOGO]                                                          EXHIBIT 10.1
+
+                 FIRST AMENDMENT TO SENT PAID SERVICES AGREEMENT
+         FROM SBC PAY PHONES BETWEEN SBC SERVICES, INC. AND PHONE1, INC.
+
+         THIS FIRST AMENDMENT dated this 31st day of March 2003 ("Amendment
+Effective Date"), is by and between Phone1, Inc., with offices at 100 N.
+Biscayne Blvd., 25th Floor, Miami, Florida, 33132 ("Phone1") and SBC Services,
+Inc., as agent for one or more of the following, depending upon the state(s) in
+which service is provided hereunder for pay phone services: Pacific Bell
+Telephone Company, a California corporation, d/b/a SBC California; Nevada Bell
+Telephone Company, a Nevada corporation, d/b/a SBC Nevada; Southwestern Bell
+Telephone, L.P., a limited partnership under the laws of the state of Texas,
+providing pay phone service in the states of Texas, Missouri, Kansas, Arkansas,
+and Oklahoma, d/b/a SBC Southwest; Illinois Bell Telephone Company, an Illinois
+corporation, d/b/a SBC Illinois; Indiana Bell Telephone Company, Incorporated,
+an Indiana corporation, d/b/a SBC Indiana; Michigan Bell Telephone Company, a
+Michigan corporation, d/b/a SBC Michigan; The Ohio Bell Telephone Company, an
+Ohio corporation, d/b/a SBC Ohio; Wisconsin Bell, Inc., a Wisconsin corporation,
+d/b/a SBC Wisconsin; SNET America, Inc., a Connecticut corporation, and, where
+the state in which pay telephones pursuant to this Agreement are located is
+other than one of the foregoing, Ameritech Payphone Services, Inc., a Delaware
+corporation, with offices at 105 Auditorium Circle, Room 12-A-60, San Antonio,
+Texas 78205.
+
+         WHEREAS, on December 10, 2002, Phone1 and SBC executed a Sent Paid
+Services Agreement From SBC Pay Phones with an Effective Date of December 10th
+2002, with an initial term of three (3) years (the "Agreement"), and expiring
+pursuant to the terms set forth in Section 2 of the Agreement; and
+
+         WHEREAS, the parties desire to amend the Agreement at this time in the
+manner set forth herein.
+
+         NOW THEREFORE, in consideration of the mutual obligations set forth
+herein, Phone1 and SBC agree as follows:
+
+         1. Phone1 shall provide, at their sole cost and expense, a number of
+smart-set chassis ("Smart-Set Chassis"), the number of which to be determined by
+SBC, but not to exceed fifty thousand (50,000). For the purposes of this
+Amendment, Smart-Set Chassis shall mean one or more microprocessors that can be
+installed within the housing of a pay telephone in order to enhance calling and
+communication features, and allows for a pay phone to communicate with the
+Phone1 platform. The manufacturer of the Smart-Set Chassis shall be determined
+by SBC. The Smart-Set Chassis shall be installed by SBC, at SBC's expense, at
+specific locations, which in SBC's sole determination offer the highest usage
+potential for the Phone1 Services ("High-End Locations"). SBC
+
+                                       1
+<PAGE>
+shall use reasonable best efforts to install the Smart-Set Chassis within 60
+days of receipt by SBC, with shipping schedule determined by SBC.
+
+         2. The term of the Agreement, as it applies to each of the Smart-Set
+Chassis at the High-End Locations only, shall continue for a period of time
+equal to thirty-six (36) months, commencing upon the installation of each smart
+set chassis.. At the conclusion of the of the aforementioned 36 month period,
+the commission plan for each of the phones covered by this Amendment will then
+convert to the commission terms as set forth in Section 6 of the Agreement. [*]
+It is understood and agreed to by both Parties that the Smart-Set Chassis'
+covered by this Amendment (up to fifty thousand (50,000)) are to be included in,
+and not in addition to, the two-hundred thousand (200,000) public pay telephone
+stations referenced in Section 4.A.
+
+         3. The monthly commissions to be paid by Phone1 to SBC for calls placed
+on the Smart-Set Chassis' installed at the High-End Locations and subject to
+this First Amendment shall be calculated per pay phone based on the following
+criteria:
+
+                Gross Revenue                       Commission Owed
+                -------------                       ---------------
+
+         Up to and including Break Point                  [*]
+
+          Break Point - 2x Break Point     [*] (of original commission schedule)
+
+              Over 2x Break Point          [*] (Of original commission schedule)
+
+The Break Point shall be defined as the average cost to Phone1 per Smart-Set
+Chassis', less [*], divided by thirty-six (36). For the sake of example only,
+and not representative of actual costs; assuming average costs to develop
+Smart-Set Chassis = [*]. Break Point would equal [*]. Based on this example, any
+phone earning up to and including [*] in any given month, commission owed to SBC
+will be [*]. For revenue between [*] and [*], commissions owed to SBC would be
+[*] of the amount to which SBC is entitled under Section 6 of the Agreement. Any
+revenue over [*] would result in a commission payment to SBC equal to [*] of the
+amount to which SBC is entitled under Section 6 of the Agreement.
+
+         4. Phone1 shall not vary its pricing for domestic and international
+calls on the basis of the technology selected, procured and utilized for the
+Smart-Set Chassis'.
+
+         5. SBC shall have the right to relocate such Smart-Set Chassis to an
+alternate High-End Location based on total revenue performance of the set (All
+Revenue Streams).
+
+----------
+*        CONFIDENTIAL INFORMATION HAS BEEN OMITTED AND FILED SEPARATELY WITH THE
+         SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2.
+
+                                       2
+<PAGE>
+         6. If domestic and international long distance Gross Receipts falls
+below one hundred and fifty percent (150%) of Break Point for three months
+consecutively, both parties agree to promptly meet to negotiate arrangements to
+remedy the situation.
+
+         7. All other terms and conditions of the Agreement shall remain
+unchanged.
+
+         IN WITNESS WHEREOF, the parties have caused this First Amendment to be
+executed by their duly authorized representatives.
+
+
+SBC SERVICES, INC., AS AGENT FOR
+    THE COMPANIES LISTED ABOVE                             PHONE1, INC.
+
+By: /s/ Randall L. Feger                          By: /s/ Dario Echeverry
+    ----------------------------------                --------------------------
+Name:  Randall L. Feger                           Name:  Dario Echeverry
+Title: President Public Communications            Title: Chief Executive Officer
+Date:  April 1, 2003                              Date:  April 1, 2003
+
+                                       3
+
+
+</TEXT>
+</DOCUMENT>

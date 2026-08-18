@@ -1,0 +1,928 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>6
+<FILENAME>ima2.txt
+<DESCRIPTION>INVENTORY MANAGEMENT AGREEMENT PHASE II
+<TEXT>
+
+
+
+
+			INVENTORY MANAGEMENT AGREEMENT
+					PHASE II
+
+	This Inventory Management Agreement-Phase II (as amended from
+time to time this "Agreement"), is made and entered into April 6, 2001,
+by and between Enron North America Corp., a Delaware corporation
+("Enron"), and Huntco Steel, Inc., a Delaware corporation ("HSI"). This
+Agreement is effective upon execution but the rights and obligations
+provided for hereunder shall not commence ("Commencement Date") until
+after the satisfaction of the Post Closing Items (as hereinafter
+defined) or on such earlier date as the parties hereto ("Parties," each
+a "Party") agree.
+
+					RECITALS:
+
+	A. The Parties executed a Master Steel Purchase and Sale
+Agreement of even date herewith (as amended from time to time, the
+"Master Agreement") regarding the purchase and sale of the specified
+Commodity thereunder. Any capitalized terms used but not defined herein
+shall have the meaning set forth in the Master Agreement.
+
+	B. The Parties executed a Warehouse Agreement of even date
+herewith (as amended from time to time, the "Warehouse Agreement")
+regarding HSI's provision of storage and warehouse services with
+respect to the Commodity purchased by Enron under the Master Agreement.
+
+	C. The Parties executed an Inventory Management Agreement (Phase
+I) of even date herewith (as amended from time to time, the "Inventory
+Management Agreement for Phase I") regarding purchase and sale
+obligations during the term thereof ("Phase I").
+
+	D. The Parties desire to set forth certain agreements with
+respect to the purchase and sale of Commodity during the term of this
+Agreement.
+
+	NOW, THEREFORE, in consideration of the mutual covenants and
+premises herein contained and intending to be legally bound hereby, the
+Parties agree as follows:
+
+	1.	Transactions.
+
+	1.1	Ordering Procedure.  To purchase Commodity during Phase II,
+HSI shall provide Enron with an offer to purchase which shall include
+volumes, specifications, delivery point, the period during which HSI
+desires that the Commodity be delivered to the delivery point (the
+"Delivery Period"), and all other information requested by Enron in
+connection with such offer.  HSI may place orders under this Section
+1.1 if such orders are placed no later than the "Normal Lead Time",
+before the first day of the Delivery Period specified in such order.
+The "Normal Lead Time" shall mean the lead time applicable to the
+Commodity and Delivery Point as set forth in Schedule III attached
+hereto and updated periodically as described in Schedule III.
+
+	1.2	Acceptance and Confirmation.  Subject to the other terms
+hereof, Enron shall accept offers made pursuant to Section 1.1 and such
+offer and acceptance shall constitute a Transaction under the Master
+Agreement.  Thereafter, Enron shall provide HSI a Confirmation of such
+Transaction which shall have the following terms:
+
+		1.2.1	Seller:  Enron.
+
+		1.2.2	Buyer:  HSI.
+
+		1.2.3	Commodity:  The Commodity purchased under the
+Transaction.
+
+		1.2.4	Delivery Point: A specified HSI Facility.
+
+		1.2.5	Contract Quantity:  Specified volumes.
+
+		1.2.6	Delivery Period: Enron shall deliver the Commodity to
+the Delivery Point not later than the last day of the Delivery Period,
+provided that Enron shall have no liability to HSI for failure to
+deliver Commodity by such date if such failure is caused by a third
+party supplier or transporter's delay in delivering the Commodity.   If
+Enron believes the Commodity will not be delivered by the last day of
+the Delivery Period, Enron shall have the right to verbally notify HSI
+and specify the new Delivery Period which shall replace the current
+Delivery Period with the remainder of the terms of such Transaction
+remaining unchanged, provided HSI does not terminate the Transaction by
+giving written notice to Enron within three (3) Business Days of HSI
+receiving verbal notice of the new Delivery Period.  If Commodity is
+not delivered by the last day of the then current Delivery Period, HSI
+shall have the option to terminate the Transaction by giving written
+notice to Enron within three (3) Business Days of the last day of such
+Delivery Period, provided, that if HSI fails to exercise such option to
+terminate the Transaction then the Delivery Period shall be extended
+until the date such Commodity is delivered.  If a Transaction is
+terminated by HSI pursuant to the terms of this Section 1.2.6 such
+Transaction shall be treated as though it was never entered into and
+each party shall be released from all of its obligations with respect
+to thereto.
+
+	If on three (3) occasions during any three month period a
+specific third party supplier or transporter fails to deliver 100 Tons
+or more of Commodity on time, then HSI may send a written instruction
+to Enron that such supplier or transporter shall not be used for any
+Transaction entered into within the next six (6) months and Enron shall
+comply with such instruction.  If Commodity is not delivered on time to
+HSI and Enron receives compensation from the supplier or transporter
+with respect to such late delivery then Enron shall give such
+compensation to HSI.
+
+		1.2.7	Purchase Period: HSI shall complete the purchase of
+the Commodity on the day of its choosing during the 120 day period
+which commences on the day the Commodity is received at the Delivery
+Point (the "First Availability Date").
+
+		1.2.8	Purchase Price.  Determined in accordance with
+Section 1.3.
+
+	1.3	Purchase Price. The Purchase Price under each Transaction
+entered into pursuant to Section 1.2 shall be equal to the product of
+(i) the Adjusted Index Price plus the Cost of Carry, and (ii) the
+Contract Quantity.
+
+		1.3.1	The "Adjusted Index Price" means (a) PMAG next
+published after the completion of such Transaction, plus (b) the
+applicable Extras Adjustment for such Commodity determined in
+accordance with the Extras Adjustment Schedule attached as Schedule I,
+plus (c) the Location Adjustment for such Product determined in
+accordance with the Location Adjustment Schedule attached as Schedule
+I.
+
+		1.3.2	The "Cost of Carry" means the product of (i) the
+Adjusted Index Price and (ii) the product of (A) the number of days
+from the date that is the "Average Payment Delay" (as defined on
+Schedule II) after the First Availability Date, to the date the
+purchase is completed (including both the day that is the Average
+Payment Delay after the First Availability Date and the day the
+purchase is completed) and (B) the Daily Cost of Carry.
+
+		1.3.3	The "Daily Cost of Carry" means a per annum rate of
+interest equal to (LIBOR plus 2.25%) divided by 360. LIBOR shall mean
+the LIBOR in effect as of the First Availability Date as the term LIBOR
+is defined on Schedule II hereto.
+
+	1.4	Completion of Purchases by HSI. Following receipt of a
+notice from Enron that the Commodity is available for purchase by HSI,
+HSI shall complete a purchase of such Commodity by performing the
+following actions:
+
+		1.4.1	On or before 10:00 a.m. (Houston time) of each
+Business Day HSI will give Enron written notice of its intent to
+complete a Transaction ("Notice of Purchase Date") under which it
+desires to receive Commodity on or before the following Business Day.
+Each Notice of Purchase Date shall be irrevocable.  Enron will inform
+HSI of the Estimated Purchase Price by the close of business on the
+Notice of Purchase Date.  HSI shall pay the Estimated Purchase Price to
+Enron prior to taking delivery of such Commodity and not later than the
+close of business on the day after the Notice of Purchase Date. The
+"Estimated Purchase Price" shall be calculated by Enron based on the
+Adjusted Index Price for such Transaction using the most recently
+published PMAG as of the Notice of Purchase Date.
+
+		1.4.2	Upon Enron's notification to HSI of its receipt of
+the required payment, HSI may take delivery and receive title to the
+Commodity it has purchased.
+
+		1.4.3	So long as no Event of Default has occurred and is
+continuing, HSI shall have the right on any Business Day to purchase
+Commodity under Transactions and take immediate delivery and title to
+such Commodity; provided, the aggregate amount of such purchases on any
+day shall not exceed $100,000.  In connection with purchases completed
+under this Section 1.4.3, HSI shall make payment in full to Enron of
+the Estimated Purchase Price (as described in Section 1.4.1) by not
+later than 10:00 a.m. of the Business Day after the day HSI makes such
+purchase.
+
+		1.4.4	Promptly after each publication of PMAG, Enron shall
+calculate the actual amount that was due in connection with the
+completed Transactions and Enron will thereafter either invoice HSI for
+any underpayment, which invoice will be due within ten days, or pay to
+HSI the amount of any overpayment.
+
+		1.4.5	Failure to complete any purchase by the end of the
+Purchase Period shall cause HSI to be liable to Enron for the damages
+set forth in the Master Agreement applicable to a buyer's failure to
+perform under a Transaction, with such damages being calculated as
+though the last day of the Purchase Period was the required purchase
+date, provided that in no event shall the damages for failure to
+purchase Commodity include costs of carry for a period of time that is
+greater than 2 months.
+
+		1.4.6	It is contemplated hereunder that Enron may sell to
+third parties Commodity that is subject to a Transaction.  With respect
+to any such sales, Enron shall pay to HSI a per Ton payment equal to
+the Cost of Carry Rebate on the date HSI either completes such
+Transaction or pays Enron the damages applicable to its failure to
+complete such Transaction. The "Cost of Carry Rebate" shall be a per
+Ton payment equal to the product of (i) the Daily Cost of Carry (as
+defined in Section 1.3.2) multiplied by the Adjusted Index Price and
+(ii) the number of days between the date Enron sold such Commodity to a
+third party and the date Enron acquired replacement Commodity.
+
+	1.5	Minimum Annual Purchase Quantity.
+
+		1.5.1	HSI shall purchase under Call Options (as defined in
+Inventory Management Agreement for Phase I) and Transactions an
+aggregate amount of at least 200,000 Tons of Commodity (the "Minimum
+Annual Quantity") during the one year period that commences on the
+Commencement Date and during each one year period that commences on any
+anniversary of the Commencement Date (each, a "CD Year").  In
+connection with the first 200,000 Tons purchased from Enron during each
+CD Year HSI shall pay Enron a "Base Purchasing Fee" of $10 per Ton.
+Additionally, in connection with each Ton by which the aggregate Tons
+that HSI purchases during a CD Year exceed 1,000,000 Tons, HSI shall
+pay Enron an "Additional Purchasing Fee" of one percent (1%) of the
+Adjusted Index Price of each excess Ton.  To the extent HSI fails to
+purchase at least the Minimum Annual Quantity in any CD Year, HSI shall
+pay Enron a "Purchasing Shortfall Fee" of $10 per Ton for each Ton that
+HSI's actual purchases in any CD Year are less than the Minimum Annual
+Quantity.  Payment of the Purchasing Shortfall Fee shall be the only
+remedy available to Enron for HSI's failure to purchase the Minimum
+Annual Quantity.  All the fees described in this Section 1.5.1 are
+collectively referred to herein as the ("Purchasing Fees").
+
+		1.5.2	HSI shall pay to Enron a monthly payment equal to
+$166,666.67 (the "Monthly Payment"), which shall be paid the month
+following the month in which Phase II commences and each month
+thereafter up to and including the last month of the Term.  Payment of
+the Monthly Payment shall be made on the last Business Day of each
+month and shall be credited against the Purchasing Fees.
+
+		1.5.3	At the end of each CD Year and at the end of the
+Term, Enron will provide an invoice to HSI containing the calculation
+of the amount of the Base Purchasing Fee, the Additional Purchasing Fee
+and the Purchasing Shortfall Fee for the applicable CD Year. All
+amounts owed by HSI pursuant to this Section 1.5.3 shall be paid by HSI
+by wire transfer within two (2) Business Days after receipt of such
+invoice from Enron. Upon the commencement of Phase II, the terms of
+this Section 1.5 shall supercede the provisions of Section 1.5 of the
+Inventory Management Agreement for Phase I.  For the last CD Year of
+this Agreement both the 1,000,000 Ton amount and the Minimum Annual
+Quantity amount that are used in the calculations in this Section 1.5
+shall be prorated downward based on the number of days in such CD Year
+that this Agreement is in effect.
+
+	1.6	Limitations.
+
+		1.6.1	Notwithstanding the foregoing, Enron shall not be
+obligated to enter into any Transaction or perform under any
+Transaction if (a) an Event of Default has occurred and is continuing
+under the Transaction Documents, (b) the consummation thereof would
+otherwise cause HSI to exceed the Inventory Cap (as defined below), or
+(c) the Commodity purchased by Enron to satisfy its supply obligations
+under Section 2.1, 2.3, 2.5 or 2.7 Transactions are not delivered to
+the appropriate HSI Facility or otherwise fails to comply with the
+ordered specifications. The "Inventory Cap" as used herein shall be
+deemed to be exceeded if (after taking into account the Commodity to be
+purchased under the proposed Transaction) either the Inventory Volume
+Cap or the Inventory Credit Cap is exceeded. The "Inventory Volume Cap"
+shall be exceeded if the number of Tons subject to all open
+Transactions (the "Outstanding Tons") including all Call Option and Put
+Options under the Inventory Management Agreement for Phase I and all
+open Transactions under this Agreement exceeds the greater of (i)
+400,000 Tons or (ii) the total Tons purchased under all Transactions
+for the preceding 12 month period divided by three (3).  The "Inventory
+Credit Cap" shall be exceeded if the sum of (A) the Outstanding Tons
+(excluding the number of Tons subject to unexercised Put Options as
+described in the Inventory Management Agreement for Phase I) multiplied
+by the most recently published PMAG plus (B) any other amounts owed
+under the Transaction Documents to Enron other than principal and
+interest due under the Credit Agreement, exceeds $55,000,000.
+
+		1.6.2	If as a result of the terms of Section 1.6.1, Enron
+fails to accept an offer to purchase from HSI, then HSI may purchase
+such Commodity from a third party seller so long as no Event of Default
+has occurred and is continuing.
+
+	2.	Non-Standard Purchases by HSI.
+
+	2.1	Special Orders.  If HSI needs Commodity delivered prior to
+the Normal Lead Time, HSI shall immediately contact Enron with a
+description of the desired purchase Transaction including the
+specifications, volumes, delivery date, delivery location, maximum
+price and all other information requested by Enron in connection
+therewith.  Provided Enron is able to find a supplier to fill such
+order upon reasonable business terms, Enron shall enter into a
+Transaction under the Master Agreement to supply such Commodity to HSI
+which shall be completed pursuant to the provisions of Section 1.4 and
+shall contain the following terms:
+
+		2.1.1	Trade Date: The date the Parties enter into a
+Transaction to fill a  request for Commodity made by HSI under Section
+2.1.
+
+		2.1.2	Seller:  Enron.
+
+		2.1.3	Buyer:  HSI.
+
+		2.1.4	Commodity:  The Commodity purchased under the
+Transaction.
+
+		2.1.5	Delivery Point: A specified HSI Facility.
+
+		2.1.6	Contract Quantity:  Specified volumes.
+
+		2.1.7	Delivery Period:  The Delivery Period agreed to by
+the third party supplier, provided that Enron shall have no liability
+for any failure of such third party supplier to deliver the product
+pursuant to the terms negotiated with such third party supplier.
+
+		2.1.8	Purchase Period: HSI shall complete the purchase of
+the Commodity on the day of its choosing during the 30 day period which
+begins on the First Availability Date.
+
+		2.1.9	Purchase Price.  Determined in accordance with
+Section 2.2.
+
+	2.2	Purchase Price on Special Orders.  The Purchase Price on
+each Special Order shall be equal to the product of (i) the Adjusted
+Index Price plus the Cost of Carry and the Price Differential and (ii)
+the Contract Quantity.
+
+		2.2.1	 The "Adjusted Index Price" and "Cost of Carry" shall
+have the meanings set forth in Section 1.3.
+
+		2.2.2	The "Price Differential" means the amount (if any) by
+which the price per Ton that Enron is required to pay the third party
+supplier for such Commodity is greater than the Trade Date Adjusted
+Index Price.  The "Trade Date Adjusted Index Price" is  (a) PMAG next
+published after the Trade Date, plus (b) the applicable Extras
+Adjustment for such Commodity determined in accordance with the Extras
+Adjustment Schedule attached as Schedule I, plus (c) the Location
+Adjustment for such Product determined in accordance with the Location
+Adjustment Schedule attached as Schedule I.
+
+	2.3	Mill Specific Purchases. Subject to the Combined Purchase
+Limit (as described in Section 2.9) and the other terms of this
+Agreement, If HSI desires to purchase from Enron Commodity fabricated
+by a specific steel mill (a "Mill Specific Purchase") HSI shall
+immediately contact Enron with a description of the desired purchase
+Transaction including the supplier, specifications, volumes, delivery
+date, delivery location and all other information requested by Enron in
+connection therewith.  Provided the designated mill agrees to fill such
+order upon reasonable business terms, Enron shall purchase such
+Commodity from the designated mill and Enron shall enter into a
+Transaction under the Master Agreement to supply such Commodity to HSI
+which shall be completed pursuant to the provisions of Section 1.4 and
+shall contain the following terms:
+
+		2.3.1	Trade Date: The date the Parties enter into a
+Transaction to fill a  request for Commodity made by HSI under this
+Section 2.3.
+
+		2.3.2	Seller:  Enron.
+
+		2.3.3	Buyer:  HSI.
+
+		2.3.4	Commodity:  The Commodity purchased under the
+Transaction.
+
+		2.3.5	Delivery Point: A specified HSI Facility.
+
+		2.3.6	Contract Quantity:  Specified volumes.
+
+		2.3.7	Delivery Period:  The Delivery Period agreed to by
+the third party supplier, provided that Enron shall have no liability
+for any failure of such third party supplier to deliver the product
+pursuant to the terms negotiated with such third party supplier.
+
+		2.3.8	Purchase Period: HSI shall complete the purchase of
+the Commodity on the day of its choosing during the 120 day period
+which begins on the First Availability Date.
+
+		2.3.9	Purchase Price.  Determined in accordance with
+Section 2.4.
+
+	2.4	Purchase Price on Mill Specific Purchases.  The Purchase
+Price on each Mill Specific Purchase shall be equal to the product of
+(i) the Adjusted Index Price plus the Cost of Carry and the Price
+Differential and (ii) the Contract Quantity.
+
+		2.4.1	 The "Adjusted Index Price" and "Cost of Carry" shall
+have the meanings set forth in Section 1.3.
+
+		2.4.2	The "Price Differential" means the amount (if any) by
+which the price per Ton that Enron is required to pay the third party
+supplier for such Commodity is greater than the Trade Date Adjusted
+Index Price.  The "Trade Date Adjusted Index Price" is  (a) PMAG next
+published after the Trade Date, plus (b) the applicable Extras
+Adjustment for such Commodity determined in accordance with the Extras
+Adjustment Schedule attached as Schedule I, plus (c) the Location
+Adjustment for such Product determined in accordance with the Location
+Adjustment Schedule attached as Schedule I.
+
+	2.5	HSI Negotiated Purchases.  Subject to the Combined Purchase
+Limit (described in Section 2.9) and the other terms of this Agreement,
+HSI may negotiate the terms of a Commodity purchase with a steel mill
+(an "HSI Negotiated Purchase") and Enron shall purchase such Commodity
+from the designated mill in accordance with the terms HSI negotiated.
+Contemporaneously with any such HSI Negotiated Purchase, HSI and Enron
+shall enter into a Transaction whereby HSI agrees to purchase such
+Commodity from Enron, which Transaction shall be completed pursuant to
+the provisions of Section 1.4 and shall contain the following terms:
+
+		2.5.1	Trade Date:  The date Enron enters into a purchase
+agreement with a steel mill to purchase Commodity pursuant to its
+obligations under this Section 2.5.
+
+		2.5.2	Seller:  Enron.
+
+		2.5.3	Buyer:  HSI.
+
+		2.5.4	Commodity:  The Commodity purchased under the
+Transaction.
+
+		2.5.5	Delivery Point: A specified HSI Facility.
+
+		2.5.6	Contract Quantity:  Specified volumes.
+
+		2.5.7	Delivery Period: The Delivery Period HSI negotiated
+with the mill, provided that Enron shall have no liability for any
+failure of the mill to deliver the product pursuant to the terms
+negotiated by HSI with the mill.
+
+		2.5.8	Purchase Period: HSI shall complete the purchase of
+the Commodity on the day of its choosing during the 120 day period
+which begins on the First Availability Date.
+
+		2.5.9	Purchase Price.  Determined in accordance with
+Section 2.6.
+
+	2.6	Purchase Price for HSI Negotiated Purchases.  The Purchase
+Price for each HSI Negotiated Purchase shall be equal to the product of
+(i) the HSI Index Price plus the Cost of Carry and (ii) the Contract
+Quantity.
+
+		2.6.1	The "HSI Index Price" shall be the Adjusted Index
+Price plus the HSI Price Differential if the HSI Negotiated Price is
+greater than the Trade Dated Adjusted Index Price, but it shall be the
+Adjusted Index Price minus the HSI Price Differential if the HSI
+Negotiated Price is less than the Trade Date Adjusted Index Price.
+
+		2.6.2	The "HSI Price Differential" means the absolute value
+of the difference between the price per Ton that Enron is required to
+pay the third party supplier for such Commodity (the "HSI Negotiated
+Price"), and the Trade Date Adjusted Index Price.  The "Trade Date
+Adjusted Index Price" is  (a) PMAG next published after the Trade Date,
+plus (b) the applicable Extras Adjustment for such Commodity determined
+in accordance with the Extras Adjustment Schedule attached as Schedule
+I, plus (c) the Location Adjustment for such Product determined in
+accordance with the Location Adjustment Schedule attached as Schedule
+I.
+
+		2.6.3	 The "Adjusted Index Price" and "Cost of Carry" shall
+have the meanings set forth in Section 1.3.
+
+	2.7	HSI Purchases of Non-Commodity Steel Products. HSI may
+request that Enron purchase Non-Commodity steel products in connection
+with Commodity purchases Enron is making and such request shall include
+volumes, specifications, delivery point, delivery period, and all other
+information requested by Enron in connection with such Non-Commodity
+request.  Enron shall provide HSI with a copy of the terms pursuant to
+which the mill is willing to supply such steel products.  Subject to
+the Combined Purchase Limit (described in Section 2.9) and the other
+terms of this Agreement, if HSI agrees to the mill's terms Enron shall
+purchase such Non-Commodity steel products in accordance with the
+mill's terms (a "Non-Commodity Purchase").  Contemporaneously with any
+such Non-Commodity Purchase, HSI and Enron shall enter into a
+transaction whereby Enron shall agree to sell such steel products to
+HSI and such transaction shall be governed by the terms of and
+otherwise treated as though it is a Transaction under the Master
+Agreement.  All transactions under this Section 2.7 shall be completed
+pursuant to the provisions of Section 1.4 and shall contain the
+following terms:
+
+		2.7.1	Trade Date:  The date Enron enters into a purchase
+agreement with a steel mill to purchase the steel products pursuant to
+its obligations under this Section 2.7.
+
+		2.7.2	Seller:  Enron.
+
+		2.7.3	Buyer:  HSI.
+
+		2.7.4	Product(s):  The Non-Commodity steel products the
+mill has agreed to provide.
+
+		2.7.5	Delivery Point: A specified HSI Facility.
+
+		2.7.6	Contract Quantity:  Specified volumes.
+
+		2.7.7	Delivery Period: The Delivery Period specified by the
+mill, provided that Enron shall have no liability for any failure of
+the mill to deliver the product pursuant to the terms specified by the
+mill.
+
+		2.7.8	Purchase Period: HSI shall complete the purchase of
+the Contract Quantity on the day of its choosing during the period
+which begins on the First Availability Date and ends on the date (3)
+Business Days prior to the date Enron is obligated to pay the mill for
+such steel products.
+
+		2.7.9	Purchase Price.  Determined in accordance with
+Section 2.8.
+
+	2.8	Purchase Price on Non-Commodity Purchases.  The Purchase
+Price on each Non-Commodity Purchase shall be equal to the total of the
+actual purchase price payable for such Non-Commodity Purchase plus all
+other direct costs and expenses incurred by Enron in connection with
+the acquisition and delivery of the steel products to be delivered to
+HSI including without limitation all transportation costs.
+
+	2.9	Combined Purchase Limit.  HSI shall not, in any calendar
+quarter, enter into Mill Specific Purchases (as such term is defined in
+Section 2.3), HSI Negotiated Purchases (as such term is defined in
+Section 2.5) and Non-Commodity Purchases (as such term is defined in
+Section 2.7), that collectively are for a greater number of Tons than
+the number of Tons equal to 20% of the Tons of Commodity that were
+purchased by HSI pursuant to the Transactions completed under this
+Agreement in the previous calendar quarter (the "Combined Purchase
+Limit").
+
+	2.10	Enron's Option.  If Commodity is delivered to HSI at an HSI
+Facility from any party other than Enron, then Enron may at its option
+purchase such Commodity for a price equal to (a) the most recently
+published PMAG as of the date Enron makes such purchase, plus (b) the
+applicable Extras Adjustment for such Commodity determined in
+accordance with the Extras Adjustment Schedule attached as Schedule I,
+plus (c) the Location Adjustment for such Product determined in
+accordance with the Location Adjustment Schedule attached as Schedule
+I.  Concurrently with any such purchase, HSI shall enter into a
+Transaction to purchase a like type and volume of Commodity from Enron
+pursuant to a Transaction that shall have the terms set forth in
+Section 1.2 and which shall be completed pursuant to the provisions of
+Section 1.4.
+
+	3.	Forecasting.  HSI shall provide Enron with annual and
+monthly forecasts of its Commodity requirements by type, volume,
+location, and anticipated delivery dates and such forecasts shall note
+any specific mill requirements and seasonal factors.  HSI will deliver
+an annual forecast on the date of this Agreement and on each December
+15th hereafter that includes a month by month forecast for the
+following twelve (12) month period.  HSI will deliver a four (4) month
+rolling forecast, on the last Monday of each month that shall include a
+month-by-month forecast for the following four (4) months.  The monthly
+forecasts in each rolling forecast shall comply with the following
+accuracy standards: (i) the forecast for the month immediately
+following delivery of such rolling Forecast shall designate as
+accurately as possible the types, volumes, locations and anticipated
+delivery dates that HSI expects to take Commodity in such month, (ii)
+the forecast for the second month following delivery of such rolling
+forecast shall designate as accurately as possible the types, volumes,
+locations and anticipated delivery dates that HSI is reasonably certain
+to take Commodity in such month, (iii) the forecast for the third and
+fourth month following delivery of such rolling forecast shall
+designate HSI's best estimate of the types, volumes, locations and
+anticipated delivery dates for Commodity in such months.
+
+	4.	Covenants.
+
+	4.1	Term.	The term of this Agreement ("Term") shall begin on
+the Commencement Date, however, the provisions of the Inventory
+Management Agreement for Phase I shall govern all Transactions between
+the Parties until Phase II commences as provided for in the Inventory
+Management Agreement for Phase I.  On the date Phase II commences and
+thereafter all new Transactions shall be completed in accordance with
+the terms of this Agreement, however, all Put Options and Call Options
+and the obligations related thereto that are in existence as of the
+commencement of Phase II shall continue to be governed by the Inventory
+Management Agreement for Phase I.  The purchasing obligations set out
+in Sections 1 and 2 hereof shall terminate on June 30, 2016.
+Notwithstanding the foregoing, this Agreement shall terminate
+immediately upon the termination of the Warehouse Agreement.
+
+	4.2	Exclusivity. All of HSI's Commodity purchases from Enron
+shall be made  pursuant to the terms of this Agreement and the Master
+Agreement.  Neither HSI nor any of its Affiliates shall purchase
+Commodity from any third party during the term of this Agreement except
+for (i) purchases from third party mills that are permitted by Section
+1.6.2 because Enron has elected not to supply such Commodity pursuant
+to Enron's rights as set forth in Section 1.6.1 and (ii) purchases from
+third parties that are made following Enron giving notice to HSI that
+it is unable to supply Commodity that has been appropriately requested
+by HSI pursuant to Section 2.1.
+
+	4.3	[Intentionally deleted].
+
+	4.4	Processing.  HSI shall only process Commodity that (a) is in
+its current inventory as of the date of this Agreement, (b) has already
+been ordered from a third party supplier as of the date of this
+Agreement, (c) is purchased in accordance with the terms of this
+Agreement, or (d) is owned by a third party and is being processed
+pursuant to a customer tolling agreement.
+
+	4.5	Adjustments to Index Price and PMAG.
+
+		4.5.1	 Commencing with the first six month period that
+begins on December 31st or June 30th after the commencement of Phase II
+and on each December 31st or June 30th thereafter, each Party shall have
+the right to request one adjustment to the method of determining the
+Adjusted Index Price if such Party believes that the components of the
+Adjusted Index Price for any Delivery Point fail in any material
+respect to accurately reflect the market price for such Commodity (the
+"Market Amount") assuming a purchaser similar to HSI as to volumes
+purchased, location of deliveries, creditworthiness and otherwise in
+the position of HSI.  If the Parties agree upon the adjustment, then
+Enron shall adjust the components to the Adjusted Index Price, as
+reasonably determined by the Parties, to cause the Adjusted Index Price
+in future periods to materially correspond with the expected Market
+Amount for the Commodity for such periods, such adjustment to be
+evidenced by an amendment to Schedule I prepared by Enron.  If the
+Parties are unable to agree as to whether the components of the
+Adjusted Index Price accurately reflect the Market Amount or if HSI
+does not agree to Enron's proposed adjustments, either Party may
+promptly notify the other in writing of such disagreement, setting
+forth in reasonable detail the basis therefor.  Enron and HSI shall
+cooperate in good faith to resolve such disagreement within 10 Business
+Days of such notification.  If Enron and HSI are unable to resolve the
+disagreement within such period, either Party may institute dispute
+resolution proceedings in accordance with Section 7 of the Master
+Agreement.  Until resolution of such dispute, the Adjusted Index Price
+in effect prior to the disputed determination or adjustment shall
+remain in effect.  Upon resolution of the dispute, the resulting
+determination or adjustment shall become effective for the Commodity,
+retroactive to the date of the delivery of a notice of a request for
+adjustment.  The difference with respect to such revised Adjusted Index
+Price for the period of the dispute shall be paid by the owing Party
+within 10 days of the final determination.
+
+		4.5.2	In the event that PMAG ceases to be published or is
+otherwise no longer available, then Enron shall use a substitute index
+in place of PMAG that is publicly available and is based on
+substantially the same market information that PMAG was based on. If
+there is no suitable publicly available substitute index then Enron and
+HSI shall construct a formula that generates a replacement index and is
+based on substantially the same market information that PMAG was based
+on.  Any substitute index that is implemented pursuant to this Section
+4.5.2 shall be used for all purposes of this Agreement in the same
+manner which PMAG was previously used in this Agreement and shall be
+subject to subsequent adjustment as provided in Section 4.5.
+
+	4.6	Taxes.  HSI will be responsible for payment of all taxes in
+connection with the purchases and sales of commodity contemplated by
+this Agreement and the other Transaction Documents except for Enron's
+income taxes.
+
+	4.7	Sales.  HSI shall not sell an amount of unprocessed
+Commodity in any month that is greater than twenty percent (20%),
+measured in Tons, of all Commodity that HSI sells in such month,
+provided, that cold roll steel products shall be excluded from all
+calculations with respect to this Section 4.7.
+
+	5.	Records and Audits.	HSI will maintain accurate and
+complete records with respect to the Commodity purchased and sold
+during the term of this Agreement.  HSI shall send to Enron in Houston
+via email (or other mutually acceptable format) daily reports detailing
+the Enron Commodity at each HSI Facility in form and substance
+reasonably satisfactory to Enron.  HSI shall permit Enron's employees,
+representatives, agents and authorized designees to examine and verify
+HSI's records with respect to any Commodity subject to the terms of the
+Master Agreement and to inspect any Commodity in the possession or
+under the control of HSI, wherever located.  Except during an emergency
+or following an Event of Default, all such inspections shall be
+conducted during normal business hours.  Without limiting the
+generality of the foregoing, Enron shall have the right (but not the
+obligation) to have its employees, representatives, agents or
+authorized designees present at the HSI Facilities or at any of HSI's
+offices or other facilities (a) to audit HSI's record-keeping with
+respect to the Commodity, (b) to ensure proper identification, tracking
+and storage of the Commodity or (c) for such other purposes as Enron
+shall determine in its sole discretion; provided, however, that Enron
+shall not incur, whether by the performance or non-performance of such
+undertakings, any liability on account thereof.
+
+	6.	Security Interests.
+
+	6.1	True Sale. The Parties intend that the sale and purchase of
+Commodity or other steel products pursuant to this Agreement, the
+Master Agreement and each Confirmation issued thereunder shall be
+treated as a true sale.  If the sale arrangements provided for
+hereunder are ever deemed to be a financing and not a true sale, the
+Parties agree that all Commodity and steel products that by the terms
+of this Agreement are owned by Enron but which are determined because
+of a recharacterization or otherwise to be owned or deemed to be owned
+by HSI (the "Enron Inventory Collateral") shall be subject to the lien
+and security interest granted in favor of Enron pursuant to Section 6.2
+below.
+
+	6.2	Security Agreement.  As security for the payment of the
+obligations of HSI hereunder and under the other Transaction Documents,
+together with any increases, extensions, and rearrangements of such
+obligations under any amendments, supplements, and other modifications
+thereof, HSI hereby grants to Enron a first priority security interest
+in all of HSI's present and future right, title, and interest in and to
+the following collateral:  (i) any Enron Inventory Collateral in
+transit to or stored at any HSI Facility, (ii) all payments under any
+insurance, indemnity, warranty, or guaranty of or for any Enron
+Inventory Collateral, and (iii) all books and records of HSI relating
+to the foregoing including mill certifications.  HSI shall execute,
+deliver, and file such financing statements as are necessary to perfect
+the foregoing interest.  HSI hereby represents and warrants that there
+is no other security interest in any of the above described collateral
+and HSI shall not grant or permit to exist any other security interest
+in any of such collateral.
+
+	6.3	Foreclosure on Collateral.  Upon the occurrence of any Event
+of Default by HSI under any of the Transaction Documents, Enron may
+exercise all the rights and remedies of a secured Party under the
+Uniform Commercial Code ("UCC") as in effect in the State of Texas
+whether or not the affected collateral is located in Texas.  Enron may
+sell any collateral at one or more public or private sales, at the
+office of Enron or elsewhere, for cash or credit and upon such other
+terms as Enron deems commercially reasonable.  Enron may bid at any
+such sale.  HSI agrees that to the extent permitted by law such sales
+may be made without notice.  If notice is required by law, HSI hereby
+deems ten days advance notice of the time and place of any public or
+private sale reasonable notification, recognizing that if the
+collateral threatens to decline speedily in value or is of a type
+customarily sold on a recognized market, shorter notice may be
+reasonable.  Enron shall not be obligated to make any sale of
+collateral regardless of notice of sale having been given.  Enron may
+adjourn any sale by announcement at the time and place fixed therefor,
+and such sale may, without further notice, be made at the time and
+place to which it was adjourned.  In the event that any sale hereunder
+is not completed or is defective in the opinion of Enron, Enron shall
+have the right to cause subsequent sales to be made hereunder.  The
+remedies described in this Section 6.3 shall be cumulative with all
+other remedies of Enron hereunder or under any other Transaction
+Document and no delay in enforcing the foregoing shall act as a waiver
+of Enron's rights hereunder or thereunder.
+
+	7.	Storage.	Contemporaneously with the execution of this
+Agreement, the Parties have entered into a Warehouse Agreement under
+which HSI shall provide storage, warehouse, and related services to
+Enron at each of HSI's Facilities, all as more fully provided for in
+the Warehouse Agreement.
+
+	8.	Events of Default.
+
+	8.1	An event of default ("Event of Default") with respect to a
+Party (the "Defaulting Party") shall mean any of the following:
+
+		8.1.1	the failure of Defaulting Party to pay when due any
+required payment under this Agreement and such failure is not remedied
+within three (3) Business Days after written notice thereof;
+
+		8.1.2	the failure of the Defaulting Party to perform or
+otherwise comply with Section 4.2, 4.3, 4.4 or any material provision
+of this Agreement to be performed by it, which failure remains uncured
+for more than thirty (30) days after written notice thereof;
+
+		8.1.3	any representation or warranty made or deemed made by
+the Defaulting Party herein or in any written statement or certificate
+at any time given by any such Party pursuant to this Agreement shall be
+false or misleading in any material respect on the date as of which
+made or deemed made;
+
+		8.1.4	the occurrence of either (a) six (6) Delivery
+Failures (defined below) in any calendar year or (b) three (3) Delivery
+Failures in any two consecutive calendar quarters.  A "Delivery
+Failure" shall occur when all of the following take place with respect
+to a Transaction entered into under this Agreement: (a) HSI gives a
+proper Notice of Purchase Date and is otherwise entitled to complete
+such purchase, (b) such Notice of Purchase Date is given in connection
+with a bona fide customer order for Commodity, (c) Enron does not
+deliver the requested Tons of Commodity to HSI because Enron has sold
+them to a third party, (d) HSI is entitled to a payment from Enron
+under Section 6.3 of the Master Agreement for Enron's non-delivery, (e)
+following Enron's failure to deliver, HSI provides Enron with a notice
+stating that it needs delivery of the Commodity within 48 hours to fill
+a bona fide customer order (together with documents confirming same)
+and (f) Enron fails to deliver such Commodity to HSI within 48 hours of
+receiving the notice described in (e) above; or
+
+		8.1.5	the occurrence as to such Party of any event of
+default under any other Transaction Document.
+
+	9.	Remedies.  Upon the occurrence and during the continuance
+of an Event of Default, the non-defaulting Party shall have all of the
+rights and remedies provided for in the Master Agreement and all
+remedies afforded by law or at equity, which remedies shall be
+cumulative.
+
+	10.	Warranty Claims Handling.
+
+	10.1	HSI shall be responsible for examining all Commodity that is
+delivered to an HSI Facility.
+
+	10.2	With respect to steel products that Enron conveys to HSI
+under the provisions of this Agreement (other than conveyances under
+Sections 2.1, 2.3, 2.5 and 2.7), Enron warrants to HSI that such steel
+products shall conform to the specifications set forth in the applicable
+Transaction; provided, however, (i) HSI will be responsible for
+inspecting all incoming steel products as specified in Section 10.1 and
+as described in the Warehouse Agreement, and shall cooperate with Enron
+to reject nonconforming or defective steel products, and shall provide,
+perform and deliver all related notices, unloading, handling, and
+services with respect to steel products within the time period allowed
+for inspection and rejection of goods by the mill that provides such
+steel products; and (ii) such warranty shall not apply to any defects
+that could have been discovered in connection with the delivery of the
+Commodity to the HSI Facility.  Notwithstanding HSI's obligation to
+inspect Commodity upon receipt at an HSI Facility, HSI shall continue
+to maintain its rights and privileges to warranty claims for Commodity
+defects until such defects are discoverable.  In the event that it is
+determined that Enron has any warranty obligations with respect to any
+steel products, then at Enron's option replacement of the defective
+steel products or refund or reduction of the purchase price therefor
+shall be the sole and exclusive remedy for any claim by HSI related
+thereto.
+
+	10.3	With respect to Commodity and Non-Commodity products that
+Enron conveys to HSI pursuant to Sections 2.1, 2.3, 2.5 or 2.7 Enron
+hereby assigns to HSI all warranties received by Enron under the
+purchase arrangements for such Commodity.  Pursuit of rights under such
+warranties shall be the sole and exclusive remedy of HSI with respect to
+any Commodity or Non-Commodity products that fail to meet the
+specifications for which HSI has contracted or which is otherwise
+defective.  Enron makes no warranties with respect to Commodity or Non-
+Commodity products which Enron conveys to HSI pursuant to Sections 2.1,
+2.3, 2.5 or 2.7 of this Agreement and all warranties with respect
+thereto are hereby expressly disclaimed.
+
+	10.4	The Parties shall each cooperate with the other in pursuing
+any warranty claims arising hereunder or arising in connection with the
+purchase of Commodity or Non-Commodity products from third parties.
+
+	10.5	THE FOREGOING WARRANTIES ARE EXCLUSIVE, AND ARE IN LIEU OF
+ALL OTHER WARRANTIES (WHETHER WRITTEN OR ORAL, EXPRESS OR IMPLIED),
+INCLUDING, WITHOUT LIMITATION, ANY WARRANTY OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, DESCRIPTION, QUALITY, OR ANY OTHER MATTER WITH
+RESPECT TO ALL COMMODITY TO WHICH THIS AGREEMENT OR THE MASTER AGREEMENT
+RELATE.
+
+	11.	LIMITATION OF LIABILITY.	EACH PARTY'S LIABILITY TO THE
+OTHER PARTY FOR BREACH HEREOF OR DEFAULT HEREUNDER SHALL BE LIMITED TO
+DIRECT ACTUAL DAMAGES ONLY, SUCH DIRECT ACTUAL DAMAGES SHALL BE THE
+SOLE AND EXCLUSIVE REMEDY, AND ALL OTHER REMEDIES OR DAMAGES AT LAW OR
+IN EQUITY ARE WAIVED.  IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE
+OTHER PARTY UNDER ANY PROVISION OF THIS AGREEMENT OR ANY OTHER
+TRANSACTION DOCUMENT, TRANSACTION OR CONFIRMATION FOR CONSEQUENTIAL,
+INCIDENTAL, PUNITIVE, EXEMPLARY OR INDIRECT DAMAGES, LOST PROFITS, OR
+BUSINESS INTERRUPTION DAMAGES, WHETHER BY STATUTE, IN TORT, IN
+CONTRACT, UNDER ANY INDEMNITY PROVISION OR OTHERWISE.  THIS SECTION 11
+SHALL SURVIVE THE EXPIRATION OR TERMINATION OF THIS AGREEMENT AND ALL
+TRANSACTIONS CONTEMPLATED HEREBY.
+
+	12.	Miscellaneous.
+
+	12.1	Miscellaneous.  All of the provisions set forth in Section 8
+of the Master Agreement are incorporated by reference herein and shall
+apply to this Agreement as though each reference to the Master
+Agreement in such Section was a reference to this Agreement.
+
+	12.2	Designated Representatives. As set forth on Exhibit A
+hereto, each Party shall designate two representatives who shall serve
+as the primary and secondary contacts of such Party for all operational
+aspects contemplated by this Agreement and the other Transaction
+Documents including, but not limited to, forecasts, purchases and
+record reporting. The names of a Party's designated representatives may
+be changed at any time by either Party by giving prior written notice
+to the other.
+
+	12.3	Payments.  Unless otherwise specified by the receiving
+Party, all amounts to be paid hereunder or under the Master Agreement
+shall be paid by wire transfer into the account specified from time to
+time by the receiving party.
+
+	12.4 	Financing Arrangements.  Enron may pledge, encumber,
+assign, sell or otherwise transfer Commodity or other steel products or
+any rights thereto to a third party in connection with Enron's
+borrowing and / or financing activities regardless of whether such
+Commodity or other steel products are subject to a Call Option or other
+Transaction under the Master Agreement. If the Commodity or other steel
+products subject to such pledge, encumbrance, assignment, sale or other
+transfer are not removed from the HSI Facility where they are located
+(because of or in connection with such transaction) then, Enron shall
+not be obligated to pay any Cost of Carry Rebate with respect to such
+Commodity or other steel products because of such pledge, encumbrance,
+assignment, sale, or other transfer or the transactions related
+thereto, and for purposes of the Warehouse Agreement and all other
+Transaction Documents such Commodity or other steel products shall be
+treated the same as all other Enron Inventory Collateral that is not
+subject to such a financing transaction.
+
+This Agreement is subject to the terms of that certain Post Closing
+Agreement of even date herewith entered into by and among the Parties
+and certain other signatories provided for therein.  The Post Closing
+Agreement provides for the satisfaction of certain specified
+requirements ("Post Closing Items") more fully described therein.  THIS
+WRITTEN AGREEMENT, THE TRANSACTION DOCUMENTS AND THE POST CLOSING
+AGREEMENT REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES WITH RESPECT
+TO THE SUBJECT MATTER HEREOF AND MAY NOT BE CONTRADICTED BY EVIDENCE OF
+PRIOR, CONTEMPORANEOUS, OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES.
+THERE ARE NO UNWRITTEN ORAL AGREEMENTS AMONG THE PARTIES.
+
+
+
+
+	IN WITNESS WHEREOF, the Parties hereto have caused this Agreement
+to be executed by a duly authorized representative as of the day and
+year first above written.
+
+
+
+					ENRON NORTH AMERICA CORP.
+
+
+					By:	_______________________________
+					Name:	_______________________________
+					Title:_______________________________
+
+
+					HUNTCO STEEL, INC.
+
+
+					By:	_______________________________
+					Name:	_______________________________
+					Title:_______________________________
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

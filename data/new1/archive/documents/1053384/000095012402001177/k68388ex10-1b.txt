@@ -1,0 +1,270 @@
+<DOCUMENT>
+<TYPE>EX-10.1(B)
+<SEQUENCE>4
+<FILENAME>k68388ex10-1b.txt
+<DESCRIPTION>2ND AMENDMENT TO SALES, MARKETING & DISTRIBUTION
+<TEXT>
+<PAGE>
+                                                                 EXHIBIT 10.1(b)
+
+
+
+                               SECOND AMENDMENT TO
+                   SALES, MARKETING AND DISTRIBUTION AGREEMENT
+
+
+         THIS SECOND AMENDMENT TO SALES, MARKETING AND DISTRIBUTION AGREEMENT
+(the "Second Amendment") is made and entered into as of January 1, 2002 (the
+"Effective Date"), by and between GENOMIC SOLUTIONS INC., a Delaware corporation
+("GSI") and PERKINELMER LIFE SCIENCES, INC., a Delaware corporation and its
+Affiliates ("PKI"). "Affiliates" of PKI shall mean any person, corporation or
+other business entity controlled, controlled by or under common control with
+PKI, with "control" meaning a fifty percent (50%) or greater ownership interest.
+
+The following facts underlie this Agreement:
+
+         Pursuant to a certain Sales, Marketing and Distribution Agreement dated
+         December 14, 1999 (the "Original Agreement"), as amended by a First
+         Amendment to Sales, Marketing and Distribution Agreement dated April
+         18, 2001 (the "First Amendment"), Genomic Solutions Inc. appointed
+         PerkinElmer, Inc. as its representative to promote, market and
+         distribute its products. The parties desire to further amend the
+         Original Agreement and the First Amendment, pursuant to the terms and
+         conditions of this Second Amendment.
+
+         NOW THEREFORE, for and in consideration of the mutual covenants and
+undertakings set forth herein, the parties hereby further amend the Original
+Agreement and the First Amendment as follows:
+
+1.       DEFINITIONS. All capitalized terms defined in the Original Agreement,
+         as amended by the First Amendment, shall have the meanings set forth in
+         such agreements. In addition, the Original Agreement and First
+         Amendment are further amended to add the following new defined term:
+
+                  "INVESTIGATOR PRODUCTS" means GSI's Investigator(TM) 2D gel
+                  hardware (consisting of gel rigs, casting rigs, power supplies
+                  and chillers) and related consumables, including Duracryl(R).
+
+2.       GSI DISTRIBUTOR APPOINTMENTS. Exhibit A of the First Amendment is
+         superceded and replaced in its entirety by Exhibit A, attached hereto.
+         Exhibit B-1 of the First Amendment is deleted in its entirety. In
+         addition, Section 3(a) -- 3(d) of the Original Agreement and Sections
+         3(b) and 3(c) of the First Amendment are superceded and replaced in
+         their entirety as follows:
+
+         (a)      Non-Exclusive Rights and Responsibilities of PKI. Effective as
+                  of the date of this Agreement, PKI shall have the
+                  non-exclusive right and responsibility to engage in sales,
+                  marketing, distribution and field service activities:
+
+                  (i)      with respect to GSI Products (other than those
+                           covered by (ii) and (iii) below), in any market or
+                           geographical area other than Core Markets, provided,
+                           that PKI shall have the right to distribute products
+                           of GSI's Cartesian Technologies subsidiary outside of
+                           Core Markets as provided in Exhibit B attached;
+
+<PAGE>
+
+                  (ii)     with respect to GeneMAP DNA Microarrays, Investigator
+                           Products, and the HybStation currently marketed by
+                           GSI in any market or geographical area of the world;
+                           and
+
+                  (iii)    with respect to the G3Library Management System
+                           currently marketed by GSI, in any market or
+                           geographical area of the world other than Japan.
+
+3.       ADDITIONAL AMENDMENTS
+
+         (a)      The first sentence of Section 5(e) of the First Amendment is
+                  amended to delete the words "and Proteomic Services".
+
+         (b)      Section 6(a) of the First Amendment is amended and superceded
+                  in its entirety to read as follows:
+
+                           PKI shall have the non-exclusive right and
+                           responsibility to engage in sales, marketing,
+                           distribution and field service activities with
+                           respect to GeneMAP DNA Microarrays throughout the
+                           world. PKI shall be permitted to purchase GeneMAP DNA
+                           Microarrays in bulk, with minimum purchases of ten
+                           arrays for each array type, and to repackage or sell
+                           such bulk purchased arrays on a private label basis
+                           under such name as PKI shall elect, provided, that
+                           PKI shall be responsible for providing all support
+                           for such repackaged or private labeled arrays.
+
+         (c)      Section 6(b) of the Original Agreement and Section 7 of the
+                  First Amendment are deleted in their entirety.
+
+         (d)      Section 8(b) of the First Amendment is amended to delete the
+                  fourth and fifth sentences and to add the following:
+
+                           All orders shall be bona fide, non-cancelable and
+                           properly addressed, except that PKI reserves the
+                           right to cancel in writing any purchase order not
+                           shipped by GSI within 60 days of order receipt. GSI
+                           may ship product upon receipt of any order to the
+                           designated address, provided, that up to 10% of PKI's
+                           purchase orders may specify a ship date within the
+                           same fiscal quarter as the purchase order date and
+                           GSI shall ship the product on such designated ship
+                           date.
+
+4.       EFFECT OF AMENDMENT. Except as provided in this Second Amendment, all
+         other terms of the Original Agreement and First Amendment shall remain
+         in full force and effect without modification.
+
+
+
+                         [signatures on following page]
+
+
+
+                                       2
+
+<PAGE>
+
+         IN WITNESS WHEREOF, the undersigned have executed and delivered this
+Second Amendment to Sales, Marketing and Distribution Agreement as of the date
+and year first above written.
+
+                               GENOMIC SOLUTIONS INC.
+
+                               By:      /s/ Jeffrey S. Williams
+                                        --------------------------------------
+
+                               Its:     President and Chief Executive Officer
+
+                               PERKINELMER LIFE SCIENCES, INC.
+
+                               By:      Petri Myllyneva
+                                        --------------------------------------
+
+                               Its:     Senior Vice President
+                                        --------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       3
+
+<PAGE>
+                                    EXHIBIT A
+
+
+<TABLE>
+<CAPTION>
+-----------------------------------------------------------------
+                                                     2002 PRICES
+GSNL PRODUCT                                         PKI TRANSFER
+-----------------------------------------------------------------
+<S>                                                  <C>
+ G3 Picking                                           $      ***
+ G3 32 pin                                            $      ***
+ G3 48 Pin                                            $      ***
+ G3 Librarian                                         $      ***
+ Hybridization Station                                $      ***
+ UC-4                                                 $      ***
+ GeneTAC LS-IV  2c                                    $      ***
+ GeneTAC LS-IV 4c                                     $      ***
+ Integtrator s/w                                      $      ***
+ 4-day Biochip Training Course                        $      ***
+ 2-day Biochip Training Course
+
+   Investigator 2-D                                   $      ***
+   ProPic*                                            $      ***
+   ProGest                                            $      ***
+   ProMS                                              $      ***
+   ProPrep - four plate                               $      ***
+   Protein Warehouse                                  $      ***
+ 3-day Proteomics Training Course                     $      ***
+ 1-day Proteomics Training Course                     $      ***
+</TABLE>
+
+Genemap Microarrays: ***% discount off U.S. list price
+
+All other reagents and consumables: ***% discount off list price
+
+All other GSI products not detailed above (e.g., upgrade kits, etc.) shall
+remain at the current 2001 prices.
+
+
+***Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested for the omitted
+portion.
+
+
+
+
+
+
+                                       4
+
+<PAGE>
+                                    EXHIBIT B
+
+
+
+The following is a list of countries where Genomic Solutions subsidiary,
+Cartesian Technologies, Inc., has current exclusive distribution relationships.
+Any extension or renewal of such relationships will be subject to PerkinElmer's
+right to engage in distribution of Cartesian products in such countries on a
+non-exclusive basis. In addition, in the event that Genomic Solutions terminates
+any distributors in such countries prior to expiration of existing agreements
+for non-performance, PerkinElmer shall be permitted to distribute Cartesian
+products in such countries on a non-exclusive basis.
+
+DISTRIBUTOR COUNTRY                                  TERMINATION DATE
+-------------------                                  ----------------
+
+Singapore                                            9/29/02
+
+Malaysia                                             9/29/02
+
+Thailand                                             10/10/02
+
+China                                                12/31/03*
+
+Taiwan                                               12/31/03*
+
+Korea                                                12/31/03*
+
+Denmark                                              12/31/02
+
+Sweden                                               12/31/02
+
+Finland                                              12/31/02
+
+Norway                                               12/31/02
+
+Netherlands                                          12/31/02
+
+Belgium                                              12/31/02
+
+Germany                                              12/31/02
+
+*Termination dates agreed to based on recent negotiations with documentation in
+process
+
+
+
+                                       5
+
+</TEXT>
+</DOCUMENT>

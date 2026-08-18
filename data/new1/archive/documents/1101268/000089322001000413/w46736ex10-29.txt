@@ -1,0 +1,160 @@
+<DOCUMENT>
+<TYPE>EX-10.29
+<SEQUENCE>10
+<FILENAME>w46736ex10-29.txt
+<DESCRIPTION>AMENDING AGREEMENT TO SIERRA SUPPLY AGREEMENT
+<TEXT>
+
+<PAGE>   1
+                                                                   EXHIBIT 10.29
+
+
+  Confidential  Materials omitted and filed separately with the Securities and
+                Exchange Commission. Asterisks denote omissions.
+
+
+                         AMENDING AGREEMENT NO. 1 TO THE
+                                SUPPLY AGREEMENT
+                          DATED AS OF NOVEMBER 28, 2000
+                                     BETWEEN
+                           SIERRA WIRELESS DATA, INC.
+                                       AND
+                                 GOAMERICA, INC.
+
+This Amending Agreement is made as of December 29, 2000, by and between Sierra
+Wireless Data, Inc. ("SWD"), a Delaware Corporation and GoAmerica, Inc. ("GOA"),
+a Delaware Corporation.
+
+WHEREAS, SWD and GOA entered into a Supply Agreement dated as of November 28,
+2000 and it has been determined that it is in the best interests of the parties
+to such agreement to amend the same in accordance with the terms and conditions
+herein.
+
+NOW THEREFORE, in consideration of the mutual promises set forth herein and for
+other good and valuable consideration (the receipt and sufficiency of which is
+hereby acknowledged) the parties hereby agree as follows:
+
+1.   Confirmation of Supply Agreement. Other than as expressly amended by the
+terms of this Amending Agreement, the Supply Agreement is hereby confirmed
+and remains in full force and effect in accordance of its terms.
+
+2.   Interpretation/General. The interpretation provisions set out in sections
+1.1 to 1.7 inclusive of the supply Agreement and the general provisions set out
+in sections 17.1 to 17.10 inclusive of the Supply Agreement shall be
+incorporated by reference into this Amending Agreement.
+
+3.   Amendments. The Supply Agreement is amended as follows (with all section
+references being to sections in the Supply Agreement):
+
+     (a)  The definition of Products in section 1.1(n) is deleted and replaced
+          with the following:
+
+          "(n) "Products" means the Springboard Products, the PC Cards and the
+          Sierra Sled for Sony Clie (the first release of Boa) described in
+          Section 3.7;"
+
+4.   Additions. The following provisions are added to the Supply Agreement:
+
+<PAGE>   2
+  Confidential Materials omitted and filed separately with the Securities and
+                Exchange Commission. Asterisks denote omissions.
+
+
+(a)  "3.7. PURCHASES OF SIERRA SLED FOR SONY CLIE. In addition to the GOA
+     commitments described in sections 3.2 to 3.4 inclusive, GOA hereby agrees
+     to purchase and will issue a purchase order for, and SWD agrees to sell to
+     GOA, [**] units of the Sierra Sled for Sony Clie (the first release of
+     Boa operable on the CDPD or Ricochet networks, at a per unit price of
+     US$[**] FOB Shipping Point, on a firm and non-cancelable basis. Such units
+     shall be co-branded, and shall carry the GOA trademark name and may carry
+     such other GOA logo as is expressly agreed to by SWD, in its sole
+     discretion, with the exception that the SWD PC Card Products in the Sierra
+     Sled for Sony Clie will be SWD branded only. The GOA indemnity set out in
+     section 2.3 shall apply, mutatis mutandis, to the use of such trademarks as
+     described in this section. The CD provided with the AirCard [**] of the
+     CDPD version will contain drivers for the notebook version of the AirCard
+     [**]. The [**] units will be delivered to GOA (subject only to such
+     rescheduling as may be permitted by SWD) as follows:
+
+     o    [**] CDPD pre-production units by [**].
+
+     o    [**] CDPD production units during [**].
+
+     o    [**] CDPD production units during [**].
+
+     o    [**] production units during each month beginning [**] and ending
+          [**].
+
+     o    [**] production units during [**].
+
+     GOA acknowledges and agrees that for the aforementioned [**] unit
+     commitment, a minimum of [**] units will be purchased for intended use on
+     CDPD networks with the balance of the unit commitment being purchased for
+     intended use on either CDPD or Ricochet Networks. If GOA desires to
+     purchase the Ricochet version of the Product, the provisions of section 6
+     of the Supply Agreement shall be amended to require at least [**] lead time
+     prior to the initial delivery to GOA of such Products. Notwithstanding the
+     foregoing, in no event shall the Ricochet version of the Product be
+     available for delivery prior to [**] following the commercial availability
+     of the CDPD version of the Product. Notwithstanding section 4.1, SWD agrees
+     that GOA may make payment of the per unit purchase price of US$[**], in
+     installments, as follows: $[**] together with all other invoiced amounts
+     arising in connection with the sale of the unit within [**] of the date of
+     invoice; $[**] within [**] of the date of invoice; $[**] within [**] of the
+     date of invoice; and $[**] within [**]of the date of invoice."
+
+                                       2
+<PAGE>   3
+   Confidential Materials omitted and filed separately with the Securities and
+                Exchange Commission. Asterisks denote omissions.
+
+
+     (b)  "3.9 MARKET DEVELOPMENT FUNDS. SWD shall reimburse GOA for up to
+          US$[**] of market development expenses incurred by GOA in connection
+          with product promotion and the commercial branch of the Sierra Sled
+          for Sony Clie, in such manner as shall be agreed to by the parties.
+          For all such expenses for which GOA intends to seek reimbursement, GOA
+          must obtain the written approval of SWD, prior to GOA incurring the
+          market development expenses and GOA agrees to feature prominently the
+          name "Sierra Wireless" and the Sierra Wireless logo in its television,
+          print and radio advertising campaigns, where practicable, and mutually
+          agreed upon."
+
+     (c)  "3.16 EXCLUSIVITY. For the period of [**] following the initial
+          commercial shipment of the Sierra Sled for Sony Clie, described in
+          Section 3.7, to GOA (the "Exclusivity Period"), GOA agrees that SWD
+          will be the exclusive supplier to GOA of CDPD and Ricochet sled
+          products for all versions of the Sony Clie that operate with the first
+          release of Boa. During the Exclusivity Period, SWD agrees that the
+          version of the Sierra Sled for Sony Clie, described in Section 3.7,
+          shipped to GOA, will be made available exclusively to GOA and to no
+          other customer for use in the United States (other than affiliates of
+          SWD who are not competitors of GOA), provided that GOA is the
+          exclusive supplier to Sony, and its designated distributors and
+          resellers, of CDPD and Ricochet Sled products and/or airtime services
+          for all versions of Sony Clie. The aforementioned exclusivity
+          provisions will be extended from [**], provided GOA has accepted
+          delivery of at least [**] of such units prior to [**], and has placed
+          firm, non-cancelable purchase orders, within the standard lead times,
+          for delivery of [**] of such units in each month during such [**]
+          period.
+
+5.   COUNTERPARTS. This Amending Agreement may be signed in any number of
+counterparts and each of such counterparts shall constitute an original document
+and all such counterparts, taken together, shall constitute one and the same
+instrument.
+
+IN WITNESS WHEREOF, the parties have executed this Amending Agreement as of the
+date year first above written.
+
+SIERRA WIRELESS DATA, INC.                  GOAMERICA, INC.
+
+
+Per: /s/ Jason Cohenour                     Per:     /s/ Joseph Korb
+    ----------------------------------          --------------------------------
+    Authorized Signatory                        Authorized Signatory
+
+                                       3
+
+</TEXT>
+</DOCUMENT>

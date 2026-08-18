@@ -1,0 +1,1882 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<FILENAME>worldcom5amend.txt
+<DESCRIPTION>EX 10.89 WORLDCOM AGREEMENT AMENDMENT 5
+<TEXT>
+
+
+             FIFTH AMENDMENT TO CONTRACT FOR ALASKA ACCESS SERVICES
+
+
+         This FIFTH AMENDMENT TO CONTRACT FOR ALASKA ACCESS SERVICES ("Fifth
+Amendment") is made and entered into as of this 7th day of August, 2000, by and
+between GENERAL COMMUNICATIONS, INC. and its wholly owned subsidiary, GCI
+COMMUNICATIONS CORP., an Alaska corporation (together, "GCI") with offices
+located at 2550 Denali Street, Suite 1000, Anchorage, Alaska 99503-2781 and MCI
+WORLDCOM NETWORK SERVICES, INC. ("MWNS"), formerly known as MCI
+Telecommunications Corporation, with offices located at 1133 19th Street, N.W.,
+Washington, D.C. 20036.
+
+                                    RECITALS
+
+         WHEREAS, GCI and MWNS entered into that certain Contract for Alaska
+Access Services dated January 1, 1993 (the "Original Agreement"), as amended by
+(i) the First Amendment to Contract for Alaska Access Services dated March 1,
+1996, (ii) the Third Amendment to Contract for Alaska Access Services dated
+March 1, 1998, and (iii) the Fourth Amendment to Contract for Alaska Access
+Services dated as of January 1, 1999 (collectively, the "Agreement") which set
+forth the general terms and conditions under which GCI provides certain
+telecommunications services to MWNS; and
+
+         WHEREAS, MWNS and the General Services Administration ("GSA") have
+entered into an agreement for the provision of telecommunications services by
+MWNS to GSA. MWNS desires to purchase certain services from GCI pursuant to the
+Agreement in support of the awarded government contract; and
+
+         WHEREAS, effective September 30, 1999 WorldCom Network Services, Inc.
+merged into MWNS pursuant to that certain Certificate of Merger dated as of
+September 15, 1999; and
+
+         WHEREAS, MWNS and GCI desire to further amend the Agreement to modify
+certain terms and conditions under which GCI will lease FTS2001 Service (as
+defined herein) to MWNS.
+
+         NOW, THEREFORE, in consideration of the premises and the mutual
+agreements herein contained, and other good and valuable consideration, the
+receipt and sufficiency of which is hereby acknowledged, the parties agree as
+follows:
+
+         1. Definition of Terms. All capitalized terms used in this Fifth
+Amendment but not defined herein shall have the meanings given to such terms in
+the Agreement. Additionally, any reference to "MWNS" in this Fifth Amendment
+shall be a reference to "MCI" in the Agreement, as amended, and vice versa.
+
+
+                                       1
+<PAGE>
+         2. FTS2001 Service.
+
+                  (a) Notwithstanding anything in the Agreement to the contrary,
+all telecommunications services, including dedicated access between a POP and an
+authorized government agency location, that are ordered by MWNS in support of
+the GSA FTS2001 government contract (Solicitation Number TQC-SS-97-2001) between
+MWNS and the General Services Administration as more fully described in the
+Scope of Work attached hereto and incorporated herein as Schedule A
+(collectively, the "FTS2001 Service") shall be handled in accordance with the
+terms and conditions set forth in this Fifth Amendment. FTS2001 Service shall
+include the following services:
+
+                       (1) FTS2001 Dedicated On-Net Services. Upon placement of
+an ASR for "FTS2001 Dedicated On-Net Services", GCI shall provide to MWNS
+dedicated access services for originating and terminating traffic from (i)
+authorized government agency location designated in the ASR (hereinafter a
+"FTS2001 End User") to the nearest GCI POP, (ii) from one FTS2001 End User to
+another FTS2001 End User or (iii) from one GCI POP to another GCI POP. GCI shall
+then transport all originating and terminating FTS2001 Dedicated On-Net Service
+going to GCI's nearest POP to either (i) MWNS' Seattle switch along trunk groups
+dedicated to MWNS or (ii) to the designated intrastate end user along as many
+trunk groups dedicated to MWNS as possible (e.g., if the designated end user is
+not another FTS2001 End User then the traffic will be terminated from the last
+GCI POP connected to a dedicated circuit over non-dedicated circuits). Such
+dedicated trunk groups shall include, but not be limited to, trunks between
+GCI's Fairbanks switch and GCI's Anchorage switch, GCI's Juneau switch and GCI's
+anchorage switch and GCI's Anchorage switch and MWNS' Seattle switch. Trunks
+supporting Anchorage, Fairbanks and Juneau must support ********** capability
+for switched data and video applications in order to support **********.
+Pricing for dedicated access services between an FTS2001 End User and the
+nearest GCI POP, between an FTS2001 End User and an FTS End User and use of the
+dedicated trunks along GCI's backbone network or any combination thereof shall
+be set forth in Schedule B.
+
+                       (2) FTS2001 ********** Services. Upon placement of an ASR
+for "FTS2001 ********** Services", GCI shall make arrangements with the local
+LEC to redirect ("PIC") the originating and terminating traffic from the
+authorized government agency location designated in the ASR to the nearest GCI
+POP. GCI shall then transport all originating and terminating FTS2001 **********
+Service going to GCI's nearest POP to either (i) MWNS' Seattle switch along
+trunk groups dedicated to MWNS or (ii) to the designated intrastate end user
+along as many trunk groups dedicated to MWNS as possible (e.g., if the
+designated end user is not another FTS2001 End User then the traffic will be
+terminated from the last GCI POP connected to a dedicated circuit over
+non-dedicated circuits). Such dedicated trunk groups shall include, but not be
+limited to, trunks between GCI's Fairbanks switch and GCI's Anchorage switch,
+GCI's Juneau switch and GCI's anchorage switch and GCI's Anchorage switch and
+MWNS' Seattle switch. Trunks supporting Anchorage, Fairbanks and Juneau must
+support **********
+
+
+[CERTAIN  INFORMATION  HAS BEEN REDACTED  FROM THIS  DOCUMENT  WHICH THE COMPANY
+DESIRES TO KEEP UNDISCLOSED AND A COPY OF THE UNREDACTED  DOCUMENT WILL BE FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.]
+                                       2
+<PAGE>
+capability for switched data and video applications in order to support
+********** services. Pricing for dedicated access services between an FTS2001
+End User and the nearest GCI POP, between an FTS2001 End User and an FTS End
+User and use of the dedicated trunks along GCI's backbone network or any
+combination thereof shall be set forth in Schedule B.
+
+                       (3) FTS2001 ********** Services. In the event that MWNS
+orders ********** services in support of GSA FTS2001 government contract ("FTS
+********** Service"), GCI shall provide the ********** services along FTS2001
+********** Services which support ********** capability for switched data and
+video applications. All FTS2001 ********** Service to be transported to the MWNS
+Seattle switch must be interconnected from GCI's POP to MWNS' Seattle switch via
+dedicated trunks without echo cancellation. Pricing for FTS2001 **********
+Services are set forth in Schedule B.
+
+                       (4) FTS2001 General Services. GCI shall also provide all
+other services listed in Section 2 of the Agreement to FTS2001 End Users via
+FTS2001 ********** and ********** Services as designated by MWNS ("FTS2001
+General Services"). All FTS2001 General Services shall be governed by the terms
+and conditions set forth in the Agreement regarding such services described in
+Section 2; provided, however, the pricing applicable to such FTS2001 General
+Services shall be governed by the pricing set forth in Schedule B attached
+hereto and incorporated herein. (FTS2001 ********** Services, FTS2001 **********
+Services, FTS2001 ********** Services and FTS2001 General Services shall
+hereinafter be collectively referred to as "FTS2001 Service").
+
+                       (5) GCI agrees to support MWNS' private network 700
+number dialing plan for all designated FTS2001 Service.
+
+                  (b) FTS2001 Service Ordering. To order FTS2001 Service to be
+furnished at FTS2001 locations, MWNS shall submit an ASR to GCI, including the
+requested in-service date for the FTS2001 Service (the "Requested In-Service
+Date"). All ASRs shall designate the FTS2001 End User and the requested FTS2001
+Service. Within five (5) business days after receipt of the ASR, GCI shall issue
+a Firm Order Commitment (a "FOC") to MWNS. GCI shall use its best efforts to
+ensure that the FTS2001 Service is tested and accepted by MWNS and is available
+for MWNS' use by the Requested In-Service Date. MWNS shall have the right, in
+its sole discretion, to cancel an ASR, without incurring any termination
+liability, at any time (a) prior to the Requested In-Service Date, or (b) after
+the Requested In-Service Date in the event the FTS2001 Service is not tested,
+accepted and available for MWNS' use by such date. If the FTS2001 Service is not
+tested, accepted and available for MWNS' use by the Requested In-Service Date
+and MWNS chooses not to cancel the ASR, GCI will credit to MWNS, against the
+first invoice(s) due hereunder, an amount equal to the prorated daily billing
+that would have been payable for such FTS2001 Service for each day the FTS2001
+Service is unavailable to MWNS after the Requested In-Service Date.
+
+
+[CERTAIN  INFORMATION  HAS BEEN REDACTED  FROM THIS  DOCUMENT  WHICH THE COMPANY
+DESIRES TO KEEP UNDISCLOSED AND A COPY OF THE UNREDACTED  DOCUMENT WILL BE FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.]
+                                       3
+<PAGE>
+                  (c) FTS2001 Service Pricing. Notwithstanding anything in the
+Agreement to the contrary, the prices MWNS pays to GCI for the above-described
+FTS2001 Service shall be at the rates set forth in the attached Schedule B. The
+costs associated with each FTS ********** and ********** Service from an FTS2001
+End User designated on an ASR shall vary by the type of call and its originating
+and terminating locations as more specifically set forth in Schedule B. All
+Private Line and Frame Relay revenue generated from FTS2001 Service shall be
+applied to all applicable volume discount calculations set forth in the
+Agreement.
+
+                       (1) The charges for FTS2001 Service will begin to accrue
+on the later to occur of (a) the Requested In-Service Date, or (b) the date on
+which the FTS2001 Service has been tested and accepted by MWNS and is available
+for MWNS' use. Notwithstanding the foregoing, if MWNS is unable, due to Customer
+or other delays, to make use of FTS2001 Service at a FTS2001 End User at the
+time charges would begin to accrue pursuant to the preceding sentence, MWNS
+shall have the option to either (i) instruct GCI to disconnect the affected
+circuit(s), without incurring termination liability, or (b) defer the accrual of
+charges and commencement of billing for not more than thirty (30) days. MWNS
+shall have the right at any time during such thirty (30) day period to instruct
+GCI to disconnect the affected circuit(s), without incurring termination
+liability.
+
+                       (2) The non-recurring fee set forth in Schedule B will be
+included in the first monthly invoice submitted to MWNS with respect to the
+FTS2001 Service; provided, however, that GCI shall not charge MWNS any
+non-recurring or installation charges for FTS2001 Service ordered within the
+year of 1999.
+
+                       (3) GCI and MWNS agree to review and audit the traffic
+mix and applicable revenue derived from FTS2001 Service ordered pursuant to this
+Fifth Amendment six (6) months after the execution of this Fifth Amendment with
+the intent to negotiate, in good faith, a fixed rate for FTS2001 Service.
+
+                  (d) FTS2001 Service Testing and Acceptance. The FTS2001
+Service shall be tested and accepted in accordance with the Specifications and
+the testing acceptance criteria set forth in the Schedule C attached hereto and
+incorporated herein. GCI shall promptly notify the MWNS representative
+identified on Schedule C that the interconnection between MWNS' facilities and
+GCI's facilities is complete and that the FTS2001 Service is available for
+testing. The notice may be given by facsimile, electronic mail or telephone at
+the numbers specified on Schedule C. The notice shall identify the place where
+the test (or retest) will take place and the date and time of the test (or
+retest), which date and time shall be not less than two (2) business days after
+notification. MWNS shall have the right to have a representative present during
+the testing. GCI shall make the FTS2001 Service available for use upon receipt
+of MWNS' final acceptance of the test results.
+
+                  (e) Interruptions. The FTS2001 Service shall meet the
+applicable
+
+
+[CERTAIN  INFORMATION  HAS BEEN REDACTED  FROM THIS  DOCUMENT  WHICH THE COMPANY
+DESIRES TO KEEP UNDISCLOSED AND A COPY OF THE UNREDACTED  DOCUMENT WILL BE FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.]
+                                       4
+<PAGE>
+Specifications and shall be provided in accordance with industry standards. In
+the event that the FTS2001 Service fails to meet the Specifications, MWNS may be
+entitled to receive a credit as set forth below. An Interruption shall be
+measured from the time that the Interruption starts to the time of full
+compliance with the applicable Specifications. For the purpose of calculating
+the duration of an Interruption, the parties agree to use GCI's maintenance log
+and any other relevant reports of either MWNS or GCI.
+
+                       (1) MWNS shall be entitled to receive a credit in the
+event of an Interruption in the FTS2001 Service. Except as set forth in
+subsection (3) below, the amount of the credit per FTS2001 circuit shall be as
+follows:
+
+                  Length of  Interruption            Credit
+                  -----------------------            ------
+                  Less than 2 hours                  4 hours
+
+                  Each additional 2 hour period
+                  or fraction thereof                4 hours
+
+The dollar value of the credit, if any, to be applied against GCI's invoice for
+each billing month shall be determined by adding together the products of (a)
+the number of credit hours to which MWNS is entitled for Interruption(s) in each
+circuit, multiplied by (b) the pro rata hourly cost to MWNS of such circuit
+during the month in which the Interruption(s) occurred. Multiple Interruptions
+in a circuit shall be aggregated for purposes of determining the total credit
+hours to which MWNS is entitled under this subsection (1).
+
+                       (2) Notwithstanding anything in the Agreement or this
+Fifth Amendment to the contrary, if any FTS2001 Service fails to meet the
+Specifications for any consecutive twenty-four (24) hour period, or for more
+than five percent (5%) of the time over a consecutive thirty (30) day period,
+MWNS may immediately terminate such FTS2001 Service, at MWNS' sole discretion,
+without incurring any termination liability. In the event of any such
+termination, GCI will reimburse MWNS for any and all installation charges MWNS
+incurs in obtaining replacement services by an alternate method; provided,
+however, that such charges shall not exceed the then prevailing rates charged by
+the ILEC for comparable FTS2001 Service.
+
+                       (3) Notwithstanding the foregoing, MWNS shall be entitled
+to receive a credit equal to one (1) month's service in the event that there is
+an Interruption equal to or greater than one (1) minute during a particular
+month at a GCI location serviced by a **********. The credit will be applicable
+to all FTS2001 Service affected by the Interruption. In no event, however, shall
+MWNS' credit for any Interruption during a particular month at a location
+serviced by a ********** exceed one (1) month, regardless of the actual number
+of Interruptions during that particular month.
+
+
+[CERTAIN  INFORMATION  HAS BEEN REDACTED  FROM THIS  DOCUMENT  WHICH THE COMPANY
+DESIRES TO KEEP UNDISCLOSED AND A COPY OF THE UNREDACTED  DOCUMENT WILL BE FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.]
+                                       5
+<PAGE>
+                  (f) Customer Service. GCI and MWNS agree to coordinate their
+customer service and technical support efforts regarding the FTS2001 Service.
+MWNS' Cary, North Carolina Technical Service Center shall be the single point of
+contact for all authorized government agencies being provided FTS2001 Service.
+GCI shall interface with MWNS' technical service center on a 7 day a week, 24
+hours a day basis. GCI shall provide to MWNS technical support, inventory
+management, tracking and trouble reporting for the FTS2001 Service. The trouble
+reporting contacts for the parties are listed in the Schedule D attached hereto
+and incorporated herein.
+
+                  (g) Trunk Forecasting. In order to maintain appropriate levels
+of dedicated trunks for the FTS2001 Service, MWNS agrees to provide GCI
+forecasts of projected originating and terminating FTS2001 Service traffic
+levels on a quarterly basis. The forecasts shall be itemized by switch location
+and shall include all information necessary to allow GCI to manage its trunking
+facilities.
+
+                  (h) Service Order Termination. MWNS and GCI hereby acknowledge
+and agree that in the event the (i) General Services Administration terminates
+or cancels an order for FTS2001 Service pursuant to the terms of the GSA FTS2001
+government contract with MWNS, or (ii) the term of any FTS2001 Service ordered
+under the GSA FTS2001 government contract expires (as dictated by the GSA
+FTS2001 government contract), MWNS shall have the right to cancel the applicable
+ASR(s) without any termination liability.
+
+                  (i) In connection with the provision of FTS2001 Service, GCI
+agrees to abide by the following Federal Acquisition Regulations: FAR 52.2444-6;
+FAR 52.222-26, Equal Opportunity (E.O. 11246); FAR 52.222-35, Affirmative Action
+for Special Disabled and Vietnam Era Veterans (38 U.S.C. 4212(a)); and FAR
+52.222-36, Affirmative Action for Handicapped Workers (29 U.S.C. 793).
+
+                  (j) Service Level Agreement. MWNS and GCI hereby agree to
+abide by the terms and provisions of the Service Level Agreement between GCI and
+MWNS for FTS2001 Services in Alaska attached hereto as Schedule E. In the event
+of any inconsistency between this Fifth Amendment and the Service Level
+Agreement, the Service Level Agreement shall govern.
+
+                  (k) Statement of Work. MWNS and GCI hereby agree to abide by
+the terms and provisions of the Statement of Work attached hereto as Schedule F.
+In the event of any inconsistency between this Fifth Amendment and the Statement
+of Work, the Statement of Work shall govern.
+
+         3. Tariffed Rates. The following shall be added to the Original
+Agreement as a new Section 2H:
+
+         "H. Tariffed Rates. Notwithstanding anything contained in this
+         Agreement or
+
+
+                                       6
+<PAGE>
+         Schedule A to the contrary, the price MCI pays to GCI for services
+         hereunder in ********** shall at all times be ********** for similar
+         telecommunications services. GCI will decrease the rates chargeable
+         hereunder to MCI in accordance with the **********. Such **********
+         will be ********** or any change thereof."
+
+         4. Term. The following shall be added to Section 3, Term, of the
+Original Agreement:
+
+         "The services for FTS2001 Service shall be for a term of **********
+         commencing on the effective date of the GSA FTS2001 government
+         contract. The term for FTS2001 Service shall be automatically extended
+         for **********, unless the GSA terminates the GSA FTS2001 government
+         contract between MCI and the GSA. In the event that either (i) the GSA
+         terminates the GSA FTS2001 government contract between MCI and the GSA
+         or (ii) the term of the GSA FTS2001 government contract expires, MCI
+         may terminate the FTS2001 Services without liability. Such MCI
+         termination shall be effective as of the date that the GSA FTS2001
+         government contract either terminates or expires, as applicable."
+
+         5. Arbitration Procedures. Section 4C(2) of the Original Agreement is
+hereby deleted in its entirety and replaced by the following:
+
+         "2. Arbitration Procedures. Any dispute arising out of or related to
+         this Agreement or any ASR which cannot be resolved by negotiation,
+         shall be settled by binding arbitration in accordance with the
+         J.A.M.S./ENDISPUTE Arbitration Rules and Procedures, as amended by this
+         Agreement. The costs of arbitration, including the fees and expenses of
+         the arbitrator, shall be shared equally by MWNS and GCI unless the
+         arbitration award provides otherwise. MCI and GCI shall each bear the
+         cost of preparing and presenting its case. The parties agree that this
+         provision and the arbitrator's authority to grant relief shall be
+         subject to the United States Arbitration Act, 9 U.S.C. 1-16 et seq.
+         ("USAA"), the provisions of this Agreement, and the ABA-AAA Code of
+         Ethics for Arbitrators in Commercial Disputes. The parties agree that
+         the arbitrator shall have no power or authority to make awards or issue
+         orders of any kind except as expressly permitted by this Agreement, and
+         in no event shall the arbitrator have the authority to make any award
+         that provides for punitive or exemplary damages. The arbitrator's
+         decision shall follow the plain meaning of the relevant documents, and
+         shall be final and binding. The award may be confirmed and enforced in
+         any court of competent jurisdiction. All post-award proceedings shall
+         be governed by the USAA."
+
+
+[CERTAIN  INFORMATION  HAS BEEN REDACTED  FROM THIS  DOCUMENT  WHICH THE COMPANY
+DESIRES TO KEEP UNDISCLOSED AND A COPY OF THE UNREDACTED  DOCUMENT WILL BE FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.]
+                                       7
+<PAGE>
+         6. Year 2000 Warranty. The following is hereby added to the Agreement
+as a new Section 5K:
+
+         "K. Year 2000 Warranty. GCI hereby represents and warrants that GCI is
+         using commercially reasonable efforts to ensure that its Network,
+         facilities, equipment, support systems, features and/or hardware,
+         software and firmware involved in or in any way related to the
+         provision of services, whether functioning independently or within a
+         system, shall be able to accurately process date data (including, but
+         not limited to, calculating, comparing, and sequencing) from, into, and
+         between the twentieth and twenty-first centuries, including leap year
+         calculations, when used in accordance with the provision of services by
+         GCI. GCI will indemnify, defend (by counsel reasonably acceptable to
+         MCI) and hold MCI and its Customers harmless from and against any
+         claims made and/or loss suffered (including reasonable attorneys' fees
+         which shall include allocable costs of in-house counsel) as a
+         consequence of any breach of this warranty."
+
+         7. Effect of Amendment. All terms and conditions of the Agreement not
+modified by this Fifth Amendment shall remain in full force and effect. FTS2001
+Service shall be treated as services under the Agreement, and shall be subject
+to all the terms and conditions thereof, except as such terms and conditions are
+expressly modified by this Fifth Amendment.
+
+         8. Further Assurances. MWNS and GCI shall cooperate in good faith, and
+shall enter into such other instruments and take such other actions as may be
+necessary or desirable, to fully implement the intent of this Fifth Amendment.
+
+         9. Counterparts. This Fifth Amendment may be executed in counterparts,
+each of which shall be deemed an original and all of which together shall
+constitute one and the same instrument.
+
+         IN WITNESS WHEREOF, the undersigned authorized representatives of MWNS
+and GCI have executed and delivered this Fifth Amendment as of the date first
+written above.
+
+GENERAL COMMUNICATIONS, INC.                MCI WORLDCOM NETWORK SERVICES, INC.
+
+By: /s/                                     By: /s/
+
+Name: Richard Westlund                      Name: Peter H. Reyndels
+
+Title: Vice President/G.M.                  Title: Director
+       Wholesale Services
+
+Date: August 30, 2000                       Date: August 25, 2000
+
+
+                                       8
+<PAGE>
+
+
+
+
+
+
+                                   Schedule A
+
+
+                                  Scope of Work
+
+<PAGE>
+                                   Schedule B
+<TABLE>
+                                Pricing Schedule
+
+<CAPTION>
+Telecommunication Services                                                Pricing Structure      Dedicated Access
+<S>                                                                       <C>                     <C>
+Switched - Voice and Data (1), (2)
+
+Gov't switched location (equal access) to Gov't switched location         $**********             **********
+
+Gov't switched location (equal access) to Gov't dedicated location        $**********             **********
+
+Gov't switched location (equal access) to non Gov't switched location     $**********             **********
+
+Gov't switched location (equal access) to lower 48                        $**********             **********
+
+Gov't dedicated location to Gov't switched location                       $**********             **********
+
+Gov't dedicated location to Gov't dedicated location                      $**********             **********
+
+Gov't dedicated location to non Gov't switched location                   $**********             **********
+
+Gov't dedicated location to lower 48                                      $**********             **********
+
+Gov't switched location (non equal access) to Gov't switched location     $**********             **********
+
+Gov't switched location (non equal access) to Gov't dedicated location    $**********             **********
+
+Gov't switched location (non equal access) to non Gov't switched location $**********             **********
+
+Gov't switched location (non equal access) to lower 48                    $**********             **********
+
+Intrastate Private Line                                                   GCI Tariff-
+                                                                          FCC **********          **********
+
+Intrastate ISDN(PRI and BRI)                                              GCI Tariff-
+                                                                          FCC **********          **********
+
+Intrastate Frame Relay                                                    GCI Tariff-
+                                                                          FCC **********          **********
+
+Anchorage to Seattle Private Line                                         GCI Tariff-
+                                                                          FCC **********          **********
+
+
+Other Services
+</TABLE>
+
+[CERTAIN  INFORMATION  HAS BEEN REDACTED  FROM THIS  DOCUMENT  WHICH THE COMPANY
+DESIRES TO KEEP UNDISCLOSED AND A COPY OF THE UNREDACTED  DOCUMENT WILL BE FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.]
+<PAGE>
+<TABLE>
+<CAPTION>
+Telecommunication Services                                                Pricing Structure      Dedicated Access
+<S>                                                                       <C>                     <C>
+  Rate call detail for intra Alaska calls                                 $**********             **********
+  Call Record Detail for Interstate calls
+
+Switch Port on GCI Switch in Seattle                                      $**********             **********
+
+DAC Port on GCI Switch in Seattle                                         $**********             **********
+</TABLE>
+
+Notes:
+  (1) For ********** connections, when the gov't facility is using centrex
+service, the elements that MWNS will be charged are ********** between the LEC
+EO and the LEC SWC and ********** between the LEC SWC and the GCI POP.
+
+  (2) For ********** connections, when the gov't facility is using a PBX, the
+elements that MWNS will be charged are ********** between the LEC EO and the LEC
+SWC, ********** between the LEC SWC and the GCI POP and ********** between the
+PBX and the LEC EO.
+
+  (3) ********** service charges will be billed directly to the gov't by the
+LEC.
+
+  (4) Initially, there will be ********** LEC ********** between the GSA and GCI
+POP in **********. There will be ********** LEC ********** connection between
+the GSA and the GCI POP in **********.
+
+  (5) Initially, there will be ********** connecting ********** and **********.
+
+  (6) Initially, there will be ********** between ********** and **********:
+********** for ********** and ********** for **********.
+
+
+[CERTAIN  INFORMATION  HAS BEEN REDACTED  FROM THIS  DOCUMENT  WHICH THE COMPANY
+DESIRES TO KEEP UNDISCLOSED AND A COPY OF THE UNREDACTED  DOCUMENT WILL BE FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.]
+<PAGE>
+                                   Schedule C
+
+                 Specifications and Testing Acceptance Criteria
+
+1.       TECHNICAL SPECIFICATIONS
+
+Any and all dedicated access services furnished by GCI shall meet ********** as
+stated within the MWNS **********.
+
+         1.1 Circuits designed as ********** shall be available with either
+********** or ********** signaling format. ********** format shall be available
+as an option.
+
+         1.2 Circuits designed as ********** may be used with **********.
+
+         1.3 All equipment shall be fully protected in a ********** arrangement.
+
+         1.4 GCI shall use its best efforts to furnish alternate/diverse paths
+into the MWNS location, i.e., no single point of failure.
+
+         1.5 All GCI equipment must be **********.
+
+         1.6 Mean time to Restore Electronics and Network Circuit Path: Four (4)
+hours
+
+
+2.       ACCEPTANCE TESTING CRITERIA FOR DEDICATED ACCESS SERVICES
+The following acceptance tests will be conducted:
+
+         2.1. **********: A test for a period of seventy-two (72) hours where
+Bit Error Ratio ("BER"), Error Free Seconds ("EFS") and Burst Error Seconds
+("BES") shall meet the parameters of the Specifications.
+
+         2.2. ********** Operation: The protection switch shall operate within
+all manufacturer's specific operating parameters.
+
+         2.3. ********** Functionality: All ********** indicators provided by
+the equipment vendor will function properly under all simulated
+(non-destructive) alarm conditions.
+
+         2.4 MWNS Testing Acceptance Contact:
+
+
+[CERTAIN  INFORMATION  HAS BEEN REDACTED  FROM THIS  DOCUMENT  WHICH THE COMPANY
+DESIRES TO KEEP UNDISCLOSED AND A COPY OF THE UNREDACTED  DOCUMENT WILL BE FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.]
+<PAGE>
+                                   Schedule D
+
+                           Trouble Reporting Contacts
+
+1.       MWNS Trouble Reporting Contact.
+         Cary, NC 1-800-FTS-SVC1
+
+2.  GCI Trouble Reporting Contacts.
+     1st level
+     Anchorage
+     ---------
+     Rock Moreland      Supervisor Anchorage Distribution Center    907-777-6972
+     Ersa Kelley        Supervisor Network Operations Center        907-265-5594
+     Chris Mace         Supervisor Network Operations Center        907-265-5561
+     Victor Griffith    Supervisor Network Operations Center        907-265-5564
+
+     Juneau
+     ------
+     John Foster        Supervisor - Operations                     907-586-1944
+
+     Fairbanks
+     ---------
+     Larry Bendall      Supervisor - Operations                     907-456-3434
+
+     Seattle
+     -------
+     Bob Pfeiffer       Sr. Technician - Operations                 206-448-0966
+
+     2nd level
+     Dennis Handman     Director Network Operations                 907-265-5554
+
+     3rd level
+     Tony Lewkowski     VP Network Operations                       907-265-5515
+
+     4th level
+     Dick Westlund      VP Carrier Relations                        907 265 5632
+<PAGE>
+                                   Schedule E
+
+                             Service Level Agreement
+
+SERVICE LEVEL AGREEMENT BETWEEN GCI AND MCIW FOR FTS2001 SERVICES IN ALASKA
+
+1.   In return for MCIW making GCI the 1st choice provider for all required
+     services of the FTS contract in Alaska **********, GCI will provide
+     certain customer service and sales and marketing support functionality to
+     the government base of FTS prospects and customers as MCIW' marketing
+     alliance partner. GCI may not bind MCIW to any performance that is not
+     stated in the FTS2001 contract and agrees to operate in the best interests
+     of both companies' objective of maximizing market share with the Federal
+     Government customer, at the lowest possible cost. It is understood that,
+     for both companies to succeed, services must be presented, proposed, and
+     installed in the most timely manner and in accordance with the MCIW/GCI
+     Statement Of Work. MCIW and GCI representatives will act together to
+     present a cohesive marketing presence to the Federal Government customers
+     in Alaska.
+
+2.   GCI will identify and compensate a dedicated point of contact to support
+     the FTS2001 contract.
+
+3.   MCIW will provide:
+
+-    Access and training to FTSNet (includes pricing tools, trouble tracking,
+     network performance, ordering tools, etc.)
+-    Customer training information
+-    Sales and Marketing information.
+-    MCIW account team points of contact
+
+4.   To facilitate the customers' ordering of GCI and MCIW services, GCI will
+     serve as a reference point for simple ordering questions. Orders will be
+     submitted directly to MCIW. However, customers may need local information
+     that could be provided by GCI. Also, GCI should provide guidance on proper
+     MCIW Account Team points of contact to customers to support the ordering
+     process.
+
+5.   GCI will provide information to government customers regarding services
+     that can be delivered in Alaska, MCI WorldCom FTS2001 pricing, and the
+     feature functionality the customer can expect. This information may include
+     detailed diagrams of the connectivity to the lower 48 MCIW FTS2001 network
+     or diverse access as defined in the MCIW/GCI Statement of Work. GCI may
+     distribute MCIW brochures to government customers from time to time or upon
+     request of the customer or MCIW.
+
+
+[CERTAIN  INFORMATION  HAS BEEN REDACTED  FROM THIS  DOCUMENT  WHICH THE COMPANY
+DESIRES TO KEEP UNDISCLOSED AND A COPY OF THE UNREDACTED  DOCUMENT WILL BE FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.]
+<PAGE>
+6.   GCI may be asked to be present at formal MCIW sales presentations that will
+     take place from time to time, as a part of the new business acquisition
+     process.
+
+7.   In addition to the reports defined in the MCIW/GCI Statement of Work, GCI
+     will provide the MCIW business office director a monthly report regarding
+     customer meetings. This report will contain information elements such as
+     customer contact, nature of the customer inquiry, referral data, etc. The
+     MCIW business office director will distribute this report to all interested
+     parties.
+
+8.   GCI understands that MCI has bid a firm, fixed price contract with some
+     prices declining over the life of the contract. While it is recognized that
+     GCI's price to MCIW may be higher, in certain circumstances, than the
+     prices that MCIW is authorized to charge the government, this information
+     may not be divulged at any time to the government or any third parties.
+
+9.   GCI is authorized to quote budgetary prices to the government with the
+     understanding that the only authorized pricing source is the MCIW on-line
+     pricing tool, the contract, and the FCC Tariff #4.
+
+10.  GCI will solicit and provide sales leads to the extent that MCIW is unique
+     in its offering of FTS2001 services in the Alaska market. GCI agrees to
+     maximize the use of the facilities procured by MCIW for purpose of
+     delivering traffic to the lower 48.
+
+11.  MCIW will provide quarterly sales forecasts of FTS2001 traffic and
+     services.
+
+12.  GCI will follow FTS2001 support requirements. This includes providing the
+     customer service phone number, 888-FTS-SVC1, and customer order information
+     (e-mail addresses, fax numbers, point of contact) to the FTS2001 customer
+     base in Alaska.
+<PAGE>
+                                   Schedule F
+
+                                Statement of Work
+
+[MCI WorldCom logo]
+
+
+                     MCI WorldCom/GCI FTS2001Alaska Services
+                                Statement of Work
+
+
+           FTS2001 ALASKA CIRCUIT SWITCHED SERVICES STATEMENT OF WORK
+
+1.0      OVERVIEW
+
+MCI WorldCom, Government Markets division has been awarded the FTS2001 contract,
+in response to the Government's RFP for communications services (voice, data and
+video) including network management and access to customer data. The
+FTS2001contract requires services both domestically and internationally
+including the domestic offshore locations of Alaska, Hawaii, Puerto Rico, Guam,
+Northern Marianas, and the U.S. Virgin Islands. In the process of providing
+services to these locations, MCI WorldCom has identified some locations where
+they will require the support of their partners and/or subcontractor. Hence,
+this Statement Of Work (SOW) will define the support required by MCI WorldCom
+partner GCI to provided frame relay service (FRS), circuit switched services
+(CSS) and Dedicated Transmission Service (DTS) for the FTS2001 Government users
+in Alaska. CSS includes switched voice service (SVS), and circuit switched data
+service (CSDS) services. Dedicated Transmission service addressed in this SOW
+will only include **********. ********** service and ********** will be
+supported using the existing commercial agreement between MCIW and GCI.
+
+MCI WorldCom is committed to providing these services and will work with GCI to
+ensure a smooth and timely transition and implementation meeting FTS2001
+contract requirements.
+
+
+[CERTAIN  INFORMATION  HAS BEEN REDACTED  FROM THIS  DOCUMENT  WHICH THE COMPANY
+DESIRES TO KEEP UNDISCLOSED AND A COPY OF THE UNREDACTED  DOCUMENT WILL BE FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.]
+<PAGE>
+1.1      Background
+
+The purpose of the FTS2001 program, as defined by the Government, is to provide
+Government users with up-to-date, cost-effective, and easy to utilize
+telecommunications services. In addition, the FTS2001 program is designed to
+enhance the goals of the National Information Infrastructure (NII) and to
+support implementation of key information technology recommendations of the
+National Performance Review (NPR). The FTS2001 program is expected to provide
+the bulk of telecommunications services for the emerging Government Services
+Information Infrastructure (GSII). The program includes long distance (domestic
+and non-domestic), and local (MAA contracts) telecommunications service
+requirements. The Government's authorized users include: All Federal agencies;
+authorized Federal contractors; agency-sponsored universities and laboratories;
+and as authorized by law or regulation, state, local, and tribal Governments,
+and other organizations. All organizations listed in GSA Order ADM 4800.2D (as
+updated) are eligible.
+
+The term of each FTS2001 contract is ********** basic contract period with
+********** option periods of ********** each. The contracts also include
+provisions for internal competitive contract administration actions (Price
+Re-determination), at the Government's discretion. This Statement of Work will
+be reviewed by both GCI and MCIW concurrent with Government renewals or contract
+administrative changes.
+
+Services to be acquired by Government users from MCIW include: circuit switched
+services (switch voice, circuit switch data, 800 and 900 services), switched
+data services (Packet Switched, Frame Relay, ATM and Internet Protocol
+services), and dedicated transmission services (private lines). The services to
+be provided by GCI in Alaska include ********** Services, **********, and
+**********. These services are discussed in more detail in Section 3.0.
+
+ MCI WorldCom has a Program Management team in place that has been addressing
+the FTS2001 requirements, issues and tasks included in the FTS2001 contract. In
+addition, MCI WorldCom's FTS2001 Program Management Team has guided and managed
+all the inter-organization coordination, schedules and meetings as they design,
+develop, and plan the transition and implementation of the FTS2001 program
+requirements. GCI will play a major role in supporting MCI WorldCom in managing
+and performing the tasks for FTS2001 service requirements to/from Alaska.
+
+
+[CERTAIN  INFORMATION  HAS BEEN REDACTED  FROM THIS  DOCUMENT  WHICH THE COMPANY
+DESIRES TO KEEP UNDISCLOSED AND A COPY OF THE UNREDACTED  DOCUMENT WILL BE FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.]
+<PAGE>
+2.0      OBJECTIVE
+
+The purpose of this SOW is to define the process and procedures required by MCI
+WorldCom and GCI to support the delivery of Government agency's FTS2001 SVS (On
+and OffNet voice), ********** and ********** requirements in Alaska. Delivery
+and support for Frame Relay and Inter-State PL service will follow the
+commercial agreements in place between MCIW and GCI.
+
+3.0      TECHNICAL  DESCRIPTION
+
+GCI will act as MCI WorldCom's agent in Alaska for the provision of FTS2001
+services as defined in this Statement of Work. In general this includes:
+a)   Arranging for dedicated access facilities where ordered between Government
+     agency locations subscribing to MCI WorldCom's FTS2001 services and the
+     nearest GCI POP (Juneau, Anchorage, Fairbanks). GCI will comply with the
+     FTS2001 contract by accepting Government customer provided access, where
+     required.
+b)   Providing circuit switching for voice and circuit switched data calls
+     within Alaska.
+c)   Supporting toll free originating and terminating traffic in Alaska. 800
+     number portability, under the control of the LEC SMS database, will also be
+     supported.
+d)   Transporting originating 900 traffic from Alaska to MCI WorldCom by routing
+     on the 900-NXX number ranges assigned to MCI WorldCom.
+e)   Supporting frame relay traffic and inter-state PL to/from Alaska via
+     existing commercial service arrangements between MCI WorldCom and GCI.
+f)   Supporting 700 number dial plans.
+
+3.1  Specific responsibilities for switched voice and circuit switched data
+     services include:
+
+a)   For subscribing FTS2001 users who are behind LEC Centrex switches, GCI
+     shall:
+
+     -  Accept calls from the Centrex switch via a dedicated trunk group, or
+     -  Accept calls from the Centrex switch via a shared trunk group and
+        identify MCI WorldCom subscribers on the basis of ANI or calling line ID
+        in the signaling setup message. MCI WorldCom would be responsible for
+        providing GCI with the authorized list of ANIs.
+     -  Terminate calls from MCI WorldCom FTS2001 users via the same trunks.
+
+b)   GCI shall act as MCI WorldCom's agent to contact LECs in equal access areas
+     in Alaska such that subscribing FTS2001 users will be repointed (PIC'd) to
+     GCI's access trunk groups. Calls from these virtual on-net users will be
+     routed according to the mutually agreed upon FTS2001 routing plan. Since
+     MCI WorldCom has no PIC in Alaska, the GCI PIC will be used to provide MCIW
+     FTS2001 service.
+
+
+[CERTAIN  INFORMATION  HAS BEEN REDACTED  FROM THIS  DOCUMENT  WHICH THE COMPANY
+DESIRES TO KEEP UNDISCLOSED AND A COPY OF THE UNREDACTED  DOCUMENT WILL BE FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.]
+<PAGE>
+c)   Non-equal access areas, within Alaska, will be served using the FTS2001
+     calling card.
+d)   In the three major cities in Alaska (Anchorage, Fairbanks, and Juneau), GCI
+     will support PRI ISDN access trunks to subscribing FTS2001 users. These
+     trunks must support ********** capability for switched data and video
+     applications.
+
+GCI shall support MCI WorldCom's FTS2001 dialing plan, which will include the
+use of private network 700 numbers.
+
+
+[CERTAIN  INFORMATION  HAS BEEN REDACTED  FROM THIS  DOCUMENT  WHICH THE COMPANY
+DESIRES TO KEEP UNDISCLOSED AND A COPY OF THE UNREDACTED  DOCUMENT WILL BE FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.]
+<PAGE>
+3.2      GCI interconnection responsibilities will include:
+
+"MCI FTS-2001 Alaska Network Diagram V.3...December 22, 1999"
+
+[A DIAGRAM USING SYMBOLS AND FLOW LINES IN DESCRIBING THE USE OF FACILITIES TO
+SUPPORT THE COMPANY'S PROVIDING FTS-2001 SERVICES IN ALASKA]
+<PAGE>
+"MCI FTS-2001 Alaska Network Diagram V.3...January 13, 2000"
+
+[A DIAGRAM USING SYMBOLS AND FLOW LINES IN DESCRIBING THE USE OF FACILITIES TO
+SUPPORT THE COMPANY'S PROVIDING FTS-2001 SERVICES IN ALASKA]
+<PAGE>
+a) Installing trunks dedicated to MCI WorldCom FTS2001 SVS traffic between:
+   - The GCI Fairbanks switch and the GCI Anchorage switch
+   - The GCI Juneau switch and the GCI Anchorage switch
+   - The GCI Anchorage switch and the MCI WorldCom Seattle switch
+         The sizing of these trunks will be mutually determined to ensure a P.01
+         grade of service for the applicable peak traffic requirements.
+b)       Dedicated access only - Switching and aggregating MCI WorldCom FTS2001
+         SVS originating traffic in Alaska. The Fairbanks and Juneau switches
+         will pass the traffic they aggregate to the Anchorage switch which will
+         in turn aggregate it with Anchorage traffic and pass it to the MCI
+         WorldCom Seattle switch via a dedicated trunk group with echo
+         cancellation. GCI will provide undersea fiber optic capacity for this
+         between their facilities in Anchorage and Seattle. MCI WorldCom will
+         assign LEC provided access capacity between the GCI Seattle POP and the
+         MCI WorldCom Seattle POP.
+c)       Switching and aggregating MCI WorldCom FTS2001 circuit switched data
+         (CSDS) traffic in a manner similar to (b) above and passing it to the
+         MCI WorldCom Seattle switch via a dedicated trunk group without echo
+         cancellation. This includes ********** capability for switched data
+         and video applications via the GCI "5E" network.
+
+Switching and terminating MCI WorldCom FTS2001 SVS and CSDS traffic from the MCI
+WorldCom Seattle switch to dedicated on-net FTS2001 terminations via the
+trunking arrangements described above.
+
+4.0      CUSTOMER SUPPORT
+
+MCI WorldCom will administer the customer service functions consistent with
+those as outlined in the FTS2001 contract. Customer service includes service
+ordering, billing, trouble reporting and account management. MCI WorldCom's
+Technical Service Center (TSC) in Cary, NC will act as the single interface for
+all Government inquires and will coordinate with the MCIW account teams for
+non-service affecting inquiries and GCI's services centers and personnel for
+service affecting issues. Customer service processes and procedures are defined
+in the following sections:
+   - Pricing/Pre-Sale Support
+   - Service Ordering
+   - Billing
+   - Network Management
+   - Reporting
+   - Trouble/Inquiry reporting
+
+4.1               Pricing/Pre-Sale Support
+
+GCI will support sales efforts for FTS2001 services in Alaska. MCI WorldCom will
+provide GCI the necessary information and training to enable GCI sales personnel
+to directly pursue and
+
+
+[CERTAIN  INFORMATION  HAS BEEN REDACTED  FROM THIS  DOCUMENT  WHICH THE COMPANY
+DESIRES TO KEEP UNDISCLOSED AND A COPY OF THE UNREDACTED  DOCUMENT WILL BE FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.]
+<PAGE>
+manage the sales of FTS2001 service with Alaska customers. GCI will notify and
+work with the MCIW agency specific account teams as required.
+MCI WorldCom will provide the following information to assist with GCI's FTS2001
+sales efforts:
+   - Electronic Files containing FTS2001 pricing information
+   - Access to FTSNet
+     - Price Quote Tool: Enables GCI reps to develop price quotes for FTS2001
+       service on-line
+     - access: Enable GCI to view order information
+     - Any other applications to support sales efforts
+   - MCIW Agency Specific account team points of contact
+   - MCIW Business Office points of contact
+     - Manages contract changes, modifications, multi-year and complex pricing
+       requests
+     - Manage GCI Statement of Work
+MCI WorldCom will advise GCI of ongoing contract modifications and price
+changes, when possible, at least 30 days in advance of implementation of the
+modification or change.
+
+4.2      Service Ordering
+
+The customer service ordering process for Alaska services defined in this SOW
+will be consistent with the service ordering process for FTS2001 services
+offered in the lower 48 states.
+
+Government users will be able to initiate service orders using a standard
+template via the FTSNet, web site, email, verbally or by facsimile. Copies and
+descriptions of these order forms are available at the FTS2001 website
+(www.mciwcomgovt.com).
+   - Government users may request FTS2001 service in Alaska through MCIW
+     directly or via GCI. Orders may be initiated via the following means:
+     - FTSNet: Government users that have been authorized and registered may
+       enter orders directly to MCIW, on-line via FTSNet.
+     - Facsimile: Government users may fax orders to: 888-HELP 2K1
+       (888-435-7251)
+     - E-mail: Government users may attach order templates to e-mail messages
+       and send to: ftssvc1@wcom.com
+     - GCI: Government users may submit orders to the GCI/FTS2001 Account
+       Representatives. GCI must submit the order to MCI WorldCom COB receipt of
+       order date via facsimile as defined above.
+   - This set of standard service order intervals adheres to standard commercial
+     intervals for MCI's best commercial customers. The service order intervals
+     begin the next business day following service order notification.
+<PAGE>
+    Table 3.9.4.1-1. Standard Service Order Intervals - Mandatory Services *
+
+Service                     Standard Interval         Standard Interval
+                            (With Telco)/business     (Without Telco)
+                            days
+Circuit Switched
+
+  Switched voice            19-25 days                7-12 days
+  Circuit switched data     19-25 days                7-12 days
+  Toll-free service         19-25 days                7-12 days
+  900 service               19-25 days                7-12 days
+Switched Data
+  Frame relay               36-41 days with MCI       15-20 days
+                            provided routers; 22-27
+                            days with Government
+                            provided routers
+
+Dedicated Transmission      19-24 days*               11-16 days
+
+*Note: Service order intervals associated with the transition process will
+adhere to the agreed upon Transition Plan.
+
+**DS3 requests evaluated on an ICB.
+
+Note: Disconnect orders and orders without telco loops are 30 days from service
+order notification.
+
+-  All received orders will be entered into the centralized FTS ordering system,
+   OrderMCI, and managed through to implementation by MCIW's Program Office.
+   When the Government submits a service request to MCI WorldCom for service(s)
+   in Alaska:
+   - MCI WorldCom will verify that the individual requesting the service is
+     authorized to request that type of service.
+   - Review the request data for completeness.
+   - If the service request is for services and/or equipment that are fully
+     defined and priced, MCI WorldCom will immediately assign a service order
+     number and issue the service order for processing by GCI.
+     - All FTS2001 orders will be captured and tracked in MCI WorldCom's
+       centralized service order tracking system. GCI will provide the MCIW
+       Program Office with the information necessary to support the required
+       order status notifications. Information required includes the
+       following:The Service Order Notification message will contain pertinent
+       information including the OrderMCI Service Order ID number, agency
+       service request number, relevant technical information, service
+       initiation charges and other costing data, and the expected
+       implementation date.
+     - When Government involvement is required to support the installation or
+       removal of equipment, and the due date is more than 10 days in the
+       future, GCI must advise MCIW to enable MCI WorldCom to notify the LGC or
+       the DAR of required Government actions as soon as possible and at least
+       10 business days prior to the required Government action. This
+       notification will allow MCI WorldCom to comply with the installation or
+       removal due date. GCI will provide the MCI WorldCom PMO with any Firm
+       Order Commitment dates/changes upon receipt.
+     - Within 24 hours of service order completion, GCI will provide the
+       information
+<PAGE>
+       necessary to enable the dedicated Account Team Service Order specialist
+       to notify the Government representatives identified in the service order
+       that implementation is complete by generating and transmitting a Service
+       Order Completion Notice. This message will identify all costs billed to
+       the Government, including any discounted or waived costs including SIC
+       charges, if waived, that are known for that billing period. MCI WorldCom
+       will initiate billing for the service on the Effective Billing Date
+       (EBD), contained within the Service Order Notification Message. This date
+       may directly correspond to Government acceptance testing of the service.
+       For successful 72-hour acceptance testing, billing will begin upon
+       completion of acceptance testing. Billing will not occur for services
+       that do not pass acceptance testing. Billing will cease for any service
+       disconnects on the approved or accepted disconnect date and upon issuance
+       of a notification to the requester.
+
+The Government will have the option of requesting service for an interval less
+than the stated standard interval of that service. GCI will make every effort to
+support expedited order requests and will advise MCIW of any associated charges
+above and beyond those outlined in the GCI/MCIW contract.
+
+The Government requires special ordering and handling for NSEP (National
+Security Emergency Preparedness). GCI will make every effort to support and
+manage these services as described in the FTS2001 contract and will provide MCIW
+the information needed to meet the Government's requirements.
+
+4.2.1    Switched Voice Service (PICs)
+
+The MCIW/GCI account teams will follow the standard procedures for PIC service
+by acquiring the Letter of Agreement (LOA) from the customer. The MCIW account
+team member or designated MCIW representative will forward the LOA along with
+the form required by GCI authorizing GCI to act as MCIW's agent requesting the
+PICs to GCI for MCIW.
+
+The PIC forms and associated information (NPA/NXXs, agency, agency hierarchy
+code, etc.,) will be submitted to the GCI Carrier Account Manager. MCIW will
+provide a point of contact and an order number, per order, to GCI.
+
+GCI Marketing will perform the following once the PIC orders are received:
+-  Upon receipt of PIC orders from MCIW, GCI will review orders to determine
+   which NPA/NXXs are in equal access areas and non-equal access areas. GCI will
+   notify the MCIW account team of requests in non-equal access areas. The MCIW
+   account team will work with the customer to order calling card service to
+   provide service in these areas.
+-  GCI will advise MCIW of the GCI FTS20001 Agency account for billing to MCI
+<PAGE>
+   WorldCom.
+-  MCIW and GCI will reconcile ANI inventory information based on customer
+   provided information, LEC provided information and GCI provided information
+-  GCI will implement the PIC changes with the local telco's.
+-  GCI will notify the MCIW PMO upon PIC completion and will assist with
+   customer testing as necessary.
+
+4.2.2    Switched Voice: ISDN/PRI
+
+4.2.3    Inter-State Private Lines and Frame Relay:
+
+MCIW and GCI will follow the procedures agreed upon to support commercial
+services.
+
+4.3      BILLING
+
+4.3.1    Intra-Alaska Calls:
+         - GCI will provide rated call detail records to MCIW no later than the
+           5th calendar day of the month following the traffic period. Records
+           provided will be consistent with MCIW's standard Vnet Call Detail
+           Record information and will identify the Alaska end-user customer.
+           MCIW will provide GCI the FTS 2001 contractual rates to be used and
+           will advise GCI of any required rate changes no less than 30 calendar
+           days in advance. GCI will implement any required rate changes within
+           30 calendar days of notification from MCIW.
+         - GCI will provide flat files of print ready information to MCIW
+           containing the Summary of Amount Due, and Usage Summary by Location
+           reports. The reports will contain the Government defined Agency
+           Hierarchy Code, MCI WorldCom provided Account Numbers, i.e.,
+           Corporate ID, BillPayer ID, OBUS Account Number, as well as the
+           customer name. These files will be provided no later than the 5th
+           calendar day of the month following the traffic period.
+
+Long Term Billing Solution:  MCIW and GCI will establish a working team to
+address the long term solution.
+
+4.3.2    Billing Disputes
+
+MCI WorldCom will act as the interface to receive FTS2001 customer billing
+disputes. FTS users may initiate a billing dispute by initiating a ticket in
+FTSNet, contacting the Customer Service Office (888-FTS-SVC1) or contacting
+their MCIW/GCI account team. GCI will support any billing dispute inquires, as
+required, for GCI provided services. MCIW will coordinate and manage the
+resolution of all billing disputes and will maintain responsibility for any
+customer facing activity.
+<PAGE>
+4.4      NETWORK MANAGEMENT
+
+The Technical Service Center (TSC) in Cary, NC is MCI WorldCom's primary network
+management center for monitoring FTS2001 networks. The TSC will be supported by
+GCI's Network Operation Center (NOC).
+
+Network Service Affecting Events relating to MCIW Services supported by GCI will
+be coordinated by GCI NOC with MCIW's TSC. The TSC can be reached by calling
+1-800-FTS-SVC1. Planned network events that effect all services will be
+communicated to the MCIW TSC via email and telephone no less than 48 hours
+before the event occurs. Maintenance events that result in an outage shall be
+scheduled with MCIW via email and telephone communications on average of
+fourteen (14) days (but no less than seven (7) days) before the event. Unplanned
+network events such as equipment failures and weather related outages shall be
+communicated to MCIW's TSC as soon as possible via either email and/or telephone
+communications.
+
+The primary interface with the Government will be through MCI WorldCom. GCI will
+provide data to MCI WorldCom to support its interface to the Government. GCI NOC
+will be available 24x7.
+
+4.5      REPORTING
+
+This section identifies the items that GCI shall provide to MCIW. In this
+section, the items GCI provides are called "deliverables."
+
+GCI shall provide the deliverables in the media specified by MCIW. See Section
+C.3.2.7 Data Requirements for the Government's requirements regarding the use of
+off-line media format.
+
+GCI shall provide the deliverables in "calendar" days unless otherwise
+specified. The deliverables include the items listed in Attachment 1, Schedule F
+attached hereto.
+
+GCI shall provide all the deliverables listed in Attachment 1, Schedule F to
+MCIW's FTS2001 CDRL Manager, unless the Manager specifies an alternate and/or
+secondary delivery location.
+
+GCI shall reference the "Contract Data Requirements List (CDRL) #", the
+"Section", and the "Description", as provided in Attachment 1, Schedule F for
+any correspondence, information, label and/or title that designates a
+deliverable.
+
+CDRL # identification for all deliverables shall be: "M-CDRL(number from
+Attachment 1)-(mmddyy)". The "M" in front of "CDRL#" is a subcontractor
+identifier. The "(mmddyy)" shall be assigned by GCI and shall represent the
+deliverable's delivery date to the
+<PAGE>
+Government.
+
+Examples of CDRL #'s:
+One Time Deliverables: M-CDRL0166-032599 is contract deliverable "Transition
+Verification Test Plan" (CDRL # 0166) with a represented delivery date to the
+Government of March (03) 25th (25), 1999 (99).
+
+Reoccurring Deliverables: M-CDRL0140-020900 is contract deliverable "Contract
+Modification Status Report" (CDRL # 0140) with a represented delivery date to
+the Government of February (02) 9th (09), 2000 (00). This is a monthly
+reoccurring deliverable. The next occurrence of the deliverable will be in the
+month of March and the CDRL # could be, "M-CDRL0140-031000", contract
+deliverable "Contract Modification Status Report" (CDRL # 0140) with a
+represented delivery date to the Government of March (03) 10th (10), 2000 (00).
+The first part of the CDRL # for this deliverable will always remain the same,
+"M-CDRL0140-", since it will always represent the deliverable "Contract
+Modification Status Report". The last part of the CDRL #, "-mmddyy", will change
+with each monthly submission of the deliverable. This same principle applies for
+any reoccurring deliverable whether it is a weekly, monthly, quarterly,
+semi-annual, or annual. If the deliverable occurs more than once for any reason
+this CDRL numbering scheme shall be applied.
+
+ 4.6     TROUBLE REPORTING/CUSTOMER INQUIRIES
+
+MCI WorldCom will act as the primary interface for Government users and will
+provide the support required by the FTS2001 contract. GCI's NOC will act as an
+extension of MCI's TSC by providing technical support, inventory management, and
+tracking capability for MCI WorldCom's Alaska FTS2001 services. GCI's NOC will
+be available 7 days a week, 24 hours a day to support MCI WorldCom's Customer
+Service Office.
+
+GCI will support MCI WorldCom in providing rapid trouble management of network
+problems via MCI WorldCom's TSC in Cary, NC, which operates 24 hours a day, 7
+days a week. The GCI NOC will provide direct monitoring of all MCIW supported
+services that are dedicated to the FTS2001 program. If a problem is identified,
+the GCI NOC, in coordination with the MCI WorldCom TSC, will resolve the problem
+and be responsible for the following issues.
+     - Identifying and clearing trouble for both agency-identified,
+       mission-critical Telecommunication Service Priority (TSP) services and
+       non mission-critical services
+     - Working cooperatively with other contractors (Government and
+       non-Government) to rapidly resolve problems
+     - Maintaining audit trails of trouble resolution activities
+     - Responding to inquiries concerning trouble resolution status
+     - Providing trend analysis and sorting of trouble reports and
+       administrative reports
+     - Providing trouble escalation for normal and emergency events
+<PAGE>
+MCIW will utilize its NSTHS (Network Systems Trouble Handling Standards) to
+support FTS2001 customer trouble management. The NSTHS contains the parameters
+used to status and escalate trouble tickets.
+
+GCI's NOC will address all Trouble Ticket inquires for all Alaska locations by
+MCIW and will work with MCIW to follow NSTHS. Appendix C attached hereto
+contains 1st-3rd Level GCI contacts available 7x24 by pager.
+
+Network Service Affecting Events relating to MCIW Services supported by GCI will
+be coordinated by GCI NOC with MCIW's TSC. The TSC can be reached by calling
+1-888-FTS-SVC1. Planned network events that effect all services will be
+communicated to the MCIW TSC via email and telephone no less than 48 hours
+before the event occurs. Maintenance events that result in an outage shall be
+scheduled with MCIW via email and telephone communications on average of
+fourteen (14) days (but no less than seven (7) days) before the event. Unplanned
+network events such as equipment failures and weather related outages shall be
+communicated to the MCIW's TSC as soon as possible via either email and/or
+telephone communications.
+
+5.0      PLANNING AND ENGINEERING
+
+GCI will provide planning and engineering support to ensure that appropriate
+network services will be available to meet evolving Government requirements.
+These activities will include the following:
+     - Ensuring network wide interoperability with other sub-contractors (i.e.
+       LECs, etc.,) as well as Government and commercial networks, where the
+       Government requires such interoperability.
+     - Developing and maintaining a contingency and restoration plan that
+       prevents deterioration of network services.
+
+
+6.0      TRANSITION, MIGRATION AND IMPLEMENTATION
+
+Transition, Migration and Implementation will be as defined in the FTS2001
+Alaska TMI SOW.
+<PAGE>
+                                   Appendix C
+               GCI Trouble Reporting Escalation Points of Contact
+
+
+     1st level
+     Anchorage
+     ---------
+     Rock Moreland      Supervisor Anchorage Distribution Center    907-777-6972
+     Ersa Kelley        Supervisor Network Operations Center        907-265-5594
+     Chris Mace         Supervisor Network Operations Center        907-265-5561
+     Victor Griffith    Supervisor Network Operations Center        907-265-5564
+
+     Juneau
+     ------
+     John Foster        Supervisor - Operations                     907-586-1944
+
+     Fairbanks
+     ---------
+     Larry Bendall      Supervisor - Operations                     907-456-3434
+
+     Seattle
+     -------
+     Bob Pfeiffer       Sr. Technician - Operations                 206-448-0966
+
+     2nd level
+     Dennis Handman     Director Network Operations                 907-265-5554
+
+     3rd level
+     Tony Lewkowski     VP Network Operations                       907-265-5515
+
+     4th level
+     Dick Westlund      VP Carrier Relations                        907 265 5632
+<PAGE>
+ATTACHMENT 1, SECTION F
+
+                            deliveries or performance
+F.1    52.252-2  CLAUSES INCORPORATED BY REFERENCE (JUN 1988)
+
+This contract incorporates one or more clauses by reference, with the same force
+and effect as if they were given in full text. Upon request, the Contracting
+Officer will make their full text available.
+
+Clause No.            FAR Clause No.         Title and Date
+----------            --------------         --------------
+   F.1.1              52.242-15              Stop Work Order (AUG 1989)
+
+   F.1.2              52.242-17              Government Delay of Work (APR 1984)
+
+   F.1.3              52.247-35              F.O.B. Destination with Consignees
+                                             Premises (APR 1984)
+
+F.2      DELIVERIES
+
+This section identifies the items that GCI shall deliver to MCIW, to the
+Government and/or the Government's agent(s).
+
+In this section, the items GCI delivers are called "deliverables."
+
+GCI shall provide the deliverables in the media specified by MCIW. Media needs
+to be delivered in one or more of the following formats: a) Web Browsers/Server
+Technology; b) E-mail; c) Magnetic tape cartridge; d) CD-ROM; e) Write Once,
+Read Many (WORM); f) 3-1/2" diskette; g) Paper h) Facsimile. See Section C.3.2.7
+Data Requirements for the Government's requirements regarding the use of on-line
+electronic access to data, off-line media, and electronic media formats.
+
+GCI shall provide the deliverables in "calendar" days unless otherwise
+specified. The deliverables include, but are not limited to, the items listed in
+Table F.2-1.
+
+GCI shall deliver all the deliverables listed in Table F.2-1 to the Contracting
+Officer's Technical Representative (COTR), unless the COTR specifies an
+alternate and/or secondary delivery location.
+
+GCI shall reference the "Contract Data Requirements List (CDRL) #", the
+"Section", and the "Description", as provided in Table F.2-1, for any
+correspondence, information, label and/or title that designates a deliverable.
+<PAGE>
+CDRL # identification for all deliverables shall be: "M-CDRL(number from Table
+F.2-1)-(mmddyy)". The "M" in front of "CDRL#" is a subcontractor identifier. The
+"(mmddyy)" shall be assigned by GCI and shall represent the deliverable's
+delivery date to the Government.
+
+Examples of CDRL #'s:
+One Time Deliverables: M-CDRL0166-032599 is contract deliverable "Transition
+Verification Test Plan" (CDRL # 0166) with a represented delivery date to the
+Government of March (03) 25th (25), 1999 (99).
+
+Reoccurring Deliverables: M-CDRL0140-020900 is contract deliverable "Contract
+Modification Status Report" (CDRL # 0140) with a represented delivery date to
+the Government of February (02) 9th (09), 2000 (00). This is a monthly
+reoccurring deliverable. The next occurrence of the deliverable will be in the
+month of March and the CDRL # could be, "M-CDRL0140-031000", contract
+deliverable "Contract Modification Status Report" (CDRL # 0140) with a
+represented delivery date to the Government of March (03) 10th (10), 2000 (00).
+The first part of the CDRL # for this deliverable will always remain the same,
+"M-CDRL0140-", since it will always represent the deliverable "Contract
+Modification Status Report". The last part of the CDRL #, "-mmddyy", will change
+with each monthly submission of the deliverable. This same principle applies for
+any reoccurring deliverable whether it is a weekly, monthly, quarterly,
+semi-annual, or annual. If the deliverable occurs more than once for any reason
+this CDRL numbering scheme shall be applied.
+
+Any inconsistency between Section F and Sections B, C, E or H, shall be resolved
+by giving Sections B, C, E or H precedence.
+<PAGE>
+<TABLE>
+                             Table F.2-Attachment 1. GCI Deliverables for Mandatory Services (Continued)
+<CAPTION>
+CDRL #  Descriptions From C.2: "Service    Quantity           Media of                  Where to            Submittal
+           Descriptions, Technical                            Delivery                  Deliver                Date
+                Requirements,
+               and Performance"
+<S>    <C>                                 <C>           <C>                        <C>                   <C>
+0004   Station Identified Call Detail      As required   Refer to Section C.3.2.7   To the FTS 2001 Bus.  Monthly or
+       Record Information - Centralized                                             Program Office        as requested
+       Billing
+
+0005   Station Identified Call Detail      As required   Refer to Section C.3.2.7   To the FTS 2001 Bus.  Monthly or
+       Record Information - Direct                                                  Program Office        as requested
+       Billing
+
+0006   Updated Security Plan               1 plan        Refer to Section C.3.2.7   To the FTS 2001 Bus.  Annually or
+                                                                                    Program Office        as requested
+
+0007   Report of All Security Violations   As required   Refer to Section C.3.2.7   To the FTS 2001 Bus.  Within 4 hours of the
+       and Breaches                                                                 Program Office        incident
+
+0015   Security Procedures                 1             Refer to Section C.3.2.7   To the FTS 2001 Bus.  Within 60 calendar days
+                                                                                    Program Office        after contract award
+
+0016   Graphical Representation of         1             Refer to Section C.3.2.7   To the FTS 2001 Bus.  Within 30 calendar days
+       Access Circuit Routes Showing                                                Program Office and to of the implementation
+       Implementation of Diversity or                                               affected agencies     of access diversity or
+       Avoidance                                                                                          avoidance and a change
+                                                                                                          is made
+</TABLE>
+<PAGE>
+<TABLE>
+                             Table F.2-Attachment 1. GCI Deliverables for Mandatory Services (Continued)
+<CAPTION>
+CDRL #  Descriptions From C.2: "Service    Quantity           Media of                  Where to            Submittal
+           Descriptions, Technical                            Delivery                  Deliver                Date
+                Requirements,
+               and Performance"
+<S>    <C>                                 <C>           <C>                        <C>                   <C>
+0017   Proposed Reconfiguration of         1             Refer to Section C.3.2.7   To the FTS 2001 Bus.  At least 30 calendar
+       Routes for Implementing Access                                               Program Office and to days in advance of
+       Diversity or Avoidance                                                       affected agencies     implementation
+
+0020   Call Status Report                  1             Refer to Section C.3.2.7   To the FTS 2001 Bus.  Daily within 24 hours
+                                                                                    Program Office        after end of day
+                                                                                                          (unless affected by
+                                                                                                          weekends or Federally
+                                                                                                          observed holiday); also
+                                                                                                          available weekly,
+                                                                                                          monthly, and quarterly
+
+0021   Caller Profile Report               1             Refer to Section C.3.2.7   To the subscribing    Daily within 24 hours
+                                                                                    agency and to the FTS after end of day
+                                                                                    2001 Bus. Program     (unless affected by
+                                                                                    Office (upon request) weekends or Federally
+                                                                                                          observed holiday)
+</TABLE>
+<PAGE>
+<TABLE>
+                             Table F.2-Attachment 1. GCI Deliverables for Mandatory Services (Continued)
+<CAPTION>
+CDRL #  Descriptions From C.2: "Service    Quantity           Media of                  Where to            Submittal
+           Descriptions, Technical                            Delivery                  Deliver                Date
+                Requirements,
+               and Performance"
+<S>    <C>                                 <C>           <C>                        <C>                   <C>
+0022   Caller Information Report           1             Refer to Section C.3.2.7   To the subscribing    Daily within 24 hours
+                                                                                    agency and to the FTS after end of day
+                                                                                    2001 Bus. Program     (unless affected by
+                                                                                    Office (upon request) weekends or Federally
+                                                                                                          observed holiday)
+
+0023   Caller Response Report Information  1             Refer to Section C.3.2.7   To the subscribing    Daily within 24 hours
+                                                                                    agency                after end of day
+                                                                                                          (unless affected by
+                                                                                                          weekends or Federally
+                                                                                                          observed holiday)
+
+0025   Call Status Report                  1             Refer to Section C.3.2.7   To the subscribing    Daily within 24 hours
+                                                                                    agency                after end of day
+                                                                                                          (unless affected by
+                                                                                                          weekends or Federally
+                                                                                                          observed holiday); also
+                                                                                                          available weekly,
+                                                                                                          monthly, and quarterly
+</TABLE>
+<PAGE>
+<TABLE>
+                             Table F.2-Attachment 1. GCI Deliverables for Mandatory Services (Continued)
+<CAPTION>
+CDRL #  Descriptions From C.2: "Service    Quantity           Media of                  Where to            Submittal
+           Descriptions, Technical                            Delivery                  Deliver                Date
+                Requirements,
+               and Performance"
+<S>    <C>                                 <C>           <C>                        <C>                   <C>
+0026   Caller Profile Report               1             Refer to Section C.3.2.7   To the subscribing    Daily within 24 hours
+                                                                                    agency and to the FTS after end of day
+                                                                                    2001 Bus. Program     (unless affected by
+                                                                                    Office (upon request) weekends or Federally
+                                                                                                          observed holiday)
+
+0027   Caller Information Report           1             Refer to Section C.3.2.7   To the subscribing    Monthly
+                                                                                    agency and to the FTS
+                                                                                    2001 Bus. Program
+                                                                                    Office (upon request)
+
+0028   Graphical Representation of         1             Refer to Section C.3.2.7   To the FTS 2001 Bus.  Within 30 calendar days
+       Transport Circuit Routes Showing                                             Program Office and to of the imple-mentation
+       Implementation of Diversity or                                               affected agencies     of transport diversity
+       Avoidance                                                                                          or avoidance and when a
+                                                                                                          change is made
+
+0029   Proposed Reconfiguration of         1             Refer to Section C.3.2.7   To the FTS 2001 Bus.  At least 30 calendar
+       Routes for Implementing Transport                                            Program Office and to days in advance of
+       Diversity or Avoidance                                                       affected agencies     implementation
+
+
+
+</TABLE>
+<PAGE>
+<TABLE>
+                                     Table F.2-Attachment 1. GCI Deliverables for Mandatory Services (Continued)
+<CAPTION>
+CDRL # Descriptions From C.3: "Management and        Quantity        Media of                  Where to            Submittal
+                 Operations"                                         Delivery                   Deliver              Date
+<S>    <C>                                           <C>       <C>                       <C>                   <C>
+0038   User Trouble and Complaint Report Procedures  1         Refer to Section C.3.2.7  To the FTS 2001 Bus.  Within 60 calendar
+                                                                                         Program Office        days after contract
+                                                                                                               award and revised
+                                                                                                               within 60 calendar
+                                                                                                               days afterreceiving
+                                                                                                               notice that revisions
+                                                                                                               are required
+
+0039   Updated Service Ordering and Tracking System  1         Refer to Section C.3.2.7  To the FTS 2001 Bus.  Within 30 calendar
+             Procedures and Related Intervals                                            Program Office        days after contract
+                                                                                                               award
+
+0044   Service Order Notification, Request for       1    Refer to Section C.3.2.7       To the Designated     Within 3 business
+       Clarification, or Rejection Notice                                                Agency Representative days after issuance
+                                                                                         and to the FTS 2001   of Service Request
+                                                                                         Bus. Program Office   Acknowledgment
+</TABLE>
+<PAGE>
+<TABLE>
+                             Table F.2-Attachment 1. GCI Deliverables for Mandatory Services (Continued)
+<CAPTION>
+CDRL # Descriptions From C.3: "Management and        Quantity        Media of                  Where to            Submittal
+                 Operations"                                         Delivery                   Deliver              Date
+<S>    <C>                                           <C>       <C>                       <C>                   <C>
+0045   Service Order Completion Notice               1         Consistent with medium    To Government         Within 24 hours of
+                                                               of submission as          representatives       completion of the
+                                                               specified in              identified in the     service order
+                                                               Section C.3.5.4.1         service order and to
+                                                               except for voice-only     the FTS 2001 Bus.
+                                                               notification, which is    Program Office
+                                                               not permitted
+
+0047   Standard Service Order Processing Intervals   1         Refer to Section C.3.2.7  To the FTS 2001 Bus.  Within 30 calendar
+                                                                                         Program Office and to days prior to any
+                                                                                         affected agencies     change to service
+                                                                                                               order intervals;
+                                                                                                               within 7 calendar
+                                                                                                               days prior to any
+                                                                                                               extension of the
+                                                                                                               intervals
+
+0049   Service Order Tracking and Administrative     1 set     Refer to Section C.3.2.7  To the FTS 2001 Bus.  Monthly within 15
+       Measurements                                                                      Program Office and to business days after
+                                                                                         subscribing agencies  the end of the
+                                                                                                               previous month
+
+
+
+0050   Centralized Billing Data and CDR Exchange     1 set     Refer to Section C.3.2.7  To the FTS 2001 Bus.  Monthly
+                                                                                         Program Office and to
+                                                                                         authorized agency
+                                                                                         users
+</TABLE>
+<PAGE>
+<TABLE>
+                             Table F.2-Attachment 1. GCI Deliverables for Mandatory Services (Continued)
+<CAPTION>
+CDRL # Descriptions From C.3: "Management and        Quantity        Media of                  Where to            Submittal
+                 Operations"                                         Delivery                   Deliver              Date
+<S>    <C>                                           <C>       <C>                       <C>                   <C>
+0051   Direct Billing Data and CDR Exchange          1 set     Refer to Section C.3.2.7  To the FTS 2001 Bus.  Monthly
+                                                                                         Program Office
+
+0052   Call Detail Records                           1         Refer to Section C.3.2.7  To the FTS 2001 Bus.  Monthly, or with 60
+                                                                                         Program Office        calendar days notice
+                                                                                                               to specified agencies
+
+0056   Invoice Format Changes                        1 set     Refer to Section C.3.2.7  To the FTS 2001 Bus.  60 calendar days
+                                                                                         Program Office        advance notice
+
+       FTS 2001 Bus. Program Office                                                      FTS 2001 Bus. Program
+                                                                                         Office
+
+       FTS 2001 Bus. Program Office                                                      FTS 2001 Bus. Program
+                                                                                         Office
+
+0065   Network Service Affecting Event Reports       1 set     As specified by GCI       To the FTS 2001 Bus.  As events occur
+                                                                                         Program Office
+
+0204   Notification of Any Subcontractor Network     1         Refer to Section C.3.2.7  To the FTS 2001 Bus.  As required
+       and Related Support Systems' Configuration                                        Program Office
+       Changes Affecting or Likely to Affect Users'
+       Services and Resources
+
+0066   Network Security Breach Detections            1         Refer to Section C.3.2.7  To the FTS 2001 Bus.  Within the time frame
+                                                                                         Program Office        normally provided
+                                                                                                               commercial customers
+</TABLE>
+<PAGE>
+<TABLE>
+                             Table F.2-Attachment 1. GCI Deliverables for Mandatory Services (Continued)
+<CAPTION>
+CDRL # Descriptions From C.3: "Management and        Quantity        Media of                  Where to            Submittal
+                 Operations"                                         Delivery                   Deliver              Date
+<S>    <C>                                           <C>       <C>                       <C>                   <C>
+0067   Fraud Detections                              1         Refer to Section C.3.2.7  To the FTS 2001 Bus.  Within the time frame
+                                                                                         Program Office and    normally provided
+                                                                                         affected agencies     commercial customers
+
+0068   Fraud Prevention Procedures                   1         Refer to Section C.3.2.7  To the FTS 2001 Bus.  Initial update within
+                                                                                         Program Office        60 calendar days
+                                                                                                               after notice to
+                                                                                                               proceed with further
+                                                                                                               updates as requested
+                                                                                                               by the FTS 2001 Bus.
+                                                                                                               Program Office
+
+0206   Notification to the FTS 2001 Bus. Program     1         Refer to Section C.3.2.7  To the FTS 2001 Bus.  At least 60 calendar
+       Office (PMO) of All Significant Planned                                           Program Office        days in advance of
+       Changed to GCI's Network                                                                                the planned changes
+
+0070   Archived Trouble Report Data                  1 set     As specified by GCI       To the FTS 2001 Bus.  As requested by the
+                                                                                         Program Office and to FTS 2001 Bus. Program
+                                                                                         the agencies          Office within the
+                                                                                                               timeframe normally
+                                                                                                               provided commercial
+                                                                                                               customers
+
+</TABLE>
+<PAGE>
+<TABLE>
+                             Table F.2-Attachment 1. GCI Deliverables for Mandatory Services (Continued)
+<CAPTION>
+CDRL # Descriptions From C.3: "Management and        Quantity        Media of                  Where to            Submittal
+                 Operations"                                         Delivery                   Deliver              Date
+<S>    <C>                                           <C>       <C>                       <C>                   <C>
+0109   Revised Private Dialing Plan for              1         Refer to Section C.3.2.7  To the Implementation Within 15 calendar
+       Implementation                                                                    Control Center        days after receiving
+                                                                                                               the review from the
+                                                                                                               Implementation
+                                                                                                               Control Center
+
+0215   Establishment (Notification) of               1         Refer to Section C.3.2.7  To the FTS 2001 Bus.  Within 15 calendar
+       an Office of Implementation                                                       Program Office        days following notice
+       Management (OIM)                                                                                        to begin an
+                                                                                                               implementation
+                                                                                                               project
+
+0110   Content and Status of Service                 1         As specified by GCI       To the FTS 2001 Bus.  Updated daily
+       Orders Information Associated                                                     Program Office
+       with Implementation of Services
+
+0111   Implementation Network and User               1 set     Refer to Section C.3.2.7  To the FTS 2001 Bus.  No later than 15
+       Location Inventories                                                              Program Office        calendar days after
+                                                                                                               GCI begins conducting
+                                                                                                               network and user
+                                                                                                               location inventories
+
+0112   Implementation Traffic Statistics             1 set     Refer to Section C.3.2.7  To the FTS 2001 Bus.  No later than 15
+                                                                                         Program Office        calendar days after
+                                                                                                               approval of GCI's
+                                                                                                               Implementation Plan
+</TABLE>
+<PAGE>
+<TABLE>
+                             Table F.2-Attachment 1. GCI Deliverables for Mandatory Services (Continued)
+<CAPTION>
+CDRL # Descriptions From C.3: "Management and        Quantity        Media of                  Where to            Submittal
+                 Operations"                                         Delivery                   Deliver              Date
+<S>    <C>                                           <C>       <C>                       <C>                   <C>
+0114   Implementation Notification and               As        Refer to Section C.3.2.7  To the Local          At least 60 calendar
+       Scheduling for Local Government               required                            Government Contact    days before the
+       Contact                                                                           and to the FTS2001    location is to be
+                                                                                         Bus Office            implemented, except
+                                                                                                               as otherwise directed
+                                                                                                               by the Government
+
+0115   Implementation Notification and               As        Refer to Section C.3.2.7  To the Local          At least 60 calendar
+       Documentation for Local                       required                            Government Contact    days prior to
+       Government Contact and                                                            and Implementation    implementation
+       Implementation Control Center                                                     Control Center and    activities beginning
+                                                                                         to the FTS2001 Bus    at a location
+                                                                                         Office
+
+0216   Establishment (Notification) of               1         Refer to Section C.3.2.7  To the Implementation At least 50 calendar
+       Local Committee(s) for                                                            Control Center        days prior to the
+       Implementation                                                                                          start of service
+                                                                                                               initiation activities
+                                                                                                               at the location
+
+</TABLE>
+<PAGE>
+<TABLE>
+                             Table F.2-Attachment 1. GCI Deliverables for Mandatory Services (Continued)
+<CAPTION>
+CDRL #   Descriptions From C.5: "National        Quantity         Media of                  Where to             Submittal
+             Security and Emergency                               Delivery                  Deliver                 Date
+                 Preparedness"
+<S>    <C>                                       <C>        <C>                       <C>                   <C>
+0116   Updated Assured Switched Voice            1          Refer to Section C.3.2.7  To the FTS 2001 Bus.  First update one year
+       Service Administrative Plan                                                    Program Office        after contract award;
+                                                                                                            updated annually
+                                                                                                            thereafter on each
+                                                                                                            anniversary of contract
+                                                                                                            award
+
+0117   Updated Assured Switched Voice            1          Refer to Section C.3.2.7  To the FTS 2001 Bus.  First update one year
+       Service Operational Plan                                                       Program Office        after contract award;
+                                                                                                            updated annually
+                                                                                                            thereafter on each
+                                                                                                            anniversary of contract
+                                                                                                            award
+
+0118   Updated Assured Switched Voice            1          Refer to Section C.3.2.7  To the FTS 2001 Bus.  First update one year
+       Service Management Plan                                                        Program Office        after contract award;
+                                                                                                            updated annually
+                                                                                                            thereafter on each
+                                                                                                            anniversary of contract
+                                                                                                            award
+
+0119   Updated Subcontractor Emergency           1          Refer to Section C.3.2.7  To the FTS 2001 Bus.  Annually on each
+       Management Plans                                                               Program Office        anniversary of contract
+                                                                                                            award
+
+0120   Notification of Major Consequences        1          Refer to Section C.3.2.7  To the FTS 2001 Bus.  Immediately
+       on the Network                                                                 Program Office and to
+                                                                                      affected agencies
+</TABLE>
+<PAGE>
+<TABLE>
+                            Attachment 1Table F.2-1. GCI Deliverables for Mandatory Services (Continued)
+<CAPTION>
+CDRL #       Descriptions From C.6:              Quantity           Media of               Where to               Submittal
+          "Performance Data Reporting                               Delivery               Deliver                   Date
+                 Requirements"
+<S>    <C>                                       <C>        <C>                       <C>                   <C>
+0121   Performance Data Reports                  As         Refer to Section C.3.2.7  To the FTS 2001 Bus.  Monthly - on or before
+                                                 required                             Program Office and to the 15th Government
+                                                                                      subscribing agencies  business day of the
+                                                                                                            month following the
+                                                                                                            reporting interval;
+                                                                                                            Daily - by 0800 Local
+                                                                                                            Time of each Government
+                                                                                                            business day
+
+0122   Performance Data Reports (Printed         As         Paper                     To FTS 2001 Bus.      Within 5 business days
+       format)                                   required                             Program Office and    from when the report
+                                                 and                                  subscribing agencies, was due electronically
+                                                 requested                            upon request
+
+0123   Special Reports                           1 set      Refer to Section C.3.2.7  To the FTS 2001 Bus.  Case-by-case basis as
+                                                                                      Program Office and to negotiated with the
+                                                                                      requesting agencies   Government
+
+0124   Archived Reports                          1 set      Refer to Section C.3.2.7  To the FTS 2001 Bus.  Within 96 hours after
+                                                                                      Program Office and to the request is made
+                                                                                      requesting agencies
+</TABLE>
+<PAGE>
+<TABLE>
+                            Attachment 1Table F.2-1. GCI Deliverables for Mandatory Services (Continued)
+<CAPTION>
+CDRL #       Descriptions From C.6:              Quantity           Media of               Where to               Submittal
+          "Performance Data Reporting                               Delivery               Deliver                   Date
+                 Requirements"
+<S>    <C>                                       <C>        <C>                       <C>                   <C>
+0125   Agency-Specific Performance Data          1 set      Refer to Section C.3.2.7  To the FTS 2001 Bus.  As requested by the FTS
+                                                                                      Program Office and to 2001 Bus. Program
+                                                                                      subscribing agencies  Office or a subscribing
+                                                                                                            agency
+
+0126   Status of Network Fraud and               1          Refer to Section C.3.2.7  To the FTS 2001 Bus.  Monthly - on or before
+       Security Breach Detections Report                                              Program Office and    the 15th Government
+                                                                                      subscribing  agencies business day of the
+                                                                                                            month following the
+                                                                                                            reporting interval
+
+0127   Service Order Completion Status           1          Refer to Section C.3.2.7  To the FTS 2001 Bus.  Monthly - on or before
+       Report                                                                         Program Office and    the 15th Government
+                                                                                      subscribing agencies  business day of the
+                                                                                                            month following the
+                                                                                                            reporting interval
+</TABLE>
+<PAGE>
+<TABLE>
+                            Attachment 1Table F.2-1. GCI Deliverables for Mandatory Services (Continued)
+<CAPTION>
+CDRL #       Descriptions From C.6:              Quantity           Media of               Where to               Submittal
+          "Performance Data Reporting                               Delivery               Deliver                   Date
+                 Requirements"
+<S>    <C>                                       <C>        <C>                       <C>                   <C>
+0128   Trouble Reports Status Report             1          Refer to Section C.3.2.7  To the FTS 2001 Bus.  Monthly - on or before
+                                                                                      Program Office and to the 15th Government
+                                                                                      subscribing agencies  business day of the
+                                                                                                            month following the
+                                                                                                            reporting interval
+
+       FTS 2001 Bus. Program Office                                                   FTS 2001 Bus. Program
+                                                                                      Office
+
+0130   FTS 2001 Bus. Program Office              1          Refer to Section C.3.2.7  To the FTS 2001 Bus.  Monthly by the 15 th
+       Monthly Dispute Report                                                         Program Office        business day
+
+
+0132   Direct Billing Monthly Dispute            1 each     Refer to Section C.3.2.7  To each directly      Monthly by the 15 th
+       Report                                                                         billed agency         business day
+
+       FTS 2001 Bus. Program Office                                                   FTS 2001 Bus. Program
+                                                                                      Office
+
+0143   Service Assurance Service Restoral        1          Refer to Section C.3.2.7  To the FTS 2001 Bus.  Monthly - on or before
+       Time Reports - Access and                                                      Program Office and to the 15th Government
+       Transport Segments                                                             subscribing agencies  business day of the
+                                                                                                            month following the
+                                                                                                            reporting interval
+</TABLE>
+<PAGE>
+<TABLE>
+                            Attachment 1Table F.2-1. GCI Deliverables for Mandatory Services (Continued)
+<CAPTION>
+CDRL #       Descriptions From C.6:              Quantity           Media of               Where to               Submittal
+          "Performance Data Reporting                               Delivery               Deliver                   Date
+                 Requirements"
+<S>    <C>                                       <C>        <C>                       <C>                   <C>
+0144   Circuit Switched Services Percent         1          Refer to Section C.3.2.7  To the FTS 2001 Bus.  Monthly - on or before
+       Availability - Access Segment                                                  Program Office and to the 15th Government
+                                                                                      subscribing agencies  business day of the
+                                                                                                            month following the
+                                                                                                            reporting interval
+
+0145   Circuit Switched Services Percent         1          Refer to Section C.3.2.7  To the FTS 2001 Bus.  Monthly - on or before
+       Availability - Transport Segment                                               Program Office and to the 15th Government
+                                                                                      subscribing agencies  business day of the
+                                                                                                            month following the
+                                                                                                            reporting interval
+
+0146   Circuit Switched Service Busy Hour        1          Refer to Section C.3.2.7  To the FTS 2001 Bus.  Monthly - on or before
+       Grade of Service for Blockage -                                                Program Office and to the 15th Government
+       Access Segment                                                                 subscribing agencies  business day of the
+                                                                                                            month following the
+                                                                                                            reporting interval
+</TABLE>
+<PAGE>
+<TABLE>
+                            Attachment 1Table F.2-1. GCI Deliverables for Mandatory Services (Continued)
+<CAPTION>
+CDRL #       Descriptions From C.6:              Quantity           Media of               Where to               Submittal
+          "Performance Data Reporting                               Delivery               Deliver                   Date
+                 Requirements"
+<S>    <C>                                       <C>        <C>                       <C>                   <C>
+0147   Circuit Switched Services Busy            1          Refer to Section C.3.2.7  To the FTS 2001 Bus.  Monthly - on or before
+       Hour Grade of Service for Blockage                                             Program Office and to the 15th Government
+       - Transport Segment                                                            subscribing agencies  business day of the
+                                                                                                            month following the
+                                                                                                            reporting interval
+
+0151   Circuit Switched Service Trouble          1          Refer to Section C.3.2.7  To the FTS 2001 Bus.  Monthly - on or before
+       Reports                                                                        Program Office and to the 15th Government
+                                                                                      subscribing agencies  business day of the
+                                                                                                            month following the
+                                                                                                            reporting interval
+
+0152   Switched Data Services Percent            1          Refer to Section C.3.2.7  To the FTS 2001 Bus.  Monthly - on or before
+       Availability - Access Segment                                                  Program Office and to the 15th Government
+                                                                                      subscribing agencies  business day of the
+                                                                                                            month following the
+                                                                                                            reporting interval
+</TABLE>
+<PAGE>
+<TABLE>
+                            Attachment 1Table F.2-1. GCI Deliverables for Mandatory Services (Continued)
+<CAPTION>
+CDRL #       Descriptions From C.6:              Quantity           Media of               Where to               Submittal
+          "Performance Data Reporting                               Delivery               Deliver                   Date
+                 Requirements"
+<S>    <C>                                       <C>        <C>                       <C>                   <C>
+0153   Switched Data Services Percent            1          Refer to Section C.3.2.7  To the FTS 2001 Bus.  Monthly - on or before
+       Availability Reports - Transport                                               Program Office and to the 15th Government
+       Segment                                                                        subscribing agencies  business day of the
+                                                                                                            month following the
+                                                                                                            reporting interval
+
+0154   Switched Data Services                    1          Refer to Section C.3.2.7  To the FTS 2001 Bus.  Monthly - on or before
+       Transmission Performance Reports -                                             Program Office and to the 15th Government
+       Access Segment                                                                 subscribing agencies  business day of the
+                                                                                                            month following the
+                                                                                                            reporting interval
+
+0155   Switched Data Services                    1          Refer to Section C.3.2.7  To the FTS 2001 Bus.  Monthly - on or before
+       Transmission Performance Reports -                                             Program Office and to the 15th Government
+       Transport Segment                                                              subscribing agencies  business day of the
+                                                                                                            month following the
+                                                                                                            reporting interval
+</TABLE>
+<PAGE>
+<TABLE>
+                            Attachment 1Table F.2-1. GCI Deliverables for Mandatory Services (Continued)
+<CAPTION>
+CDRL #       Descriptions From C.6:              Quantity           Media of               Where to               Submittal
+          "Performance Data Reporting                               Delivery               Deliver                   Date
+                 Requirements"
+<S>    <C>                                       <C>        <C>                       <C>                   <C>
+0156   DTS Availability for Access and           1          Refer to Section C.3.2.7  To the FTS 2001 Bus.  Monthly - on or before
+       Transport Segments                                                             Program Office and to the 15th Government
+                                                                                      subscribing agencies  business day of the
+                                                                                                            month following the
+                                                                                                            reporting interval
+
+0158   Daily Status Morning Report               1          As specified in           To the FTS 2001 Bus.  By 0800 local time of
+                                                            Section C.3.7.1.1         Program Office and to each Government
+                                                                                      subscribing agencies  business day
+</TABLE>
+
+
+
+
+</TEXT>
+</DOCUMENT>

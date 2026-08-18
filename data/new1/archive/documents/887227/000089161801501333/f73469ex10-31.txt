@@ -1,0 +1,97 @@
+<DOCUMENT>
+<TYPE>EX-10.31
+<SEQUENCE>3
+<FILENAME>f73469ex10-31.txt
+<DESCRIPTION>EX-10.31
+<TEXT>
+
+<PAGE>   1
+
+                                                                  EXHIBIT 10.31
+
+
+
+                                    AMENDMENT
+
+        THIS AMENDMENT effective the 30th day of April, 2001 is by and between
+WellCheck, Inc. (the "Company") and GMR Marketing Inc., a Wisconsin corporation
+("GMR").
+
+                                   WITNESSETH:
+
+        WHEREAS, GMR entered into a letter agreement with Company dated January
+23, 2001, pursuant to which GMR engaged the Company to perform lipid, glucose
+and blood pressure screenings and other services in connection with the Pfizer
+Screen Test for Health 2001 (the "Program");
+
+        WHEREAS, the Company has collected and will continue to collect
+participant data in connection with the Program, including the names, addresses,
+demographic information, answers to risk assessment questionnaires, test results
+of participants and summaries and reports ("Participant Data"); and
+
+        WHEREAS, GMR and Company acknowledge that Pfizer, Inc. ("Pfizer") owns
+the Participant Data, and that GMR and the Company should take all steps
+consistent with Pfizer's ownership rights in the Participant Data.
+
+        NOW THEREFORE, in consideration of the foregoing and of the mutual
+covenants and agreements hereinafter contained, the parties agree as follows:
+
+        1. Ownership of Participant Data. The paragraph denoted as Participant
+Data in Exhibit A of the Letter Agreement is hereby deleted and the following
+text is inserted in its place:
+
+                Participant Data. GMR and Company acknowledge that any
+        participant data collected in connection with the Screenings, including
+        names, addresses, demographic information, answers to risk assessment
+        questionnaires, test results and reports and summaries ("Participant
+        Data") shall belong to Pfizer, Inc. Company agrees to use the
+        Participant Data only in accordance with Pfizer's instructions and in
+        accordance with applicable laws and each party's respective privacy
+        policies.
+
+                To this end, all Participant Data meeting the definition of
+        "Works for Hire" as set forth in the Copyright Act of 1976 shall be
+        deemed "Works for Hire" for the benefit of Pfizer. To the extent the
+        Participant Data might not be considered "Works for Hire," Company
+        hereby assigns to Pfizer all of its right, title and interest in the
+        Participant Data.
+
+        2. Further Assurance. Company shall, from time to time, take such action
+as Pfizer requests in order to ensure Pfizer's ownership and control over the
+Participant Data, including sending the Participant Data.
+
+        3. Counterparts. The Amendment may be executed in counterparts each of
+which when so executed and delivered shall be deemed to be an original and all
+of which together shall constitute one instrument.
+
+
+<PAGE>   2
+
+
+           IN WITNESS WHEREOF, the undersigned parties have duly executed this
+Agreement as of the date first written above.
+
+
+
+                                            GMR MARKETING INC.
+
+
+                                            By:  /s/  Bryan J. Buske
+                                               --------------------------------
+                                            Name:  Bryan J. Buske
+                                            Title: Chief Operating Officer
+
+
+                                            WELLCHECK, INC.
+
+
+                                            By:  /s/  Warren E. Pinckert II
+                                               --------------------------------
+                                            Name:  Warren E. Pinckert II
+                                            Title: President
+
+
+
+                                      -2-
+</TEXT>
+</DOCUMENT>

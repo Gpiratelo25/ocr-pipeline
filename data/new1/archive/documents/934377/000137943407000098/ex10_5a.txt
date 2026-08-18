@@ -1,0 +1,3029 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>13
+<FILENAME>ex10_5a.txt
+<DESCRIPTION>EXHIBIT 10.5(A)
+<TEXT>
+<PAGE>
+
+                                                                 Exhibit 10.5(A)
+
+                                                                  EXECUTION COPY
+
+================================================================================
+
+                               SERVICING AGREEMENT
+                             (AMENDED AND RESTATED)
+
+                                 BY AND BETWEEN
+
+                           WASHINGTON MUTUAL BANK, FA
+                                   (SERVICER)
+
+                  BANC OF AMERICA MORTGAGE CAPITAL CORPORATION
+
+                                     (OWNER)
+
+                                       AND
+
+                              BANK OF AMERICA, N.A.
+  (AS SUCCESSOR IN INTEREST TO THE OWNER WITH RESPECT TO CERTAIN MORTGAGE LOANS
+                       PURCHASED PRIOR TO THE DATE HEREOF)
+
+                            DATED AS OF JULY 1, 2003,
+   AMENDING AND RESTATING THE SERVICING AGREEMENT DATED AS OF JANUARY 1, 2002
+
+                      RESIDENTIAL FIRST LIEN MORTGAGE LOANS
+                              FLOW DELIVERY PROGRAM
+
+================================================================================
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                                           PAGE
+                                                                                           ----
+<S>                                                                                         <C>
+ARTICLE 1. DEFINITIONS..................................................................     2
+
+ARTICLE 2. ADMINISTRATION AND SERVICING OF MORTGAGE LOANS...............................     8
+
+           Section 2.1    Identification of Mortgage Loans; Servicer to Act
+                          as Servicer...................................................     8
+           Section 2.2    Liquidation of Mortgage Loans.................................    10
+           Section 2.3    Collection of Mortgage Loan Payments..........................    11
+           Section 2.4    Establishment of Account; Deposits in Account.................    11
+           Section 2.5    Permitted Withdrawals from the Account........................    13
+           Section 2.6    Establishment of Escrow Account; Deposits in Escrow Account;
+                          Escrow Analysis...............................................    14
+           Section 2.7    Permitted Withdrawals from the Escrow Account.................    14
+           Section 2.8    Payment of Taxes, Insurance and Other Charges.................    15
+           Section 2.9    Transfer of Accounts..........................................    15
+           Section 2.10   Maintenance of Hazard Insurance...............................    15
+           Section 2.11   Fidelity Bond; Errors and Omissions Insurance.................    16
+           Section 2.12   Title, Management and Disposition of Real Estate Owned........    17
+           Section 2.13   Application of Proceeds of Insurance to Repair
+                          or Restoration................................................    19
+           Section 2.14   Inspections...................................................    19
+           Section 2.15   Maintenance of Primary Mortgage Insurance Policies;
+                          Collections Thereunder........................................    19
+           Section 2.16   Monthly Advances by the Servicer..............................    20
+           Section 2.17   Compliance With REMIC Provisions..............................    20
+           Section 2.18   Owner to Cooperate; Release of Collateral Files...............    21
+
+ARTICLE 3. PAYMENTS TO THE OWNER........................................................    21
+
+           Section 3.1    Distributions.................................................    21
+           Section 3.2    Reports.......................................................    22
+           Section 3.3    Liquidation Reports...........................................    22
+
+ARTICLE 4. GENERAL SERVICING PROCEDURE; COVENANTS; REPRESENTATIONS AND WARRANTIES.......    23
+
+           Section 4.1    Assumption Agreements.........................................    23
+           Section 4.2    Satisfaction of Mortgages and Release of Collateral Files.....    23
+           Section 4.3    Servicing Compensation........................................    24
+           Section 4.4    Statements as to Compliance...................................    25
+           Section 4.5    Annual Independent Public Accountants' Servicing Report.......    26
+           Section 4.6    Owner's Right to Examine Servicer Records, etc................    26
+           Section 4.7    Cooperation...................................................    27
+           Section 4.8    Consents and Approvals........................................    27
+</TABLE>
+
+
+                                        i
+
+<PAGE>
+
+<TABLE>
+<S>                                                                                         <C>
+ARTICLE 5. THE SERVICER.................................................................    27
+
+           Section 5.1    Indemnification; Third Party Claims...........................    27
+           Section 5.2    Servicer Covenants; Merger or Consolidation of
+                          the Servicer..................................................    28
+           Section 5.3    Limitation on Liability of the Servicer and Others............    28
+           Section 5.4    Servicer Not to Resign........................................    29
+           Section 5.5    Transfer of Servicing.........................................    29
+           Section 5.6    Transfer of Mortgage Loans....................................    29
+           Section 5.7    Representations and Warranties of the Servicer................    30
+           Section 5.8    Security Measures; Availability of Information................    31
+
+ARTICLE 6. DEFAULT......................................................................    31
+
+           Section 6.1    Events of Default.............................................    31
+           Section 6.2    Waiver of Defaults............................................    33
+           Section 6.3    Survival of Certain Obligations and Liabilities of the
+                          Defaulted Servicer............................................    33
+
+ARTICLE 7. TERMINATION..................................................................    33
+
+           Section 7.1    Termination of Agreement......................................    33
+           Section 7.2    Termination of the Servicer Upon Unremedied Event
+                          of Default....................................................    34
+
+ARTICLE 8. PASS-THROUGH AND WHOLE LOAN TRANSFERS........................................    34
+
+           Section 8.1    Pass-Through Transfers or Whole Loan Transfers................    34
+           Section 8.2    Designation of a Master Servicer..............................    36
+           Section 8.3    Servicer's Purchase Right.....................................    37
+
+ARTICLE 9. MISCELLANEOUS PROVISIONS.....................................................    37
+
+           Section 9.1    Successor to the Servicer.....................................    37
+           Section 9.2    Amendment.....................................................    38
+           Section 9.3    Recordation of Agreement; Perfection of Security Interest;
+                          Further Assurances............................................    38
+           Section 9.4    Duration of Agreement.........................................    38
+           Section 9.5    Governing Law.................................................    39
+           Section 9.6    General Interpretive Principles...............................    39
+           Section 9.7    Reproduction of Documents.....................................    40
+           Section 9.8    Notices.......................................................    40
+           Section 9.9    Severability of Provisions....................................    41
+           Section 9.10   Exhibits and Schedules........................................    41
+           Section 9.11   Counterparts; Successors and Assigns..........................    41
+           Section 9.12   Effect of Headings............................................    41
+           Section 9.13   Other Agreements Superseded...................................    41
+           Section 9.14   Attorneys' Fees...............................................    41
+</TABLE>
+
+
+                                       ii
+
+<PAGE>
+
+                           DESCRIPTION OF ATTACHMENTS
+
+Exhibit A   FORM OF REQUEST FOR RELEASE OF DOCUMENTS AND RECEIPT
+
+Exhibit B   ACCOUNT LETTER AGREEMENT
+
+Exhibit C   ESCROW ACCOUNT LETTER AGREEMENT
+
+Exhibit D   SERVICER REQUIREMENTS
+
+Exhibit E   FORM OF OFFICER'S CERTIFICATE
+
+
+<PAGE>
+
+                               SERVICING AGREEMENT
+
+                             (AMENDED AND RESTATED)
+
+     This SERVICING AGREEMENT (AMENDED AND RESTATED) (this "Agreement") dated as
+of July 1, 2003, which amends and restates the Servicing Agreement dated as of
+January 1, 2002 (the "Original Servicing Agreement"), is between Washington
+Mutual Bank, FA, a savings association organized under the laws of the United
+States, in its capacity as servicer (the "Servicer"), Banc of America Mortgage
+Capital Corporation, a North Carolina corporation, and its successors and
+assigns, in its capacity as owner (the "Owner") and Bank of America, N.A.
+("BANA"), a national banking association, as a successor and assign of the Owner
+with respect to certain mortgage loans sold to the Owner prior to the date
+hereof.
+
+                              PRELIMINARY STATEMENT
+
+     WHEREAS, pursuant to that certain Mortgage Loan Purchase and Sale Agreement
+(Amended and Restated) of even date herewith among the Servicer, Washington
+Mutual Bank fsb and Washington Mutual Bank, each as a seller (the "Sellers"),
+the Owner as purchaser and BANA (the "Purchase Agreement"), and in reliance upon
+the representations, warranties and covenants of the Servicer contained herein
+and of the Sellers contained in the Purchase Agreement, the Owner has agreed to
+purchase from the Sellers, and the Sellers have agreed to sell to the Owner,
+without recourse and on a servicing-retained basis, certain residential, first
+lien mortgage loans on or after the date hereof;
+
+     WHEREAS, pursuant to that certain Mortgage loan Purchase and Sale Agreement
+(the "Original Purchase Agreement"), dated January 1, 2002, among Washington
+Mutual Bank, FA, Washington Mutual Bank fsb and Washington Mutual Bank, each as
+a seller (the "Sellers") and the Owner as purchaser, the Owner has purchased
+from the Sellers, and the Sellers have sold to the Owner, without recourse and
+on a servicing-retained basis, certain residential, first lien mortgage loans
+prior to the date hereof;
+
+     WHEREAS, the Servicer agreed to act as Servicer and, on behalf of each of
+the Sellers as agent and subservicer, to service such mortgage loans under the
+Original Servicing Agreement for the Owner from and after the purchase by the
+Owner of such mortgage loans;
+
+     WHEREAS, pursuant to various Assignment, Assumption and Recognition
+Agreements executed from time to time prior to the date hereof, the Owner has
+assigned its interest in such mortgage loans and the Original Purchase Agreement
+and the Original Servicing Agreement as each relates to such mortgage loans to
+BANA;
+
+     WHEREAS, the Servicer and the Owner desire to revise and prescribe the
+terms and conditions regarding the management, servicing, and control of all
+mortgage loans purchased by the Owner from the Sellers before, on or after the
+date hereof;
+
+
+                                        1
+
+<PAGE>
+
+     NOW, THEREFORE, in consideration of the mutual agreements and covenants
+herein contained and other good and valuable consideration, the receipt and
+sufficiency of which are hereby acknowledged, the Servicer, BANA and the Owner
+agree as follows:
+
+                                   ARTICLE 1.
+
+                                   DEFINITIONS
+
+     Capitalized terms used in this Agreement shall have the meanings specified
+in the Purchase Agreement, except that, whenever used herein, the following
+words and phrases, unless the context otherwise requires, shall have the
+following meanings:
+
+     Acceptable Servicing Procedures: The procedures, including prudent
+collection and loan administration procedures, and the standard of care employed
+by prudent mortgage servicers which service mortgage loans of the same type as
+the Mortgage Loans in the jurisdictions in which the related Mortgaged
+Properties are located. Such standard of care shall not be lower than that the
+Servicer customarily employs and exercises in servicing and administering
+similar mortgage loans for its own account and shall be in full compliance with
+all federal, state and local laws, ordinances, rules and regulations.
+
+     Account: The account or accounts created and maintained pursuant to Section
+2.4 of this Agreement.
+
+     Agreement: This Servicing Agreement (Amended and Restated), including all
+exhibits and schedules hereto, and all amendments hereof and supplements hereto.
+
+     Applicable Requirements: With respect to each Mortgage Loan, (i) the terms
+of the related Mortgage and Mortgage Note, (ii) the federal, state, local and
+foreign laws, statutes, rules, regulations, ordinances, standards, requirements,
+administrative rulings, orders and processes pertaining to such Mortgage Loan,
+including but not limited to those pertaining to the processing, origination and
+servicing of the Mortgage Loan, (iii) the requirements of the Owner as set forth
+in this Agreement, and (iv) Acceptable Servicing Procedures.
+
+     BANA: Bank of America, N.A., as successor in interest to the Owner with
+respect to certain Mortgage Loans purchased prior to the date of this Agreement.
+
+     Bank of America: As used in EXHIBIT D to this Agreement, the Owner of the
+relevant Mortgage Loans, which may for this purpose include Banc of America
+Mortgage Capital Corporation and BANA, based on their interests in the relevant
+Mortgage Loans.
+
+     BIF: The Bank Insurance Fund.
+
+     Business Day: Any day other than (i) a Saturday or Sunday or (ii) a day on
+which banking or savings and loan institutions in the States of Washington,
+California or New York are authorized or obligated by law or executive order to
+be closed.
+
+
+                                        2
+
+<PAGE>
+
+     Code: The Internal Revenue Code of 1986, as amended from time to time, or
+any successor statute thereto.
+
+     Condemnation Proceeds: All awards or settlements in respect of a taking of
+all or part of a Mortgaged Property by exercise of the power of eminent domain
+or condemnation.
+
+     Customer Information: All personal, nonpublic information about the
+Mortgagors that is supplied on behalf of the Mortgagors and is maintained by a
+party hereto.
+
+     Cut-off Date: With respect to any Mortgage Loan purchased on a Closing
+Date, the cut-off date specified in the Commitment Letter relating to the
+purchase and sale of the related Loan Pool.
+
+     Defaulted Servicer: As defined in Section 6.1.
+
+     Determination Date: The thirteenth (13th) day of each month (or if such day
+is not a Business Day, the next Business Day), commencing in the month following
+the end of the calendar month in which the first Cut-off Date occurs. A
+Determination Date is related to a Monthly Remittance Date if such Determination
+Date and such Monthly Remittance Date occur in the same calendar month.
+
+     Disclosure Document: As defined in Section 8.1(d).
+
+     Due Date: With respect to any Mortgage Loan, the day of the month on which
+Monthly Payments on such Mortgage Loan are due, exclusive of any days of grace,
+which day shall be the first day of the month unless otherwise specified on the
+related Mortgage Loan Schedule.
+
+     Due Period: The period beginning on the first day of any month and ending
+on the last day of such month.
+
+     Eligible Account: An account or accounts maintained with a Qualified
+Depository.
+
+     Escrow Account: The separate account or accounts created and maintained
+pursuant to Section 2.6.
+
+     Escrow Payments: The amounts constituting ground rents, taxes, assessments,
+water rates, sewer rents, municipal charges, mortgage insurance premiums, if
+any, fire and hazard insurance premiums, condominium charges and other payments
+required to be escrowed by the Mortgagor with the mortgagee pursuant to any
+Mortgage Loan or the Servicing Agreement.
+
+     Event of Default: Any one of the conditions or circumstances enumerated in
+Section 6.1.
+
+     Fannie Mae: Fannie Mae (formerly known as the Federal National Mortgage
+Association) and any successor thereto.
+
+     FDIC: The Federal Deposit Insurance Corporation or any successor thereto.
+
+     Fidelity Bond: A fidelity bond to be obtained by the Servicer pursuant to
+Section 2.11.
+
+
+                                        3
+
+<PAGE>
+
+     Final Recovery Determination: With respect to any defaulted Mortgage Loan
+or any REO Property, a determination made by the Servicer that all Condemnation
+Proceeds, Insurance Proceeds, Liquidation Proceeds and other payments or
+recoveries which the Servicer, in its reasonable good faith judgment, expects to
+be finally recoverable in respect thereof have been so recovered. The Servicer
+shall maintain records, prepared by a servicing officer of the Servicer, of each
+Final Recovery Determination.
+
+     GAAP: Generally Accepted Accounting Principles as promulgated by the
+Financial Accounting Standards Board from time to time.
+
+     Indemnified Party: As defined in Section 8.1(d).
+
+     Indemnitees: As defined in Section 4.4(c).
+
+     Initial Closing Date: January 28, 2002.
+
+     Insurance Proceeds: Proceeds of any Primary Mortgage Insurance Policy, any
+title policy, any hazard insurance policy or any other insurance policy covering
+a Mortgage Loan or the related Mortgaged Property, including any amounts
+required to be deposited in the Account pursuant to Section 2.10, to the extent
+such proceeds are not to be applied to the restoration of the related Mortgaged
+Property or released to the Mortgagor in accordance with Acceptable Servicing
+Procedures.
+
+     Late Collections: With respect to any Mortgage Loan, all amounts received
+during any Due Period, whether as late payments of Monthly Payments or as
+Insurance Proceeds, Liquidation Proceeds, Condemnation Proceeds or otherwise,
+which represent late payments or collections of Monthly Payments due but
+delinquent for a previous Due Period and not previously recovered.
+
+     Liquidation Proceeds: Cash received in connection with the liquidation of a
+defaulted Mortgage Loan, whether through the sale or assignment of the Mortgage
+Loan, trustee's sale, foreclosure sale or otherwise, or in connection with the
+sale of the Mortgaged Property if the Mortgaged Property is acquired in
+satisfaction of the Mortgage.
+
+     Master Servicer: As defined in Section 8.2(a).
+
+     Master Servicing Agreement: As defined in Section 8.2(a).
+
+     Monthly Advance: The aggregate of the advances made by the Servicer on any
+Monthly Remittance Date pursuant to Section 2.16(a).
+
+     Monthly Remittance Date: The eighteenth (18th) day of each month (or if
+such day is not a Business Day, the next Business Day), commencing in the month
+following the end of the calendar month in which the first Cut-off Date occurs.
+A Determination Date is related to a Monthly Remittance Date if such
+Determination Date and such Monthly Remittance Date occur in the same calendar
+month.
+
+
+                                        4
+
+<PAGE>
+
+     Monthly Servicer File: The Owner's Monthly Servicer File, as used in
+EXHIBIT D to this Agreement.
+
+     Moody's: Moody's Investors Service, Inc. or any successor thereto.
+
+     Mortgage Interest Rate: With respect to each Mortgage Loan, the annual rate
+at which interest accrues on such Mortgage Loan; and, as to each Mortgage Loan,
+as of the related Closing Date, the interest rate set forth in the related
+Mortgage Loan Schedule.
+
+     Net Rate: With respect to each Mortgage Loan, the annual rate at which
+interest thereon shall be remitted to the Owner (in each case computed on the
+basis of a 360-day year consisting of twelve 30-day months), which shall be
+equal to the Mortgage Interest Rate less the Servicing Fee Rate.
+
+     Nonrecoverable Advance: Any portion of any Servicing Advance or Monthly
+Advance previously made or proposed to be made in respect of a Mortgage Loan by
+the Servicer hereunder which the Servicer determines in its good faith judgment
+will not be ultimately recoverable from Late Collections.
+
+     Officer's Certificate: A certificate signed by a Vice President or other
+authorized officer and delivered to the Owner as required by this Agreement.
+
+     Opinion of Counsel: A written opinion of counsel, who may be an employee of
+the Servicer, reasonably acceptable to the Owner.
+
+     Original Purchase Agreement: That certain Mortgage Loan Purchase and Sale
+Agreement, dated as of January 1, 2002, among Washington Mutual Bank, FA,
+Washington Mutual Bank fsb and Washington Mutual Bank, each as a seller, and
+Banc of America Mortgage Capital Corporation, as purchaser.
+
+     Original Servicing Agreement: That certain Servicing Agreement, dated as of
+January 1, 2002, between Washington Mutual Bank, FA, as servicer, and Banc of
+America Mortgage Capital Corporation, as owner.
+
+     OTS: The Office of Thrift Supervision or any successor thereto.
+
+     Owner: Banc of America Mortgage Capital Corporation, a North Carolina
+corporation, and any successor owner of any of the Mortgage Loans.
+
+     Pass-Through Transfer: The sale or transfer of some or all of the Mortgage
+Loans by the Owner to a trust to be formed as part of a publicly issued or
+privately placed mortgage backed securities transaction.
+
+
+                                        5
+
+<PAGE>
+
+     Permitted Investments: Any one or more of the following obligations or
+securities:
+
+          (i) direct obligations of, or obligations fully guaranteed as to
+principal and interest by, the United States or any agency or instrumentality
+thereof, provided such obligations are backed by the full faith and credit of
+the United States;
+
+          (ii) repurchase obligations with respect to any security described in
+clause (i) above, provided that the unsecured long-term obligations of the party
+agreeing to repurchase such obligations are at the time rated by S&P or Moody's
+in one of its two highest rating categories;
+
+          (iii) federal funds, certificates of deposit, time deposits, and
+bankers' acceptances of any bank or trust company incorporated under the laws of
+the United States or any state, provided that the long-term debt obligations of
+such bank or trust company (or, in the case of the principal bank in a bank
+holding company system, the long-term debt obligations of the bank holding
+company) at the date of acquisition thereof have been rated by S&P or Moody's in
+one of its two highest rating categories; and
+
+          (iv) commercial paper of any corporation incorporated under the laws
+of the United States or any state thereof which on the date of acquisition has
+been rated by S&P or Moody's in its highest short-term rating category.
+
+     Portfolio Loans: As defined in Section 8.3.
+
+     Prepayment Charge: With respect to any Mortgage Loan, the prepayment
+premium or charge, if any, required under the terms of the related Mortgage Note
+to be paid in connection with a Principal Prepayment in Full or a Principal
+Prepayment in Part, to the extent permitted by applicable law.
+
+     Primary Mortgage Insurance Policy: With respect to each Mortgage Loan, the
+policy of primary mortgage insurance (including all endorsements thereto) issued
+with respect to such Mortgage Loan, if any, or any replacement policy.
+
+     Prime: As of any date of determination, the annual interest rate, adjusted
+daily, published from time to time in The Wall Street Journal (Western Edition)
+as the "PRIME RATE" in the "MONEY RATES" section. In the event that more than
+one such rate is specified, "Prime" shall mean the greatest of such rates.
+
+     Principal Prepayment: Any payment or other recovery of principal in full (a
+"Principal Prepayment in Full") or in part (a "Principal Prepayment in Part") of
+the then-outstanding principal on a Mortgage Loan (other than Condemnation
+Proceeds, Insurance Proceeds, and Liquidation Proceeds) which is received in
+advance of its scheduled Due Date (not including any Prepayment Charge thereon),
+and is not accompanied by an amount of interest representing scheduled interest
+due on any date or dates in any month or months subsequent to the month of
+prepayment.
+
+
+                                        6
+
+<PAGE>
+
+     Purchase Agreement: That certain Mortgage Loan Purchase and Sale Agreement
+(Amended and Restated) of even date herewith among Washington Mutual Bank, FA,
+Washington Mutual Bank fsb and Washington Mutual Bank as the sellers, the Owner
+as the purchaser, and Bank of America, N.A. as successor to the Owner with
+respect to certain Mortgage Loans.
+
+     Qualified Depository: Any of the following: (i) a depository, the long-term
+unsecured debt obligations of which are rated by Moody's or S&P (or a comparable
+rating agency) in one of its three highest rating categories, (ii) the corporate
+trust department of a national bank, (iii) a depository which fully insures the
+Account and the Escrow Account with insurance provided by the FDIC, or (iv) the
+Servicer.
+
+     REMIC: A "real estate mortgage investment conduit" within the meaning of
+Section 860D of the Code.
+
+     REMIC Provisions: Provisions of the federal income tax law relating to
+REMICs, which appear at Section 860G of Subchapter M of Chapter 1 of the Code
+and related provisions, and regulations promulgated thereunder, as in effect
+from time to time.
+
+     REO Management Fee: With respect to each REO Property, an amount equal to
+the greater of (i) $1,500 and (ii) 1.5% of the net cash proceeds of the sale of
+such REO Property.
+
+     REO Property: A Mortgaged Property acquired in foreclosure or by deed in
+lieu of foreclosure, as described in Section 2.12.
+
+     SAIF: The Savings Association Insurance Fund.
+
+     SEC: The Securities Exchange Commission.
+
+     S&P: Standard & Poor's Ratings Services, a division of The McGraw-Hill
+Companies, Inc., or its successor in interest.
+
+     Seller: As the context requires, any of Washington Mutual Bank, FA,
+Washington Mutual Bank fsb and/or Washington Mutual Bank, and their respective
+assigns and successors in interest.
+
+     Servicer: Washington Mutual Bank, FA, a savings association organized under
+the laws of the United States, or its permitted successor in interest or any
+successor to the Servicer under this Agreement appointed as herein provided.
+
+     Servicer Requirements: As defined in Section 3.2.
+
+     Servicer's Information: As defined in Section 8.1(d).
+
+     Servicing Advances: All customary, reasonable, and necessary "out of
+pocket" costs and expenses, including reasonable attorneys' fees and
+disbursements, incurred by the Servicer in the performance of its servicing
+obligations hereunder, including, without limitation, costs related to
+
+
+                                        7
+
+<PAGE>
+
+(i) the preservation, restoration, and protection of the Mortgaged Property,
+(ii) any enforcement or judicial proceedings, including foreclosures, (iii) the
+management and liquidation of the Mortgaged Property if the Mortgaged Property
+is acquired in satisfaction of the Mortgage and (iv) Servicer's compliance with
+the obligations set forth in Sections 2.2, 2.3, 2.8, 2.10, 2.12 and 2.15 of this
+Agreement.
+
+     Servicing Fee: With respect to each Mortgage Loan, the amount of the annual
+fee payable to the Servicer as compensation for servicing and administering such
+Mortgage Loan. Such fee shall, for a period of one full month, be equal to
+one-twelfth of the product of (i) the related Servicing Fee Rate, multiplied by
+(ii) the outstanding Unpaid Principal Balance of such Mortgage Loan. Such fee
+shall be payable monthly in accordance with Section 4.3 and shall be computed on
+the basis of the same principal amount and period respecting which any related
+interest payment on such Mortgage Loan is computed.
+
+     Servicing Systems: As defined in Section 3.2.
+
+     Transferred Loans: As defined in Section 8.3.
+
+     USAP: As defined in Section 4.5.
+
+     Whole Loan Transfer: Any sale or transfer of some or all of the Mortgage
+Loans by the Owner to a third party, which sale or transfer is not a
+Pass-Through Transfer.
+
+     Capitalized terms which are used herein but not otherwise defined shall
+have the meaning provided in the Purchase Agreement except to the extent that
+the context indicates otherwise.
+
+                                   ARTICLE 2.
+
+                 ADMINISTRATION AND SERVICING OF MORTGAGE LOANS
+
+     SECTION 2.1 IDENTIFICATION OF MORTGAGE LOANS; SERVICER TO ACT AS SERVICER
+
+          (a) From each Closing Date, the Servicer, as independent contract
+servicer, shall commence servicing and administering the Mortgage Loans
+purchased by the Owner on such Closing Date. Such servicing shall be in
+accordance with this Agreement and Acceptable Servicing Procedures, and, except
+as otherwise expressly provided in this Agreement, the Servicer shall have full
+power and authority, acting alone, to do any and all things in connection with
+such servicing and administration that the Servicer may deem necessary or
+desirable and consistent with the terms of this Agreement, including, without
+limitation, all action permitted or required to be taken under any related
+Primary Mortgage Insurance Policy. In servicing and administering the Mortgage
+Loans, the Servicer shall employ Acceptable Servicing Procedures, except that
+the Servicer shall employ the procedures set forth in this Agreement whenever
+the Acceptable Servicing Procedures conflict with the requirements under this
+Agreement. The Servicer shall at all times act in the best interests of the
+Owner in performing hereunder.
+
+          (b) The documents comprising the Collateral File and the Credit File
+with respect to each Mortgage Loan serviced hereunder and that are delivered to
+the Servicer, together
+
+
+                                        8
+
+<PAGE>
+
+with all other documents with respect to each such Mortgage Loan which are
+prepared by or which come into the possession of the Servicer, shall immediately
+vest in the Owner and shall be held and maintained in trust by the Servicer at
+the will of the Owner and in a custodial capacity only for the sole purpose of
+servicing or supervising the servicing of the related Mortgage Loans. The
+documents comprising each Collateral File and each Credit File and all related
+documents which come into the possession of the Servicer and are so held by the
+Servicer shall be appropriately marked to clearly reflect the ownership interest
+of the Owner in such Collateral File and Credit File and related documents. The
+Servicer shall release its custody of any such documents only in accordance with
+written instructions from the Owner, unless such release is required as
+incidental to the Servicer's servicing of the Mortgage Loans or is in connection
+with a repurchase or substitution of any Mortgage Loan pursuant to Section 3.3
+of the Purchase Agreement.
+
+          (c) Consistent with the terms of this Agreement, the Servicer may
+waive, modify or vary any term of any Mortgage Loan or consent to the
+postponement of strict compliance with any such term or in any manner grant
+indulgence to any Mortgagor if, in the Servicer's reasonable and prudent
+determination, such waiver, modification, variation, postponement or indulgence
+is in the best interests of the Owner; provided, however, that (unless the
+Mortgagor is in default with respect to the Mortgage Loan or such default is, in
+the judgment of the Servicer, imminent and the Servicer has obtained the prior
+written consent of the Owner) the Servicer shall not permit any modification
+with respect to any Mortgage Loan that would change the Mortgage Interest Rate,
+defer or forgive the payment of any principal or interest payments, reduce the
+outstanding principal amount (except for actual payments of principal) or extend
+the Maturity Date with respect to such Mortgage Loan. Without limiting the
+generality of the foregoing, the Servicer is hereby authorized and empowered to
+execute and deliver on behalf of itself and the Owner all instruments of
+satisfaction, cancellation, full release, or partial release or discharge, and
+all other comparable instruments with respect to the Mortgage Loans and the
+Mortgaged Properties. If reasonably required by the Servicer, the Owner shall
+furnish the Servicer with any powers of attorney and other documents necessary
+or appropriate to enable the Servicer to carry out its servicing and
+administrative duties under this Agreement.
+
+          (d) As to each ARM Loan, the Servicer shall make periodic Mortgage
+Interest Rate and Monthly Payment adjustments, as applicable, and execute and
+deliver all appropriate notices regarding the same, in strict compliance with
+Applicable Requirements. The Servicer shall establish procedures to monitor the
+Index in order to ensure that it uses the appropriate value for the Index in
+determining an interest rate change. The Servicer shall execute and deliver all
+appropriate notices required by (i) the terms of the Mortgage and Mortgage Note,
+(ii) all applicable laws and (iii) Acceptable Servicing Procedures regarding
+such Mortgage Interest Rate adjustments and Monthly Payment adjustments. If the
+Servicer fails to make a timely and correct Mortgage Interest Rate adjustment or
+Monthly Payment adjustment, the Servicer shall use its own funds to satisfy any
+shortage in the Mortgagor's Monthly Payment for so long as such shortage
+continues. In the event the Index, as specified in the related Mortgage Note,
+becomes unavailable for any reason, the Servicer shall select an alternative
+index based on comparable information, in accordance with the terms of the
+Mortgage Note, and such alternative index shall thereafter be the Index for such
+Mortgage Loan. In such event, the Servicer shall also determine a new Gross
+Margin. The new Gross Margin shall be the difference between (x) the average of
+
+
+                                        9
+
+<PAGE>
+
+the original Index for the most recent three-year period which ends on the last
+date the original Index was available plus the Gross Margin on the last date the
+original Index was available and (y) the average of the new Index for the most
+recent three-year period which ends on that date (or if not available for such
+three-year period, for such time as it is available), rounded as provided in the
+Mortgage Note.
+
+          (e) In connection with the servicing and administration of the
+Mortgage Loans and consistent with Acceptable Servicing Procedures, this
+Agreement and the Purchase Agreement, the Servicer shall have full power and
+authority to execute and deliver or cause to be executed and delivered on behalf
+of the Owner such instruments of assignment or other comparable instruments as
+the Servicer shall deem appropriate in order to register any Mortgage Loan on
+the MERS(R) System or cause the removal of any Mortgage Loan from registration
+on the MERS(R) System.
+
+     SECTION 2.2 LIQUIDATION OF MORTGAGE LOANS
+
+          (a) In the event that any payment due under any Mortgage Loan is not
+paid when the same becomes due and payable, or in the event the Mortgagor fails
+to perform any other covenant or obligation under the Mortgage Loan and such
+failure continues beyond any applicable grace period, the Servicer will proceed
+diligently to collect all payments due and shall take such action, including
+commencing foreclosure, as it shall reasonably deem to be in the best interests
+of the Owner.
+
+          (b) Notwithstanding the foregoing provisions of this Section 2.2, with
+respect to any Mortgage Loan as to which the Servicer has received actual notice
+of, or has actual knowledge of, the presence of any toxic or hazardous substance
+on the related Mortgaged Property, the Servicer shall not either (i) obtain
+title to such Mortgaged Property as a result of or in lieu of foreclosure or
+otherwise or (ii) otherwise acquire possession of, or (iii) take any other
+action with respect to, such Mortgaged Property if, as a result of any such
+action, the Owner would be considered to hold title to, to be a
+mortgagee-in-possession of, or to be an owner or operator of such Mortgaged
+Property within the meaning of the Comprehensive Environmental Response,
+Compensation and Liability Act of 1980, as amended from time to time, or any
+comparable law, unless the Servicer has either (x) obtained the written consent
+of the Owner or (y) previously determined, based on its reasonable judgment and
+a prudent report prepared by a Person who regularly conducts environmental
+audits using customary industry standards, that:
+
+               (i) such Mortgaged Property is in compliance with applicable
+environmental laws or, if not, that it would be in the best economic interest of
+the Owner to take such actions as are necessary to bring the Mortgaged Property
+into compliance therewith; and
+
+               (ii) there are no circumstances present at such Mortgaged
+Property relating to the use, management or disposal of any hazardous
+substances, hazardous materials, hazardous wastes, or petroleum-based materials
+for which investigation, testing, monitoring, containment, clean-up or
+remediation could be required under any federal, state or local law or
+regulation, or that if any such materials are present for which such action
+could be required, that
+
+
+                                       10
+
+<PAGE>
+
+it would be in the best economic interest of the Owner to take such actions with
+respect to the affected Mortgaged Property.
+
+The cost of the environmental audit report contemplated by this Section 2.2(b)
+shall be advanced by the Servicer as a Servicing Advance, subject to the
+Servicer's right to be reimbursed therefor from the Account.
+
+          (c) If the Servicer has (i) determined that it is in the best economic
+interest of the Owner to take such actions as are necessary to bring any such
+Mortgaged Property into compliance with applicable environmental laws, or to
+take such action with respect to the containment, clean-up or remediation of
+hazardous substances, hazardous materials, hazardous wastes, or petroleum-based
+materials affecting any such Mortgaged Property, or (ii) obtained the written
+consent of the Owner, in each case as described above, then the Servicer shall
+take such action as it deems to be in the best economic interest of the Owner
+(or as otherwise directed by the Owner). The cost of any such compliance,
+containment, clean-up or remediation shall be advanced by the Servicer as a
+Servicing Advance, subject to the Servicer's right to be reimbursed therefor
+from the Account and subject to the Servicer's right to make a judgment about
+whether any such advance would be a Nonrecoverable Advance.
+
+     SECTION 2.3 COLLECTION OF MORTGAGE LOAN PAYMENTS
+
+     Continuously from the Initial Closing Date until the principal and interest
+on all Mortgage Loans are paid in full, the Servicer will proceed diligently to
+collect all payments due under each of the Mortgage Loans when the same shall
+become due and payable. With respect to those Mortgage Loans, if any, as to
+which the Servicer collects Escrow Payments, the Servicer will ascertain or
+estimate annual ground rents, taxes, assessments, water rates, sewer rents,
+municipal charges, fire and hazard insurance premiums, condominium charges,
+mortgage insurance premiums and all other charges that, as provided in any
+Mortgage, will become due and payable, to the end that the Escrow Payments
+payable by the Mortgagors will be sufficient to pay such charges as and when
+they become due and payable. The Servicer shall not be required to institute or
+join in litigation with respect to collection of any payment (whether under a
+Mortgage, Mortgage Note, Primary Mortgage Insurance Policy or otherwise or
+against any public or governmental authority with respect to a taking or
+condemnation) if in its reasonable judgment it believes that the costs and
+expenses relating thereto would be Nonrecoverable Advances. The Servicer shall
+be entitled to be reimbursed from the Account for any costs, expenses or other
+liabilities incurred by the Servicer in connection with any such litigation
+solely from the proceeds of the related Mortgage Loan. The Servicer's right to
+such reimbursement shall be prior to the Owner's right to such proceeds.
+
+     SECTION 2.4 ESTABLISHMENT OF ACCOUNT; DEPOSITS IN ACCOUNT
+
+          (a) The Servicer shall establish and maintain one or more Accounts
+(collectively, the "Account") entitled "Washington Mutual Bank, FA, in trust for
+Banc of America Mortgage Capital Corporation, as Owner, and any successor
+Owner." The Account shall be an Eligible Account, established with an
+institution that is a Qualified Depository and maintained as a segregated
+account separate and apart from any of the Servicer's own funds and
+
+
+                                       11
+
+<PAGE>
+
+general assets. If the Account is established with an institution other than the
+Servicer, (i) the Account shall be evidenced by a letter agreement substantially
+in the form of EXHIBIT B attached hereto and (ii) the Servicer shall deliver a
+copy of such letter agreement to the Owner on or prior to the Initial Closing
+Date.
+
+          (b) The Servicer shall, upon receipt (and in all events by not later
+than the end of the second Business Day following receipt thereof) and on a
+daily basis, deposit in the Account and retain therein, the following payments
+and collections received or made by the Servicer subsequent to the related
+Cut-off Date :
+
+               (i) the principal portion of all Monthly Payments on the Mortgage
+Loans;
+
+               (ii) the interest portion of all Monthly Payments on the Mortgage
+Loans less the Servicing Fee;
+
+               (iii) all Principal Prepayments in Part and Principal Prepayments
+in Full;
+
+               (iv) all Liquidation Proceeds;
+
+               (v) all Insurance Proceeds, other than Insurance Proceeds to be
+held in the Escrow Account and applied to the restoration and repair of the
+Mortgaged Property or released to the Mortgagor in accordance with Acceptable
+Servicing Procedures;
+
+               (vi) all Condemnation Proceeds which are not released to the
+Mortgagor in accordance with the Owner's written consent and Acceptable
+Servicing Procedures;
+
+               (vii) any amount required to be deposited in the Account pursuant
+to Sections 2.4(d), 2.10, 2.12(c), 2.12(e) or 4.2(b);
+
+               (viii) any amounts payable in connection with the repurchase of
+any Mortgage Loan pursuant to Section 3.3 of the Purchase Agreement and all
+amounts required to be deposited in connection with the substitution of any
+Qualified Substitute Mortgage Loan pursuant to the Purchase Agreement; and
+
+               (ix) with respect to each Principal Prepayment, an amount (to be
+paid by the Servicer out of its own funds without reimbursement therefor) which,
+when added to all amounts allocable to interest received in connection with such
+Principal Prepayment, equals one month's interest on the amount of principal so
+prepaid at the Net Rate, provided, however, that in no event shall the aggregate
+of deposits made by the Servicer pursuant to this clause (ix) in respect of any
+Monthly Remittance Date exceed the aggregate amount of the Servicer's total
+servicing compensation in the calendar month in which such deposits are
+required.
+
+          (c) The Servicer shall, no later than 24 hours prior to the next
+Monthly Remittance Date, deposit in the Account all Monthly Advances.
+
+
+                                       12
+
+<PAGE>
+
+          (d) The Servicer may cause the funds on deposit from time to time in
+the Account maintained by such Servicer to be invested in Permitted Investments,
+which investments shall mature not later than the Business Day immediately
+preceding the next Monthly Remittance Date following the date of such
+investment. All such investments shall be made in the name of the Servicer or
+its nominee. All income and gain realized from any such investment shall be for
+the benefit of the Servicer and shall be subject to its withdrawal or order from
+time to time. The Servicer shall indemnify the Owner for any and all losses
+incurred in respect of any such investment by such Servicer, and the amount of
+any losses incurred in respect of any such investment shall be deposited in the
+Account by the Servicer out if its own funds, without reimbursement therefor, no
+later than 24 hours prior to the next Monthly Remittance Date.
+
+     SECTION 2.5 PERMITTED WITHDRAWALS FROM THE ACCOUNT
+
+     The Servicer may, from time to time, withdraw funds from the Account for
+the following purposes:
+
+               (i) to make payments and distributions to the Owner in the
+amounts and in the manner provided for in Section 3.1, and to pay itself any
+unpaid Servicing Fees, unpaid REO Management Fees and other servicing
+compensation in accordance with Section 4.3;
+
+               (ii) to reimburse itself for any unreimbursed Servicing Advances
+or Monthly Advances made with respect to any Mortgage Loan; provided that the
+Servicer's right to reimburse itself pursuant to this clause (ii) is limited to
+any amounts collected or received by the Servicer with respect to such Mortgage
+Loan;
+
+               (iii) to pay to itself any interest earned on funds deposited in
+the Account;
+
+               (iv) to make any payment or reimburse itself for any amount
+reimbursable to it pursuant to Sections 2.12(c), 2.12(e), 5.1(a) or 5.3;
+
+               (v) to reimburse itself for any Monthly Advance or Servicing
+Advance previously made which it has determined to be a Nonrecoverable Advance;
+
+               (vi) if there shall be amounts deposited in error or there shall
+be amounts deposited in the Account not required to be deposited therein,
+including the Servicing Fee and other servicing compensation, to withdraw such
+amount from the Account any provision herein to the contrary notwithstanding;
+
+               (vii) to transfer funds to another Qualified Depository in
+accordance with Section 2.9; and
+
+               (viii) to clear and terminate the Account upon the termination of
+this Agreement in accordance with Article 7.
+
+
+                                       13
+
+<PAGE>
+
+     SECTION 2.6 ESTABLISHMENT OF ESCROW ACCOUNT; DEPOSITS IN ESCROW ACCOUNT;
+ESCROW ANALYSIS
+
+          (a) The Servicer shall segregate and hold all funds collected and
+received pursuant to the Mortgage Loans which constitute Escrow Payments
+separate and apart from any of its own funds and general assets and shall
+establish and maintain one or more Escrow Accounts (collectively, the "Escrow
+Account"), in the form of time deposit or demand accounts, which may be interest
+bearing, entitled "Washington Mutual Bank, FA, in trust for Banc of America
+Mortgage Capital Corporation, as Owner, and any successor Owner, and certain
+Mortgagors." The Escrow Account shall be an Eligible Account established with a
+Qualified Depository. If the Escrow Account is established with an institution
+other than the Servicer, (i) the Escrow Account shall be evidenced by a letter
+agreement substantially in the form of EXHIBIT C attached hereto and (ii) the
+Servicer shall deliver a copy of such letter agreement to the Owner on or prior
+to the Initial Closing Date.
+
+          (b) The Servicer shall, upon receipt (and in all events by not later
+than the end of the second Business Day following receipt thereof, or sooner if
+required by applicable law) and on a daily basis, deposit in the Escrow Account
+and retain therein: (i) all Escrow Payments collected on account of the Mortgage
+Loans for the purpose of effecting timely payment of any such items as required
+under the terms of this Agreement and (ii) all amounts representing proceeds of
+any hazard insurance policy which are to be applied to the restoration or repair
+of the related Mortgaged Property. The Servicer shall make withdrawals from the
+Escrow Account only in accordance with Section 2.7. The Servicer shall be
+entitled to retain any interest earned on funds deposited in the Escrow Account
+other than interest on escrowed funds required by law to be paid to the
+Mortgagor and, to the extent required by law, the Servicer shall pay interest on
+escrowed funds to the Mortgagor without right of reimbursement therefor
+notwithstanding that the Escrow Account maintained by the Servicer may not bear
+interest or that the interest earned on such escrowed funds is insufficient for
+such purpose.
+
+     SECTION 2.7 PERMITTED WITHDRAWALS FROM THE ESCROW ACCOUNT
+
+          Withdrawals from the Escrow Account maintained by the Servicer may be
+made by the Servicer only (i) to effect timely payments of ground rents, taxes,
+assessments, sewer rents, municipal charges, water rates, insurance premiums,
+condominium charges, fire and hazard insurance premiums or other items
+constituting Escrow Payments for the related Mortgage, (ii) to reimburse the
+Servicer for any Servicing Advance made by the Servicer pursuant to Sections 2.8
+and 2.10 with respect to a related Mortgage Loan, (iii) to refund to any
+Mortgagor any funds found to be in excess of the amounts required under the
+terms of the related Mortgage Loan, (iv) for transfer to the Account in
+accordance with the terms of this Agreement, (v) for restoration or repair of a
+Mortgaged Property, provided the provisions of Section 2.13 have been complied
+with, (vi) to pay to the Mortgagor, to the extent required by Applicable
+Requirements, interest on the funds deposited in the Escrow Account, (vii) to
+pay to itself any interest earned on funds deposited in the Escrow Account (and
+not required to be paid to the Mortgagor), such withdrawal to be made monthly
+not later than the Monthly Remittance Date, (viii) to remove funds inadvertently
+placed in the Escrow Account by the Servicer or (ix) to clear and terminate the
+Escrow Account upon the termination of this Agreement, in accordance with
+Article 7.
+
+
+                                       14
+
+<PAGE>
+
+     SECTION 2.8 PAYMENT OF TAXES, INSURANCE AND OTHER CHARGES
+
+     With respect to each Mortgage Loan, the Servicer shall maintain accurate
+records reflecting the status of property taxes, assessments and other charges,
+which are or may become a lien upon the related Mortgaged Property, the status
+of Primary Mortgage Insurance premiums, if any, and the status of fire and
+hazard insurance coverage and flood insurance, all as required hereunder. If a
+Mortgage Loan requires Escrow Payments, the Servicer shall obtain, from time to
+time, all bills for the payment of such charges (including renewal premiums) and
+shall effect payment thereof prior to the applicable penalty or termination date
+in a manner consistent with Acceptable Servicing Procedures, employing for such
+purpose deposits of the Mortgagor in the Escrow Account which shall have been
+estimated and accumulated by the Servicer in amounts sufficient for such
+purposes, as allowed under the terms of the Mortgage. If a Mortgage Loan does
+not require Escrow Payments, or if there are insufficient funds in the related
+Escrow Account, the Servicer shall cause all such bills to be paid on a timely
+basis and shall from its own funds (if necessary) make a Servicing Advance for
+timely payment of all such bills. The Servicer shall monitor the payment status
+of such charges (including renewal premiums) by the related Mortgagor. The
+Servicer shall effect payment of such charges in a manner consistent with
+Acceptable Servicing Procedures and, in all events, prior to the foreclosure of
+any lien against the Mortgaged Property resulting from non-payment of such
+property taxes, assessments and other charges and prior to the termination of
+any such insurance coverage.
+
+     SECTION 2.9 TRANSFER OF ACCOUNTS
+
+     The Servicer may, from time to time, transfer the Account or the Escrow
+Account to a different Qualified Depository. The Servicer shall notify the Owner
+of any such transfer within ten (10) Business Days prior to transfer.
+
+     SECTION 2.10 MAINTENANCE OF HAZARD INSURANCE
+
+          (a) The Servicer shall cause to be maintained for each Mortgage Loan
+serviced by it fire and hazard insurance with extended coverage customary in the
+area where the related Mortgaged Property is located, in an amount which is at
+least equal to the lesser of (i) 100% of the replacement value of the
+improvements securing the Mortgage Loan or (ii) the Unpaid Principal Balance of
+the Mortgage Loan (so long as it equals at least 80% of the insurable value of
+the improvements); provided that in any case such amount shall be sufficient to
+prevent the Mortgagor and/or Mortgagee from becoming a co-insurer. If the
+Mortgaged Property is in an area then identified on a flood hazard boundary map
+or flood insurance rate map issued by the Federal Emergency Management Agency as
+having special flood hazards (and such flood insurance is then available), the
+Servicer will cause to be maintained a flood insurance policy meeting the
+requirements of the current guidelines of the Federal Insurance Administration
+with a generally acceptable insurance carrier, if such insurance is available.
+Such flood insurance shall be in an amount representing coverage not less than
+the least of (i) the outstanding principal balance of the Mortgage Loan, (ii)
+the full insurable value of the improvements securing such Mortgage Loan, and
+(iii) the maximum amount of insurance available under the National Flood
+Insurance Act of 1968 and the Flood Disaster Protection Act of 1973, each as
+amended. The Servicer shall also maintain on REO Property (x) fire and hazard
+
+
+                                       15
+
+<PAGE>
+
+insurance with extended coverage in an amount that is at least equal to the
+maximum insurable value of the improvements that are a part of such property,
+(y) liability insurance and (z) to the extent required and available under the
+National Flood Insurance Act of 1968 and the Flood Disaster Protection Act of
+1973, each as amended, flood insurance in an amount as provided above. Any
+amounts collected by the Servicer under any such policies shall be paid over or
+applied by the Servicer in accordance with Applicable Requirements whether (i)
+for the restoration or repair of the Mortgaged Property, subject to the related
+Mortgage, (ii) for release to the Mortgagor or (iii) for application in
+reduction of the Mortgage Loan, in which event such amounts shall be deposited
+in the Account, as provided in Section 2.4. It is understood and agreed that no
+earthquake or other additional insurance need be required by the Servicer of any
+Mortgagor or maintained on property acquired in respect of a Mortgage Loan,
+other than pursuant to such applicable laws and regulations as shall at any time
+be in force and as shall require such additional insurance. All policies
+required hereunder shall be endorsed with standard mortgagee clauses with loss
+payable to the Servicer and shall provide for at least 30 days prior written
+notice to the Servicer of any cancellation, reduction in amount, or material
+change in coverage. The Servicer shall not interfere with the Mortgagor's
+freedom of choice in selecting either the Mortgagor's insurance carrier or agent
+upon any policy renewal; provided, however, that upon any such policy renewal,
+the Servicer shall accept such insurance policies only from insurance companies
+that (x) have a rating of B:III or better in Best's Key Rating Guide or a
+financial performance index rating of 6 or better in Best's Insurance Reports,
+and (y) are licensed to do business in the jurisdiction in which the related
+Mortgaged Property is located.
+
+          (b) In the event that the Servicer, as servicer for the benefit of the
+Owner, shall obtain and maintain a blanket policy that would meet the
+requirements of Fannie Mae if Fannie Mae were the purchaser of the Mortgage
+Loans, insuring against loss to the Owner as mortgagee from damage to the
+Mortgaged Property on all of the Mortgage Loans, then, to the extent such policy
+provides coverage in an amount equal to the aggregate outstanding principal
+balance of the Mortgage Loans without coinsurance and otherwise complies with
+the requirements of Section 2.10(a), the Servicer shall be deemed conclusively
+to have satisfied its obligations under Section 2.10(a), it being understood and
+agreed that such blanket policy may contain a deductible clause not to exceed
+$10,000; provided, however, that if there shall have been one or more of such
+losses the Servicer shall deposit in the Account, as provided in Section 2.4(c),
+out of the Servicer's own funds and without reimbursement therefor, the
+difference, if any, between the amount that would have been payable under a
+policy complying with Section 2.10(a) and the amount paid under such blanket
+policy. Upon the request of the Owner, the Servicer shall cause to be delivered
+to the Owner a certified true copy of such policy and a statement from the
+insurer thereunder that such policy shall in no event be terminated or
+materially modified without 30 days prior written notice to the Owner.
+
+     SECTION 2.11 FIDELITY BOND; ERRORS AND OMISSIONS INSURANCE
+
+     The Servicer shall maintain, at its own expense, with companies that meet
+the requirements of Fannie Mae or Freddie Mac, a blanket fidelity bond and an
+errors and omissions insurance policy, with broad coverage on all officers,
+employees, agents and other persons acting in any capacity requiring such
+persons to handle funds, money, documents or papers relating to the Mortgage
+Loans (collectively, the "Servicer Employees"). Any such fidelity bond and
+errors and
+
+
+                                       16
+
+<PAGE>
+
+omissions insurance shall be in the form of the Mortgage Banker's Blanket Bond
+and shall protect and insure the Servicer against losses, including forgery,
+theft, embezzlement, fraud, errors and omissions, failure to maintain any
+insurance policies required pursuant to this Agreement and negligent acts of
+such Servicer Employees. Such fidelity bond shall also protect and insure the
+Servicer against losses in connection with the release or satisfaction of a
+Mortgage Loan without having obtained payment in full of the indebtedness
+secured thereby. No provision of this Section 2.11 requiring such fidelity bond
+and errors and omissions insurance shall diminish or relieve the Servicer from
+its duties and obligations as set forth in this Agreement. The terms of any such
+fidelity bond and errors and omissions insurance policy shall be at least equal
+to the corresponding amounts required by Fannie Mae in the Fannie Mae MBS
+Selling and Servicing Guide or by Freddie Mac in the Freddie Mac Seller's and
+Servicer's Guide, as amended or restated from time to time. Upon the request of
+the Owner, the Servicer shall cause to be delivered to the Owner a certified
+true copy of such fidelity bond and errors and omissions insurance policy and a
+statement from the surety and the insurer that such fidelity bond and errors and
+omissions insurance policy shall in no event be terminated or materially
+modified without 30 days prior written notice to the Owner.
+
+     SECTION 2.12 TITLE, MANAGEMENT AND DISPOSITION OF REAL ESTATE OWNED
+
+          (a) If title to any Mortgaged Property is acquired in foreclosure or
+by deed in lieu of foreclosure ("REO Property"), the deed or certificate of sale
+shall be taken in the name of the Owner or in the name of such Person or Persons
+designated by the Owner; provided, however, that (i) the Owner shall not
+designate the Servicer as holder without the Servicer's prior written consent
+and (ii) such designated Person or Persons shall acknowledge in writing that
+such title is to be held as nominee for the Owner. The Servicer shall provide
+written notice to the Owner after any REO Property is acquired in foreclosure or
+by deed in lieu of foreclosure.
+
+          (b) The Servicer, shall manage, conserve, protect, and operate each
+REO Property solely for the purpose of its prompt disposition and sale. The
+Servicer shall either itself, or through an agent selected by the Servicer,
+manage, conserve, protect and operate the REO Property in accordance with
+Acceptable Servicing Procedures. The Servicer shall attempt to sell the same
+(and may temporarily rent the same) on such terms and conditions as the Servicer
+deems to be in the best interests of the Owner. If a REMIC election has been
+made with respect to the arrangement under which the related Mortgage Loan is
+held, the Servicer shall use its best efforts to dispose of the REO Property as
+soon as practicable and shall sell such REO Property in any event within three
+(3) years after title has been taken to such REO Property (unless the Servicer
+determines, and gives the Owner appropriate notice that a longer period is
+necessary for the orderly liquidation of such REO Property).
+
+          (c) The Servicer shall collect all revenues arising from the operation
+of REO Property. The Servicer shall deposit, or cause to be deposited, all such
+revenues in the Account in accordance with Section 2.4. The Servicer may use all
+such revenues and, if any thereof have been deposited in the Account, withdraw
+such revenues therefrom as is necessary for the proper operation, management and
+maintenance of any REO Property, including, but not limited to, the cost of
+maintaining any hazard insurance pursuant to Section 2.10 and the fees of any
+managing agent acting on behalf of the Servicer.
+
+
+                                       17
+
+<PAGE>
+
+          (d) The Servicer shall also maintain on each REO Property fire and
+hazard insurance with extended coverage, liability insurance, and flood
+insurance in accordance with the provisions of Section 2.10.
+
+          (e) The proceeds of sale of an REO Property shall be deposited in the
+Account in accordance with Section 2.4. The Servicer shall apply the sale
+proceeds of any REO Property (i) first to pay the expenses of such sale, (ii)
+second to reimburse itself for any related unpaid Servicing Fees, unpaid REO
+Management Fees and unreimbursed Servicing Advances and Monthly Advances, and
+(iii) the balance to be distributed to the Owner. If the sale proceeds have been
+deposited in the Account, the Servicer may withdraw from the Account the amounts
+necessary to make such payments and reimbursements. Notwithstanding any
+provision in this Agreement to the contrary, no REO Management Fee shall be
+payable with respect to any REO Property relating to a Mortgage Loan that has
+been included in a Pass-Through Transfer.
+
+          (f) Upon request, with respect to any REO Property, the Servicer shall
+furnish to the Owner a statement covering the Servicer's efforts in connection
+with the sale of that REO Property and any rental of the REO Property incidental
+to the sale thereof for the previous month (together with an operating statement
+for such REO Property). Such statement shall be accompanied by such other
+information as the Owner shall reasonably request. The Servicer shall maintain
+separate accounting for each REO Property.
+
+          (g) The Owner hereby constitutes and appoints the Servicer as its true
+and lawful attorney-in-fact, with full power and authority to sign, execute,
+acknowledge, deliver, file for record and record any instrument on its behalf
+and to perform such other act or acts as may be customarily and reasonably
+necessary and appropriate to effectuate the transactions contemplated by this
+Section 2.12, in each case as fully as the Owner might or could do. The Owner
+ratifies and confirms each action that the Servicer, as such attorney-in-fact,
+shall lawfully take or cause to be taken by authority hereof. Third parties
+without actual notice may rely upon the exercise of the power granted under this
+power of attorney, and may be satisfied that this power of attorney shall
+continue in full force and effect and has not been revoked unless this Agreement
+is terminated as provided herein. If requested by the Servicer, the Owner shall
+furnish the Servicer with any instrument or document necessary or appropriate to
+evidence or confirm the power of attorney granted in this Section 2.12(g),
+including one or more separate instruments or documents in recordable form for
+recordation in any jurisdiction in which any Mortgaged Property is located.
+
+          (h) Notwithstanding anything to the contrary contained in this
+Agreement, the Owner may, at the Owner's sole option, terminate the Servicer as
+servicer of any such REO Property without payment of any termination fee,
+provided that the Servicer shall on the date said termination takes effect be
+reimbursed for any unreimbursed advances of the Servicer's funds made pursuant
+to Section 2.16 (b) and any unreimbursed Servicing Advances and Servicing Fees
+in each case relating to the Mortgage Loan underlying such REO Property. In the
+event of any such termination, the provisions of Section 9.1 shall apply to said
+termination and the transfer of servicing responsibilities with respect to such
+REO Property to the Owner or its designees.
+
+
+                                       18
+
+<PAGE>
+
+     SECTION 2.13 APPLICATION OF PROCEEDS OF INSURANCE TO REPAIR OR RESTORATION
+
+     The Servicer shall collect the proceeds from all policies of insurance
+required to be maintained pursuant to Section 2.10 with respect to all losses
+that may occur. The Servicer may remit such proceeds to the Mortgagor for the
+restoration or repair of the related property and shall otherwise take such
+actions in connection with such restoration and repair in a manner consistent
+with Acceptable Servicing Procedures.
+
+     SECTION 2.14 INSPECTIONS
+
+     The Servicer shall conduct inspections of the Mortgaged Properties at such
+times and in a manner consistent with Acceptable Servicing Procedures and shall
+maintain a written report of all such inspections.
+
+     SECTION 2.15 MAINTENANCE OF PRIMARY MORTGAGE INSURANCE POLICIES;
+COLLECTIONS THEREUNDER
+
+     The parties acknowledge that, as of any Closing Date, not all Mortgage
+Loans purchased on such Closing Date are covered by a Primary Mortgage Insurance
+Policy. In the event that any Mortgage Loan is covered by a Primary Mortgage
+Insurance Policy on the related Closing Date or subsequently becomes covered by
+a Primary Mortgage Insurance Policy, the provisions set forth below shall apply.
+
+          (a) The Servicer shall maintain in full force and effect any Primary
+Mortgage Insurance Policy covering a Mortgage Loan serviced by the Servicer. The
+Servicer shall cause the premium for any such Primary Mortgage Insurance Policy
+to be paid on a timely basis and shall from its own funds, if necessary, make a
+Servicing Advance to pay the premium on a timely basis. The Servicer will not
+cancel or refuse to renew any such Primary Mortgage Insurance Policy in effect
+on the related Closing Date, unless cancellation or non-renewal is required by
+applicable law or regulation. The Servicer shall not take any action or fail to
+take any action which would result in non-coverage under any applicable Primary
+Mortgage Insurance Policy of any loss which, but for the actions of the
+Servicer, would have been covered thereunder. In connection with any assumption
+or substitution agreement entered into or to be entered into pursuant to Section
+4.1, the Servicer shall promptly notify the insurer under the related Primary
+Mortgage Insurance Policy, if any, of such assumption or substitution of
+liability in accordance with the terms of such policy and shall take all actions
+which may be required by such insurer as a condition to the continuation of
+coverage under such Primary Mortgage Insurance Policy. If such Primary Mortgage
+Insurance Policy is terminated as a result of such assumption or substitution of
+liability, the Servicer shall obtain a replacement Primary Mortgage Insurance
+Policy as provided above.
+
+          (b) As part of its activities as servicer of the Mortgage Loans, the
+Servicer agrees to prepare and present, on behalf of itself and the Owner,
+claims under any Primary Mortgage Insurance Policy in a timely fashion in
+accordance with the terms thereof and, in this regard, to take such reasonable
+action as shall be necessary to permit recovery under any Primary Mortgage
+Insurance Policy respecting a defaulted Mortgage Loan.
+
+
+                                       19
+
+<PAGE>
+
+     SECTION 2.16 MONTHLY ADVANCES BY THE SERVICER
+
+          (a) Not later than the close of business on the Business Day preceding
+each Monthly Remittance Date, the Servicer shall deposit in the Account an
+amount (the "Monthly Advance") equal to all payments not previously advanced by
+the Servicer of principal (due after the related Cut-off Date) and interest at
+the Net Rate not allocable to the period prior to the related Cut-off Date,
+which were due on a Mortgage Loan during the related Due Period and which were
+delinquent at the close of business on the related Determination Date whether or
+not deferred. In lieu of making all or a portion of any Monthly Advance, the
+Servicer may cause to be made an appropriate entry in its records relating to
+the Account that funds in such account, including but not limited to any amounts
+received in respect of scheduled principal and interest on any Mortgage Loan due
+after the related Due Period for the related Monthly Remittance Date, have been
+used by the Servicer in discharge of its obligation to make any such Monthly
+Advance. Any funds so applied shall be replaced by the Servicer by deposit, in
+the manner set forth above, in the Account no later than the close of business
+on the Business Day immediately preceding the next Monthly Remittance Date to
+the extent that funds in the Account on such date are less than the amounts
+required to be distributed on such Monthly Remittance Date. The Servicer shall
+be entitled to be reimbursed from the Account for all Monthly Advances of its
+own funds made pursuant to this Section as provided in Section 2.5.
+
+          (b) The obligation of the Servicer to make such Monthly Advances is
+mandatory, and, with respect to any Mortgage Loan or REO Property, shall
+continue through the earlier of (i) the date on which a Final Recovery
+Determination in connection with such Mortgage Loan is made and (ii) the due
+date of the last Monthly Payment due prior to the payment in full of such
+Mortgage Loan.
+
+          (c) Notwithstanding anything herein to the contrary, no Monthly
+Advance shall be required to be made hereunder by the Servicer if such Monthly
+Advance would, if made, constitute a Nonrecoverable Advance.
+
+     SECTION 2.17 COMPLIANCE WITH REMIC PROVISIONS
+
+     If the Servicer has received written notice from the Owner that a REMIC
+election has been made with respect to the arrangement under which any Mortgage
+Loans and REO Property are held, the Servicer shall not take any action, cause
+the REMIC to take any action or fail to take (or fail to cause to be taken) any
+action that, under the REMIC Provisions, if taken or not taken, as the case may
+be, could (i) endanger the status of the REMIC as a REMIC or (ii) result in the
+imposition of a tax upon the REMIC (including but not limited to the tax on
+"prohibited transactions" as defined in Section 860F(a)(2) of the Code and the
+tax on "contributions" to a REMIC set forth in Section 860G(d) of the Code)
+unless the Servicer has received an Opinion of Counsel (at the expense of the
+party seeking to take such action) to the effect that the contemplated action
+will not endanger such REMIC status or result in the imposition of any such tax.
+
+
+                                       20
+
+<PAGE>
+
+     SECTION 2.18 OWNER TO COOPERATE; RELEASE OF COLLATERAL FILES
+
+     If, at any time prior to termination of this Agreement, the Servicer shall
+require the use of any Collateral File (or any portion thereof) to perform its
+servicing activities as set forth in this Agreement, the Owner, within five (5)
+Business Days of the written request of the Servicer in the form of EXHIBIT A
+hereto, (or within such shorter period as may be necessary for the Servicer to
+perform its obligations hereunder in compliance with all Acceptable Servicing
+Procedures), shall release or shall cause the Custodian to release such
+Collateral File (or portion thereof) to the Servicer. Within five (5) Business
+Days of the Servicer's request therefor (or, within such shorter period as may
+be necessary for the Servicer to perform obligations hereunder in compliance
+with all Acceptable Servicing Procedures), the Owner shall execute and deliver
+to the Servicer, in the form supplied to the Owner by the Servicer, any court
+pleadings, requests for trustee's sale or other documents reasonably necessary
+to perform the servicing activities with respect to any Mortgage Loan, including
+the foreclosure or sale in respect of any Mortgaged Property, the commencement
+and prosecution of any legal action to enforce the related Mortgage Note and
+Mortgage and the defense of any legal action or counterclaim filed against the
+Owner or the Servicer. The Servicer may execute and deliver any or all of such
+pleadings or documents on behalf of the Owner pursuant to the power of attorney
+granted pursuant to Section 2.12(g).
+
+                                   ARTICLE 3.
+
+                              PAYMENTS TO THE OWNER
+
+     SECTION 3.1 DISTRIBUTIONS
+
+          (a) On each Monthly Remittance Date, the Servicer shall distribute to
+the Owner all amounts credited to the Account as of the close of business on the
+preceding Determination Date, net of charges against or withdrawals from the
+Account pursuant to Section 2.5 plus all Monthly Advances required pursuant to
+Section 2.16 with respect to such Monthly Remittance Date and minus (i) any
+amounts attributable to Principal Prepayments received after the last day of the
+Due Period immediately preceding the related Monthly Remittance Date and (ii)
+any amounts attributable to Monthly Payments collected but due on a Due Date(s)
+subsequent to the preceding Determination Date.
+
+          (b) All distributions made to the Owner on each Monthly Remittance
+Date will be made to the Owner of record, based on the Mortgage Loans owned and
+held by the Owner. All distributions shall be made by wire transfer of
+immediately available funds to the account of the Owner at a bank or other
+entity having appropriate facilities therefor, if the Owner shall have so
+notified the Servicer, or by check mailed to the address of the Owner.
+Distributions on each Monthly Remittance Date may be made by more than one (1)
+wire transfer.
+
+          (c) With respect to any remittance received by the Owner on or after
+the Business Day following the Business Day on which such payment was due, the
+Owner will send written notice thereof to the Servicer. The Servicer shall pay
+to the Owner interest on any such late payment at an annual rate equal to Prime
+plus one percentage point, but in no event greater than the maximum amount
+permitted by applicable law. Such interest shall be paid by the
+
+
+                                       21
+
+<PAGE>
+
+Servicer to the Owner on the date such late payment is made and shall cover the
+period commencing with the day following such Business Day on which such payment
+was due and ending with the Business Day on which such payment is made, both
+inclusive. The payment by the Servicer of any such interest, or the failure of
+the Owner to notify the Seller of such interest, shall not be deemed an
+extension of time for payment or a waiver of any Event of Default by the
+Servicer.
+
+     SECTION 3.2 REPORTS
+
+     The Servicer shall set up, format and maintain, and shall transmit
+electronically or via fax to the Owner, the Servicer's mortgage servicer file
+and other electronic data storage and transmission systems related to the
+Mortgage Loans (collectively, the "Servicing Systems") in accordance with the
+guidelines and requirements set forth in EXHIBIT D to this Agreement (the
+"Servicer Requirements"), and the Servicer shall cooperate with the Owner to
+receive data from the Owner that is to be incorporated in the Servicing Systems
+in accordance with the Servicer Requirements.
+
+The Servicer may submit the foregoing information in more than one (1) separate
+report. Requests for additional data regarding the Mortgage Loans or alternative
+means for delivering such reports shall be accommodated at the discretion of the
+Servicer and at the Owner's expense.
+
+          (a) Upon reasonable advance notice in writing, the Servicer shall
+provide to any Owner which is a savings and loan association, a bank, an
+insurance company or other regulated or supervised entity reports and access to
+information and documentation regarding the Mortgage Loans and the transactions
+contemplated hereby sufficient to permit the Owner to comply with the applicable
+regulations of relevant regulatory or supervisory authorities with respect to
+its investment in the Mortgage Loans and Owner's internal and third-party audit
+requirements.
+
+          (b) The Servicer shall prepare and file any and all information
+statements or other filings required to be delivered to any governmental taxing
+authority or to Owner pursuant to any applicable law with respect to the
+Mortgage Loans and the transactions contemplated hereby. In addition, the
+Servicer shall provide Owner with such information concerning the Mortgage Loans
+as it necessary for Owner to prepare its federal income tax return as Owner may
+reasonably request from time to time. In addition, not more than 120 days after
+the end of each calendar year, the Servicer shall furnish to each Person who was
+an Owner at any time during such calendar year an annual statement in accordance
+with the requirement of applicable federal income tax law as to the aggregate of
+remittances for the applicable portion of such year.
+
+     SECTION 3.3 LIQUIDATION REPORTS
+
+     Upon the foreclosure sale of any Mortgaged Property or the acquisition
+thereof by the Owner pursuant to a deed-in-lieu of foreclosure, and no later
+than the fifth Business Day of the following month, the Servicer shall submit to
+the Owner a liquidation report with respect to such Mortgaged Property. The
+Servicer also shall provide reports on the status of REO Property containing
+such information as Owner may reasonably require.
+
+
+                                       22
+
+<PAGE>
+
+                                   ARTICLE 4.
+
+                     GENERAL SERVICING PROCEDURE; COVENANTS;
+                         REPRESENTATIONS AND WARRANTIES
+
+     SECTION 4.1 ASSUMPTION AGREEMENTS
+
+          (a) The Servicer will use its best efforts to enforce any
+"due-on-sale" provision contained in any Mortgage or Mortgage Note and to deny
+assumption by the person to whom the Mortgaged Property has been or is about to
+be sold, whether by absolute conveyance or by contract of sale and whether or
+not the Mortgagor remains liable on the Mortgage and the Mortgage Note, provided
+that in accordance with the terms of the Mortgage Note, the Servicer may permit
+an assumption (i) if the Servicer reasonably believes it is unable under
+Applicable Requirements to enforce such "due-on-sale" clause or (ii) if the
+enforcement of such rights would impair or threaten to impair any recovery under
+the related Primary Mortgage Insurance Policy, if any. In connection with any
+such assumption, the related Mortgage Interest Rate, the Unpaid Principal
+Balance and the term of the Mortgage Loan may not be changed. If an assumption
+is allowed pursuant to this Section 4.1(a), the Servicer is authorized, at the
+Servicer's discretion, to prepare a substitution of liability agreement to be
+entered into by the Owner and the purchaser of the Mortgaged Property pursuant
+to which the original Mortgagor is released from liability and the purchaser of
+the Mortgaged Property is substituted as Mortgagor and becomes liable under the
+Mortgage Note. Any such substitution of liability agreement shall be in lieu of
+an assumption agreement. If an assumption fee is collected by the Servicer for
+entering into an assumption agreement the entire amount of such fee may be
+retained by the Servicer as additional servicing compensation.
+
+          (b) The Servicer shall follow Acceptable Servicing Procedures
+(including underwriting standards) with respect to any such assumption or
+substitution of liability. The Servicer shall notify the Owner that any such
+substitution of liability or assumption agreement has been completed by
+forwarding to the Owner a copy of any such substitution of liability or
+assumption agreement, which document shall be added to the related Collateral
+File and shall for all purposes be considered a part of such Collateral File to
+the same extent as all other documents and instruments constituting a part
+thereof.
+
+          (c) For purposes of this Section 4.1, the term "assumption" is deemed
+to also include a sale of the Mortgaged Property subject to the Mortgage that is
+not accompanied by an assumption or substitution of liability agreement.
+
+     SECTION 4.2 SATISFACTION OF MORTGAGES AND RELEASE OF COLLATERAL FILES
+
+          (a) Upon the payment in full of any Mortgage Loan or the receipt by
+the Servicer of a notification that payment in full will be escrowed in a manner
+customary for such purposes, the Servicer shall prepare the appropriate
+documents and instruments required to satisfy or release the lien of the
+Mortgage in accordance with applicable state law requirements. The Servicer,
+promptly and within the applicable legal deadlines appropriate to process the
+satisfaction or release, shall notify the Owner of such event.
+
+
+                                       23
+
+<PAGE>
+
+          (b) The Servicer shall not grant a satisfaction or release of a
+Mortgage without having obtained payment in full of the indebtedness secured by
+the Mortgage. In the event the Servicer grants a satisfaction or release of a
+Mortgage without having obtained payment in full of the indebtedness secured by
+the Mortgage, the Servicer, upon becoming aware of the foregoing, shall remit to
+the Owner the Unpaid Principal Balance of the related Mortgage Loan plus accrued
+and unpaid interest by deposit thereof in the Account pursuant to Section
+2.4(c). The Owner shall assign the related Mortgage and endorse the related
+Mortgage Note to the Servicer and shall do all things necessary to transfer
+ownership of the Mortgage Loan to the Servicer. The Servicer shall maintain the
+Fidelity Bond as provided for in Section 2.11 protecting and insuring the
+Servicer against losses sustained with respect to any Mortgage Loan satisfied or
+released other than in accordance with the procedures set forth herein.
+
+          (c) The Owner shall, within five (5) Business Days following receipt
+of any request from the Servicer (or within such shorter period as is necessary
+for the Servicer to perform its obligations hereunder in compliance with all
+Applicable Servicing Procedures) deliver or cause to be delivered to the
+Servicer the Collateral File (or any portion thereof) required by the Servicer
+to process any satisfaction or release of any Mortgage pursuant to this Section
+4.2. In addition, if any Mortgage Loan has been paid in full and, pursuant to
+Section 2.2(b) of the Purchase Agreement, the Owner has recorded the related
+Assignment of Mortgage designating the Owner as the holder of record of the
+Mortgage, the Servicer shall prepare and deliver to the Owner, together with a
+request for execution, the documents and instruments necessary to satisfy or
+release the lien of the Mortgage. The Owner shall, within five (5) Business Days
+following its receipt of any such request, send to the Servicer the
+fully-executed documents that were prepared and requested by the Servicer. In
+the event that applicable state law requires that a satisfaction or release be
+recorded within a shorter time period than the foregoing procedure permits, the
+Servicer shall advise the Owner accordingly and shall use its best efforts to
+ensure that the lien of the Mortgage is released or satisfied in accordance with
+applicable state law requirements, and the Owner shall assist therewith by, to
+the extent reasonably practicable, returning to the Servicer the required
+portion of the Collateral File and, if applicable, the executed satisfaction and
+release documents and instruments within the time periods reasonably specified
+by the Servicer.
+
+          (d) If a Mortgage Loan that has been paid in full is a MERS Loan, the
+Servicer may cause the removal of such Mortgage Loan from registration on the
+MERS(R) System and execute and deliver, on behalf of the Owner, any and all
+related instruments of satisfaction or release. No expense incurred in
+connection with the delivery of any instrument of satisfaction or deed or
+reconveyance shall be chargeable to the Account or the Owner.
+
+     SECTION 4.3 SERVICING COMPENSATION
+
+     As compensation for its services hereunder, the Servicer shall be entitled
+to pay itself the Servicer's Servicing Fee from the gross amount of interest
+payments on each Mortgage Loan which are actually received by the Servicer with
+respect thereto. Additional servicing compensation in the form of non-sufficient
+funds check fees, assumption fees, other related administrative fees, late
+payment charges, Prepayment Charges (except as otherwise specified in the
+relevant Commitment Letter) and other similar types of ancillary fees and
+charges which are
+
+
+                                       24
+
+<PAGE>
+
+actually received by the Servicer may be retained by the Servicer to the extent
+not required to be deposited into the Account pursuant to the terms of this
+Agreement. In addition to the Servicing Fee payable hereunder, the Servicer
+shall be entitled to pay itself an REO Management Fee for each REO Property
+managed by the Servicer or its agent. The Servicer shall be required to pay all
+expenses incurred by it in connection with its servicing activities hereunder
+and shall not be entitled to reimbursement therefor except as specifically
+provided for in this Agreement. The obligation of the Owner to pay the Servicing
+Fee is limited to, and payable solely from, the interest portion of the Monthly
+Payments and Late Collections collected by the Servicer with respect to such
+Mortgage Loan. Any Late Collections shall be applied by the Servicer in the
+following order of priority: (i) first to pay the expenses incurred in
+connection with collection of such Late Collections, (ii) second to reimburse
+itself for any related unpaid Servicing Fees, unpaid REO Management Fees and
+unreimbursed Servicing Advances and Monthly Advances and (iii) the balance to be
+distributed to the Owner.
+
+     SECTION 4.4 STATEMENTS AS TO COMPLIANCE
+
+     (a) Not later than the earlier of (i) March 15 of each year or (ii) the
+fifteenth day prior to the date the Owner is required to make its annual report
+to the SEC (in each case, if such day is not a Business Day, the next succeeding
+Business Day), the Servicer shall deliver to the Owner and, with respect to any
+Mortgage Loans subject to a Pass-Through Transfer, each other Person entitled to
+receive servicing reports provided pursuant to Section 3.2(a) an Officer's
+Certificate for the prior calendar year, beginning with the calendar year ending
+December 31, 2003, stating (i) a review of the activities of the Servicer during
+the preceding year and of performance under this Agreement has been made under
+such officer's supervision, and (ii) to the best of such officer's knowledge,
+based on such review, the Servicer has fulfilled all of its obligations under
+this Agreement throughout such year or, if there has been a default in the
+fulfillment of any such obligation, specifying each such default known to such
+officer and the nature and status thereof (which status should include the
+action being taken by the Servicer to cure such default).
+
+     (b) Not later than the earlier of (i) March 15 of each year or (ii) the
+fifteenth day prior to the date the Owner is required to make its annual report
+to the SEC (in each case, if such day is not a Business Day, the next succeeding
+Business Day), with respect to any Mortgage Loans subject to a Pass-Through
+Transfer, the Servicer will deliver to the Owner and each other Person entitled
+to receive servicing reports provided pursuant to Section 3.2(a) an Officer's
+Certificate for the prior calendar year, beginning with the calendar year ending
+December 31, 2003, in substantially the form of EXHIBIT E to this Agreement.
+
+     (c) The Servicer agrees to indemnify and hold harmless each of the Owner,
+each other Person entitled to receive servicing reports provided pursuant to
+Section 3.2(a), each Person, if any, who "controls" the Owner or such other
+Person within the meaning of the Securities Act of 1933, as amended, and their
+respective officers, directors, agents and affiliates (collectively, the
+"Indemnitees") against any and all losses, damages, penalties, fines,
+forfeitures, legal fees and related costs, judgments and any other costs, fees
+and expenses that the Indemnitees may sustain arising out of third party claims
+based on (i) the failure of the Servicer to deliver or cause to be delivered
+when required any Officer's Certificate required pursuant to Section 4.4(a) or
+Section 4.4(b), or the accountants' statement required pursuant to Section 4.5,
+or (ii) any material
+
+
+                                       25
+
+<PAGE>
+
+misstatement or omission in any certification pursuant to Section 302(a) of the
+Sarbanes-Oxley Act of 2002 and Rules 13a-14 and 15d-14 promulgated by the
+Securities and Exchange Commission thereunder made in reliance on any material
+misstatement or omission contained in any Officer's Certificate provided
+pursuant to Section 4.4(a) or Section 4.4(b) or the accountants' statement
+required pursuant to Section 4.5. If the indemnification provided for herein is
+unavailable or insufficient to hold harmless any Indemnitee, then the Servicer
+agrees that it shall contribute to the amount paid or payable by the Indemnitee
+as a result of the losses, claims, damages or liabilities of the Indemnitee
+arising out of clause (i) or (ii) of the preceding sentence in such proportion
+as is appropriate to reflect the relative fault of the Indemnitee on the one
+hand and the Servicer on the other.
+
+     SECTION 4.5 ANNUAL INDEPENDENT PUBLIC ACCOUNTANTS' SERVICING REPORT
+
+     Not later than the earlier of (i) March 15 of each year or (ii) the
+fifteenth day prior to the date the Owner is required to make its annual report
+to the SEC (in each case, if such day is not a Business Day, the next succeeding
+Business Day), the Servicer will, at its expense, cause a firm of independent
+public accountants that is a member of the American Institute of Certified
+Public Accountants to furnish to the Owner and, with respect to any Mortgage
+Loans subject to a Pass-Through Transfer, each other Person entitled to receive
+servicing reports provided pursuant to Section 3.2(a) a statement to the effect
+that based on an examination conducted by such firm in compliance with the
+Uniform Single Attestation Program for Mortgage Bankers ("USAP"), the assertion
+of management of the Servicer that it has complied with minimum servicing
+standards identified in the USAP is fairly stated in all material respects,
+except for (i) such exceptions as such firm shall believe to be immaterial, and
+(ii) such other exceptions as shall be set forth in such statement.
+
+     SECTION 4.6 OWNER'S RIGHT TO EXAMINE SERVICER RECORDS, ETC.
+
+          (a) Subject to any applicable standards of Section 5.8, the Owner
+shall have the right, at the Owner's expense, except for immaterial items in the
+ordinary course of business, to (i) examine and audit the Servicer's books of
+account, records, reports and other papers relating to (x) the performance by
+the Servicer of its obligations and duties under this Agreement or (y) the
+Mortgage Loans, (ii) make copies and extracts therefrom, and (iii) discuss the
+affairs, finances, and accounts of the Servicer relating to such performance
+with its officers and employees, all at such reasonable times and places and as
+often as may be reasonably requested.
+
+          (b) Subject to any applicable standards of Section 5.8, the Servicer
+shall provide to the Owner and any supervisory agents or examiners representing
+a state or federal governmental agency having jurisdiction over the Owner,
+including without limitation the Office of the Comptroller of the Currency and
+other comparable regulatory authorities supervising the Owner, access to any
+documentation regarding the Mortgage Loans in the possession of the Servicer
+which may be required by any applicable regulations. Such access shall be
+afforded without charge, upon reasonable request, during normal business hours,
+at the offices of the Servicer and in accordance with any applicable
+regulations.
+
+
+                                       26
+
+<PAGE>
+
+     SECTION 4.7 COOPERATION
+
+     The Servicer and the Owner shall cooperate fully with one another and their
+respective counsel and other representatives and advisors in connection with the
+steps required to be taken as part of their respective obligations under this
+Agreement.
+
+     SECTION 4.8 CONSENTS AND APPROVALS
+
+     The Servicer shall timely obtain, at its sole cost and expense, the
+consents and approvals required by law or pursuant to contract to consummate the
+transactions contemplated hereby. All such consents will be obtained without any
+cost or expense to the Owner and will be obtained without any adverse
+modification in the terms of any of the agreements relating to the Mortgage
+Loans or the imposition of any burdensome provisions or conditions on the Owner.
+
+                                   ARTICLE 5.
+
+                                  THE SERVICER
+
+     SECTION 5.1 INDEMNIFICATION; THIRD PARTY CLAIMS
+
+          (a) The Servicer agrees to indemnify and hold harmless the Owner
+against any and all third party claims, losses, penalties, fines, forfeitures,
+legal fees and related costs, judgments and any other costs, fees and expenses
+that the Owner may sustain in any way related to the failure of the Servicer to
+perform in compliance with the terms of this Agreement; provided, however, the
+Servicer shall not be liable hereunder with respect to (i) any action or
+inaction in accordance with the written direction or consent of the Owner, (ii)
+any action or inaction resulting from the Owner's failure to cause any
+Collateral File (or portion thereof) to be released to the Servicer pursuant to
+Sections 2.18 or 4.2(c), or (iii) any action or inaction resulting from the
+Owner's failure to comply with Section 5.1(b). The Servicer shall notify the
+Owner if a claim is made by a third party with respect to this Agreement or the
+Mortgage Loans that the Servicer determines in its good faith judgment will
+materially affect the Owner's interest in such Mortgage Loans. The Servicer
+shall assume (with the written consent of the Owner) the defense of any such
+claim and, subject to the last sentence of this paragraph, pay all reasonable
+expenses in connection therewith, including counsel fees, and promptly pay,
+discharge and satisfy any judgment or decree which may be entered against the
+Servicer or the Owner in respect of such claim. The Servicer shall follow any
+written instructions received from the Owner in connection with any such claim.
+The Servicer shall have the right to reimburse itself from the Account for all
+expenses, advances and liabilities incurred by the Servicer in respect of any
+such claim (whether or not the Servicer has assumed the defense thereof), except
+when the claim (i) is related to the Servicer's obligations to indemnify the
+Owner pursuant hereto, (ii) results from the failure of the Servicer to service
+the Mortgage Loans in compliance with the terms of this Agreement, or (iii)
+results from the Servicer's willful misconduct, bad faith or negligence in
+performing its duties under this Agreement.
+
+          (b) With respect to any Mortgage Loan, in the event that the Owner
+records or causes to be recorded in the appropriate public recording office of
+the jurisdiction in which the related Mortgaged Property is located the related
+Assignment of Mortgage which designates the
+
+
+                                       27
+
+<PAGE>
+
+Owner as the holder of record of the Mortgage and the Owner, in its capacity as
+the holder of record, receives written notice of any action with respect to the
+related Mortgage or the related Mortgaged Property, the Owner shall promptly
+send a copy of such notice to the Servicer in accordance with Section 9.8. The
+Owner agrees that the Servicer shall have no liability to the Owner for the
+Owner's failure to comply with the provisions set forth in this paragraph.
+
+     SECTION 5.2 SERVICER COVENANTS; MERGER OR CONSOLIDATION OF THE SERVICER
+
+          (a) The Servicer covenants that, subject to Section 5.2(b), it will
+keep in full force and effect its existence, rights and franchises as a
+corporation and its status as a Fannie Mae or Freddie Mac approved servicer in
+good standing and will obtain and preserve its qualification to do business as a
+foreign corporation in each jurisdiction in which such qualification is or shall
+be necessary to protect the validity and enforceability of this Agreement or any
+of the Mortgage Loans and to perform its duties under this Agreement.
+
+          (b) Any Person into which the Servicer may be merged or consolidated,
+or any Person resulting from any merger, conversion or consolidation to which
+the Servicer shall be a party, or any Person succeeding to all or substantially
+all of the business or assets of the Servicer (whether or not related to loan
+servicing), shall be the successor of the Servicer hereunder, without the
+execution or filing of any paper or any further act on the part of any of the
+parties hereto, anything herein to the contrary notwithstanding; provided,
+however, that the Servicer shall not be a party to any such merger,
+consolidation or conversion, or sell or otherwise dispose of all or
+substantially all of its business or assets unless the successor or surviving
+Person shall be an institution that is a Fannie Mae or Freddie Mac approved
+servicer in good standing and a member of MERS in good standing. In addition,
+the successor or surviving Person shall be an institution (i) having a GAAP net
+worth of not less than $25,000,000, and (ii) the deposits of which are insured
+by the FDIC, SAIF and/or BIF, or which is a HUD-approved mortgagee whose primary
+business is in origination and servicing of first lien mortgage loans.
+
+     SECTION 5.3 LIMITATION ON LIABILITY OF THE SERVICER AND OTHERS
+
+     The Servicer and the directors, officers, employees or agents of the
+Servicer shall not be under any liability to the Owner (i) for any action taken
+or for refraining from the taking of any action in good faith pursuant to this
+Agreement, (ii) for errors in judgment made in good faith, (iii) for any action
+or inaction in accordance with the written direction or consent of the Owner,
+(iv) for any action or inaction resulting from the Owner's failure to cause any
+Collateral File (or portion thereof) to be released to the Servicer pursuant to
+Sections 2.18 or 4.2(c), or (v) for any action or inaction resulting from the
+Owner's failure to comply with Section 5.1(b); provided, however, this provision
+shall not protect the Servicer against any breach of warranties or
+representations made herein, any failure to perform its obligations in
+accordance with any standard of care set forth in this Agreement (unless in
+accordance with the written direction or consent of the Owner) or any liability
+which would otherwise be imposed by reason of willful misconduct, bad faith or
+negligence in the performance of duties. The Servicer and any officer, employee
+or agent of the Servicer may rely in good faith on any document of any kind
+prima facie properly executed and submitted by any Person respecting any matters
+arising hereunder. Subject to Section 5.1(a), the Servicer shall not be under
+any obligation to appear in, prosecute or defend any legal action which is not
+incidental to its duties
+
+
+                                       28
+
+<PAGE>
+
+under this Agreement and which may involve it in any expense or liability;
+provided, however, that the Servicer may, with the written consent of the Owner,
+undertake any such action which it may deem necessary or desirable with respect
+to this Agreement and the rights, duties, and the interests of the parties
+hereto. In such event, the legal expenses and costs of such action and any
+liability resulting therefrom shall be expenses, costs, and liabilities for
+which the Owner will be liable and the Servicer shall be entitled to be
+reimbursed therefor from the Account, unless any such costs or liabilities shall
+result from the negligence, bad faith or willful misfeasance of the Servicer in
+performing such action.
+
+     SECTION 5.4 SERVICER NOT TO RESIGN
+
+     The Servicer shall not resign from the obligations and duties hereby
+imposed on it except upon the determination that such Servicer's duties
+hereunder are no longer permissible under Applicable Requirements and such
+incapacity cannot be cured by such Servicer. Any such determination permitting
+the resignation of the Servicer shall be evidenced by an Opinion of Counsel to
+such effect delivered to the Owner. No such resignation shall become effective
+until a successor which satisfies the requirements set forth in Section 9.1 has
+assumed the Servicer's responsibilities and obligations hereunder in accordance
+with such Section.
+
+     SECTION 5.5 TRANSFER OF SERVICING
+
+     The Servicer acknowledges that the Owner has entered into this Agreement
+with the Servicer in reliance upon the adequacy of the Servicer's servicing
+facilities, plan, personnel, records and procedures, its integrity, reputation
+and financial standing and the continuance thereof. Without in any way limiting
+the generality of this Section 5.5, the Servicer shall not either assign this
+Agreement or any of the servicing rights or obligations hereunder except (a)
+subject to Section 5.2(b), in connection with a merger or consolidation or (b)
+with the prior written approval of the Owner which shall not be unreasonably
+withheld or delayed.
+
+     SECTION 5.6 TRANSFER OF MORTGAGE LOANS
+
+          (a) The Owner shall have the right, without the consent of the
+Servicer, to assign its interest under this Agreement with respect to any
+Mortgage Loans that have been assigned pursuant to Section 6.1(a) of the
+Purchase Agreement; provided, however, that the Owner shall give the Servicer
+written notice 30 days prior to any such assignment of its interest under this
+Agreement. The Owner shall also have the right to designate any Person to
+exercise the rights of Owner hereunder to the extent provided in Section 8.2 of
+this Agreement. In any such case, all references to the Owner shall be deemed to
+include such assignee or designee. In addition to the foregoing, but subject to
+the limitations of Section 6.1(a) of the Purchase Agreement, the Owner may
+assign its interest under this Agreement to an affiliate of the Owner upon the
+execution of an Assignment, Assumption and Recognition Agreement pursuant to
+Section 7.9 of the Purchase Agreement.
+
+          (b) The Servicer shall keep at its servicing office books and records
+in which, subject to such reasonable regulations as it may prescribe, the
+Servicer shall note transfers of Mortgage Loans. For the purposes of this
+Agreement, the Servicer shall be under no obligation to deal with any Person
+with respect to this Agreement or any Mortgage Loan unless the books
+
+
+                                       29
+
+<PAGE>
+
+and records show such person as the owner of such Mortgage Loan. Upon receipt of
+a written notice from the Owner of any assignment of any Mortgage Loan permitted
+under the Purchase Agreement, the Servicer shall mark its books and records to
+reflect the ownership of such Mortgage Loan by such assignee, and the previous
+Owner shall be released from its obligations hereunder to the extent such
+obligations relate to Mortgage Loans sold by the Owner and arise after the date
+of such sale.
+
+     SECTION 5.7 REPRESENTATIONS AND WARRANTIES OF THE SERVICER
+
+     The Servicer hereby represents and warrants to the Owner as of each Closing
+Date with respect to itself and as of the related Closing Date with respect to
+the Mortgage Loans purchased on such Closing Date pursuant to the Purchase
+Agreement as follows:
+
+          (a) The Servicer is a federally chartered savings association, duly
+organized, validly existing and in good standing under the laws of the United
+States, has all licenses necessary to carry on its business as now being
+conducted and is licensed, qualified and in good standing in the states where
+the Mortgaged Properties are located, if the laws of such states require
+licensing or qualification in order to conduct business of the type conducted by
+the Servicer and to the extent necessary to ensure the servicing of each
+Mortgage Loan in accordance with this Agreement. The Servicer has the corporate
+power and authority to enter into, execute and deliver this Agreement and all
+documents and instruments executed and delivered pursuant hereto and to perform
+its obligations in accordance therewith. The execution, delivery and performance
+of this Agreement by the Servicer and the consummation of the transactions
+contemplated hereby have been duly and validly authorized. This Agreement
+evidences the valid, binding and enforceable obligations of the Servicer,
+subject as to enforcement, (i) to bankruptcy, insolvency, receivership,
+conservatorship, reorganization, arrangement, moratorium and other laws of
+general applicability relating to or affecting creditors' rights and (ii) to
+general principles of equity, whether such enforcement is considered in a
+proceeding in equity or at law. All requisite corporate action has been taken by
+the Servicer to make this Agreement valid and binding upon the Servicer in
+accordance with its terms.
+
+          (b) No consent, approval, authorization, or order of any court or
+governmental agency or body relating to the transactions contemplated by this
+Agreement is required as to the Servicer or, if required, such consent,
+approval, authorization, or order has been or will, prior to the date of this
+Agreement, be obtained.
+
+          (c) The consummation of the transactions contemplated by this
+Agreement, including without limitation the fulfillment of or compliance with
+the terms and conditions of this Agreement, are in the ordinary course of
+business of the Servicer and will not (i) result in the breach of any term or
+provision of the charter or by-laws of the Servicer, (ii) result in the breach
+of any term or provision of, or conflict with or constitute a default under, or
+result in the acceleration of any obligation under, any material agreement,
+indenture, loan or credit agreement, or other instrument to which the Servicer
+or its property is subject or (iii) result in the violation of any law, rule,
+regulation, order, judgment, or decree to which the Servicer or its property is
+subject.
+
+
+                                       30
+
+<PAGE>
+
+          (d) There is no action, suit, proceeding or investigation pending or,
+to the best of the Servicer's knowledge, threatened against the Servicer which,
+either in any one instance or in the aggregate, is likely (in the Servicer's
+judgment), to result in any material impairment of the right or ability of the
+Servicer to carry on its business substantially as now conducted, or which would
+adversely affect the validity of this Agreement, or of any action taken or to be
+taken in connection with the obligations of the Servicer contemplated herein or
+therein, or which would be likely to impair materially the ability of the
+Servicer to perform its obligations hereunder or thereunder.
+
+          (e) The Servicer is an approved servicer of mortgage loans for Fannie
+Mae and Freddie Mac, in good standing. No event has occurred, including but not
+limited to a change in insurance coverage, which would make the Servicer unable
+to comply with Fannie Mae and Freddie Mac eligibility requirements or which
+would require notification to Fannie Mae or Freddie Mac.
+
+          (f) The Servicer is a member of MERS in good standing. The Servicer
+will comply in all material respects with the rules and procedures of MERS in
+connection with the servicing of each MERS Loan for as long as each such
+Mortgage Loan is registered on the MERS(R) System.
+
+     SECTION 5.8 SECURITY MEASURES; AVAILABILITY OF INFORMATION
+
+     (a) Each of the Servicer and the Owner agrees that it shall comply with all
+applicable laws and regulations regarding the privacy or security of any
+Customer Information. The Servicer has implemented and shall maintain security
+measures designed to meet the objectives of the Gramm-Leach-Bliley Act and the
+regulations promulgated thereunder. The Servicer shall make available to the
+Owner's regulator such information regarding security measures as may be
+requested by the regulator, provided that such information shall not be
+disclosed to the Owner, and that the Servicer may take reasonable steps to
+protect proprietary business information and to comply with all applicable laws.
+
+     (b) The Servicer shall establish and maintain appropriate contingency
+plans, recovery plans and proper risk controls to ensure Servicer's continued
+performance under this Agreement. The Servicer shall make available to the
+Owner's regulator information regarding such plans as requested by the
+regulator, provided that such information shall not be disclosed to the Owner,
+and that the Servicer may take reasonable steps to protect proprietary business
+information and to comply with all applicable laws.
+
+                                   ARTICLE 6.
+
+                                     DEFAULT
+
+     SECTION 6.1 EVENTS OF DEFAULT
+
+     In case one or more of the following Events of Default by the Servicer
+shall occur and be continuing:
+
+
+                                       31
+
+<PAGE>
+
+               (i) any failure by the Servicer to remit to the Owner within
+three (3) Business Days when due any payment required to be made under the terms
+of this Agreement; or
+
+               (ii) any failure by the Servicer to duly observe or perform, in
+any material respect, any other covenant, obligation or agreement of the
+Servicer as set forth in this Agreement, which failure continues unremedied for
+a period of sixty (60) (or, in the case of any failure to pay the premium for
+any insurance policy which is required to be maintained hereunder, thirty (30))
+days after the date on which written notice of such failure, requiring the same
+to be remedied, shall have been given to the Servicer by the Owner; provided
+that any failure by the Servicer to duly perform its obligations under Section
+4.4. or Section 4.5 shall be deemed to be a material breach of this Agreement;
+or
+
+               (iii) a decree or order of a court or agency or supervisory
+authority having jurisdiction for the appointment of a conservator or receiver
+or liquidator in any insolvency, readjustment of debt, marshaling of assets and
+liabilities, or similar proceedings, or for the winding-up or liquidation of its
+affairs, shall have been entered against the Servicer and such decree or order
+shall have remained in force, undischarged or unstayed for a period of sixty
+(60) days; or
+
+               (iv) the Servicer shall consent to the appointment of a
+conservator, receiver or liquidator in any insolvency, readjustment of debt,
+marshaling of assets and liabilities or similar proceedings of or relating to
+the Servicer or relating to all or substantially all of the Servicer's property;
+or
+
+               (v) the Servicer shall admit in writing its inability to pay its
+debts as they become due, file a petition to take advantage of any applicable
+insolvency or reorganization statute, make an assignment for the benefit of its
+creditors, or voluntarily suspend payment of its obligations; or
+
+               (vi) the Servicer shall fail to be an approved servicer of
+mortgage loans for Fannie Mae and Freddie Mac, in good standing; or
+
+               (vii) the Servicer shall fail to be in compliance with the "doing
+business" or licensing laws of any jurisdiction where a Mortgaged Property is
+located; or
+
+               (viii) the Servicer shall attempt to assign this Agreement or the
+servicing responsibilities hereunder in contravention of this Agreement;
+
+then, and in each and every such case, so long as such Event of Default shall
+not have been remedied, the Owner, by notice in writing to the Servicer (in each
+such instance, the "Defaulted Servicer"), may, in addition to whatever rights
+the Owner may have at law or equity to damages, including injunctive relief and
+specific performance, commence termination of all of the rights and obligations
+of the Defaulted Servicer under this Agreement pursuant to Section 7.2 and may
+exercise any and all other remedies available at law or at equity. Upon receipt
+by the Defaulted Servicer of such written notice from the Owner stating the
+intent to terminate the Defaulted Servicer as servicer under this Agreement as a
+result of such Event of Default, all authority and power of the Defaulted
+Servicer under this Agreement, whether with respect to the Mortgage
+
+
+                                       32
+
+<PAGE>
+
+Loans or otherwise, shall pass to and be vested in the successor appointed
+pursuant to Section 9.1. Upon written request from the Owner, the Defaulted
+Servicer shall, at its sole expense, prepare, execute, and deliver to such
+successor any and all documents and other instruments, place in such successor's
+possession or control all Collateral Files and Credit Files, and do or cause to
+be done all other acts or things necessary or appropriate to effect the purposes
+of such notice of termination, all of which shall be undertaken immediately and
+shall be completed as soon as possible and in all events by not later than
+forty-five (45) Business Days following the Owner's request therefor. The
+Defaulted Servicer agrees to cooperate with the Owner and such successor in
+effecting the termination of the Defaulted Servicer's responsibilities and
+rights hereunder, including, without limitation, the transfer to such successor
+for administration by it of all cash amounts which have been credited by the
+Defaulted Servicer to the Account or the Escrow Account at the time of transfer,
+and all other amounts which may thereafter be received with respect to the
+Mortgage Loans and to which the Defaulted Servicer is not entitled pursuant to
+the terms of this Agreement.
+
+     SECTION 6.2 WAIVER OF DEFAULTS
+
+     The Owner may waive any default by the Defaulted Servicer in the
+performance of its obligations hereunder and its consequences. Any such waiver
+must be in writing to be effective. Upon any waiver of a past default, such
+default shall cease to exist, and any Event of Default arising therefrom shall
+be deemed to have been remedied for every purpose of this Agreement, except as
+otherwise specified in the waiver and except if the Defaulted Servicer shall
+fail to comply with the terms, if any, set forth in the waiver. No such waiver
+shall extend to any subsequent or other default or impair any right consequent
+thereto except to the extent expressly so waived.
+
+     SECTION 6.3 SURVIVAL OF CERTAIN OBLIGATIONS AND LIABILITIES OF THE
+DEFAULTED SERVICER
+
+     The representations, warranties, covenants, indemnities and agreements of
+the parties provided in this Agreement and the parties' obligations hereunder
+shall survive the execution and delivery and the termination or expiration of
+this Agreement. Notwithstanding any termination of the rights and obligations of
+the Servicer pursuant to this Section 6, the Defaulted Servicer shall remain
+liable for any actions of the Defaulted Servicer prior to the effective time of
+such termination.
+
+                                   ARTICLE 7.
+
+                                   TERMINATION
+
+     SECTION 7.1 TERMINATION OF AGREEMENT
+
+     This Agreement shall terminate upon either (i) the later of the
+distribution to the Owner of final payment or liquidation with respect to the
+last Mortgage Loan and each REO Property or the disposition of all property
+acquired upon foreclosure or deed in lieu of foreclosure with respect to the
+last Mortgage Loan and the remittance of all funds due hereunder, or (ii) the
+mutual written consent of the parties.
+
+
+                                       33
+
+<PAGE>
+
+     SECTION 7.2 TERMINATION OF THE SERVICER UPON UNREMEDIED EVENT OF DEFAULT
+
+     The Owner may, at its sole option, following an unremedied Event of Default
+and in accordance with Section 6.1, terminate any rights the Servicer may have
+hereunder. The Owner, with full cooperation of the Servicer, shall arrange for
+the transfer of servicing, at the Owner's option, to the Owner or a third party
+successor servicer pursuant to Section 9.1, and the Servicer shall continue
+servicing, for the Servicing Fee provided herein, the Mortgage Loans under this
+Agreement until the Owner gives the Servicer notice of such transfer.
+
+                                   ARTICLE 8.
+
+                      PASS-THROUGH AND WHOLE LOAN TRANSFERS
+
+     SECTION 8.1 PASS-THROUGH TRANSFERS OR WHOLE LOAN TRANSFERS
+
+          (a) The Owner and the Servicer agree that in connection with any Whole
+Loan Transfer or Pass-Through Transfer permitted under Article 6 of the Purchase
+Agreement, the Owner, in its sole discretion, may assign its rights under this
+Agreement with respect to the Mortgage Loans subject to such Whole Loan Transfer
+or Pass-Through Transfer.
+
+          (b) The Owner shall reimburse the Servicer for all reasonable
+out-of-pocket expenses, including attorneys' fees, incurred by the Servicer in
+connection with any Whole Loan Transfer or Pass-Through Transfer.
+
+          (c) In connection with each Whole Loan Transfer or Pass-Through
+Transfer permitted under Article 6 of the Purchase Agreement, the Servicer
+shall: (i) provide the Owner with information and appropriate verification of
+information in its possession or control as may reasonably be necessary in order
+to effect such Whole Loan Transfer or Pass-Through Transfer (and, to the extent
+any such information is in the possession or control of any third party, use
+commercially reasonable efforts to cause such third party to provide such
+information); and (ii) cooperate with all reasonable requests and due diligence
+procedures not otherwise addressed herein. In addition, in connection with each
+Whole Loan Transfer or Pass-Through Transfer permitted hereunder, upon the
+request of the Owner, the applicable Seller shall provide an Officer's
+Certificate to the effect that the representations and warranties made by such
+Seller in Section 5.7 are true and correct as of the date of such certificate,
+provided that nothing has occurred during the period commencing in the
+applicable Closing Date and ending on the date of such certificate which would
+make such representations and warranties untrue.
+
+          (d) With respect to any Whole Loan Transfer or Pass-Through Transfer
+permitted under Article 6 of the Purchase Agreement in which a prospectus,
+prospectus supplement or other document purporting to disclose information
+related to the Mortgage Loans or the servicing thereof (a "Disclosure Document")
+is prepared in connection therewith, and in which a substantial portion of the
+mortgage loans in the related transaction consist of Mortgage Loans, the
+Servicer shall:
+
+               (i) provide for inclusion as part of such Disclosure Document (A)
+the regulatory status of the Servicer and its affiliates, (B) delinquency and
+foreclosure information of
+
+
+                                       34
+
+<PAGE>
+
+the type typically provided by the Servicer in connection with mortgage loans
+originated by the Sellers and securitized by third parties, and (C) other
+information typically provided by the Servicer in connection with mortgage loans
+originated by the Sellers and securitized by third parties in public, rated
+transactions for the issuance of mortgage pass-through certificates (the
+information referred to in this sentence, in the form provided to the Owner,
+being "Servicer's Information"); and
+
+               (ii) (A) indemnify and hold harmless the transferee under any
+permitted Pass-Through Transfer, the Owner and each Person, if any, who
+"controls" such transferee, if any, or the Owner within the meaning of the
+Securities Act of 1933, as amended (an "Indemnified Party"), against any losses,
+claims, damages or liabilities to which such Indemnified Party may become
+subject, under the Securities Act of 1933, as amended, or otherwise, insofar as
+such losses, claims, damages or liabilities (or actions in respect thereof)
+arise out of or are based upon any untrue statement of any material fact
+contained in Servicer's Information provided by such Servicer and included in a
+Disclosure Document, and (B) reimburse each Indemnified Party for any legal or
+other expenses reasonably incurred by such Indemnified Party in connection with
+investigating or defending any such loss, claim, damage, liability or action.
+
+          (e) With respect to any Pass-Through Transfer permitted under Article
+6 of the Purchase Agreement in which twenty percent or more of the mortgage
+loans in the related transaction consist of Mortgage Loans, the Servicer shall:
+
+               (i) execute and deliver a pooling and servicing agreement
+containing terms and conditions that are consistent with the terms and
+conditions set forth herein and in the Purchase Agreement and that are customary
+for public, rated transactions for the issuance of pass-through certificates
+backed by mortgage loans similar to the Mortgage Loans included in such
+Pass-Through Transfer, provided, that (A) any servicing reporting requirements
+must be consistent with the standard practices of the Servicer and (B) each of
+the parties to such pooling and servicing agreement negotiates in good faith any
+terms or conditions in such pooling and servicing agreement not specifically
+referenced or provided for under this Agreement or the Purchase Agreement; and
+
+               (ii) provide Owner with opinions of counsel as to the Servicer's
+corporate authority and the enforceability of the pooling and servicing
+agreement against the Servicer, audit letters addressing the delinquency and
+foreclosure statistics of the Servicer and certificates from public officials,
+each as the Servicer shall reasonably determine to be necessary to effect such
+Pass-Through Transfer.
+
+          (f) With respect to any Whole Loan Transfer or Pass-Through Transfer
+in which a Disclosure Document is prepared in connection therewith, the Owner
+shall:
+
+               (i) provide the Servicer with all drafts of the Servicer's
+Information when produced and revise the Servicer's Information in accordance
+with the Servicer's comments to correct any information therein at the Owner's
+cost; and
+
+
+                                       35
+
+<PAGE>
+
+               (ii) (A) indemnify and hold harmless the Servicer against any
+losses, claims, damages or liabilities to which the Servicer may become subject,
+under the Securities Act of 1933, as amended, or otherwise, insofar as such
+losses, claims, damages or liabilities (or actions in respect thereof) (x) arise
+out of or are based upon any untrue statement of any material fact contained in
+such Disclosure Document (other than an untrue statement of material fact
+contained in the Servicer's Information), or (y) arise out of or are based upon
+the omission to state in such Disclosure Document a material fact required to be
+stated therein or necessary to make the statements therein, in the light of the
+circumstances under which they were made, not misleading (unless the material
+fact omitted would constitute Servicer's Information) and (B) reimburse the
+Servicer for any legal or other expenses reasonably incurred by the Servicer in
+connection with investigating or defending any such loss, claim, damage,
+liability or action.
+
+     SECTION 8.2 DESIGNATION OF A MASTER SERVICER
+
+          (a) Notwithstanding anything to the contrary contained in this
+Agreement, the Owner shall have the right, in its sole discretion, upon 30 days'
+prior written notice to the Servicer, to appoint and designate a master servicer
+(the "Master Servicer"), as master servicer of Mortgage Loans subject to a
+permitted Whole Loan Transfer or Pass-Through Transfer. Upon receipt of written
+notice of such appointment, the Servicer shall promptly enter into a servicing
+agreement (a "Master Servicing Agreement") to service the Mortgage Loans for the
+Master Servicer in accordance with the Master Servicer's requirements as set
+forth in the Master Servicer's servicing guide; provided, however, that the
+Servicer shall be under no obligation to enter into any Master Servicing
+Agreement unless the obligations and duties of the Servicer as a subservicer
+thereunder (i) are not materially different from than those set forth herein,
+(ii) do not cause undue burden on the Servicer, (iii) do not expand in any
+material respect any of the obligations, duties or liabilities of the Servicer
+hereunder, and (iv) will not result in any increased cost to the Servicer. If
+the Servicer and the Master Servicer enter into a Master Servicing Agreement,
+the Servicer shall service the Mortgage Loans, and remit and report to the
+Master Servicer, in accordance with the terms of the Master Servicing Agreement
+and, to the extent inconsistent therewith, the servicing provisions set forth in
+this Agreement shall be superseded by the Master Servicing Agreement. If the
+Servicer and the Master Servicer do not enter into a Master Servicing Agreement,
+the Servicer shall service the Mortgage Loans, and remit and report to the
+Master Servicer, in accordance with the terms of this Agreement.
+
+          (b) Upon appointment of a Master Servicer in accordance with Section
+8.2(a), the Servicer shall correspond and communicate solely with the Master
+Servicer, as if the Master Servicer were the "Owner" hereunder. The Master
+Servicer shall have all rights as designee of the Owner to enforce the covenants
+and conditions set forth in this Agreement, and the Servicer shall follow and
+shall be entitled to rely on the instructions of the Master Servicer under this
+Agreement as if such instructions were the instructions of the Owner. The Master
+Servicer shall have the right to give any waivers or consents required or
+allowed under this Agreement on behalf of the Owner, and the Servicer shall be
+entitled to rely on such waivers and consents. The Master Servicer is empowered
+to enter into and execute and deliver any amendments or modifications to this
+Agreement as the Owner's designee hereunder, and such amendments or
+modifications shall be binding upon the Owner as if the Owner had executed and
+delivered the
+
+
+                                       36
+
+<PAGE>
+
+same. The Servicer shall treat the Master Servicer as "Owner" hereunder until
+the Servicer receives written notice from the Owner that the Owner has
+terminated the Master Servicer.
+
+          (c) Upon receipt of notice of termination of the Master Servicer, the
+Servicer shall no longer deal with the Master Servicer and instead deal directly
+with the Owner. From and after the receipt of such notice of termination of the
+Master Servicer, the Servicer shall service the applicable Mortgage Loans in
+accordance with the provisions of this Agreement and shall give no effect to any
+Master Servicing Agreement entered into with the Master Servicer.
+
+     SECTION 8.3 SERVICER'S PURCHASE RIGHT
+
+     If, at any time, either (i) the aggregate Unpaid Principal Balance of any
+pool of Mortgage Loans that are transferred pursuant to a Whole Loan Transfer
+("Transferred Loans") is less than or equal to one percent (1%) of the Unpaid
+Principal Balance of such Transferred Loans on the date of such Whole Loan
+Transfer, or (ii) the aggregate Unpaid Principal Balance of any Mortgage Loans
+purchased hereunder and retained by the Owner ("Portfolio Loans") is less than
+or equal to one percent (1%) of the Unpaid Principal Balance of such Portfolio
+Loans on the date of purchase from the applicable Seller, the Servicer may
+elect, in its sole discretion, to purchase such Transferred Loans or Portfolio
+Loans, as the case may be. The purchase price of Mortgage Loans purchased by the
+Servicer pursuant to this Section 8.3 shall equal the aggregate Unpaid Principal
+Balance of such Mortgage Loans, plus the amount of interest on such Unpaid
+Principal Balance at the applicable Net Rate from the date to which interest has
+last been paid and distributed to the Owner to, and including, the last day of
+the month in which such purchase occurs; provided, that the Servicer may
+exercise this purchase right only if the fair market value of the relevant
+Mortgage Loans is greater than or equal to the Unpaid Principal Balance of such
+Mortgage Loans at the time of purchase.
+
+                                   ARTICLE 9.
+
+                            MISCELLANEOUS PROVISIONS
+
+     SECTION 9.1 SUCCESSOR TO THE SERVICER
+
+          (a) Prior to termination of the Servicer's responsibilities and duties
+under this Agreement pursuant to Sections 5.4, 6.1, 7.1, or 7.2, the Owner shall
+either (i) succeed to and assume all of the Servicer's responsibilities, rights,
+duties, and obligations under this Agreement from and after the date of such
+succession or (ii) appoint a successor to the Servicer that shall succeed to all
+rights and assume all of the responsibilities, duties and liabilities of the
+Servicer under this Agreement prior to the termination of the Servicer's
+responsibilities, duties, and liabilities under this Agreement. In the event
+that the Servicer's duties, responsibilities, and liabilities under this
+Agreement shall be terminated pursuant to any of the foregoing Sections, the
+Servicer shall discharge such duties and responsibilities, and be compensated
+therefor as provided in this Agreement, during the period from the date it
+acquires knowledge of such termination until the effective date thereof with the
+same degree of diligence and prudence which it is obligated to exercise under
+this Agreement.
+
+
+                                       37
+
+<PAGE>
+
+          (b) The Servicer shall promptly deliver to its successor (i) the funds
+in the Account and the Escrow Account to which the Owner is entitled pursuant to
+the terms of this Agreement and all other amounts which may thereafter be
+received with respect to the Mortgage Loans and to which the Servicer is not
+entitled pursuant to the terms of this Agreement and (ii) all Collateral Files
+and Credit Files and related documents and statements held by it hereunder. The
+Servicer shall account for all funds and shall execute and deliver such
+instruments and do such other things as may reasonably be required to more fully
+and definitively vest in the successor all such rights, powers, duties,
+responsibilities, obligations and liabilities of the Servicer.
+
+          (c) Upon a successor's acceptance of appointment as such, the Owner
+shall notify the Servicer of such appointment.
+
+          (d) Notwithstanding any termination pursuant to this Agreement, the
+Servicer shall continue to be entitled to receive all amounts accrued or owing
+to it under this Agreement on or prior to the effective date of such
+termination, whether in respect of (i) unreimbursed Servicing Advances or
+Monthly Advances, (ii) unpaid Servicing Fees or REO Management Fees or (iii)
+other servicing compensation, and shall continue to be entitled to the benefits
+of Section 5.3 notwithstanding any such termination, with respect to events
+occurring prior to such termination.
+
+     SECTION 9.2 AMENDMENT
+
+     This Agreement may be amended from time to time solely by written agreement
+signed by both of the parties.
+
+     SECTION 9.3 RECORDATION OF AGREEMENT; PERFECTION OF SECURITY INTEREST;
+FURTHER ASSURANCES
+
+          (a) To the extent necessary under applicable law to protect the
+interests of the Owner, this Agreement, or a memorandum thereof, is subject to
+recordation in all appropriate public offices for real property records in all
+the counties or other comparable jurisdictions in which any or all of the
+Mortgaged Properties are situated, and in any other appropriate public recording
+office or elsewhere, such recordation to be effected by the Owner at the Owner's
+expense.
+
+          (b) The Servicer agrees to execute or cause to be executed such
+documents and take or cause to be taken such actions as may be necessary to
+effect the intent of this Agreement, including without limitation the execution
+and delivery of instruments of further assurance and the execution and delivery
+of such other documents, and the taking of such other actions, as may be
+reasonably requested by the Owner.
+
+     SECTION 9.4 DURATION OF AGREEMENT
+
+     This Agreement shall continue in existence and effect until terminated as
+herein provided.
+
+
+                                       38
+
+<PAGE>
+
+     SECTION 9.5 GOVERNING LAW
+
+     This Agreement shall be governed by and construed in accordance with the
+laws of the State of New York (including Section 5-1401 of the New York General
+Obligations Law) and the obligations, rights and remedies of the parties
+hereunder shall be determined in accordance with such laws without giving effect
+to conflict of laws principles other than Section 5-1401 of the New York General
+Obligations Law. Each of the Servicer and the Owner hereby knowingly,
+voluntarily and intentionally waives any and all rights it may have to a trial
+by jury in respect of any litigation based on, or arising out of, under, or in
+connection with, this Agreement, or any other documents and instruments executed
+in connection herewith, or any course of conduct, course of dealing, statements
+(whether oral or written), or actions of the Servicer or the Owner. This
+provision is a material inducement for the Servicer and the Owner to enter into
+this Agreement.
+
+     SECTION 9.6 GENERAL INTERPRETIVE PRINCIPLES
+
+     For purposes of this Agreement, except as otherwise expressly provided or
+unless the context otherwise requires:
+
+               (i) the terms defined in this Agreement have the meanings
+assigned to them in this Agreement and include the plural as well as the
+singular, and the use of any gender herein shall be deemed to include the other
+gender;
+
+               (ii) accounting terms not otherwise defined herein have the
+meanings assigned to them in accordance with generally accepted accounting
+principles;
+
+               (iii) references herein to "Articles," "Sections," "Subsections,"
+"Paragraphs," and other subdivisions without reference to a document are to
+designated Articles, Sections, Subsections, Paragraphs, and other subdivisions
+of this Agreement;
+
+               (iv) a reference to a Subsection without further reference to a
+Section is a reference to such Subsection as contained in the same Section in
+which the reference appears, and this Rule shall also apply to Paragraphs and
+other subdivisions;
+
+               (v) the words "herein," "hereof," "hereunder," and other words of
+similar import refer to this Agreement as a whole and not to any particular
+provision; and
+
+               (vi) the term "include" or "including" shall mean without
+limitation by reason of enumeration.
+
+
+                                       39
+
+<PAGE>
+
+     SECTION 9.7 REPRODUCTION OF DOCUMENTS
+
+     This Agreement and all documents relating hereto, including without
+limitation (i) consents, waivers, and modifications which may hereafter be
+executed, (ii) documents received by any party on any Closing Date, and (iii)
+financial statements, certificates, and other information previously or
+hereafter furnished, may be reproduced by any photographic, photostatic,
+microfilm, microcard, miniature photographic or other similar process. The
+parties agree that any such reproduction shall be admissible in evidence as the
+original itself in any judicial or administrative proceeding, whether or not the
+original is in existence and whether or not such reproduction was made by a
+party in the regular course of business, and that any enlargement, facsimile or
+further reproduction of such reproduction shall likewise be admissible in
+evidence.
+
+     SECTION 9.8 NOTICES
+
+     All demands, notices, consents, waivers and other communications hereunder
+shall be in writing and shall be deemed to have been duly given (x) in the case
+of any notice of an Event of Default, if mailed by registered mail, postage
+prepaid and (y) in the case of any other demand, notice, consent, waiver or
+other communication, if personally delivered, mailed by registered mail, postage
+prepaid, delivered by air courier or sent by facsimile to:
+
+               (i) in the case of the Servicer, at the address set forth below
+or such other address as may hereafter be furnished to the Owner in writing by
+the Servicer:
+
+     Washington Mutual Bank, FA
+     19850 Plummer St.
+     N070205
+     Chatsworth, CA 91311
+     Attention: Vice President, Investor Reporting
+     Telephone: (818) 775-2278
+     Facsimile: (818) 775-2819
+
+               (ii) in the case of the Owner, at the address set forth below, or
+such other address as may hereafter be furnished to the Servicer by the Owner:
+
+     Banc of America Mortgage Capital Corporation
+     Hearst Tower
+     NC 1-027-21-04
+     214 North Tryon Street, 21st Floor
+     Charlotte, NC 28255
+     Attention: Managing Director
+     Telephone: 704-388-8708
+     Facsimile: 704-386-3215
+
+and in the case of any subsequent Owner, as set forth in written notice supplied
+to the Servicer by such subsequent Owner.
+
+
+                                       40
+
+<PAGE>
+
+     Notwithstanding the foregoing any demand, notice, consent, waiver or
+communication (other than those referred to in clause (x) above) may be given by
+any other means agreed to by the parties.
+
+     SECTION 9.9 SEVERABILITY OF PROVISIONS
+
+     If any one or more of the covenants, agreements, provisions or terms of
+this Agreement shall be held invalid for any reason whatsoever, then such
+covenants, agreements, provisions or terms shall be deemed severable from the
+remaining covenants, agreements, provisions or terms of this Agreement and shall
+in no way affect the validity or enforceability of the other covenants,
+agreements, provisions or terms of this Agreement or the rights of the Owner
+hereunder. If the invalidity of any part, provision, representation or warranty
+of this Agreement shall deprive any party of the economic benefit intended to be
+conferred by this Agreement, the parties shall negotiate in good faith to
+develop a structure the economic effect of which is nearly as possible the same
+as the economic effect of this Agreement without regard to such invalidity.
+
+     SECTION 9.10 EXHIBITS AND SCHEDULES
+
+     The exhibits and schedules to this Agreement are hereby incorporated and
+made a part hereof and are an integral part of this Agreement.
+
+     SECTION 9.11 COUNTERPARTS; SUCCESSORS AND ASSIGNS
+
+     This Agreement may be executed in one or more counterparts and by the
+different parties hereto on separate counterparts, each of which, when so
+executed, shall be deemed to be an original; such counterparts, together, shall
+constitute one and the same agreement. Subject to Sections 5.4, 5.5, 5.6, 6.1,
+7.1 and 8.1, this Agreement shall inure to the benefit of and be binding upon
+the Servicer, the Owner and their respective successors and assigns.
+
+     SECTION 9.12 EFFECT OF HEADINGS
+
+     The headings in this Agreement are for purposes of reference only and shall
+not limit or otherwise affect the meaning hereof.
+
+     SECTION 9.13 OTHER AGREEMENTS SUPERSEDED
+
+     This Agreement supersedes all prior agreements and understandings relating
+to the subject matter hereof.
+
+     SECTION 9.14 ATTORNEYS' FEES
+
+     If either party retains an attorney to enforce any of the provisions of
+this Agreement, the prevailing party shall be entitled to reasonable attorneys'
+fees from the other party, including, without limitation, fees incurred in
+arbitration and in trial and appellate courts, fees incurred without suit, and
+all arbitration, court and accounting costs.
+
+                               [Signatures follow]
+
+
+                                       41
+
+<PAGE>
+
+     The Servicer and the Owner have caused their names to be signed to this
+Servicing Agreement (Amended and Restated) by their respective officers duly
+authorized as of the day and year first written above.
+
+     SERVICER:
+
+                                        WASHINGTON MUTUAL BANK, FA
+                                        a federally chartered savings
+                                        association
+
+
+                                        By:    /s/ Barbara Loper
+                                        Name:  Barbara Loper
+                                        Title: Vice President
+
+     OWNER:
+
+
+                                        BANC OF AMERICA MORTGAGE CAPITAL
+                                        CORPORATION
+                                        a North Carolina corporation
+
+
+                                        By:    /s/ Bruce W. Good
+                                        Name:  Bruce W. Good
+                                        Title: Vice President
+
+<PAGE>
+
+By executing this Servicing Agreement (Amended and Restated), the party below
+agrees and acknowledges that this Agreement shall replace in its entirety the
+Original Servicing Agreement as it relates to the Mortgage Loans sold pursuant
+the Term Sheets executed prior to the date hereof and on or after the date
+hereof, and any future reference to the Original Servicing Agreement will mean
+this Servicing Agreement (Amended and Restated).
+
+                                        BANK OF AMERICA, N.A.
+                                        a national banking association, as
+                                        successor to the Owner with respect to
+                                        certain Mortgage Loans
+
+
+                                        By:    /s/ Bruce W. Good
+                                        Name:  Bruce W. Good
+                                        Title: Vice President
+
+<PAGE>
+
+STATE OF WASHINGTON   )
+                      ) ss.
+COUNTY OF KING        )
+
+     This instrument was acknowledged before me on ______________________, 2003,
+by _____________________ as _________________________ of Washington Mutual Bank,
+FA.
+
+                                        ________________________________________
+                                        [Print Name]_________________________
+                                        NOTARY PUBLIC in and for the State of
+                                        Washington, residing at ________________
+                                        My commission expires __________________
+
+<PAGE>
+
+STATE OF NORTH CAROLINA   )
+                          ) ss.
+COUNTY OF MECKLENBURG     )
+
+     This instrument was acknowledged before me on ______________________, 2003,
+by _____________________ as _________________________ of Banc of America
+Mortgage Capital Corporation.
+
+                                        ________________________________________
+                                        [Print Name]_________________________
+                                        NOTARY PUBLIC in and for the State of
+                                        _________, residing at _________________
+                                        My commission expires __________________
+
+<PAGE>
+
+STATE OF NORTH CAROLINA   )
+                          ) ss.
+COUNTY OF MECKLENBURG     )
+
+     This instrument was acknowledged before me on ______________________, 2003,
+by _____________________ as _________________________ of Bank of America, N.A.
+
+                                        ________________________________________
+                                        [Print Name]_________________________
+                                        NOTARY PUBLIC in and for the State
+                                        of _________, residing at ______________
+                                        My commission expires __________________
+
+
+
+<PAGE>
+
+                                    EXHIBIT A
+
+              FORM OF REQUEST FOR RELEASE OF DOCUMENTS AND RECEIPT
+
+     To:
+
+          [Custodian]
+
+          Re: Servicing Agreement (Amended and Restated) dated as of July 1,
+          2003, which amended and restated an agreement dated as of January 1,
+          2002 (the "Servicing Agreement") between Banc of America Mortgage
+          Capital Corporation (the "Owner") and Washington Mutual Bank, FA (the
+          "Servicer")
+
+     In connection with the administration of the Mortgage Loans that we service
+on behalf of the Owner pursuant to the Servicing Agreement, we request the
+release, and acknowledge receipt of the Collateral File/[specify documents]) for
+the Mortgage Loan described below, for the reason indicated.
+
+Mortgagor's Name, Address and Zip Code:
+
+Mortgage Loan Number:
+
+Reason for Requesting Documents: (check one)
+
+     _____ 1.   Mortgage Loan paid in full. (The Servicer hereby certifies that
+                all amounts received in connection therewith have been credited
+                to the Account as provided in the Servicing Agreement.)
+
+     _____ 2.   Mortgage Loan in foreclosure.
+
+     _____ 3.   Repurchase pursuant to the Servicing Agreement or the Purchase
+                Agreement. (The Servicer hereby certifies that the repurchase
+                price has been credited to the Account.)
+
+     _____ 4.   Mortgage Loan liquidated by
+                ____________________________________. (The Servicer hereby
+                certifies that all proceeds of the foreclosure, insurance,
+                condemnation or other liquidation have been finally received and
+                credited to the Account pursuant to the Servicing Agreement.)
+
+     _____ 5.   Other (Explain): _____________________________________________
+
+     If box 1, 2 or 3 above is checked, and if all or part of the Collateral
+File was previously released to us, please release to us our previous request
+and receipt on file with you, as well as any additional documents in your
+possession relating to the specified Mortgage Loan.
+
+
+                                       A-1
+
+<PAGE>
+
+     If box 4 or 5 above is checked, upon our return of all of the above
+documents to you, please acknowledge your reception by signing in the space
+indicated below and returning this form.
+
+                                        WASHINGTON MUTUAL BANK, FA
+
+
+                                        By:
+                                            ------------------------------------
+
+                                        Name:
+                                              ----------------------------------
+
+                                        Title:
+                                               ---------------------------------
+
+Acknowledgment of Documents returned
+to the Custodian:
+
+[__________________________________]
+
+
+By:
+    -------------------------------
+
+Name:
+      -----------------------------
+
+Title:
+       ----------------------------
+
+Date:
+      -----------------------------
+
+
+                                       A-2
+
+<PAGE>
+
+                                    EXHIBIT B
+
+                            ACCOUNT LETTER AGREEMENT
+
+                                                                __________, 200_
+
+To:  [a non-Servicer Depository]
+
+     As the "Servicer" under the Servicing Agreement (Amended and Restated)
+dated as of July 1, 2003, which amends and restates an agreement dated as of
+January 1, 2002, between the Servicer and the Owner named therein (the
+"Agreement"), we hereby authorize and request you to establish an account, as an
+Account pursuant to Section 2.4 of the Agreement, to be designated as
+"Washington Mutual Bank, FA, in trust for Banc of America Mortgage Capital
+Corporation, as Owner, and any successor Owner." All deposits in the account
+shall be subject to withdrawal therefrom by order signed by the Servicer. You
+may refuse any deposit which would result in violation of the requirement that
+the account be fully insured as described below. This letter is submitted to you
+in duplicate. Please execute and return one original to us.
+
+                                        ________________________________________
+
+
+                                        By:
+                                            ------------------------------------
+                                        Name:
+                                              ----------------------------------
+                                        Title:
+                                               ---------------------------------
+
+     The undersigned, as the "Depository," hereby certifies that the
+above-described account has been established under Account Number
+_________________, at the office of the Depository indicated above, and agrees
+to honor withdrawals on such account as provided above. The full amount
+deposited at any time in the account will be insured by the Federal Deposit
+Insurance Corporation.
+
+                                        ________________________________________
+                                        (Name of Depository)
+
+
+                                        By:
+                                            ------------------------------------
+                                        Name:
+                                              ----------------------------------
+                                        Title:
+                                               ---------------------------------
+
+
+                                       B-1
+
+<PAGE>
+
+                                    EXHIBIT C
+
+                         ESCROW ACCOUNT LETTER AGREEMENT
+
+                                                              ____________, 200_
+
+To:  [a non-Servicer Depository]
+
+     As the "Servicer" under the Servicing Agreement (Amended and Restated)
+dated as of July 1, 2003, which amends and restates an agreement dated as of
+January 1, 2002, between the Servicer and the Owner named therein (the
+"Agreement"), we hereby authorize and request you to establish an account, as an
+Escrow Account pursuant to Section 2.6 of the Agreement, to be designated as
+"Washington Mutual Bank, FA, in trust for Banc of America Mortgage Capital
+Corporation, as Owner, and any successor Owner, and certain Mortgagors." All
+deposits in the account pursuant to the Agreement shall be subject to withdrawal
+therefrom by order signed by the Servicer. You may refuse any deposit which
+would result in violation of the requirement that the account by fully insured
+as described below. This letter is submitted to you in duplicate. Please execute
+and return one original to us.
+
+                                        ________________________________________
+
+
+                                        By:
+                                            ------------------------------------
+                                        Name:
+                                              ----------------------------------
+                                        Title:
+                                               ---------------------------------
+
+     The undersigned, as the "Depository," hereby certifies that the
+above-described account has been established under Account Number
+_________________, at the office of the Depository indicated above, and agrees
+to honor withdrawals on such account as provided above. The full amount
+deposited at any time in the account will be insured by the Federal Deposit
+Insurance Corporation.
+
+                                        ________________________________________
+                                        (Name of Depository)
+
+
+                                        By:
+                                            ------------------------------------
+                                        Name:
+                                              ----------------------------------
+                                        Title:
+                                               ---------------------------------
+
+
+                                       C-1
+
+<PAGE>
+
+                                    EXHIBIT D
+
+                              SERVICER REQUIREMENTS
+
+Loading/Updating Investor Headers
+
+     1.   Bank of America will provide investor header matrix for input on MSP
+          by Servicer. Updates/additions will occur monthly, including new
+          investor header detail for each new deal that is settled.
+
+     2.   The Servicer will load investor headers upon receipt or before month
+          end. The following fields will need to be updated on IN03: MS OPT, MS
+          INV CNTRL NO, MS MO DELQ, and MS JUST FL.
+
+     3.   The Servicer will update the investor headers on the FIRST BUSINESS
+          DAY of the next/following month to ensure that the correct loan
+          accounts will appear on the corresponding 413 file that will represent
+          the new month's activity.
+
+Loading Account Numbers
+
+     1.   Upon receipt of a funding schedule, Bank of America will deliver a
+          cross reference of Servicer-to-Bank of America account numbers to the
+          servicer. The account numbers will be delivered in the tran 55 layout
+          for loading in the next Servicer MSP cycle.
+
+     2.   The Servicer will load account numbers on or before the FIRST BUSINESS
+          DAY of the month to ensure that the correct Bank of America account
+          numbers will appear on the corresponding 413 file that will represent
+          the new month's activity.
+
+Automated Monetary Transaction File - 413
+
+     1.   Call Fidelity PowerCell and request installation of IP 770
+
+     2.   On the FIRST BUSINESS DAY of the month, the financial transactions for
+          the LSBO portfolio will transmit from the Servicer MSP system to the
+          Bank of America MSP system.
+
+Monthly Servicer File - Automated
+
+     1.   Call Fidelity PowerCell and initiate an SSR for the installation of IP
+          1804 and the interchange set-up required to host and transmit this
+          file. This enhancement will provide an automated month-end feed from
+          the Servicer to Bank of America for the LSBO portfolio identified by
+          the corresponding investor headers. The feed will include all new
+          loans purchased by Bank of America in the previous month, as well as a
+          maintenance file for all existing loans in the LSBO portfolio
+
+     2.   Once installed, populate XX flag on the IN03 screen. This flag will
+          assist with synchronizing the feeds received in the Monthly Servicer
+          File and the corresponding 413 file.
+
+     3.   Bank of America will receive and process the electronic file on the
+          FIRST BUSINESS DAY of the month for the previous month-end file. Note:
+          This file comes from the servicer automatically with the installation
+          of the IP.
+
+
+                                       D-1
+
+<PAGE>
+
+Monthly Servicer File - Manual
+
+For testing purposes, and in the event that the IP is not installed prior to
+initial conversion, a manual process is in place to provide the Monthly Servicer
+File data feed for REMOTE MSP clients.
+
+     1.   The Servicer will load/update investor header information received
+          from Bank of America.
+
+     2.   The Servicer will send an email granting permission to Fidelity to
+          provide the manual feed of accounts in the assigned investor headers
+          identified. The email will contain the MSP client and corresponding
+          investor/categories to be included in the feed.
+
+     3.   Bank of America will receive and process the file on the FIRST
+          BUSINESS DAY of the month for the previous month-end file.
+
+     Note: For LICENSED MSP clients, the servicer will install and use the
+     existing work-around EZTrieve process. (This will require the installation,
+     testing, and implementation of the EZTrieve until the IP is ready.) The
+     servicer will be required to develop a test file and production files until
+     the IP is available.
+
+Reporting Requirements
+
+Required reports for the LSBO project are as follows:
+
+     o    S215 - Report summarizes the collections made during the reporting
+          period. We would like this report by the 5TH BUSINESS DAY.
+
+     o    S214 - Report summarizes paid in full loans made during the reporting
+          period. We would like this report by the 5TH BUSINESS DAY.
+
+     o    P139 - Monthly statement of mortgage accounts or a trial balance as of
+          the cutoff date. We would like this report by the 5TH BUSINESS DAY.
+
+     o    SCHEDULED REMITTANCE REPORTS - Servicers send on a monthly basis. We
+          would like this report by the 7TH BUSINESS DAY.
+
+     o    DELINQUENCY REPORT - Report from the servicer to be sent by the 5TH
+          BUSINESS DAY. If the servicer is a Fidelity client, we would like a
+          P4DL report. Otherwise, a similar report will suffice. LSBO would like
+          this report sent via e-mail or fax.
+
+NOTE: These S215, S214, and P139 reports will be provided in an electronic
+format. These reports are automatically generated when the 951/139 cutoff is
+calendared. The reports are required for the LSBO project; reports in addition
+to these may be required.
+
+
+                                       D-2
+
+<PAGE>
+
+                                    EXHIBIT E
+
+                          FORM OF OFFICER'S CERTIFICATE
+
+     I, [name of certifying individual], a duly elected and acting officer of
+Washington Mutual Bank, FA (the "Servicer"), certify pursuant to Section 4.4(b)
+of the Servicing Agreement dated as of ___________, 200_ (as from time to time
+amended or replaced by a reconstituted servicing or other successor servicing
+agreement, the "Servicing Agreement") between the Servicer and
+[_________________________] (the "Owner") to the Owner and each other Person
+entitled to receive servicing reports provided pursuant to Section 3.2(a) of the
+Servicing Agreement (the "Servicing Reports"), each Person, if any, who
+"controls" the Owner or such other Person within the meaning of the Securities
+Act of 1933, as amended, and their respective officers and directors, with
+respect to the calendar year immediately preceding the date of this certificate
+(the "Relevant Year"), as follows:
+
+     1. For purposes of this certificate, "Relevant Information" means the
+information in the certificate provided pursuant to Section 4.4(a) of the
+Servicing Agreement (the "Annual Compliance Certificate") and Section 4.5 for
+the Relevant Year and the information in all Servicing Reports provided by the
+Servicer during the Relevant Year. Based on my knowledge, the Relevant
+Information, taken as a whole, does not contain any untrue statement of a
+material fact or omit to state a material fact required to be stated therein
+which is necessary to make the statements made therein, in light of the
+circumstances under which such statements were made, not misleading as of the
+last day of the Relevant Year.
+
+
+     2. The Relevant Information has been provided to those Persons entitled to
+receive it.
+
+     3. I am responsible for reviewing the activities performed by the Servicer
+under the Servicing Agreement during the Relevant Year. Based upon the review
+required by the Servicing Agreement and except as disclosed in the Annual
+Compliance Certificate or the accountants' statement provided pursuant to
+Section 4.5, to the best of my knowledge, the Servicer has fulfilled its
+obligations under the Servicing Agreement throughout the Relevant Year.
+
+DATED as of __________ __, 200_.
+
+                                        ________________________________________
+
+
+                                        By:
+                                            ------------------------------------
+                                        Name:
+                                              ----------------------------------
+                                        Title:
+                                               ---------------------------------
+
+
+                                       E-1
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,3021 @@
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>13
+<FILENAME>ex10_2.txt
+<TEXT>
+                                                                    Exhibit 10.2
+
+
+                      THIRD AMENDMENT
+
+
+                           to the
+
+
+                 INTERCONNECTION AGREEMENT
+
+
+                    ,dated May 1, 1992,
+
+
+                           among
+
+
+             INDIANAPOLIS POWER & LIGHT COMPANY
+
+
+                            and
+
+
+                      PSI ENERGY, INC.
+
+
+                            and
+
+
+                   CINERGY SERVICES, INC.
+
+
+
+                    Dated June 30, 1995
+
+
+             INDIANAPOLIS POWER & LIGHT COMPANY
+            FEDERAL ENERGY REGULATORY COMMISSION
+                 Rate Schedule FERC No. 23
+
+
+
+                     CINERGY COMPANIES
+            FEDERAL ENERGY REGULATORY COMMISSION
+                 Rate Schedule FERC No. 10
+
+
+
+INDEX
+
+
+SECTION ONE:   Agreement As Amended
+
+               Interconnection Agreement Between
+               Indianapolis Power & Light Company, and
+               The Cincinnati Gas & Electric Company,
+               PSI Energy, Inc., and CINergy Services, Inc.,
+               dated June 30, 1995
+
+
+
+SECTION TWO:   Agreement As Signed
+
+               Interconnection Agreement Between
+               Indianapolis Power & Light Company, and
+               The Cincinnati Gas & Electric Company,
+               PSI Energy, Inc., and CINergy Services, Inc.,
+               dated June 30, 1995
+
+
+
+
+                      THIRD AMENDMENT
+                           TO THE
+
+                 INTERCONNECTION AGREEMENT
+
+                           AMONG
+
+             INDIANAPOLIS POWER & LIGHT COMPANY
+
+                            and
+
+                      PSI ENERGY, INC.
+                 AND CINERGY SERVICES, INC.
+
+
+     0.01 THIS THIRD AMENDMENT, dated on the 30th day of June
+1995,  among  INDIANAPOLIS POWER & LIGHT COMPANY (hereinafter
+referred  to as "IPL"), a corporation organized and  existing
+under  the laws of the State of Indiana and PSI ENERGY,  INC.
+(hereinafter  referred to as "PSI"), a corporation  organized
+and  existing  under the laws of the State  of  Indiana,  and
+CINERGY  SERVICES, INC. (hereinafter referred to as  "CINergy
+Services"),  a corporation organized and existing  under  the
+laws of the State of Delaware.  IPL, PSI and CINergy Services
+are sometimes hereinafter referred to individually as "Party"
+and collectively as "Parties" where appropriate.
+                    W I T N E S S E T H:
+
+     0.02  WHEREAS, There is now in force and effect  between
+IPL and PSI an Interconnection Agreement, dated as of May  1,
+1992,   (said  Interconnection  Agreement  being  the   Ninth
+Supplement to the 1962 Interconnection Agreement between  IPL
+and PSI, herein called the "1992 Agreement"); and
+
+     0.03  WHEREAS,  The  Cincinnati Gas &  Electric  Company
+("CG&E")  and  PSI  merged on October 24,  1994,  and  formed
+CINergy Corp. with CG&E and PSI now being called the "CINergy
+Operating Companies"; and
+
+     0.04 WHEREAS, CG&E, PSI and CINergy Services are parties
+to  a  Service Agreement, dated March 2, 1994, which has been
+approved  by the Securities and Exchange Commission  and  the
+Indiana  Utility  Regulatory Commission (IURC),  under  which
+CINergy  Services  will act as PSI*s agent  in  administering
+PSI*s interconnection agreements and the three companies  are
+also  parties to an Operating Agreement, dated March 2, 1994,
+on  file  with and accepted by the FERC and approved  by  the
+IURC   under   which  CINergy  Services  will  dispatch   the
+generating units of CG&E, PSI and CINergy Services; and
+
+     0.05  WHEREAS,  the Parties desire to  modify  the  1992
+Agreement, as hereinafter set forth; and
+
+     0.06  NOW,  THEREFORE, in consideration of the  premises
+and mutual covenants and agreements of the Parties, as herein
+set forth, the Parties hereby agree as follows:
+
+                         ARTICLE 1
+             PROVISIONS FOR, AND CONTINUITY OF
+                  INTERCONNECTED OPERATION
+
+          1.01.    Interconnection  Points.   The  respective
+138,00 volt and 345,000 volt transmission systems of IPL  and
+PSI are presently interconnected at the following points:
+
+     (i)   The 138kV Five Points Interconnection Point
+     (ii)  The 345kV Whitestown Interconnection Point
+
+     (iii) The 345kV Gwynneville Interconnection Point
+     (iv)  The 138kV Petersburg Interconnection Point
+     (v)   The 345kV Petersburg Interconnection Point
+     (vi)  The 138kV Centerton Interconnection Point
+     (vii) The 138kV Carmel Tap Point
+
+          1.02.  Future Interconnection Points.  The services
+provided  for  by  the 1992 Agreement may  also  be  rendered
+through  such other points of interconnection as the  Parties
+may later agree upon by amending the 1992 Agreement.
+
+          1.03.  Synchronous Operation.  The Parties mutually
+agree  that, except as provided in Service Schedule D hereof,
+their  respective  systems will be continuously  operated  in
+parallel  (except in cases of interruption of  such  parallel
+operation due to mutually agreed upon maintenance or  due  to
+causes  beyond  the control of either Party, or  due  to  the
+necessity of an interruption of parallel operation  in  order
+that  the  native  load directly served by either  Party  may
+continue  to receive adequate service from such  Party).   If
+synchronous  operation of the systems  through  a  particular
+line   or   lines  become  interrupted  either  manually   or
+automatically because of any of the above-stated reasons, the
+Parties  shall  cooperate so as to remove the cause  of  such
+interruption as soon as practicable and restore such line  or
+lines to normal operating condition.
+
+          1.03.1.   Inadvertent Flow.  It is recognized  that
+     in  interconnected system operation, power and  reactive
+     flow  will  exist on an interconnection due to scheduled
+     power flow from either Party to third parties or between
+     third  parties.   This inadvertent  power  flow  depends
+     mainly  on  the  design of the internal systems  of  the
+     Parties and the interconnected system, and the schedules
+     of power flows on the interconnections.
+
+          1.03.2.   Interruption of Operation.   If,  in  the
+     sole  judgment  of either Party, the power  or  reactive
+     flow over the interconnection facilities of either Party
+     is  excessive  to  the extent that  it  jeopardizes  the
+     reliability of either Party*s service to its  customers,
+     the   Parties  shall  attempt  to  agree  upon  adequate
+     corrective   measures  to  eliminate  or  control   such
+     excessive  power  or  reactive flow; provided,  however,
+     that in the event such a situation exists, the Party  so
+     burdened shall have the right, with notice when possible
+     to the other Party, to open and leave open one or all of
+     the  interconnections between the respective systems  of
+     the Parties until corrective action has been taken.  The
+     Parties  further  agree  to  study  and  negotiate   the
+     installation,  ownership, and  cost  of  any  additional
+     equipment  necessary to effect a long-term  solution  to
+     any  such excessive loading as herein described  in  the
+     event  either Party determines that this interconnection
+     contributes  to the excessive loading and requests  such
+     negotiation.
+
+          1.04.   Maintenance  of  Equipment.   Each  of  the
+Parties   shall  keep,  or  shall  cause  to  be  kept,   the
+transmission lines together with all associated equipment and
+appurtenances that are located on their respective  sides  of
+the  Interconnection Points specified in Section 1.01 hereof,
+or  agreed   upon  pursuant  to Section  1.02  hereof,  in  a
+suitable  condition of repair at all times, each at  its  own
+expense,  in order that said transmission lines will  operate
+in  a  reliable  and satisfactory manner and  in  order  that
+reduction  in  the  effective capacity of  said  transmission
+lines will be avoided to the extent practicable.
+
+                         ARTICLE 2
+                  SERVICES TO BE RENDERED
+
+          2.01.   Interconnection Services Schedules.  It  is
+the  purpose  of  the  Parties to seek  and  realize,  on  an
+equitable  basis,  all  benefits  which  may  be  practicably
+effected   through   coordination  in   the   operation   and
+development of their respective systems.  It is understood by
+the  Parties that such benefits may be realized  by  each  of
+them  by  carrying  out  under stated  terms  and  conditions
+various  interconnection services and transactions  that  may
+from time to time include among others:
+     (i)   The furnishing of emergency service,
+     (ii)  The  interchange, sale, and purchase of  energy  to
+           effect operating economies,
+     (iii) The  sale and purchase of short term electric
+           power  and  energy available on the system  of  one
+           Party and needed on the system of the other, and
+     (iv)  The  transmission of power and energy on the  basis
+           of simultaneous transfers.
+
+In furtherance of such purpose, the Parties shall create, and
+continue  the  functioning  of, an  Operating  Committee,  as
+provided in Article 7 hereof.
+
+          2.02.     Specific Terms and Conditions.  Since the
+specific  services  to  be rendered in  furtherance  of  such
+purpose will vary during the term of the 1992 Agreement,  and
+the  terms  and  conditions applicable to such  services  may
+require  modification from time to time, it is intended  that
+such   specific   services  and  the  terms  and   conditions
+applicable  thereto  will be set forth in  Service  Schedules
+mutually  agreed  upon  between the  parties.   Such  Service
+Schedules,   unless   and  until  changed,   terminated,   or
+supplemented,  shall  be  those  specified  in  Section  2.03
+hereof.   If  a Service Schedule under the 1992 Agreement  is
+changed or supplemented, such Service Schedule shall be fully
+restated in order to reflect such change or supplement.
+
+          2.03.   Service Schedules.  The respective  Service
+Schedules designated
+
+Service Schedule A - Emergency Service
+Service Schedule B - Interchange Energy
+Service Schedule C - Short Term Power and Energy
+Service Schedule D - Carmel Southeast Tap Power & Energy Transfer
+
+have been agreed upon between the Parties, are identified  as
+Exhibits  I,  II,  III,  and IV, respectively,  to  the  1992
+Agreement and are attached hereto and made a part hereof  the
+same  as if incorporated herein.  It is contemplated  by  the
+Parties  that  all  additional mutually agreed  upon  Service
+Schedules  will  be  made a part of the 1992  Agreement  upon
+presentation and acceptance thereof.
+
+          2.04.   Out-Of-Pocket  Costs.   The  term  "Out-of-
+Pocket Cost" of energy from generating units on the system of
+a Party shall consist of any costs that are directly incurred
+by  IPL or PSI by reason of its generation of such energy and
+which  otherwise would not have been incurred by such  system
+including,  but  not  limited  to,  fuel,  labor,  operation,
+maintenance,  start-up,  fuel  handling,  taxes,   regulatory
+commission charges, and emission allowances.
+
+"Out-of-Pocket Cost" of energy purchased from a  third  party
+by the supplying Party shall consist of the total amount paid
+therefore  by the supplying Party which otherwise  would  not
+have  been  paid by such Party, plus any cost which otherwise
+would not have been incurred, including, but not limited  to,
+regulatory    commission   charges,   emission    allowances,
+transmission losses and taxes related to such transaction.
+
+Tax  expenses will be the expenses that are incurred as taxes
+either  in  connection with the sale or  production  of  such
+energy.
+
+     2.05.  Emission Allowances.  The federal Clean Air  Act,
+as  amended,  42  U.S.C. Section 7401  et  seq.  (hereinafter
+referred  to as "Clean Air Act"), establishes certain  annual
+maximum  sulfur dioxide ("SO2") levels, stated  in  terms  of
+required  emission  allowances, for  flue  gases  emitted  by
+electric generating units, including units operated  by  IPL,
+PSI  and  other  electric utilities who may  supply  electric
+energy  for  transactions  under this  1992  Agreement.   The
+generator of the electric energy supplied and delivered under
+this  1992 Agreement is required by the Clean Air Act to have
+adequate  "allowances" (as defined by Section 402(3)  of  the
+Clean Air Act in conjunction with Section 403(f) of the Clean
+Air  Act) in order to generate such electric energy.  To  the
+extent  that either IPL or PSI are required by the Clean  Air
+Act to have additional allowances by reason of its generation
+of  electric  energy  to be supplied by it  under  this  1992
+Agreement,  which allowances would otherwise  not  have  been
+required  by such supplying Party, then, unless the supplying
+Party  otherwise  agrees  in  advance  in  writing,  at   the
+discretion  of the supplying Party, the Party receiving  such
+energy  shall  be  responsible for the  cost  or  the  actual
+furnishing (without cost to the supplying Party) of  adequate
+allowances to the supplying Party in order for such Party  to
+supply  such  energy under this Agreement. The Parties  shall
+establish,  by  mutual agreement, appropriate  procedures  in
+order  to  carry  out  the provisions of this  Section  2.05,
+including a statement of costs before any transactions  under
+the  Service  Schedules attached hereto are  started.   Also,
+prior  to  implementation  of  every  transaction  under  the
+Service Schedules attached hereto, the purchasing Party  must
+declare  whether  they  will  pay  in  cash  or  return   SO2
+Allowances  in-kind  for any consumption  of  SO2  Allowances
+directly attributed to such transaction, if any.
+
+It  shall  be  the responsibility of the supplying  Party  to
+provide  the receiving Party, before the transaction  begins,
+with  a statement of the estimated emission allowance charges
+associated with the transaction which the supplying Party  is
+seeking  to  add  to  the  rates  to  be  charged  under  the
+applicable Service Schedule.  Failure of the supplying  Party
+to provide a statement of such charges before the transaction
+begins shall constitute a waiver of the recovery of any  such
+costs.   In  establishing such procedures, the Parties  shall
+recognize that the determination of the additional allowances
+required  in  order  to generate the electric  energy  to  be
+supplied  hereunder is subject to variables  contingent  upon
+the  loading and operating conditions on the system where the
+actual  generation occurs.  The procedures so established  by
+the  Parties  shall  be  in  accord  with  sound  engineering
+principles  of  power plant and system operation,  and  shall
+require the furnishing of such additional allowances at  such
+times  and  in  such  amounts as will  be  equitable  to  the
+supplying Party.
+
+When  IPL  is the supplier of energy and emission allowances,
+the   recovery  of  the  applicable  costs  for  the   actual
+furnishing  of  adequate  allowances  in  order  for  IPL  to
+generate  and supply such energy will be implemented  in  the
+following manner:
+     (1)   The Buyer shall compensate IPL for the consumption
+of  Sulfur  Dioxide  Emissions Allowances ("SO2  Allowances")
+directly attributed to electric energy sales by IPL to  Buyer
+under  the  Service Schedules.  Such compensation  shall,  at
+Buyer*s  option,  be made by either supplying  IPL  with  the
+number  of SO2 Allowances directly attributed to such  energy
+sales, or by reimbursing IPL for the incremental cost of such
+number  of  SO2 Allowances, rounded to the nearest whole  SO2
+Allowance.
+
+(1)  If   Buyer  opts  to  reimburse  IPL  in  cash  for  SO2
+     Allowances associated with Buyer*s energy purchases  for
+     the  month,  the  cash amount due  at  billing  will  be
+     determined  by multiplying the number of SO2  Allowances
+     attributed  to the sale by the incremental cost  of  the
+     SO2 Allowances, as determined in Subsection 2(b) of this
+     Section 2.05, at the time of the sale.
+
+     If  Buyer opts to reimburse IPL in SO2 Allowances, Buyer
+     will record or transfer to IPL*s account, the number  of
+     SO2  Allowances  calculated  below,  at  the  time  cash
+     settlement  for the energy is due.  In all cases,  Buyer
+     will  transfer  to  IPL*s  account  the  number  of  SO2
+     Allowances  due  IPL  for calendar year  no  later  than
+     January  15 of the following year.  "Transfer  to  IPL*s
+     account" shall mean, for purposes of the Amendment,  the
+     transfer  by  the USEPA of the requisite number  of  SO2
+     Allowances  to  IPL*s Allowance Tracking System  account
+     and  the  receipt  by  IPL  of  the  Allowance  Transfer
+     Confirmation.
+
+(2)  Determination of SO2 Emission Allowances Due IPL
+
+     (a)  Number of SO2 Allowances
+          The number of SO2 Allowances directly attributed to
+          an  energy sale made by IPL shall be determined for
+          each  hour,  by  determining the contribution  from
+          each  of the unit(s) from which the energy sale  is
+          being  made  for  that hour.  For  each  unit,  the
+          emission rate in pounds of SO2 per million Btu will
+          be determined each month, from fuel sulfur content,
+          control   equipment  performance,  and   continuous
+          emissions monitoring data.  The emission  rate  and
+          the  unit  heat rate will be used to determine  the
+          SO2 Allowances used per megawatt-hour ("MWH").  The
+          energy from each unit attributable to the sale, and
+          the  SO2 Allowances per MWH for each unit, will  be
+          used  to  determine  the number of  SO2  Allowances
+          attributable to the sale.
+     (b)  Cost of SO2 Allowances
+
+          The   incremental  SO2  Allowance  cost   used   to
+          determine  economic  dispatch of  IPL*s  generating
+          units in any month, will also be the basis used  to
+          determine compensation for IPL*s energy sales.  The
+          incremental SO2 Allowances cost, in dollars per ton
+          of  SO2, shall be determined each month and will be
+          based on the Cantor Fitzgerald offer price for  SO2
+          Allowances,  or  if  such is  not  available,  then
+          another nationally recognized SO2 Allowance trading
+          market   price  or  market  price  index,  at   the
+          beginning  of  the month.  The SO2 Allowance  value
+          may  be  changed at any time during  the  month  to
+          reflect  the  more  current  incremental  cost,  or
+          market  price, for SO2 Allowances.  Buyer  will  be
+          notified  of the new SO2 Allowance value  prior  to
+          dispatch of IPL energy to Buyer.
+
+     When   PSI  is  the  supplier  of  energy  and  emission
+     allowances, the recovery of the applicable costs for the
+     actual  furnishing of adequate allowances in  order  for
+     PSI   to  generate  and  supply  such  energy  will   be
+     implemented in the following manner:
+
+(1)  The  current  Environmental  Protection  Agency  ("EPA")
+     auction price to value emission allowances will be  used
+     for  energy  sales transactions.  The dispatch  criteria
+     may  be  revised  from  time to  time  if  the  emission
+     allowance purchases on the average are determined to  be
+     significantly different than the EPA auction price.
+
+(2)  For each hour in which there is a transaction for energy
+     services  using  an Out-of-Pocket Cost rate  under  this
+     1992 Agreement, PSI will:
+
+     (a)  identify the generation sources used to provide the
+          transaction*s energy by identifying the energy that
+          would  not  have been used had the transaction  not
+          been  in effect that hour by using the same  after-
+          the-fact incrementing costing model that is used to
+          calculate  the incremental cost of fuel under  this
+          1992 Agreement;
+
+     (b)  determine,   using  the  following   formula,   the
+          quantity  of  emission allowances  related  to  the
+          energy   transaction:   (i)   by   calculating   an
+          incremental   heat   rate   for   the   appropriate
+          generating  unit and the corresponding  incremental
+          SO2  emission levels, as determined by the computer
+          based tools, for the identified units dispatched to
+          serve  the transaction; (ii) applying the following
+          formula  for each such unit; (iii) adding  together
+          the  total  number  of  tons of  SO2  produced  per
+          million  BTU (i.e., British Thermal Unit)  of  fuel
+          burned  by each such unit for the transaction;  and
+          (iv)  letting one (1) emission allowance equal  one
+          (1) ton of SO2 so produced.
+
+# OF UNITS
+E  [MBTU SALE - MBTU NO SALE] * [SO2] * [100%-SE]
+             100%
+
+MBTU SALE = Million BTU consumed on unit n with sale.
+MBTU NO SALE = Million BTU consumed on unit n without sale.
+SO2 = Tons of SO2 produced per million BTU of fuel burned.
+SE = Scrubber Efficiency in %.
+
+          PSI  will  perform periodic tests to  maintain  the
+          accuracy   and  validity  of  such  emission   rate
+          information.  Because some generating  sources  may
+          not be subject to the Clean Air Act during Phase  I
+          or  Phase  II thereunder, there will be no emission
+          allowance  charges included for the utilization  of
+          such  an  energy source while it is not subject  to
+          such  requirements.   One  (1)  emission  allowance
+          shall  be  assigned to each ton of SO2  emitted  to
+          serve   the  transaction.  Fractions  of   emission
+          allowance tons will be rounded up to the next whole
+          number  when  the fraction is equal to  or  greater
+          than  .5 and rounded down when the fraction is less
+          than .5.
+
+     (3)  The  purchasing  Party  of energy  shall  have  the
+          option   of   purchasing  or   providing   emission
+          allowances  for  each transaction.  The  purchasing
+          Party  shall notify PSI of its election to purchase
+          or  provide emission allowances prior to the  start
+          of   the  transaction.   The  running  quantity  of
+          emission  allowances charged or furnished  will  be
+          shown  on  the  monthly invoices to the  purchasing
+          Party.
+
+     (4)  When  the  purchasing  Party of  energy  elects  to
+          purchase the emission allowances from PSI, then the
+          quantity  of  emission  allowances  used  will   be
+          included  as  part of the charges  on  the  monthly
+          invoices to the purchasing Party.
+
+     (5)  By  January 15th of the year following the calendar
+          year   in  which  the  transaction  occurred,   the
+          purchasing  Party  of  energy  shall  transfer  the
+          appropriate  emission allowances  to  PSI  for  the
+          emission  allowances used when the  allowances  are
+          provided in kind.
+     (6)  PSI   has   adopted   the  same  incremental   cost
+          calculation   to  value  emission  allowances   for
+          dispatch    criteria   as   for   billing    energy
+          transactions.
+                         ARTICLE 3
+                     SERVICE CONDITIONS
+
+     3.01.      Control  of System Disturbance.   Each  Party
+shall  maintain and operate its system so as to minimize,  in
+accordance  with sound operating practice, the likelihood  of
+disturbance originating in either Party*s system which  might
+cause  impairment to the service of the system of  the  other
+Party or of any system interconnected with the system of  the
+other Party.
+
+     3.02.     Control of Kilovar Exchange.  It is the intent
+that neither Party shall be obligated to deliver kilovars for
+the benefit of the other Party; also that neither Party shall
+be  obligated to receive kilovars when to do so may introduce
+objectionable  operating  conditions  on  its  system.    The
+Operating   Committee   shall   be   responsible   for    the
+establishment  of  operating  procedures  and  schedules   in
+respect  of carrying kilovar loads by one Party*s system  for
+the  other Party*s system in order to secure adequate service
+and economical use of facilities of both Parties* systems and
+in  respect  of  proper  charges, if  any,  for  the  use  of
+facilities  carrying  kilovar  loads.   In  discharging  such
+duties, the Operating Committee shall recognize that  in  the
+transmission  and delivery of power and energy hereunder  the
+carrying  of  kilovar loads by either Party, in harmony  with
+sound  engineering principles of transmission operation  with
+their   systems  interconnected,  is  subject   to   numerous
+variables  contingent  upon loading and operating  conditions
+existing simultaneously on the systems of both Parties.   The
+operating  procedures  and schedules so  established  by  the
+Operating  Committee shall be in accord with such  principles
+and  shall require each Party to carry kilovar loads at  such
+times  and  in  such  amounts as will be  equitable  to  both
+Parties.
+
+     3.03.     Control of Unscheduled Power Deliveries.   The
+Parties  shall  exercise  due  diligence  and  foresight   in
+carrying  out  all  matters  related  to  the  providing  and
+operating of their respective electric power resources so  as
+to  minimize  to  the  extent practicable deviations  between
+actual  and scheduled deliveries of electric power and energy
+between their systems.  The Parties shall provide and install
+on   their   respective   systems  such   communication   and
+telemetering facilities as are essential to so minimize  such
+deviations   and,  in  developing  and  executing   operating
+procedures  that  will enable the Parties  to  avoid  to  the
+extent practicable deviation from scheduled deliveries, shall
+fully  cooperate with each other and with third parties whose
+systems are either directly or indirectly interconnected with
+the  systems  of  the Parties and who of necessity,  together
+with  the Parties, must unify their efforts cooperatively  to
+achieve  effective  and  efficient interconnected  operation.
+The  Parties  recognize, however, that,  despite  their  best
+efforts  to  prevent  the  same,  unscheduled  deliveries  of
+electric  energy from one Party to the other may  occur.   In
+such  event,  electric energy delivered  hereunder  shall  be
+settled  for by the return of equivalent energy.   Equivalent
+energy shall be returned at times when the load conditions of
+the  Party receiving it are equivalent to the load conditions
+of such Party at the time the energy for which it is returned
+was  delivered  or, if such Party elects to  have  equivalent
+energy  returned  under  different conditions,  it  shall  be
+returned  in such amounts, to be agreed upon by the Operating
+Committee,   as   will  compensate  for  the  difference   in
+conditions.
+
+                         ARTICLE 4
+              DELIVERY POINTS, MEETING POINTS,
+                        AND METERING
+
+     4.01.       Delivery   Points.   All   electric   energy
+delivered  under the 1992 Agreement shall be of the character
+commonly  known as three-phase sixty Hertz energy, and  shall
+be  delivered  at the Interconnection Points specified  under
+Section 1.01 hereof, at a nominal voltage of 138,000 volts at
+the  Five Points and Centerton Interconnection Points, at the
+138KV Petersburg Interconnection Point, and at the Carmel Tap
+Point;  and  at  a nominal voltage of 345,000  volts  at  the
+Whitestown and Gwynneville Interconnection Points, and at the
+345KV  Petersburg Interconnection Point; and  at  such  other
+points  and voltages as hereafter may be agreed upon  by  the
+parties pursuant to Section 1.02 hereof.
+
+     4.02.      Billing  Based on Scheduled Transaction.   As
+IPL  and  PSI  systems are interconnected with other  systems
+forming  a  network, it is recognized that,  because  of  the
+physical  and  electrical characteristics of  the  facilities
+involved, a part or all of the energy being transferred  from
+one  Party  to the other may flow through such other  systems
+rather than through the point or points of connection between
+the systems of the Parties.  A part or all of the power being
+transferred  between other systems in the  network  may  flow
+through the point or points of connection between the systems
+of the Parties, and as a result be included in the demand and
+energy   meter   readings  at  the   point   or   points   of
+interconnection.  Therefore, all billings shall be  based  on
+scheduled  transactions  or upon methods  determined  by  the
+Operating  Committee  which may result  from  development  of
+arrangements  with  other interconnected  systems  and  which
+provide  a  basis  for accounting for the  power  and  energy
+transfers actually contracted for between the Parties.
+     4.03.      Metering Points.  Electric power  and  energy
+supplied  and  delivered under the 1992  Agreement  shall  be
+measured  by  suitable  metering  equipment  which  shall  be
+provided,  owned and maintained by PSI or ILP  as  designated
+below at the following metering points:
+
+     (i)  138,000 volt metering equipment installed by PSI at
+          the  Five  Points Substation; 138,000 volt metering
+          equipment   installed  by  PSI  at  the   Centerton
+          Substation;  138,000  and  345,000  volt   metering
+          equipment   installed  by  IPL  at  the  Petersburg
+          Station;  345,000 volt metering equipment installed
+          by  IPL  at its Sunnyside Substation and  at  PSI*s
+          Gwynneville and Whitestown Substations; and 12.47kV
+          metering  equipment installed by PSI at its  Carmel
+          Southeast Substation, and
+
+     (ii) At  such other locations as hereafter may be agreed
+          upon  by  the  Parties  pursuant  to  Section  1.02
+          hereof.
+
+     4.04.       Metering   Equipment.    Suitable   metering
+equipment at the metering points as described in Section 4.03
+above  shall  include electric meters, potential and  current
+transformers,  and  such  other  appurtenances  as  shall  be
+necessary  to  give for each direction of flow the  following
+quantities:   (i)  an automatic record of the  kilowatt-hours
+for each clock-hour, and (ii) a continuous integration record
+of the kilowatt-hours.
+
+     4.05.      Measurement of Electric Energy.  Measurements
+of  electric  energy for the purpose of effecting settlements
+under  the 1992 Agreement shall be made by standard types  of
+electric  meters  installed and maintained (unless  otherwise
+provided  for in the Agreement) by the owner at the  metering
+points  described in Section 4.03 above.  The timing  devices
+of all meters having such devices shall be maintained in time
+synchronism as closely as practicable.
+
+     The meters shall be sealed and the seals shall be broken
+only  upon  occasions when the meters are  to  be  tested  or
+adjusted.   for  the purpose of checking the records  of  the
+metering  equipment  installed  by  one  of  the  Parties  as
+hereinabove provided, the other Party shall have the right to
+install  check  metering equipment at the aforesaid  metering
+points.  Metering equipment so installed by one Party on  the
+premises of the other Party, unless otherwise provided for in
+the  1992  Agreement, shall be owned and  maintained  by  the
+Party  installing  such equipment.  Upon termination  of  the
+1992  Agreement,  the  Party owning such  metering  equipment
+shall  remove  it  from  the premises  of  the  other  Party.
+Authorized representatives of both Parties shall have  access
+at  all reasonable hours to the premises where the meters are
+located and to the records made by the meters.
+
+     4.06.     Testing and Access to Meters and Records.  The
+aforesaid metering equipment shall be tested by the owner  at
+suitable   intervals   and  its  accuracy   of   registration
+maintained  in accordance with good practice.  On request  of
+either  Party, a special test may be made at the  expense  of
+the  Party requesting such special test.  Representatives  of
+both  Parties shall be afforded the opportunity to be present
+at  all routine or special tests and upon occasions when  any
+readings,  for purposes of settlements hereunder,  are  taken
+from meters not bearing an automatic record.
+
+     4.07.      Adjustments Due to Inaccuracies.  If  at  any
+test  of  metering equipment an inaccuracy shall be disclosed
+exceeding  two percent, the account between the  Parties  for
+service  theretofore delivered shall be adjusted  to  correct
+for   the  inaccuracy  disclosed  over  the  shorter  of  the
+following  two periods:  (i) for the thirty (30)  day  period
+immediately  preceding the day of the test, or (ii)  for  the
+period  that  such  inaccuracy  may  be  determined  to  have
+existed.  Should the metering equipment described in  Section
+4.04  above at any time fail to register, the electric  power
+and  energy  delivered  shall be determined  from  the  check
+meters,  if installed, or otherwise shall be determined  from
+the best available data.
+
+                         ARTICLE 5
+                   RECORDS AND STATEMENTS
+
+     5.01.      Records.   In  addition  to  records  of  the
+metering provided for in Article 4 hereof, the Parties  shall
+keep  in  duplicate such other records as may  be  needed  to
+afford  a clear history of the various deliveries of electric
+energy  made by one Party to the other and of the  clock-hour
+integrated demands in kilowatt-hours delivered by  one  Party
+to the other.  In maintaining such records, the Parties shall
+effect  such  segregations  and allocations  of  demands  and
+electric  energy  delivered  into  classes  representing  the
+various   services  and  conditions  as  may  be  needed   in
+connection  with settlements under the 1992  Agreement.   The
+originals of all such records shall be retained by the  Party
+keeping  the  records and the duplicates shall  be  delivered
+monthly to the other Party, except that the Parties may agree
+upon a different time interval for such delivery.
+
+     5.02.      Statements.  As promptly as practicable after
+the  end of each calendar month, the Parties shall prepare  a
+statement  setting  forth  the  electric  power  and   energy
+transactions  between the Parties during such month  in  such
+detail  and  with  such segregations as  may  be  needed  for
+operating records or for settlements under the provisions  of
+the 1992 Agreement.
+                         ARTICLE 6
+                   BILLINGS AND PAYMENTS
+
+     6.01.      Billing Period. Unless otherwise agreed  upon
+by  the  Parties,  the calendar month shall be  the  standard
+billing period for all settlements under the 1992 Agreement.
+
+     6.02.      Billing Scheduled Transactions.  All  billing
+shall  be  based  on scheduled transactions unless  otherwise
+determined as provided in Section 4.02 hereof.
+
+     6.03.     Billing Payments.  All bills for amounts  owed
+by  one  Party to the other Party shall be due on  the  first
+business day following the twentieth (20th) day after the end
+of  the calendar month or period service was rendered, or  on
+the  fifteenth  (15th) business day following  receipt  of  a
+bill,  whichever  is  later.   Payments  shall  be  made   by
+electronic  transfer  or  by such  other  mutually  agreeable
+method  as shall cause such payment to be available  for  the
+account of the payee on or before the due date.  Interest  on
+unpaid  amounts,  both principal and interest,  shall  accrue
+daily  at  the then current prime interest rate per annum  of
+The  Chase Manhattan Bank, N.A., New York, New York, plus two
+percent (2%) per annum, or the maximum rate permitted by law,
+whichever  is  less, from the date due until  the  date  upon
+which payment is made.
+
+     6.04.      Estimated  Billing Factors.   In  order  that
+bills  may  be rendered promptly after the end  of  the  each
+month,  it  may be necessary, from time to time, to  estimate
+certain  factors involved in calculating the monthly billing.
+Adjustments for errors in such estimates shall be included in
+the  bill  for the month following the time when  information
+becomes available to make such corrections or adjustments  in
+the billing for the preceding month or months.
+
+     6.05.      Billing  Disputes.  If a Party  disputes  the
+correctness of a bill, such Party will, nevertheless, pay the
+undisputed  portion of such bill, plus a minimum of  one-half
+(1/2)  of the disputed amount, and shall submit to the  other
+Party  a written statement detailing the items disputed.   If
+the Parties are unable to agree upon the disputed items, such
+items  shall  be  submitted to the  Operating  Committee  for
+further action consistent with the 1992 Agreement.
+                         ARTICLE 7
+                    OPERATING COMMITTEE
+
+     7.01.      Operating Committee Organization and  Duties.
+To  coordinate the operation of their respective  generation,
+transmission,  and substation facilities in  order  that  the
+benefits of the 1992 Agreement may be realized by the Parties
+to   the  fullest  practicable  extent,  the  Parties   shall
+establish  a  committee of authorized representatives  to  be
+known  as the Operating Committee.  Each of the Parties shall
+designate in writing delivered to the other Party, the person
+who  is  to  act  as its authorized representative  (the  "OC
+Representative") on said committee (and the person or persons
+who may serve as Alternate whenever the OC Representative  is
+unable  to  act).   The OC Representative  and  Alternate  or
+Alternates   shall   each  be  persons  familiar   with   the
+generation, transmission, and substation facilitates  of  the
+system  of the Party he represents, and each shall  be  fully
+authorized  (i) to cooperate with the other OC Representative
+(or  Alternates) and (ii) as the need arises and  subject  to
+the  declared intentions of the Parties as herein  set  forth
+and to the terms hereof and the terms of any other agreements
+then  in  effect between the Parties, to determine and  agree
+from time to time upon the following:
+
+     (i)  All  matters  pertaining  to  the  coordination  of
+          maintenance  of  the  generation  and  transmission
+          facilities of the Parties.
+
+     (ii) All  matters  pertaining to the  control  of  time,
+          frequency,  energy  flow, kilovar  exchange,  power
+          factor,  voltage, and other similar matters bearing
+          upon the satisfactory synchronous operation of  the
+          systems of the Parties.
+
+     (iii)      Such  other matters not specifically provided
+          for herein upon which cooperation, coordination and
+          agreement  as to quantity, time, method, terms  and
+          conditions  are  necessary,  in  order   that   the
+          operation of the respective systems of the  Parties
+          may  be  coordinated to the end that the  potential
+          benefits  anticipated  by  the  Parties   will   be
+          realized to the fullest extent practicable.
+
+     7.02.      Operating Committee Access.  For the  purpose
+of inspection and reading of meters, checking of records, and
+all  other pertinent matters, the OC Representative and their
+Alternates  shall have the right of entry at  any  reasonable
+time  to all property of the Parties used in connection  with
+the performance of the 1992 Agreement.
+
+     7.03.      Unanimous Action.  All actions taken by  said
+Operating  Committee must be by unanimous vote or consent  of
+all OC Representatives (including Alternates acting during OC
+Representatives* absence).
+
+     7.04.      Expenses.  The expenses for establishing  and
+maintaining   the   Operating   Committee   shall   be    the
+responsibility  of each individual Party as  regards  to  its
+respective personnel.  Any expenses jointly incurred by  said
+Operating  Committee in carrying out its duties,  other  than
+for  the Parties* personnel, shall be shared equally  by  the
+Parties.
+
+     7.05.       Authority  to  Amend  or  Supplement.    The
+Operating  Committee  may  recommend  changes  to  the   1992
+Agreement,  but  said  Operating  Committee  shall  not  have
+authority to amend or supplement the 1992 Agreement.
+
+                         ARTICLE 8
+            CONTINUITY AND SUSPENSION OF SERVICE
+               RELATIVE RESPONSIBILITIES AND
+                      LIABILITY LIMITS
+
+     8.01.      Continuity and Suspension of  Service.   Each
+Party  shall  exercise  reasonable  care  and  foresight   to
+maintain  continuity  of  service as  provided  in  the  1992
+Agreement.   In  no event shall one Party be  liable  to  the
+other Party or its customers for loss or damage arising  from
+failure  to provide or for the interruption or suspension  of
+any  service  provided for herein.  Each Party  reserves  the
+right to suspend service without liability at such times  and
+for  such  periods and in such manner as it deems  advisable,
+including, without limitation, suspensions for the purpose of
+making  necessary adjustments to, changes in, or repairs  on,
+its  facilities and to suspend service in cases where, in its
+sole  opinion, the continuance of service to the other  Party
+would  endanger persons or property.  Both Parties shall  use
+their  best  efforts  to provide each other  with  reasonable
+notice in the event of suspension of service.
+
+     8.02.     Relative Responsibilities.  Each Party assumes
+all responsibility for receipt and delivery of electricity on
+its   system  to  and  from  the  Points  of  Interconnection
+specified  in Section 1.01 hereof or agreed upon pursuant  to
+Section    1.02   hereof.    Neither   Party   assumes    any
+responsibility    with   respect   to    the    construction,
+installation, maintenance or operation of the system  of  the
+other  Party or of the systems of third parties, in whole  or
+in  part.  In no event shall one Party be liable to the other
+Party  for  damage  or  injury to  any  person  or  property,
+whatsoever,  arising,  accruing or  resulting  from,  in  any
+manner,   the   receiving,   transmission,   control,    use,
+application  or  distribution  of  said  electric  power  and
+energy.   Each  Party  shall  use  reasonable  diligence   to
+maintain  its facilities in proper and serviceable condition,
+and   shall   take  reasonable  steps  and  precautions   for
+maintaining  the services agreed to be provided and  received
+under  the  1992 Agreement.  Each Party shall be  responsible
+for  its  own  compliance  with all applicable  environmental
+regulations and shall bear all costs arising from its failure
+to comply with such environmental regulations.
+
+     8.03.      Limitation of Liability.  In no  event  shall
+one  Party  be  liable to the other Party for  any  indirect,
+special, incidental or consequential damages with respect  to
+any claim arising out of the 1992 Agreement.
+
+                         ARTICLE 9
+                     TERM OF AGREEMENT
+
+     9.01.      The  term of the 1992 Agreement  and  of  the
+annexed  Service Schedules shall begin as of May 1, 1992  and
+(except for Service Schedule D) shall continue through  April
+30,  2022 (the "Initial Term"); thereafter, the Agreement and
+Service  Schedules (except Service Schedule D) shall continue
+for successive terms of three (3) years each unless and until
+terminated  by  either Party by giving notice  to  the  other
+Party  of  its  intention to terminate the 1992 Agreement  at
+least  two (2) years prior to the end of the Initial Term  or
+any  successive term; provided, that the 1992 Agreement shall
+not  be deemed to have terminated until all prior commitments
+for  sales  or purchases of power and energy hereunder  shall
+have  been  fulfilled and all payments shall have been  made.
+The  term of Service Schedule D shall be as provided therein.
+Any  notice  of termination hereunder shall be given  to  the
+President or Chief Operations Officer of a Party with a  copy
+to the OC Representative of such Party.
+
+                         ARTICLE 10
+                          WAIVERS
+
+     10.01.     Any  waiver at any time by  either  party  of
+their  rights  with  respect to  a  default  under  the  1992
+Agreement,  or  with respect to any other matter  arising  in
+connection  with  the 1992 Agreement shall not  be  deemed  a
+waiver with respect to any subsequent default or matter.  Any
+delay,  short  of  the  statutory period  of  limitation,  in
+asserting  or  enforcing any right under the  1992  Agreement
+shall not be deemed a waiver of such right.
+
+                         ARTICLE 11
+                           TAXES
+
+     11.01.     If  at any time during the term hereof  there
+should  be levied or assessed against either Party any direct
+tax  by  any  taxing authority on the capacity or energy  (or
+both)  generated, purchased, sold, transmitted,  interchanged
+or  exchanged by it, which tax is in addition to or different
+from  the  forms  of such direct tax as are being  levied  or
+assessed as of the date hereof and such direct tax results in
+increasing the cost of either or both the Parties in carrying
+out  the provisions of the 1992 Agreement, then such increase
+shall be reflected in the charges for capacity or energy  (or
+both)  furnished  by one Party to the other hereunder  as  is
+necessary  in order to make adequate and equitable allowances
+for such tax.
+
+                         ARTICLE 12
+                          NOTICES
+
+     12.01.     Notices Relating to Provisions  of  the  1992
+Agreement.   Except as herein otherwise provided, any  notice
+which  may be given to or made upon either Party by the other
+Party,  under  any of the provisions of the  1992  Agreement,
+shall  be  in  writing  unless it is  otherwise  specifically
+provided herein, and shall be treated as duly delivered  when
+the  same is either (a) personally delivered to the President
+or  Chief  Operations  Officer of  the  other  Party  or  (b)
+deposited  in  the  United States mail, postage  prepaid  and
+properly  addressed  to  the President  or  Chief  Operations
+Officer  of  the other Party; provided, however, that  either
+Party may alter its recipient for notice hereunder by written
+notice  to  the other Party in accordance with the provisions
+of this Section 12.01.
+
+     12.02.     Notices of An Operating Nature.  Any  notice,
+request  or  demand  pertaining to matters  of  an  operating
+nature  may  be  served in person or by United  States  mail,
+messenger, telephone, or telegraph, facsimile transmission or
+orally,  as circumstances dictate, from the OC Representative
+of  one  Party  to the OC Representative of the other  Party;
+provided,  that should the same not be written,  confirmation
+thereof  shall  be  made in writing as  soon  as  practicable
+thereafter, upon request of the Party being served.
+
+                         ARTICLE 13
+                   REGULATORY AUTHORITIES
+
+     13.01.     Regulatory Authority.  The 1992 Agreement  is
+made   subject  to  the  authority  of  the  Federal   Energy
+Regulatory  Commission  or any other governmental  regulatory
+agency having jurisdiction in the premises and, if any of the
+terms and conditions hereof are altered or made impossible of
+performance  by  order,  rule,  or  regulation  of  any  such
+regulatory agency, and the Parties hereto are unable to agree
+upon  a  modification of such terms and conditions that  will
+satisfy  such order, rule, or regulation, then neither  Party
+shall be liable to the other for failure thereafter to comply
+with  such  terms and conditions; provided,  that  if  either
+Party deems that the failure of such performance results in a
+substantial  breach  of  the 1992 Agreement,  then  the  1992
+Agreement may be terminated forthwith upon thirty (30)  days*
+advance written notice.
+
+     13.02.     Amendments.   The  1992  Agreement  and   the
+annexed  Service Schedules may be amended by mutual agreement
+of the Parties, which amendment shall be in writing and shall
+become  effective  in accordance with Section  13.01  hereof.
+The  rates  and  charges  set forth in  the  annexed  Service
+Schedules are subject to amendment and change, and each party
+reserves  the  right from time to time to seek  unilaterally,
+from any regulatory agency having jurisdiction, amendments or
+changes  in  its  rates  and charges  set  forth  therein  in
+accordance with the applicable law.  Nothing contained in the
+1992   Agreement,  any  annexed  Service  Schedule   or   any
+supplements  thereto shall be construed as affecting  in  any
+way   the   right  of  either  Party  unilaterally  to   make
+application  to the Federal Energy Regulatory Commission  (or
+any  successor regulatory agency having jurisdiction)  for  a
+change  in  rates under Section 205 of the Federal Power  Act
+and   pursuant  to  the  Commission*s  Rules  and  Regulation
+promulgated  thereunder  (or under  comparable  statutes  and
+regulations   of   a  successor  regulatory   agency   having
+jurisdiction).
+
+                         ARTICLE 14
+                       MISCELLANEOUS
+
+     14.01.    No Partnerships; Tax Matters.  Notwithstanding
+any  provision  of  the 1992 Agreement to the  contrary,  the
+Parties  do  not  intend to create hereby any joint  venture,
+partnership, association taxable as a corporation,  or  other
+entity  for the conduct of any business for profit,  and  any
+construction of the 1992 Agreement to the contrary which  has
+an  adverse tax effect on either Party shall render the  1992
+Agreement null and void from its inception.
+
+     14.02.     Computation of Time.  In computing any period
+of  time prescribed or allowed by the 1992 Agreement, the day
+of  the  act,  event,  or default from which  the  designated
+period  of time begins to run shall be excluded but the  last
+day  of  such  period  shall  be included,  unless  it  is  a
+Saturday, Sunday, or legal holiday, in which event the period
+shall run until the end of the next business day which is not
+a Saturday, Sunday, or legal holiday.
+
+     14.03.     Section Headings Not to Affect Meaning.   The
+descriptive  headings of the Articles, Sections,  Subsections
+and  paragraphs of the 1992 Agreement have been inserted  for
+convenience only and shall not modify or restrict any of  the
+terms and provisions thereof.
+
+                         ARTICLE 15
+                         ASSIGNMENT
+
+     15.01.     The 1992 Agreement shall inure to the benefit
+of,  and  be  binding  upon,  the respective  successors  and
+assigns of the Parties, but the assignment thereof by a Party
+shall not relieve such Party, without the written consent  of
+the  other Party, of any obligation to supply, or to take and
+pay for, as the case may be, the services hereunder.
+
+                         ARTICLE 16
+             ENTIRE AGREEMENT CONTAINED HEREIN
+
+     16.01.      The  1992  Agreement  contains  the   entire
+agreement  between  the  Parties in respect  of  the  subject
+matter  hereof,  and  there  are no  other  understanding  or
+agreements between the Parties in respect thereof;  provided,
+however,  that nothing contained in the 1992 Agreement  shall
+be  deemed  to affect in any manner whatsoever any rights  or
+claims either Party may have against the other Party pursuant
+to any other agreement in effect before the effective date of
+the  1992 Agreement with respect to any matter, including any
+right  or claim to payments after the effective date  of  the
+1992 Agreement pursuant to other preexisting agreements.
+
+                         ARTICLE 17
+                 1962 AGREEMENT SUPERSEDED
+
+     17.01.    The 1992 Agreement constitutes an amendment to
+and  complete restatement of the 1962 Agreement and, as such,
+supersedes  the 1962 Agreement from and after  the  date  the
+1992 Agreement becomes effective.
+
+                         ARTICLE 18
+              AGENCY OF CINERGY SERVICES, INC.
+
+     18.01.     CINergy  Services joins in the  execution  of
+this Agreement for the sole purpose of serving and acting  as
+agent for PSI.
+
+
+IN WITNESS WHEREOF the Parties have caused the 1992 Agreement
+to  be executed by their respectable duly authorized officers
+and  their respective corporate seal to be hereunder  affixed
+as of the date first above mentioned.
+
+INDIANAPOLIS POWER & LIGHT
+(IPL)
+
+
+By:  /s/ John R. Brehm
+     John R. Brehm
+     Senior Vice President
+     Finance and
+     Information Services
+
+Attest:
+
+
+By:  /s/ Bryan G. Tabler
+     Bryan G. Tabler
+     Senior Vice President
+     Secretary and
+     General Counsel
+
+CINERGY SERVICES, INC.
+(CINergy Services)
+
+
+By:  /s/ Terry E. Bruck
+     Terry E. Bruck
+     Group Vice President
+
+PSI ENERGY, INC.
+(PSI)
+
+
+By:  /s/ John M. Mutz
+     John M. Mutz
+     President
+
+
+               EXHIBIT I
+               (First Revision)
+
+                     SERVICE SCHEDULE A
+
+                     EMERGENCY SERVICE
+
+
+SECTION 1 - DURATION
+
+1.1   This Service Schedule A, being a part of and under  the
+Interconnection Agreement (referred to herein  as  the  "1992
+Agreement"),  dated  as  of May 1, 1992,  among  Indianapolis
+Power  &  Light  Company (hereinafter called "IPL")  and  PSI
+Energy,  Inc.,  formerly  named  Public  Service  Company  of
+Indiana,   Inc.  (hereinafter  called  "PSI")   and   CINergy
+Services, Inc. (hereinafter called "CINergy Services"), shall
+become  effective  as  of the effective  date  of  the  Third
+Amendment,  dated  June 30, 1995, to the 1992  Agreement  and
+shall continue in effect throughout the duration of the  1992
+Agreement.   IPL,  PSI  and CINergy  Services  are  sometimes
+hereinafter   referred   to  individually   as   "Party"   or
+collectively as "Parties" where appropriate.
+
+
+SECTION 2 - SERVICES TO BE RENDERED
+
+2.1   Conditional  Service.  Subject  to  the  provisions  of
+Subsection 2.2 of this Section 2, in the event of a breakdown
+or other emergency in or on the system of any Party involving
+either sources of power or transmission facilities, or  both,
+impairing  or jeopardizing the ability of the Party suffering
+the  emergency to meet the loads of its system, another Party
+shall  deliver  to  such Party electric  energy  that  it  is
+requested  to deliver; provided, however, that a Party  shall
+not  be  obligated to deliver such energy which, in its  sole
+judgment,  it cannot deliver without interposing a hazard  to
+or  economic burden upon its operations or without  impairing
+or jeopardizing the other load requirements of its system and
+provided further, that a Party shall be obligated to  deliver
+electric  energy to another Party for a period in  excess  of
+forty-eight   (48)  consecutive  hours  during   any   single
+emergency.
+
+2.2    Non-performance.   The  Parties  recognize  that   the
+delivery of electric energy as provided in Subsection 2.1  of
+this  Section  2  is  subject to  two  conditions  which  may
+preclude the delivery of such energy as so provided:  (a) the
+Party  requested to deliver electric energy may be  suffering
+an  emergency  in or on its own system as described  in  said
+Subsection  2.1,  or  (b)  the  system  of  a  Party  may  be
+delivering   electric  energy,  under  a   mutual   emergency
+interchange   agreement,   to   the   system    of    another
+interconnected company which is suffering any emergency in or
+on its system.  Under conditions as cited under (a) above,  a
+Party  shall not be considered to be in default hereunder  if
+it is unable to comply with the provisions of said Subsection
+2.1.   Under  conditions as cited under (b)  above,  a  Party
+shall  not be considered to be in default hereunder if it  is
+unable to comply with the provisions of said Subsection  2.1;
+provided,  however, that such Party shall make  every  effort
+consistent  with  the terms of its contract with  said  other
+interconnected  company  to  make  the  electric  energy   as
+provided in Subsection 2.1 available to another Party  hereto
+as soon as possible.
+2.3   Reserve Generating Capacity Review.  If at any time the
+record over a reasonable prior period shows clearly that  one
+of  the  Parties has failed to deliver energy  in  accordance
+with  and  subject  to the provisions of Subsection  2.1  and
+Subsection 2.2 of this Section 2, a Party, by written  notice
+given  to  another Party, may call for a joint study  by  the
+Parties  of  the reserve generating capacity in and  provided
+for  their respective systems and of their respective  system
+transmission facilities affecting the supply and delivery  of
+power  and energy under the 1992 Agreement.  It shall be  the
+purpose of such study to determine the adequacy or inadequacy
+of  reserve  generating capacity and transmission  facilities
+being  provided  to  meet  the requirements  of  the  Parties
+respective  systems, reflecting obligations  under  the  1992
+Agreement, and, if inadequate, the extent of the burden  that
+a  Party may be placing upon another Party.  If it should  be
+found  that  a Party is placing an unreasonable  burden  upon
+another Party, the Party causing such burden shall take  such
+measures  as are necessary to remove the burden from  another
+Party,  or the Parties shall enter into such arrangements  as
+shall  provide for equitable compensation to the Party  being
+burdened.
+
+
+SECTION 3 - COMPENSATION
+
+3.1  When IPL is the Supplying Party:
+
+     3.11   Emergency Energy delivered that is  generated  by
+IPL shall be settled for, at the option of IPL, either by the
+return  of  equivalent energy at a mutually  acceptable  time
+upon  request of IPL or by payment of the greater of (a) 110%
+of the Out-Of-Pocket Cost (such cost being as of the delivery
+point  or points, as referred to in Section 4.01 of the  1992
+Agreement,  taking  into account electrical  losses  incurred
+from  the  source or sources of such energy to  the  delivery
+point  or points) of supplying such energy, or (b) $0.10  per
+kilowatt-hour.
+
+     3.12   Emergency Energy delivered that is  purchased  by
+IPL from a third party shall be settled for by payment of  an
+energy charge of 100% of the Out-Of-Pocket Cost paid therefor
+by  IPL,  plus an amount to be agreed upon by the Parties  at
+the time of the transactions of up to 4.6 mills per kilowatt-
+hour  (consisting  of up to 3.6 mills per  kilowatt-hour  for
+bulk  transmission  charge plus 1 mill per kilowatt-hour  for
+difficult  to  quantify  energy-related  costs),   plus   any
+transmission losses resulting on IPL's system on  account  of
+the  transaction,  and  plus any taxes  incurred  by  IPL  on
+account of the transaction.
+
+3.2  When PSI is the Supplying Party:
+
+     3.21   Emergency Energy delivered that is  generated  by
+     PSI  shall  be settled for by payment of the greater  of
+     (a)  110% of the Out-Of-Pocket Cost (such cost being  as
+     of  the interconnection point or points, as referred  to
+     in  Section  4.01  or  the 1992 Agreement,  taking  into
+     account  electrical losses incurred from the  source  or
+     sources  of such energy to the interconnection point  or
+     points) of supplying such energy.  Non-firm transmission
+     service  per  the  provisions of the  CINergy  Services,
+     Inc., FERC Electric Tariff, Original Volume No. 3,  Non-
+     Firm Point-to-Point Transmission Service Standard Tariff
+     -  NFT  (or any successor transmission tariff of similar
+     service)  must  be obtained, or (b) $100  per  megawatt-
+     hour.
+
+     3.22   Emergency Energy delivered that is  purchased  by
+     PSI  from a third party shall be settled for by  payment
+     of the greater of (a) of an energy charge of 100% of the
+     Out-Of-Pocket Cost paid therefor by PSI plus  $1.00  per
+     megawatt-hour  (for difficult to quantify energy-related
+     costs),  plus any transmission losses resulting  on  the
+     system of the CINergy Operating Companies on account  of
+     the  transaction.  Non-firm transmission service per the
+     provisions of the CINergy Services, Inc., FERC  Electric
+     Tariff,  Original Volume No. 3, Non-Firm  Point-to-Point
+     Transmission  Service  Standard Tariff  -  NFT  (or  any
+     successor  transmission tariff of similar service)  must
+     be  obtained, and plus any regulatory commission charges
+     and taxes incurred by PSI on account of the transaction,
+     or (b) $100 per megawatt-hour.
+
+3.3   If  the  option  of  returning  electric  energy  under
+Subsection  3.11 is exercised, then it shall be  returned  at
+times when the load conditions of the Party receiving it  are
+equivalent to the load conditions of such Party at  the  time
+the energy for which it is returned was delivered or, if such
+Party   elects  to  have  equivalent  energy  returned  under
+different  conditions, it shall be returned in such  amounts,
+to  be  agreed  upon  by the Operating  Committee  under  the
+Agreement, as will compensate the Party for the difference in
+conditions.
+
+               EXHIBIT II
+               (First Revision)
+
+                     SERVICE SCHEDULE B
+
+                     INTERCHANGE ENERGY
+
+
+SECTION 1 - DURATION
+
+1.1   This Service Schedule B, being a part of and under  the
+Interconnection Agreement (referred to herein  as  the  "1992
+Agreement"),  dated  as  of May 1, 1992,  among  Indianapolis
+Power  &  Light  Company (hereinafter called "IPL")  and  PSI
+Energy,  Inc.,  formerly  named  Public  Service  Company  of
+Indiana,   Inc.  (hereinafter  called  "PSI")   and   CINergy
+Services, Inc. (hereinafter called "CINergy Services"), shall
+become  effective  as  of the effective  date  of  the  Third
+Amendment,  dated  June 30, 1995 to the  1992  Agreement  and
+shall continue in effect throughout the duration of the  1992
+Agreement.   IPL,  PSI  and CINergy  Services  are  sometimes
+hereinafter   referred   to  individually   as   "Party"   or
+collectively as "Parties" where appropriate.
+
+
+SECTION 2 - SERVICES TO BE RENDERED
+
+     Economy Energy
+
+2.1   It is recognized that from time to time that any of the
+Parties  may  have  electric energy (herein  called  "Economy
+Energy")  available from surplus capacity either on  its  own
+system  or from sources outside its own system, or both,  and
+that  Economy Energy could be supplied to another Party at  a
+cost  that would result in operating savings to such  another
+Party.    Such  operating  savings  would  result  from   the
+displacement  of  electric energy  that  otherwise  would  be
+supplied from capacity either on such other Party's system or
+from sources outside its own system, or both. To promote  the
+economy  of  electric power supply and to  achieve  efficient
+utilization of production capacity, any Party, whenever it in
+its  sole  judgment determines Economy Energy  is  available,
+may,  but shall not be obligated to, offer Economy Energy  to
+another Party.  Promptly upon receipt of any such offer  said
+Party  shall notify the offering Party of the extent to which
+it   desires  to  use  such  Economy  Energy,  and  schedules
+providing  the  periods and extent of use shall  be  mutually
+agreed upon by the Parties.  Such energy is non-firm and  may
+be  withdrawn by the supplying Party with a ten  (10)  minute
+notification.  A transaction made by PSI and CINergy Services
+under  this Service Schedule B shall not extend beyond twelve
+(12) months.
+
+     Non-Displacement Energy
+
+2.2   It  is  further  recognized  that  from  time  to  time
+occasions  will arise when the effecting of transactions,  as
+provided  in  Subsection  2.1 of  this  Section  2,  will  be
+impracticable,  but at the same time one of the  Parties  may
+have   electric   energy  (herein  called   "Non-Displacement
+Energy")  which it is willing to make available from  surplus
+capacity either on its own system or from sources outside its
+own  system, or both, that can be utilized advantageously for
+short   intervals  by  another  Party.   It  shall   be   the
+responsibility  of  the Party desiring the  receipt  of  Non-
+Displacement Energy to initiate the receipt and  delivery  of
+such energy.  Any Party desiring such receipt of energy shall
+inform another Party of the extent to which it desires to use
+Non-Displacement  Energy, and whenever in its  sole  judgment
+such  another  Party determines that it has  Non-Displacement
+Energy  available, schedules providing the periods and extent
+of  use  shall  be mutually agreed upon by the Parties.   Any
+Party  shall  not  be obligated to make any  Non-Displacement
+Energy available to another Party.
+
+2.3   PSI may reduce or discontinue the supply of Hourly Non-
+Displacement  Energy  at any time.  To the  extent  possible,
+however,  PSI  shall  advise IPL of its intention  to  reduce
+materially   or  discontinue  the  supply  of   Hourly   Non-
+Displacement Energy.
+
+2.4   PSI  shall  supply  Daily and  Weekly  Non-Displacement
+Energy  for three (3) hours after they have notified  IPL  of
+its  intention to discontinue such supply of energy; however,
+PSI  shall  be under no obligation to continue the supply  of
+said  energy  for  more  than  three  (3)  hours  after  said
+notification.
+
+2.5   A  transaction made by PSI under Subsection  2.2  above
+shall not extend beyond twelve (12) months.
+
+
+SECTION 3 - COMPENSATION
+
+     Economy Energy
+
+3.1   The charge for Economy Energy purchased by a Party from
+another Party shall be based on the principle that the  Party
+purchasing it shall pay the Out-Of-Pocket Cost (including all
+operating,  maintenance, tax, regulatory commission  charges,
+transmission  losses and other expenses incurred  that  would
+not  have  been incurred if the energy had not been supplied)
+being at the interconnection points (as defined in Article  4
+of  the  1992 Agreement), of the Party supplying such  energy
+and  that the resulting savings to the receiving Party  shall
+be  equally  shared  by the supplying and receiving  Parties.
+Prior  to any transaction involving the delivery and  receipt
+of  Economy Energy, authorized representatives of the Parties
+shall determine and agree upon the compensation applicable to
+such  transaction.  Compensation so agreed upon shall not  be
+subject to later review or adjustment.  PSI shall dedicate an
+amount   at  the  time  of  the  transactions  for   non-firm
+transmission  service  per  the  provisions  of  the  CINergy
+Services, Inc., FERC Electric Tariff, Original Volume No.  3,
+Non-Firm Point-to-Point Transmission Service Standard  Tariff
+- -  NFT  (or  any  successor transmission  tariff  of  similar
+service) from its portion of the resulting savings.
+
+3.2   When  Economy Energy is obtained from or  delivered  to
+other  systems  interconnected  with  the  Parties,  but  not
+signatories to the 1992 Agreement, payments shall be based on
+the  Out-Of-Pocket  Cost  of the supplying  Party  or  system
+providing  the energy and an allocation of the gross  savings
+which are defined as the difference between (1) what such Out-
+Of-Pocket  Costs of the receiving Party or system would  have
+been  to  generate  such energy, and (2)  such  Out-Of-Pocket
+Costs  of the supplying Party or system providing the energy.
+Such allocation shall be made as provided in Subsections 3.21
+and 3.22 hereinbelow:
+
+     3.21 The  transmitting Party shall be paid (a) its costs
+          of  purchasing the energy supplied,  plus  (b)  its
+          costs  of  additional transmission losses plus  (c)
+          the following:
+
+          (1)  When  IPL is such transmitting Party:  Fifteen
+               percent  (15%) of the gross savings  remaining
+               after   deducting   all  such   payments   for
+               transmission losses.
+
+          (2)  When PSI is the transmitting Party, they shall
+               receive  the  greater of (a) 15% (such  charge
+               pertains  to  the reservation of transmission)
+               of the gross savings remaining after deducting
+               all  such payments for transmission losses  or
+               (b)  the  sum  of  a demand  charge  rate  per
+               megawatt  reserved per hour at the  time  such
+               Economy   Energy  is  reserved  for   non-firm
+               transmission service per the provisions of the
+               CINergy  Services, Inc., FERC Electric Tariff,
+               Original Volume No. 3, Non-Firm Point-to-Point
+               Transmission Service Standard Tariff - NFT (or
+               any  successor transmission tariff of  similar
+               service),  plus  $1.00 per megawatt-hour  (for
+               difficult  to quantify energy-related  costs),
+               plus any transmission losses resulting on  the
+               system  of the CINergy Operating Companies  on
+               account  of  the  transaction  and  plus   any
+               regulatory   commission  charges   and   taxes
+               incurred by PSI on account of the transaction.
+
+     3.22 The supplying Party or system shall be paid its Out-
+          Of-Pocket  Cost of providing the energy, plus  one-
+          half of the gross savings remaining after deducting
+          all  (b)  and  (c)  payments made under  Subsection
+          3.21.   The  receiving Party  or  system  shall  be
+          entitled to the other one-half of the gross savings
+          remaining after deducting all (b) and (c)  payments
+          made under Subsection 3.21.
+
+     Non-Displacement Energy
+
+3.3   Non-Displacement Energy delivered  hereunder  shall  be
+settled  for either by the return of equivalent energy  (only
+in  the  case where IPL is the supplying Party)  or,  at  the
+option of the Party that supplied such energy, by payment  of
+an  energy  charge  of up to 110% of the  Out-Of-Pocket  Cost
+(such  cost  being  as of the delivery point  or  points,  as
+provided  in Section 4.01 of Article 4 of the 1992 Agreement,
+taking  into  account  electrical losses  incurred  from  the
+source  or sources of such energy to said delivery  point  or
+points)  to  the supplying Party generating such energy  plus
+(the  applicable demand charge rates per this Subsection  are
+limited by Subsections 3.7 and 3.8):
+     3.31 When IPL is the supplying Party:
+
+          3.31.1   IPL,  at its option, may impose  a  demand
+          charge  of  up to 48.6 mills per kilowatt  reserved
+          per  hour, but the total demand charge in  any  one
+          day  shall  be no more than the product  of  $0.778
+          times  the highest amount in kilowatts reserved  in
+          any hour during the day.  Or,
+
+          3.31.2   IPL, at its option, may choose  to  supply
+          such  energy  without imposing a demand  charge  in
+          which  case  no  additional  payment  is  included.
+          However, if this option is chosen, the cost of such
+          energy will be calculated as 110% of the actual Out-
+          Of-Pocket Cost (such cost being as of the  delivery
+          point  or  points, as provided in Section  4.01  of
+          Article  4  of  the  1992  Agreement,  taking  into
+          account electrical losses incurred from the  source
+          or sources of such energy to said delivery point or
+          points)  to  the  supplying Party  generating  such
+          energy.
+
+     3.32  When PSI is the supplying Party by payment of  the
+following:
+
+     (1)  For energy generated, the agreed upon demand charge
+          rate  of  up to $50 per megawatt-hour (such  charge
+          pertains  to  the production component  only),  the
+          total demand charge in any one day shall be no more
+          than the product of $797 and the greatest amount of
+          megawatts reserved in any hour during said day  and
+          the  total charge in any one week shall be no  more
+          than  the product of $4,781 and the greatest number
+          of megawatts reserved in any hour during said week.
+          Non-firm transmission service per the provisions of
+          the  CINergy Services, Inc., FERC Electric  Tariff,
+          Original  Volume  No.  3,  Non-Firm  Point-to-Point
+          Transmission Service Standard Tariff - NFT (or  any
+          successor  transmission tariff of similar  service)
+          must be obtained;
+
+     (2)  For  daily energy which is purchased by PSI from  a
+          third  party  for economic reasons to  meet  system
+          needs but in subsequent system resources accounting
+          calculations  is determined to have  been  used  to
+          supply  a Daily Non-Displacement Energy transaction
+          and  for which PSI stands by to supply from its own
+          resources:  (a) the amount paid by PSI to the third
+          party  for  such  energy,  plus  (b)  the  cost  of
+          transmission losses, regulatory commission  charges
+          and  taxes incurred which would not otherwise  have
+          been incurred, plus (c) $1.00 per megawatt-hour for
+          difficult-to-quantify energy  related  costs,  and,
+          plus  (d) up to $50 per megawatt-hour (such  charge
+          pertains  to  the production component  only),  the
+          total  charge in any one day shall be no more  than
+          the  product  of  $797 and the greatest  number  of
+          megawatts reserved in any hour during said day  and
+          the  total charge in any one week shall be no  more
+          than  the product of $4,781 and the greatest number
+          of megawatts reserved in any hour during said week.
+          Non-firm transmission service per the provisions of
+          the  CINergy Services, Inc., FERC Electric  Tariff,
+          Original  Volume  No.  3,  Non-Firm  Point-to-Point
+          Transmission Service Standard Tariff - NFT (or  any
+          successor  transmission tariff of similar  service)
+          must be obtained.
+
+     3.33 If  equivalent energy is returned to IPL, it  shall
+          be  returned  at times when the load conditions  of
+          the  Party receiving it are equivalent to the  load
+          conditions of such Party at the time the energy for
+          which  it  is  returned was delivered or,  if  such
+          Party  elects  to  have equivalent energy  returned
+          under different conditions, it shall be returned in
+          such  amounts,  to be agreed upon by the  Operating
+          Committee, as will compensate for the difference in
+          conditions.
+
+3.4   Non-Displacement Energy delivered under Subsection  2.2
+above  that is purchased by the supplying Party from  another
+interconnected system which is not a signatory  to  the  1992
+Agreement  ("Third Party") at the request  of  the  receiving
+Party shall be settled for as follows:
+
+3.41 When  IPL  is the supplying Party, by a payment  of  100
+     percent of the amount paid to such Third Party,  plus  a
+     demand  charge  in an amount to be agreed  upon  by  the
+     Parties  at  the time of the reservation of  up  to  3.6
+     mills  per  kilowatt reserved per hour,  but  the  total
+     demand  charge in any one day shall be no more than  the
+     product  of $0.058 times the highest amount in kilowatts
+     reserved  in any hour during the day, plus  1  mill  per
+     kilowatt-hour  (for difficult to quantify energy-related
+     costs),  plus  the cost of any quantifiable transmission
+     losses,  taxes, and other expenses incurred  that  would
+     not  have been incurred if such transaction had not been
+     made.
+
+3.42 When  PSI  is  the  supplying Party:   by  (a)  non-firm
+     transmission service per the provisions of  the  CINergy
+     Services,  Inc.,  FERC Electric Tariff, Original  Volume
+     No.  3,  Non-Firm  Point-to-Point  Transmission  Service
+     Standard  Tariff  -  NFT (or any successor  transmission
+     tariff  of similar service) must be obtained and (b)  an
+     energy  charge  of 100% of the Out-of-Pocket  Cost  paid
+     therefor  by  PSI,  plus  $1.00 per  megawatt-hour  (for
+     difficult  to quantify energy-related costs),  plus  any
+     transmission  losses  resulting on  the  system  of  the
+     CINergy   Operating   Companies  on   account   of   the
+     transaction, and plus any regulatory commission  charges
+     and taxes incurred by PSI on account of the transaction.
+
+3.5   Notwithstanding  the  rates stated  in  Subsection  3.3
+above,  when  IPL  is  the supplying Party,  if  the  "demand
+charge"  option of Section 3.31.1 is chosen, the sum  of  the
+demand and energy charges for each specific reservation  made
+pursuant  to  Section 2.2 of this Service  Schedule  B  which
+includes a demand charge shall not:
+     (1)  exceed the total of:
+
+          (i)  The   product  of  the  number  of   kilowatts
+               reserved   for  such  reservation  times   the
+               maximum  hourly demand charge specified  above
+               in Subsection 3.3; and
+
+          (ii) The  product  of  the number of kilowatt-hours
+               sup-plied for such reservation times  110%  of
+               the  average cost per kilowatt-hour of  energy
+               generated by IPL's Petersburg Unit No.  4  for
+               the  last preceding month during which it  was
+               run; or
+
+     (2)  be  less than 100% of the total Out-Of-Pocket  Cost
+          of  supplying the Non-Displacement Energy for  such
+          reservation.
+
+3.6   Notwithstanding  the  rates stated  in  Subsection  3.3
+above, when PSI and CINergy Services are the supplying Party,
+the  sum  of the demand and energy charges for each  specific
+reservation  made  pursuant to Section 2.2  of  this  Service
+Schedule B shall not:
+
+     (1)  exceed the total of:
+
+           (i) The   product  of  the  number  of   megawatts
+               reserved   for  such  reservation  times   the
+               maximum  hourly demand charge specified  above
+               in Subsection 3.3; and plus
+          (ii) The  product  of  the number of megawatt-hours
+               supplied  for such reservation times  110%  of
+               the  average cost per megawatt-hour of  energy
+               generated  by the CINergy Operating Companies*
+               Zimmer  Unit No. 1 and Gibson Unit No.  5  for
+               the preceding month; nor
+
+     (2)  be  less than 100% of the total Out-Of-Pocket  Cost
+          of  supplying the Non-Displacement Energy for  such
+          reservation.
+
+3.7   The  aggregate instant total capacity of all IPL  sales
+under  this and other Service Schedules which are a  part  of
+this  and  other IPL Agreements, for which the rates  charged
+have been supported on the basis that total revenues will not
+exceed the costs of Petersburg Unit No. 4, is limited to  515
+MW.
+
+3.8   The  total power of all sales by the CINergy  Operating
+Companies   and  CINergy  Services  under  this   and   other
+agreements  of  the CINergy Operating Companies  and  CINergy
+Services,  for  which  the  agreed  upon  demand  charge   is
+determined based on Zimmer Unit No. 1 and Gibson Unit No.  5,
+is  limited  to 925 MWs (CINergy Operating Companies*  Zimmer
+Unit  No. 1 Net Demonstrated Capability of 612 MWs and Gibson
+Unit  No.  5  Net Demonstrated Capability of 313 MWs)  on  an
+hourly basis.  For sales in excess of the capacity limitation
+of  925  MWs noted above, the rate shall consist of an energy
+charge  of  up  to 110% of Out-of-Pocket Cost  and  a  demand
+charge  of  up  to  $ 13 per megawatt per hour  (such  charge
+pertains to the production component only), the total  charge
+in  any one day shall be no more than the product of $209 and
+the  greatest number of megawatts reserved in any hour during
+said  day  and the total charge in any one week shall  be  no
+more  than  the product of $1,252 and the greatest number  of
+megawatts  reserved in any hour during said  week.   Non-firm
+transmission  service  per  the  provisions  of  the  CINergy
+Services, Inc., FERC Electric Tariff, Original Volume No.  3,
+Non-Firm Point-to-Point Transmission Service Standard  Tariff
+- -  NFT  (or  any  successor transmission  tariff  of  similar
+service)  must be obtained; but in no event shall  the  total
+revenue  (energy charge and demand charge combined)  be  less
+than  100% of the Out-of-Pocket Costs for supplying the  Non-
+Displacement  Energy  for such reservation.   Notwithstanding
+all  previous Subsections, when power is sold under both this
+Subsection and Subsection 3.3 in any month, the total  demand
+charge will be the applicable weighted average demand charges
+in  this Subsection and Subsection 3.3.  Such weighting  will
+be  developed  by adding the number of hours that  power  was
+provided  under  this Subsection times the applicable  demand
+charge  under  this Subsection and the number of  hours  that
+power  was provided under Subsection 3.3 times the applicable
+demand  charge in Subsection 3.3, with the sum being  divided
+by  the applicable number of hours of the transaction (month,
+week, day or hours).
+
+               EXHIBIT III
+               (First Revision)
+
+
+                     SERVICE SCHEDULE C
+
+                SHORT TERM POWER AND ENERGY
+
+
+SECTION 1 - DURATION
+
+1.1   This Service Schedule C, being a part of and under  the
+Interconnection Agreement (referred to herein  as  the  "1992
+Agreement"),  dated  as  of May 1, 1992,  among  Indianapolis
+Power  &  Light  Company (hereinafter called "IPL")  and  PSI
+Energy,  Inc.,  formerly  named  Public  Service  Company  of
+Indiana,   Inc.  (hereinafter  called  "PSI")   and   CINergy
+Services, Inc. (hereinafter called "CINergy Services"), shall
+become  effective  as  of the effective  date  of  the  Third
+Amendment,  dated  June 30, 1995, to the 1992  Agreement  and
+shall continue in effect throughout the duration of the  1992
+Agreement.   IPL,  PSI  and CINergy  Services  are  sometimes
+hereinafter   referred   to  individually   as   "Party"   or
+collectively as "Parties" where appropriate.
+
+
+SECTION 2 - SERVICES TO BE RENDERED
+
+2.1   Any  Party,  by  giving the other Parties  notice,  may
+reserve  from  the other Parties (a) electric power  ("Weekly
+Short  Term Power") for periods of one or more weeks  or  (b)
+electric power ("Daily Short Term Power") for periods of  one
+or more days whenever the Party requested to reserve the same
+is  willing  to  make such power available.   Under  ordinary
+circumstances such reservation shall extend for not less than
+a  calendar week if it begins with Sunday or for the  balance
+of  the calendar week if it begins with any day subsequent to
+Sunday; however, under unusual circumstances, the Parties may
+mutually  agree upon a reservation of Daily or  Weekly  Short
+Term  Power  for a lesser number of days.  In all  cases  the
+Party  asked to supply Daily or Weekly Short Term Power shall
+be  the sole judge as to the amounts and periods that it  has
+electric  power  available that may be  reserved  by  another
+Party  as Short Term Power.  A transaction made by any  Party
+under  this Service Schedule C shall not extend beyond twelve
+(12) months.
+
+     2.11  Prior to each reservation of Weekly or Daily Short
+Term  Power,  the  number of megawatts to  be  reserved,  the
+period of the reservation, the terms of such reservation, and
+the  source of such power if the supplying Party is  in  turn
+reserving such power from another interconnected system which
+is  not  a  signatory to the 1992 Agreement ("Third  Party"),
+shall  be determined by the Parties.  Such reservation  shall
+be  confirmed  in writing at the request of  any  Party.   If
+during  such period the conditions arise that could not  have
+been  reasonably foreseen at the time of the reservation  and
+cause  the  reservation  to be burdensome  to  the  supplying
+Party,  such Party may by oral notice to the reserving Party,
+such  oral  notice  to  be  later  confirmed  in  writing  if
+requested  by  any  Party,  reduce the  number  of  megawatts
+reserved by such amount and for such time as it shall specify
+in  such  notice, but kilowatts reserved hereunder  that  the
+supplying  Party is in turn reserving from a Third Party  may
+be  reduced only to the extent they are reduced by such Third
+Party.
+
+     2.12  During each period that Weekly or Daily Short Term
+     Power  has  been reserved, the Party that has agreed  to
+     supply such power shall upon call by the reserving Party
+     deliver  associated electric energy  ("Weekly  or  Daily
+     Short  Term Energy") to the reserving Party  as  of  the
+     interconnection point or points, as provided in  Section
+     4.01 of Article 4 of the 1992 Agreement at a rate during
+     each hour of up to and including the number of megawatts
+     reserved.
+
+
+SECTION 3 - COMPENSATION
+
+3.1  Weekly Short-Term Power and Energy
+
+     3.1.1   Except as otherwise provided in Subsection 3.1.3
+     below,  when IPL is the supplying Party, PSI  shall  pay
+     all   of   the  following  which  are  applicable   (the
+     applicable  demand  charge rate per this  Subsection  is
+     limited by Subsection 3.5):
+
+          (a)  for  any week that Weekly Short-Term Power and
+               Energy is reserved, a demand charge rate to be
+               agreed  upon by the Parties at the  time  such
+               Weekly   Short-Term  Power   and   Energy   is
+               reserved,  at  a  rate  of  up  to  $3.89  per
+               kilowatt reserved, except, for each day (other
+               than  Sunday)  during any part  of  which  the
+               amount  of  such Weekly Short-Term  Power  and
+               Energy  is  reduced by IPL, the  total  demand
+               charge shall be reduced by one-sixth (1/6)  of
+               said  agreed upon demand charge rate for  each
+               megawatt of the reduction;
+
+          (b)  for Weekly Short-Term Energy delivered that is
+               generated  by  IPL,  an energy  charge  to  be
+               agreed upon by the Parties at the time of  the
+               transaction of up to 110% of the Out-Of-Pocket
+               Cost    (such   cost   being   as    of    the
+               interconnection point or points, as defined in
+               Article  4 of the 1992 Agreement, taking  into
+               account  electrical losses incurred  from  the
+               source  or  sources  of  such  energy  to  the
+               interconnection point or points) of  supplying
+               such energy;
+
+          (c)  for Weekly Short-Term Energy delivered that is
+               purchased by IPL from a Third Party, an energy
+               charge of 100% of the Out-Of-Pocket Cost  paid
+               therefor  by  IPL,  plus  one  (1)  mill   per
+               kilowatt-hour  of such purchased  energy  (for
+               difficult  to quantify energy-related  costs),
+               plus  any  transmission  losses  resulting  on
+               IPL*s  system  on account of the  transaction,
+               and  plus any taxes incurred by IPL on account
+               of the transaction.
+
+     3.1.2   Except as otherwise provided in Subsection 3.1.3
+     below,  when PSI is the supplying Party, IPL  shall  pay
+     all   of   the  following  which  are  applicable   (the
+     applicable  demand  charge rate per this  Subsection  is
+     limited by Subsection 3.6):
+
+          (a)  for  any week that Weekly Short-Term Power and
+               Energy is reserved, a demand charge rate to be
+               agreed  upon by the Parties at the  time  such
+               Weekly   Short-Term  Power   and   Energy   is
+               reserved.  Said demand charge rate shall be at
+               a  rate  of up to $4,781 per megawatt reserved
+               (such   charge  pertains  to  the   production
+               component  only), except for each  day  (other
+               than  Sunday)  during any part  of  which  the
+               amount  of  such Weekly Short-Term  Power  and
+               Energy  is  reduced by PSI, the  total  demand
+               charge shall be reduced by one-sixth (1/6)  of
+               said  agreed upon demand charge rate  (rounded
+               to  the  nearest $0.10 per megawatt) for  each
+               megawatt    of   the   reduction.     Non-firm
+               transmission service per the provisions of the
+               CINergy  Services, Inc., FERC Electric Tariff,
+               Original Volume No. 3, Non-Firm Point-to-Point
+               Transmission Service Standard Tariff - NFT (or
+               any  successor transmission tariff of  similar
+               service) must be obtained;
+
+          (b)  for Weekly Short-Term Energy delivered that is
+               generated  by  PSI,  an energy  charge  to  be
+               agreed upon by the Parties at the time of  the
+               transaction of up to 110% of the Out-Of-Pocket
+               Cost    (such   cost   being   as    of    the
+               interconnection point or points, as defined in
+               Article  4 of the 1992 Agreement, taking  into
+               account  electrical losses incurred  from  the
+               source  or  sources  of  such  energy  to  the
+               interconnection point or points) of  supplying
+               such energy;
+
+          (c)  for Weekly Short-Term Energy delivered that is
+               purchased by PSI from a Third Party, an energy
+               charge of 100% of the Out-Of-Pocket Cost  paid
+               therefor  by PSI, plus $1.00 per megawatt-hour
+               of  such  purchased energy (for  difficult  to
+               quantify   energy-related  costs),  plus   any
+               transmission losses resulting on the system of
+               the CINergy Operating Companies on account  of
+               the   transaction,  and  plus  any  regulatory
+               commission charges and taxes incurred  by  PSI
+               on account of the transaction.
+
+     3.1.3   When  Weekly  Short-Term  Power  and  Energy  is
+     purchased  by  the supplying Party from  a  Third  Party
+     specifically  for  the  reserving Party,  the  reserving
+     Party shall pay the supplying Party all of the following
+     which are applicable:
+
+     (a)  the  demand  charge paid therefor by the  supplying
+          Party  to  the Third Party for such electric  power
+          and energy;
+
+     (b)  when IPL is the supplying Party:
+
+          (1)  for  any week such Weekly Short-Term Power and
+               Energy  is reserved, a demand charge rate  per
+               kilowatt  to be agreed upon by the Parties  at
+               the  time  such  Weekly Short-Term  Power  and
+               Energy  is reserved, at a rate of up to  $0.29
+               per kilowatt reserved (such charge pertains to
+               the  reservation  of  transmission).   In  the
+               event  the  amount  of such Weekly  Short-Term
+               Power  and  Energy  is reduced  by  IPL,  said
+               demand  charge shall be reduced by the sum  of
+               (i)  one-sixth (1/6) of the said  agreed  upon
+               weekly rate per kilowatt of the reduction  for
+               each day (other than Sunday) during which such
+               reduction   is   in  effect,  and   (ii)   the
+               reduction,  if any, in the demand charge  paid
+               by IPL to the Third Party;
+
+     (c)  when PSI is the supplying Party:
+          (1)  Non-firm   transmission   service   per    the
+               provisions of the CINergy Services, Inc., FERC
+               Electric Tariff, Original Volume No.  3,  Non-
+               Firm  Transmission Service Standard  Tariff  -
+               NFT  (or any successor transmission tariff  of
+               similar  service)  must be  obtained.  In  the
+               event  the  amount  of such Weekly  Short-Term
+               Power  and  Energy  is reduced  by  PSI,  said
+               demand  charge shall be reduced by the sum  of
+               (i)  one-sixth (1/6) of the said  agreed  upon
+               weekly rate per megawatt of the reduction  for
+               each day (other than Sunday) during which such
+               reduction   is   in  effect,  and   (ii)   the
+               reduction,  if any, in the demand charge  paid
+               by PSI to the Third Party;
+
+          (2)  for each megawatt-hour purchased by PSI from a
+               Third Party to supply Weekly Short-Term Energy
+               delivered during such period, an energy charge
+               of   100%  of  the  Out-Of-Pocket  Cost   paid
+               therefor  by PSI, plus $1.00 per megawatt-hour
+               (for   difficult  to  quantify  energy-related
+               costs), plus any transmission losses resulting
+               on   the   system  of  the  CINergy  Operating
+               Companies  on account of the transaction,  and
+               plus  any  regulatory commission  charges  and
+               taxes  incurred  by  PSI  on  account  of  the
+               transaction.
+
+3.2  Daily Short-Term Power and Energy
+
+     3.2.1   Except as otherwise provided in Subsection 3.2.3
+     below,  when IPL is the supplying Party, PSI  shall  pay
+     all   of   the  following  which  are  applicable   (the
+     applicable  demand  charge rate per this  Subsection  is
+     limited by Subsection 3.5):
+
+     (a)  for  any day that Daily Short-Term Power and Energy
+          is reserved, a demand charge rate to be agreed upon
+          by  the  Parties at the time such Daily  Short-Term
+          Power  and Energy is reserved, at a rate of  up  to
+          $0.778  per kilowatt reserved, except, for any  day
+          during  any part of which the amount of such  Daily
+          Short-Term Power and Energy is reduced by IPL,  the
+          agreed upon demand charge will only be paid for the
+          power still available;
+
+     (b)  for  Daily  Short-Term  Energy  delivered  that  is
+          generated by IPL, an energy charge of up to 110% of
+          the  Out-of-Pocket Cost (such cost being as of  the
+          interconnection  point  or points,  as  defined  in
+          Article  4  of  the  1992  Agreement,  taking  into
+          account electrical losses incurred from the  source
+          or  sources  of  such energy to the interconnection
+          point or points) of supplying such energy;
+
+     (c)  for  Daily  Short-Term  Energy  delivered  that  is
+          purchased  by  IPL  from a Third Party,  an  energy
+          charge  of  100%  of  the Out-of-Pocket  Cost  paid
+          therefor  by  IPL, plus one (1) mill per  kilowatt-
+          hour  of  such  purchased energy (for difficult  to
+          quantify    energy-related   costs),    plus    any
+          transmission  losses resulting on IPL*s  system  on
+          account  of  the  transaction, and plus  any  taxes
+          incurred by IPL on account of the transaction.
+
+3.2.2   Except  as  otherwise provided  in  Subsection  3.2.3
+below, when PSI is the supplying Party, IPL shall pay all  of
+the  following  which are applicable (the  applicable  demand
+charge  rates  per this Subsection are limited by  Subsection
+3.6):
+
+     (a)  for  any day that Daily Short-Term Power and Energy
+          is reserved, a demand charge rate to be agreed upon
+          by  the  Parties at the time such Daily  Short-Term
+          Power  and Energy is reserved.  Said demand  charge
+          rate  shall be at a rate of up to $797 per megawatt
+          reserved  (such  charge pertains to the  production
+          component only), the total charge in any week shall
+          be  no  more  than the product of  $4,781  and  the
+          greatest  number of megawatts reserved in  any  day
+          during  said  week, except for any day  during  any
+          part  of  which the amount of such Daily Short-Term
+          Power and Energy is reduced by PSI, the agreed upon
+          demand charge will only be paid for the power still
+          available.  Non-firm transmission service  per  the
+          provisions  of  the  CINergy Services,  Inc.,  FERC
+          Electric  Tariff, Original Volume No.  3,  Non-Firm
+          Point-to-Point Transmission Service Standard Tariff
+          -  NFT  (or  any successor transmission  tariff  of
+          similar service) must be obtained;
+
+     (b)  for  Daily  Short-Term  Energy  delivered  that  is
+          generated by PSI, an energy charge of up to 110% of
+          the  Out-of-Pocket Cost (such cost being as of  the
+          interconnection  point  or points,  as  defined  in
+          Article  4  of  the  1992  Agreement,  taking  into
+          account electrical losses incurred from the  source
+          or  sources  of  such energy to the interconnection
+          point or points) of supplying such energy;
+
+     (c)  for  Daily  Short-Term  Energy  delivered  that  is
+          purchased  by  PSI  from a Third Party,  an  energy
+          charge  of  100%  of  the Out-of-Pocket  Cost  paid
+          therefor  by  PSI, plus $1.00 per megawatt-hour  of
+          such  purchased energy (for difficult  to  quantify
+          energy-related costs), plus any transmission losses
+          resulting  on  the system of the CINergy  Operating
+          Companies on account of the transaction,  and  plus
+          any   regulatory  commission  charges   and   taxes
+          incurred by PSI on account of the transaction.
+
+     3.2.3   When  Daily  Short-Term  Power  and  Energy   is
+     purchased  by  the supplying Party from  a  Third  Party
+     specifically  for  the  reserving Party,  the  reserving
+     Party shall pay the supplying Party all of the following
+     which are applicable:
+
+     (a)  the  demand  charge paid therefor by the  supplying
+          Party  to  the Third Party for such electric  power
+          and energy;
+
+     (b)  when IPL is the supplying Party:
+
+          (1)   for  any day such Daily Short-Term Power  and
+          Energy is reserved, a demand charge per kilowatt to
+          be  agreed  upon by the Parties at  the  time  such
+          Daily Short-Term Power and Energy is reserved, at a
+          rate  of  up to $0.058 per kilowatt reserved  (such
+          charge    pertains    to   the    reservation    of
+          transmission).   In the event the  amount  of  such
+          Daily  Short-Term Power and Energy  is  reduced  by
+          IPL, said demand charge shall be reduced by the sum
+          of (i) one-sixteenth (1/16) of the said agreed upon
+          daily  rate per kilowatt of the reduction for  each
+          hour  in any day during which such reduction is  in
+          effect,  such  reduction not to exceed  the  agreed
+          upon  demand  charge for such  day,  and  (ii)  the
+          reduction, if any, in the demand charge paid by IPL
+          to the Third Party;
+
+          (2)  for each kilowatt-hour purchased by IPL from a
+          Third  Party  to  supply  Daily  Short-Term  Energy
+          delivered  during such period, an energy charge  of
+          100%  of  the  Out-of-Pocket Cost paid therefor  by
+          IPL,  plus  one  (1)  mill per  kilowatt-hour  (for
+          difficult  to quantify energy-related costs),  plus
+          any  transmission losses resulting on IPL*s  system
+          on  account of the transaction, and plus any  taxes
+          incurred by IPL on account of the transaction;
+     (c)  when PSI is the supplying Party:
+
+          (1)    Non-firm   transmission  service   per   the
+          provisions  of  the  CINergy Services,  Inc.,  FERC
+          Electric  Tariff, Original Volume No.  3,  Non-Firm
+          Transmission Service Standard Tariff - NFT (or  any
+          successor  transmission tariff of similar  service)
+          must  be obtained. In the event the amount of  such
+          Daily  Short-Term Power and Energy  is  reduced  by
+          PSI, said demand charge shall be reduced by the sum
+          of (i) one-sixteenth (1/16) of the said agreed upon
+          daily  rate per megawatt of the reduction for  each
+          hour in any day during which any such reduction  is
+          in  effect, such reduction not to exceed the agreed
+          upon  demand  charge for such  day,  and  (ii)  the
+          reduction, if any in the demand charge paid by  PSI
+          to the Third Party;
+          (2)  for each megawatt-hour purchased by PSI from a
+          Third  Party  to  supply  Daily  Short-Term  Energy
+          delivered  during such period, an energy charge  of
+          100%  of  the  Out-of-Pocket Cost paid therefor  by
+          PSI, plus $1.00 per megawatt-hour (for difficult to
+          quantify    energy-related   costs),    plus    any
+          transmission losses resulting on the system of  the
+          CINergy  Operating  Companies  on  account  of  the
+          transaction,  and  plus  any regulatory  commission
+          charges and taxes incurred by PSI on account of the
+          transaction.
+
+3.3   Notwithstanding  the rates stated  in  the  Subsections
+3.1.1,  3.1.3,  3.2.1  and  3.2.3  above,  when  IPL  is  the
+supplying Party, the sum of the demand and energy charges for
+each  specific reservation made pursuant to Section 2 of this
+Service Schedule C shall not:
+
+     (1)  exceed the total of:
+
+            (i)   the  product  of  the number  of  kilowatts
+          reserved  for  such reservation times  the  maximum
+          Weekly   or  Daily  demand  charge,  whichever   is
+          applicable,  specified above in Subsections  3.1.1,
+          3.1.3, 3.2.1 and 3.2.3, as appropriate; and
+
+          (ii)   the  product of the number of kilowatt-hours
+          supplied  for such reservation times  110%  of  the
+          average  cost per kilowatt-hour of energy generated
+          by  IPL's  Petersburg  Unit  No.  4  for  the  last
+          preceding month during which it was run; or
+
+     (2)   be less than 110% of the total Out-Of-Pocket  Cost
+     of supplying the Short Term Energy for such reservation.
+
+3.4   Notwithstanding the rates stated in Subsections  3.1.2,
+3.1.3,  3.2.2 and 3.2.3 above, when PSI and CINergy  Services
+are  the  supplying Party, the sum of the demand  and  energy
+charges  for  each  specific  reservation  made  pursuant  to
+Section 2 of this Service Schedule C shall not:
+
+     (1)  exceed the total of:
+
+          (i) the product of the number of megawatts reserved
+          for  such  reservation times the maximum Weekly  or
+          Daily   demand  charge,  whichever  is  applicable,
+          specified above in Subsections 3.1.2, 3.1.3,  3.2.2
+          and 3.2.3, as appropriate, and plus
+
+          (ii)  the  product of the number of  megawatt-hours
+          supplied  for such reservation times  110%  of  the
+          average  cost per megawatt-hour of energy generated
+          by the CINergy Operating Companies* Zimmer Unit No.
+          1  and  Gibson Unit No. 5 for the preceding  month;
+          nor
+
+     (2)   be  less than 100% of the Out-Of-Pocket  Costs  of
+     supplying the Short Term Energy for such reservation.
+
+3.5   The  aggregate instant total capacity of all IPL  sales
+under  this and other Service Schedules which are a  part  of
+this  and  other IPL Agreements, for which the rates  charged
+have been supported on the basis that total revenues will not
+exceed  the  costs of Petersburg Unit No. 4,  is  limited  to
+515MW.
+
+3.6   The  total power of all sales by the CINergy  Operating
+Companies   and  CINergy  Services  under  this   and   other
+agreements  of  the CINergy Operating Companies  and  CINergy
+Services,  for  which  the  agreed  upon  demand  charge   is
+determined based on Zimmer Unit No. 1 and Gibson Unit No.  5,
+is  limited  to 925 MWs (CINergy Operating Companies*  Zimmer
+Unit  No. 1 Net Demonstrated Capability of 612 MWs and Gibson
+Unit  No.  5  Net Demonstrated Capability of 313 MWs)  on  an
+hourly basis.  For sales in excess of the power limitation of
+925  MWs  noted above, the rate shall consist  of  an  energy
+charge  of  up  to 110% of Out-of-Pocket Cost  and  a  demand
+charge  of  up to $1,252 per megawatt per week  or  a  demand
+charge  of up to $209 per megawatt per day, the total  charge
+in  any  one week shall be no more than the product of $1,252
+and  the  greatest number of megawatts reserved in  any  hour
+during  said  week  (such charge pertains to  the  production
+component  only).   Non-firm  transmission  service  per  the
+provisions  of  the  CINergy Services,  Inc.,  FERC  Electric
+Tariff,   Original  Volume  No.  3,  Non-Firm  Point-to-Point
+Transmission Service Standard Tariff - NFT (or any  successor
+transmission tariff of similar service) must be obtained; but
+in no event shall the total revenue (energy charge and demand
+charge combined) be less than 100% of the Out-of-Pocket Costs
+of  supplying  the  Short-Term Energy for  such  reservation.
+Notwithstanding all previous Subsections, when power is  sold
+under  both this Subsection and Subsection 3.1.2 in any week,
+the  total demand charge will be the weighted average  demand
+charges  in  this  Subsection  and  Subsection  3.1.2.   Such
+weighting  will  be developed by adding the number  of  hours
+that  power  was  provided under this  Subsection  times  the
+demand  charge under this Subsection and the number of  hours
+that  power  was  provided under Subsection 3.1.2  times  the
+demand  charge  in  Subsection 3.1.2,  with  such  sum  being
+divided by the total number of hours in the week.  Also, when
+power is sold under both this Subsection and Subsection 3.2.2
+in  any  day,  the total demand charge will be  the  weighted
+average  demand  charges  in this Subsection  and  Subsection
+3.2.2.  Such weighting will be developed by adding the number
+of  hours that power was provided under this Subsection times
+the  demand  charge under this Subsection and the  number  of
+hours  that  power was provided under Subsection 3.2.2  times
+the  demand charge in Subsection 3.2.2, with such  sum  being
+divided by the total number of hours in the day.
+
+               EXHIBIT IV
+               (SECOND REVISION)
+
+                     SERVICE SCHEDULE D
+
+   CARMEL SOUTHEAST TAP NETWORK POWER AND ENERGY TRANSFER
+
+
+SECTION 1 - DURATION
+
+1.1   This  Service Schedule, being a part of and  under  the
+Interconnection Agreement (referred to herein  as  the  "1992
+Agreement")  dated  as  of May 1, 1992  between  Indianapolis
+Power  &  Light  Company (hereinafter called "IPL")  and  PSI
+Energy,  Inc.,  formerly  named  Public  Service  Company  of
+Indiana,   Inc.,  (hereinafter  called  "PSI")  and   CINergy
+Services, Inc. (hereinafter called "CINergy Services"), shall
+become  effective as of the earlier date of either  September
+1,  1995 or the effective date of the Third Amendment,  dated
+June  30,  1995, and shall continue in effect through  August
+31,  1996,  unless extended as provided in Section 6  hereof.
+IPL,  PSI  and  CINergy  Services are  sometimes  hereinafter
+referred  to  individually  as  "Party"  or  collectively  as
+"Parties" where appropriate.
+
+
+SECTION 2 - FACILITIES TO BE PROVIDED
+
+2.1  PSI shall provide, install, operate and maintain, at its
+own  expense, during the term of this Service Schedule  D  as
+defined in Section 6 hereof, the following facilities:
+     (i)  At its Carmel Southeast Substation - a 138,000 volt
+three-phase  interrupting device, a  24/40  MVA  transformer,
+12,470  volt  metering  equipment,  relaying,  switching,   a
+supervisory  control  remote terminal unit,  a  communication
+circuit  from  the  supervisory unit to IPL*s  Load  Dispatch
+Office  and  appurtenant equipment, all  of  which  shall  be
+subject  to  the  prior  approval  of  IPL.   PSI  shall   be
+responsible  for  installing,  owning  and  maintaining   all
+necessary  protection equipment required by  IPL  to  protect
+IPL*s  facilities associated with Carmel Tap.   PSI*s  remote
+terminal  unit shall provide data acquisition, remote  status
+and  control of the load and allow PSI to provide  real  time
+dispatch  of their generation to their load as well  as  load
+control  while IPL will be provided real time breaker  status
+and load data.
+     (ii) A  138,000  volt  transmission line extending  from
+          Carmel  Southeast Substation to Transmission  Tower
+          Number  7 (Map Section 173A) on IPL's 138,000  volt
+          North-River   Road   (132-57)  transmission   line,
+          together with a 138,000 volt tap at such tower,  to
+          be known as the Carmel Tap Point.
+
+2.2   IPL  shall provide, install, operate and  maintain,  as
+direct  assignment facilities at the sole benefit and expense
+of PSI, during the term of the Carmel Tap Point as defined in
+Section 6 hereof, a 138,000 volt two-way switching point with
+supervisory   controlled  138,000  volt   line   interrupting
+disconnect  switches  and associated  facilities  such  as  a
+switch  tower,  supervisory terminal unit  and  communication
+circuit at the Carmel Tap Point.
+
+
+SECTION 3 - SERVICES TO BE RENDERED
+
+3.1   The Parties hereto mutually agree that their respective
+radial  distribution systems will not be operated in parallel
+through  the  Carmel Tap Point.  Electric energy supplied  by
+IPL  to  PSI  at  the  Carmel Tap Point will  be  treated  as
+capacity  and  energy simultaneously transferred  into  IPL's
+system by PSI through the other interconnection points of the
+Parties  and  will  be  used  only  to  supply  the  ultimate
+consumers  of PSI who are or may be served from PSI's  Carmel
+Southeast  Substation.  Any capacity or energy  delivered  by
+IPL   to   PSI  through  the  Carmel  Tap  Point   shall   be
+simultaneously  supplied by PSI to IPL  through  any  of  the
+interconnection points of the Parties.  PSI*s supplied energy
+shall include an adder of approximately 3%-5% to the capacity
+and  energy  delivered to the Carmel Tap by IPL to compensate
+IPL  for capacity and energy losses occurring on IPL*s system
+and  PSI*s  tapped  transmission line  and  transformer  bank
+(metered at secondary voltage) due to the transfer of  energy
+to the Carmel Tap Point.
+
+3.2  IPL shall provide PSI with the following services:
+
+     1)   Firm,  network  transmission  service  including  a
+          capacity reservation (34,500 volt, 138,000 volt and
+          above) of up to and including 20 MW*s (measured  at
+          the other IPL/PSI interconnection points as defined
+          in   the   1992   Agreement).  Said   service   and
+          reservation  shall be planned for and  provided  on
+          the  same basis as IPL*s firm native load customers
+          only  during  the term of this service schedule  as
+          set forth in Section 6 herein of this Agreement.
+
+     2)   Non-firm transmission service (34,500 volt, 138,000
+          volt  and  above)  up  to  and  including  30  MW*s
+          (measured  at  the  other  IPL/PSI  interconnection
+          points  in the 1992 Agreement) in addition  to  the
+          firm  transmission listed in Point 1  above.   Said
+          non-firm  service  shall be  on  an  as  available,
+          interruptible basis when requested by PSI.
+
+Upon  IPL*s  request,  PSI shall immediately  curtail  and/or
+interrupt  its  firm load served by the 20  MW  firm  network
+transmission  and reservation service on the  same  basis  as
+IPL*s  firm  native load customers.  If PSI*s demand  exceeds
+their  reservation (herein called "excess loading") PSI shall
+demonstrate  that all such demand exceeding their reservation
+is  1) immediately interruptible by contract or 2) that  such
+excess  loading  occurred due to emergency switching  lasting
+less  than  a  total  of two (2) weeks within  any  six-month
+period.   Otherwise such excess loading shall be  treated  as
+having automatically increased PSI*s reservation, for billing
+purposes  only, until IPL is satisfied PSI has taken  actions
+to  permanently  eliminate such excess  loading.   IPL  shall
+coordinate  non-emergency maintenance outages  with  PSI  and
+provide  a  minimum notification by 12:00  noon  of  the  day
+before the scheduled outage.
+
+3.3   IPL  and  PSI  shall periodically  conduct  independent
+and/or  joint  studies of their future systems to  serve  the
+Indianapolis northeast metropolitan area.  PSI shall annually
+update and provide IPL with their ten year demand projections
+for  the Carmel Tap Point.  If such studies indicate problems
+due  to  PSI*s  20  MW reservation or projected  increase  in
+reservation, then IPL and PSI shall jointly or independently,
+as  soon as practicable, develop plans and estimates of  cost
+for   the   installation  of  any  additional  equipment   or
+facilities necessary to effect a long term solution  to  such
+problem  so  that  transmission  services  hereunder  may  be
+reliably continued in accordance with IPL standards.
+
+IPL*s studies of this service cover the first five years  and
+identified facilities during that period which may need to be
+upgraded   if   area  demand  grows  faster  than   presently
+projected.  If facility upgrades are required, PSI shall  pay
+annual  carrying  costs on a monthly basis  during  the  time
+period from the in-service date of the facilities until IPL*s
+area  load increases by the amount of PSI*s 20 MW reservation
+plus  actual  and projected increases in reservation  (herein
+called  "period  of advancement") after which  the  remaining
+costs  shall  be rolled into IPL*s rate analysis.   Any  time
+PSI*s  reservation, as determined under 3.2  above,  requires
+IPL  to install facilities in advance of its need, PSI  shall
+pay annual carrying cost on such facilities during the period
+of  advancement.  Increased reservations beyond 20 MWs  shall
+be treated as interruptible until all necessary facilities to
+reliably accommodate these loads are placed in service.   IPL
+will not increase or upgrade the capacity of its existing  or
+planned  transmission facilities in order to provide  service
+under this Agreement if doing so would unduly 1) impair IPL*s
+system  reliability or 2) jeopardize the benefits of  service
+or  3)  increase  the cost of service to  IPL*s  Native  Load
+Customers  and other customers to whom IPL has a pre-existing
+contractual obligation.
+
+In  the  event PSI does not elect to continue its reservation
+after the term of this Service Schedule, PSI shall pay 1) the
+stranded cost of all IPL*s facilities directly assignable  to
+providing  firm  service  for PSI*s reservation  and  2)  the
+remaining  annual  cost  on a monthly  basis  of  all  system
+improvements from the termination date until IPL*s area  load
+increase  equals  the  amount of PSI*s reservation.   In  the
+event  IPL  can*t  obtain regulatory approvals  for  facility
+modifications  needed  to increases PSI*s  reservation,  then
+firm  service  shall not be provided for the  amount  of  the
+increased service reservation.
+
+3.4  PSI shall provide for ancillary services such as dynamic
+reactive  var/voltage support, all generation reserves,  real
+time generation dispatch, load following and dispatch control
+services  needed to support the operation of the  Carmel  Tap
+Point.
+
+3.5   IPL  shall file with the FERC an amendment  to  Service
+Schedule D for all direct assignment facilities (not  covered
+in  Section  2.2) to be provided for PSI by  IPL  under  this
+Service  Schedule  and  for  all costs  for  advanced  system
+improvements during the "period of advancement"  due  to  the
+PSI  transmission reservation provided under Service Schedule
+D.   FERC*s failure to accept the cost assignments for either
+direct   assignment   facilities   and/or   advanced   system
+improvements due to the PSI network load service provided  in
+this  Service  Schedule D shall result in 1) IPL  terminating
+its  obligation  to  provide and plan for PSI*s  transmission
+reservation as covered in Section 3.2 and Section  3.3  above
+or  2)  PSI may elect to reduce the level and/or firmness  of
+PSI*s  transmission  reservation so  that  additional  direct
+assignment  facilities  and/or  system  improvement  facility
+advancements won*t be needed or 3) PSI may elect to terminate
+service provided hereunder provided that upon termination  of
+this  Service Schedule D by PSI, PSI shall remain responsible
+for  paying IPL all costs remaining for all direct assignment
+facilities  provided by IPL and all remaining costs  for  all
+advanced  system improvements attributed to  PSI  during  the
+period  of advancement where said facilities have been  filed
+with and accepted by the FERC including the direct assignment
+facilities  provided  initially  under  Section   2.2.    The
+stranded  cost  of the direct assignment facilities  provided
+under  Section 2.2 shall be calculated and marked up for  tax
+effects  as  shown in Attachment 1 and shall be paid  by  PSI
+within 30 days of receipt of the bill from IPL.
+SECTION 4 - DEVIATIONS IN DELIVERIES AT CARMEL TAP POINT
+
+4.1   The  Parties agree that with respect to the Carmel  Tap
+Point, PSI shall simultaneously supply (including adjustments
+for  losses)  to IPL from PSI*s other interconnection  points
+with  IPL  the capacity and energy delivered to PSI  by  IPL.
+The  Parties  recognize,  however, that  despite  their  best
+efforts  to  simultaneously supply and deliver  capacity  and
+energy  (including adjustments for losses) deviations between
+actual  and  scheduled energy transfers may occur.   Electric
+energy resulting from such deviations shall, at the option of
+IPL, be settled for either by return of equivalent energy  or
+by  payment of Out-Of-Pocket Costs. If equivalent  energy  is
+returned,  it shall be returned at times when the  generating
+costs of IPL are equivalent to the generating costs of IPL at
+the  time  of  the  deviations or,  if  IPL  elects  to  have
+equivalent  energy  returned under different  conditions,  it
+shall  be  returned  in such amounts, to be  mutually  agreed
+upon,   as   will  compensate  IPL  for  the  difference   in
+conditions.
+
+IPL,  at its option, may elect to bill for such Out-Of-Pocket
+Costs, plus ten percent of such cost, for any energy supplied
+over  and  above that scheduled by PSI for any hour or  hours
+during the billing period.  Such costs shall be determined at
+the Carmel Tap Point by taking into account electrical losses
+incurred  from the source or sources of such energy  to  said
+Tap Point.
+
+4.2   If IPL elects to bill for any energy supplied over  and
+above that scheduled by PSI for any hour or hours during  the
+billing period where the energy was supplied by a Third Party
+then  in accordance with the FERC Order 84 the maximum amount
+to  be  billed by IPL to PSI shall be 100% of the Third Party
+demand  and  energy charge plus 1 mill/kwhr (the 1  mill/kwhr
+adder  is applicable only to transactions with a duration  of
+less  than one year) plus IPL*s network transmission rate  as
+accepted by the FERC under this Service Schedule D.
+
+
+SECTION 5 - COMPENSATION
+
+5.1   FIRM  SERVICE  - Electric power measured  in  kilowatts
+supplied  by PSI and delivered at the Carmel Tap Point  under
+the 1992 Agreement by IPL to PSI shall be billed on a monthly
+basis the annual cost of IPL*s transmission system multiplied
+by  the  ratio  of the sum of PSI*s twelve 20 MW reservations
+divided  by  IPL*s  annual system peak  demand  which  equals
+$283,200  annually as calculated in the cost support Appendix
+A.   The loss factors consisting of a 3-5% adder, as noted in
+Section  3.1  hereof, shall include PSI*s radial transmission
+line  and  transformer bank associated with  the  Carmel  Tap
+Point  and  IPL*s 34,500 volt and above transmission  system.
+The loss factors shall include PSI*s radial transmission line
+and transformer bank associated with the Carmel Tap Point and
+IPL*s  transmission  system.   The  loss  factors  shall   be
+determined  by  the annual transmission system  loss  studies
+performed  by  IPL  and  PSI.   Also,  increases   in   PSI*s
+reservation shall be billed by using the same methodology.
+5.2   NON-FIRM SERVICE - Electric power measured in kilowatts
+supplied  by PSI and delivered at the Carmel Tap Point  under
+the 1992 Agreement by IPL to PSI shall be billed at $1.18 per
+kilowatt-month plus $0.01 per kilowatt-month for IPL dispatch
+control.  This demand charge for non-firm service applies  to
+usage above PSI*s firm service reservation and shall be based
+upon  the  difference in maximum hourly demand  in  kilowatts
+measured  and the amount of PSI*s reservation in the calendar
+month  of  billing.  The loss factors consisting  of  a  3-5%
+adder,  as  noted in Section 3.1 hereof, shall include  PSI*s
+radial transmission line and transformer bank associated with
+the  Carmel  Tap  Point  and  IPL*s  34,500  volt  and  above
+transmission system.  The loss factors shall be determined by
+the  annual transmission system loss studies performed by IPL
+and PSI.
+
+5.3   DIRECT ASSIGNMENT FACILITIES - PSI shall pay IPL  on  a
+monthly  basis  IPL*s annual charges on the  total  installed
+cost   of  the  facilities  provided  in  Section  2.2  above
+multiplied by IPL*s annual carrying charges as calculated  in
+Attachment 1 and revisions will be filed with the FERC.
+
+
+SECTION 6 - TERM OF AGREEMENT
+
+6.1   This  Service Schedule shall terminate August 31,  1996
+unless PSI notifies IPL at least six (6) months prior to such
+termination date that it desires to continue service  to  the
+Carmel  Tap  Point;  provided  however,  that  any  continued
+service  is  subject  to  such terms and  conditions  as  are
+mutually agreed to by the Parties.
+
+
+Fourth Amendment
+
+
+
+
+
+
+                         June 26, 1996
+
+
+
+Mr. Ron C. Snead
+Cinergy Corporation
+139 East Fourth Street
+Cincinnati, OH  45201
+
+  Re:  IPL/PSI Interconnection Agreement - Service Schedule D
+
+Dear Ron:
+
+This is to confirm the phone conversation on June 10, 1996,
+in which you and Jerry Fohey, Director, Electric System
+Planning, discussed extending our agreement regarding
+transmission service IPL provides PSI Energy at the Carmel
+Southeast Tap by one year to and including August 31, 1997.
+You indicated that PSI Energy was agreeable to so extending
+Service Schedule D (Carmel Southeast Tap Network Power and
+Energy Transfer).
+
+Please confirm by signature below, Cinergy's agreement that
+the existing Service Schedule D, under which IPL currently
+provides service to PSI Energy at the Carmel Southeast Tap,
+will be extended by one year to and including August 31,
+1997, with the same rates, terms and conditions.  Further,
+Cinergy and IPL agree that PSI Energy also has the option to
+take transmission service for the Carmel Southeast Tap under
+any open access transmission tariffs that may be filed by IPL
+and which become effective after the date of this letter
+agreement.
+
+Three original copies of this letter are provided for your
+signature.  Please return two signed copies to IPL.
+
+                              Regards,
+
+
+                              /s/ John C. Berlier, Jr.
+
+                              John C. Berlier, Jr.
+                              Vice President - Resource
+Planning & Rates
+
+Enclosures
+
+ACKNOWLEDGEMENT
+
+By: /s/ John C. Procario
+
+Title:  General Manager
+
+Company:   Cinergy
+
+Fifth Amendment
+
+                        June 10, 1997
+
+
+
+Mr. Ron C. Snead
+Cinergy Corporation
+139 East Fourth Street
+Cincinnati, OH  45201
+
+  Re:  IPL/PSI Interconnection Agreement - Service Schedule D
+
+Dear Ron:
+
+This letter seeks to extend our existing agreement regarding
+transmission service IPL provides PSI Energy at the Carmel
+Southeast Tap, which expires August 31.  IPL proposes to
+extend Service Schedule D (Carmel Southeast Tap Network Power
+and Energy Transfer), a part of the existing interconnection
+agreement between IPL and Cinergy, dated June 30, 1995, by
+one year, to and including August 31, 1998.
+
+Please confirm by signature below, Cinergy's agreement that
+the existing Service Schedule D, under which IPL currently
+provides service to PSI Energy at the Carmel Southeast Tap,
+will be extended by one year to and including August 31,
+1998, with the same rates, terms and conditions.  Further,
+Cinergy and IPL agree that PSI Energy also has the option to
+take transmission service for the Carmel Southeast Tap under
+any open access transmission tariffs that may be filed by IPL
+and which become effective after the date of this letter
+agreement.
+
+Three original copies of this letter are provided for your
+signature.  Please return one signed original copy to me and
+retain one copy for your files.
+
+                              Regards,
+
+
+                              /s/ John C. Berlier
+
+                              John C. Berlier
+                              Vice President
+                              Resource Planning & Rates
+
+Enclosures
+
+ACKNOWLEDGEMENT
+
+By: /s/ John C. Procario
+
+Title:  Vice President
+     Electric System Operations
+
+Company:   Cinergy Corp.
+
+
+                       SIXTH AMENDMENT
+                           TO THE
+                  INTERCONNECTION AGREEMENT
+                            AMONG
+             INDIANAPOLIS POWER & LIGHT COMPANY
+                      PSI ENERGY, INC.
+                 AND CINERGY SERVICES, INC.
+
+0.01 THIS SIXTH AMENDMENT, dated on the 16th day of December,
+1997, among INDIANAPOLIS POWER & LIGHT COMPANY ("IPL"), PSI
+ENERGY ("PSI"), INC., and CINERGY SERVICES, INC. ("Cinergy
+Services").  IPL, PSI, and Cinergy Services are referred to
+individually as "Party" and collectively as "Parties" where
+appropriate.
+
+                         WITNESSETH:
+
+0.02 WHEREAS, There is now in force and effect between IPL,
+PSI, and Cinergy Services an Interconnection Agreement, dated
+as of May 1, 1992 (the "1992 Agreement"); and
+
+0.03 WHEREAS, the Parties desire to modify the 1992
+Agreement, and
+
+0.04 NOW, THEREFORE, in consideration of the premises and
+mutual covenants and agreements of the Parties, as herein set
+forth, the Parties agree as follows:
+
+
+1.01 The following provisions of the 1992 Agreement are
+modified as follows:
+
+     1.01.1     Section 4.01 of the 1992 Agreement shall read
+as follows:
+
+     "4.01.  Delivery Points.  All electric energy
+     delivered under the 1992 Agreement shall be of the
+     character commonly known as three-phase sixty Hertz
+     energy, and shall be delivered at the
+     Interconnection Points specified under Section 1.01
+     hereof, at a nominal voltage of 138,000 volts at
+     the Five Points and Centerton Interconnection
+     Points, at the 138 kV Petersburg Interconnection
+     Point, and at the Carmel Tap Point; and at a
+     nominal voltage of 345,000 volts at the Whitestown
+     and Gwynneville Interconnection Points, and at the
+     345 kV Petersburg Interconnection Point; and at
+     such other points and voltages as hereafter may be
+     agreed upon by the Parties pursuant to Section 1.02
+     hereof.  In addition to the interconnection points
+     provided in Sections 1.01 and 1.02, PSI may request
+     IPL deliver electric energy under the 1992
+     Agreement at interconnection points IPL may have
+     with third parties (hereinafter referred to as
+     "Alternate Delivery Points")."
+
+     1.01.2     Section 4.03 of the 1992 Agreement shall read
+as follows:
+
+     "4.03.  Metering Points.  Electric power and energy
+     supplied and delivered under the 1992 Agreement
+     shall be measured by suitable metering equipment
+     which shall be provided, owned and maintained by
+     PSI or IPL as designated below at the following
+     metering points:
+
+          (i)  138,000 volt metering equipment installed
+               by PSI at the Five Points Substation;
+               138,000 volt metering equipment installed
+               by PSI at the Centerton Substation;
+               138,000 and 345,000 volt metering
+               equipment installed by IPL at the
+               Petersburg Station; 345,000 volt metering
+               equipment installed by IPL at its
+               Sunnyside Substation and at PSI's
+               Gwynneville and Whitestown Substations;
+               and 12.47 kV metering equipment installed
+               by PSI at its Carmel Southeast
+               Substation, and
+
+          (ii) At such other locations as hereafter may
+               be agreed upon by the Parties pursuant to
+               Section 1.02 hereof.
+
+     Electric power and energy supplied and delivered at
+     the Alternate Delivery Points specified in Section
+     4.01 shall be measured by metering equipment either
+     provided, owned and maintained by IPL or third
+     parties.  Such metering equipment shall not be
+     subject to Sections 4.04 through 4.07 but shall
+     meet the reasonable requirements of the Operating
+     Committee."
+
+     1.01.3     Section 6.03 of the 1992 Agreement shall read
+as follows:
+
+     "6.03.  Billing Payments.  All bills for amounts
+     owed by one Party to the other Party shall be due
+     on the first business day following the fifteenth
+     (15th) day after the end of the calendar month or
+     period service was rendered, or on the tenth (10th)
+     business day following receipt of a bill, whichever
+     is later.  Payments shall be made by electronic
+     transfer or by such other mutually agreeable method
+     as shall cause such payment to be available for the
+     account of the payee on or before the due date.
+     Interest on unpaid amounts, both principal and
+     interest, shall accrue daily at the then current
+     prime interest rate per annum of The Chase
+     Manhattan Bank, N.A., New York, New York, plus two
+     percent (2%) per annum, or the maximum rate
+     permitted by law, whichever is less, from the date
+     due until the date upon which payment is made."
+
+     1.01.4     Section 7.01 of the 1992 Agreement shall read
+as follows:
+
+     "7.01.  Operating Committee Organization and
+     Duties.  To coordinate the operation of their
+     respective generation,  transmission, and
+     substation facilities in order that the benefits of
+     the 1992 Agreement may be realized by the Parties
+     to the fullest practicable extent, the Parties
+     shall establish a committee of authorized
+     representatives to be known as the Operating
+     Committee.  Each of the Parties shall designate in
+     writing delivered to the other Party, the person
+     who is to act as its authorized representative (the
+     "OC Representative") on said committee (and the
+     person or persons who may serve as Alternate
+     whenever the OC Representative is unable to act).
+     The OC Representative and Alternate or Alternates
+     shall each be persons familiar with the generation,
+     transmission, and substation facilitates of the
+     system of the Party he represents, and each shall
+     be fully authorized (i) to cooperate with the other
+     OC Representative (or Alternates) and (ii) as the
+     need arises and subject to the declared intentions
+     of the Parties as herein set forth and to the terms
+     hereof and the terms of any other agreements then
+     in effect between the Parties, to determine and
+     agree from time to time upon the following:
+
+          (i)  All matters pertaining to the
+               coordination of maintenance of the
+               generation and transmission facilities of
+               the Parties.
+
+          (ii) All matters pertaining to the control of
+               time, frequency, energy flow, kilovar
+               exchange, power factor, voltage, and
+               other similar matters bearing upon the
+               satisfactory synchronous operation of the
+               systems of the Parties.
+
+          (iii)     Such other matters not specifically
+               provided for herein upon which
+               cooperation, coordination and agreement
+               as to quantity, time, method, terms and
+               conditions are necessary, in order that
+               the operation of the respective systems
+               of the Parties may be coordinated to the
+               end that the potential benefits
+               anticipated by the Parties will be
+               realized to the fullest extent
+               practicable.
+
+          (iv) All matters pertaining to the delivery of
+               electric power and energy pursuant to the
+               1992 Agreement."
+
+     1.01.5     Section 8.02 of the 1992 Agreement shall read
+as follows:
+
+     "8.02.  Relative Responsibilities.  Each Party
+     assumes all responsibility for receipt and delivery
+     of electricity on its system to and from the Points
+     of Interconnection specified in Section 1.01 hereof
+     or agreed upon pursuant to Section 1.02 hereof or
+     as requested by PSI pursuant to Section 4.01.
+     Neither Party assumes any responsibility with
+     respect to the construction, installation,
+     maintenance or operation of the system of the other
+     Party or of the systems of third parties, in whole
+     or in part.  In no event shall one Party be liable
+     to the other Party for damage or injury to any
+     person or property, whatsoever, arising, accruing
+     or resulting from, in any manner, the receiving,
+     transmission, control, use, application or
+     distribution of said electric power and energy.
+     Each Party shall use reasonable diligence to
+     maintain its facilities in proper and serviceable
+     condition, and shall take reasonable steps and
+     precautions for maintaining the services agreed to
+     be provided and received under the 1992 Agreement.
+     Each Party shall be responsible for its own
+     compliance with all applicable environmental
+     regulations and shall bear all costs arising from
+     its failure to comply with such environmental
+     regulations."
+
+
+2.01 This Sixth Amendment shall be effective as of February
+15, 1998 or as of the date it becomes effective under
+applicable regulations or orders of FERC, whichever is later.
+
+
+3.01 This Sixth Amendment is made subject to the jurisdiction
+of any governmental authorities having jurisdiction in the
+premises.
+
+
+IN WITNESS WHEREOF, the Parties have caused this Sixth
+Amendment to the 1992 Agreement to be executed by their
+respective duly authorized officers, as of the day, month and
+year first above-written.
+
+
+INDIANAPOLIS POWER & LIGHT COMPANY
+
+By /s/  Ramon L. Humke
+        Ramon L. Humke, President and
+             Chief Operating Officer
+
+
+CINERGY SERVICES, INC.
+
+By /s/ Michael E. Martin
+       Michael E. Martin, Vice President
+
+
+PSI ENERGY, INC.
+
+By /s/ John Mutz
+       John Mutz, President
+
+Seventh Amendment
+
+
+
+
+                        June 11, 1998
+
+
+Mr. Ron C. Snead
+Cinergy Corporation
+139 East Fourth St.
+Cincinnati, OH 45201
+
+Re:  IPL/PSI Interconnection Agreement - Service Schedule D
+
+Dear Mr. Snead:
+
+This letter seeks to extend our existing agreement regarding
+transmission service IPL provides PSI Energy at the Carmel
+Southeast Tap, which expires August 31.  IPL proposes to
+extend Service Schedule D (Carmel Southeast Tap Network Power
+and Energy Transfer), a part of the existing interconnection
+agreement between IPL and Cinergy, dated June 30, 1995, by
+one year, to include August 31, 1999.
+
+Please confirm by signature below, Cinergy's agreement that
+the existing Service Schedule D, under which IPL currently
+provides service to PSI at the Carmel Southeast Tap, will be
+extended by one year to and including August 31, 1999, with
+the same rates, terms and conditions.  Further, Cinergy and
+IPL agree that PSI Energy also has the option to take
+transmission service for Carmel Southeast Tap under any open
+access transmission tariffs that may be filed by IPL and
+which become effective after the date of this letter
+agreement.
+
+Two original copies of this letter are provided for your
+signature.  Please return one signed original copy to me and
+retain one copy for your files.
+
+                              Regards,
+
+                              /s/ Michael G. Banta
+                              Michael G. Banta,
+                              Vice President
+                              and Assistant General Counsel
+
+ACKNOWLEDGEMENT
+
+By: /s/ John C. Procario
+        John C. Procario
+
+Title: Vice President
+
+Company: Cinergy Services, Inc., acting as agent for and on behalf of
+         PSI Energy, Inc.
+
+
+Eighth Amendment
+
+
+
+                        June 18, 1999
+
+Mr. Ron Snead
+Cinergy Corporation
+139 East Fourth Street
+Cincinnati, OH  45201
+
+RE:  IPL/PSI INTERCONNECTION AGREEMENT - Service Schedule D
+
+Dear Mr. Snead:
+
+This letter seeks to extend our existing agreement regarding
+transmission service IPL provides PSI Energy at the Carmel
+Southeast Tap, which expires August 31, 1999.  IPL proposes to
+extend Service Schedule D (Carmel Southeast Tap Network Power
+and Energy Transfer), a part of the existing interconnection
+agreement between IPL and Cinergy, dated June 30, 1995, by one
+year, to include August 31, 2000.
+
+Please confirm by signature below, Cinergy's agreement that the
+existing Service Schedule D, under which IPL currently provides
+service to PSI at the Carmel Southeast Tap, will be extended by
+one year to and including August 31, 2000, with the same rates,
+terms and conditions.  Further, Cinergy and IPL agree that PSI
+Energy also has the option to take transmission service for
+Carmel Southeast Tap under any open access transmission tariffs
+that may be filed by IPL and which become effective after the
+date of this letter agreement.
+
+Two original copies of this letter are provided for your signature.
+Please return one signed original copy to me and retain one for
+your files.
+
+                        Respectfully,
+
+
+                        /s/ Ralph E. Canter
+                        Ralph E. Canter,
+                        Senior Vice President,
+                        Customer Services
+REC:rly
+
+ACKNOWLEDGEMENT
+
+By: /s/ John C. Procario
+        John C. Procario
+
+Title: Vice President
+
+Company: Cinergy Services, Inc., acting as agent for and on behalf of
+         PSI Energy, Inc.
+
+
+
+                         NINTH AMENDMENT
+
+
+                             TO THE
+
+
+                    INTERCONNECTION AGREEMENT
+
+
+                              AMONG
+
+
+               INDIANAPOLIS POWER & LIGHT COMPANY
+
+
+                        PSI ENERGY, INC.
+
+
+                   AND CINERGY SERVICES, INC.
+
+
+
+
+                         Effective as of
+
+                         NINTH AMENDMENT
+                             TO THE
+                    INTERCONNECTION AGREEMENT
+                              AMONG
+               INDIANAPOLIS POWER & LIGHT COMPANY
+                        PSI ENERGY, INC.
+                   AND CINERGY SERVICES, INC.
+
+
+     Pursuant to Order No. 888, Indianapolis Power & Light
+Company (IPL) restates the rates for service provided by IPL
+under the Interconnection Agreement as the following:
+
+1)   The Interconnection Agreement provides for IPL sales of
+capacity and energy under service schedules described as:
+
+          Service Schedule A - Emergency Service
+          Service Schedule B - Interchange Energy
+          Service Schedule C - Short Term Power and Energy
+
+2)   The wholesale generation component of the rate applicable to
+service under these Service Schedules A through D shall be the
+bundled rate minus the transmission and ancillary service rates
+provided in Section 3 of this Amendment.
+
+     Where the Service Schedules provide for compensation to IPL
+in the form of equivalent energy, such return of equivalent
+energy shall be made of the generation component, with the
+transmission and ancillary services related to such return of
+equivalent energy arranged pursuant to and assessed as provided
+in Section 3 of this Amendment.
+
+3)   Transmission and ancillary services necessary to effectuate
+sales under the Interconnection Agreement shall be arranged by
+IPL under and subject to the rates, terms, and conditions of
+IPL's Open Access Transmission Tariff.  The rates for point-to-
+point transmission service and the two ancillary services
+necessary to effectuate such sales are provided below.  IPL will
+provide either Short-Term Firm Point-to-Point or Non-Firm Point-
+to-Point transmission service and ancillary services for
+Scheduling, System Control and Dispatch (Scheduling Service), and
+Reactive Supply and Voltage Control from Generation Sources
+(Reactive Supply Service).  IPL will not provide Regulation and
+Frequency Response Service, Energy Imbalance Service, Operating
+Reserve-Spinning Reserve Service, or Operating Reserve-
+Supplemental Reserve Service in connection with sales under the
+Interconnection Agreement, and there will be no charge for such
+services in connection with the sales under the Interconnection
+Agreement.
+
+     The rates for both Short-Term Firm and Non-Firm Point-to-
+Point Service are:  $ 930.00/MW of reserved capacity for monthly
+service, $215.00/MW of reserved capacity for weekly service,
+$43.00/MW of reserved capacity for on-peak daily service, and
+$30.70/MW of reserved capacity for off-peak daily service, with
+the daily service capacity charges capped at the weekly rates.
+Non-Firm Point-to-Point service is available on an hourly basis
+at $2.69/MW for on-peak hours and $1.28/MWH for off-peak hours
+with the maximum hourly charges capped at the daily rates.
+
+     For Scheduling Service, the monthly rate is $10.00/MW of
+reservation, the weekly rate is $3.00/MW, the daily rate is
+$0.60/MW, and the hourly rate is $0.04/MWH.  The sum of the
+hourly charges is capped at the daily rate, the sum of the daily
+charges is capped at the weekly rate, and the sum of the weekly
+charges is capped at the monthly rate.
+
+     For Reactive Supply Service, the monthly rate is $110.00/MW
+of reservation, the weekly rate is $25.00/MW, the daily rate is
+$5.00/MW, and the hourly rate is $0.31/MWH.  The sum of the
+hourly charges is capped at the daily rate, the sum of the daily
+charges is capped at the weekly rate, and the sum of the weekly
+charges is capped at the monthly rate.
+
+     If transmission and ancillary services are obtained by PSI
+Energy and Cinergy Serivces, Inc. under Indianapolis Power &
+Light Company's Open Access Transmission Tariff, there will be no
+charge related to transmission and ancillary service assessed
+under the Interconnection Agreement.  A service agreement under
+Indianapolis Power & Light Company's Open Access Transmission
+Tariff is on file as of the effective date of this Ninth
+Amendment to govern service to PSI Energy and Cinergy Serivces,
+Inc. for this power sale, and charges for transmission and
+ancillary services for this power sale will be assessed to PSI
+Energy and Cinergy Serivces, Inc. under the Open Access
+Transmission Tariff.
+
+
+</TEXT>
+</DOCUMENT>

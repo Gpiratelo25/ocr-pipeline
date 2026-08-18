@@ -1,0 +1,162 @@
+<DOCUMENT>
+<TYPE>EX-10.28
+<SEQUENCE>5
+<FILENAME>h95100ex10-28.txt
+<DESCRIPTION>AMEND. #1 TO COAL FEEDSTOCK SUPPLY AGREEMENT
+<TEXT>
+<PAGE>
+                                                                   EXHIBIT 10.28
+
+
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+
+         FIRST AMENDMENT TO COAL FEEDSTOCK SUPPLY AGREEMENT
+
+
+         This First Amendment to Coal Feedstock Supply Agreement (this
+"Amendment") is made and entered into this 28th day of February, 2002, but
+effective as of October 26, 2001 (the "Effective Date") by SynFuel Solutions
+Operating LLC, a Delaware limited liability company ("Purchaser"), and Hopkins
+County Coal, LLC, a Delaware limited liability company ("Seller"). Purchaser and
+Seller may be referred to herein individually as a "Party," and collectively as
+the "Parties."
+
+                                    RECITALS
+
+         A. The Parties entered into that certain Coal Feedstock Supply
+Agreement dated October 26, 2001 (the "Supply Agreement").
+
+         B. Capitalized terms herein shall have the same meaning ascribed to
+such terms in the Supply Agreement, unless otherwise defined herein.
+
+         C. The Parties now desire to amend the Supply Agreement.
+
+         NOW, THEREFORE, in consideration of the mutual covenants and agreements
+contained herein and for other good and valuable consideration, the receipt and
+sufficiency of which are hereby acknowledged, the Parties hereby amend the
+Supply Agreement effective as of the Effective Date as follows:
+
+1        Section 2.4(b)
+
+         Section 2.4(b) of the Supply Agreement is deleted in its entirety and
+the following is substituted in lieu thereof:
+
+                  (b) All Coal supplied by Seller to Purchaser shall be sold to
+         Purchaser at the applicable Purchase Price (being the Purchase Price
+         under the Coal Purchase Order relating to the Synfuel Purchase
+         Agreement under which the Coal Synfuel produced from such Coal was sold
+         in effect for the applicable quality of Coal for the Month in which
+         such Coal Synfuel is delivered) as adjusted (i.e. increased or
+         decreased, as applicable) for applicable Quality Price Adjustments
+         (applied as provided in Section 2.4(d) below) and the Btu Content
+         Adjustments. In the event any Coal supplied by Seller to Purchaser is
+         not used to produce Coal Synfuel within ***** Days following delivery
+         to Purchaser of such Coal, or if the Coal Synfuel produced therefrom is
+         not sold within ***** Days following the delivery to Purchaser of such
+         Coal, then unless otherwise mutually agreed in writing, the Purchase
+         Price for such Coal shall be equal to the weighted average Purchase
+         Price of a quantity of Coal used to produce the most recent equivalent
+         amount of Coal Synfuel sold (e.g. the Purchase Price for ***** tons of
+         such Coal shall be equal to the average Purchase Price of Coal used to
+         produce the most recent ***** tons of Coal Synfuel sold .
+
+
+
+----------
+***** denotes confidential information with respect to which a separate
+confidential treatment request has been filed with the Securities and Exchange
+Commission.
+
+
+<PAGE>
+
+2.       Sections 2.4(d) and (e)
+
+         Section 2.4 of the Supply Agreement is amended by adding new Sections
+2.4(d) and (e), as follows:
+
+                  (d) Based on the results of the Daily sampling and analysis
+         performed pursuant to Section 2.9, each Month there shall be calculated
+         the average Btu content, sulfur content, moisture content, and ash
+         content for all Coal delivered under all Coal Purchase Orders during
+         such Month (such average Btu, sulfur, moisture, and ash content being
+         the "Average Specifications" for such Month). For purposes of applying
+         the Quality Price Adjustments in determining the applicable Purchase
+         Price pursuant to Section 2.4(b), all Coal delivered under any Coal
+         Purchase Order during any Month shall be deemed to have the Average
+         Specifications for such Month, but prior to the first Day of the first
+         Month that commences after the Scales are installed and are operable
+         (the "Transition Date") only the Average Specification for Btu content
+         will be used to determine Quality Price Adjustments and there shall be
+         no Quality Price Adjustments based on the other Average Specifications
+         prior to the Transition Date.
+
+                  (e) Notwithstanding the provisions of Section 2.8, until the
+         Transition Date, the weight of the Coal delivered hereunder shall be
+         the weight of the Coal Synfuel produced from such Coal as measured by
+         the binding weights reported by the Coal Synfuel purchasers less the
+         weight of the chemical reagent (in diluted form) applied plus moisture
+         added (assumed to be 50% of diluted chemical reagent applied).
+
+3.       Miscellaneous
+
+         (a) The Supply Agreement, as hereby amended, contains the entire
+agreement of the Parties with respect to the subject matter thereof and
+supersedes all prior agreements and undertakings between the Parties relating to
+the subject matter thereof. This Amendment may be modified, amended or waived
+only by a separate writing agreed to by the Parties expressly modifying,
+amending or waiving this Amendment.
+
+         (b) The construction and enforcement of this Amendment shall be
+exclusively governed by the laws of the State of Delaware, without giving effect
+to the conflict or choice of law principles thereof.
+
+         (c) This Amendment may be executed in counterparts, each of which shall
+be deemed to be an original but all of which together will be considered one and
+the same agreement, and will become effective when one or more such counterparts
+have been signed by all signatories hereto and delivered to each signatory
+hereto.
+
+         (d) As amended hereby, the Supply Agreement shall remain in full force
+and effect.
+
+
+                                       2
+<PAGE>
+
+
+         IN WITNESS WHEREOF, the Parties have entered into this Amendment as of
+the Effective Date.
+
+
+                                SYNFUEL SOLUTIONS OPERATING LLC
+
+                                By:   SynFuel Solutions LLC,
+                                      its Managing Member
+
+                                      By:  SynFuel Solutions Holdings LLC,
+                                           its Managing Member
+
+
+                                           By: /s/ Joseph E. Slamm, III
+                                              ---------------------------------
+                                           Name:   Joseph E. Slamm, III
+                                                -------------------------------
+                                           Title:  Vice President
+                                                 ------------------------------
+
+                                HOPKINS COUNTY COAL, LLC
+
+
+                                By: /s/ Gary J. Rathburn
+                                   --------------------------------------------
+                                Name:   Gary J. Rathburn
+                                Title:  Senior Vice President - Marketing
+
+
+                                       3
+
+</TEXT>
+</DOCUMENT>

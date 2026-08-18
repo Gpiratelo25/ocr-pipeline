@@ -1,0 +1,192 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>3
+<FILENAME>exhibit102a.txt
+<DESCRIPTION>EXHIBIT 10.2 - AMENDMENT TO MARKETING AGREEMENT
+<TEXT>
+
+                        AMENDMENT TO MARKETING AGREEMENT
+
+
+     This  Amendment  to  Marketing  Agreement  is  made  as of  this  __ day of
+______________,  2001,  between  Preferred Voice,  Inc., a Delaware  corporation
+("PVI") and ______________________, a ________ ("Carrier").
+
+                             BACKGROUND INFORMATION
+
+PVI and Carrier entered into a Marketing Agreement dated ___________,  _____(the
+"Agreement") under which PVI agreed to install Systems that would permit Carrier
+to provide  certain  speech-enabled  services,  such as Safety  Dialing,  to its
+wireless  subscribers and wireline customers.  PVI and Carrier have decided on a
+new  method  for  marketing  the  Safety  Dialing  Service.  In light of the new
+marketing plans,  the parties wish to amend the  compensation  payable under the
+Agreement.
+
+Accordingly,  in  consideration of the above and the agreements set forth below,
+PVI and Carrier agree as follows:
+
+                              SUBSTANTIVE PROVISION
+
+1. Terms that were defined in the Agreement  will have the meanings as described
+to them in the Agreement when used in this Amendment.
+
+2. From and after the date Carrier  commercially offers Services to its wireless
+subscribers  in a market (the  "Launch  Date"),  Carrier  shall  provide  Safety
+Dialing  to all of its  wireless  subscribers  in  that  market,  including  new
+wireless  subscribers  who start  service  after  the  Launch  Date.  As soon as
+practical after this Amendment is executed, Carrier shall provide PVI a schedule
+of its Launch  Dates for all of its markets so PVI may  schedule  installations.
+The  Launch  Dates  may be  modified  by  agreement  of  the  parties  if  PVI's
+installation schedule requires it. PVI requires at least 60 days prior notice of
+a Launch Date that is not already scheduled for installation.
+
+3.  PVI  shall  contribute  up  to  $______  per  wireless   subscriber  of  the
+compensation  it receives for Safety  Dialing for each of the first three months
+after the Launch Date to a wireless  subscriber  awareness marketing campaign to
+be conducted by PVI and coordinated through Carrier.
+
+4. Exhibits E and E-1 are amended to read in their entirety as does Attachment I
+to this Amendment.
+
+
+AMENDMENT TO MARKETING AGREEMENT - Page 1 of 2
+
+
+<PAGE>
+
+
+
+
+5. The Agreement  remains in full force and effect in accordance  with its terms
+as amended hereby.
+
+
+PREFERRED VOICE, INC.                           "CARRIER"
+
+By:                                             By:
+
+Name:                                           Name:
+
+Title:                                          Title:
+
+
+
+
+
+
+AMENDMENT TO MARKETING AGREEMENT - Page 2 of 2
+
+
+<PAGE>
+
+
+
+
+                                  ATTACHMENT I
+
+                                    EXHIBIT E
+
+                              REVENUE SHARING FEES
+
+The following  rates are contingent on Carrier  serving  approximately  ________
+wireless  subscribers in multiple wireless markets and wireline markets in which
+Service may be offered having  approximately  __________ access on the execution
+of the Agreement.
+
+___% of all Revenue from Safety Dialing, which shall provide PVI a payment of at
+least $____ per month per wireless  subscriber in any market in which Service is
+offered; and
+
+___% of the  Revenue  from all other  Services  until total  Revenue,  including
+Revenue from Safety Dialing,  equals $_________ times the number of Systems that
+have been installed; and ___% of the Revenue from all other Services thereafter.
+
+If a System is installed  after PVI's share of the Revenue  from other  Services
+has been reduced to ___%,  then PVI's share of the Revenue  from other  Services
+shall increase to ___% until the payments equals  $________ for each such System
+in addition to the payments that would have been made if PVI were only paid ___%
+of the Revenue.
+
+
+          For purposes of this Agreement, Revenue shall equal the greater of
+
+
+          (i) the amount that would have been received by Carrier if the charges
+          set forth in the Exhibit E-1 had been charged to each subscriber using
+          or  authorized  to use one of the  Services  described in Exhibit E-1,
+          except that if Carrier is offering  reduced  rates or free  service as
+          part of a promotion, for any Service other than Safety Dialing, only a
+          new  subscriber's  actual  revenue  need be accrued for the  promotion
+          during the first 30 days of service to the new subscriber, or
+
+          (ii) the actual  revenue  received  from  subscribers  using a Service
+          offered by means of a System,  excluding sales and use taxes, interest
+          and late  charges,  except that if the charge for any of the  Services
+          described in Exhibit E-1 is bundled into  another  service  charge for
+          Carrier's service, Revenue shall include an amount equal to the charge
+          for that  Service  as set forth in  Exhibit  E-1  times the  number of
+          subscribers who have access to that Service as a part of their service
+          from Carrier.
+
+
+
+
+
+
+ATTACHMENT I - EXHIBIT E - REVENUE SHARING FEES
+AMENDMENT TO MARKETING AGREEMENT - Page 1 of 1
+
+
+<PAGE>
+
+
+
+
+                                   EXHIBIT E-1
+
+
+
+
+         Service                                           Monthly Fees
+         -------                                           ------------
+
+
+          Emma. The "Smart" Business Line            $_____
+          and Emma PA (Personal Assistant)
+
+          Emma CD                                    $_____ plus $____ per line
+
+
+          Emma VO                                    $_____ plus $____ per line
+
+
+          Emma FF                                    $_____
+
+
+          VIP Emma                                   $_____ per line
+
+
+          Speech2Content                             $_____
+
+
+          Information Please                         $_____
+
+
+          Fleet Calling Advantage                    $_____ per phone in the
+                                                            calling circle
+
+          Safety Dialing                             $_____
+
+
+
+
+
+EXHIBIT E-1
+AMENDMENT TO MARKETING AGREEMENT - Page 1 of 1
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

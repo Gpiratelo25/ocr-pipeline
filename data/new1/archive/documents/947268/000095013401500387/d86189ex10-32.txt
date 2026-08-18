@@ -1,0 +1,151 @@
+<DOCUMENT>
+<TYPE>EX-10.32
+<SEQUENCE>4
+<FILENAME>d86189ex10-32.txt
+<DESCRIPTION>AMENDMENT NO. 1 TO STRATEGIC ALLIANCE AGREEMENT
+<TEXT>
+
+<PAGE>   1
+                                  EXHIBIT 10.32
+
+                AMENDMENT I TO STRATEGIC ALLIANCE AGREEMENT NO. 1
+
+      This Amendment I (the "Amendment") to the Strategic Alliance Agreement No.
+1 (the "Agreement") dated as of April 28, 1998, by and between PageMart
+Wireless, Inc. and BellSouth Cellular Corporation ("BellSouth") is executed as
+of the 4th day of May, 1999 (the "Effective Date"). Terms used but not otherwise
+defined herein shall have the meanings ascribed thereto in the Agreement.
+
+      WHEREAS, the parties would now like to set forth the terms by which
+BellSouth may purchase Equipment from PageMart; and
+
+      WHEREAS, the parties mutually desire to modify the Agreement to more
+accurately reflect the current relationship between the parties; and
+
+      NOW THEREFORE, in consideration of the mutual promises contained herein,
+and such other good and valuable consideration the receipt and sufficiency of
+which is hereby acknowledged, the parties hereto agree to the following:
+
+1.    EQUIPMENT PURCHASE. PageMart hereby agrees to sell to BellSouth and
+BellSouth agrees to purchase Equipment in accordance with the terms and
+conditions of the Agreement, as amended hereby. The terms of the Agreement, as
+amended hereby, supercede any conflicting terms and conditions contained on
+printed forms submitted as, or with purchase orders, sales acknowledgements or
+invoices. In addition, terms or conditions presented by either party which are
+not included in the Agreement as amended shall not be binding on the parties,
+unless both parties agree to such terms and/or conditions in writing.
+
+2.    DELIVERY, TITLE AND RISK OF LOSS. PageMart will pack the Equipment for
+shipment and storage to meet commercial standards. Terms of delivery will be
+F.O.B. PageMart's facility in Garland, Texas. BellSouth will bear the risk for
+lost, damaged or stolen Equipment after the Equipment has been delivered into
+the custody of a shipper. BellSouth will be responsible for all transportation
+charges, insurance expenses, and other charges relating to the Equipment, unless
+otherwise specified on Exhibit 1.2 of the Agreement.
+
+      PageMart will use best efforts to meet the delivery dates specified
+herein, subject to availability of Equipment. PageMart will promptly notify
+BellSouth when any delivery will be delayed. PageMart will not be liable to
+BellSouth for any expenses or damages because of any delay in delivery, unless
+such delay is due to the gross negligence or willful misconduct of PageMart.
+
+3.    PAYMENT. BellSouth agrees to pay to PageMart the Equipment charges (the
+"Fees") set forth in Exhibit 1.3 of the Agreement, in accordance with the terms
+specified in Section 4 of this Amendment.
+
+
+                                       1
+<PAGE>   2
+4.    INVOICES AND BILLING. BellSouth's payment is due in full, without discount
+or offset, within thirty days after BellSouth's receipt of an invoice (the
+"Payment Period"). Any balance not paid within the Payment Period will bear
+interest from the invoice date until paid at the lesser of (i) 1-1/2% per month
+or (ii) the maximum rate permitted by law. BellSouth waives any right to dispute
+any charge unless BellSouth notifies PageMart of the dispute within 60 days
+after the invoice date. PageMart may at any time require that all payments be
+made via certified or other guaranteed funds.
+
+5.    FORECAST COMMITMENT. BellSouth shall provide PageMart with a six month
+(the "Forecast Period") written forecast (the "Forecast") stating the number of
+Equipment units BellSouth anticipates it will purchase during the Forecast
+Period. The first three months set forth in the Forecast (the "Commitment
+Period") will represent a firm commitment by BellSouth to purchase the number of
+Equipment units forecasted in the Commitment Period. BellSouth will be required
+to pay for all remaining Equipment set forth in the Forecast, unless BellSouth
+provides PageMart with prior written notice of cancellation at least thirty (30)
+days before scheduled delivery of the Equipment. PageMart will ship Equipment
+within fourteen (14) days after PageMart's receipt of delivery from the
+manufacturer and will promptly invoice BellSouth for the shipped Equipment.
+
+6.    EQUIPMENT TERMS. PageMart will repair or replace, at no cost to BellSouth,
+any new Equipment purchased from PageMart that malfunctions (for reasons other
+than abuse or damage by BellSouth, including water damage) in the first ninety
+(90) days after the date of purchase (the "Return Period"). BellSouth must
+notify PageMart of the malfunction within the Return Period and promptly deliver
+the Equipment to PageMart's Garland, Texas facility in accordance with
+PageMart's instructions.
+
+7.    GUARANTEED DELIVERY. The terms "guaranteed/assured delivery" and
+"guaranteed/assured messaging" (or any terms with similar meaning) apply only to
+advanced messaging services identified by Pagemart as Services that are
+guaranteed or assured in any way. Such terms mean that, for a message received
+into PageMart's advanced messaging network gateways and addressed to BellSouth's
+Customer's unit of Equipment, the network will transmit the message once. If the
+unit and the network are not then communicating, the network will store the
+message for up to 96 hours from the time the message is received into the
+network (the "Storage Period"). At any time that the unit and network are
+communicating during the Storage Period, the network will, retransmit the
+message until the unit acknowledges receipt of the correct and complete message.
+PageMart's use of the terms "guaranteed/assured delivery" or "guaranteed/assured
+messaging" does not constitute a representation or warranty regarding such
+Services.
+
+8.    DISCLAIMER OF WARRANTIES. BELLSOUTH ACKNOWLEDGES THAT (I) PAGEMART IS NOT
+THE MANUFACTURER OF THE EQUIPMENT NOR THE MANUFACTURER'S AGENT, AND (II)
+PAGEMART HAS NOT MADE ANY REPRESENTATION OR WARRANTY REGARDING THE EQUIPMENT NOT
+
+
+                                       2
+<PAGE>   3
+CONTAINED HEREIN. PAGEMART SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING OUT OF
+LATENT OR PATENT EQUIPMENT DEFECTS.
+
+9.    In the event that the terms set forth in the Strategic Alliance Agreement
+conflict with the terms set forth herein, the terms of this Amendment I shall
+govern.
+
+10.   ENTIRE AGREEMENT. The Strategic Alliance Agreement No. 1, as amended
+hereby, together with all exhibits and schedules thereto, shall embody the
+final, entire agreement among the parties hereto and supersede any and all prior
+commitments, agreements, representations and understandings, whether written or
+oral, relating to the Agreement, as amended, and may not be contradicted or
+varied by evidence of the prior, contemporaneous or subsequent oral agreements
+or discussions of the parties hereto. There are no oral agreements between the
+parties hereto.
+
+11.   RATIFICATION. Except as expressly modified and superseded by this
+Amendment I, the terms and provisions of the Strategic Alliance Agreement No. 1
+are ratified and confirmed in their entirety and are applicable to all the terms
+set forth herein.
+
+
+      IN WITNESS WHEREOF, BellSouth Cellular Corporation and PageMart Wireless,
+Inc. have caused this Amendment No. 1 to be signed and delivered by their duly
+authorized officers, as of the date first above written.
+
+PAGEMART WIRELESS, INC.                     BELLSOUTH CELLULAR CORP.
+
+By: /s/ W. Wayne Stargardt                  By: /s/ Karen K. Bennett
+    -----------------------------------         --------------------------------
+
+Name: W. Wayne Stargardt                    Name: Karen K. Bennett
+      ---------------------------------           ------------------------------
+
+Title: Vice President, Carrier Services     Title: V.P. Sales
+       --------------------------------            -----------------------------
+
+
+                                       3
+
+</TEXT>
+</DOCUMENT>

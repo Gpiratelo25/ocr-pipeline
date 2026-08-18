@@ -1,0 +1,2652 @@
+<DOCUMENT>
+<TYPE>EX-2.3
+<SEQUENCE>4
+<FILENAME>g81986exv2w3.txt
+<DESCRIPTION>EX-2.3 AMENDED & RESTATED DISTRIBUTION AGREEMENT
+<TEXT>
+<PAGE>
+                                                                    EXHIBIT: 2.3
+
+                                                                  EXECUTION COPY
+
+                   AMENDED AND RESTATED DISTRIBUTION AGREEMENT
+
+                                  by and among
+
+                    Time Warner Entertainment Company, L.P.,
+
+                           Warner Communications Inc.,
+
+                              AOL Time Warner Inc.
+
+                                       and
+
+                               MOTH Holdings, Inc.
+
+                           Dated as of March 31, 2003
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                                      PAGE
+                                                                                      ----
+<S>           <C>                                                                     <C>
+ARTICLE I     DEFINITIONS...........................................................    1
+     1.1.     Action................................................................    1
+     1.2.     Advance/Newhouse......................................................    1
+     1.3.     Affiliate.............................................................    1
+     1.4.     Agreement.............................................................    2
+     1.5.     Ancillary Agreements..................................................    2
+     1.6.     AOLTW.................................................................    2
+     1.7.     AOLTW Broadband Permitted Indebtedness................................    2
+     1.8.     Assets................................................................    2
+     1.9.     Authorization.........................................................    4
+     1.10.    Benefit Plan..........................................................    4
+     1.11.    Closing...............................................................    4
+     1.12.    Code..................................................................    4
+     1.13.    Communications Act....................................................    4
+     1.14.    Company...............................................................    4
+     1.15.    Company Merger........................................................    4
+     1.16.    Company Predecessor...................................................    4
+     1.17.    Confidentiality Agreements............................................    4
+     1.18.    Consents..............................................................    4
+     1.19.    Contract..............................................................    4
+     1.20.    Copyright and Technology Assignment...................................    4
+     1.21.    Delayed Non-Transferred Assets........................................    4
+     1.22.    Delayed Transfer Assets...............................................    5
+     1.23.    Environmental Law.....................................................    5
+     1.24.    Environmental Liabilities.............................................    5
+     1.25.    Equity Security.......................................................    5
+     1.26.    ERISA.................................................................    5
+     1.27.    Excepted Third Party Claim............................................    5
+     1.28.    Excluded Assets.......................................................    5
+     1.29.    Excluded Liabilities..................................................    6
+     1.30.    Franchise.............................................................    6
+     1.31.    Franchise Consents....................................................    6
+     1.32.    GAAP..................................................................    6
+     1.33.    Governmental Approvals................................................    6
+     1.34.    Governmental Authority................................................    6
+     1.35.    Group.................................................................    6
+     1.36.    Hazardous Substances..................................................    6
+     1.37.    Holdco................................................................    7
+     1.38.    HSR Act...............................................................    7
+     1.39.    Income Taxes..........................................................    7
+     1.40.    Indebtedness..........................................................    7
+     1.41.    Indemnification Payment...............................................    7
+</TABLE>
+
+                                      -i-
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                                                      PAGE
+                                                                                      ----
+<S>           <C>                                                                     <C>
+     1.42.    Indemnifying Party....................................................    7
+     1.43.    Indemnitee............................................................    7
+     1.44.    Indemnity Payment.....................................................    7
+     1.45.    Information...........................................................    7
+     1.46.    Insurance Policy......................................................    8
+     1.47.    Insurance Proceeds....................................................    8
+     1.48.    Intellectual Property Agreement.......................................    8
+     1.49.    IRS...................................................................    8
+     1.50.    Judgment..............................................................    8
+     1.51.    Law...................................................................    8
+     1.52.    Liabilities...........................................................    8
+     1.53.    Lien..................................................................    9
+     1.54.    Master Transaction Agreement..........................................    9
+     1.55.    Member................................................................    9
+     1.56.    Net Indebtedness......................................................    9
+     1.57.    Non-Income Taxes......................................................    9
+     1.58.    Non-Transferred Assets................................................    9
+     1.59.    Non-Transferred Liabilities...........................................    9
+     1.60.    Original Distribution Agreement.......................................    9
+     1.61.    Pass-Through Entity...................................................    9
+     1.62.    Patent Assignment.....................................................    9
+     1.63.    Person................................................................    9
+     1.64.    Prime Rate............................................................    9
+     1.65.    Real Property Instruments.............................................    9
+     1.66.    Restructuring Agreement...............................................   10
+     1.67.    Security Interest.....................................................   10
+     1.68.    Selected Business.....................................................   10
+     1.69.    Subsidiary............................................................   10
+     1.70.    System................................................................   10
+     1.71.    Tax Return............................................................   10
+     1.72.    Taxes.................................................................   10
+     1.73.    Third Party Claim.....................................................   10
+     1.74.    Trademark and Service Mark Assignment.................................   10
+     1.75.    Transferee Indemnification Payment....................................   10
+     1.76.    Transferor Indemnification Payment....................................   10
+     1.77.    Transaction Agreements................................................   11
+     1.78.    TWE...................................................................   11
+     1.79.    TWEAN.................................................................   11
+     1.80.    TWEAN Restructuring...................................................   11
+     1.81.    TWE Broadband Assets..................................................   11
+     1.82.    TWE Broadband Business................................................   12
+     1.83.    TWE Broadband Contracts...............................................   13
+     1.84.    TWE Broadband Group...................................................   13
+     1.85.    TWE Broadband Indemnitees.............................................   13
+     1.86.    TWE Broadband Liabilities.............................................   13
+     1.87.    TWE Broadband Member..................................................   15
+</TABLE>
+
+                                      -ii-
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                                                      PAGE
+                                                                                      ----
+<S>           <C>                                                                     <C>
+     1.88.    TWE Broadband Real Property...........................................   15
+     1.89.    TWE Distribution......................................................   15
+     1.90.    TWE Entity Level Income Taxes.........................................   15
+     1.91.    TWE Non-Broadband Assets..............................................   16
+     1.92.    TWE Non-Broadband Business............................................   16
+     1.93.    TWE Non-Broadband Contracts...........................................   16
+     1.94.    TWE Non-Broadband Group...............................................   16
+     1.95.    TWE Non-Broadband Indemnitees.........................................   16
+     1.96.    TWE Non-Broadband Liabilities.........................................   16
+     1.97.    TWE Non-Broadband Member..............................................   17
+     1.98.    TWE Non-Broadband Real Property.......................................   17
+     1.99.    TWE Partnership Interests.............................................   17
+
+ARTICLE II    THE DISTRIBUTION......................................................   17
+     2.1.     Transfer of Assets; Assumption of Liabilities; Redemption of
+              Partnership Interests.................................................   17
+     2.2.     Disclaimer of Representations and Warranties..........................   19
+     2.3.     Other Ancillary Agreements............................................   19
+     2.4.     Documents Relating to Transfer of Real Property Interests and Tangible
+              Property Located Thereon..............................................   20
+     2.5.     Documents Relating to Other Transfers of Assets and Assumption of
+              Liabilities...........................................................   21
+     2.6.     Governmental Approvals and Consents...................................   21
+     2.7.     Novation of TWE Non-Broadband Liabilities.............................   22
+     2.8.     Novation of Non-Transferred Liabilities...............................   23
+     2.9.     Joint Purchasing Arrangements.........................................   24
+     2.10.    Intellectual Property Matters.........................................   24
+     2.11.    Employee Matters......................................................   25
+
+ARTICLE III   CONDITIONS............................................................   25
+     3.1.     Conditions............................................................   25
+
+ARTICLE IV    INDEMNIFICATION; TAXES................................................   25
+     4.1.     Indemnification by AOLTW and Holdco...................................   25
+     4.2.     Indemnification by the Company and TWE................................   26
+     4.3.     Indemnification Obligations Net of Insurance Proceeds and Other
+              Amounts...............................................................   26
+     4.4.     Procedures for Indemnification of Third Party Claims..................   27
+     4.5.     Additional Matters....................................................   28
+     4.6.     Remedies Cumulative...................................................   29
+     4.7.     Survival of Indemnities...............................................   29
+     4.8.     Tax Effects of Indemnification........................................   29
+     4.9.     Refunds...............................................................   30
+
+ARTICLE V     INSURANCE.............................................................   30
+     5.1.     Insurance Matters.....................................................   30
+</TABLE>
+
+                                     -iii-
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                                                      PAGE
+                                                                                      ----
+<S>           <C>                                                                     <C>
+ARTICLE VI    EXCHANGE OF INFORMATION; CONFIDENTIALITY..............................   31
+     6.1.     Agreement for Exchange of Information.................................   31
+     6.2.     Ownership of Information..............................................   32
+     6.3.     Compensation for Providing Information................................   32
+     6.4.     Record Retention......................................................   32
+     6.5.     Limitation of Liability...............................................   33
+     6.6.     Other Agreements Providing for Exchange of Information................   33
+     6.7.     Production of Witnesses; Records; Cooperation.........................   33
+     6.8.     Confidentiality.......................................................   34
+     6.9.     Protective Arrangements...............................................   34
+
+ARTICLE VII   FURTHER ASSURANCES....................................................   35
+     7.1.     Further Assurances....................................................   35
+
+ARTICLE VIII  TERMINATION...........................................................   35
+     8.1.     Termination...........................................................   35
+     8.2.     Effect of Termination.................................................   35
+
+ARTICLE IX    MISCELLANEOUS.........................................................   36
+     9.1.     Counterparts; Entire Agreement........................................   36
+     9.2.     Governing Law.........................................................   36
+     9.3.     Assignability.........................................................   36
+     9.4.     Jurisdiction..........................................................   36
+     9.5.     WAIVER OF JURY TRIAL..................................................   36
+     9.6.     Third Party Beneficiaries.............................................   37
+     9.7.     Notices...............................................................   37
+     9.8.     Treatment of Advance-Newhouse.........................................   38
+     9.9.     Severability..........................................................   38
+     9.10.    Public Announcements..................................................   38
+     9.11.    Expenses..............................................................   39
+     9.12.    Headings..............................................................   39
+     9.13.    Waivers of Default....................................................   39
+     9.14.    Specific Performance..................................................   39
+     9.15.    Amendments............................................................   39
+     9.16.    Late Payments.........................................................   39
+     9.17.    Interpretation........................................................   40
+</TABLE>
+
+                                      -iv-
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                                                      PAGE
+                                                                                      ----
+<S>                   <C>                                                             <C>
+SCHEDULES:
+
+Schedule 1.28(a):     Excluded Assets
+Schedule 1.29(c):     Excluded Liabilities
+Schedule 1.81(e):     TWE Franchises
+Schedule 1.81(h):     TWE Systems
+Schedule 1.81(i):     Actions Retained by TWE
+Schedule 1.81(n):     Other Assets Retained by TWE
+Schedule 1.82(c):     Terminated/Divested/Discontinued Businesses
+Schedule 1.82(e):     Businesses/Assets/Liabilities Retained by TWE
+Schedule 1.83(c):     Contracts Retained by TWE
+Schedule 1.86(j):     Other Liabilities Retained by TWE
+Schedule 1.88(a):     Retained Real Property
+Schedule 2.1(g):      TWE Partnership Interests
+Schedule 2.4(b):      Leasehold Improvements, Etc. Retained by TWE
+Schedule 2.4(c):      Leasehold Improvements, Etc. Transferred to Holdco
+Schedule 2.4(d):      Transferred Real Property to be Leased or Subleased to TWE
+Schedule 2.4(e):      Retained Real Property to be Leased or Subleased to Holdco
+</TABLE>
+
+                                      -v-
+
+<PAGE>
+
+                   AMENDED AND RESTATED DISTRIBUTION AGREEMENT
+
+                  THIS AMENDED AND RESTATED DISTRIBUTION AGREEMENT, dated as of
+March 31, 2003, is by and among Time Warner Entertainment Company, L.P., a
+Delaware limited partnership ("TWE"), Warner Communications Inc., a Delaware
+corporation ("HOLDCO"), AOL Time Warner Inc., a Delaware corporation ("AOLTW")
+(which is a party for purposes of Article IV only) and MOTH Holdings, Inc.
+(which is a party for the purposes of Article IV only). Capitalized terms used
+herein and not otherwise defined shall have the respective meanings assigned to
+them in Article I.
+
+                  WHEREAS, TWE, Holdco and AOLTW are parties to the Distribution
+Agreement, dated as of August 20, 2002 (the "ORIGINAL DISTRIBUTION AGREEMENT");
+
+                  WHEREAS, pursuant to the Restructuring Agreement, dated as of
+August 20, 2002 and amended as of the date hereof (the "RESTRUCTURING
+AGREEMENT"), by and among TWE, Holdco and the other parties named therein, the
+parties thereto agreed to, among other things, restructure TWE by distributing
+the TWE Non-Broadband Assets, subject to the TWE Non-Broadband Liabilities, to
+Holdco or other TWE Non-Broadband Members, in partial redemption of the general
+partnership and limited partnership interests in TWE (collectively, the "TWE
+PARTNERSHIP INTERESTS") held by Holdco; and
+
+                  WHEREAS, it is appropriate and desirable to set forth the
+principal corporate transactions required to effect certain transactions
+contemplated by the Restructuring Agreement and certain other agreements that
+will govern certain matters relating to such transactions and the relationship
+of the parties hereto and their respective Subsidiaries following the Closing.
+
+                  NOW, THEREFORE, the parties hereto, intending to be legally
+bound, agree to amend and restate the Original Distribution Agreement so that,
+as amended and restated, it reads in its entirety as follows:
+
+                                    ARTICLE I
+                                   DEFINITIONS
+
+                  For the purpose of this Agreement the following terms shall
+have the following meanings:
+
+                  1.1.     ACTION means any demand, action, suit, countersuit,
+arbitration, inquiry, proceeding or investigation by or before any federal,
+state, local, foreign or international Governmental Authority or any arbitration
+or mediation tribunal.
+
+                  1.2.     ADVANCE/NEWHOUSE means the Advance/Newhouse
+Partnership, a New York general partnership.
+
+                  1.3.     AFFILIATE means, with respect to any Person, any
+other Person directly or indirectly controlling, controlled by, or under common
+control with, such Person; provided that, for purposes of this definition,
+"control" (including with correlative meanings, the terms
+
+<PAGE>
+
+                                                                               2
+
+"controlled by" and "under common control with"), as used with respect to any
+Person, shall mean the possession, directly or indirectly, of the power to
+direct or cause the direction of the management and policies of such Person,
+whether through the ownership of voting securities or other Equity Securities,
+by Contract or otherwise; and provided, further, that, unless otherwise
+specified, for purposes of this Agreement, no TWE Broadband Member or TWE
+Non-Broadband Member shall be deemed to be an Affiliate of any member of the
+other Group and no employee plan or employee plan trust shall be deemed an
+Affiliate of any employer or of any Affiliate of any employer.
+
+                  1.4.     AGREEMENT means this Amended and Restated
+Distribution Agreement, including all of the Schedules and Exhibits hereto.
+
+                  1.5.     ANCILLARY AGREEMENTS means the Intellectual Property
+Agreement, the Patent Assignment, the Copyright and Technology Assignment, the
+Trademark and Service Mark Assignment and the Real Property Instruments.
+
+                  1.6.     AOLTW has the meaning set forth in the Preamble.
+
+                  1.7.     AOLTW BROADBAND PERMITTED INDEBTEDNESS has the
+meaning set forth in the Restructuring Agreement.
+
+                  1.8.     ASSETS means assets, properties and rights (including
+goodwill), wherever located (including in the possession of vendors or other
+third parties or elsewhere), whether real, personal or mixed, tangible,
+intangible or contingent, in each case whether or not recorded or reflected or
+required to be recorded or reflected on the books and records or financial
+statements of any Person, including the following:
+
+                  (a)      all accounting and other books, records and files
+whether in paper, microfilm, microfiche, computer tape or disc, magnetic tape or
+any other form;
+
+                  (b)      all apparatus, computers and other electronic data
+processing equipment, fixtures, machinery, equipment, furniture, office
+equipment, automobiles, trucks, aircraft, rolling stock, vessels, motor vehicles
+and other transportation equipment, special and general tools, test devices,
+prototypes and models and other tangible personal property;
+
+                  (c)      all inventories of materials, parts, raw materials,
+supplies, work-in-process and finished goods and products;
+
+                  (d)      all interests in real property of whatever nature,
+including easements and rights of way, whether as owner, mortgagee or holder of
+a Security Interest in real property, lessor, sublessor, lessee, sublessee or
+otherwise, and copies of all related documentation;
+
+                  (e)      all interests in any capital stock or other equity
+interests of any Subsidiary or any other Person, all bonds, notes, debentures or
+other securities issued by any Subsidiary or any other Person, all loans,
+advances or other extensions of credit or capital contributions to any
+Subsidiary or any other Person and all other investments in securities of any
+Person;
+
+<PAGE>
+
+                                                                               3
+
+                  (f)      all license agreements, leases of personal property,
+open purchase orders for raw materials, supplies, parts or services, unfilled
+orders for the manufacture and sale of products and other contracts, agreements
+or commitments;
+
+                  (g)      all deposits, letters of credit and performance and
+surety bonds;
+
+                  (h)      all written technical information, data,
+specifications, research and development information, engineering drawings,
+operating and maintenance manuals, and materials and analyses prepared by
+consultants and other third parties;
+
+                  (i)      all domestic and foreign patents, copyrights, trade
+names, trademarks, service marks and registrations and applications for any of
+the foregoing, mask works, trade secrets, inventions, other proprietary
+information and licenses from third Persons granting the right to use any of the
+foregoing;
+
+                  (j)      all computer applications, programs and other
+software, including operating software, network software, firmware, middleware,
+design software, design tools, systems documentation and instructions;
+
+                  (k)      all cost information, sales and pricing data,
+customer prospect lists, supplier records, customer and supplier lists, records
+pertaining to customers and customer accounts, customer and vendor data,
+correspondence and lists, product literature, artwork, design, development and
+manufacturing files, vendor and customer drawings, formulations and
+specifications, quality records and reports and other books, records, studies,
+surveys, reports, plans and documents;
+
+                  (l)      all prepaid expenses, trade accounts and other
+accounts and notes receivable;
+
+                  (m)      all rights under contracts or agreements, all claims
+or rights against any Person arising from the ownership of any Asset, all rights
+in connection with any bids or offers and all claims, choses in action or
+similar rights, whether accrued or contingent;
+
+                  (n)      all insurance proceeds and rights under insurance
+policies and all rights in the nature of insurance, indemnification or
+contribution;
+
+                  (o)      all licenses (including radio and similar licenses),
+permits, approvals and authorizations that have been issued by any Governmental
+Authority;
+
+                  (p)      all cash or cash equivalents, bank accounts, lock
+boxes and other deposit arrangements;
+
+                  (q)      copies of all documentation related to Insurance
+Policies; and
+
+                  (r)      interest rate, currency, commodity or other swap,
+collar, cap or other hedging or similar agreements or arrangements.
+
+<PAGE>
+
+                                                                               4
+
+                  1.9.     AUTHORIZATION means any waiver, amendment, consent,
+approval, license, franchise, permit (including construction permits),
+certificate, exemption, variance or authorization of, expiration or termination
+of any waiting period requirement (including pursuant to the HSR Act) or other
+action by, or notice, filing, registration, qualification, declaration or
+designation with, any Person (including any Governmental Authority).
+
+                  1.10.    BENEFIT PLAN means any employee benefit plan,
+arrangement, policy or program (whether or not an employee benefit plan within
+the meaning of Section 3(3) of ERISA and whether or not written), including,
+without limitation, any employment, consulting or deferred compensation
+agreement, executive compensation, bonus, incentive, pension, profit-sharing,
+savings, retirement, stock option, stock purchase or severance pay plan, any
+life, health, disability or accident insurance plan or any holiday or vacation
+practice.
+
+                  1.11.    CLOSING has the meaning ascribed thereto in the
+Restructuring Agreement.
+
+                  1.12.    CODE means the Internal Revenue Code of 1986.
+
+                  1.13.    COMMUNICATIONS ACT means the Communications Act of
+1934.
+
+                  1.14.    COMPANY means, following the time of its
+incorporation, MOTH Holdings, Inc., a Delaware corporation formerly named New
+MOTH Holdings, Inc. and with respect to periods prior to the effective time of
+the Company Merger, "Company" shall also mean the Company Predecessor.
+
+                  1.15.    COMPANY MERGER means the merger of the Company
+Predecessor with and into MOTH Holdings, Inc., a Delaware corporation formerly
+named New MOTH Holdings, Inc., on March 26, 2003.
+
+                  1.16.    COMPANY PREDECESSOR means MOTH Holdings, Inc., a
+Delaware corporation formerly named MediaOne TWE Holdings, Inc.
+
+                  1.17.    CONFIDENTIALITY AGREEMENTS has the meaning ascribed
+thereto in the Restructuring Agreement.
+
+                  1.18.    CONSENTS means any consents, waivers or approvals
+from, or notification requirements to, any third parties.
+
+                  1.19.    CONTRACT means any contract, lease, agreement,
+covenant, indenture, note, security, instrument, arrangement, commitment or any
+other binding understanding, whether written or oral.
+
+                  1.20.    COPYRIGHT AND TECHNOLOGY ASSIGNMENT means the
+Copyright and Technology Assignment, dated as of the date hereof, by and between
+TWE and Holdco.
+
+                  1.21.    DELAYED NON-TRANSFERRED ASSETS means any
+Non-Transferred Assets that are to be transferred after the Closing pursuant to
+Section 2.6 of this Agreement or pursuant to any Ancillary Agreement.
+
+<PAGE>
+
+                                                                               5
+
+                  1.22.    DELAYED TRANSFER ASSETS means any TWE Non-Broadband
+Assets that are to be transferred after the Closing pursuant to Section 2.6 of
+this Agreement or pursuant to any Ancillary Agreement.
+
+                  1.23.    ENVIRONMENTAL LAW means any Law (including common
+law) relating to pollution or the protection of public health, safety, welfare
+or the pollution, protection or restoration of the environment, including Laws
+relating to emissions, discharges, releases or threatened releases of Hazardous
+Substances into the environment (including ambient air, surface water, ground
+water or land) or otherwise relating to the manufacture, processing,
+distribution, use, treatment, storage, disposal, transport or handling of
+Hazardous Substances.
+
+                  1.24.    ENVIRONMENTAL LIABILITIES means all Liabilities
+relating to, arising out of or resulting from any Environmental Law or contract
+or agreement relating to environmental, health or safety matters (including all
+removal, remediation or cleanup costs, investigatory costs, governmental
+response costs, costs arising out of the actual or alleged violation of
+Environmental Laws, natural resources damages, property damages, personal injury
+damages, costs of compliance with any settlement, judgment or other
+determination of Liability and indemnity, contribution or similar obligations)
+and all costs and expenses, interest, fines, penalties or other monetary
+sanctions in connection therewith.
+
+                  1.25.    EQUITY SECURITY has the meaning ascribed to such term
+in Rule 405 promulgated under the Securities Act of 1933 as in effect on the
+date hereof and, in any event, shall also include (i) any capital stock of a
+corporation, any partnership interest, any limited liability company interest
+and any other equity interest; (ii) any security or Indebtedness having the
+attendant right to vote for directors or similar representatives; (iii) any
+security or right convertible into, exchangeable for, or evidencing the right to
+subscribe for any such stock, equity interest, security or Indebtedness referred
+to in clause (i) or (ii); (iv) any stock appreciation right, contingent value
+right or similar security or right that is derivative of any such stock, equity
+interest, security or Indebtedness referred to in clause (i), (ii) or (iii); and
+(v) any Contract to grant, issue, award, convey or sell any of the foregoing.
+
+                  1.26.    ERISA means the Employee Retirement Income Securities
+Act of 1974.
+
+                  1.27.    EXCEPTED THIRD PARTY CLAIM means a Third Party Claim
+(a) for injunctive or equitable relief against the Indemnitee or (b) in respect
+of which it is reasonably likely that, based on the financial condition of the
+Indemnifying Party and the maximum amount of Liability that could reasonably be
+expected to result from such Third Party Claim, the Indemnifying Party would not
+possess the financial resources to satisfy such Liability.
+
+                  1.28.    EXCLUDED ASSETS means (without duplication):
+
+                  (a)      any Assets listed or described on Schedule 1.28(a);
+
+                  (b)      any interests in and rights with respect to Equity
+Securities in any TWE Non-Broadband Member (other than TWE), unless disposed of
+after the date of the Original Agreement in compliance with the terms of the
+Restructuring Agreement;
+
+<PAGE>
+
+                                                                               6
+
+                  (c)      the rights, benefits and privileges of any TWE
+Non-Broadband Member (other than TWE) under this Agreement, any Ancillary
+Agreements or any other Contract delivered or entered into pursuant to this
+Agreement or to any Ancillary Agreement; and
+
+                  (d)      all cash and cash equivalents held by (A) TWE, (B)
+TWEAN or (C) any wholly-owned Subsidiaries of TWE that, in each case, are
+generated in compliance with the Restructuring Agreement and, as of the Closing,
+are legally and contractually available for transfer to Holdco, other than any
+cash and cash equivalents included in the calculation of Net Indebtedness for
+purposes of calculating AOLTW Broadband Permitted Indebtedness.
+
+                  1.29.    EXCLUDED LIABILITIES means (without duplication) the
+following and, in each case, whether arising before, on or after the Closing:
+
+                  (a)      any Liabilities arising out of, relating to or
+resulting from any consolidated Indebtedness of TWE other than the AOLTW
+Broadband Permitted Indebtedness;
+
+                  (b)      all Liabilities arising out of, relating to or
+resulting from any Excluded Assets other than the Excluded Assets set forth in
+Section 1.28(d); and
+
+                  (c)      any Liabilities listed or described on Schedule
+1.29(c).
+
+                  1.30.    FRANCHISE means a written "franchise" within the
+meaning of Section 602(9) of the Communications Act.
+
+                  1.31.    FRANCHISE CONSENTS means the Authorization required
+from, by or with the relevant Franchising Authorities in respect of the
+Franchises for the Systems owned or operated by any TWE Broadband Member.
+
+                  1.32.    GAAP means generally accepted accounting principles
+in the United States in effect from time to time.
+
+                  1.33.    GOVERNMENTAL APPROVALS means any notices, reports or
+other filings to be made, or any consents, registrations, approvals, permits or
+authorizations to be obtained from, any Governmental Authority.
+
+                  1.34.    GOVERNMENTAL AUTHORITY means any supranational,
+national, state, municipal or local government, political subdivision or other
+governmental department, court, commission, board, bureau, agency,
+instrumentality, or other authority thereof, or any quasi-governmental or
+private body exercising any regulatory, taxing, importing or other governmental
+or quasi-governmental authority, whether domestic or foreign.
+
+                  1.35.    GROUP means the TWE Broadband Group or the TWE
+Non-Broadband Group as the context requires. Any Person in a Group may be
+referred to as a "MEMBER."
+
+                  1.36.    HAZARDOUS SUBSTANCES means (a) any "hazardous waste"
+as defined by the Resource Conservation and Recovery Act of 1976 (RCRA) (42
+U.S.C. Sections 6901 et seq.); (b) any "hazardous substance" as defined by the
+Comprehensive Environmental Response, Compensation and Liability Act of 1980 (42
+U.S.C. Sections 9601 et seq.) (CERCLA); (c) any
+
+<PAGE>
+
+                                                                               7
+
+substance regulated by the Toxic Substances Control Act (TSCA) (42 U.S.C.
+Section 2601 et seq.) or the Federal Insecticide, Fungicide and Rodenticide Act
+(FIFRA) (7 U.S.C. Section 136 et seq.); (d) asbestos or asbestos-containing
+material of any kind or character; (e) polychlorinated biphenyls; (f) any
+substances regulated under the provisions of Subtitle I of RCRA relating to
+underground storage tanks; (g) any substance the presence, use, handling,
+treatment, storage, release or disposal of which on real property owned or
+leased by TWE is regulated or prohibited by any Environmental Law; and (h) any
+other substance which by any Environmental Law requires special handling,
+reporting or notification of any Governmental Authority in its collection,
+storage, release, use, treatment or disposal.
+
+                  1.37.    HOLDCO has the meaning set forth in the Preamble.
+
+                  1.38.    HSR ACT means the Hart-Scott-Rodino Antitrust
+Improvements Act of 1976.
+
+                  1.39.    INCOME TAXES means any Tax which is based upon,
+measured by, or calculated with respect to net income or profits (including
+alternative minimum Tax).
+
+                  1.40.    INDEBTEDNESS means, with respect to any Person, (a)
+any obligation of such Person (i) for borrowed money, (ii) evidenced by a bond,
+note, debenture or similar instrument for value received or in settlement of
+claims, (iii) under conditional sale or other title retention agreements
+relating to property acquired by such Person, (iv) for the deferred purchase
+price of property or services, except trade accounts payable arising in the
+ordinary course of business, or (v) under any lease or similar arrangement that
+would be required to be accounted for by the lessee as a capital lease in
+accordance with GAAP, or (b) without duplication, any guarantee (or keepwell
+agreement) by such Person of any Indebtedness of others described in clause (a);
+provided, that in no event shall Indebtedness include letters of credit that are
+performance or surety bonds or similar instruments issued in the ordinary course
+of business or disclosed pursuant to Schedule 1.86(j).
+
+                  1.41.    INDEMNIFICATION PAYMENT has the meaning set forth in
+Section 4.8(a).
+
+                  1.42.    INDEMNIFYING PARTY has the meaning set forth in
+Section 4.3(a).
+
+                  1.43.    INDEMNITEE has the meaning set forth in Section
+4.3(a).
+
+                  1.44.    INDEMNITY PAYMENT has the meaning set forth in
+Section 4.3(a).
+
+                  1.45.    INFORMATION means information, whether or not
+patentable or copyrightable, in written, oral, electronic or other tangible or
+intangible forms, stored in any medium, including studies, reports, records,
+books, Contracts, instruments, surveys, discoveries, ideas, concepts, know-how,
+techniques, designs, specifications, drawings, blueprints, diagrams, models,
+prototypes, samples, flow charts, data, computer data, disks, diskettes, tapes,
+computer programs or other software, marketing plans, customer names,
+communications by or to attorneys (including attorney-client privileged
+communications), memos and other materials prepared by attorneys or under their
+direction (including attorney work product) and other technical, financial,
+employee or business information or data.
+
+<PAGE>
+
+                                                                               8
+
+                  1.46.    INSURANCE POLICY means any insurance policy written
+by an insurance carrier under which, at any time prior to the Closing, any TWE
+Broadband Assets or any TWE Non-Broadband Assets were insured or TWE or any of
+its direct or indirect Subsidiaries (or any of such Persons' officers or
+directors) was an insured party, excluding any insurance policy funding Benefit
+Plans.
+
+                  1.47.    INSURANCE PROCEEDS means those monies:
+
+                  (a)      received by an insured from an insurance carrier; or
+
+                  (b)      paid by an insurance carrier on behalf of an insured;
+
+in any such case net of any costs or expenses incurred in the collection
+thereof.
+
+                  1.48.    INTELLECTUAL PROPERTY AGREEMENT means the
+Intellectual Property Agreement, dated as of August 20, 2002 and amended as of
+the date hereof, by and between TWE and Holdco.
+
+                  1.49.    IRS means the United States Internal Revenue Service.
+
+                  1.50.    JUDGMENT means any judicial decision, judgment, writ,
+order, injunction, stipulation, award or decree of any court, judge, justice or
+magistrate, including any bankruptcy court or judge or the arbitrator in any
+binding arbitration, and any order of or by any Governmental Authority.
+
+                  1.51.    LAW means any foreign or domestic law, statute, code,
+ordinance, rule, regulation, treaty, or Judgment, enacted, entered or
+promulgated by a Governmental Authority.
+
+                  1.52.    LIABILITIES means any and all losses, claims,
+charges, Indebtedness, demands, Actions, damages, obligations, payments, costs
+and expenses, bonds, indemnities and similar obligations, covenants, Contracts,
+controversies, omissions, make whole agreements and similar obligations, and
+other liabilities, including all Contractual obligations, whether due or to
+become due, absolute or contingent, inchoate or otherwise, matured or unmatured,
+liquidated or unliquidated, accrued or unaccrued, known or unknown, determined
+or determinable, whenever arising, and including those arising under any Law,
+principles of common law or equity (including negligence and strict liability),
+Action, threatened or contemplated Action (including the costs and expenses of
+demands, assessments, judgments, settlements and compromises relating thereto
+and attorneys' fees and any and all costs and expenses, whatsoever reasonably
+incurred in investigating, preparing or defending against any such Actions or
+threatened or contemplated Actions), order or consent decree of any Governmental
+Authority or any award of any arbitrator or mediator of any kind, and those
+arising under any Contract, commitment or undertaking, including those arising
+under this Agreement or any Ancillary Agreement or incurred by a party hereto or
+thereto in connection with enforcing its rights to indemnification hereunder or
+thereunder, in each case, whether or not recorded or reflected or required to be
+recorded or reflected on the books and records or financial statements of any
+Person.
+
+<PAGE>
+
+                                                                               9
+
+                  1.53.    LIEN means, with respect to any property or asset,
+any mortgage, lien, pledge, charge, security interest, encumbrance or other
+adverse claim of any kind in respect of such property or asset. For purposes of
+this Agreement, a Person shall be deemed to own subject to a Lien any property
+or asset that it has acquired or holds subject to the interest of a vendor or
+lessor under any conditional sale agreement, capital lease or other title
+retention agreement relating to such property or asset.
+
+                  1.54.    MASTER TRANSACTION AGREEMENT means the Master
+Transaction Agreement, dated as of August 1, 2002, by and among TWEAN, TWE,
+Paragon Communications, a Colorado general partnership, and Advance/Newhouse
+Partnership, a New York general partnership.
+
+                  1.55.    MEMBER has the meaning set forth in the definition of
+Group.
+
+                  1.56.    NET INDEBTEDNESS has the meaning set forth in the
+Restructuring Agreement.
+
+                  1.57.    NON-INCOME TAXES shall mean all Taxes other than
+Income Taxes. For the avoidance of doubt, Non-Income Taxes shall include, but
+not be limited to, business and occupation, sales, use, ad valorem property,
+real property gains, real or personal property, intangibles, transfer,
+telecommunications, or similar Taxes.
+
+                  1.58.    NON-TRANSFERRED ASSETS means any TWE Broadband Assets
+held by the TWE Non-Broadband Group or any of its Members.
+
+                  1.59.    NON-TRANSFERRED LIABILITIES means any TWE Broadband
+Liabilities to which the TWE Non-Broadband Group or any of its Members are
+subject.
+
+                  1.60.    ORIGINAL DISTRIBUTION AGREEMENT has the meaning set
+forth in the recitals.
+
+                  1.61.    PASS-THROUGH ENTITY means an entity which, for
+federal income tax purposes, is treated as a partnership, disregarded entity or
+a grantor trust or any entity treated similarly to any of the foregoing for
+federal income tax purposes.
+
+                  1.62.    PATENT ASSIGNMENT means the Patent Assignment, dated
+as of the date hereof, by and between TWE and Holdco.
+
+                  1.63.    PERSON means an individual, corporation, partnership,
+limited liability company, association, trust, joint venture or other entity or
+organization, including a Governmental Authority.
+
+                  1.64.    PRIME RATE means the rate that the Bank of New York
+(or any successor thereto or other major money center commercial bank agreed to
+by the parties hereto) announces from time to time as its prime lending rate, as
+in effect from time to time.
+
+                  1.65.    REAL PROPERTY INSTRUMENTS has the meaning set forth
+in Section 2.4(a).
+
+<PAGE>
+
+                                                                              10
+
+                  1.66.    RESTRUCTURING AGREEMENT has the meaning set forth in
+the Recitals.
+
+                  1.67.    SECURITY INTEREST means any mortgage, security
+interest, pledge, lien, charge, claim, option, right to acquire, voting or other
+restriction, right-of-way, covenant, condition, easement, encroachment,
+restriction on transfer, or other encumbrance of any nature whatsoever.
+
+                  1.68.    SELECTED BUSINESS has the meaning ascribed thereto in
+the Master Transaction Agreement.
+
+                  1.69.    SUBSIDIARY means, with respect to any Person, an
+entity of which securities or other ownership interests having ordinary voting
+power to elect a majority of the board of directors or other body performing
+similar functions are at any time directly or indirectly owned by such Person;
+provided, however, that no Person that is not directly or indirectly wholly
+owned by any other Person shall be a Subsidiary of such other Person unless such
+other Person controls, or has the right, power or ability to control, that
+Person.
+
+                  1.70.    SYSTEM means a "cable television system" within the
+meaning of Section 602(7) of the Communications Act.
+
+                  1.71.    TAX RETURN shall mean any report, return or other
+information (including any attached schedules or any amendments to such report,
+return or other information) required to be supplied to or filed with a
+Governmental Authority with respect to any Tax, including an information return,
+claim for refund, amended return, declaration, or estimated Tax return, in
+connection with the determination, assessment, collection or administration of
+any Tax.
+
+                  1.72.    TAXES shall mean all forms of taxes, fees, imposts,
+levies or other assessments whenever created or imposed, and whether of the
+United States or elsewhere, and whether imposed by any Governmental Authority
+and, without limiting the generality of the foregoing, shall include income,
+gross receipts, business and occupation, property, sales, use, license, excise,
+franchise, capital stock, employment, payroll, unemployment insurance, social
+security, stamp, environmental, value added, alternative or added minimum, ad
+valorem, trade, recording, withholding, occupation or transfer tax, custom or
+duty or other like governmental assessment or charge of any kind whatsoever,
+whether computed on a separate, consolidated, unitary, combined or any other
+basis, together with any related interest, penalties and additions imposed by
+any Governmental Authority.
+
+                  1.73.    THIRD PARTY CLAIM has the meaning set forth in
+Section 4.4(a).
+
+                  1.74.    TRADEMARK AND SERVICE MARK ASSIGNMENT means the
+Trademark and Service Mark Assignment, dated as of the date hereof, by and
+between TWE and Holdco.
+
+                  1.75.    TRANSFEREE INDEMNIFICATION PAYMENT has the meaning
+set forth in Section 4.8(a).
+
+                  1.76.    TRANSFEROR INDEMNIFICATION PAYMENT has the meaning
+set forth in Section 4.8(a).
+
+<PAGE>
+
+                                                                              11
+
+                  1.77.    TRANSACTION AGREEMENTS has the meaning ascribed
+thereto in the Restructuring Agreement.
+
+                  1.78.    TWE has the meaning set forth in the Preamble.
+
+                  1.79.    TWEAN means Time Warner Entertainment -
+Advance/Newhouse Partnership, a New York general partnership.
+
+                  1.80.    TWEAN RESTRUCTURING means the transactions
+contemplated by the Master Transaction Agreement.
+
+                  1.81.    TWE BROADBAND ASSETS means (without duplication):
+
+                  (a)      any Assets existing on the date of the Original
+Distribution Agreement, subject to any dispositions of such Assets subsequent to
+the date of the Original Distribution Agreement in compliance with the terms of
+the Restructuring Agreement, that are primarily related to or primarily used in
+the TWE Broadband Business;
+
+                  (b)      any Assets acquired subsequent to the date of the
+Original Distribution Agreement, in compliance with the terms of the
+Restructuring Agreement, that are primarily related to the TWE Broadband
+Business;
+
+                  (c)      any rights, benefits and privileges under any TWE
+Broadband Contract;
+
+                  (d)      any interests in and rights with respect to Equity
+Securities in any TWE Broadband Member (other than TWE), unless disposed of
+after the date of the Original Distribution Agreement in compliance with the
+terms of the Restructuring Agreement;
+
+                  (e)      any Authorizations of TWE or any of its Subsidiaries
+that are primarily related to or primarily used in the TWE Broadband Business,
+including the rights, benefits, privileges or other interests of TWE and its
+Subsidiaries in any Franchises (including those set forth on Schedule 1.81(e));
+
+                  (f)      any TWE Broadband Real Property and related Assets
+referred to in Section 2.4(b);
+
+                  (g)      any other Assets that are expressly identified by
+this Agreement or any Ancillary Agreement (or the Schedules hereto or thereto)
+as Assets to be assigned to, or retained by, any TWE Broadband Member, and any
+rights, benefits and privileges of any TWE Broadband Member under this
+Agreement, any Ancillary Agreements or any other Contract delivered or entered
+into pursuant to this Agreement or to any Ancillary Agreement, including any
+Assets to be conveyed to any TWE Broadband Member under the terms of any
+Ancillary Agreements;
+
+                  (h)      any Assets comprising, and any rights, benefits,
+privileges or other interests in, the Systems set forth on Schedule 1.81(h) and
+all other Systems owned, managed or operated directly or indirectly by TWE or
+its Subsidiaries;
+
+<PAGE>
+
+                                                                              12
+
+                  (i)      any rights relating to, arising out of or resulting
+from any Actions to the extent related to the TWE Broadband Business, including
+those listed on Schedule 1.81(i) to the extent related to the TWE Broadband
+Business;
+
+                  (j)      any monies, contracts or other funds relating to the
+participation of any current or former employees of TWE or its Subsidiaries who
+are or, in the case of former employees, were primarily employed in connection
+with the TWE Broadband Business, in any Benefit Plan but only to the extent such
+Assets are primarily related to the TWE Broadband Business;
+
+                  (k)      any interest in and rights with respect to any Equity
+Security in a joint venture or similar investment primarily related to the TWE
+Broadband Business (including, without limitation, the interest of TWE and its
+Subsidiaries in Road Runner Holdco LLC, a Delaware limited liability company,
+TWEAN, Texas Cable Partners, L.P., a Delaware limited partnership, Kansas City
+Cable Partners, a Colorado general partnership, or any joint venture the primary
+business of which is the ownership or management of Systems);
+
+                  (l)      any interest in any other investments primarily
+related to the TWE Broadband Business;
+
+                  (m)      any other Assets that are primarily used or primarily
+held for use in the TWE Broadband Business; and
+
+                  (n)      any Assets listed or described on Schedule 1.81(n).
+
+Notwithstanding the foregoing, the TWE Broadband Assets shall not in any event
+include the Excluded Assets.
+
+                  1.82.    TWE BROADBAND BUSINESS means the businesses conducted
+directly or indirectly by TWE (either itself or through direct or indirect
+divisions, subsidiaries, affiliates, joint ventures or other investments, or any
+of their predecessors or successors) with, through, in or by (a) all of the
+business related to the ownership, management and operation of any Systems that
+are owned, managed or operated directly or indirectly by TWE or its
+Subsidiaries, including those set forth on Schedule 1.79(h) and any Systems
+divested by TWE or its Subsidiaries; (b) all of the business related to the
+ownership and operation of the Road Runner high speed data service business and
+TWE's interest in Road Runner Holdco LLC, a Delaware limited liability company;
+(c) any terminated, divested or discontinued businesses or operations that at
+the time of termination, divestiture or discontinuation primarily related to the
+TWE Broadband Business, including those listed on Schedule 1.82(c); (d) all of
+the businesses, Assets and Liabilities related to the ownership and operation of
+local news channels in the locations of the Systems described in clause (a); and
+(e) the businesses, Assets and Liabilities primarily related to the TWE
+Broadband Business, including the ownership interests in joint ventures that are
+primarily related to the TWE Broadband Business, including those listed or
+described on Schedule 1.82(e) that are primarily related to the TWE Broadband
+Business; provided that the TWE Broadband Business shall not include (x) any
+Assets disposed of or otherwise transferred from, or Liabilities discharged by,
+the TWE Broadband Group after the date of the Original Distribution Agreement
+
+<PAGE>
+
+                                                                              13
+
+in compliance with the terms of the Restructuring Agreement or (y) the Excluded
+Assets, the Excluded Liabilities or the Excluded Tax Liabilities.
+
+                  1.83.    TWE BROADBAND CONTRACTS means the following Contracts
+to which TWE or any of its Subsidiaries is a party or by which it or any of its
+Subsidiaries or any of their respective Assets is bound (provided that none of
+(i) this Agreement, the Ancillary Agreements or any Contract entered into or
+delivered pursuant to this Agreement or any Ancillary Agreement nor (ii) any
+contract or agreement that is expressly contemplated to be assigned to or
+retained by any TWE Non-Broadband Member pursuant to any provision of this
+Agreement or any Ancillary Agreement shall be considered a TWE Broadband
+Contract):
+
+                  (a)      any Contract that relates primarily to the TWE
+Broadband Business, including Contracts that may be extended, modified or
+terminated after the date of the Original Distribution Agreement;
+
+                  (b)      any Contract to the extent representing AOLTW
+Broadband Permitted Indebtedness;
+
+                  (c)      any Contract listed or described on Schedule 1.83(c)
+that relates primarily to the TWE Broadband Business;
+
+                  (d)      any Contract that pursuant to this Agreement or any
+Ancillary Agreement is otherwise to be expressly retained or assumed by any TWE
+Broadband Member; and
+
+                  (e)      the Master Transaction Agreement, including all of
+the Exhibits thereto.
+
+Any Contract between the TWE Broadband Business and the TWE Non-Broadband
+Business will be treated (i) as a TWE Broadband Contract with respect to the
+rights and obligations of the TWE Broadband Business and (ii) as a TWE
+Non-Broadband Contract with respect to the rights and obligations of the TWE
+Non-Broadband Business.
+
+                  1.84.    TWE BROADBAND GROUP means, unless otherwise specified
+(a) with respect to periods before the Closing, including at the time of
+determination of TWE Broadband Assets or TWE Broadband Liabilities, TWE (other
+than any divisions of TWE that are not primarily engaged in the TWE Broadband
+Business) and any direct or indirect Subsidiary of TWE primarily engaged in the
+TWE Broadband Business and (b) with respect to periods at or following the
+Closing, TWE and its Subsidiaries (including their respective successors and
+assigns). Any Person in the TWE Broadband Group may be referred to as a "TWE
+BROADBAND MEMBER."
+
+                  1.85.    TWE BROADBAND INDEMNITEES has the meaning set forth
+in Section 4.1.
+
+                  1.86.    TWE BROADBAND LIABILITIES means (without duplication)
+the following and, in each case, whether arising before, on or after the
+Closing:
+
+                  (a)      any Liabilities existing on the date of the Original
+Distribution Agreement, subject to any discharge of such Liabilities subsequent
+to the date of the Original Distribution Agreement, that are primarily related
+to the TWE Broadband Business;
+
+<PAGE>
+
+                                                                              14
+
+                  (b)      any Liabilities that are expressly identified by this
+Agreement or any Ancillary Agreement (or the Schedules hereto or thereto) as
+Liabilities to be retained by, or assumed by, any TWE Broadband Member, subject
+to discharge of such Liabilities subsequent to the date of the Original
+Distribution Agreement and all agreements, obligations and Liabilities of any
+TWE Broadband Member under this Agreement or any of the Ancillary Agreements or
+any Contract entered into or delivered pursuant to this Agreement or any
+Ancillary Agreement;
+
+                  (c)      any Liabilities relating to, arising out of or
+resulting from any TWE Broadband Contract;
+
+                  (d)      any Liabilities assumed, incurred or arising
+subsequent to the date of the Original Distribution Agreement (including with
+respect to periods prior to such date), that are primarily related to the TWE
+Broadband Business;
+
+                  (e)      any Liabilities to the extent relating to, arising
+out of or resulting from any Actions related to the TWE Broadband Business,
+including those Actions listed on Schedule 1.81(i) to the extent related to the
+TWE Broadband Business;
+
+                  (f)      any Liabilities, including any Environmental
+Liabilities and Liabilities for Non-Income Taxes and TWE Entity Level Income
+Taxes, primarily relating to:
+
+                           (i)      the TWE Broadband Business, including the
+                  operation of the TWE Broadband Business, as conducted at any
+                  time prior to, on or after the Closing (including any such
+                  Liability relating to, arising out of or resulting from any
+                  act or failure to act by any director, officer, employee,
+                  agent or representative (whether or not such act or failure to
+                  act is or was within such Person's authority));
+
+                           (ii)     the operation of any business conducted by
+                  any TWE Broadband Member at any time after the Closing
+                  (including any such Liability relating to, arising out of or
+                  resulting from any act or failure to act by any director,
+                  officer, employee, agent or representative (whether or not
+                  such act or failure to act is or was within such Person's
+                  authority)); or
+
+                           (iii)    any TWE Broadband Assets (including any TWE
+                  Broadband Contracts and any TWE Broadband Real Property);
+
+                  (g)      any Liabilities relating to, arising out of, or
+resulting from any employee, employment activity or practice or Benefit Plan,
+with respect to any current or former employees of TWE or its Subsidiaries who
+are or, in the case of former employees, were primarily employed in connection
+with the TWE Broadband Business but only to the extent such Liabilities are
+primarily related to the TWE Broadband Business;
+
+                  (h)      any Liability in respect of 55% of up to two months
+of accrued and unpaid management fee arising pursuant to Section 12.10 of the
+Original Partnership Agreement (as defined in the Restructuring Agreement);
+
+                  (i)      any Liabilities arising out of, relating to or
+resulting from the AOLTW Broadband Permitted Indebtedness; and
+
+<PAGE>
+
+                                                                              15
+
+                  (j)      any Liabilities listed or described on Schedule
+1.86(j) that are primarily related to the TWE Broadband Business.
+
+Notwithstanding the foregoing, the TWE Broadband Liabilities shall not include
+the Excluded Liabilities.
+
+                  1.87.    TWE BROADBAND MEMBER has the meaning set forth in the
+definition of TWE Broadband Group.
+
+                  1.88.    TWE BROADBAND REAL PROPERTY means all right, title
+and interest in real property primarily used in connection with the TWE
+Broadband Business, wherever located, of TWE or any of its Subsidiaries,
+including: (a) the real property listed on Schedule 1.88(a) that is primarily
+used or primarily held for use in connection with the TWE Broadband Business,
+(b) all land (the "LAND") owned by TWE or any of its Subsidiaries and primarily
+used or primarily held for use in connection with the TWE Broadband Business,
+together with all buildings, structures and other improvements (the
+"IMPROVEMENTS") now or hereafter located thereon (the Land and the Improvements,
+collectively, the "OWNED REAL PROPERTY"), (c) all real property leased,
+subleased or otherwise occupied by TWE or any of its Subsidiaries and primarily
+used or primarily held for use in connection with the TWE Broadband Business
+(the "LEASED REAL PROPERTY" and, together with the Owned Real Property, the
+"REAL PROPERTY"), (d) all easements, licenses, permits, rights of way,
+reservations, privileges, and other estates and rights of TWE or any of its
+Subsidiaries, either in gross or appurtenant pertaining to such Real Property or
+to any other real property and primarily used or primarily held for use in
+connection with the TWE Broadband Business, (e) all right, title and interest of
+TWE or any of its Subsidiaries in and to all strips and gores, all alleys
+adjoining land, and the land lying in the bed of any street, road or avenue,
+opened or proposed, in front of or adjoining the Land to the center line
+thereof, and all right, title and interest of TWE or any of its Subsidiaries in
+and to any award made or to be made in lieu thereof and in and to any unpaid
+award for any taking by condemnation or any damages to the Owned Real Property
+by reason of any change of grade of any street, road or avenue, in each case,
+primarily used or primarily held for use in connection with the TWE Broadband
+Business, (f) all right, title and interest of any of TWE or any of its
+Subsidiaries in and to the airspace above the Real Property (and the rights to
+use such airspace) and any transferable development or similar rights
+appurtenant to the Real Property by allocation under applicable Laws, by zoning
+lot merger or otherwise and (g) all rights, licenses, easements, leases,
+indefeasible rights of use, title, attachment rights, authorizations and other
+rights pertaining to poles, conduits and cable primarily used or primarily held
+for use in connection with the TWE Broadband Business and held by TWE or any of
+its Subsidiaries.
+
+                  1.89.    TWE DISTRIBUTION has the meaning ascribed thereto in
+the Restructuring Agreement.
+
+                  1.90.    TWE ENTITY LEVEL INCOME TAXES shall mean Income Taxes
+of TWE or any entity owned directly or indirectly, in whole or in part, by TWE
+to the extent that such Income Taxes are imposed by Law on such entity and not
+passed through to its owners by reason of such entity being a Pass-Through
+Entity.
+
+<PAGE>
+
+                                                                              16
+
+                  1.91.    TWE NON-BROADBAND ASSETS means all Assets of TWE,
+including (i) its ownership interest in its Subsidiaries and the TWE
+Non-Broadband Real Property and (ii) all rights, benefits and privileges of any
+TWE Non-Broadband Member under this Agreement, the Ancillary Agreements and each
+other Contract delivered or entered into pursuant to this Agreement or any
+Ancillary Agreement, including any Assets to be conveyed to any TWE
+Non-Broadband Member under the terms of any Ancillary Agreements; but, in each
+case, excluding the TWE Broadband Assets; provided that, to the extent that any
+direct or indirect Subsidiary of TWE owns any assets other than TWE Broadband
+Assets, such other assets shall be deemed to be TWE Non-Broadband Assets
+hereunder, including for purposes of Section 2.1(c). Notwithstanding the
+foregoing, the TWE Non-Broadband Assets shall include the Excluded Assets.
+
+                  1.92.    TWE NON-BROADBAND BUSINESS means the businesses
+conducted (including any businesses or operations terminated, discontinued or
+divested) directly or indirectly by TWE (either itself or through direct or
+indirect divisions, subsidiaries, affiliates, joint ventures or other
+investments, or any of their predecessors or successors), other than the TWE
+Broadband Business.
+
+                  1.93.    TWE NON-BROADBAND CONTRACTS means any Contracts to
+which TWE or any of its Subsidiaries (which, for the avoidance of doubt includes
+the TWE Non-Broadband Members) is a party or by which it or any of its
+Subsidiaries or any of their respective Assets is bound, except for (i) the TWE
+Broadband Contracts and (ii) this Agreement, the Ancillary Agreements and any
+Contract entered into or delivered pursuant to this Agreement or any Ancillary
+Agreement. Any Contract between the TWE Broadband Business and the TWE
+Non-Broadband Business will be treated (i) as a TWE Broadband Contract with
+respect to the rights and obligations of the TWE Broadband Business and (ii) as
+a TWE Non-Broadband Contract with respect to the rights and obligations of the
+TWE Non-Broadband Business.
+
+                  1.94.    TWE NON-BROADBAND GROUP means (a) with respect to
+periods before the Closing, including at the time of determination of TWE
+Broadband Assets or TWE Broadband Liabilities, TWE (other than any divisions of
+TWE that are primarily engaged in the TWE Broadband Business) and any direct or
+indirect Subsidiary of TWE that is not a TWE Broadband Member and (b) with
+respect to periods at or following the Closing, Holdco and its Subsidiaries,
+including their respective successors and assigns but excluding the Company, TWE
+and their respective Subsidiaries. Any Person in the TWE Non-Broadband Group may
+be referred to as a "TWE NON-BROADBAND MEMBER."
+
+                  1.95.    TWE NON-BROADBAND INDEMNITEES has the meaning set
+forth in Section 4.2.
+
+                  1.96.    TWE NON-BROADBAND LIABILITIES means all Liabilities
+of TWE and its Subsidiaries, including all Liabilities primarily relating to,
+arising out of or resulting from the TWE Non-Broadband Real Property but
+excluding the TWE Broadband Liabilities. Notwithstanding the foregoing, the TWE
+Non-Broadband Liabilities shall include the Excluded Liabilities.
+
+<PAGE>
+
+                                                                              17
+
+                  1.97.    TWE NON-BROADBAND MEMBER has the meaning set forth in
+the definition of TWE Non-Broadband Group.
+
+                  1.98.    TWE NON-BROADBAND REAL PROPERTY means all right,
+title and interest in real property, wherever located, of TWE and its
+Subsidiaries, other than the TWE Broadband Real Property.
+
+                  1.99.    TWE PARTNERSHIP INTERESTS has the meaning set forth
+in the Recitals.
+
+                                   ARTICLE II
+                                THE DISTRIBUTION
+
+                  2.1.     TRANSFER OF ASSETS; ASSUMPTION OF LIABILITIES;
+REDEMPTION OF PARTNERSHIP INTERESTS
+
+                  (a)      Subject to Section 3.1, at the Closing and
+immediately prior to the transactions contemplated in Section 2.1(c), TWE will
+cause the applicable TWE Non-Broadband Members to assign, transfer, convey and
+deliver to TWE (or to one or more TWE Broadband Members designated by TWE), and
+TWE (or such TWE Broadband Member(s)) will accept from such TWE Non-Broadband
+Members, all of each TWE Non-Broadband Member's respective right, title and
+interest in and to all of the Non-Transferred Assets, other than the Delayed
+Non-Transferred Assets.
+
+                  (b)      Subject to Section 3.1, at the Closing and
+concurrently with the transactions contemplated in Section 2.1(a), TWE will
+cause the applicable TWE Non-Broadband Members to assign, transfer, convey and
+deliver to TWE (or one or more TWE Broadband Members designated by TWE) and TWE
+(or such TWE Broadband Member(s)) will assume and agree faithfully to perform
+and fulfill all the Non-Transferred Liabilities in accordance with their
+respective terms; provided that such Non-Transferred Liabilities shall not be
+assigned or otherwise transferred to the extent that such Non-Transferred
+Liabilities are already Liabilities of a TWE Broadband Member. TWE (or the TWE
+Broadband Member(s) receiving the corresponding Non-Transferred Assets) shall be
+responsible for all Non-Transferred Liabilities, regardless of when or where
+such Liabilities arose or arise, or whether the facts on which they are based
+occurred prior to, on or subsequent to the date hereof, regardless of where or
+against whom such Liabilities are asserted or determined or whether asserted or
+determined prior to the date hereof, and regardless of whether arising from or
+alleged to arise from negligence, recklessness, violation of Law, fraud,
+misrepresentation or any other cause by a Member of any Group or any of their
+respective directors, officers, employees, agents, Subsidiaries or Affiliates.
+
+                  (c)      Subject to Section 2.1(h) and Section 3.1, at the
+Closing, TWE will assign, transfer, convey and deliver to Holdco, and will cause
+its applicable Subsidiaries to assign, transfer, convey and deliver to Holdco
+(or to such TWE Non-Broadband Member(s)), and Holdco will accept from TWE and
+its applicable Subsidiaries, all of each TWE Broadband Member's respective
+right, title and interest in and to all of the TWE Non-Broadband Assets, other
+than the Delayed Transfer Assets.
+
+<PAGE>
+
+                                                                              18
+
+                  (d)      Subject to Section 2.1(h) and Section 3.1, at the
+Closing and concurrently with the transactions contemplated in Section 2.1(c),
+TWE will assign, transfer, convey and deliver to Holdco and will cause its
+applicable Subsidiaries to assign, transfer, convey and deliver to Holdco, and
+Holdco will assume and agree faithfully to perform and fulfill all the TWE
+Non-Broadband Liabilities, in accordance with their respective terms; provided
+that such TWE Non-Broadband Liabilities shall not be assigned or otherwise
+transferred to the extent that such TWE Non-Broadband Liabilities are already
+Liabilities of a TWE Non-Broadband Member (other than TWE). Holdco (or the TWE
+Non-Broadband Member(s) holding the corresponding TWE Non-Broadband Assets)
+shall be responsible for all TWE Non-Broadband Liabilities, regardless of when
+or where such Liabilities arose or arise, or whether the facts on which they are
+based occurred prior to, on or subsequent to the date hereof, regardless of
+where or against whom such Liabilities are asserted or determined or whether
+asserted or determined prior to the date hereof, and regardless of whether
+arising from or alleged to arise from negligence, recklessness, violation of
+Law, fraud, misrepresentation or any other cause by a Member of any Group or any
+of their respective Subsidiaries, directors, officers, employees or agents or
+Affiliates.
+
+                  (e)      Each of the parties hereto agrees that the Delayed
+Transfer Assets and the Delayed Non-Transferred Assets will be assigned,
+transferred, conveyed and delivered in accordance with the terms of Section 2.6
+or other agreements that provide for such assignment, transfer, conveyance and
+delivery after the Closing. The parties hereto further agree (i) that all such
+Delayed Transfer Assets and Delayed Non-Transferred Assets shall be treated for
+all Tax purposes as assets of the beneficial owner and (ii) not to report or
+take any Tax position (on a Tax Return or otherwise) inconsistent with such
+treatment (unless required by a change in applicable Tax law or good faith
+resolution of a contest). Following the Closing, the Delayed Transfer Assets and
+Delayed Non-Transferred Assets shall (except where the context otherwise
+requires) be treated for all purposes of this Agreement and the Ancillary
+Agreements as TWE Non-Broadband Assets and Non-Transferred Assets, respectively.
+
+                  (f)      In the event that at any time or from time to time
+(whether prior to or after the Closing), any party hereto (or any Member of such
+party's respective Group) shall receive or otherwise possess any Asset that
+should have been assigned or transferred to or retained by any other Person
+pursuant to this Agreement or any Ancillary Agreement, such party shall promptly
+transfer, or cause to be transferred, such Asset to the Person so entitled
+thereto. Prior to any such transfer, the Person receiving or possessing such
+Asset shall hold such Asset in trust for any such other Person.
+
+                  (g)      Subject to Section 3.1, at the Closing, certain of
+the TWE Partnership Interests held by Holdco will be redeemed as set forth on
+Schedule 2.1(g).
+
+                  (h)      The parties acknowledge and agree that any TWE
+Non-Broadband Assets to be assigned, transferred, conveyed and delivered
+hereunder and any TWE Non-Broadband Liabilities to be assumed hereunder, shall,
+if such Asset is owned directly by a TWE Non-Broadband Member (other than TWE)
+or such Liability is the direct obligation of a TWE Non-Broadband Member (other
+than TWE) be transferred or assumed, as applicable, by transferring, directly or
+indirectly, all of the Equity Securities in the Person that directly owns such
+TWE Non-Broadband Assets or is directly subject to such TWE Non-Broadband
+Liabilities, as
+
+<PAGE>
+
+                                                                              19
+
+applicable (provided that if such Person owns any TWE Broadband Assets or is
+subject to any TWE Broadband Liabilities, such TWE Broadband Assets shall be
+transferred to a TWE Broadband Member, and such TWE Broadband Liabilities shall
+be assumed by a TWE Broadband Member, in each case prior to the Closing). Except
+as set forth in the preceding sentence, Assets will be assigned, transferred,
+conveyed and delivered directly and Liabilities will be assumed directly.
+
+                  (i)      For the avoidance of doubt, the parties acknowledge
+and agree that, notwithstanding anything herein to the contrary, it is the
+intent of this Section 2.1 that (i) all of the Equity Securities of each
+Subsidiary of TWE that is a TWE Broadband Member immediately prior to the
+Closing will, immediately after the Closing, be held directly or indirectly by
+TWE and (ii) all of the Equity Securities of each Subsidiary of TWE that is a
+TWE Non-Broadband Member immediately prior to the Closing will, immediately
+after the Closing, be held directly or indirectly by Holdco and not directly or
+indirectly by TWE.
+
+                  (j)      Notwithstanding the foregoing, and subject to Section
+4.1(a)(v), Holdco may elect to effect the change of ownership of Time Warner
+Entertainment Pty Limited from TWE to Holdco (or to one or more Subsidiaries of
+Holdco) by an alternate method rather than by distributing the Equity Securities
+of such Person in accordance with Section 2.1(c).
+
+                  2.2.     DISCLAIMER OF REPRESENTATIONS AND WARRANTIES. EXCEPT
+AS MAY EXPRESSLY BE SET FORTH HEREIN, IN ANY ANCILLARY AGREEMENT, IN THE
+RESTRUCTURING AGREEMENT, IN ANY TRANSACTION AGREEMENT (AND NOTWITHSTANDING
+ANYTHING TO THE CONTRARY IN ANY REAL PROPERTY INSTRUMENT) (A) NONE OF TWE,
+HOLDCO OR ANY OTHER PERSON MAKES ANY REPRESENTATION OR WARRANTY OF ANY KIND
+WHATSOEVER, EXPRESS OR IMPLIED, WITH RESPECT TO ANY OF THE TRANSACTIONS
+CONTEMPLATED HEREBY (INCLUDING ANY CONSENTS OR APPROVALS REQUIRED IN CONNECTION
+THEREWITH) OR THE BUSINESS, ASSETS, CONDITION OR PROSPECTS (FINANCIAL OR
+OTHERWISE) OF, OR ANY OTHER MATTER INVOLVING, THE ASSETS, BUSINESSES OR
+LIABILITIES OF TWE, HOLDCO, THE TWE NON-BROADBAND GROUP OR THE TWE BROADBAND
+GROUP; (B) ALL OF THE ASSETS TO BE RETAINED OR TRANSFERRED OR THE LIABILITIES TO
+BE RETAINED, ASSUMED OR TRANSFERRED IN ACCORDANCE WITH THIS AGREEMENT SHALL BE
+TRANSFERRED OR ASSUMED ON AN "AS IS, WHERE IS BASIS," AND ALL IMPLIED WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A SPECIFIC PURPOSE OR OTHERWISE ARE HEREBY
+EXPRESSLY DISCLAIMED, AND (C) NONE OF TWE, HOLDCO OR ANY OTHER PERSON MAKES ANY
+REPRESENTATION OR WARRANTY WITH RESPECT TO ANY INFORMATION, DOCUMENTS OR
+MATERIAL MADE AVAILABLE IN CONNECTION WITH THE ENTERING INTO OF THIS AGREEMENT
+OR THE TRANSACTIONS CONTEMPLATED HEREBY.
+
+                  2.3.     OTHER ANCILLARY AGREEMENTS. On or prior to the
+Closing, each of TWE and Holdco will execute and deliver, and will cause its
+Subsidiaries to execute and deliver, all Ancillary Agreements to which such
+Person is a party.
+
+<PAGE>
+
+                                                                              20
+
+                  2.4.     DOCUMENTS RELATING TO TRANSFER OF REAL PROPERTY
+INTERESTS AND TANGIBLE PROPERTY LOCATED THEREON. (a) To the extent necessary, in
+furtherance of the assignment, transfer and conveyance of the TWE Broadband Real
+Property and the assumption of the related Non-Transferred Liabilities pursuant
+to Sections 2.1(a) and (b) and the assignment, transfer and conveyance of the
+TWE Non-Broadband Real Property and the assumption of the related TWE
+Non-Broadband Liabilities pursuant to Sections 2.1(c) and (d), at the Closing
+(to the extent practicable) or promptly thereafter in accordance with Article
+VII hereof, each of TWE and Holdco, or their applicable Subsidiaries, will
+execute and deliver such deeds, lease assignments and assumptions, leases,
+subleases and sub-subleases, transfer tax returns, affidavits and similar
+instruments as may be necessary to effect the transactions contemplated by this
+Agreement, including this Section 2.4 (collectively, the "REAL PROPERTY
+INSTRUMENTS"), provided that the Real Property Instruments need not be delivered
+to the extent that the TWE Non-Broadband Real Property is already owned by or
+held in the name of any TWE Non-Broadband Member (other than TWE) or the TWE
+Broadband Real Property is wholly owned by, or held in the name of, any TWE
+Broadband Member. The applicable Real Property Instruments will be on mutually
+acceptable terms.
+
+                  (b)      Except as otherwise expressly provided in this
+Agreement or any Ancillary Agreement or on Schedule 2.4(b), all leasehold
+improvements, fixtures, furniture, office equipment, servers, private branch
+exchanges, artwork and other tangible property (other than equipment subject to
+capital or operating equipment leases, which will be transferred or retained
+based on whether the associated capital or operating equipment lease is or is
+not a TWE Non-Broadband Contract) located as of the date hereof on any TWE
+Non-Broadband Real Property shall be included within the definition of TWE
+Non-Broadband Assets; provided that any such Assets that were acquired by or on
+behalf of a TWE Broadband Member and are primarily used or primarily held for
+use in the TWE Broadband Business shall not be considered TWE Non-Broadband
+Assets.
+
+                  (c)      Except as otherwise expressly provided in this
+Agreement or any Ancillary Agreement or on Schedule 2.4(c), all leasehold
+improvements, fixtures, furniture, office equipment, servers, private branch
+exchanges, artwork and other tangible property (other than equipment subject to
+capital or operating equipment leases, which will be transferred or retained
+based on whether the associated capital or operating equipment lease is or is
+not a TWE Broadband Contract) located as of the date hereof on any TWE Broadband
+Real Property shall be included within the definition of TWE Broadband Assets;
+provided that any such Assets that were acquired by or on behalf of a TWE
+Non-Broadband Member and are not primarily used or primarily held for use in the
+TWE Broadband Business shall not be considered TWE Broadband Assets.
+
+                  (d)      Any TWE Non-Broadband Real Property (including the
+TWE Non-Broadband Real Property listed on Schedule 2.4(d)) used in connection
+with both the TWE Broadband Business and the TWE Non-Broadband Business will be
+leased or subleased following the Closing by the relevant TWE Non-Broadband
+Member to the relevant TWE Broadband Member substantially on terms currently in
+effect for a reasonable transition period or such longer period as the parties
+may agree; provided that the terms of any such lease or sublease shall be
+subject to Section 7.6 of the Amended and Restated Partnership Agreement of TWE.
+
+<PAGE>
+
+                                                                              21
+
+                  (e)      Any TWE Broadband Real Property (including the TWE
+Broadband Real Property listed on Schedule 2.4(e)) used in connection with both
+the TWE Broadband Business and the TWE Non-Broadband Business will be leased or
+subleased following the Closing by the relevant TWE Broadband Member to the
+relevant TWE Non-Broadband Member substantially on terms currently in effect for
+a reasonable transition period or such longer period as the parties may agree;
+provided that the terms of any such lease or sublease shall be subject to
+Section 7.6 of the Amended and Restated Partnership Agreement of TWE.
+
+                  2.5.     DOCUMENTS RELATING TO OTHER TRANSFERS OF ASSETS AND
+ASSUMPTION OF LIABILITIES. In furtherance of the assignment, transfer and
+conveyance of TWE Non-Broadband Assets and Non-Transferred Assets and the
+assumption of TWE Non-Broadband Liabilities, and Non-Transferred Liabilities
+pursuant to Section 2.1(a), (b), (c) and (d), simultaneously with the Closing
+or, to the extent not capable of being delivered at such time, as promptly as
+practicable thereafter, (a) TWE and Holdco shall execute and deliver, and shall
+cause their respective Subsidiaries to execute and deliver, such bills of sale,
+stock powers, certificates of title, assignments and assumptions of contracts
+and other instruments of transfer, conveyance, assignment and assumption as and
+to the extent necessary to evidence (i) the transfer, conveyance and assignment
+of all of the TWE Broadband Members' right, title and interest in and to the TWE
+Non-Broadband Assets to Holdco (or the TWE Non-Broadband Member designated by
+Holdco), to the extent required by Section 2.1(c) and (ii) the valid and
+effective assumption of the Non-Transferred Liabilities by TWE (or the TWE
+Broadband Member receiving the corresponding Non-Transferred Asset), to the
+extent required by Section 2.1(b) (iii) the transfer, conveyance and assignment
+of all of Holdco and the TWE Non-Broadband Members' right, title and interest in
+and to the Non-Transferred Assets to TWE (or the TWE Broadband Member designated
+by TWE), to the extent required by Section 2.1(a) and (iv) the valid and
+effective assumption of the TWE Non-Broadband Liabilities by Holdco (or the TWE
+Non-Broadband Members receiving the corresponding Transferred Asset), to the
+extent required by Section 2.1(d).
+
+                  2.6.     GOVERNMENTAL APPROVALS AND CONSENTS. (a) If and to
+the extent that the valid, complete and perfected transfer or assignment to
+Holdco (or the applicable TWE Non-Broadband Member) of any TWE Non-Broadband
+Assets (or from any TWE Non-Broadband Member of any Non-Transferred Assets held
+by such Member) would be a violation of applicable Laws or require any Consent
+or Governmental Approval in connection with the transactions contemplated by the
+Restructuring Agreement, then, unless Holdco (in the case of a TWE Non-Broadband
+Asset) or TWE (in the case of a Non-Transferred Asset) shall otherwise
+determine, the transfer or assignment to Holdco (or such TWE Non-Broadband
+Member) of such TWE Non-Broadband Assets or from any TWE Non-Broadband Member of
+such Non-Transferred Asset shall be automatically deemed deferred and any such
+purported transfer or assignment shall be null and void until such time as all
+legal impediments are removed and/or such Consents or Governmental Approvals
+have been made or obtained. Notwithstanding the foregoing, any such Delayed
+Transferred Asset or Delayed Non-Transferred Asset shall be deemed an Asset of
+the TWE Non-Broadband Group or the TWE Broadband Group, respectively, for
+purposes of determining whether any Liability is a TWE Non-Broadband Liability
+or a TWE Broadband Liability, respectively.
+
+<PAGE>
+
+                                                                              22
+
+                  (b)      If the transfer or assignment of any Asset intended
+to be transferred or assigned hereunder is not consummated prior to or at the
+Closing, whether as a result of the provisions of Section 2.6(a) or for any
+other reason, then the Person retaining such Asset shall thereafter hold such
+Asset for the use and benefit, insofar as reasonably possible, of the Person
+entitled thereto (at the expense of the Person entitled thereto). In addition,
+the Person retaining such Asset shall take such other actions as may be
+reasonably requested by the Person to whom such Asset is to be transferred in
+order to place such Person, insofar as reasonably possible, in the same position
+as if such Asset had been transferred as contemplated hereby and so that all the
+benefits and burdens relating to such Assets including possession, use, risk of
+loss, potential for gain, and dominion, control and command over such TWE
+Non-Broadband Asset or Non-Transferred Assets, are to inure from and after the
+Closing to the TWE Non-Broadband Group or the TWE Broadband Group, respectively.
+To the extent permitted by Law and to the extent otherwise permissible in light
+of any required Consent and/or Governmental Approval, the TWE Non-Broadband
+Group, on the one hand, and the TWE Broadband Group, on the other, shall be
+entitled to, and shall be responsible for, the management of any TWE
+Non-Broadband Assets or Non-Transferred Asset, as the case may be, not yet
+transferred to it as a result of this Section 2.6(b) and the parties agree to
+use reasonable commercial efforts to cooperate and coordinate with respect
+thereto.
+
+                  (c)      If and when the Consents and/or Governmental
+Approvals, the absence of which caused the deferral of transfer of any Asset
+pursuant to Section 2.6(a), are obtained, the transfer of the applicable Asset
+shall be effected in accordance with the terms of this Agreement and/or the
+applicable Ancillary Agreement.
+
+                  (d)      The Person retaining an Asset due to the deferral of
+the transfer of such Asset shall not be obligated, in connection with the
+foregoing, to expend any money unless the necessary funds are advanced by the
+Person entitled to the Asset, other than reasonable out-of-pocket expenses,
+attorneys' fees and recording or similar fees, all of which shall be promptly
+reimbursed by the Person entitled to such Asset.
+
+                  2.7.     NOVATION OF TWE NON-BROADBAND LIABILITIES. (a) Each
+of TWE and Holdco, at the reasonable written request of the other, shall use its
+reasonable commercial efforts to obtain, or to cause to be obtained, any
+release, consent, substitution, approval or amendment required to novate and
+assign all obligations under agreements, leases, licenses and other obligations
+or Liabilities of any nature whatsoever that constitute TWE Non-Broadband
+Liabilities, or to obtain in writing the unconditional release of all parties to
+such arrangements other than Holdco (or the TWE Non-Broadband Member that
+received the corresponding TWE Non-Broadband Asset), so that, in any such case,
+Holdco (or such TWE Non-Broadband Member) will be solely responsible for such
+Liabilities; provided however, that none of the Members of any Group shall be
+obligated to pay any consideration or surrender, release or modify any rights or
+remedies therefor to any third party from whom such releases, consents,
+approvals, substitutions and amendments are requested, except as expressly set
+forth in the Restructuring Agreement or any other Transaction Agreement.
+
+                  (b)      If TWE or Holdco is unable to obtain, or to cause to
+be obtained, any such required release, consent, substitution, approval or
+amendment, the applicable TWE Broadband Member shall continue to be bound by
+such Contracts, licenses and other obligations and, unless
+
+<PAGE>
+
+                                                                              23
+
+not permitted by Law or the terms thereof, the applicable TWE Non-Broadband
+Member shall, as agent or subcontractor for such TWE Broadband Member pay,
+perform and discharge fully all the obligations or other Liabilities of such TWE
+Broadband Member thereunder from and after the Closing. Holdco shall indemnify
+each TWE Broadband Indemnitee and hold it harmless against any Liabilities
+arising in connection therewith. TWE shall, without further consideration, pay
+and remit, or cause to be paid or remitted, to the applicable TWE Non-Broadband
+Member promptly all money, rights and other consideration received by it or any
+TWE Broadband Member in respect of such performance (unless any such
+consideration is a Non-Transferred Asset). If and when any such release,
+consent, substitution, approval or amendment shall be obtained or such
+agreement, lease, license or other rights or obligations shall otherwise become
+assignable or able to be novated, TWE shall thereafter assign, or cause to be
+assigned, all of its rights, obligations and other Liabilities thereunder or any
+rights or obligations of any TWE Broadband Member to such TWE Non-Broadband
+Member without payment of further consideration and such TWE Non-Broadband
+Member shall, without the payment of any further consideration, assume such
+rights and obligations. Notwithstanding the foregoing, unless TWE shall so elect
+in writing, Holdco shall assume, or cause the assumption of, all TWE
+Non-Broadband Liabilities as of the Closing, except for Liabilities of another
+TWE Non-Broadband Member.
+
+                  2.8.     NOVATION OF NON-TRANSFERRED LIABILITIES. (a) Each of
+TWE and Holdco, at the reasonable written request of the other, shall use its
+reasonable commercial efforts to obtain, or to cause to be obtained, any
+release, consent, substitution, approval or amendment required to novate and
+assign all obligations under Contracts, licenses, and other obligations or
+Liabilities of any nature whatsoever that constitute Non-Transferred Liabilities
+by which any TWE Non-Broadband Member is bound, or to obtain in writing the
+unconditional release of all parties to such arrangements other than any TWE
+Broadband Member, so that, in any such case, TWE (or the TWE Broadband Member
+party to such arrangement) will be solely responsible for such Liabilities;
+provided, however, that none of the Members of any Group shall be obligated to
+pay any consideration therefor or surrender, release or modify any rights or
+remedies to any third party from whom such releases, consents, approvals,
+substitutions and amendments are requested, except as expressly set forth in the
+Restructuring Agreement or any other Transaction Agreement.
+
+                  (b)      If TWE or Holdco is unable to obtain, or to cause to
+be obtained, any such required release, consent, approval, substitution or
+amendment, the applicable TWE Non-Broadband Member shall continue to be bound by
+such Contracts, licenses, and other obligations and, unless not permitted by Law
+or the terms thereof, the applicable TWE Broadband Member shall, as agent or
+subcontractor for such TWE Non-Broadband Member, pay, perform and discharge
+fully all the obligations or other Liabilities of such TWE Non-Broadband Member
+thereunder from and after the Closing. TWE shall indemnify each TWE
+Non-Broadband Indemnitee and hold each of them harmless against any Liabilities
+arising in connection therewith. Holdco shall cause each TWE Non-Broadband
+Member, without further consideration, to pay and remit, or cause to be paid or
+remitted, to TWE or another TWE Broadband Member specified by TWE, promptly all
+money, rights and other consideration received by such TWE Non-Broadband Member
+in respect of such performance (unless any such consideration is a TWE
+Non-Broadband Asset). If and when any such consent, approval, release,
+substitution or amendment shall be obtained or such agreement, lease, license or
+other
+
+<PAGE>
+
+                                                                              24
+
+rights or obligations shall otherwise become assignable or able to be novated,
+Holdco shall promptly assign, or cause to be assigned, all of its rights,
+obligations and other Liabilities thereunder or any rights or obligations of any
+TWE Non-Broadband Member to such TWE Broadband Member without payment of further
+consideration and such TWE Broadband Member shall, without the payment of
+further consideration, assume such rights and obligations. Notwithstanding the
+foregoing, unless Holdco shall so elect in writing, TWE shall assume or cause
+the assumption of the Non-Transferred Liabilities as of the Closing, except for
+Liabilities of another TWE Broadband Member.
+
+                  2.9.     JOINT PURCHASING ARRANGEMENTS. (a) In the case of
+existing purchasing Contracts of TWE that prior to the Closing provide the TWE
+Broadband Group and the TWE Non-Broadband Group with volume discounts, until
+terminated by either TWE or Holdco, the parties agree to use their respective
+commercially reasonable efforts so that to the extent permitted under the terms
+of such existing agreements, after the Closing, the Members of each Group shall
+continue to be able to make purchases and obtain the benefits of the volume
+discounts. In the case of any other existing purchasing Contracts, the parties
+will, at the request of either party and subject to applicable law, cooperate
+reasonably in seeking modifications to such Contracts or alternative or
+substitute Contracts so that, to the extent practicable after the Closing, until
+terminated by either TWE or Holdco, the Members of each Group shall be able to
+make purchases and obtain the benefits of the volume discounts. Notwithstanding
+the foregoing, but subject to the terms of any TWE Broadband Contract or TWE
+Non-Broadband Contract, no Member of any Group shall be required to commit to
+any additional purchases or other obligations, make any payments or waive any
+rights in order to effect the foregoing. Each party hereby agrees to indemnify
+and hold harmless the other party, and if applicable the other party's
+Subsidiaries, with respect to any losses or claims arising from such first
+party's, or such first party's Subsidiaries', own purchases, commitments or
+other obligations under any such Contracts.
+
+                  (b)      Subject to applicable law, each party will, if
+requested by the other party, use reasonable commercial efforts to cooperate
+with each other and, as applicable, with each other's Subsidiaries, to
+coordinate and combine their purchases in cases where they purchase common
+supplies or use the same supplier, in each case until terminated by either TWE
+or Holdco and to the extent permitted by Law from time to time. It is the intent
+of the parties that this coordination and cooperation will be focused on
+achieving more favorable pricing and terms for such supplies and from such
+suppliers by aggregating the combined purchases of the parties and their
+Subsidiaries. Notwithstanding the foregoing, no party shall be obligated to
+make, or cause its Subsidiaries to make, any specific purchases or to use any
+specific supplier except to the extent (i) it, or one of its Subsidiaries, has
+previously committed to make a specific purchase or to use a specific supplier
+or (ii) subsequent to the date of this Agreement, it, or one of its
+Subsidiaries, makes a commitment for a specific purchase or to use a specific
+supplier. Each party will be responsible for its own and its Subsidiaries'
+commitments and its own and its Subsidiaries' purchases and other obligations
+made under any common or shared Contracts with suppliers and will, in respect of
+such commitments, purchases or other obligations, indemnify and hold harmless
+the other party and the other party's Subsidiaries that use such Contracts.
+
+                  2.10.    INTELLECTUAL PROPERTY MATTERS. To the extent that
+this Agreement or any Ancillary Agreement contains provisions which purport to
+cover or address any matter addressed
+
+<PAGE>
+
+                                                                              25
+
+in the Intellectual Property Agreement, the Patent Assignment, the Copyright and
+Technology Assignment or the Trademark and Service Mark Assignment, the
+Intellectual Property Agreement, the Patent Assignment, the Copyright and
+Technology Assignment and the Trademark and Service Mark Assignment,
+respectively, shall prevail.
+
+                  2.11.    EMPLOYEE MATTERS. As of immediately following the
+Closing, TWE and its Subsidiaries shall employ no individuals other than
+employees who are primarily employed in connection with the TWE Broadband
+Business. As of the Closing, all employees of TWE and its Subsidiaries
+(including individuals on a leave of absence, short term disability or long term
+disability) who are not primarily employed in connection with the TWE Broadband
+Business shall become or shall remain employees of Holdco or its Subsidiaries.
+TWE, Holdco and their Subsidiaries shall take such actions as are reasonably
+necessary to effectuate the transfers of employment contemplated by this Section
+2.11, including, without limitation, Holdco or its Subsidiaries (other than the
+Company, TWE or their respective Subsidiaries) making a general offer of
+employment. The parties hereto shall take all steps reasonably necessary to give
+effect to the intent of this Section 2.11 and shall take no actions that would
+interfere therewith.
+
+                                   ARTICLE III
+                                   CONDITIONS
+
+                  3.1.     CONDITIONS. The obligations of each party hereto to
+consummate the transactions contemplated by this Agreement are subject to the
+satisfaction or waiver of the conditions set forth in Article IX of the
+Restructuring Agreement.
+
+                                   ARTICLE IV
+                             INDEMNIFICATION; TAXES
+
+                  4.1.     INDEMNIFICATION BY AOLTW AND HOLDCO.
+
+                  (a)      Except as provided in Section 4.3, following the
+Closing, AOLTW and Holdco, on a joint and several basis, shall indemnify, defend
+and hold harmless TWE, each TWE Broadband Member and each of their respective
+partners, directors, officers, agents and employees, and each of the heirs,
+executors, successors and assigns of any of the foregoing (collectively, the
+"TWE BROADBAND INDEMNITEES"), from and against any and all Liabilities of the
+TWE Broadband Indemnitees relating to, arising out of or resulting from any of
+the following items (without duplication), whether arising prior to or after the
+Closing or the date hereof:
+
+                           (i)      the failure of Holdco or any other TWE
+                  Non-Broadband Member or any other Person to pay, perform or
+                  otherwise promptly discharge any TWE Non-Broadband Liabilities
+                  in accordance with their respective terms;
+
+                           (ii)     the TWE Non-Broadband Business, including
+                  the operation thereof;
+
+                           (iii)    any breach by Holdco or any TWE
+                  Non-Broadband Member of this Agreement or any of the Ancillary
+                  Agreements;
+
+<PAGE>
+
+                                                                              26
+
+                           (iv)     any Third Party Claim in respect of any TWE
+                  Non-Broadband Liability; and
+
+                           (v)      any Liabilities imposed on the TWE Broadband
+                  Indemnitees relating to, arising out of or resulting from any
+                  transaction effectuating the change of ownership of Time
+                  Warner Entertainment Pty Limited from TWE to Holdco (or one or
+                  more Subsidiaries of Holdco) by an alternative method pursuant
+                  to Section 2.1(j) to the extent such Liabilities exceed the
+                  Liabilities that would have been suffered by the TWE Broadband
+                  Indemnities had the Equity Securities of such Person been
+                  distributed to Holdco in accordance with Section 2.1(c).
+
+                  (b)      Notwithstanding the foregoing, AOLTW in its sole
+discretion can elect at any time upon written notice to TWE to terminate this
+Section 4.1 with respect to Holdco (and only with respect to Holdco) and release
+Holdco from any and all of Holdco's Liabilities under this Section 4.1, and TWE
+shall execute and deliver all instruments reasonably requested by AOLTW to
+evidence such release and termination.
+
+                  4.2.     INDEMNIFICATION BY THE COMPANY AND TWE. Except as
+provided in Section 4.3, following the Closing, the Company and TWE, on a joint
+and several basis, shall indemnify, defend and hold harmless Holdco, each TWE
+Non-Broadband Member and each of their respective partners, directors, officers,
+agents and employees, and each of the heirs, executors, successors and assigns
+of any of the foregoing (collectively, the "TWE NON-BROADBAND INDEMNITEES"),
+from and against any and all Liabilities of the TWE Non-Broadband Indemnitees
+relating to, arising out of or resulting from any of the following items
+(without duplication), whether arising prior to or after the Closing or the date
+hereof:
+
+                  (a)      the failure of TWE or any other TWE Broadband Member
+or any other Person to pay, perform or otherwise promptly discharge any TWE
+Broadband Liabilities (including any Non-Transferred Liabilities) in accordance
+with their respective terms;
+
+                  (b)      the TWE Broadband Business, including the operation
+thereof;
+
+                  (c)      any breach by TWE or any other TWE Broadband Member
+of this Agreement or any of the Ancillary Agreements; and
+
+                  (d)      any Third Party Claim in respect of any TWE Broadband
+Liability.
+
+                  4.3.     INDEMNIFICATION OBLIGATIONS NET OF INSURANCE PROCEEDS
+AND OTHER AMOUNTS. (a) The parties intend that any indemnification or
+reimbursement obligation pursuant to this Agreement or any Ancillary Agreement
+will be net of Insurance Proceeds that actually reduce the amount of the
+Liability. Accordingly, the amount which any party (an "INDEMNIFYING PARTY") is
+required to pay to any Person entitled to indemnification hereunder (an
+"INDEMNITEE") will be reduced by any Insurance Proceeds theretofore actually
+recovered by or on behalf of the Indemnitee in reduction of the related
+Liability. If an Indemnitee receives a payment (an "INDEMNITY PAYMENT") required
+by this Agreement from an Indemnifying Party in respect of any Liability and
+subsequently receives Insurance Proceeds, then the Indemnitee will pay to the
+Indemnifying Party an amount equal to the excess of the Indemnity Payment
+received
+
+<PAGE>
+
+                                                                              27
+
+over the amount of the Indemnity Payment that would have been due if the
+Insurance Proceeds had been received, realized or recovered before the Indemnity
+Payment was made.
+
+                  (b)      An insurer who would otherwise be obligated to defend
+or make payment in response to any claim shall not be relieved of the
+responsibility with respect thereto or, solely by virtue of the indemnification
+provisions hereof, have any subrogation rights with respect thereto, it being
+expressly understood and agreed that no insurer or any other third party shall
+be entitled to a "windfall" (i.e., a benefit it would not be entitled to receive
+in the absence of the indemnification provisions) by virtue of the
+indemnification provisions hereof.
+
+                  (c)      With respect to all Insurance Policies, the parties
+agree to act in good faith and to use their reasonable best efforts to preserve
+and maximize the insurance benefits due to be provided thereunder and to
+cooperate with one another as necessary to permit each other to access or obtain
+the benefits under those policies, provided, however, that nothing in this
+Section 4.3 shall be construed to prevent any party or any other Person from
+asserting claims for insurance benefits or accepting insurance benefits provided
+by the policies. The parties agree to exchange information upon reasonable
+request of the other party regarding requests that they have made for insurance
+benefits, notices of claims, occurrences and circumstances that they have
+submitted to the insurance companies or other entities managing the policies,
+responses they have received from those insurance companies or entities,
+including any payments they have received from the insurance companies and any
+agreements by the insurance companies to make payments, and any other
+information that the parties may need to determine the status of the Insurance
+Policies and the continued availability of benefits thereunder.
+
+                  4.4.     PROCEDURES FOR INDEMNIFICATION OF THIRD PARTY CLAIMS.
+(a) If an Indemnitee shall receive notice or otherwise learn of the assertion by
+a Person (including any Governmental Authority) who is not a Member of either
+Group of any claim or of the commencement by any such Person of any Action
+(collectively, a "THIRD PARTY CLAIM") with respect to which an Indemnifying
+Party may be obligated to provide indemnification to such Indemnitee pursuant to
+Section 4.1 or 4.2, or any other Section of this Agreement or any Ancillary
+Agreement (except as otherwise provided therein), such Indemnitee shall give
+such Indemnifying Party written notice thereof promptly after receipt of notice
+or senior executives actually becoming aware of such Third Party Claim. Any such
+notice shall describe the Third Party Claim in reasonable detail.
+Notwithstanding the foregoing, the failure of any Indemnitee to give notice as
+provided in this Section 4.4(a) shall not relieve the related Indemnifying Party
+of its obligations under this Agreement or any Ancillary Agreement, except to
+the extent that such Indemnifying Party is actually prejudiced by such failure
+to give notice.
+
+                  (b)      An Indemnifying Party may elect to defend (and,
+except as set out in clause (e), below, unless the Indemnifying Party has
+specified any reservations or exceptions, to seek to settle or compromise), at
+such Indemnifying Party's own expense and by such Indemnifying Party's own
+counsel (provided such counsel is reasonably acceptable to the Indemnitee), any
+Third Party Claim; provided that notwithstanding the foregoing, an Indemnitee
+may elect to defend any Excepted Third Party Claim and the Indemnifying Party
+shall have the right to elect to defend such Excepted Third Party Claim only if
+the Indemnitee does not elect to do so. Within 30 days after the receipt of
+notice from an Indemnitee in accordance with Section 4.4(a) (or sooner, if the
+nature of such Third Party Claim so requires), the Indemnifying Party
+
+<PAGE>
+
+                                                                              28
+
+shall notify the Indemnitee of its election whether the Indemnifying Party will
+assume responsibility for defending such Third Party Claim, which election shall
+specify any reservations or exceptions. After notice from an Indemnifying Party
+to an Indemnitee of its election to assume the defense of a Third Party Claim,
+such Indemnitee shall have the right to employ separate counsel and to
+participate in (but not control) the defense, compromise, or settlement thereof,
+but the fees and expenses of such counsel shall be the expense of such
+Indemnitee, except as set forth in the next sentence. In the event that the
+Indemnifying Party has elected to assume the defense of the Third Party Claim
+but has specified and continues to assert, any reservations or exceptions in
+such notice, then, in any such case, the reasonable fees and expenses of one
+separate counsel (and one separate local counsel) for all Indemnitees shall be
+borne by the Indemnifying Party.
+
+                  (c)      If an Indemnifying Party elects not to assume
+responsibility for defending a Third Party Claim, or fails to notify an
+Indemnitee of its election as provided in Section 4.4(b), or in the case of an
+Excepted Third Party Claim, such Indemnitee may defend such Third Party Claim at
+the reasonable cost and expense of the Indemnifying Party.
+
+                  (d)      Unless the Indemnifying Party has failed to assume
+the defense of the Third Party Claim in accordance with the terms of this
+Agreement, no Indemnitee may settle or compromise any Third Party Claim
+(including any Excepted Third Party Claim) without the consent of the
+Indemnifying Party (not to be unreasonably withheld), unless such Indemnitee has
+waived any rights to indemnification hereunder in respect of such Third Party
+Claim.
+
+                  (e)      Without the consent of the Indemnitee (which consent
+shall not be unreasonably withheld), the Indemnifying Party shall not enter into
+or consent to any settlement or compromise of the Third Party Claim, unless such
+settlement or compromise involves only the payment of money damages concurrently
+with such settlement (and such amount is so paid by the Indemnifying Party),
+does not impose any equitable relief upon the Indemnitee or any of its
+Affiliates, or any of its or their respective officers or directors and contains
+an unconditional release of the Indemnitee, each of its Affiliates and each of
+its and their respective officers or directors in respect of such claim.
+
+                  4.5.     ADDITIONAL MATTERS. (a) Any claim on account of a
+Liability that does not result from a Third Party Claim shall be asserted by
+written notice given by the Indemnitee to the related Indemnifying Party. Such
+Indemnifying Party shall have a period of 30 days after the receipt of such
+notice within which to respond thereto (or sooner, if the nature of such claim
+so requires). If such Indemnifying Party does not respond within such period,
+such Indemnifying Party shall be deemed to have refused to accept responsibility
+to make payment. If such Indemnifying Party does not respond within such period
+or rejects such claim in whole or in part, such Indemnitee shall be free to
+pursue such other remedies as may be available to such party.
+
+                  (b)      In the event of payment by or on behalf of any
+Indemnifying Party to any Indemnitee in connection with any Third Party Claim,
+such Indemnifying Party shall be subrogated to and shall stand in the place of
+such Indemnitee as to any events or circumstances in respect of which such
+Indemnitee may have any right, defense or claim relating to such Third Party
+Claim against any claimant or plaintiff asserting such Third Party Claim or
+against any other person but only to the extent of such payment. Such Indemnitee
+shall cooperate with such
+
+<PAGE>
+
+                                                                              29
+
+Indemnifying Party in a reasonable manner, and at the reasonable cost and
+expense of such Indemnifying Party, in prosecuting any subrogated right, defense
+or claim.
+
+                  (c)      In the event of an Action in which the Indemnifying
+Party is not a named defendant, if either the Indemnitee (in the case where the
+Indemnifying Party has not specified any reservations or exceptions) or
+Indemnifying Party shall so request, the parties shall endeavor to substitute
+the Indemnifying Party for the named defendant, if at all practicable. If such
+substitution or addition cannot be achieved for any reason or is not requested,
+the named defendant shall allow the Indemnifying Party to manage the Action as
+set forth in Section 4.4 and the Indemnifying Party shall fully indemnify the
+named defendant against all Liabilities in connection therewith, including costs
+of defending the Action (including court costs, sanctions imposed by a court,
+attorneys' fees, experts' fees and all other external expenses, the costs of any
+judgment or settlement, and the cost of any interest or penalties relating to
+any judgment or settlement.
+
+                  4.6.     REMEDIES CUMULATIVE. The remedies provided in this
+Article IV shall be cumulative and shall not preclude assertion by any
+Indemnitee of any other rights or the seeking of any and all other remedies
+against any Indemnifying Party.
+
+                  4.7.     SURVIVAL OF INDEMNITIES. The rights and obligations
+of AOLTW, each TWE Broadband Member, TWE Non-Broadband Member and their
+respective Indemnitees under this Article IV shall survive the sale or other
+transfer by any party of any Assets or businesses or the assignment by it of any
+Liabilities.
+
+                  4.8.     TAX EFFECTS OF INDEMNIFICATION.
+
+                  (a)      For all Tax purposes (unless required by a change in
+applicable Tax law or good faith resolution of a contest), the parties hereto
+agree to treat, and to cause their respective Affiliates to treat any payment
+(i) to Holdco by TWE pursuant to an indemnification, reimbursement or refund
+obligation provided for in this Agreement (a "TRANSFEROR INDEMNIFICATION
+PAYMENT"), or (ii) to TWE by Holdco or AOLTW pursuant to an indemnification,
+reimbursement or refund obligation provided for in this Agreement (a "TRANSFEREE
+INDEMNIFICATION PAYMENT" and, collectively with any Transferor Indemnification
+Payment, an "INDEMNIFICATION PAYMENT") as (x) with respect to a Transferor
+Indemnification Payment, a distribution by TWE to Holdco as part of the
+distribution described in Section 2.1(c) of this Agreement, and (y) with respect
+to a Transferee Indemnification Payment, a payment by Holdco of a TWE
+Non-Broadband Liability.
+
+                  (b)      The amount of any loss for which indemnification is
+provided under this Agreement shall be (i) increased to take account of the net
+Tax cost, if any, incurred by the indemnitee arising from the receipt or accrual
+of an Indemnification Payment hereunder (grossed up for such increase) and (ii)
+reduced to take account of the net Tax benefit, if any, realized by the
+indemnitee arising from incurring or paying such loss. In computing the amount
+of any such Tax cost or benefit, the indemnitee shall be deemed to recognize all
+other items of income, gain, loss, deduction or credit before recognizing any
+item arising from the receipt or accrual of any Indemnification Payment
+hereunder or incurring or paying any indemnified loss. Any Indemnification
+Payment hereunder shall initially be made without regard to this Section 4.8(b)
+
+<PAGE>
+
+                                                                              30
+
+and shall be increased or reduced to reflect any such net Tax cost (including
+gross-up) or net Tax benefit only after the indemnitee has actually realized
+such cost or benefit. For purposes of this Agreement, an indemnitee shall be
+deemed to have "actually realized" a net Tax cost or a net Tax benefit to the
+extent that, and at such time as, the amount of Taxes payable by such indemnitee
+is increased above or reduced below, as the case may be, the amount of Taxes
+that such indemnitee would be required to pay but for the receipt or accrual of
+the Indemnification Payment or the incurrence or payment of such loss. The
+amount of any increase or reduction hereunder shall be adjusted to reflect any
+adjustment with respect to the indemnitee's liability for Taxes, and payments
+between the parties hereto to reflect such adjustment shall be made. In the
+event that the parties disagree regarding the appropriate application of this
+Section 4.8(b), such disagreement shall be resolved by submitting the same to a
+national accounting firm that does not have a material relationship with either
+party.
+
+                  4.9.     REFUNDS. TWE shall pay to Holdco all refunds or
+credits of Taxes received by TWE after the Closing that are attributable to the
+TWE Non-Broadband Business, net of any Taxes imposed on such refund amount, to
+be paid to Holdco promptly following any receipt thereof by TWE. In the event
+that the parties disagree regarding the appropriate application of this Section
+4.9, such disagreement shall be resolved by submitting the same to a national
+accounting firm that does not have a material relationship with either party.
+
+                                    ARTICLE V
+                                    INSURANCE
+
+                  5.1.     INSURANCE MATTERS. (a) The parties intend that both
+TWE and Holdco and each other TWE Broadband Member and TWE Non-Broadband Member,
+after the Closing, shall be successors-in-interest to and retain all rights and
+interest (whether known, unknown, contingent or otherwise) that any of the
+parties has as of the Closing under any Insurance Policy issued to and/or
+providing coverage to TWE, as it existed immediately prior to the Closing, or
+any of its Subsidiaries or Affiliates, and any agreements related to such
+Insurance Policies executed and delivered prior to the Closing, including any
+rights or interests each has, as an insured, named insured, or additional named
+insured, Subsidiary, Affiliate, division or department, to avail itself of any
+benefit under any such Insurance Policy or any such agreement related to such
+policy as in effect prior to the Closing. The provisions of this Agreement are
+not intended to relieve any insurer of any Liability under any policy.
+Notwithstanding the foregoing, no TWE Broadband Member or TWE Non-Broadband
+Member shall be deemed to have made any representation or warranty as to the
+availability of any Insurance Policy or the rights and benefits provided
+thereunder.
+
+                  (b)      This Agreement shall not be considered as an
+attempted assignment of (if such an assignment would be prohibited or would
+otherwise adversely affect the rights of the insured parties under such
+policies) any rights or interest under any policy of insurance or as a contract
+of insurance and shall not be construed to waive any right or remedy of any TWE
+Broadband Member or TWE Non-Broadband Member in respect of any Insurance Policy
+or any other contract or policy of insurance.
+
+<PAGE>
+
+                                                                              31
+
+                  (c)      Each of TWE and Holdco does hereby, for itself and
+each other TWE Broadband Member and TWE Non-Broadband Member, respectively,
+agree that, as and to the extent necessary to give effect to Section 5.1(a), it
+will assign any chose in action, claim, right or benefit under an Insurance
+Policy.
+
+                  (d)      TWE does hereby, for itself and each other TWE
+Broadband Member, agree that no TWE Non-Broadband Member or TWE Non-Broadband
+Indemnitee shall have any Liability whatsoever to any TWE Broadband Member as a
+result of the insurance policies and practices of TWE and its Affiliates as in
+effect or undertaken at any time prior to the Closing, including as a result of
+the level or scope of any such insurance, the creditworthiness of any insurance
+carrier, the terms and conditions of any policy, the adequacy or timeliness of
+any notice to any insurance carrier with respect to any claim or potential claim
+or otherwise.
+
+                  (e)      Holdco does hereby, for itself and each other TWE
+Non-Broadband Member, agree that no TWE Broadband Member or TWE Broadband
+Indemnitee shall have any Liability whatsoever to any TWE Non-Broadband Member
+as a result of the insurance policies and practices of TWE and its Affiliates as
+in effect or undertaken at any time prior to the Closing, including as a result
+of the level or scope of any such insurance, the creditworthiness of any
+insurance carrier, the terms and conditions of any policy, the adequacy or
+timeliness of any notice to any insurance carrier with respect to any claim or
+potential claim or otherwise.
+
+                  (f)      Each of TWE and Holdco does hereby, for itself and
+each other TWE Broadband Member and TWE Non-Broadband Member, respectively,
+agree that all duties and obligations under any Insurance Policy, including the
+fulfillment of any conditions and the payment of any deductibles, retentions,
+co-insurance payment or retrospective premiums, that correspond in any way with
+or may be necessary to perfect, preserve or maintain an insured's right to
+obtain benefits under that Insurance Policy, will be performed by the insured
+that is seeking the benefits, subject to the indemnification provisions of
+Article IV. In the event Members of both Groups have claims under a given
+policy, any deductibles, retentions, co-insurance payments, retrospective
+premiums, caps, limitations on average and similar items will be appropriately
+allocated between such parties based on the recoveries they would have obtained
+in the absence of such items.
+
+                                   ARTICLE VI
+                    EXCHANGE OF INFORMATION; CONFIDENTIALITY
+
+                  6.1.     AGREEMENT FOR EXCHANGE OF INFORMATION. (a) Each of
+TWE and Holdco, on behalf of itself and each other TWE Broadband Member and TWE
+Non-Broadband Member, respectively, agrees to provide, or cause to be provided,
+to each other Group, at any time before or after the Closing, as soon as
+reasonably practicable after written request therefor, any Information in the
+possession or under the control of such respective Group that the requesting
+party reasonably needs (i) to comply with reporting, disclosure, filing or other
+requirements imposed on the requesting party (including under applicable
+securities or Tax laws) by a Governmental Authority having jurisdiction over the
+requesting party, (ii) for use in any other judicial, regulatory,
+administrative, Tax or other proceeding or in order to satisfy audit,
+accounting, claims, regulatory, litigation, Tax or other similar requirements or
+(iii) to comply
+
+<PAGE>
+
+                                                                              32
+
+with its obligations under this Agreement or any Ancillary Agreement; provided,
+however, that in the event that any party determines that any such provision of
+Information could be commercially detrimental, violate any Law or agreement, or
+waive any attorney-client privilege, the parties shall take all reasonable
+measures to permit the compliance with such obligations in a manner that avoids
+any such harm or consequence. TWE and Holdco intend that any transfer of
+Information that would otherwise be within the attorney-client privilege shall
+not operate as a waiver of any potentially applicable privilege.
+
+                  (b)      After the date hereof, each of TWE (and its
+Subsidiaries) and Holdco (and its Subsidiaries) shall maintain in effect
+adequate systems and controls to the extent necessary to enable the members of
+the other Group to satisfy their respective reporting, accounting, audit and
+other obligations.
+
+                  6.2.     OWNERSHIP OF INFORMATION. Any Information owned by
+one Group that is provided to a requesting party pursuant to Section 6.1 shall
+be deemed to remain the property of the providing party. Unless specifically set
+forth herein, nothing contained in this Agreement shall be construed as granting
+or conferring rights of license or otherwise in any such Information.
+
+                  6.3.     COMPENSATION FOR PROVIDING INFORMATION. The party
+requesting such Information agrees to reimburse the other party for the
+reasonable costs, if any, of creating, gathering and copying such Information,
+to the extent that such costs are incurred for the benefit of the requesting
+party. Except as may be otherwise specifically provided elsewhere in this
+Agreement or in any other agreement between the parties, such costs shall be
+computed in accordance with the providing party's standard methodology and
+procedures.
+
+                  6.4.     RECORD RETENTION. To facilitate the possible exchange
+of Information pursuant to this Article VI and other provisions of this
+Agreement after the Closing, the parties agree to use their reasonable best
+efforts to retain all Information in their respective possession or control on
+the Closing in accordance with their respective record retention policies as in
+effect on the Closing. No party will destroy, or permit any of its Subsidiaries
+to destroy, any Information that the other party may have the right to obtain
+pursuant to this Agreement prior to the third anniversary of the Closing without
+first using its reasonable best efforts to notify the other party of the
+proposed destruction and giving the other party the opportunity to take
+possession of such Information prior to such destruction; provided, however,
+that in the case of any Information relating to Taxes, employee-related matters
+or to Environmental Liabilities, such period shall be extended to the expiration
+of the applicable statute of limitations (giving effect to any extensions
+thereof). Moreover, no party will destroy, or permit any of its Subsidiaries to
+destroy, any policies of insurance (or records related to such insurance
+policies) without first using its reasonable best efforts to notify the other
+party of the proposed destruction and giving the other party reasonable
+opportunity to take possession of such Information prior to such destruction, if
+it is possible (in the first party's reasonable judgment) that the other party
+may be able to obtain coverage under such policies. (The foregoing includes
+"occurrence"-based liability policies, which continue to cover liability for
+alleged harm during their policy period, even if no claim is made based on such
+alleged harm until after the end of the policy period.)
+
+<PAGE>
+
+                                                                              33
+
+                  6.5.     LIMITATION OF LIABILITY. No party shall have any
+Liability to any other party in the event that any Information exchanged or
+provided pursuant to this Agreement that is an estimate or forecast, or that is
+based on an estimate or forecast, is found to be inaccurate, in the absence of
+willful misconduct by the party providing such Information. No party shall have
+any Liability to any other party if any Information is destroyed after
+reasonable best efforts by such party to comply with the provisions of Section
+6.4.
+
+                  6.6.     OTHER AGREEMENTS PROVIDING FOR EXCHANGE OF
+INFORMATION. The rights and obligations granted under this Article VI are
+subject to any specific limitations, qualifications or additional provisions on
+the sharing, exchange or confidential treatment of Information set forth in any
+Ancillary Agreement.
+
+                  6.7.     PRODUCTION OF WITNESSES; RECORDS; COOPERATION. (a)
+After the Closing, except in the case of an adversarial Action by one party
+against the other party (which shall be governed by such discovery rules as may
+be applicable thereto), each party hereto shall take all reasonable steps to
+make available to the other party, upon written request, the former, current and
+future directors, officers, employees, other personnel and agents of the Members
+of its respective Group (whether as witnesses or otherwise) and any books,
+records or other documents within its control or that it otherwise has the
+ability to make available, to the extent that such person (giving consideration
+to business demands of such directors, officers, employees, other personnel and
+agents) or books, records or other documents may reasonably be required in
+connection with any Action (including preparation for such Action) in which the
+requesting party may from time to time be involved, regardless of whether such
+Action is a matter with respect to which indemnification may be sought
+hereunder. The requesting party shall bear all reasonable costs and expenses in
+connection therewith.
+
+                  (b)      If an Indemnifying Party chooses to defend or to seek
+to compromise or settle any Third Party Claim, or if any party chooses or is
+required to prosecute, pursue, otherwise evaluate or defend any Action, the
+other party shall reasonably cooperate in such defense, settlement or
+compromise, or such prosecution, evaluation or pursuit, as the case may be. The
+requesting party shall bear all reasonable costs and expenses in connection
+therewith.
+
+                  (c)      Without limiting the foregoing, the parties shall
+cooperate and consult to the extent reasonably necessary with respect to any
+Actions.
+
+                  (d)      The obligation of the parties to make available
+former, current and future directors, officers, employees, other personnel and
+agents pursuant to this Section 6.7 is intended to be interpreted in a manner so
+as to facilitate cooperation and shall include the obligation to make available
+inventors and other officers without regard to whether such individual or the
+employer of such individual could assert a possible business conflict (subject
+to the exception set forth in the first sentence of Section 6.7(a)). Without
+limiting the foregoing, each party agrees that neither it nor any member of its
+respective Group will take any adverse action against any employee of its Group
+based on such employee's provision of assistance or information to the other
+party pursuant to Section 6.7(a).
+
+<PAGE>
+
+                                                                              34
+
+                  (e)      In connection with any Action contemplated by this
+Article VI, the parties will enter into a mutually acceptable joint defense
+agreement so as to maintain to the extent practicable any applicable
+attorney-client privilege or work product immunity of either Group.
+
+                  6.8.     CONFIDENTIALITY. (a) Subject to Section 6.9, each of
+TWE and Holdco, on behalf of itself and each Member of its respective Group,
+agrees to hold, and to cause its respective directors, officers, employees,
+agents, accountants, counsel and other advisors and representatives to hold, in
+strict confidence, with at least the same degree of care that it applies to
+TWE's confidential and proprietary information pursuant to policies in effect as
+of the Closing, all Information concerning the other Group that is either in its
+possession (including Information in its possession prior to the date hereof or
+of the Closing) or furnished by the other Group or its respective directors,
+officers, employees, agents, accountants, counsel and other advisors and
+representatives at any time pursuant to this Agreement, or any Ancillary
+Agreement, and shall not use any such Information other than for such purposes
+as shall be expressly permitted hereunder or thereunder, except, in each case,
+to the extent that such Information has been (i) in the public domain through no
+fault of such party or such party's Group or any of their respective directors,
+officers, employees, agents, accountants, counsel and other advisors and
+representatives, (ii) later lawfully acquired from other sources by such party
+(or such party's Group), which sources are not themselves bound by a
+confidentiality obligation) to the knowledge of such party or members of such
+party's Group or (iii) independently generated without reference to any
+proprietary or confidential Information of the other party.
+
+                  (b)      Each party agrees not to release or disclose, or
+permit to be released or disclosed, any such Information concerning the other
+Group to any other Person, except its directors, officers, employees, agents,
+accountants, counsel and other advisors and representatives who need to know
+such Information (who shall be advised of their obligations hereunder with
+respect to such Information) and in compliance with Section 6.9. Without
+limiting the foregoing, when any Information is no longer needed for the
+purposes contemplated by this Agreement or any Ancillary Agreement, each party
+will promptly after request of the other party either return to the other party
+all Information in a tangible form (including all copies thereof and all notes,
+extracts or summaries based thereon) or certify to the other party that it has
+destroyed such Information (and all electronic or other copies thereof and all
+notes, extracts or summaries based thereon).
+
+                  6.9.     PROTECTIVE ARRANGEMENTS. In the event that any party
+or any member of its Group either determines on the advice of its counsel that
+it is required to disclose any Information concerning the other Group pursuant
+to applicable Law or receives any demand under lawful process or from any
+Governmental Authority to disclose or provide Information concerning the other
+Group that is subject to the confidentiality provisions hereof, such party shall
+notify the other party prior to disclosing or providing such Information and
+shall cooperate at the expense of the requesting party in seeking any reasonable
+protective arrangements requested by such other party. Subject to the foregoing,
+the Person that received such request may thereafter disclose or provide
+Information to the extent required by such Law (as so advised by counsel) or by
+lawful process or such Governmental Authority.
+
+<PAGE>
+
+                                                                              35
+
+                                   ARTICLE VII
+                               FURTHER ASSURANCES
+
+                  7.1.     FURTHER ASSURANCES.
+
+                  (a)      In addition to the actions specifically provided for
+elsewhere in this Agreement, the Ancillary Agreements, the Restructuring
+Agreement or the other Transaction Agreements, but subject to the provisions
+hereof and thereof, each of the parties hereto shall use its reasonable best
+efforts, prior to, on and after the Closing, to take, or cause to be taken, all
+actions, and to do, or cause to be done, all things, reasonably necessary,
+proper or advisable under applicable laws, regulations and agreements to
+consummate and make effective the transactions contemplated by this Agreement
+and the Ancillary Agreements.
+
+                  (b)      Without limiting the foregoing, prior to, on and
+after the Closing, each party hereto shall cooperate with the other party, and
+without any further consideration, but at the expense of the requesting party,
+to execute and deliver, or use its reasonable best efforts to cause to be
+executed and delivered, all instruments, including instruments of conveyance,
+assignment and transfer, and to make all filings with, and to obtain all
+consents, approvals or authorizations of, any Governmental Authority or any
+other Person under any permit, license, agreement, indenture or other instrument
+(including any Consents or Governmental Approvals), and to take all such other
+actions as such party may reasonably be requested to take by any other party
+hereto from time to time, consistent with the terms of this Agreement, the
+Ancillary Agreements, the Restructuring Agreements or the other Transaction
+Agreements, in order to effectuate the provisions and purposes of this Agreement
+and the Ancillary Agreements and the transfers of the TWE Non-Broadband Assets
+and Non-Transferred Assets and the assignment and assumption of the TWE
+Non-Broadband Liabilities and Non-Transferred Liabilities and the other
+transactions contemplated hereby and thereby.
+
+                  (c)      On or prior to the Closing, TWE and Holdco in their
+respective capacities as direct and indirect shareholders of their respective
+Subsidiaries, shall each ratify any actions that are reasonably necessary or
+desirable to be taken by TWE and Holdco or any Subsidiary of TWE or Holdco, as
+the case may be, to effectuate the transactions contemplated by this Agreement.
+
+                                  ARTICLE VIII
+                                   TERMINATION
+
+                  8.1.     TERMINATION. This Agreement shall automatically, and
+without further action by either party, terminate immediately upon the
+termination of the Restructuring Agreement in accordance with its terms.
+
+                  8.2.     EFFECT OF TERMINATION. In the event of any
+termination of this Agreement prior to the Closing, no Member of either Group
+(or any of its directors or officers) shall have any Liability or further
+obligation to any Member of the other Group with respect to this Agreement.
+
+<PAGE>
+
+                                                                              36
+
+                                   ARTICLE IX
+                                  MISCELLANEOUS
+
+                  9.1.     COUNTERPARTS; ENTIRE AGREEMENT.
+
+                  (a)      This Agreement and each Ancillary Agreement may be
+executed in one or more counterparts, all of which shall be considered one and
+the same agreement, and shall become effective when one or more counterparts
+have been signed by each of the parties and delivered to the other party.
+
+                  (b)      This Agreement, together with the Ancillary
+Agreements, the Restructuring Agreement, the Transaction Agreements, the
+Confidentiality Agreements and the Exhibits, Schedules and Appendices hereto and
+thereto, constitutes the entire agreement between the parties with respect to
+the subject matter hereof and thereof and supersedes all prior agreements and
+understandings, both oral and written, between the parties with respect to such
+subject matter.
+
+                  9.2.     GOVERNING LAW. This Agreement and, unless expressly
+provided therein, each Ancillary Agreement, shall be governed by and construed
+and interpreted in accordance with the Laws of the State of New York,
+irrespective of the choice of laws principles of the State of New York, as to
+all matters, including matters of validity, construction, effect,
+enforceability, performance and remedies.
+
+                  9.3.     ASSIGNABILITY. Except as set forth in any Ancillary
+Agreement, this Agreement and each Ancillary Agreement shall be binding upon and
+inure to the benefit of the parties hereto and thereto, respectively, and their
+respective successors and assigns; provided, however, that no party hereto or
+thereto may assign its respective rights or delegate its respective obligations
+under this Agreement or any Ancillary Agreement without the express prior
+written consent of each of the other parties hereto or thereto.
+
+                  9.4.     JURISDICTION. Any suit, action or proceeding seeking
+to enforce any provision of, or based on any matter arising out of or in
+connection with, this Agreement or the transactions contemplated hereby shall be
+brought in any federal court located in the State of New York or any New York
+state court, and each of the parties hereby consents to the exclusive
+jurisdiction of such courts (and of the appropriate appellate courts therefrom)
+in any such suit, action or proceeding and irrevocably waives, to the fullest
+extent permitted by law, any objection that it may now or hereafter have to the
+laying of the venue of any such suit, action or proceeding in any such court or
+that any such suit, action or proceeding brought in any such court has been
+brought in an inconvenient forum. Process in any such suit, action or proceeding
+may be served on either party hereto anywhere in the world, whether within or
+without the jurisdiction of any such court. Without limiting the foregoing, each
+party hereto agrees that service of process on such party as provided in Section
+9.7 shall be deemed effective service of process on such party.
+
+                  9.5.     WAIVER OF JURY TRIAL. EACH OF THE PARTIES HERETO
+HEREBY IRREVOCABLY WAIVES ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL
+PROCEEDING ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE TRANSACTIONS
+CONTEMPLATED HEREBY.
+
+<PAGE>
+
+                                                                              37
+
+                  9.6.     THIRD PARTY BENEFICIARIES. Except for the
+indemnification rights under this Agreement of any TWE Broadband Indemnitee or
+TWE Non-Broadband Indemnitee in their respective capacities as such, (i) the
+provisions of this Agreement and each Ancillary Agreement are solely for the
+benefit of the relevant parties and are not intended to confer upon any Person
+except the relevant parties any rights or remedies hereunder or thereunder and
+(ii) there are no third party beneficiaries of this Agreement or any Ancillary
+Agreement and neither this Agreement nor any Ancillary Agreement shall provide
+any third person with any remedy, claim, liability, reimbursement, claim of
+action or other right in excess of those existing without reference to this
+Agreement or any Ancillary Agreement.
+
+                  9.7.     NOTICES. All notices, requests or other
+communications under this Agreement or any Ancillary Agreement shall be in
+writing (including facsimile transmission) and shall be given:
+
+      If to Holdco to:              Warner Communications Inc.
+                                    c/o AOL Time Warner Inc.
+                                    75 Rockefeller Plaza
+                                    New York, NY 10019
+
+                                    Attn:  General Counsel
+                                    Fax:   212-258-3172
+
+      If to TWE to:                 Time Warner Entertainment Company, L.P.
+                                    c/o AOL Time Warner Inc.
+                                    75 Rockefeller Plaza
+                                    New York, NY 10019
+
+                                    Attn:  General Counsel
+                                    Fax:   212-259-3172
+
+      In each case with a copy to:
+
+                                    Paul, Weiss, Rifkind, Wharton & Garrison LLP
+                                    1285 Avenue of the Americas
+                                    New York, New York 10019
+
+                                    Attn:  Robert B. Schumer, Esq.
+                                    Fax:   212-757-3990
+
+                                    and to:
+
+                                    TWE Holdings I Trust
+                                    c/o Edith E. Holiday
+                                    801 West Street
+                                    2nd Floor
+                                    Wilmington, DE 19801
+
+<PAGE>
+
+                                                                              38
+
+                                    Fax:   302-428-1410
+
+                                    and to:
+
+                                    Sullivan & Cromwell
+                                    125 Broad Street
+                                    New York, New York 10004
+
+                                    Attn:  James C. Morphy, Esq.
+                                    Fax:   212-558-3588
+
+or such other address or facsimile number as such party hereto may hereafter
+specify for such purpose by notice to the other parties hereto. All such
+notices, requests and other communications shall be deemed received on the date
+of receipt by the recipient thereof if received prior to 5 p.m. on a Business
+Day, in the place of receipt. Otherwise, any such notice, request or
+communication shall be deemed not to have been received until the next
+succeeding Business Day in the place of receipt. Any party may, by notice to the
+other party, change the address to which such notices are to be given.
+
+                  9.8.     TREATMENT OF ADVANCE-NEWHOUSE. Notwithstanding
+anything to the contrary contained in this Agreement or in any Ancillary
+Agreement, the parties acknowledge and agree that, for all purposes of this
+Agreement and the other Ancillary Agreements: (i) the ownership and operation of
+TWEAN has been restructured, (ii) the TWEAN Franchises and Systems in the
+Selected Business have been assigned to a third party (subject to the receipt of
+Franchise Consents), (iii) none of the parties hereto or its Subsidiaries shall
+have any rights or responsibilities with respect to the Selected Business,
+except to the extent contemplated by the Master Transaction Agreement, (iv) no
+Indebtedness, cash or cash equivalents attributable to the Selected Business
+shall be distributed to, or assumed by, Holdco and (v) no party makes any
+representation, warranty or covenant with respect to the TWEAN Restructuring or
+the Selected Business except as explicitly provided in the Restructuring
+Agreement.
+
+                  9.9.     SEVERABILITY. If any term, provision, covenant or
+restriction of this Agreement is held by a court of competent jurisdiction or
+other authority to be invalid, void or unenforceable, the remainder of the
+terms, provisions, covenants and restrictions of this Agreement shall remain in
+full force and effect and shall in no way be affected, impaired or invalidated
+so long as the economic or legal substance of the transactions contemplated
+hereby is not affected in any manner adverse to any party hereto. Upon such a
+determination, the parties hereto shall negotiate in good faith to modify this
+Agreement so as to effect the original intent of the parties as closely as
+possible in an acceptable manner so that the transactions contemplated hereby be
+consummated as originally contemplated to the fullest extent possible.
+
+                  9.10.    PUBLIC ANNOUNCEMENTS. Prior to Closing, the parties
+hereto will consult with each other before issuing any press release or making
+any public statement with respect to, this Agreement, any Ancillary Agreements,
+the Restructuring Agreement or any other Transaction Agreement (except to the
+extent consistent with a release or statement previously
+
+<PAGE>
+
+                                                                              39
+
+approved hereunder) and, except as may be required by applicable Law or any
+listing agreement with any national securities exchange or quotation system,
+will not issue any such press release or make any such public statement without
+the prior consent of the other parties, which consent shall not be unreasonably
+withheld. Notwithstanding the foregoing, any such press release or public
+statement that may be required by applicable Law or any listing agreement with
+any national securities exchange or quotation system may be issued without such
+consent, if the party hereto making such release or statement has used its
+reasonable efforts to consult with the other parties.
+
+                  9.11.    EXPENSES. Whether or not the transactions
+contemplated by this Agreement are consummated, all third party fees, costs and
+expenses (including governmental transfer taxes, recording fees and other
+similar fees and impositions) paid or incurred in connection with such
+transactions will be paid in accordance with Section 12.3 of the Restructuring
+Agreement.
+
+                  9.12.    HEADINGS. The Article, Section and paragraph headings
+contained in this Agreement and in the Ancillary Agreements are for reference
+purposes only and shall not affect in any way the meaning or interpretation of
+this Agreement or any Ancillary Agreement.
+
+                  9.13.    WAIVERS OF DEFAULT. Waiver by any party of any
+default by the other party of any provision of this Agreement or any Ancillary
+Agreement shall not be deemed a waiver by the waiving party of any subsequent or
+other default, nor shall it prejudice the rights of the other party.
+
+                  9.14.    SPECIFIC PERFORMANCE. In the event of any actual or
+threatened default in, or breach of, any of the terms, conditions and provisions
+of this Agreement or any Ancillary Agreement, the party or parties who are or
+are to be thereby aggrieved shall have the right to specific performance and
+injunctive or other equitable relief of its rights under this Agreement or such
+Ancillary Agreement, in addition to any and all other rights and remedies at Law
+or in equity, and all such rights and remedies shall be cumulative. The parties
+agree that the remedies at Law for any breach or threatened breach, including
+monetary damages, are inadequate compensation for any loss and that any defense
+in any action for specific performance that a remedy at Law would be adequate is
+waived. Any requirements for the securing or posting of any bond with such
+remedy are waived.
+
+                  9.15.    AMENDMENTS. No provisions of this Agreement or any
+Ancillary Agreement shall be deemed waived, amended, supplemented or modified by
+any party, unless such waiver, amendment, supplement or modification is in
+writing and signed by the authorized representative of the party against whom
+such waiver, amendment, supplement or modification it is sought to be enforced.
+
+                  9.16.    LATE PAYMENTS. Except as expressly provided to the
+contrary in this Agreement or in any Ancillary Agreement, any amount not paid
+when due pursuant to this Agreement or any Ancillary Agreement (and any amounts
+billed or otherwise invoiced or demanded and properly payable that are not paid
+within 30 days of such bill, invoice or other demand) shall accrue interest at a
+rate per annum equal to the Prime Rate plus 2%.
+
+<PAGE>
+
+                                                                              40
+
+                  9.17.    INTERPRETATION. In this Agreement, unless otherwise
+specified or where the context otherwise requires:
+
+                  (a)      a reference to a Recital is to the relevant Recital
+to this Agreement, to a Section is to the relevant Section of this Agreement and
+to an Exhibit is to the relevant Exhibit to this Agreement;
+
+                  (b)      words importing any gender shall include other
+genders;
+
+                  (c)      words importing the singular only shall include the
+plural and vice versa;
+
+                  (d)      the words "include", "includes" or "including" shall
+be deemed to be followed by the words "without limitation";
+
+                  (e)      the words "hereof", "herein", "hereunder" and
+"herewith" and words of similar import shall, unless otherwise stated, be
+construed to refer to this Agreement as a whole and not to any particular
+provision of this Agreement, and Article, clause and Exhibit references are to
+the Articles, clauses and Exhibits to this Agreement unless otherwise specified;
+
+                  (f)      references to any Person or any other agreement or
+document shall include such Person's successors and permitted assigns;
+
+                  (g)      the parties hereto have participated jointly in the
+negotiation and drafting of this Agreement, and, in the event an ambiguity or
+question of intent or interpretation arises, this Agreement shall be construed
+as if drafted jointly by the parties hereto, and no presumption or burden of
+proof shall arise favoring or disfavoring any party hereto by virtue of the
+authorship of any provisions of this Agreement; and
+
+                  (h)      unless otherwise expressly provided herein, any
+Contract or Law defined or referred to herein or in any Contract that is
+referred to herein means such Contract or Law as from time to time amended,
+modified or supplemented, including (in the case of a Contract) by waiver or
+consent and (in the case of a Law) by succession of comparable successor Laws to
+all attachments thereto and instruments incorporated therein, and any reference
+in this Agreement to a Law shall be deemed to include any rules and regulations
+promulgated thereunder.
+
+<PAGE>
+
+                                                                              41
+
+                  IN WITNESS WHEREOF, the parties have caused this Distribution
+Agreement to be executed by their duly authorized representatives.
+
+                                      TIME WARNER ENTERTAINMENT
+                                      COMPANY, L.P.
+
+                                      BY: AMERICAN TELEVISION AND COMMUNICATIONS
+                                          CORPORATION, ITS GENERAL PARTNER
+
+                                      By:      /s/ Spencer B. Hays
+                                          --------------------------------------
+                                          Name:  Spencer B. Hays
+                                          Title: Senior Vice President
+
+                                      WARNER COMMUNICATIONS INC.
+
+                                      By:      /s/ Douglas S. Phillips
+                                          --------------------------------------
+                                          Name:  Douglas S. Phillips
+                                          Title: Vice President
+
+For purposes of Article IV only:
+
+AOL TIME WARNER INC.
+
+By:    /s/ Spencer B. Hays
+    ----------------------------
+    Name:  Spencer B. Hays
+    Title: Senior Vice President
+
+MOTH HOLDINGS, INC.
+
+By:    /s/ Rosemarie S. Teta
+    ----------------------------
+    Name:  Rosemarie S. Teta
+    Title: Vice President
+
+</TEXT>
+</DOCUMENT>

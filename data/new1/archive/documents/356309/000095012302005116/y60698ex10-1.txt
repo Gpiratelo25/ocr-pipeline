@@ -1,0 +1,3254 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>3
+<FILENAME>y60698ex10-1.txt
+<DESCRIPTION>AMENDED AND RESTATED AGREEMENT
+<TEXT>
+<PAGE>
+                                                                    EXHIBIT 10-1
+
+SECTION(S) MARKED WITH "***" ARE REDACTED PURSUANT TO A REQUEST FOR CONFIDENTIAL
+TREATMENT THAT WAS FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION
+PURSUANT TO RULE 24b-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+
+                              AMENDED AND RESTATED
+                               NATURAL GAS STORAGE
+                       MARKETING AND MANAGEMENT AGREEMENT
+
+                                     BETWEEN
+
+                           NJR ENERGY SERVICES COMPANY
+
+                                       AND
+
+                              eCORP MARKETING, LLC
+
+
+
+                              AS OF JANUARY 9, 2002
+<PAGE>
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                                                               Page
+                                                                                                               ----
+<S>                                                                                                            <C>
+ARTICLE 1: EFFECTIVE DATE AND TERM................................................................................2
+
+ARTICLE 2: SCOPE OF SERVICES......................................................................................2
+         2.1     Scope of Services................................................................................2
+         2.2     Wholesale Trading................................................................................3
+         2.3     Guaranty.........................................................................................4
+         2.4     Performance of Services..........................................................................4
+         2.5     Long-Term Capacity Release to NJRES..............................................................4
+         2.6     Recall by eCORP Marketing of Released Tennessee Capacity.........................................4
+
+ARTICLE 3: COMPENSATION...........................................................................................5
+         3.1     Pre-Development Phase............................................................................5
+         3.2     Development and Commercial Operating Phase Compensation..........................................5
+         3.3     System Software..................................................................................7
+         3.4     Status of Payments...............................................................................7
+         ***
+
+ARTICLE 4: AUTHORITY TO ENTER INTO NATURAL GAS SUPPLY AND TRANSPORTATION ARRANGEMENTS.............................7
+
+ARTICLE 5: GUIDELINES.............................................................................................8
+
+ARTICLE 6: RECORDS................................................................................................8
+
+ARTICLE 7: CONFIDENTIAL INFORMATION...............................................................................8
+         7.1     Non-Disclosure...................................................................................8
+         7.2     Regulatory Disclosure............................................................................9
+
+ARTICLE 8: INDEMNIFICATION/LIABILITY..............................................................................9
+         8.1     Indemnification..................................................................................9
+         8.2     Limitation of Liability.........................................................................10
+         8.3     Insurance.......................................................................................10
+
+ARTICLE 9: FORCE MAJEURE.........................................................................................10
+         9.1     Force Majeure...................................................................................10
+         9.2     Performance.....................................................................................10
+         9.3     Continued Force Majeure.........................................................................11
+</TABLE>
+
+                                       i
+<PAGE>
+<TABLE>
+<S>                                                                                                              <C>
+ARTICLE 10: CURTAILMENTS.........................................................................................11
+
+ARTICLE 11: CONTRACTUAL RELATIONSHIP.............................................................................11
+
+ARTICLE 12: BUYOUT FEE...........................................................................................12
+
+ARTICLE 13: BILLING AND PAYMENT..................................................................................12
+         13.1    Billing and Payment.............................................................................12
+         13.2    Information.....................................................................................13
+
+ARTICLE 14: eCORP MARKETING PUT OPTION...........................................................................13
+         14.1    Gross Revenue Projection........................................................................13
+         14.2    Put Option......................................................................................14
+         14.3    Limitations.....................................................................................15
+         14.4    Termination of Put Option.......................................................................15
+         14.5    Conditions Precedent............................................................................15
+
+ARTICLE 15: DEFAULT..............................................................................................16
+         15.1    Default.........................................................................................16
+         15.2    eCORP Marketing Default Event...................................................................16
+         15.3    NJRES Default Event.............................................................................17
+
+ARTICLE 16: PUBLICITY............................................................................................18
+         16.1    Releases........................................................................................18
+         16.2    Articles........................................................................................18
+
+ARTICLE 17: DISPUTE RESOLUTION...................................................................................18
+         17.1    Disputes........................................................................................18
+         17.2    Litigation......................................................................................18
+         17.3    Waiver of Trial by Jury.........................................................................18
+
+ARTICLE 18: GENERAL..............................................................................................19
+         18.1    Obligations of the Parties......................................................................19
+         18.2    Notices.........................................................................................19
+         18.3    Binding Effect..................................................................................19
+         18.4    Entire Agreement................................................................................19
+         18.5    Amendment.......................................................................................19
+         18.6    Assignment......................................................................................20
+         18.7    Survival........................................................................................20
+         18.8    Governing Law...................................................................................20
+         18.9    Regulatory Matters..............................................................................20
+         18.10   Jurisdiction....................................................................................20
+</TABLE>
+
+                                       ii
+<PAGE>
+EXHIBITS
+
+Exhibit A      -  Risk Management Procedures
+Exhibit B-1    -  Put Option monthly prices - first year
+Exhibit B-2    -  Put Option monthly prices - subsequent years
+Exhibit B-3    -  Adjusted Put Option monthly prices - subsequent years
+Exhibit B-4    -  Adjusted Put Option monthly prices - subsequent years
+Exhibit B-5    -  Adjustment to Put Option monthly prices - subsequent years
+Exhibit B-6    -  Adjustment to Put Option monthly prices - first year
+Exhibit C      -  Form of Guaranty
+Exhibit D      -  Form of Notice of Agreements for Revenue Pool Assessment
+Exhibit E      -  Calculation of Net Amount as to Wholesale Trading Transactions
+
+LOCATIONS OF DEFINITIONS
+
+Acceptable Credits                                    Section 2.2(c)
+Agreement                                             Opening Paragraph
+Amendment                                             Recitals
+Buyout Fee                                            Article 12
+Buyout Right                                          Article 12
+Capacity Release Agreement                            Recitals
+CNYOG                                                 Recitals
+Controlled Transportation Capacity                    Risk Management Procedures
+Debtor Relief Laws                                    Section 15.2(b)
+Development Phase                                     Section 3.2(a)
+Direct Transactions                                   Risk Management Procedures
+eCORP Holding                                         Recitals
+eCORP Marketing                                       Opening Paragraph
+eCORP Marketing Default Event                         Section 15.2
+Expert                                                Section 17.4
+First Valuation Period                                Section 14.2(a)
+Force Majeure                                         Section 9.1
+LIBOR                                                 Section 2.2(c)
+MOSI                                                  Section 3.3
+NJRC                                                  Section 2.3
+NJRC Guaranty                                         Section 2.3
+NJRES                                                 Opening Paragraph
+NJRES Default Event                                   Section 15.3
+Operating Phase                                       Section 3.2(a)
+Original Agreement                                    Recitals
+Permitted Transactions                                Risk Management Procedures
+Procedures                                            Risk Management Procedures
+
+
+                                      iii
+<PAGE>
+Pre-Development Phase                                 Section 3.1
+Proposed Second Amendment                             Recitals
+Put Option                                            Section 14.2
+Released Tennessee Capacity                           Recitals
+Revenue Pool                                          Section 3.2(d)
+Revenue Sharing Incentive Payments                    Section 3.2(d)
+Risk Management Procedures                            Article 5
+Sale Event                                            Article 1
+Senior Depositary Agreement                           Section 2.7
+Senior Lenders                                        Section 14.2(c)
+Senior Loan Agreement                                 Section 14.2(c)
+Services                                              Section 2.1
+Stagecoach Project                                    Recitals
+Stagecoach Holding                                    Article 1
+Storage Capacity                                      Recitals
+Tennessee                                             Recitals
+Valuation Period                                      Section 3.2(d)
+West LB                                               Section 2.7
+Wholesale Trading Transactions                        Risk Management Procedures
+
+
+                                       iv
+<PAGE>
+                              AMENDED AND RESTATED
+                               NATURAL GAS STORAGE
+                       MARKETING AND MANAGEMENT AGREEMENT
+
+         This AMENDED AND RESTATED NATURAL GAS STORAGE MARKETING AND MANAGEMENT
+AGREEMENT (this "Agreement"), dated as of January 9, 2002, is by and between NJR
+ENERGY SERVICES COMPANY, a New Jersey corporation ("NJRES"), and eCORP
+MARKETING, LLC, a Delaware limited liability company and successor by merger to
+eCORP MARKETING, LLC, a Nevada limited liability company ("eCORP Marketing").
+
+                                   WITNESSETH
+
+         WHEREAS, on October 11, 1998, NJRES and eCORP Holding, LLC a/k/a eCORP,
+LLC ("eCORP Holding") entered into that certain Natural Gas Storage Marketing
+and Management Agreement (the "Original Agreement") concerning the development
+and marketing of the Stagecoach Natural Gas Storage Project located in Tioga
+County, New York (the "Stagecoach Project") that is owned and operated by
+Central New York Oil and Gas Company, LLC ("CNYOG");
+
+         WHEREAS, on July 10, 2000, NJRES, eCORP Holding and eCORP Marketing
+entered into that certain Restatement and Amendment to Natural Gas Storage
+Marketing and Management Agreement (the "Amendment") whereby eCORP Marketing was
+substituted for eCORP as a party to the Original Agreement and certain
+amendments were made to the Original Agreement;
+
+         WHEREAS, NJRES and eCORP Marketing have discussed, but never entered
+into, a proposed Put Option and Second Amendment to Natural Gas Storage
+Marketing and Management Agreement (the "Proposed Second Amendment");
+
+         WHEREAS, eCORP Marketing holds all of the firm storage capacity in the
+Stagecoach Project (the "Storage Capacity");
+
+         WHEREAS, eCORP Marketing wishes to develop and implement a
+comprehensive marketing plan for the Storage Capacity it holds in Stagecoach
+Project, including but not limited to establishing the economic feasibility of
+the Stagecoach Project and actively marketing the Storage Capacity to customers;
+
+         WHEREAS, NJRES through its key personnel has expertise in the
+development, marketing and management of natural gas transportation and storage
+assets and services;
+
+         WHEREAS, eCORP Marketing and NJRES (i) have heretofore effected a
+long-term release to NJRES of an aggregate of 90,000 Dth per day of firm
+transportation services pursuant to the Gas Transportation Agreement dated June
+7, 2001, between eCORP Marketing and Tennessee Gas Pipeline Company
+("Tennessee"; such services being hereinafter referred to as the "Released
+Tennessee Capacity"), and (ii) contemporaneously herewith, are entering into a
+<PAGE>
+Transportation Capacity Release Agreement (the "Capacity Release Agreement")
+providing for the re-release of the Released Tennessee Capacity to eCORP
+Marketing on the terms and conditions set forth therein; and
+
+         WHEREAS, eCORP Marketing and NJRES wish to amend and restate the
+Original Agreement to incorporate the provisions and amendments contained in the
+Amendment and the provisions and amendments contemplated by the Proposed Second
+Amendment;
+
+         NOW, THEREFORE, in consideration of the premises and mutual covenants
+herein contained, the parties hereby agree as follows:
+
+                       ARTICLE 1: EFFECTIVE DATE AND TERM
+
+         This Agreement shall be effective as of October 11, 1998, and shall
+continue in force and effect until the first to occur of (i) termination in
+accordance with Article 12 or 15 below, (ii) the occurrence of a Sale Event (as
+hereinafter defined), or (iii) March 31, 2012. As used in this Agreement, the
+term "Sale Event" shall mean (x) liquidation, dissolution, or winding-up of the
+existence or business of eCORP Marketing and/or CNYOG, (y) closing of a sale of
+Stagecoach Holding, LLC ("Stagecoach Holding") or its business, whether
+structured as a merger or consolidation of Stagecoach Holding and/or any of
+eCORP Marketing or CNYOG with or into any other entity, sale of all or
+substantially all assets or equity interests of Stagecoach Holding, eCORP
+Marketing and/or CNYOG, or otherwise, or (z) closing of a public offering of
+securities of Stagecoach Holding or any of its subsidiaries (including eCORP
+Marketing or CNYOG) registered pursuant to the Securities Act of 1933, as
+amended.
+
+                          ARTICLE 2: SCOPE OF SERVICES
+
+         2.1 Scope of Services. NJRES will assist eCORP Marketing in the
+development and implementation of a comprehensive marketing plan for the
+Stagecoach Project, assist in negotiating applicable agreements, and actively
+manage and administratively monitor all natural gas storage and related
+transportation services to be provided to eCORP Marketing's customers in
+connection with the Stagecoach Project by providing the following (the
+"Services") in accordance with applicable law and prudent industry practice:
+
+         (a)      assisting eCORP Marketing in the performance of due diligence
+                  to establish the economic feasibility of the Stagecoach
+                  Project;
+
+         (b)      assisting in the development of a marketing plan for the
+                  Stagecoach Project;
+
+         (c)      actively marketing the Storage Capacity and related services
+                  to customers under contract terms and policies that conform to
+                  the Risk Management Procedures referenced in Article 5 below
+                  in an attempt to maximize revenues from the release of Storage
+                  Capacity and related services;
+
+         (d)      implementing and operating an accounting and tracking system
+                  for billing purposes with respect to the Storage Capacity and
+                  related services, sending invoices to storage customers and
+                  remitting corresponding customer payments and
+
+                                       2
+<PAGE>
+                  associated revenues directly to eCORP Marketing pursuant to
+                  Section 2.7, and providing monthly written accounts receivable
+                  and accounts payable reports to eCORP Marketing;
+
+         (e)      providing assistance to eCORP Marketing in establishing an
+                  administrative back room capability sufficient to enable eCORP
+                  Marketing to monitor the marketing and trading activities
+                  performed by NJRES under this Agreement on eCORP Marketing's
+                  behalf;
+
+         (f)      using NJRES's relationships with the interstate natural gas
+                  pipeline companies that interconnect directly with the
+                  Stagecoach Facility to negotiate appropriate interconnection
+                  and related transportation arrangements with such pipelines,
+                  or to make such other arrangements as may be required to
+                  support the regulatory approval and successful marketing of
+                  the Stagecoach Facility; and
+
+         (g)      obtaining and maintaining all consents, licenses, approvals,
+                  registrations, permits or other authorizations required by
+                  applicable law to be held by NJRES for the performance of its
+                  obligations under this Agreement and providing reasonable
+                  support and cooperation to eCORP Marketing in its procurement
+                  of all consents, licenses, approvals, registrations, permits
+                  or other authorizations required by applicable law to be held
+                  by it.
+
+         2.2 Wholesale Trading. The Services to be provided to eCORP Marketing
+by NJRES shall also include the Wholesale Trading Transactions for the
+Stagecoach Project that will provide for the sale, use or trading of Storage
+Capacity and/or Controlled Transportation Capacity that is released or otherwise
+made available by eCORP Marketing. eCORP Marketing will, subject to applicable
+regulations, release Storage Capacity and Controlled Transportation Capacity to
+the extent required to support Wholesale Trading Transactions as requested by
+NJRES. Interest will be charged by NJRES to eCORP Marketing on transactions that
+utilize NJRES' credit lines. Interest will be computed monthly using the *** on
+the balance due from transactions with counterparties related to activities of
+the Stagecoach Project for prior and current month sales, net of prior month
+purchases for those counterparties with whom there are netting agreements and
+net of current month purchases. Interest at the same rate will be charged
+monthly on the margins required to be placed with financial counterparties to
+support derivative transactions. Since credit risk is solely for the account of
+eCORP Marketing as long as sales are made with Acceptable Credits (as such term
+is defined in the Risk Management Procedures), NJRES will provide assistance in
+determining a reasonable allowance for bad debts for eCORP Marketing. As used in
+this Agreement, the term "LIBOR" means, with respect to each day during the
+applicable period, the rate per annum equal to the rate determined by reference
+to Page 3750 (or such other page as may replace that page) on the Dow Jones
+Telerate (British Lenders Association Settlement Rate) as of 11:00 a.m., London,
+England time two business days prior to the beginning of such period, for
+delivery on the first day of such period for the number of days comprised
+therein and in an amount comparable to the amount of the applicable obligation
+of eCORP Marketing.
+
+
+                                       3
+<PAGE>
+         2.3 Guaranty. NJRES shall deliver at the closing of the financing
+referred to in Section 14.5(a) below a guaranty in favor of eCORP Marketing of
+NJRES's obligations hereunder by New Jersey Resources Corporation ("NJRC")
+substantially in the form of Exhibit C (the "NJRC Guaranty"). The failure by
+NJRES to deliver or maintain the NJRC Guaranty shall constitute a default of
+this Agreement as provided in Section 15.3.
+
+         2.4 Performance of Services. eCORP Marketing acknowledges that NJRES is
+engaged, and will continue to be engaged, in the region of the Stagecoach
+Project and elsewhere, among other things, in buying and selling storage
+capacity and related services for its own account and for the account of others,
+and in furnishing services the same as or similar to the Services being provided
+hereunder for its own benefit and for the benefit of others. Nothing in this
+Agreement shall be construed to restrict NJRES's ability to engage in the
+foregoing business activities or any others subject to NJRES's fiduciary
+obligation to eCORP Marketing as a result of and with respect to its role as
+agent to eCORP as described in Article 4. NJRES shall act in good faith in its
+management and distribution of the various opportunities for the sale of Storage
+Capacity and related services on behalf of eCORP Marketing in its performance of
+the Services hereunder and NJRES's performance of the same or similar services
+for its own benefit or on behalf of affiliates or other third parties.
+
+         2.5 Long-Term Capacity Release to NJRES. At such time as the Released
+Tennessee Capacity is deemed to be commercially operational (currently projected
+for January 15, 2002), eCORP Marketing and NJRES shall take all such actions as
+may be required to effectuate on Tennessee's electronic bulletin board the
+conversion of the long-term release to NJRES of the Released Tennessee Capacity
+that has heretofore been effected into a long-term release to NJRES of the
+Released Tennessee Capacity at a monthly reservation rate of $3.58 per Dth,
+which release shall be (i) for a term coterminous with the term of the Gas
+Transportation Agreement dated June 7, 2001 between eCORP Marketing and
+Tennessee (the "GTA"), including any extensions of such term, and all rights to
+extend the term of the GTA shall be exercisable by eCORP Marketing only at the
+direction of and with the prior written consent of NJRES, and (ii) recallable by
+eCORP Marketing on the terms specified in Section 2.6 below. NJRES agrees to
+satisfy and perform all of shipper's obligations (including without limitation
+payment obligations) under the replacement shipper firm service agreement as
+well as Tennessee's applicable FERC Gas Tariff with respect to such released
+capacity. *** NJRES agrees to and does hereby indemnify and hold harmless eCORP
+Marketing and its successors, assigns, officers, directors, agent and employees
+from and against any and all losses, damages, liabilities, injuries, costs and
+expenses (including without limitation attorneys' fees) due to or arising out of
+any breach of its obligations pursuant to this Section 2.5. eCORP Marketing
+agrees to and does hereby indemnify and hold harmless NJRES and its successors,
+assigns, officers, directors, agent and employees from and against any and all
+losses, damages, liabilities, injuries, costs and expenses (including without
+limitation attorneys' fees) due to or arising out of any breach of its
+obligations pursuant to this Section 2.5.
+
+         2.6 Recall by eCORP Marketing of Released Tennessee Capacity. Upon any
+termination of this Agreement prior to March 31, 2012, eCORP Marketing shall
+have the right to recall the Released Tennessee Capacity upon the provision to
+NJRES of written notice given prior to the effective date of such termination.
+eCORP Marketing's recall of the Released
+
+                                       4
+<PAGE>
+Tennessee Capacity shall be effective immediately upon expiration of the notice
+period specified in the preceding sentence, or at such other time as may be
+mutually agreed to by the parties and consistent with Tennessee's applicable
+FERC Gas Tariff then in effect; provided, however, that the effective date of
+the recall with respect to any portion of the Released Tennessee Capacity that
+is subject to a Controlled Transportation Capacity transaction shall be the day
+following the termination date of such transaction.
+
+         2.7 Customer Payments. Any and all payments by customers with respect
+to Direct Transactions shall be paid by customers directly to CNYOG (in
+accordance with the Depositary and Trust Agreement among CNYOG, eCORP Marketing,
+Westdeutsche Landesbank Girozentrale, New York Branch ("West LB") and Wilmington
+Trust Company, dated as of January 9, 2002 (the "Senior Depositary Agreement"))
+except for payments as to Controlled Transportation Capacity which are subject
+to the payment mechanisms set forth in the FERC Gas Tariff of Tennessee. Any and
+all payments by customers with respect to Wholesale Trading Transactions shall
+be paid by customers to NJRES and NJRES shall account for and remit such
+payments to eCORP Marketing (in accordance with the terms of the Senior
+Depositary Agreement) within three business days of receipt to the extent net
+amounts are owed to eCORP Marketing as determined pursuant to Exhibit E. NJRES
+shall not be entitled to deduct any other amounts, including without limitation,
+payments due and owing to NJRES hereunder from the revenues it receives on
+behalf of eCORP Marketing with respect to Wholesale Trading Transactions.
+
+                             ARTICLE 3: COMPENSATION
+
+         3.1 Pre-Development Phase. The "Pre-Development Phase" of the
+Stagecoach Project is that period beginning with the initial site selection
+and/or the execution of an initial acquisition or storage development agreement,
+and continuing until the Stagecoach Project has been developed sufficiently to
+enable the filing of an application at the FERC seeking approval to construct or
+enhance storage. The Pre-Development Phase shall be deemed completed as of the
+date of the filing of such application. During the Pre-Development Phase, the
+services to be provided by NJRES shall be regarded as a part of NJRES' on-going
+business development. Therefore, NJRES will not be compensated for any expenses
+it incurs in connection with providing Pre-Development Phase services unless
+eCORP Marketing shall have agreed in writing to compensate NJRES for certain
+extraordinary expenses in advance of NJRES' incurring such expenses.
+
+         3.2      Development and Commercial Operating Phase Compensation.
+
+         (a)      Definitions and Estimated Service Values. Following the
+                  completion of the Pre-Development Phase upon the filing by
+                  eCORP (or its affiliates) with FERC of an application for
+                  certificate of public convenience and necessity, the
+                  "Development Phase" will begin. Once the construction of the
+                  Stagecoach Project is completed as evidenced by written
+                  certification from CNYOG that the Stagecoach Project is ready
+                  for operation, the "Operating Phase" will begin. During both
+                  the Development Phase and the Operating Phase, the parties
+                  hereto agree that NJRES
+
+                                       5
+<PAGE>
+                  shall be entitled to compensation and expense reimbursement as
+                  provided in subsections (b), (c) and (d) below.
+
+         (b)      Expense Reimbursement. During the term of this Agreement eCORP
+                  Marketing will be obligated to reimburse NJRES for its
+                  reasonable and documented out-of-pocket expenses incurred in
+                  connection with its storage marketing activities. Such
+                  expenses will include, without limitation, airfare, hotels,
+                  telephone, car rentals, postage, overnight delivery services
+                  and printing. Absent the prior written consent of eCORP
+                  Marketing, eCORP Marketing's obligation to reimburse such
+                  expenses shall be limited to *** per calendar year. The
+                  parties hereto agree that NJRES may incur software expenses
+                  during the Development Phase and Operating Phase and that such
+                  expenses may be recovered by NJRES from eCORP Marketing by
+                  mutual agreement between NJRES and eCORP Marketing.
+
+         (c)      Software/Backroom Tool Expenses Fee. Commencing August 1, 2001
+                  and continuing for the remaining term of this Agreement, eCORP
+                  Marketing will pay NJRES *** per month for providing Services
+                  hereunder, including software and backroom tools necessary to
+                  provide the Services.
+
+         (d)      Revenue Sharing Incentive Payments.
+
+                  In addition to the compensation set forth above, NJRES will
+                  receive incentive payments ("Revenue Sharing Incentive
+                  Payments") based on a "Revenue Pool" calculated for each
+                  Valuation Period (as hereinafter defined) as follows: (i) all
+                  revenues of eCORP Marketing generated through Permitted
+                  Transactions, (ii) revenue generated from transactions
+                  completed by CNYOG pursuant to its FERC Gas Tariff (except
+                  revenues paid to CNYOG pursuant to the storage services
+                  agreement contemplated by Precedent Agreement with eCORP
+                  Marketing, dated as of November 17, 1999), and (iii) revenue
+                  provided by NJRES pursuant to the provisions of Article 14
+                  hereof, provided that each such transaction is in compliance
+                  with the Risk Management Procedures adopted pursuant to
+                  Article 5 hereof; less (iv) transportation/storage variable
+                  fees (but not demand fees) with respect to Controlled
+                  Transportation Capacity and transportation/storage variable
+                  fees and demand fees with respect to all other pipeline
+                  transportation capacity; and less (v) the purchase price of
+                  the natural gas commodity necessary to generate such revenues
+                  which is purchased by or on behalf of eCORP Marketing.
+
+                  The Revenue Sharing Incentive Payments for each Valuation
+                  Period shall be determined as follows:
+
+                  ***
+
+
+                  The annual period for calculating the Revenue Sharing
+                  Incentive Payments (the "Valuation Period") will be April 1
+                  through March 31 of each year, beginning
+
+                                       6
+<PAGE>
+                  with April 1, 2002. The Revenue Sharing Incentive Payments
+                  shall be paid to NJRES no later than the May 25th following
+                  the last day of each applicable Valuation Period; provided,
+                  that, in the event any accrued revenue included in the
+                  applicable Revenue Pool has not been collected as of such
+                  date, NJRES shall defer its right to receive that portion of
+                  the Revenue Sharing Incentive Payment attributable thereto
+                  until such time as such accrued but uncollected revenue is
+                  collected. Any amounts not paid by the date due shall bear
+                  interest ***.
+
+                  In the event that in any Valuation Period, NJRES is not paid a
+                  minimum of *** in Revenue Sharing Incentive Payments, the
+                  shortfall will bear interest at a rate equal to ***. This
+                  shortfall and interest must be paid in the following year in
+                  addition to the current year's incentive payment. In the event
+                  a Sale Event occurs, this shortfall and interest will be paid
+                  upon the closing of such sale as an accrued expense.
+
+         (e)      eCORP Marketing shall pay to NJRES a fee of *** per month. Any
+                  amounts not paid by the 25th day of the month shall bear
+                  interest ***.
+
+         3.3 System Software. For system infrastructure eCORP Marketing will pay
+NJRES *** on September 1, 2000 and receive the Multi-Option Systems, Inc.
+("MOSI") gas management system source code and any data that may be contained in
+such gas management system on behalf of eCORP Marketing. NJRES will provide a
+current copy of the source code and data each month thereafter by the tenth
+(10th) day of the month. The MOSI source code and associated data furnished by
+NJRES to eCORP Marketing may be used only by eCORP Marketing and its affiliates.
+eCORP Marketing may not sell or transfer such intellectual property to a third
+party without the prior written consent of NJRES. In no event shall NJRES or
+MOSI, developer of the software system, be liable to eCORP for any direct,
+indirect, special, exemplary, incidental, punitive or consequential damages
+arising from the performance or nonperformance of the MOSI gas management
+system, including, but not limited to, lost profits, lost data, loss of the gas
+management system or any associated equipment or software, or cost of substitute
+facilities, equipment, software or services. NJRES shall have no obligation to
+provide any future upgrades or support of any kind with respect to the MOSI gas
+management system.
+
+         3.4 Status of Payments. As of the date hereof, NJRES and eCORP
+Marketing stipulate and agree that as of the date of this Agreement there are no
+payments due and owing to NJRES pursuant to this Agreement, except with respect
+to payments required by Section 3.2(c) in the amount of ***.
+
+         ***
+
+            ARTICLE 4: AUTHORITY TO ENTER INTO NATURAL GAS SUPPLY AND
+                          TRANSPORTATION ARRANGEMENTS
+
+         Subject to the conditions and limitations set forth in the Risk
+Management Procedures, in order to conduct Wholesale Trading Transactions and
+the business of purchasing gas and/or arranging for and scheduling the
+transportation of natural gas for or on behalf of eCORP
+
+                                       7
+<PAGE>
+Marketing or designated third-parties in connection with the services to be
+provided by NJRES under this Agreement, NJRES may be required from time-to-time
+to obligate eCORP Marketing to make certain payments for the supply of natural
+gas and related transportation services, or to otherwise bind eCORP. eCORP
+hereby gives NJRES, and NJRES hereby accepts, authority to act as eCORP's agent
+for the limited purpose of entering into Permitted Transactions (as such term is
+defined in the Risk Management Procedures) without the prior approval of eCORP
+Marketing, and committing eCORP Marketing accordingly; provided, however, that
+NJRES shall exercise such authority strictly in accordance with the Risk
+Management Procedures adopted in accordance with Article 5 below. eCORP
+Marketing will not be liable for or have any responsibility with respect to any
+transactions or commitments entered into by NJRES on behalf of eCORP Marketing
+in contravention of such Risk Management Procedures. In such event, NJRES agrees
+to indemnify, defend and hold eCORP Marketing harmless against all claims,
+actions, loss, damage, liabilities and expenses (including attorney's fees)
+arising from or as a result of NJRES's violation of said Risk Management
+Procedures; provided, however, that NJRES shall not be liable to eCORP Marketing
+for any penalties or costs imposed upon or losses incurred by eCORP Marketing as
+a result of any transaction wherein NJRES acted in good faith and within the
+Risk Management Procedures in all material respects with respect to such
+transaction.
+
+                              ARTICLE 5: GUIDELINES
+
+         NJRES and eCORP have mutually agreed upon certain guidelines with
+respect to the sale, use and trading of the Storage Capacity and Controlled
+Transportation Capacity and related services and the management of risks
+associated therewith which are set forth in Exhibit A (the "Risk Management
+Procedures"). In connection with its provision of Services to eCORP Marketing
+under this Agreement, NJRES will conduct and account for all business
+transactions related to the Storage Capacity pursuant to the Risk Management
+Procedures.
+
+                               ARTICLE 6: RECORDS
+
+         NJRES shall maintain and make available to eCORP Marketing complete and
+accurate accounts and records of all transactions conducted by it on behalf of
+eCORP Marketing. Such records shall include, but not be limited to, copies of
+all invoices, receipts, correspondence and reports relating to the Services or
+any other service provided by NJRES hereunder. All such records shall be
+maintained either in hard copy or such other acceptable medium by NJRES for a
+minimum period of five (5) years from the date of the respective transaction.
+Upon reasonable notice and during regular business hours, NJRES shall provide
+unrestricted access to all such records to eCORP Marketing or anyone authorized
+by eCORP Marketing including a representative of the Senior Lenders (as
+hereinafter defined).
+
+                       ARTICLE 7: CONFIDENTIAL INFORMATION
+
+         7.1      Non-Disclosure.
+
+         (a)      Neither party hereto (a "Receiving Party") shall permit any
+                  information which it receives, which is specifically and
+                  conspicuously identified by the other party (the
+
+                                       8
+<PAGE>
+                  "Disclosing Party") as proprietary and confidential (by stamp,
+                  legend or otherwise) ("Confidential Information"), to be
+                  disclosed or communicated to any other entity which is not a
+                  party to this Agreement, without (i) the prior written consent
+                  of the Disclosing Party claiming the information as
+                  proprietary, or (ii) fulfilling such conditions as such party
+                  may describe; provided, however the Receiving Party may
+                  disclose such information to its counsel, accountants or other
+                  representative or to a potential lender, in which case the
+                  Receiving Party shall cause such person not to disclose the
+                  Confidential Information except to the extent permitted
+                  herein.
+
+         (b)      The restrictions set forth in Section 7.1(a) hereof shall
+                  apply to this Agreement and the terms and conditions thereof
+                  but shall not apply to information which (i) is contained in a
+                  publicly disclosed printed publication bearing a date prior to
+                  the date of this Agreement; (ii) becomes publicly known
+                  otherwise than through a wrongful act of the receiving party;
+                  (iii) is in the possession of the receiving party prior to
+                  receipt from the disclosing party or is independently
+                  developed by the receiving party, provided that the person or
+                  persons developing same have not had access to such
+                  information; (iv) is rightfully obtained without restriction
+                  by the receiving party from a third party who has the right to
+                  make such disclosure; or (v) is released to anyone without
+                  restriction by the disclosing party.
+
+         The receiving party shall not be liable for any inadvertent disclosures
+made in spite of using the same standard of care which it uses to protect its
+own proprietary or confidential information, provided that upon discovery of
+such disclosure or use, it shall promptly notify the disclosing party and shall
+immediately use its best efforts to prevent any further inadvertent disclosure
+or use.
+
+         7.2 Regulatory Disclosure. If the receiving party is required by a
+federal, state or local governmental agency or a court of competent jurisdiction
+to disclose information which includes the disclosing party's confidential
+information, the receiving party shall notify the disclosing party of such
+required disclosure as soon as practicable prior to the time such disclosure is
+to be made in order to allow the disclosing party adequate time to prevent or
+restrict the disclosure of its confidential information. Except for the
+notification required by the preceding sentence, nothing herein shall require
+the receiving party to participate in or cooperate with the disclosing party to
+prevent disclosure.
+
+                      ARTICLE 8: INDEMNIFICATION/LIABILITY
+
+         8.1 Indemnification. NJRES hereby agrees to indemnify and defend eCORP
+Marketing, its officers, directors, partners, agents, and employees against all
+claims, loss, damage, expense and liability to third persons (including NJRES's
+own employees) arising out of, resulting from, based upon, or proximately caused
+by the negligent acts or willful misconduct of NJRES or anyone acting under its
+direction or control or in its behalf. Except as otherwise provided in Article 4
+hereof, eCORP Marketing hereby agrees to indemnify and defend NJRES, its
+affiliates, officers, directors, partners, agents, and employees against all
+claims, loss, damage, expense and liability to third persons (including eCORP
+Marketing's own employees) incurred
+
+                                       9
+<PAGE>
+without NJRES's negligence or willful misconduct arising out of or in connection
+with the Stagecoach Project and/or the performance of NJRES's duties hereunder.
+Each party hereto shall furnish the other party with written notification (as
+soon as possible, but in no event later than ten (10) days prior to the time any
+response is required by law) after such party becomes aware of any event or
+circumstances, or the threat thereof, which might give rise to such
+indemnification. At the indemnified party's request, the indemnifying party
+shall defend any suit asserting a claim covered by this indemnity and shall pay
+all costs and expenses (including the cost of investigation and attorney's fees
+and expenses) that may be incurred in enforcing this indemnity. The indemnified
+party may, at its own expense, retain separate counsel and participate in the
+defense of any such suit or action.
+
+         8.2 Limitation of Liability. In no event, including any event for which
+either party hereto has agreed to indemnify the other party, shall either party,
+or its affiliates, officers, agents, directors, partners or employees be liable
+to the other party, its affiliates, agents, officers, directors, partners or
+employees for incidental, special, indirect, punitive or consequential damages
+of an economic (e.g., lost profits) nature connected with or resulting from
+performance or non-performance of this Agreement. The indemnification
+obligations set forth in this Agreement shall survive the termination of this
+Agreement.
+
+         8.3 Insurance. eCORP Marketing shall at all times maintain public
+liability insurance covering the Stagecoach Project and the activities
+contemplated by this Agreement which shall name NJRES as an additional insured.
+Such insurance shall be obtained from insurers reasonably acceptable to NJRES
+and shall provide for liability coverage in an amount appropriate for an
+undertaking of this nature, which amount shall be sufficient to prudently cover
+the liability risks of the Stagecoach Project and the activities contemplated by
+this Agreement, and which amount shall be mutually agreed to by the parties
+prior to the commencement of the Development Stage. Upon request of NJRES, eCORP
+Marketing shall provide to NJRES certificates of insurance evidencing such
+insurance.
+
+                            ARTICLE 9: FORCE MAJEURE
+
+         9.1 Force Majeure. The term "Force Majeure" as used herein means
+occurrences beyond the reasonable control of and without the fault or negligence
+of the party claiming Force Majeure, including but not limited to acts of God,
+strike or other labor dispute, flood, earthquake, storm, fire, lightning,
+epidemic, war, riot, civil disturbance, sabotage, acts of public enemy, change
+in law or applicable regulation subsequent to the date hereof and action or
+inaction by any federal, state or local legislative, executive, administrative
+or judicial agency or body which, in any of the foregoing cases, by exercise of
+due foresight such party could not reasonably have been expected to avoid, and
+which, by exercise of due diligence, it is unable to overcome.
+
+         9.2 Performance. Except for the obligations of either party to make any
+required payments including, without limitation, obligations under this
+Agreement and payment for services previously performed, the Parties shall be
+excused from performing their respective obligations under this Agreement and
+shall not be liable in damages or otherwise if and to the extent that they are
+unable to so perform or are prevented from performing by a Force Majeure,
+provided that:
+
+
+                                       10
+<PAGE>
+         (a)      the non-performing party, as promptly as practicable after the
+                  occurrence of the Force Majeure, but in no event later than
+                  seven (7) days thereafter, gives the other party written
+                  notice describing the particulars of the occurrence;
+
+         (b)      the suspension of performance is of no greater scope and of no
+                  longer duration than is reasonably required by the Force
+                  Majeure;
+
+         (c)      the non-performing party uses its best efforts to remedy its
+                  inability to perform; and
+
+         (d)      as soon as the non-performing party is able to resume
+                  performance of its obligations excused as a result of the
+                  occurrence, it shall give prompt written notification thereof
+                  to the other party.
+
+         9.3      Continued Force Majeure.
+
+         (a)      Either party may terminate this Agreement upon ten (10) days
+                  written notice if an event of Force Majeure hereunder prevents
+                  either party from substantial performance of its respective
+                  obligations hereunder for a period of six (6) consecutive
+                  months.
+
+         (b)      Upon termination of this Agreement as provided for in
+                  subsection (a) above, the parties shall have no further
+                  liability or obligation to each other except for (i) any
+                  obligation arising prior to the date of such termination and
+                  (ii) payment of any and all amounts outstanding on the date
+                  the Force Majeure event occurred.
+
+                            ARTICLE 10: CURTAILMENTS
+
+         As set forth in Section 2.2 and Article 4 hereof, NJRES may, as agent
+for eCORP Marketing, make arrangements for daily supplies and/or transportation
+of natural gas in connection with Wholesale Trading Transactions. In the event
+an interstate pipeline company, local distribution company, supplier of natural
+gas, or other third-party reduces, curtails or interrupts the supply and/or
+transportation of such natural gas as contracted for by NJRES in its capacity as
+agent for eCORP Marketing, NJRES shall reasonably attempt to alleviate such
+reduction, curtailment or interruption. However, in no event shall NJRES be
+obligated to provide eCORP Marketing with such daily supplies and/or
+transportation. If such reduction, curtailment or interruption cannot be
+alleviated through NJRES's reasonable efforts, eCORP Marketing may directly
+pursue its recourse and remedies against any third party responsible for said
+matters.
+
+                      ARTICLE 11: CONTRACTUAL RELATIONSHIP
+
+         In performing the Services set forth herein, NJRES shall operate as and
+shall have the status of an independent contractor and, except as specifically
+set forth in Section 2.2 and Article 4 hereof or as may be agreed to by the
+parties, shall not act as or be an agent or employee of eCORP Marketing. The
+relationship between eCORP Marketing and NJRES, for purposes of
+
+                                       11
+<PAGE>
+this Agreement, shall be that of "customer" and "independent contractor." This
+Agreement shall not be construed to create a partnership or joint venture
+relationship between the parties.
+
+                             ARTICLE 12: BUYOUT FEE
+
+         eCORP Marketing may elect in its sole discretion to terminate this
+Agreement at any time during the term hereof by exercising a buyout right (the
+"Buyout Right") for a fee in the amount of *** (the "Buyout Fee"); provided,
+that the Buyout Fee shall be increased by the additional amount set forth below
+in the event eCORP Marketing exercises its recall rights under Section 2.6
+above:
+
+         ***
+
+         eCORP Marketing may exercise the Buyout Right by providing written
+notice of termination to NJRES at least ninety (90) days prior to the end of any
+Valuation Period. Such termination shall be effective as of the end of such
+Valuation Period in which the notice is given. The Buyout Fee must be paid by
+eCORP Marketing to NJRES on or prior to the last day of such Valuation Period.
+
+         Should eCORP Marketing exercise its Buyout Right and terminate this
+Agreement, NJRES will be entitled to receive all of its Revenue Sharing
+Incentive Payments and other compensation provided for in Article 3 which is
+earned during the Valuation Period in progress at the time the Buyout Right
+notice is given and all prior Valuation Periods. Upon the effectiveness of any
+termination pursuant to the Buyout Right, all of the rights and obligations of
+the parties hereunder will terminate, including pursuant to the provisions of
+Article 14 hereof, except as otherwise provided herein.
+
+         In addition to the foregoing, the Buyout Fee shall be payable to NJRES
+upon the closing of any Sale Event. Upon such closing, NJRES will be entitled to
+receive all of its Revenue Sharing Incentive Payments and other compensation
+provided for in Article 3 which is earned during the Valuation Period in
+progress at the time the Buyout Right notice is given through the end of such
+Valuation Period and all prior Valuation Periods. Upon such closing, all of the
+rights and obligations of the parties hereunder will terminate, including
+pursuant to the provisions of Article 14 hereof, except as otherwise provided
+herein.
+
+         The Buyout Fee shall be due and payable upon termination of this
+Agreement; provided, however, that it shall be reduced by *** in the event of
+termination under Section 15.3 of this Agreement.
+
+                         ARTICLE 13: BILLING AND PAYMENT
+
+         13.1 Billing and Payment.
+
+         (a)      NJRES Invoice. As soon as practicable after the end of each
+                  month, NJRES shall invoice eCORP Marketing for all
+                  compensation due for the preceding month under Section 2.2 and
+                  Article 3 of this Agreement. Such monthly invoice shall set
+
+
+                                       12
+<PAGE>
+                  forth the applicable monthly fixed compensation charge in
+                  accordance with Sections 3.2(c) hereof and any amounts due to
+                  NJRES pursuant to Sections 2.2 and 3.2(b). NJRES shall invoice
+                  eCORP Marketing separately as necessary with respect to
+                  compensation due to NJRES, if any, pursuant to Sections
+                  3.2(d).
+
+         (b)      Payment. Payment of any invoice shall be made within ten (10)
+                  days of receipt thereof except in the event of a good faith
+                  dispute which shall be resolved pursuant to Article 17.
+                  Payment may be made by wire transfer. Except as otherwise
+                  provided herein, a late payment penalty shall accrue on any
+                  amounts not timely paid by eCORP Marketing at the rate of one
+                  percent (1%) per month from the date due until the date paid.
+
+         13.2 Information. During the term of this Agreement and for a period of
+five (5) years thereafter, each party shall have the right, during business
+hours and upon reasonable notice, to examine the books, records and charts of
+the other party to the extent necessary to verify the accuracy of any statement,
+charge or computation made pursuant to this Agreement. If any such examination
+or other review or information reveals any inaccuracy in any prior invoice,
+necessary adjustments will be made, provided that no adjustments shall be made
+more than two (2) years after any such invoice was received. In addition, a
+party may set-off against future payments, any payments such party is entitled
+to receive as a result of adjustments to prior invoices.
+
+                     ARTICLE 14: eCORP MARKETING PUT OPTION
+
+         14.1 Gross Revenue Projection. On the last day of each calendar month
+and, in any event, no later than at least sixty (60) business days prior to the
+Expected Commercial Operation Date with respect to the Valuation Period
+beginning April 1, 2002, and by October 1 of each year as to the Valuation
+Period commencing on the following April 1 and as to all subsequent Valuation
+Periods, NJRES shall provide notice to eCORP Marketing of the value of all
+Direct Transactions and Wholesale Transactions (as defined in the Risk
+Management Procedures) then in effect which are to be taken into account in
+connection with the assessment of the projected Revenue Pool for the applicable
+Valuation Period. Such notice shall be in the format of Exhibit D ("Proposed
+Statement") attached hereto. Within five (5) business days of receipt of the
+Proposed Statement, eCORP Marketing shall provide, in writing, any comments with
+respect to accuracy of the Proposed Statement or confirm, in writing, that the
+Proposed Statement is acceptable. If agreed upon, the Proposed Statement will
+become the final statement of the projected Revenue Pool (the "Final Statement")
+for the purposes of this Article 14. If the parties are unable to agree on the
+Final Statement by such date, such dispute shall be resolved pursuant to Section
+17.4. For purposes of this Section 14.1, there shall be included in the
+calculation of the projected Revenue Pool only those Wholesale Trading
+Transactions at the time of calculation the value of which are fixed and
+determined through the date of their liquidation and that will close in the
+applicable Valuation Period. For the purposes of this Section 14.1, the term
+"Expected Commercial Operation Date" shall mean March 31, 2002 or such later
+date on which commercial operations of the Stagecoach Project is expected to
+occur, as designated by eCORP Marketing in a written notice to NJRES. eCORP
+Marketing agrees in order for the Put Option to be effective for the following
+calendar month, eCORP Marketing must exercise such option no
+
+                                       13
+<PAGE>
+later than the 23rd day of the previous month. In no event will the Put Option
+be exercised in arrears.
+
+         14.2 Put Option. Each right of eCORP Marketing to cause NJRES to
+purchase services under this Section 14.2 is referred to in this Agreement as a
+"Put Option."
+
+         (a)      If the amount set forth in the Final Statement for the
+                  Valuation Period beginning April 1, 2002 and ending March 31,
+                  2003 (the "First Valuation Period"), is less than $18,000,000,
+                  as determined pursuant to Section 14.1 hereof, eCORP Marketing
+                  shall have the one-time right, exercisable on or before
+                  February 28, 2003, to cause NJRES to purchase for NJRES's own
+                  account and benefit available firm storage and transportation
+                  services at monthly prices defined in Exhibit B-1 so as to
+                  cause the amount of the projected Revenue Pool for such period
+                  to reach $18,000,000; provided, that, if eCORP Marketing does
+                  not exercise such Put Option in writing by May 30, 2002, (i)
+                  the monthly unit prices reflected in Exhibit B-2 will used in
+                  lieu of those set forth in Exhibit B-1 and (ii) such Exhibit
+                  B-2 monthly unit prices will be adjusted, only for the First
+                  Valuation Period, as provided in Exhibit B-6. If eCORP
+                  Marketing does not exercise such Put Option in writing by
+                  February 28, 2003, such Put Option shall be deemed waived only
+                  for the First Valuation Period.
+
+         (b)      If the amount set forth in the Final Statement for any
+                  Valuation Period after the First Valuation Period is less than
+                  $22,000,000, as determined pursuant to Section 14.1 hereof,
+                  eCORP Marketing shall have the right to cause NJRES to
+                  purchase for NJRES's own account and benefit available firm
+                  storage and transportation services at monthly prices defined
+                  in Exhibit B-2 so as to cause the amount of the projected
+                  Revenue Pool for such period to reach $22,000,000. If eCORP
+                  Marketing does not exercise its Put Option by the preceding
+                  November 30 with respect to all subsequent Valuation Periods
+                  after the First Valuation Period, the Put Option shall be
+                  deemed waived only for the next following Valuation Period.
+
+         (c)      Upon the receipt by NJRES of an Actual Performance Certificate
+                  from eCORP Marketing certifying working gas capacity for the
+                  Stagecoach Project equal to or greater than 9.0 Bcf but less
+                  than 10.0 Bcf, Exhibit B-2 hereto will be replaced by Exhibit
+                  B-3 hereto on the following November 30 for the following and
+                  all subsequent Valuation Periods. Upon the receipt by NJRES of
+                  an Actual Performance Certificate from eCORP Marketing
+                  certifying working gas capacity for the Stagecoach Project
+                  equal to or greater than 10.0 Bcf but less than 11 Bcf,
+                  Exhibit B-2 or B-3 hereto (as the case may be) will be
+                  replaced by Exhibit B-4 hereto on the following November 30
+                  for the following and all subsequent Valuation Periods. Upon
+                  the receipt by NJRES of an Actual Performance Certificate from
+                  eCORP Marketing certifying working gas capacity for the
+                  Stagecoach Project equal to or greater than 11.0 Bcf, Exhibit
+                  B-2, B-3 or B-4 hereto (as the case may be) will be replaced
+                  by Exhibit B-5 hereto on the following November 30 for the
+                  following and all subsequent Valuation Periods. As used
+                  herein, the term "Senior Loan Agreement" shall mean that
+                  certain
+
+                                       14
+<PAGE>
+                  Construction and Term Loan Agreement among CNYOG, eCORP
+                  Marketing, the Senior Lenders and the Administrative Agent,
+                  dated as of January 9, 2002 and the term "Senior Lenders"
+                  shall mean the lenders thereunder.
+
+         14.3 Limitations. NJRES's obligations under this Article 14 shall not
+be construed as a guarantee of the amount of the Revenue Pool. In the event the
+Put Option is exercised with respect to a Valuation Period, NJRES shall be
+obligated only to purchase services at the applicable monthly prices defined in
+Exhibit B-1, B-2, B-3, B-4, B-5 or B-6 (as applicable) to the extent such
+services are reasonably available during such Valuation Period. In the event
+such services are not available because of a lack of storage capacity, lack of
+transportation services or other reasons so as to allow the Revenue Pool to
+reach the stated levels, the obligation of NJRES under this Article 14 shall be
+limited to the extent such services are available. In addition, in no event
+shall NJRES be required to purchase or pay for a service that is not deemed
+commercially operational by FERC and, in the event a service which is eligible
+for inclusion in the Revenue Pool is not deemed commercially operational by
+FERC, the obligation of NJRES under this Article 14 shall be adjusted
+accordingly. For purposes of Section 2(f) of the Original Sheet 100 of CYNOG's
+FERC Gas Tariff, eCORP Marketing shall be responsible for all base gas
+requirements of the Stagecoach Project with respect to the transaction to
+purchase services by which the Put Option is accomplished. In the event of any
+conflict between the provisions of this Section 14.3 and any other provisions of
+this Agreement, the provisions of this Section 14.3 shall control.
+
+         14.4 Termination of Put Option. Commencing on the date which is three
+years after the date hereof, NJRES shall have the right upon no less than one
+year's notice to acquire the Senior Lenders' position under eCORP Marketing's
+Senior Loan Agreement from such Senior Lenders by satisfying in full all of the
+obligations of eCORP Marketing and CNYOG to such Senior Lenders to the
+reasonable satisfaction of such Senior Lenders. If NJRES acquires eCORP
+Marketing's Senior Loan Agreement, the provisions of this Article 14 shall
+terminate and NJRES's position thereunder shall be subordinate to the senior
+subordinated debt and preferred units issued pursuant to the Securities and Note
+Purchase Agreement between Stagecoach Holding and AIG Highstar Capital, L.P.
+
+         14.5 Conditions Precedent.
+
+         This Article 14 shall not become effective unless and until eCORP
+Marketing notifies NJRES in writing that:
+
+         (a)      Financing has been obtained by CNYOG for the completion of the
+                  construction of the Stagecoach Project so that it can be
+                  reasonably expected to become commercially operational before
+                  April 1, 2002; and
+
+         (b)      The Senior Lenders providing financing for the Stagecoach
+                  Project have approved this Agreement.
+
+
+                                       15
+<PAGE>
+         If NJRES does not receive such written notice by 5:00 PM Central Time
+on February 1, 2002, that both of the above conditions have been met, then this
+Article 14 shall be of no force or effect and the Agreement shall remain in full
+force and effect without this Article 14.
+
+                               ARTICLE 15: DEFAULT
+
+         15.1 Default. Upon the occurrence of an eCORP Marketing Default Event
+(as hereinafter defined) that continues beyond any applicable cure period, NJRES
+may, in its sole discretion and upon notice to eCORP Marketing, terminate either
+(a) its obligations under Article 14 hereof or (b) this Agreement. Upon the
+occurrence of an NJRES Default Event (as hereinafter defined) that continues
+beyond any applicable cure period, eCORP Marketing may, in its sole discretion
+and upon notice to NJRES, terminate this Agreement. The parties hereto hereby
+retain any and all other remedies available at law or in equity.
+
+         15.2 eCORP Marketing Default Event. As used in this Agreement, the term
+"eCORP Marketing Default Event" shall mean any of the following events:
+
+         (a)      if eCORP Marketing shall fail to comply with any provision of
+                  this Agreement or any other agreement to which NJRES and eCORP
+                  Marketing are parties, including the failure to make payments
+                  hereunder (except to the extent of a good faith dispute);
+                  provided, however, such failure to comply shall not constitute
+                  an eCORP Marketing Default Event if such failure is remedied
+                  within twenty (20) days of notice by NJRES of such failure; or
+
+         (b)      either of eCORP Marketing or CNYOG shall (i) execute an
+                  assignment for the benefit of its creditors, (ii) become or be
+                  adjudicated a bankrupt or insolvent, (iii) admit in writing
+                  its inability to pay its debts generally as they become due,
+                  (iv) apply for or consent to the appointment of a conservator,
+                  receiver, trustee, or liquidator of it or of all or a
+                  substantial part of its assets, (v) file a voluntary petition
+                  seeking reorganization or an arrangement with creditors, or to
+                  take advantage of or seek any other relief under any
+                  applicable liquidation, conservatorship, bankruptcy,
+                  insolvency, rearrangement, moratorium, reorganization, or
+                  similar debtor relief laws affecting the rights of creditors
+                  generally from time to time in effect ("Debtor Relief Laws"),
+                  (vi) file an answer admitting the material allegations of or
+                  consenting to, or default in, a petition filed against it in
+                  any proceeding under any Debtor Relief Laws, or (vii)
+                  institute or voluntarily be or become a party to any other
+                  judicial proceedings intended to effect a discharge of its
+                  debts, in whole or in part, or a postponement of the maturity
+                  or the collection thereof; or
+
+         (c)      (i) an order, judgment, or decree shall be entered by any
+                  court of competent jurisdiction approving a petition seeking
+                  reorganization of any of either eCORP Marketing or CNYOG or
+                  appointing a conservator, receiver, trustee, or liquidator of
+                  eCORP Marketing, CNYOG or Stagecoach or of all or any
+                  substantial part of any such company's assets, and such order,
+                  judgment, or decree is not permanently stayed or reversed
+                  within ninety (90) days after the entry thereof, or (ii) a
+                  petition
+
+                                       16
+<PAGE>
+                  is filed against eCORP Marketing, CNYOG or Stagecoach Holding
+                  seeking reorganization, an arrangement with creditors, or any
+                  other relief under any Debtor Relief Laws, and such petition
+                  is not discharged within ninety (90) days after the filing
+                  thereof.
+
+         15.3 NJRES Default Event. As used in this Agreement, the term "NJRES
+Default Event" shall mean any of the following events:
+
+         (a)      if NJRES shall fail to comply with any provision of this
+                  Agreement or any other agreement to which NJRES and eCORP
+                  Marketing are parties, including the failure to make payments
+                  hereunder (except to the extent of a good faith dispute);
+                  provided, however, such failure to comply shall not constitute
+                  an NJRES Default Event if such failure is remedied within
+                  forty-five (45) days of notice by eCORP Marketing of such
+                  failure; or
+
+         (b)      either NJRES or NJRC shall (i) execute an assignment for the
+                  benefit of its creditors, (ii) become or be adjudicated a
+                  bankrupt or insolvent, (iii) admit in writing its inability to
+                  pay its debts generally as they become due, (iv) apply for or
+                  consent to the appointment of a conservator, receiver,
+                  trustee, or liquidator of it or of all or a substantial part
+                  of its assets, (v) file a voluntary petition seeking
+                  reorganization or an arrangement with creditors, or to take
+                  advantage of or seek any other relief under any Debtor Relief
+                  Laws, (vi) file an answer admitting the material allegations
+                  of or consenting to, or default in, a petition filed against
+                  it in any proceeding under any Debtor Relief Laws, or (vii)
+                  institute or voluntarily be or become a party to any other
+                  judicial proceedings intended to effect a discharge of its
+                  debts, in whole or in part, or a postponement of the maturity
+                  or the collection thereof; or
+
+         (c)      (i) an order, judgment, or decree shall be entered by any
+                  court of competent jurisdiction approving a petition seeking
+                  reorganization of NJRES or NJRC or appointing a conservator,
+                  receiver, trustee, or liquidator of NJRES or NJRC or of all or
+                  any substantial part of such company's assets, and such order,
+                  judgment, or decree is not permanently stayed or reversed
+                  within ninety (90) days after the entry thereof, or (ii) a
+                  petition is filed against NJRES or NJRC seeking
+                  reorganization, an arrangement with creditors, or any other
+                  relief under any Debtor Relief Laws, and such petition is not
+                  discharged within ninety (90) days after the filing thereof;
+                  or
+
+         (d)      (i) NJRES shall fail to deliver the NJRC Guaranty as
+                  contemplated by Section 2.3 above, (ii) a default by NJRC
+                  shall exist under the NJRC Guaranty and shall continue beyond
+                  any applicable cure period, or (iii) the NJRC Guaranty shall
+                  at any time cease to be in full force and effect or otherwise
+                  be unenforceable for any reason.
+
+
+                                       17
+<PAGE>
+                              ARTICLE 16: PUBLICITY
+
+         16.1 Releases. No publicity releases (including news releases and
+advertising) relating to this Agreement shall be issued by either party without
+the prior written approval of the other party, except as may be required by law.
+
+         16.2 Articles. Neither party to this Agreement shall publish or release
+any technical paper, article, publication or announcement in connection with
+this Agreement, during or after the term of this Agreement, without the prior
+written approval of the other party.
+
+                         ARTICLE 17: DISPUTE RESOLUTION
+
+         17.1 Disputes. The parties shall use their best efforts to resolve any
+claim or dispute regarding any question of fact or law arising under this
+Agreement through good faith negotiations. If such dispute cannot be resolved
+through such good faith negotiations, the parties shall submit the dispute
+(except for disputes with respect to the Final Statement which shall be resolved
+pursuant to Section 17.4) for alternative dispute resolution in accordance with
+the Model Procedure for Mediation of Business Disputes as published by the CPR
+Institute for Dispute Resolution.
+
+         17.2 Litigation. Notwithstanding anything contained herein to the
+contrary, if a claim or dispute (except for disputes with respect to the Final
+Statement which shall be resolved pursuant to Section 17.4) hereunder is not
+resolved pursuant to Section 17.1 within 90 days after the giving of a notice by
+either party of the claim or dispute, either party may, upon giving the other
+party at least ten (10) days prior written notice, initiate litigation regarding
+such matter by submitting such matter for decision by a court of competent
+jurisdiction.
+
+         17.3 Waiver of Trial by Jury. TO THE EXTENT PERMITTED BY APPLICABLE
+LAW, NJRES AND ECORP MARKETING HEREBY IRREVOCABLY WAIVE ALL RIGHT OF TRIAL BY
+JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM ARISING OUT OF OR IN CONNECTION
+WITH THIS AGREEMENT.
+
+         17.4 Disputes regarding Calculation of Projected Revenue. If the
+parties are unable to agree upon the Final Statement within fifteen (15) days of
+NJRES' issuance of the Proposed Statement, on or before such date, the parties
+shall mutually agree upon and appoint an expert (the "Expert") and such dispute
+shall be immediately referred to the Expert for resolution. The Expert shall
+promptly fix a time and a place in New York, New York, or another mutually
+acceptable location, for receiving information from the parties in connection
+with the dispute, make his or her sole decision only in relation to matters
+expressly referred to the Expert and issue a draft decision stating findings of
+fact, together with all necessary supporting information and documentation, to
+each party within twenty (20) days after the appointment of the Expert. Each
+party shall have five (5) days to submit to the Expert comments on the draft
+decision after its receipt thereof, and the Expert shall issue his or her final
+and binding determination in writing as soon as practicable, and in any case
+within thirty (30) days after the appointment of the Expert. The Expert shall
+have reasonable knowledge and experience with respect to gas storage facilities
+and the types of marketing and management services contemplated hereunder.
+
+
+                                       18
+<PAGE>
+                               ARTICLE 18: GENERAL
+
+         18.1 Obligations of the Parties. eCORP Marketing shall promptly furnish
+to NJRES all information concerning eCORP Marketing and the Stagecoach Project
+as may be reasonably requested by NJRES in connection with NJRES's performance
+of the Services. eCORP Marketing shall execute documents and take all other
+actions reasonably requested by NJRES in connection with the performance of the
+Services. NJRES shall promptly furnish to eCORP Marketing all information
+concerning NJRES as may be reasonably requested by eCORP Marketing in connection
+with NJRES's performance of the Services. Each of eCORP Marketing and NJRES
+shall promptly notify the other of the receipt of any material correspondence or
+notification from any regulatory body in connection with the performance of the
+Services.
+
+         18.2 Notices. All notices and other communications given hereunder or
+in connection herewith shall be sent either (i) by registered or certified mail,
+return receipt requested, (ii) via a reputable nationwide overnight courier
+service; or (iii) via facsimile transmission, with a confirmation of receipt, in
+each case to the address set forth below. Any such notice, instruction or
+communication shall be deemed to have been delivered when received.
+
+         If to eCORP Marketing:
+
+                  eCORP Marketing, LLC
+                  10,000 Memorial Drive
+                  Suite 530
+                  Houston, Texas  77024
+                  Attention:  G. S. Clifton
+                  Facsimile No. (713) 526-2363
+
+         If to NJRES:
+
+                  NJR Energy Services Company
+                  1415 Wyckoff Road
+                  Wall, New Jersey  07719
+                  Attention:  Joseph P. Shields
+                  Facsimile No. (732) 919-8118
+
+         18.3 Binding Effect. This Agreement shall be binding upon, and inure to
+the benefit of, the parties hereto and their respective successors and assigns.
+
+         18.4 Entire Agreement. This Agreement sets for the entire understanding
+and agreement of the parties with respect to the subject matter of this
+Agreement and supersedes all prior agreements or understandings, written or
+oral, between the parties with respect to the subject matter hereof.
+
+         18.5 Amendment. This Agreement may be amended only with the written
+consent of both parties hereto.
+
+
+                                       19
+<PAGE>
+         18.6 Assignment. This Agreement may not be assigned by a party hereto
+without the written consent of the other party.
+
+         18.7 Survival. The provisions of Articles 7, 8, 17, and 18 shall
+survive the termination of this Agreement.
+
+         18.8 Governing Law. This Agreement shall be governed by the laws of the
+State of New York, without giving effect to the principles of conflicts of law
+thereof.
+
+         18.9 Regulatory Matters. This Agreement shall be subject to all valid
+applicable federal, state and local laws and to the orders, rules and
+regulations of any duly constituted federal or state regulatory body or
+authority having jurisdiction. Should either party hereto, by force of any such
+law or regulation, be ordered or required to do any act inconsistent with the
+provisions of this Agreement or prohibited from performing any act required
+under this Agreement or should its performance under this Agreement become
+commercially impracticable as a result of such law or regulation, then the
+parties shall negotiate in good faith to reform this Agreement so as to give
+effect to the original intention of the parties. In the event that such
+reformation is not possible, then the affected party shall have the right to
+terminate this Agreement upon 10 days' written notice to the other party, which
+notice shall be given within 30 days after the party giving notice becomes aware
+of the facts or circumstances giving rise to this right to terminate. If the
+right to terminate is not exercised by either party, then the Agreement shall
+continue but shall be deemed modified to conform to the requirements of such law
+or regulation.
+
+         18.10 Jurisdiction. Any legal action or proceeding with respect to this
+Agreement and any action for enforcement of any judgment in respect thereof
+shall be brought in the courts of the State of New York or of the United States
+of America for the Southern District of New York, and, by execution and delivery
+of this Agreement, each of NJRES and eCORP Marketing hereby accepts for itself
+and in respect of its property, generally and unconditionally, the exclusive
+jurisdiction of the aforesaid courts and appellate courts from any appeal
+thereof. Each of NJRES and eCORP Marketing irrevocably consents to the service
+of process out of any of the aforementioned courts in any such action or
+proceeding by the mailing of copies thereof by registered or certified mail,
+postage prepaid, to each of NJRES and eCORP Marketing at its notice address
+provided pursuant to Section 18.2 hereof. Each of NJRES and eCORP Marketing
+hereby irrevocably waives any objection which it may now or hereafter have to
+the laying of venue of any of the aforesaid actions or proceedings arising out
+of or in connection with this Agreement brought in the courts referred to above
+and hereby further irrevocably waives and agrees not to plead or claim in any
+such court that any such action or proceeding brought in any such court has been
+brought in an inconvenient forum. Nothing herein shall affect the right of
+either party hereto or its designees to serve process in any other manner
+permitted by law.
+
+
+                                       20
+<PAGE>
+         IN WITNESS WHEREOF, the parties have duly executed and delivered this
+Agreement as of the date first set forth above.
+
+                                        eCORP MARKETING, LLC
+
+                                        By:  /S/ JOHN F. THRASH
+                                             Name:  John F. Thrash
+                                             Title:  Manager
+
+                                        NJR ENERGY SERVICES COMPANY
+
+                                        By:  /S/ JOSEPH P. SHEILDS
+                                             Name:     Joseph P. Sheilds
+                                             Title:    Senior Vice President
+
+
+                                       21
+<PAGE>
+
+
+                                    Exhibit A
+                           Stagecoach Holding, L.L.C.
+                           Risk Management Procedures
+
+
+
+
+***
+<PAGE>
+EXHIBIT B-1                                                               PAGE 1
+
+Purchase Prices for described services - Year 1 April 1, 2002 - March 31, 2003
+
+
+                                 STORAGE SERVICE
+                      WITH TENNESSEE GAS PIPELINE CAPACITY
+                           PRIMARY RECEIPT EAST AURORA
+          PRIMARY DELIVERY VARIOUS ZONE 4 AND ZONE 5 POINTS (SEE TABLE)
+
+<TABLE>
+<CAPTION>
+
+          MAXIMUM      MAXIMUM                                             TGP LATERAL      TGP ZONE
+           DAILY       STORAGE                                           TRANSPORTATION   4-5 DELIVERY
+DAYS OF  QUANTITY     QUANTITY      STORAGE PRICE      TOTAL ANNUAL           PRICE      TRANSPORTATION
+SERVICE    (DTH)        (DTH)        /(DTH/MONTH)     STORAGE CREDIT      /(DTH/MONTH)      QUANTITY
+<S>      <C>       <C>              <C>            <C>                   <C>             <C>
+  (a)       (b)    (a) * (b) = (c)       (d)       (c) * (d) * 12 = (e)        (f)         (g) = (b)
+  100        0            0              ***               0.00                ***            0.00
+   90        0            0              ***               0.00                ***            0.00
+   60        0            0              ***               0.00                ***            0.00
+   30        0            0              ***               0.00                ***            0.00
+   10        0            0              ***               0.00                ***            0.00
+             0            0
+</TABLE>
+
+<TABLE>
+<CAPTION>
+            TGP ZONE
+          4-5 DELIVERY
+         TRANSPORTATION
+DAYS OF      PRICE                   TOTAL ANNUAL               TOTAL ANNUAL       ANNUAL $
+SERVICE   /(DTH/MONTH)           TRANSPORTATION CREDIT             CREDIT           DTH/MSQ
+<S>      <C>             <C>                                   <C>              <C>
+  (a)         (h)        ((b) * (f)) + ((g) * (h)) * 12 = (i)  (e) + (i) = (j)  (j) / (c) = (k)
+  100         ***                         0.00                       0.00             ***
+   90         ***                         0.00                       0.00             ***
+   60         ***                         0.00                       0.00             ***
+   30         ***                         0.00                       0.00             ***
+   10         ***                         0.00                       0.00             ***
+                                                                    $   0
+</TABLE>
+
+DEFINITIONS:
+
+(a)   Number of days of storage service
+
+(b)   Maximum Daily Quantity, MDQ, is the withdrawal capability from the field
+      and a like amount of Tennessee Gas Pipeline Transportation
+
+(c)   Maximum Storage Quantity, MSQ, is the number of Days of Service multiplied
+      by MDQ
+
+(d)   Storage Price is the total unit price per Dth of MSQ paid each month by
+      NJRES to CNYOG and credited to eCORP Marketing
+
+(e)   Total Annual Storage Credit is the dollars paid by NJRES to CNYOG for the
+      Stagecoach Storage Service which is credited to the eCORP Marketing
+      invoice by CNYOG
+
+(f)   TGP Lateral Transportation Price is the price per Dth, per Month, paid by
+      NJRES to TGP and credited to the eCORP Marketing invoice by TGP
+
+(g)   TGP Zone 4-5 Delivery Transportation Quantity, is the amount of
+      transportation released on the Tennessee Electronic Bulletin Board. This
+      volume is less than MDQ due to TGP fuel retention
+
+(h)   TGP Zone 4-5 Delivery Transportation Price is the price per Dth, per
+      Month, paid by NJRES to TGP and credited to the eCORP Marketing invoice by
+      TGP. Contract description, Attachment B
+
+(i)   Total Annual Transportation Credit is the dollars paid by NJRES to TGP and
+      credited to eCORP Marketing for the Tennessee Transportation Service
+
+(j)   Total Annual Credit is the dollars paid by NJRES to CNYOG and TGP for the
+      Storage and Transportation Services and subsequently credited to the eCORP
+      Marketing TGP and CNYOG invoices
+
+(k)   Total $ Dth/ MSQ is the annual dollars paid by NJRES for both Storage and
+      Transportation Services divided by Maximum Storage Quantity
+<PAGE>
+EXHIBIT B-1 (CONTINUED)                                                   PAGE 2
+
+Purchase Prices for described services - Year 1 April 1, 2002 - March 31, 2003
+
+                                 STORAGE SERVICE
+                      WITH TENNESSEE GAS PIPELINE CAPACITY
+               PRIMARY RECEIPT 319 - PRIMARY DELIVERY WHITE PLAINS
+<TABLE>
+<CAPTION>
+          MAXIMUM      MAXIMUM                                             TGP LATERAL
+           DAILY       STORAGE                                           TRANSPORTATION     TGP 300 LINE
+DAYS OF  QUANTITY     QUANTITY      STORAGE PRICE      TOTAL ANNUAL           PRICE        TRANSPORTATION
+SERVICE    (DTH)        (DTH)        /(DTH/MONTH)     STORAGE CREDIT      /(DTH/MONTH)        QUANTITY
+<S>      <C>       <C>              <C>            <C>                   <C>             <C>
+  (a)       (b)    (a) * (b) = (c)       (d)       (c) * (d) * 12 = (e)        (f)       (g) = (b) less (1)
+  100         0            0             ***              0.00                 ***              0.00
+   90       ***          ***             ***               ***                 ***               ***
+   60         0            0             ***              0.00                 ***              0.00
+   30         0            0             ***              0.00                 ***              0.00
+   10         0            0             ***              0.00                 ***              0.00
+
+
+            ***          ***                                                                     ***
+
+                                   TOTAL STORAGE SERVICES SOLD
+
+
+  100      0.00         0.00
+   90       ***          ***
+   60      0.00         0.00
+   30      0.00         0.00
+   10      0.00         0.00
+            ***          ***             ***
+</TABLE>
+
+<TABLE>
+<CAPTION>
+          TGP 300 LINE
+         TRANSPORTATION
+DAYS OF      PRICE                   TOTAL ANNUAL               TOTAL ANNUAL       ANNUAL $
+SERVICE   /(DTH/MONTH)           TRANSPORTATION CREDIT             CREDIT           DTH/MSQ
+<S>      <C>             <C>                                   <C>              <C>
+  (a)         (h)        ((b) * (f)) + ((g) * (h)) * 12 = (i)  (e) + (i) = (j)  (j) / (c) = (k)
+  100         ***                          0.00                      0.00             ***
+   90         ***                           ***                       ***             ***
+   60         ***                          0.00                      0.00             ***
+   30         ***                          0.00                      0.00             ***
+   10         ***                          0.00                      0.00             ***
+
+
+                                                                      ***
+</TABLE>
+
+Amounts entered in column (b) for purposes of this exhibit are illustrative to
+demonstrate the Put calculation mechanics. Actual Put calculations will based on
+actual amounts inserted in column (b).
+
+EACH COMPONENT, COLUMN (a) THROUGH (k) AS DEFINED, CONSTITUTES THE ENTIRE 'PUT"
+SERVICE. IN NO EVENT MAY ONE COMPONENT BE 'PUT' TO NJRES WITHOUT THE ASSOCIATED
+COMPONENT FOR THAT PARTICULAR SERVICE ECORP MARKETING MUST CONSIDER OTHER
+'REVENUE POOL' COMPONENTS AS DESCRIBED IN THE AGREEMENT WHEN DETERMINING THE
+SERVICES TO BE SOLD OR "PUT TO NJRES
+
+DEFINITIONS:
+
+(a)   Number of days of storage service
+
+(b)   Maximum Daily Quantity, MDQ, is the withdrawal capability from the field
+      and a like amount of Tennessee Gas Pipeline Transportation
+
+(c)   Maximum Storage Quantity, MSQ, is the number of Days of Service multiplied
+      by MDQ
+
+(d)   Storage Price is the total unit price per Dth of MSQ paid each month by
+      NJRES to CNYOG and credited to eCORP Marketing (This price is only valid
+      with TGP Lateral and 300 Line Transportation
+
+(e)   Total Annual Storage Credit is the dollars paid by NJRES to CNYOG for the
+      Stagecoach Storage Service which is credited to the eCORP Marketing
+      invoice by CNYOG
+
+(f)   TGP Lateral Transportation Price is the price per Dth, per Month, paid by
+      NJRES to TGP and credited to the eCORP Marketing invoice by TGP
+
+(g)   TGP 300 Line Transportation Quantity, is the amount of transportation
+      released on the Tennessee Electronic Bulletin Board. This volume is less
+      than (b) due to TGP tariff fuel retention rates.
+
+(h)   TGP 300 Line Transportation Price is the price per Dth, per Month, paid by
+      NJRES to TGP and credited to the eCORP Marketing invoice by TGP
+
+(i)   Total Annual Transportation Credit is the dollars paid by NJRES to TGP and
+      credited to eCORP Marketing for the Tennessee Transportation Service
+
+(j)   Total Annual Credit is the dollars paid by NJRES to CNYOG and TGP for the
+      Storage and Transportation Services and subsequently credited to the eCORP
+      Marketing TGP and CNYOG invoices
+
+(k)   Total $ Dth/ MSQ is the annual dollars paid by NJRES for both Storage and
+      Transportation Services divided by Maximum Storage Quantity
+
+(1)   is the TGP tariff fuel retention rate
+
+Note: TGP is the Tennessee Gas Pipeline
+<PAGE>
+EXHIBIT B-2                                                               PAGE 1
+
+Purchase Prices for described services - Year 2 through 10 April 1, 2002 - March
+31, 2012
+
+
+                                 STORAGE SERVICE
+                      WITH TENNESSEE GAS PIPELINE CAPACITY
+                           PRIMARY RECEIPT EAST AURORA
+          PRIMARY DELIVERY VARIOUS ZONE 4 AND ZONE 5 POINTS (SEE TABLE)
+
+<TABLE>
+<CAPTION>
+
+          MAXIMUM      MAXIMUM                                             TGP LATERAL      TGP ZONE
+           DAILY       STORAGE                                           TRANSPORTATION   4-5 DELIVERY
+DAYS OF  QUANTITY     QUANTITY      STORAGE PRICE      TOTAL ANNUAL           PRICE      TRANSPORTATION
+SERVICE    (DTH)        (DTH)        /(DTH/MONTH)     STORAGE CREDIT      /(DTH/MONTH)      QUANTITY
+<S>      <C>       <C>              <C>            <C>                   <C>             <C>
+  (a)       (b)    (a) * (b) = (c)        (d)      (c) * (d) * 12 = (e)        (f)          (g) = (b)
+  100        0            0               ***              0.00                ***             0.00
+   90        0            0               ***              0.00                ***             0.00
+   60        0            0               ***              0.00                ***             0.00
+   30        0            0               ***              0.00                ***             0.00
+   10        0            0               ***              0.00                ***             0.00
+             0            0
+</TABLE>
+
+<TABLE>
+<CAPTION>
+            TGP ZONE
+          4-5 DELIVERY
+         TRANSPORTATION
+DAYS OF      PRICE                   TOTAL ANNUAL               TOTAL ANNUAL       ANNUAL $
+SERVICE   /(DTH/MONTH)           TRANSPORTATION CREDIT             CREDIT           DTH/MSQ
+<S>      <C>             <C>                                   <C>              <C>
+  (a)          (h)       ((b) * (f)) + ((g) * (h)) * 12 = (i)  (e) + (i) = (j)  (j) / (c) = (k)
+  100          ***                       0.00                        0.00            ***
+   90          ***                       0.00                        0.00            ***
+   60          ***                       0.00                        0.00            ***
+   30          ***                       0.00                        0.00            ***
+   10          ***                       0.00                        0.00            ***
+                                                                    $   0
+</TABLE>
+
+DEFINITIONS:
+
+(a)   Number of days of storage service
+
+(b)   Maximum Daily Quantity, MDQ, is the withdrawal capability from the field
+      and a like amount of Tennessee Gas Pipeline Transportation
+
+(c)   Maximum Storage Quantity, MSQ, is the number of Days of Service multiplied
+      by MDQ
+
+(d)   Storage Price is the total unit price per Dth of MSQ paid each month by
+      NJRES to CNYOG and credited to eCORP Marketing
+
+(e)   Total Annual Storage Credit is the dollars paid by NJRES to CNYOG for the
+      Stagecoach Storage Service which is credited to the eCORP Marketing
+      invoice by CNYOG
+
+(f)   TGP Lateral Transportation Price is the price per Dth, per Month, paid by
+      NJRES to TGP and credited to the eCORP Marketing invoice by TGP
+
+(g)   TGP Zone 4-5 Delivery Transportation Quantity, is the amount of
+      transportation released on the Tennessee Electronic Bulletin Board. This
+      volume is less than MDQ due to TGP fuel retention
+
+(h)   TGP Zone 4-5 Delivery Transportation Price is the price per Dth, per
+      Month, paid by NJRES to TGP and credited to the eCORP Marketing invoice by
+      TGP. Contract description, Attachment B
+
+(i)   Total Annual Transportation Credit is the dollars paid by NJRES to TGP and
+      credited to eCORP Marketing for the Tennessee Transportation Service
+
+(j)   Total Annual Credit is the dollars paid by NJRES to CNYOG and TGP for the
+      Storage and Transportation Services and subsequently credited to the eCORP
+      Marketing TGP and CNYOG invoices
+
+(k)   Total $ Dth/ MSQ is the annual dollars paid by NJRES for both Storage and
+      Transportation Services divided by Maximum Storage Quantity
+<PAGE>
+EXHIBIT B-2 (CONTINUED)                                                   PAGE 2
+
+Purchase Prices for described services - Year 2 through 10 April 1, 2002 - March
+31, 2012
+
+                                 STORAGE SERVICE
+                      WITH TENNESSEE GAS PIPELINE CAPACITY
+               PRIMARY RECEIPT 319 - PRIMARY DELIVERY WHITE PLAINS
+<TABLE>
+<CAPTION>
+          MAXIMUM      MAXIMUM                                             TGP LATERAL
+           DAILY       STORAGE                                           TRANSPORTATION     TGP 300 LINE
+DAYS OF  QUANTITY     QUANTITY      STORAGE PRICE      TOTAL ANNUAL           PRICE        TRANSPORTATION
+SERVICE    (DTH)        (DTH)        /(DTH/MONTH)     STORAGE CREDIT      /(DTH/MONTH)        QUANTITY
+<S>      <C>       <C>              <C>            <C>                   <C>             <C>
+  (a)       (b)    (a) * (b) = (c)       (d)       (c) * (d) * 12 = (e)        (f)       (g) = (b) less (1)
+
+  100         0           0              ***                0.00               ***              0.00
+   90       ***         ***              ***                 ***               ***               ***
+   60         0           0              ***                0.00               ***              0.00
+   30         0           0              ***                0.00               ***              0.00
+   10         0           0              ***                0.00               ***              0.00
+
+
+            ***         ***                                                                      ***
+
+                                   TOTAL STORAGE SERVICES SOLD
+
+  100      0.00        0.00
+   90       ***         ***
+   60      0.00        0.00
+   30      0.00        0.00
+   10      0.00        0.00
+            ***         ***              ***
+</TABLE>
+<TABLE>
+<CAPTION>
+          TGP 300 LINE
+         TRANSPORTATION
+DAYS OF      PRICE                   TOTAL ANNUAL               TOTAL ANNUAL       ANNUAL $
+SERVICE   /(DTH/MONTH)           TRANSPORTATION CREDIT             CREDIT           DTH/MSQ
+<S>      <C>             <C>                                   <C>              <C>
+  (a)          (h)       ((b) * (f)) + ((g) * (h)) * 12 = (i)  (e) + (i) = (j)  (j) / (c) = (k)
+
+  100          ***                         0.00                      0.00             ***
+   90          ***                          ***                       ***             ***
+   60          ***                         0.00                      0.00             ***
+   30          ***                         0.00                      0.00             ***
+   10          ***                         0.00                      0.00             ***
+
+
+                                                                      ***
+</TABLE>
+
+Amounts entered in column (b) for purposes of this exhibit are illustrative to
+demonstrate the Put calculation mechanics. Actual Put calculations will based on
+actual amounts inserted in column (b).
+
+EACH COMPONENT, COLUMN (a) THROUGH (k) AS DEFINED, CONSTITUTES THE ENTIRE 'PUT"
+SERVICE. IN NO EVENT MAY ONE COMPONENT BE 'PUT' TO NJRES WITHOUT THE ASSOCIATED
+COMPONENT FOR THAT PARTICULAR SERVICE ECORP MARKETING MUST CONSIDER OTHER
+'REVENUE POOL' COMPONENTS AS DESCRIBED IN THE AGREEMENT WHEN DETERMINING THE
+SERVICES TO TO SOLD OR "PUT TO NJRES
+
+DEFINITIONS:
+
+(a)   Number of days of storage service
+
+(b)   Maximum Daily Quantity, MDQ, is the withdrawal capability from the field
+      and a like amount of Tennessee Gas Pipeline Transportation
+
+(c)   Maximum Storage Quantity, MSQ, is the number of Days of Service multiplied
+      by MDQ
+
+(d)   Storage Price is the total unit price per Dth of MSQ paid each month by
+      NJRES to CNYOG and credited to eCORP Marketing (This price is only valid
+      with TGP Lateral and 300 Line Transportation
+
+(e)   Total Annual Storage Credit is the dollars paid by NJRES to CNYOG for the
+      Stagecoach Storage Service which is credited to the eCORP Marketing
+      invoice by CNYOG
+
+(f)   TGP Lateral Transportation Price is the price per Dth, per Month, paid by
+      NJRES to TGP and credited to the eCORP Marketing invoice by TGP
+
+(g)   TGP 300 Line Transportation Quantity, is the amount of transportation
+      released on the Tennessee Electronic Bulletin Board. This volume is less
+      than (b) due to TGP tariff fuel retention rates.
+
+(h)   TGP 300 Line Transportation Price is the price per Dth, per Month, paid by
+      NJRES to TGP and credited to the eCORP Marketing invoice by TGP
+
+(i)   Total Annual Transportation Credit is the dollars paid by NJRES to TGP and
+      credited to eCORP Marketing for the Tennessee Transportation Service
+
+(j)   Total Annual Credit is the dollars paid by NJRES to CNYOG and TGP for the
+      Storage and Transportation Services and subsequently credited to the eCORP
+      Marketing TGP and CNYOG invoices
+
+(k)   Total $ Dth/ MSQ is the annual dollars paid by NJRES for both Storage and
+      Transportation Services divided by Maximum Storage Quantity
+
+(1)   is the TGP tariff fuel retention rate
+
+Note: TGP is the Tennessee Gas Pipeline
+<PAGE>
+EXHIBIT B-3                                                               PAGE 1
+
+Purchase Prices for described services - Year 2 through 10 April 1, 2003 - March
+31, 2012
+
+TO BE USED IF TEST PROVES GREATER THAN 9 BCF BUT LESS THAN 10 BCF OF WORKING GAS
+
+
+                                 STORAGE SERVICE
+                      WITH TENNESSEE GAS PIPELINE CAPACITY
+                           PRIMARY RECEIPT EAST AURORA
+          PRIMARY DELIVERY VARIOUS ZONE 4 AND ZONE 5 POINTS (SEE TABLE)
+
+<TABLE>
+<CAPTION>
+
+          MAXIMUM      MAXIMUM                                             TGP LATERAL      TGP ZONE
+           DAILY       STORAGE                                           TRANSPORTATION   4-5 DELIVERY
+DAYS OF  QUANTITY     QUANTITY      STORAGE PRICE      TOTAL ANNUAL           PRICE      TRANSPORTATION
+SERVICE    (DTH)        (DTH)        /(DTH/MONTH)     STORAGE CREDIT      /(DTH/MONTH)      QUANTITY
+<S>      <C>       <C>              <C>            <C>                   <C>             <C>
+  (a)       (b)    (a) * (b) = (c)       (d)       (c) * (d) * 12 = (e)        (f)          (g) = (b)
+  100        0            0              ***               0.00                ***             0.00
+   90        0            0              ***               0.00                ***             0.00
+   60        0            0              ***               0.00                ***             0.00
+   30        0            0              ***               0.00                ***             0.00
+   10        0            0              ***               0.00                ***             0.00
+             0            0
+</TABLE>
+
+<TABLE>
+<CAPTION>
+            TGP ZONE
+          4-5 DELIVERY
+         TRANSPORTATION
+DAYS OF      PRICE                   TOTAL ANNUAL               TOTAL ANNUAL       ANNUAL $
+SERVICE   /(DTH/MONTH)           TRANSPORTATION CREDIT             CREDIT           DTH/MSQ
+<S>      <C>             <C>                                   <C>              <C>
+  (a)          (h)       ((b) * (f)) + ((g) * (h)) * 12 = (i)  (e) + (i) = (j)  (j) / (c) = (k)
+  100          ***                        0.00                       0.00            ***
+   90          ***                        0.00                       0.00            ***
+   60          ***                        0.00                       0.00            ***
+   30          ***                        0.00                       0.00            ***
+   10          ***                        0.00                       0.00            ***
+                                                                    $   0
+</TABLE>
+
+DEFINITIONS:
+
+(a)   Number of days of storage service
+
+(b)   Maximum Daily Quantity, MDQ, is the withdrawal capability from the field
+      and a like amount of Tennessee Gas Pipeline Transportation
+
+(c)   Maximum Storage Quantity, MSQ, is the number of Days of Service multiplied
+      by MDQ
+
+(d)   Storage Price is the total unit price per Dth of MSQ paid each month by
+      NJRES to CNYOG and credited to eCORP Marketing
+
+(e)   Total Annual Storage Credit is the dollars paid by NJRES to CNYOG for the
+      Stagecoach Storage Service which is credited to the eCORP Marketing
+      invoice by CNYOG
+
+(f)   TGP Lateral Transportation Price is the price per Dth, per Month, paid by
+      NJRES to TGP and credited to the eCORP Marketing invoice by TGP
+
+(g)   TGP Zone 4-5 Delivery Transportation Quantity, is the amount of
+      transportation released on the Tennessee Electronic Bulletin Board. This
+      volume is less than MDQ due to TGP fuel retention
+
+(h)   TGP Zone 4-5 Delivery Transportation Price is the price per Dth, per
+      Month, paid by NJRES to TGP and credited to the eCORP Marketing invoice by
+      TGP. Contract description, Attachment B
+
+(i)   Total Annual Transportation Credit is the dollars paid by NJRES to TGP and
+      credited to eCORP Marketing for the Tennessee Transportation Service
+
+(j)   Total Annual Credit is the dollars paid by NJRES to CNYOG and TGP for the
+      Storage and Transportation Services and subsequently credited to the eCORP
+      Marketing TGP and CNYOG invoices
+
+(k)   Total $ Dth/ MSQ is the annual dollars paid by NJRES for both Storage and
+      Transportation Services divided by Maximum Storage Quantity
+<PAGE>
+EXHIBIT B-3 (CONTINUED)                                                   PAGE 2
+
+Purchase Prices for described services - Year 2 through 10 April 1, 2003 - March
+31, 2012
+
+                                 STORAGE SERVICE
+                      WITH TENNESSEE GAS PIPELINE CAPACITY
+               PRIMARY RECEIPT 319 - PRIMARY DELIVERY WHITE PLAINS
+<TABLE>
+<CAPTION>
+          MAXIMUM      MAXIMUM                                             TGP LATERAL
+           DAILY       STORAGE                                           TRANSPORTATION     TGP 300 LINE
+DAYS OF  QUANTITY     QUANTITY      STORAGE PRICE      TOTAL ANNUAL           PRICE        TRANSPORTATION
+SERVICE    (DTH)        (DTH)        /(DTH/MONTH)     STORAGE CREDIT      /(DTH/MONTH)        QUANTITY
+<S>      <C>       <C>              <C>            <C>                   <C>             <C>
+  (a)       (b)    (a) * (b) = (c)       (d)       (c) * (d) * 12 = (e)        (f)       (g) = (b) less (1)
+  100       ***         ***              ***                ***                ***               ***
+   90         0           0              ***               0.00                ***              0.00
+   60         0           0              ***               0.00                ***              0.00
+   30         0           0              ***               0.00                ***              0.00
+   10         0           0              ***               0.00                ***              0.00
+
+
+            ***         ***                                                                      ***
+
+
+                                   TOTAL STORAGE SERVICES SOLD
+
+  100       ***         ***
+   90      0.00        0.00
+   60      0.00        0.00
+   30      0.00        0.00
+   10      0.00        0.00
+            ***         ***              ***
+</TABLE>
+<TABLE>
+<CAPTION>
+          TGP 300 LINE
+         TRANSPORTATION
+DAYS OF      PRICE                   TOTAL ANNUAL               TOTAL ANNUAL       ANNUAL $
+SERVICE   /(DTH/MONTH)           TRANSPORTATION CREDIT             CREDIT           DTH/MSQ
+<S>      <C>             <C>                                   <C>              <C>
+  (a)          (h)       ((b) * (f)) + ((g) * (h)) * 12 = (i)  (e) + (i) = (j)  (j) / (c) = (k)
+  100          ***                        ***                         ***             ***
+   90          ***                        $ --                       $ --             ***
+   60          ***                        $ --                       $ --             ***
+   30          ***                        $ --                       $ --             ***
+   10          ***                        $ --                       $ --             ***
+
+
+                                                                      ***
+</TABLE>
+
+Amounts entered in column (b) for purposes of this exhibit are illustrative to
+demonstrate the Put calculation mechanics. Actual Put calculations will based on
+actual amounts inserted in column (b).
+
+EACH COMPONENT, COLUMN (a) THROUGH (k) AS DEFINED, CONSTITUTES THE ENTIRE 'PUT"
+SERVICE. IN NO EVENT MAY ONE COMPONENT BE 'PUT' TO NJRES WITHOUT THE ASSOCIATED
+COMPONENT FOR THAT PARTICULAR SERVICE ECORP MARKETING MUST CONSIDER OTHER
+'REVENUE POOL' COMPONENTS AS DESCRIBED IN THE AGREEMENT WHEN DETERMINING THE
+SERVICES TO TO SOLD OR "PUT TO NJRES
+
+DEFINITIONS:
+
+(a)   Number of days of storage service
+
+(b)   Maximum Daily Quantity, MDQ, is the withdrawal capability from the field
+      and a like amount of Tennessee Gas Pipeline Transportation
+
+(c)   Maximum Storage Quantity, MSQ, is the number of Days of Service multiplied
+      by MDQ
+
+(d)   Storage Price is the total unit price per Dth of MSQ paid each month by
+      NJRES to CNYOG and credited to eCORP Marketing (This price is only valid
+      with TGP Lateral and 300 Line Transportation
+
+(e)   Total Annual Storage Credit is the dollars paid by NJRES to CNYOG for the
+      Stagecoach Storage Service which is credited to the eCORP Marketing
+      invoice by CNYOG
+
+(f)   TGP Lateral Transportation Price is the price per Dth, per Month, paid by
+      NJRES to TGP and credited to the eCORP Marketing invoice by TGP
+
+(g)   TGP 300 Line Transportation Quantity, is the amount of transportation
+      released on the Tennessee Electronic Bulletin Board. This volume is less
+      than (b) due to TGP tariff fuel retention rates.
+
+(h)   TGP 300 Line Transportation Price is the price per Dth, per Month, paid by
+      NJRES to TGP and credited to the eCORP Marketing invoice by TGP
+
+(i)   Total Annual Transportation Credit is the dollars paid by NJRES to TGP and
+      credited to eCORP Marketing for the Tennessee Transportation Service
+
+(j)   Total Annual Credit is the dollars paid by NJRES to CNYOG and TGP for the
+      Storage and Transportation Services and subsequently credited to the eCORP
+      Marketing TGP and CNYOG invoices
+
+(k)   Total $ Dth/ MSQ is the annual dollars paid by NJRES for both Storage and
+      Transportation Services divided by Maximum Storage Quantity
+
+(1)   is the TGP tariff fuel retention rate
+
+Note: TGP is the Tennessee Gas Pipeline
+<PAGE>
+EXHIBIT B-4                                                               PAGE 1
+
+Purchase Prices for described services - Year 2 through 10 April 1, 2003 - March
+31, 2012
+
+TO BE USED IF TEST PROVES GREATER THAN 10 BCF BUT LESS THAN 11 BCF OF WORKING
+GAS
+
+
+                                 STORAGE SERVICE
+                      WITH TENNESSEE GAS PIPELINE CAPACITY
+                           PRIMARY RECEIPT EAST AURORA
+          PRIMARY DELIVERY VARIOUS ZONE 4 AND ZONE 5 POINTS (SEE TABLE)
+
+<TABLE>
+<CAPTION>
+
+          MAXIMUM      MAXIMUM                                             TGP LATERAL      TGP ZONE
+           DAILY       STORAGE                                           TRANSPORTATION   4-5 DELIVERY
+DAYS OF  QUANTITY     QUANTITY      STORAGE PRICE      TOTAL ANNUAL           PRICE      TRANSPORTATION
+SERVICE    (DTH)        (DTH)        /(DTH/MONTH)     STORAGE CREDIT      /(DTH/MONTH)      QUANTITY
+<S>      <C>       <C>              <C>            <C>                   <C>             <C>
+   (a)      (b)    (a) * (b) = (c)       (d)       (c) * (d) * 12 = (e)        (f)          (g) = (b)
+  100       ***          ***             ***                ***                ***              ***
+   90         0            0             ***               0.00                ***             0.00
+   60         0            0             ***               0.00                ***             0.00
+   30         0            0             ***               0.00                ***             0.00
+   10         0            0             ***               0.00                ***             0.00
+            ***          ***
+</TABLE>
+
+<TABLE>
+<CAPTION>
+            TGP ZONE
+          4-5 DELIVERY
+         TRANSPORTATION
+DAYS OF      PRICE                   TOTAL ANNUAL               TOTAL ANNUAL       ANNUAL $
+SERVICE   /(DTH/MONTH)           TRANSPORTATION CREDIT             CREDIT           DTH/MSQ
+<S>      <C>             <C>                                   <C>              <C>
+   (a)         (h)       ((b) * (f)) + ((g) * (h)) * 12 = (i)  (e) + (i) = (j)  (j) / (c) = (k)
+  100          ***                          ***                      ***              ***
+   90          ***                         0.00                     0.00              ***
+   60          ***                         0.00                     0.00              ***
+   30          ***                         0.00                     0.00              ***
+   10          ***                         0.00                     0.00              ***
+                                                                     ***
+</TABLE>
+
+DEFINITIONS:
+
+(a)   Number of days of storage service
+
+(b)   Maximum Daily Quantity, MDQ, is the withdrawal capability from the field
+      and a like amount of Tennessee Gas Pipeline Transportation
+
+(c)   Maximum Storage Quantity, MSQ, is the number of Days of Service multiplied
+      by MDQ
+
+(d)   Storage Price is the total unit price per Dth of MSQ paid each month by
+      NJRES to CNYOG and credited to eCORP Marketing
+
+(e)   Total Annual Storage Credit is the dollars paid by NJRES to CNYOG for the
+      Stagecoach Storage Service which is credited to the eCORP Marketing
+      invoice by CNYOG
+
+(f)   TGP Lateral Transportation Price is the price per Dth, per Month, paid by
+      NJRES to TGP and credited to the eCORP Marketing invoice by TGP
+
+(g)   TGP Zone 4-5 Delivery Transportation Quantity, is the amount of
+      transportation released on the Tennessee Electronic Bulletin Board. This
+      volume is less than MDQ due to TGP fuel retention
+
+(h)   TGP Zone 4-5 Delivery Transportation Price is the price per Dth, per
+      Month, paid by NJRES to TGP and credited to the eCORP Marketing invoice by
+      TGP. Contract description, Attachment B
+
+(i)   Total Annual Transportation Credit is the dollars paid by NJRES to TGP and
+      credited to eCORP Marketing for the Tennessee Transportation Service
+
+(j)   Total Annual Credit is the dollars paid by NJRES to CNYOG and TGP for the
+      Storage and Transportation Services and subsequently credited to the eCORP
+      Marketing TGP and CNYOG invoices
+
+(k)   Total $ Dth/ MSQ is the annual dollars paid by NJRES for both Storage and
+      Transportation Services divided by Maximum Storage Quantity
+<PAGE>
+EXHIBIT B-4 (CONTINUED)                                                   PAGE 2
+
+Purchase Prices for described services - Year 2 through 10 April 1, 2003 - March
+31, 2012
+                                 STORAGE SERVICE
+                      WITH TENNESSEE GAS PIPELINE CAPACITY
+               PRIMARY RECEIPT 319 - PRIMARY DELIVERY WHITE PLAINS
+<TABLE>
+<CAPTION>
+          MAXIMUM      MAXIMUM                                             TGP LATERAL
+           DAILY       STORAGE                                           TRANSPORTATION     TGP 300 LINE
+DAYS OF  QUANTITY     QUANTITY      STORAGE PRICE      TOTAL ANNUAL           PRICE        TRANSPORTATION
+SERVICE    (DTH)        (DTH)        /(DTH/MONTH)     STORAGE CREDIT      /(DTH/MONTH)        QUANTITY
+<S>      <C>       <C>              <C>            <C>                   <C>             <C>
+   (a)      (b)    (a) * (b) = (c)       (d)       (c) * (d) * 12 = (e)        (f)       (g) = (b) less (1)
+  100       ***          ***             ***               ***                 ***              ***
+   90         0            0             ***               $ -                 ***             0.00
+   60         0            0             ***               $ -                 ***             0.00
+   30         0            0             ***               $ -                 ***             0.00
+   10         0            0             ***               $ -                 ***             0.00
+
+
+            ***          ***                                                                    ***
+
+                                   TOTAL STORAGE SERVICES SOLD
+
+  100       ***          ***
+   90         -            -
+   60         -            -
+   30         -            -
+   10         -            -
+            ***          ***             ***
+</TABLE>
+<TABLE>
+<CAPTION>
+          TGP 300 LINE
+         TRANSPORTATION
+DAYS OF      PRICE                   TOTAL ANNUAL               TOTAL ANNUAL       ANNUAL $
+SERVICE   /(DTH/MONTH)           TRANSPORTATION CREDIT             CREDIT           DTH/MSQ
+<S>      <C>             <C>                                   <C>              <C>
+   (a)         (h)       ((b) * (f)) + ((g) * (h)) * 12 = (i)  (e) + (i) = (j)  (j) / (c) = (k)
+  100          ***                          ***                      ***              ***
+   90          ***                         $ --                     $ --              ***
+   60          ***                         $ --                     $ --              ***
+   30          ***                         $ --                     $ --              ***
+   10          ***                         $ --                     $ --              ***
+
+
+                                                                     ***
+</TABLE>
+
+Amounts entered in column (b) for purposes of this exhibit are illustrative to
+demonstrate the Put calculation mechanics. Actual Put calculations will based on
+actual amounts inserted in column (b).
+
+EACH COMPONENT, COLUMN (a) THROUGH (k) AS DEFINED, CONSTITUTES THE ENTIRE 'PUT"
+SERVICE. IN NO EVENT MAY ONE COMPONENT BE 'PUT' TO NJRES WITHOUT THE ASSOCIATED
+COMPONENT FOR THAT PARTICULAR SERVICE ECORP MARKETING MUST CONSIDER OTHER
+'REVENUE POOL' COMPONENTS AS DESCRIBED IN THE AGREEMENT WHEN DETERMINING THE
+SERVICES TO TO SOLD OR "PUT TO NJRES
+
+DEFINITIONS:
+
+(a)   Number of days of storage service
+
+(b)   Maximum Daily Quantity, MDQ, is the withdrawal capability from the field
+      and a like amount of Tennessee Gas Pipeline Transportation
+
+(c)   Maximum Storage Quantity, MSQ, is the number of Days of Service multiplied
+      by MDQ
+
+(d)   Storage Price is the total unit price per Dth of MSQ paid each month by
+      NJRES to CNYOG and credited to eCORP Marketing (This price is only valid
+      with TGP Lateral and 300 Line Transportation
+
+(e)   Total Annual Storage Credit is the dollars paid by NJRES to CNYOG for the
+      Stagecoach Storage Service which is credited to the eCORP Marketing
+      invoice by CNYOG
+
+(f)   TGP Lateral Transportation Price is the price per Dth, per Month, paid by
+      NJRES to TGP and credited to the eCORP Marketing invoice by TGP
+
+(g)   TGP 300 Line Transportation Quantity, is the amount of transportation
+      released on the Tennessee Electronic Bulletin Board. This volume is less
+      than (b) due to TGP tariff fuel retention rates.
+
+(h)   TGP 300 Line Transportation Price is the price per Dth, per Month, paid by
+      NJRES to TGP and credited to the eCORP Marketing invoice by TGP
+
+(i)   Total Annual Transportation Credit is the dollars paid by NJRES to TGP and
+      credited to eCORP Marketing for the Tennessee Transportation Service
+
+(j)   Total Annual Credit is the dollars paid by NJRES to CNYOG and TGP for the
+      Storage and Transportation Services and subsequently credited to the eCORP
+      Marketing TGP and CNYOG invoices
+
+(k)   Total $ Dth/ MSQ is the annual dollars paid by NJRES for both Storage and
+      Transportation Services divided by Maximum Storage Quantity
+
+(1)   is the TGP tariff fuel retention rate
+
+Note: TGP is the Tennessee Gas Pipeline
+<PAGE>
+EXHIBIT B-5                                                               PAGE 1
+
+PURCHASE PRICES FOR DESCRIBED SERVICES - YEAR 2 THROUGH 10
+                                                  APRIL 1, 2003 - MARCH 31, 2012
+TO BE USED IF TEST PROVES GREATER THAN 11 Bcf OF WORKING GAS
+
+
+                                 STORAGE SERVICE
+                      WITH TENNESSEE GAS PIPELINE CAPACITY
+                           PRIMARY RECEIPT EAST AURORA
+          PRIMARY DELIVERY VARIOUS ZONE 4 AND ZONE 5 POINTS (SEE TABLE)
+
+<TABLE>
+<CAPTION>
+                                                                                                          TGP ZONE 4-5
+         MAXIMUM                                                           TGP LATERAL    TGP ZONE 4-5      DELIVERY
+          DAILY        MAXIMUM                                           TRANSPORTATION     DELIVERY     TRANSPORTATION
+DAYS OF  QUANTITY      STORAGE      STORAGE PRICE      TOTAL ANNUAL           PRICE      TRANSPORTATION       PRICE
+SERVICE   (DTH)    QUANTITY (DTH)   /(DTH/MONTH)      STORAGE CREDIT      /(DTH/MONTH)      QUANTITY      /(DTH/MONTH)
+
+  (a)      (b)     (a) * (b) = (c)       (d)       (c) * (d) * 12 = (e)        (f)          (g) = (b)          (h)
+<S>      <C>       <C>              <C>            <C>                   <C>             <C>             <C>
+  100      ***           ***             ***                ***                ***             ***             ***
+   90       0             0              ***               0.00                ***            0.00             ***
+   60       0             0              ***               0.00                ***            0.00             ***
+   30       0             0              ***               0.00                ***            0.00             ***
+   10       0             0              ***               0.00                ***            0.00             ***
+           ***           ***
+</TABLE>
+
+<TABLE>
+<CAPTION>
+
+
+
+DAYS OF                TOTAL ANNUAL             TOTAL ANNUAL       ANNUAL $
+SERVICE            TRANSPORTATION CREDIT           CREDIT           DTH/MSQ
+
+  (a)    ((b) * (f)) + ((g) * (h)) * 12 = (i)  (e) + (i) = (j)  (j) / (c) = (k)
+<S>      <C>                                   <C>              <C>
+  100                              ***               ***              ***
+   90                             0.00               $ -              ***
+   60                             0.00               $ -              ***
+   30                             0.00               $ -              ***
+   10                             0.00               $ -              ***
+                                                     ***
+</TABLE>
+
+DEFINITIONS:
+
+     (a)  Number of days of storage service
+
+     (b)  Maximum Daily Quantity, MDQ, is the withdrawal capability from the
+          field and a like amount of Tennessee Gas Pipeline Transportation
+
+     (c)  Maximum Storage Quantity, MSQ, is the number of Days of Service
+          multiplied by MDQ
+
+     (d)  Storage Price is the total unit price per Dth of MSQ paid each month
+          by NJRES to CNYOG and credited to eCORP Marketing
+
+     (e)  Total Annual Storage Credit is the dollars paid by NJRES to CNYOG for
+          the Stagecoach Storage Service which is credited to the eCORP
+          Marketing invoice by CNYOG
+
+     (f)  TGP Lateral Transportation Price is the price per Dth, per Month, paid
+          by NJRES to TGP and credited to the eCORP Marketing invoice by TGP
+
+     (g)  TGP Zone 4-5 Delivery Transportation Quantity, is the amount of
+          transportation released on the Tennessee Electronic Bulletin Board.
+          This volume is less than MDQ due to TGP fuel retention
+
+     (h)  TGP Zone 4-5 Delivery Transportation Price is the price per Dth, per
+          Month, paid by NJRES to TGP and credited to the eCORP Marketing
+          invoice by TGP. Contract description, Attachment B
+
+     (i)  Total Annual Transportation Credit is the dollars paid by NJRES to TGP
+          and credited to eCORP Marketing for the Tennessee Transportation
+          Service
+
+     (j)  Total Annual Credit is the dollars paid by NJRES to CNYOG and TGP for
+          the Storage and Transportation Services and subsequently credited to
+          the eCORP Marketing TGP and CNYOG invoices
+
+     (k)  Total $ Dth/ MSQ is the annual dollars paid by NJRES for both Storage
+          and Transportation Services divided by Maximum Storage Quantity
+<PAGE>
+EXHIBIT B-5 (CONTINUED)                                                   PAGE 2
+
+Purchase Prices for described services - Year 2 through 10
+                                                  April 1, 2003 - March 31, 2012
+
+
+                                 STORAGE SERVICE
+                      WITH TENNESSEE GAS PIPELINE CAPACITY
+               PRIMARY RECEIPT 319 - PRIMARY DELIVERY WHITE PLAINS
+<TABLE>
+<CAPTION>
+         MAXIMUM                                                          TGP LATERAL                         TGP 300 LINE
+          DAILY        MAXIMUM                                           TRANSPORTATION     TGP 300 LINE     TRANSPORTATION
+DAYS OF  QUANTITY      STORAGE      STORAGE PRICE      TOTAL ANNUAL          PRICE         TRANSPORTATION        PRICE
+SERVICE   (DTH)     QUANTITY (DTH)  /(DTH/MONTH)      STORAGE CREDIT      /(DTH/MONTH)        QUANTITY        /(DTH/MONTH)
+<S>      <C>       <C>              <C>            <C>                   <C>             <C>                 <C>
+  (a)      (b)     (a) * (b) = (c)       (d)       (c) * (d) * 12 = (e)       (f)        (g) = (b) less (1)       (h)
+
+  100      ***           ***             ***                 ***              ***               ***               ***
+   90       0             0              ***              $ 0.01              ***                0                ***
+   60       0             0              ***              $ 0.01              ***                0                ***
+   30       0             0              ***              $ 0.00              ***                0                ***
+   10       0             0              ***              $ 0.00              ***                0                ***
+
+
+
+
+
+                         ***             ***                                                    ***
+</TABLE>
+
+                           TOTAL STORAGE SERVICES SOLD
+<TABLE>
+<S>                         <C>                   <C>                        <C>
+     100                    ***                   ***
+      90                      0                     0
+      60                      0                     0
+      30                      0                     0
+      10                      0                     0
+                            ***                   ***                        ***
+</TABLE>
+
+<TABLE>
+<CAPTION>
+
+
+DAYS OF              TOTAL ANNUAL                TOTAL ANNUAL       ANNUAL $
+SERVICE          TRANSPORTATION CREDIT              CREDIT          DTH/MSQ
+<S>      <C>                                   <C>              <C>
+  (a)    ((b) * (f)) + ((g) * (h)) * 12 = (i)  (e) + (i) = (j)  (j) / (c) = (k)
+
+  100                      ***                        ***             ***
+   90                   $ 0.01                     $ 0.02             ***
+   60                   $ 0.01                     $ 0.02             ***
+   30                   $ 0.01                     $ 0.01             ***
+   10                   $ 0.01                     $ 0.01             ***
+
+
+
+
+
+
+                                                      ***
+</TABLE>
+
+Amounts entered in column (b) for purposes of this exhibit are illustrative to
+demonstrate the Put calculation mechanics. Actual Put calculations will based on
+actual amounts inserted in column (b).
+
+EACH COMPONENT, COLUMN (a) THROUGH (k) AS DEFINED, CONSTITUTES THE ENTIRE 'PUT"
+SERVICE. IN NO EVENT MAY ONE COMPONENT BE 'PUT' TO NJRES WITHOUT THE ASSOCIATED
+COMPONENT FOR THAT PARTICULAR SERVICE eCORP MARKETING MUST CONSIDER OTHER
+'REVENUE POOL' COMPONENTS AS DESCRIBED IN THE AGREEMENT WHEN DETERMINING THE
+SERVICES TO TO SOLD OR "PUT TO NJRES
+
+DEFINITIONS:
+
+     (a)  Number of days of storage service
+
+     (b)  Maximum Daily Quantity, MDQ, is the withdrawal capability from the
+          field and a like amount of Tennessee Gas Pipeline Transportation
+
+     (c)  Maximum Storage Quantity, MSQ, is the number of Days of Service
+          multiplied by MDQ
+
+     (d)  Storage Price is the total unit price per Dth of MSQ paid each month
+          by NJRES to CNYOG and credited to eCORP Marketing (This price is only
+          valid with TGP Lateral and 300 Line Transportation
+
+     (e)  Total Annual Storage Credit is the dollars paid by NJRES to CNYOG for
+          the Stagecoach Storage Service which is credited to the eCORP
+          Marketing invoice by CNYOG
+
+     (f)  TGP Lateral Transportation Price is the price per Dth, per Month, paid
+          by NJRES to TGP and credited to the eCORP Marketing invoice by TGP
+
+     (g)  TGP 300 Line Transportation Quantity, is the amount of transportation
+          released on the Tennessee Electronic Bulletin Board. This volume is
+          less than (b) due to TGP tariff fuel retention rates.
+
+     (h)  TGP 300 Line Transportation Price is the price per Dth, per Month,
+          paid by NJRES to TGP and credited to the eCORP Marketing invoice by
+          TGP
+
+     (i)  Total Annual Transportation Credit is the dollars paid by NJRES to TGP
+          and credited to eCORP Marketing for the Tennessee Transportation
+          Service
+
+     (j)  Total Annual Credit is the dollars paid by NJRES to CNYOG and TGP for
+          the Storage and Transportation Services and subsequently credited to
+          the eCORP Marketing TGP and CNYOG invoices
+
+     (k)  Total $ Dth/ MSQ is the annual dollars paid by NJRES for both Storage
+          and Transportation Services divided by Maximum Storage Quantity
+
+     (1)  is the TGP tariff fuel retention rate
+
+     Note: TGP is the Tennessee Gas Pipeline
+<PAGE>
+                                   Exhibit B-6
+
+***
+<PAGE>
+
+
+                                    EXHIBIT C
+
+                               GUARANTY AGREEMENT
+
+         This Guaranty Agreement (this "Guaranty") is made as of the 9th day of
+January, 2002, between eCORP MARKETING, LLC, a Delaware limited liability
+company ("COMPANY"), and NEW JERSEY RESOURCES CORPORATION, a New Jersey
+corporation ("GUARANTOR").
+
+                              W I T N E S S E T H:
+
+         WHEREAS, Company and NJR ENERGY SERVICES COMPANY ("NJRES"), a
+wholly-owned subsidiary of Guarantor, have entered or will enter into (i)
+Amended and Restated Natural Gas Storage Marketing and Management Agreement
+between Company and NJRES, dated as of January 9, 2002, (the "M&M Agreement");
+(ii) the Transportation Capacity Release Agreement between CNYOG, Company and
+NJRES, dated as of January 9, 2002, (the "Transportation Capacity Release");
+(iii) Base Gas Lease Agreement between CNYOG and NJRES, dated as of January 9,
+2002, (the "Base Gas Agreement"); and (iv) a certain letter agreement between
+CNYOG, Company and NJRES, dated as of January 9, 2002 regarding the M & M
+Agreement (the "Letter Agreement") (such agreements, as the same from time to
+time may be modified, amended and supplemented, shall be referred to herein as
+the "AGREEMENTS").
+
+         NOW THEREFORE, in order to induce Company to enter into Agreements,
+Guarantor hereby covenants and agrees as follows:
+
+         1. Guaranty. Subject to the provisions hereof, including, without
+limitation, Sections 6 and 16 below, Guarantor hereby irrevocably, absolutely
+and unconditionally guarantees, as a primary obligor and not merely as a surety,
+the timely payment and performance of all obligations of NJRES (the "NJRES
+OBLIGATIONS") to Company under the Agreements. This Guaranty is a guaranty of
+performance when due and not of collection. To the extent that NJRES shall fail
+in the payment or performance of any NJRES Obligation upon Company's compliance
+with Section 3, Guarantor shall honor such NJRES Obligation to the extent of
+such failure. The liability of Guarantor under this Guaranty shall be subject to
+the terms and conditions herein set forth.
+
+         2. Amendment: No renewal, extension, amendment, waiver, or modification
+of or addition or supplement to or deletion from any of the terms of the
+Agreements to which NJRES is a party or otherwise caused to occur or permitted
+to exist shall release or limit Guarantor's liability hereunder, and every such
+change is hereby in every respect consented to by Guarantor.
+
+         3. Demands and Notice. Company shall make a demand (herein referred to
+as a "PERFORMANCE DEMAND") upon Guarantor if at any time NJRES defaults under
+the Agreements and continues to fail or refuse to cure such default in
+performance for a period of fifteen (15) days, and Company has elected to
+enforce its rights under this Guaranty. A Performance Demand shall be in writing
+and shall reasonably and briefly specify the NJRES Obligation(s) which Company
+is calling upon Guarantor to perform and the nature of NJRES's breach. A
+Performance Demand in the foregoing form shall be deemed sufficient notice to
+Guarantor that it must perform or cause to be performed the NJRES Obligation(s).
+Guarantor shall also pay,
+<PAGE>
+within fifteen (15) days of Guarantor's receipt of a Performance Demand, all
+reasonable expenses (including, without limitation, all reasonable fees and
+disbursements of counsel) which may be incurred by Company in enforcing any
+rights with respect to, or collecting against Guarantor under, this Guaranty (as
+set forth in reasonable detail in the Performance Demand); provided, that
+Guarantor shall not be liable for any such expenses if no payment or performance
+under any of the Agreements is due or determined to be due.
+
+         4. Setoffs and Counterclaims. Guarantor reserves to itself all rights,
+setoffs, counterclaims and other defenses which NJRES is or may be entitled to
+arising from or out of the Agreements, except for defenses arising out of the
+bankruptcy, insolvency, dissolution or liquidation of NJRES. If any payment of
+the guaranteed obligations is rescinded or must be otherwise restored or
+returned upon the insolvency, bankruptcy or reorganization of NJRES or a similar
+proceeding or circumstance, the Guarantor's obligations hereunder with respect
+to such payment or payments shall be reinstated as though such payment had not
+been made.
+
+         5. Notices. Any Performance Demand, notice, request, instruction,
+correspondence or other document to be given hereunder by any party to another
+(herein collectively called "Notice") shall be in writing and delivered
+personally or mailed by certified mail, postage prepaid and return receipt
+requested, or by telecopier, as follows:
+
+                  To Company:       eCORP Marketing, LLC
+                                    10,000 Memorial Drive
+                                    Suite 530
+                                    Houston, Texas  77024
+                                    Attention:  G.S. Clifton
+                                    Facsimile No:  (713) 526-2363
+                                    Phone No.:  (713) 882-2288
+
+                  To Guarantor:     New Jersey Resources Corporation
+                                    1415 Wyckoff Road
+                                    P.O. Box 1464
+                                    Wall, New Jersey  07719
+                                    Attention:  Allan Denninger
+                                    Phone No.:    (732) 938-7891
+                                    Fax No.:      (732) 938-7547
+
+         Notice given by personal delivery or mail shall be effective upon
+actual receipt. Notice given by telecopier shall be effective upon actual
+receipt if received during the recipient's normal business hours, or at the
+beginning of the recipient's next business day after receipt if not received
+during the recipient's normal business hours. All Notices by telecopier shall be
+confirmed promptly after transmission in writing by certified mail or personal
+delivery. Any party may change any address to which Notice is to be given to it
+by giving Notice as provided above of such change of address.
+
+         6. Limitation. Notwithstanding any contrary provision of this Guaranty
+or of the Agreement, Guarantor's maximum liability to Company under this
+Guaranty (the "Guaranty Cap") shall be equal to (a) $18,000,000 for the period
+from April 1, 2002 to and including March
+
+                                       2
+<PAGE>
+31, 2003 and (b) $22,000,000 for each annual period thereafter from April 1,
+2003 to and including March 31, 2012.
+
+         7. Amendment of Guaranty. No term or provision of this Guaranty shall
+be amended, modified, altered, supplemented or terminated except in a writing
+signed by the parties hereto.
+
+         8. Waivers. Guarantor hereby waives (a) notice of acceptance of this
+Guaranty; (b) presentment and demand concerning the liabilities of Guarantor,
+except as expressly hereinabove set forth; and (c) any right to require that any
+action or proceeding be brought against NJRES or any other person, or to require
+that Company seek enforcement of any performance against NJRES or any other
+person, prior to any action against Guarantor under the terms hereof. No delay
+of Company in the exercise of, or failure to exercise, any rights hereunder
+shall operate as a waiver of such rights, a waiver of any other rights or a
+release of Guarantor from any obligations hereunder. Guarantor hereby
+acknowledges receipt of a copy of each of the Agreements.
+
+         9. Assignment. This Guaranty shall be binding upon and inure to the
+benefit of and be enforceable by the respective successors and assigns of
+Company. The Guarantor shall not assign its obligations under this Guaranty
+without Company's prior written consent, which consent shall not be unreasonably
+withheld.
+
+         10. Covenants. At all times during which this Guaranty is in effect,
+Guarantor shall comply with the following financial covenants:
+
+         (i) Leverage Ratio. At no time shall Guarantor's ratio of Consolidated
+         Total Indebtedness to Consolidated Capitalization exceed 0.67:1.00;
+
+         (ii) Interest Coverage. At no time shall the ratio of Guarantor's
+         Consolidated EBITDA for the four (4) most recently completed Fiscal
+         Quarters, taken as a single accounting period, to the Guarantor's
+         Consolidated Interest Expense for the four (4) most recently completed
+         Fiscal Quarters, taken as a single accounting period, be less than 2.25
+         to 1.0; and
+
+         (iii) Asset Dispositions. Guarantor shall not, nor shall it permit any
+         Subsidiary to, transfer or dispose of in a single transaction or series
+         of related transactions assets within net book value in excess of
+         $250,000,000.
+
+         As used herein, the defined terms "Consolidated Total Indebtedness",
+"Consolidated Capitalization", "Consolidated EBITDA", "Consolidated Interest
+Expense", "Fiscal Quarter", and "Subsidiary" shall have the meaning assigned to
+such terms as of the date hereof in that certain Credit Agreement dated as of
+January 5, 2001 (the "Credit Agreement") by and among the Guarantor, PNC Bank,
+National Association, as Administrative Agent, Summit Bank, as Syndication
+Agent, and the other agents and lenders listed therein, and said defined terms
+(and each of the defined terms used in said defined terms) shall be incorporated
+by references as if fully stated herein. In the event of a failure by Guarantor
+to comply with financial covenants set forth in clauses (i) and (ii) above or
+the public announcement of a transfer or disposition described in clause (iii)
+above, the sole remedy of Company shall be the right of Company to
+
+                                       3
+<PAGE>
+require that Guarantor arrange for the issuance of an Acceptable Letter of
+Credit (as defined below) in a stated amount of $18,000,000 should such
+requirement be imposed on or before March 31, 2003 and $22,000,000 thereafter,
+as soon as practicable but in any event within thirty (30) days of receipt of a
+written demand by Company for the same. Any such Acceptable Letter of Credit
+shall permit drawings thereunder solely by Company and for the account of
+Guarantor upon the presentation of a certification to the issuing bank (with a
+copy to Guarantor) stating that a Performance Demand has been validly presented
+hereunder and Guarantor has failed to honor such demand within fifteen (15) days
+after such presentation. In no event shall Company be permitted to make a demand
+under such Acceptable Letter of Credit in an amount in excess of the limitations
+set forth in Section 6.
+
+         As used herein, an "Acceptable Letter of Credit" shall mean a clean
+irrevocable standby letter of credit with a term of three hundred and sixty five
+(365) days, and containing automatic annual renewal provisions, issued by a
+domestic commercial banking institution organized or chartered under the laws of
+the United States (or any State thereof) that has a senior unsecured non-credit
+enhanced debt rating of at least "A" by Standard and Poor's, a division of The
+McGraw-Hill Companies, Inc., or "A2" by Moody's Investment Services, Inc. (the
+"LOC Issuer"). The Acceptable Letter of Credit will provide that the LOC Issuer
+will provide notice to Company with a copy to NJRES not earlier than forty-five
+(45) days and not later than thirty (30) days prior to the expiry date of the
+Acceptable LOC as to whether or not the Acceptable LOC will be reissued for an
+additional three hundred and sixty five (365) days in a stated amount of
+$22,000,000 (an "Acceptable Extension"). Upon a notice from the LOC Issuer that
+it will not be issuing an Acceptable Extension (or Guarantor has not otherwise
+arranged for the issuance of a replacement Acceptable Letter of Credit in a
+stated amount of $22,000,000), then eCORP Marketing will draw on the Acceptable
+Letter of Credit and the proceeds thereof will be deposited under an escrow
+arrangement reasonably satisfactory to Guarantor and Company, which shall permit
+releases therefrom solely in the following circumstances (i) a Performance
+Demand has been validly presented thereunder and Guarantor has failed to honor
+such demand within fifteen (15) days after such presentation, in which case the
+amount so demanded shall be released to a Company or (ii) (A) Guarantor has
+arranged for a replacement Acceptable Letter of Credit in a stated amount of
+$22,000,000, (B) this Guaranty shall have terminated in accordance with Section
+16 below, or (C) NJRES shall have effectively terminated its obligations under
+Section 14.4 of the M&M Agreement, in each such case the entire amount held in
+such escrow account shall be released to Guarantor.
+
+         11. Entire Agreement. This Guaranty embodies the entire agreement and
+understanding between Guarantor and Company and supersedes all prior agreements
+and understandings relating to the subject matter hereof. The headings in this
+Guaranty are for purposes of reference only, and shall not affect the meaning
+hereof.
+
+         12. GOVERNING LAW. THIS GUARANTY AGREEMENT SHALL BE GOVERNED BY,
+CONSTRUED IN ACCORDANCE WITH AND ENFORCED PURSUANT TO THE LAWS OF THE STATE OF
+NEW YORK, EXCLUDING ANY CONFLICT-OF-LAW RULES WHICH WOULD DIRECT THE APPLICATION
+OF THE LAW OF ANOTHER JURISDICTION.
+
+                                       4
+<PAGE>
+         13. WAIVER OF JURY TRIAL. EACH PARTY WAIVES, TO THE FULLEST EXTENT
+PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN RESPECT
+OF ANY SUIT, ACTION OR PROCEEDING RELATING TO THIS GUARANTY.
+
+         14. Submission to Jurisdiction. Any legal action or proceeding with
+respect to this Guaranty and any action for enforcement of any judgment in
+respect thereof may be brought in the courts of the United States of America for
+the Southern District of New York, and, by execution and delivery of this
+Guaranty, Guarantor hereby accepts for itself and in respect of its property,
+generally and unconditionally, the exclusive jurisdiction of the aforesaid court
+from any appeal thereof. Guarantor irrevocably consents to the service of
+process out of any of the aforementioned courts in any such action or proceeding
+by the mailing of copies thereof by registered or certified mail, postage
+prepaid, to Guarantor at its notice address provided pursuant to Section 5.
+Guarantor hereby irrevocably waives any objection which it may now or hereafter
+have to the laying of venue of any of the aforesaid actions or proceedings
+arising out of or in connection with this Guaranty brought in the courts
+referred to above and hereby further irrevocably waives and agrees not to plead
+or claim in any such court that any such action or proceeding brought in any
+such court has been brought in an inconvenient forum.
+
+         15. Counterparts. This Guaranty may be executed in a number of
+counterparts, each of which, when executed, shall be deemed an original.
+
+         16. Termination. This Guaranty shall terminate and be of no further
+force and effect as of the earlier to occur of (i) the termination of all of the
+Agreements and (ii) March 31, 2012, and Guarantor shall have no further
+obligation thereunder unless a Performance Demand has been delivered to
+Guarantor prior to that termination, and then only to the extent of the
+performance so demanded. Upon termination of this Guaranty pursuant to this
+Section 16 or otherwise, any letter of credit issued pursuant to Section 10
+above will be returned for cancellation.
+
+
+
+
+                                       5
+<PAGE>
+         IN WITNESS WHEREOF, the parties hereto have caused this Guaranty
+Agreement to be signed by their respective duly authorized representatives on
+the day and year first above written.
+
+By execution, signer certifies that signer is authorized
+to execute this Agreement on behalf of company:
+
+eCORP MARKETING, LLC
+
+
+----------------------------------------------------------
+                  (Authorized Signature)
+
+
+                   John F. Thrash
+----------------------------------------------------------
+                   (Print or Type Name)
+
+
+                   Manager
+----------------------------------------------------------
+                          (Title)
+
+
+
+By execution, signer certifies that signer is authorized
+to execute this Agreement on behalf of company:
+
+NEW JERSEY RESOURCES CORPORATION
+
+----------------------------------------------------------
+                  (Authorized Signature)
+
+                    Glenn C. Lockwood
+----------------------------------------------------------
+                   (Print or Type Name)
+
+     Senior Vice President and Chief Financial Officer
+----------------------------------------------------------
+                          (Title)
+<PAGE>
+EXHIBIT D
+
+
+<TABLE>
+<CAPTION>
+                       -------------------------------------------------------------------------------------------------------------
+                       CONTRACT TERM                           STORAGE                                           TGPL LATERAL
+                       -------------           ------------------------------------------------           --------------------------
+                                                                     PRICE/MONTH     ANNUAL               PRICE/MONTH      ANNUAL
+CUSTOMER               START     END           DAYS  MDWQ  CAPACITY     (Dth)     STORAGE VALUE              (Dth)     LATERAL VALUE
+------------------------------------------------------------------------------------------------------------------------------------
+<S>                    <C>       <C>           <C>   <C>   <C>       <C>          <C>                     <C>          <C>
+
+
+
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+                       -------------------------------------------------------------------------------------------------------------
+                           TGPL 300 LINE TRANSPORTATION             TGPL ZONE 4-5 TRANSPORT            SPREADS       TOTAL
+                       -------------------------------------   ----------------------------------   -------------    ANNUAL
+                                 PRICE/MONTH      ANNUAL                 PRICE/MONTH     ANNUAL      UNIT  ANNUAL   CONTRACT   UNIT
+CUSTOMER               QUANTITY     (Dth)     300 LINE VALUE   QUANTITY     (Dth)     Z 4-5 VALUE   VALUE   VALUE     VALUE    PRICE
+------------------------------------------------------------------------------------------------------------------------------------
+<S>                    <C>       <C>          <C>              <C>       <C>          <C>           <C>    <C>      <C>        <C>
+
+
+
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+       ----------------------------------------------------------------------------------------------------
+                            APR-02                                             MAY-02
+       -------------------------------------------------  -------------------------------------------------
+        Monthly              MDWQ      TGPL      TGPL     Monthly               MDWQ      TGPL       TGPL
+       Contract  Storage   Storage   300-Line  Other Z 4  Contract   Storage   Storage  300-Line  Other Z 4
+         Value   Capacity  Delivery  Delivery  Delivery    Value    Capacity  Delivery  Delivery   Delivery
+       ----------------------------------------------------------------------------------------------------
+<S>    <C>       <C>       <C>       <C>       <C>        <C>       <C>       <C>       <C>       <C>
+         $ -        -         -          -        -          $ -        -         -         -         -
+         $ -        -         -          -        -          $ -        -         -         -         -
+         $ -        -         -          -        -          $ -        -         -         -         -
+         $ -        -         -          -        -          $ -        -         -         -         -
+                                                                        -
+         $ -        -         -          -        -          $ -        -         -         -         -
+
+       ----------------------------------------------------------------------------------------------------
+TOTAL    $ -        -         -          -        -          $ -        -         -         -         -
+===========================================================================================================
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+       -------------------------------------------------
+                            JUN-02
+       -------------------------------------------------
+        Monthly              MDWQ      TGPL       TGPL
+       Contract   Storage   Storage  300-Line  Other Z 4
+         Value   Capacity  Delivery  Delivery   Delivery
+       -------------------------------------------------
+<S>    <C>       <C>       <C>       <C>       <C>
+          $ -        -         -         -         -
+          $ -        -         -         -         -
+          $ -        -         -         -         -
+          $ -        -         -         -         -
+                     -
+          $ -        -         -         -         -
+
+       -------------------------------------------------
+TOTAL     $ -        -         -         -         -
+========================================================
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+       ----------------------------------------------------------------------------------------------------
+                            JUL-02                                            AUG-02
+       -------------------------------------------------  -------------------------------------------------
+        Monthly              MDWQ      TGPL       TGPL    Monthly               MDWQ      TGPL      TGPL
+       Contract  Storage    Storage  300-Line  Other Z 4  Contract   Storage   Storage  300-Line  Other Z 4
+         Value   Capacity  Delivery  Delivery   Delivery   Value    Capacity  Delivery  Delivery  Delivery
+       ----------------------------------------------------------------------------------------------------
+<S>    <C>       <C>       <C>       <C>       <C>        <C>       <C>       <C>       <C>       <C>
+          $ -       -          -         -          -       $ -         -        -         -          -
+          $ -       -          -         -          -       $ -         -        -         -          -
+          $ -       -          -         -          -       $ -         -        -         -          -
+          $ -       -          -         -          -       $ -         -        -         -          -
+                    -                                                   -
+          $ -       -          -         -          -       $ -         -        -         -          -
+
+       ----------------------------------------------------------------------------------------------------
+TOTAL     $ -       -          -         -          -       $ -         -        -         -          -
+===========================================================================================================
+</TABLE>
+
+<TABLE>
+<CAPTION>
+       -------------------------------------------------
+                             SEP-02
+       -------------------------------------------------
+        Monthly              MDWQ      TGPL      TGPL
+       Contract   Storage   Storage  300-Line  Other Z 4
+         Value   Capacity  Delivery  Delivery  Delivery
+       -------------------------------------------------
+<S>    <C>       <C>       <C>       <C>       <C>
+          $ -        -         -         -        -
+          $ -        -         -         -        -
+          $ -        -         -         -        -
+          $ -        -         -         -        -
+                     -
+          $ -        -         -         -        -
+
+       -------------------------------------------------
+TOTAL     $ -        -         -         -        -
+========================================================
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+       ----------------------------------------------------------------------------------------------------
+                            OCT-02                                             NOV-02
+       -------------------------------------------------  -------------------------------------------------
+        Monthly              MDWQ      TGPL      TGPL      Monthly              MDWQ      TGPL      TGPL
+       Contract   Storage   Storage  300-Line  Other Z 4  Contract   Storage   Storage  300-Line  Other Z 4
+         Value   Capacity  Delivery  Delivery  Delivery     Value   Capacity  Delivery  Delivery  Delivery
+       ----------------------------------------------------------------------------------------------------
+<S>    <C>       <C>       <C>       <C>       <C>        <C>       <C>       <C>       <C>       <C>
+          $ -        -         -         -        -          $ -        -         -         -        -
+          $ -        -         -         -        -          $ -        -         -         -        -
+          $ -        -         -         -        -          $ -        -         -         -        -
+          $ -        -         -         -        -          $ -        -         -         -        -
+                     -                                                  -
+          $ -        -         -         -        -          $ -        -         -         -        -
+
+       ----------------------------------------------------------------------------------------------------
+TOTAL     $ -        -         -         -        -          $ -        -         -         -        -
+===========================================================================================================
+</TABLE>
+
+<TABLE>
+<CAPTION>
+       -------------------------------------------------
+                            DEC-02
+       -------------------------------------------------
+        Monthly              MDWQ      TGPL      TGPL
+       Contract   Storage   Storage  300-Line  Other Z 4
+         Value   Capacity  Delivery  Delivery  Delivery
+       -------------------------------------------------
+<S>    <C>       <C>       <C>       <C>       <C>
+          $ -        -        -         -          -
+          $ -        -        -         -          -
+          $ -        -        -         -          -
+          $ -        -        -         -          -
+                     -
+          $ -        -        -         -          -
+
+       -------------------------------------------------
+TOTAL     $ -        -        -         -          -
+========================================================
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+       ----------------------------------------------------------------------------------------------------
+                            JAN-03                                             FEB-03
+       -------------------------------------------------  -------------------------------------------------
+        Monthly              MDWQ      TGPL       TGPL    Monthly               MDWQ      TGPL       TGPL
+       Contract   Storage  Storage   300-Line  Other Z 4  Contract   Storage  Storage   300-Line  Other Z 4
+         Value   Capacity  Delivery  Delivery   Delivery   Value    Capacity  Delivery  Delivery   Delivery
+       ----------------------------------------------------------------------------------------------------
+<S>    <C>       <C>       <C>       <C>       <C>        <C>       <C>       <C>       <C>       <C>
+         $ -         -        -         -          -        $ -         -         -         -         -
+         $ -         -        -         -          -        $ -         -         -         -         -
+         $ -         -        -         -          -        $ -         -         -         -         -
+         $ -         -        -         -          -        $ -         -         -         -         -
+                     -                                                  -
+         $ -         -        -         -          -        $ -         -         -         -         -
+
+       ----------------------------------------------------------------------------------------------------
+TOTAL    $ -         -        -         -          -        $ -         -         -         -         -
+===========================================================================================================
+</TABLE>
+
+<TABLE>
+<CAPTION>
+       -------------------------------------------------
+                            MAR-03
+       -------------------------------------------------
+       Monthly               MDWQ      TGPL       TGPL
+       Contract   Storage  Storage   300-Line  Other Z 4
+        Value    Capacity  Delivery  Delivery   Delivery
+       -------------------------------------------------
+<S>    <C>       <C>       <C>       <C>       <C>
+         $ -         -         -         -         -
+         $ -         -         -         -         -
+         $ -         -         -         -         -
+         $ -         -         -         -         -
+                     -
+         $ -         -         -         -         -
+
+       -------------------------------------------------
+TOTAL    $ -         -         -         -         -
+========================================================
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+       -------------------------------------------------
+                      FISCAL YEAR 2002
+       -------------------------------------------------
+        Total                MDWQ      TGPL       TGPL
+       Contract   Storage   Storage  300-Line  Other Z 4
+        Value    Capacity  Delivery  Delivery   Delivery
+       -------------------------------------------------
+<S>              <C>       <C>       <C>       <C>
+          $ -         -        -         -         -
+          $ -         -        -         -         -
+          $ -         -        -         -         -
+          $ -         -        -         -         -
+                      -
+          $ -         -        -         -         -
+
+       -------------------------------------------------
+TOTAL     $ -         -        -         -         -
+========================================================
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+       ----------------------------------------------------------------------------------------------------
+                             APR-03                                           MAY-03
+       -------------------------------------------------  -------------------------------------------------
+       Monthly               MDWQ      TGPL       TGPL    Monthly               MDWQ      TGPL       TGPL
+       Contract   Storage   Storage  300-Line  Other Z 4  Contract   Storage   Storage  300-Line  Other Z 4
+        Value    Capacity  Delivery  Delivery   Delivery   Value    Capacity  Delivery  Delivery   Delivery
+       ----------------------------------------------------------------------------------------------------
+<S>    <C>       <C>       <C>       <C>       <C>        <C>       <C>       <C>       <C>       <C>
+         $ -           -       -         -         -        $ -         -         -         -         -
+         $ -           -       -         -         -        $ -         -         -         -         -
+         $ -           -       -         -         -        $ -         -         -         -         -
+         $ -           -       -         -         -        $ -         -         -         -         -
+                       -                                                -
+         $ -           -       -         -         -        $ -         -         -         -         -
+
+       ----------------------------------------------------------------------------------------------------
+TOTAL    $ -           -       -         -         -        $ -         -         -         -         -
+===========================================================================================================
+</TABLE>
+
+<TABLE>
+<CAPTION>
+       -------------------------------------------------
+                            JUN-03
+       -------------------------------------------------
+       Monthly               MDWQ      TGPL       TGPL
+       Contract   Storage  Storage   300-Line  Other Z 4
+        Value    Capacity  Delivery  Delivery   Delivery
+       -------------------------------------------------
+<S>    <C>       <C>       <C>       <C>       <C>
+         $ -         -         -         -         -
+         $ -         -         -         -         -
+         $ -         -         -         -         -
+         $ -         -         -         -         -
+                     -
+         $ -         -         -         -         -
+
+       -------------------------------------------------
+TOTAL    $ -         -         -         -         -
+========================================================
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+       ----------------------------------------------------------------------------------------------------
+                            JUL-03                                             AUG-03
+       -------------------------------------------------  -------------------------------------------------
+       Monthly               MDWQ      TGPL       TGPL    Monthly               MDWQ      TGPL       TGPL
+       Contract   Storage  Storage   300-Line  Other Z 4  Contract   Storage  Storage   300-Line  Other Z 4
+        Value    Capacity  Delivery  Delivery   Delivery   Value    Capacity  Delivery  Delivery   Delivery
+       ----------------------------------------------------------------------------------------------------
+<S>    <C>       <C>       <C>       <C>       <C>        <C>       <C>       <C>       <C>       <C>
+         $ -           -       -         -         -        $ -         -         -         -         -
+         $ -           -       -         -         -        $ -         -         -         -         -
+         $ -           -       -         -         -        $ -         -         -         -         -
+         $ -           -       -         -         -        $ -         -         -         -         -
+                       -                                                -
+         $ -           -       -         -         -        $ -         -         -         -         -
+
+       ----------------------------------------------------------------------------------------------------
+TOTAL    $ -           -       -         -         -        $ -         -         -         -         -
+===========================================================================================================
+</TABLE>
+
+<TABLE>
+<CAPTION>
+       -------------------------------------------------
+                            SEP-03
+       -------------------------------------------------
+       Monthly               MDWQ      TGPL       TGPL
+       Contract   Storage  Storage   300-Line  Other Z 4
+        Value    Capacity  Delivery  Delivery   Delivery
+       -------------------------------------------------
+<S>    <C>       <C>       <C>       <C>       <C>
+         $ -         -         -         -         -
+         $ -         -         -         -         -
+         $ -         -         -         -         -
+         $ -         -         -         -         -
+                     -
+         $ -         -         -         -         -
+
+       -------------------------------------------------
+TOTAL    $ -         -         -         -         -
+========================================================
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+       ----------------------------------------------------------------------------------------------------
+                           OCT-03                                               NOV-03
+       -------------------------------------------------  -------------------------------------------------
+       Monthly               MDWQ      TGPL       TGPL    Monthly               MDWQ      TGPL      TGPL
+       Contract   Storage  Storage   300-Line  Other Z 4  Contract   Storage   Storage  300-Line  Other Z 4
+        Value    Capacity  Delivery  Delivery   Delivery   Value    Capacity  Delivery  Delivery  Delivery
+       ----------------------------------------------------------------------------------------------------
+<S>    <C>       <C>       <C>       <C>       <C>        <C>       <C>       <C>       <C>       <C>
+         $ -        -         -         -           -       $ -         -         -         -        -
+         $ -        -         -         -           -       $ -         -         -         -        -
+         $ -        -         -         -           -       $ -         -         -         -        -
+         $ -        -         -         -           -       $ -         -         -         -        -
+                    -                                                   -
+         $ -        -         -         -           -       $ -         -         -         -        -
+
+       ----------------------------------------------------------------------------------------------------
+TOTAL    $ -        -         -         -           -       $ -         -         -         -        -
+===========================================================================================================
+</TABLE>
+
+<TABLE>
+<CAPTION>
+       -------------------------------------------------
+                             DEC-03
+       -------------------------------------------------
+        Monthly              MDWQ      TGPL      TGPL
+       Contract   Storage   Storage  300-Line  Other Z 4
+         Value   Capacity  Delivery  Delivery  Delivery
+       -------------------------------------------------
+<S>    <C>       <C>       <C>       <C>       <C>
+          $ -        -         -         -        -
+          $ -        -         -         -        -
+          $ -        -         -         -        -
+          $ -        -         -         -        -
+                     -
+          $ -        -         -         -        -
+
+       -------------------------------------------------
+TOTAL     $ -        -         -         -        -
+========================================================
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+       ----------------------------------------------------------------------------------------------------
+                             JAN-04                                             FEB-04
+       -------------------------------------------------  -------------------------------------------------
+        Monthly              MDWQ      TGPL       TGPL    Monthly               MDWQ      TGPL       TGPL
+       Contract   Storage   Storage  300-Line  Other Z 4  Contract   Storage   Storage  300-Line  Other Z 4
+         Value   Capacity  Delivery  Delivery   Delivery   Value    Capacity  Delivery  Delivery   Delivery
+       ----------------------------------------------------------------------------------------------------
+<S>    <C>       <C>       <C>       <C>       <C>        <C>       <C>       <C>       <C>       <C>
+          $ -        -         -         -         -        $ -         -         -         -         -
+          $ -        -         -         -         -        $ -         -         -         -         -
+          $ -        -         -         -         -        $ -         -         -         -         -
+          $ -        -         -         -         -        $ -         -         -         -         -
+                     -                                                  -
+          $ -        -         -         -         -        $ -         -         -         -         -
+
+       ----------------------------------------------------------------------------------------------------
+TOTAL     $ -        -         -         -         -        $ -         -         -         -         -
+===========================================================================================================
+</TABLE>
+
+<TABLE>
+<CAPTION>
+       -------------------------------------------------
+                            MAR-04
+       -------------------------------------------------
+       Monthly               MDWQ      TGPL       TGPL
+       Contract   Storage   Storage  300-Line  Other Z 4
+        Value    Capacity  Delivery  Delivery   Delivery
+       -------------------------------------------------
+<S>    <C>       <C>       <C>       <C>       <C>
+         $ -         -         -         -         -
+         $ -         -         -         -         -
+         $ -         -         -         -         -
+         $ -         -         -         -         -
+                     -
+         $ -         -         -         -         -
+
+       -------------------------------------------------
+TOTAL    $ -         -         -         -         -
+========================================================
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+       -------------------------------------------------
+                        FISCAL YEAR 2003
+       -------------------------------------------------
+       Monthly               MDWQ      TGPL       TGPL
+       Contract   Storage  Storage   300-Line  Other Z 4
+        Value    Capacity  Delivery  Delivery   Delivery
+       -------------------------------------------------
+<S>    <C>       <C>       <C>       <C>       <C>
+          $ -        -         -         -         -
+          $ -        -         -         -         -
+          $ -        -         -         -         -
+          $ -        -         -         -         -
+                     -
+          $ -        -         -         -         -
+
+       -------------------------------------------------
+TOTAL     $ -        -         -         -         -
+========================================================
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+       ----------------------------------------------------------------------------------------------------
+                            APR-04                                             MAY-04
+       -------------------------------------------------  -------------------------------------------------
+       Monthly               MDWQ      TGPL       TGPL    Monthly               MDWQ      TGPL       TGPL
+       Contract   Storage  Storage   300-Line  Other Z 4  Contract   Storage  Storage   300-Line  Other Z 4
+        Value    Capacity  Delivery  Delivery   Delivery   Value    Capacity  Delivery  Delivery   Delivery
+       ----------------------------------------------------------------------------------------------------
+<S>    <C>       <C>       <C>       <C>       <C>        <C>       <C>       <C>       <C>       <C>
+         $ -           -       -         -         -        $ -         -         -         -         -
+         $ -           -       -         -         -        $ -         -         -         -         -
+         $ -           -       -         -         -        $ -         -         -         -         -
+         $ -           -       -         -         -        $ -         -         -         -         -
+                       -                                                -
+         $ -           -       -         -         -        $ -         -         -         -         -
+
+       ----------------------------------------------------------------------------------------------------
+TOTAL    $ -           -       -         -         -        $ -         -         -         -         -
+===========================================================================================================
+</TABLE>
+
+<TABLE>
+<CAPTION>
+       -------------------------------------------------
+                            JUN-04
+       -------------------------------------------------
+       Monthly               MDWQ      TGPL      TGPL
+       Contract   Storage   Storage  300-Line  Other Z 4
+        Value    Capacity  Delivery  Delivery  Delivery
+       -------------------------------------------------
+<S>    <C>       <C>       <C>       <C>       <C>
+         $ -         -         -         -        -
+         $ -         -         -         -        -
+         $ -         -         -         -        -
+         $ -         -         -         -        -
+                     -
+         $ -         -         -         -        -
+
+       -------------------------------------------------
+TOTAL    $ -         -         -         -        -
+========================================================
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+       ----------------------------------------------------------------------------------------------------
+                            JUL-04                                             AUG-04
+       -------------------------------------------------  -------------------------------------------------
+        Monthly              MDWQ      TGPL      TGPL      Monthly              MDWQ      TGPL       TGPL
+       Contract   Storage   Storage  300-Line  Other Z 4  Contract   Storage   Storage  300-Line  Other Z 4
+         Value   Capacity  Delivery  Delivery  Delivery     Value   Capacity  Delivery  Delivery   Delivery
+       ----------------------------------------------------------------------------------------------------
+<S>    <C>       <C>       <C>       <C>       <C>        <C>       <C>       <C>       <C>       <C>
+          $ -        -         -         -        -          $ -        -         -         -         -
+          $ -        -         -         -        -          $ -        -         -         -         -
+          $ -        -         -         -        -          $ -        -         -         -         -
+          $ -        -         -         -        -          $ -        -         -         -         -
+                     -                                                  -
+          $ -        -         -         -        -          $ -        -         -         -         -
+
+       ----------------------------------------------------------------------------------------------------
+TOTAL     $ -        -         -         -        -          $ -        -         -         -         -
+===========================================================================================================
+</TABLE>
+
+<TABLE>
+<CAPTION>
+       -------------------------------------------------
+                            SEP-04
+       -------------------------------------------------
+       Monthly               MDWQ      TGPL       TGPL
+       Contract   Storage   Storage  300-Line  Other Z 4
+        Value    Capacity  Delivery  Delivery   Delivery
+       -------------------------------------------------
+<S>    <C>       <C>       <C>       <C>       <C>
+         $ -         -         -         -         -
+         $ -         -         -         -         -
+         $ -         -         -         -         -
+         $ -         -         -         -         -
+                     -
+         $ -         -         -         -         -
+
+       -------------------------------------------------
+TOTAL    $ -         -         -         -         -
+========================================================
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+       ----------------------------------------------------------------------------------------------------
+                             OCT-04                                            NOV-04
+       -------------------------------------------------  -------------------------------------------------
+       Monthly               MDWQ      TGPL       TGPL    Monthly               MDWQ      TGPL       TGPL
+       Contract   Storage   Storage  300-Line  Other Z 4  Contract   Storage   Storage  300-Line  Other Z 4
+        Value    Capacity  Delivery  Delivery   Delivery   Value    Capacity  Delivery  Delivery   Delivery
+       ----------------------------------------------------------------------------------------------------
+<S>    <C>       <C>       <C>       <C>       <C>        <C>       <C>       <C>       <C>       <C>
+         $ -         -         -         -         -        $ -         -         -         -         -
+         $ -         -         -         -         -        $ -         -         -         -         -
+         $ -         -         -         -         -        $ -         -         -         -         -
+         $ -         -         -         -         -        $ -         -         -         -         -
+                     -                                                  -
+         $ -         -         -         -         -        $ -         -         -         -         -
+
+       ----------------------------------------------------------------------------------------------------
+TOTAL    $ -         -         -         -         -        $ -         -         -         -         -
+===========================================================================================================
+</TABLE>
+
+<TABLE>
+<CAPTION>
+       ------------------------------------------------
+                            DEC-04
+       ------------------------------------------------
+       Monthly              MDWQ      TGPL       TGPL
+       Contract  Storage   Storage  300-Line  Other Z 4
+        Value   Capacity  Delivery  Delivery   Delivery
+       ------------------------------------------------
+<S>    <C>       <C>       <C>       <C>       <C>
+         $ -        -         -         -         -
+         $ -        -         -         -         -
+         $ -        -         -         -         -
+         $ -        -         -         -         -
+                    -
+         $ -        -         -         -         -
+
+       ------------------------------------------------
+TOTAL    $ -        -         -         -         -
+=======================================================
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+       ----------------------------------------------------------------------------------------------------
+                             JAN-05                                            FEB-05
+       -------------------------------------------------  -------------------------------------------------
+       MONTHLY               MDWQ      TGPL       TGPL    MONTHLY               MDWQ      TGPL      TGPL
+       CONTRACT   STORAGE   STORAGE  300-LINE  OTHER Z 4  CONTRACT   STORAGE   STORAGE  300-LINE  OTHER Z 4
+        VALUE    CAPACITY  DELIVERY  DELIVERY   DELIVERY   VALUE    CAPACITY  DELIVERY  DELIVERY  DELIVERY
+       ----------------------------------------------------------------------------------------------------
+<S>     <C>       <C>       <C>       <C>       <C>       <C>       <C>       <C>       <C>       <C>
+         $ -         -         -         -         -         $ -        -         -         -        -
+         $ -         -         -         -         -         $ -        -         -         -        -
+         $ -         -         -         -         -         $ -        -         -         -        -
+         $ -         -         -         -         -         $ -        -         -         -        -
+                     -                                                  -
+         $ -         -         -         -         -         $ -        -         -         -        -
+
+       ----------------------------------------------------------------------------------------------------
+TOTAL    $ -         -         -         -         -         $ -        -         -         -        -
+===========================================================================================================
+</TABLE>
+
+<TABLE>
+<CAPTION>
+       -------------------------------------------------
+                            MAR-05
+       -------------------------------------------------
+        MONTHLY              MDWQ      TGPL      TGPL
+       CONTRACT   STORAGE   STORAGE  300-LINE  OTHER Z 4
+         VALUE   CAPACITY  DELIVERY  DELIVERY  DELIVERY
+       -------------------------------------------------
+<S>    <C>       <C>       <C>       <C>       <C>
+          $ -          -       -         -        -
+          $ -          -       -         -        -
+          $ -          -       -         -        -
+          $ -          -       -         -        -
+                       -
+          $ -          -       -         -        -
+
+       -------------------------------------------------
+TOTAL     $ -          -       -         -        -
+========================================================
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+       -------------------------------------------------
+                        FISCAL YEAR 2004
+       -------------------------------------------------
+        MONTHLY              MDWQ      TGPL       TGPL
+       CONTRACT   STORAGE   STORAGE  300-LINE  OTHER Z 4
+         VALUE   CAPACITY  DELIVERY  DELIVERY   DELIVERY
+       -------------------------------------------------
+<S>    <C>       <C>       <C>       <C>       <C>
+           $ -       -         -         -         -
+           $ -       -         -         -         -
+           $ -       -         -         -         -
+           $ -       -         -         -         -
+                     -
+           $ -       -         -         -         -
+
+       -------------------------------------------------
+TOTAL      $ -       -         -         -         -
+========================================================
+</TABLE>
+
+
+</TEXT>
+</DOCUMENT>

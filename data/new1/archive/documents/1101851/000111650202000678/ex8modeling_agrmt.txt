@@ -1,0 +1,376 @@
+<DOCUMENT>
+<TYPE>EX-10.10(8)
+<SEQUENCE>4
+<FILENAME>ex8modeling_agrmt.txt
+<DESCRIPTION>EIGHT AMENDMENT TO STRATEGIC MODELING AGREEMENT
+<TEXT>
+                                                                 Exhibit 10.10.8
+
+              EIGHTH AMENDMENT TO THE STRATEGIC MODELING AGREEMENT
+
+THIS EIGHTH AMENDMENT TO THE STRATEGIC MODELING AGREEMENT is entered into
+effective as of January 26, 2002, by and between RiskWise, L.L.C., a Delaware
+limited liability company ("RiskWise"), and The Credit Store, Inc., a Delaware
+corporation ("TCS");
+
+                                    RECITALS:
+
+A.       BTE and TCS entered into a Strategic Modeling Agreement on the 18th day
+         of March, 1999 ("Agreement"), Amendment to the Strategic Modeling
+         Agreement on the 16th day of March 2001; Second Amendment to the
+         Strategic Modeling Agreement on the 29th day of May 2001; and Third
+         Amendment to the Strategic Modeling Agreement on August 16, 2001;
+         Fourth Amendment to the Strategic Modeling Agreement on September 13,
+         2001; and Fifth Amendment to the Strategic Modeling Agreement on
+         October 12, 2001; Sixth Amendment to the Strategic Modeling Agreement
+         on November 12, 2001; and Seventh Amendment to the Strategic Modeling
+         Agreement on December 26, 2001 (collectively, the "Strategic Modeling
+         Agreement") under which BTE provided certain development services to
+         TCS;
+
+B.       Subsequent to entering into the Strategic Modeling Agreement, BTE was
+         involved in a reorganization and RiskWise became a successor to BTE;
+
+C.       Effective as of May 1, 1999, the Strategic Modeling Agreement was
+         assigned from BTE to RiskWise pursuant to an Assignment and Assumption
+         Agreement dated as of May 1, 1999;
+
+D.       TCS consented to such assignment and assumption as of May 1, 1999;
+
+E.       The Strategic Modeling Agreement, as amended, is set to terminate on
+         January 26, 2002; and
+
+F.       The parties hereto desire to amend the Strategic Modeling Agreement.
+
+THEREFORE, in consideration of the mutual promises and covenants set forth
+herein, and for good and valuable consideration, the receipt and sufficiency of
+which are hereby acknowledged, the parties intend to be legally bound and do
+hereby agree as follows:
+
+1.       The Strategic Modeling Agreement is amended by substituting RiskWise
+         for BTE as the party to such agreement. Wherever the term BTE appears
+         in the agreement, it shall be replaced by the term RiskWise.
+
+2.       Section 1 of the Strategic Modeling Agreement is hereby amended as
+         follows:
+
+                   (a) The "Data Processing Term" definition is amended in its
+                  entirety to read as follows: "Data Processing Term" means the
+                  period beginning on the date hereof and ending at 11:59 p.m.
+                  on December 31, 2002. Unless either party gives the other
+                  party written notice at least thirty (30) days prior to the
+                  end of the initial Data Processing Term (or any successive
+                  term), the Data Processing Term shall automatically renew for
+                  successive one-year periods commencing on January 1 of each
+                  subsequent year.
+
+                  (b) The "Modeling Term" definition is amended in its entirety
+                  to read as follows: "Modeling Term" means the period beginning
+                  on the date hereof and ending at 11:59 p.m. on December 31,
+                  2002. Unless either party gives the other party written notice
+                  at least thirty (30) days prior to the end of the initial
+                  Modeling Term (or any successive term), the Modeling Term
+                  shall automatically renew for successive one-year periods
+                  commencing on January 1 of each subsequent year.
+
+                  (c) The term "Contract Year" is added and is defined as
+                  follows: "Contract Year" means the period commencing on
+                  January 1, 2002 and ending on December 31, 2002 and each
+                  twelve (12) month period thereafter commencing on January 1 of
+                  each subsequent year in which the Modeling Term or Data
+                  Processing Term is in effect.
+
+                  (d) The term "RiskWise Affililate" is added and is defined as
+                  follows: "RiskWise Affiliate" means (i) RiskWise
+                  International, or (ii) any person or entity directly or
+                  indirectly controlled by RiskWise International.
+
+3.       Section 2.1 of the Strategic Modeling Agreement is hereby deleted and
+         replaced by a new Section 2.1 to read as follows:
+
+                  Section 2.1 Services. During the Modeling Term, RiskWise will
+                  provide such services to TCS as TCS may reasonably request to
+                  build, implement, monitor, test and update Models and related
+                  Software useful to the conduct of TCS' business, including but
+                  not limited to, developing and updating the Models described
+                  in Exhibit A (as amended by this Eighth Amendment to the
+                  Strategic Modeling Agreement). TCS acknowledges that RiskWise
+                  has delivered, and TCS has accepted, a version of each such
+                  Model set forth on Exhibit A on or prior to the date hereof.
+                  Notwithstanding the foregoing, TCS may not require RiskWise to
+                  provide more than 2.5 FTE days of support with respect to any
+                  calendar month.
+
+4.       Section 2.2 of the Strategic Modeling Agreement is hereby deleted and
+         replaced by a new Section 2.2 to read as follows:
+
+                  Section 2.2 Payment for Services. In consideration of the
+                  Services to be performed under Section 2.1, TCS will pay to
+                  RiskWise on or before the 30th day of each calendar month
+                  during the Modeling Term, the sum of $5,000. The parties agree
+                  to evaluate and adjust the amount of such monthly payment for
+                  calendar months after December, 2002. If the parties, after
+                  negotiating in good faith, are unable to agree upon any
+                  adjustment in such amount, the monthly payment will remain
+                  $5,000.
+
+<PAGE>
+
+
+                  RiskWise shall pay all expenses incurred by RiskWise or its
+                  employees in providing the Services under this Section 2,
+                  including, but not limited to, all travel and related
+                  expenses. TCS shall pay separately for all Data provided in
+                  accordance with Section 3.
+
+5.       Section 2.5 of the Strategic Modeling Agreement is hereby deleted.
+
+6.       Section 2.8 of the Strategic Modeling Agreement is hereby deleted and
+         replaced by a new Section 2.8 to read as follows:
+
+                  Section 2.8 Uses of Data. (a) TCS certifies that it will use
+                  the Services (including the Models) only in connection with
+                  one of the following needs with respect to a consumer: (i) for
+                  use as necessary to effect, administer or enforce a
+                  transaction requested or authorized by the consumer; (ii) to
+                  protect against or prevent actual or potential fraud,
+                  unauthorized transactions, claims or other liabilities; (iii)
+                  for required institutional risk control; (iv) for resolving
+                  consumer disputes or inquiries; (v) due to holding a legal or
+                  beneficial interest relating to the consumer; (vi) for use by
+                  persons acting with the consumer's consent in a fiduciary or
+                  representative capacity on behalf of the consumer; (vii) for
+                  use in complying with federal, state or local laws, rules and
+                  other applicable legal requirements; or (viii) for use and to
+                  the extent specifically permitted or required under other
+                  provisions of law and in accordance with the Right to
+                  Financial Privacy Act of 1978, to law enforcement agencies
+                  (including a Federal functional regulator, the Secretary of
+                  Treasury, a State insurance authority or the Federal Trade
+                  Commission), self-regulatory organizations or for an
+                  investigation on a matter related to public safety. TCS
+                  further certifies that its use of RiskWise products will be
+                  limited, on a product-by-product basis, to that purpose (or
+                  purposes) set forth next to such product on Exhibit A of the
+                  Strategic Modeling Agreement. TCS will comply with all
+                  applicable laws in connection with its use of the RiskWise
+                  information services.
+
+                  (b) RiskWise does not intend for a Model or other Services
+                  generated under this Agreement to constitute a "consumer
+                  report" as defined in the Fair Credit Reporting Act, 15 U.S.C.
+                  ss. 1681 et. seq. ("FCRA"). TCS is specifically prohibited
+                  from using RiskWise's Models or other Services, in whole or
+                  part, as a factor in establishing any consumer's eligibility
+                  for credit, insurance, employment purposes, or any other
+                  permissible purpose of consumer reports as defined by the
+                  FCRA. It is expressly forbidden for TCS to take "adverse
+                  action" as defined by the FCRA on any customer request using
+                  information supplied by RiskWise pursuant to this Agreement.
+                  TCS represents and warrants to RiskWise that any "adverse
+                  action" taken with respect to a consumer request will be based
+                  solely on information received from sources other than
+                  RiskWise. Furthermore, TCS warrants that it will not identify
+                  RiskWise in any declination
+
+
+                                       3
+<PAGE>
+
+
+                  communication with the consumer as having provided information
+                  to TCS upon which such declination was based, in whole or in
+                  part.
+
+7.       Section 3.2 of the Strategic Modeling Agreement is deleted and replaced
+         by a new Section 3.2 to read as follows:
+
+                  3.2.     Cost and Payment.
+
+                           (a)      Cost.
+                                    -----
+
+                                    (1) Pre-Purchase Assessment Services.
+                                    RiskWise will provide data for a
+                                    pre-purchase assessment of potential account
+                                    purchases at the cost of $0.03 per account,
+                                    but not less than $1,000 for each portfolio
+                                    of accounts processed.
+
+                                    (2) Post-Purchase Assessment Services.
+                                    RiskWise will provide data for a
+                                    post-purchase assessment of potential
+                                    account purchases at the cost of $0.08 per
+                                    account, but not less than $1,000 for each
+                                    portfolio of accounts processed, plus, in
+                                    each case, actual credit bureau costs.
+
+                                    (3) Skip-Tracing Services. RiskWise will
+                                    provide skip-tracing services at the cost
+                                    of:
+
+                                            Product                 Price
+                                            -------                 -----
+
+                                    InfoTrace Non-EDA*      $0.27 per input for
+                                                            the first 1.1
+                                                            million records
+                                                            during a Contract
+                                                            Year.
+
+                                                            $0.25 per input for
+                                                            all records in
+                                                            excess of 1.1
+                                                            million during a
+                                                            Contract Year.
+
+                                    *An additional charge of $0.12 per input
+                                    shall be added whenever EDA (electronic
+                                    directory assistance) is used with respect
+                                    to an input record.
+
+                                    (4) Application Processing and Other Models.
+                                    RiskWise will provide Data required by the
+                                    Models and the Software at a cost equal to
+                                    RiskWise's own cost for such Data (as
+                                    reasonably determined by RiskWise) plus a
+                                    margin to be agreed upon by the parties,
+                                    provided, however, that any credit bureau
+                                    Data required by the Models or the Software
+                                    must be obtained by TCS at TCS' sole cost.
+
+
+                                       4
+<PAGE>
+
+
+                  (b) Payment. During each Contract Year, TCS commits to
+                  purchase a minimum of $300,000 worth of Skip-Tracing Services
+                  from RiskWise at the cost set forth in Section 3.2(a)(3) (the
+                  "Guaranteed Minimum"). Such Guaranteed Minimum shall be billed
+                  by RiskWise to TCS at the rate of $25,000 per month during
+                  each month of a Contract Year commencing with January, 2002.
+                  Payment shall be due within thirty (30) days of receipt of the
+                  invoice by TCS. TCS shall not be entitled to any refund of the
+                  Guaranteed Minimum in the event it does not actually use
+                  $300,000 of skip-tracing services in any Contract Year. Within
+                  thirty (30) days after the close of each Contract Year,
+                  RiskWise shall provide an accounting to TCS detailing its
+                  actual usage during the Contract Year of skip-tracing
+                  services. To the extent that TCS' actual usage of skip-tracing
+                  services exceeds the Guaranteed Minimum for such Contract
+                  Year, such accounting shall include an invoice for such excess
+                  services over the Guaranteed Minimum, and such invoice shall
+                  be due within thirty (30) days after receipt by TCS.
+
+8.       Section 5.1 of the Strategic Modeling Agreement is deleted in its
+         entirety.
+
+9.       Section 5.2 of the Strategic Modeling Agreement is deleted and replaced
+         by a new Section 5.2 to read as follows:
+
+                  5.2 Non-Competition. Commencing on the date hereof and
+                  continuing through January 26, 2005, RiskWise will not, and
+                  will not permit any RiskWise Affiliate to, (i) engage in the
+                  business of targeting credit card offers to consumers as a
+                  means of settling their defaulted consumer debt, or (ii)
+                  provide consulting, modeling or other services to any entity
+                  engaged in such business if such entity grants RiskWise or any
+                  RiskWise Affiliate any equity interest, participation or other
+                  interest representing a right to twenty percent (20%) or more
+                  of such entity's equity or profits, however measured.
+
+10.      Section 6.6 of the Strategic Modeling Agreement is amended by replacing
+         the first sentence of such Section with the following:
+
+                  If any court of competent jurisdiction determines for any
+                  reason that the provision of Data by RiskWise hereunder
+                  violates applicable law, then, if such violation can be
+                  corrected by RiskWise without degradation in the Data and
+                  Services provided hereunder (for example, by substituting one
+                  provider of Primary Data for another or by modifications to
+                  any Models and Software), RiskWise shall take such corrective
+                  action at no cost to
+
+
+                                       5
+<PAGE>
+
+
+                  TCS; provided, however, that (i) any increase in out-of-pocket
+                  costs to RiskWise as a result of such corrective action (for
+                  example, a substitute Primary Data provider charges more for
+                  such data) may be passed through to TCS and (ii) if the
+                  Modeling Term has expired, TCS shall pay the costs of any
+                  adjustments to the Models and Software required therefore,
+                  determined at RiskWise's standard hourly rates.
+
+11.      Section 6 of the Strategic Modeling Agreement is amended by adding a
+         new Section 6.9 to read as follows:
+
+                  Section 6.9 Right to Audit. TCS agrees that RiskWise may, from
+                  time to time, after reasonable notice and during normal
+                  business hours audit TCS solely with respect to TCS' use of
+                  the RiskWise services to verify compliance with Section 2.1
+                  above and TCS will reasonably cooperate in such audits. TCS
+                  further agrees to cooperate in any audits of TCS' use of the
+                  RiskWise services requested by any of RiskWise's third-party
+                  data providers.
+
+12.      Exhibit A to the Strategic Modeling Agreement is amended by deleting
+         Section 3 "Skip-Tracing Process Optimization Model" in its entirety.
+         Exhibit A is further amended by deleting from such Exhibit, any
+         reference to a "Target date."
+
+13.      TCS and RiskWise agree that pursuant to the Warrant dated March 18,
+         1999 RiskWise is entitled to purchase 750,000 shares of TCS common
+         stock, par value $.01 per share, as a result of having successfully
+         completed and delivering a Pre-Purchase Assessment Model, a
+         Post-Purchase Assessment Model and an Application Assessment Model. TCS
+         and RiskWise further agree that the parties have mutually agreed to
+         abandon the development of a Skip-Tracing Process Optimization Model
+         and, as a result, RiskWise will not become entitled to subscribe for
+         and purchase the remaining 250,000 shares of common stock pursuant to
+         such Warrant.
+
+14.      To the extent that any provisions of the Strategic Modeling Agreement
+         are in conflict with the provisions of this Eighth Amendment to the
+         Strategic Modeling Agreement, the provisions of this Eighth Amendment
+         to the Strategic Modeling Agreement shall govern. All other provisions
+         of the Strategic Modeling Agreement not inconsistent with this are
+         Eighth Amendment to the Strategic Modeling Agreement are unchanged by
+         this Eighth Amendment to the Strategic Modeling Agreement.
+
+15.      This Eighth Amendment may be executed in any number of counterparts,
+         and by different hereto in separate counterparts, each of which when so
+         executed and delivered shall be deemed an original, but all such
+         counterparts together shall constitute but one and the same original.
+
+
+
+
+
+                                       6
+<PAGE>
+
+
+         IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be
+duly executed by their duly authorized representative as of the day and year
+first above written.
+
+RISKWISE, L.L.C.                                THE CREDIT STORE, INC.
+
+
+By:  /s/ Gordon O. Meyer                        By:  Kevin T. Riordan
+     -------------------                             ----------------
+         Gordon O. Meyer                             Kevin T. Riordan
+Its:  President                                 Its:  President
+
+
+
+
+                                       7
+
+
+</TEXT>
+</DOCUMENT>

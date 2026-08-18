@@ -1,0 +1,207 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>3
+<FILENAME>exhibit1013i.txt
+<DESCRIPTION>INTEGRAMED AMERICA, INC.
+<TEXT>
+                      AMENDMENT NO. 9 TO SERVICE AGREEMENT
+
+                                     BETWEEN
+
+                            INTEGRAMED AMERICA, INC.
+
+                                       AND
+
+            SHADY GROVE FERTILTITY REPRODUCTIVE SCIENCE CENTER, P.C.
+
+
+         THIS AMENDMENT NO. 9 TO SERVICE AGREEMENT ("Amendment ") is dated March
+22, 2007 by and between IntegraMed America, Inc., a Delaware corporation, with
+its principal place of business at Two Manhattanville Road, Purchase, New York
+10577 ("IntegraMed") and Shady Grove Fertility Reproductive Science Center,
+P.C., a Maryland professional corporation, with its principal place of business
+at 15001 Shady Grove Road, Suite 310, Rockville, Maryland 20850 ("Shady Grove").
+
+                                                      RECITALS:
+
+         WHEREAS, IntegraMed and Shady Grove are parties to a Service Agreement
+dated March 12, 1998, as amended (the "Agreement") and
+
+         WHEREAS, IntegraMed and Shady Grove wish to amend further the
+Agreement, in pertinent part to clarify certain financial and other terms and
+conditions;
+
+         NOW THEREFORE, in consideration of the mutual promises and covenants
+herein contained, and as contained in the Agreement, as amended, IntegraMed and
+Shady Grove agree as follows:
+
+1.       Section 2.1 "Cost of Services" is hereby  amended to add the  following
+section 2.1.15 at the end thereof:
+
+         "Section 2.1.15. Annual software license maintenance fees and hardware
+maintenance fees related to MISYS Optimum and software license and maintenance
+fees associated with all other software applications utilized by the PC,
+including but not limited to HRIS/ON-core, Goldmine, MAS500, Centrix, HelpSTAR,
+Secure ID/RSA token and spam reduction services; provided, however, any of such
+fees, including fees not identified here, currently being absorbed by IntegraMed
+shall continue to be absorbed by IntegraMed and any of such fees, including fees
+not identified here, currently being absorbed by PC shall continue to be
+absorbed by PC. In the event new software offerings are made available to PC by
+IntegraMed, PC shall have the option of selecting its own software, rather than
+accepting the IntegraMed offered software. In such event, PC shall hold
+IntegraMed harmless from any and all claims PC would have against IntegraMed
+under Article 3 of the Agreement regarding services related to computer software
+that IntegraMed agrees to provide or make available to PC.
+
+
+<PAGE>
+
+2. Section 3.1.1 is hereby deleted and the following is substituted therefor:
+
+                  "3.1.1 PC hereby engages IntegraMed for the Services.
+         IntegraMed agrees to provide the Services in the City of Baltimore and
+         the Counties of Baltimore, Carroll, Cecil, Harford (collectively, the
+         Baltimore Area") Charles, St. Mary's, Calvert, Prince George's, Anne
+         Arundel, Howard, Frederick and Montgomery , Summerset, Worcester,
+         Wicomico, Dorchester, Caroline and Talbot in the State of Maryland, the
+         District of Columbia, and the Counties of Loudoun, Fauquier, Fairfax,
+         Prince William, Stafford and Frederick in the Commonwealth of Virginia
+         (collectively, the "Territory"), and PC agrees to limit its use of the
+         Services to the Territory, without prior written consent of IntegraMed.
+         None of the Services made available to PC include any physician medical
+         functions."
+
+                  "PC will also be given the right of first refusal to purchase
+         the additional counties of Queen Anne's and Kent in the State of
+         Maryland at the then prevailing Affiliate fee in the event that the
+         Company has a buyer of Affiliate Services that wants those counties
+         included in such Affiliate's exclusive territory." In the event PC
+         conducts business in Queen Anne's and/or Kent counties and no Affiliate
+         expresses interest in such counties, PC shall not be obligated to
+         purchase these counties.
+
+3. A new Section 6.5 is hereby added to the Agreement as follows:
+
+         " 6.5 Notwithstanding anything herein to the contrary, upon termination
+of this Agreement, PC shall continue to have the right to use the tradename
+SHARED RISK (R) in accordance with the license agreement attached hereto as
+Exhibit 6.5.
+
+4. Section 7.1.4 is hereby deleted in its entirety and the following substituted
+therefor:
+
+                  "7.1.4 during each year of this Agreement, an Additional
+                  Service Fee, paid monthly but reconciled quarterly, in
+                  accordance with the following table:
+
+Applicable Year        Additional Service Fee    Maximum Additional Service Fee
+---------------        ----------------------    ------------------------------
+
+2007                            10% of PDE                  1,171,000
+2008                            10% of PDE                  1,071,000
+2009 and thereafter             10% of PDE                  1,351,000
+
+                  Notwithstanding anything in this Section 7.1.4 to the
+contrary, beginning January 1, 2007, the minimum annual Additional Service Fee
+paid to IntegraMed under this Agreement shall not be less than $540,000 per
+year, and the maximum annual Additional Service Fee paid to IntegraMed shall not
+exceed the amounts set forth for the above indicated years, but in no event
+shall the annual Additional Service Fee exceed 20% of PDE.
+
+                  It is agreed that commencing with the Effective Date, as
+defined in that certain Asset Purchase and Sale Agreement dated of even date
+between PC and Greater Baltimore Medical Center, the Maximum Additional Service
+Fee shall increase by $271,000. For the years 2007 through 2011, the $271,000
+Additional Service Fee shall be paid in accordance with the following chart and
+
+<PAGE>
+
+any unpaid portion of the $271,000 Additional Service Fee shall bear interest at
+annual rate of six (6%) percent:
+<TABLE>
+<CAPTION>
+
+------------- --------------------------- -------------------------- --------------------
+    Year       Amount Due To IntegraMed    Amount to be Paid by PC       Amount Owing
+------------- --------------------------- -------------------------- --------------------
+
+<S>     <C>          <C>                           <C>                     <C>
+        2007         $271,000(1)                   $171,000                $100,000
+------------- --------------------------- -------------------------- --------------------
+
+        2008         $271,000                      $221,000                $150,000
+------------- --------------------------- -------------------------- --------------------
+
+        2009         $271,000                      $271,000                $150,000
+------------- --------------------------- -------------------------- --------------------
+
+        2010         $280,000(2)                   $330,000                $100,000
+------------- --------------------------- -------------------------- --------------------
+
+        2011         $277,000 (3)                  $377,000                       0
+------------- --------------------------  -------------------------- --------------------
+</TABLE>
+
+         (1) Said amount will be prorated for 2007 based on the Effective Date,
+         as defined in that certain Asset Purchase and Sale Agreement between PC
+         and Greater Baltimore Medical Center, Inc of even date. As a result of
+         prorating the $271,000, the maximum Additional Service Fee for 2007
+         shall be prorated by a dollar amount equal to the prorated $271,000.
+
+         (2)      Includes 6% interest on $150,000 owed to IntegraMed.
+
+         (3)      Includes 6% interest on $100,000 owed to IntegraMed.
+
+5. Section 7.5 is hereby deleted in its entirety and the following substituted
+therefor:
+
+                  "7.5 FIXED ASSET INTEREST. PC will incur no interest on
+         IntegraMed net fixed assets at the Facilities totaling $2.1 million and
+         below. PC agrees to pay IntegraMed interest equal to the prime rate of
+         IntegraMed's primary bank on IntegraMed net fixed assets at the
+         Facilities between $2.1 million and $2.5 million, and prime plus 2% on
+         IntegraMed net fixed assets at the Facilities in excess of $2.5
+         million."
+
+6. The Agreement is hereby amended to add the following new Section 8.1.1 to
+Article 8:
+
+                  "8.1.1 In consideration of a payment in the amount of
+                  $500,000, payable 1/2 upon the Effective Date, as defined in
+                  that certain Asset Purchase and Sale Agreement dated of even
+                  date between PC and Greater Baltimore Medical Center and 1/2
+                  on the first anniversary date of the Effective Date, PC hereby
+                  grants to IntegraMed the exclusive right to provide the
+                  Services to PC in the Baltimore Area."
+
+7. All other provisions of the Agreement, as amended, not in conflict with this
+Amendment No. 9 remain in full force and effect.
+
+
+<PAGE>
+
+
+
+         IN WITNESS WHEREOF, the parties have signed this Amendment No. 9 as the
+date first written above.
+
+INTEGRAMED AMERICA, INC.
+
+
+
+By: /s/Jay Higham
+    -----------------------------
+       Jay Higham, President & CEO
+
+
+
+SHADY GROVE FERTILITY REPRODUCTIVE SCIENCE CENTER, P.C.
+
+
+
+By: /s/Michael J. Levy
+       --------------------------------
+       Michael J. Levy, M.D., President
+
+</TEXT>
+</DOCUMENT>

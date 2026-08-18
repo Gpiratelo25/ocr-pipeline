@@ -1,0 +1,210 @@
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>3
+<FILENAME>dex102.txt
+<DESCRIPTION>AMENDMENT TO MARKETING & DEVELOPMENT AGREEMENT
+<TEXT>
+
+<PAGE>
+
+                                                                    EXHIBIT 10.2
+
+
+                                  Confidential
+
+                                  AMENDMENT TO
+                      MARKETING AND DEVELOPMENT AGREEMENT
+                                      AND
+                            STOCK PURCHASE AGREEMENT
+                            ------------------------
+
+  This amendment (the "Amendment") to the MARKETING AND DEVELOPMENT AGREEMENT
+(the "MDA") and the SECURITIES PURCHASE AGREEMENT (the "SPA"), each dated March
+3, 2000 by and among Moviefone, Inc., a Delaware corporation, with offices at
+335 Madison Avenue, 27th Floor, New York, NY 10017 (hereinafter referred to as
+"MF"), America Online, Inc., a Delaware Corporation with offices at 22000 AOL
+Way, Dulles, Virginia 20166 (hereinafter referred to as "AOL"), and Radiant
+Systems, Inc., a Georgia corporation, with principal offices at 3925 Brookside
+Parkway, Alpharetta, GA 30022 (hereinafter referred to as "RS"), is made and
+entered into as of March 19, 2001 (the "Amendment Effective Date").  MF, AOL and
+RS may be referred to individually as a "Party" and collectively as the
+"Parties".
+
+                                     Terms
+                                     -----
+
+     WHEREAS, MF, AOL and RS have previously entered into the MDA and the SPA.
+The Parties wish to amend the MDA and the SPA as described in this Amendment
+pursuant to Section 14.9 of the MDA and Section 5(a) of the SPA.  Capitalized
+terms used but not defined herein shall be as defined in the MDA or the SPA.
+
+  NOW, THEREFORE, for and in consideration of the mutual covenants and
+agreements contained in this Amendment and for other good and valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged, MF,
+AOL and RS, intending to be legally bound, hereby agree as follows:
+
+
+1.      RS Subsidiary Investment. Sections 1.9, 1.21, 1.22 and 1.50 and Article
+        ------------------------
+        5 of the MDA are hereby deleted in their entirety retroactive to the
+        Effective Date of the MDA, and each Party is hereby relieved of, and
+        released and discharged from, any obligations it has ever had under
+        Article 5 of the MDA. The Parties intend to investigate areas where POS
+        systems and online service businesses converge and in which they can
+        work together in the future, but neither Party shall be obligated to the
+        other with respect to such intention.
+
+2.      RS Covenant.  If RS is in compliance in all material respects with the
+        -----------
+        terms and conditions of the MDA and that certain Services Agreement by
+        and between MF and RS of even date herewith on the date that is eight
+        months after the Amendment Effective Date (the "RS Covenant Expiration
+        Date"), then on and after the RS Covenant Expiration Date, Section 4.9
+        of the MDA shall be deemed deleted in its entirety retroactive to the
+        Effective Date of the MDA and RS shall be relieved of, and released and
+        discharged from, any obligations it ever had under Section 4.9 of the
+        MDA. If as of the RS Covenant Expiration Date, MF shall have issued to
+        RS a written notice of breach
+<PAGE>
+
+        or nonperformance under the MDA or Services Agreement, then RS shall
+        have the right to cure such breach or nonperformance within sixty (60)
+        days of its receipt of such written notice and should RS cure such
+        breach or nonperformance, the Parties agree that the RS Covenant
+        Expiration Date shall be deemed the date on which such cure is effected.
+
+3.      Release.  Each Party, effective upon the Amendment Effective Date,
+        -------
+        hereby releases and discharges each other Party and each of their
+        respective affiliates, and each of their respective agents, officers,
+        directors, shareholders, employees, attorneys and representatives, as
+        well as their respective successors and assigns, from all actions,
+        causes of action, suits, claims, damages, losses, liabilities, and
+        demands whatsoever, of whatever kind or nature, in contract or in tort,
+        in law or equity, pursuant to federal, state or local statute, rule,
+        ordinance or regulation, known or unknown, vested or contingent, matured
+        or unmatured, disputed or undisputed, which the Party or any party
+        claiming by or through the Party, ever had, or now has, for, upon or by
+        reason of any breach of the MDA, from the beginning of the world until
+        the Amendment Effective Date; provided that any claim for
+        indemnification that a Party may have pursuant to Article XI of the MDA
+        shall not be released hereby.
+
+4.      Additional Modifications to MDA.  AOL and MF hereby agree that RS is
+        -------------------------------
+        hereby relieved of, and released and discharged from, any obligations it
+        has ever had under the following provisions of the MDA: Article 2
+        (except the last two sentences of Section 2.2), Section 3.8, Section
+        4.2, Section 4.3, the second part of the initial sentence of Section 4.7
+        commencing with ", provided that", Section 4.14 and Section 6.1.3.
+        Additionally, once Section 4.9 is deleted pursuant to Paragraph 2 above,
+        if ever, RS shall be relieved of and released and discharged from, any
+        obligations it ever had under Section 4.6. Notwithstanding anything to
+        the contrary set forth herein or in Section 2.3 of the MDA, MF
+        acknowledges and agrees that RS has completely fulfilled its obligation
+        to develop the Initial Enhanced POS System in accordance with its
+        obligations under the MDA.
+
+5.      Future Cooperation.  Upon the request of any Party, the other Parties
+        ------------------
+        agree to discuss future opportunities regarding POS Systems accessible
+        to the public via the Internet or other online connectivity.
+
+6.      Sale of Stock.  Section 4(b) of the SPA is hereby deleted in its
+        -------------
+        entirety and replaced with the following:
+
+        "Restrictions on the Sales of Shares.  The Purchaser hereby agrees that
+        -----------------------------------
+        for a period beginning on March 19, 2001 and ending on the earlier of
+        (a) 12 months after March 19, 2001 or (b) the date Company no longer
+        complies in all material respects with its obligations under Section 4.9
+        of the Marketing Agreement (the "Period"), the Purchaser will not sell
+        or otherwise dispose of any of the Shares, provided that the foregoing
+        restriction shall not apply with respect to any sale or disposition (i)
+        to an affiliate of the Purchaser who agrees to be bound by this Section
+        4(b), (ii) effected after any material breach by the Company of its
+        obligations under Article 2, Article 3 or Section 10.2 of the Marketing
+        Agreement, or (iii) effected
+
+                                       2
+<PAGE>
+
+        after the occurrence of a Change of Control Event or delivery of an
+        Insider Sale Notice with respect to such sale or disposition.
+        Notwithstanding the foregoing, within the Period, the Purchaser may upon
+        ten (10) days written notice to Company, immediately divest the Shares
+        if Company takes any action which is contrary to any of the obligations
+        of Purchaser described in Section 4.9 of the Marketing Agreement
+        (subject to compliance with the terms of this Agreement relating to any
+        divestiture or sale of the Shares by Purchaser), regardless of whether
+        Section 4.9 of the Marketing Agreement has expired or been terminated by
+        the Parties at the time of such action. Additionally, within the Period,
+        the Purchaser may divest during a calendar quarter, a number of Shares
+        with a value not to exceed one million dollars ($1,000,000) (such value
+        to be the actual sales price of the Shares that are divested), such
+        divestiture(s) to be subject to compliance with the terms of this
+        Agreement relating to the divestiture or sale of the Shares by
+        Purchaser.
+
+7.      Miscellaneous.
+        -------------
+
+        a.      This Amendment is supplementary to and modifies the MDA and SPA,
+                as appropriate. The terms of this Amendment supersede provisions
+                of the MDA and SPA only to the extent expressly provided herein.
+                However, nothing contained in this Amendment should be
+                interpreted as invalidating the MDA or SPA, and provisions of
+                the MDA and SPA as modified by this Amendment will continue to
+                govern relations between the Parties.
+
+        b.      This Amendment shall inure to the benefit of and be binding upon
+                each of the Parties hereto and their respective successors and
+                permitted assigns.
+
+        c.      This Amendment may be executed in any number of counterparts and
+                may be executed by facsimile signature. All counterparts shall
+                collectively constitute one and the same Amendment.
+
+        d.      The terms and conditions contained in the MDA and SPA as
+                modified by this Amendment constitute the entire agreement among
+                the Parties relating to the subject matter hereof and shall
+                supersede all previous agreements and communications between the
+                Parties with respect to the subject matter of this Agreement. No
+                Party has entered into this Amendment in reliance upon any
+                representation, warranty, covenant or undertaking of any other
+                Party that is not set out or referred to in this Amendment.
+
+                                       3
+<PAGE>
+
+  IN WITNESS WHEREOF, the parties hereto have executed this Amendment to the
+MARKETING AND DEVELOPMENT AGREEMENT and the SECURITIES PURCHASE AGREEMENT to be
+effective for all purposes as of the Amendment Effective Date.
+
+
+
+AMERICA ONLINE, INC.                        RADIANT SYSTEMS, INC.
+
+
+By:    /s/ Ronald E. Grant                  By:    /s/ Chris Lybeer
+       -----------------------------               -----------------------------
+Name:  Ronald E. Grant                      Name:  Chris Lybeer
+       -----------------------------               -----------------------------
+Title: Senior Vice President                Title: Vice President
+       -----------------------------               -----------------------------
+
+
+MOVIEFONE, INC.
+
+
+By:    /s/ Ronald E. Grant
+       -----------------------------
+Name:  Ronald E. Grant
+       -----------------------------
+Title: Senior Vice President
+       -----------------------------
+
+                                       4
+</TEXT>
+</DOCUMENT>

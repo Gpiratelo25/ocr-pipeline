@@ -1,0 +1,1448 @@
+<DOCUMENT>
+<TYPE>EX-10.31
+<SEQUENCE>2
+<FILENAME>a2043010zex-10_31.txt
+<DESCRIPTION>EXHIBIT 10.31
+<TEXT>
+
+<PAGE>
+
+
+                                                                  Exhibit 10.31
+
+
+             AMENDED AND RESTATED NBCI STRATEGIC ALLIANCE AGREEMENT
+
+                              HEALTHGATE DATA CORP.
+
+         This Amended and Restated NBCi Strategic Alliance Agreement (the
+"Agreement") is made and entered into as of March 22, 2001 (the "Restated
+Agreement Effective Date") between NBC Internet, Inc., a Delaware corporation,
+with a principal place of business at 225 Bush Street, San Francisco, California
+94103 ("NBCi") and HealthGate Data Corp., a Delaware corporation, with its
+principal place of business at 25 Corporate Drive, Suite 310, Burlington,
+Massachusetts 01803 (the "Company").
+
+         Whereas, the Company and NBCi, as successor by assignment to Snap! LLC
+("Snap") and Xoom.com, Inc. ("Xoom"), are parties to that certain Snap Strategic
+Alliance Agreement, dated October 29, 1999 (as amended by that certain letter
+agreement, dated December 14, 1999, by and among the Company, NBCi, Snap, Xoom
+and Medical Self Care, Inc. and by that Second Amendment to Snap Strategic
+Alliance Agreement, dated September 1, 2000, by and among the Company, NBCi,
+Snap and Xoom, the "Existing Agreement"); and
+
+         WHEREAS, the Company and NBCi (together, the "Parties") desire to make
+certain amendments to the Existing Agreement and to restate the Existing
+Agreement, as so amended, in the form of this Agreement, in order to augment
+their strategic alliance and to better reflect their evolving businesses;
+
+         NOW, THEREFORE, the Parties hereby agree as follows:
+
+1.       EFFECTIVE DATES. The terms and conditions of the Existing Agreement
+         shall govern the relationship between the Parties prior to the date of
+         this Agreement with respect to the subject matter thereof. Upon the
+         execution and delivery of this Agreement by the Parties, this Agreement
+         shall supercede in all respects the effectiveness of the Existing
+         Agreement in defining the relationship between the Parties from and
+         after the date of this Agreement with respect to the subject matter
+         thereof and hereof.
+
+2.       CERTAIN DEFINITIONS. As used in this Agreement, the terms set forth
+         below shall have the following meanings:
+
+         2.1.   "Above the Fold" means that a particular item on a Web page is
+                viewable on a computer screen at an 800 x 600 pixels resolution
+                when the User first accesses such Web page, without scrolling
+                down to view more of the Web page.
+
+         2.2.   "Content Anchor Tenant" means a Web content provider whose
+                position is greater in size and prominence than that of any
+                non-affiliated third party within the relevant NBCi Site page or
+                area of a page for health-related content.
+
+         2.3.   "Best of Breed" means (i) those personal health and/or medical
+                content available on the Internet with the most advanced and
+                commercially successful, functionality, performance, content,
+                and features, whether utilitarian or aesthetic, and (ii) the
+                ability of the Company Site to scale easily with only additional
+
+                                       1
+<PAGE>
+
+                hardware and to accommodate, at a minimum, the peak traffic
+                volume of the third most visited Internet personal health and/or
+                medical site.
+
+         2.4.   "Business Day" shall mean any day on which banks in both New
+                York City and Los Angeles and the New York Stock Exchange are
+                open for the conduct of regular business.
+
+         2.5.   "CHOICE Sites" means the Web sites created for hospitals and
+                other third-party health providers by the Company utilizing the
+                Company's CHOICE eHealth Platform.
+
+         2.6.   "Commerce Offering" means any text, content, links or promotions
+                providing a direct or indirect opportunity for Users on the NBCi
+                Sites or the Company Site to engage in a commerce, purchase,
+                trade, exchange, or purchase transaction, whether paid or
+                unpaid, or any registration or membership opportunity for Users
+                to provide User Profile Data, including, without limitation,
+                content purchase opportunities, registration or membership
+                sign-up opportunities, for-fee or subscription-based content or
+                services, other purchase opportunities for products or services
+                offered by the Company directly or indirectly, links to any such
+                opportunities presented to Users on the NBCi Sites or the
+                Company Site, or other content areas of those Sites.
+
+         2.7.   "Company Content" means (i) the Company's and its licensors'
+                text links, logos, graphic links, and other materials, tools,
+                content, or text that are delivered by the Company to NBCi
+                hereunder and/or available on the Company Site including the
+                content described in Exhibit A and Exhibit D and (ii) Company
+                Marks.
+
+         2.8.   "Company Database" means User Profile Data and any other
+                information relating to Users of the Company Site or other
+                customers of the Company or purchasers of Company Products who
+                have had information about them collected or otherwise obtained
+                by the Company, or for the Company's use or benefit, for the
+                purpose of direct marketing or other communication activities,
+                and all updates or additional information that may be added to
+                such database during the Term.
+
+         2.9.   "Company Marks" means the Company's and its licensors' (other
+                than NBCi) trademarks, trade names, service marks and logos that
+                may be delivered by the Company to NBCi hereunder.
+
+         2.10.  "Company Products" means all products and services offered
+                through the Company Site.
+
+         2.11.  "Company Site" means the Web site operated by the Company,
+                including the Corporate Home Page, and all subsequent pages and
+                sub-directories which incorporate the NBCi Design Template and
+                which are located at http://www.healthgate.nbci.com, together
+                with any mirror sites, and successors to any of the foregoing,
+                which comprise the Company's consumer oriented Web site.
+
+                                       2
+<PAGE>
+
+         2.12.  "Competitor" means a Web site or person providing products or
+                services that compete with products or services provided by
+                NBCi, as NBCi shall determine from time to time.
+
+         2.13.  "Contract Year" means Year One, Year Two Year Three, Year Four,
+                or Year Five, as applicable.
+
+         2.14.  "Corporate Home Page" means the initial, top level display page
+                of the Company Site located at http://www.healthgate.com, which
+                may only contain information about the Company, its various
+                products (which shall not include any links to or mention
+                products similar in nature to the relationship contemplated
+                pursuant to this Agreement), the Company's investor relations
+                information, and other information which may be mutually agreed
+                upon by the Parties from time to time.
+
+         2.15.  "Effective Date" means October 29, 1999.
+
+         2.16.  "Health Channel" means the Health Channel on the NBCi Sites.
+
+         2.17.  "Health Content Portal(s)" means the specific aggregations of
+                linked content within areas of the Health Channel organized
+                around the Company Content, and relating to personal health and
+                medical information, products and services.
+
+         2.18.  "Inventory Pages" means each page of the Company Site, other
+                than the Corporate Home Page and CHOICE Sites.
+
+         2.19.  "Look and Feel" means the look and feel, trade dress, User
+                interface and flow of User experience of an Internet site.
+
+         2.20.  "NBCi Marks" means any trademarks, trade names, service marks
+                and logos that are delivered by NBCi or any NBCi subsidiary to
+                the Company hereunder.
+
+         2.21.  "NBCi Member" means a User who has registered to become a member
+                of one of NBCi's, or one of NBCi's subsidiaries',
+                registration-based services, including without limitation, the
+                NBCi Sites and the free email service available at
+                http://www.email.com.
+
+         2.22.  "NBCi Product Manager" means an employee of NBCi or an NBCi
+                subsidiary, or an independent contractor, holding editorial
+                authority and responsibility for a portal, site, collection,
+                area, center or page on the NBCi Sites.
+
+         2.23.  "NBCi Sites" means: (i) subject to the "Distributor" (as defined
+                in SECTION 5.1 below) exclusion in SECTION 5.1, any and all
+                search and aggregation "portal" Web sites, whether operated by
+                NBCi, or a third party under the "NBCi" brand, including,
+                without limitation, the Web site located at http://www.nbci.com,
+                together with any mirror sites, any co-branded editions of such
+                sites or portions thereof that have been or may be developed for
+                Distributors; and (ii) if NBCi so elects within its sole
+                discretion, the Enhanced Site and/or the International Editions,
+                subject to SECTION 5.2.
+
+                                       3
+<PAGE>
+
+         2.24.  "User" means any end-user of the Web.
+
+         2.25.  "User Profile Data" means data regarding a User provided by the
+                User on the NBCi Sites, Company Site (excluding the Corporate
+                Home Page) or otherwise to NBCi or the Company, including
+                without limitation the User's name, e-mail address, street
+                address, telephone number and other information about the User.
+
+         2.26.  "Web" means the World Wide Web part of the Internet.
+
+         2.27.  "Wires" means NBCi's email newsletters sent to NBCi Members by
+                NBCi or one of its subsidiaries.
+
+         2.28.  "Year One" means the thirteen month period beginning on the
+                Effective Date and ending upon the day before the thirteen month
+                anniversary of the Effective Date.
+
+         2.29.  "Year Two" means the twelve month period beginning on the
+                thirteen month anniversary of the Effective Date and ending upon
+                the day before the twenty-five month anniversary of the
+                Effective Date.
+
+         2.30.  "Year Three" means the twelve month period beginning on the
+                twenty-five month anniversary of the Effective Date and ending
+                upon the day before the thirty-seven month anniversary of the
+                Effective Date.
+
+         2.31.  "Year Four" means the twelve month period beginning on the
+                thirty-seven month anniversary of the Effective Date and ending
+                upon the day before the forty-nine month anniversary of the
+                Effective Date.
+
+         2.32.  "Year Five" means the twelve month period beginning on the
+                forty-nine month anniversary of the Effective Date and ending
+                upon the day before the sixty one month anniversary of the
+                Effective Date.
+
+3.       COMPANY CONTENT; COMPANY SITE; PERFORMANCE; AND ACCOUNT MANAGEMENT.
+
+         3.1.   COMPANY CONTENT. Company agrees to provide NBCi with all Company
+                Content described in EXHIBIT A and EXHIBIT D as soon as
+                practicable after the Restated Agreement Effective Date, and no
+                later than ten days after the such date, except for Company
+                Content which the Company is prohibited by written contract to
+                deliver and which the Company has identified as such in a
+                written notice to NBCi at or prior to the time of delivery of
+                Company Content; provided, however, that the Company will use
+                its best efforts during the sixty days from and after the
+                Restated Agreement Effective Date to obtain the consent(s) of
+                the other parties to such contracts to deliver and use Company
+                Content as contemplated by this Agreement. During such sixty day
+                period from and after the Restated Agreement Effective Date, so
+                long as the Company is using its best efforts to obtain such
+                consents, NBCi will not use on the NBCi Sites content, such as
+                content not provided by the Company, that NBCi would otherwise
+                have the right to use on the NBCi Sites pursuant to SECTION 4.1.
+                Unless and until the Company obtains the required consents of
+                the relevant counter parties, NBCi will not use on the NBCi
+
+                                       4
+<PAGE>
+
+                Sites any content for which use on the NBCi Sites is prohibited
+                by the terms of a written contract to which the Company is a
+                party and which the Company has identified as such in a written
+                notice to NBCi at or prior to the time of delivery of Company
+                Content. In the event that the Company fails to obtain the
+                consents of relevant counter parties to deliver all Company
+                Content as contemplated by this Agreement during the sixty days
+                from and after the Restated Agreement Effective Date, then the
+                Company shall continue to use its best efforts to obtain all of
+                such consents. Subject to the foregoing, NBCi may use and
+                display, at NBCi's sole discretion, anywhere on the NBCi Sites,
+                the Company Content with the exception of the Content Portals
+                created by the Company for the Content Anchor Tenant pages,
+                which are subject to SECTION 4.1. Such display and use by NBCi
+                of the Company Content will not constitute the Company as the
+                Content Anchor Tenant of any part of the NBCi Sites, other than
+                pursuant to SECTION 4.1, and no payments will be required by
+                either Party with respect to such display and use of Company
+                Content. The Company shall ensure that the Company Content
+                remains at all times current by continually providing NBCi with
+                timely updates to the Company Content. Furthermore, under no
+                circumstances shall Company Content include any content of a
+                Competitor.
+
+         3.2.   XML FEED. The Company shall provide to NBCi an XML feed (or an
+                alternative feed reasonably requested by NBCi) of the Company
+                Content, including the Company Content described in EXHIBIT A
+                and EXHIBIT D and the Company Content described in SECTION 3.1.
+                Subject to SECTION 4.1, such content shall be incorporated into
+                NBCi's Health Channel at the discretion of NBCi, maintaining any
+                applicable trademarks or branding as required by the Company in
+                its agreements with its content providers. The Company agrees to
+                use commercially reasonable efforts to minimize the amount and
+                prominence of such trademarks and branding.
+
+         3.3.   CHANGES TO COMPANY CONTENT. Should the Company wish to
+                materially reduce, alter, diminish or eliminate content from the
+                Company Content or the Company Site (a "Content Change"), the
+                Company shall obtain prior written approval from NBCi for such
+                action. Notwithstanding the foregoing, the Company shall, in its
+                reasonable discretion, have the right to replace, substitute and
+                update the content in order to maintain the content as Best of
+                Breed. Notwithstanding the foregoing, the Company shall not
+                undertake a Content Change on channels, sections, or pages of
+                the Company Content or the Company Site which would impair
+                NBCi's ability to fulfill NBCi contractual obligations to
+                deliver advertising inventory, fixed placements or sponsorship
+                opportunities to a third party. NBCi shall promptly notify the
+                Company if any such advertising inventory, fixed placement or
+                sponsorship opportunity commitments include offering advertising
+                inventory, fixed placements or sponsorship opportunities in the
+                content area of the Company Site so as to allow adequate
+                editorial planning. In addition, any such commitments shall not
+                impact the editorial independence of the Company nor shall such
+                commitments prevent the Company from maintaining the content as
+                Best of Breed.
+
+                                       5
+<PAGE>
+
+         3.4.   NEW COMPANY CONTENT. The Company will provide to NBCi new
+                Company Content including chronic disease centers and additional
+                interactive features including a travel planner and a pregnancy
+                calendar, or mutually agreed upon alternatives. The new Company
+                Content shall be provided at no cost to NBCi and shall be
+                mutually agreed upon by the Parties and provided by the Company
+                within a mutually agreed upon time frame. The Company shall own
+                all content developed pursuant to this Section 3.4.
+
+         3.5.   NBCI DESIGN TEMPLATE. The Company shall implement the NBCi
+                Design Template, as described in the attached EXHIBIT B, which
+                may be modified by NBCi from time to time, on all pages of the
+                Company Site except for the Corporate Home Page. NBCi shall give
+                the Company at least sixty days notice in the event it intends
+                to change the NBCi Design Template.
+
+         3.6.   THIRD PARTY CONTENT PORTALS. As directed by NBCi, the Company
+                will implement placement for mutually agreed upon, such approval
+                to not be unreasonably withheld, Content Portals provided by
+                third parties ("Third Party Content Portals") on the Inventory
+                Pages, subject to any restrictions on the Company contained in
+                the Company's current content provider agreements. A written
+                copy of any such restrictions will be provided to NBCi. Such
+                Third Party Content Portals must clearly be identified as either
+                advertising or not produced by the Company, or other similar
+                identification mutually agreed upon by the Parties acting
+                reasonably. Third Party Content Portals may take the form of
+                headlines, images and video images as mutually agreed upon by
+                the Parties.
+
+         3.7.   NBCI CONTENT PORTALS. The Company will integrate a minimum of
+                two mutually agreed upon, such approval to not be unreasonably
+                withheld, NBCi Content Portals (the "NBCi Content Portals") into
+                the CHOICE Sites. The form of such integration shall be mutually
+                agreed upon by the Parties and subject to the approval of
+                relevant Company Choice Partner Program customers. Such NBCi
+                Content Portals may include, but shall not be limited to, health
+                news and general news, and may take the form of text links,
+                headlines, images and video images as mutually agreed upon by
+                the Parties.
+
+         3.8.   NBCI SEARCH BOX. The Company will integrate an NBCi Search Box
+                into the CHOICE Sites. The form of such integration shall be
+                mutually agreed upon by the Parties and subject to the approval
+                of relevant Company Choice Partner Program customers. The
+                Company will also market NBCi's Global Brain internal search
+                technology to its the Choice Partner Program Web sites
+                customers. The form of such marketing shall be mutually agreed
+                upon by the Parties.
+
+         3.9.   ADVERTISING ON THE COMPANY SITE. NBCi shall own and have the
+                right to use, sell, barter and exchange for value, and serve or
+                serve through a third party, all of the advertising inventory,
+                fixed placements and sponsorship opportunities (collectively,
+                the "Inventory") on the Inventory Pages. As directed by NBCi,
+                the Company agrees to incorporate NBCi designated ad serving
+                tags on all Inventory Pages where not otherwise prohibited by
+                contractual obligations. NBCi shall
+
+                                        6
+
+<PAGE>
+
+                allow the Company to purchase up to twenty five percent (25%) of
+                the available unsold or uncommitted Inventory on the Inventory
+                Pages, as determined in NBCi's sole discretion, for the purpose
+                of resale by the Company to third parties. The Company shall
+                purchase such inventory at a discount of thirty percent (30%)
+                from NBCi's standard rate card at the time. The Company must
+                comply with any advertising or competitor restrictions as
+                determined by NBCi. The Company acknowledges that its staff and
+                employee time will be required to implement and maintain the
+                advertising, fixed placements and sponsorship opportunities from
+                the Inventory sold by NBCi. The Company will agree to provide
+                all good faith and best efforts to implement all advertising,
+                fixed placements and sponsorship opportunities from the
+                Inventory sold by NBCi within a mutually agreed upon period of
+                time, such agreement by the Company not to be unreasonably
+                withheld, and to maintain such advertising, fixed placements and
+                sponsorship opportunities for the term of the commitment. The
+                Company will provide a written list of the Company's
+                advertising, sponsorship and promotional customers to NBCi,
+                subject to the Company's existing contractual privacy
+                restrictions, by April 15, 2001. The Company shall provide
+                introductions to the Company's advertising, sponsorship and
+                promotional customers for NBCi's business development and sales
+                representatives within a reasonable period of time after the
+                Restated Agreement Effective Date. The Company may label
+                advertising (other than banner ads), fixed placements, and
+                sponsorship opportunities placed on the Company Site by NBCi
+                with mutually agreeable language that identifies them as a
+                sponsorship or advertisement.
+
+         3.10.  PROMOTION OF COMPANY SITE. The Company agrees to promote the
+                Company Site from the Corporate Home Page. Such promotion shall
+                include, but shall not be limited to, the following: 1) a direct
+                link or button on the Corporate Home Page to each of the major
+                content areas of the NBCi Health Channel where the Company has
+                Content Anchor Tenant positions; 2) a Consumer Health Channel
+                direct link or button that will link to a mutually agreed upon
+                jump page within the NBCi Sites or the Inventory Pages; and 3) a
+                direct link or button that will link to a mutually agreeable
+                MEDLINE search page within the NBCi Site or the Inventory Pages
+                as mutually agreed by the parties. All such promotional
+                enhancements shall be made by March 31, 2001.
+
+         3.11.  TRAFFIC REDIRECT. Except as provided in the following sentence,
+                the Company shall (i) redirect all traffic from the Company Site
+                to HTTP://HEALTHGATE.NBCI.COM or another URL or URLs designated
+                by NBCi so that NBCi shall receive credit for all page views or
+                impressions as measured by third party organizations including,
+                but not limited to, Media Metrix and (ii) take all actions
+                reasonably requested by NBCi to permit NBCi to count such page
+                views towards NBCi's traffic. The previous sentence shall not
+                apply to (i) the traffic to the Corporate Home Page; and (ii)
+                any traffic related to the CHOICE Sites.
+
+         3.12.  LINKS; PERFORMANCE STANDARDS. The Company will be responsible
+                for ensuring that each link embedded within Company Content on
+                the NBCi Site takes the User to the appropriate area within the
+                Company Site (other than links to the
+
+                                       7
+
+<PAGE>
+
+                Health Channel for which NBCi will be responsible), and that
+                such sites function with reasonable reliability and in a
+                commercially reasonable manner throughout the Term. In
+                particular, the Company agrees that the Company Site will comply
+                with the performance standards set forth in EXHIBIT C attached
+                hereto throughout the Term. Any failure by the Company to comply
+                with this Section will be deemed to be a material breach of this
+                Agreement.
+
+         3.13.  BEST OF BREED. During the Term, in the event that NBCi, in its
+                reasonable discretion, determines that the Company has failed to
+                maintain the Company Site and Company Content as Best of Breed
+                in any material respect, NBCi shall have the right to (a) remove
+                any deficient Company Content from the NBCi Sites and remove any
+                and all links on the NBCi Sites to the Company Site (in which
+                case NBCi may require that the Company remove NBCi Marks from
+                the Company Site) until the Company has corrected such failure
+                and/or (b) terminate this Agreement in accordance with SECTION
+                8.2. NBCi acknowledges that all Company Content and the Company
+                Site are Best of Breed as of the Restated Agreement Effective
+                Date.
+
+         3.14.  ACCOUNT MANAGEMENT.
+
+
+                3.14.1. ACCOUNT AND CONTACT MANAGERS. For the purposes of this
+                        Agreement, Rita Han shall be NBCi's account manager for
+                        the Company and Cathy Donohue shall be the Company's
+                        contact manager for NBCi (collectively, the "Managers").
+                        Subject to SECTIONS 15.12 and 15.13, the Managers shall
+                        be the primary points of contact for inquiries and
+                        requests, and each Manager shall provide the other with
+                        such information and assistance as may be reasonably
+                        requested by the other from time to time. Either Party
+                        to this Agreement may change its designated Manager by
+                        giving the other Party written notice of such change.
+
+                3.14.2. QUARTERLY MEETINGS. At least once each quarter, the
+                        Managers shall discuss the reports provided under
+                        SECTION 9 and any other items under this Agreement
+                        either Manager wishes to bring to the attention of the
+                        other Manager.
+
+                3.14.3. COMPANY STAFFING. The Company shall provide commercially
+                        reasonable staffing, consisting of an average of at
+                        least 10 full time employees during each calendar
+                        quarter during the Term, including a product manager and
+                        engineering and product staff, dedicated to the Company
+                        Content and the Company Site in order to maintain,
+                        update and provide the Company Content at the current
+                        level of quality, availability and depth or as described
+                        in this Agreement.
+
+4.       ANCHOR TENANCY.
+
+         4.1.   CONTENT ANCHOR TENANT OF CERTAIN HEALTH CHANNEL CONTENT AREAS.
+                During the Year Two and Year Three, NBCi will feature the
+                Company as the Content Anchor
+
+                                       8
+
+<PAGE>
+
+                Tenant within the following major content areas within the
+                Health Channel: Drugs & Medications, Women's Health, and Men's
+                Health. NBCi Product Managers shall from time to time determine
+                the major content areas in which the Company shall be featured
+                as the Content Anchor Tenant subject to the Company's approval
+                which shall not be unreasonably withheld. Subject to this
+                SECTION 4, NBCi may, in the exercise of its reasonable
+                discretion, make changes to the design and functionality of the
+                Health Channel including, without limitation, the names of major
+                content areas; provided, however, that major content areas
+                similar to, or addressing the categories listed above, or a
+                mutually agreeable alternative, shall exist on the Health
+                Channel during the Term. As the Content Anchor Tenant of certain
+                major content areas of the Health Channel, the Company will
+                receive the most prominent positioning within each of such major
+                content areas. During the Term, there shall be no other Content
+                Anchor Tenant of any of the major content areas of the Health
+                Channel in which the Company is then the Content Anchor Tenant;
+                provided, however, that other major content areas, content not
+                provided by the Company, subject to the terms of SECTION 3.1,
+                and/or links to other, non-Company site may exist on the same
+                Web page and elsewhere within the Health Channel. The Company
+                acknowledges that NBCi may feature Content Anchor Tenants other
+                than the Company on any major content area within the Health
+                Channel that is not one of the major content areas of the Health
+                Channel in which the Company is the Content Anchor Tenant. NBCi
+                and the Company shall negotiate in good faith to incorporate
+                additional health-related Company Content, so long as such
+                content is Best of Breed, within the content areas of the Health
+                Channel in which the Company is not the Content Anchor Tenant,
+                provided; however, NBCi shall not be obligated to negotiate with
+                respect to such Company Content if an agreement with Company
+                regarding such Company Content would be interpreted or operate
+                to cause NBCi to breach any existing contract or agreement
+                between NBCi and any other party, or impair the rights of any
+                such contract party pursuant to an existing contract or
+                agreement with NBCi. On the Health Channel, the Company will
+                have the right to program up to three Health Content Portals,
+                each measuring no larger than approximately 150 x 400 pixels,
+                with relevant content and links to relevant content on the
+                Company Site and to relevant content on the Choice Sites, or to
+                other sites, as mutually agreed upon by the Parties. Company
+                will provide the appropriate Company Content, subject to the
+                reasonable discretion of an NBCi Product Manager, for the Health
+                Content Portals. The NBCi Product Manager may provide the
+                Company with reasonable assistance to enable the Company to
+                effectively design the Health Content Portals. Subject to this
+                SECTION 4.1, the NBCi Product Manager will determine the size
+                and location, and the Look and Feel, of the Health Content
+                Portals; provided, however, that the Health Content Portals will
+                begin Above the Fold within the major content areas of the
+                Health Channel in which the Company is the Content Anchor
+                Tenant.
+
+         4.2.   HARVESTING. Except as set forth in SECTION 3.1, the Company
+                shall, beginning on the Restated Agreement Effective Date,
+                provide all Company Content as required under this SECTION 4
+                pursuant to NBCi's harvesting technical specifications, as
+                updated in NBCi's sole discretion from time to time, including
+                those described in
+
+
+                                       9
+<PAGE>
+
+                http://partnermarketing.nbci.com/guide, or any other successor
+                URLs designated by NBCi. NBCi shall have the right, in its sole
+                discretion, to harvest such Company Content in a manner
+                requiring a User of the NBCi Sites to "click through" as many as
+                two Web pages within the NBCi Sites before the User is
+                transferred to the Company Site. Harvested Company Content will
+                maintain the NBCi Sites' Look and Feel and will include branding
+                for the Company using Company Marks, in such form and placement
+                as an NBCi Product Manager shall determine in his or her sole
+                discretion. Harvested Company Content shall not include any
+                Commerce Offering, except at NBCi's sole discretion. The Company
+                shall ensure that all Company Content remains at all times
+                current by continually providing NBCi with timely updates to the
+                Company Content. Under no circumstances shall Company Content
+                include any content of a Competitor or reference a Competitor.
+
+         4.3.   INTERNAL PROMOTIONS. Subject to the discretion of an NBCi
+                Product Manager, during the Term, NBCi shall promote and link
+                the Health Channel within and throughout the NBCi Sites. Subject
+                to the discretion of an NBCi Product Manager, the Company may
+                receive internal promotional links within relevant sub-areas of
+                the NBCi Sites that link to the Company Site. Such relevant
+                sub-areas may include, without limitation, the following: Local,
+                Entertainment, and Living. NBCi, in its sole discretion, has the
+                right to create, maintain or discontinue any of the foregoing
+                sub-areas on the NBCi Sites. In addition, NBCi may include a
+                link to the Health Channel and/or Company Site within issues of
+                a Wire, as determined by NBCi in its sole discretion.
+
+         4.4.   HOSTING. NBCi will host the Health Channel, the Health Content
+                Portals and any Company Content harvested pursuant to SECTION
+                4.2 on its servers, servers within its control, or servers of a
+                third party under contract with NBCi, and will provide all
+                computer hardware, software and personnel necessary to operate
+                and maintain the Health Channel, the Health Content Portals and
+                any harvested Company Content as functional pages accessible to
+                Users.
+
+         4.5.   ADVERTISING. NBCi shall own and have the right to use or sell
+                all of the advertising inventory, fixed placements and
+                sponsorship opportunities on the Health Channel and on the
+                Company Content it may harvest. The Company acknowledges that
+                any advertising, fixed placements and sponsorship opportunities
+                for and/or links to other sites similar to or in competition
+                with the Company may exist in the Health Channel.
+                Notwithstanding anything in this Agreement to the contrary, any
+                third party content or links may exist on any area of the Health
+                Channel. Moreover, other than as expressly set forth herein,
+                NBCi shall have the right to display any third party links,
+                media, banner advertisements, other promotions, and/or paid or
+                unpaid editorial content anywhere on the NBCi Sites.
+
+         4.6.   COMPANY LOGO. NBCi shall provide a clickable Company logo on the
+                Health Content Portals that shall link to the Corporate Home
+                Page or another mutually agreed upon page or URL operated by the
+                Company.
+
+                                       10
+<PAGE>
+
+         4.7.   NBCI INTERACTIVE NEIGHBORHOOD CITY CENTER LINKS. As mutually
+                agreed by the Parties, NBCi shall create links within each
+                applicable NBCi Interactive Neighborhood City Center on the NBCi
+                Sites to the appropriate Choice Sites.
+
+5.       CO-BRANDED, ENHANCED, INTERNATIONAL EDITIONS AND NON-PC DEVICES.
+
+         5.1.   CO-BRANDED EDITIONS. The Company acknowledges that NBCi produces
+                co-branded editions of the NBCi Sites for various resellers,
+                distributors, other licensees and/or joint venture partners
+                (collectively the "Distributors"). In some cases, such
+                Distributors are entitled to replace NBCi's default content with
+                other content within their own co-branded editions of any NBCi
+                Site. Notwithstanding any other provisions of this Agreement, if
+                any such Distributor has exercised its right to replace Company
+                Content with other content, then NBCi will not be required to
+                display Company Content within such Distributor's co-branded
+                edition of the NBCi Sites. If NBCi does display the Company
+                Content within a co-branded edition of any NBCi Site, such
+                display will be governed by this Agreement.
+
+         5.2.   ENHANCED AND INTERNATIONAL EDITIONS. NBCi has created an
+                enhanced, high-speed version of the NBCi Sites focused on rich
+                media content (together with any successor service(s) or site(s)
+                thereof and any co-branded editions of such service that have
+                been or may be developed for NBCi 's third party distribution
+                partners and licensees, the "Enhanced Sites") and may desire to
+                include appropriate rich media Company Content within the
+                Enhanced Sites. NBCi is currently considering creating one or
+                more international editions of the NBCi Sites to reflect
+                appropriate localized and local partner content ("International
+                Editions") and may desire to include localized Company Content
+                within the International Site. At NBCi's sole discretion, all
+                terms and conditions contained in this Agreement related to the
+                "NBCi Sites" may also apply to the Enhanced Site and
+                International Editions, but subject to Section 3.1. The Company
+                hereby acknowledges that NBCi, in its sole discretion, may use
+                appropriate content, promotions and other material provided by
+                the Company within the Enhanced Sites and the International
+                Editions, and all licenses set forth in this Agreement are
+                hereby expanded to include the Enhanced Sites and International
+                Editions. The Company acknowledges that the Look and Feel of the
+                Enhanced Site will be designed for a high-bandwidth audience and
+                therefore may substantially differ from the Look and Feel of the
+                primary NBCi Sites and that the placement and format of any
+                Company Content may need to be modified in the Enhanced Site.
+                The Company further acknowledges that the Look and Feel of the
+                International Editions will be localized for the relevant target
+                audience (e.g., in terms of language, culture, and ethnicity)
+                and therefore may substantially differ from the Look and Feel of
+                the primary NBCi Sites and that the placement and format of any
+                Company Content may need to be modified in the International
+                Site. In the event that the Company does not have the legal
+                right to deliver to NBCi any Company Content for use as
+                contemplated by this Agreement in certain geographical markets,
+                then the Company will use its best efforts to obtain the
+                consent(s) of the other parties to such contracts to deliver and
+                use all Company
+
+
+                                       11
+<PAGE>
+
+                Content as contemplated by this Agreement in such geographical
+                markets. So long as the Company is using its best efforts to
+                obtain such consents, NBCi will not, unless and until such
+                consent is obtained, use on any International Edition such
+                content for which delivery to or use on the International
+                Edition in a certain geographical location is prohibited by the
+                terms of a written contract to which the Company is a party.
+
+         5.3.   NON-PC DEVICES. The Company acknowledges that NBCi may display
+                Company Content through non-PC devices, except for Company
+                Content which the Company is prohibited by written contract to
+                display through non-PC devices and which the Company has
+                identified as such in a written notice to NBCi at or prior to
+                the time of delivery of Company Content; provided, however, that
+                the Company will use its best efforts throughout the Term to
+                obtain the consent(s) of the other parties to such contracts to
+                allow the display of Company Content by NBCi through non-PC
+                devices as contemplated by this Agreement. The Look and Feel of
+                the NBCi Sites accessed by any non-PC device will be modified by
+                NBCi in order to suit such devices, and therefore may
+                substantially differ from the Look and Feel of the primary NBCi
+                Sites. The Company further acknowledges that placement, content
+                and format of any Company Content may need to be modified
+                accordingly for such non-PC devices, including less prominent
+                placement or abridged content. If Company Content will be
+                displayed through versions of the NBCi Sites on non-PC devices
+                as described above, NBCi will provide the Company with
+                commercially reasonable specifications for any modifications to
+                Company Content necessary to allow such displays, and the
+                Company will use commercially reasonable efforts to assist NBCi
+                in modifying Company Content in accordance with such
+                specifications.
+
+6.       USER PROFILE DATA, COMMERCE OFFERINGS, AND DIRECT MARKETING.
+
+
+         6.1.   DATA OWNERSHIP. NBCi will be the sole owner of any information
+                that NBCi collects from Users through the NBCi Sites. The
+                Company and NBCi shall jointly own any information collected
+                from Users through the Company Site, with the exception of
+                information collected from Users on the Corporate Home Page or
+                the Choice sites or any other pages as mutually agreed upon by
+                the Parties, which information shall be solely owned by the
+                Company. Further, if a User whose User Profile Data is contained
+                in the Company Database receives an email from NBCi pursuant to
+                SECTION 6.4 and purchases products offered in such email through
+                NBCi or an affiliated Web site, then the User Profile Data for
+                such User shall be owned jointly by NBCi and the Company from
+                and after the time of such purchase.
+
+         6.2.   USE OF INFORMATION AND CONFIDENTIALITY. Each Party will have the
+                right to use any information provided by the other Party
+                pursuant to SECTION 9 subject to the confidentiality
+                restrictions set forth in SECTION 15.4. Notwithstanding the
+                foregoing, all data collected from Users through the Company
+                Site will be subject to the then current privacy policy of NBCi,
+                unless specifically made subject to the terms of the Company
+                privacy policy; provided that in such cases the Company's
+
+                                       12
+
+<PAGE>
+
+                privacy policy with respect to NBCi's access to, and use and
+                disclosure of, data collected from such Users may not be more
+                restrictive than the then-current privacy policy of NBCi.
+
+         6.3.   NBCI MEMBER REGISTRATION. If any Company Content accessed
+                through links appearing on the NBCi Sites or the Company Site
+                contains any Commerce Offering that requires the User to
+                register or submit any User Profile Data, then NBCi has the
+                right in its sole discretion to, and the Company will provide
+                assistance to, cause any of the following: (i) the Web page that
+                requests the User Profile Data, (ii) any other page relating to
+                the Commerce Offering, or (iii) a separate NBCi Member
+                registration page, to present the User with an opportunity to
+                register to become an NBCi Member.
+
+         6.4.   DIRECT MARKETING. During the Term, NBCi shall have the right to
+                use, with the prior approval of the Company which approval shall
+                not be unreasonably withheld, the information contained in the
+                Company Database for direct marketing purposes as set forth in
+                this Section. NBCi shall have a right to execute, or cause to be
+                executed, at least one promotional email offer per month
+                approved by the Company, which approval shall not be
+                unreasonably withheld, to all or some of the Users described in
+                the Company Database. Such email offers shall be drafted by
+                NBCi, approved by Company (and such approval shall not be
+                unreasonably withheld) and will appear to come from "HealthGate
+                and NBCi". Such email messages may have links to the NBCi Sites
+                or the Company Site, as NBCi shall decide in its sole
+                discretion. Products offered in such emails may include NBCi's
+                products or services or third party products and/or services
+                that NBCi has the right to offer, and NBCi shall select all of
+                such products to be offered in its sole discretion. NBCi shall
+                also have the option to create and host "sell" pages for any
+                marketing campaign, arrange for purchase orders to be processed
+                and fulfilled, and for customer service and inventory matters to
+                be coordinated in relation to the products offered in emails
+                distributed pursuant to this Section, as NBCi shall determine in
+                its sole discretion. NBCi shall send a copy of the email offer
+                to the Company at least forty-eight hours prior to the time at
+                which the email messages are to be sent. The Company may reject,
+                but not unreasonably, promotional email offers proposed by NBCi.
+
+7.       PAYMENTS AND CREDITS.
+
+
+         7.1.   ANCHOR TENANCY FEES. For the Content Anchor Tenant positions on
+                the Health Channel during Year Two, the Company will pay NBCi
+                $2,523,809 as follows:
+
+                $591,750 upon the signing of this Agreement
+                $630,750 by July 1, 2001
+                $200,000 by August 1, 2001
+                $630,750 by October 1, 2001
+                $303,893 by January 1, 2002
+                $166,666 by April 1, 2002
+
+                                       13
+<PAGE>
+
+                For the Content Anchor Tenant positions on the Health Channel
+                during Year Three, the Company will pay NBCi $2,357,143 as
+                follows:
+
+                $589,286 by April 1, 2002
+                $252,551 by May 1, 2002
+                $252,551 by June 1, 2002
+                $252,551 by July 1, 2002
+                $252,551 by August 1, 2002
+                $252,551 by September 1, 2002
+                $252,551 by October 1, 2002
+                $252,551 by November 1, 2002.
+
+         7.2.   ADVERTISING REVENUE SHARE. NBCi shall pay to the Company 20% of
+                "Net Revenues" (as defined below) associated with all
+                advertising, fixed placements and sponsorship opportunities sold
+                by NBCi on the Inventory Pages. "Net Revenues" shall be defined
+                as gross revenues actually received by NBCi from the sale of
+                advertising, fixed placements and sponsorship opportunities on
+                pages of the Inventory Pages less all associated advertising
+                agency commissions, third party ad serving costs, sales
+                commissions and advertising related production costs (all such
+                commissions and costs shall not exceed 20% of the gross
+                revenue). NBCi shall make such payments within forty-five (45)
+                days after the end of each calendar quarter and shall accompany
+                such payments with a statement setting forth NBCi's calculation
+                of Net Revenues for such quarter. NBCi agrees to provide monthly
+                reports to Company outlining an estimate of Net Revenues for the
+                previous month. Notwithstanding the foregoing, the quarterly
+                statements shall govern all advertising reports and payments
+                made by NBCi to the Company.
+
+         7.3.   PAYMENT. All payments required to be made hereunder by NBCi to
+                the Company will be made to the Company by wire transfer or
+                certified check, and in immediately available funds. All
+                payments required to be made hereunder by the Company to NBCi
+                will be made to NBCi by wire transfer, and in immediately
+                available funds as follows:
+
+                Union Bank of Calif.
+
+                Monterey Park, CA 91755  USA
+
+                Account Name: NBCi Advertising Account
+
+                ABA #: 122000496
+
+                Acct #: 6450151708
+
+                Swift Code: #UBLAUS566
+
+                If the Company should fail to make any payment due under this
+                Agreement by the date such payment is due, the overdue payment
+                will bear interest at the rate of one and one-half percent
+                simple interest per month or the maximum interest permitted
+
+                                       14
+
+<PAGE>
+
+                by law, whichever is less. Any payment which is due on a day
+                which is not a Business Day shall be payable on the next
+                succeeding day that is a Business Day.
+
+         7.4.   STOCK WARRANT. In further consideration of the good and valuable
+                consideration provided to the Company hereunder, on the Restated
+                Agreement Effective Date the Company shall issue to NBCi a Stock
+                Purchase Warrant (the "Warrant") for the purchase of 200,000
+                shares of Common Stock of the Company in the form attached
+                hereto as EXHIBIT E. On or before April 20, 2001, the Company
+                shall enter into a separate Registration Rights Agreement with
+                NBCi, reasonably acceptable to NBCi, granting piggyback
+                registration rights to each holder of Company Common Stock
+                purchased pursuant to the Warrant with respect to such shares.
+                If the Company fails to enter into a Registration Rights
+                Agreement reasonably acceptable to NBCi by such date, such
+                failure shall constitute a material breach under this Agreement.
+
+         7.5.   INVOICE PROCEDURE. NBCi shall send the Company all invoices
+                hereunder to the attention of the Company's Chief Financial
+                Officer, and who has the authority to authorize the payment of
+                such invoices.
+
+8.       TERM; TERMINATION.
+
+         8.1.   TERM. The term of this Agreement will begin on the Effective
+                Date and end on the last day of the sixty-first month after the
+                Effective Date, unless otherwise terminated or extended as set
+                forth in this Agreement (the "Term").
+
+         8.2.   TERMINATION FOR CAUSE. Either NBCi or the Company may terminate
+                this Agreement at any time by giving written notice of
+                termination to the other Party if the other Party commits a
+                material breach of its obligations hereunder that is not cured
+                within thirty days after notice thereof from a non-breaching
+                Party; provided, however, that if the Company fails to make a
+                payment as required hereunder, NBCi may terminate this Agreement
+                fifteen days following the date of notice of such non-payment if
+                any such payment is not made within fifteen days after the
+                Company's receipt of such notice. NBCi may terminate this
+                Agreement immediately, and shall have no further obligation
+                under this Agreement, if the Company adopts a plan of complete
+                liquidation or dissolution; becomes insolvent; makes an
+                assignment for the benefit of creditors; makes or sends notice
+                of a bulk transfer; calls a meeting of its creditors with
+                respect to its inability to pay its obligations owed to such
+                creditors on customary terms; defaults under any agreement,
+                document or instrument relating to the Company's indebtedness
+                for borrowed money; ceases to do business as a going concern; a
+                petition is filed by or against the Company under any bankruptcy
+                or insolvency laws; or the Company experiences a change in its
+                ownership, such that a person, corporation or other legal entity
+                with a direct competitive interest (i.e., owns or operates a
+                search and aggregation portal site on the Web) holds an equity
+                interest in the Company, without NBCi's prior, written consent
+                to such ownership.
+                                       15
+
+<PAGE>
+
+         8.3.   TERMINATION REGARDING COMPANY CONTENT. NBCi may terminate this
+                Agreement at any time by giving written notice of termination to
+                the Company if the Company fails to timely deliver, pursuant to
+                SECTION 3.1, any material part of the Company Content, including
+                updates, and such failure is not cured within ten days after the
+                Company's receipt of notice thereof from NBCi.
+
+         8.4.   TERMINATION BY NBCI. NBCi, in its sole discretion, shall have
+                the right to terminate this Agreement upon 30 days written
+                notice to the Company.
+
+         8.5.   CONSEQUENCES OF TERMINATION. Upon the termination or expiration
+                of this Agreement, all licenses granted hereunder shall
+                immediately terminate and each Party shall return or destroy all
+                Confidential Information of the other Party in its possession.
+                All jointly owned User Profile Data will continue to be jointly
+                owned by the Parties upon termination or expiration of this
+                Agreement, subject to the provisions of SECTION 6. Within 30
+                days of the termination or expiration of this Agreement, the
+                Company will provide NBCi will final reports covering the
+                information to be provided to NBCi under this Agreement
+                (including, for example, User Profile Data and the information
+                required under SECTION 9.1) through the date of such termination
+                and expiration. Upon termination of this Agreement for any
+                reason, all monies paid by the Company to NBCi hereunder prior
+                to the termination shall be deemed non-refundable except as
+                expressly stated otherwise in this Agreement. In the event this
+                Agreement is terminated by either Party prior to the end of Year
+                Three then the Company shall pay to NBCi, on or prior to the
+                effective date of such termination, all accrued Anchor Tenancy
+                Fees through the effective date of such termination (calculated
+                on a daily straight-line pro-rata basis based on the fees
+                specified in SECTION 7.1 for Year Two ($2,357,143) and Year
+                Three ($2,523,809)). Finally, in the event this Agreement is
+                terminated by NBCi pursuant to SECTION 8.2 and/or SECTION 8.3 or
+                in the event the Company requests that NBCI renegotiate the
+                Agreement, then the Company shall continue to pay 65% of all
+                fees payable by the Company to NBCi during the remainder of the
+                Term as liquidated damages. Such payments shall be due and
+                payable on the dates they would have been due and payable if the
+                termination or renegotiation had not occurred. The Company
+                acknowledges that NBCi has entered into this Agreement at the
+                Company's request. The Parties acknowledge and agree that it
+                would be impractical to estimate the amount of any damages that
+                could arise out of any material breach of this Agreement or
+                termination pursuant to SECTION 8.2 and/or SECTION 8.3, or out
+                of any request for renegotiation by the Company and agree that
+                the amount of liquidated damages described above is a reasonable
+                estimate of the actual damages that NBCi would suffer and incur
+                as a result of such breach or termination of this Agreement or
+                request for renegotiation. The Company shall receive as a credit
+                against the amounts due from the Company to NBCi pursuant to
+                this SECTION 8.5 any amounts due the Company from NBCi pursuant
+                to SECTION 7.2. No Party shall be liable to the other for
+                damages of any sort resulting solely from terminating this
+                Agreement in accordance with its terms.
+
+9.       REPORTS, RECORDS, AND ACCOUNTS.
+
+                                       16
+
+<PAGE>
+
+         9.1.   COMPANY REPORTS. Within 15 days after the end of each month
+                during the Term, the Company will provide to NBCi a complete and
+                detailed report that includes, at a minimum, for such month: (i)
+                the total page views on the Company Site, excluding the
+                Corporate Home Page, (ii) the total number of page views on the
+                Inventory Pages, (iii) the total number of page views of the
+                CHOICE Sites containing NBCi Content Portals or an NBCi Search
+                Box, (iv) the total number of page views on any NBCi URL
+                redirected pages, (v) the number of pages turned per visit to
+                the Company Site, (vi) the number of unique visitors to the
+                Company Site, (vii) the number of unique Users to the Company
+                Site from the Health Channel, (viii) the number of Users and
+                User Profile Data for all Users of the Company Site (other than
+                the CHOICE Sites and the Corporate Home Page), and (ix) the
+                aggregate statistical and demographic characteristics of Users
+                in (vi), (vii), and (viii). NBCi will tag each User of the
+                Company Site originating from the NBCi Sites using a cookie or
+                other similar technology to assist the Company in obtaining the
+                foregoing data.
+
+         9.2.   RECORDS AND ACCOUNTS. Both parties agree to keep, on a
+                continuing basis during the Term and for two (2) years after the
+                Term, full and accurate records and accounts, including, without
+                limitation all logs and reports, sufficient to permit the other
+                party to verify the accuracy of all reports submitted by the
+                Company as hereinabove required. Both parties shall have the
+                right, at its sole expense, to examine such books and records,
+                whether in electronic format or otherwise, to the extent that
+                such examination is necessary and pertinent to the foregoing
+                verification, during reasonable business hours and at the other
+                party's principal place of business, using its employees or
+                principals, or through outside, authorized representatives.
+
+10.      LICENSES.
+
+         10.1.  COMPANY CONTENT. The Company hereby grants to NBCi and its
+                subsidiaries a non-exclusive, non-transferable, royalty-free
+                license, effective throughout the Term, to use, display and
+                publish the Company Content solely as permitted hereunder in any
+                medium or through any technology now known or hereafter devised.
+                In the event the Enhanced Sites and/or the International
+                Editions are deemed included within this Agreement pursuant to
+                SECTION 5.2, or, subject to SECTION 5.3, NBCi elects to display
+                Company Content through non-PC devices, the Company hereby
+                further grants to NBCi and its subsidiaries a non-exclusive,
+                non-transferable, royalty-free license, effective throughout the
+                Term, to modify and create derivative works of the Company
+                Content solely as permitted hereunder. In the event the
+                International Editions are deemed included within this Agreement
+                pursuant to SECTION 5.2, the Company shall in good faith modify
+                the Company Marks to incorporate changes reasonably suggested by
+                NBCi for the relevant target audience (e.g., complying with
+                local laws or avoiding the use of offensive terms in the local
+                language). Any use of the Company Content by NBCi must comply
+                with any reasonable usage guidelines communicated by the Company
+                to NBCi from time to time.
+
+                                       17
+
+<PAGE>
+
+         10.2.  NBCI MARKS. NBCi hereby grants to the Company a non-exclusive,
+                non-transferable, royalty free license, effective throughout the
+                Term, to use, display and publish the NBCi Marks solely within
+                the Company Site as permitted hereunder. Any use of the NBCi
+                Marks by the Company must comply with any reasonable usage
+                guidelines communicated to the Company by NBCi from time to
+                time.
+
+         10.3.  TRADEMARK USAGE GUIDELINES. Each Party (the "Trademark
+                Licensee") agrees that the trademarks of the other Party (the
+                "Trademark Licensor"), used alone or with other elements,
+                together with the goodwill of the business symbolized thereby,
+                are and at all times shall remain the property of Trademark
+                Licensor, that this Agreement constitutes a license, and that no
+                ownership interest in and to Trademark Licensor's marks is
+                intended to be transferred by this Agreement. Trademark Licensee
+                recognizes the value of the goodwill associated with Trademark
+                Licensor's marks, that such marks have acquired secondary
+                meaning in the mind of the public, and that all use of such
+                marks, including all goodwill generated by each Party's use and
+                use by permitted sub-licensees of such marks shall accrue and
+                inure to the benefit of and be on behalf of Trademark Licensor.
+                Trademark Licensee shall do nothing inconsistent with Trademark
+                Licensor's ownership of Trademark Licensor's marks. Trademark
+                Licensee agrees that it (i) shall not register or apply for
+                registration of any element of Trademark Licensor's marks
+                licensed to it under this Agreement, (ii) shall not assert any
+                adverse claim based upon use of such marks, and (iii) shall not
+                challenge or contest Trademark Licensor's ownership of such
+                marks, the validity of such marks, or the validity of the
+                licenses granted herein. Trademark Licensee agrees to limit its
+                use of Trademark Licensor's marks to the marks as licensed, and
+                not to form any combination marks with Trademark Licensor's
+                marks. If such domain name is deemed a combination mark, neither
+                Party shall use the domain name for any purpose except as
+                expressly provided herein or attempt to register the domain name
+                with any government office, and the Parties will jointly
+                cooperate on any enforcement action of infringement of the
+                domain name. All rights in Trademark Licensor's marks not
+                expressly granted hereunder by Trademark Licensor are reserved
+                by Trademark Licensor and may be exercised by Trademark Licensor
+                or any of its other licensees concurrently herewith. Trademark
+                Licensee shall make no use of Trademark Licensor's marks other
+                than as expressly permitted hereunder.
+
+11.      RESPONSIBILITY FOR THE SITES AND PRODUCTS. The Company acknowledges and
+         agrees that, as between the Company and NBCi, the Company will be
+         solely responsible for any claims or other losses associated with or
+         resulting from the marketing or operation of the Company Site or the
+         offer or sale of any Company Products by the Company or through the
+         Company Site, or through emails delivered by NBCi or the Company. NBCi
+         is not authorized to make, and agrees not to make, any representations
+         or warranties concerning the Company Products.
+
+12.      LIMITATION OF DAMAGES. EXCEPT IN THE EVENT OF A CLAIM UNDER SECTION
+         8.5, NO PARTY WILL BE LIABLE FOR ANY SPECIAL, INDIRECT,
+
+
+                                       18
+<PAGE>
+
+         CONSEQUENTIAL OR INCIDENTAL DAMAGES ARISING OUT OF OR RELATED TO THIS
+         AGREEMENT, HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY (INCLUDING
+         NEGLIGENCE), AND EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY
+         OF SUCH DAMAGES. EXCEPT IN THE EVENT OF A CLAIM UNDER SECTION 14 OR
+         SECTION 15.4, OR PAYMENTS PURSUANT TO SECTION 7 OR SECTION 8.5, IN NO
+         EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY IN AN AMOUNT
+         GREATER THAN THE AMOUNTS PAYABLE TO NBCI BY THE COMPANY HEREUNDER. THIS
+         SECTION 12 SHALL SURVIVE TERMINATION OR EXPIRATION OF THIS AGREEMENT.
+
+13.      NO WARRANTIES. THE NBCI SITES, HEALTH CHANNEL, HEALTH CONTENT PORTALS
+         AND COMPANY CONTENT ARE PROVIDED "AS IS" AND THE INFORMATION CONTAINED
+         THEREIN IS NOT WARRANTED TO BE FREE FROM ERROR. NBCI AND THE COMPANY
+         DISCLAIM ALL WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT
+         LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+         PARTICULAR PURPOSE WITH RESPECT TO THE NBCI SITES, HEALTH CHANNEL,
+         HEALTH CONTENT PORTALS AND COMPANY CONTENT.
+
+14.      MUTUAL INDEMNIFICATION.
+
+         14.1.  INDEMNIFICATION BY NBCI. Subject to SECTION 14.3, NBCi shall
+                indemnify, defend and hold the Company harmless from and against
+                any costs, losses, liabilities and expenses, including all court
+                costs, reasonable expenses and reasonable attorney's fees
+                (collectively, "Losses") that the Company may suffer, incur or
+                be subjected to by reason of any legal action, proceeding,
+                arbitration or other claim by a third party, whether commenced
+                or threatened, arising out of or as a result of operation of the
+                NBCi Sites (except in cases where the Company is required to
+                indemnify NBCi under SECTION 14.2).
+
+         14.2.  INDEMNIFICATION BY THE COMPANY. Subject to SECTION 14.3, the
+                Company shall indemnify, defend and hold each of NBCi and its
+                subsidiaries harmless from and against any Losses that NBCi or
+                its subsidiaries may suffer, incur or be subjected to by reason
+                of any legal action, proceeding, arbitration or other claim by a
+                third party, whether commenced or threatened, arising out of or
+                as a result of (i) the use of Company Content by NBCi in
+                accordance with this Agreement; (ii) the operation of the
+                Company Site; (iii) the offer or sale of Company Products by the
+                Company on or through the Company Site, or any emails sent by
+                NBCi or a third party pursuant to SECTION 6.4, or (v) the
+                authorized and legal use of the Company Database.
+
+         14.3.  INDEMNIFICATION PROCEDURES. If any party entitled to
+                indemnification under this Section (an "Indemnified Party")
+                makes an indemnification request to the other, the Indemnified
+                Party shall permit the other Party (the "Indemnifying Party") to
+                control the defense, disposition or settlement of the matter at
+                its own expense; provided that the Indemnifying Party shall not,
+                without the consent of the
+
+                                       19
+<PAGE>
+
+                Indemnified Party (which consent shall not be unreasonably
+                withheld or delayed) enter into any settlement or agree to any
+                disposition that imposes an obligation on the Indemnified Party.
+                The Indemnified Party shall notify the Indemnifying Party
+                promptly of any claim for which Indemnifying Party is
+                responsible and shall cooperate with the Indemnifying Party in
+                every commercially reasonable way to facilitate defense of any
+                such claim; provided that the Indemnified Party's failure to
+                notify Indemnifying Party shall not diminish Indemnifying
+                Party's obligations under this Section except to the extent that
+                Indemnifying Party is materially prejudiced as a result of such
+                failure. An Indemnified Party shall at all times have the option
+                to participate in any matter or litigation through counsel of
+                its own selection and at its own expense.
+
+         14.4.  SURVIVAL. This SECTION 14 shall survive termination or
+                expiration of this Agreement for five years, and for so long
+                thereafter as (but only with respect to) any claims of which an
+                Indemnifying Party has been notified remain unresolved.
+
+15.      MISCELLANEOUS.
+
+         15.1.  ASSIGNMENT. Except as provided in this SECTION 15.1, the Company
+                may not assign any of its rights under this Agreement nor
+                delegate any of its duties hereunder to another person or legal
+                entity without the prior written consent of NBCi, which consent
+                shall not be unreasonably withheld; provided, however, that if
+                the assignee of the Company is a competitor of NBCi, NBCi shall
+                have the right to withhold its consent to such assignment in its
+                sole discretion. NBCi shall have the right to assign all or any
+                portion of its rights and liabilities hereunder to any person or
+                entity, other than a competitor of the Company, who acquires
+                from NBCi a majority interest in the relevant assets subject to
+                this Agreement. Either Party shall have the right to assign all
+                of its rights and liabilities hereunder to any person or entity,
+                other than an competitor of NBCi in the case of the Company,
+                that (i) acquires all or substantially all of the Party's
+                operating assets (whether by asset sale, stock sale, merger or
+                otherwise) or (ii) results from a merger or reorganization of
+                the Party pursuant to any plan of merger or reorganization. This
+                Agreement shall inure to the benefit of and be binding upon the
+                Parties hereto, their respective trustees, successors, permitted
+                assignees, and legal representatives.
+
+         15.2.  RELATIONSHIP OF PARTIES. The Parties hereto are independent
+                contractors and nothing contained in this Agreement will be
+                construed to create a joint venture, partnership or the
+                relationship of principal and agent between any of the Parties
+                hereto, nor to impose upon either Party any obligations for any
+                losses, debts or other obligations incurred by the other Party
+                except as expressly set forth herein.
+
+         15.3.  APPLICABLE LAW; FORUM. This Agreement will be construed in
+                accordance with and governed by the laws of the State of
+                California, without regard to principles of conflicts of law.
+                The Parties hereto consent to the exclusive jurisdiction of any
+                local, state or federal court in which an action is commenced
+                and located in accordance with the terms of this Section and
+                that is located in San Francisco,
+
+                                       20
+<PAGE>
+
+                California. The Parties further agree not to disturb such choice
+                of forum, and if not resident in such state, waive the personal
+                service of any and all process upon them, and consent that such
+                service of process may be made by certified or registered mail,
+                return receipt requested, addressed to the Parties as set forth
+                herein.
+
+         15.4.  CONFIDENTIALITY. In connection with the activities contemplated
+                by this Agreement, each Party may have access to confidential or
+                proprietary technical or business information of the other
+                Party, including without limitation (i) proposals, ideas or
+                research related to possible new products or services; (ii)
+                financial statements and other financial information; (iii) any
+                reporting information in SECTION 9; and (iv) the terms of this
+                Agreement and the relationship between the Parties
+                (collectively, "Confidential Information"). Each Party will take
+                precautions to protect the confidentiality of each of the other
+                Party's Confidential Information, which precautions will be at
+                least equivalent to those taken by such Party to protect its own
+                Confidential Information, and in no event will such precautions
+                be less than are reasonable under the circumstances. Except as
+                required by law or as necessary to perform under this Agreement,
+                neither Party will knowingly disclose the Confidential
+                Information of the other Party or use such Confidential
+                Information for its own benefit or for the benefit of any third
+                party. Each Party's obligations in this Section with respect to
+                any portion of the other Party's Confidential Information shall
+                terminate when the Party seeking to avoid its obligation under
+                such Section can document that: (i) it was in the public domain
+                at or subsequent to the time it was communicated to the
+                receiving Party ("Recipient") by the disclosing Party
+                ("Discloser") through no fault of Recipient; (ii) it was
+                rightfully in Recipient's possession free of any obligation of
+                confidence at or subsequent to the time it was communicated to
+                Recipient by Discloser; (iii) it was developed by employees or
+                agents of Recipient independently of and without reference to
+                any information communicated to Recipient by Discloser; (iv) it
+                was communicated by the Discloser to an unaffiliated third party
+                free of any obligation of confidence; or (v) the communication
+                was in response to a valid order by a court or other
+                governmental body, was otherwise required by law or was
+                necessary to establish the rights of either Party under this
+                Agreement.
+
+         15.5.  PRESS RELEASE. The Company will not make any public statement or
+                other announcement (including without limitation, issuing a
+                press release or pre-briefing any member of the press or other
+                third party) relating to the terms or existence of this
+                Agreement without the prior written approval of NBCi.
+                Notwithstanding the foregoing and SECTION 15.4, the Parties may
+                issue an initial joint press release regarding the relationship
+                between the Parties. The Company agrees that NBCi will draft and
+                time the release of such initial and any subsequent press
+                releases; provided, however, that the Company shall have the
+                right to review the use of the Company Marks and any other
+                references to the Company in drafts of such press releases.
+
+         15.6.  INJUNCTIVE RELIEF. Each Party agrees that in the event of a
+                breach or alleged breach of SECTIONS 15.4 or 15.5 that the other
+                Party shall not have an adequate
+
+                                       21
+<PAGE>
+
+                remedy at law, including monetary damages, and that the other
+                Party shall consequently be entitled to seek a temporary
+                restraining order, injunction, or other form of equitable relief
+                against the continuance of such breach, in addition to any and
+                all remedies to which any other party shall be entitled.
+
+         15.7.  NATURE OF AGREEMENT. The Parties agree that this Agreement is a
+                lease agreement for Internet space and that both Parties have
+                obligations under this Agreement. The obligations are such that
+                the failure of either Party to perform their respective
+                obligations would constitute a material breach of the Agreement.
+                If the Bankruptcy Courts were to review the nature of this
+                Agreement, both Parties agree that it would be considered an
+                executory contract and/or unexpired lease under ss. 365 of the
+                Bankruptcy Code, 11 U.S.C et. seq., unless the Agreement is
+                terminated prior to the filing of a petition for bankruptcy
+                relief.
+
+         15.8.  CAPTIONS AND SECTION HEADINGS. Captions and section headings
+                used in this Agreement are for convenience only and are not a
+                part of this Agreement and shall not be used in construing it.
+                Except as otherwise specifically provided, any reference in this
+                Agreement to a section or exhibit shall be deemed to be a
+                reference to such section or exhibit of this Agreement.
+
+         15.9.  SURVIVAL. Termination or expiration of this Agreement for any
+                reason shall not release any party from any liabilities or
+                obligations set forth in this Agreement which (i) the Parties
+                have expressly agreed shall survive any such termination or
+                expiration, or (ii) remain to be performed or by their nature
+                would be intended to be applicable following any such
+                termination or expiration.
+
+         15.10. TAXES. For all fees or charges payable hereunder by the Company
+                to NBCi, the Company will pay or reimburse NBCi for 50% of any
+                taxes or fees (including all federal, state, or local taxes)
+                associated with NBCi's provision of the services hereunder to
+                Company, except that Company will have no liability for any
+                taxes based on NBCi's net assets or net income, or for which
+                Company has an appropriate resale or other exemption.
+
+         15.11. FORCE MAJEURE. If any Party shall be delayed in its performance
+                of any obligation hereunder or be prevented entirely from
+                performing any such obligation due to causes or events beyond
+                its reasonable control, including without limitation any act of
+                God, fire, strike or other labor problem, such delay or
+                non-performance shall be excused and the time for performance
+                shall be extended to include the period of such delay or
+                non-performance.
+
+         15.12. DISPUTE RESOLUTION. In the event that any dispute arises
+                hereunder, the Parties agree that prior to commencing
+                litigation, arbitration, or any other legal proceeding, each
+                Party shall send an officer of such Party to negotiate a
+                resolution of the dispute in good faith at a time and place as
+                may be mutually agreed. Each officer shall have the power to
+                bind its respective Party in all material respects related to
+                the dispute. If the Parties cannot agree on a time or place,
+                upon written notice from either Party to the other, the
+                negotiations shall be held at the principal
+
+                                       22
+<PAGE>
+
+                executive offices of NBCi 21 days following such notice (or on
+                the next succeeding Business Day, if the 21st day is not a
+                Business Day).
+
+         15.13. NOTICES. All notices given pursuant to this Agreement, shall be
+                in writing, in English, shall be sent by certified or registered
+                air mail with postage prepaid, return receipt requested, by
+                facsimile, overnight express mail, or by hand delivery. Such
+                notices shall be deemed given and received upon confirmation of
+                receipt, if sent by facsimile; the day after delivery if by
+                overnight express mail; or upon delivery if hand delivered; or
+                upon receipt of mailing, if sent by certified or registered
+                mail; and shall be addressed to the Parties as set forth above
+                on the first page of this Agreement, or to such other addresses
+                as the Parties may designate in writing from time to time or as
+                appropriate based on the course of conduct of the Parties.
+
+         15.14. COUNTERPARTS. This Agreement may be executed in one or more
+                counterparts, each of which shall be deemed a duplicate original
+                and all of which, when taken together, shall constitute one and
+                the same document.
+
+         15.15. CONSTRUCTION OF TERMS. Unless the context clearly intends to the
+                contrary, words singular or plural in number shall be deemed to
+                include the other. References herein to specific Web sites, Web
+                pages and any areas therein, as well as Web links and URLs,
+                include any successors thereto.
+
+         15.16. SEVERABILITY. In the event any provision of this Agreement shall
+                be held to be unenforceable in any jurisdiction, such provision
+                shall, as to such jurisdiction, be ineffective to the extent of
+                such unenforceability; but the remaining provisions of this
+                Agreement shall remain in full force and effect, and any such
+                unenforceability in any jurisdiction shall not invalidate or
+                render unenforceable such provision in any other jurisdiction.
+                The Parties shall use their best efforts to replace the
+                provision that is unenforceable with an enforceable provision
+                approximating to the extent possible the original intent of the
+                Parties.
+
+         15.17. ENTIRE AGREEMENT. This Agreement constitutes and contains the
+                entire agreement between the Parties with respect to the subject
+                matter hereof and supersedes any prior oral or written
+                agreements. This Agreement may not be amended except in writing
+                signed by both Parties. Each Party acknowledges and agrees that
+                the other has not made any representations, warranties or
+                agreements of any kind, except as expressly set forth herein.
+                All exhibits attached to this Agreement are incorporated hereby
+                and shall be treated as if set forth herein.
+
+                                       23
+
+<PAGE>
+
+         IN WITNESS WHEREOF, the Parties have caused this Agreement to be
+executed by their duly authorized representatives on the dates indicated below.
+
+<TABLE>
+<CAPTION>
+
+NBC INTERNET, INC.                                            HEALTHGATE DATA CORP.
+<S>                                                           <C>
+
+
+By:                                                           By:
+         --------------------------------------                        -----------------------------------
+                  (Signature)                                                   (Signature)
+Name:                                                         Name:
+         --------------------------------------                        -----------------------------------
+                 (Please print)                                               (Please print)
+Title:                                                        Title:
+         --------------------------------------                        -----------------------------------
+Date:                                                         Date:
+         --------------------------------------                        -----------------------------------
+
+</TABLE>
+
+
+
+
+
+
+
+                                       24
+
+
+</TEXT>
+</DOCUMENT>

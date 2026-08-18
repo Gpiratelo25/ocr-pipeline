@@ -1,0 +1,2037 @@
+<DOCUMENT>
+<TYPE>EX-10.(B)
+<SEQUENCE>4
+<FILENAME>a2079594zex-10_b.txt
+<DESCRIPTION>EXHIBIT 10(B)
+<TEXT>
+<Page>
+
+                                                                   EXHIBIT 10(b)
+================================================================================
+
+                                LICENSE AGREEMENT
+
+                    originally dated as of September 23, 1997
+
+                      amended and restated in its entirety
+                             as of February 22, 2002
+
+                                 by and between
+
+                          ALLIANCE PHARMACEUTICAL CORP.
+
+                                       and
+
+                           SCHERING AKTIENGESELLSCHAFT
+
+================================================================================
+
+<Page>
+
+                               TABLE OF CONTENTS
+
+<Table>
+<Caption>
+                                                                         Page
+<S>               <C>                                                      <C>
+                                    ARTICLE I
+                                   DEFINITIONS
+
+SECTION 1.01.     Definitions...............................................1
+
+                                   ARTICLE II
+                                   DEVELOPMENT
+
+SECTION 2.01.     Development...............................................8
+SECTION 2.02.     Drug Approval Applications................................9
+SECTION 2.03.     Costs of Development......................................9
+SECTION 2.04.     Right to Engage Third Parties.............................9
+SECTION 2.05.     Schering Portfolio........................................9
+
+                                   ARTICLE III
+                                    LICENSES
+
+SECTION 3.01.     Patent License to Schering................................9
+SECTION 3.02.     Patent and Trademark License to Alliance.................10
+SECTION 3.03.     Third Party Technology...................................10
+
+                                   ARTICLE IV
+                                COMMERCIALIZATION
+
+SECTION 4.01.     Marketing ...............................................11
+SECTION 4.02.     Tax Considerations.......................................11
+
+                                    ARTICLE V
+                                    ROYALTIES
+
+SECTION 5.01.     Schering Product Royalties...............................12
+SECTION 5.02.     Alliance Royalties.......................................14
+SECTION 5.03.     Royalty Reports and Payments.............................16
+SECTION 5.04.     Payments; Interest.......................................16
+SECTION 5.05.     Taxes....................................................16
+SECTION 5.06.     Payments to or Reports by Affiliates.....................16
+SECTION 5.07.     Payment Currency.........................................17
+
+                                   ARTICLE VI
+                             MANUFACTURE AND SUPPLY
+
+SECTION 6.01.     Manufacture and Supply by Alliance.......................17
+</Table>
+
+                                        i
+<Page>
+
+                             CONFIDENTIAL TREATMENT
+
+<Table>
+<S>               <C>                                                      <C>
+SECTION 6.02.     Regulatory Approval for Manufacturing....................17
+SECTION 6.03.     Step-in Right of Schering................................18
+SECTION 6.04.     Technology and Know-How Transfer.........................18
+SECTION 6.05.     Regulatory Approval......................................18
+SECTION 6.06.     DMF......................................................19
+SECTION 6.07.     Acceptance and Pricing...................................19
+SECTION 6.08.     Competitive Cost of Goods................................19
+SECTION 6.09.     Packaging................................................19
+
+                                   ARTICLE VII
+                                 CONFIDENTIALITY
+
+SECTION 7.01.     Confidentiality; Exceptions..............................20
+SECTION 7.02.     Authorized Disclosure....................................20
+SECTION 7.03.     Survival.................................................21
+SECTION 7.04.     Termination of Prior Agreement ..........................21
+SECTION 7.05.     Publications ............................................21
+SECTION 7.06.     Publicity Review.........................................21
+
+                                  ARTICLE VIII
+              OWNERSHIP OF INTELLECTUAL PROPERTY AND PATENT RIGHTS
+
+SECTION 8.01.     Ownership................................................22
+SECTION 8.02.     Patent Filings...........................................22
+SECTION 8.03.     Third Party Patent Rights................................22
+SECTION 8.04.     Enforcement Rights.......................................22
+SECTION 8.05.     Defense and Settlement of Third Party Claims.............23
+SECTION 8.06.     Patent Expenses..........................................23
+SECTION 8.07.     Trademarks...............................................23
+
+                                   ARTICLE IX
+                         REPRESENTATIONS AND WARRANTIES
+
+SECTION 9.01.     Representations and Warranties...........................23
+SECTION 9.02.     Performance by Affiliates................................24
+
+                                    ARTICLE X
+                             INFORMATION AND REPORTS
+
+SECTION 10.01.    Information and Reports During Development and
+                  Commercialization .......................................24
+SECTION 10.02.    Adverse Drug Experiences.................................25
+SECTION 10.03.    Records of Revenues and Expenses.........................25
+SECTION 10.04.    Applicability............................................26
+</Table>
+
+                                       ii
+<Page>
+
+                             CONFIDENTIAL TREATMENT
+
+<Table>
+<S>               <C>                                                      <C>
+                                   ARTICLE XI
+                              TERM AND TERMINATION
+
+SECTION 11.01.    Term.....................................................27
+SECTION 11.02.    Termination..............................................27
+SECTION 11.03.    Surviving Rights.........................................29
+
+                                   ARTICLE XII
+                                 INDEMNIFICATION
+
+SECTION 12.01.    Indemnification .........................................29
+
+                                   ARTICLE XII
+                                  MISCELLANEOUS
+
+SECTION 13.01.    Assignment...............................................30
+SECTION 13.02.    Retained Rights..........................................30
+SECTION 13.03.    Force Majeure............................................30
+SECTION 13.04.    Further Actions..........................................31
+SECTION 13.05.    No Trademark Rights......................................31
+SECTION 13.06.    Notices..................................................31
+SECTION 13.07.    Waiver...................................................32
+SECTION 13.08.    Severability.............................................32
+SECTION 13.09.    Ambiguities..............................................32
+SECTION 13.10.    Governing Law............................................32
+SECTION 13.11.    Headings.................................................32
+SECTION 13.12.    Counterparts.............................................32
+SECTION 13.13.    Entire Agreement; Amendments.............................32
+SECTION 13.14.    Expenses.................................................33
+SECTION 13.15.    Independent Contractors..................................33
+SECTION 13.16.    Use of Names.............................................33
+
+EXHIBITS
+
+EXHIBIT A         Determination of Certain Accounting Terms
+EXHIBIT B         Alliance Patents
+EXHIBIT C         Alliance HI Patents
+EXHIBIT D         Schering HI Patents
+</Table>
+
+                                       iii
+<Page>
+
+     LICENSE AGREEMENT (the "AGREEMENT") originally dated as of September 23,
+1997 (the "EFFECTIVE DATE"), and amended and restated in its entirety as of
+February 22, 2002 (the "RESTATEMENT DATE") by and between ALLIANCE
+PHARMACEUTICAL CORP., a New York corporation having its principal place of
+business at 3040 Science Park Road, San Diego, California 92121 (hereinafter
+referred to as "ALLIANCE") and SCHERING AKTIENGESELLSCHAFT, a German corporation
+having its principal place of business at 13342 Berlin, Germany (hereinafter
+referred to as "SCHERING"). Alliance and Schering are sometimes referred to
+herein individually as a "Party" and collectively as the "Parties."
+
+                              W I T N E S S E T H:
+
+     WHEREAS, Schering is a leading multinational health care company;
+
+     WHEREAS, Alliance is developing through its research and development
+activities certain technology for use in ultrasound imaging techniques, and has
+the right to grant rights and licenses and/or sublicenses under the Alliance
+Patents (hereinafter defined) and Alliance Know-How (hereinafter defined);
+
+     WHEREAS, the Parties entered into a License Agreement dated as of September
+23, 1997, as amended by First Amendment to License Agreement dated as of
+December 30, 1998, Amendment No. 2 to the License Agreement dated December
+20/21, 2000, the side letter of December 20, 2000 and the Waiver dated as of
+October 10, 2001 (collectively, the "ORIGINAL LICENSE AGREEMENT"), pursuant to
+which, among other things, Alliance granted certain rights and licenses to the
+Alliance Patents and Alliance undertook certain action to develop and market
+Products and Schering undertook certain action to develop and market Products;
+
+     WHEREAS, the Parties intend to enter into a restructured relationship under
+the terms and conditions hereinafter set forth;
+
+     WHEREAS, the Parties intend to record, characterize and report their
+activities under this Agreement as separate activities of each of the Parties;
+
+     NOW, THEREFORE, in consideration of the foregoing recitals and the mutual
+covenants and agreements contained herein, the Parties hereto, intending to be
+legally bound, do hereby agree as follows:
+
+                                    ARTICLE I
+                                   DEFINITIONS
+
+     SECTION 1.01. DEFINITIONS. The following terms, when capitalized, shall
+have the following meanings (such meanings to be equally applicable to both the
+singular and plural forms of the terms defined) as used in this Agreement:
+
+     "AFFILIATE" means any person, corporation, partnership, firm, joint venture
+or other entity which, directly or indirectly, through one or more
+intermediaries, controls, is controlled by, or is under common control with,
+Alliance or Schering, as the case may be. As used in this definition, "control"
+means the possession of the power to direct or cause the direction of the
+
+<Page>
+
+management and policies of an entity, whether through the ownership of the
+outstanding voting securities or by contract or otherwise.
+
+     "AF0150" means a white powder *
+                                        which, after reconstitution with
+appropriate diluent, forms an aqueous suspension of
+perfluorohexane/nitrogen-filled microbubbles with the formulation employed in
+Phase II Clinical Trials under the United States IND 49,978.
+
+     "ALLIANCE HI PATENT" means the Patents listed on Exhibit C.
+
+     "ALLIANCE KNOW-HOW" means Information which is within the Control of
+Alliance and relates to the research, development, manufacture, use,
+importation, sale or offer for sale of the Product. Notwithstanding anything
+herein to the contrary, Alliance Know-How shall exclude Alliance Patents.
+
+     "ALLIANCE PATENT" means a Patent which covers the research, development,
+manufacture, use, importation, sale or offer for sale of a Product, which Patent
+is owned or Controlled by Alliance, including, but not limited to:
+
+     (a)  any patent listed in Exhibit B hereto or added thereto by written
+agreement of the Parties during the term of this Agreement;
+
+     (b)  any patent application listed in exhibit B hereto or added thereto by
+written agreement of the Parties during the term of this Agreement; and any
+division, continuation, or continuation-in-part of any such application; and any
+patent which shall issue based on such application, division, continuation or
+continuation-in-part;
+
+     (c)  any patent which is a reissue, reexamination or extension of any
+patent described in (a) or (b) above;
+
+     (d)  any foreign counterpart patent application or patent corresponding to
+any patent identified in (a), (b), or (c), above which is filed or issued in any
+country in the Alliance Territory; and
+
+     (e)  any patent or patent application related to or based on any Alliance
+Know-How related to the Product or the manufacture thereof developed or acquired
+by alliance prior to or during the term of this Agreement and which is necessary
+for the use, development, manufacture, market, sale or distribution of any
+marketed Product and any division, continuation or continuation-in-part of any
+such patent or patent application; and any patent which shall issue based on
+such application, division, continuation or continuation-in-part; and any patent
+which is a reissue, reexamination or extension of any such patent.
+
+----------
+* Indicates information that has been omitted because confidential treatment has
+  been requested and filed separately with the Securities and Exchange
+  Commission.
+
+                                        2
+<Page>
+
+     "ALLIANCE TERRITORY" *
+
+
+     "ALLIANCE PAYMENTS" means all payments made by Alliance to Schering
+pursuant to Section 5.02 and all payments made by Alliance to Schering which are
+not required to be made pursuant to this Agreement or otherwise.
+
+     "AUDIT DISAGREEMENT" shall have the meaning set forth in Section 10.03(b).
+
+     "BANKRUPTCY EVENT" shall have the meaning set forth in Section 11.02(c).
+
+     "BERLEX" means Berlex Laboratories, Inc., a Delaware corporation.
+
+     "BUSINESS DAY" means a day that is not a Saturday or Sunday in the United
+States or a day on which banking institutions chartered by the State of New York
+or the United States are required or authorized to be closed.
+
+     "CAD INDICATION"*
+
+
+     "CLINICAL WORK" means any work related to human trials to assess the
+dosing, safety and/or efficacy of a Product and/or to assess a dose and
+treatment plan employing such Product, including, but not limited to, Phase III
+Clinical Trials and Phase IV Clinical Trials (in the event such Phase IV
+Clinical Trials are required by the FDA).
+
+     "COMMERCIALIZATION" and "COMMERCIALIZE" shall refer to all activities
+undertaken relating to the pre-marketing, marketing and sale of a Product.
+
+     "COMPETITIVE PRODUCT" means a perfluorocarbon-based product which has
+obtained Regulatory Approval for use as an ultrasound contrast agent and such
+use is included in the labeling of such product.
+
+     "CONFIDENTIAL INFORMATION" shall have the meaning set forth in
+Section 7.01.
+
+     "CONTROL" or "CONTROLLED" shall refer to possession of the ability to grant
+a license or sublicense of patent rights, know-how or other intangible rights as
+provided for herein without violating the terms of any agreement or other
+arrangement with any Third Party.
+
+     "COST OF GOODS " means the cost of Product inventory and other
+manufacturing costs incurred with respect to the Product sold. Cost of Goods
+shall be calculated in the manner set forth in Exhibit A.
+
+                                        3
+<Page>
+
+     "DEVELOPMENT" and "DEVELOP" shall refer to all activities relating to
+obtaining Regulatory Approval of a Product, and all activities relating to
+developing the ability to manufacture the same. This includes preclinical
+testing, toxicology, formulation, bulk production, fill/finish, manufacturing
+process development, manufacturing, quality assurance and quality control
+technical support, clinical studies, regulatory affairs and outside counsel
+regulatory legal services.
+
+     "DEVELOPMENT EXPENSES" means the expenses incurred in connection with the
+Development of a Product. Development Expenses shall include, but are not
+limited to, toxicological, pharmacokinetic, metabolic or clinical aspects of a
+Product conducted internally or by individual investigators, of design and
+manufacture of any required prototype devices, of consultants necessary for the
+purpose of obtaining and/or maintaining Regulatory Approval of a Product in the
+Alliance Territory, and costs (and related fees) for preparing, submitting,
+reviewing or developing data or information for the purpose of submission to a
+governmental authority to obtain and/or maintain Regulatory Approval of a
+Product in the Alliance Territory.
+
+     "DMF" shall have the meaning set forth in Section 6.06.
+
+     "DOLLARS" means the lawful currency of the United States of America.
+
+     "DOWNPAYMENT" means any lump sum payment to Alliance for any rights to
+market or manufacture the Product in the Alliance Territory, specifically
+excluding payments (i) for the purchase of equity as Alliance at fair market
+value or (ii) based on sales of the Product.
+
+     "DRUG APPROVAL APPLICATION" means an application for Regulatory Approval
+required to be approved before commercial sale or use of a Product as a drug in
+a regulatory jurisdiction, including, for the purposes of Regulatory Approval in
+the United States, a New Drug Application and all supplements filed pursuant to
+the requirements of the FDA (including all documents, data and other information
+concerning a Product which are necessary for, or included in, FDA approval to
+market the Product, as more fully defined in 21 C.F.R. Sections 314.1 et seq.).
+
+     "EFFECTIVE DATE" shall have the meaning set forth in the heading to this
+Agreement.
+
+     "EUR" means the lawful currency of the European Monetary Union.
+
+     "EUROPE" means the countries which are members of the European Union as
+such membership may change from time to time.
+
+     "FDA" means the United States Food and Drug Administration, or any
+successor agency.
+
+     "FIELD" means, at any date of determination, the development, use,
+manufacture, distribution, marketing and sale of the Product as an ultrasound
+contrast agent in all possible indications, in humans or animals.
+
+                                        4
+<Page>
+
+     "FIRST COMMERCIAL SALE" means the date a Party or its Affiliate or a
+sublicensee of a Party first sells commercially, pursuant to a Regulatory
+Approval, a Product in any country of the Alliance Territory or the Schering
+Territory, as the case may be, provided, however, that where such a first
+commercial sale has occurred in a country for which pricing or reimbursement
+approval is necessary for widespread sale, then such sales shall not be deemed a
+First Commercial Sale until such pricing or reimbursement approval has been
+obtained.
+
+     "FIRST PERIOD" means the period commencing on the First Commercial Sale and
+ending on the third anniversary of the First Commercial Sale.
+
+
+     "FULLY LOADED COSTS" means all internal and external costs incurred by
+Berlex in the performance of the services described in Section 6.09(a) as
+determined by United States Generally Accepted Accounting Principles, applied on
+a consistent basis, which shall include without limitation the following costs:
+carrying costs of inventories, direct and indirect labor costs, material costs,
+and direct and indirect overhead. Fully Loaded Costs of Berlex also shall
+include all set up costs necessary for Berlex to perform the functions described
+in Section 6.09(a), regardless of depreciation schedules which may have been
+established to absorb such costs over a period of time longer than the period
+during which Berlex will be performing the described services for Alliance.
+
+     "INFORMATION" means (i) techniques and data within the Field relating to
+the Product, including, but not limited to, inventions, practices, methods,
+knowledge, know-how, skill, trade secrets, experience, test data including
+pharmacological, toxicological, preclinical and clinical test data, regulatory
+submissions, adverse reactions, analytical and quality control data, marketing,
+pricing, distribution, cost, sales and manufacturing data or descriptions and
+(ii) compounds, compositions of matter, assays and biological materials within
+the Field relating to the Product.
+
+     "LOSSES" shall have the meaning set forth in Section 12.01(a).
+
+     "LV INDICATION"*
+
+
+     "MANUFACTURING PARTY" means the Party who is responsible for the (i)
+manufacturing and supply of the Product for use during Development or (ii)
+commercial manufacture and supply of the Product.
+
+
+     "MAXIMUM PAYMENT" shall have the meaning set forth in Section 5.01(a)(ii).
+
+     "MINIMUM DOWNPAYMENT SHARE"*
+
+                                        5
+<Page>
+
+     "NET SALES" means the amount invoiced by a Party, its Affiliates or its
+sublicensees from sales of the Product to Third Parties, less reasonable and
+customary deductions applicable to the Product for (i) transportation charges
+and charges such as insurance, relating thereto paid by the selling party; (ii)
+sales and excise taxes or customs duties paid by the selling party and any other
+governmental charges imposed upon the sale of the Product and paid by the
+selling party; (iii) distributors' fees, rebates or allowances actually granted,
+allowed or incurred; (iv) quantity discounts, cash discounts or chargebacks
+actually granted, allowed or incurred in the ordinary course of business in
+connection with the sale of the Product; (v) allowances or credits to customers,
+not in excess of the selling price of the Product, on account of governmental
+requirements, rejection, outdating, recalls or return of the Product; (vi) costs
+of customer programs such as cost effectiveness or patient assistance programs
+designed to aid in patient compliance to maintain medication schedules; and
+(vii) a one percent (1%) deduction for bad debts. For the purpose of calculating
+a Party's Net Sales, the Parties recognize that (a) a Party's customers may
+include persons in the chain of commerce who enter into agreements with a Party
+as to price even though title to the Product does not pass directly from a Party
+to such customers, and even though payment for such Product is not made by such
+customers directly to a Party and (b) in such cases chargebacks paid by a Party
+to or through a Third Party (such as a wholesaler) can be deducted by a Party
+from gross revenue in order to calculate a Party's Net Sales. Any deductions
+listed above which involve a payment by a Party shall be taken as a deduction
+against aggregate sales for the period in which the payment is made. Sales of
+the Product between a Party and its Affiliates or sublicensees solely for
+research or clinical testing purposes shall be excluded from the computation of
+Net Sales. Net Sales will be accounted for in accordance with international
+accounting standards consistently applied.
+
+     "NON-MANUFACTURING PARTY" shall be any Party that is not a Manufacturing
+Party.
+
+     "OPTION 1" means the option provided in Section 4.01(b).
+
+     "OPTION 1 EFFECTIVE DATE" means the date which is ninety (90) days
+following the date on which Alliance gives Schering written notice of its intent
+to exercise Option 1 in accordance with Section 4.01(b) and Section 13.06.
+
+     "OPTION 2" means the option provided in Section 4.01(c).
+
+     "OPTION 2 EFFECTIVE DATE" means the date which is ninety (90) days
+following the date on which Alliance gives Schering written notice of its intent
+to exercise Option 2 in accordance with Section 4.01(c) and Section 13.06.
+
+     "PATENT" means (i) valid United States and foreign patents,
+re-examinations, reissues, renewals, extensions, term restorations, divisionals,
+continuations and continuations-in-part thereof, and foreign counterparts
+thereof, and (ii) pending applications for United States and foreign patents and
+foreign counterparts thereof. "PATENT" also includes a Supplementary Certificate
+of Protection of a member state of the European Community and any other similar
+protective rights in any other country.
+
+                                        6
+<Page>
+
+     "PATENT EXPENSES" means the fees, expenses and disbursements and outside
+counsel fees, and payments to Third Party agents incurred in connection with the
+preparation, filing, prosecution and maintenance of Alliance Patents covering
+the Product within the Field, including Alliance's costs of patent interference
+and opposition proceedings and actions at law and equity for patent infringement
+and any sums paid to Third Parties on account of judgments or settlements
+arising out of Third Party patent claims (other than such judgments or
+settlements resulting in the payment of royalties).
+
+     "PHASE II CLINICAL TRIALS" has the meaning ascribed thereto in 21 C.F.R.
+Section 312.21(b), as amended from time to time.
+
+     "PHASE III CLINICAL TRIALS" has the meaning ascribed thereto in 21 C.F.R.
+Section 312.21(c), as amended from time to time.
+
+     "PHASE IV CLINICAL TRIALS" means product support clinical trials of a
+Product commenced after receipt of Regulatory Approval in the United States for
+such Product. These trials shall be considered a part of Clinical Work.
+
+     "PRODUCT" means AF0150 and any drug compounds, drug compositions and
+medical devices and systems related to perfluorocarbon containing ultrasound
+imaging products and developed by Alliance pursuant to this Agreement (and with
+Schering pursuant to the Original License Agreement) which, in the absence of
+this Agreement, the use, development, manufacture, marketing, sale or
+distribution of which would result in the infringement of one or more claims in
+an Alliance Patent or which utilize the Alliance Know-How. For ease of
+reference, "Product" is generally expressed in the singular in this Agreement,
+but multiple Products may be Developed or marketed hereunder.
+
+     "REGULATORY APPROVAL" means any approvals, product and/or establishment
+licenses, registrations or authorizations of any federal, state or local
+regulatory agency, department, bureau or other governmental entity, necessary
+for the manufacture, use, storage, importation, export, transport or sale of
+Product in a regulatory jurisdiction.
+
+     "RESTATEMENT DATE" shall have the meaning set forth in the heading to this
+Agreement.
+
+     "ROYALTY AVERAGE" shall have the meaning set forth in Section 5.01(a)(iv).
+
+     "ROYALTY PERCENTAGE" shall have the meaning set forth in Section 5.01.
+
+     "SCHERING TERRITORY"*
+
+                                        7
+<Page>
+
+     "SCHERING HI PATENT" means the patents listed on Exhibit D.
+
+     "SCHERING RECOUPMENT GOAL"*
+
+
+     "SECOND PERIOD" means the period commencing on the third anniversary of the
+First Commercial Sale and ending on the fourth anniversary of the First
+Commercial Sale.
+
+     "SIGNIFICANT CHANGE" means any change requiring prior approval by the FDA
+or contemporaneous submission to the FDA of a supplement pursuant to 21 C.F.R.
+Sections 314.70(b) or (c), as amended from time to time, if such change is made
+subsequent to FDA approval of the Drug Approval Application in the United
+States.
+
+     "THIRD PARTY" means any entity other than Alliance or Schering and their
+respective Affiliates and sublicensees.
+
+     "THIRD PERIOD" means the period commencing on the fourth anniversary of the
+First Commercial Sale and ending on the fifth anniversary of the First
+Commercial Sale.
+
+     "TV INDICATION"*
+
+
+     "WRITTEN DISCLOSURE" shall have the meaning set forth in Section 7.06.
+
+                                   ARTICLE II
+                                   DEVELOPMENT
+
+     SECTION 2.01. DEVELOPMENT. Alliance shall use such efforts as it deems
+reasonable to execute and substantially perform all Development work for the
+Product; provided, however,*
+
+                                        8
+<Page>
+
+     SECTION 2.02. DRUG APPROVAL APPLICATIONS.
+
+     (a)  RESPONSIBILITY. Alliance shall be responsible in the Alliance
+Territory for preparing and filing Drug Approval Applications and seeking
+Regulatory Approvals for the Product, including preparing all reports necessary
+as part of a Drug Approval Application. All such Drug Approval Applications
+shall be filed in the name of Alliance. Alliance shall be responsible for
+prosecuting such Drug Approval Applications. In the event that any regulatory
+agency threatens or initiates any action to remove a Product from the market,
+Alliance shall notify Schering of such communication within one Business Day of
+receipt by Alliance so long as Schering has, or may have, marketing rights under
+Article IV.
+
+     (b)  OWNERSHIP. Alliance shall be the legal and beneficial owner of all
+Drug Approval Applications and related approvals in the Alliance Territory. If
+Schering chooses to market a Product (as co-marketing partner or on its own),
+Schering shall have the right, but not the obligation to own the Drug Approval
+Application.
+
+     SECTION 2.03. COSTS OF DEVELOPMENT. All Development Expenses incurred by
+Alliance for a Product shall be borne by Alliance.
+
+     SECTION 2.04. RIGHT TO ENGAGE THIRD PARTIES. In the course of its business,
+Alliance regularly uses Third Parties to perform certain Development activities.
+Alliance may continue to do so during the course of this Agreement; provided,
+however, that any expenses relating to such Third Party Development will be
+incurred and borne by Alliance at its sole expense.
+
+     SECTION 2.05. SCHERING PORTFOLIO. Alliance is aware of the fact that
+Schering was, as of the Effective Date, and is, as of the Restatement Date,
+manufacturing and selling Competitive Products in certain countries of the
+Alliance Territory and will continue to do so in any country of the Alliance
+Territory suitable, in Schering's view, for such marketing. Alliance agrees that
+nothing in this Agreement is intended to prevent or prevents Schering from such
+marketing at its sole discretion.
+
+                                   ARTICLE III
+                                    LICENSES
+
+     SECTION 3.01. PATENT LICENSE TO SCHERING.
+
+     (a)  ALLIANCE PATENTS. Alliance grants to Schering an exclusive license
+(even as to Alliance) under the Alliance Patents and the Alliance Know-How to
+develop, market, sell, and distribute the Product in the Schering Territory.*
+
+
+     (b)  ALLIANCE HI PATENTS. Alliance grants to Schering a non-exclusive
+worldwide license, without a right to sublicense to any other party than
+Affiliates, under the
+
+                                        9
+<Page>
+
+Alliance HI Patents to use, develop, manufacture, have manufactured, market,
+sell and distribute product for use as an ultrasound contrast agent.
+
+     SECTION 3.02. PATENT AND TRADEMARK LICENSE TO ALLIANCE.
+
+     (a)  SCHERING HI PATENTS. Schering grants to Alliance a non-exclusive
+worldwide, royalty-free license, without a right to sublicense, under the
+Schering HI Patents to use, develop, manufacture, have manufactured, market,
+sell and distribute the Product worldwide for all indications in the Field;
+provided, however, that Schering agrees to negotiate in good faith the terms on
+which Alliance would be permitted to sublicense Schering HI Patents to contrast
+agent manufacturers promptly upon presentation by Alliance of a proposal for
+such a sublicense (for the avoidance of doubt, Schering has no obligation to
+enter into any such negotiations which regard to a proposed sublicense for the
+manufacture of ultrasound equipment).
+
+     (b)  SCHERING TRADEMARK. At Alliance's election, Schering shall grant to
+Alliance a non-exclusive royalty-free license in the Alliance Territory, without
+a right to sublicense, for the use of the trademark "Imavist" to be used in
+connection with the purposes of this Agreement, such license to terminate as of
+the first anniversary of the First Commercial Sale.
+
+     SECTION 3.03. THIRD PARTY TECHNOLOGY.
+
+     (a)  EXISTING LICENSES. The licenses granted under Section 3.01 include
+sublicenses of Third Party technology existing on the Effective Date and
+licensed to Alliance to the extent that such sublicenses can be so granted. Any
+royalties payable to Third Parties pertaining to technology discussed in the
+previous sentence shall either be paid by Alliance or be offset or deducted from
+royalty payments as provided under Section 5.01.
+
+     (b)  SUBJECT TO TERMS. The licenses granted under this Section 3.01, to the
+extent they include sublicenses of Third Party Technology, Shall be subject to
+the terms and conditions of the license agreement pursuant to which the
+sublicense is granted. as of the Effective Date and as of the Restatement Date
+hereof there are no such agreements in place.
+
+     (c)  FUTURE THIRD PARTY ROYALTIES.*
+
+                                       10
+<Page>
+
+                                   ARTICLE IV
+                                COMMERCIALIZATION
+
+     SECTION 4.01. MARKETING.
+
+     (a)  ALLIANCE TERRITORY AND SCHERING TERRITORY. Subject to Section 4.01(d),
+Alliance shall be the sole marketing Party with respect to the Product in the
+Alliance Territory. Subject to Sections 4.01(b) and 4.01(c), Schering shall be
+the sole marketing Party with respect to the Product in the Schering Territory;
+provided, however, that Schering has no obligation to Develop or Commercialize
+the Product in the Schering Territory.
+
+     (b)  OPTION 1.*
+
+
+     (c)  OPTION 2.*
+
+
+     (d)  CO-MARKETING, CO-PROMOTION.*
+
+
+     SECTION 4.02. TAX CONSIDERATIONS. Either Party may take advantage of tax
+considerations which benefit it and not the other Party. In the event that a
+Party takes advantage of a tax consideration in connection with a Product which
+benefits it and not the other Party, no compensation to the other Party shall be
+required; provided, however, that no negative tax implication for the other
+Party may be an element of such tax benefit.
+
+                                       11
+<Page>
+
+                                    ARTICLE V
+                                    ROYALTIES
+
+     SECTION 5.01. SCHERING PRODUCT ROYALTIES. In further consideration of the
+rights and licenses granted to Schering under Section 3.01(a) and Section
+3.01(b) of this Agreement, Schering shall pay to Alliance the following
+royalties based on the Net Sales of the Product in the Schering Territory (the
+"ROYALTY PERCENTAGE"):
+
+     (a)  SALES IN THE SCHERING TERRITORY. With respect to sales of the Product
+in the Schering Territory, Schering shall pay royalties in accordance with the
+following table:
+
+          (i)   Subject to Section 5.01(b), Schering shall pay to Alliance a
+  royalty on Net Sales of the Product in accordance with the following table:
+
+<Table>
+<Caption>
+                                                                    Maximum Payment              Royalty Average
+             Total Net Sales/Year      Royalty Percentage           (% of Net Sales)            (% of Net Sales)
+Category         ($ millions)           (% of Net Sales)         (Section 5.01(a)(ii))        (Section 5.01(a)(iv))
+--------         ------------           ----------------         ---------------------        ---------------------
+   <S>                 <C>                     <C>                        <C>                           <C>
+   1.                  *                       *                          *
+
+   2.                  *                       *                          *                             *
+
+   3.                  *                       *                          *                             *
+
+   4.                  *                       *                          *                             *
+
+   5.                  *                       *                          *                             *
+</Table>
+
+          (ii)  In any calendar year*
+                         shall not exceed*
+
+
+                any such amount exceeding the Maximum Payment shall be
+  reimbursed by Alliance to Schering. Any *                      made in
+  accordance with this Section 5.01(a) shall be made after the end of the
+  calendar year for which such adjustment is applicable, and any amount*
+
+                                                                   Alliance
+  ratably over the next four (4) quarters. Reasonably detailed accounting
+  records to support such adjustments shall be provided to Alliance within sixty
+  (60) days after the end of the calendar year.
+
+          (iii) Notwithstanding Section 5.01(a)(i) above, in the event Net Sales
+  of Product*
+
+     Net Sales For*
+
+                                       12
+<Page>
+
+          Net Sales *                            of such total. Schering shall
+  make such adjustments at the end of the first calendar quarter of the year and
+  shall deliver any necessary payments (with reasonably detailed records of such
+  adjustments) to Alliance within sixty (60) days after the end of the first
+  calendar quarter of such year.
+
+          (iv)  Notwithstanding Section 5.01(a)(i) above,*
+
+
+                         applicable for total Net Sales for the immediately
+  preceding calendar year. Adjustments from amounts paid as royalties pursuant
+  to this section to amounts actually earned as royalties shall be made to
+  fourth quarter payments to Alliance (with reasonably detailed records of such
+  adjustments provided therewith).
+
+     (b)  MINIMUM PAYMENTS. Notwithstanding anything to the contrary in
+Section 5.01*
+
+
+    on a country-by-country basis,*
+
+
+                                  If this Section 5.01(b) becomes applicable, *
+
+                                                                           The
+minimum payments referred to in this Section 5.01(b)*
+
+
+     (c)  THIRD PARTY ROYALTIES. In the event that after the First Commercial
+Sale in the Schering Territory, Alliance pays any royalties to Third Parties*
+
+
+     (d)  ROYALTY REDUCTION. If the Product is sold in any country in which
+Alliance does not have valid patent coverage for the Product which would prevent
+the sale of a generic form of the Product, the royalty obligation set forth in
+Section 5.01 above with respect to Net Sales attributable to the sale of the
+product in such country shall be reduced *
+                                                Net Sales attributable to the
+
+                                       13
+<Page>
+
+sale of the Product in such country unless and until Alliance is granted such
+valid patent coverage for the Product in such country; provided that *
+
+     (e)  ROYALTY TERM. Except where expressly provided otherwise in this
+Agreement, all royalties to a Alliance shall be paid, on a country-by-country
+basis, from the date of the First Commercial Sale of a Product in a country in
+the Schering Territory until the later of (i) ten (10) years from the First
+Commercial Sale in such country or (ii) the last to expire of any valid Alliance
+Patents which covers the use or sale of the Product in such country.
+
+     (f)  DISCONTINUANCE. Subject to the provisions of Article XI, Schering may
+discontinue Commercialization of a Product at any time.
+
+     (g)  LICENSE FOLLOWING EXPIRATION. Upon expiration of the royalty term for
+a Product in the country as described above, Schering shall thereafter have an
+exclusive (even as to Alliance), paid-up license to Alliance Know-How to sell,
+offer for sale, have sold and import that Product in that country. In such
+event, Schering shall retain responsibility for, and indemnify Alliance from,
+the payment of all applicable royalties and other obligations owed to a Third
+Party with respect to the Product.
+
+     (h)  APPLICABILITY. This Section 5.01 shall be applicable to (i) sales of
+the Product for the TV Indication until such time as Alliance becomes the sole
+marketing Party with respect to the Product for the TV indication in all the
+countries of the world pursuant to Section 4.01(b) and (ii) sales of the Product
+in all the countries of the world except the United States of America for the
+CAD Indication until such time as Alliance becomes the Sole marketing Party with
+respect to the Product in all of the countries of the world for all indications,
+excluding however the TV Indication, pursuant to Section 4.01(c).
+
+     SECTION 5.02. ALLIANCE ROYALTIES. In consideration of funds invested by
+Schering in the Development of the Product under the Original License Agreement,
+Alliance shall make the following payments to Schering.
+
+     (a)  DOWNPAYMENT. Alliance shall pay to Schering a payment equal to *
+          of any Downpayment received by Alliance during the period *
+                                                     PROVIDED HOWEVER, that any
+payment pursuant to this Section 5.02(a) shall at least equal the Minimum
+Downpayment Share.
+
+     (B)  ROYALTY WITH MINIMUM DOWNPAYMENT SHARE. In the event that Schering
+receives the Minimum Downpayment Share pursuant to Section 5.02(a), Alliance
+shall pay to Schering a royalty payment equal to, on a country-by-country basis,
+the following: *
+
+          (i)   *                  of Net Sales of Product in the Alliance
+  Territory in the event that Alliance does not exercise either Option 1 or
+  Option 2;
+
+          (ii)  *                               of Net Sales of Product in the
+  event that Alliance exercises Option 2 but not Option 1;
+
+                                       14
+<Page>
+
+          (iii) *                               of Net Sales of Product in the
+  event that Alliance exercises Option 1 but not Option 2; and
+
+          (iv)  *                           of Net Sales of Product in the event
+  that Alliance exercises both Option 1 and Option 2.
+
+     (c)  ROYALTY WITHOUT MINIMUM DOWNPAYMENT SHARE. In the event that Schering
+does not receive the Minimum Downpayment Share pursuant to Section 5.02(a),
+Alliance shall pay to Schering a royalty payment equal to, on a
+country-by-country basis, the following:
+
+          (i)   *                           of Net Sales of Product in the
+  Alliance Territory in the event that Alliance does not exercise either
+  Option 1 or Option 2;
+
+          (ii)  *                             of Net Sales of Product in the
+  event that Alliance exercises Option 2 but not Option 1;
+
+          (iii) *                                 of Net Sales of Product in the
+  event that Alliance exercises Option 1 but not Option 2; and
+
+          (iv)  *                        of Net Sales of Product in the event
+  that Alliance exercises both Option 1 and Option 2.
+
+     (d)  ROYALTY REDUCTION.  Any royalty payments payable pursuant to Section
+5.02 shall be reduced, on a country-by-country basis, as set forth below:
+
+          (i)   *
+
+
+          (ii)  *
+
+
+          (iii) *
+
+
+          (iv)  *
+
+
+     (e)  ROYALTY TERM. Except where expressly provided otherwise in this
+Agreement, all royalties to Schering shall be paid, on a country-by-country
+basis, from the First
+
+                                       15
+<Page>
+
+Commercial Sale of a Product in a country in the Alliance Territory until the
+fifth anniversary of such First Commercial Sale in such country.
+
+     (f)  DISCONTINUANCE. Subject to the provisions of Article XI, Alliance may
+discontinue Commercialization of a Product at any time.
+
+     SECTION 5.03. ROYALTY REPORTS AND PAYMENTS. Each Party shall make royalty
+payments to the other Party within sixty (60) days after the end of each
+calendar quarter in which Net Sales by the Party making such royalty payment
+occurred. A report summarizing the Net Sales of the Products by each Party
+during the relevant quarter on a country-by-country basis shall be delivered to
+the other Party within sixty (60) days following the end of each calendar
+quarter for which royalties are due.
+
+     SECTION 5.04. PAYMENTS; INTEREST.
+
+     (a)  BUSINESS DAY. Any payments due under this Agreement shall be due on
+such date as specified in this Agreement and, in the event such date is a day on
+which commercial banks are not authorized to conduct business in either San
+Diego, California or Berlin, Germany, then the next succeeding business day, and
+shall be made by wire transfer to a designated bank account of the receiving
+Party.
+
+     (b)  INTEREST. Any failure by a Party to make a payment within five days
+after the date when due shall obligate such Party to pay interest during the
+period commencing on the due date and ending on the payment date to the
+receiving Party at a rate per annum equal to*
+
+          and, in the event such a rate is not quoted on such date then on the
+immediately preceding date such rate is quoted. The interest rate shall be
+adjusted whenever there is a change*
+          Interest shall be compounded annually in arrears. Such interest shall
+be due and payable upon the payment of the underlying principal otherwise due
+and payable.
+
+     SECTION 5.05. TAXES. The Party receiving royalties shall pay any and all
+taxes levied on account of royalties it receives under this Agreement. If laws
+or regulations require that taxes be withheld, the selling Party will (i) deduct
+those taxes from the remittable royalty, (ii) timely pay the taxes to the proper
+taxing authority, and (iii) send proof of payment to the other Party within
+thirty (30) days of receipt of confirmation of payment from the relevant taxing
+authority. The selling Party agrees to take all lawful and reasonable efforts to
+minimize such taxes to the other Party.
+
+     SECTION 5.06. PAYMENTS TO OR REPORTS BY AFFILIATES. Any payment required
+under any provision of this Agreement to be made to either Party or any report
+required to be made by any Party shall be made to or by an Affiliate of that
+Party if designated by that Party as the appropriate recipient or reporting
+entity without relieving such party from responsibility for such payment or
+report.
+
+                                       16
+<Page>
+
+     SECTION 5.07. PAYMENT CURRENCY. Payments by under this Agreement shall be
+paid in Dollars by wire transfer of immediately available funds to an account at
+a commercial bank designated by Alliance or Schering pursuant to this Article V
+at least ten (10) business days before payment is due. Where payments are based
+on Net Sales in countries other than the United States, the amount of such Net
+Sales expressed in the currency of each country shall be converted into Dollars
+by Schering or Alliance, respectively, as set forth below:
+
+          (i)   SCHERING: The calculation of royalty payments within Schering is
+  based upon EUR. Therefore, where payments are based on Net Sales in countries
+  other than the member states of the European Monetary Union, the amount of
+  such Net Sales expressed in the currency of each country shall be converted
+  into EUR at the Euro Foreign Exchange Reference Rates published by the
+  European Central Bank in Frankfurt / Main, Germany on the last Business Day of
+  the applicable calendar quarter. The resulting EUR amount will be converted
+  into Dollars again at the Euro Foreign Exchange Reference Rates published by
+  the European Central Bank in Frankfurt / Main, Germany on the last Business
+  Day of the applicable calendar quarter. These Euro Foreign Exchange Reference
+  Rates are, as of the effective date, published on REUTERS screen < ECB37 >. If
+  no Euro Foreign Exchange Reference Rate is determined for the relevant
+  currency the parties shall agree upon another reference rate.
+
+          (ii)  ALLIANCE: The calculation of royalty payments within Alliance is
+  based upon Dollars. Therefore, where payments are based on Net Sales in
+  countries other than the United States, the amount of such Net Sales expressed
+  in the currency of each country shall be converted into Dollars at the 12 p.m.
+  Buying Rates published by the Federal Reserve Bank of New York on REUTERS
+  screen < FEDSPOT > on the last business Day of the applicable calendar
+  quarter. if no 12 p.m. Buying Rate is determined for the relevant currency the
+  parties shall agree upon another reference rate.
+
+                                   ARTICLE VI
+                             MANUFACTURE AND SUPPLY
+
+     SECTION 6.01. MANUFACTURE AND SUPPLY BY ALLIANCE. Alliance shall use
+commercially reasonable efforts, subject to the greater of the capacity of
+Alliance's San Diego manufacturing facility as of the date hereof or the date of
+filing of the Drug Approval Application for the United States, to manufacture,
+or arrange for manufacture of Schering's, or its Affiliates' requirements of at
+least *          of the Product per calendar year ("the Minimum Capacity") for
+supply to Schering for the Commercialization of the Product in each applicable
+country in the Schering Territory and/or the Commercialization of the Product in
+the Alliance Territory after Schering has exercised its option according to
+Section 4.01(d). Schering hereby agrees to purchase all of its requirements of
+the Product from Alliance.
+
+     SECTION 6.02. MANUFACTURING AND SUPPLY AGREEMENT. As soon as it is clear
+that Schering will Commercialize the Product, the Parties will negotiate and
+execute in good faith a manufacturing and supply agreement which shall at least
+contain, but shall not be limited
+
+                                       17
+<Page>
+
+to, terms on the following topics: orders and forecasts, quality testing and
+quality control, GMP and regulatory compliance, change management, record
+keeping, audits and inspection rights, delivery/acceptance/rejections of
+products, shipment, failure of delivery, product complaints and recalls,
+technology transfer in case of failure to supply, pharmaceutical
+responsibilities, joint manufacturing committee, term and termination, and a
+detailed quality assurance agreement as appendix.
+
+     SECTION 6.03. STEP-IN RIGHT OF SCHERING. Notwithstanding Section 6.01
+Schering shall have the right, but not the obligation, to become the
+manufacturer for its own requirements of the Product
+
+     (a)  if Alliance is not capable of manufacturing, or arranging for
+manufacture all of Schering's, or its Affiliates' requirements up to the Minimum
+Capacity, Alliance shall notify Schering sufficiently in advance, but at least
+six (6) months prior to the then required transfer of the manufacturing process;
+
+     (b)  upon two (2) years advanced written notice to Alliance in accordance
+with Section 13.06 that Schering intends to become a manufacturing party for
+Schering's, or its Affiliates' requirements of the Product.
+
+     SECTION 6.04. TECHNOLOGY AND KNOW-HOW TRANSFER.
+
+     (a)  In the event Schering becomes a manufacturer of the Product pursuant
+to Section 6.03 or Section 6.08, Alliance will transfer to Schering all relevant
+and necessary technology and know-how related to the manufacturing process,
+including but not limited to manufacturing descriptions, master batch records,
+executed batch records, release specifications and release testing methods (for
+active pharmaceutical ingredients, other raw materials, packaging material and
+finished products), in process testing methods, in process specifications,
+annual product reviews, validation reports, techniques and formulae, equipment
+descriptions in order to enable Schering to manufacture the Product for its, or
+its Affiliates' requirements of Product.
+
+     (b)  Such transfer shall be done in close coordination with Schering as
+promptly as possible after receipt of Schering's notice that Schering wants to
+become a manufacturing party for the Product.
+
+     (c)  Alliance will allow and enable Schering to contact the relevant
+personnel at Alliance to facilitate the transfer.
+
+     (d)  Alliance will, at Schering's cost, give the necessary support and
+advice to Schering during the transfer and with regard to registration and
+regulatory issues linked to such transfer of Product production to a new
+production site.
+
+     SECTION 6.05. REGULATORY APPROVAL FOR MANUFACTURING. Alliance shall use
+commercially reasonable efforts to make necessary filings to obtain, or to cause
+a Third Party manufacturer to make necessary filings to obtain, Regulatory
+Approval for the manufacture of
+
+                                       18
+<Page>
+
+the Product as part of the approval of a Drug Approval Application for each
+Product. Alliance shall notify Schering without delay of all changes to the
+process for the manufacture of the Product or its drug substance, whether such
+changes are Significant Changes or not.
+
+     SECTION 6.06. DMF. Alliance shall be responsible for all testing and
+document generation (including without limitation all facilities information and
+related documentation; chemistry, manufacturing, and control information;
+regulatory methods and controls; assays and reference standards) necessary for
+filing a drug master file ("DMF") with the FDA for the production of the drug
+substance from which each Product is formulated. Alliance shall also be
+responsible for filing such DMF with the FDA for the production of the drug
+substance from which each Product is formulated.
+
+     SECTION 6.07. ACCEPTANCE AND PRICING. With respect to Product that Alliance
+supplies to Schering for sale,*
+                             Schering shall have the right to test Products
+upon delivery at its expense for compliance with specifications and legal and
+regulatory requirements*
+
+
+     (i)  *
+
+
+     (ii) *
+
+
+     SECTION 6.08. COMPETITIVE COST OF GOODS. If Schering is able to manufacture
+or to have manufactured the Product for its or its Affiliates' requirements at*
+
+
+     SECTION 6.09. PACKAGING
+
+     (a)  BERLEX. Schering shall cause Berlex to perform or have performed those
+services relating to the packaging of the Product for the United States market
+until such time as Alliance or a designee of Alliance obtains Regulatory
+Approval to perform such services, but not to exceed one (1) year. Alliance
+shall use diligent efforts to obtain such Regulatory Approval as promptly as
+possible. As compensation for such services by Berlex, or under Berlex's
+direction,*
+In the event that Berlex performs the services described above for Alliance for
+more than one (1) year, then for such additional period,*
+
+                                       19
+<Page>
+
+     (b)  SCHERING PACKAGING. Products manufactured by Alliance shall be
+supplied to Schering in packaged form as Schering reasonably directs after
+consultation with Alliance. Packaging and labeling costs incurred by Alliance
+and/or Schering shall be included in Costs of Goods Sold.
+
+                                   ARTICLE VII
+                                 CONFIDENTIALITY
+
+     SECTION 7.01. CONFIDENTIALITY; EXCEPTIONS. Except to the extent expressly
+authorized by this Agreement or otherwise agreed in writing, the Parties agree
+that the receiving Party shall keep confidential and shall not publish or
+otherwise disclose or use for any purpose other than as provided for in this
+Agreement any Information and other information and materials furnished to it by
+the other Party pursuant to this Agreement or any Information developed during
+the course of the collaboration hereunder, or any provisions of this Agreement
+that are the subject of an effective order of the United States Securities
+Exchange Commission granting confidential treatment pursuant to the United
+States Securities Act of 1934, as amended (collectively, "CONFIDENTIAL
+INFORMATION"), except to the extent that it can be established by the receiving
+Party that such Confidential Information:
+
+     (a)  was already known to the receiving Party, other than under an
+obligation of confidentiality, at the time of disclosure by the other Party;
+
+     (b)  was generally available to the public or otherwise part of the public
+domain at the time of its disclosure to the receiving Party;
+
+     (c)  became generally available to the public or otherwise part of the
+public domain after its disclosure and other than through any act or omission of
+the receiving Party in breach of this Agreement;
+
+     (d)  was disclosed to the receiving Party, other than under an obligation
+of confidentiality, by a Third Party who had no obligation to the disclosing
+Party not to disclose such information to others; or
+
+     (e)  was independently discovered and/or developed by the receiving Party
+as documented in its corporate records.
+
+     SECTION 7.02. AUTHORIZED DISCLOSURE. Each Party may disclose Confidential
+Information hereunder to the extent such disclosure is reasonably necessary in
+filing or prosecuting patent applications, prosecuting or defending litigation,
+filing or updating any Drug Approval Application, complying with applicable
+governmental regulations or conducting pre-clinical or clinical trials,
+provided that if a Party is required by law or regulation to make any such
+disclosures of the other Party's Confidential Information it will, except where
+impracticable for necessary disclosures, for example in the event of medical
+emergency, give reasonable advance notice to the other Party of such disclosure
+requirement and, except to the extent inappropriate in the case of patent
+applications, will use its reasonable efforts to secure confidential treatment
+of such Confidential Information required to be disclosed. In addition,
+
+                                       20
+<Page>
+
+and with prior notice to the other Party of each Third Party with whom a
+confidential disclosure agreement is being entered into, each Party shall be
+entitled to disclose, under a binder of confidentiality, Confidential
+Information to any Third Party for the purpose of carrying out the purposes of
+this Agreement. Nothing in this Article VII shall restrict any Party from using
+for any purpose any Confidential Information independently developed by it
+during the course of the collaboration hereunder, or from using Confidential
+Information that is specifically derived from pre-clinical or clinical trials to
+carry out Regulatory Approval, marketing, sales or professional services support
+functions as is customary in the pharmaceutical industry.
+
+     SECTION 7.03. SURVIVAL. This Article VII shall survive the termination or
+expiration of this Agreement.
+
+     SECTION 7.04. TERMINATION OF PRIOR AGREEMENT. This Agreement supersedes
+the Secrecy Agreement between Alliance and Schering dated as of January 14,
+1997. All Information exchanged between the Parties under that Agreement shall
+be deemed Confidential Information and shall be subject to the terms of this
+Article VII.
+
+     SECTION 7.05. PUBLICATIONS. Prior to the launch of a Product, Alliance will
+determine the overall strategy for publication in support of such Product.
+Notwithstanding any term of Section 7.06 below, the Parties recognize the need
+for scientific publications pertaining to development of the Product and the
+Parties will cooperate to provide for such publications; provided, however, that
+the right of any Party to withhold or delay consent to publish or delay
+publication shall be subject to any contractual publication rights of Third
+Parties involved in research or clinical trials for the Product. The Parties
+will use reasonable efforts to obtain the voluntary consent of any Third Party
+granted publication rights related to the Product prior to the Effective Date to
+comply with reasonable notice and timing requests and will promptly review any
+publications delivered for review.
+
+     SECTION 7.06. PUBLICITY REVIEW. Subject to the further provisions of this
+Section 7.06 and Section 10.04, no Party shall originate any written publicity,
+news release, or other announcement or statement relating to this Agreement or
+to performance hereunder or the existence of an arrangement between the Parties
+(collectively, "WRITTEN DISCLOSURE"), without the prior prompt review and
+written approval of the other, which approval shall not be unreasonably withheld
+or delayed. Notwithstanding the foregoing provisions of this Section 7.06, any
+Party may make any public Written Disclosure it believes in good faith based
+upon the advice of counsel is required by applicable law or any listing or
+trading agreement concerning its publicly traded securities, provided that prior
+to making such Written Disclosure, the disclosing Party shall provide the other
+Party with a copy of the materials proposed to be disclosed and provide the
+receiving Party with an opportunity to promptly review the proposed Written
+Disclosure. To the extent that the receiving Party reasonably requests that any
+information in the materials proposed to be disclosed be deleted, the disclosing
+Party shall request confidential treatment of such information pursuant to Rule
+406 of the United States Securities Act of 1933 or Rule 26b-2 of the United
+States Securities Exchange Act of 1934, as applicable (or any other applicable
+regulation relating to the confidential treatment of information), so that there
+be omitted from the materials that are publicly filed any information that the
+receiving Party reasonably requests to
+
+                                       21
+<Page>
+
+be deleted. The terms of this Agreement may also be disclosed to (i) government
+agencies where required by law, or (ii) Third Parties with the prior written
+consent of the other Party, which consent shall not be unreasonably withheld or
+delayed, so long as such disclosure is made under a binder of confidentiality
+and so long as highly sensitive terms and conditions such as financial terms are
+extracted from the Agreement or not disclosed upon the request of the other
+Party. All Written Disclosures shall be factual and as brief as is reasonable
+under the circumstances. Upon request by either Party, the Parties agree to
+prepare a mutually agreed press release and question and answer document with
+respect to this Agreement. Each Party agrees that it will use reasonable efforts
+to cause all Written Disclosures and oral statements relating hereto to be
+consistent with the answers specified in such question and answer document.
+
+                                  ARTICLE VIII
+              OWNERSHIP OF INTELLECTUAL PROPERTY AND PATENT RIGHTS
+
+     SECTION 8.01. OWNERSHIP. Each Party shall solely own, and it alone shall
+have the right to apply for, Patents within and outside of the United States for
+any inventions made solely by that Party's employees or consultants in the
+course of performing work under this Agreement.
+
+     SECTION 8.02. PATENT FILINGS. Each Party, at its sole discretion and
+responsibility, shall prepare, file, prosecute and maintain Patents to cover
+discoveries and inventions made solely by its own employees or consultants.
+
+     SECTION 8.03. THIRD PARTY PATENT RIGHTS. Each Party agrees to bring to
+the attention of the other Party any Third Party Patent it discovers, or has
+discovered, and which relates to the subject matter of this Agreement.
+
+     SECTION 8.04. ENFORCEMENT RIGHTS.
+
+     (a)  NOTIFICATION OF INFRINGEMENT. If either Party learns of any
+infringement or threatened infringement by a Third Party of the Alliance
+Patents, such Party shall promptly notify the other Party and shall provide such
+other Party with all available evidence of such infringement.
+
+     (b)  ENFORCEMENT IN THE TERRITORY. Alliance shall have the right, but not
+the obligation, to institute, prosecute and control at its own expense any
+action or proceeding with respect to infringement of any Alliance Patents
+covering the manufacture, use, importation, sale or offer for sale of the
+product being developed or marketed by counsel of its own choice. Where possible
+with regard to manpower and time, Schering upon Alliance's request and at
+Alliance's costs, shall give documentary support and reasonable assistance in
+such proceedings. Any damages or other monetary awards recovered pursuant to
+this Section 8.04(b) shall be for the account of Alliance. If Alliance fails or
+does not want to bring an action or proceeding or otherwise take appropriate
+action to abate such infringement within a period of one hundred eighty (180)
+days of notice by Schering to Alliance requesting such action, Schering shall
+have the right, but not the obligation, to institute, prosecute and control at
+its own expense any such
+
+                                       22
+<Page>
+
+action or proceeding with respect to infringement of any Alliance patents.*
+
+
+     (c)  SETTLEMENT WITH A THIRD PARTY. Alliance shall also have the right to
+control settlement of such action; provided, however, that no settlement shall
+be entered into without the written consent of the Schering (which consent shall
+not be unreasonably withheld) if such settlement would materially and adversely
+affect the interests of Schering.
+
+     SECTION 8.05. DEFENSE AND SETTLEMENT OF THIRD PARTY CLAIMS. If a Third
+Party asserts that a patent, trademark or other intangible right owned by it is
+infringed by any Product, Alliance will be solely responsible for defending
+against any such assertions at its cost and expense (subject to the provisions
+of Section 8.04(b)). Any determination regarding the necessity to license or
+otherwise obtain rights under or invalidate certain Third Party Patents covering
+the Product shall be made by Alliance; provided, however, that no settlement may
+be entered into without the written consent of Schering (which shall not be
+unreasonably withheld) if such settlement would materially and adversely affect
+the interests of Schering.*
+
+
+     SECTION 8.06. PATENT EXPENSES. All worldwide Patent Expenses shall be
+borne by Alliance, subject to the terms of this Agreement.
+
+     SECTION 8.07. TRADEMARKS.
+
+     (a)  SCHERING. Schering shall be responsible for the selection,
+registration and maintenance of all trademarks which it employs in connection
+with the Product and shall own and control such trademarks (and pay any costs in
+connection therewith). Alliance recognizes the exclusive ownership by Schering
+of any proprietary Schering name, logotype or trademark furnished by Schering
+(including Schering's Affiliates) for use in connection with the Product.
+Alliance shall not, either while this Agreement is in effect, or at any time
+thereafter, register, use or attempt to obtain any right in or to any such name,
+logotype or trademark or in and to any name, logotype or trademark confusingly
+similar thereto.
+
+     (b)  ALLIANCE.  Schering hereby reconveys to Alliance all rights to the
+trademark for "Imagent" granted pursuant to the Original License Agreement.
+
+                                   ARTICLE IX
+                         REPRESENTATIONS AND WARRANTIES
+
+     SECTION 9.01. REPRESENTATIONS AND WARRANTIES.
+
+     (a)  Each of the Parties hereby represents and warrants to the other Party
+as follows:
+
+                                       23
+<Page>
+
+          (i)   This Agreement is a legal and valid obligation binding upon such
+  Party and enforceable in accordance with its terms. The execution, delivery
+  and performance of the Agreement by such Party does not conflict with any
+  agreement, instrument or understanding, oral or written, to which it is a
+  party or by which it is bound, nor violate any law or regulation of any court,
+  governmental body or administrative or other agency having jurisdiction over
+  it.
+
+          (ii)  Alliance has not, and during the term of the Agreement neither
+  Party will, (x) grant any right to any Third Party relating to the Alliance
+  Patents and to Alliance Know-How in the Field which would conflict with the
+  rights granted to either Party hereunder, and (y) to the best of its knowledge
+  neither party is employing (as an employee or consultant), nor will either
+  Party employ during the term of this Agreement, any person that has been
+  debarred by the FDA.
+
+          (iii) To the best of its knowledge Alliance is not obligated under any
+  agreement as of the Effective Date and the Restatement Date to pay any Third
+  Party royalties with respect to the Product. As of the Effective Date and the
+  Restatement Date there are no such agreements in place.
+
+     (b)  Alliance hereby represents and warrants to Schering as follows:
+
+          (i)   It has given Schering access to all its pre-clinical and
+  clinical records regarding the Product in existence as of the Effective Date
+  and the Restatement Date.
+
+          (ii)  As of the Effective Date and the Restatement Date, except as it
+  may have previously disclosed to Schering in writing or otherwise, it has not
+  received any notices of infringement or any written communications relating in
+  any way to a possible infringement with respect to any Alliance Patent.
+
+     SECTION 9.02. PERFORMANCE BY AFFILIATES. The Parties recognize that each
+Party may perform some or all of its obligations under this Agreement through
+Affiliates; provided, however, that each Party shall remain responsible for and
+be a guarantor of the performance by its Affiliates and shall cause its
+Affiliates to comply with the provisions of this Agreement in connection with
+such performance.
+
+                                    ARTICLE X
+                             INFORMATION AND REPORTS
+
+     SECTION 10.01. INFORMATION AND REPORTS DURING DEVELOPMENT AND
+COMMERCIALIZATION. Schering and Alliance will disclose and make available
+(subject to any confidentiality agreements or requirements of law) to each other
+without charge all preclinical, clinical, regulatory, pricing, sales and other
+Information, including copies of all preclinical and clinical reports, known by
+Schering or Alliance directly concerning the Product within the Field at any
+time during the term of this Agreement. Each Party shall own and maintain its
+own database of clinical trial data accumulated from all clinical trials of the
+Product for which it was
+
+                                       24
+<Page>
+
+responsible and of adverse drug event information for the Product. At the option
+of the requesting Party, such data shall be provided in a computer readable
+format by the providing Party, to the extent available, which shall also assist
+in the transfer and validation of such data to the receiving Party. Without
+limitation of the foregoing, each Party shall supply to the other the
+Information required by the other Party and requested by it (either as a routine
+practice or as a specific request) for purposes of compliance with regulatory
+requirements.
+
+     SECTION 10.02. ADVERSE DRUG EXPERIENCES.
+
+     (a)  Alliance agrees to provide to Schering for initial and/or periodic
+submission to government agencies significant information on the Product from
+preclinical laboratory, animal toxicology and pharmacology studies, as well as
+adverse drug experience reports from clinical trials and commercial experiences
+with the Product;
+
+     (b)  Each party agrees to, in connection with investigational Products,
+report to the other party as soon as possible (and, in any event, within three
+(3) days) the receipt of a report of any unexpected or serious experience, if
+required for the other Party to comply with regulatory requirements;
+
+     (c)  Each Party agrees to, in connection with marketed Products, report to
+the other Party within three (3) business days of the receipt of a report of any
+adverse experience that is serious and unexpected or sooner if required for the
+other Party to comply with regulatory requirements. Serious adverse experience
+means any experience that suggests a significant hazard, contraindication, side
+effect or precaution, or any experience that is fatal or life threatening, is
+permanently disabling, requires or prolongs inpatient hospitalization, or is a
+congenital anomaly, cancer, or overdose. An unexpected adverse experience is one
+not identified in nature, specificity, severity or frequency in the current
+investigator brochure or the U.S. labeling for the drug; and
+
+     (d)  If requested by Schering, Alliance agrees to enter into a standard
+operating procedure by and between the Parties to govern the exchange of
+information relating to adverse drug experiences and product quality.
+
+     SECTION 10.03. RECORDS OF REVENUES AND EXPENSES.
+
+     (a)  Each Party will maintain complete and accurate records which are
+relevant to revenues, costs, expenses and payments on a country-by-country basis
+under this Agreement and such records shall be open during reasonable business
+hours for a period of two (2) years from creation of individual records for
+examination at the other Party's expense and not more often than once each year
+by a certified public accountant selected by the other Party, or the other
+Party's internal accountants unless the first Party objects to the use of such
+internal accountants, for the sole purpose of verifying for the inspecting Party
+the correctness of calculations and classifications of such revenues, costs,
+expenses or payments made under this Agreement. Each party shall bear its own
+costs related to such audit; provided, however, that, for any underpayments by a
+Party greater than five percent (5%), such Party shall pay the other Party the
+amount of underpayment, interest as provided for in Section 5.04(b) from the
+time the
+
+                                       25
+<Page>
+
+amount was due and the other Party's out-of-pocket expenses. For any
+underpayments less than five percent (5%) by a Party found under this Section,
+such Party shall pay the other Party the amount of underpayment. Any
+overpayments by a Party will be refunded to such Party or credited to future
+royalties, at such Party's election. Any records or accounting information
+received from the other Party shall be Confidential Information for purposes of
+Article VII. Results of any such audit shall be provided to both Parties,
+subject to Article VII.
+
+     (b)  If there is a dispute between the Parties following any audit
+performed pursuant to Section 10.03(a), either party may refer the issue (an
+"AUDIT DISAGREEMENT") to an independent certified public accountant for
+resolution. In the event an Audit Disagreement is submitted for resolution by
+either Party, the Parties shall comply with the following procedures:
+
+          (i)   The Party submitting the Audit Disagreement for resolution shall
+  provide written notice to the other Party that it is invoking the procedures
+  of this Section 10.03(b).
+
+          (ii)  Within thirty (30) business days of the giving of such notice,
+  the Parties shall jointly select a recognized international accounting firm to
+  act as an independent expert to resolve such Audit Disagreement.
+
+          (iii) The Audit Disagreement submitted for resolution shall be
+  described by the Parties to the independent expert, which description may be
+  in written or oral form, within ten (10) business days of the selection of
+  such independent expert.
+
+          (iv)  The independent expert shall render a decision on the matter as
+  soon as practicable.
+
+          (v)   The decision of the independent expert shall be final and
+  binding unless such Audit Disagreement involves alleged fraud, breach of this
+  Agreement or construction or interpretation of any of the terms and conditions
+  hereof.
+
+          (vi)  All fees and expenses of the independent expert, including any
+  third party support staff or other costs incurred with respect to carrying out
+  the procedures specified at the direction of the independent expert in
+  connection with such Audit Disagreement, shall be borne by the Party that did
+  not submit the Audit Disagreement in the event that a discrepancy of more than
+  two percent (2%) results from such decision, and by each Party in inverse
+  proportion to the disputed amounts awarded to the Party by the independent
+  expert through such decision (e.g. Alliance disputes $100, the independent
+  expert awards Alliance $50, then each party pays one-half (1/2) of the
+  independent expert's costs) in all other cases.
+
+     SECTION 10.04. APPLICABILITY. This Article X shall be applicable following
+the Restatement Date (without prejudice to any rights accruing prior to the
+Restatement Date) only if Schering undertakes Development or Commercialization
+activities with regard to a Product following the Restatement Date or exercises
+its option under Section 4.01(d).
+
+                                       26
+<Page>
+
+                                   ARTICLE XI
+                              TERM AND TERMINATION
+
+     SECTION 11.01. TERM. This Agreement shall commence as of the Effective Date
+and, unless sooner terminated as provided herein shall continue in effect until
+no royalties or other payments are payable hereunder to either Alliance or
+Schering.
+
+     SECTION 11.02. TERMINATION.
+
+     (a)  Notwithstanding any other provision herein, Schering may, prior to
+Regulatory Approval of a Product, terminate this Agreement on a country by
+country basis or in its entirety upon one (1) month written notice to Alliance.
+After receipt of Regulatory Approval of a Product and prior to the First
+Commercial Sale of said Product in the applicable country, Schering may
+terminate this Agreement on a country by country basis upon two (2) months
+written notice to Alliance. After the First Commercial Sale of a Product,
+Schering may terminate this Agreement on a country by country basis upon three
+(3) months written notice to Alliance.
+
+     (b)  Failure by Schering or Alliance to comply with any of the respective
+material obligations and conditions contained in this Agreement shall entitle
+the other Party to give the Party in default notice requiring it to cure such
+default. If such default is not cured within ninety (90) days after receipt of
+such notice, the notifying Party shall be entitled (without prejudice to any of
+its other rights conferred on it by this Agreement) to terminate this Agreement
+or in the event of an uncured material breach by Alliance, effect the rights of
+Schering set forth in Section 11.02(e) by giving a notice to take effect
+immediately. Notwithstanding the foregoing, in the event of a non-monetary
+default, if the default is not reasonably capable of being cured within the
+ninety (90) day cure period by the defaulting Party and such defaulting Party is
+making a good faith effort to cure such default, the notifying Party may not
+terminate this Agreement, provided however, that the notifying Party may
+terminate this Agreement if such default is not cured within one hundred eighty
+(180) days of such original notice of default. The right of either Party to
+terminate this Agreement as hereinabove provided shall not be affected in any
+way by its waiver of, or failure to take action with respect to any previous
+default.
+
+     (c)  In the event that one of the Parties hereto shall go into liquidation,
+a receiver or a trustee be appointed for the property or estate of that Party
+and said receiver or trustee is not removed within sixty (60) days, or the Party
+makes an assignment for the benefit of creditors (collectively, a "BANKRUPTCY
+EVENT"), and whether any of the aforesaid Bankruptcy Events be the outcome of
+the voluntary act of that Party, or otherwise, the other Party shall be entitled
+to terminate this Agreement (or in the event Alliance suffers such a Bankruptcy
+Event, Schering may effect its rights described in Section 11.02(e) forthwith by
+giving a written notice to Alliance.
+
+     (d)  In the event that this Agreement is terminated by Schering in one or
+more countries or in its entirety, and in the event that the Agreement is
+terminated by either Party in its entirety in accordance with Sections 11.02(a),
+(b) or (c) hereof, Schering will with respect to each country for which the
+termination applies entirely:
+
+                                       27
+<Page>
+
+          (i)   deliver to Alliance the Alliance Know-How and assign to Alliance
+  its rights in said Alliance Know-How and Alliance Patents if any, in either
+  case relating solely to the country that is the subject of the termination;
+
+          (ii)  not use the Alliance Know-How as long as it has to be kept
+  confidential pursuant to Article VII hereof in such country;
+
+          (iii) not infringe any of the Alliance Patents in such country;
+
+          (iv)  make all payments accrued under this Agreement with respect to
+  such country prior to the effective termination date;
+
+          (v)   transfer all regulatory filings and approvals related to the
+  Product in such country to Alliance upon Alliance's written request for same;
+
+          (vi)  transfer to Alliance responsibility for and control of ongoing
+  work of Schering related to the Product, Affiliates and Third Parties in an
+  expeditious and orderly manner with the costs for such work assumed by
+  Alliance as of the date of notice; and
+
+          (vii) sell to Alliance, at any time within ninety (90) days of such
+  termination, at Alliance's election, all or any portion of the inventory of
+  the Product owned by Schering or its Affiliates which are intended for sale in
+  such country at a price equal to Schering's or its Affiliate's cost for such
+  inventory. Such election shall be made by Alliance in writing and within
+  thirty (30) days of such election, Schering shall ship at Alliance's cost and
+  direction such inventory to Alliance. Alliance shall pay for such inventory
+  within forty-five (45) days of receipt of such inventory.
+
+     (e)  In the event of a Bankruptcy Event or a material default described in
+Sections 11.02(b) and (c) by Alliance (which default is not cured as provided
+therein), Schering may elect in lieu of terminating this Agreement to declare
+the license granted pursuant to this Agreement to be irrevocable. From the date
+of receipt of notice of such election, Alliance shall have no further rights or
+obligations under this Agreement, except that Alliance may enforce any financial
+obligations of Schering, including those arising under Article V herein before
+or after such election, and Schering may enforce any manufacturing and supply
+obligations of Alliance, including those arising under Section 11.02(f);
+provided, however, that if such election occurs prior to the First Commercial
+Sale of the Product, any additional Development Expenses and reasonable costs
+incurred by Schering to Commercialize the Product as a result of such election
+shall be credited against amounts payable by Schering to Alliance.
+
+     (f)  In the event of termination of this Agreement pursuant to this Section
+11.02 where the Party terminating this Agreement is the Manufacturing Party, the
+Manufacturing Party shall continue to provide for manufacture of the Product to
+the extent provided prior to notice of such termination, from the effective date
+of such termination until such time as the Non-Manufacturing Party is able to
+secure an equivalent alternative commercial manufacturing source, as requested
+by the Non-Manufacturing Party.
+
+                                       28
+<Page>
+
+     (g)  Except where expressly provided for otherwise in this Agreement,
+termination of this Agreement shall not relieve the Parties hereto of any
+liability, including any obligation to make payments hereunder, which accrued
+hereunder prior to the effective date of such termination, nor preclude any
+Party from pursuing all rights and remedies it may have hereunder or at law or
+in equity with respect to any breach of this Agreement nor prejudice any Party's
+right to obtain performance of any obligation.
+
+     SECTION 11.03. SURVIVING RIGHTS. The rights and obligations set forth in
+this Agreement shall extend beyond the term or termination of the Agreement only
+to the extent expressly provided for herein, or the extent that the survival of
+such rights or obligations are necessary to permit their complete fulfillment or
+discharge.
+
+                                   ARTICLE XII
+                                 INDEMNIFICATION
+
+     SECTION 12.01. INDEMNIFICATION. With respect to the Product (determined on
+a country by country basis):
+
+     (a)  Schering and Alliance hereby agree to save, defend and hold the other
+Party and its agents and employees harmless from and against any and all suits,
+claims, actions, demands, liabilities, expenses and/or losses, including
+reasonable legal expenses and attorneys' fees (collectively, "LOSSES") resulting
+directly from the Development or Commercialization of the Product to the extent
+such Development or Commercialization was performed by such Party except to the
+extent such Losses result from the negligence or willful misconduct of the other
+Party, in which case such Party hereby agrees to save, defend and hold the other
+Party and its agents and employees harmless from any and all such Losses.
+
+     (b)  Each indemnified Party agrees to give the indemnifying Party prompt
+written notice of any Loss or discovery of fact upon which such indemnified
+Party intends to base a request for indemnification under Sections 12.01(a).
+Each Party shall furnish promptly to the other copies of all papers and official
+documents received in respect of any Loss. With respect to any Loss relating
+solely to the payment of money damages and which will not result in the
+indemnified Party becoming subject to injunctive or other relief or otherwise
+adversely affecting the business of the indemnified Party in any manner, and as
+to which the indemnifying Party shall have acknowledged in writing the
+obligation to indemnify the indemnified Party hereunder, the indemnifying Party
+shall have the sole right to defend, settle or otherwise dispose of such Loss,
+on such terms as the indemnifying Party, in its sole discretion, shall deem
+appropriate. The indemnifying Party shall obtain the written consent of the
+indemnified Party, which shall not be unreasonably withheld or delayed, prior to
+ceasing to defend, settling or otherwise disposing of any Loss if as a result
+thereof the indemnified Party would become subject to injunctive or other
+equitable relief or any remedy other than the payment of money, which payment
+would be the responsibility of the indemnifying Party. The indemnifying Party
+shall not be liable for any settlement or other disposition of a Loss by the
+indemnified Party which is reached without the written consent of the
+indemnifying Party. The reasonable costs and expenses, including reasonable fees
+and disbursements of counsel incurred by any
+
+                                       29
+<Page>
+
+indemnified Party in connection with any Loss, shall be reimbursed on a
+quarterly basis by the indemnifying Party, without prejudice to the indemnifying
+Party's right to contest the indemnified Party's right to indemnification and
+subject to refund in the event the indemnifying party is ultimately held not to
+be obligated to indemnify the indemnified Party.
+
+                                  ARTICLE XIII
+                                  MISCELLANEOUS
+
+     SECTION 13.01. ASSIGNMENT.
+
+     (a)  Schering may assign any of its rights or obligations under this
+Agreement in any country to any of its Affiliates or to any sublicensee as
+provided in Section 3.01; provided, however, that such assignment shall not
+relieve Schering of its responsibilities for performance of its obligations
+under this Agreement.
+
+     (b)  Alliance may assign any of its rights or obligations under this
+Agreement in any country to any of its Affiliates or to any sublicensee if
+permitted by Section 3.02; provided, however, that such assignment shall not
+relieve Alliance of its responsibilities for performance of its obligations
+under this Agreement.
+
+     (c)  Either Party may assign its rights or obligations under this Agreement
+in connection with a merger or similar reorganization or the sale of all or
+substantially all of its assets, or otherwise with the prior written consent of
+the other Party. This Agreement shall survive any such merger or reorganization
+of either Party with or into, or such sale of assets to, another Party and no
+consent for such merger, reorganization or sale shall be required hereunder;
+provided, that in the event of such merger, reorganization or sale, no
+intellectual property rights of the acquiring corporation shall be included in
+the technology licensed hereunder.
+
+     (d)  This Agreement shall be binding upon and inure to the benefit of the
+successors and permitted assigns of the Parties. Any assignment not in
+accordance with this Agreement shall be void.
+
+     SECTION 13.02. RETAINED RIGHTS. Nothing in this Agreement shall limit in
+any respect the right of either Party to conduct research and development and to
+market products using such Party's technology other than as herein expressly
+provided.
+
+     SECTION 13.03. FORCE MAJEURE. Neither Party shall lose any rights hereunder
+or be liable to the other Party for damages or losses on account of failure of
+performance by the defaulting Party if the failure is occasioned by government
+action, war, fire, explosion, flood, strike, lockout, embargo, act of God, or
+any other cause beyond the control of the defaulting Party, provided that the
+Party claiming force majeure has extended all reasonable efforts to avoid or
+remedy such force majeure, continues to employ such efforts and promptly
+notifies the other Party of such force majeure event.
+
+                                       30
+<Page>
+
+     SECTION 13.04. FURTHER ACTIONS. Each Party agrees to execute, acknowledge
+and deliver such further instruments, and to do all such other acts, as may be
+necessary or appropriate in order to carry out the purposes and intent of this
+Agreement.
+
+     SECTION 13.05. NO TRADEMARK RIGHTS. Except as otherwise provided herein,
+no right, express or implied, is granted by the Agreement to use in any manner
+the name "Schering," or any other trade name or trademark of the other Party or
+its Affiliates in connection with the performance of the Agreement.
+
+     ARTICLE 13.06. NOTICES. All notices hereunder shall be in writing and
+shall be deemed given if delivered personally, mailed by registered or certified
+mail (return receipt requested), postage prepaid, or sent by express courier
+service, to the Parties at the following addresses (or at such other address for
+a Party as shall be specified by like notice; provided, however, that notices of
+a change of address shall be effective only upon receipt thereof).
+
+     (a)  If to Alliance:
+
+          Alliance Pharmaceutical Corp.
+          3040 Science Park Road
+          San Diego, CA 92121
+          Attention: President
+          Telecopy:  (619) 558-5161
+
+          With a copy to:
+
+          Stroock & Stroock & Lavan LLP
+          180 Maiden    Lane
+          New York, NY 10038-4982
+          Attention: Melvin Epstein
+          Telecopy:  (212) 806-6006
+
+     (b)  If to Schering:
+
+          Schering AG
+          13342 Berlin
+          Germany
+          Attention: Legal Department
+          Telecopy:  ++49-30-4681 4086
+
+          With a copy to:
+
+          Schering AG
+          13342 Berlin
+          Germany
+          Attention: SBU Diagnostics & Radiopharmaceuticals
+          Telecopy: ++49-30-4681 6736
+
+                                       31
+<Page>
+
+     SECTION 13.07. WAIVER. Except as specifically provided for herein, the
+waiver from time to time by either of the Parties of any of their rights or
+their failure to exercise any remedy shall not operate or be construed as a
+continuing waiver of same or any other of such Party's rights or remedies
+provided in this Agreement.
+
+     SECTION 13.08. SEVERABILITY. If any term, covenant or condition of this
+Agreement or the application thereof to any Party or circumstances shall, to any
+extent or in any country, be held to be invalid or unenforceable, then (i) the
+remainder of this Agreement, or the application of such term, covenant or
+condition to Parties or circumstances other than those as to which it is held
+invalid or unenforceable, shall not be affected thereby and each term, covenant
+or condition of this Agreement shall be valid and be enforced to the fullest
+extent permitted by law; and (ii) the Parties hereto covenant and agree to
+renegotiate any such term, covenant or application thereof in good faith in
+order to provide a reasonably acceptable alternative to the term, covenant or
+condition of this Agreement or the application thereof that is invalid or
+unenforceable, it being the intent of the Parties that the basic purposes of
+this Agreement are to be effectuated.
+
+     SECTION 13.09. AMBIGUITIES. Ambiguities, if any, in this Agreement shall
+not be construed against any Party, irrespective of which Party may be deemed to
+have authored the ambiguous provision.
+
+     SECTION 13.10. GOVERNING LAW. This Agreement shall be governed by and
+interpreted under the laws of the State of New York as applied to contracts
+entered into and performed entirely in New York by New York residents.
+
+     SECTION 13.11. HEADINGS. The sections and paragraph headings contained
+herein are for the purposes of convenience only and are not intended to define
+or limit the contents of said sections or paragraphs.
+
+     SECTION 13.12. COUNTERPARTS. This Agreement may be executed in one or more
+counterparts (and by facsimile), each of which shall be deemed an original, but
+all of which together shall constitute one and the same instrument.
+
+     SECTION 13.13. ENTIRE AGREEMENT; AMENDMENTS. This Agreement, including all
+Exhibits attached hereto and thereto, and all documents delivered concurrently
+herewith and therewith, set forth all the covenants, promises, agreements,
+warranties, representations, conditions and understandings between the Parties
+hereto and supersede and terminate all prior agreements and understandings
+between the Parties. There are no covenants, promises, agreements, warranties,
+representations, conditions or understandings, either oral or written, between
+the Parties other than as set forth herein and therein. No subsequent
+alteration, amendment, change or addition to this Agreement shall be binding
+upon the Parties hereto unless reduced to writing and signed by the respective
+authorized officers of the Parties. This Agreement, including without limitation
+the exhibits, schedules and attachments thereto, are intended to define the full
+extent of the legally enforceable undertakings of the Parties hereto,
+
+                                       32
+<Page>
+
+and no promise or representation, written or oral, which is not set forth
+explicitly is intended by either party to be legally binding. Both Parties
+acknowledge that in deciding to enter into the Agreement and to consummate the
+transaction contemplated thereby neither has relied upon any statement or
+representations, written or oral, other than those explicitly set forth therein.
+
+     SECTION 13.14. EXPENSES. Except as otherwise specified in this Agreement,
+all costs and expenses, including, without limitation, fees and disbursements of
+counsel, financial advisors and accountants, incurred in connection with this
+Agreement and the transactions contemplated hereby shall be paid by the Party
+incurring such costs and expenses.
+
+     SECTION 13.15. INDEPENDENT CONTRACTORS. The status of the Parties under
+this Agreement shall be that of independent contractors. Neither Party shall
+have the right to enter into any agreements on behalf of the other Party, nor
+shall it represent to any person that it has any such right or authority.
+Nothing in this Agreement shall be construed as establishing a partnership or
+joint venture relationship between the Parties.
+
+     SECTION 13.16. USE OF NAMES. Neither Party shall use the name of the other
+Party in relation to this transaction in any public announcement, press release
+or other public document without the written consent of such other Party, which
+consent shall not be unreasonably withheld or delayed; provided, however, that
+either Party may use the name of the other Party in any document filed with any
+regulatory agency or authority, including the FDA and the Securities and
+Exchange Commission, in which case Schering shall be referred to as "Schering
+AG, Germany". Alliance agrees not to use the name "Schering" in relation to this
+transaction in any press release, public announcement or other public document
+without the approval of Schering, which approval shall not be unreasonably
+withheld or delayed.
+
+     IN WITNESS WHEREOF, Alliance and Schering have caused this Agreement to be
+executed as of the date first written above by their respective officers
+thereunto duly authorized.
+
+                                             ALLIANCE PHARMACEUTICAL CORP
+
+                                             By:
+                                                   ----------------------------
+                                             Name:
+                                             Title:
+
+                                             SCHERING AKTIENGESELLSCHAFT
+
+                                             By:
+                                                   ----------------------------
+                                             Name:  Hans-Michael Rook
+                                             Title: Head of SBU DG & RP
+
+                                       33
+<Page>
+
+                                             By:
+                                                    ---------------------------
+                                             Name:  Dr. Thomas Fritzsch
+                                             Title: Licensing and Cooperations
+                                                    DG & RP
+
+                                       34
+<Page>
+
+                                    EXHIBIT A
+
+                    DETERMINATION OF CERTAIN ACCOUNTING TERMS
+
+     As a supplement to the definitions provided in Article I of the License
+Agreement (this "AGREEMENT"), originally dated as of September 23, 1997, and
+amended and restated in its entirety as of February 22, 2002 between ALLIANCE
+PHARMACEUTICAL CORP. and SCHERING AKTIENGESELLSCHAFT, the following accounting
+terms shall be further specified as follows, with the intent that the following
+terms are to be interpreted in accordance with their reasonable and customary
+meaning within the industry and consistently applied by a Party on a
+company-wide basis:
+
+  1. COST OF GOODS
+
+     Cost of Goods shall be equal to the sum of Material Costs, Direct Labor
+costs and Indirect Costs.
+
+          A. "MATERIAL COSTS" shall mean the prices paid for raw material
+  components and purchased finished goods, including any packaging necessary for
+  the shipment of products, which are purchased from outside vendors as well as
+  any freight and duty where applicable.
+
+          B. "DIRECT LABOR COSTS" shall mean the labor hours required for an
+  operation for such a Product multiplied by the direct labor rate for work
+  centers within the relevant manufacturing operating unit (including salaries,
+  wages and benefits).
+
+          C. "INDIRECT COSTS" shall mean other costs associated with the
+  operating unit(s) manufacturing a Product; provided, however, overhead
+  attributable to unrelated facilities, or parts thereof, shall be excluded and
+  that such Indirect Costs shall exclude costs associated with unused
+  manufacturing capacity. Indirect Costs shall include expenses associated with
+  quality assurance, manufacturing and engineering associated with the operating
+  unit(s) manufacturing a Product and shall include straight line depreciation
+  and property taxes specifically associated with the plant(s) manufacturing a
+  Product.
+
+                                       A-1
+<Page>
+
+                                    EXHIBIT B
+
+                                ALLIANCE PATENTS
+
+                        --------------------------------
+                                  PATENT NUMBER
+                        --------------------------------
+                                        *
+                        --------------------------------
+                                        *
+                        --------------------------------
+                                        *
+                        --------------------------------
+                                        *
+                        --------------------------------
+                                        *
+                        --------------------------------
+
+                                       B-1
+<Page>
+
+                                    EXHIBIT C
+
+                               ALLIANCE HI PATENTS
+
+                        --------------------------------
+                                  PATENT NUMBER
+                        --------------------------------
+                                        *
+                        --------------------------------
+                                        *
+                        --------------------------------
+                                        *
+                        --------------------------------
+                                        *
+                        --------------------------------
+                                        *
+                        --------------------------------
+                                        *
+                        --------------------------------
+                                        *
+                        --------------------------------
+                                        *
+                        --------------------------------
+                                        *
+                        --------------------------------
+                                        *
+                        --------------------------------
+                                        *
+                        --------------------------------
+                                        *
+                        --------------------------------
+                                        *
+                        --------------------------------
+
+                                       C-1
+<Page>
+
+                                    EXHIBIT D
+
+                               SCHERING HI PATENTS
+
+-----------------------                         -----------------------
+        INT. NO.                                        INT. NO.
+-----------------------                         -----------------------
+          *                                                *
+-----------------------                         -----------------------
+          *                                                *
+-----------------------                         -----------------------
+          *                                                *
+-----------------------                         -----------------------
+          *                                                *
+-----------------------                         -----------------------
+          *                                                *
+-----------------------                         -----------------------
+          *                                                *
+-----------------------                         -----------------------
+          *                                                *
+-----------------------                         -----------------------
+          *
+-----------------------                         -----------------------
+          *                                                *
+-----------------------                         -----------------------
+          *                                                *
+-----------------------                         -----------------------
+          *                                                *
+-----------------------                         -----------------------
+          *                                                *
+-----------------------                         -----------------------
+          *                                                *
+-----------------------                         -----------------------
+          *                                                *
+-----------------------                         -----------------------
+          *                                                *
+-----------------------                         -----------------------
+          *                                                *
+-----------------------                         -----------------------
+          *
+-----------------------                         -----------------------
+          *
+-----------------------                         -----------------------
+          *                                                *
+-----------------------                         -----------------------
+          *
+-----------------------                         -----------------------
+
+                                       D-1
+
+</TEXT>
+</DOCUMENT>

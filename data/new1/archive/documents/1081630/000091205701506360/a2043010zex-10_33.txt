@@ -1,0 +1,559 @@
+<DOCUMENT>
+<TYPE>EX-10.33
+<SEQUENCE>4
+<FILENAME>a2043010zex-10_33.txt
+<DESCRIPTION>EXHIBIT 10.33
+<TEXT>
+
+<PAGE>
+
+
+                                                                 Exhibit 10.33
+
+
+                              AMENDMENT NUMBER ONE
+                                       TO
+               ACTIVEPRESS JOURNAL HOSTING AND DELIVERY AGREEMENT
+
+
+         This Amendment Number One to activePress Journal Hosting and Delivery
+Agreement (this "Amendment"), dated an effective as of January 1, 2001, amends
+that certain activePress Journal Hosting and Delivery Agreement (the "Journal
+Agreement") dated as of January 1, 2000 by and between HealthGate Data Corp., a
+Delaware corporation having an address at 25 Corporate Drive, Suite 310,
+Burlington, Massachusetts 01803 ("HealthGate"), Blackwell Publishers Limited,
+having an address of Osney Mead, Oxford OX2 0EL, United Kingdom [and being
+formerly know as Blackwell Science Limited] ("Blackwell"), and Munksgaard
+International Publishers Limited, having an address of 35 Norre Sogade,
+Copenhagen DK 1016 Denmark ("Munksgaard", and together with Blackwell,
+collectively, the "Publisher"). Capitalized terms used herein without definition
+shall have the meanings ascribed to them in the Journal Agreement.
+
+         The Parties agree that Blackwell Publishing shall be defined as
+Blackwell Science Ltd, Blackwell Publishers Ltd, Munksgaard and affiliated
+publishing companies.
+
+                                    RECITALS
+
+         Since the effective date of the Journal Agreement, the Software and the
+desire of the Publisher for increased services for the Site have evolved to a
+sufficient degree that HealthGate and the Publisher desire to amend the Journal
+Agreement to better reflect such evolution and the agreement of the parties
+going forward from the date of this Amendment.
+
+         NOW, THEREFORE, in consideration of the foregoing, the mutual promises
+set forth herein and for other good and valuable consideration, the receipt and
+sufficiency of which is hereby acknowledged, the parties hereby agree as
+follows:
+
+1.       AMENDMENTS. The Journal Agreement is hereby amended as follows:
+
+         (a)      SCHEDULES A, B, C, D and E are deleted and replaced in their
+                  entirety by the Site Service Plan attached hereto as SCHEDULE
+                  A and incorporated herein by reference (the "Site Service
+                  Plan"), and all references to said Schedules in the Journal
+                  Agreement shall be deemed references to SCHEDULE A attached
+                  hereto;
+
+         (b)      SECTION 1 is deleted and replaced in its entirety with a new
+                  SECTION 1 as follows:
+
+                  "1.      SITE.
+
+
+                           HealthGate shall host the Content on a Web site with
+                           the address of http://www.blackwell-synergy.com (the
+                           "Site"). HealthGate shall make the Content and
+                           portions thereof accessible in an online interactive
+                           mode for searching, access, review, displaying in a
+                           Web browser or on computer
+
+
+<PAGE>
+
+                           terminals, downloading, and printing on users'
+                           Web-enabled computer equipment."
+
+
+         (c)      SECTION 2 is deleted and replaced in its entirety with a new
+                  SECTION 2 as follows:
+
+                  "2.      SITE SERVICE PLAN.
+
+
+                           The Site Service Plan set forth in SCHEDULE A
+                           attached hereto contains:
+
+                           (a)      service and support specifications,
+                                    including agreed communication procedures
+                                    for the notification and rectification of
+                                    service errors;
+
+                           (b)      procedures and processes for adding new
+                                    Content, which shall be done by the
+                                    Publisher; and
+
+                           (c)      details and descriptions of the functions
+                                    and features and procedures for making minor
+                                    enhancements to the Software, as defined in
+                                    SECTION 3."
+
+
+         (d)      SECTION 3 (Content Maintenance Plan) is deleted and SECTIONS 4
+                  - 24 are hereby renumbered SECTIONS 3 - 23, accordingly, and
+                  all Section references hereinafter made, and in the Journal
+                  Agreement, shall be deemed to be references to such renumbered
+                  Sections.
+
+         (e)      SECTION 3 is deleted and replaced in its entirety with a new
+                  SECTION 3 as follows:
+
+                  "3.      SOFTWARE.
+
+                           HealthGate has developed, licensed or otherwise
+                           acquired software to operate the Site (collectively
+                           the "Software"). The Site Service Plan contains
+                           details and descriptions of the Software's functions
+                           and features and procedures for making minor
+                           enhancements to the Software. Notwithstanding the
+                           foregoing, the Publisher may elect to request the
+                           development of additional functions or features not
+                           described in the Site Service Plan. The fee for such
+                           development shall be as prescribed in SECTION 10 and
+                           shall be based upon the amount of labor time
+                           (measured in hours) required by HealthGate to
+                           evaluate, create and test each request. All such
+                           development and associated fees must have the prior
+                           written approval of the Publisher."
+
+         (f)      SECTION 4 is amended by deleting Roberta Pokigo as one of the
+                  HealthGate Project Managers and replacing her with Andy
+                  Cowenhoven, deleting Ian Bannerman and Alan Bacon as Publisher
+                  Project Managers and replacing them with Dan Gozdiff and David
+                  Sommer.
+
+
+                                       2
+<PAGE>
+
+         (g)      The second sentence of SECTION 5, which begins "The Publisher,
+                  at its expense, ..." and ends "...the Content Maintenance
+                  Plan." is deleted and replaced in its entirety with a new
+                  second sentence which reads as follows:
+
+                  "The Publisher, at its expense, shall update the Content using
+                  the Software."
+
+         (h)      SECTION 8 is deleted and replaced in its entirety with a new
+                  SECTION 8 as follows:
+
+                  "8.      ACTIVITY REPORTS.
+
+                           "During the time that HealthGate hosts the Site,
+                           HealthGate shall provide to the Publisher activity
+                           reports detailing performance, access and usage of
+                           the Site. Such activity reports are described in the
+                           Site Service Plan."
+
+         (i)      The reference in SECTION 9 (Advertising) to SECTION 10(g) is
+                  deemed to be a reference to SECTION 10(d) after giving effect
+                  to the amendment of SECTION 10 set forth below.
+
+         (j)      SECTION 10 is deleted and replaced in its entirety with a new
+                  SECTION 10 as follows:
+
+                  "10.     SCHEDULE OF FEES.
+
+                           (a)      ANNUAL HOSTING. The Publisher shall remit to
+                                    HealthGate an annual hosting, Content
+                                    storage and Software maintenance fee of
+                                    $1,300,000 for each year of the Initial
+                                    Term. This fee shall entitle the Publisher
+                                    (i) to have up to 313 individual journal
+                                    titles mounted and accessible through the
+                                    Site and shall apply whether or not the
+                                    Publisher supplies HealthGate with Content
+                                    for 313 individual journal titles, (ii) an
+                                    allowance of 48 working days (equivalent to
+                                    384 hours) of development labor time per
+                                    year for HealthGate to make minor changes to
+                                    the Software as requested by the Publisher
+                                    and agreed to by HealthGate, whose agreement
+                                    shall not be unreasonably withheld, and
+                                    (iii) 200 gigabytes of storage of the
+                                    Content on the Hardware. If the Publisher
+                                    supplies HealthGate with Content from more
+                                    than 313 individual titles, the Publisher
+                                    shall remit to HealthGate an annual fee of
+                                    $1650 for each additional individual journal
+                                    title of the Content mounted and accessible
+                                    through the Site. Further, if the Publisher
+                                    chooses to supply Content from journal
+                                    titles in excess of the initial 313 and
+                                    these additional titles shall be in the form
+                                    of bibliographic headers and PDF files only,
+                                    then the annual conversion fee shall be
+                                    $1450. In addition, in the event the Content
+                                    requires in excess of 200 gigabytes of
+                                    storage on the Hardware, such excess storage
+                                    needs shall be accessible to the Publisher
+                                    at an annual rate of $600 for each
+                                    additional gigabyte of storage of the
+                                    Content on the Hardware.
+
+
+                                       3
+<PAGE>
+
+                           (b)      ADDITIONAL SOFTWARE DEVELOPMENT. The
+                                    Publisher shall remit to HealthGate a fee of
+                                    $1,200 for each 8 hours of labor time used
+                                    for the development of additional Software
+                                    functions or features that are not described
+                                    in the Site Service Plan as part of
+                                    HealthGate's general maintenance and
+                                    upgrading of the Software.
+
+                           (c)      PROCESSING FEE. The Publisher shall remit a
+                                    Processing Fee, as described in SECTION 7
+                                    above, equal to 25% of each Information Fee
+                                    relating to the on-line sale of an
+                                    individual journal article processed by
+                                    HealthGate. The minimum Processing Fee shall
+                                    be equal to $4.00 per sales transaction
+                                    processed by HealthGate. Information Fees
+                                    relating to the sale of a journal
+                                    subscription are not subject to a processing
+                                    fee.
+
+                           (d)      ADVERTISING. Each party shall receive 30% of
+                                    the gross advertising revenue for
+                                    advertising sales on the Site (as described
+                                    in Section 9) originated by the other party.
+                                    Advertising can be sold either on the basis
+                                    of a per thousand impressions rate or on the
+                                    basis of a time-limited period, subject to
+                                    minimum fees of $10 per thousand impressions
+                                    and $100 per page per month.
+
+                           (e)      ACTIVITY REPORTS. All payments and fees
+                                    described in SECTION 10(c) shall be based
+                                    upon the relevant activity reports
+                                    referenced in SECTION 8 and described in the
+                                    Site Service Plan.
+
+                           (f)      ESCROW ACCOUNT. The Publisher shall pay all
+                                    fees associated with the escrow account
+                                    described in SECTION 23(b).
+
+                           (g)      PAYMENT. All fees called for under this
+                                    Section 10 shall be paid by the relevant
+                                    party within 30 days of receipt of an
+                                    invoice. All late payments shall bear
+                                    interest at a rate equal to 1% per month
+                                    until paid in full."
+
+         (k)      SECTION 11 is deleted and replaced in its entirety with a new
+                  SECTION 11 as follows:
+
+                  "11.     FEE INVOICE SCHEDULE.
+
+                           (a)      ANNUAL FEES. Upon the completion of the
+                                    transfer to the Publisher of all Publisher
+                                    customer records, content files and log data
+                                    through December 31, 2000, consistent with
+                                    the data transfer specifications set forth
+                                    in SECTION 10(b), the Publisher shall remit
+                                    to HealthGate $650,000 as payment of
+                                    one-half (1/2) of the standard annual
+                                    hosting fee for 2001 provided under SECTION
+                                    10(a). HealthGate shall invoice the
+                                    Publisher for payment of the
+
+
+                                       4
+<PAGE>
+
+                                    remainder of annual fees provided for under
+                                    SECTION 10(a) according to the following
+                                    schedule:
+
+                                    o        Subject to pro rata adjustment for
+                                             additional amounts owed for journal
+                                             titles in excess of the initial 313
+                                             titles, HealthGate shall invoice
+                                             the Publisher for $108,333.33 on
+                                             July 1, 2001 and on the first day
+                                             of each succeeding month in 2001
+                                             for the remainder of the standard
+                                             annual hosting fee for 2001
+                                             provided under SECTION 10(a).
+
+                           (b)      SOFTWARE DEVELOPMENT. Software development
+                                    fees will be invoiced on completion of the
+                                    implementation of the functions or features
+                                    to which they relate, subject to the written
+                                    approval of the publisher that they perform
+                                    according to the Publisher's original
+                                    specification of requirements. Extension of
+                                    the development time as a result of
+                                    modifications by the Publisher to the
+                                    original specification will not be grounds
+                                    for delaying payment.
+
+                           (c)      OTHER FEES. All other fees shall be invoiced
+                                    on a monthly basis."
+
+         (l)      The first two paragraphs of SECTION 12 (Milestones and
+                  Deliverables) are deleted and replaced in their entirety as a
+                  new SECTION 12(a) as follows:
+
+                  "(a)     In the event that the Software fails to allow
+                           Publisher to process the Content of any journal issue
+                           within the processing objective time of 3 working
+                           days, HealthGate, recognizing the loss caused to the
+                           Publisher, will on demand pay to the Publisher an
+                           amount of money equivalent to the sum of $2,000 per
+                           issue, subject to a maximum of $50,000 per financial
+                           quarter, for all issues processed in each financial
+                           quarter.
+
+                           Such sums of money will be paid by HealthGate to the
+                           Publisher not as a penalty, but as and for the
+                           ascertained and liquidated damages owing and payable
+                           by HealthGate to the Publisher by reason of such
+                           failure to meet the processing objectives."
+
+         (m)      SECTION 12 is amended by adding new SECTIONS 12(b) AND (c) as
+                  follows:
+
+                  "(b)     DATA, CONTENT AND CODE TRANSFER. HealthGate shall
+                           transfer all Publisher customer records, content
+                           files and log data to the Publisher per the data and
+                           content transfer schedule outlined in SECTION 12(c).
+                           The customer records must be contained in a Microsoft
+                           SQL 6.5 backup file and must be accompanied by both
+                           data field definition and data dictionary documents.
+                           The content files must in native file format and
+                           should be delivered in the same naming and format
+                           conventions used by the system. The log data is to be
+                           delivered in format that can be recognized by common
+                           log analysis
+
+                                       5
+<PAGE>
+
+                           tools like Webtrends. The application code is to be
+                           delivered to the code escrow house and verification
+                           of receipt to be forwarded to the Publisher.
+
+                           All data, files and log are to be delivered to the
+                           Publisher no later then 10 business days after the
+                           period end date defined in SECTION 12(c). The
+                           Publisher agrees to review the data within 5 business
+                           days and will promptly notify HealthGate of its
+                           approval. If the customer records, content files or
+                           log data is found to be incomplete or inaccurate the
+                           Publisher will notify in writing to HealthGate within
+                           5 business days the issues involved. HealthGate will
+                           then have another 10 business days to comply.
+
+                           All code to be deposited in the escrow must be
+                           acknowledged to the Publisher within 10 business days
+                           of the defined schedule.
+
+                           (i)      Customer records are defined as all
+                                    information relating to an individual
+                                    registered user, institutional user or
+                                    administrator. Data includes but is not
+                                    limited to names, demographic and profile
+                                    data that is captured or used by the system.
+
+                           (ii)     Content files are defined as all information
+                                    pertaining to journal content including but
+                                    not limited to abstract, full text and meta
+                                    data of each individual article. Also
+                                    included is the relationship between
+                                    articles and issues. All permutations must
+                                    be transferred including but not limited to
+                                    the original submitted SGML files, XML
+                                    transition files and final corrected HTML
+                                    files.
+
+                           (iii)    Log data is defined as all data used to
+                                    track usage and user activity. This data may
+                                    include but in not limited to server log
+                                    data, proprietary data stored by the
+                                    software or data tracked by third party
+                                    products like LDAP servers.
+
+                           (iv)     Application code is defined as proprietary
+                                    HealthGate software applications that are
+                                    used during the running of the site.
+
+                                    The parties agree to investigate other
+                                    methods of transferring the data.
+
+                  (c)      DATA AND CONTENT TRANSFER SCHEDULE. Publisher data
+                           and content will be transferred by HealthGate to the
+                           publisher based on the following schedule:
+
+                           (i)      All transactions through March 31, 2001.
+
+                           (ii)     All transactions through June 30, 2001
+
+
+                                       6
+<PAGE>
+
+                           (iii)    All transactions through September 31, 2001
+
+                           (iv)     All transactions through December 31, 2001
+
+                           The above schedule is "inception to date" and all
+                           records and data should be through 23:59 hour on the
+                           date defined in the schedule. The customer data and
+                           content files must be transferred in its entirety and
+                           there must no incremental data transfers for these
+                           data types. After the initial transfer of the log
+                           data all subsequent log data transfers may be made in
+                           an incremental basis."
+
+         (n)      SECTION 14 is deleted and replaced in its entirety with a new
+                  SECTION 14 as follows:
+
+                  "14.     INITIAL TERM.
+
+                           The Initial Term of this Agreement shall commence on
+                           January 1, 2001 and, unless terminated earlier as set
+                           forth herein, shall continue for a period of one year
+                           after such date (the "Initial Term")."
+
+         (o)      A new sentence is hereby added to the end of SECTION 15 as
+                  follows:
+
+                  "In the event such negotiations do not result in an agreement
+                  prior to the end of the Initial Term, the fees in effect
+                  immediately prior to the termination of the Initial Term shall
+                  remain in effect for the next applicable term."
+
+         (p)      The last unlettered paragraph of SECTION 16 is deleted,
+                  SECTIONS 16(a) - (d) are relettered as SECTIONS 16(b) - (e),
+                  all references to such Sections are amended to reflect
+                  references to such relettered Sections, and a new SECTION
+                  16(a) is added as follows:
+
+                  "(a)     In the event of termination of this Agreement before
+                           the end of Initial Term, HealthGate or its personal
+                           representative as the case may be, shall immediately
+                           deliver to the Publisher all correspondence, reports,
+                           documents, specifications, papers, information (on
+                           whatever media) and property including but not
+                           limited to customer records, content files and log
+                           data belonging to the Publisher which may be in his
+                           possession or under his control together with all
+                           confidential information or copyright works belonging
+                           to the Publisher. HealthGate shall erase the Content
+                           from its servers and otherwise discontinue any use of
+                           the content within ten (10) working days of the date
+                           of the termination."
+
+         (q)      SECTION 20(d) (Millennium Compliance) is deleted in its
+                  entirety.
+
+         (r)      All references in the Journal Agreement to a Content
+                  Maintenance Plan, a Software Maintenance Plan or an Activity
+                  reporting plan are hereby deemed to be references to the Site
+                  Service Plan.
+
+                                       7
+
+<PAGE>
+
+         (s)      SECTION 23(b) is deleted and replaced in its entirety with a
+                  new SECTION 23(B) as follows:
+
+                  "(b)     SOFTWARE ESCROW. HealthGate agrees to place into
+                           escrow, at a location to be mutually agreed upon by
+                           the parties, all applicable source code used to
+                           provide the services outlined in this Agreement. The
+                           Publisher shall pay all fee associated with the
+                           escrow account. The Publisher may not access the
+                           escrow account except in the case of HealthGate's
+                           bankruptcy or the event that HealthGate terminates
+                           this Agreement before the end of Initial Term as
+                           stated in SECTION 16(a). Notwithstanding the
+                           foregoing, Publisher shall not have access to the
+                           escrow account in the event HealthGate terminates the
+                           Agreement for Publisher's breach of the Agreement."
+
+         (t)      SECTION 23(J) is deleted and replaced in its entirety with a
+                  new SECTION 23(J) as follows:
+
+                  "(j)     VENUE. Any and all disputes between the parties
+                           arising under or in connection with this Agreement
+                           which cannot be resolved amicably by the parties or
+                           through arbitration, as contemplated under SECTION
+                           23(k), shall be resolved in the courts located in
+                           London, England, except with respect to any action
+                           brought by the Publisher against HealthGate, in which
+                           case jurisdiction and venue shall be the Commonwealth
+                           of Massachusetts, USA."
+
+2. SEVERABILITY. Whenever possible, each provision of this Amendment shall be
+interpreted in such manner as to be effective and valid under applicable law,
+but if any provision of this Amendment is held to be prohibited by or invalid
+under applicable law, such provision shall be ineffective only to the extent of
+such prohibition or invalidity, without invalidating the remainder of this
+Amendment.
+
+3. LIMIT OF AMENDMENTS. Except as amended hereby, all other terms and provisions
+of the Journal Agreement are and shall remain in full force and effect.
+
+4. COUNTERPARTS. This Amendment may be executed simultaneously in two or more
+counterparts, any one of which need not contain the signatures of more than one
+party, but all such counterparts taken together shall constitute one and the
+same Amendment.
+
+5. SECTION HEADINGS. The descriptive headings of this Amendment are inserted for
+convenience only and do not constitute a Section of this Amendment.
+
+6. GOVERNING LAW. This Agreement shall be governed by and construed in
+accordance with the laws of England and Wales.
+
+
+                  [REMAINDER OF PAGE LEFT INTENTIONALLY BLANK]
+
+
+
+                                       8
+<PAGE>
+
+
+         Executed as of the date first set forth above, as a document under
+seal, by the duly authorized representatives of the parties hereto.
+
+HEALTHGATE DATA CORP.
+
+
+By: ________________________
+
+Name:
+
+Title:
+
+
+BLACKWELL PUBLISHING
+
+
+By: ________________________
+
+Name: ______________________
+
+Title: _______________________
+
+
+                                       9
+
+</TEXT>
+</DOCUMENT>

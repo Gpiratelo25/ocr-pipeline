@@ -1,0 +1,665 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>l87939aex10-1.txt
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+
+<PAGE>   1
+
+
+                                                                   Exhibit 10.1
+
+                             MANUFACTURING AGREEMENT
+                             -----------------------
+
+This Manufacturing Agreement is entered into as of the 1st day of March 2001 and
+amends and restates that certain Manufacturing Agreement entered into as of the
+10th day of October 1994 by and between European Medical Contract Manufacturing
+(hereafter referred to as "EMCM"), Middenkampweg 17, 6545 CH Nijmegen, The
+Netherlands and Gliatech Medical Inc. (hereafter referred to as "Gliatech"),
+23420 Commerce Park Road, Beachwood, Ohio 44122, U.S.A.
+
+In consideration of the premises and the mutual promises and covenants set forth
+below, EMCM and Gliatech mutually agree as follows.
+
+                                    ARTICLE I
+                                   DEFINITIONS
+
+         1.1 "Agreement" shall mean this Manufacturing Agreement as amended and
+restated with its accompanying Attachments and Schedules.
+
+         1.2 "Confidential Information" shall mean the technical information,
+know-how, technology, prototypes, information, manuals, ideas, inventions,
+improvements, data, files, supplier and customer identities and lists,
+accounting records, business and marketing plans, and information and
+documentation to which a party has rights relating to this Agreement and all
+copies and tangible embodiments thereof (in whatever form or medium) that are
+not generally known by the public or which would constitute a trade secret under
+the Uniform Trade Secrets Act (including any of the foregoing as may be embodied
+in the Technology); provided, however, that any of the foregoing shall not be
+considered Confidential Information if it: (i) has entered into the public
+domain through no wrongful act or breach of any obligation of confidentiality on
+the receiving party's or any third party's part; (ii) was in the lawful
+knowledge and possession of, or was independently developed by, the receiving
+party prior to the time it was disclosed to, or learned by, the receiving part
+as evidenced by written records kept in the ordinary course of business by the
+receiving party or by written or other documentary proof of actual use by the
+receiving party; (iii) was rightfully received from a third party not in
+violation of any contractual, legal or fiduciary obligation by such third party;
+or (iv) was approved for release by written authorization by the part having
+rights in such information.
+
+         1.3 "Device Master Record" shall mean a compilation of records
+containing the procedures and specifications for a finished device.
+
+         1.4 "Non-Conformance" shall mean any failure to meet Specifications.
+
+         1.5 "Product" shall consist of gel, liquid or other approved material
+which (i) is manufactured and packaged in a collapsible aluminum tube and/or
+syringe or other configuration approved by Gliatech, labeled and packaged with
+other components in a unit kit; and (ii) is to be commercially distributed and
+sold under the various "ADCON(TM)" names, including, without limitation,
+ADCON-L(TM) and ADCON-T/N(TM).
+
+
+                                       1
+<PAGE>   2
+
+
+
+         1.6 "Room Temperature" shall be defined as that combination of
+temperature and relative humidity approved in United States Pharmacopeia (USP)
+guidelines for room temperature controls.
+
+         1.7 "Specifications" shall mean Gliatech and EMCM procedures, approved
+by both parties, controls, specifications, acceptance criteria and related
+information (including, but not limited to, the Device Master Record) regarding
+or affecting the manufacture of the Products, as defined pursuant to Article
+3.1(a) hereof.
+
+         1.8 "Technology" shall mean the formulae, know-how and other
+confidential, technical and proprietary information (including, without
+limitation, patents and patent applications) owned by, or licensed to, Gliatech
+relating to the manufacture of the Products.
+
+                                   ARTICLE II
+                        LICENSE AND TERM OF THE AGREEMENT
+
+         2.1 GRANT OF LICENSE. Gliatech hereby grants to EMCM, subject to the
+terms and conditions hereinafter set forth, a non-exclusive license to use the
+Technology solely in connection with the manufacture of the Products for sale to
+Gliatech. EMCM is not granted any right to sublicense any of the Technology to
+others or to use any of the Technology for itself or for any other purpose.
+Without limiting the generality of the foregoing, EMCM shall not use any of the
+Technology to manufacture the Products outside of or after the termination of
+this Agreement or to develop or manufacture any other products.
+
+         2.2 TERM OF THE AGREEMENT. Unless sooner terminated as hereinafter
+provided, the term of this Agreement shall remain in full force and effect for a
+period of three years from the effective date of this Agreement. Thereafter,
+this Agreement may be renewed automatically for two terms each for two (2)
+years, unless (i) Gliatech provides EMCM with written notice of its intent to
+terminate no less than two hundred and seventy (270) days prior to the end of
+the original term or any renewal term, or (ii) EMCM provides Gliatech with
+written notice of its intent to terminate no less than two hundred-seventy (270)
+days prior to the end of the original term or any renewal term.
+
+         2.3 TERMINATION FOR BREACH. Non-compliance with, or any breach of, the
+terms and conditions of this Agreement shall be considered grounds for
+termination (hereafter referred to as "violative termination"). Violative
+termination must be communicated by one party in writing to the party believed
+to be in violation of the terms of this Agreement. That party shall then have
+sixty (60) days from the date of receipt of the notice of violative termination
+to correct the violation in question. Failure to correct the violation to the
+satisfaction of the notifying party shall effectively terminate this Agreement.
+
+         2.4 EFFECT OF TERMINATION. In the event of termination for any reason,
+unless otherwise agreed to in writing by the parties, the parties shall have the
+rights and obligations set forth in this Section 2.4.
+
+              (a) FIRM ORDERS. Gliatech shall have the right, but not the
+obligation, to continue to issue to EMCM firm orders for Products for three
+quarters from the date of
+
+
+                                       2
+<PAGE>   3
+
+
+termination. EMCM shall be responsible for promptly filling these orders. In
+case of violative termination Gliatech shall have the right and the obligation
+to continue to issue to EMCM firm orders for products for three quarters from
+date of termination, and EMCM shall have the right and the obligation to
+manufacture firm orders for products for three quarters from date of
+termination, unless both parties mutually agree to renounce from such rights and
+obligations.
+
+              (b) RETURN OF MATERIALS. EMCM shall be responsible for the return,
+in good order, of all existing materials and supplies provided by Gliatech, as
+well as all Gliatech purchased equipment and all tangible embodiments of
+Gliatech's Confidential Information and Technology, and all copies thereof
+received or generated by EMCM. Gliatech will reimburse EMCM for reasonable cost
+associated with the return of materials, or, in the discretion of Gliatech,
+allow EMCM to purchase certain materials.
+
+              (c) TECHNOLOGY. EMCM shall have no further right and license to
+use the Technology. Notwithstanding the foregoing, EMCM shall be permitted to
+use the Technology solely to fulfill its obligations pursuant to Article 2.4(a)
+hereof.
+
+                                  ARTICLE III
+                      MANUFACTURE AND ACCEPTANCE OF PRODUCT
+
+         3.1 MANUFACTURE OF PRODUCT. EMCM agrees to produce the Products in
+accordance with all Specifications and within EMCM facilities.
+
+              (a) PROCEDURES AND SPECIFICATIONS. The Specifications currently in
+effect as of the date of the signing of this Agreement are defined in the Device
+Master Record. These Specifications may change from time to time. In the event
+that Gliatech intends to change the Specifications, Gliatech will notify EMCM in
+writing of any such change in the Specifications. Both Gliatech and EMCM must
+approve any changes to the Specifications.
+
+              (b) ENVIRONMENTAL CONTROLS. EMCM agrees that all Products shall be
+produced in its controlled, clean room suites in accordance with the
+Specifications. In addition, EMCM agrees that during the time of manufacture of
+the Products, no product, supplies, and, after notification to Gliatech,
+production equipment; provided that such equipment shall not adversely affect
+the production of the Products other than that required for the Products shall
+be present in the clean room suite.
+
+              (c) WAREHOUSING. EMCM agrees to store and maintain raw materials
+and unpackaged Products in excess of the current production order, but not to
+exceed the requirements of one calendar quarter's forecast (as per Article 3.2
+hereof) in their warehouse. EMCM will store raw materials and unpackaged
+Products in accordance with the requirements of the Specifications and have
+adequate security (as approved in writing by Gliatech) so as to restrict access
+to raw materials and Products only to appropriate personnel.
+
+              (d) INVENTORY. Gliatech shall supply EMCM with requirements for
+labels, packaging materials, primary unit containers, accessories, salts and
+buffers, and critical raw materials. All of these items will be inspected and
+approved by Gliatech before shipment to EMCM. EMCM will inspect these items upon
+arrival at its facility for damage or to
+
+
+
+                                       3
+<PAGE>   4
+
+
+specifications we mutually agree upon. EMCM will supply all Water for Injection
+(as defined in EP and USP), which is certified to be in compliance with both
+current European Pharmacopeia ("EP") and United States Pharmacopeia ("USP")
+regulations. EMCM shall provide to Gliatech, upon Gliatech's request, all
+documentation regarding such certification.
+
+              (e) EQUIPMENT.
+
+                  (1) Gliatech shall purchase, or reimburse EMCM for purchasing
+all equipment it considers to be exclusive to the production of the Products,
+including certain analytical and sterilizing equipment. EMCM shall be
+responsible for the ongoing validation, calibration and maintenance of all
+equipment (as specified in the Device Master Record) used in the manufacturing
+of the Products. All purchases of equipment will be authorized by Gliatech in
+advance of purchase. Gliatech will reimburse EMCM for such authorized equipment
+upon the presentation and inspection of EMCM's invoice for such purchases. Title
+to all such equipment shall be in the name of Gliatech.
+
+                  (2) All equipment used in the manufacture of Products and that
+directly contacts the Products will be used exclusively for the manufacture of
+Products.
+
+              (f) EMCM will produce Products in accordance with specifications
+and appropriate regulations. There will be sufficient personnel with the
+necessary education, background, training and experience to assure that
+production and quality control/assurance activities are performed correctly.
+Training shall be in compliance with established Quality System Regulation
+("QSR") guidelines and other such standards as Gliatech may require. EMCM will
+be required to provide the equivalent of a full-time Quality Control Manager
+responsible for timely day-to-day operations (with a proportionate amount of
+time focused on Gliatech Products), as well as the maintenance of the EMCM
+Quality System, including the inspection, testing, documentation, release, and
+compliance activities. Additionally, EMCM will provide a full-time Material
+Coordinator, as defined in Attachment III, who will coordinate the scheduling
+and execution of materials and activities for EMCM and Gliatech, exclusively.
+
+                  Gliatech will reimburse EMCM on a monthly basis for the
+salaries, benefits, and miscellaneous expenses associated with these positions.
+Candidates for each position will be jointly agreed upon for hire by both
+Gliatech and EMCM. The salaries of these employees shall be set by Gliatech.
+
+              (g) REPORTING. EMCM shall maintain a system of document control
+that maintains compliance with QSR and other applicable regulations and release
+Product in accordance with procedures outlined in Attachment II. EMCM shall
+maintain a system of change notification for all controls, policies and
+specifications which may impact the manufacture of the Products. This
+notification shall be inclusive of all contracted services, specifically those
+which relate to calibration, validation and environmental controls. The
+notification of changes by EMCM must be approved by Gliatech's quality assurance
+and manufacturing personnel before implementation.
+
+
+
+                                       4
+<PAGE>   5
+
+
+                  (1) EMCM shall provide investigation reports and corrective
+action plans for all aspects of the production and analytical processes falling
+outside of expected or historically derived outcomes as specified and defined in
+the Device Master Record.
+
+                  (2) Gliatech, in its sole discretion, shall determine the
+disposition of non-conforming material, processes and Product. All finished
+Product satisfying the acceptance criteria of the Specifications will be
+accepted by Gliatech.
+
+                  (3) EMCM shall forward to Gliatech copies of all original
+records pertaining to production, and shall keep the originals for their own
+records, but make them available to Gliatech for a period of 6 years.
+Thereafter, these documents will be released to Gliatech.
+
+              (h) Gliatech-provided material. Title to all materials provided by
+Gliatech pursuant to this Agreement (including, but not limited to, equipment
+purchased by, or on behalf of, Gliatech, all raw materials, and all labeling and
+packaging materials) shall remain in the name of Gliatech at all times. All such
+materials and equipment shall be labeled clearly as "Property of Gliatech" and,
+where possible, shall be stored separately.
+
+         3.2 QUALITY. EMCM will maintain a Quality System as defined in, and in
+accordance with, the appropriate ISO 9000 and EN46000 series guidelines and the
+U.S. FDA's current Quality System Regulation requirements as set forth in 21 CFR
+Part 820 as currently in effect as of the date hereof, as verified by Gliatech
+personnel, and subject to periodic Gliatech audit. In the event that these
+regulations are modified, amended or otherwise updated, EMCM will modify, amend
+or otherwise update and maintain a Quality System in accordance therewith;
+provided, however, that Gliatech consents to any such modification, amendment or
+other update to such Quality System.
+
+         3.3 QUANTITY; FORECASTS. With respect to each Product, Gliatech will
+issue to EMCM firm orders for a period of one full calendar quarter, and provide
+forecasts covering a period of one additional quarter. One month prior to the
+beginning of the forecast quarter, Gliatech will issue to EMCM firm orders for
+that forecast period, and a forecast for the next calendar quarter. Attachment I
+is the firm order for the calendar quarter ended March 31, 2001 and contains the
+forecast for the quarters and years of 2001 and 2002.
+
+                                   ARTICLE IV
+                           NOTIFICATION AND INSPECTION
+
+         4.1 REGULATORY. EMCM shall notify Gliatech within 10 days of all
+inspections by N.V. KEMA in the Netherlands, a member of the European Network
+for Quality System Assessment and Certification or U.S. FDA or any other
+applicable regulatory authorities, either performed or scheduled at EMCM. EMCM
+shall allow Gliatech to participate in the investigation or inspection with
+respect to Gliatech Products. Except for proprietary customer-specific
+information, EMCM shall provide Gliatech the full results of the inspection, and
+any responses thereto that relate to the Products shall only be submitted by
+EMCM after consultation with, and agreements by, Gliatech.
+
+
+
+                                       5
+<PAGE>   6
+
+
+         4.2 RECORD KEEPING. EMCM shall keep correct and complete records and
+books covering the manufacture of the Products and other documents relating to
+this Agreement. In addition, EMCM will maintain any other documentation relating
+to safety regulation obligations, including, without limitation, adverse event
+reports. EMCM agrees to permit Gliatech, at Gliatech's expense and reasonable
+request and during ordinary business hours, to have access to, and make copies
+of, such records, books and all other documents and materials in the possession
+and under the control of EMCM relating to or pertaining to the subject matter of
+this Agreement EMCM's internal audit reports will not be accessible to Gliatech.
+
+         4.3 DELIVERY, TITLE AND RISK OF LOSS. Title to all Products shall be in
+the name of Gliatech at all times. Risk of loss shall be upon EMCM until
+Products have satisfied the acceptance criteria of the Specifications except in
+the event that agreed upon testing procedures would not have detected a failure
+to satisfy the acceptance criteria of the Specifications. Upon acceptance of the
+Product, risk of loss shall pass to Gliatech, who shall designate a carrier to
+ship such accepted Product to a location specified by Gliatech. All expenses
+incurred in connection with such shipping shall be borne by Gliatech. Gliatech
+will have the right to utilize EMCM's name and/or address in conjunction with
+any labeling or reporting requirements.
+
+         4.4 REGULATORY INSPECTION AND REVISION OF SPECIFICATIONS. Following
+inspections by applicable regulatory authorities, including, without limitation,
+the U.S. FDA, EMCM shall do such actions or cause such actions to be done that
+are necessary, advisable or appropriate so that EMCM remains in good standing
+with any such regulatory authorities. Prior to undertaking any action pursuant
+to this Section 4.4, EMCM shall notify Gliatech of the inspection and disclose
+to Gliatech the regulatory authorities' findings and related results of such
+inspection (the "Findings"). EMCM shall also provide full disclosure to Gliatech
+with respect to any action undertaken or proposed to be undertaken pursuant to
+this Section 4.4 prior to acting. In addition, if the Findings of the regulatory
+authority suggest, recommend or otherwise indicate a change in the manufacturing
+processes and practices of EMCM, including, without limitation, a modification
+of the Specifications no such modification can be made without the prior written
+consent of Gliatech.
+
+         4.5 CONFIDENTIALITY. Each party acknowledges that in the course of its
+performance under this Agreement it will have access to the other party's
+Confidential Information. All Confidential Information of a party disclosed
+under this Agreement shall remain the exclusive property of that party. Each
+party agrees (i) to take all reasonable measures necessary to protect the
+confidential nature of all Confidential Information (both its and the other
+party's); (ii) except as provided in this Agreement or as required by law or
+court order, not to disclose to third parties or copy any Confidential
+Information of the other party or allow any third party access to the
+Confidential Information of the other party without first obtaining that party's
+written consent; and, (iii) not to use any of the Confidential Information
+except for the purposes set forth herein.
+
+         4.6 INDEMNIFICATION. Each party agrees to and shall indemnify and hold
+the other party harmless from any and all claims, demands, suits, actions,
+proceedings, costs, damages, expenses (including, without limitation,
+consequential damages), or other disputes arising out of the party's breach of
+or non-compliance with its obligations hereunder; provided, however, that no
+party shall be indemnified hereunder if any breach of or non-compliance of its
+obligations hereunder result from or are caused by that party's gross negligence
+or willful misconduct. This
+
+
+
+                                       6
+<PAGE>   7
+
+
+indemnity provision shall be in addition to any liability which the party may
+otherwise have. Promptly after receipt by an indemnified party under this
+Section 4.6 of notice of the commencement of any action, such indemnified party
+will, if a claim in respect thereof is to be made against the indemnifying party
+under this Section 4.6, notify the indemnifying party in writing or the
+commencement thereof; but the failure so to notify the indemnifying party (i)
+will not relieve it from liability hereunder unless and to the extent it did not
+otherwise learn of such action and such failure results in the forfeiture by the
+indemnifying party of substantial rights and defenses and (ii) will not, in any
+event, relieve the indemnifying party from any obligations to any indemnified
+party other than the indemnification obligation provided above. The indemnifying
+party shall be entitled to appoint counsel of the indemnifying party's choice at
+the indemnifying party's expense to represent the indemnified party in any
+action for which indemnification is sought (in which case the indemnifying party
+shall not thereafter be responsible for the fees and expenses of any separate
+counsel retained by the indemnified party or parties except as set forth below);
+PROVIDED, HOWEVER, that such counsel shall be satisfactory to the indemnified
+party. Notwithstanding the indemnifying party's election to appoint counsel to
+represent the indemnified party in an action, the indemnified party shall have
+the right to employ separate counsel (including local counsel), and the
+indemnifying party shall bear the reasonable fees, costs and expenses of such
+separate counsel if (i) the use of counsel chosen by the indemnifying party to
+represent the indemnified party would present such counsel with a conflict of
+interest, (ii) the actual or potential defendants in, or targets of, any such
+action include both the indemnified party and the indemnifying party and the
+indemnified party shall have reasonably concluded that there may be legal
+defenses available to it, which are different from or additional to those
+available to the indemnifying party, (iii) the indemnifying party shall not have
+employed counsel satisfactory to the indemnified party to represent the
+indemnified party within a reasonable time after notice of the institution of
+such action or (iv) the indemnifying party shall authorize the indemnified party
+to employ separate counsel at the expense of the indemnifying party. An
+indemnifying party will not, without the prior written consent of the
+indemnified parties, settle or compromise or consent to the entry of any
+judgment with respect to any pending or threatened claim, action, suit or
+proceeding in respect of which indemnification or contribution may be sought
+hereunder (whether or not the indemnified parties are actual or potential
+parties to such claim or action) unless such settlement, compromise or consent
+includes an unconditional release of each indemnified party from all liability
+arising out of such claim, action, suit or proceeding.
+
+         4.7 AUTHORIZED REPRESENTATIVE. EMCM shall act as Gliatech's Authorized
+Representative within the territories that comply with the Medical Device
+Directives ("MDD"). EMCM shall be responsible to act as a liaison between
+Gliatech and the applicable European Union's regulatory authority.
+
+                  As Gliatech's "Authorized Representative" EMCM is responsible
+for reporting any information brought to the attention of EMCM, which could be
+considered relevant to device vigilance reporting (e.g., complaints) activities,
+as such activities are defined in the European Commission publication,
+Guidelines on Medical Devices Vigilance System, MEDDEV 2. 12/1 March 1998 - rev.
+3. EMCM must report such information to Gliatech within 24 hours of EMCM's
+becoming aware of such information. EMCM is not responsible for device vigilance
+reporting and Gliatech assumes all device vigilance reporting responsibilities.
+EMCM agrees to
+
+
+
+                                       7
+<PAGE>   8
+
+
+notify Gliatech of all potentially reportable events and to provide all
+information relating to device vigilance reporting.
+
+                  In addition, EMCM will inform Gliatech of any information to
+which they become aware, that could be considered relevant for purposes of post
+market surveillance activities (e.g., verbal and written comments from end
+users, etc.). EMCM is not responsible for post market surveillance activities
+and Gliatech assumes all post market surveillance responsibilities; provided
+that EMCM properly notifies Gliatech of all relevant information relating to
+post market surveillance.
+
+                  EMCM shall maintain a file containing the full index of the
+ADCON-L technical dossier, as required by the MDD, which will contain a
+reference to the location of the details of the dossier.
+
+         4.8 COMPLAINTS. EMCM and Gliatech shall be responsible for notifying
+each other of any complaints received pertaining to manufacture of the Products.
+EMCM shall be responsible to maintain a file of complaints pertaining to the
+Products, and to ensure a proper training of manufacturing personnel in response
+to any Product complaint. Gliatech shall be responsible to provide EMCM with a
+summary of any manufacturing complaints which it receives, as well as a copy of
+Gliatech's response.
+
+         4.9 NOTIFICATION. Any official notification as required by this
+Agreement shall be addressed to:
+
+                                    Dr. J.A. de Vries, Director
+
+                                    European Medical Contract Manufacturing
+                                    Middenkampweg 17
+                                    6545 CH Nijmegen
+                                    The Netherlands
+                                    Phone:  (31) 243-715252
+                                    Fax:    (31) 243-715253
+
+                                    Rodney E. Dausch
+                                    Gliatech Medical Inc.
+                                    23420 Commerce Park Road
+                                    Beachwood, Ohio 44122
+                                    Phone:  (216) 831-3200
+                                    Fax:    (216)831-4220
+
+Each of the parties shall be responsible for notifying the other of any changes
+this information.
+
+         4.10 INSPECTION. Gliatech shall have the right to normally inspect
+EMCM's facilities and documentation relating to this Agreement at any time
+during normal business hours.
+
+
+                                       8
+<PAGE>   9
+
+
+                                   ARTICLE V
+   MATERIAL RESPONSIBILITY AND REJECTION OF PRODUCT IN CASE OF NON-CONFORMITY
+
+         5.1 MATERIALS LOSSES. Gliatech shall maintain ownership of all
+materials provided to EMCM as outlined in Article 3.1(h) hereof. Gliatech shall
+be responsible to provide EMCM with adequate material to manufacture the
+Products. Any losses in excess of normal expectations shall be the
+responsibility of EMCM.
+
+              (a) EMCM shall reimburse Gliatech for losses in excess of these
+agreed upon, acceptable levels at Gliatech's cost for the item. Such cost
+records shall be made available to Gliatech on request by EMCM.
+
+         5.2 REJECTION FOR NON-CONFORMANCE. Gliatech may reject any Product
+which does not comply with the Specifications. Such materials shall be
+determined to have been produced outside of the Specifications, and EMCM shall
+be responsible for such losses and will reimburse Gliatech for the costs of such
+losses.
+
+              (a) EMCM shall have the right to challenge the replacement of
+materials for such rejected Product within thirty (30) days after such
+rejection. In the event of such a challenge, representatives of Gliatech and
+EMCM will jointly produce an identical quantity of Product, utilizing, when
+possible, identical materials. This production will occur within EMCM's
+facilities within thirty (30) days of Gliatech's receipt of EMCM's challenge of
+non-conformance, which shall be provided in writing.
+
+                  (1) Should the Product not meet such acceptance criteria set
+forth in the Specifications, the original Product will be determined to have
+been produced outside of the Specifications. EMCM shall replace all
+Gliatech-provided materials related to such rejected Product and shall
+immediately schedule production to replace the rejected Product.
+
+                  (2) Should the product not meet specifications due to the
+failure of Gliatech equipment or processes, through no fault or negligence of
+EMCM, EMCM will not be responsible for such rejected product.
+
+                  (3) Should the Product meet such acceptance criteria, EMCM
+shall be determined to be in compliance with the Specifications and shall not be
+accountable for the material loss.
+
+              (b) Gliatech shall have the right to withhold payment of accepted
+Products until EMCM makes financial restitution for the rejected Product and all
+Gliatech-provided materials related thereto.
+
+                                   ARTICLE VI
+                                PRICE AND PAYMENT
+
+         6.1 PRICE. Gliatech agrees to pay EMCM the price for each Product
+satisfying the acceptance criteria as detailed in Schedule B, attached hereto.
+The price shall be based on a per unit cost.
+
+
+                                       9
+<PAGE>   10
+
+
+              (a) The price shall remain in effect for the initial term of the
+contract. EMCM may increase the price on an annual basis to reflect the increase
+in labor costs, not to exceed yearly increases in accordance with the Consumer
+Price Index as published in the Wall Street Journal U.S. City Average, all Urban
+Workers Cleveland in December of each year ("CPI"). The price increase shall not
+exceed documented cost increases at the end of each contract period, and EMCM
+shall notify Gliatech in writing one month prior to the expiration date of any
+such increase. If no notice is received by that time, the existing price shall
+remain in effect in the event of any renewal.
+
+              (b) Gliatech shall have the right to challenge any price increase
+based on the increase in the costs of labor. Upon demand, EMCM shall provide to
+Gliatech documentation costs.
+
+         6.2 METHOD OF PAYMENT. All payments due under this Agreement shall be
+paid in U.S. dollars within thirty (30) days from the receipt of the applicable
+undisputed invoice.
+
+                                  ARTICLE VII
+                          EXCLUSIVITY OF THE AGREEMENT
+
+         7.1 ENTIRE AGREEMENT. This Agreement, with accompanying Attachments and
+Schedules, represents the entire agreement between Gliatech and EMCM. This
+Agreement supersedes any verbal or written prior agreement and can be modified
+only in writing by the consent and agreement of both parties.
+
+         7.2 NO WAIVER. None of the terms of this Agreement shall be deemed to
+be waived or amended by either party unless such a waiver or amendment
+specifically references this Agreement and is in writing signed by the party to
+be bound.
+
+         7.3 SUCCESSORS AND ASSIGNS. This Agreement shall be binding upon and
+inure to the benefit of the parties, their successors and assigns. This
+Agreement shall not be assignable by EMCM without the prior written consent of
+Gliatech.
+
+         7.4 NO STRICT CONSTRUCTION. The language used in this Agreement shall
+be deemed to be the language chosen by both parties hereto to express their
+mutual intent and no rule of strict construction against either party shall
+apply to any term or condition of this Agreement.
+
+         7.5 COMPLIANCE WITH LAWS. Each party shall comply with all applicable
+laws, regulations and orders including, but not limited to, import regulations.
+The parties shall cooperate with each other to comply with all such measures and
+shall promptly inform the other party of any suspected noncompliance.
+
+         7.6 SEVERABILITY. Should any provision of this Agreement be held
+illegal, invalid or unenforceable by any court or regulatory agency of competent
+jurisdiction, such provision shall be modified by such court or regulatory
+agency in compliance with the law and, as modified, enforced. All other terms
+and conditions of this Agreement shall remain in full force and effect and shall
+be construed in accordance with the modified provision, and as if such illegal,
+invalid or unenforceable provision had not been contained herein.
+
+
+
+                                       10
+<PAGE>   11
+
+
+         7.7 RELATIONSHIP OF THE PARTIES. Nothing herein shall be construed to
+create any relationship of employer and employee, agent and principal,
+partnership or joint venture between the parties. Each party is an independent
+contractor. Neither party shall assume, either directly or indirectly, any
+liability of or for the other party. Neither party shall have the authority to
+bind or obligate the other party and neither party shall represent that it has
+such authority.
+
+         7.8 CHOICE OF LAW. This Agreement and all disputes arising hereunder
+shall be governed by, and interpreted in accordance with, the internal laws (and
+not the laws of conflicts) of the State of Ohio. Any dispute, controversy or
+claim arising out of or relating to the validity, construction, enforceability
+or performance of this Agreement, including disputes relating to alleged breach
+or to termination of this Agreement, shall be settled by binding Alternative
+Dispute Resolution ("ADR"), and shall be conducted by single arbitrator
+("Arbitrator"). The Arbitrator shall be selected from the CPR National Panel of
+Distinguished Neutrals of the CPR Institute for Dispute Resolution or its
+successor organization.
+
+         7.9 CONSENT TO JURISDICTION. In the event of any dispute arising
+between the parties in connection with this Agreement or any clause or the
+construction thereof, or the rights, duties or liabilities or either party, the
+following shall apply. If Gliatech elects to bring any equitable or legal
+proceeding against EMCM, such proceeding shall be brought in a court having
+jurisdiction over EMCM in The Netherlands. If EMCM elects to bring any equitable
+or legal proceeding against Gliatech, such proceeding shall be brought in a
+court having jurisdiction over Gliatech in Ohio, U.S.A. Each party hereto hereby
+irrevocably submits to the jurisdiction of such courts, irrevocably consents to
+the service of process by registered mail or personal service and hereby
+irrevocably waives, to the fullest extent permitted by law, any objection which
+it may have or hereafter have as to personal jurisdiction and venue of any such
+action or proceeding brought in such court has been brought in an inconvenient
+forum.
+
+         7.10 SURVIVAL OF PROVISIONS. Articles 2.4, 4.5, 4.6, 4.7, 4.8, 7.8, 7.9
+and 7.10 hereof shall survive the termination of this Agreement for any reason.
+
+         7.11 COUNTERPARTS. This Agreement may be executed in counterparts, any
+one of which need not contain the signatures of more than one party, but both of
+which, taken together, shall constitute one and the same agreement.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement to be
+effective as of the date first above written.
+
+                                        European Medical Contract Manufacturing
+
+                                        By:  /s/ J.A. de Vries
+                                           -------------------------------------
+                                        Title:  President
+                                               ---------------------------------
+                                        Gliatech Medical Inc.
+
+                                        By:  /s/ Rodney E. Dausch
+                                            ------------------------------------
+                                        Title:  Chief Operating Officer
+                                               ---------------------------------
+
+
+                                       11
+</TEXT>
+</DOCUMENT>

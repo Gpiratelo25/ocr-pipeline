@@ -1,0 +1,1993 @@
+<DOCUMENT>
+<TYPE>EX-10.3
+<SEQUENCE>4
+<FILENAME>0004.txt
+<DESCRIPTION>EXHIBIT 10.3
+<TEXT>
+
+<PAGE>
+
+                                                                   Exhibit 10.3
+
+                                                                   Executed Copy
+
+
+                   AMENDED AND RESTATED SERVICING AGREEMENT
+
+
+                                --------------
+
+                           CREDITRUST SPV99-2, LLC,
+                                   as Issuer
+
+
+                                      and
+
+
+                            CREDITRUST CORPORATION,
+                    as Servicer of the Consumer Receivables
+
+
+                                      and
+
+
+                 NORWEST BANK MINNESOTA, NATIONAL ASSOCIATION,
+                            as Administrative Agent
+
+
+
+
+                           Dated as of March 1, 2000
+
+                                 -------------
+<PAGE>
+
+                               TABLE OF CONTENTS
+
+<TABLE>
+  <S>                                                                                                       <C>
+  ARTICLE I DEFINITIONS..................................................................................    1
+    SECTION 1.01  Definitions............................................................................    1
+    SECTION 1.02  Interpretation.........................................................................    8
+
+  ARTICLE II   SERVICER'S DUTIES AS CUSTODIAN............................................................    8
+    SECTION 2.01  Duties as Custodian....................................................................    8
+    SECTION 2.02  Effective Period and Termination.......................................................    9
+
+  ARTICLE III   ADMINISTRATION AND SERVICING OF CONSUMER RECEIVABLES.....................................    9
+    SECTION 3.01  Duties of Servicer.....................................................................    9
+    SECTION 3.02  Collection of Consumer Receivable Payments.............................................   10
+    SECTION 3.03  Covenants of Servicer..................................................................   10
+    SECTION 3.04  Servicing Fee; Payment of Certain Expenses by Servicer.................................   12
+    SECTION 3.05  Monthly Servicer Report................................................................   13
+    SECTION 3.06  Annual Statement as to Compliance; Annual Accountants Report...........................   12
+    SECTION 3.07  Access to Certain Documentation and Information........................................   14
+
+  ARTICLE IV   THE ACCOUNTS; PAYMENTS; STATEMENTS TO LENDERS.............................................   14
+    SECTION 4.01  Accounts...............................................................................   14
+    SECTION 4.02  Collections............................................................................   15
+    SECTION 4.03  Intentionally Omitted..................................................................   15
+    SECTION 4.04  Allocations and Payments...............................................................   15
+    SECTION 4.05  Statements to Lenders..................................................................   16
+  ARTICLE V   INTENTIONALLY OMITTED......................................................................   17
+
+  ARTICLE VI   INTENTIONALLY OMITTED.....................................................................   17
+
+  ARTICLE VII   THE SERVICER.............................................................................   17
+    SECTION 7.01  Representations of the Servicer........................................................   17
+    SECTION 7.02  Liability of Servicer; Indemnities.....................................................   19
+    SECTION 7.03  Merger or Consolidation of, or Assumption of the Obligations of, the Servicer..........   20
+    SECTION 7.04  Limitation on Liability of Servicer and Others.........................................   20
+    SECTION 7.05  Servicer Not to Resign.................................................................   20
+    SECTION 7.06  General Covenants of Servicer..........................................................   21
+
+  ARTICLE VIII   SERVICER DEFAULT; EVENTS OF DEFAULT; REMEDIES...........................................   24
+    SECTION 8.01  Servicer Default.......................................................................   24
+    SECTION 8.02  Consequences of a Servicer Default.....................................................   23
+    SECTION 8.03  Appointment of Successor Servicer......................................................   24
+    SECTION 8.04  Notification to Lenders................................................................   26
+</TABLE>
+
+                                      -i-
+<PAGE>
+
+<TABLE>
+    <S>                                                                                                    <C>
+    SECTION 8.05  Waiver of Past Servicer Defaults.......................................................   25
+    SECTION 8.06  Intentionally Omitted..................................................................   27
+
+  ARTICLE IX   INTENTIONALLY OMITTED.....................................................................   25
+
+  ARTICLE X   INTENTIONALLY OMITTED......................................................................   25
+
+  ARTICLE XI   MISCELLANEOUS PROVISIONS..................................................................   25
+    SECTION 11.01  Amendment.............................................................................   25
+    SECTION 11.02  Intentionally Omitted.................................................................   27
+    SECTION 11.03  Limitation of Rights of Lenders.......................................................   26
+    SECTION 11.04  Governing Law.........................................................................   26
+    SECTION 11.05  Notices...............................................................................   26
+    SECTION 11.06  Severability of Provisions; Counterparts..............................................   26
+    SECTION 11.07  Assignment............................................................................   28
+    SECTION 11.08  No Petition...........................................................................   28
+    SECTION 11.09  Lender Direction......................................................................   27
+    SECTION 11.10  No Substantive Review of Compliance Documents.........................................   29
+</TABLE>
+
+                                     -ii-
+<PAGE>
+
+                   AMENDED AND RESTATED SERVICING AGREEMENT
+                   ----------------------------------------
+
+         THIS AMENDED AND RESTATED SERVICING AGREEMENT (this "Agreement"), dated
+as of March 1, 2000, is made and entered into by and among CREDITRUST SPV99-2,
+LLC, as issuer (the "Issuer"), CREDITRUST CORPORATION, as servicer (the
+"Servicer"), and NORWEST BANK MINNESOTA, NATIONAL ASSOCIATION, as administrative
+agent (the "Administrative Agent"). This Agreement hereby amends and restates
+that certain servicing agreement (the "Original Servicing Agreement"), dated as
+of August 2, 1999, by and between the Issuer and the Servicer.
+
+         WHEREAS, the Issuer and the Servicer each desire to amend and restate
+the Original Servicing Agreement; and
+
+         WHEREAS, the Issuer, the Servicer and the Administrative Agent, inter
+alia, are parties to the Bridge Loan Agreement (as hereinafter defined); and
+
+         WHEREAS, the Issuer, the Servicer and the Administrative Agent desire
+to set forth their agreement as to the Servicer's servicing of certain
+collateral owned by Issuer and pledged to the Administrative Agent as security
+for Issuer's obligations under the Bridge Loan Agreement.
+
+         NOW, THEREFORE, in consideration of the mutual agreements herein
+contained, and other good and valuable consideration, the receipt and
+sufficiency of which are hereby acknowledged, each party agrees as follows for
+the benefit of the other parties and the Lenders to the extent provided herein:
+
+
+                                   ARTICLE I
+                                  DEFINITIONS
+
+
+         SECTION 1.01 Definitions.
+
+         Except as otherwise provided in this Agreement, whenever used herein,
+the following words and phrases, unless the context otherwise requires, shall
+have the following meanings:
+
+         "Account Control Agreement" means the Account Control Agreement, dated
+          -------------------------
+October 10, 1999, by and among the Issuer, Capital, the Servicer (in its
+capacity as parent guarantor), the Administrative Agent, and First Union
+National Bank, Capital Management Group.
+
+         "Account Security Agreement" means the Account Security Agreement,
+          --------------------------
+dated October 10, 1999, by and among the Issuer, Capital, the Servicer (in its
+capacity as parent guarantor), and the Administrative Agent.
+
+         "Accounts" means the Collection Account and the Securities Account.
+          --------
+<PAGE>
+
+         "Administrative Agent" means Norwest Bank Minnesota, National
+          --------------------
+Association, acting pursuant to the authority granted in the Bridge Loan
+Agreement.
+
+         "Administrative Agent Fee" means those fees set forth in the Letter
+          ------------------------
+Agreement with the Administrative Agent, dated November 4, 1999, as such shall
+be from time to time amended.
+
+         "Affiliate" means, with respect to any specified Person, any other
+          ---------
+Person controlling or controlled by or under common control with such specified
+Person. For the purposes of this definition, "control," when used with respect
+to any specified Person, means the power to direct the management and policies
+of such Person, directly or indirectly, whether through the ownership of voting
+securities, by contract or otherwise; and the term "controlling" and
+"controlled" have meanings correlative to the foregoing.
+
+         "Available Funds" means, with respect to any Payment Date and the next
+          ---------------
+preceding Determination Date, the sum of (i) the Net Proceeds recovered with
+respect to each Consumer Receivable and received in the Collection Account prior
+to the Determination Date (including amounts deposited by the Servicer pursuant
+to the last sentence of the definition of "Net Proceeds"), plus (ii) all
+                                                           ----
+available funds on deposit in the Collection Account (other than Net Proceeds of
+Consumer Receivables) as of the opening of business of the Administrative Agent
+on such Determination Date, and any earnings on investment of any funds, less
+                                                                         ----
+amounts paid out of the Collection Account in pre-payment of interest on the
+Notes pursuant to the terms thereof.
+
+         "Bridge Loan Agreement" means that certain bridge loan agreement dated
+          ---------------------
+August 2, 1999, by and among the Issuer, Capital, the Servicer, the
+Administrative Agent and certain lenders named therein.
+
+         "Business Day" means any day other than a Saturday, a Sunday or a day
+          ------------
+on which banking institutions in the State of Maryland, the State of Minnesota
+or the State of New York are required or authorized by law, regulation,
+executive order or governmental decree to be closed.
+
+         "By-laws" means the bylaws of Issuer.
+          -------
+
+         "Capital" means Creditrust SPV99-2 Capital, Inc., a Delaware
+          -------
+          corporation.
+
+         "Closing Date" means March 1, 2000.
+          ------------
+
+         "Collection Account" means the Lockbox Account as defined under the
+          ------------------
+Account Security Agreement.
+
+         "Collection Period" means, with respect to any Determination Date or
+          -----------------
+Payment Date, the period beginning on the first day of the calendar month
+immediately preceding the month in which such Determination Date or Payment Date
+occurs and ending on the last day of such calendar month.
+
+         "Conversion Fee" has the meaning set forth in the Bridge Loan
+          --------------
+Agreement.
+
+                                      -2-
+<PAGE>
+
+         "Consumer Account" means any receivable generated on a credit card
+          ----------------
+account, revolving account, or installment account.
+
+         "Consumer Receivable" means any receivable in connection with a
+          -------------------
+Consumer Account.
+
+         "Corporate Trust Office" means the office of the Administrative Agent
+          ----------------------
+at which at any particular time its corporate trust business shall be
+principally administered, which office at the date of execution of this
+Agreement is located at Sixth Street and Marquette Avenue, MAC N9303-120,
+Minneapolis, Minnesota 55479, Attention: Corporate Trust Services.
+
+         "Customary Procedures" means the customary practices, policies,
+          --------------------
+standards and procedures of the Servicer relating to the acquisition and
+collection of comparable defaulted consumer receivables that it services for
+itself or others, in each case as in effect on the Closing Date which include
+backup servicing files and disaster recovery plans, as the same may be modified
+by the Servicer from time to time thereafter, and shall include compliance with
+all applicable laws, rules and regulations and compliance with the terms of this
+Agreement.
+
+         "Determination Date" means, with respect to any Payment Date, the
+          ------------------
+second Business Day next preceding such Payment Date.
+
+         "Final Payment Date" shall mean the earlier of September 30, 2002 or
+          ------------------
+(ii) the Payment Date which follows the Payment Date on which all proceeds of a
+sale of the assets of the Issuer were distributed.
+
+         "GAAP" means generally accepted accounting principles that are (i)
+          ----
+consistent with the principles promulgated or adopted by the Financial
+Accounting Standards Board and its predecessors, as in effect from time to time,
+and (ii) consistently applied with past financial statements of the Servicer and
+its subsidiaries; provided that a certified public accountant would, insofar as
+the use of such accounting principles is pertinent, be in a position to deliver
+an unqualified opinion (other than a qualification regarding changes in
+generally accepted accounting principles) as to financial statements in which
+such principles have been properly applied.
+
+         "Independent Member" has the meaning set forth in the Amended and
+          ------------------
+Restated Limited Liability Company Operating Agreement of the Issuer.
+
+         "Insolvency Event" means, with respect to a specified Person, (a) the
+          ----------------
+filing of a decree or order for relief by a court having jurisdiction in the
+premises in respect of such Person or any substantial part of its property in an
+involuntary case under any applicable bankruptcy, insolvency or other similar
+law now or hereafter in effect, or the filing of a petition against such Person
+in an involuntary case under any applicable bankruptcy, insolvency or other
+similar law now or hereafter in effect, which case remains unstayed and
+undismissed within 30 days of such filing, or the appointing of a receiver,
+liquidator, assignee, custodian, trustee, sequestrator or similar official for
+such Person or for any substantial part of its property, or the ordering of the
+winding-up or liquidation of such Person's business; or (b) the commencement by
+such Person of
+
+                                      -3-
+<PAGE>
+
+a voluntary case under any applicable bankruptcy, insolvency or other similar
+law now or hereafter in effect, or the consent by such Person to the entry of an
+order for relief in an involuntary case under any such law, or the consent by
+such Person to the appointment of or taking possession by a receiver,
+liquidator, assignee, custodian, trustee, sequestrator or similar official for
+such Person or for any substantial part of its property, or the making by such
+Person of any general assignment for the benefit of creditors, or the failure by
+such Person generally to pay its debts as such debts become due or the admission
+by such Person of its inability to pay its debts generally as they become due.
+
+         "Insolvency Proceeding" means any proceeding of the sort described in
+          ---------------------
+the definition of Insolvency Event.
+
+         "Interest Carryover Shortfall" when used in reference to either the
+          ----------------------------
+Note Balance or the Conversion Fee, means, with respect to any Payment Date, the
+excess, if any, of (i) the Interest Distributable Amount in connection with the
+Note Balance or the Conversion Fee, as applicable, for such Payment Date and all
+prior Payment Dates, over (ii) the amount of interest, if any, actually paid to
+Lenders on such Payment Date and all prior Payment Dates.
+
+         "Interest Distributable Amount" when used in reference to either the
+          -----------------------------
+Note Balance or the Conversion Fee, means, with respect to any Payment Date, the
+product of (A) one-twelfth of the Note Rate and (B) the Note Balance or the
+unpaid amount of the Conversion Fee, as applicable, as of the immediately
+preceding Payment Date (after giving effect to payments in reduction of the Note
+Balance or the Conversion Fee made on such immediately preceding Payment Date,
+if any) or, in the case of the initial Payment Date, the Original Note Balance
+or the original Conversion Fee, as applicable; provided, however, that with
+respect to the initial Payment Date, the amount calculated in accordance with
+the preceding clause shall be multiplied by a fraction, the numerator of which
+is the number of days from and including the Closing Date to, but not including,
+the initial Payment Date and the denominator of which is 30.
+
+         "Issuer" means Creditrust SPV99-2, LLC, in its capacity as issuer of
+          ------
+the Notes pursuant to the Bridge Loan Agreement, and each successor thereto (in
+the same capacity.
+
+         "Lenders" has the meaning set forth in the Bridge Loan Agreement.
+          -------
+
+         "Lien" means any security interest, lien, charge, pledge, equity or
+          ----
+encumbrance of any kind.
+
+         "LLC Agreement" means the limited liability company agreement of
+          -------------
+Issuer.
+
+         "Loan Documents" has the meaning provided in the Bridge Loan Agreement.
+          --------------
+
+         "Majority Lenders" has the same meaning set forth in the Bridge Loan
+          ----------------
+Agreement.
+
+         "Monthly Servicer Report" means an Officer's Certificate of the
+          -----------------------
+Servicer completed and executed pursuant to Section 3.05, substantially in the
+form attached hereto as Exhibit A.
+                        ---------
+
+                                      -4-
+<PAGE>
+
+         "Net Proceeds" means, with respect to a Consumer Receivable, all monies
+          ------------
+in available funds actually collected, received or otherwise recovered from or
+for the account of the related Obligor on such Consumer Receivable, less any
+                                                                    ----
+amounts not credited to the Collection Account due to insufficient funds, less
+Third-Party Fees, which will be deducted from collections on such Consumer
+Receivable by such third parties or by the Servicer, however applicable. Such
+Third-Party Fees shall not exceed $924,000 in the aggregate throughout the life
+of this Agreement (commencing August 2, 1999). The Servicer shall reimburse to
+the Collection Account (either from its own funds or by reduction of the
+Servicing Fee) the amount by which any Third-Party Fees deducted from any
+amounts any third parties remit on account of a Consumer Receivable exceed the
+aforestated aggregate maximum amount.
+
+         "Note(s)" means the Bridge Note(s) issued under and defined in the
+          -------
+Bridge Loan Agreement and held by the Lenders.
+
+         "Note Balance" means the principal balance from time to time under the
+          ------------
+Notes.
+
+         "Note Rate" means the applicable interest rate from time to time under
+          ---------
+the Notes.
+
+         "Obligations" has the meaning provided in the Bridge Loan Agreement.
+          -----------
+
+         "Obligor" on a Consumer Receivable means any Person who owes or may be
+          -------
+liable for payments under such Consumer Receivable.
+
+         "Officer's Certificate" means a certificate signed by a Responsible
+          ---------------------
+Officer of the Issuer or the Servicer, as the case may be, and delivered to the
+Administrative Agent.
+
+         "Opinion of Counsel" means a written opinion of counsel, who may be an
+          ------------------
+employee of or outside counsel to the Person responsible for providing such
+opinion, and which opinion shall be reasonably acceptable to the Administrative
+Agent and the Majority Lenders.
+
+         "Original Note Balance" means $40,000,000.
+          ---------------------
+
+         "Original Servicing Agreement" means that certain servicing agreement
+          ----------------------------
+entered into by and between the Issuer and the Servicer, dated as of August 2,
+1999.
+
+         "Payment Date" means the twelfth day of each calendar month or, if such
+          ------------
+day is not a Business Day, the next succeeding Business Day.
+
+         "Permitted Expenses" means Lenders' legal fees incurred in connection
+          ------------------
+with the Bridge Loan Agreement and Amendment No. 1 thereto, Issuer's legal fees
+incurred in connection with the Bridge Loan Agreement and Amendment No. 1
+thereto not to exceed $30,000 in the aggregate, and reimbursement to the Issuer
+of the fees of R.R. Donnelly & Sons Co. in the amount of $77,850.37. Except as
+provided in the preceding sentence, expenses of capital markets and similar
+transactions (whether closed or failed) are not Permitted Expenses and may not
+be paid from collections of Consumer Receivables (but reasonable expenses of
+closed
+
+                                      -5-
+<PAGE>
+
+transactions may be deducted from the proceeds thereof before they are applied
+to the payment of the Notes).
+
+         "Permitted Investments" has the meaning set forth in the Bridge Loan
+          ---------------------
+Agreement.
+
+         "Person" means any legal person, including any individual, corporation,
+          ------
+partnership, limited liability company, joint venture, association, joint stock
+company, trust, unincorporated organization or government or any agency or
+political subdivision thereof.
+
+         "Prepayment Date" has the meaning set forth in the Bridge Loan
+          ---------------
+Agreement.
+
+         "Receivable File" means, to the extent applicable in the circumstances:
+          ---------------
+(a) the agreements pursuant to which a Consumer Receivable was purchased by or
+on behalf of the Issuer; (b) any other documents received from or made available
+by the related financial institution or merchant which originated the Consumer
+Receivable (or other seller of the Consumer Receivables) in respect of such
+Consumer Receivable; (c) a copy of the marked computer records indicating the
+interest of Administrative Agent on behalf of the Lenders in the Consumer
+Receivable; and (d) any and all other documents and records that the Issuer or
+the Servicer, as the case may be, shall keep on file, in accordance with its
+customary procedures, relating to such Consumer Receivable or the related
+Obligor.
+
+         "Related Person" and "Related Person Transaction" have the meanings
+          --------------
+given in Section 7.06(a) of this Agreement.
+
+         "Responsible Officer" means as follows:
+          -------------------
+
+               (i)  when used with respect to the Administrative Agent, any
+         officer within the Corporate Trust Office of the Administrative Agent,
+         including any vice president, assistant vice president, assistant
+         treasurer, assistant secretary or any other officer of the
+         Administrative Agent customarily performing functions similar to those
+         performed by any of the above designated officers and also, with
+         respect to a particular matter, any other officer to whom such matter
+         is referred because of such officer's knowledge of and familiarity with
+         such particular subject, and
+
+               (ii) when used with respect to the Issuer or the Servicer, the
+         chief executive officer, the president, the chief financial officer,
+         the chief legal officer, the chief recovery officer or the chief
+         acquisitions officer of the Issuer or the Servicer, as the case may be.
+
+         "Securities Act" means the Securities Act of 1933, as amended.
+          --------------
+
+         "Securities Account" means the account established under the Account
+          ------------------
+Control Agreement.
+
+         "Servicer" means Creditrust Corporation, in its capacity as servicer of
+          --------
+the Consumer Receivables pursuant to this Agreement, and each successor thereto
+(in the same capacity) appointed pursuant to Section 8.03 of this Agreement.
+
+                                      -6-
+<PAGE>
+
+         "Servicer Default" shall have the meaning specified in Section 8.01 of
+          ----------------
+this Agreement.
+
+         "Servicing Fee" means the fee payable to the initial Servicer on each
+          -------------
+Payment Date, calculated pursuant to Section 3.04 of this Agreement, for
+services rendered during the related Collection Period, which shall be, for any
+Payment Date, equal to forty percent (40%) of all Net Proceeds collected,
+received or otherwise recovered from or for the account of the Obligors during
+such Collection Period subject to reduction pursuant to Section 3.04 of this
+Agreement. The term "Servicing Fee" for a Successor Servicer shall mean the fee
+payable to a Successor Servicer for servicing pursuant to Section 8.03 of this
+Agreement. For this purpose, Net Proceeds shall not include amounts reimbursed
+to the Collection Account pursuant to the last sentence of the definition of Net
+Proceeds.
+
+         "Successor Servicer" has the meaning provided in Section 8.03 of this
+          ------------------
+Agreement.
+
+         "Third-Party Fees" means, with respect to a Consumer Receivable and any
+          ----------------
+Collection Period, the amount of (i) any contingency attorneys' fees paid to
+contingency collection lawyers retained or otherwise engaged by the Servicer
+under fee or compensation arrangements that are contingent upon and determined
+by reference to amounts said lawyers recover in respect of the related Consumer
+Receivable, which fees must be commercially reasonable, and (ii) court costs
+(which term does not include attorneys' fees) incurred in connection with
+collection of Consumer Receivables.
+
+         "Transaction Documents" means, collectively, this Agreement, the Bridge
+          ---------------------
+Loan Agreement, Amendment No. 1 to Bridge Loan Agreement, the LLC Agreement, the
+Notes, the Account Control Agreement, the Account Security Agreement, and each
+of the other documents, instruments and agreements entered into in connection
+with any of the foregoing or the transactions contemplated thereby.
+
+         "UCC" means the Uniform Commercial Code as in effect in the State of
+          ---
+Maryland.
+
+         "United States" means the United States of America.
+          -------------
+
+         "Vice President" of any Person means any vice president of such Person,
+          --------------
+whether or not designated by a number or words before or after the title "Vice
+President," who is a duly elected officer of such Person.
+
+         "Voting Interests" means the aggregate voting power evidenced by the
+          ----------------
+Notes, corresponding to the outstanding Note Balance of the Notes held by
+individual Lenders; provided, however, that where the Voting Interests are
+relevant in determining whether the vote of the requisite percentage of Lenders
+necessary to effect any consent, waiver, request or demand shall have been
+obtained, the Voting Interests shall be deemed to be reduced by the amount equal
+to the Voting Interests (without giving effect to this provision) represented by
+the interests evidenced by any Note registered in the name of, or in the name of
+a Person or entity holding for the benefit of, the Issuer, the Servicer or any
+Person actually known to a Responsible Officer of
+
+                                      -7-
+<PAGE>
+
+the Administrative Agent to be an Affiliate of either or both of the Issuer and
+the Servicer, and the vote of such Voting Interest shall not be considered.
+
+
+
+
+         SECTION 1.02  Interpretation.
+
+         Unless otherwise indicated in this Agreement:
+
+         (a)   reference to and the definition of any document (including
+this Agreement) shall be deemed a reference to such document as it may be
+amended or modified from time to time;
+
+         (b)   all  references to an  "Article,"  "Section,"  "Schedule"  or
+"Exhibit"  are to an Article or Section  hereof or to a Schedule or an Exhibit
+attached hereto;
+
+         (c)   defined terms in the singular shall include the plural and
+vice versa, and the masculine, feminine or neuter gender shall include all
+genders;
+
+         (d)   the words "hereof," "herein" and "hereunder" and words of
+similar import when used in this Agreement shall refer to this Agreement as a
+whole and not to any particular provision of this Agreement;
+
+         (e)   in the computation of periods of time from a specified date to
+a later specified date, the word "from" means "from and including" and the words
+"to" and "until" each means "to but excluding";
+
+         (f)   periods of days referred to in this Agreement shall be counted
+in calendar days unless Business Days are expressly prescribed and references in
+this Agreement to months and years shall be to calendar months and calendar
+years unless otherwise specified;
+
+         (g)   accounting terms not otherwise defined herein and accounting
+terms partly defined herein to the extent not defined, shall have the respective
+meanings given to them under GAAP; and
+
+         (h)   the headings in this Agreement are for the purpose of
+reference only and do not limit or affect its meaning.
+
+
+                                  ARTICLE II
+                        SERVICER's DUTIES AS CUSTODIAN
+
+         SECTION 2.01  Duties as Custodian.
+
+         (a)  The Servicer, in its capacity as custodian, shall hold all
+documents relating to the Receivable Files on behalf of the Lenders and maintain
+such accurate and complete accounts, records and computer systems pertaining to
+each Consumer Receivable as shall enable the
+
+                                      -8-
+<PAGE>
+
+Servicer to comply with this Agreement. In performing its duties as custodian,
+the Servicer shall act with reasonable care and with that degree of skill and
+attention that it exercises with respect to the Receivable Files of comparable
+defaulted receivables that the Servicer services for itself. The Servicer shall
+conduct periodic examinations of the files of Consumer Receivables serviced by
+it pursuant to this Agreement, and of the related accounts, records and computer
+systems, in such a manner as shall reasonably enable the Lenders to verify the
+accuracy of the Servicer's record keeping. The Servicer shall promptly report to
+the Lenders any material failure on its part to hold the Consumer Receivables
+and maintain its accounts, records and computer systems as herein provided and
+promptly take appropriate action to remedy any such failure.
+
+         (b)  The Servicer shall maintain each Receivable File at its office
+specified in Section 11.05 or at such other office as shall be specified to the
+Lenders. The Servicer shall make available to the Lenders or their duly
+authorized representatives, attorneys or auditors the Receivable Files and the
+accounts, records and computer systems maintained by the Servicer with respect
+thereto upon not less than two (2) Business Days' prior written notice for
+examination during normal business hours.
+
+
+         SECTION 2.02. Effective Period and Termination.
+
+
+         The Servicer's appointment as custodian of the Consumer Receivables
+shall continue in full force and effect so long as it is the Servicer under this
+Agreement. If all of the rights and obligations of the Servicer have been
+terminated pursuant to this Agreement, the appointment of the Servicer as
+custodian of the Receivable Files shall immediately terminate. As soon as
+practicable, but not more than two (2) Business Days after any termination of
+such appointment, the Servicer shall deliver the Receivable Files to the Lenders
+or their agent at such place or places as the Administrative Agent or a majority
+of the Lenders may reasonably designate.
+
+
+                                  ARTICLE III
+             ADMINISTRATION AND SERVICING OF CONSUMER RECEIVABLES
+
+
+         SECTION 3.01  Duties of Servicer.
+
+         The Servicer, as agent for the Issuer, shall manage, service,
+administer and make collections on and in respect of the Consumer Receivables
+with reasonable care, and in any event with not less than that degree of skill
+and attention that the Servicer exercises with respect to all comparable
+defaulted consumer receivables that it services for itself or others (whether or
+not the Servicer shall then be servicing comparable defaulted consumer
+receivables for itself or others). The Servicer's duties shall include
+collecting and posting all payments, responding to inquiries of Obligors or by
+federal, state or local government authorities with respect to the Consumer
+Receivables, investigating delinquencies, implementation of payment plans,
+sending payment information to Obligors, reporting tax information to Obligors
+in accordance with its customary practices, accounting for collections,
+preparing and furnishing Monthly Servicer Reports, publishing monthly and annual
+statements to the Administrative Agent with respect to payments, generating
+federal income tax information and performing the other duties specified herein.
+In performing the above-referenced services, the Servicer shall perform in
+accordance with
+
+                                      -9-
+<PAGE>
+
+Customary Procedures and shall have full power and authority, acting alone, to
+do any and all things in connection with such managing, servicing,
+administration and collection that it may deem necessary or desirable.
+
+         Without limiting the generality of the foregoing, the Servicer shall be
+authorized and empowered by the Issuer to execute and deliver, on behalf of
+itself, the Administrative Agent, the Lenders, or any of them, any and all
+instruments of satisfaction or cancellation, or of partial or full release or
+discharge and all other comparable instruments, with respect to the Consumer
+Receivables. The Servicer is hereby authorized to commence, in its own name or
+in the name of the Issuer, a legal proceeding to enforce a Consumer Receivable
+or to commence or participate in a legal proceeding (including without
+limitation a bankruptcy proceeding) relating to or involving a Consumer
+Receivable if the Servicer reasonably believes that doing so should increase the
+ultimate recovery on the Consumer Receivable. If the Servicer commences or
+participates in such a legal proceeding in its own name, the Issuer shall
+thereupon be deemed to have automatically assigned, solely for the purpose of
+collection on behalf of the party retaining an interest in such Consumer
+Receivable, such Consumer Receivable and the other property owned by the Issuer
+with respect to such Consumer Receivable to the Servicer for purposes of
+commencing or participating in any such proceeding as a party or claimant, and
+the Servicer is authorized and empowered by the Issuer to execute and deliver in
+the Servicer's name any notices, demands, claims, complaints, responses,
+affidavits or other documents or instruments in connection with any such
+proceeding. If in any enforcement suit or legal proceeding it shall be held that
+the Servicer may not enforce a Consumer Receivable on the grounds that it shall
+not be a real party in interest or a holder entitled to enforce such Consumer
+Receivable, the Issuer on behalf of the Lenders shall, at the Servicer's expense
+and written direction, take reasonable steps to enforce such Consumer
+Receivable. The Servicer shall deposit or cause to be deposited into the
+Collection Account, within one Business Day of its receipt thereof, all Net
+Proceeds realized in connection with any such action pursuant to Section 4.02.
+The Issuer shall furnish the Servicer with any powers of attorney and other
+documents and take any other steps which the Servicer may deem reasonably
+necessary or appropriate to enable the Servicer to carry out its servicing and
+administrative duties under this Agreement.
+
+
+         SECTION 3.02  Collection of Consumer Receivable Payments.
+
+         The Servicer shall make reasonable efforts to collect all payments due
+and payable in connection with the Consumer Receivables, and shall at all times
+follow the Customary Procedures in so doing. The Servicer shall be authorized to
+write down the balance of any Consumer Receivable in accordance with the
+Customary Procedures without the prior consent of the Issuer; provided, however,
+that such write-down will not affect the rights of the Lenders to any amounts
+thereafter collected with respect to such Consumer Receivable. The Servicer may,
+in accordance with the Customary Procedures, waive any charges or fees that
+otherwise may be collected in the ordinary course of servicing the Consumer
+Receivables. Without limiting the foregoing, the Servicer shall comply with
+Section 4.28 of the Bridge Loan Agreement.
+
+         SECTION 3.03  Covenants of Servicer.
+
+                                      -10-
+<PAGE>
+
+         The Servicer hereby makes the following covenants with respect to each
+Consumer Receivable on which the Lenders are relying in making and converting
+the Loans:
+
+         (a)   Fulfillment of Obligations. The Servicer shall duly fulfill
+               --------------------------
+all obligations on its part to be fulfilled under or in connection with the
+Consumer Receivables pursuant to this Agreement, shall perform such obligations
+in accordance with the Customary Procedures, and shall maintain in effect all
+licenses and qualifications required in order to service the Consumer
+Receivables and shall comply in all respects with all other requirements of law,
+rules and regulations in connection with servicing the Consumer Receivables, the
+failure to comply with which would have a material adverse effect on the Issuer
+or rights or interests of the Lenders or Administrative Agent on behalf of the
+Lenders.
+
+         (b)   No Rescission or Cancellation. The Servicer shall not permit
+               -----------------------------
+any rescission or cancellation of the Consumer Receivables except as ordered by
+a court of competent jurisdiction or other governmental authority; provided,
+however, that the writing down of a Consumer Receivables balance in accordance
+with Customary Procedures shall not be deemed a rescission or cancellation of
+such Consumer Receivables.
+
+         (c)   No Impairment. The Servicer shall do nothing to impair the
+               -------------
+rights of the Issuer or the Lenders with respect to the Consumer Receivables;
+provided, however, that the writing down of a Consumer Receivable balance in
+accordance with Customary Procedures shall not be deemed an impairment of the
+rights of the Issuer or the Lenders. The Servicer shall not engage in any
+pattern of conduct under which it intentionally elects (i) to write down a
+Consumer Receivable balance from an Obligor rather than writing down a Consumer
+Account due from the same Obligor which is not a part of the Consumer
+Receivables, or (ii) to apply a payment received from an Obligor to a Consumer
+Account which is not a Consumer Receivable rather than to a Consumer Receivable
+(unless expressly instructed to do so by an Obligor) if the Servicer has actual
+knowledge that such write-downs or payment applications discriminate against the
+Lenders, or with knowledge that the effect of such intentional election is to
+discriminate against the Lenders.
+
+          (d)  No Instruments. Except in connection with its enforcement or
+               --------------
+collection of the Consumer Receivables, the Servicer shall take no action to
+cause any Consumer Receivables to be evidenced by any instruments (as defined in
+the UCC), and if any Consumer Receivable is so evidenced (whether or not in
+connection with such enforcement or collection), it shall be assigned and
+delivered to the Administrative Agent.
+
+          (e)  No Sub-Servicing. The Servicer shall not delegate its
+               ----------------
+servicing obligations under this Agreement; provided, however, that the
+delegation of recovery obligations to third party attorneys engaged by the
+Servicer shall not be deemed a breach of this clause (e).
+
+          (f)  Maintenance of Records.
+               ----------------------
+
+                                      -11-
+<PAGE>
+
+                  (i)   The Servicer shall maintain accounts and records as to
+each Consumer Receivable accurately and in sufficient detail to permit (i) the
+reader thereof to know at any time the status of such Consumer Receivable,
+including payments and recoveries made and payments owing (and the nature of
+each, if applicable) and (ii) reconciliation between payments or recoveries on
+(or with respect to) each Consumer Receivable and the amounts from time to time
+deposited in the Collection Account in respect of such Consumer Receivable.
+
+
+                  (ii)  The Servicer shall maintain its computer records so that
+the Servicer's master computer records (including any back-up archives) that
+refer to any Consumer Receivable indicate clearly the interest of the Lenders in
+such Consumer Receivable and that the Consumer Receivable is owned by the
+Lenders. Indication of the Lenders' interest in a Consumer Receivable shall be
+deleted from or modified on the Servicer's computer records when, and only when,
+the Consumer Receivable has been paid in full pursuant to this Agreement or
+irrevocably assigned to a third-party in accordance with this Agreement and the
+Loan Documents
+
+
+                  (iii) Upon request, the Servicer shall furnish to the
+Lenders, within two (2) Business Days of such request, a list of all Consumer
+Receivables (by account number and name of Obligor).
+
+
+         SECTION 3.04  Servicing Fee; Payment of Certain Expenses By Servicer.
+
+         As compensation for the performance of its obligations hereunder, the
+Servicer shall be entitled to receive on each Payment Date the Servicing Fee as
+provided in Section 4.04. Except to the extent otherwise provided herein, the
+Servicer shall be required to pay, whether or not it is receiving any servicing
+compensation, all expenses incurred in connection with servicing the Consumer
+Receivables including, without limitation, recovery and collection expenses
+related to the enforcement of the Consumer Receivables (other than those
+specified in the following proviso), payment of all fees and expenses that are
+not expressly stated in this Agreement to be payable by the Administrative
+Agent, the Lenders or the Issuer; provided, however, that the Servicer shall not
+be liable for any liabilities, costs or expenses of the Lenders arising under
+any tax law, including without limitation any federal, state or local income or
+franchise taxes or any other tax imposed on or measured by income (or any
+interest or penalties with respect thereto or arising from a failure to comply
+therewith), except as otherwise expressly provided in this Agreement. In the
+event that, commencing August 31, 2000, and on the last day of each February and
+August thereafter, the cumulative amount of Net Proceeds (calculated without
+subtracting Third-Party Fees up to the maximum amount thereof permitted to be
+incurred as set forth in the definition of Net Proceeds) in respect of all
+Consumer Receivables from August 2, 1999 to such dates is not at least equal to
+the amounts specified in Exhibit D applicable to such dates, the Servicing Fee
+                         ---------
+shall thereafter be reduced to thirty percent (30%) of Net Proceeds.
+
+
+         SECTION 3.05  Monthly Servicer Report.
+
+         On or before 12:00 noon New York, New York time on each Determination
+Date, the Servicer shall (i) deliver to the Lenders and the Administrative Agent
+by electronic mail and by facsimile a Monthly Servicer Report executed by a
+Responsible Officer of the Servicer
+
+                                      -12-
+<PAGE>
+
+substantially in the form attached hereto as Exhibit A (and setting forth such
+                                             ---------
+additional information as requested by the Administrative Agent or any Lender
+from time to time, which information the Servicer is able to reasonably provide)
+containing all information necessary to make the payments required by Section
+4.04 in respect of the Collection Period immediately preceding the date of such
+Monthly Servicer Report and the information necessary for the Administrative
+Agent to send statements to Lenders pursuant to Section 4.05(a); and (ii)
+deliver to the Administrative Agent by first class mail a computer diskette
+containing the information fields identified in Exhibit B updated through the
+                                                ---------
+end of such Collection Period. Servicer represents and warrants that the
+information fields set forth on Exhibit B are the same as those provided to
+                                ---------
+administrative agents in its other asset-backed transactions. Servicer agrees to
+provide to the Administrative Agent, at Servicer's cost and expense and upon
+three (3) business days' notice, any other information Servicer possesses or
+controls in respect of the Consumer Receivables as the Administrative Agent may
+request.
+
+
+         SECTION 3.06 Annual Statement as to Compliance; Annual Accountants
+Report.
+
+         (a) The Servicer shall deliver to the Administrative Agent, on or
+before March 31st of each calendar year, beginning with March 31, 2000, an
+Officer's Certificate executed by the chief financial officer of the Servicer,
+stating that (i) a review of the activities of the Servicer during the preceding
+12-month period ended December 31st (or, in the case of the first such statement
+from August 2, 1999 through March 31, 2000) and of its performance under this
+Agreement has been made under the supervision of the officer executing the
+Officer's Certificate, and (ii) to such officer's knowledge, based on such
+review, the Servicer has fulfilled all its obligations under this Agreement in
+all material respects throughout such period or, if there has been a default in
+the fulfillment of any such obligation, specifying each such default known to
+such officer and the nature and status thereof.
+
+         (b) The Servicer shall deliver to the Administrative Agent, promptly
+after having obtained knowledge thereof, but in no event later than three
+Business Days thereafter, an Officer's Certificate specifying the nature and
+status of any Servicer Default, or Event of Default, or other occurrence which
+occurrence would have a material adverse effect on the right or interests of the
+Lenders.
+
+         (c) So long as any Obligations remain outstanding under the Bridge Loan
+Agreement, the Servicer, at its own expense, shall cause Grant Thornton LLP or
+another firm of nationally recognized independent public accountants acceptable
+to the Majority Lenders and the Administrative Agent (which accountants may also
+render other services to the Servicer or to the Issuer) to deliver to the
+Administrative Agent a report containing the results of the application of the
+procedures set forth in Exhibit C attached hereto with respect to the Servicer's
+                        ---------
+accounting for matters regarding the Consumer Receivables held by the Issuer,
+including cash receipts, account posting and remittances to the Issuer, the
+Servicer, the Administrative Agent, or the Lenders during the preceding calendar
+year. The first reporting period is from August 2, 1999 through December 31,
+1999, and each subsequent reporting period is each calendar year. Each such
+report must be delivered on or before April 15 of the succeeding year. Such
+report shall also indicate that the firm is independent with respect to the
+Issuer and the Servicer within the meaning of the Code of Professional Ethics of
+the American Institute of Certified Public
+
+                                      -13-
+<PAGE>
+
+Accountants. In the event such independent public accountants require the
+Administrative Agent to agree to the procedures to be performed by such firm in
+any of the reports required to be prepared pursuant to this Section 3.06, the
+Servicer shall direct the Administrative Agent in writing to so agree; it being
+understood and agreed that the Administrative Agent will deliver such letter of
+agreement in conclusive reliance upon the direction of the Servicer, and the
+Administrative Agent has not made any independent inquiry or investigation as
+to, and shall have no obligation or liability in respect of, the sufficiency,
+validity or correctness of such procedures.
+
+
+
+         SECTION 3.07. Access to Certain Documentation and Information.
+
+         The Servicer shall provide the Administrative Agent, any Successor
+Servicer and the Lenders with access to the documentation relating to the
+Consumer Receivables as reasonably requested. In each case, access to
+documentation relating to the Consumer Receivables shall be afforded without
+charge, upon reasonable request and during normal business hours at the offices
+of the Servicer. Nothing in this Section shall impair the obligation of the
+Servicer to observe any applicable law prohibiting disclosure of information
+regarding the Obligors, which obligation shall be evidenced by an Opinion of
+Counsel to such effect, and the failure of the Servicer to provide access as
+provided in this Section as a result of such obligation shall not constitute a
+breach of this Section.
+
+
+                                  ARTICLE IV
+                            THE ACCOUNTS; PAYMENTS;
+                             STATEMENTS TO LENDERS
+
+
+         SECTION 4.01  Accounts.
+
+         The Issuer shall establish and maintain, or cause to be established and
+maintained, the Collection Account and the Securities Account, in accordance
+with the Account Security Agreement and the Account Control Agreement for the
+benefit of the Lenders. All amounts held in the Collection Account and the
+Securities Account shall, to the extent permitted by this Agreement, the Bridge
+Loan Agreement and applicable laws, rules and regulations, be invested in
+Permitted Investments by the depository institution or trust company then
+maintaining such Account only upon written direction of the Issuer, or the
+Administrative Agent during the continuance of an Event of Default as defined in
+the Bridge Loan Agreement. Earnings on investment of funds in the Collection
+Account and Securities Account shall remain in such Accounts for disposition in
+accordance with this Agreement. The taxpayer identification number associated
+with each of the Accounts shall be that of the Issuer and the Issuer will report
+for federal, state and local income tax purposes the income, if any, earned on
+funds in the relevant Account. The Issuer hereby acknowledges that all amounts
+on deposit in each Account (including investment earnings thereon) are held in
+trust by the Administrative Agent for the benefit of the Lenders, subject to any
+express rights of the Issuer set forth herein, and shall
+
+                                      -14-
+<PAGE>
+
+remain at all times during the term of this Agreement under the sole dominion
+and control of the Administrative Agent.
+
+         SECTION 4.02 Collections.
+
+         The Servicer shall comply with Section 4.28 of the Bridge Loan
+Agreement in establishing a blocked account and "lock box" and, to the extent it
+receives collections that would otherwise have been made to the lock box, shall
+remit to the Collection Account all amounts it receives by or on the behalf of
+the Obligors or in respect of the Consumer Receivables within one Business Day
+of receipt thereof or conversion thereto. The Servicer shall, by automatic
+clearing house ("ACH") transfer, transfer from the Collections Account to the
+Securities Account on a daily basis all monies in the Collection Account. Other
+than as specifically contemplated pursuant to this Section 4.02, the Servicer
+shall not remit to the Collection Account, and shall take all reasonable actions
+to prevent other Persons from remitting to the Collection Account, amounts which
+do not constitute payments, collections or recoveries received, made or realized
+in respect of the Consumer Receivables or the liquidation thereof, and the
+Administrative Agent will return to Issuer any such amounts upon receiving
+written evidence reasonably satisfactory to the Administrative Agent that such
+amounts are not properly part of the Collection Account.
+
+
+         SECTION 4.03 Intentionally Omitted.
+
+
+         SECTION 4.04 Allocations and Payments.
+
+         (a) On each Determination Date, the Servicer shall calculate, (i) the
+amount of funds on deposit in each of the Accounts and the amount of Available
+Funds, and (ii) as applicable, the Administrative Agent Fee, the Permitted
+Expenses, the Servicing Fee, the Interest Distributable Amount with respect to
+the Note Balance and the Conversion Fee, the Conversion Fee, and the amount to
+be paid to Lenders in respect of principal, which amounts shall be set forth in
+the Monthly Servicer Report for the related Payment Date. The Servicer shall
+send the Monthly Servicer Report by electronic mail and by facsimile to the
+Administrative Agent and the Lenders by 12:00 noon New York, New York time on
+each such Determination Date.
+
+         (b) Prior to 11:00 a.m. on the Business Day immediately preceding each
+Payment Date, the Administrative Agent shall transfer or cause to be transferred
+from the Securities Account to the Collection Account the applicable monies due
+to be disbursed as shown on the Monthly Servicer Report. On each Payment Date,
+the Administrative Agent shall make the following payments from the Collection
+Account in the following order of priority and in the amounts set forth in the
+Monthly Servicer Report for such Payment Date; provided, however, that such
+payments shall be made only to the extent of Available Funds (it being
+understood that a failure to pay when due any amounts required to be paid under
+the Bridge Loan Agreement and the Notes as a result of a lack of Available
+Funds, which results in a Default or Event of Default under the Bridge Loan
+Agreement, the Notes or the Guaranty, shall nonetheless continue to constitute a
+Default and an Event of Default under the Note, the Bridge Loan Agreement and
+the Guarantee, notwithstanding that such failure results from a lack of
+Available Funds), and provided, further that, except for pre-payment of interest
+on the Notes, which shall be made
+
+                                      -15-
+<PAGE>
+
+pursuant to the terms of the Notes, payments from the Collections Account shall
+be made only on the Payment Date:
+
+                  (i)   to the Administrative Agent, an amount equal to the
+sum of the Administrative Agent Fee for such Payment Date, plus all accrued and
+unpaid Administrative Agent Fees, if any, for prior Payment Dates, plus all
+reasonable out of pocket expenses of the Administrative Agent;
+
+                  (ii)  to the Lenders, pro rata based on their respective
+Note Balances, and to the other parties entitled thereto, however applicable,
+the amount of the Permitted Expenses for which copies of the bill or invoice
+setting forth the amount due have been submitted to the Administrative Agent and
+the Lenders.
+
+                  (iii) to the Lenders, pro rata, based on their respective
+Note Balances, an amount equal to the sum of the Interest Distributable Amount
+with respect to the Note Balances for such Payment Date plus any outstanding
+amount of Interest Carryover Shortfall with respect to the Note Balances, if
+any, for prior Payment Dates, any amounts owing to the Lenders pursuant to
+Section 7.02 hereof and any interest payable pursuant to Section 2.4(d) of the
+Bridge Loan Agreement, less any amounts previously paid with respect to interest
+on the Note Balances for such Payment Date;
+
+                  (iv)  to the Lenders, pro rata, based on their respective
+Note Balances, an amount equal to the sum of the Interest Distributable Amount
+with respect to the Conversion Fee for such Payment Date plus any outstanding
+amount of Interest Carryover Shortfall with respect to the Conversion Fee, if
+any, for prior Payment Dates and interest on overdue interest with respect to
+the Conversion Fee calculated as set forth in Section 2.4(d) of the Bridge Loan
+Agreement, less any amounts previously paid with respect to interest on the
+Conversion Fee for such Payment Date;
+
+                  (v)   to the Servicer, an amount equal to the sum of the
+Servicing Fee for the related Collection Period, plus all accrued and unpaid
+Servicing Fees, if any, for prior Collection Periods;
+
+                  (vi)  to the Lenders, pro rata, based on their respective
+Note Balances, an amount equal to the accrued but unpaid Conversion Fee payable
+to the Lenders;
+
+                  (vii) to the Lenders, pro rata, based on their respective Note
+Balances, in reduction of the Note Balance of the Notes, until the Note Balance
+is reduced to zero, and if such Payment Date is the Final Payment Date or
+Prepayment Date as defined in the Bridge Loan Agreement, and there is an
+outstanding Note Balance (after payment of the amounts described in clauses (i)
+through (vi) above), the Administrative Agent will withdraw from all remaining
+funds on deposit in the applicable Account an amount equal to the lesser of the
+amount then on deposit therein and the amount of the outstanding Note Balance
+and remit such lesser amount to the Lenders in reduction of the outstanding Note
+Balance;
+
+                  (viii)to the Issuer.
+
+                                      -16-
+<PAGE>
+
+          (c)  The Servicer shall on each Payment Date instruct the
+Administrative Agent to distribute to each Lender of record by wire transfer of
+immediately available funds, the amount to be paid to such Lender in respect of
+the related Note on such Payment Date. In the event the Monthly Servicer Report
+is not transmitted to the Administrative Agent as required above, the
+Administrative Agent shall notify the Lenders thereof and shall, on the Payment
+Date, make such payments as the Majority Lenders shall authorize.
+
+
+          SECTION 4.05 Statements to Lenders.
+
+          (a)  On or prior to each Payment Date, the Administrative Agent shall
+transmit to each Lender of record the Monthly Servicer Report furnished pursuant
+to Section 3.05, setting forth for the related Collection Period the information
+provided in Exhibit A.
+            ---------
+
+          (b)  Within a reasonable period of time after the end of each calendar
+year, but not later than the latest date permitted by law, the Administrative
+Agent shall mail a statement or statements prepared by the Servicer to each
+Person who at any time during such calendar year shall have been a Lender that
+provides the information that is necessary under applicable law for the
+preparation of income tax returns and such other information in connection with
+the Consumer Receivables as is requested by the Lenders.
+
+
+                                   ARTICLE V
+                             INTENTIONALLY OMITTED
+
+
+                                   ARTICLE VI
+                             INTENTIONALLY OMITTED
+
+
+                                   ARTICLE VII
+                                  THE SERVICER
+
+
+          SECTION 7.01 Representations of the Servicer.
+
+          The Servicer hereby makes the following representations which shall
+speak as of March 1, 2000:
+
+          (a)  Organization and Good Standing. The Servicer is duly organized
+and validly existing as a corporation in good standing under the laws of the
+State of Maryland, with corporate power and authority to own its properties and
+to conduct its business as such properties are currently owned and such business
+is presently conducted, and had at all relevant times, and now has, corporate
+power, authority and legal right to service the Consumer Receivables and to hold
+the Receivables Files and Collateral.
+
+          (b)  Due Qualification. The Servicer is duly qualified to do business
+as a foreign corporation in good standing, and has obtained all necessary
+licenses and approvals in all
+
+                                      -17-
+<PAGE>
+
+jurisdictions in which the ownership or lease of property or the conduct of its
+business (including the servicing of the Consumer Receivables as required by
+this Agreement) requires such qualification, licenses and approvals, except
+where the failure to be qualified or to obtain such qualifications, licenses and
+approvals would not materially and adversely affect the rights or interests of
+any of the Lender.
+
+          (c)  Power and Authority. The Servicer has the corporate power and
+authority to execute and deliver this Agreement and each of the other Loan
+Documents to which it is a party, and to carry out their respective terms; and
+the execution, delivery and performance of this Agreement has been duly
+authorized by the Servicer by all necessary corporate action.
+
+          (d)  Binding Obligations. This Agreement and each of the other Loan
+Documents to which the Servicer is a party constitutes a legal, valid and
+binding obligation of the Servicer enforceable in accordance with its terms,
+except as enforceability may be limited by bankruptcy, insolvency,
+reorganization, moratorium and other similar laws affecting creditors' rights
+generally or by general principles of equity.
+
+          (e)  No Violation. The consummation of the transactions contemplated
+by this Agreement and each of the other Loan Documents and the fulfillment of
+the terms of this Agreement and each of the other Loan Documents does not
+conflict with, result in any breach of any of the terms and provisions of, nor
+constitute (with or without notice or lapse of time) a default under, the
+articles of incorporation, as amended and restated, or bylaws of the Servicer,
+or conflict with or breach any of the material terms or provisions of, or
+constitute (with or without notice or lapse of time) a default under, any
+indenture, agreement or other instrument to which the Servicer is a party or by
+which it shall be bound; nor result in the creation or imposition of any Lien
+upon any of its properties pursuant to the terms of any such indenture,
+agreement or other instrument (other than this Agreement); nor violate, any law,
+order, rule or regulation applicable to the Servicer of any court or of any
+federal or state regulatory body, administrative agency or other governmental
+instrumentality having jurisdiction over the Servicer or its properties; which
+breach, default, conflict, Lien or violation would have a material adverse
+effect on the rights or interests of the Issuer or the Lenders.
+
+          (f)  No Proceedings. There is no action, suit or proceeding before or
+by any court or governmental agency or body, domestic or foreign, now pending,
+or to the Servicer's knowledge, threatened, against or affecting the Servicer:
+(i) asserting the invalidity of this Agreement, the Notes, or any of the other
+Loan Documents, (ii) seeking to prevent the issuance of the Notes or the
+consummation of any of the transactions contemplated by this Agreement or any of
+the other Loan Documents, or (iii) seeking any determination or ruling that
+might materially and adversely affect the performance by the Servicer of its
+obligations under, or the validity or enforceability of, this Agreement, the
+Notes or any of the other Loan Documents.
+
+          (g)  Not an Investment Company. The Servicer is not an "investment
+company" or a company "controlled" by an "investment company" within the meaning
+of the Investment Company Act, and none of the issuance of the Notes, the
+execution and delivery of the Loan Documents to which the Servicer is a party,
+or the performance by the Servicer of its obligations
+
+                                      -18-
+<PAGE>
+
+thereunder, will violate any provision of the Investment Company Act, or any
+rule, regulation or order issued by the Securities and Exchange Commission
+thereunder.
+
+          (h)     Ownership of the Issuer. One hundred percent (100%) of the
+membership interests of the Issuer are directly owned (both beneficially and of
+record) by the Servicer except for the interest of the Independent Member. Such
+membership interests are validly issued and nonassessable and no one other than
+the Servicer has any options, warrants or other rights to acquire Units from the
+Issuer, subject to the pledge under the Parent Guarantee and Collateral
+Agreement.
+
+
+          SECTION 7.02  Liability of Servicer; Indemnities
+
+          (a)     Obligations. The Servicer shall be liable in accordance
+                  -----------
+herewith only to the extent of the obligations specifically undertaken by the
+Servicer under this Agreement and shall have no other obligations or liabilities
+under this Agreement. Such obligations shall include the following:
+
+                  (i)   the Servicer shall indemnify, defend and hold
+harmless the Administrative Agent, the Lenders and the Issuer from and against
+any taxes that may at any time be asserted against the Administrative Agent, the
+Lenders or the Issuer with respect to the transactions contemplated in this
+Agreement or any of the other Transaction Documents, including, without
+limitation, any sales, gross receipts, general corporation, tangible or
+intangible personal property, privilege or license taxes (but not including any
+taxes asserted with respect to, and as of the date of, the issuance and original
+sale of the Notes, or asserted with respect to ownership of the Consumer
+Receivables, or federal or other income taxes arising out of payments on the
+Notes, except to the extent the Servicer is liable therefore under Section 2.10
+of the Bridge Loan Agreement) and costs and expenses in defending against the
+same;
+
+                  (ii)  the Servicer shall indemnify, defend and hold
+harmless the Administrative Agent, the Issuer and the Lenders from and against
+any and all costs, expenses, losses, claims, damages and liabilities to the
+extent that such cost, expense, loss, claim, damage or liability arose out of,
+and was imposed upon the Administrative Agent, the Issuer or any Lender through
+the negligence, willful misfeasance or bad faith of the Servicer in connection
+with the transactions contemplated by this Agreement and the other Transaction
+Documents, or by reason of the breach by the Servicer of any of its
+representations, warranties or covenants hereunder or under any of the other
+Transaction Documents; and
+
+                  (iii) the Servicer shall indemnify, defend and hold
+harmless the Administrative Agent from and against all costs, expenses, losses,
+claims, damages and liabilities arising out of or incurred in connection with
+the acceptance or performance of the trusts and duties contained in this
+Agreement, except to the extent that such cost expense, loss, claim, damage or
+liability: (A) shall be due to the willful misfeasance, bad faith or negligence
+of the Administrative Agent, or (B) relates to any tax other than the taxes with
+respect to which either the Issuer or the Servicer shall be required to
+indemnify the Administrative Agent.
+
+                                      -19-
+<PAGE>
+
+          (b)  Expenses.  Indemnification under this Section shall include,
+               --------
+without limitation, reasonable fees and expenses of counsel and expenses of
+litigation. If the Servicer has made any indemnity payments pursuant to this
+Section and the recipient thereafter collects any of such amounts from others,
+the recipient shall promptly repay such amounts collected to the Servicer,
+without interest, so long as no amounts are outstanding under the Loan
+Documents.
+
+          (c)  Survival.  The  provisions  of this  Section  shall  survive
+               --------
+the resignation or removal of the Servicer or the Administrative Agent and the
+termination of this Agreement.
+
+          SECTION 7.03    Merger or Consolidation of, or Assumption of the
+Obligations of, the Servicer.
+
+          Any corporation (i) into which the Servicer may be merged or
+consolidated, (ii) which may result from any merger, conversion or consolidation
+to which the Servicer shall be a party, or (iii) which may succeed to all or
+substantially all of the business of the Servicer, which corporation in any of
+the foregoing cases executes an agreement of assumption to perform every
+obligation of the Servicer under this Agreement, shall be the successor to the
+Servicer under this Agreement without the execution or filing of any paper or
+any further act on the part of any of the parties to this Agreement; provided,
+however, that such merger, consolidation or conversion shall not cause a
+Servicer Default. The Servicer shall provide notice of any merger, consolidation
+or succession pursuant to this Section to the Administrative Agent and the
+Lenders.
+
+          SECTION 7.04    Limitation on Liability of Servicer and Others.
+
+          (a)  Neither the Servicer nor any of its directors, officers,
+employees or agents shall be under any liability to the Administrative Agent or
+the Lenders, except as provided in this Agreement, for any action taken or for
+refraining from the taking of any action pursuant to this Agreement, or for
+errors in judgment; provided, however, that this provision shall not protect the
+Servicer or any such person against any liability that would otherwise be
+imposed by reason of willful misfeasance, bad faith or negligence of the
+Servicer in connection with the transactions contemplated by this Agreement and
+any of the other Transaction Documents, or the breach by the Servicer of any of
+its representations, warranties or covenants hereunder or under any of the other
+Transaction Documents.
+
+          (b)  Except as provided in this Agreement, the Servicer shall not be
+under any obligation to appear in, prosecute, or defend any legal action that
+shall not be incidental to its duties to service the Consumer Receivables in
+accordance with this Agreement, and that in its opinion may involve it in any
+expense or liability; provided, however, that the Servicer may undertake any
+reasonable action that it may deem necessary or desirable in respect of this
+Agreement and the rights and duties of the parties to this Agreement and the
+interests of the Lenders under this Agreement.
+
+          (c)  The Servicer and any director, officer, employee or agent of the
+Servicer may rely in good faith on the advice of counsel or on any document of
+any kind, prima facie properly executed and submitted by any Person respecting
+any matters arising under this Agreement if it believes in good faith that such
+reliance is reasonable.
+
+                                      -20-
+<PAGE>
+
+          SECTION 7.05 Servicer Not to Resign; Termination.
+
+          Subject to the provisions of Section 7.03, Creditrust Corporation
+shall not resign from the obligations and duties hereby imposed on it as
+Servicer under this Agreement except upon determination that the performance of
+its duties under this Agreement shall no longer be permissible under applicable
+law. Notice of any such determination permitting the resignation of Creditrust
+Corporation shall be communicated to the Administrative Agent and the Lenders at
+the earliest practicable time and any such determination shall be evidenced by
+an Opinion of Counsel to such effect delivered to the Administrative Agent and
+the Lenders concurrently with or promptly after such notice. No such resignation
+shall become effective until a Successor Servicer accepted in writing by the
+Majority Lenders shall have been appointed. This Agreement shall not be
+terminable by Creditrust Corporation unless the Lenders have been paid all
+principal, interest and other amounts due and to become due under this
+Agreement, the Notes and the Bridge Loan Agreement.
+
+
+
+          SECTION 7.06 General Covenants of the Servicer.
+
+          The Servicer covenants and agrees that from the Closing Date until it
+is no longer the Servicer hereunder:
+
+          (a) Related Person Transaction. Without the prior written consent of
+              --------------------------
+the Majority of the Lenders, Servicer shall not enter into any Related Person
+Transaction other than on terms that are no less favorable to Servicer and the
+Issuer than those that would have been obtained in a comparable transaction by
+Servicer with a non-Related Person. The term "Related Person" means, as to
+Servicer, any stockholder, director, officer or employee thereof or any relative
+thereof or an Affiliate of the Servicer. The term "Related Person Transaction"
+means, (i) any sale, lease, transfer or other disposition of Servicer's property
+to any Related Person, (ii) the making of any contract, agreement,
+understanding, loan, advance, guarantee, or other credit support with or for the
+benefit of any Related Person or (iii) any other transaction with a Related
+Person that under the rules of the Nasdaq Stock Market, Inc. is required to be
+approved by the Board of Directors.
+
+          (b) Sale of Assets. Without the prior written consent of the Majority
+              --------------
+of the Lenders, Servicer shall not convey, sell, lease, license, transfer or
+otherwise dispose of, in one transaction or in a series of transactions, all or
+substantially all of its assets, other than with respect to securitization
+transactions of its receivables.
+
+          (c) Bankruptcy.
+              ----------
+
+              (i) The Servicer shall not take any action in any capacity to file
+any bankruptcy, reorganization or Insolvency Proceedings against Issuer, or
+cause Issuer to commence any reorganization, bankruptcy proceedings or
+Insolvency Proceedings under any applicable state or federal law, including
+without limitation any readjustment of debt, or marshaling of assets or
+liabilities or similar proceedings.
+
+                                      -21-
+<PAGE>
+
+               (ii) In the event that the Servicer shall become the subject of
+any Insolvency Proceeding, the Servicer hereby irrevocably waives the benefit of
+any automatic stay or similar provision in connection with any efforts to remove
+the Servicer as Servicer hereunder and agrees not to contest its removal as
+Servicer in any action in any such Insolvency Proceeding.
+
+          (d)  Legal Existence. The Servicer shall do or cause to be done all
+               ---------------
+things necessary on its part to preserve and keep in full force and effect its
+existence as a corporation in the jurisdiction of its incorporation, and to
+maintain each of its licenses, approvals, registrations or qualifications in all
+jurisdictions in which its ownership or lease of property or the conduct of its
+business requires such licenses, approvals, registrations or qualifications;
+except for failures to maintain any such licenses, approvals, registrations or
+qualifications which, individually or in the aggregate, would not have a
+material adverse effect on the ability of the Servicer to perform its
+obligations hereunder or under any of the other Loan Documents.
+
+          (e)  Compliance with Laws. The Servicer shall comply in all material
+               --------------------
+respects, with all laws, rules and regulations and orders of any governmental
+authority applicable to its operation, the noncompliance with which would have a
+material adverse effect on the business, financial condition or results of
+operations of the Servicer or on the ability of the Servicer to perform its
+obligations hereunder or under any of the other Loan Documents.
+
+          (f)  Taxes. The Servicer shall pay and discharge all taxes,
+               -----
+assessments and governmental charges or levies imposed upon the Servicer or upon
+its and its subsidiaries' (to the extent the Servicer is liable therefor) income
+and profits, or upon any of its property or any part thereof, before the same
+shall become in default, provided that the Servicer shall not be required to pay
+and discharge any such tax, assessment, charge or levy so long as the validity
+or amount thereof shall be contested in good faith by appropriate proceedings
+and the Servicer shall have set aside on its books adequate reserves with
+respect to any such tax, assessment, charge or levy so contested, or so long as
+the failure to pay any such tax, assessment, charge or levy would not have a
+material adverse effect on the ability of the Servicer to perform its
+obligations hereunder.
+
+          (g)  Financial  Statements.  The Servicer  shall  maintain its
+               ---------------------
+financial  books and records in accordance  with GAAP.  The Servicer shall
+furnish to the Lenders the financial information required by Section 4.4 of the
+Bridge Loan Agreement.
+
+          (h)  Compliance with all Loan Documents. The Servicer hereby covenants
+               ----------------------------------
+and agrees to comply with the terms of, employ the procedures outlined in and
+enforce the obligations of the parties to all of the Loan Documents to which the
+Servicer is a party.
+
+          (i)  No Change in Principal Executive Office or Location of Records.
+               --------------------------------------------------------------
+The Servicer covenants that it shall maintain its principal place of business
+and principal executive office, and the office where it maintains all of its
+records, at 7000 Security Blvd., Baltimore, MD 21244. The Servicer agrees that
+it will not change the location of its principal place of business and principal
+executive office except in compliance with the Guarantee and Collateral
+Agreement. As of the Closing Date, each Receivable File shall be kept by the
+Servicer at its offices at 7000 Security Boulevard, Baltimore, MD 21245.
+
+                                      -22-
+<PAGE>
+
+         (j)  Maintenance of Insurance. The Servicer hereby covenants and agrees
+              ------------------------
+to maintain one or more policies of "all-risk" property and general liability
+insurance with financially sound and reputable insurers, providing coverage in
+scope and amount which is at least consistent with the scope and amount of such
+insurance coverage obtained by prudent and similarly situated Persons in the
+same jurisdiction and the same business as the Servicer.
+
+         (k)  Separate Identity.  The Servicer hereby covenants and agrees
+              ------------------
+to take all actions required to maintain the Issuer's status as a separate
+legal entity.  Without limiting the foregoing, the Servicer shall:
+
+                  (i)   cause Issuer to conduct all of its business, and make
+all communications to third parties (including all invoices (if any), letters,
+checks and other instruments) solely in its own name (and not as a division of
+any other Person), and require that its employees, if any, when conducting its
+business identify themselves as such;
+
+                  (ii)  cause Issuer to at all times have at least one
+Independent Member, with at least one independent director, and have at least
+one officer responsible for managing its day-to-day business and manage such
+business by or under the direction of its board of managers;
+
+                  (iii) cause Issuer to maintain its books and records
+separate from those of any Affiliate;
+
+                  (iv)  cause Issuer to prepare its financial statements
+separately from those of its Affiliates and ensure that any consolidated
+financial statements have notes to the effect that the Issuer is a separate
+entity whose creditors have a claim on its assets prior to those assets becoming
+available to its equity holders and therefore to any creditors of such equity
+holders, as the case may be;
+
+                  (v)   cause Issuer to not commingle its funds or other assets
+with those of any of its Affiliates (other than in respect of items of payment
+or funds which may be commingled until deposited into the Collection Account in
+accordance with this Agreement), and not to hold its assets in any manner that
+would create an appearance that such assets belong to any such Affiliate, not
+maintain bank accounts or other depository accounts to which any such Affiliate
+is an account party, into which any such Affiliate makes deposits or from which
+any such Affiliate has the power to make withdrawals, and not act as an agent or
+representative of any of its Affiliates in any capacity;
+
+                  (vi)  not permit Issuer to guarantee any obligation of any of
+its Affiliates nor have any of its obligations guaranteed by any such Affiliate
+(either directly or by seeking credit based on the assets of such Affiliate), or
+otherwise hold itself out as responsible for the debts of any Affiliate, except
+in each instance as provided in the Bridge Loan Agreement or any documents
+executed by Issuer or any Affiliate in connection therewith;
+
+                  (vii) cause Issuer to maintain at all times stationery
+separate from that of any Affiliate and have all its officers and employees
+conduct all of its business solely in its own name;
+
+                                      -23-
+<PAGE>
+
+                  (viii) cause Issuer to hold regular meetings of its board of
+managers in accordance with the provisions of its LLC Agreement and otherwise
+take such actions as are necessary on its part to ensure that all company
+procedures required by its LLC Agreement and By-laws are duly and validly taken;
+
+                  (ix)   cause Issuer to respond to any inquires made directly
+to it with respect to ownership of a Consumer Receivable by stating that it is
+the owner of such contributed Consumer Receivable, and, if requested to do so,
+that the Lenders have been granted a security interest in such Consumer
+Receivable; and
+
+                  (x)    cause Issuer to take such other actions as are
+necessary on its part to ensure that the facts and assumptions set forth in any
+non-consolidation opinion delivered by Issuer's counsel remain true and correct
+at all times.
+
+          (l)     Benefit Plan. The Servicer hereby covenants and agrees to
+                  ------------
+comply in all material respects with the provisions of ERISA, the Internal
+Revenue Code, and all other applicable laws, and the regulations and
+interpretations thereunder to the extent applicable, with respect to each
+Benefit Plan. Servicer covenants that it will not, and it will cause any ERISA
+Affiliate to not:
+
+                  (i)   engage in any non-exempt prohibited transaction
+(within the meaning of Code Section 4975 or ERISA Section 406) with respect to
+any Benefit Plan which would result in a material liability to the Servicer;
+
+                  (ii)  permit to exist any accumulated funding deficiency,
+as defined in Section 302(a) of ERISA and Section 412(a) of the Code, with
+respect to any Benefit Plan of the Servicer or any ERISA affiliate which is
+subject to Section 302(q) of ERISA or 412 of the Code;
+
+                  (iii) terminate any Benefit Plan of the Servicer or any ERISA
+Affiliate so as to result in any material liability to the Servicer or an ERISA
+Affiliate; or
+
+                  (iv)  create any defined benefit plan (as defined in ERISA).
+
+
+                                 ARTICLE VIII
+                  SERVICER DEFAULT; EVENTS DEFAULT; REMEDIES
+
+          SECTION 8.01 Servicer Default.
+
+          For purposes of this Agreement, each of the following shall constitute
+a "Servicer Default":
+
+          (a)     any Event of Default under the Bridge Loan Agreement;
+
+          (b)     any default in the payment by Servicer of any amount required
+by this Agreement to be paid to the Administrative Agent;
+
+                                      -24-
+<PAGE>
+
+          (c)  any breach of any of the representations and warranties made by
+Servicer in this Agreement;
+
+          (d)  any failure on the part of the Servicer duly to observe or
+perform any other covenants or agreements of the Servicer set forth in this
+Agreement, or any of the other Transaction Documents to which the Servicer is a
+party, which failure (i) would have a material adverse effect on the rights or
+interests of the Lenders, the Administrative Agent or the Issuer and (ii)
+continues unremedied for a period of 30 days after the date on which a
+Responsible Officer of the Servicer becomes or in the exercise of reasonable
+care should have become aware of such failure; or
+
+          (e)  On August 31, 2000, and on the last day of each February and
+August thereafter, the cumulative amount of Net Proceeds (calculated without
+subtracting Third-Party Fees up to the maximum amount thereof permitted to be
+incurred as set forth in the definition of Net Proceeds) collected in respect of
+the Consumer Receivables from August 2, 1999 to such dates is not at least equal
+to the amounts specified in Exhibit D applicable to such dates.
+                            ---------
+
+          Upon the occurrence of any such event the Servicer shall not be
+relieved from using its best efforts to perform its obligations in a timely
+manner in accordance with the terms of this Agreement and the Servicer shall
+provide the Administrative Agent and the Lenders prompt notice of such failure
+or delay by it, together with a description of its effort to so perform its
+obligations. The Servicer shall notify the Administrative Agent in writing of
+any Servicer Default that it discovers within one Business Day of such
+discovery. The Administrative Agent shall have no duty or obligation to
+determine whether or not a Servicer Default has occurred.
+
+          SECTION 8.02 Consequences of a Servicer Default.
+
+          (a)  If a Servicer Default shall occur and be continuing, so long as
+such Servicer Default has not been cured or waived pursuant to Section 8.05, the
+Administrative Agent shall, upon the direction of the Majority Lenders and the
+identification by the Majority Lenders of a Successor Servicer, terminate all
+(but not less than all) of the rights and obligations of the Servicer, as
+Servicer under this Agreement and the other Transaction Documents, in and to the
+Consumer Receivables and proceeds thereof. On or after the receipt by the
+Servicer of such written notice, all authority and power of the Servicer under
+this Agreement, whether with respect to the Notes, the Consumer Receivables, the
+Transaction Documents or otherwise, shall, without further action, pass to and
+be vested in the Successor Servicer as provided in Section 8.03, and, without
+limitation, the Successor Servicer shall be hereby authorized and empowered to
+execute and deliver, on behalf of the predecessor Servicer, as attorney-in-fact
+or otherwise, any and all documents and other instruments, and to do or
+accomplish all other acts or things necessary or appropriate to effect the
+purposes of such notice of termination, whether to complete the transfer and
+endorsement of the Consumer Receivables and related documents, or otherwise. The
+predecessor Servicer shall cooperate with the Successor Servicer in effecting
+the termination of the responsibilities and rights of the predecessor Servicer
+under this Agreement, including, without limitation, the transfer to the
+Successor Servicer, for administration by it of all cash amounts that shall at
+the time be held by the predecessor Servicer for deposit with respect to the
+Consumer Receivables, or have been deposited by the predecessor Servicer in the
+Accounts
+
+                                      -25-
+<PAGE>
+
+with respect to the Consumer Receivables or thereafter received by the
+predecessor Servicer with respect to the Consumer Receivables. All reasonable
+costs and expenses (including attorneys' fees) incurred in connection with
+transferring the Receivable Files to the Successor Servicer, and amending this
+Agreement to reflect such succession as Servicer pursuant to this Section shall
+be paid by the predecessor Servicer upon presentation of reasonable
+documentation of such costs and expenses (the amount of such costs and expenses
+are referred to herein as the "Transition Fees"). In no event shall the
+Successor Servicer be entitled to receive a servicing fee in excess of the fee
+payable under this Agreement prior to the succession.
+
+         (b)  In addition to the remedial provisions set forth in clause (a)
+above, and not by way of limitation of any remedies to which any of the
+Administrative Agent or the Lenders are entitled upon the occurrence of a
+Servicer Default, the Issuer and the Servicer acknowledge and agree that, so
+long as a Servicer Default shall occur and be continuing, and such Servicer
+Default has not been cured or waived pursuant to Section 8.05, the
+Administrative Agent shall, upon the direction of the Majority Lenders and may
+(with the written consent of the Majority Lenders), at its discretion, by notice
+then given in writing to the Servicer, direct the Servicer (or Successor
+Servicer) to (x) deposit all checks and other items of collections received in
+respect of Consumer Receivables directly into an Account immediately upon
+receipt, and/or (y) instruct each Obligor to remit all collections in respect of
+receivables directly to an Account designated for such purpose.
+
+
+         SECTION 8.03  Appointment of Successor Servicer.
+
+         Upon a Servicer Default or the resignation of the Servicer, the
+Majority Lenders shall have the right to appoint a successor to the Servicer
+("Successor Servicer") reasonably satisfactory to them and upon such terms and
+conditions as shall be reasonably satisfactory to the Majority Lenders and the
+Successor Servicer. Any Successor Servicer appointed pursuant to this Section
+8.03 must have, and must certify that it has, the experience and ability to
+service the Consumer Receivables in accordance with the obligations of the
+Servicer hereunder. The Successor Servicer shall be entitled to compensation
+equal to a fee calculated in accordance with the first sentence in the
+definition of "Servicing Fee."
+
+         SECTION 8.04  Notification to Lenders.
+
+         Upon a Responsible Officer of the Administrative Agent obtaining actual
+knowledge of (i) the occurrence of a Servicer Default or (ii) any termination
+of, or appointment of a successor to, the Servicer pursuant to this Agreement,
+the Administrative Agent shall give prompt written notice thereof to Lenders at
+their respective addresses appearing in its records.
+
+
+         SECTION 8.05  Waiver of Past Servicer Defaults.
+
+         The Administrative Agent shall at the direction of the Majority Lenders
+waive any Servicer Default or other default by the Servicer in the performance
+of its obligations hereunder and its consequences, except a default in making
+any required deposits to or payments from the Accounts in accordance with this
+Agreement. Upon any such waiver of a past default, such default shall cease to
+exist, and any Servicer Default arising therefrom shall be deemed to have
+
+                                      -26-
+<PAGE>
+
+been remedied for every purpose of this Agreement. No such waiver shall extend
+to any subsequent or other default or impair any right consequent thereon except
+to the extent expressly so waived.
+
+                                  ARTICLE IX
+                             INTENTIONALLY OMITTED
+
+                                  ARTICLE X
+                             INTENTIONALLY OMITTED
+
+                                  ARTICLE XI
+                           MISCELLANEOUS PROVISIONS
+
+         SECTION 11.01 Amendment.
+
+         With the prior written consent of the holders of Notes evidencing at
+least two-thirds of the Voting Interests and the Issuer, the Servicer and the
+Issuer may at any time and from time to time supplement, modify or amend any of
+the terms or provisions of this Agreement, provided, however, that any amendment
+to this Agreement affecting the rights or obligations of the Administrative
+Agent shall also require the prior written consent of the Administrative Agent.
+No supplement, amendment, or modification will be effective unless made in
+compliance with the previous sentence.
+
+         SECTION 11.02 Intentionally Omitted.
+
+         SECTION 11.03 Limitation of Rights of Lenders.
+
+         (a)  The death or incapacity of any Lender shall not operate to
+terminate this Agreement or the Issuer, nor entitle its legal representatives or
+heirs to claim an accounting or to take any action or commence any proceeding in
+any court for a partition or winding up of the Issuer, nor otherwise affect the
+rights, obligations and liabilities of the parties to this Agreement or any of
+them.
+
+         (b)  Except as expressly provided in this Agreement, no Lender shall
+have any right to vote or in any manner otherwise control the operation and
+management of the Issuer, or the obligations of the parties to this Agreement,
+nor shall anything set forth in this Agreement, or contained in the terms of the
+Notes, be construed so as to constitute the Lenders from time to time as
+partners or members of an association; nor shall any Lender be under any
+liability to any third person by reason of any action pursuant to any provision
+of this Agreement.
+
+         SECTION 11.04 Governing Law.
+
+         This Agreement shall be governed by and construed in accordance with
+the laws of the State of New York and the obligations, rights and remedies of
+the parties under this Agreement shall be determined in accordance with such
+laws, including Section 5-1401 of the General Obligation Law of New York, but
+otherwise without regard to conflict of laws provisions.
+
+                                      -27-
+<PAGE>
+
+         SECTION 11.05  Notices.
+
+         All demand, notices and communications under this Agreement shall be in
+writing, and either personally delivered, mailed by certified mail, return
+receipt requested, or sent by facsimile transmission, and shall be deemed to
+have been duly given upon receipt, in the case of the Issuer or the Servicer, by
+the agent for service which shall be its President whose address is 7000
+Security Boulevard, Baltimore, Maryland 21244, or at such other address as shall
+be designated by the Issuer or the Servicer in a written notice to the
+Administrative Agent, and, in the case of the Administrative Agent, by the
+Corporate Trust Services of the Corporate Trust Office. Any notice required or
+permitted to be mailed to a Lender shall be given by first class mail, postage
+prepaid, at the address of such Lender as shown in records of the Issuer and/or
+the Administrative Agent. Any notice so mailed within the time prescribed in
+this Agreement shall be conclusively presumed to have been duly given, whether
+or not the Lender shall receive such notice.
+
+
+         SECTION 11.06 Severability of Provisions; Counterparts.
+
+         (a)  If any one or more of the covenants, agreements, provisions or
+terms of this Agreement shall be for any reason whatsoever held invalid or
+unenforceable in any jurisdiction, then such covenants, agreements, provisions
+or terms shall be deemed severable from the remaining covenants, agreements,
+provisions or terms of this Agreement and shall in no way affect the validity or
+enforceability of the other provisions of this Agreement or the Notes, or the
+rights of the Lenders.
+
+         (b)  This Agreement may be executed simultaneously in any number of
+counterparts, each of which shall be deemed to be an original, and all of which
+shall constitute but one and the same instrument.
+
+         SECTION 11.07 Assignment.
+
+         Notwithstanding anything to the contrary contained in this Agreement,
+except as provided in Section 7.03 and as provided in the provisions of this
+Agreement concerning the resignation of the Servicer, this Agreement may not be
+assigned by the Issuer or the Servicer without the prior written consent of the
+Lenders evidencing not less than 66 2/3% of the Voting Interests.
+
+
+         SECTION 11.08 No Petition.
+
+         Each of the Servicer and the Administrative Agent covenants and agrees
+that prior to the date which is one year and one day after the termination of
+this Agreement, it will not institute against, or join any other Person in
+instituting against, the Issuer any bankruptcy, reorganization arrangement,
+insolvency or liquidation proceeding or other proceedings under any federal or
+state bankruptcy or similar law. Notwithstanding the foregoing, nothing herein
+shall be deemed to prohibit the Administrative Agent from filing proofs of claim
+or otherwise participating in any such proceeding instituted by another person.
+This Section 11.08 shall survive the termination of
+
+                                      -28-
+<PAGE>
+
+this Agreement or the termination of the Servicer or the Administrative Agent,
+as the case may be, under this Agreement.
+
+
+         SECTION 11.09 Lender Direction.
+
+         Notwithstanding anything to the contrary contained in this Agreement,
+provided the Administrative Agent has sent notices to Lenders in accordance with
+this Agreement, the Administrative Agent may act as directed by the Majority
+Lenders (but only to the extent the Lenders are entitled under this Agreement to
+so direct the Administrative Agent with respect to such action) responding in
+writing to the request contained in such notice. In addition, the Administrative
+Agent shall not have any liability to any Lender with respect to any action
+taken pursuant to such notice if the Lender does not respond to such notice
+within the time period set forth in such Notice, which shall be reasonable.
+
+         SECTION 11.10 No Substantive Review of Compliance Documents.
+
+         Other than as specifically set forth in this Agreement, any reports,
+information or other documents provided to the Administrative Agent are for
+purposes only of enabling the sending party to comply with its document delivery
+requirements hereunder and the Administrative Agent's receipt of any such
+information shall not constitute constructive or actual notice of any
+information contained therein or determinable from any information contained
+therein, including the Issuer or the Servicer's compliance with any of its
+covenants, representations or warranties hereunder.
+
+         SECTION 11.10 Third-Party Beneficiary. The Lenders are third party
+beneficiaries of this Agreement and are entitled to enforce the terms hereof.
+
+                 [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+                           [SIGNATURE PAGE FOLLOWS]
+
+                                      -29-
+<PAGE>
+
+         IN WITNESS WHEREOF, the parties have caused this Amended and Restated
+Servicing Agreement to be duly executed by their respective officers as of the
+day and year first above written.
+
+                                         CREDITRUST SPV99-2, LLC,
+                                         as Issuer
+
+
+
+                                         By:  /s/ Joseph K. Rensin
+                                              ----------------------------
+                                         Name:    Joseph K. Rensin
+                                         Title:   President
+
+
+                                         CREDITRUST CORPORATION,
+                                          as Servicer
+
+
+
+                                          By: /s/ Joseph K. Rensin
+                                              ----------------------------
+                                          Name:  Joseph K. Rensin
+                                          Title: Chairman and
+                                                 Chief Executive Officer
+
+
+                                          BANK MINNESOTA,
+                                          NATIONAL ASSOCIATION, not in its
+                                          individual capacity, but solely as
+                                          Administrative Agent
+
+
+
+                                          By: __________________________________
+                                          Name:
+                                          Title:
+
+                                      -30-
+<PAGE>
+
+                                   EXHIBIT A
+                        Form of Monthly Servicer Report
+
+                                      -31-
+<PAGE>
+
+                                   EXHIBIT B
+                    Information Fields for Monthly Diskette
+
+
+Customer Information Fields                Receivable Information Fields
+---------------------------                -----------------------------
+Primary Debtor's Name                      Type of Account
+Primary Debtor's Social Security Number    Date Purchased
+Primary Debtor's Mailing Address           Charged-off Balance
+Secondary Debtor's Name                    Charged-off Date
+Secondary Debtor's Social Security Number  Name of Seller
+Account Home Phone Number                  Seller Assigned Account Number
+Account Work Phone Number                  Negotiated Settlement Amount
+Debtor ID                                  Last Payment Date
+                                           Total Amount Paid to Date
+                                           Next Payment Amount
+                                           Total Amount Outstanding
+                                           Package ID
+
+                                      -32-
+<PAGE>
+
+                                   EXHIBIT C
+                     Annual Accountant's Report Procedures
+
+         With respect to Creditrust Receivables-Backed Notes, Series 1999-2, the
+following procedures will be applied to prepare the report required pursuant to
+Section 3.06 of the related Servicing Agreement dated as of March 1, 2000.
+
+         1.  Test for daily transfer of funds from the Collection Account into
+             the Securities Account (the blocked account).
+
+         2.  Trace daily deposit from Mozart receivables ledger to Collections
+             Account.
+
+         3.  Select randomly for each month, 30 customer payment items from the
+             Mozart daily deposit summaries for Pool 1999-2 and:
+
+               A) Trace individual payment item to timely posting in Mozart
+                  receivables ledger.
+
+               B) Verify that the individual payment item was properly applied
+                  to Pool 1999-2.
+
+         4.  Select randomly for each month, 30 customer payment items from the
+             Issuer's receivables ledger (i.e. Mozart database) and:
+
+               A) Trace total for the day to Collection Account deposit slip.
+
+               B) Agree the following to the Mozart daily deposit summary for
+                  that day
+
+                  1)  Amount of payment.
+
+                  2)  Date of payment (must be within one business day of
+                      posting to the receivables ledger (i.e. Mozart database)).
+
+         5.  Agree Mozart receivables daily postings to Mozart Monthly
+             Servicer Report.
+
+         6.  Select the last two days of each month and three random dates
+             during each month and verify the prior ending day balances to
+             beginning day cumulative payments received.
+
+         7.  If any exceptions are found in either sample, expand that sample to
+             60 items and report all exceptions.
+
+         8.  Recalculate all calculations on each Monthly Servicer Report.
+
+         9.  Agree all amounts that are greater than or equal to $1,000 in the
+             twelve (12) months of Monthly Servicer Reports to the Issuer's
+             bank statements, subsidiary ledgers, Accounts, Norwest investment
+             revenue summaries and the Amended and Restated Servicing
+             Agreement.
+
+         10. Report all exceptions.
+
+                                      -33-
+<PAGE>
+
+                                   EXHIBIT D
+
+
+
+
+* Text of exhibit omitted pursuant to a request for confidential treatment and
+filed separately with the Securities and Exchange Commission.
+
+                                      -34-
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,180 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<FILENAME>0002.txt
+<TEXT>
+
+
+                                 EXHIBIT 10.1
+
+                (Amendment 1 to Purchase and Supply Agreement)
+<PAGE>
+
+                                 AMENDMENT 1
+                        PURCHASE AND SUPPLY AGREEMENT
+
+     This Amendment 1 ("Amendment 1") to the May 28, 1998 Purchase and Supply
+Agreement (the "Agreement") by and between Delco Electronics Corporation, a
+Delaware corporation and a subsidiary of Delphi Automotive Systems LLC,
+("Delco") and Flexpoint, Inc. a Utah corporation ("Flexpoint") shall become
+effective as of May 5, 2000 (the "Effective Date") and is being issued
+pursuant to Section 5.09 of the Agreement. Delco and Flexpoint are sometimes
+hereinafter referred to collectively as the "Parties" or individually as a
+"Party".
+
+The Agreement shall be amended as follows:
+
+1.    Section 2 is deleted in its entirety and replaced with the following:
+
+2.    SUPPORT
+
+      2.01   During the term of this Agreement, Flexpoint shall cooperate and
+provide Delco with reasonable engineering support for the design and assembly
+of the WBSS as needed by Delco and Delco shall provide Flexpoint with
+financial support in the form of an interest free loan as set forth in this
+Section 2.01. Such interest free loan is secured by the executed promissory
+note attached hereto as Exhibit "G", evidencing Flexpoint's obligation to
+repay the loan payments made by Delco. The following loan payments will be
+made to Flexpoint by Delco during the twelve (12) months following the
+execution of the Amendment 1 to the Agreement:
+
+Loan Payment Amount         Loan Payment Due Date
+-------------------         ----------------------
+$800,000.00                    Upon execution of Amendment 1 to the Agreement.
+$300,000.00                    Each month for eleven (11) months following the
+                            execution of Amendment 1 to the Agreement.
+
+     Such loan payments to be made to Flexpoint by Delco which are set forth
+above shall not exceed Four Million One Hundred Thousand Dollars ($4,100,000)
+and shall be for costs directly related to Delco programs only. Such loan
+shall not be subordinated to other Flexpoint debt.
+
+     Delco shall retain the right to withhold subsequent $300,000 monthly loan
+disbursements to Flexpoint in the event that Flexpoint fails to continue to
+use its best efforts to successfully implement the SENSOR MAT and meet any
+mutually established critical milestones after it is given a right to cure any
+deficiencies. If Delco determines that Flexpoint is not utilizing its best
+efforts to successfully implement the SENSOR MAT and has failed to meet
+mutually established critical milestones then Delco shall give Flexpoint
+written notification of the specific deficiencies. Flexpoint shall be given
+sixty (60) days from the date of the notice in which to cure the deficiencies.
+If Flexpoint is unable to cure the deficiencies then Delco may discontinue the
+payments. When Flexpoint has cured the deficiencies Delco shall again make the
+monthly disbursements. Notwithstanding any other provisions to the contrary,
+payments shall not be discontinued for any deficiencies that are the result of
+third parties over which Flexpoint has no control.
+
+Flexpoint shall provide a summary of Flexpoint's monthly expenditures
+documenting that such expenditures are for the Delco program related costs
+only. Delco has the right to audit Flexpoint's expenditures to insure that
+such expenditures are applied towards Delco program related costs only.
+
+      2.02     In addition to the loan payments outlined above in Section
+2.01, Delco will make the engineering spending reimbursements listed in the
+revised Exhibit "B", which is attached hereto and herein incorporated by
+reference.
+
+<PAGE>
+
+      2.03     During the term of this Agreement, Delco shall cooperate and
+provide Flexpoint with reasonable engineering support to assist Flexpoint to
+accomplish QS9000 certification and to implement world class manufacturing
+practices. However, attainment of such QS9000 certification shall be solely
+the responsibility of Flexpoint. Delco makes no representation that Delco's
+assistance to Flexpoint will assure that Flexpoint will be able to attain such
+certification.
+
+      2.04    In order for Delco to recoup the loan payments made to Flexpoint
+pursuant to Section 2.01 hereof, Delco shall have the option, at its sole
+discretion, to receive loan reimbursement payments from Flexpoint by : (i)
+exercising warrants to be issued as hereinafter set forth and having the
+exercise price of the warrants credited towards repayment of the loan;  or
+(ii) through a rebate of seven percent (7%) of the piece price for every
+SENSOR MAT purchased by Delco under the Agreement, until all loan amounts paid
+to Flexpoint pursuant to Section 2.01 of the Agreement have been reimbursed in
+full or (iii) by a combination of the methods of repayment set forth in (i)
+and (ii) of this sentence. These rebate payments by Flexpoint are to be made
+at the end of each calendar quarter beginning with the end of the calendar
+quarter in which Delco purchases the first production SENSOR MAT. Quarterly
+increases to the rebate percentage, not to exceed ten percent (10%) of the
+piece price, will be made if the actual and forecasted volumes indicate the
+total repayment will take longer than four (4) years after Delco purchases the
+first production SENSOR MAT. These increases shall be made by prorating the
+unpaid balance of the loan by the number of production units forecasted
+between the adjustment quarter and the end of the four (4) year period which
+began after Delco purchased the first production SENSOR MAT. In the event that
+five (5) years after Delco purchases the first production SENSOR MAT the total
+loan amount has not been paid in full by Flexpoint, subsequent payments after
+year five (5) will be based on a ten percent (10%) rebate until the loan is
+paid in full.
+
+      In order to facilitate repayment of the loan through exercise of
+warrants, if Delco in its sole discretion chooses such form of repayment as
+set forth in clause (i) or clause (iii) of the preceding paragraph, Delco
+shall have the option of receiving warrants on Flexpoint Sensor Systems, Inc.
+common stock commensurate with Delco's disbursements to Flexpoint. Such
+warrants shall be issued as soon as practicable after entering into a warrant
+agreement in form and substance satisfactory to Flexpoint and Delco, but in no
+event later than September 1, 2001, unless Delco otherwise agrees; provided,
+however, the exercise price of the warrants shall not exceed one hundred
+fifteen percent (115%) of Flexpoint Sensor Systems, Inc. common stock closing
+price on the Effective Date of this Amendment 1. Issuance of the warrants does
+not in itself obligate Delco to choose repayment through exercise of the
+warrants. However, the Parties agree that the warrants shall be exercisable
+only with proceeds payable under the loan.
+
+2.     Section 6 (Non Competition) of the Agreement is deleted in its
+entirety.
+
+3.   Exhibit "A" (GM Platforms) of the Agreement is deleted in its entirety
+and replaced with a revised Exhibit "A" which is attached to this Amendment 1
+and herein incorporated by reference.
+
+4.   Exhibit "B" (Engineering Spending Curve) of the Agreement is deleted in
+its entirety and replaced with a revised Exhibit "B" which is attached to this
+Amendment 1 and herein incorporated by reference.
+
+5.   Exhibit "F" (Customer Based Platforms), which is attached to the
+Agreement, is deleted in its entirety.
+
+The Parties further agree to continue in good faith to discuss and negotiate
+additional amendments to the Agreement. Except for the amendments to the
+Agreement set forth above in this Amendment 1 and until amended by subsequent
+amendments, all other terms of the Agreement shall remain in full force and
+effect.
+
+<PAGE>
+
+     IN WITNESS WHEREOF, the Parties have caused this Amendment 1 to the
+Agreement to be executed on their behalf by their duly authorized officers,
+and such Amendment 1 shall become effective on the Effective Date set forth
+above.
+
+DELCO ELECTRONICS CORPORATION             FLEXPOINT, INC.
+
+
+By: /s/ Tonya D. Goodier                  By: /s/ Doug M. Odom
+
+Name:  Tonya D. Goodier                   Name:   Doug M. Odom
+       -----------------------------              -----------------------
+Title: Product Line Executive             Title:  President
+       -----------------------------              -----------------------
+       Integrated Safety Electronics
+       -----------------------------
+
+Date: May 8, 2000                         Date: May 5, 2000
+
+
+By: /s/ Jon R. Anderson
+
+Name:  Jon R. Anderson
+       -----------------------------
+Title: Director Purchasing
+       -----------------------------
+
+Date: May 8, 2000
+
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,814 @@
+<DOCUMENT>
+<TYPE>EX-10.05
+<SEQUENCE>16
+<FILENAME>d85930ex10-05.txt
+<DESCRIPTION>AMENDED/RESTATED HET/JCC AGREEMENT
+<TEXT>
+
+<PAGE>   1
+                                                                   EXHIBIT 10.05
+
+                     AMENDED AND RESTATED HET/JCC AGREEMENT
+
+         THIS AMENDED AND RESTATED HET/JCC AGREEMENT (this "Agreement") is made
+and entered into this 30th day of March, 2001, by and among JAZZ CASINO COMPANY,
+L.L.C., a Louisiana limited liability company ("JCC"), HARRAH'S ENTERTAINMENT,
+INC., a Delaware corporation ("HET"), HARRAH'S OPERATING COMPANY, INC., a
+Delaware corporation ("HOCI") and JCC Holding Company, a Delaware corporation
+("JCC Holding Company").
+
+                                    RECITALS
+
+         A. JCC, HET and HOCI previously entered into that certain HET/JCC
+Agreement dated October 29, 1998 (the "Prior Agreement").
+
+         B. JCC and the State of Louisiana (the "State") by and through the
+Louisiana Gaming Control Board (the "LGCB") have entered into that certain
+Amended and Renegotiated Casino Operating Contract dated as of October 30, 1998,
+as amended in that certain First Amendment to Amended and Renegotiated Casino
+Operating Contract dated as of October 19, 1999, and that certain Second
+Amendment to Amended and Renegotiated Casino Operating Contract dated as of
+March __, 2001 (as amended, the "Casino Operating Contract").
+
+         C. Pursuant to the Casino Operating Contract, JCC agrees to pay a
+certain Minimum Payment (as defined in the Casino Operating Contract) to the
+LGCB.
+
+         D. The Casino Operating Contract requires that JCC cause to be provided
+a Minimum Payment Guaranty (as defined in the Casino Operating Contract) to the
+LGCB for each year for the Term (as defined in the Casino Operating Contract).
+
+         E. Harrah's New Orleans Management Company (the "Manager") and JCC have
+concurrently herewith entered into that certain Third Amended Casino Management
+Agreement of even date herewith (the "Casino Management Agreement"). The
+Manager, HET, HOCI, JCC, JCC Holding Company, JCC Canal Development, L.L.C., JCC
+Fulton Development, L.L.C., and JCC Development Company, L.L.C., have entered
+into that certain Revolving Credit Agreement of even date herewith (the
+"Revolving Credit Agreement").
+
+         F. JCC as issuer, JCC Holding Company, JCC Canal Development, L.L.C.,
+JCC Fulton Development, L.L.C., and JCC Development Company, L.L.C., as
+Guarantors, and Wells Fargo Bank Minnesota, National Association, as Trustee
+have entered into that certain Indenture of even date herewith (the
+"Indenture").
+
+         G. The parties to this Agreement, the Revolving Credit Agreement and
+the Indenture have entered into that certain Intercreditor Agreement of even
+date herewith (the "Intercreditor Agreement").
+
+
+<PAGE>   2
+
+
+         H. As a condition to the effectiveness of the Revised Plan (as defined
+in the Casino Operating Contract), HET and HOCI (the "Guarantors") have agreed
+for a limited period of time to provide a Minimum Payment Guaranty to the LGCB
+on the terms and conditions set forth herein.
+
+         I. HET, HOCI and JCC desire to supersede the Prior Agreement in its
+entirety and replace it with this Agreement.
+
+                                    AGREEMENT
+
+         NOW, THEREFORE, in consideration of the premises and other good and
+valuable consideration, the receipt and adequacy of which is hereby
+acknowledged, the parties agree as follows:
+
+         1. Prior Agreement Superseded; Minimum Payment Guaranty
+
+              (a) Prior Agreement. The Prior Agreement is hereby terminated in
+its entirety and superseded by this Agreement.
+
+              (b) Obligation. For a period ending no later than March 31, 2005,
+the Guarantors shall provide the Four Year Unconditional Minimum Payment
+Guaranty (as defined in the Casino Operating Contract) for the periods from
+April 1, 2001 to March 31, 2002 ("Year 1"), April 1, 2002 to March 31, 2003
+("Year 2"), April 1, 2003 to March 31, 2004 ("Year 3"), and April 1, 2004 to
+March 31, 2005 ("Year 4"). Year 1, Year 2, Year 3, and Year 4 and any future
+years as to which a guaranty may be provided pursuant to Section 2(b) hereof are
+herein referred to collectively as "Guaranty Years."
+
+         2. Fees
+
+              (a) Annual Fees. In consideration of the Guarantors providing the
+Four Year Unconditional Minimum Payment Guaranty, JCC shall pay the Guarantors
+an annual fee as follows:
+
+<TABLE>
+<S>                                      <C>
+                       Year 1            $4,100,000
+                       Year 2            $3,000,000
+                       Year 3            $1,800,000
+                       Year 4            $  600,000
+</TABLE>
+
+Said fee is computed based on two percent (2%) of the average amount at risk.
+The total amount at risk during Year 1 is $230 million ($50 million for Year 1,
+$60 million for Year 2, $60 million for Year 3, and $60 million for Year 4), for
+Year 2 is $180 million ($60 million for Year 2, $60 million for Year 3 and $60
+million for Year 4), for Year 3 is $120 million ($60 million for Year 3 and $60
+million for Year 4) and for Year 4 is $60 million. Each day during each Guaranty
+Year the amount at risk for that Guaranty Year declines pro rata down to zero at
+the end of that Guaranty Year. The average amount at risk during each Guaranty
+Year is one half of the total of (i) the amount at risk at the beginning of the
+Guaranty Year (ii) plus the amount at risk at the end
+
+
+
+                                        2
+<PAGE>   3
+
+
+of the Guaranty Year. Said fee of two percent (2%) of the average amount at risk
+is calculated as follows (in millions):
+
+<TABLE>
+<CAPTION>
+                    Year 1    Year 2    Year 3    Year 4
+                    ------    ------    ------    ------
+<S>                  <C>       <C>       <C>       <C>
+Beginning Risk       $230      $180      $120      $ 60
+Ending Risk          $180      $120      $ 60      $  0
+Average at Risk      $205      $150      $ 90      $ 30
+2% of Average        $4.1      $3.0      $1.8      $0.6
+</TABLE>
+
+Said fee, together with any guaranty fees for providing a Minimum Payment
+Extension Guaranty (as defined in the Casino Operating Contract), are
+collectively referred to herein as the "Guaranty Fee".
+
+              (b) Additional Minimum Payment Guaranty. The Casino Operating
+Contract requires JCC to obtain a Minimum Payment Extension Guaranty prior to
+the beginning of Year 3 which covers the third succeeding year and each year
+thereafter. The Guarantors do not hereby agree to provide any Minimum Payment
+Extension Guaranty or any other guaranty and are under no obligation to provide
+any such additional guaranties. The Guarantors in their sole discretion may
+elect to provide any Minimum Payment Extension Guaranty by written notice not
+less than one-hundred fifty (150) days prior to the date JCC is obligated to
+obtain any such Minimum Payment Extension Guaranty. If the Guarantors in their
+sole discretion elect to provide any Minimum Payment Extension Guaranty, such
+Minimum Payment Extension Guaranty shall be subject to Sections 5.11(d) and 5.15
+of the Indenture. The Guarantors shall have no obligation hereunder to provide
+JCC any notice of its intention or decision not to provide any Minimum Payment
+Extension Guaranty.
+
+              (c) Payment. The Guarantors agree to defer receipt of the Guaranty
+Fee for Year 1 to be due and payable in four (4) equal installments due on March
+31, 2002, March 31, 2003, March 31, 2004 and March 31, 2005; provided that any
+then unpaid installment of the deferred Guaranty Fee for Year 1 shall be due and
+payable in full upon any termination of the Casino Management Agreement. The
+Guaranty Fee for each Guaranty Year after Year 1 shall be due and payable in
+four (4) equal installments on June 30, September 30, December 31 and March 31
+of such Guaranty Year.
+
+         3. Minimum Payment Guaranty Loans.
+
+              (a) Loans. Any amount drawn by the LGCB or the State pursuant to
+the Four Year Unconditional Minimum Payment Guaranty or any Minimum Payment
+Extension Guaranty provided by the Guarantors in their sole discretion (the
+"Guaranty") or advanced by the Guarantors pursuant to Section 4(c) or (e) hereof
+or otherwise due to Guarantors pursuant to this Agreement shall be a loan
+obligation of JCC to the Guarantors (such obligation together with any interest
+due thereon, a "Minimum Payment Guaranty Loan"). Each Minimum Payment Guaranty
+Loan shall bear interest from the date such Minimum Payment Guaranty Loan is
+incurred through the date such Minimum Payment Guaranty Loan is repaid in full
+at the same rate of interest as on the amounts outstanding pursuant to the
+Revolving Credit Agreement with respect to Base Rate Loans (as defined in the
+Revolving Credit Agreement). Accrued interest with respect to each
+
+
+
+                                       3
+<PAGE>   4
+
+
+Minimum Payment Guaranty Loan shall be due and payable by JCC monthly in arrears
+on the last day of each month and on the date of repayment of such Minimum
+Payment Guaranty Loan.
+
+              (b) Due Date. Each Minimum Payment Guaranty Loan shall be due and
+payable on the earliest of:
+
+                  (i) the date on which a JCC Bankruptcy Event (as defined in
+Section 5(c) hereof) occurs;
+
+                  (ii) at Guarantor's election, at any time on or after the date
+the indebtedness under the Indenture or the Revolving Credit Agreement is
+declared due and payable prior to the scheduled maturity thereof (an
+"Acceleration Event"), provided, that, if, prior to the occurrence of an
+Acceleration Event, the Manager has received notice from JCC that the Casino
+Management Agreement is being terminated pursuant to Section 17.03 of the
+Management Agreement (a "Termination Notice"), then if such subsequent
+Acceleration Event was caused solely by the existence of an "Event of Default"
+under (and as defined in) Section 17.01 of the Casino Management Agreement with
+respect to the Manager or pursuant to Section 17.02 of the Management Agreement
+(collectively "Manager Default"), then such Minimum Payment Guaranty Loan shall
+nevertheless not be due and payable until the first anniversary of the date on
+which the Manager received such Termination Notice.
+
+                  (iii) at Guarantor's election, at any time on or after the
+date an Event of Default exists under any of clauses (i), (iii), (iv), (v) and
+(vi) of Section 5(a) hereof (a "Default Event"), provided, that, if prior to the
+occurrence of a Default Event, the Manager has received a Termination Notice,
+then if such Default Event under this clause (iii) was caused solely by the
+existence of a Manager Default, then such Minimum Payment Guaranty Loan shall
+nevertheless not be due and payable until the first anniversary of the date on
+which the Manager received such Termination Notice; or
+
+                  (iv) the date which is the first anniversary of the date on
+which such Minimum Payment Guaranty Loan was made hereunder, provided, that, if
+prior to the end of such one year period under this clause (iv), the Manager
+receives a Termination Notice, then such Minimum Payment Guaranty Loan shall not
+be due and payable until the first anniversary of the date on which the Manager
+received such Termination Notice.
+
+         4. Collateral and Covenants
+
+              (a) Mortgage and other Shared Security Documents. To secure
+repayment of any Minimum Payment Guaranty Loan hereunder, JCC and certain other
+"Credit Parties" (as defined in the Intercreditor Agreement) have concurrently
+herewith provided the Mortgage and the other Shared Security Documents (as
+defined in the Intercreditor Agreement) for the benefit of the Guarantors and
+other parties as set forth in the Intercreditor Agreement. The Mortgage and the
+other Shared Security Documents secure repayment of any Minimum Payment Guaranty
+Loans (including, without limitation, Minimum Payment Guaranty Loans made
+pursuant to any Minimum Payment Extension Guaranty provided by the Guarantors in
+their sole discretion).
+
+
+
+                                       4
+<PAGE>   5
+
+
+              (b) Expiration of Agreement. Upon the expiration of this Agreement
+pursuant to Section 7 hereof, the Guarantors' rights under the Mortgage and the
+other Shared Security Documents shall terminate except with respect to any
+Minimum Payment Guaranty Loan then outstanding or other obligations to the
+Guarantors under this Agreement. Upon the satisfaction in full of all Minimum
+Payment Guaranty Loans and all other obligations to the Guarantors hereunder,
+the Guarantors, upon request from JCC, agree to release their rights under the
+Mortgage and the other Shared Security Documents or assign such rights to any
+substitute or successor provider of a Minimum Payment Guaranty designated by
+JCC.
+
+              (c) Preservation Obligations of JCC
+
+                  (i) JCC shall timely pay (A) all expenses and costs required
+to comply with Section 9.20 - "Insurance Coverages" of the Casino Operating
+Contract; (B) all expenses and costs required to comply with Section 9.25 -
+"Maintenance of Casino" of the Casino Operating Contract; (C) all Impositions
+(as defined in the Casino Operating Contract) required to comply with Section
+9.31 - "Payment of Impositions" of the Casino Operating Contract; and (D) all
+rent and other payments due under the Casino Lease (as defined in the Casino
+Operating Contract) required to comply with Section 9.5(b) - "Performance and
+Payment of Operating Expense Obligations" of the Casino Operating Contract
+(collectively, the "Preservation Costs").
+
+                  (ii) If JCC fails to pay any of the Preservation Costs within
+thirty (30) days of the due date thereof, then after notice and five (5) days
+opportunity to cure, the Guarantors may thereafter pay such Preservation Costs
+and any amounts advanced shall be Minimum Payment Guaranty Loans and additional
+obligations secured by the Mortgage and the other Shared Security Documents.
+
+                  (iii) JCC shall continuously maintain business interruption
+insurance in accordance with the Casino Lease (as defined in the Casino
+Operating Contract), the Casino Operating Contract, the Casino Management
+Agreement, and any reasonable additional requirements of the Guarantors as may
+be required to assure that JCC maintains sufficient insurance so that JCC is
+covered for any business interruption that may result in a suspension of Casino
+Operations (as defined in the Casino Operating Contract). If JCC fails to obtain
+and maintain such insurance, the Guarantors may upon notice and five (5) days
+opportunity to cure, obtain such insurance on behalf of JCC and the cost of any
+such insurance incurred by the Guarantors shall be a Minimum Payment Guaranty
+Loan and an additional obligation secured by the Mortgage and the other Shared
+Security Documents.
+
+              (d) Revolving Credit Agreement Provisions. The representation,
+warranties and covenants set forth in Sections 4, 5 and Part II of Exhibit B of
+the Revolving Credit Agreement (the "Representations, Warranties and Covenants")
+are hereby incorporated herein by reference and made a part hereof as in effect
+as of the date hereof and without regard to any future amendments, modifications
+or waiver thereof (unless expressly agreed to in writing by the Guarantors) and
+shall remain incorporated herein and a part hereof whether or not the Revolving
+Credit Agreement expires or is terminated. In addition to the foregoing, at any
+time a Minimum Payment Guaranty Loan is outstanding, each of JCC Holding Company
+and JCC agrees to, and each agrees to cause its Subsidiaries to, comply with the
+following additional covenants applicable
+
+
+
+                                       5
+<PAGE>   6
+
+
+to such persons (capitalized terms used in the following covenants and not
+otherwise defined in this Agreement shall have the meaning assigned to them in
+the Revolving Credit Agreement):
+
+                  (i) JCC Holding Company will not, and will not permit any of
+its Subsidiaries to, make loans, advances or other Investments to JCC Holding
+Company or any Unrestricted Subsidiary except (A) JCC may make dividends to, or
+payments on behalf of, JCC Holding Company to cover Holding Company Costs in
+accordance with Section 5.5(e) of the Indenture and Section 5.5(v) of the
+Revolving Credit Agreement and (B) JCC may make loans to any Unrestricted
+Subsidiary (other than an Unrestricted Subsidiary which has been released from
+its Subsidiary Guaranty pursuant to Section 7.5 of the Revolving Credit
+Agreement and Section 10.5 of the Indenture, which has transferred assets
+pursuant to such provisions, or which is a Subsidiary of any Unrestricted
+Subsidiary described in this parenthetical), to (1) pay property and franchise
+taxes, if any, and (2) to pay pre-development and/or development costs; provided
+that (x) no amounts shall be loaned pursuant to the foregoing provisions of this
+clause (d)(i) more than three Business Days before the date of the use of such
+amounts by the respective Unrestricted Subsidiary to make the payments in
+respect of which the loans are being made and (y) the aggregate amount of loans
+made for the purposes described in this clause (d)(i) shall not exceed, in the
+aggregate, $1,500,000 in any fiscal year (with the amount so loaned in each case
+determined without regard to any write-downs or write-offs in respect of the
+amounts so loaned); provided that any amounts up to $1,000,000 not spent in the
+fiscal year ended December 31, 2001 may be carried over to fiscal year ended
+December 31, 2002; and
+
+                  (ii) JCC Holding Company will not, and will not permit any of
+its Subsidiaries to, make any Capital Expenditures in excess of funds deposited
+in the Reserve Fund; provided, however, that in the event any Unrestricted
+Subsidiary incurs Indebtedness for borrowed money (from any Person other than
+JCC Holding Company or its Subsidiaries) in excess of $2,500,000 for purposes of
+developing real property owned or leased by it and as long as (i) no Event of
+Default hereunder exists at the time of such incurrence or immediately after
+giving effect thereto, (ii) such Unrestricted Subsidiary is being released from
+all other direct and indirect guarantees by it of Indebtedness of JCC Holding
+Company and its Subsidiaries (other than Unrestricted Subsidiaries), and (iii)
+such Unrestricted Subsidiary repays in full any and all Indebtedness to JCC
+Holding Company and its Subsidiaries, then such Unrestricted Subsidiary may make
+Capital Expenditures;
+
+                  (iii) JCC Holding Company will not, and will not permit any of
+its Subsidiaries to, prepay any expenses or pay any bonuses or similar
+discretionary advances to any employee except that (A) JCC Holding Company and
+its Subsidiaries may prepay expenses to the extent such prepayments are in the
+ordinary course of such person's business, consistent with past practices of
+such person and necessary to support the going-concern of such person's business
+and
+
+
+
+                                       6
+<PAGE>   7
+
+
+(B) JCC Holding Company and JCC may pay bonuses to the extent such payments are
+in the ordinary course of such person's business, consistent with past practices
+and have been approved by the board of directors of JCC Holding Company
+(including those board members consisting of nominees of HET and affiliates of
+HET);
+
+                  (iv) JCC Holding Company will not, and will not permit any of
+its Subsidiaries to, make any Asset Sale unless (A) otherwise permitted by the
+Revolving Credit Agreement and (B) Net Cash Proceeds from such Asset Sale
+consist exclusively of Cash; and
+
+                  (v) JCC will not make any expenditures unless expressly
+authorized by the Budget (as defined in the Casino Management Agreement).
+
+              (e) Cash Management. At any time when Minimum Payment Guaranty
+Loans and/or Revolving Loans are outstanding, JCC shall immediately apply any
+and all balances of Cash and Cash Equivalents (as such terms are defined in the
+Revolving Credit Agreement) it holds (net of amounts required to be deposited
+into the Net Cash Proceeds Account pursuant to (and as defined in) the Indenture
+and the Revolving Credit Agreement) that are in excess of the amount (the
+"Retention Amount") equal to the sum of (i) $2,875,000 plus (ii) the amount
+required to be retained by JCC pursuant to applicable Gaming Regulations (as
+defined in the Revolving Credit Agreement) at such time plus (iii) the cash
+portion of the House Bank (as defined in the Casino Management Agreement),
+first, to prepay any and all outstanding Minimum Payment Guaranty Loans, in the
+order in which loans were incurred, until such Minimum Payment Guaranty Loans
+are paid in full, and second, to prepay any and all outstanding Revolving Loans
+under (and as defined in) the Revolving Credit Agreement until such Revolving
+Loans are paid in full. JCC agrees that to the extent it does not have cash in
+excess of the Retention Amount that is sufficient to pay any Minimum Payment due
+and owing (after giving effect to the application of such excess cash in
+accordance with the preceding sentence), it will make such Minimum Payments from
+proceeds of Revolving Loans under the Revolving Loan Agreement. If at any time
+(i) JCC does not have cash in excess of the Retention Amount that is sufficient
+to pay any Minimum Payment due and owing (after giving effect to the application
+of such excess cash in accordance with the first sentence of this Section 4(e))
+and (ii) JCC is not permitted to borrow sufficient Revolving Loans under the
+terms of the Revolving Loan Agreement to make such Minimum Payment (as a result
+of outstanding and proposed Revolving Loans exceeding $35,000,000, the existence
+of an "Event of Default" thereunder or otherwise), then the Guarantors may elect
+to make Minimum Payments even if no demand has been made by the State or LGCB
+pursuant to the Guaranty and such amounts advanced by the Guarantors (together
+with interest thereon) shall be Minimum Payment Guaranty Loans for all purposes
+under this Agreement.
+
+         5. Events of Default and Remedies
+
+              (a) Events of Default. The following shall constitute events of
+default ("Events of Default") under this Agreement:
+
+
+
+                                       7
+<PAGE>   8
+
+
+                  (i) termination of the Casino Operating Contract or Casino
+Lease;
+
+                  (ii) occurrence of a JCC Bankruptcy Event (as hereinafter
+defined);
+
+                  (iii) failure to repay any Minimum Payment Guaranty Loan or
+interest thereon when due;
+
+                  (iv) termination of the Casino Management Agreement other than
+as a result of any Permitted Termination;
+
+                  (v) the sum of the items described in the following clauses
+(A) through (D) exceed $20,000,000 at any time outstanding and remains
+outstanding for five days:
+
+                    (A) the aggregate amount of all unpaid reimbursement and
+other payment obligations hereunder and under the Minimum Payment Guaranty (but
+excluding contingent obligations in respect to amounts not yet drawn or made
+available pursuant to this Agreement or the Minimum Payment Guaranty) which have
+been waived, deferred or not paid when due pursuant to the terms of this
+Agreement and the Minimum Payment Guaranty, each as in effect on the date hereof
+and, without duplication, the amount of all loans and advances made or deemed
+made pursuant to this Agreement and the Minimum Payment Guaranty and all accrued
+and unpaid interest thereon;
+
+                    (B) the aggregate amount of unpaid obligations under the
+Casino Management Agreement (or any replacement agreement or agreements) which
+have been waived, deferred or not paid when due pursuant to the terms of the
+Casino Management Agreement (without giving effect to any waiver or modification
+thereto);
+
+                    (C) the aggregate amount of interest and fees accrued or
+accruing pursuant to the Credit Documents (as defined in the Revolving Credit
+Agreement) which have been waived, deferred or not paid on a timely basis
+pursuant to the terms of the Credit Documents as in effect on the date hereof
+(or, in the case of any replacement Revolving Credit Agreement with a lender
+other than HET and any of its affiliates, as in effect on the date of the
+entering into thereof in accordance with the relevant requirements of Section
+5.15(b) of the Indenture); and
+
+                    (D) any other amounts (excluding trade payables in the
+ordinary course which do not remain unpaid more than 90 days after the
+respective trade payable came into existence, and principal and unpaid drawings
+under the Credit Documents to the extent permitted to be outstanding pursuant to
+Section 5.12(e) of the Indenture) owing to HET or any of its subsidiaries by JCC
+Holding Company, JCC or any of their subsidiaries (excluding Unrestricted
+Subsidiaries which have been released from, or are not a party to, any Guaranty
+(as defined in the Indenture)); or
+
+
+
+                                       8
+<PAGE>   9
+
+
+                  (vi) the breach by JCC Holding Company or any of its
+Subsidiaries of (A) any covenant under Section 4(d)(i)-(v), inclusive, and/or
+(B) any other non-monetary provisions of this Agreement which breach under this
+clause (B) shall have continued for thirty (30) days after notice from
+Guarantors to JCC Holding Company, giving opportunity for JCC Holding Company
+and its Subsidiaries to cure within such 30-day period.
+
+              (b) Remedies. Upon an Event of Default and subject to Section 3
+hereof, the Guarantors may (i) declare all Minimum Payment Guaranty Loans and
+other obligations of JCC hereunder to be due and payable (provided that if any
+Event of Default exists pursuant to Section 5(a)(ii), all Minimum Payment
+Guaranty Loans and other obligations of JCC hereunder shall automatically be due
+and payable) and/or (ii) exercise any and all remedies under the Mortgage and
+the other Shared Security Documents subject to and in accordance with the
+Intercreditor Agreement. JCC shall reimburse the Guarantors for any reasonable
+attorneys' fees or other cost and expenses of enforcing its rights under this
+Agreement.
+
+              (c) JCC Bankruptcy Event. "JCC Bankruptcy Event" shall mean the
+commencement of any case or proceeding seeking liquidation, reorganization or
+other relief with respect to JCC under any bankruptcy, insolvency or other
+similar law now or hereafter in effect or seeking the appointment of a trustee,
+receiver, liquidator, custodian or similar official of JCC or the property of
+JCC, which, in the case of an involuntary proceeding only, is not dismissed
+within thirty (30) days after its commencement, or if JCC shall consent to any
+such relief or to the appointment of or taking possession by any such official
+in any involuntary case or other proceeding commenced against it, or shall make
+a general assignment for the benefit of its creditors, or shall take any limited
+liability company action to authorize any of the foregoing or if JCC is unable
+to demonstrate its continuing ability to pay in full amounts due in the ordinary
+course of Casino operations, including its Debt (as defined in the Casino
+Operating Contract) and obligations as they become due according to their terms.
+
+         6. Litigation. Without the prior written consent of the Guarantors, JCC
+shall not institute any legal action against the LGCB or the State affirmatively
+seeking an award of damages related to the Casino Operating Contract or assert
+that JCC has continuous rights to operate the Casino after a termination of the
+Casino Operating Contract as a result of JCC ceasing Gaming Operations or
+failing timely to provide the LGCB a Minimum Payment Guaranty.
+
+         7. Expiration of Guaranty. The obligation of the Guarantors to provide
+a Minimum Payment Guaranty shall expire on March 31, 2005, unless otherwise
+agreed by Guarantors in their sole discretion. This Agreement shall expire at
+such time as no Guaranty shall be outstanding and all Guaranty Fees or Minimum
+Payment Guaranty Loans or other obligations of JCC pursuant to this Agreement
+shall have been indefeasibly paid and satisfied in full.
+
+         8. Governing Law. This Agreement shall be governed and construed in
+accordance with the internal substantive laws of the State of New York
+regardless of the laws which might otherwise govern under New York's or other
+applicable concepts of conflicts of law.
+
+
+
+                                       9
+<PAGE>   10
+
+
+         9. Counterparts. This Agreement may be executed in one or more
+counterparts, each of which shall be deemed an original, but all of which
+together shall constitute one and the same instrument.
+
+         10. Severability. If any one or more of the provisions contained in
+this Agreement or in any other instrument referred to herein, shall for any
+reason be held invalid, illegal, or unenforceable in any respect, such
+invalidity, illegality or unenforceability shall not affect any other provision
+of this Agreement or such instrument.
+
+         11. Conflict. If there is any conflict or inconsistency between this
+Agreement and the provisions of any exhibit attached hereto, the provisions of
+this Agreement shall control.
+
+         12. Entire Agreement. This Agreement and the Revolving Credit
+Agreement, as written, contains all of the terms and conditions agreed among JCC
+Holding Company and its Subsidiaries and the Guarantors relating to the matters
+covered by this Agreement, it being agreed that all understandings and
+agreements heretofore and among such parties or any of them relating to the
+matters covered by this Agreement are merged in this Agreement which alone fully
+and completely expresses their agreement and understanding.
+
+         13. Captions. The headings on the sections in this Agreement are for
+convenience only and form no part of this Agreement and shall not affect its
+interpretation.
+
+         14. Notices. All notices or other communications required or permitted
+to be given or delivered pursuant to this Agreement shall be in writing and
+shall be considered as properly given if mailed by Certified United States mail,
+postage prepaid, with return receipt requested, overnight courier service or
+facsimile transmission with receipt confirmed. Any party hereto may from time to
+time, by notice in writing served upon the other parties hereto pursuant to this
+Section 14 designate a different address or person to whose attention notices
+shall be given. Notices hereunder shall be deemed given upon receipt. The
+addresses of the parties hereto for notices are:
+
+             JCC or JCC            Jazz Casino Company, L.L.C.
+             Holding Company:      One Canal Place, Suite 900
+                                   New Orleans, LA 70130
+                                   Attn:  Chief Executive Officer
+
+             HET and HOCI:         Harrah's Entertainment, Inc.
+                                   One Harrah's Court
+                                   Las Vegas, NV 89193-8905
+                                   Attn: General Counsel
+
+         15. Advice From Counsel. The parties hereto understand that this
+Agreement may affect legal rights. The parties hereto represent that they have
+received legal advice from counsel of their choice in connection with the
+negotiation and execution of this Agreement and are satisfied with their legal
+counsel and the advice received.
+
+
+
+                                       10
+<PAGE>   11
+
+
+         16. Access to Documents. Each party hereto acknowledges that it (i) has
+been given the opportunity to review all information and documents with respect
+to the subject matter of this Agreement; (ii) has made an independent
+investigation in making its decision to enter into this Agreement; and (iii) is
+not relying on any statements or representations by any other party hereto in
+entering into this Agreement other than as expressly set forth in this
+Agreement.
+
+         17. Successors and Assigns. This Agreement shall be binding upon the
+parties hereto and each of their respective successors and assigns and inure to
+the benefit of the parties hereto and each of their respective successors and
+assigns.
+
+         18. Amendments. Any amendment to this Agreement may only be made and
+shall only be effective upon written approval of all parties hereto.
+
+         19. Further Document Modifications. The parties hereto agree to
+negotiate in good faith such modifications to agreements as may be necessary or
+appropriate to effect the purpose and intent of this Agreement.
+
+         20. Waiver and Release
+
+              (a) No Assurances
+
+                  (i) The Guarantors have entered into this Agreement as a
+condition to the effectiveness of the Plan. As a prerequisite to maintaining the
+effectiveness of the Casino Operating Contract, the Casino Operating Contract
+requires that commencing April 1, 2003, JCC annually provide to the LGCB a
+Minimum Payment Extension Guaranty. In entering into this Agreement, the
+Guarantors have no obligation to provide any Minimum Payment Extension Guaranty,
+but rather have agreed only to provide the Guaranty for the period and on terms
+and conditions specified herein. The Guarantors have expressly informed JCC that
+they have not agreed to renew this Agreement or provide any Minimum Payment
+Extension Guaranty or any other guaranty beyond March 31, 2005. The Guarantors
+have informed JCC that any decision they make concerning whether to renew the
+Guaranty or this Agreement or provide any Minimum Payment Extension Guaranty or
+any other guaranty will be made in their sole discretion, acting only in their
+best interests. JCC hereby acknowledges that (A) the Guarantors are not
+obligated to and have not given any assurances to JCC that they will renew this
+Agreement or provide any Minimum Payment Extension Guaranty or any other
+guaranty beyond March 31, 2005, (B) the Guarantors have the right to make any
+such renewal decision or decision to provide any Minimum Payment Extension
+Guaranty or any other guaranty by considering only their best interests, and (C)
+the Guarantors need not consider the interests of any other parties in making
+any such renewal decision or decision to provide any Minimum Payment Extension
+Guaranty or any other guaranty, notwithstanding that the Guarantors are involved
+in a number of capacities in respect of JCC.
+
+                  (ii) JCC hereby agrees that by entering into this Agreement or
+providing a Guaranty or otherwise, the Guarantors are not now, and in the past
+have not, made any assurances or guarantees concerning the financial results of
+the Casino, nor are or have the Guarantors made any assurances or guarantees
+that the Casino will be financially successful or
+
+
+
+                                       11
+<PAGE>   12
+
+
+will perform as projected in the projections and/or feasibility studies included
+in the Plan and the Disclosure Statement distributed in connection with the Plan
+confirmation process.
+
+                  (iii) JCC hereby agrees and acknowledges that any future
+representation, warranty, assurance or other guaranty by the Guarantors or any
+of their subsidiaries or other affiliates to JCC concerning the renewal of the
+Guaranty or this Agreement or provision of any Minimum Payment Extension
+Guaranty or any other guaranty, the operation of the Casino, the financial
+results of the Casino, or any other matter concerning the Casino or the Plan
+shall only be effective if set forth in writing and properly executed by the
+party to be charged.
+
+              (b) Releases
+
+                  (i) JCC hereby releases and waives and agrees not to bring any
+Claims against the Guarantors, whether a known Claim or an Unknown Claim, that
+may arise in any way, in whole or in part, out of (A) the Guarantors' decision
+either to renew or not renew the Guaranty or this Agreement or to provide or not
+to provide any Minimum Payment Extension Guaranty or any other guaranty, (B) the
+Guarantors acting in their own best interests in connection with the execution,
+renewal or failure to renew the Guaranty or this Agreement or the provision or
+decision not to provide any Minimum Payment Extension Guaranty or any other
+guaranty, and/or (C) any alleged assurance or guarantee by the Guarantors
+concerning the operation of the Casino, the financial results of the Casino or
+any other matter concerning the Casino or the Plan, unless such Claim is based
+on a writing (but in any event cannot be based on this Agreement or the
+Guaranty) properly executed by the party against whom such a claim is being
+made.
+
+                  (ii) JCC also hereby specifically waives any rights it might
+have under Louisiana Civil Code Article 3083 and all other applicable or similar
+law to this same or similar effect as the matters described in Section 20(b)(i)
+hereof, including but not limited to, any purported right to challenge the
+validity or seek rescission of, or to vitiate, the releases set forth above in
+Section 20(b)(i) hereof on the ground that any information was kept concealed
+from it and agrees that no remedy shall be available for any such alleged
+non-disclosure, and that the right to rescind or limit the extent of the above
+release on any such ground is hereby expressly waived.
+
+              (c) Definitions. For the purposes of Sections 20(b)(i) and (ii)
+hereof:
+
+                  (i) "Claim" or "Claims" shall mean any action or actions,
+cause or causes of action, in law or equity, suits, debts, liens, liabilities,
+claims, demands, damages, punitive damages, losses, costs or expenses, and/or
+reasonable attorneys' fees of any nature whatsoever.
+
+                  (ii) "Guarantor" shall include HET, HOCI, Harrah's Crescent
+City Investment Company, Harrah's New Orleans Management Company, their
+successors and assigns, and all direct or indirect subsidiaries, and each of
+their parents, subsidiaries, officers, directors, corporate representatives,
+employees, agents, lawyers and accountants and all persons acting or claiming
+through, under or in concert with any of them.
+
+                  (iii) "Unknown Claim" or "Unknown Claims" means any and all
+Claims, including without limitation, any Claim which any of the parties hereto
+does not know or even
+
+
+
+                                       12
+<PAGE>   13
+
+
+suspect to exist in his, her, or its favor at the time of the giving of the
+releases and waivers set forth in Section 20(b)(i) and (ii) hereof which, if
+known by him, her or it might have affected his, her or its decision regarding
+the releases and waivers. Each of the parties acknowledges that he, she or it
+might hereafter discover facts in addition to or different from those which he,
+she, or it now knows or believes to be true with respect to the matters herein
+released and waived, but each shall be deemed to have fully, finally and forever
+released any and all Claims.
+
+         21. No Third Party Beneficiaries. There are no third party
+beneficiaries to this Agreement. JCC hereby acknowledges that the Guaranty
+provides that there shall be no third party beneficiaries thereof. JCC also
+agrees that it shall not claim or assert it is a third party beneficiary or
+possesses any derivative claims under the Guaranty.
+
+         22. Disclosure. JCC hereby acknowledges that the Guarantors have
+informed them (i) not to infer or assume that the Guarantors will renew the
+Guaranty or this Agreement or provide any Minimum Payment Extension Guaranty or
+any other guaranty; (ii) that the Guarantors will consider only their own best
+interests in determining whether or not to renew the Guaranty or this Agreement
+or provide any Minimum Payment Extension Guaranty or any other guaranty; (iii)
+that the Guarantors are involved in a number of different capacities in
+connection with the reorganization of and the governance of JCC and JCC Holding
+Company, and the operation of the Casino; and (iv) that there can be no
+assurance that the Casino will perform as set forth in the projections and/or
+feasibility study set forth in the Plan and Disclosure Statement circulated
+therewith.
+
+23. Amendment of Obligations. The Guaranty hereunder is provided on the express
+condition that JCC shall not amend or modify the Casino Operating Contract in
+any way to increase the obligations under the Guaranty or adversely affect the
+Guarantors without the prior written agreement of the Guarantors, and any such
+amendment or modification shall have no force or effect in respect of the
+Guarantors or the Guaranty.
+
+         24. Independent Agreement. This Agreement is independent of and shall
+survive any cancellation or termination of the Casino Operating Contract.
+
+                            [SIGNATURE PAGE FOLLOWS]
+
+
+
+
+                                       13
+<PAGE>   14
+
+
+         IN WITNESS WHEREOF, the parties have executed this Agreement as of the
+day and year first above written.
+
+                                     JAZZ CASINO COMPANY, L.L.C., a Louisiana
+                                     limited liability company
+
+
+                                     By:
+                                         ---------------------------------------
+                                     Name:
+                                           -------------------------------------
+                                     Title:
+                                            ------------------------------------
+
+
+                                     JCC HOLDING COMPANY, a Delaware corporation
+
+
+                                     By:
+                                         ---------------------------------------
+                                     Name:
+                                           -------------------------------------
+                                     Title:
+                                            ------------------------------------
+
+
+                                     HARRAH'S ENTERTAINMENT, INC., a Delaware
+                                     corporation
+
+
+                                     By:
+                                         ---------------------------------------
+                                     Name:
+                                           -------------------------------------
+                                     Title:
+                                            ------------------------------------
+
+
+                                     HARRAH'S OPERATING COMPANY, INC., a
+                                     Delaware corporation
+
+
+                                     By:
+                                         ---------------------------------------
+                                     Name:
+                                           -------------------------------------
+                                     Title:
+                                            ------------------------------------
+
+
+
+
+                                      S-1
+</TEXT>
+</DOCUMENT>

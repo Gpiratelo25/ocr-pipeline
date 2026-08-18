@@ -1,0 +1,1541 @@
+<DOCUMENT>
+<TYPE>EX-10.41
+<SEQUENCE>3
+<FILENAME>a2074242zex-10_41.txt
+<DESCRIPTION>EXHIBIT 10.41
+<TEXT>
+<Page>
+
+    CONFIDENTIAL TREATMENT REQUESTED                    EXHIBIT 10.41
+
+                  FIRST AMENDMENT TO NETWORK SERVICES AGREEMENT
+
+
+       THIS FIRST AMENDMENT to the Network Services Agreement (the "AMENDMENT"),
+effective as of January 8, 2002 (the "AMENDMENT EFFECTIVE DATE") is made by and
+between America Online, Inc., a Delaware corporation with offices at 22000 AOL
+Way, Dulles, Virginia 20166 ("AOL"), and Genuity Solutions Inc. (formerly, BBN
+Corporation), a Massachusetts corporation with offices at 225 Presidential Way,
+Woburn, Massachusetts 01801 ("GENUITY").
+
+RECITALS
+
+       WHEREAS, AOL and BBN Corporation entered into that certain Network
+Services Agreement, effective as of December 31, 1999 (the "AGREEMENT");
+
+       WHEREAS, on May 19, 2000, BBN Corporation changed its name to Genuity
+Solutions Inc.;
+
+       WHEREAS, pursuant to the terms of the Agreement, as amended hereby, AOL
+agrees to purchase and Genuity agrees to provide those certain Dial-Up Access
+Services through December 31, 2006, those certain Other Services through
+December 31, 2005 and those certain Broadband Backhaul Services for DSL through
+December 31, 2004; and
+
+       WHEREAS, AOL and Genuity both desire to modify certain terms of the
+Agreement, as provided herein.
+
+       NOW, THEREFORE, for good and valuable consideration, the receipt and
+sufficiency of which is hereby acknowledged, AOL and Genuity agree as follows:
+
+TERMS
+
+1.     DEFINED TERMS. Capitalized terms used but not otherwise defined herein
+       shall have the meanings given thereto in the Agreement. Defined terms in
+       this Amendment shall be deemed incorporated into the Agreement.
+
+2.     RELEASE OF OBLIGATIONS.
+
+       2.1. INTERNATIONAL PURCHASE COMMITMENT. Genuity hereby releases AOL from
+            any and all of its obligations under Section 2.8(c) of Schedule B of
+            the Agreement (such obligations, collectively, the "RELEASED
+            INTERNATIONAL PURCHASE COMMITMENT"). Section 2.8(c) of Schedule B of
+            the Agreement is hereby deleted in its entirety.
+
+       2.2. DIAL-UP PURCHASE COMMITMENT. Genuity hereby releases AOL from any
+            and all of its obligations with respect to Sections 2(c) and 2(d) of
+            Exhibit B-1 of the Agreement (such obligations, collectively, the
+            "RELEASED DIAL-UP PURCHASE COMMITMENT"). The parties hereby
+            acknowledge and agree that AOL has satisfied all of its obligations
+            with respect to the Dial-Up Purchase Commitment under Sections 2(a)
+            and 2(b) of Exhibit B-1 of the Agreement and shall have no further
+            obligations thereunder.
+
+       2.3. OTHER BROADBAND PURCHASE COMMITMENT. Genuity hereby releases AOL
+            from any and all of its obligations under Section 2.2 of Exhibit C-1
+            of the Agreement (such obligations, collectively, the "RELEASED
+            OTHER BROADBAND PURCHASE COMMITMENT"). Section 2.2 of Exhibit C-1 of
+            the Agreement is hereby deleted in its entirety. Notwithstanding
+            anything to the contrary in the Agreement, Genuity shall have no
+            obligation to offer or provide to AOL Broadband Backhaul Services;
+            PROVIDED, HOWEVER, that Genuity shall continue to provide Broadband
+            Backhaul Services for DSL in accordance with Schedule C of the
+            Agreement. In the event that Genuity agrees to provide to AOL
+            Broadband Backhaul Services other than for DSL (I.E., Broadband
+            Backhaul Services for broadband traffic received from cable
+            networks, wireless networks, satellite networks, or other
+            technologies excluding DSL traffic originating from the public
+            switched telephone network) (the
+
+                                       1
+
+<Page>
+
+    CONFIDENTIAL TREATMENT REQUESTED                    EXHIBIT 10.41
+
+            "OTHER BROADBAND SERVICES") from time to time under the Agreement,
+            the parties agree that the pricing set forth in Exhibit C-2 of the
+            Agreement shall not apply, and that the pricing for such Other
+            Broadband Services shall be as mutually agreed in writing by Genuity
+            and AOL on a case-by-case basis PROVIDED, HOWEVER, that the pricing
+            set forth in Exhibit C-2 shall still apply to the provision of
+            Broadband Backhaul Services for DSL.
+
+3.     AMENDED DIAL-UP PURCHASE COMMITMENT. In lieu of AOL's prior obligations
+       with respect to Sections 2(c) and 2(d) of Exhibit B-1 of the Agreement,
+       AOL commits to maintain a minimum of [*MATERIAL OMITTED AND SEPARATELY
+       FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT] Dedicated
+       Dial-Up Access Ports commencing on the Amendment Effective Date and
+       continuing through [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+       APPLICATION FOR CONFIDENTIAL TREATMENT] ("INITIAL COMMITMENT") and a
+       minimum of [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+       APPLICATION FOR CONFIDENTIAL TREATMENT] Dedicated Dial-Up Access Ports
+       commencing [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+       APPLICATION FOR CONFIDENTIAL TREATMENT] and continuing through the
+       remainder of the Term ("REDUCED COMMITMENT") (such commitments shall be
+       collectively referred to as the "AMENDED DIAL-UP PURCHASE COMMITMENT");
+       provided that AOL's rights to decommission Dedicated Dial-Up Access Ports
+       are subject to Section 8.2 of Schedule B of the Agreement, as amended
+       hereby. For the avoidance of doubt, the parties acknowledge and agree
+       that as of the Amendment Effective Date, Genuity is providing [*MATERIAL
+       OMITTED AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL
+       TREATMENT] Dedicated Dial-Up Access Ports as further described in
+       Attachment A to this Amendment. The term "Amended Dial-Up Purchase
+       Commitment" shall be substituted in lieu of the term "Dial-Up Purchase
+       Commitment" throughout the Agreement, effective from and after the
+       Amendment Effective Date.
+
+4.     DECOMMISSIONING. Section 8.2 of Schedule B of the Agreement is hereby
+       deleted and replaced in its entirety with the following:
+
+
+       "8.2. DECOMMISSIONING OF DEDICATED DIAL-UP ACCESS PORTS.
+
+            (a)    REDUCTION OF OTHER VENDORS' DECOM SHARE. Beginning [*MATERIAL
+                   OMITTED AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                   CONFIDENTIAL TREATMENT], Customer may decommission Dedicated
+                   Dial-Up Access Ports that contribute to the satisfaction of
+                   the Amended Dial-Up Purchase Commitment (that is, Customer
+                   may (1) decommission any ports included in the Initial
+                   Commitment (I.E., [*MATERIAL OMITTED AND SEPARATELY FILED
+                   PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]
+                   Dedicated Dial-Up Access Ports); and (2) decommission any
+                   number of ports that would cause the total number of ports to
+                   fall below the Reduced Commitment (I.E., [*MATERIAL OMITTED
+                   AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                   CONFIDENTIAL TREATMENT] Dedicated Dial-Up Access Ports),
+                   without liability, subject to the following:
+
+                   (i)    Customer will provide one hundred twenty (120) days
+                          prior written notice of the calling areas in which
+                          Dedicated Dial-Up Access Ports are to be
+                          decommissioned, as well as the associated quantities
+                          of Dedicated Dial-Up Access Ports to be decommissioned
+                          in each such area (E.G., Customer may decommission
+                          ports on [*MATERIAL OMITTED AND SEPARATELY FILED
+                          PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]
+                          pursuant to this Section 8.2(a) as long as Customer
+                          provides Vendor notice 120 days prior to such date);
+
+                   (ii)   the Vendor Decom Share for a calendar quarter shall
+                          not (in the cumulative and not more than a de minimis
+                          amount) exceed the Other Vendors' Decom Share for such
+                          quarter;
+
+                   (iii)  the decommissioning of Dedicated Dial-Up Access Ports
+                          pursuant to this Section 8.2(a) shall not materially
+                          change Customer's proportional distribution of
+                          Dedicated Dial-Up Access Ports across Existing Calling
+                          Areas; and
+
+                   (iv)   if the decommissioning of Dedicated Dial-Up Access
+                          Ports pursuant to this Section 8.2(a) causes the
+                          aggregate number of Dial-Up Access Ports to fall below
+                          [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT]
+
+                                       2
+
+<Page>
+
+    CONFIDENTIAL TREATMENT REQUESTED                    EXHIBIT 10.41
+
+                          percent ([*MATERIAL OMITTED AND SEPARATELY FILED
+                          PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]
+                          %) of the number of Dedicated Dial-Up Access Ports
+                          comprising the Initial Commitment (I.E., fewer than
+                          [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] Dedicated
+                          Dial-Up Access Ports), then Vendor may, upon six (6)
+                          months' prior notice to Customer, terminate this
+                          Schedule B. Commencing upon such termination, Vendor
+                          shall provide Transition Assistance pursuant to
+                          Section 13.4 of the Master Agreement.
+
+            (b)    RAMP DOWN FROM INITIAL COMMITMENT TO REDUCED COMMITMENT.
+                   Notwithstanding Section 8.2(a) of this Schedule B, beginning
+                   [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT], Customer may
+                   decommission Dedicated Dial-Up Access Ports in excess of the
+                   Reduced Commitment (I.E., [*MATERIAL OMITTED AND SEPARATELY
+                   FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]
+                   Dedicated Dial-Up Access Ports), without liability, subject
+                   to the following:
+
+                   (i)    Customer will provide one hundred twenty (120) days
+                          prior written notice of the calling areas in which
+                          Dedicated Dial-Up Access Ports are to be
+                          decommissioned, as well as the associated quantities
+                          of Dedicated Dial-Up Access Ports to be decommissioned
+                          in each such area (E.G., Customer may decommission
+                          ports on [*MATERIAL OMITTED AND SEPARATELY FILED
+                          PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]
+                          pursuant to this Section 8.2(b) as long as Customer
+                          provides Vendor notice 120 days prior to such date);
+
+                   (ii)   Customer will not decommission more than [*MATERIAL
+                          OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] Dedicated
+                          Dial-Up Access Ports per calendar month; and
+
+                   (iii)  the decommissioning of Dedicated Dial-Up Access Ports
+                          pursuant to this Section 8.2(b) shall not materially
+                          change Customer's proportional distribution of
+                          Dedicated Dial-Up Access Ports across Existing Calling
+                          Areas;
+
+                   PROVIDED, HOWEVER, that AOL and Genuity agree to meet in
+                   [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] to begin discussing
+                   and negotiating in good faith a plan for implementing the
+                   decommissioning, if any.
+
+            (c)    REDUCTION OF DEDICATED DIAL-UP ACCESS PORTS IN EXCESS OF
+                   AMENDED DIAL-UP PURCHASE COMMITMENT. Notwithstanding Sections
+                   8.2(a) and 8.2(b) of this Schedule B, Customer may
+                   decommission any Dedicated Dial-Up Access Ports ordered in
+                   excess of those necessary to satisfy the Amended Dial-Up
+                   Purchase Commitment, without liability subject to the
+                   following:
+
+                   (i)    Customer will provide one hundred twenty (120) days
+                          prior written notice of the calling areas in which
+                          Dedicated Dial-Up Access Ports are to be
+                          decommissioned, as well as the associated quantities
+                          of Dedicated Dial-Up Access Ports to be decommissioned
+                          in each such area;
+
+                   (ii)   Customer may decommission Dedicated Dial-Up Access
+                          Ports pursuant this Section 8.2(c) only to the extent
+                          that the first day of the month in which Final
+                          Acceptance occurred for such ports is at least twelve
+                          (12) months prior to the decommissioning date
+                          requested by Customer pursuant to this Subsection (c);
+
+                   (iii)  Customer will not decommission more than [*MATERIAL
+                          OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] Dedicated
+                          Dial-Up Access Ports per calendar month; and
+
+                                       3
+
+<Page>
+
+    CONFIDENTIAL TREATMENT REQUESTED                    EXHIBIT 10.41
+
+                   (iv)   the decommissioning of Dedicated Dial-Up Access Ports
+                          pursuant to this Section 8.2(c) shall not materially
+                          change Customer's proportional distribution of
+                          Dedicated Dial-Up Access Ports across Existing Calling
+                          Areas.
+
+            (d)    Customer shall not be responsible for any charges for a
+                   Dedicated Dial-Up Access Port to the extent such charges
+                   correspond to the time after the requested decommissioning
+                   date of which Customer provides Vendor with notification
+                   pursuant to this Schedule B."
+
+5.     AMENDED OTHER SERVICES PURCHASE COMMITMENT. Schedule D of the Agreement
+       is hereby deleted and replaced in its entirety with the following:
+
+       "1.  AMENDED OTHER SERVICES PURCHASE COMMITMENT. During the period
+            beginning on the Amendment Effective Date and ending on December 31,
+            2005 ("OTHER SERVICES TERM"), Customer or a Customer Affiliate
+            agrees to order from Vendor services (excluding Dial-Up Access
+            Services, Broadband Backhaul Services for DSL and Dial-Up Access
+            Services provided outside of the United States) (such services to be
+            ordered the "OTHER SERVICES") such that the aggregate charges paid
+            to Vendor and Vendor's Affiliates for such Other Services are equal
+            to or greater [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+            APPLICATION FOR CONFIDENTIAL TREATMENT] (subject to the provisions
+            of this Section 1 and as set forth in Section 2 below) (such
+            commitment the "AMENDED OTHER SERVICES PURCHASE COMMITMENT");
+            PROVIDED, HOWEVER, that the Amended Other Services Purchase
+            Commitment shall be subject to the following:
+
+            (a)    AVAILABILITY OF SERVICES AND QUARTERLY UPDATES. Vendor hereby
+                   agrees that (i) the Other Services set forth in Exhibits D-1
+                   and D-2 attached hereto (as may be amended by Vendor from
+                   time to time) shall be available for ordering by Customer and
+                   any Customer Affiliate during the Other Services Term, (ii)
+                   during the first calendar month of each calendar quarter
+                   during the Other Services Term, Vendor shall provide to
+                   Customer an updated list of Other Services available for
+                   ordering by Customer and any Customer Affiliate during the
+                   Other Services Term ("QUARTERLY SERVICES UPDATE"); and (iii)
+                   any Other Service which Vendor offers or provides, or is able
+                   to offer or provide, on or after the Amendment Effective Date
+                   shall be available for ordering by Customer and any Customer
+                   Affiliate during the Other Services Term; PROVIDED, HOWEVER,
+                   that subject to Section 1(b) below, nothing herein shall
+                   prevent Vendor from discontinuing the offering of any of the
+                   Other Services set forth in Exhibits D-1 and D-2 or in any
+                   Quarterly Services Update.
+
+            (b)    DISCONTINUANCE OF PRIMARY SERVICES. In the event that Vendor
+                   discontinues, during the Other Services Term, offering any of
+                   the Primary Services (as defined below), then such
+                   discontinued Primary Service shall still be deemed to be an
+                   Available Service (as defined below), and to the extent
+                   Customer or any Customer Affiliate subsequently orders Third
+                   Party Replacement Services (as defined below) from a third
+                   party vendor any time during the Other Services Term, then
+                   upon the provision of notice to Vendor (and to Vendor's
+                   designated Account Manager) in accordance with Section 16.4
+                   of the Master Agreement:
+
+                   (i)    The Amended Other Services Purchase Commitment shall
+                          be [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO
+                          AN APPLICATION FOR CONFIDENTIAL TREATMENT] as of the
+                          date on which Customer places a firm order for Third
+                          Party Replacement Services, [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] PROVIDED, HOWEVER, that (A)
+                          the [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT
+                          TO AN APPLICATION FOR CONFIDENTIAL TREATMENT] in the
+                          Amended Other Services Purchase Commitment shall be
+                          verified (and adjusted, as necessary) as of the end of
+                          each Biannual Period immediately following the
+                          Biannual Period in which a firm order is placed by
+                          Customer or a Customer Affiliate for the applicable
+                          Third Party Replacement Services (or sooner to the
+                          extent provided for in Section 2(c)(i) below); and (B)
+                          [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] shall be equal
+                          to [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO
+                          AN APPLICATION FOR CONFIDENTIAL TREATMENT] and for
+                          which (1) Customer has been [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN
+
+                                       4
+
+<Page>
+
+    CONFIDENTIAL TREATMENT REQUESTED                    EXHIBIT 10.41
+
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] or (2) in the
+                          case of leased services, Customer has, at a minimum,
+                          received its [*MATERIAL OMITTED AND SEPARATELY FILED
+                          PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]
+                          as certified by an officer of Customer (Vice President
+                          level or higher), with such certification to be
+                          accompanied by [*MATERIAL OMITTED AND SEPARATELY FILED
+                          PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]
+                          to allow Vendor to calculate and ascertain the
+                          [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] provided that
+                          [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] as appropriate
+                          in Customer's sole discretion. In the event Customer
+                          has recurring payment obligations for Third Party
+                          Replacement Services provided on a recurring basis
+                          (E.G., leased services), [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] shall contribute to [*MATERIAL
+                          OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] the Amended
+                          Other Services Purchase Commitment for the Biannual
+                          Period [*MATERIAL OMITTED AND SEPARATELY FILED
+                          PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]
+                          even if Customer [*MATERIAL OMITTED AND SEPARATELY
+                          FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL
+                          TREATMENT] beyond the period [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] the end of the Biannual Period
+                          in which such Third Party Replacement Services are
+                          ordered.
+
+                   (ii)   No [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO
+                          AN APPLICATION FOR CONFIDENTIAL TREATMENT] the Amended
+                          Other Services Purchase Commitment shall be made with
+                          respect to any of the Primary Services that are
+                          [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] which are
+                          discontinued by Vendor or a Vendor Affiliate because
+                          the provision of such [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] causes Vendor or a Vendor
+                          Affiliate to be subject to [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] as a provider of [*MATERIAL
+                          OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] if such Vendor
+                          or Vendor Affiliate is not otherwise subject to such
+                          [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT].
+
+                   (iii)  The parties agree that for purposes of this Section
+                          1(b), notice may be provided by email under Section
+                          16.4 of the Master Agreement and shall be deemed duly
+                          received upon receipt.
+
+            (c)    FULFILLMENT OF AMENDED OTHER SERVICES PURCHASE COMMITMENT. To
+                   fulfill its Amended Other Services Purchase Commitment,
+                   Customer or a Customer Affiliate may request the provision by
+                   Vendor of an Available Service (that is Other Services (x)
+                   set forth in Exhibits D-1 and D-2 attached hereto (for
+                   example, purchases by [*MATERIAL OMITTED AND SEPARATELY FILED
+                   PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT] of
+                   [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] shall contribute to
+                   the Amended Other Services Commitment, provided [*MATERIAL
+                   OMITTED AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                   CONFIDENTIAL TREATMENT] is a then-current Customer
+                   Affiliate), (y) set forth in any Quarterly Services Update,
+                   or (z) which Vendor offers or provides, or is able to offer
+                   or provide, on or after the Amendment Effective Date (for
+                   example, purchases by [*MATERIAL OMITTED AND SEPARATELY FILED
+                   PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT] for
+                   any service which Vendor offers or provides or is able to
+                   offer or provide Services shall contribute to the Amended
+                   Other Services Commitment, provided [*MATERIAL OMITTED AND
+                   SEPARATELY FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL
+                   TREATMENT] is a then-current Customer Affiliate); PROVIDED,
+                   HOWEVER, that if any of the Other Services set forth in
+                   Exhibits D-1 or D-2 or in any Quarterly Update contain (i) a
+                   [*MATERIAL OMITTED
+
+                                       5
+
+<Page>
+
+    CONFIDENTIAL TREATMENT REQUESTED                    EXHIBIT 10.41
+
+                   AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                   CONFIDENTIAL TREATMENT] or (ii) a [*MATERIAL OMITTED AND
+                   SEPARATELY FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL
+                   TREATMENT] shall be available as an offering to Customer,
+                   then Customer may only request such Other Services in such
+                   [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] or[*MATERIAL OMITTED
+                   AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                   CONFIDENTIAL TREATMENT] such [*MATERIAL OMITTED AND
+                   SEPARATELY FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL
+                   TREATMENT] (subject to the terms and conditions contained in
+                   Exhibits D-1 and D-2 and in any Quarterly Services Update).
+                   In the event no specific city for certain Other Services is
+                   listed in Exhibits D-1 or D-2 or in any Quarterly Services
+                   Update, Vendor will offer such services only [*MATERIAL
+                   OMITTED AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                   CONFIDENTIAL TREATMENT] unless otherwise specified. In the
+                   event no specific [*MATERIAL OMITTED AND SEPARATELY FILED
+                   PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT] for
+                   certain Other Services is listed in Exhibits D-1 or D-2 or in
+                   any Quarterly Services Update, Vendor will offer such
+                   services as of the Amendment Effective Date (for Other
+                   Services listed on Exhibits D-1 and D-2) and as of the date
+                   of the Quarterly Services Update (for Other Services offered
+                   by Vendor after the Amendment Effective Date). For avoidance
+                   of doubt, Customer may request end-to-end Services to and
+                   from specific geographic locations (such as, by way of
+                   example, to and from certain POPs or colocation facilities)
+                   which are not listed on Exhibit D-2 and such Services shall
+                   contribute to Customer's Amended Other Services Purchase
+                   Commitment, provided such Services are offered by Vendor in
+                   the specific city in which the POP or colocation facility is
+                   located.
+
+            (d)    PROCESS FOR REQUESTING SERVICES; MARKET COMPETITIVE PRICING
+                   FOR PRIMARY SERVICES. At any time during the Other Services
+                   Term, Customer may provide notice to Vendor (and to Vendor's
+                   designated Account Manager), in accordance with Section 16.4
+                   of the Master Agreement, of a request that Vendor present
+                   Customer with an offer to provide a particular type of
+                   Service set forth in Exhibits D-1 and D-2 or in a Quarterly
+                   Services Update (each such notice an "OTHER SERVICES REQUEST
+                   NOTICE"). In each Other Services Request Notice, Customer
+                   shall provide Vendor with sufficient information regarding
+                   Customer's [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT
+                   TO AN APPLICATION FOR CONFIDENTIAL TREATMENT] and, if
+                   applicable, [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT
+                   TO AN APPLICATION FOR CONFIDENTIAL TREATMENT] requirements to
+                   enable Vendor to present a competitive offer for the
+                   requested Service. To the extent feasible and subject to
+                   confidentiality restrictions, the Other Services Request
+                   Notice shall also include additional information that
+                   Customer has relating to [*MATERIAL OMITTED AND SEPARATELY
+                   FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]
+                   (as defined below) sufficient to enable Vendor to present a
+                   [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] (as defined below).
+                   If the Service requested in the Other Services Request Notice
+                   is an Available Service, then the following offer process
+                   shall take place:
+
+                   (i)    Within fourteen (14) calendar days following receipt
+                          by Vendor of an Other Services Request Notice (the
+                          "REQUESTING PERIOD"), Vendor shall either (A) present
+                          Customer with a written offer to provide the requested
+                          Service, containing sufficient technical, business,
+                          and pricing information to enable Customer to evaluate
+                          the offer, or (B) notify Customer in writing that it
+                          declines to bid on the Service, in which case, if the
+                          Service is a Primary Service, the Amended Other
+                          Services Purchase Commitment shall be subject to
+                          reduction as specified in Section 1(e) below.
+
+                   (ii)   Within [*MATERIAL OMITTED AND SEPARATELY FILED
+                          PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]
+                          following receipt of Vendor's written offer for the
+                          Service (the "REVIEW PERIOD"), Customer shall provide
+                          Vendor with written notice (a "FIRST RESPONSE NOTICE")
+                          indicating whether Customer accepts or declines
+                          Vendor's offer. In the event Customer declines
+                          Vendor's offer because of a reasonable determination
+                          solely by Customer that Vendor's offer is not a
+                          [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] then Customer
+                          shall include in the First Response Notice sufficient
+                          additional technical, [*MATERIAL OMITTED AND
+
+                                       6
+
+<Page>
+
+    CONFIDENTIAL TREATMENT REQUESTED                    EXHIBIT 10.41
+
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] and [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] information (including
+                          applicable [*MATERIAL OMITTED AND SEPARATELY FILED
+                          PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]
+                          information in Customer's possession) (to the extent
+                          feasible and subject to confidentiality restrictions)
+                          to enable Vendor (A) to ascertain the validity of the
+                          [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] information in
+                          Customer's possession, and (B) to make, in Vendor's
+                          discretion, such adjustments to its initial offer to
+                          make it a [*MATERIAL OMITTED AND SEPARATELY FILED
+                          PURSUANT TO AN APPLICATION FOR CONFIDENTIAL
+                          TREATMENT].
+
+                   (iii)  Within [*MATERIAL OMITTED AND SEPARATELY FILED
+                          PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]
+                          following receipt of a First Response Notice from
+                          Customer (the "ADJUSTMENT PERIOD"), Vendor shall
+                          either (A) present Customer with an adjusted written
+                          offer ("SECOND BID") to provide the requested Service,
+                          or (B) notify Customer in writing that it declines to
+                          submit a Second Bid, in which case, if the Service is
+                          a Primary Service, the Amended Other Services Purchase
+                          Commitment shall be subject to reduction as specified
+                          in Section 1(e) below.
+
+                   (iv)   If Vendor presents a Second Bid during the Adjustment
+                          Period, then within [*MATERIAL OMITTED AND SEPARATELY
+                          FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL
+                          TREATMENT] of receipt thereof, Customer shall provide
+                          Vendor with written notice (a "SECOND RESPONSE
+                          NOTICE") indicating whether Customer accepts or
+                          declines Vendor's Second Bid. In the event Customer
+                          declines Vendor's Second Bid because of [*MATERIAL
+                          OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] Customer that
+                          Vendor's Second Bid is not a [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] and if the Service is a
+                          Primary Service, then the Amended Other Services
+                          Purchase Commitment shall be [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] as specified in Section 1(e)
+                          below.
+
+                   (v)    The parties agree that for purposes of this Section
+                          1(d), notice may be provided by email under Section
+                          16.4 of the Master Agreement and shall be deemed duly
+                          received upon receipt.
+
+            (e)    NO BIDS AND NON-MARKET COMPETITIVE OFFERS FOR PRIMARY
+                   SERVICES. In the event that Vendor receives an Other Services
+                   Request Notice for a Primary Service during the Other
+                   Services Term, and (i) Vendor declines to present an offer
+                   for such Primary Service during the Requesting Period, (ii)
+                   Vendor declines to submit a Second Bid for such Primary
+                   Service during the Adjustment Period, or (iii) Customer
+                   declines Vendor's Second Bid for such Primary Service because
+                   of [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] Customer that
+                   Vendor's Second Bid is not a [*MATERIAL OMITTED AND
+                   SEPARATELY FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL
+                   TREATMENT] (each such event a "THIRD PARTY SERVICE TRIGGERING
+                   EVENT"), then to the extent that Customer or any Customer
+                   Affiliate subsequently orders Third Party Replacement
+                   Services from a third party vendor not later than [*MATERIAL
+                   OMITTED AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                   CONFIDENTIAL TREATMENT] following the last day of the
+                   [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] in which the Third
+                   Party Service Triggering Event occurs, then upon the
+                   provision of notice to Vendor (and to Vendor's designated
+                   Account Manager) in accordance with Section 16.4 of the
+                   Master Agreement:
+
+                   (i)    The Amended Other Services Purchase Commitment shall
+                          be [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO
+                          AN APPLICATION FOR CONFIDENTIAL TREATMENT] as of the
+                          date on which Customer places a firm order for Third
+                          Party Replacement Services, by the [*MATERIAL OMITTED
+                          AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] of the Services ordered by
+                          Customer or a Customer Affiliate from a third party
+
+                                       7
+
+<Page>
+
+    CONFIDENTIAL TREATMENT REQUESTED                    EXHIBIT 10.41
+
+                          vendor for the provision of the applicable Third Party
+                          Replacement Services; PROVIDED, HOWEVER, that (A) the
+                          calculation of [*MATERIAL OMITTED AND SEPARATELY FILED
+                          PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]
+                          in the Amended Other Services Purchase Commitment
+                          shall [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT
+                          TO AN APPLICATION FOR CONFIDENTIAL TREATMENT] (and
+                          adjusted, as necessary) as of the end of each
+                          [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] immediately
+                          following the [*MATERIAL OMITTED AND SEPARATELY FILED
+                          PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]
+                          in which a firm order is placed by Customer or a
+                          Customer Affiliate for the applicable Third Party
+                          Replacement Services (or sooner to the extent provided
+                          for in Section 2(c)(i) below); and (B) the amount of
+                          any such [*MATERIAL OMITTED AND SEPARATELY FILED
+                          PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]
+                          in the Amended Other Services Purchase Commitment
+                          shall be equal to [*MATERIAL OMITTED AND SEPARATELY
+                          FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL
+                          TREATMENT] of the Third Party Replacement Services
+                          ordered by Customer during the applicable [*MATERIAL
+                          OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] and for which
+                          (1) Customer has been invoiced by the third party
+                          vendor [*MATERIAL OMITTED AND SEPARATELY FILED
+                          PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]
+                          following the end of such [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] or (2) in the case of leased
+                          services, Customer has, at a minimum, received its
+                          initial invoice from the third party vendor within
+                          [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] following the
+                          end of such[*MATERIAL OMITTED AND SEPARATELY FILED
+                          PURSUANT TO AN APPLICATION FOR CONFIDENTIAL
+                          TREATMENT], as certified by an officer of Customer
+                          (Vice President level or higher), with such
+                          certification to be accompanied by [*MATERIAL OMITTED
+                          AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] reasonably sufficient to allow
+                          Vendor to calculate and ascertain the amount
+                          [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] in the Amended
+                          Other Services Purchase Commitment (including, without
+                          limitation, information and documentation [*MATERIAL
+                          OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT], if
+                          applicable), provided that [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT]. In the event Customer has
+                          recurring payment obligations for Third Party
+                          Replacement Services provided on a recurring basis
+                          (E.G., leased services), [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] such Third Party Services
+                          shall [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT
+                          TO AN APPLICATION FOR CONFIDENTIAL TREATMENT] the
+                          Amended Other Services Purchase Commitment for the
+                          Biannual Period in which such invoice is received by
+                          Customer, even if Customer is invoiced and/or
+                          continues to be invoiced beyond the period ending
+                          [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] following the
+                          end of the Biannual Period in which such Third Party
+                          Replacement Services are ordered.
+
+                   (ii)   The parties agree that for purposes of this Section
+                          1(e), notice may be provided by email under Section
+                          16.4 of the Master Agreement and shall be deemed duly
+                          received upon receipt.
+
+            (f)    REDUCTION FOR FAILURE TO TIMELY OFFER SERVICES. In the event
+                   Vendor is unable to offer an Other Service to Customer by (a)
+                   the date specified in Exhibits D-1 or D-2 or in any Quarterly
+                   Services Update (subject to the terms and conditions
+                   contained in Exhibits D-1 and D-2 and in any Quarterly
+                   Services Update) or (b) as of the Amendment Effective Date
+                   (where no date is specified in Exhibits D-1 and D-2) or (c)
+                   as of the date of the Quarterly Services Update (where no
+                   date is specified for the Services therein) (such Service a
+                   "DELAYED SERVICE"), then such Delayed Service shall still be
+                   deemed to be an Available Service and to the extent Customer
+                   or any Customer Affiliate subsequently purchases Third Party
+                   Replacement Services from a third party vendor, any time
+                   during the Other Services Term at which Vendor remains unable
+                   to offer such Other Service to Customer and timely deliver,
+                   then upon the provision of notice to Vendor (and to Vendor's
+                   designated Account Manager) in accordance with Section 16.4
+                   of the Master Agreement:
+
+                                       8
+
+<Page>
+
+    CONFIDENTIAL TREATMENT REQUESTED                    EXHIBIT 10.41
+
+                   (i)    The Amended Other Services Purchase Commitment shall
+                          be [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO
+                          AN APPLICATION FOR CONFIDENTIAL TREATMENT] as of the
+                          date on which Customer places a firm order for Third
+                          Party Replacement Services, by the [*MATERIAL OMITTED
+                          AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] of the Services ordered by
+                          Customer or a Customer Affiliate from a third party
+                          vendor for the provision of the applicable Third Party
+                          Replacement Services corresponding[*MATERIAL OMITTED
+                          AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT]; PROVIDED, HOWEVER, that (A)
+                          the calculation of any such [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] Amended Other Services
+                          Purchase Commitment shall be verified (and adjusted,
+                          as necessary) as of the end of each Biannual Period
+                          immediately following the Biannual Period in which a
+                          firm [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT
+                          TO AN APPLICATION FOR CONFIDENTIAL TREATMENT] (or
+                          sooner to the extent provided for in Section 2(c)(i)
+                          below); and (B) the amount of [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] Amended Other Services
+                          Purchase Commitment shall be [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] Third Party Replacement
+                          Services ordered by Customer during the applicable
+                          Biannual Period and for which (1) Customer has been
+                          invoiced by the third party vendor [*MATERIAL OMITTED
+                          AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] following the end of such
+                          [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] or (2) in the
+                          case of leased services, Customer has, at a minimum,
+                          received its initial invoice from the third party
+                          vendor [*MATERIAL OMITTED AND SEPARATELY FILED
+                          PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]
+                          following the end of such [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] as certified by an officer of
+                          Customer (Vice President level or higher), with such
+                          certification to be accompanied by [*MATERIAL OMITTED
+                          AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] reasonably sufficient to allow
+                          [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] to calculate
+                          and ascertain the amount [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] Amended Other Services
+                          Purchase Commitment, provided that such [*MATERIAL
+                          OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] shall be
+                          redacted as appropriate in Customer's sole discretion.
+                          In the event Customer has recurring payment
+                          obligations for Third Party Replacement Services
+                          provided on a recurring basis (E.G., leased services),
+                          [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] Third Party
+                          Services shall contribute [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] the Amended Other Services
+                          Purchase Commitment for the [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] in which such invoice is
+                          received by Customer, even if Customer is invoiced
+                          and/or continues to be invoiced beyond the period
+                          ending [*MATERIAL OMITTED AND SEPARATELY FILED
+                          PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]
+                          following the end of the [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] in which such Third Party
+                          Replacement Services are ordered.
+
+                   (ii)   The parties agree that for purposes of this Section
+                          1(f), notice may be provided by email under Section
+                          16.4 of the Master Agreement and shall be deemed duly
+                          received upon receipt.
+
+       2.   PAYMENT FOR OTHER SERVICES.
+
+            (a)    BIANNUAL PAYMENT AMOUNTS. Subject to other terms set forth in
+                   this Agreement (including without limitation Customer's right
+                   to reduce its Amended Other Services Purchase Commitment),
+                   the aggregate annual dollar amount of Other Services ordered
+                   by Customer from Vendor and/or Vendor's Affiliates during
+                   each year of the Other Services Term shall be equal to
+
+                                       9
+
+<Page>
+
+    CONFIDENTIAL TREATMENT REQUESTED                    EXHIBIT 10.41
+
+                   or greater than [*MATERIAL OMITTED AND SEPARATELY FILED
+                   PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]
+                   dollars ($[*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO
+                   AN APPLICATION FOR CONFIDENTIAL TREATMENT]) per year for
+                   calendar years 2002, 2003 and 2004 and equal to or greater
+                   than [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] dollars ($[*MATERIAL
+                   OMITTED AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                   CONFIDENTIAL TREATMENT]) for calendar year 2005; PROVIDED,
+                   HOWEVER, that Customer agrees to order from Vendor a minimum
+                   dollar amount of Other Services (subject to Customer's right
+                   to reduce the Amended Other Services Purchase Commitment as
+                   set forth in this Schedule D) in respect of each six (6)
+                   month period in years 2002, 2003, 2004 and 2005 (each such
+                   six (6) month period, a "BIANNUAL PERIOD") of each such
+                   calendar year of the Other Services Term (each such payment
+                   during a Biannual Period, a "BIANNUAL PAYMENT AMOUNT"), as
+                   set forth in the table below:
+
+<Table>
+<Caption>
+                              ----------------------------------------- --------------------------------
+                                          Biannual Period                   Biannual Payment Amount
+                                     (SIX MONTH PERIOD ENDING)
+                              ----------------------------------------- --------------------------------
+<S>                                                                     <C>
+                              June 30, 2002                             $[*MATERIAL OMITTED AND
+                                                                        SEPARATELY FILED PURSUANT TO
+                                                                        AN APPLICATION FOR
+                                                                        CONFIDENTIAL TREATMENT]
+                              ----------------------------------------- --------------------------------
+                              December 31, 2002                         $[*MATERIAL OMITTED AND
+                                                                        SEPARATELY FILED PURSUANT TO
+                                                                        AN APPLICATION FOR
+                                                                        CONFIDENTIAL TREATMENT]
+                              ----------------------------------------- --------------------------------
+                              June 30, 2003                             $[*MATERIAL OMITTED AND
+                                                                        SEPARATELY FILED PURSUANT TO
+                                                                        AN APPLICATION FOR
+                                                                        CONFIDENTIAL TREATMENT]
+                              ----------------------------------------- --------------------------------
+                              December 31, 2003                         $[*MATERIAL OMITTED AND
+                                                                        SEPARATELY FILED PURSUANT TO
+                                                                        AN APPLICATION FOR
+                                                                        CONFIDENTIAL TREATMENT]
+                              ----------------------------------------- --------------------------------
+                              June 30, 2004                             $[*MATERIAL OMITTED AND
+                                                                        SEPARATELY FILED PURSUANT TO
+                                                                        AN APPLICATION FOR
+                                                                        CONFIDENTIAL TREATMENT]
+                              ----------------------------------------- --------------------------------
+                              December 31, 2004                         $[*MATERIAL OMITTED AND
+                                                                        SEPARATELY FILED PURSUANT TO
+                                                                        AN APPLICATION FOR
+                                                                        CONFIDENTIAL TREATMENT]
+                              ----------------------------------------- --------------------------------
+                              June 30, 2005                             $[*MATERIAL OMITTED AND
+                                                                        SEPARATELY FILED PURSUANT TO
+                                                                        AN APPLICATION FOR
+                                                                        CONFIDENTIAL TREATMENT]
+                              ----------------------------------------- --------------------------------
+                              December 31, 2005                         $[*MATERIAL OMITTED AND
+                                                                        SEPARATELY FILED PURSUANT TO
+                                                                        AN APPLICATION FOR
+                                                                        CONFIDENTIAL TREATMENT]
+                              ----------------------------------------- --------------------------------
+</Table>
+
+            (B)    [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT]. If the amount
+                   ordered by Customer for Other Services pursuant to this
+                   Schedule D during any Biannual Period [*MATERIAL OMITTED AND
+                   SEPARATELY FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL
+                   TREATMENT] the Biannual Payment Amount for the corresponding
+                   Biannual Period [*MATERIAL OMITTED AND SEPARATELY FILED
+                   PURSUANT TO AN APPLICATION FOR
+
+                                       10
+
+<Page>
+
+    CONFIDENTIAL TREATMENT REQUESTED                    EXHIBIT 10.41
+
+                   CONFIDENTIAL TREATMENT] then Vendor shall [*MATERIAL OMITTED
+                   AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                   CONFIDENTIAL TREATMENT] toward the Biannual [*MATERIAL
+                   OMITTED AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                   CONFIDENTIAL TREATMENT] in the subsequent Biannual Period(s)
+                   until the [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO
+                   AN APPLICATION FOR CONFIDENTIAL Treatment]. For avoidance of
+                   doubt, the aggregate amount for any Other Services ordered in
+                   the Biannual Period ending June 30, 2002 [*MATERIAL OMITTED
+                   AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                   CONFIDENTIAL TREATMENT] for the Biannual Period ending
+                   December 31, 2002 and the subsequent period, if such amount
+                   [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] dollars ($[*MATERIAL
+                   OMITTED AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                   CONFIDENTIAL TREATMENT]).
+
+                   (i)    EXAMPLE: For example (and assuming [*MATERIAL OMITTED
+                          AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] in the Amended Other Services
+                          Purchase Commitment), if during the Biannual Period
+                          ending June 30, 2003, Customer has ordered from Vendor
+                          $[*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO
+                          AN APPLICATION FOR CONFIDENTIAL TREATMENT] in Other
+                          Services, then [*MATERIAL OMITTED AND SEPARATELY FILED
+                          PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]
+                          would be required by Customer in respect of such
+                          Biannual Period, and the Customer would be entitled to
+                          [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] in the amount
+                          of [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO
+                          AN APPLICATION FOR CONFIDENTIAL TREATMENT] in orders
+                          for Other Services [*MATERIAL OMITTED AND SEPARATELY
+                          FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL
+                          TREATMENT] applicable Biannual Payment Amount of
+                          [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] would be
+                          applied toward the Biannual Payment Amount due for the
+                          next Biannual Period ending December 31, 2003. If, at
+                          the end of the next following Biannual Period ending
+                          December 31, 2002 (and assuming [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] the Amended Other Services
+                          Purchase Commitment), Customer has ordered [*MATERIAL
+                          OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] in Other
+                          Services, then the Customer would be required to pay
+                          Vendor [*MATERIAL OMITTED AND SEPARATELY FILED
+                          PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]
+                          (as defined below) for such Biannual Period in the
+                          amount of $[*MATERIAL OMITTED AND SEPARATELY FILED
+                          PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]
+                          (I.E., $[*MATERIAL OMITTED AND SEPARATELY FILED
+                          PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]
+                          orders for Other Services, plus $[*MATERIAL OMITTED
+                          AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] the previous Biannual Period,
+                          [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] applicable
+                          Biannual Payment Amount of $[*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] and no [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] would remain for [*MATERIAL
+                          OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] Biannual
+                          Periods.
+
+            (C)    [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] Subject to other
+                   terms set forth in this Agreement, in the event (i) the
+                   Biannual Payment Amount corresponding to an applicable
+                   Biannual Period is greater than (ii) the [*MATERIAL OMITTED
+                   AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                   CONFIDENTIAL TREATMENT] orders from Customer to Vendor for
+                   Other Services during the applicable Biannual Period, plus
+                   (B) the [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO
+                   AN APPLICATION FOR CONFIDENTIAL TREATMENT] Amended Other
+                   Services Purchase Commitment [*MATERIAL OMITTED AND
+                   SEPARATELY FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL
+                   TREATMENT] in the applicable Biannual Period in accordance
+                   with the provisions of Sections 1(b), 1(e) and 1(f) of this
+                   Schedule D, plus any [*MATERIAL OMITTED AND SEPARATELY FILED
+                   PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT] (as
+                   defined below) [*MATERIAL OMITTED AND SEPARATELY FILED
+                   PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT] to
+                   date
+
+                                       11
+
+<Page>
+
+    CONFIDENTIAL TREATMENT REQUESTED                    EXHIBIT 10.41
+
+                   (but excluding all amounts, [*MATERIAL OMITTED AND SEPARATELY
+                   FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]
+                   previously utilized[*MATERIAL OMITTED AND SEPARATELY FILED
+                   PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]), plus
+                   (C) any [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO
+                   AN APPLICATION FOR CONFIDENTIAL TREATMENT] that has been
+                   carried forward from previous Biannual Periods (the aggregate
+                   sum of (A), (B), and (C), collectively, [*MATERIAL OMITTED
+                   AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                   CONFIDENTIAL TREATMENT] then Vendor may invoice Customer for
+                   [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] in an amount equal to
+                   [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] percent ([*MATERIAL
+                   OMITTED AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                   CONFIDENTIAL Treatment]%) of the difference between the
+                   [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] corresponding to the
+                   applicable Biannual Period minus the [*MATERIAL OMITTED AND
+                   SEPARATELY FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL
+                   TREATMENT] for such Biannual Period [*MATERIAL OMITTED AND
+                   SEPARATELY FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL
+                   TREATMENT] shall be calculated and invoiced in accordance
+                   with the following procedures:
+
+                   (i)    Vendor shall provide Customer with an invoice for the
+                          [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] for an
+                          applicable Biannual Period within [*MATERIAL OMITTED
+                          AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] of the end of the next
+                          following Biannual Period, and Customer shall pay the
+                          full amount, less any amounts disputed in good faith,
+                          within [*MATERIAL OMITTED AND SEPARATELY FILED
+                          PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]
+                          of receipt of such invoice. By way of example, the
+                          invoice for the [*MATERIAL OMITTED AND SEPARATELY
+                          FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL
+                          TREATMENT] for the Biannual Period ending June 30,
+                          2002 shall be due on or before [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] provided Customer received the
+                          invoice no later than [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT]. In the event there is
+                          complete certainty as to any or all of the amount
+                          [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] Remedy owed to
+                          Vendor at the end of any Biannual Period, then Vendor
+                          may invoice Customer within [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] following the end of such
+                          Biannual Period for payment of such certain amount.
+                          For example (assuming no [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] Amended Other Services
+                          Purchase Commitment), if, in the Biannual Period
+                          ending June 30, 2004, [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] Customer does not order any
+                          Other Services from Vendor, [*MATERIAL OMITTED AND
+                          SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] Customer is not invoiced (from
+                          a third party vendor) for any Third Party Replacement
+                          Services during the [*MATERIAL OMITTED AND SEPARATELY
+                          FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL
+                          TREATMENT] Customer has no unutilized [*MATERIAL
+                          OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] or unutilized
+                          [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] from previous
+                          Biannual Periods, then Vendor may invoice Customer for
+                          the [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT
+                          TO AN APPLICATION FOR CONFIDENTIAL TREATMENT] on or
+                          before [*MATERIAL OMITTED AND SEPARATELY FILED
+                          PURSUANT TO AN APPLICATION FOR CONFIDENTIAL
+                          TREATMENT].
+
+                   (ii)   In calculating the amount of the [*MATERIAL OMITTED
+                          AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                          CONFIDENTIAL TREATMENT] in each Biannual Period, to
+                          the extent that the [*MATERIAL OMITTED AND SEPARATELY
+                          FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL
+                          TREATMENT] in the Amended Other Services Purchase
+                          Commitment in accordance with Sections 1(b), 1(e) and
+                          1(f) of this Schedule D, from the Amendment Effective
+                          Date through the end of the applicable Biannual
+                          Period, [*MATERIAL OMITTED AND SEPARATELY FILED
+                          PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]
+                          that have actually been utilized
+
+                                       12
+
+<Page>
+
+    CONFIDENTIAL TREATMENT REQUESTED                    EXHIBIT 10.41
+
+                          in [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO
+                          AN APPLICATION FOR CONFIDENTIAL TREATMENT] in any
+                          Biannual Period from the Amendment Effective Date
+                          through the end of the applicable Biannual Period,
+                          [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] shall be
+                          [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT] to [*MATERIAL
+                          OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                          APPLICATION FOR CONFIDENTIAL TREATMENT].
+
+                   (iii)[*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                        APPLICATION FOR CONFIDENTIAL TREATMENT] is final and
+                        non-recoverable, and may not be used to [*MATERIAL
+                        OMITTED AND SEPARATELY FILED PURSUANT TO AN APPLICATION
+                        FOR CONFIDENTIAL TREATMENT] payments owed by Customer
+                        under this Schedule D or otherwise.
+
+            (d)    MEETINGS. For the purpose of (i) determining the Other
+                   Services Credit, the Commitment Reduction Credit, and/or the
+                   Take or Pay Remedy, if any, (ii) preparing the applicable
+                   Vendor invoice for the period following the conclusion of the
+                   applicable Biannual Period, and (iii) reducing the likelihood
+                   of an invoice or payment dispute, the parties agree to hold a
+                   meeting [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO
+                   AN APPLICATION FOR CONFIDENTIAL TREATMENT] or before the
+                   [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] of the [*MATERIAL
+                   OMITTED AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                   CONFIDENTIAL TREATMENT] following the end of each Biannual
+                   Period. Each party shall nominate one senior officer of the
+                   rank of Vice President or higher (or their designee) as its
+                   representative at these meetings. These representatives shall
+                   meet, at a mutually agreed location, and shall attempt in
+                   good faith to agree on the appropriate calculations for
+                   determining the Other Services Credit, the Commitment
+                   Reduction Credit, and/or the Take or Pay Remedy, if any, for
+                   the applicable Biannual Period. These representatives agree
+                   to share necessary and appropriate information, including
+                   [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] information (to the
+                   extent feasible and subject to confidentiality restrictions),
+                   to enable each party to determine the appropriate invoice
+                   amounts, including the applicable [*MATERIAL OMITTED AND
+                   SEPARATELY FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL
+                   TREATMENT] to be included on the invoice for the applicable
+                   Biannual Period.
+
+       3.   Definitions.
+
+            (a)    As used herein, "AVAILABLE SERVICE" means (i) any Service
+                   made available by Vendor in accordance with Exhibits D-1and
+                   D-2 as of the Amendment Effective Date; (ii) any Service made
+                   available by Vendor after the Amendment Effective Date as
+                   specified in any Quarterly Services Update; and (iii) any
+                   Other Service which Vendor offers or provides, or is able to
+                   offer or provide, on or after the Amendment Effective Date.
+
+            (b)    As used herein, "COMPARABLE OTHER SERVICES" means any
+                   services that are [*MATERIAL OMITTED AND SEPARATELY FILED
+                   PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT] to
+                   Customer or which are [*MATERIAL OMITTED AND SEPARATELY FILED
+                   PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT] to
+                   Customer pursuant to a bona fide response to a request for
+                   proposal (RFP) or other solicitation by Customer, by a third
+                   party vendor (not including a Customer Affiliate), that are
+                   [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] any Available Service
+                   that may be requested by Customer from Vendor pursuant to an
+                   Other Services Request Notice (including comparable
+                   [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] comparable [*MATERIAL
+                   OMITTED AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                   CONFIDENTIAL TREATMENT] comparable [*MATERIAL OMITTED AND
+                   SEPARATELY FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL
+                   TREATMENT] and other comparable[*MATERIAL OMITTED AND
+                   SEPARATELY FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL
+                   TREATMENT]; PROVIDED, HOWEVER, that the Other Services
+                   Request Notice and the RFP or other solicitation by Customer
+                   to the third party vendor for the
+
+                                       12
+
+<Page>
+
+    CONFIDENTIAL TREATMENT REQUESTED                    EXHIBIT 10.41
+
+                   Comparable Other Services [*MATERIAL OMITTED AND SEPARATELY
+                   FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT].
+                   For avoidance of doubt, for purposes of determining whether a
+                   service is a Comparable Other Service, Customer will
+                   [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] (as set forth in the
+                   RFP or other solicitation) [*MATERIAL OMITTED AND SEPARATELY
+                   FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT].
+
+            (c)    As used herein, "MARKET COMPETITIVE OFFER" means, with
+                   respect to a Customer request for the provision of certain
+                   specified Other Services by Vendor by a specified delivery
+                   date, a bona fide offer by Vendor to provide an Available
+                   Service at [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT
+                   TO AN APPLICATION FOR CONFIDENTIAL TREATMENT].
+
+            (d)    As used herein, "MARKET COMPETITIVE PRICING" means the
+                   [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] price offered to
+                   Customer for Comparable Other Services; PROVIDED, HOWEVER,
+                   that if the [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT
+                   TO AN APPLICATION FOR CONFIDENTIAL TREATMENT] price offered
+                   to Customer by a vendor of Comparable Other Services is (i) a
+                   price that is [*MATERIAL OMITTED AND SEPARATELY FILED
+                   PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT] for
+                   providing such Comparable Other Services, (ii) [*MATERIAL
+                   OMITTED AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                   CONFIDENTIAL TREATMENT] for providing such Comparable Other
+                   Services, (iii) [*MATERIAL OMITTED AND SEPARATELY FILED
+                   PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT] which
+                   is intended to [*MATERIAL OMITTED AND SEPARATELY FILED
+                   PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT] for
+                   providing such Comparable Other Services, or (iv) a price
+                   offered by [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT
+                   TO AN APPLICATION FOR CONFIDENTIAL TREATMENT], then such
+                   [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] price shall not be
+                   deemed valid Market Competitive Pricing.
+
+            (e)    As used herein, "PRIMARY SERVICES" means any of those certain
+                   Other Services that are (i) listed by city in Exhibit D-2, or
+                   (ii) listed in any Quarterly Services Update and specifically
+                   identified as "Exhibit D-2 Services" therein.
+
+            (f)    As used herein, "THIRD PARTY REPLACEMENT SERVICES" means any
+                   Comparable Other Services actually purchased by Customer or
+                   any Customer Affiliate from a third party vendor that are
+                   comparable to a Primary Service (i) which Vendor has
+                   discontinued during the Other Services Term, (ii) for which
+                   Vendor declines to present an offer during the Requesting
+                   Period or declines to submit a Second Bid during the
+                   Adjustment Period, (iii) for which Customer declines Vendor's
+                   Second Bid because of [*MATERIAL OMITTED AND SEPARATELY FILED
+                   PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT] that
+                   Vendor's Second Bid is not a [*MATERIAL OMITTED AND
+                   SEPARATELY FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL
+                   TREATMENT], or (iv) which is a Delayed Service.
+
+       4.   Schedule D Dispute Resolution.
+
+            (a)    EXECUTIVE ESCALATIONS. In the event any dispute arising out
+                   of or related to any matter set forth in Schedule D as
+                   amended hereby (including without limitation any dispute
+                   relating to (i) the validity of a determination by Customer
+                   that an offer is not a Market Competitive Offer, or (ii) the
+                   validity or amount of any reduction by Customer in the
+                   Amended Other Services Purchase Commitment) cannot be
+                   resolved to the satisfaction of both parties, then each party
+                   shall nominate one senior officer of the rank of Vice
+                   President or higher (or their designee) as its representative
+                   for purposes of attempting to resolve the dispute (the
+                   "EXECUTIVE ESCALATIONS"). These representatives shall meet in
+                   person and shall attempt in good faith to resolve the dispute
+                   and agree to use good faith efforts to share suitable
+                   information (to the extent feasible and subject to
+                   confidentiality restrictions) that would reasonably enable
+                   the parties to determine matters arising under Schedule D
+                   (such as whether an offer is a Market Competitive Offer or
+                   the validity or amount of any proposed reduction by
+
+                                       14
+
+<Page>
+
+    CONFIDENTIAL TREATMENT REQUESTED                    EXHIBIT 10.41
+
+                   Customer in the Amended Other Services Purchase Commitment).
+                   Such representatives shall meet, at a mutually agreed
+                   location, within ten (10) business days from the date on
+                   which either party delivers written notice of the need to
+                   resolve any dispute pursuant to this Section 4(a) of Schedule
+                   D. This procedure shall be a required prerequisite before
+                   either party may seek resolution of the dispute through
+                   arbitration under Section 4(b) below. The foregoing
+                   notwithstanding, the parties may agree to pursue any other
+                   additional mutually acceptable dispute resolution method, but
+                   such pursuit shall not be construed to modify or eliminate
+                   the prerequisite stated in this Section 4(a).
+
+            (b)    BINDING ARBITRATION. The parties agree that to the extent a
+                   dispute exists between them relating to the matters set forth
+                   in Schedule D following the conclusion of the Executive
+                   Escalations set forth in Section 4(a) of this Schedule D,
+                   either party may demand, by written notice to the other
+                   party, that such dispute be submitted to binding arbitration
+                   by a single arbitrator.
+
+                   (i)    PROCEDURE FOR ARBITRATION. The arbitration shall be
+                          conducted in accordance with the Commercial
+                          Arbitration Rules of the American Arbitration
+                          Association. The arbitration shall take place in New
+                          York, New York. The arbitrator shall be an individual
+                          knowledgeable in the provision of network services,
+                          and shall be chosen by mutual agreement of the parties
+                          within ten (10) days from the date of the initial
+                          written demand for arbitration.
+
+                   (ii)   DISCOVERY. Discovery shall be permitted to the extent
+                          set out in this paragraph, and shall be controlled by
+                          the arbitrator. Each party may submit in writing to
+                          the other party, and the other party shall respond to,
+                          a maximum of any combination of thirty-five (35) (none
+                          of which may have subparts) of the following:
+                          Interrogatories, Demands to Produce Documents, or
+                          Requests for Admission. Each party will be entitled to
+                          take the oral deposition of one (1) representative of
+                          the other party. Additional discovery may be permitted
+                          upon only mutual agreement of the parties, or upon
+                          order of the arbitrator for good cause shown. The
+                          arbitrator shall require that all permitted discovery
+                          be completed within forty-five (45) days of the
+                          initial written demand for arbitration.
+
+                   (iii)  ARBITRATION HEARING. The arbitration hearing shall
+                          commence within sixty (60) days of the initial written
+                          demand for arbitration. The arbitrator shall rule on
+                          the dispute by issuing a written opinion within thirty
+                          (30) days after the close of the hearing. Judgment
+                          upon the award rendered by the arbitrator may be
+                          entered in any court having jurisdiction.
+
+                   (iv)   COSTS. Each party shall bear its own costs of the
+                          arbitration. The parties shall split equally the fees
+                          of the arbitration and the arbitrator.
+
+            (c)    EQUITABLE REMEDIES. The parties agree that nothing in this
+                   Section 4 shall be construed to prevent a party from
+                   instituting litigation in a court of competent jurisdiction
+                   to obtain preliminary injunctive relief or a temporary
+                   restraining order, as appropriate under applicable law."
+
+6.     WITHHELD AMOUNTS. As full and final settlement of all invoice and payment
+       disputes with respect to Services rendered by Genuity through October 31,
+       2001, including without limitation all disputes relating to withheld
+       amounts, and arising out of the New Dial-Up Market Price proposed by AOL
+       on October 2, 2000 and subsequently disputed by Genuity (such disputes
+       shall be collectively referred to as "PRICING DISPUTES"), AOL will pay
+       Genuity [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+       APPLICATION FOR CONFIDENTIAL TREATMENT] $[*MATERIAL OMITTED AND
+       SEPARATELY FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT]
+       plus interest in the amount of [*MATERIAL OMITTED AND SEPARATELY FILED
+       PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT] dollars
+       ($[*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+       CONFIDENTIAL TREATMENT]) on or before [*MATERIAL OMITTED AND SEPARATELY
+       FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT] by wire
+       transfer of immediately available funds.
+
+                                       15
+
+<Page>
+
+    CONFIDENTIAL TREATMENT REQUESTED                    EXHIBIT 10.41
+
+7.     INVOICING AND PAYMENT. With respect to Services rendered by Genuity on
+       and after November 1, 2001, Genuity shall invoice for such Services and
+       AOL shall pay such invoices in accordance with the terms of Section 9 of
+       the Master Agreement (as amended hereby), and in accordance with the
+       pricing specified in Section 8 of this Amendment.
+
+8.     AMENDED PRICES FOR DEDICATED DIAL-UP ACCESS PORTS. The prices set forth
+       in Exhibit B-2 of the Agreement are hereby amended as follows:
+
+       8.1  through [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+            APPLICATION FOR CONFIDENTIAL TREATMENT], the monthly recurring
+            charge for one (1) Dedicated Dial-Up Access Port will be as set
+            forth in the Agreement (that is: the [*MATERIAL OMITTED AND
+            SEPARATELY FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL
+            TREATMENT] Dedicated Dial-Up Access Ports as set forth in Section
+            2(b) of Exhibit B-2 of the Agreement; and the [*MATERIAL OMITTED AND
+            SEPARATELY FILED PURSUANT TO AN APPLICATION FOR CONFIDENTIAL
+            TREATMENT] will be [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT
+            TO AN APPLICATION FOR CONFIDENTIAL TREATMENT] per port for the
+            remaining [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+            APPLICATION FOR CONFIDENTIAL TREATMENT] Dedicated Dial-Up Access
+            Ports as set forth in Section 3 of Exhibit B-2 of the Agreement);
+
+       8.2  from and after [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO
+            AN APPLICATION FOR CONFIDENTIAL TREATMENT], the monthly recurring
+            charge for one (1) Dedicated Dial-Up Access Port (regardless of
+            whether or not such port is an Existing Dedicated Dial-Up Access
+            Port) (the "MONTHLY PORT CHARGE") will be as follows:
+
+            (a)    from [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] through[*MATERIAL
+                   OMITTED AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                   CONFIDENTIAL TREATMENT], the Monthly Port Charge will be
+                   $[*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] per port for the
+                   [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] Dedicated Dial-Up
+                   Access Ports;
+
+            (b)    from [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] through [*MATERIAL
+                   OMITTED AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                   CONFIDENTIAL TREATMENT], the Monthly Port Charge will be
+                   $[*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] per port for the
+                   [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] Dedicated Dial-Up
+                   Access Ports;
+
+            (c)    from [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] through [*MATERIAL
+                   OMITTED AND SEPARATELY FILED PURSUANT TO AN APPLICATION FOR
+                   CONFIDENTIAL TREATMENT] , the Monthly Port Charge will be
+                   $[*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] per port for the
+                   [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] Dedicated Dial-Up
+                   Access Ports, less the aggregate number of ports
+                   decommissioned, if any, pursuant to the Agreement, as
+                   amended; and
+
+            (d)    from [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] through the remaining
+                   Term of the Agreement, the Monthly Port Charge will be the
+                   lower of $[*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO
+                   AN APPLICATION FOR CONFIDENTIAL TREATMENT] per port for the
+                   [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] Dedicated Dial-Up
+                   Access Ports (less the aggregate number of ports
+                   decommissioned, if any, pursuant to the Agreement, as
+                   amended) or the New Dial-Up Market Price per port for
+
+                                       16
+
+<Page>
+
+    CONFIDENTIAL TREATMENT REQUESTED                    EXHIBIT 10.41
+
+                   the [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+                   APPLICATION FOR CONFIDENTIAL TREATMENT] Dedicated Dial-Up
+                   Access Ports (less the aggregate number of ports
+                   decommissioned, if any, pursuant to the Agreement, as
+                   amended) as determined in accordance with Section 8.3(a) of
+                   Schedule B of the Agreement.
+
+9.     MARKET PRICE. AOL and Genuity agree that the earliest date that a market
+       price adjustment pursuant to Section 8.3(a) of Schedule B of the
+       Agreement may take effect is [*MATERIAL OMITTED AND SEPARATELY FILED
+       PURSUANT TO AN APPLICATION FOR CONFIDENTIAL TREATMENT] and that the
+       earliest date that AOL may provide Genuity with a New Dial-Up Market
+       Price Notice is [*MATERIAL OMITTED AND SEPARATELY FILED PURSUANT TO AN
+       APPLICATION FOR CONFIDENTIAL TREATMENT].
+
+10.    RELEASE OF CLAIMS.
+
+       10.1 Upon execution of this Amendment, Genuity on behalf of itself and
+            all of its officers, directors, stockholders, employees, agents,
+            successors, assigns, parent and subsidiary corporations, and related
+            entities and affiliates (collectively, the "GENUITY RELEASING
+            PARTIES"), hereby releases and irrevocably discharges AOL and all of
+            AOL's officers, directors, stockholders, employees, agents,
+            successors, assigns, parent and subsidiary corporations, and related
+            entities and affiliates (collectively, the "AOL RELEASED PARTIES")
+            from any and all complaints, claims, causes of action, suits, costs,
+            losses, liabilities, damages, and demands of any kind, whether known
+            or unknown (collectively, "CLAIMS"), which any of the Genuity
+            Releasing Parties has alleged or could have alleged against any of
+            the AOL Released Parties as of the Amendment Effective Date, which
+            relate to, or arise from the subject matter of, the Released
+            International Purchase Commitment, the Released Dial-Up Purchase
+            Commitment, the Released Other Broadband Purchase Commitment and the
+            Pricing Disputes (collectively, the "RELEASED CLAIMS").
+
+       10.2 Upon execution of this Amendment, AOL, on behalf of itself and all
+            of its officers, directors, stockholders, employees, agents,
+            successors, assigns, parent and subsidiary corporations, and related
+            entities and affiliates (collectively, the "AOL RELEASING PARTIES"),
+            hereby releases and irrevocably discharges Genuity and all of
+            Genuity's officers, directors, stockholders, employees, agents,
+            successors, assigns, parent and subsidiary corporations, and related
+            entities and affiliates (collectively, the "GENUITY RELEASED
+            PARTIES") from any and all Claims, which any of the AOL Releasing
+            Parties has alleged or could have alleged against any of the Genuity
+            Released Parties as of the Amendment Effective Date, which relate
+            to, or arise from the subject matter of, the Released Claims.
+
+       10.3 Nothing herein shall be construed to release or discharge any of the
+            AOL Released Parties or the Genuity Released Parties from any Claims
+            that do not relate to, or do not arise from the subject matter of
+            the Released Claims.
+
+11.    SUPPLIER PERFORMANCE. The following new Section 12.5 is added to the
+       Master Agreement:
+
+            "12.5  SUPPLIER PERFORMANCE. Vendor represents and warrants that it
+                   will notify Customer if, in the sole determination of Vendor,
+                   Vendor reasonably believes that the performance or
+                   non-performance of any of Vendor's suppliers may have a
+                   materially adverse impact on the ability of Vendor to meet
+                   any Service Levels under the Agreement."
+
+12.    EFFECTIVENESS OF AGREEMENT. Except as expressly provided herein, nothing
+       in this Amendment shall be deemed to waive or modify any of the
+       provisions of the Agreement, or any amendment or addendum thereto. In the
+       event of any conflict between the Agreement, this Amendment or any other
+       amendment or addendum thereof, the document later in time shall prevail.
+
+13.    OTHER TERMS. Except as provided in this Amendment, all other terms and
+       conditions of the Agreement (including without limitation Section 8.3(b)
+       of Schedule B of the Agreement) shall remain in full force and effect,
+       and the parties hereto acknowledge that such terms and conditions are in
+       full force and effect as of the date hereof.
+
+                                       17
+
+<Page>
+
+    CONFIDENTIAL TREATMENT REQUESTED                    EXHIBIT 10.41
+
+14.    COUNTERPARTS AND FACSIMILE DELIVERY. This Amendment may be executed in
+       two or more counterparts, each of which shall be deemed an original and
+       all of which taken together shall be deemed to constitute one and the
+       same document. The parties may sign and deliver this Amendment by
+       facsimile transmission. Each party agrees that the delivery of the
+       Amendment by facsimile shall have the same force and effect as delivery
+       of original signature pages and that each party may use such facsimile
+       signatures as evidence of the execution and delivery of the Amendment by
+       all parties to the same extent that an original signature could be used.
+
+
+       IN WITNESS WHEREOF, each of the parties hereto has caused this Amendment
+to be signed and delivered by its duly authorized representative as of the
+Amendment Effective Date.
+
+
+America Online, Inc.                           Genuity Solutions Inc.
+
+By: /s/ EDWARD M. PRINCE                  By: /s/ COLIN P. BEASLEY
+   ---------------------------------         ----------------------------------
+
+
+Name:  Edward M. Prince                   Name:  Colin Beasley
+      ------------------------------            -------------------------------
+
+Title: VP Business Affairs &              Title: Senior Vice President, Network
+       Development                               Planning & Engineering
+      ------------------------------            -------------------------------
+
+Date:  January 8, 2002                    Date:  January 8, 2002
+      ------------------------------            -------------------------------
+
+
+                                       18
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,726 @@
+<DOCUMENT>
+<TYPE>EX-10.1.12
+<SEQUENCE>4
+<FILENAME>w47107ex10-1_12.txt
+<DESCRIPTION>AMEND. IDEN INFRASTRUCTURE SUPPLY AGREEMENT
+<TEXT>
+
+<PAGE>   1
+                                                                 EXHIBIT 10.1.12
+
+
+                            CONFIDENTIALITY STATEMENT
+
+
+The Party receiving this Motorola Proposal understands and agrees that it (i) is
+MOTOROLA CONFIDENTIAL AND PROPRIETARY, (ii) is provided in response to the
+receiving party's request, (iii) is for internal use only as necessary for
+evaluation in deciding whether to purchase Motorola product described herein,
+(iv) is to be given strict confidential treatment, and (v) is subject to the
+terms and conditions of the parties prior non-disclosure agreement (if there is
+any conflict the terms of the non-disclosure agreement shall apply). Evaluation
+of this proposal evidences agreement to:
+
+           1.    Disclose or disseminate the material in this Proposal only to
+                 those employees who have a need to know and who have been
+                 advised of its confidentiality.
+
+           2.    Protect the confidentiality of this Proposal.
+
+           3.    Limit access to the material to the maximum reasonable
+                 extent.
+
+           4.    Take all reasonable steps to assure all employees abide
+                 fully with this statement.
+
+           5.    Return immediately the original Proposal and destroy all
+                 copies of the Proposal immediately upon Motorola's
+                 request.
+
+
+* Confidential portions omitted and filed separately with the Commission
+pursuant to an application for confidential treatment pursuant to rule 24b-2
+under the Securities Exchange Act of 1934, as amended.
+
+<PAGE>   2
+
+
+
+<TABLE>
+<CAPTION>
+TABLE OF CONTENTS
+<S>            <C>                                                                     <C>
+SECTION 1      EXECUTIVE OVERVIEW......................................................1-1
+
+SECTION 2      [ * ] PRICING PROGRAM DESCRIPTION.......................................2-1
+
+SECTION 3      PROPOSAL TERMS AND CONDITIONS...........................................3-1
+
+EXHIBIT A      [ * ] SUPPORT "SERVICE LEVEL AGREEMENT"
+               BETWEEN MOTOROLA/[ * ] AND NEXTEL.......................................A-1
+
+EXHIBIT B      EXAMPLE iDEN INFRASTRUCTURE PRICE BOOK SECTIONS 1F AND 1G
+
+EXHIBIT 1      EXAMPLE FULL PARM RECALCULATION AND VLR UPLIFT SCHEDULE
+
+EXHIBIT 2      EXAMPLE PARAMETER RECALCULATION PROCESS DRAFT V1.0
+</TABLE>
+
+
+
+
+Confidental: Use or disclosure of this document is subject to the restriction on
+the Confidentialilty Statement.
+
+* Confidential portions omitted and filed separately with the Commission
+pursuant to an application for confidential treatment pursuant to rule 24b-2
+under the Securities Exchange Act of 1934, as amended.
+
+
+<PAGE>   3
+
+
+
+SECTION 1
+EXECUTIVE OVERVIEW
+
+           Motorola is pleased to offer Nextel a new [ * ] Pricing program.
+           Motorola has accepted the challenge to come up with a plan to help
+           relieve some of Nextel's financial obligation for future core
+           capacity upgrades and port expansions.
+
+           Motorola's answer is a [ * ] Pricing Program, which provides Nextel
+           new, significantly lower [ * ] pricing ([ * ]).
+
+           The program offers two options. Both offer, lower [ * ] pricing,
+           lower price for the core capacity upgrade path through [ * ], and
+           guarantees against unforeseen incidental future hardware costs that
+           may appear as the product matures.
+
+           IN ADDITION TO THE REDUCED PRICE [ * ], ADDITIONAL COST REDUCTIONS ON
+           OTHER [ * ] COMPONENTS WILL BE PROVIDED AS PART OF THE PROGRAM.
+
+               HIGHLIGHTS:
+
+                -       [ * ]
+
+           Motorola has also committed to continue periodic price reductions
+           based upon Nextel's purchase volume of [ * ] equipment.
+
+           Please review the program description in section 2 for more details
+           on components covered, pricing, effective dates and additional
+           considerations.
+
+
+
+
+
+Confidental: Use or disclosure of this document is subject to the restriction on
+the Confidentialilty Statement.
+
+* Confidential portions omitted and filed separately with the Commission
+pursuant to an application for confidential treatment pursuant to rule 24b-2
+under the Securities Exchange Act of 1934, as amended.
+
+
+<PAGE>   4
+
+
+
+SECTION 2
+[ * ] PRICING PROGRAM DESCRIPTION
+
+Presented in this section is Motorola's [ * ] Pricing Program which describes
+two options. These two options offer changes in pricing for new and existing [ *
+] along with pricing reductions for [ * ], and a schedule projecting future
+price reductions. Only one of the two options can be chosen which will then be
+applied to all future expansion equipment as described in the body of the
+proposal. [ * ]. New full [ * ] may either be included in the program or
+excluded from the program and purchased at the then-current price book price.
+
+1.      EXISTING [ * ]
+
+1.1     Option 1:
+
+1.1.1   Overview / pricing:
+
+        [Details of Option 1 Intentionally Omitted Since Option 2 was selected
+        by Nextel]
+
+1.1.2   Qualifications, exclusions and pricing details:
+
+        [Details of Option 1 Intentionally Omitted Since Option 2 was Selected
+        by Nextel]
+
+1.1.3   Effective date and payment terms:
+
+        [Details of Option 1 Intentionally Omitted Since Option 2 was Selected
+        by Nextel]
+
+
+
+
+Confidental: Use or disclosure of this document is subject to the restriction on
+the Confidentialilty Statement.
+
+* Confidential portions omitted and filed separately with the Commission
+pursuant to an application for confidential treatment pursuant to rule 24b-2
+under the Securities Exchange Act of 1934, as amended.
+
+<PAGE>   5
+
+
+
+        Miscellaneous
+
+        [Details of Option 1 Intentionally Omitted Since Option 2 was Selected
+        by Nextel]
+
+1.2     Option 2:
+
+1.2.1   Overview / pricing: [ * ]
+
+        [ * ]
+
+
+
+Confidental: Use or disclosure of this document is subject to the restriction on
+the Confidentialilty Statement.
+
+* Confidential portions omitted and filed separately with the Commission
+pursuant to an application for confidential treatment pursuant to rule 24b-2
+under the Securities Exchange Act of 1934, as amended.
+
+
+<PAGE>   6
+
+
+             Preliminary [MSC PER-PORT] Pricing Program Description
+
+
+1.2.2    Qualifications, exclusions and pricing details:
+
+         [ * ]
+
+1.2.3    Effective date and payment terms:
+
+         - Option 2 pricing for [ * ] will be implemented effective January 1,
+           2001.
+
+1.2.4    Miscellaneous:
+
+"Core" capacity will be added on an as-needed basis. Capacity additions will be
+based on Nextel's reasonable growth plans and standard operational rules [ * ]
+as mutually agreed to by Nextel and Motorola. Motorola will work with Nextel to
+ensure that capacity additions are performed [ * ]
+
+Nextel will determine the requirement for a core capacity upgrade to each switch
+based on the projected demand. [ * ]
+
+[ * ]
+[ * ]
+
+[ * ]
+
+
+[ * ]
+
+
+        Note: Total count calculated including corresponding extension
+registers.
+
+Motorola and Nextel will continue to collaborate on the development and usage of
+optimization tools to identify and implement market level configuration
+improvements. If situations should occur which indicate a market to be
+significantly sub-optimized, Motorola may request Nextel's support in resolving
+the issue prior to an upgrade being scheduled.
+
+[ * ]
+
+
+2.      [ * ]
+
+2.1     Pricing for [ * ] (from the iDEN(R) Infrastructure Price Book, [ * ]).
+        After the purchase of a new [ * ], Nextel will have the option of
+        expanding the [ * ] under the terms of the selected upgrade option.
+
+2.1.1   Expansion of [ * ] - with Option 1:
+
+
+
+Confidental: Use or disclosure of this document is subject to the restriction on
+the Confidentialilty Statement.
+
+* Confidential portions omitted and filed separately with the Commission
+pursuant to an application for confidential treatment pursuant to rule 24b-2
+under the Securities Exchange Act of 1934, as amended.
+
+
+<PAGE>   7
+
+
+
+
+
+        [Details of Option 1 Intentionally Omitted Since Option 2 was Selected
+        by Nextel]
+
+
+2.1.1.1 Qualifications, exclusions and pricing details:
+
+        [Details of Option 1 Intentionally Omitted Since Option 2 was Selected
+        by Nextel]
+
+2.1.1.2 Miscellaneous:
+
+        [Details of Option 1 Intentionally Omitted Since Option 2 was Selected
+        by Nextel]
+
+
+
+2.1.2   Expansion of [ * ] - with Option 2: [ * ]
+
+2.1.2.1 Qualifications, exclusions and pricing details:
+
+        [ * ]
+
+2.1.2.2 Miscellaneous:
+
+        - Capacity Additions
+
+        Reference Section 1.2.4.
+
+2.2     Effective date: The [ * ] pricing proposed here applies to [ * ] shipped
+        after January 1, 2001.
+
+2.3     [ * ] PRICING
+
+2.3.1   Overview / pricing: [ * ]
+
+2.3.2   Effective date: The revised [ * ] will go into effect on January 1,
+        2001.
+
+2.4     LPP PRICE REDUCTION
+
+2.4.1   Overview / pricing: [ * ]
+
+2.4.2   Effective date: [ * ] after January 1, 2001 will be included in this
+        program.
+
+
+
+2.5     FUTURE PRICE REDUCTION SCHEDULE
+
+2.5.1   In addition to the significant price reductions described above, future
+        price reductions are anticipated. These discounts will impact all [ * ]
+        products (excluding [ * ] which has
+
+Confidental: Use or disclosure of this document is subject to the restriction on
+the Confidentialilty Statement.
+
+* Confidential portions omitted and filed separately with the Commission
+pursuant to an application for confidential treatment pursuant to rule 24b-2
+under the Securities Exchange Act of 1934, as amended.
+
+
+<PAGE>   8
+
+
+
+        a unique price reduction curve). Future price reductions will be based
+        on Nextel's purchase volume of [ * ] products per the table below.
+
+
+<TABLE>
+<CAPTION>
+--------------------------------------------------------------------------------
+                                                 Option 1          Option 2
+                                                [ * ] Price      [ * ] Price
+<S>                                             <C>              <C>
+Current (effective January 1, 2001)                 (1)             $[ * ]
+$[ * ] additional shipments                         (1)             $[ * ]
+$[ * ] additional shipments                         (1)             $[ * ]
+$[ * ] additional shipments                         (1)             $[ * ]
+--------------------------------------------------------------------------------
+</TABLE>
+
+        (1) [Details of Option 1 Intentionally Omitted Since Option 2 was
+        Selected by Nextel]
+
+        Equipment not covered by the above schedule will receive [ * ] is
+        reached. Firm pricing for each item will be published in the then
+        current iDEN Infrastructure Price Book.
+
+
+2.6      ADDITIONAL CONSIDERATIONS
+
+2.6.1    [ * ]
+
+2.6.2    If the [ * ] products fail to meet the currently stated [ * ]  The
+         above applies to U.S. locations only.
+
+         Reference the attached support plan from [ * ].
+
+
+
+2.6.3    [ * ]
+
+
+Confidental: Use or disclosure of this document is subject to the restriction on
+the Confidentialilty Statement.
+
+* Confidential portions omitted and filed separately with the Commission
+pursuant to an application for confidential treatment pursuant to rule 24b-2
+under the Securities Exchange Act of 1934, as amended.
+
+
+<PAGE>   9
+
+
+
+
+ACCEPTANCE OF THE MOTOROLA NEW SWITCH PRICING OPTION #1 PROPOSAL 700.2033E
+
+[Details of Option 1 Intentionally Omitted Since Option 2 was Selected by
+Nextel]
+
+
+
+Confidental: Use or disclosure of this document is subject to the restriction on
+the Confidentialilty Statement.
+
+* Confidential portions omitted and filed separately with the Commission
+pursuant to an application for confidential treatment pursuant to rule 24b-2
+under the Securities Exchange Act of 1934, as amended.
+
+
+<PAGE>   10
+
+
+             Preliminary [MSC PER-PORT] Pricing Program Description
+
+
+ACCEPTANCE OF THE MOTOROLA NEW SWITCH PRICING OPTION #2 PROPOSAL 700.2033E
+
+By signature hereto, Nextel Inc. accepts the terms and conditions of the Option
+#2 reflected in this Proposal 700.2033E ("Proposal") and such Proposal shall be
+incorporated by reference into the [ * ] Supply Agreement between the parties.
+
+<TABLE>
+<S>                                        <C>
+Accepted By:
+Nextel, Inc.                                Motorola, Inc.
+ /s/  Thomas J. Sidman (Signature)           /s/ Charles F. Wright (Signature)
+----------------------                      -----------------------
+(Authorized Signatory)                      (Authorized Signatory)
+
+                              (Name)        Charles F.Wright              (Name)
+------------------------------                              --------------
+
+
+   Senior Vice President       (Title)      Senior Vice President and General Mgr.(Title)
+-------------------------------
+
+
+     December 28, 2000          (Date)       December 28, 2000      (Date)
+-------------------------------             ------------------------
+
+
+    --------------------------
+    (R)Reg. U.S. Pat. & Tm. Off.
+</TABLE>
+
+
+
+
+Confidental: Use or disclosure of this document is subject to the restriction on
+the Confidentialilty Statement.
+
+* Confidential portions omitted and filed separately with the Commission
+pursuant to an application for confidential treatment pursuant to rule 24b-2
+under the Securities Exchange Act of 1934, as amended.
+
+
+<PAGE>   11
+
+SECTION 3
+                          Proposal Terms and Conditions
+
+        The terms and conditions of this Proposal 700.2033E are as follows:
+
+        -       [ * ]
+
+        -       Payment terms for a new System or System Expansion shall be in
+                accordance with the milestones defined in with the
+                Motorola/Nextel Supply Agreement or as specifically defined
+                herein.
+
+        -       FOB Point: Origin.
+
+        -       All other expansion equipment described herein is considered
+                Other Equipment and Other Software, respectively, in accordance
+                with the Motorola/Nextel Supply Agreement, as amended.
+
+        -       Delivery date of the equipment will be confirmed upon receipt of
+                Nextel's Purchase Order.
+
+        -       [ * ]
+
+        -       [ * ] Because each system is unique, Motorola disclaims
+                liability for range, coverage or operation of the system as a
+                whole, except by a separate written agreement signed by an
+                officer of Motorola.
+
+        -       [ * ]
+
+        -       All terms and conditions of the Motorola/Nextel Supply
+                Agreement, as amended, shall apply to any resultant Purchase
+                Order and shall supersede and replace any preprinted terms and
+                conditions contained on said Purchase Order.
+
+        -       The price and delivery information contained in this Proposal is
+                valid for [ * ] from the date of this Proposal.
+
+        In order to expedite processing of your Purchase Order, please insure
+        that your Purchase Order is executed by an authorized representative of
+        Nextel and that the following information is contained on the face of
+        the Purchase Order:
+
+        1.      "This Purchase Order is issued in accordance with Motorola
+                Proposal number 700.2033E, which is incorporated herein by
+                reference. The terms of said Proposal shall supersede and
+                replace any preprinted terms and conditions contained herein."
+
+        2.      Description of equipment and services, quantity, unit prices and
+                extended price as detailed above.
+
+
+Confidential: Use or disclosure of this document is subject to the restriction
+on the Confidentiality Statement.
+
+* Confidential portions omitted and filed separately with the Commission
+pursuant to an application for confidential treatment pursuant to rule 24b-2
+under the Securities Exchange Act of 1934, as amended.
+
+
+<PAGE>   12
+
+
+
+        3.      "Ship to" (include attention name and phone number) and "bill
+                to" addresses along with requested ship date.
+
+
+
+
+Confidential: Use or disclosure of this document is subject to the restriction
+on the Confidentiality Statement.
+
+* Confidential portions omitted and filed separately with the Commission
+pursuant to an application for confidential treatment pursuant to rule 24b-2
+under the Securities Exchange Act of 1934, as amended.
+
+
+<PAGE>   13
+
+
+EXHIBIT A
+[ * ] SUPPORT "SERVICE LEVEL AGREEMENT"
+BETWEEN MOTOROLA/[ * ] AND NEXTEL
+
+As a customer of Motorola, purchasing [ * ], Nextel will receive the following
+support services. These services will be provided as deliverables of Motorola's
+"Software Maintenance Program" (SMP).
+
+
+1.      NETWORK PLANNING SUPPORT
+
+        -       Motorola/[ * ] will provide weekly Exception Report and Monthly
+                Performance Monitoring Reports to Nextel. Reports will remain
+                consistent with the current structure.
+
+        -       Motorola/[ * ] will provide national network planning assistance
+                which may include: analysis of signaling loads, message routing,
+                development of strategies to improve signaling performance,
+                review of new and current features and recommendations for
+                implementation, gathering traffic call patterns and creating
+                models of patterns, periodic review of network traffic patterns,
+                review of plans for HLR sharing and market growth projections,
+                review of HLR/SMS/VMS usage patterns, recommendations for
+                modified topologies and migration strategies.
+
+2.      TOOLS
+
+        -       Motorola/[ * ] will provide an automated tool which will allow
+                Nextel to model the impact of call model and network design
+                changes on the performance of the [ * ] layer of their network.
+                While this tool is still under development, the requirements of
+                this tool have been shared with Nextel (document titled "CM
+                Capacity Tool Requirements"). Delivery and functionality of this
+                tool to be mutually agreed to by Motorola and Nextel.
+
+3.      SOFTWARE SUPPORT
+
+        -       Software upgrades for [ * ] is included per the current SMP
+                agreement.
+
+        MID WEEK UPGRADES
+
+                In order to help facilitate the software upgrade process, Nextel
+                and Motorola have mutually agreed to allow selected software
+                upgrades to occur mid-week per the below guidelines:
+
+        NOTE: Mid-week ONPs are defined as Wednesday and Thursday; [ * ] will do
+        no applications on Sunday, Monday, or Tuesday.
+
+        -       [ * ]
+
+        -       [ * ]
+
+        -       Mid-week ONPs are intended for sites taking a software upgrade,
+                not undergoing a processor card change-out.
+
+* Confidential portions omitted and filed separately with the Commission
+pursuant to an application for confidential treatment pursuant to rule 24b-2
+under the Securities Exchange Act of 1934, as amended.
+
+<PAGE>   14
+
+
+
+
+        -       Sites taking MMU concurrent with ONP are ok for mid-week ONP.
+
+        -       Sites requiring memory add are ok for mid-week ONP.
+
+        -       [ * ]
+
+        -       [ * ] deployment upgrades will be WEEKEND, not mid-week.
+
+        -       [ * ]
+
+        -       [ * ]
+
+        -       [ * ]
+
+4.      TECHNICAL SUPPORT
+
+        -       [ * ] Emergency Technical Assistance Support will be available
+                to Nextel to resolve significant network performance issues.
+
+5.      PARAMETER RECALCULATION
+
+        -       [ * ] The parameter recalculations will be mutually managed
+                between Nextel Service Deployment and Motorola Release
+                Deployment. The rollout plan for Parameter Recalculations will
+                be determined between Nextel and Motorola [ * ] or other
+                specific needs. Motorola Release Deployment Management will keep
+                the master Parameter Recalculation schedule and will update said
+                schedule on a periodic basis. The then-current schedule will be
+                mutually available to both Nextel and Motorola (see Exhibit 1
+                for an example schedule). The update process shall be documented
+                in a process map controlled by Motorola Release Deployment
+                Management which will be updated as necessary (see Exhibit 2 for
+                an example process map).
+
+6.      EQUIPMENT DELIVERY
+
+        STANDARD LEAD TIMES
+
+        -       Standard equipment delivery shall be [ * ]
+
+        EXPEDITED LEAD TIMES
+
+        -       [ * ]
+
+        -       [ * ]
+
+7.      PRODUCTION CAPACITY
+
+        Based on Nextel's current 2001 forecast, Motorola expects no production
+        capacity issues which would prevent Motorola from fulfilling Nextel's
+        requirements for general released product, barring material shortages or
+        other unforeseen events, and assuming that purchase orders are received
+        within published lead times.
+
+8.      INSTALLATION AND INTEGRATION
+
+        Below are typical installation rates for the following upgrades
+        (continental U.S. on a nationwide basis):
+
+
+* Confidential portions omitted and filed separately with the Commission
+pursuant to an application for confidential treatment pursuant to rule 24b-2
+under the Securities Exchange Act of 1934, as amended.
+
+<PAGE>   15
+
+    [ * ]
+
+    All the above upgrades can be addressed concurrently on a monthly basis.
+
+    The above installation rates should be considered typical. [ * ]
+
+
+
+
+
+* Confidential portions omitted and filed separately with the Commission
+pursuant to an application for confidential treatment pursuant to rule 24b-2
+under the Securities Exchange Act of 1934, as amended.
+
+<PAGE>   16
+
+
+
+                                    EXHIBIT B
+
+
+
+                                        [ * ]
+
+
+
+* Confidential portions omitted and filed separately with the Commission
+pursuant to an application for confidential treatment pursuant to rule 24b-2
+under the Securities Exchange Act of 1934, as amended.
+
+<PAGE>   17
+
+
+                                    EXHIBIT 1
+
+
+
+                                      [ * ]
+
+
+
+* Confidential portions omitted and filed separately with the Commission
+pursuant to an application for confidential treatment pursuant to rule 24b-2
+under the Securities Exchange Act of 1934, as amended.
+
+<PAGE>   18
+
+
+                                    EXHIBIT 2
+
+
+
+                                      [ * ]
+
+
+
+
+* Confidential portions omitted and filed separately with the Commission
+pursuant to an application for confidential treatment pursuant to rule 24b-2
+under the Securities Exchange Act of 1934, as amended.
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

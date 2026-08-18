@@ -1,0 +1,206 @@
+<DOCUMENT>
+<TYPE>EX-10.17
+<SEQUENCE>10
+<FILENAME>a80573ex10-17.txt
+<DESCRIPTION>EXHIBIT 10.17
+<TEXT>
+<PAGE>
+                                                                   EXHIBIT 10.17
+
+
+
+                                 AMENDMENT NO. 1
+              TO PURCHASE, DEVELOPMENT, AND DEPLOYMENT AGREEMENT
+
+
+      This Amendment No. 1 (the "Amendment"), dated May 10, 2001, modifies the
+Purchase, Development, and Deployment Agreement (the "Agreement") between BIZ
+Interactive Zone ("BIZ") and Wave Systems Corp. ("Wave") dated October 2, 2000.
+The parties agree as follows:
+
+1.    DEFINITIONS.
+
+      The definitions in the Agreement shall apply to this Amendment.
+
+2.    THE PROJECT.
+
+      Section 2 of the Agreement, describing the development work to be
+accomplished by Wave under the Project, is modified to include "porting" or
+adapting the Embassy Chip to operate under the Linux operating system in a set
+top box or a cable modem. The development work described above shall supercede
+and replace that described in Section 2 of the Agreement. The development work
+under the Project shall be owned by Wave and BIZ, and BIZ shall continue to have
+distribution rights with respect to Embassy-Enabled Product as set forth in the
+Agreement. Wave and BIZ agree to establish a timeline, review milestones and
+interim delivery schedules ("Milestones") for the Project. Upon reaching the
+agreed upon Milestones, Wave shall deliver the required item. BIZ shall then
+provide in writing either acceptance or rejection (and the reasons for any
+rejection) of the completed Milestone.
+
+3.    PAYMENT.
+
+      a. Sections 7a and 7b of the Agreement are deleted. For the additional
+development work to be accomplished under the Project as described in Section 2,
+above, BIZ agrees to pay Wave $277,778 per month (the "Monthly Payment") for
+eighteen (18) months beginning June 1, 2001. If Wave and BIZ jointly agree to
+accelerate the development delivery time, they will also consider accelerated
+payment terms. There shall be a ten (10) business day grace period following the
+first of each month for the Monthly Payment (the "Due Date").
+
+      b. Simultaneously with the execution of this Amendment, BIZ will place
+with Wave an open $5,000,000 purchase order in the form of Exhibit A to this
+Amendment.
+
+4.    DEFAULT.
+
+      a. In the event the $5 million in purchase order is not entirely used by
+June 30, 2003, in addition to other available remedies, the rights granted to
+BIZ in Sections 4(a)(i) and 4(a)(ii) of the Agreement shall, at Wave's option,
+become non-exclusive.
+
+      b. If BIZ fails to pay any installment under Section 3(a) in full, when
+and as the same shall become due and payable according to the terms of this
+Amendment and if said default is not cured within 30 days after written notice
+thereof is received by BIZ (each, a "Default," and collectively, the
+"Defaults"), the unpaid portion of the installment shall automatically convert
+into a right (each, a "Stock Acquisition Right," and collectively, the "Stock
+Acquisition Rights"),
+
+
+                                       1
+<PAGE>
+exercisable by Wave upon five (5) business days' prior written notice to BIZ, to
+acquire a number of fully paid, nonassessable shares of common stock of BIZ, par
+value $0.001 per share ("BIZ Common Stock"). Such number of shares of BIZ Common
+Stock to be received by Wave upon exercise of the Stock Acquisition Rights shall
+be determined by dividing the Fair Market Value (defined below) of a share of
+BIZ Common Stock on the date of exercise of the Stock Acquisition Right into the
+aggregate Credit Amount (defined below) related to the Defaults. The "Fair
+Market Value" shall mean the following: (i) if BIZ Common Stock is listed on a
+national securities exchange or the Nasdaq National Market ("Publicly Traded"),
+the fair market value of BIZ Common Stock per share shall be the average of
+closing price of BIZ Common Stock for the ten (10) trading-day period prior to
+the date of exercise, as reported with respect to such market (or composite of
+markets, if more than one) in which BIZ Common Stock is then traded or (ii) if
+BIZ Common Stock is not then Publicly Traded, the fair market value of BIZ
+Common Stock per share shall be the per share price paid for shares of any class
+of BIZ stock in the most recent bona fide, arm's length equity financing
+(yielding net proceeds of at least $500,000) consummated before the date of
+exercise of the Stock Acquisition Right. The "Credit Amount" with respect to any
+Default under Section 3(a) shall be the portion of the installment payment that
+is not paid on the Due Date of such installment payment.
+
+      c. Wave's Stock Acquisition Right with respect to a Default may be
+exercised by Wave at any time within ten years of the date of such Default. The
+Stock Acquisition Rights not exercised by Wave shall be automatically exercised
+immediately prior to the occurrence of the following events: (i) the closing of
+a public offering of BIZ Common Stock pursuant to an effective registration
+statement under the Securities Act of 1933, if such Stock Acquisition Right is
+acquired at a time when BIZ Common Stock is not Publicly Traded, (ii) the
+commencement of voluntary or involuntary proceedings to wind up and dissolve BIZ
+or its successor in interest, as the case may be, or (iii) sale of all or
+substantially all of the assets of BIZ.
+
+      d. BIZ may, at anytime as long as any of the Stock Acquisition Rights is
+outstanding and not exercised, elect to redeem any of the Stock Acquisition
+Rights and convert the aggregate Credit Amount, all or in part, into BIZ Common
+Stock, or common stock of its successor in interest, provided that the shares
+issued have been previously registered.
+
+      e. Within 30 calendar days of the date of this Amendment, BIZ shall take
+all necessary corporate action to reserve 1,150,000 shares of its authorized but
+unissued common stock for issuance to Wave pursuant to paragraph b above and
+shall provide Wave with evidence of such action in a form which is reasonably
+satisfactory to Wave. BIZ shall keep such reservation of shares in effect until
+all sums payable by BIZ under section 3(a) have been paid in full or until all
+Stock Acquisition Rights received by Wave have been exercised or deemed
+exercised.
+
+      f. Upon exercise of the Stock Acquisition Right for a particular Credit
+Amount and issuance of shares of BIZ Common Stock for such Credit Amount, BIZ
+shall not be obligated to pay and Wave shall have no further right to claim such
+Credit Amount, and the number of reserved shares shall be reduced by the number
+of shares issued in such exercise.
+
+      g. In consideration of said reserved shares, Wave shall complete and
+deliver to BIZ no later than December 31, 2002 the "development work to be
+accomplished under the Project"
+
+
+                                       2
+<PAGE>
+as stated in Section 2. BIZ shall have the right to test the delivered product
+for 60 calendar days following the delivery date, and report any corrections
+required within the aforesaid 60 calendar day period. Wave shall have an
+additional 120 calendar days to make the appropriate corrections, and in the
+event that Wave cannot deliver the development work in proper working order, any
+stock reserved under this Agreement shall release from encumbrance under this
+Amendment No. 1, and Wave shall refund to BIZ all cash payments made and Credit
+Amounts claimed during the period following the last completed Milestone
+signed-off by BIZ. If the "development work to be accomplished under the
+Project" is not delivered to BIZ by December 31, 2002, in addition to other
+available remedies, the rights granted to BIZ in Sections 4(a)(i) and 4(a)(ii)
+of the Agreement shall, at BIZ's option remain exclusive, and Section 4(a) of
+this Amendment No. 1 shall be automatically terminated.
+
+      h. If, prior to the payment in full of all amounts payable by BIZ pursuant
+to Section 3(a), BIZ or its successor in interest is eligible to use Securities
+and Exchange Commission ("SEC") Form S-3 or any successor form adopted by the
+SEC for substantially the same purpose, BIZ or such successor, as the case may
+be, shall, within 90 calendar days of its receipt of a written request therefor
+from Wave, at its sole cost, prepare and file all necessary documents with the
+SEC to effect a shelf registration and all Blue Sky qualifications and evidences
+of compliance as would permit or facilitate the public sale of Wave's
+Registrable Securities (defined below). "Registrable Securities" are securities
+received or receivable by Wave pursuant to the exercise, deemed exercise or
+redemption of a Stock Acquisition Right and any other securities issued as a
+dividend or other distribution with respect to or in exchange for such
+securities. Wave may make no more than two (2) requests for registration in any
+one (1) calendar year.
+
+      i. If, following the exercise or deemed exercise by Wave at least one
+Stock Acquisition Right, Wave notifies BIZ or its successor in interest of its
+election to cause its Registrable Securities to be registered, BIZ or its
+successor in interest as the case may be shall, at its expense, use its diligent
+best efforts to effect all such registrations, qualifications and compliances as
+would permit or facilitate the public sale of Wave's Registrable Securities.
+
+5.    MERGER.
+
+      In the event of a merger or combination, all the references in Section 4
+of this Amendment to BIZ's securities shall, from the effective date of the
+merger or combination, be deemed to refer to the securities of BIZ's successor
+in interest.
+
+6.    EFFECT OF AMENDMENT.
+
+      This Amendment shall be effective as of its date written above. All other
+terms and conditions of the Agreement shall remain in full force and effect
+except as modified by this Amendment. To the extent there is any conflict
+between this Amendment and the Agreement, this Amendment shall prevail. This
+Amendment shall be binding upon and shall inure to the benefit of the parties
+and their successors and assigns.
+
+
+                                       3
+<PAGE>
+      IN WITNESS HEREOF, the parties hereto have executed the Amendment as of
+the date first written above.
+
+
+
+BIZ INTERACTIVE ZONE                      WAVE SYSTEMS CORP.
+
+
+By: /s/ ROBERT J. GORMAN                  By: /s/ STEVEN SPRAGUE
+    -------------------------------           ----------------------------------
+      Authorized Officer                        Authorized Officer
+ROBERT J. GORMAN    President & COO       STEVEN SPRAGUE                    CEO
+-----------------------------------       --------------------------------------
+Print Name and Title                      Print Name and Title
+
+
+                                       4
+
+</TEXT>
+</DOCUMENT>

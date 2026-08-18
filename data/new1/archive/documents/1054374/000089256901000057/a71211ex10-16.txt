@@ -1,0 +1,122 @@
+<DOCUMENT>
+<TYPE>EX-10.16
+<SEQUENCE>3
+<FILENAME>a71211ex10-16.txt
+<DESCRIPTION>EXHIBIT
+<TEXT>
+
+<PAGE>   1
+
+                                                                   EXHIBIT 10.16
+
+                                    AMENDMENT
+                                       TO
+                    DEVELOPMENT, SUPPLY AND LICENSE AGREEMENT
+
+
+               THIS AMENDMENT TO DEVELOPMENT, SUPPLY AND LICENSE AGREEMENT (this
+"Amendment") is made and entered into as of this 22nd day of November, 2000 by
+and between GENERAL INSTRUMENT CORPORATION, a Delaware corporation with its
+principal place of business at 101 Tournament Drive, Horsham, Pennsylvania 19044
+(formerly known as "NextLevel Systems, Inc." and now acting as the Broadband
+Communications Sector of Motorola, Inc.) ("Motorola") and BROADCOM CORPORATION,
+a California corporation with its principal place of business at 16215 Alton
+Parkway, Irvine, California 92618 ("Broadcom") with reference to the following
+facts and circumstances:
+
+               A. Broadcom has agreed to develop and supply to Motorola, and
+Motorola has agreed to purchase from Broadcom, certain Broadcom Products
+pursuant to the terms and conditions set forth in the Development, Supply, and
+License Agreement dated September 20, 1997 (the "Initial Agreement") by and
+between Motorola and Broadcom. Pursuant to the Initial Agreement, among other
+things, Motorola has granted to Broadcom, and Broadcom has received from
+Motorola, a license under certain VLSI Technology to use, develop, manufacture
+and sell certain Broadcom Products in accordance with the terms of, and as more
+particularly set forth in, the Initial Agreement.
+
+               B. Concurrently herewith, Broadcom and Motorola are entering into
+that certain Purchase Agreement with respect to the purchase by Motorola and
+supply by Broadcom of certain cable modem components (the "Cable Modem Component
+Purchase Agreement").
+
+               C. In consideration for, among other things, the undertakings of
+Motorola in the Cable Modem Component Purchase Agreement, Broadcom and Motorola
+desire to amend the Initial Agreement in the manner set forth herein.
+
+               NOW, THEREFORE, for good and valuable consideration, the receipt
+and sufficiency of which are hereby acknowledged and intending to be legally
+bound, the parties hereto hereby agree as follows:
+
+1.      AMENDMENT.
+
+        (a) The Initial Agreement is hereby amended to delete the 45% percentage
+requirements of Motorola for the Fourth Twelve Months from the Effective Date
+set forth in the last line of Section 7.1(a) of the Initial Agreement and in the
+second to last line of Section 7.3 of the Initial Agreement.
+
+        (b) The address set forth for Motorola in Section 14.6 of the Initial
+Agreement shall be revised to read as follows:
+
+
+----------
+
+* Confidential treatment is requested for the redacted portion. Confidential
+  redacted portion has been omitted and filed separately with the Securities
+  and Exchange Commission
+
+<PAGE>   2
+      To Motorola:
+
+      Motorola, Inc.
+      101 Tournament Drive
+      Horsham, Pennsylvania 19044
+      Attention: [ ]*
+
+      With a copy to:
+
+      Motorola, Inc.
+      101 Tournament Drive
+      Horsham, Pennsylvania 19044
+      Attention: [ ]*
+
+2. GOVERNING LAW. This Amendment shall be governed by and construed under the
+laws of the State of California, without reference to conflict of laws
+principles.
+
+3. COUNTERPARTS. This Amendment may be executed in two or more counterparts,
+each of which shall be considered an original, but all of which together will
+constitute one and the same instrument. One or more counterparts of this
+Amendment may be delivered by telecopier, with the intention that they shall
+have the same effect as an original counterpart thereof.
+
+4. NO OTHER AMENDMENT. Except as amended hereby, the Initial Agreement shall
+remain in full force and effect, and all other terms and conditions of the
+Initial Agreement shall remain in full force and effect and are otherwise
+unmodified by this Amendment.
+
+               IN WITNESS WHEREOF, the parties hereto have caused this Amendment
+to be executed by their representatives thereunto duly authorized as of the date
+first written above.
+
+GENERAL INSTRUMENT CORPORATION            BROADCOM CORPORATION
+acting as the Broadband
+Communications Sector of
+Motorola, Inc.
+
+By:     /s/                               By:
+        -----------------------------            -------------------------------
+Name:                                     Name:
+        -----------------------------            -------------------------------
+Title:                                    Title:
+        -----------------------------            -------------------------------
+
+----------
+
+* Confidential treatment is requested for the redacted portion. Confidential
+  redacted portion has been omitted and filed separately with the Securities
+  and Exchange Commission
+
+
+                                       2
+</TEXT>
+</DOCUMENT>

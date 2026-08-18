@@ -1,0 +1,263 @@
+<DOCUMENT>
+<TYPE>EX-10.33
+<SEQUENCE>14
+<FILENAME>w46736ex10-33.txt
+<DESCRIPTION>AMEND. NO 2 TO AIRBRIDGE PACKET SERVICE AGREEMENT
+<TEXT>
+
+<PAGE>   1
+                                                                   EXHIBIT 10.33
+
+     Confidential Materials omitted and filed separately with the Securities and
+Exchange Commission. Asterisks denote omissions.
+
+                                AMENDMENT NO. 2
+
+     This AMENDMENT No. 2 (the "Amendment") is made and entered into by and
+between GoAmerica Communications Corporation ("Customer") and Cellco
+Partnership, doing business as Bell Atlantic Mobile ("BAM") for attachment to
+Contract ####-##-####, dated May 13, 1997 (the "Agreement").
+
+     1. This Amendment is an integral part of and modifies the Agreement. The
+terms used herein which are defined or specified in the Agreement shall have the
+meanings set forth in the Agreement. If there are any inconsistencies between
+the provisions of this Amendment and the provisions of the Agreement, the
+provisions of this Amendment shall control.
+
+     2. Exhibit A, is hereby deleted in its entirety and replaced with a new
+Exhibit A, in the form attached hereto.
+
+     3. A new Exhibit B-2, "Pioneer Price Schedule" is hereby added in its
+entirety as attached hereto.
+
+     4. A new paragraph is hereby added to Section 3, "Pricing" as follows:
+
+"In order to qualify for and receive the rates as shown in this (Amendment),
+Exhibit B1, "Pioneer Price Schedule," Customer shall provide a pre-payment of
+$[**], to BAM for charges associated with Customer Contract ###-##-#### to be
+deposited in an account associated with this Contract Number prior to BAM
+activating any NEIs on this plan. As NEIs are activated and charges are
+incurred on this plan, BAM may draw down these funds for any and all charges or
+fees incurred by Customer. If at anytime the BAM account associated with this
+Contract Number is less than $[**], Customer shall, within [**] of written
+notification from BAM, remit payment to achieve a minimum amount of $[**] in
+the account. Upon non-payment of any sum due BAM, or upon a violation by
+Customer of any of the provisions of this Agreement, BAM may immediately upon
+written notice deny any further NEI activations from Customer without
+incurring any liability. In the event that after [**], Customer fails to make
+minimum payments required to achieve $[**] in the account associated with this
+Contract Number BAM may immediately upon written notice temporarily discontinue
+or interrupt the furnishing of the Service to the Customer. Any failure to
+achieve the $[**] minimum threshold on a timely basis shall be considered a
+breach and BAM may pursue any and all of its rights including termination of
+service and termination of the Agreement."
+<PAGE>   2
+  Confidential materials omitted and filed separately with the Securities and
+                Exchange Commission. Asterisks denote omissions.
+
+
+If at the conclusion of the extended term of this Agreement, Customer wishes for
+this Agreement to automatically renew for an additional one year term as
+specified in Section 15, Term of Agreement, and continue to take advantage of
+the rates shown in Exhibit B1, it shall be required to maintain a minimum of
+[**] active NEIs per month. If such minimum is not maintained, Customer shall be
+charged the difference between [**] and the actual number of active NEIs, on the
+following month's invoice. NEIs active on rate plans other than the plan shown
+on Exhibit B1, shall not be included for the purpose of determining whether
+Customer has met its monthly minimum."
+
+     5. This Amendment shall be effective when executed by both parties.
+
+     6. All provisions of the Agreement, including attachments thereto, not
+addressed by this Amendment remain in full force and effect.
+
+IN WITNESS WHEREOF, and intending to be bound hereby, the parties affix their
+signature to this Amendment.
+
+
+CELLCO PARTNERSHIP
+By Bell Atlantic Mobile, Inc.                GOAMERICA
+Its managing general partner:                COMMUNICATIONS CORPORATION
+
+
+By :   /s/ James Surnight                    By :      /s/ Joseph Korb
+    --------------------------------             -------------------------------
+
+Name:   James Surnight                      Name:       Joseph Korb
+     -------------------------------             -------------------------------
+
+Title:  VP Data & Internet Services        Title:       President
+      ------------------------------             -------------------------------
+
+Date:   2/13/01                             Date:       2/9/01
+     -------------------------------             -------------------------------
+<PAGE>   3
+                                   EXHIBIT A
+
+This Exhibit C sets forth the Area(s), as that term is used in this Agreement,
+in which BAM is authorized to provide CRS as described in this Agreement. In
+this Exhibit there is described the individual counties of the MSAs and/or RSAs
+in which BAM is authorized to conduct its CRS operations.
+
+(a)  COUNTIES OF THE MSA(s) IN WHICH BAM IS LICENSED:
+
+NORTHEAST REGION: Norfolk MA, Essex MA, Middlesex MA, Plymouth MA, Suffolk MA
+and Rockingham NH of the Boston MSA: Hartford CT, Middlesex CT and Tolland CT
+of the Hartford MSA; New Haven CT of the New Haven MSA; Madison NY, Worcester
+MA of the Worcester MSA: Hampden MA and Hampshire MA of the Springfield MSA;
+Bristol MA of the New Bedford MSA; Hillsborough NH of the Manchester MSA;
+Orange NY of the Orange County MSA: Dutchess NY of the Poughkeepsie MSA; New
+London CT of the New London MSA; Berkshire MA of the Pittsfield MSA; Warren NY
+and Washington NY of the Glen Falls MSA; Chittenden VT and Grand Isle VT of the
+Burlington MSA; Bristol RI, Kent RI, Providence RI, Washington RI of the
+Providence MSA; Fairfield CT of the Bridgeport MSA4 Albany NY, Montgomery NY,
+Rensselaer NY, Saratoga NY, Schenectady NY of the Albany MSA.
+
+PITTSBURG REGION: Allegheny PA, Beaver PA, Washington PA and Westmoreland PA of
+the Pittsburgh MSA.
+
+NORTHERN NEW JERSEY/NY METRO, REGION: Bronx NY, Kings NY, New York NY, Queens
+NY, Richmond NY, Putnam NY, Rockland NY, Westchester NY, Bergen NJ, Nassau NY,
+Suffolk NY, Essex NJ, Morris NJ, Somerset NJ, Union NJ, Hudson NJ and Passaic
+NJ of the New York MSA; Middlesex NJ of the New Brunswick MSA; Monmouth NJ of
+the Long Branch MSA.
+
+PHILADELPHIA REGION: Bucks PA, Chester PA, Delaware PA, Montgomery PA,
+Philadelphia PA, Burlington NJ, Camden NJ and Gloucester NJ of the Philadelphia
+MSA7, Carbon PA, Lehigh PA, Northampton PA and Warren NJ of the Allentown MSA,
+Cumberland NJ of the Vineland MSA, New Castle DE, Salem NJ, Cecil MD of the
+Wilmington MSA, Berks PA of the Reading MSA, Mercer NJ of the Trenton MSA,
+Atlantic NJ, Cape May NJ of the Atlantic City MSA.
+
+WASHINGTON/BALTIMORE: District of Columbia, Charles MD, Montgomery MD, Prince
+Georges MD, Alexandria City VA, Fairfax City VA, Falls Church City VA, Manassas
+City VA, Manassas Park City VA, Arlington VA, Fairfax VA, Loudoun VA and Prince
+William VA of the Washington DC MSA; Baltimore City MD, Anne Arundel MD,
+Baltimore MD, Carroll MD, Harford MD and Howard MD of the Baltimore MSA.
+
+SOUTHEAST: Gaston NC, Meklenburg NC and Union NC of the Charlotte MSA;
+Greenville SC, Pickens SC and Spartanburg SC of the Greenville MSA; Lexington
+SC and Richland SC of the Columbia MSA; Alexander NC, Burke NC and Catawba NC
+of the Hickory MSA; Buncombe and Madison of the Asheville, NC MSA; Anderson SC
+of the Anderson MSA.
+<PAGE>   4
+(b)  COUNTIES OF THE RSA(s) IN WHICH BAM IS LICENSED:
+
+Northeast Region: Windham in CT 2-WINDHAM; Newport in RI-NEWPORT; Barnstable,
+Dukes and Nantucket in MA 2-BARNSTABLE; Carroll, Belknap and Merrimack in
+NH 2-CARROLL; Franklin, Orleans, Essex, Lamoille, Washington, Caledonia and
+Orange in VT I-FRANKLIN; Addison, Rutland, Windsor, Bennigton and Windham in
+VT 2-ADDISON (131); Ostego, Delaware, Schoharie, Sullivan and Ulster in
+NY 5-OSTEGO.
+
+PITTSBURGH REGION: Mason, Jackson, Roane, and Calhoun in WV I MASON; Wetzel,
+Tyler, Doddridge, Ritchie, Gilmer, Lewis, Pleasants in WV 2 WETZEL; McKean,
+Camerom, and Elk in PA 2 MCKEAN; Butler, Clarion, Lawrence and Armstrong in
+PA 6 LAWRENCE (B2); Indiana, Jefferson and Clearfield in PA 7 JEFFERSON; Greene
+and Fayette in PA 9 GREENE; Huntingdon, Juniata and Mifflin in PA 11
+HUNTINGDON (132).
+
+NORTHERN NEW JERSEY/NY METRO REGION: Hunterdon in NJ 1-HUNTERDON; Sussex in
+NJ 3-SUSSEX.
+
+PHILADELPHIA REGION: Ocean in NJ 2-OCEAN; Kent and Sussex in DE 1-KENT.
+
+WASHINGTON/BALTIMORE: Kent, Queen Annes, Talbor, Caroline, Dorcl-ester,
+Wicomico, Somerset, Calvert, St. Marys, and Worcester in MD 2-KENT; Frederick
+in MD 3-FREDERICK; Frederick, Clark, Shenandoah, Page, Rappahannock, Fauquier,
+Warren and Winchester City in VA 10-FREDERICK (BI); Madison, Culpeper, Orange,
+Fredericksburg City, Spotsylvania, Louisa and Stafford VA 11-MADISON (B3);
+Caroline, King George, King William, King & Queen, Essex, Richmond,
+Westmoreland, Northumberland, Lancaster, Matthews, Northampton, Accomack, and
+Middlesex in VA 12-CAROLINE (132).
+
+SOUTHEAST: Yancey,Mitchell, Avery, Watauga, and Caldwell in NC 2-YANCEY;
+Cherokee, Clay, Graham, Macon, Swain, Haywood, Jackson and Transylvania in
+NC 1-CHEROKEE; Anson, Montgomery, Richmond, Scotland in NC 5-ANSON; Cabarrus,
+Stanly, Rowan, Iredell, and Davie in NC 15-CABARRUS; Laurens, Greenwood,
+McCormick, Edgefield, Saluda, Newberry and Abbeville in SC 2-LAURENS;
+Oconee SC 1-OCONEE; Cherokee, Chester, Union and Fairfield in
+SC 3-CHEROKEE; Lancaster and York in SC 9-LANCASTER; Dawson, Lumpkin; White,
+Habersham, Hall, Banks, Franklin, Stephens, Rabun, Barrow in GA 2-DAWSON,
+Henderson, Polk, Rutherford, Cleveland, McDowell and Lincoln in NC4-HENDERSON;
+Lee, Wise, Dickenson, Buchanan, Russell and Norton City in VA 1-LEE.
+<PAGE>   5
+
+     Confidential Materials omitted and filed separately with the Securities and
+Exchange Commission. Asterisks denote omissions.
+
+                                   EXHIBIT B1
+
+                             PIONEER PRICE SCHEDULE
+
+<TABLE>
+<S>                                                                     <C>
+Monthly Charge per NEI                                                  $[**]
+
+Kilobyte Allowance per NEI                                              [**] KB
+
+Allowance is aggregated monthly across all NEIs on this rate plan.
+
+Kilobyte Rate over Allowance                                            $[**]/KB
+
+Visiting Rate per Kilobyte                                              $[**]/KB
+
+Activation Charge per NEI                                               $[**]
+</TABLE>
+
+"In order to qualify for and receive the rates as shown, Customer shall provide
+a pre-payment of $[**], to be deposited in account associated with the customer
+contract prior to BAM activating any NEIs on this plan. As NEIs are activated
+and charges incurred on this plan, BAM may draw down these funds for any and all
+charges or fees incurred by GoAmerica. If at anytime the BAM account is less
+than $[**], Customer shall, within [**] of written notification from BAM, remit
+payment to achieve a minimum amount of $[**] in the account. Upon non-payment of
+any sum due BAM, or upon a violation by Customer of any of the provisions of
+this Agreement, BAM may immediately upon written notice deny any further NEI
+activations from Customer without incurring any liability. In the event that
+after [**], Customer fails to make minimum payments required to achieve $[**] in
+the account BAM may immediately upon written notice temporarily discontinue or
+interrupt the furnishing of the Service to the Customer. Any failure to achieve
+the $[**] minimum threshold on a timely basis shall be considered a breach and
+BAM may pursue any and all of it's rights including termination of service and
+termination of the Agreement."
+
+If at the conclusion of the extended term of this Agreement, Customer wishes
+for this Agreement to automatically renew for an additional one year term as
+specified in Section 15, Term of Agreement, and continue to take advantage of
+the rates shown in Exhibit B1, it shall be required to maintain a minimum of
+[**] active NEIs per month. If such minimum is not maintained, Customer shall
+be charged the difference between [**] and the actual number of active NEIs, on
+the following month's invoice. NEIs active on rate plans other than the plan
+shown on Exhibit 131, shall not be included for the purpose of determining
+whether Customer has met its monthly minimum."
+<PAGE>   6
+
+     Confidential Materials omitted and filed separately with the Securities and
+Exchange Commission. Asterisks denote omissions.
+
+                                  EXHIBIT B-2
+
+                             PIONEER PRICE SCHEDULE
+
+<TABLE>
+<S>                                                                   <C>
+Monthly Charge per NEI                                                S[**]
+
+Kilobyte Allowance per NEI                                            [**]KB
+
+Allowance is aggregated monthly across all NEIs on this rate plan.
+
+Kilobyte Rate over Allowance                                          $[**]/KB
+
+Visiting Rate per Kilobyte                                            $[**]/KB
+
+Activation Charge per NEI                                             $[**]
+</TABLE>
+
+
+Note: Participation in this rate plan is subject to the requirements set forth
+in Section 4 of this Amendment to Contract ###-##-#### between BAM and Go
+America Communications Corporation.
+</TEXT>
+</DOCUMENT>

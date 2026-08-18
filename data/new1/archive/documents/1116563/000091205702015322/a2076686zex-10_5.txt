@@ -1,0 +1,114 @@
+<DOCUMENT>
+<TYPE>EX-10.5
+<SEQUENCE>3
+<FILENAME>a2076686zex-10_5.txt
+<DESCRIPTION>EXHIBIT 10.5
+<TEXT>
+<Page>
+
+
+                                                                    EXHIBIT 10.5
+
+                                                           Agreement No. 4569177
+                                                                 Amendment No. 4
+                                                                     Page 1 of 2
+
+                                        ACCEPTANCE SHALL BE INDICATED BY
+                                        SIGNING AND RETURNING DUPLICATE
+
+TO:                                           FROM:
+
+PF.Net Corp.                                  AT&T Corp.
+1800 Alexander Bell Drive                     1200 Peachtree Street
+4th Floor                                     Room 09E30
+Reston, VA 20191                              Atlanta, GA  30309
+Attn.: Donald L. Branscome                    Attn.: Lynn O. Pardue
+
+General Purchase Agreement Number 4569177 ("Agreement") between AT&T Corp.
+("AT&T") and PF.Net, Corp. ("Builder") dated October 29,1999 and as-modified by
+Amendment Nos. 1, 2 and 3, is further modified by Amendment Number 4 as follows:
+
+1.   ARTICLE 3.6.A: SUPPLY OF OA BUILDINGS: The following language is deleted
+     from the Agreement in its entirety:
+
+          "3.6.A SUPPLY OF OA BUILDINGS: Builder agrees to supply to AT&T new
+          Optical Amplifier ("OA") buildings (the "Supplied Services") at the
+          Builder sites identified in "Exhibit 3B: Links and Optical Amplified
+          Locations" (the "Shared Sites"). It is contemplated that the new AT&T
+          OA buildings will share the slab on which the adjacent Builder
+          buildings are or may be located. The Supplied Services to be supplied,
+          in addition to the other elements described in Article 3.6.A through
+          3.6.O, includes but is not limited to the following:
+
+          (1)    Planning, engineering, construction and placement of the OA
+                 building specified in Exhibit 3A of this Amendment;
+
+          (ii)   Supervision and Inspection of the pre-fabricated buildings
+                 during fabrication and installation of the OA buildings;
+
+          (iii)  Assurance that the pre-fabricated OA building supplied by
+                 Builder will be in accordance with the drawings and
+                 specifications as set forth in Exhibit 3A of this Amendment;
+
+          (iv)   Arrangement and installation of cable conduit for connection to
+                 the OA buildings;
+
+                            AT&T/Builder Proprietary
+10/01/FINAL
+
+<Page>
+
+                                                           Agreement No. 4569177
+                                                                 Amendment No. 4
+                                                                     Page 2 of 2
+
+          (v)    Necessary engineering and construction services for the purpose
+                 of power and communication cables entering and passing through
+                 Builder's main building to the AT&T building;
+
+          (vi)   Support the installation of AT&T's cable locating devices and
+                 Isolation closure in the Builder main OA builder and
+                 connections to the appropriate equipment in the AT&T building;
+
+          In return for these construction services, AT&T will pay the Builder
+          Two Hundred Thousand Dollars ($200,000.00) for each OA site
+          constructed by the Builder. All Builder Invoices are due within thirty
+          (30) days of construction completion and site acceptance by AT&T but
+          in no event prior to January 1, 2002.
+
+          Upon mutual agreement by AT&T and Builder. this Section 3.6.A may be
+          superceded by a separate Construction Services Agreement between the
+          Builder and AT&T for the construction of OA sites which would include
+          terms substantially similar to the terms described in this amended
+          Section 3.6.A."
+
+This Amendment No. 4 is effective as of the execution of this Amendment by both
+parties and shall be incorporated in and shall constitute a part of the
+Agreement as if fully set forth therein. EXCEPT AS AMENDED HEREIN, ALL TERMS AND
+CONDITIONS OF THE AGREEMENT REMAIN UNCHANGED.
+
+APPROVAL:
+
+ACKNOWLEDGED AND AGREED TO BY:
+
+PF.NET CORP.                             AT&T CORP.
+
+By: /s/ DONALD L. BRANSCOME           By: /s/ DIANA L. JONES
+    ---------------------------           --------------------------------------
+    (signature)                           (signature)
+
+Name:  Donald L. Branscome               Name:  Diana L. Jones
+
+Title: Senior Vice President-            Title: Group Procurement Director, AT&T
+       Business Development                     Supplier Management
+       ------------------------                 --------------------------------
+
+Date:  Oct. 18, 2001                     Date:  October 22, 2001
+       ------------------------                 --------------------------------
+       (typed or printed)                       (typed or printed)
+
+                            AT&T/Builder Proprietary
+10/01/FINAL
+
+</TEXT>
+</DOCUMENT>

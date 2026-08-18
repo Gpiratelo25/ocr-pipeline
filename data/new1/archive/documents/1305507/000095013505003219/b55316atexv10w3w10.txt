@@ -1,0 +1,57 @@
+<DOCUMENT>
+<TYPE>EX-10.3.10
+<SEQUENCE>6
+<FILENAME>b55316atexv10w3w10.txt
+<DESCRIPTION>EX-10.3.10 AMEND.NO.1 TO TIME CHARTER PARTY (STENA VICTORY)
+<TEXT>
+<PAGE>
+
+                                                                 EXHIBIT 10.3.10
+
+                                 AMENDMENT NO. 1
+                                       TO
+                               TIME CHARTER PARTY
+
+                                 April 11, 2005
+
+            Reference is hereby made to the Time Charter Party, dated October
+20, 2004 (the "Time Charter"), between Victory Ltd., a company incorporated in
+the Islands of Bermuda (the "Owners") and CM V-MAX II Ltd., a company
+incorporated in the Islands of Bermuda (the "Charterers"). Capitalized terms
+used but not defined herein shall have the meanings assigned to them in the Time
+Charter.
+
+            The Owners and the Charterers hereby agree that the provisions of
+the Time Charter shall be amended as follows:
+
+            1. The schedule set forth in Clause 47 shall be deleted and replaced
+      by the following:
+
+<TABLE>
+<CAPTION>
+                    "Period                                      Basic Hire
+<S>                                                              <C>
+ 1  (Delivery Date - November 10, 2005)                           $ 35,700
+ 2  (November 11, 2005 - November 10, 2006)                       $ 36,075
+ 3  (November 11, 2006 - November 10, 2007)                       $ 36,469
+ 4  (November 11, 2007 - November 10, 2008)                       $ 36,882
+ 5  (November 11, 2008 - November 10, 2009)                       $ 37,316
+ Option 1 (November 11, 2009 - November 10, 2010)                 $ 37,772
+ Option 2 (November 11, 2010 - November 10, 2011)                 $ 38,251
+ Option 3 (November 11, 2011 - November 10, 2012)                 $ 38,753"
+</TABLE>
+
+            This Amendment shall be governed by and construed in accordance with
+the laws of England. Except as provided herein, the Time Charter shall remain
+unchanged.
+
+            OWNERS                                    CHARTERERS
+
+            Victory Ltd.                              CM V-MAX II Ltd.
+
+            By: /s/ Arthur L. Regan                   By: /s/ Mats Berglund
+                -------------------                       -----------------
+            Name: Arthur L. Regan                     Name: Mats Berglund
+            Title: President and CEO                  Title: Director
+</TEXT>
+</DOCUMENT>

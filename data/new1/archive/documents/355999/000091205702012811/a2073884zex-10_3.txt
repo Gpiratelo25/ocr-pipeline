@@ -1,0 +1,1866 @@
+<DOCUMENT>
+<TYPE>EX-10.3
+<SEQUENCE>14
+<FILENAME>a2073884zex-10_3.txt
+<DESCRIPTION>AMENDED AND RESTATED SERVICING AGMT 5/1/01
+<TEXT>
+<Page>
+
+Exhibit 10.3
+
+                                                                  EXECUTION COPY
+
+================================================================================
+
+                         USS RECEIVABLES COMPANY, LTD.,
+
+                                   as Company,
+
+                    UNITED STATIONERS FINANCIAL SERVICES LLC,
+
+                                  as Servicer,
+
+                          UNITED STATIONERS SUPPLY CO.,
+
+                              as Support Provider,
+
+                                       and
+
+                            THE CHASE MANHATTAN BANK,
+
+                                   as Trustee
+
+                    AMENDED AND RESTATED SERVICING AGREEMENT
+
+                             Dated as of May 1, 2001
+
+================================================================================
+
+<Page>
+
+                                TABLE OF CONTENTS
+
+<Table>
+<Caption>
+                                                                              Page
+<S>                                                                             <C>
+
+                              ARTICLE I DEFINITIONS
+
+1.1 Definitions..................................................................2
+
+1.2 Other Definitional Provisions................................................3
+
+             ARTICLE II ADMINISTRATION AND SERVICING OF RECEIVABLES
+
+2.1 Appointment of Servicer......................................................4
+
+2.2 Servicing Procedures.........................................................4
+
+2.3 Collections..................................................................6
+
+2.4 Reserved.....................................................................9
+
+2.5 Servicing Compensation.......................................................9
+
+           ARTICLE III REPRESENTATIONS AND WARRANTIES OF THE SERVICER
+                            AND THE SUPPORT PROVIDER
+
+3.1 Corporate Existence - Compliance with Law...................................11
+
+3.2 Corporate Power: Authorization..............................................11
+
+3.3 Enforceability..............................................................12
+
+3.4 No Legal Bar................................................................12
+
+3.5 No Material Litigation......................................................12
+
+3.6 No Default..................................................................12
+
+3.7 Servicing Ability...........................................................12
+
+3.8 Location of Records.........................................................13
+</Table>
+
+                                       i
+<Page>
+
+<Table>
+<Caption>
+
+<S>                                                                             <C>
+                      ARTICLE IV COVENANTS OF THE SERVICER
+
+4.1 Delivery of Required Reports................................................13
+
+4.2 Delivery of Monthly Settlement Statement....................................13
+
+4.3 Delivery of Quarterly Servicer's Certificate................................14
+
+4.4 Delivery of Independent Public Accountants' Servicing Reports...............14
+
+4.5 No Guarantee or Assumption of Company's Liabilities.........................15
+
+4.6 Extension, Amendment and Adjustment of Receivables, Amendment of and
+Compliance with Policies........................................................15
+
+4.7 Protection of Investor Certificateholders' Rights...........................16
+
+4.8 Security Interest...........................................................16
+
+4.9 Location of Records.........................................................16
+
+4.10 Visitation Rights..........................................................16
+
+4.11 Lockbox Agreement: Lockbox Accounts........................................17
+
+4.12 Delivery of Financial Statements...........................................17
+
+4.13 Notices....................................................................18
+
+4.14 Application of Proceeds....................................................18
+
+            ARTICLE V OTHER MATTERS RELATING TO THE SERVICER AND THE
+                                SUPPORT PROVIDER
+
+5.1 Merger, Consolidation, etc..................................................19
+
+5.2 Indemnification of the Trust and the Trustee................................20
+
+5.3 Servicer Not to Resign......................................................21
+
+5.4 Access to Certain Documentation and Information Regarding the Receivables...21
+
+5.5 Performance Support Obligation of Support Provider..........................22
+</Table>
+
+                                       ii
+
+<Page>
+
+<Table>
+<Caption>
+
+<S>                                                                             <C>
+                          ARTICLE VI SERVICER DEFAULTS
+
+6.1 Servicer Default............................................................25
+
+6.2 Trustee to Act; Appointment of Successor....................................30
+
+6.3 Waiver of Past Defaults.....................................................31
+
+                      ARTICLE VII MISCELLANEOUS PROVISIONS
+
+7.1 Amendment...................................................................32
+
+7.2 Termination.................................................................32
+
+7.3 Notices.....................................................................32
+
+7.4 Counterparts................................................................32
+
+7.5 Third-Party Beneficiaries...................................................32
+
+7.6 Merger and Integration......................................................32
+
+7.7 Headings....................................................................33
+
+7.8 No Set-Off..................................................................33
+
+7.9 No Bankruptcy Petition......................................................33
+
+7.10 Consequential Damages......................................................33
+
+7.11 Governing Law..............................................................33
+</Table>
+
+                                    EXHIBITS
+
+Exhibit A   Form of Quarterly Servicer's Certificate
+Exhibit B   Form of Agreed Upon Procedures
+
+                                      iii
+<Page>
+
+                    AMENDED AND RESTATED SERVICING AGREEMENT
+
+               AMENDED AND RESTATED SERVICING AGREEMENT, dated as of
+May 1, 2001 (as amended, supplemented or otherwise modified and in effect from
+time to time, this "AGREEMENT") among USS RECEIVABLES COMPANY, LTD., a
+Cayman Islands limited liability company (the "COMPANY"); UNITED STATIONERS
+FINANCIAL SERVICES LLC, an Illinois limited liability company, as servicer
+("USFS", and in such capacity as servicer, the "SERVICER"); UNITED STATIONERS
+SUPPLY CO., an Illinois corporation, as support provider ("USSC", and in such
+capacity as support provider, the "SUPPORT PROVIDER"), and The Chase Manhattan
+Bank, a New York banking corporation, not in its individual capacity, but solely
+as trustee (in such capacity, the "TRUSTEE").
+
+                                   WITNESSETH:
+
+               WHEREAS, USFS and the Sellers have entered into an Amended and
+Restated Receivables Sale Agreement, dated as of the date hereof (as further
+amended, supplemented or otherwise modified from time to time, the "RECEIVABLES
+SALE AGREEMENT");
+
+               WHEREAS, pursuant to the Receivables Sale Agreement, the Sellers
+sell to USFS, and USFS purchases from the Sellers, all of the Sellers' right,
+title and interest in, to and under the Receivables now existing or hereafter
+created and in the rights of the Seller in, to and under all Related Property
+related thereto;
+
+               WHEREAS, the Company and USFS have entered into a Receivables
+Sale Agreement, dated as of the date hereof (as amended, supplemented or
+otherwise modified from time to time, the "USFS RECEIVABLES SALE AGREEMENT");
+
+               WHEREAS, pursuant to the USFS Receivables Sale Agreement, USFS
+sells to the Company, and the Company purchases from USFS, all of the USFS's
+right, title and interest in, to and under the Receivables now existing or
+hereafter created and in the rights of USFS in, to and under all Related
+Property related thereto;
+
+               WHEREAS, the Company in turn has transferred the Receivables now
+existing or hereafter created and the rights of the Company in, to and under all
+Related Property related thereto to a master trust pursuant to an Amended and
+Restated Pooling Agreement (as further amended, supplemented or otherwise
+modified from time to time, the "POOLING AGREEMENT"), among the Company, the
+Servicer and the Trustee; and
+
+                                       1
+<Page>
+
+               WHEREAS, the Company, USSC, as servicer, and the Trustee have
+entered into a Servicing Agreement dated as of April 3, 1998 (the "ORIGINAL
+AGREEMENT");
+
+               WHEREAS, USFS is a separate, wholly-owned subsidiary of USSC;
+
+               WHEREAS, the parties to such Original Agreement desire to amend
+and restate the Original Agreement for the purpose of substituting USFS for USSC
+as Servicer and having USSC act as Support Provider;
+
+               WHEREAS, by executing and delivering (i) the Second Amended and
+Restated Series 1998-1 Supplement, dated as of the date hereof, among the
+Company, the Servicer, Chase, as Funding Agent, Trustee, Securities Intermediary
+and APA Bank, and Park Avenue Receivables Corporation, as Initial Purchaser, or
+(ii) the Amended and Restated Series 2000-2 Supplement, dated as of the date
+hereof, among the Company, the Servicer, Chase, as Trustee and Securities
+Intermediary, Market Street Funding Corporation, as Committed Purchaser, and
+PNC Bank, National Association, as Administrator, as applicable, the Investor
+Certificateholders consent to the execution and delivery of this Agreement.
+
+     NOW, THEREFORE, in consideration of the premises and of the mutual
+covenants herein contained, the parties hereto agree as follows:
+
+                                    ARTICLE I
+
+                                   DEFINITIONS
+
+               1.1 DEFINITIONS Unless otherwise defined herein, capitalized
+terms which are used herein shall have the meanings assigned to such terms in
+Section 1.1 of the Pooling Agreement and each Supplement thereto, including,
+without limitation, the Second Amended and Restated Series 1998-1 Supplement,
+dated as of the date hereof (as further amended, supplemented, or otherwise
+modified and in effect from time to time, the "SERIES 1998-1 SUPPLEMENT") among
+the Company, the Servicer, The Chase Manhattan Bank, as Funding Agent, Trustee,
+and APA Bank, and Park Avenue Receivables Corporation, as Initial Purchaser and
+the Amended and Restated Series 2000-2 Supplement, dated as of the date hereof
+(as further amended, supplemented or otherwise modified from time to time, the
+"SERIES 2000-2 SUPPLEMENT") among the Company, the Servicer, The Chase Manhattan
+Bank, as Trustee and Securities Intermediary, Market Street Funding Corporation,
+as Committed Purchase, and PNC Bank, National Association, as Administrator.
+
+                                       2
+<Page>
+
+               1.2 OTHER DEFINITIONAL PROVISIONS (a) All terms defined herein or
+in the Pooling Agreement shall have their defined meanings when used in any
+certificate or other document made or delivered pursuant hereto unless otherwise
+defined therein.
+
+                    (b) As used herein and in any certificate or other document
+made or delivered pursuant hereto or thereto, accounting terms not defined in
+Section 1.1 of the Pooling Agreement, and accounting terms partly defined in
+Section 1.1 of the Pooling Agreement to the extent not defined, shall have the
+respective meanings given to them under GAAP. To the extent that the definitions
+of accounting terms herein are inconsistent with the meanings of such terms
+under GAAP, the definitions contained herein shall control.
+
+                    (c) The words "hereof", "herein" and "hereunder" and words
+of similar import when used in this Agreement shall refer to this Agreement as a
+whole and not to any particular provision of this Agreement, and Section,
+subsection, Schedule and Exhibit references contained in this agreement are
+references to Sections, subsections, Schedules and Exhibits in or to this
+Agreement unless otherwise specified.
+
+                    (d) The definitions contained in Section 1.1 of the
+Agreement are applicable to the singular as well as the plural forms of such
+terms and to the masculine, the feminine and the neuter genders of such terms.
+
+                    (e) Where reference is made in this Agreement or the Pooling
+Agreement to the principal amount of Receivables, such reference shall, unless
+explicitly stated otherwise, be deemed a reference to the Principal Amount of
+such Receivables.
+
+                    (f) Any reference herein or in any other Transaction
+Document to a provision of the Internal Revenue Code or ERISA shall be deemed a
+reference to any successor provision thereto.
+
+                    (g) All references herein to any agreement or instrument
+shall be deemed references to such agreement or instrument as amended,
+supplemented or otherwise modified from time to time unless there are any
+restrictions herein on the amendment, supplementation or modification of such
+agreement or instrument.
+
+                                       3
+<Page>
+
+                                   ARTICLE II
+
+                          ADMINISTRATION AND SERVICING
+                                 OF RECEIVABLES
+
+               2.1 APPOINTMENT OF SERVICER USFS hereby agrees to act as the
+Servicer under the Pooling Agreement and this Agreement, the Company and the
+Trustee hereby consent to USFS acting as the Servicer, and the Investor
+Certificateholders by their acceptance of the Certificates consent to USFS's
+acting as the Servicer. In such capacity, the Servicer will have responsibility
+for the management of the servicing and receipt of Collections in respect of the
+Receivables and will have the authority to make any management decisions
+relating to the Receivables to the extent such authority is necessary or
+desirable and not inconsistent with the authority granted to the Servicer under
+any Pooling and Servicing Agreement. The Company, the Trustee and the Investor
+Certificateholders shall treat USFS as the Servicer and may conclusively rely on
+the instructions, notices and reports of USFS as Servicer for so long as USFS is
+the Servicer.
+
+               2.2 SERVICING PROCEDURES (a) The Servicer shall, subject to the
+directions, if any, of the Company, manage the servicing and administration of
+the Receivables, the collection of payments due under the Receivables and the
+charging off of any Receivables as uncollectible, all in accordance with all
+Requirements of Law, the Policies and all the terms and provisions of the
+Pooling and Servicing Agreements. The Servicer shall have full power and
+authority, acting alone or through any party properly designated by it
+hereunder, to do any and all things in connection with such servicing and
+administration which it may deem necessary or desirable, but at all times
+subject to the terms of this Agreement and the other Transaction Documents. The
+Servicer shall exercise the same care and apply the same policies with respect
+to the collection of the Receivables that it would exercise and apply if it
+owned such Receivables, all with reasonable care and diligence and otherwise in
+accordance with the foregoing requirements. Without limiting the generality of
+the foregoing and subject to Section 6.1, the Servicer or its designee is hereby
+authorized and empowered (i) to give direction to the Trustee with respect to
+withdrawals from, and payments to, the Collection Account and/or the Collection
+Concentration Account in accordance with the Required Reports and as otherwise
+specified in the Pooling and Servicing Agreements, (ii) to execute and deliver,
+on behalf of the Trust for the benefit of the Investor Certificateholders, any
+and all instruments of satisfaction or cancellation, or of partial or full
+release or discharge, and all other comparable instruments, with respect to the
+Receivables and, after the delinquency of any Receivable and to the extent
+permitted under and in compliance with applicable Requirements of Law, to
+commence enforcement proceedings with respect to such Receivables and (iii) to
+make any filings, refilings, reports, notices, applications and registrations
+with, and to seek any consents or authorizations from,
+
+                                       4
+<Page>
+
+the SEC and any state securities authority on behalf of the Trust as may be
+necessary or advisable to comply with any federal or state securities or
+reporting requirements or laws.
+
+                    (b) The Servicer will, at its cost and expense and as agent
+for the Company, the Trust and the Investor Certificateholders, use its best
+efforts to collect, consistent with its past practices and in accordance with
+all Requirements of Law and Policies, as and when the same becomes due, the
+amount owing on each Receivable. The Servicer will not make any material changes
+that deviate from the Policies in its administrative, servicing and collection
+systems except (i) as expressly permitted by the terms of any Pooling and
+Servicing Agreement and (ii) after giving written notice to the Trustee and the
+Rating Agencies of any such material change and receiving such parties' written
+consent thereto. In the event of default under any Receivable, the Servicer
+shall have the power and authority, on behalf of the Company and the Trust for
+the benefit of the Investor Certificateholders, to take such action in respect
+of such Receivable as the Servicer may deem advisable. In the enforcement or
+collection of any Receivable, the Servicer shall be entitled to sue thereon (i)
+in its own name or (ii) if, but only if, the Company consents in writing (which
+consent shall not be unreasonably withheld or delayed), as agent for the
+Company. In no event shall the Servicer be entitled to take any action which
+would make the Company, the Trustee or the Investor Certificateholders a party
+to any litigation without the express prior written consent of such Person.
+
+                    (c) Without limiting the generality of the foregoing and
+subject to Section 6.2, the Servicer is hereby authorized and empowered to
+delegate any or all of its servicing, collection, enforcement and administrative
+duties hereunder with respect to the Receivables to a Person who agrees to
+conduct such duties in accordance with the Policies. The Servicer shall notify
+the Company, the Trustee and any Rating Agency of the appointment of a designee
+as provided for herein; PROVIDED, HOWEVER, that, in the event that such
+delegation would reasonably be expected to adversely affect the ability of the
+Trustee or the Servicer to perform its obligations in the manner contemplated by
+any Pooling and Servicing Agreement, or otherwise to have a material adverse
+effect upon the Receivables taken as a whole, the Servicer shall give prior
+written notice to the Company, the Trustee, each Agent and the Rating Agencies
+of any such delegation, and prior to such delegation's being effective, the
+Servicer shall have received notice that the Rating Agency Condition shall be
+satisfied after giving effect to such delegation and shall have obtained the
+consent of the Company and each Agent to such delegation. No delegation of
+duties by the Servicer permitted hereunder will relieve the Servicer of its
+liability and responsibility with respect to such duties. Any agreement for the
+delegation of such duties shall be deemed to be between the parties to such
+agreement alone and the Trustee and holders of Investor Certificates shall not
+be deemed parties thereto and
+
+                                       5
+<Page>
+
+shall have no obligations, duties or liabilities with respect to any party to
+whom such duties are delegated.
+
+                    (d) Except as provided in any Pooling and Servicing
+Agreement, neither the Servicer nor any Successor Servicer shall be obligated to
+use servicing procedures, offices, employees or accounts for servicing the
+Receivables transferred to the Company and, subsequently, to the Trust, which
+are separate from the procedures, offices, employees and accounts used by the
+Servicer or such Successor Servicer, as the case may be, in connection with
+servicing other receivables.
+
+                    (e) The Servicer shall maintain reasonable and customary
+fidelity bond coverage insuring against losses through wrongdoing of its
+officers and employees who are involved in the servicing of the Receivables,
+including, without limitation, depositor's forgery.
+
+                    (f) The Servicer shall comply with and perform its servicing
+obligations with respect to the Receivables in accordance with the contracts, if
+any, relating to the Receivables and the Policies, except insofar as any failure
+to so comply or perform would not reasonably be expected to have a Material
+Adverse Effect with respect to the Servicer.
+
+                    (g) The Servicer shall take no action to cause any
+Receivable to be evidenced by any "instrument" (other than an instrument which
+constitutes or together with a security agreement constitutes "chattel paper"
+(each as defined in the UCC as in effect in any state in which the Company's
+USFS's or the applicable Seller's chief executive office or books and records
+relating to such Receivable are located)) or any title in bearer form except in
+connection with its enforcement or collection of a Defaulted Receivable, in
+which event the Servicer shall deliver such instrument to the Trustee as soon as
+reasonably practicable but in no event more than five days after the execution
+thereof. The Servicer shall hold any chattel paper evidencing a Receivable as
+custodian for the Trustee.
+
+               2.3 COLLECTIONS (a) As of the Closing Date, (i) Lockboxes and
+Lockbox Accounts shall have been established in the name of the Company, and
+assigned to the Trustee for the benefit of the Holders pursuant to the Pooling
+Agreement; (ii) the Trustee has established the Collection Account in the name
+of the Trust for the benefit of the Holders and the Collection Concentration
+Account in the name of the Company, pursuant to the Pooling Agreement; and
+(iii) the Servicer shall have instructed all Obligors to make all payments in
+respect of the Receivables to a Lockbox (except to the extent that the servicer
+of the Receivables, prior to such date, in the normal course of its business and
+consistent with its practices, has permitted Obligors to remit payments to a
+Collector), and such instructions thereafter
+
+                                       6
+<Page>
+
+shall continue to be in full force and effect. The Servicer is hereby authorized
+to collect payments in accordance with the foregoing sentence. Any payments
+collected by a Collector shall be deposited into a Lockbox Account within one
+Business Day following receipt thereof; PROVIDED that on any business day all
+Collectors may hold in the aggregate up to $150,000, provided that in all events
+such payments shall be deposited within three Business Days following receipt
+thereof. All Collections received in a Lockbox shall, within one Business Day of
+receipt thereof, be deposited in a Lockbox Account. All immediately available
+funds deposited in a Lockbox Account shall be transferred by the relevant
+Lockbox Processor within one Business Day of receipt thereof to the Collection
+Concentration Account or, in the event of a Potential Early Amortization Event
+or Early Amortization Event, to the Collection Account. Except as permitted in
+the first sentence of this subsection 2.3(a), in the event that any payments in
+respect of the Receivables are made directly to the Support Provider or Servicer
+(including, without limitation, any employees thereof or independent contractors
+employed thereby), the Support Provider or the Servicer, as applicable, shall,
+within one Business Day of receipt thereof, forward such amounts to a Lockbox
+(including by depositing instruments evidencing any such amounts into any such
+Lockbox Account) and, prior to forwarding such amounts, the Support Provider or
+the Servicer, as applicable, shall hold such payments in trust as custodian for
+the Trustee. Each of the Company and the Servicer represents, warrants and
+agrees that all Collections shall be collected, processed and deposited by it
+pursuant to, and in accordance with the terms of, the Pooling and Servicing
+Agreements.
+
+                    (a) Each Lockbox Agreement shall provide that the Lockbox
+Processor thereunder is irrevocably directed, and such Lockbox Processor
+irrevocably agrees, to (i) deposit funds received in the Lockbox directly into
+the Lockbox Account and (ii) transfer immediately available funds on deposit in
+the Lockbox Account within one Business Day of receipt thereof to the Trustee
+for deposit in the Collection Concentration Account or, in the event of a
+Potential Early Amortization Event or Early Amortization Event, to the
+Collection Account. Each Lockbox Agreement shall be substantially in the form of
+Exhibit A to the Pooling Agreement or in such form as the Lockbox Processor
+party thereto employs in the ordinary course of its business for transactions of
+a type similar to the one contemplated by this Agreement, and which form shall
+be reasonably acceptable to the Trustee. A new Lockbox Account may be designated
+from time to time by the Company and the Servicer; PROVIDED that the Lockbox
+Processor chosen to maintain such new Lockbox Account shall have entered into a
+Lockbox Agreement with the Company, the Servicer and the Trustee prior to any
+funds being deposited into such Lockbox Account. The Company or the Servicer
+shall notify each Rating Agency of the designation of a new Lockbox Account.
+Prior to any resignation of the Lockbox Processor or termination of the Lockbox
+Processor by the Company or the Trustee, the Servicer hereby agrees to obtain a
+replacement Lockbox Processor, the unsecured
+
+                                       7
+<Page>
+
+and uncollateralized obligations of which (or of its holding company parent) are
+rated in one of the three highest long-term or short-term rating categories by
+each Rating Agency rating such replacement Lockbox Processor, to serve under a
+Lockbox Agreement which is reasonably acceptable to the Trustee.
+
+                    (b) The Trustee shall administer amounts on deposit in the
+Collection Account, and the Servicer, on behalf of the Trust, shall administer
+amounts on deposit in the Lockbox Accounts, in each case in accordance with the
+terms of the Pooling and Servicing Agreements. Each of the Company and the
+Servicer acknowledges and agrees that (i) it shall not have any right to
+withdraw any funds on deposit in the Collection Account or any Lockbox Account,
+(ii) all amounts deposited in the Collection Account or any Lockbox Account
+shall be under the sole dominion and control of the Trustee (subject to the
+Servicer's right to direct the application of such amounts as provided by the
+terms of any Pooling and Servicing Agreement), (iii) with respect to the
+Eligible Investments, the Trustee shall be entitled to exercise the rights that
+comprise such financial assets and to exercise the ordinary rights of an
+entitlement holder, and (iv) the securities account into which Eligible
+Investments may be held or credited shall be an account of the Trustee and not
+the Company or the Servicer, but if, despite such intent, the securities account
+is determined to be an account of the Company or the Servicer then the
+securities intermediary shall comply with entitlement orders originated by the
+Trustee without further consent by the Company or the Servicer.
+
+                    (c) As soon as practicable but in any event not later than
+the Business Day following the date that the Servicer determines, identifies and
+certifies in writing to the Trustee that any of the collected funds received in
+any of the Lockboxes, the Lockbox Accounts, the Collection Concentration Account
+or the Collection Account do not constitute Collections on account of the
+Receivables, such monies which do not constitute such Collections shall be
+remitted to the applicable Seller to the extent such determination and
+identification is reasonably satisfactory to the Trustee.
+
+                    (d) All collections received or deposited in the Collection
+Account as "Collections" shall be deemed, for purposes of the Transaction
+Documents, to have been received or deposited as of the Business Day Received
+(as defined in the immediately succeeding sentence). As used herein, the term
+"BUSINESS DAY RECEIVED" shall mean (i) if funds are deposited in the Collection
+Account by 3:00 p.m., New York City time, such day of deposit and (ii) if funds
+are deposited in the Collection Account after 3:00 p.m., New York City time, the
+Business Day next following such day of deposit.
+
+                                       8
+<Page>
+
+                    (e) Unless otherwise required by law or unless an Obligor
+designates that a payment be applied to a specific Receivable, all Collections
+received from an Obligor shall be applied to the oldest Receivables of such
+Obligor.
+
+                    (f) The Servicer, following notification that collections of
+any receivable or other intangible owed to any Seller which is not a Receivable
+have been deposited in error into any Lockbox Account, shall segregate all such
+collections or, if such collections have been deposited into the Collection
+Concentration Account or the Collection Account, shall segregate such
+collections for transfer to such Seller. Promptly after such misapplied
+collections have been identified in writing to the Trustee, the Trustee shall
+transfer and turn over all such collections to such Seller.
+
+               2.4 RESERVED.
+
+               2.5 SERVICING COMPENSATION (a) As full compensation for its
+servicing activities hereunder and reimbursement for its expenses as set forth
+in subsection (b) the Servicer shall be entitled to receive on each Distribution
+Date for the preceding Settlement Period prior to the termination of the Trust
+pursuant to Section 9.1 of the Pooling Agreement a servicing fee (the "SERVICING
+FEE"). The Servicing Fee shall be an amount equal to (i) the product of (A) the
+Servicing Fee Percentage and (B) the average aggregate Principal Amount of the
+Receivables in the Trust for the Settlement Period immediately preceding such
+Settlement Period (or, if such later Settlement Period is the initial Settlement
+Period, the average aggregate Principal Amount of the Receivables in the Trust
+in April 2001) and (C) the number of days in such Settlement Period, DIVIDED BY
+(ii) 360 (or, with respect to a particular Outstanding Series, as shall be
+provided in the related Supplement). Except as otherwise set forth in the
+related Supplement, the share of the Servicing Fee allocable to each Outstanding
+Series for any Settlement Period shall be an amount equal to the product of
+(i) the Servicing Fee for such Settlement Period and (ii) a fraction (expressed
+as a percentage) (A) the numerator of which is the daily average Invested Amount
+for such Settlement Period with respect to such Series and (B) the denominator
+of which is the daily average Aggregate Invested Amount for such Settlement
+Period (with respect to any such Series, the "MONTHLY SERVICING FEE"); PROVIDED,
+HOWEVER, that if on any day USFS or any Affiliate thereof is acting as the
+Servicer and an Early Amortization Event has occurred and is continuing with
+respect to any Outstanding Series, payment of the Monthly Servicing Fee with
+respect to such Series shall be deferred until all amounts due under the
+Investor Certificates of such Series have been paid in full. The Servicing Fee
+shall be payable to the Servicer solely pursuant to the terms of, and to the
+extent amounts are available for payment under, Article III of the Pooling
+Agreement.
+
+                                       9
+<Page>
+
+                    (b) The Company hereby directs the Servicer, and the
+Servicer hereby agrees, to pay amounts due to the Trustee pursuant to Section
+8.5 of the Pooling Agreement and the reasonable fees and disbursements of
+independent accountants and counsel, including the Trustee's reasonable
+out-of-pocket expenses relating to the Trustee's inspections, if any, of the
+Servicer's servicing facility in connection with the Trustee's role as potential
+Successor Servicer, which inspections shall occur not more frequently than once
+per calendar year, and all other out-of-pocket fees and expenses of the Trust
+(including reasonable counsel fees, if any) not expressly stated herein to be
+for the account of the Investor Certificateholders; PROVIDED, HOWEVER, that in
+no event shall the Servicer be liable for any federal, state or local income or
+franchise tax, or any interest or penalties with respect thereto, assessed on
+the Trust, the Trustee or the Investor Certificateholders except in accordance
+with Section 5.2 and as otherwise expressly provided herein. Notwithstanding
+anything to the contrary herein or in any other Pooling and Servicing Agreement,
+in the event that the Servicer fails to pay any amount due to the Trustee
+pursuant to Section 8.5 of the Pooling Agreement, or following the commencement
+and continuance of an Early Amortization Period, the Trustee shall be entitled,
+in addition to any other rights it may have under law and under the Pooling
+Agreement, to receive directly such amounts owing to it under the Pooling and
+Servicing Agreements from, and in the same order of priority as, the Servicing
+Fee before payment to the Servicer of any portion thereof, PROVIDED, that in the
+event the Servicer shall have elected to waive its rights to payment of the
+Servicing Fee or the Servicing Fee is deferred pursuant to subsection 2.5(a),
+the Trustee shall nonetheless be entitled to receive such amounts from payments
+which would ordinarily be applied to the payment of the Servicing Fee, in the
+same order of priority as though such Servicing Fee were payable. The Servicer
+shall be required to pay expenses for its own account, and, with respect to the
+Receivables in the Trust, shall not be entitled to any payment therefor other
+than the Servicing Fee. Nothing contained herein shall be construed to limit the
+obligation of the Servicer or the Company to pay any amounts due the Trustee
+pursuant to Section 8.5 of the Pooling Agreement or pursuant to the terms of any
+applicable Supplement.
+
+                                  ARTICLE III
+
+                        REPRESENTATIONS AND WARRANTIES OF
+                      THE SERVICER AND THE SUPPORT PROVIDER
+
+               As of (a) the date hereof and (b) each Issuance Date, each of the
+Servicer and the Support Provider (unless otherwise indicated below) hereby
+makes the following representations and warranties with respect to itself to
+each of the other parties hereto:
+
+                                       10
+<Page>
+
+               3.1 CORPORATE EXISTENCE - COMPLIANCE WITH LAW It (i) is a
+corporation or limited liability company, as the case may be, duly organized or
+formed, validly existing and in good standing under the laws of the jurisdiction
+of its organization or formation as the case may be, (ii) has all requisite
+power and authority, and all legal right, to own and operate its properties, to
+lease the properties it operates as lessee and to conduct its business as now
+conducted, (iii) is duly qualified as a foreign corporation or limited liability
+company, as the case may be, to do business and in good standing (or is exempt
+from such requirements) under the laws of each jurisdiction in which the
+ownership of its assets or the conduct of its business, including without
+limitation the servicing of Receivables as required by this Agreement requires
+such qualification, or in which the failure to so qualify would reasonably be
+expected to have a Material Adverse Effect, and (iv) is in compliance with all
+Requirements of Law.
+
+               3.2 CORPORATE POWER: AUTHORIZATION It has the requisite power and
+authority, and the legal right, to execute, deliver and perform this Agreement
+and the other Transaction Documents to which it is a party and has taken all
+necessary action to authorize the execution, delivery and performance of this
+Agreement and the other Transaction Documents to which it is a party. No consent
+or authorization of, filing with, notice to or other act by or in respect of,
+any Governmental Authority or any other Person is required in connection with
+the execution, delivery, performance, validity or enforceability of this
+Agreement and the other Transaction Documents to which it is a party by or
+against the Servicer or Support Provider, as the case may be, other than
+(i) those consents which have duly been obtained or made and are in full force
+and effect on the Initial Closing Date, the date hereof, or the relevant
+Issuance Date, as the case may be, (ii) any filings of UCC- 1 financing
+statements necessary to perfect USFS's, the Company's or the Trust's interest in
+the Receivables and the Related Property, (iii) those that may be required under
+state securities or "blue sky" laws in connection with the offering or sale of
+Certificates and (iv) any such consent, authorization, filing, notice or other
+act, the absence of which would not be reasonably likely to have a Material
+Adverse Effect with respect to the Servicer or the Support Provider, as the case
+may be. This Agreement and each other Transaction Document to which it is a
+party have been duly executed and delivered on behalf of the Servicer or the
+Support Provider, as the case may be.
+
+                                       11
+<Page>
+
+               3.3 ENFORCEABILITY This Agreement and each other Transaction
+Document to which the Servicer or the Support Provider, as the case may be, is a
+party constitute the legal, valid and binding obligation of such party
+enforceable against it in accordance with its terms, except as such
+enforceability may be limited by applicable bankruptcy, insolvency, fraudulent
+conveyance, reorganization, moratorium or other similar laws now or hereafter in
+effect affecting the enforcement of creditors' rights generally and except as
+such enforceability may be limited by general principles of equity (whether
+considered in a proceeding at law or in equity).
+
+               3.4 NO LEGAL BAR The execution, delivery and performance of this
+Agreement and each other Transaction Document to which it is a party will not
+violate any Requirement of Law or Contractual Obligation of the Servicer (other
+than any violation which would not be reasonably likely to have a Material
+Adverse Effect with respect to the Servicer or the Support Provider, as
+applicable), and will not result in, or require, the creation or imposition of
+any Lien (other than Permitted Liens) on any of its properties or revenues
+pursuant to any such Requirement of Law or Contractual Obligation.
+
+               3.5 NO MATERIAL LITIGATION (a) There are no actions, suits,
+investigations or proceedings at law or in equity or by or before any
+arbitrator, court or Governmental Authority now pending or, to the knowledge of
+the Servicer or the Support Provider, as applicable, threatened against or
+affecting it or any of its properties, revenues or rights which (i) involve this
+Agreement, any of the other Transaction Documents to which it is a party or any
+of the transactions contemplated hereby or thereby or (ii) if adversely
+determined, could individually or in the aggregate, result in a Material Adverse
+Effect with respect to the Servicer or the Support Provider, as applicable.
+
+                    (b) The Servicer or the Support Provider, as the case may
+be, is not in default under or with respect to any Requirement of Law where such
+default would be reasonably likely to have a Material Adverse Effect with
+respect to the Servicer or the Support Provider, as applicable.
+
+               3.6 NO DEFAULT The Servicer or the Support Provider, as the case
+may be, is not in default under or with respect to any of its Contractual
+Obligations in any respect which would be reasonably likely to have a Material
+Adverse Effect with respect to the Servicer or the Support Provider, as
+applicable. No Servicer Default or Potential Servicer Default has occurred and
+is continuing with respect to the Servicer.
+
+               3.7 SERVICING ABILITY With respect to the Servicer, as of the
+related Issuance Date, there has not been since the date of this Agreement any
+material adverse change in the ability of the Servicer to perform its
+obligations as Servicer
+
+                                       12
+<Page>
+
+under any Transaction Document. With respect to the Support Provider, as of any
+Issuance Date subsequent to the date of this Agreement, there has not been since
+the date of this Agreement any material adverse change in the ability of the
+Support Provider to perform its obligations as Support Provider under this
+Agreement.
+
+               3.8 LOCATION OF RECORDS With respect to the Servicer, the offices
+at which the Servicer keeps its records concerning the Receivables serviced by
+it either (i) are located at the addresses set forth on Schedule II to the
+applicable Receivables Sale Agreement or (ii) have been notified to the Company
+and the Trustee in accordance with the provisions of Section 4.9. With respect
+to the Servicer, the Servicer's place of business or chief executive office if
+the Servicer has more than one place of business is located at one of such
+locations.
+
+                                   ARTICLE IV
+
+                            COVENANTS OF THE SERVICER
+
+               4.1 DELIVERY OF REQUIRED REPORTS In the event that (i) a Purchase
+Termination Event or a Potential Purchase Termination Event has occurred under
+the Receivables Sale Agreements or (ii) an Early Amortization Event or a
+Potential Early Amortization Event has occurred under the Pooling Agreement or
+any Supplement thereto, for each Business Day or other specified period
+(a "REPORTED PERIOD") and with respect to each Outstanding Series, the Servicer
+shall submit to the Trustee and the relevant Agent, if any, no later than
+1:00 p.m., New York City time, on the second Business Day following the end of
+each Reported Period, a written report substantially in a form reasonably
+acceptable to the Trustee (the "REQUIRED REPORT") setting forth for the Reported
+Period total Collections, Receivables and Eligible Receivables created, and such
+other information as the Trustee or such Agent may reasonably request and shall
+deliver a copy of such report to the Company and to the Sellers under the
+Receivables Sale Agreement. The Required Report may be delivered in an
+electronic format mutually agreed upon by the Servicer and the Trustee, or
+pending such agreement, by facsimile. By delivery of a Required Report, the
+Servicer shall be deemed to have made a representation and warranty that all
+information set forth therein is true and correct in all material respects.
+
+               4.2 DELIVERY OF MONTHLY SETTLEMENT STATEMENT Unless otherwise
+specified in the Supplement with respect to any Outstanding Series, the Servicer
+hereby covenants and agrees that it shall deliver to the Trustee, each Agent and
+each Rating Agency by 11:00 a.m., New York City time, on each Settlement Report
+Date, a certificate of a Responsible Officer of the Servicer substantially in
+the form attached to the related Supplement of each such Series (a "MONTHLY
+SETTLEMENT
+
+                                       13
+<Page>
+
+STATEMENT") setting forth, as of the last day of the Settlement Period most
+recently ended and for such Settlement Period, (a) the information described in
+the form of such Monthly Settlement Statement, with such changes as may be
+agreed to by the Servicer and the Trustee, subject to satisfaction of the Rating
+Agency Condition (unless a Responsible Officer of the Servicer certifies that
+such changes could not reasonably be expected to have a materially adverse
+effect on the interests of the Trust or the Investor Certificateholders for the
+applicable Series under the Transaction Documents). The delivery of such
+certificate shall constitute a certification by the Servicer that, to the best
+knowledge of such Responsible Officer of the Servicer, the information contained
+therein is true and correct in all material respects and the Servicer has
+performed in all material respects all of its obligations under each Transaction
+Document throughout such preceding Settlement Period (or, if there has been a
+material default in the performance of any such obligation, specifying each such
+default known to such officer and the nature and status thereof). A copy of each
+Monthly Settlement Statement may be obtained by any Investor Certificateholder
+upon a request in writing to the Trustee addressed to the Corporate Trust
+Office.
+
+               4.3 DELIVERY OF QUARTERLY SERVICER'S CERTIFICATE The Servicer
+agrees that it shall deliver to the Trustee, each Agent and each Rating Agency,
+a certificate of a Responsible Officer of the Servicer, substantially in the
+form of Exhibit A hereto, stating that:
+
+                    (a) a review of the activities of each of the Company and
+the Servicer during the preceding calendar quarter and of its performance under
+each Transaction Document was made under the supervision of such Responsible
+Officer; and
+
+                    (b) to the best of such Responsible Officer's knowledge,
+based on such review, (i) each of the Company and the Servicer has performed in
+all material respects its obligations under each Transaction Document throughout
+the period covered by such certificate (or, if there has been a material default
+in the performance of any such obligation, specifying each such default known to
+such Responsible Officer and the nature and status thereof) and (ii) each
+Required Report and Monthly Settlement Statement delivered during such period
+was accurate and correct in all material respects, except as specified in such
+certificate.
+
+Such certificate shall be delivered by the Servicer within 45 days after the end
+of each calendar quarter commencing with the quarter ending on or about
+June 30, 2001. A copy of such certificate may be obtained by any Investor
+Certificateholder by a request in writing to the Trustee addressed to the
+Corporate Trust Office.
+
+                                       14
+<Page>
+
+               4.4 DELIVERY OF INDEPENDENT PUBLIC ACCOUNTANTS' SERVICING REPORTS
+The Servicer shall cause Independent Public Accountants to furnish to the
+Company, the Trustee and each Rating Agency within 90 days following the last
+day of each fiscal year of the Servicer (commencing with the fiscal year ending
+on or about December 31, 2001) a letter to the effect that such firm has
+performed certain agreed upon procedures (as set forth in Exhibit B hereto)
+relating to the Servicer with respect to the Receivables and each such Person's
+performance hereunder during the preceding fiscal year and describing such
+firm's findings with respect to such procedures. A copy of such report may be
+obtained by any Investor Certificateholder upon a request in writing to the
+Trustee addressed to the Corporate Trust Office.
+
+               4.5 NO GUARANTEE OR ASSUMPTION OF COMPANY'S LIABILITIES The
+Servicer hereby covenants and agrees that it will not guarantee or assume the
+obligations or liabilities of the Company under the Pooling and Servicing
+Agreements, or any other obligations or liabilities of the Company, in an
+aggregate amount exceeding $25,000 at any one time outstanding, it being
+understood that a shareholder's capital contribution is not such a guarantee or
+assumption.
+
+               4.6 EXTENSION, AMENDMENT AND ADJUSTMENT OF RECEIVABLES, AMENDMENT
+OF AND COMPLIANCE WITH POLICIES (a) The Servicer hereby covenants and agrees
+with the Trustee that it shall not extend, rescind, cancel, amend or otherwise
+modify, or attempt or purport to extend, rescind, cancel, amend or otherwise
+modify, the terms of, or grant any Dilution Adjustment to, any Receivable, or
+otherwise take any action which is intended to cause or permit an Eligible
+Receivable to cease to be an Eligible Receivable, except in any such case (i) in
+accordance with the terms of the Policies, (ii) as required by any Requirement
+of Law or (iii) in the case of any Dilution Adjustments (whether or not
+permitted by any other clause of this sentence), upon the payment by or on
+behalf of the applicable Seller or USFS of a Seller Adjustment Payment pursuant
+to Section 2.05 of the Receivables Sale Agreement or the USFS Receivables Sale
+Agreement, as the case may be. Any Dilution Adjustment authorized to be made
+pursuant to the preceding sentence shall result in the reduction, on the
+Business Day on which such Dilution Adjustment arises or is identified, in the
+aggregate Principal Amount of Receivables used to calculate the Aggregate
+Receivables Amount. If, as a result of such a reduction, the Aggregate
+Receivables Amount is less than the Aggregate Target Receivables Amount, the
+Company (in addition to the obligations of the applicable Seller and USFS under
+the applicable Receivables Sale Agreement in respect of such Dilution
+Adjustment) shall be required to pay into the Series Principal Collection
+Sub-subaccount with respect to each Outstanding Series in immediately available
+funds within one Business Day of such determination such Series PRO RATA share
+of the amount (the "CASH DILUTION PAYMENT") by which the Aggregate Target
+Receivables Amount exceeds the Aggregate Receivables Amount.
+
+                                       15
+<Page>
+
+                    (b) The Servicer shall not make or permit to be made any
+change or modification to the Policies in any material respect, except (i) if
+such changes or modifications are necessary under any Requirement of Law,
+(ii) if such changes or modifications would not reasonably be expected to have a
+Material Adverse Effect with respect to the Servicer or (iii) if the Rating
+Agency Condition is satisfied with respect thereto. The Servicer shall provide
+notice to the Company, the Trustee and each Rating Agency of any modification of
+the Policies.
+
+                    (c) The Servicer shall perform its obligations in accordance
+with and comply in all material respects with the Policies.
+
+               4.7 PROTECTION OF INVESTOR CERTIFICATEHOLDERS' RIGHTS The
+Servicer hereby agrees with the Trustee that it shall take no action, nor
+intentionally omit to take any action, which could reasonably be expected to
+materially adversely impair the rights, remedies or interests of the Investor
+Certificateholders under the Transaction Documents in respect of the
+Receivables, nor shall it reschedule, revise or defer payments due on any
+Receivable except in accordance with the Policies or Section 4.6 above.
+
+               4.8 SECURITY INTEREST The Servicer hereby covenants and agrees
+that it shall not sell, pledge, assign or transfer to any other Person, or
+grant, create, incur, assume or suffer to exist any Lien on, any Receivable sold
+and assigned to the Company or the Trust, whether now existing or hereafter
+created, or any interest therein, and the Servicer shall defend the right, title
+and interest of the Company and the Trust in, to and under any Receivable sold
+and assigned to the Company or the Trust, whether now existing or hereafter
+created, against all claims of third parties claiming through or under the
+Servicer or the Company; provided, HOWEVER, that nothing in this Section 4.8
+shall prevent or be deemed to prohibit the Servicer from suffering to exist upon
+any of the Receivables any Permitted Liens.
+
+               4.9 LOCATION OF RECORDS The Servicer hereby covenants and agrees
+that it (a) shall not move its chief executive office or any of the offices
+where it keeps its records with respect to the Receivables outside of the
+location specified in respect thereof on Schedule II to the Receivables Sale
+Agreement or the USFS Receivables Sale Agreement, as applicable, in any such
+case, without giving 15 days' prior written notice to the Company, the Trustee
+and the Rating Agencies and (b) shall promptly take all actions reasonably
+required (including but not limited to all filings and other acts necessary or
+reasonably requested by the Trustee as being advisable under the UCC) in order
+to continue the valid and enforceable interest of the Trust in all Receivables
+now owned or hereafter created.
+
+               4.10 VISITATION RIGHTS (a) The Servicer shall, at any reasonable
+time during normal business hours on any Business Day and from time to time,
+upon
+
+                                       16
+<Page>
+
+reasonable prior notice, according to the Servicer's normal security and
+confidentiality requirements, permit (i) the Company, the Trustee, any Agent or
+any of their respective agents or representatives (A) to examine and make copies
+of and abstracts from the records, books of account and documents (including
+computer tapes and disks) of the Servicer relating to the Receivables and
+(B) following the termination of the appointment of the Servicer, to be present
+at the offices and properties of the Servicer to administer and control the
+collection of the Receivables and (ii) the Company, the Trustee, any Agent or
+any of their respective agents or representatives to visit the properties of the
+Servicer to discuss the affairs, finances and accounts of the Servicer relating
+to the Receivables or the Servicer's performance hereunder or under any of the
+other Transaction Documents to which it is a party with any of its officers or
+directors and with its independent certified public accountants; PROVIDED that
+the Company, the Trustee or such Agent, as the case may be, shall notify the
+Servicer prior to any contact with such accountants and shall give the Servicer
+the opportunity to participate in such discussions.
+
+                    (b) The Servicer shall provide the Trustee with such other
+information as the Trustee may reasonably request in connection with the
+fulfillment of the Trustee's obligations under any Pooling and Servicing
+Agreement.
+
+               4.11 LOCKBOX AGREEMENT: LOCKBOX ACCOUNTS The Servicer shall
+(a) maintain, and keep in full force and effect, each Lockbox Agreement, except
+to the extent otherwise permitted under the terms of the Transaction Documents,
+and (b) ensure that each related Lockbox Account shall be free and clear of, and
+defend each such Lockbox Account against, any writ, order, stay, judgment,
+warrant of attachment or execution or similar process.
+
+               4.12 DELIVERY OF FINANCIAL STATEMENTS The Servicer shall furnish
+to Trustee and the Rating Agencies:
+
+                    (a) as soon as available, but in any event not later than
+125 days after the end of each fiscal year of United Stationers Inc., and so
+long as USFS is the Servicer, a copy of the audited consolidated balance sheets
+of United Stationers Inc. as at the end of such fiscal year and the related
+consolidated statements of operations, shareholders' equity and cash flows of
+United Stationers Inc. for such fiscal year, setting forth in each case in
+comparative form the figures for the previous fiscal year and accompanied by the
+opinion of Ernst & Young LLP or another nationally-recognized independent public
+accounting firm, which report shall state that such consolidated financial
+statements present fairly the financial position and results of operations and
+changes in cash flow for the periods indicated in conformity with GAAP applied
+on a basis consistent with prior years. Such opinion shall not be qualified or
+limited because of a restricted or limited examination by
+
+                                       17
+<Page>
+
+such accountant of any material portion of United Stationers Inc. or any of its
+Subsidiaries' records; and
+
+                    (b) as soon as practicable, but in any event not later than
+50 days after the end of the first three fiscal quarters of each fiscal year, a
+copy of the condensed unaudited consolidated balance sheets of United Stationers
+Inc., USFS and the Sellers as at the end of such quarter and the related
+condensed unaudited consolidated statements of operations, shareholders' equity
+and cash flows of United Stationers Inc., USFS and the Sellers for such fiscal
+quarter, and for the elapsed portion of the fiscal year then ended, certified by
+an appropriate Responsible Officer as being complete and correct in all material
+respects and fairly presenting the financial position and the results of
+operations of United Stationers Inc., USFS and the Sellers, setting forth in
+each case in comparative form the figures as of and for the corresponding dates
+and periods in the previous fiscal year.
+
+     All such financial statements shall be complete and correct in all material
+respects and shall be prepared in reasonable detail and in accordance with GAAP
+applied consistently throughout the periods reflected therein and with prior
+periods, subject to normal year-end adjustments (except as approved by such
+accountants or officer, as the case may be, and disclosed therein and except
+that such financial statements shall not include any footnote disclosure as may
+be required by GAAP).
+
+               4.13 NOTICES The Servicer shall furnish to the Company, the
+Trustee and each Rating Agency, promptly upon a Responsible Officer of the
+Servicer obtaining knowledge of the occurrence of any Purchase Termination
+Event, Potential Purchase Termination Event (each as defined in the Receivables
+Sale Agreement), Early Amortization Event, Potential Early Amortization Event,
+Servicer Default or Potential Servicer Default, written notice thereof.
+
+               4.14 APPLICATION OF PROCEEDS So long as Section 2.10 of that
+certain Third Amended and Restated Credit Agreement dated as of June 29, 2000
+(as amended, supplemented or otherwise modified and in effect from time to time,
+the "CREDIT Agreement"), by and among USSC, as borrower, United Stationers Inc.,
+as guarantor, The Chase Manhattan Bank, as administrative agent, and Chase
+Securities Inc., as arranger, shall be in effect and shall not have been waived
+in writing pursuant to the applicable waiver provisions of such Credit
+Agreement, and so long as Section 1016 of that certain Indenture dated as of
+May 3, 1995 (as amended, supplemented or otherwise modified and in effect from
+time to time, the "INDENTURE"), among USSC, United Stationers Inc., and The Bank
+of New York, as trustee, shall be in effect and shall not have been waived in
+writing pursuant to the applicable waiver provisions of such Indenture, the
+Servicer shall comply in all respects with the requirements of such Section 2.10
+and Section 1016.
+
+                                       18
+<Page>
+
+                                   ARTICLE V
+
+             OTHER MATTERS RELATING TO THE SERVICER AND THE SUPPORT
+                                    PROVIDER
+
+               5.1 MERGER, CONSOLIDATION, ETC. (a) The Servicer shall not
+consolidate with or merge into any other corporation or convey or transfer its
+properties and assets substantially as an entirety to any Person, unless:
+
+                       (i) the Person formed by such consolidation or into which
+     the Servicer is merged or the Person which acquires by conveyance or
+     transfer the properties and assets of the Servicer substantially as an
+     entirety shall be a Person organized and existing under the laws of the
+     United States of America or any State thereof or the District of Columbia,
+     and, if the Servicer is not the surviving entity, such Person shall assume,
+     without the execution or filing of any paper or any further act on the part
+     of any of the parties hereto (except as may be required in the context of
+     an acquisition by conveyance or transfer of the properties and assets of
+     the Servicer substantially as an entirety to such other Person), the
+     performance of every covenant and obligation of the Servicer hereunder; and
+
+                       (ii) the Servicer has delivered to the Trustee an
+     officer's certificate executed by a Vice President or more senior officer
+     and an Opinion of Counsel addressed to the Trust and the Trustee, each
+     stating (i) that such consolidation, merger, conveyance or transfer
+     complies with this Section 5.1 and (ii) that all conditions precedent
+     herein provided for relating to such transaction have been complied with;
+     PROVIDED that such Opinion of Counsel, in the case of clause (ii) above,
+     may, to the extent that such opinion concerns questions of fact, rely on
+     such officer's certificate with respect to such questions of fact.
+
+                    (b) The Support Provider covenants and agrees that, until
+this Agreement is terminated pursuant to Section 7.2, the Support Provider will
+continue to be the direct or indirect beneficial owner of a majority of the
+issued and outstanding capital stock of the Servicer. The Support Provider shall
+not enter into any transaction or merger whereby it is not the surviving entity,
+nor shall it sell all or substantially all of its assets to another Person
+unless it has given prior written notice thereof to the Company and the Trustee
+and each of the Company and the Trustee (subject to Section 8.14 of the Pooling
+Agreement) consents in writing.
+
+                                       19
+<Page>
+
+               5.2 INDEMNIFICATION OF THE TRUST AND THE TRUSTEE (a) The Servicer
+hereby agrees to indemnify and hold harmless the Trust and the Trustee, for the
+benefit of the Investor Certificateholders and the Trustee and its directors,
+officers, agents and employees (each of the foregoing, an "INDEMNIFIED PERSON"),
+from and against any loss, liability, expense, damage or injury suffered or
+sustained by reason of any acts, omissions or alleged acts or omissions arising
+out of, or relating to, activities of the Servicer pursuant to the Pooling and
+Servicing Agreements, including but not limited to any judgment, award,
+settlement, reasonable attorneys' fees and other reasonable costs or expenses
+incurred in connection with the defense of any actual or threatened action,
+proceeding or claim; PROVIDED that the Servicer shall not so indemnify any
+Indemnified Person for any such loss, liability, damage, injury, cost or expense
+of such Indemnified Person (i) arising solely from a default by an Obligor with
+respect to any Receivable (other than arising out of (A) any discharge, claim,
+offset or defense (other than discharge in bankruptcy of the Obligor) of the
+Obligor to the payment of any Purchased Receivable arising from the actions of
+the Servicer (including, without limitation, a defense based on such Purchased
+Receivable's not being a legal, valid and binding obligation of such Obligor
+enforceable against it in accordance with its terms) or (B) a failure by the
+Servicer to perform its duties or obligations under this Agreement), or (ii) to
+the extent that such liability, cost or expense arises from the gross
+negligence, bad faith or willful misconduct of such Indemnified Person or any
+other Indemnified Person (or any of their respective directors, officers, agents
+or employees); PROVIDED, HOWEVER, that to the extent a determination of gross
+negligence, bad faith or willful misconduct is made after the payment of any
+amounts related thereto, the Servicer shall be repaid any amounts reimbursed
+under the preceding clause that, due to such determination, it should not have
+paid. The provisions of this indemnity shall run directly to, and be enforceable
+by, an injured party and shall survive the termination of this Agreement and the
+resignation or removal of the Servicer.
+
+                    (b) In addition, the Servicer agrees to pay, indemnify and
+hold each Indemnified Person harmless from and against any and all liabilities,
+obligations, losses, damages, penalties, actions, judgments, suits, costs,
+reasonable expenses or disbursements of any kind or nature whatsoever which may
+at any time be imposed on, incurred by or asserted against such Indemnified
+Person in any way relating to or arising out of the Servicer's breach of any
+covenant contained in subsections 2.2(f), 2.2(g), 4.6, 4.7 or 4.8 with respect
+to any Receivable which materially and adversely affects the interest of the
+Trust, the parties hereto or the Investor Certificateholders pursuant to the
+Transaction Documents in any Receivable or the collectibility of any Receivable
+(an "INDEMNIFICATION EVENT").
+
+                    (c) The Servicer shall indemnify the relevant Indemnified
+Person for such affected Receivable pursuant to subsection 5.2(b) by depositing
+into the Collection Account in immediately available funds no later than the
+next
+
+                                       20
+<Page>
+
+Settlement Report Date occurring at least 30 days after receipt by the Servicer
+of written notice of an Indemnification Event given by the applicable Seller,
+the Company or the Trustee or upon a Responsible Officer of the Servicer
+obtaining knowledge of an Indemnification Event, an amount equal to the
+outstanding Principal Amount of such Receivable (the "SERVICER INDEMNIFICATION
+AMOUNT"). Upon each such indemnification by the Servicer, the Trust shall
+automatically and without further action be deemed to transfer, assign, and set
+over, and otherwise convey to the Servicer, without recourse, representation or
+warranty, all right, title and interest of the Trust in and to such Receivable,
+all monies due or to become due with respect thereto and all proceeds thereof;
+and such Receivable shall be treated by the Trust as collected in full as of the
+date on which it was transferred. The Trustee shall execute such documents and
+instruments of transfer or assignment and take such other actions as shall be
+reasonably requested by the Servicer to effect the conveyance of any Receivable
+pursuant to this subsection. The obligation of the Servicer to indemnify the
+Trust for any such Receivables shall constitute the sole remedy respecting any
+breach of the covenants set forth in subsections 2.2(f), 2.2(g), 4.6, 4.7 or 4.8
+with respect to such Receivables available to Investor Certificateholders;
+PROVIDED, HOWEVER, that the Servicer shall, in addition, indemnify each
+Indemnified Person against all costs, expenses, losses, damages, claims and
+liabilities, including reasonable fees and expenses of counsel, which may be
+asserted against or incurred by any of them as a result of third party claims
+arising out of the events or facts giving rise to such breach.
+
+               5.3 SERVICER NOT TO RESIGN The Servicer shall not resign from the
+obligations and duties hereby imposed on it except (a) upon determination that
+(i) the performance of its duties hereunder is no longer permissible under
+applicable law and (ii) there is no reasonable action which the Servicer could
+take to make the performance of its duties hereunder permissible under
+applicable law or (b) if the Servicer is terminated as Servicer pursuant to
+Section 6.1. Any such determination permitting the resignation of the Servicer
+shall be evidenced as to clause (a)(i) above by an Opinion of Counsel to such
+effect delivered to the Trustee. No such resignation shall become effective
+until a Successor Servicer or the Trustee shall have assumed the
+responsibilities and obligations of the Servicer in accordance with Section 6.2.
+The Trustee, the Company and each Rating Agency shall be notified of such
+resignation in writing.
+
+               5.4 ACCESS TO CERTAIN DOCUMENTATION AND INFORMATION REGARDING THE
+RECEIVABLES The Servicer will hold in trust for the Trustee at their respective
+offices such computer programs, books of account and other records as are
+reasonably necessary to enable the Trustee to determine at any time the status
+of the Receivables and all collections and payments in respect thereof
+(including, without limitation, an ability to recreate records evidencing
+Receivables in the event of the destruction of the originals thereof).
+
+                                       21
+<Page>
+
+               5.5 PERFORMANCE SUPPORT OBLIGATION OF SUPPORT PROVIDER. (a) The
+Support Provider hereby unconditionally and irrevocably guarantees for the
+benefit of each of the Company and the Trustee, on behalf of the Investor
+Certificateholders, the due and punctual performance and observance by the
+Servicer and its respective successors and assigns (except for any successor and
+assign which is not wholly owned by USSC) of all of the terms, covenants,
+conditions, agreements, undertakings and obligations on the part of the Servicer
+to be performed or observed under the Transaction Documents (all such terms,
+covenants, conditions, agreements, undertakings and obligations on the part of
+the Servicer to be performed or observed being collectively called the
+"OBLIGATIONS"). In the event that the Servicer shall fail in any manner
+whatsoever, to perform or observe any of the Obligations when the same shall be
+required to be performed or observed (after giving effect to any grace period
+applicable thereto), then the Support Provider will itself duly and punctually
+perform and observe or cause to be duly and punctually performed or observed,
+the Obligations, and it shall not be a condition to the accrual of the
+obligation of the Support Provider hereunder to perform or observe any
+Obligation (or to cause the same to be performed or observed) that the Company
+or the Trustee, for the benefit of the Holders, shall have first made any
+request of or demand upon or given any notice to the Support Provider or to the
+Servicer or its respective successors and assigns or have initiated any action
+or proceeding against the Support Provider or the Servicer or any of their
+respective successors and assigns in respect thereof. Either the Company or the
+Trustee may proceed to enforce the obligations of the Support Provider under
+this subsection 5.5(a) without first pursuing or exhausting any right or remedy
+which any Investor Certificateholder, the Trustee, the Company, USFS (in its
+capacity as purchaser under the Receivables Sale Agreement and as seller under
+the USFS Receivables Sale Agreement), the Sellers or the Funding Agent may have
+against the Servicer, any other Person, the Receivables or any other property.
+The Trustee, on behalf of the Investor Certificateholders, hereby acknowledges
+that the Obligations shall not create recourse against the Servicer or the
+Support Provider for the payment of any Receivable which is uncollectible for
+credit-related reasons.
+
+                    (b) The Support Provider agrees that its obligations under
+this Agreement shall be unconditional, irrespective of (i) the validity,
+enforceability, avoidance, subordination, discharge, or disaffirmance by any
+Person (including a trustee in bankruptcy) of the Obligations, any Receivable,
+the Receivables Sale Agreements or any other Transaction Document, (ii) the
+absence of any attempt to collect any Receivables from the Obligor related
+thereto or any guarantor thereof, or to collect the Obligations from the
+Servicer or any other Person, (iii) the waiver, consent, extension, forbearance
+or granting of any indulgence by any of the Investor Certificateholder, the
+Trustee, the Company, USFS (in its capacity as purchaser under the Receivables
+Sale Agreement and as seller under the USFS Receivables Sale Agreement), or the
+Funding Agent with respect to any provision of any
+
+                                       22
+<Page>
+
+instrument evidencing the Obligations (including, but not limited to, the
+Receivables Sale Agreements or any Receivable), (iv) any change of the time,
+manner or place of performance of, or in any other term of any of the
+Obligations or any Receivable, including without limitation, any amendment to or
+modification of the Receivables Sale Agreements, the Pooling Agreement and any
+Supplement, (v) any law, regulation or order of any jurisdiction affecting any
+term of any of the Obligations, any Receivable, or rights of any Investor
+Certificateholder, the Trustee, the Company, USFS (in its capacity as purchaser
+under the Receivables Sale Agreement and as seller under the USFS Receivables
+Sale Agreement), the Sellers or the Funding Agent with respect thereto, (vi) the
+failure by any of the Trustee, the Company, USFS (in its capacity as purchaser
+under the Receivables Sale Agreement and as seller under the USFS Receivables
+Sale Agreement) or the any of the Sellers to take any steps to perfect and
+maintain perfected its respective interest in any Receivable or other property
+acquired by USFS (in its capacity as purchaser under the Receivables Sale
+Agreement) from the Sellers, by the Company from USFS (in its capacity as seller
+under the USFS Receivables Sale Agreement), or assigned to the Trust by the
+Company, or in any security or collateral related to the Obligations, (vii) any
+exchange or release of any Receivable or other property acquired by USFS (in its
+capacity as purchaser under the Receivables Sale Agreement) from the Sellers, by
+the Company from USFS (in its capacity as seller under the USFS Receivables Sale
+Agreement), or assigned to the Trust by the Company, (viii) any failure to
+obtain any authorization or approval from or other action by or to notify or
+file with, any Governmental Authority or regulatory body required in connection
+with the performance of the obligations hereunder by the Support Provider or
+(ix) any impossibility or impracticability of performance, illegality, FORCE
+MAJEURE, any act of government, or other circumstances which might constitute a
+default available to, or a discharge of the Servicer or the Support Provider, or
+any other circumstance, event or happening whatsoever whether foreseen or
+unforeseen and whether similar to or dissimilar to anything referred to above.
+The Support Provider further agrees that its obligations under this Agreement
+shall not be limited by any valuation, estimation or disallowance made in
+connection with any proceedings involving the Servicer filed under the
+Bankruptcy Code, whether pursuant to Section 502 of the Bankruptcy Code or any
+other Section thereof. The Support Provider further agrees that none of the
+Investor Certificateholders, the Trustee, the Company, USFS (in its capacity as
+purchaser under the Receivables Sale Agreement and as seller under the USFS
+Receivables Sale Agreement) and the Funding Agent shall be under any obligation
+to marshall any assets in favor of or against or in payment of any or all of the
+Obligations. The Support Provider further agrees that, to the extent that the
+Servicer makes a payment or payments to any of the Trustee, the Funding Agent,
+the Company, USFS (in its capacity as purchaser under the Receivables Sale
+Agreement and seller under the USFS Receivables Sale Agreement) or the Sellers
+and such payment or payments (or any part thereof) are subsequently invalidated,
+declared to be fraudulent or preferential, set aside and/or required to be
+repaid to the Servicer, its
+
+                                       23
+<Page>
+
+estate, trustee or receiver or any other party, including, without limitation,
+the Support Provider, under any bankruptcy law, state or federal law, common law
+or equitable cause, then to the extent of such payment or repayment, the
+Obligations or part thereof which had been paid, reduced or satisfied by such
+amount shall be reinstated and continued in full force and effect as of the date
+such initial payment, reduction or satisfaction occurred. The Support Provider
+waives all set-offs and counterclaims and all presentments, demands for
+performance, notices of nonperformance, protests, notices of protest, notices of
+dishonor and notices of acceptance of this Agreement. The Support Provider's
+obligations under this Agreement shall not be limited if any of the Investor
+Certificateholders, the Trustee, the Funding Agent, the Company, USFS (in its
+capacity as purchaser under the Receivables Sale Agreement and seller under the
+USFS Receivables Sale Agreement) or the Sellers are precluded for any reason
+(including without limitation, the application of the automatic stay under
+Section 362 of the Bankruptcy Code) from enforcing or exercising any right or
+remedy with respect to the Obligations, and the Support Provider shall pay to
+Trustee, the Funding Agent, the Company, USFS (in its capacity as purchaser
+under the Receivables Sale Agreement and seller under the USFS Receivables Sale
+Agreement) or the Sellers, as the case may be, upon demand, the amount of the
+Obligations that would otherwise have been due and payable had such rights and
+remedies been permitted to be exercised.
+
+                    (c) The Support Provider agrees that its obligations under
+this Agreement shall be unconditional and irrevocable. In the event that under
+applicable law (notwithstanding the Support Provider's agreement regarding the
+irrevocable nature of its obligations hereunder) the Support Provider shall have
+the right to revoke this Agreement, this Agreement shall continue in full force
+and effect until a written revocation hereof specifically referring hereto,
+signed by the Support Provider is actually received by the Company and the
+Trustee. Any such revocation shall not affect the right of any of the Company or
+the Trustee, for the benefit of the Holders, to enforce their respective rights
+under this Agreement with respect to (i) any Obligation (including any
+Obligation that is contingent or unmeasured) which arose on or prior to the date
+the aforementioned revocation was received by the Company and the Trustee or
+(ii) any Receivable which was a Receivable on the date the aforementioned
+revocation was received by the Company and the Trustee. If any of the Investor
+Certificateholders, the Trustee or the Company takes other action in reliance on
+this Agreement after any such revocation by the Support Provider but prior to
+the receipt by the Company and the Trustee of said written notice, the rights of
+the Investor Certificateholders, the Trustee and the Company with respect
+thereto shall be the same as if such revocation had not occurred. Without
+limiting the foregoing, this Agreement may not be revoked at any time on or
+after an Early Termination.
+
+                                       24
+<Page>
+
+                    (d) The Support Provider hereby waives promptness,
+diligence, notice of acceptance, notice of default by the Servicer, notice of
+the incurrence of any Obligation and any other notice with respect to any of the
+Obligations and this Agreement, the Receivables Sale Agreements, and any other
+Transaction Document and any requirement that the Investor Certificateholders,
+the Trustee, the Funding Agent or the Company, USFS (in its capacity as
+purchaser under the Receivables Sale Agreement and seller under the USFS
+Receivables Sale Agreement) or the Sellers exhaust any right or take any action
+against the Servicer, any other Person or any property. The Support Provider
+warrants to the Investor Certificateholders, the Trustee and the Company that it
+has adequate means to obtain from the Servicer on a continuing basis, all
+information then known to the Servicer concerning the financial condition of the
+Servicer and the collectibility of the Receivables, and that it is not relying
+on the Investor Certificateholders, the Trustee or the Company to provide such
+information either now or in the future.
+
+                    (e) The Support Provider will not exercise or assert any
+rights which it may acquire by way of subrogation under this Agreement unless
+and until all of the Obligations shall have been observed and performed in full
+and this Agreement shall have terminated in accordance with Section 7.2 hereof.
+If any payment shall be made to the Support Provider on account of any
+subrogation rights at any time prior to the occurrence of the events described
+in the preceding sentence, each and every amount so paid will be held in trust
+for the benefit of the Investor Certificateholders, the Trustee, the Funding
+Agent, the Company, USFS (in its capacity as purchaser under the Receivables
+Sale Agreement and seller under the USFS Receivables Sale Agreement) and the
+Sellers, and forthwith be paid to the Holders, the Trustee, the Funding Agent,
+the Company, USFS (in its capacity as purchaser under the Receivables Sale
+Agreement and seller under the USFS Receivables Sale Agreement) and the Sellers,
+as applicable, to be credited and applied to the Obligations to the extent then
+unsatisfied, in accordance with the terms of the Receivables Sale Agreements,
+the Pooling Agreement, any Supplement or any document delivered in connection
+therewith.
+
+                                   ARTICLE VI
+
+                                SERVICER DEFAULTS
+
+               6.1 SERVICER DEFAULT. If, with respect to the Servicer, any one
+of the following events (a "SERVICER DEFAULT") shall occur and be continuing:
+
+                    (a) failure by the Servicer to deliver, within two Business
+Days of the earlier date set forth below in clause (i) or (ii), any Required
+Report or, within three Business Days of the earlier date set forth below in
+clause (i) or (ii), any
+
+                                       25
+<Page>
+
+Monthly Settlement Statement, in each case conforming in all material respects
+to the requirements of Section 4.1 or 4.2, as the case may be, after the earlier
+to occur of, in each case, (i) the date upon which a Responsible Officer of the
+Servicer obtains knowledge of the Servicer's failure to deliver such a
+conforming Required Report or Monthly Settlement Statement when due under
+Section 4.1 or 4.2 and (ii) the date on which written notice of the Servicer's
+failure to deliver such a conforming Required Report or Monthly Settlement
+Statement when due under Section 4.1 or 4.2, requiring the same to be remedied,
+shall have been given to the Servicer by the Company or the Trustee, or to the
+Company, the Servicer and the Trustee by holders of Investor Certificates
+evidencing 25 % or more of the Aggregate Invested Amount or by any Agent;
+
+                    (b) failure by the Servicer to pay any amount required to be
+paid by it under the Agreement or to give any direction with respect to the
+allocation or transfer of funds under any Pooling and Servicing Agreement, in
+each case on or before the date occurring five Business Days after the earlier
+to occur of (i) the date upon which a Responsible Officer of the Servicer
+obtains knowledge of such failure and (ii) the date on which written notice of
+such failure, requiring the same to be remedied, shall have been given to the
+Servicer by the Company or the Trustee, or to the Company, the Servicer and the
+Trustee by holders of Investor Certificates evidencing 25 % or more of the
+Aggregate Invested Amount or by any Agent;
+
+                    (c) failure on the part of the Servicer duly to observe or
+perform in any material respect any other covenants or agreements of the
+Servicer set forth in any Pooling and Servicing Agreement, which failure has a
+Material Adverse Effect on the holders of any Outstanding Series or on the
+collectibility of the Receivables as a whole and which Material Adverse Effect
+continues unremedied for 30 days after the earlier to occur of (i) the date upon
+which a Responsible Officer of the Servicer obtains knowledge of such failure or
+(ii) the date on which written notice of such failure, requiring the same to be
+remedied, shall have been given to the Company and the Servicer by the Trustee,
+or to the Company, the Servicer and the Trustee by holders of Investor
+Certificates evidencing 25 % or more of the Aggregate Invested Amount or by any
+Agent; PROVIDED that no Servicer Default shall be deemed to occur under this
+subsection (c) if the Servicer shall have complied with the provisions of
+subsections 5.2(b) and (c) with respect thereto;
+
+                    (d) any representation, warranty or certification made by
+the Servicer in any Pooling and Servicing Agreement or in any certificate
+delivered pursuant thereto shall prove to have been incorrect in any material
+respect when made or deemed made, which incorrectness has a Material Adverse
+Effect on the holders of any Outstanding Series or on the collectibility of the
+Receivables as a whole and which Material Adverse Effect continues unremedied
+for 30 days after the earlier to occur of (i) the date upon which a Responsible
+Officer of the Servicer
+
+                                       26
+<Page>
+
+obtains knowledge of such failure or (ii) the date on which written notice of
+such failure, requiring the same to be remedied, shall have been given to the
+Company and the Servicer by the Trustee, or to the Company, the Servicer and the
+Trustee by holders of Investor Certificates evidencing 25 % or more of the
+Aggregate Invested Amount or by any Agent; PROVIDED that no Servicer Default
+shall be deemed to occur under this subsection (d) if the Servicer shall have
+complied with the provisions of subsections 5.2(b) and (c) with respect thereto;
+
+                    (e) (i) the Servicer shall commence any case, proceeding or
+other action (A) under any existing or future law of any jurisdiction, domestic
+or foreign, relating to bankruptcy, insolvency, reorganization or relief of
+debtors, seeking to have an order for relief entered with respect to it, or
+seeking to adjudicate it a bankrupt or insolvent, or seeking reorganization,
+arrangement, adjustment, winding-up, liquidation, dissolution, composition or
+other relief with respect to it or its debts, or (B) seeking appointment of a
+receiver, trustee, custodian or other similar official for it or for all or any
+substantial part of its assets, or the Servicer shall make a general assignment
+for the benefit of its creditors; or (ii) there shall be commenced against the
+Servicer any case, proceeding or other action of a nature referred to in clause
+(i) above which remains undismissed, undischarged or unbonded for a period of
+60 days or an order for relief, decree, adjudication or appointment shall occur;
+or (iii) there shall be commenced against the Servicer any case, proceeding or
+other action seeking issuance of a warrant of attachment, execution, distraint
+or similar process against all or any substantial part of its assets which
+results in the entry of an order for any such relief which shall not have been
+vacated, discharged, or stayed or bonded pending appeal within 60 such days from
+the entry thereof, or (iv) the Servicer shall take any action in furtherance of,
+or indicating its consent to, approval of, or acquiescence in, any of the acts
+set forth in clauses (i), (ii), or (iii) above; or (v) the Servicer shall
+generally not, or shall be unable to, or shall admit in writing its inability
+to, pay its debts as they become due; or
+
+                    (f) there shall have occurred and be continuing a Purchase
+Termination Event under the Receivables Sale Agreement, except for a Purchase
+Termination Event described in Section 6.01(b) of the Receivables Sale
+Agreement;
+
+                    (g) there shall have occurred one of the Early Amortization
+Events described in Sections 7.1(a) or 7.1(d) of the Pooling Agreement;
+
+                    (h) the Servicer shall have ceased to be a directly or
+indirectly wholly-owned Subsidiary of United Stationers Inc.;
+
+                    (i) the Servicer or the Support Provider shall assert in
+writing that any of this Agreement, the Pooling Agreement, any Supplement
+thereto,
+
+                                       27
+<Page>
+
+or the Receivables Sale Agreement shall cease, for any reason, to be in full
+force and effect;
+
+                    (j) the Servicer shall assert that the Trust ceases to have
+a valid and perfected first priority undivided ownership or security interest in
+the Trust Assets (subject to no other Liens other than Permitted Liens described
+in clauses (i) and (iv) of the definition thereof or as otherwise specified in
+the Agreement or herein);
+
+                    (k) there shall have been filed against the Servicer (i) a
+notice of federal tax Lien from the Internal Revenue Service, (ii) a notice of
+Lien from the PBGC under Section 412(n) of the Internal Revenue Code or Section
+302(f) of ERISA for a failure to make a required installment or other payment to
+a plan to which either of such sections applies or (iii) a notice of any other
+Lien the existence of which could reasonably be expected to have a material
+adverse effect on the business, operations or financial condition of such
+Person, and, in each case, 40 days shall have elapsed without such notice having
+been effectively withdrawn or such Lien having been released or discharged; or
+
+                    (l) any action, suit, investigation or proceeding at law or
+in equity (including, without limitation, injunctions, writs or restraining
+orders) shall be brought or commenced or filed by or before any arbitrator,
+court or Governmental Authority against the Servicer or any properties, revenues
+or rights thereof which could reasonably be expected to have a Material Adverse
+Effect with respect to the Trust or any Certificateholder; then, in the event of
+any Servicer Default, so long as the Servicer Default shall not have been
+remedied (or waived in accordance with the terms of the Transaction Documents),
+the Trustee may, and at the written direction of the holders of Investor
+Certificates evidencing more than 50% of the Aggregate Invested Amount voting as
+a single class, the Trustee shall, by notice then given in writing to the
+Servicer, each Agent and each Rating Agency (a "TERMINATION NOTICE"), terminate
+all or any part of the rights and obligations of the Servicer as Servicer under
+the Pooling and Servicing Agreements. Notwithstanding anything to the contrary
+in this Section 6.1, a delay in or failure of performance referred to under
+clause (b) above for a period of 10 Business Days after the applicable grace
+period or a delay in or failure of performance referred to under clauses
+(a), (c) or (d) above for a period of 30 Business Days after the applicable
+grace period shall not constitute a Servicer Default, if such delay or failure
+could not have been prevented by the exercise of reasonable diligence by the
+Servicer and such delay or failure was caused by a Force Majeure Delay. After
+receipt by the Servicer of a Termination Notice, and on the date that a
+Successor Servicer shall have been appointed by the Trustee pursuant to
+Section 6.2, all authority and power of the Servicer under any Pooling and
+Servicing Agreement to the extent specified in such Termination Notice shall
+pass to and be vested in a Successor Servicer (a "SERVICE TRANSFER") and,
+without
+
+                                       28
+<Page>
+
+limitation, the Trustee is hereby authorized and empowered (upon the failure of
+the Servicer to cooperate) to execute and deliver, on behalf of the Servicer, as
+attorney-in-fact or otherwise, all documents and other instruments upon the
+failure of the Servicer to execute or deliver such documents or instruments, and
+to do and accomplish all other acts or things necessary or appropriate to effect
+the purposes of such Service Transfer. The Servicer agrees to cooperate with the
+Trustee and such Successor Servicer in effecting the termination of the
+responsibilities and rights of the Servicer to conduct servicing hereunder,
+including, without limitation, the transfer to such Successor Servicer of all
+authority of the Servicer to service the Receivables provided for under the
+Pooling and Servicing Agreements, including, without limitation, all authority
+over all Collections which shall on the date of transfer be held by the Servicer
+for deposit, or which have been deposited by a the Servicer, in the Collection
+Account, or which shall thereafter be received with respect to the Receivables,
+and in assisting the Successor Servicer. Upon a Service Transfer, the Servicer
+shall promptly (x) assemble all of its documents, instruments and other records
+(including credit files, licenses, rights, copies of all relevant computer
+programs and any necessary licenses for the use thereof, related material,
+computer tapes, disks, cassettes and data) that (i) evidence or will evidence or
+record Receivables sold and assigned to the Trust and (ii) are otherwise
+necessary or desirable to enable a Successor Servicer to effect the immediate
+Collection of such Receivables, with or without the participation of the
+applicable Seller and the Servicer and (y) deliver or license the use of all of
+the foregoing documents, instruments and other records to the Successor Servicer
+at a place designated thereby. In recognition of the Servicer's need to have
+access to any such documents, instruments and other records which may be
+transferred to such Successor Servicer hereunder, whether as a result of its
+continuing responsibility as a servicer of accounts receivable which are not
+sold and assigned to the Trust or otherwise, such Successor Servicer shall
+provide to the Servicer reasonable access to such documents, instruments and
+other records transferred by the Servicer to it in connection with any activity
+arising in the ordinary course of the Servicer's business at any reasonable time
+during normal business hours on any Business Day and from time to time, upon
+reasonable prior notice, according to such Successor Servicer's normal security
+and confidentiality requirements; PROVIDED that the Servicer shall not disrupt
+or otherwise interfere with the Successor Servicer's use of and access to such
+documents, instruments and other records. To the extent that compliance with
+this Section 6.1 shall require the Servicer to disclose to the Successor
+Servicer information of any kind which the Servicer reasonably deems to be
+confidential, the Successor Servicer shall be required to enter into such
+customary licensing and confidentiality agreements as the Servicer shall deem
+necessary to protect its interest. All costs and expenses incurred by the
+defaulting Servicer, the Successor Servicer and the Trustee in connection with
+any Service Transfer shall be for the account of such defaulting Servicer.
+
+                                       29
+<Page>
+
+               6.2 TRUSTEE TO ACT; APPOINTMENT OF SUCCESSOR (a) On and after
+(i) the receipt by the Servicer of a Termination Notice pursuant to Section 6.1
+or (ii) the date on which the Servicer notifies the Trustee, the Company, each
+Agent and each Rating Agency in writing of its resignation pursuant to Section
+5.3 (the "RESIGNATION NOTICE"), the Servicer shall continue to perform all
+servicing functions under the Pooling and Servicing Agreements until the earlier
+of (x) the date on which a Successor Servicer is appointed and (y) 60 days after
+the delivery of such Termination Notice or Resignation Notice, as the case may
+be. The Trustee shall, as promptly as reasonably possible after the giving of or
+receipt of a Termination Notice or Resignation Notice, as the case may be,
+appoint an Eligible Successor Servicer as successor servicer (the "SUCCESSOR
+SERVICER"). The Successor Servicer shall accept its appointment by a written
+assumption in a form acceptable to the Trustee.
+
+                    (b) Reserved.
+
+                    (c) Upon its appointment, the Successor Servicer shall be
+the successor in all respects to the Servicer to which it is successor with
+respect to servicing functions under the Pooling and Servicing Agreements (with
+such changes as are agreed to between such Successor Servicer and the Trustee)
+and shall be subject to all the responsibilities, duties and liabilities
+relating thereto placed on the Servicer by the terms and provisions hereof, and
+all references in any Pooling and Servicing Agreement to the Servicer shall be
+deemed to refer to the Successor Servicer. The Successor Servicer shall manage
+the servicing and administration of the Receivables, the collection of payments
+due under the Receivables and the charging off of any Receivables as
+uncollectible, with reasonable care, using that degree of skill and attention
+that is the customary and usual standard of practice of prudent receivables
+servicers with respect to all comparable receivables serviced for itself or
+others. The Successor Servicer shall not be liable for, and the Servicer shall
+indemnify the Successor Servicer against costs incurred by the Successor
+Servicer as a result of, any acts or omissions of the Servicer or any events or
+occurrences occurring prior to the Successor Servicer's acceptance of its
+appointment as Successor Servicer.
+
+                    (d) The Company and the Trustee will review any bids
+obtained from Eligible Successor Servicers and the Company and the Trustee, or
+the Company (with the consent of the Trustee), may appoint any Eligible
+Successor Servicer submitting such a bid as a Successor Servicer for servicing
+compensation not in excess of the Servicing Fee.
+
+                    (e) All authority and power granted to the Successor
+Servicer under any Pooling and Servicing Agreement shall automatically cease and
+terminate on the Trust Termination Date, and shall pass to and be vested in the
+
+                                       30
+<Page>
+
+Company and, without limitation, the Company is hereby authorized and empowered
+to execute and deliver, on behalf of the Successor Servicer, as attorney-in-fact
+or otherwise, all documents and other instruments, and to do and accomplish all
+other acts or things necessary or appropriate to effect the purposes of such
+transfer of servicing rights from and after the Trust Termination Date. The
+Successor Servicer agrees to cooperate with the Company in effecting the
+termination of the responsibilities and rights of the Successor Servicer to
+conduct servicing on the Receivables. The Successor Servicer shall transfer all
+of its records relating to the Receivables to the Company in such form as the
+Company may reasonably request and shall transfer all other records,
+correspondence and documents to the Company in the manner and at such times as
+the Company shall reasonably request. To the extent that compliance with this
+Section 6.2 shall require the Successor Servicer to disclose to the Company
+information of any kind which the Successor Servicer deems to be confidential,
+the Company shall be required to enter into such customary licensing and
+confidentiality agreements as the Successor Servicer and the Company shall
+reasonably agree are reasonable and necessary to protect the Successor
+Servicer's interests.
+
+               6.3 WAIVER OF PAST DEFAULTS Holders of Investor Certificates
+evidencing more than 50% of the Aggregate Invested Amount may waive any
+continuing default by the Servicer or the Company in the performance of their
+respective obligations hereunder and its consequences, except a default in the
+failure to make any required deposits or payments in respect of any Series of
+Certificates, which shall require a waiver by the holders of all of the affected
+Investor Certificates. Upon any such waiver of a past default, such default
+shall cease to exist, and any default arising therefrom shall be deemed to have
+been remedied for every purpose of the Pooling and Servicing Agreements. No such
+waiver shall extend to any subsequent or other default or impair any right
+consequent thereon except to the extent expressly so waived. Either the Company
+or the Servicer shall provide notice to each Rating Agency of any such waiver.
+
+                                       31
+<Page>
+
+                                  ARTICLE VII
+
+                            MISCELLANEOUS PROVISIONS
+
+               7.1 AMENDMENT This Agreement may only be amended, supplemented or
+otherwise modified from time to time if such amendment, supplement or
+modification is effected in accordance with the provisions of Section 10.1 of
+the Pooling Agreement and, with respect only to subsections 5.2(a) and (b) and
+Section 5.5 hereof, receives the consent of USSC.
+
+               7.2 TERMINATION The respective obligations and responsibilities
+of the parties hereto shall terminate on the Trust Termination Date (unless such
+obligations or responsibilities are expressly stated to survive the termination
+of this Agreement).
+
+               7.3 NOTICES All notices, requests and demands to or upon the
+respective parties hereto to be effective shall be in writing (including by
+facsimile), and, unless otherwise expressly provided herein, shall be deemed to
+have been duly given or made when delivered by hand, or three days after being
+deposited in the mail, postage prepaid, or, in the case of facsimile notice,
+when received, addressed as set forth in Section 10.4 of the Pooling Agreement,
+or to such other address as may be hereafter notified by the respective parties
+hereto.
+
+               7.4 COUNTERPARTS This Agreement may be executed in two or more
+counterparts (and by different parties on separate counterparts), each of which
+shall be an original, but all of which together shall constitute one and the
+same instrument. Delivery of an executed counterpart of a signature page to this
+Agreement by facsimile transmission shall be effective as delivery of a manually
+executed counterpart of this Agreement.
+
+               7.5 THIRD-PARTY BENEFICIARIES This Agreement will inure to the
+benefit of and be binding upon the parties hereto and the Investor
+Certificateholders and their respective successors and permitted assigns. Except
+as otherwise provided in this Article VII, no other person will have any right
+or obligation hereunder.
+
+               7.6 MERGER AND INTEGRATION Except as specifically stated
+otherwise herein, this Agreement and the other Transaction Documents set forth
+the entire understanding of the parties relating to the subject matter hereof,
+and all prior understandings, written or oral, are superseded by this Agreement
+and the other Transaction Documents. This Agreement may not be modified,
+amended, waived, or supplemented except as provided herein.
+
+                                       32
+<Page>
+
+               7.7 HEADINGS The headings herein are for purposes of reference
+only and shall not otherwise affect the meaning or interpretation of any
+provision hereof.
+
+               7.8 NO SET-OFF Except as expressly provided in this Agreement or
+any other Transaction Document, the Servicer agrees that it shall have no right
+of set-off or banker's lien against, and no right to otherwise deduct from, any
+funds held in the Collection Account for any amount owed to it by the Company,
+the Trust, the Trustee or any Investor Certificateholder.
+
+               7.9 NO BANKRUPTCY PETITION The Servicer hereby covenants and
+agrees that, prior to the date which is one year and one day after the Trust
+Termination Date, it will not institute against, or join any other Person in
+instituting against, the Company any bankruptcy, reorganization, arrangement,
+insolvency or liquidation proceedings, or other proceedings under any federal or
+state bankruptcy or similar law.
+
+               7.10 CONSEQUENTIAL DAMAGES In no event shall The Chase Manhattan
+Bank, in its capacity as Successor Servicer (if applicable), be liable for
+special, indirect or consequential loss or damage of any kind whatsoever
+(including, but not limited to, lost profits), even if it has been advised of
+the likelihood of such loss or damage and regardless of the form of action.
+
+               7.11 GOVERNING LAW THIS AGREEMENT SHALL BE GOVERNED BY, AND
+CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK AND THE RIGHTS,
+OBLIGATIONS AND REMEDIES OF EACH OF THE PARTIES HERETO SHALL BE DETERMINED IN
+ACCORDANCE WITH SUCH LAWS.
+
+[THE REMAINDER OF THIS PAGE IS INTENTIONALLY LEFT BLANK]
+
+                                       33
+<Page>
+
+     IN WITNESS WHEREOF, the Company, the Servicer, the Support Provider and the
+Trustee have caused this Agreement to be duly executed by their respective
+officers as of the day and year first above written.
+
+                                       USS RECEIVABLES COMPANY, LTD.
+
+                                       By:
+                                          --------------------------
+                                       Name:
+                                       Title:
+
+                                       UNITED STATIONERS FINANCIAL
+                                       SERVICES LLC,
+                                            as Servicer
+
+                                       By:
+                                          --------------------------
+                                       Name:
+                                       Title:
+
+                                       UNITED STATIONERS SUPPLY CO.,
+                                            as Support Provider
+
+                                       By:
+                                          --------------------------
+                                       Name:
+                                       Title:
+
+                                       THE CHASE MANHATTAN BANK,
+                                            not in its individual
+                                            capacity, but solely as
+                                            Trustee
+
+                                       By:
+                                          --------------------------
+                                       Name:
+                                       Title:
+
+<Page>
+
+                                                                       EXHIBIT A
+                                                          TO SERVICING AGREEMENT
+
+                    FORM OF QUARTERLY SERVICER'S CERTIFICATE
+
+                (As required to be delivered within 45 days after
+                the end of each calendar quarter of the Servicer
+                         pursuant to Section 4.3 of the
+                     Servicing Agreement referred to below)
+
+                    UNITED STATIONERS FINANCIAL SERVICES LLC
+
+                   ------------------------------------------
+
+                   UNITED STATIONERS RECEIVABLES MASTER TRUST
+
+                   ------------------------------------------
+
+     The undersigned, a duly authorized representative of UNITED STATIONERS
+FINANCIAL SERVICES LLC, as Servicer (the "Servicer") pursuant to (a) the Amended
+and Restated Pooling Agreement, dated as of May 1, 2001(as further amended,
+supplemented or otherwise modified from time to time, the "POOLING AGREEMENT"),
+by and among USS Receivables Company, Ltd., (the "COMPANY"), the Servicer and
+The Chase Manhattan Bank, as Trustee and as Securities Intermediary (the
+"TRUSTEE") and (b) the Amended and Restated Servicing Agreement, dated as of
+May 1, 2001 (as further amended, supplemented or otherwise modified from time to
+time, the "SERVICING AGREEMENT"), by and among the Company, the Servicer, United
+Stationers Supply Co., as Support Provider, and the Trustee, does hereby
+certify, on behalf of the Servicer and the Company and not individually, that:
+
+     1. United Stationers Financial Services LLC is, as of the date hereof, the
+Servicer under the Pooling Agreement and Servicing Agreement.
+
+     2. The undersigned is duly authorized pursuant to the Pooling Agreement and
+Servicing Agreement to execute and deliver this Certificate to the Trustee.
+
+<Page>
+
+     3. A review of the activities of the Company and the Servicer during the
+calendar quarter ended ___________, ____ and of its performance under each
+Transaction Document was conducted under my supervision.
+
+     4. Based on such review, to the best of my knowledge, each of the Company
+and the Servicer has performed in all material respects all of its obligations
+under each Transaction Document and no material default in the performance of
+such obligations has occurred or is continuing except as set forth in
+paragraph 5 below.
+
+     5. The following is a description of all material defaults in the
+performance of the Servicer or the Company under the provisions of the
+Transaction Documents known to us to have been made during the calendar quarter
+ended ___________, _____, which sets forth in detail (i) the nature of each such
+default, (ii) the action taken by the Servicer and/or the Company, if any, to
+remedy each such default and (iii) the current status of each default:
+
+[If applicable, insert "None."]
+
+     6. The following is a description of each material inaccuracy known to us
+to exist in any Required Report and/or Monthly Settlement Statement during the
+calendar quarter ended _________, _______:
+
+[If applicable, insert "None."]
+
+     Capitalized terms used in this certificate have the meanings ascribed to
+them in the Pooling Agreement(s) and Servicing Agreement(s).
+
+     IN WITNESS WHEREOF, the undersigned has duly executed this Certificate this
+day of ______________
+
+                                                By:
+                                                   ---------------------
+                                                Name:
+                                                Title:
+
+<Page>
+
+                                                                    EXHIBIT B TO
+                                                             SERVICING AGREEMENT
+
+                         FORM OF AGREED UPON PROCEDURES
+
+                  (See attached Report of Independent Accounts)
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,450 @@
+<DOCUMENT>
+<TYPE>EX-10.25
+<SEQUENCE>3
+<FILENAME>dex1025.txt
+<DESCRIPTION>CONTRACT CHANGE NOTICE
+<TEXT>
+<PAGE>
+
+                                                                   Exhibit 10.25
+
+                     Contract Change Notice/Amendment No. 1
+                                       to
+                  TRW Inc./Endwave Corporation Supply Agreement
+                               Agreement No. 1C450
+
+     THIS AMENDMENT ("Amendment") is made and entered into and between Endwave
+Corporation ("Buyer" or "Endwave") and TRW Inc. ("TRW").
+
+     WHEREAS, Buyer and TRW entered into a Supply Agreement No. 1C450
+("Agreement") with an effective date of 31 March 2000 and;
+
+     WHEREAS, Buyer and TRW desire to amend the Agreement in order to modify the
+product offering, delivery date span, pricing/volume methodology and applicable
+Exhibits, in addition to administrative updates inclusive of those sections for
+term, notices and marking provisions.
+
+NOW THEREFORE, the parties agree to amend the Agreement as follows:
+
+1.   Section 2.2, Requirements, of Article 2, replace the sentence with the
+     following: "Buyer shall buy from TRW no less than the quarterly minimum
+     quantities of Products set forth in Exhibit 1B, and TRW agrees to sell
+     Buyer up to and including quarterly maximum quantities of Products set
+     forth in such Exhibit; provided however, to the extent that Buyer wishes to
+     purchase more than the annual maximum quantities of the Products as
+     provided in Exhibit 1B, TRW may, but is under no obligation to, provide
+     Buyer such excess quantities."
+
+2.   Article 3, Effective Date and Term, replace time in which this Agreement
+     shall remain in force and effect from March 31, 2003" to "December 31,
+     2005."
+
+3.   Section 4.5, Acceptance of Orders, of Article 4, replace the third sentence
+     with the following:
+
+     "Notwithstanding the foregoing, TRW shall have no obligation to accept and
+     shall not be deemed to have accepted, unless signed by TRW, any Order (i)
+     for any Products not listed in Exhibit 1A hereto or revisions thereof; (ii)
+     for any quantity of Products in excess of the annual maximum quantities
+     specified in Exhibit 1B hereto or revisions thereof; or (iii) that
+     specifies a delivery date which is less than [*] weeks from the date of
+     such Order; provided, however, that Buyer may designate up to [*] lots per
+     calendar year as "Hot Lots", which will be delivered within [*] weeks of
+     the Order date, which cannot exceed [*] lots per month, and which cannot
+     exceed [*] wafers per lot. Any designated "Hot Lots" in excess of [*] lots
+     per calendar year shall be subject to TRW approval."
+
+4.   Section 10.1, Event of Default, of Article 10, replace Paragraph (b) with
+     the following:
+
+     "(b) Such party fails to perform its minimum purchase or supply obligations
+     (as the case may be hereunder) specified in Section 2.2 hereof during any
+     quarter during the term hereof, or otherwise fails to perform any other
+     material obligation required to be performed by it under any provision of
+     this Agreement within thirty (30) days after the time specified or within
+     thirty (30)days after written notice from the other party that such
+     performance has become due; provided, however, Buyer shall have no right to
+     terminate this Agreement for TRW's default so long as corrective action is
+     being diligently pursued by TRW in a manner that demonstrates that TRW's
+     obligations hereunder shall be completed in sufficient time to allow Buyer
+     to reasonably meet its end-use requirements for Products without incurring
+     additional costs or penalties (as reasonably determined by Buyer), and TRW
+     disclosed to Buyer in writing such corrective action(s)."
+
+     [*] CERTAIN INFORMATION IN THIS EXHIBIT HAS BEEN OMITTED AND FILED
+     SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED
+     WITH RESPECT TO THE OMITTED PORTIONS.
+
+                                                                               1
+
+<PAGE>
+
+5.   Article 12, Notices, revise point of contacts as follows:
+
+     If to TRW:         Velocium, TRW, Inc.
+                        2221 Park Place
+                        El Segundo, CA 90245
+                        Attention: Paul U. Klintworth
+                        Phone: 310-814-6739
+                        FAX:   310-812-7011
+
+     If to Buyer:       Endwave Corporation
+                        990 Almanor Avenue
+                        Sunnyvale, CA 94085
+                        Attention: Don Dodson
+                        Phone: 408-522-3117
+                        FAX:   408-522-3102
+
+6.   Section 14.3, Marking, of Article 14, revise listing of individuals
+     authorized to receive Proprietary Information as follows:
+
+     For Buyer:         Don Dodson, Bryson Wallace, Doug Lockie, Ed Stoneham,
+                        Simon Mok, Mark Vaughan, Cliff Mohwinkel
+
+     For  TRW:          Dwight Streit, Frank Kropschot, Al Lawrence, Stacey Bui,
+                        Maggie Sarkuni, Paul Klintworth
+
+7.   EXHIBIT 1A, LIST OF PRODUCTS, as included as part of the original Agreement
+     is deleted and replaced with the EXHIBIT 1A - REVISION 1 (copy attached)_.
+
+8.   EXHIBIT 1B, PRICE, QUANTITY COMMITMENTS, DELIVERY SCHEDULE AND BUYER'S
+     SITE, as included as part of the original Agreement is deleted and replaced
+     with the EXHIBIT 1B - REVISION 1 (copy attached).
+
+9.   Attachment B: Wafer Processing Price Matrix, as included as part of the
+     original Agreement is deleted and replaced with the Attachment B - Revision
+     1: Wafer Processing Price Matrix/Wafer Volume (copy attached).
+
+10.  Attachment C: Wafer Test Price Matrix ($/Wafer), as included as part of the
+     original Agreement is deleted and replaced with the Attachment C - Revision
+     1: Wafer Test Price Matrix ($/Wafer) (copy attached).
+
+11.  Attachment D: Wafer Purchase Commitment, as included as part of the
+     original Agreement is deleted and replaced with the Attachment D -
+     Developmental Lot Price Matrix (copy attached).
+
+     [*] CERTAIN INFORMATION IN THIS EXHIBIT HAS BEEN OMITTED AND FILED
+     SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED
+     WITH RESPECT TO THE OMITTED PORTIONS.
+
+                                                                               2
+
+<PAGE>
+
+The above changes constitute Contract Change Notice No. 1 to the Agreement.
+Except as expressly provided hereinabove all other terms and conditions of the
+Agreement shall apply herein and remain in full force and effect as previously
+agreed to between Buyer and TRW. In the event of any conflict between the terms
+of this Amendment and those of the Agreement, the terms of this Amendment will
+be deemed to have superseded those of the Agreement and exclusively will govern
+the matter in question.
+
+Endwave Corporation:                             TRW Inc.
+
+By:    /s/ Don Dodson                            /s/ Dwight Streit
+       ----------------------------              -------------------------------
+Name:  Don Dodson                                Dwight Streit
+Title: Chief Operating Officer                   President, Velocium
+
+Date:  March 15, 2002                            Date: February 21, 2001
+       ----------------------------                    -------------------------
+
+     [*] CERTAIN INFORMATION IN THIS EXHIBIT HAS BEEN OMITTED AND FILED
+     SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED
+     WITH RESPECT TO THE OMITTED PORTIONS.
+
+                                                                               3
+
+<PAGE>
+
+                             EXHIBIT 1A - REVISION 1
+
+                                LIST OF PRODUCTS
+                                ----------------
+
+1a.  3" equivalent GaAs wafers utilizing the following process technologies
+     (Application frequency refers to frequency of transmission of end product):
+
+     Technology                        Application
+     ----------                        -----------
+     pHEMT 0.15 micron                 [*]
+     pHEMT 0.10 micron                 [*]
+     HBT 4 micron                      [*]
+     HBT 2 micron                      [*]
+     HBT 1 micron                      [*]
+
+     Standard wafer processing with die thickness of .004" will be utilized.
+     Wafers will be screened via standard Process Control Monitors ("PCM"). All
+     PCM good wafers will be delivered to Buyer and Buyer will accept delivery.
+
+1b.  3" equivalent GaAs wafers noted in 1a. above except a die thickness of [*]
+     will be quoted on a case-by-case basis at the sole discretion of the
+     Seller.
+
+1c.  Developmental Products to include InP devices will be quoted on a
+     case-by-case basis at the sole discretion of the Seller.
+
+1d.  Developmental Multiproject Masks "Pizza Mask" wafers will be quoted on a
+     case-by-case basis at the sole discretion of the Seller.
+
+1e.  Nonstandard/Special Handling Wafers are defined as those that do not fully
+     comply with the standard foundry design rules (i.e. foundry design and
+     layout rules) or outside of standard processing practices and will be
+     quoted on a case-by-case basis at the sole discretion of the Seller.
+
+1f.  MMICs to be offered include those subject to Paragraph 1a of this exhibit
+     and which fall into one of the following categories:
+
+          Products Velocium, TRW Inc. offers for sale as standard parts for
+          commercial wireless telecom applications that are less than or equal
+          to [*] GHz. Higher frequencies will be quoted on a case-by-case basis.
+
+          Products which were developed and produced for the Nokia "Rats",
+          "Mice" and Nortel Module Contracts.
+
+          Endwave developed chips/wafers for production fabrication. Does not
+          include nonstandard/special-handling wafers as specified in Section
+          1e. above.
+
+     Other products will be offered on a case-by-case basis.
+
+2.   TRW Telecom Standard Products Chips. Various Standard Product Chips
+     available from the Standard Products Catalog may be purchased in small
+     quantities, i.e. quantities requiring fewer chips than one wafer lot
+     yields.
+
+3.   The SCAMP product is not covered under this Agreement. The current purchase
+     order arrangement between TRW and TRW Milliwave will be maintained for the
+     SCAMP product.
+
+     [*] CERTAIN INFORMATION IN THIS EXHIBIT HAS BEEN OMITTED AND FILED
+     SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED
+     WITH RESPECT TO THE OMITTED PORTIONS.
+
+                                                                               4
+
+<PAGE>
+
+                             EXHIBIT 1B - REVISION 1
+
+         PRICE, QUANTITY COMMITMENTS, DELIVERY SCHEDULE AND BUYER'S SITE
+         ----------------------------------------------------------------
+
+A.   PRICE:
+
+     .    Wafer processing pricing per the Attachment B: Wafer Processing Price
+          Matrix/Wafer Volume
+
+     .    Wafer test pricing per Attachment C: Wafer Test Price Matrix ($/Wafer)
+
+     .    Developmental Wafer prices per Attachment D: Developmental Lot Price
+          Matrix
+
+     .    Multi-project Masks "Pizza Masks" Wafer prices will be quoted on a
+          case-by-case basis
+
+     .    Special Handling Wafer prices will be quoted on a case-by-case basis
+
+B.   QUARTERLY PURCHASE COMMITMENTS:
+
+     On a quarterly basis, Buyer must purchase the minimum quantities specified
+     in Attachment B - Revision 1, Wafer Processing Price Matrix/Wafer Volume.
+
+C.   MAXIMUM SUPPLY COMMITMENT:
+
+     On a quarterly basis, TRW will supply the Maximum wafer quantities
+     specified in Attachment B - Revision 1, Wafer Processing Price Matrix/Wafer
+     Volume.
+
+D.   MINIMUM ORDER QUANTITY:
+
+     Minimum order quantity of [*] wafers of each maskset (chip type) per
+     purchase order. Minimum order quantities for special handling, pizza masks
+     and developmental wafer will be quoted on a case-by-case basis.
+
+E.   DELIVERY SCHEDULE:
+
+     Delivery commitment is [*] weeks from receipt of order. [*] lots per year
+     may be designated as "Hot Lots", which will be delivered in [*] weeks from
+     receipt of order.
+
+F.   NEW PRODUCT DESIGNS:
+
+     Buyer will pay the direct costs for engineering services and the cost of
+     layout design, fabricating engineering masks/"Pizza Masks", and testing per
+     the Technical Services Agreement SN1D103 between the parties.
+
+G.   LONG TERM WAFER HOLDS:
+
+     At the written direction of the Buyer, Seller will hold in process wafers
+     not to exceed [*] wafers of same part type at any given time per the
+     intermediate process step identified below:
+
+     .    Step #1 - Completion of EBL gate test
+     .    Step #2 - Completion of all Front-Side Processing
+
+     Seller will hold product at the intermediate process step specified above
+     for up to [*] months. At that time, Buyer will either authorize processing
+     to the next step or Buyer will pay cancellation
+
+     [*] CERTAIN INFORMATION IN THIS EXHIBIT HAS BEEN OMITTED AND FILED
+     SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED
+     WITH RESPECT TO THE OMITTED PORTIONS.
+
+                                                                               5
+
+<PAGE>
+
+     charge equal to the list price of the Product, as specified in Exhibit 1B,
+     multiplied by the percent to cancel the Order as follows:
+
+     .    Stop at Step #1, [*]% of Exhibit 1B price
+     .    Stop at Step #2, [*]% of Exhibit 1B price
+
+H.   SITE:
+
+     990 Almanor Avenue
+     Sunnyvale, CA 94085
+
+     Or
+
+     6425-C Capitol Avenue
+     Diamond Springs, CA 95619
+
+     [*] CERTAIN INFORMATION IN THIS EXHIBIT HAS BEEN OMITTED AND FILED
+     SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED
+     WITH RESPECT TO THE OMITTED PORTIONS.
+
+                                       6
+
+<PAGE>
+
+Attachment B - Revision 1:  Wafer Processing Price Matrix/Wafer Volume
+
+3 Inch Wafer Processing Pricing Table
+-------------------------------------
+
+<TABLE>
+<CAPTION>
+---------------------------------------------------------------------------------------------------------------
+            Technology          CY02 Base Price per Wafer      CY03 Base Price per Wafer       Discount
+---------------------------------------------------------------------------------------------------------------
+<S>                             <C>                            <C>                            <C>
+[*]                                        [*]                            [*]                     [*]
+---------------------------------------------------------------------------------------------------------------
+[*]                                        [*]                            [*]                     [*]
+---------------------------------------------------------------------------------------------------------------
+[*]                                        [*]                            [*]                     [*]
+---------------------------------------------------------------------------------------------------------------
+[*]                                        [*]                            [*]                     [*]
+---------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+3 Inch Wafer Processing Pricing Discount Table
+----------------------------------------------
+
+---------------------------------------------------------------
+        Quarterly Quantity              Discount per Wafer
+---------------------------------------------------------------
+[*]                                            [*]
+---------------------------------------------------------------
+[*]                                            [*]
+---------------------------------------------------------------
+[*]                                            [*]
+---------------------------------------------------------------
+[*]                                            [*]
+---------------------------------------------------------------
+
+Quarterly Purchase Commitments: The minimum quarterly wafer quantity for CY2002
+------------------------------
+and CY2003 is [*] per quarter.
+
+Maximum Supply Commitment: The maximum quarterly wafer quantity for CY2002 and
+-------------------------
+CY2003 is [*] wafers per quarter.
+
+Hot Lot Pricing: A [*] "Hot Lot" premium charge will be added to the appropriate
+---------------
+base price from the table above.
+
+Notes:
+-----
+
+The 3 Inch Wafer Processing Pricing Table determines the base
+price/wafer/technology for calendar years CY2002 and CY2003. Wafer pricing and
+quarterly volumes beyond CY2003 will be negotiated at a later date. A wafer
+price discount is offered for committed deliveries within a given quarter. A
+"Quarterly Quantity" is defined as the total number of wafers, technology
+independent, which have committed deliveries falling within a given quarter.
+
+     [*] CERTAIN INFORMATION IN THIS EXHIBIT HAS BEEN OMITTED AND FILED
+     SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED
+     WITH RESPECT TO THE OMITTED PORTIONS.
+
+                                                                               7
+
+<PAGE>
+
+Attachment C - Revision 1: Wafer Test Price Matrix ($/Wafer)
+
+------------------------------------------------------------
+    Test Metric             CY2002              CY2003
+------------------------------------------------------------
+        [*]                   [*]                [*]
+------------------------------------------------------------
+        [*]                   [*]                [*]
+------------------------------------------------------------
+        [*]                   [*]                [*]
+------------------------------------------------------------
+        [*]                   [*]                [*]
+------------------------------------------------------------
+        [*]                   [*]                [*]
+------------------------------------------------------------
+        [*]                   [*]                [*]
+------------------------------------------------------------
+
+The Test Metric is calculated as follows: Number of Sites per Wafer x Number of
+Test Passes
+
+This table is for production testing only. Design maskset and diagnostic testing
+are covered under the Technical Services Agreement SN 1D103.
+
+     [*] CERTAIN INFORMATION IN THIS EXHIBIT HAS BEEN OMITTED AND FILED
+     SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED
+     WITH RESPECT TO THE OMITTED PORTIONS.
+
+                                                                               8
+
+<PAGE>
+
+Attachment D:  Developmental Lot Price Matrix
+
+<TABLE>
+<CAPTION>
+----------------------------------------------------------------------------------------------------------
+              Technology                 CY02 Base Price per Lot           CY03 Base Price per Lot
+----------------------------------------------------------------------------------------------------------
+<S>                                      <C>                               <C>
+[*]                                                [*]                               [*]
+----------------------------------------------------------------------------------------------------------
+[*]                                                [*]                               [*]
+----------------------------------------------------------------------------------------------------------
+[*]                                                [*]                               [*]
+----------------------------------------------------------------------------------------------------------
+[*]                                                [*]                               [*]
+----------------------------------------------------------------------------------------------------------
+[*]                                                [*]                               [*]
+----------------------------------------------------------------------------------------------------------
+</TABLE>
+
+Deliverable: Minimum of [*] completely processed and tested wafers that pass PCM
+specifications.
+
+     [*] CERTAIN INFORMATION IN THIS EXHIBIT HAS BEEN OMITTED AND FILED
+     SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED
+     WITH RESPECT TO THE OMITTED PORTIONS.
+
+                                                                               9
+
+</TEXT>
+</DOCUMENT>

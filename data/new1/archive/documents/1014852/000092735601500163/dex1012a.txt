@@ -1,0 +1,91 @@
+<DOCUMENT>
+<TYPE>EX-10.12(A)
+<SEQUENCE>3
+<FILENAME>dex1012a.txt
+<DESCRIPTION>AMENDMENT #1 BETWEEN EARTHWATCH AND DELTA
+<TEXT>
+
+<PAGE>
+
+                                                      CONFIDENTIAL TREATMENT
+
+                                                               Exhibit 10.12(a)
+
+                               LSA DLS-01-1305C
+                                  Amendment 1
+
+Effective 15 March 2001, Delta Launch Services Inc. (DLS) and EarthWatch
+Incorporated a corporation organized under the laws of Delaware, hereby amend
+Agreement DLS-01-1305C, entered into as of 2 February 2001, in the following
+particulars:
+
+I.   In Article 13 "Termination", Tables 13-1 and 13-2 "Termination for Buyer's
+     Convenience-Liquidated Damages", the Incremental and Cumulative Liquidated
+     Damages Due percentages apply only if the conversion to post launch
+     financing takes place at L-2. In the event that post launch financing takes
+     place at L-1 the termination schedules shown in Table 13-3 and 13-4 added
+     with amendment shall apply.
+
+
+                                  Table 13-3
+           Termination for Buyer's Convenience - Liquidated Damages
+           --------------------------------------------------------
+     Liquidated Damages expressed as a percentage of Launch Service Price
+
+
+Effective Date           Incremental Liquidated           Cumulative Liquidated
+of Termination                Damages Due %                   Damages Due %
+--------------           ----------------------           ---------------------
+
+
+                                       *
+
+
+                                  Table 13-4
+           Termination for Buyer's Convenience - Liquidated Damages
+           --------------------------------------------------------
+     Liquidated Damages expressed as a percentage of Launch Service Price
+
+
+Effective Date           Incremental Liquidated           Cumulative Liquidated
+of Termination                Damages Due %                   Damages Due %
+--------------           ----------------------           ---------------------
+
+                                       *
+
+
+II.  In Article 10 "Allocation of Risks and Liabilities", Paragraph A. "Third
+     Party Liability", revise the first sentence as follows: "Consistent with
+     Chapter 701, Title 49 of U.S. Code, Commercial Space Launch Activities, 49
+     U.S.C. App. (S)(S) 70101-70119, and its regulations, Seller shall
+     indemnify, defend and hold harmless Buyer, its officers, employees, agents,
+     contractors, subcontractors and suppliers and their respective governments,
+     at every tier and Buyer's financiers against liability for damage to the
+     property of Third Parties (including the U.S. Government) or bodily injury
+     to any persons, including death, proximately caused by the Launch of the
+     Spacecraft hereunder, except for such liability, damage or injury caused by
+     Buyer's willful misconduct and/or negligence."
+
+Except as amended hereby, all other terms and conditions of the Agreement No.
+DLS-01-1305C shall remain unchanged.
+
+
+In witness hereof, this Amendment No. 1 has been executed by the parties:
+
+
+Delta Launch Services Inc.,             EarthWatch Incorporated
+---------------------------             -----------------------
+
+By:     /s/ Renee L. Hunter             By:     /s/Shawn Thompson
+      -------------------------               -----------------------
+Name:   Renee L. Hunter                 Name:   Shawn Thompson
+Title:  Director, DLS Contracts         Title:  Director of Contracts
+
+Date:   March 22, 2001                  Date:   March 22, 2001
+      -------------------------               -----------------------
+
+           *Confidential treatment requested. The omitted material
+                has been filed separately with the Commission.
+
+</TEXT>
+</DOCUMENT>

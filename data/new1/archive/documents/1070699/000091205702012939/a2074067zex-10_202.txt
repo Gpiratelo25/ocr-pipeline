@@ -1,0 +1,541 @@
+<DOCUMENT>
+<TYPE>EX-10.20-2
+<SEQUENCE>8
+<FILENAME>a2074067zex-10_202.txt
+<DESCRIPTION>EXHIBIT 10.20.2
+<TEXT>
+<Page>
+
+[MCI WORLDCOM LOGO]
+
+                                                                 Exhibit 10.20.2
+              SECOND AMENDMENT TO CARRIER GLOBAL SERVICES AGREEMENT
+
+This is the Second Amendment to the Carrier Global Services Agreement (this
+"Amendment") by and between MCI WORLDCOM COMMUNICATIONS, INC., on behalf of
+itself and its U.S.-Based affiliates and their respective successors (together,
+"MCI WorldCom") and UNIVERSAL ACCESS, INC. ("Customer"), and amends that certain
+Carrier Global Services Agreement which was signed by Customer on September 24,
+1999 and signed by MCI WorldCom on December 14. 1999 (the "CGSA" or "Original
+Agreement") and amended by that certain First Amendment to the Carrier Global
+Services Agreement which was signed by Customer on May 1, 2000 and signed by MCI
+WorldCom on May 8, 2000 (the "First Amendment"). Unless otherwise defined
+herein, capitalized terms used in this Amendment will have the same meanings as
+set forth in the Original Agreement. Except as otherwise expressly modified or
+amended herein, all terms and conditions contained in the Original Agreement
+will remain in full force and effect and will not be altered or changed by this
+Amendment. The Original Agreement including this Amendment will be referred to
+as the "Agreement." This Amendment is binding when executed by Customer and
+subsequently signed by MCI WorldCom and once signed by MCI WorldCom the rates,
+charges, and discounts set forth herein will be effective on MCI WorldCom's
+signature date (the "Second Amendment Effective Date").
+
+1.   AMENDMENT. The parties hereby agree that the Original Agreement is amended
+     as follows;
+
+     (a)  By deleting Section 3.1 of Schedule One of the Original Agreement in
+          its entirety and replacing it as follows:
+
+          3.1  MINIMUM VOLUME REQUIREMENT. During each Monthly Period of the
+               Term following the expiration of the Ramp Period, Customer's
+               Total Usage Charges under this Agreement must equal or exceed One
+               Million Dollars ($1,000,000) (the "Monthly Minimum"). In the
+               event Customer fails to meet the Monthly Minimum in any Monthly
+               Period after the expiration of the Ramp Period, and Customer has
+               ordered circuits which have not been installed within the
+               installation interval (as defined below) and where Customer
+               provided complete and accurate information to complete such
+               order, and such delay was not caused by Customer, MCI Worldcom
+               will waive any underutilization charges directly attributable to
+               such uninstalled circuits until such circuits have been
+               installed.
+
+     (b)  By adding a new Section 3.3 to Schedule One as follows:
+
+          3.3  ASSIGNED CIRCUITS. Beginning upon the expiration of the Ramp
+               Period, the Usage Charges for the account numbers assigned to
+               Customer from Allied Riser Communications Corporation in the
+               Assignment Agreement approved by WorldCom on August 18, 2000
+               shall contribute to Customer's Monthly Minimum. Beginning upon
+               the Second Amendment Effective Date, the circuits under the
+               assigned account numbers will receive the rates and charges
+               contained in this Agreement during the remainder of the Term.
+
+     (c)  By deleting  Section 1.1 of Attachment 3-1 to Schedule Three of the
+          Origin Agreement in its entirety and replacing it as follows:
+
+          1.1  DOMESTIC PRIVATE LINE SERVICE (OPTION 1). For domestic Private
+               Line Service, Customer will pay the following mileage-based
+               monthly recurring charge ("MRC") for DS-1, DS-3, OC-3, OC-12, and
+               OC-48 circuits. "Premium" rates shall apply to the Premium Cities
+               identified in Exhibit 1 to attachment 3-1 to Schedule Three of
+               the Original Agreement ("Exhibit 1"); "Non-Premium" rates shall
+               apply to any city not identified in Exhibit 1. If the Voice Grade
+               Equivalent (VGE) mileage rate for any circuit is less than the
+               MRC set forth below, Customer will pay the minimum MRC in lieu of
+               the VGE mileage rate:
+
+                        -- MCI WORLDCOM CONFIDENTIAL --
+PALOALTO:10915.3
+
+<Page>
+
+<Table>
+<Caption>
+      CIRCUIT TYPE          VGE MILEAGE LINEAR RATE   VGE MILEAGE RESTORABLE RATE   MINIMUM MRC
+      ------------          -----------------------   ---------------------------   -----------
+
+      <S>                   <C>                       <C>                           <C>
+      DS-1                  $[***]                    N/A                           N/A
+      DS-3 (Premium)        $[***]
+      DS-3 (Non-Premium)    $[***]                    $[***]                        $[***]
+      OC-3 (Premium)        $[***]                    $[***]                        $[***]
+      OC-3 (Non-Premium)    $[***]                    $[***]                        $[***]
+      OC-12 (Premium)       $[***]                    $[***]                        $[***]
+      OC-12 (Non-Premium)   $[***]                    $[***]                        $[***]
+      OC-48 (Premium)       $[***]                    N/A                           $[***]
+      OC-48 (Non-Premium)   $[***]                    N/A                           $[***]
+</Table>
+
+     (d)  By deleting Section 1.2 of Attachment 3-1 to Schedule Three of the
+          Original Agreement in its entirety and replacing it as follows:
+
+          1.2  METRO PRIVATE LINE SERVICE (TYPE 1).
+
+               1.2.1   Customer will pay the monthly recurring charges for DS-1,
+                       DS-3, OC-3, OC-12, and OC-48 circuits as set forth below
+                       for On-Net Metro Private Line Service based upon the
+                       incumbent local exchange carrier (ILEC) region.*
+                       Dedicated access charges are included in the monthly
+                       recurring charges:
+
+<Table>
+<Caption>
+                       -------------------------------------------------------------------------------
+                       CIRCUIT TYPE            AMERITECH     BELL ATLANTIC   BELL SOUTH     NYNEX-NY
+                       -------------------------------------------------------------------------------
+                       <S>                     <C>           <C>             <C>            <C>
+                                 DS-1
+
+                       0 Mile                  $[***]        $[***]          $[***]         $[***]
+                       1 Mile                  $[***]        $[***]          $[***]         $[***]
+                       Each Add'l Mile         $[***]        $[***]          $[***]         $[***]
+                       -------------------------------------------------------------------------------
+                                 DS-3
+
+                       0 Mile                  $[***]        $[***]          $[***]         $[***]
+                       Each Add'l Mile         $[***]        $[***]          $[***]         $[***]
+                       -------------------------------------------------------------------------------
+                            DS-3 END LINKS
+
+                       0 Mile                  $[***]        $[***]          $[***]         $[***]
+                       Each Add'l Mile         $[***]        $[***]          $[***]         $[***]
+                       -------------------------------------------------------------------------------
+                                 OC-3
+
+                       0 Mile                  $[***]        $[***]          $[***]         $[***]
+                       1 Mile                  $[***]        $[***]          $[***]         $[***]
+                       Each Add'l Mile         $[***]        $[***]          $[***]         $[***]
+                       -------------------------------------------------------------------------------
+                                 OC-12
+
+                       0 Mile                  $[***]        $[***]          $[***]         $[***]
+                       1 Mile                  $[***]        $[***]          $[***]         $[***]
+                       Each Add'l Mile         $[***]        $[***]          $[***]         $[***]
+                       -------------------------------------------------------------------------------
+                                 OC-48
+
+                       0 Mile                  $[***]        $[***]          $[***]         $[***]
+                       1 Mile                  $[***]        $[***]          $[***]         $[***]
+
+</Table>
+
+***  Certain information on this page has been omitted and filed separately with
+     the Commission. Confidential treatment has been requested with respect to
+     the omitted portions.
+
+                        -- MCI WORLDCOM CONFIDENTIAL --
+
+PALOALTO:10915.3                       2
+<Page>
+
+<Table>
+<Caption>
+                       ---------------------------------------------------------------------------------------
+                       CIRCUIT TYPE              AMERITECH        BELL ATLANTIC   BELL SOUTH       NYNEX-NY
+                       ---------------------------------------------------------------------------------------
+                       <S>                       <C>              <C>             <C>              <C>
+                       ---------------------------------------------------------------------------------------
+                       Each Add'l Mile           $[***]           $[***]          $[***]           $[***]
+                       ---------------------------------------------------------------------------------------
+                            OC-3 END LINKS
+
+                       0 Mile                    $[***]           $[***]          $[***]           $[***]
+                       1 Mile                    $[***]           $[***]          $[***]           $[***]
+                       Each Add'1 Mi1e           $[***]           $[***]          $[***]           $[***]
+                       ---------------------------------------------------------------------------------------
+                            OC-12 END LINKS
+
+                       0 Mile                    $[***]           $[***]          $[***]           $[***]
+                       1 Mile                    $[***]           $[***]          $[***]           $[***]
+                       Each Add'l Mile           $[***]           $[***]          $[***]           $[***]
+                       ---------------------------------------------------------------------------------------
+                                 HUBS
+
+                       OC-3                      $[***]           $[***]          $[***]           $[***]
+                       OC-12                     $[***]           $[***]          $[***]           $[***]
+                       OC-48                     $[***]           $[***]          $[***]           $[***]
+                       ---------------------------------------------------------------------------------------
+
+<Caption>
+                       ---------------------------------------------------------------------------------------
+                       CIRCUIT TYPE       NYNEX          PACIFIC BELL  SNET           SW BELL        US WEST
+                       ---------------------------------------------------------------------------------------
+                             DS-1
+                       <S>                <C>            <C>           <C>            <C>            <C>
+                       0 Mile             $[***]         $[***]        $[***]         $[***]         $[***]
+                       1 Mile             $[***]         $[***]        $[***]         $[***]         $[***]
+                       Each Add'l Mile    $[***]         $[***]        $[***]         $[***]         $[***]
+                       ---------------------------------------------------------------------------------------
+                             DS-3
+
+                       0 Mile             $[***]         $[***]        $[***]         $[***]         $[***]
+                       Each Add'l Mile    $[***]         $[***]        $[***]         $[***]         $[***]
+                       ---------------------------------------------------------------------------------------
+                       ------------------ -------------- ------------- -------------- -------------- ---------
+                        DS-3 END LINKS
+
+                       0 Mile             $[***]         $[***]        $[***]         $[***]         $[***]
+                       Each Add'l Mile    $[***]         $[***]        $[***]         $[***]         $[***]
+                       ---------------------------------------------------------------------------------------
+                             OC-3
+
+                       0 Mile             $[***]         $[***]        $[***]         $[***]         $[***]
+                       1 Mile             $[***]         $[***]        $[***]         $[***]         $[***]
+                       Each Add'l Mile    $[***]         $[***]        $[***]         $[***]         $[***]
+                       ---------------------------------------------------------------------------------------
+                             OC-12
+
+                       0 Mile             $[***]         $[***]        $[***]         $[***]         $[***]
+                       1 Mile             $[***]         $[***]        $[***]         $[***]         $[***]
+                       Each Add'l Mile    $[***]         $[***]        $[***]         $[***]         $[***]
+                       ---------------------------------------------------------------------------------------
+                             OC-48
+
+                       0 Mile             $[***]         $[***]        $[***]         $[***]         $[***]
+                       1 Mile             $[***]         $[***]        $[***]         $[***]         $[***]
+                       Each Add'l Mile    $[***]         $[***]        $[***]         $[***]         $[***]
+                       ---------------------------------------------------------------------------------------
+</Table>
+
+***  Certain information on this page has been omitted and filed separately with
+     the Commission. Confidential treatment has been requested with respect to
+     the omitted portions.
+
+                        -- MCI WORLDCOM CONFIDENTIAL --
+
+PALOALTO:10915.3                       3
+<Page>
+
+<Table>
+<Caption>
+                       ---------------------------------------------------------------------------------------
+                       CIRCUIT TYPE       NYNEX          PACIFIC BELL  SNET           SW BELL        US WEST
+                       ---------------------------------------------------------------------------------------
+                       <S>                <C>            <C>           <C>            <C>            <C>
+                        OC-3 END LINKS
+
+                       0 Mile             $[***]         $[***]        $[***]         $[***]         $[***]
+                       1 Mile             $[***]         $[***]        $[***]         $[***]         $[***]
+                       Each Add'l Mile    $[***]         $[***]        $[***]         $[***]         $[***]
+                       ---------------------------------------------------------------------------------------
+                        OC-12 END LINKS
+
+                       0 Mile             $[***]         $[***]        $[***]         $[***]         $[***]
+                       1 Mile             $[***]         $[***]        $[***]         $[***]         $[***]
+                       Each Add'l Mile    $[***]         $[***]        $[***]         $[***]         $[***]
+                       ---------------------------------------------------------------------------------------
+                             HUBS
+
+                       OC-3               $[***]         $[***]        $[***]         $[***]         $[***]
+                       OC-12              $[***]         $[***]        $[***]         $[***]         $[***]
+                       OC-48              $[***]         $[***]        $[***]         $[***]         $[***]
+                       ---------------------------------------------------------------------------------------
+</Table>
+
+                       *References to ILEC regions mean the states within such
+                       region as determined prior to any mergers of ILECs (i.e.,
+                       the 1LEC regions prior to 1998). Any merger after 1998 or
+                       any merger subsequent to the Effective Date of this
+                       Agreement shall have no effect on the designation of ILEC
+                       regions for pricing purposes as set forth above.
+
+     (e)  By adding a new Section 1.4 to Attachment 3-1 of Schedule Three as
+          follows:
+
+          1.4  APPEARANCE FEES. In addition to the rates set forth above and
+               subject to the Tariff, Customer will be charged the following
+               monthly recurring Interface charges for Metro Private Line Point
+               to Point and Multipoint Sonet circuits:
+
+<Table>
+<Caption>
+          CIRCUIT TYPE                  MONTHLY RECURRING CHARGE PER INTERFACE
+          ------------                  --------------------------------------
+          <S>                           <C>
+          DS-l                          $[***]
+          DS-3                          $[***]
+          OC-3                          $[***]
+          OC-12                         $[***]
+</Table>
+
+     (f)  By adding a new Section 4 to Attachment 3-1 of Schedule Three as
+          follows:
+
+          4.   INSTALLATION INTERVALS. The following installation intervals are
+               provided for purposes of Section 3.1 of Schedule One and for this
+               section only and do not apply to any other sections of this
+               Agreement. Installation intervals begin upon the receipt of a
+               complete and accurate installation order:
+
+               4.1     Metro Private Line Service.
+
+<Table>
+<Caption>
+               ---------------------------------------------------------------------------------------------------------
+               SERVICE TYPE*          TYPE 1               TYPE 2              TYPE 3               TYPE 4
+               ---------------------------------------------------------------------------------------------------------
+               <S>                    <C>                  <C>                 <C>                  <C>
+               DS0                    [***] Business Days  [***] Business      [***] Business Days  [***] Business Days
+                                                                 Days
+               ---------------------------------------------------------------------------------------------------------
+               DS1                    [***] Business Days  [***] Business      [***] Business Days  [***] Business Days
+                                                                 Days
+               ---------------------------------------------------------------------------------------------------------
+               DS3                    [***] Business Days  [***] Business      [***] Business Days  [***] Business Days
+                                                                 Days
+               ---------------------------------------------------------------------------------------------------------
+               SONET                  [***] Business Days  [***] Business      [***] Business Days  [***] Business Days
+                                                                 Days
+               ---------------------------------------------------------------------------------------------------------
+</Table>
+
+               *Hubbed and Mixed Services may require additional time; Customer
+               will be apprised of delivery date after receipt of complete and
+               accurate order.
+
+***  Certain information on this page has been omitted and filed separately with
+     the Commission. Confidential treatment has been requested with respect to
+     the omitted portions.
+
+                        -- MCI WORLDCOM CONFIDENTIAL --
+
+PALOALTO:10915.3                       4
+<Page>
+
+               4.2     Private Line Service.
+
+<Table>
+<Caption>
+               ------------------------------------------------------------------------
+               PRODUCT                                          INSTALLATION INTERVAL
+               ------------------------------------------------------------------------
+               <S>                                              <C>
+               Voice Grade Private Line Service                 [***] Business Days
+               ------------------------------------------------ -----------------------
+               DS0 Private Line Service                         [***] Business Days
+               ------------------------------------------------------------------------
+               DS1 Private Line Service                         [***] Business Days
+               ------------------------------------------------------------------------
+               Fractional DS1 Private Line Service              [***] Business Days
+               ------------------------------------------------------------------------
+               DS3 Private Line Service                         [***] Business Days
+               ------------------------------------------------------------------------
+               SONET Private Line Service (Option 2 only)       [***] Business Days
+               ------------------------------------------------------------------------
+</Table>
+
+               4.3     If MCI WorldCom does not meet the Installation intervals
+                       set forth above or that are established for ICB circuits
+                       by more than (10) days, MCI WorldCom will waive any
+                       cancellation penalties if Customer decides to cancel a
+                       particular order.
+
+2.   COMPLETE AGREEMENT. The Agreement is the complete agreement of the parties
+     and supersedes all other prior agreements and representations concerning
+     its subject matter.
+
+3.   SIGNATURE AUTHORIZATION. The parties have duly executed and agreed to be
+     bound by this Amendment evidenced by the signatures of their authorized
+     representatives below. Each party represents and warrants to the other that
+     the signatory identified beneath its name below has full authority to
+     execute this Amendment on its behalf.
+
+***  Certain information on this page has been omitted and filed separately with
+     the Commission. Confidential treatment has been requested with respect to
+     the omitted portions.
+
+                        -- MCI WORLDCOM CONFIDENTIAL --
+
+PALOALTO:10915.3                       5
+<Page>
+
+Once this Amendment has been fully executed, any further amendments to this
+Agreement must be in writing and signed by both parties. Customer must sign and
+return this Amendment to MCI WorldCom no later than SEPTEMBER 14, 2000, and
+failure to do so may result in the non-acceptance of this Amendment by MCI
+WorldCom.
+
+ACCEPTED AND AGREED:
+
+MCI WORLDCOM COMMUNICATIONS, INC.           UNIVERSAL ACCESS, INC.
+
+By     :  /s/ Frank Grillo/BW               By       :  /s/ Catherine M. Mason
+        -------------------------------              ---------------------------
+
+Name   : Frank Grillo                       Name     : Catherine M. Mason
+        -------------------------------              ---------------------------
+
+Title  : Vice President, Marketing          Title    : Sr. Vice President
+        -------------------------------              ---------------------------
+
+Date   :      9-11-00                       Date     :       9/7/00
+
+                        -- MCI WORLDCOM CONFIDENTIAL --
+
+PALOALTO:10915.3                       6
+<Page>
+
+                                                         EXHIBIT 1
+                                                    PREMIUM CITIES LIST
+
+<Table>
+<Caption>
+       CITY                                STATE    PRICING POP           ILEC C.O.              LATA       NPA-NXX
+                                                    CLLI CODE             CLLI CODE
+    -----------------------------------------------------------------------------------------------------------------
+   <S>                                      <C>     <C>                   <C>                    <C>        <C>
+    1  ADDISON                              TX      ADDNTX                DLLSTXAD               552        214-308
+    2  AKRON                                OH      AKRNOH                AKRNOH25               325        330-535
+    3  ALBANY                               NY      ALBYNY                ALBYNYSS               134        518-449
+    4  ANN ARBOR                            MI      ANARMI                ANARMIMN               340        313-662
+    5  ATLANTA                              GA      ATBUGA                ATLNGABU               438        404-231
+    6  ATLANTA                              GA      ATLNGA                ATLNGACS               438        404-659
+    7  AUSTIN                               TX      AUSTTX                AUSTTXGR               558        512-474
+    8  AUSTIN                               TX      AUTETX                AUSTTXTE               558        512-211
+    9  BAKERSFIELD                          CA      BKFDCA                BKFDCA12               734        805-327
+   10  BALTIMORE                            MD      BLTMMD                BLMTMDDT               238        410-844
+   11  BOSTON                               MA      BSTNMA                BSTNMABE               128        617-267
+   12  BUFFALO                              NY      BFLONY                BFLONYFR               140        716-847
+   13  BURBANK                              CA      BRBNCA                BRBNCA11               730        213-849
+   14  CHARLOTTE                            NC      CHRLNC                CHRLNCCA               422        704-377
+   15  CHICAGO                              IL      CHBLIL                CHCGILBL               358        312-288
+   16  CHICAGO                              IL      CHCGIL                CHCGILWB               358        312-294
+   17  CHICAGO                              IL      CHLRIL                CHCGILLR               358        312-228
+   18  CHICAGO                              IL      CHLWIL                CHCGILLW               358        773-935
+   19  CINCINNATI                           OH      CNCNOH                CNCNOHWS               922        513-721
+   20  CLEVELAND                            OH      CLEVOH                CLEVOH62               320        216-579
+   21  COLUMBUS                             OH      CLMBOH                CLMBOH11               324        614-222
+   22  COMPTON                              CA      CMTNCA                CMTNCA01               730        310-509
+   23  DALLAS                               TX      DLLSTX                DLLSTXRI               552        214-748
+   24  DALLAS (ROSS)                        TX      DLROTX                DLLSTXRO               552        214-220
+   25  DAYTON                               OH      DYTNOH                DYTNOH22               328        513-223
+   26  DENVER                               CO      DNVRCO                DNVRCOMA               656        303-534
+   27  DETROIT                              MI      DTRTMI                DTRTMIBL               340        313-962
+   28  DOUGLASVILLE                         GA      DGVLGA                DVGLGAMA               438        404-920
+   29  EL PASO                              TX      ELPSTX                ELPSTXMA               540        915-533
+   30  FT LAUDERDALE                        FL      FTLDFL                FTLDFLOA               460        954-486
+   31  FT LAUDERDALE                        FL      FTMRFL                FTLDFLMR               460        305-356
+   32  FT WORTH                             TX      FTWOTX                FTWOTXED               552        817-332
+   33  GARDEN CITY                          NY      GRCYNY                GRCYNYGC               132        516-522
+   34  GREENSBORO                           NC      GNBONC                GNBONCEU               424        910-378
+   35  HACKENSACK                           NJ      HCKNNJ                HCKNNJHK               224        201-342
+   36  HARTFORD                             CT      HRFRCT                HRFRCT03               920        203-725
+   37  HOUSTON                              TX      HSTNTX                HSTNTXCL               560        713-652
+   38  INDIANAPOLIS                         IN      IPLSIN                IPLSIN01               336        317-634
+   39  JACKSONVILLE                         FL      JCVLFL                JCVLFLCL               452        904-355
+   40  KANSAS CITY                          MO      KS22MO                KSCYMO22               524        816-252
+   41  KANSAS CITY                          MO      KSCYMO                KSCYMO55               524        816-283
+   42  KNOXVILLE                            TN      KNVLTN                KNVLTNMA               474        615-524
+   43  KNOXVILLE                            TN      KNWHTN                KNVLTNWH               474        423-417
+   44  LAS VEGAS                            NV      LSVGNV                LSVGNVXB               721        702-388
+   45  LITTLETON                            CO      LTTNCO                DNVRCODC               656        303-220
+   46  LOS ANGELES                          CA      LS10CA                LSANCA10               730        323-525
+   47  LOS ANGELES                          CA      LSANCA                LSANCA01               730        213-554
+   48  MCLEAN                               VA      MCLNVA                MCLNVALV               236        703-712
+   49  MIAMI                                FL      MIAMFL                MIAMFLME               460        305-324
+</Table>
+
+                        -- MCI WORLDCOM CONFIDENTIAL --
+
+PALOALTO:10915.3                       7
+<Page>
+
+                                                         EXHIBIT 1
+                                                    PREMIUM CITIES LIST
+
+<Table>
+<Caption>
+       CITY                                STATE    PRICING POP           ILEC C.O.              LATA       NPA-NXX
+                                                    CLLI CODE             CLLI CODE
+   ------------------------------------------------------------------------------------------------------------------
+   <S>                                      <C>     <C>                   <C>                    <C>        <C>
+   50  MILWAUKEE                            WI      MILWWI                MILWWI13               356        414-273
+   51  MINNEAPOLIS                          MN      MPLSMN                MPLSMNDT               628        612-332
+   52  NASHVILLE                            TN      NSVLTN                NSVLTNMT               470        615-256
+   53  NEW ORLEANS                          LA      NWORLA                MWORLAMA               490        504-528
+   54  NEW YORK CITY                        NY      NY56NY                NYCMNY56               132        212-207
+   55  NEW YORK CITY                        NY      NYCMNY                NYCMNYWS               132        212-406
+   56  NEWARK                               NJ      NWRKNJ                NWRKNJ02               224        201-623
+   57  OLIVETTE                             MO      ST21MO                STLSMO21               520        314-216
+   58  ORLANDO                              FL      ORLDFL                ORLDFLMA               458        407-849
+   59  PHILADELPHIA                         PA      PHEVPA                PHLAPAEV               228        215-222
+   60  PHILADELPHIA                         PA      PHLAPA                PHLAPALO               228        215-561
+   61  PHILADELPHIA                         PA      PHMKPA                PHLAPAMK               228        215-213
+   62  PHOENIX                              AZ      PHMAAZ                PHNXAZMA               666        602-201
+   63  PHOENIX                              AZ      PHNXAZ                PHNXAZNO               666        602-266
+   64  PITTSBURGH                           PA      PITBPA                PITBPADT               234        412-261
+   65  PLANO, TX                            TX      PLANTX                PLANTXXA               552        972-422
+   66  PORTLAND                             OR      PTLDOR                PTLDOR69               672        503-228
+   67  RALEIGH                              NC      RLGHNC                RLGHNCHO               426        919-450
+   68  RICHARDSON                           TX      RICHTX                DLLSTXRN               552        214-231
+   69  RICHMOND                             VA      RCMDVA                RCMDVAHL               248        804-233
+   70  RICHMOND                             VA      RCSRVA                RCMDVASR               248        804-204
+   71  ROCHESTER                            NY      ROCHNY                ROCHNYXA               974        716-261
+   72  SACRAMENTO                           CA      SCRMCA                SCRMCA01               726        916-444
+   73  SALINAS                              CA      SLNSCA                SLNSCA01               736        408-424
+   74  SALT LAKE CITY                       UT      SLKCUT                SLKCUTMA               660        801-596
+   75  SALT LAKE CITY                       UT      SLWEUT                SLKCUTWE               660        801-817
+   76  SAN ANTONIO                          TX      SNANTX                SNANTXCA               566        220-225
+   77  SAN DIEGO                            CA      SN16CA                SNDGCA16               732        619-271
+   78  SAN DIEGO                            CA      SNDGCA                SNDGCA02               732        619-293
+   79  SAN FRANCISCO                        CA      SNFCCA.               SNFCCA21               722        415-243
+   80  SAN JOSE                             CA      SNJSCA                SNJSCA02               722        408-271
+   81  SANTA ANA                            CA      SNANCA                SNANCA11               730        714-241
+   82  SANTA BARBARA                        CA      SNBBCA                SNBBCAXF               740        805-965
+   83  SANTA CLARA                          CA      SN11CA                SNTCCA11               722        408-236
+   84  SANTA CLARA                          CA      SNTCDCA               SNTCCA01               722        408-970
+   85  SEATTLE                              WA      STCAWA                STTLWACA               674        206-543
+   86  SEATTLE                              WA      STTLWA                STTLWA06               674        206-621
+   87  SHERMAN OAKS                         CA      SHOKCA                SHOKCA04               730        818-906
+   88  SOUTHFIELD                           MI      SFLDMI                SFLDMIMN               340        313-233
+   89  ST LOUIS                             MO      STLSMO                STLSMO01               520        314-421
+   90  STOCKTON                             CA      SKTNCA                SKTNCA01               738        209-464
+   91  SYRACUSE                             NY      SYRCNY                SYRCNYSU               136        315-471
+   92  TAMPA                                FL      TAMPFL                TAMPFLXX               952        813-202
+   93  TRENTON                              NJ      TRENNJ                TRENNJTE               222        609-278
+   94  TUCSON                               AZ      TCEAAZ                TCSNAZEA               668        520-318
+   95  TUCSON                               AZ      TCSNAZ                TCSNAZMA               668        602-617
+   96  WASHINGTON                           DC      WAMTDC                WASHDCMT               236        202-223
+   97  WASHINGTON                           DC      WASWDC                WASHDCSW               236        202-205
+   98  WASHINGTON                           DC      WASHDC                WASHDCDN               236        202-272
+   99  WEST PALM BEACH                      FL      WPBHFL                WPBHFLAN               460        407-833
+  100  WESTHEIMER                           TX      WTHMTX                HSTNTXNA               560        281-220
+</Table>
+
+                        -- MCI WORLDCOM CONFIDENTIAL --
+
+PALOALTO:10915.3                       8
+
+</TEXT>
+</DOCUMENT>

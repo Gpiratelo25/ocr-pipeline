@@ -1,0 +1,2599 @@
+<DOCUMENT>
+<TYPE>EX-10.40
+<SEQUENCE>9
+<FILENAME>0009.txt
+<DESCRIPTION>AMENDED AND RESTATED RESEARCH AND COMMERCIALIZATION
+<TEXT>
+
+<PAGE>
+
+                                                                   Exhibit 10.40
+
+  Confidential materials omitted and filed separately with the Securities and
+                Exchange Commission. Asterisks denote omissions.
+
+
+                                   AMENDED AND RESTATED
+
+                         RESEARCH AND COMMERCIALIZATION AGREEMENT
+
+                                      by and between
+
+                                      Ontogeny, Inc.
+
+                                           and
+
+                                       Biogen, Inc.
+
+                                    November 30, 1998
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+                                                                           Page
+                                                                           ----
+
+Introduction
+
+Article 1.  Definitions......................................................2
+
+Article 2.  The Collaboration...............................................10
+
+      2.1   Research Phase..................................................10
+
+      2.2   Commercialization Phase.........................................12
+
+      2.3   Accounting and Internal Controls................................14
+
+      2.4   Restrictions....................................................15
+
+Article 3.  Grant of Rights.................................................15
+
+      3.1   License Grants for Research Purpose.............................15
+
+      3.2   License Grants with Respect to Products that Comprise
+            Hedgehog-based Molecular Entities...............................16
+
+      3.3   Other License Grants............................................17
+
+      3.4   Restrictions on Licenses Granted by Ontogeny....................18
+
+      3.5   Sublicensing Obligations........................................18
+
+      3.6   Commercialization Option........................................18
+
+      3.7   Right of First Offer............................................19
+
+Article 4.  Payment Obligations.............................................20
+
+      4.1   Research License Fee and Stock Purchase.........................20
+
+      4.2   Development Program Fee and Stock Purchase......................20
+
+      4.3   Research Funding................................................20
+
+      4.4   Follow-on Research Support Fee..................................21
+
+      4.5   Breakup Fee.....................................................21
+
+      4.6   Milestone Payments..............................................21
+
+      4.7   Royalties.......................................................22
+
+
+                                      (i)
+<PAGE>
+
+      4.8   Payment Currency and Interest on Payments Past Due..............24
+
+      4.9   Tax Withholding.................................................24
+
+      4.10  Records; Audits.................................................24
+
+Article 5.  Line of Credit..................................................25
+
+      5.1   Availability of Line of Credit..................................25
+
+      5.2   Repayment.......................................................25
+
+Article 6.  Commercialization Obligations...................................26
+
+      6.1   General.........................................................26
+
+      6.2   Product Objectives..............................................26
+
+      6.3   Consequences of Failure to Meet Commercialization Objectives....27
+
+Article 7.  Intellectual Property Rights....................................27
+
+      7.1   Ownership.......................................................27
+
+      7.2   Prosecution and Maintenance of Patent Right.....................28
+
+      7.3   Infringement by Third Parties...................................29
+
+      7.4   Infringement of Third Party Rights..............................30
+
+Article 8.  Representations, Warranties and Covenants.......................31
+
+      8.1   Representations, Warranties and Covenants of Ontogeny...........31
+
+      8.2   Representations, Warranties and Covenants of Biogen.............31
+
+      8.3   Disclaimers.....................................................31
+
+Article 9.  Confidential Information........................................32
+
+      9.1   Treatment of Confidential Information...........................32
+
+      9.2   Release from Restrictions.......................................32
+
+Article 10.  Term and Termination...........................................32
+
+      10.1  Term............................................................32
+
+      10.2  Termination by Biogen...........................................33
+
+
+                                      (ii)
+<PAGE>
+
+      10.3  Termination for Breach..........................................33
+
+      10.4  Consequences of Termination.....................................33
+
+      10.5  Survival of Rights and Obligations..............................33
+
+Article 11.  Miscellaneous..................................................34
+
+      11.1  Product Liability Indemnification...............................34
+
+      11.2  Publicity.......................................................34
+
+      11.3  Governing Law...................................................35
+
+      11.4  Dispute Resolution..............................................35
+
+      11.5  Waiver..........................................................35
+
+      11.6  Notices.........................................................35
+
+      11.7  No Agency.......................................................36
+
+      11.8  Entire Agreement................................................36
+
+      11.9  Headings........................................................37
+
+      11.10 Severability....................................................37
+
+      11.11 Assignment......................................................37
+
+      11.12 Successors and Assigns..........................................37
+
+      11.13 Counterparts....................................................37
+
+      11.14 Force Majeure...................................................37
+
+Schedule A - Ontogeny Hedgehog Proteins
+
+Schedule B - Disease Indications Excepted from the Field
+
+Schedule C - Research Workplan
+
+Schedule D - Therapeutic Areas
+
+Schedule E - Line of Credit Note
+
+Exhibit A - Note Purchase Agreement
+
+
+                                     (iii)
+<PAGE>
+
+                              AMENDED AND RESTATED
+                    RESEARCH AND COMMERCIALIZATION AGREEMENT
+
+      This Amended and Restated Research and Commercialization Agreement (the
+"Agreement") dated as of November 30, 1998 is made by and between Ontogeny,
+Inc., a Delaware corporation, having its principal place of business at 45
+Moulton Street, Cambridge, Massachusetts 02138 ("Ontogeny") and Biogen, Inc., a
+Massachusetts corporation, having its principal place of business at 14
+Cambridge Center, Cambridge, Massachusetts 02142 ("Biogen").
+
+                                  INTRODUCTION
+
+      1. Ontogeny is in the business of conducting research in the field of
+developmental biology, an objective of which is to discover therapeutic inducing
+molecules that are specific for different types of cells.
+
+      2. Biogen has expertise in the discovery, development, manufacture and
+commercialization of pharmaceutical products.
+
+      3. Biogen desires that Ontogeny, on behalf of and in collaboration with
+Biogen. undertake a research project, the goal of which is to characterize
+certain of Ontogeny's proprietary inducing molecules in order to determine their
+therapeutic utility when administered systemically or into the central nervous
+system. In addition, Biogen desires to obtain from Ontogeny an option to develop
+and commercialize pharmaceutical products that are based upon molecules
+characterized in the course of the research project.
+
+      4. In return for Ontogeny's commitment to undertake the research project
+described herein and for the grant by Ontogeny of an option to develop and
+commercialize pharmaceutical products based on molecules characterized in the
+course of the research project, Biogen is willing to (i) fund and participate in
+the research project and (ii) pay Ontogeny the research license fee provided for
+herein. In the event that Biogen exercises its option to develop and
+commercialize pharmaceutical products that are based upon molecules
+characterized in the course of the research project, Biogen is willing to (i)
+undertake the development and commercialization of such pharmaceutical products,
+and (ii) pay Ontogeny the development program fee, milestone payments and
+royalties provided for herein.
+
+      5. Ontogeny and Biogen entered into a Research and Commercialization
+Agreement (the "Original Agreement") dated as of July 1, 1996, as amended by
+that First Amendment to the Original Agreement (the "First Amendment") dated as
+of June 22, 1998, that Second Amendment to the Original Agreement (the "Second
+Amendment") dated as of July 31, 1998, that Third Amendment to the Original
+Agreement (the "Third Amendment") dated as of September 30, 1998 and that Fourth
+Amendment to the Original Agreement (the "Fourth Amendment") dated as of October
+31, 1998.
+
+      6. Ontogeny and Biogen are desirous of amending and restating the terms of
+the Original Agreement, as amended.
+<PAGE>
+
+      In consideration of the mutual covenants and promises contained in this
+Agreement and other good and valuable consideration, the receipt and sufficiency
+of which are hereby acknowledged, Ontogeny and Biogen agree as follows:
+
+                             Article 1. Definitions
+
+      As used in this Agreement, the following terms, whether used in the
+singular or plural, shall have the following meanings:
+
+      1.1 "Affiliate" means any corporation, company, partnership, joint
+venture, firm and/or entity which controls, is controlled by or is under common
+control with a Party. For purposes of this Section 1.1, "control" shall mean (a)
+in the case of corporate entities, direct or indirect ownership of at least
+fifty percent (50%) of the stock or shares entitled to vote for the election of
+directors and (b) in the case of non-corporate entities, direct or indirect
+ownership of at least fifty percent (50%) of the equity interest with the power
+to direct the management and policies of such non-corporate entities.
+
+      1.2 "Biogen Gene Therapy Intellectual Property Rights" means (a) the
+Biogen Gene Therapy Patent Rights and (b) any other intellectual property rights
+in and to the Biogen Gene Therapy Technology.
+
+      1.3 "Biogen Gene Therapy Patent Rights" means all patents and patent
+applications (which for all purposes of this Agreement shall be deemed to
+include certificates of invention and applications for certificates of
+invention) throughout the world, covering or relating to the Biogen Gene Therapy
+Technology, including any substitutions, extensions, reissues, reexaminations,
+renewals, divisions, continuations, continuations-in-part or supplemental
+protection certificates, which Biogen owns or otherwise has the right to grant
+licenses under.
+
+      1.4 "Biogen Gene Therapy Technology" means all Technology which Biogen
+solely owns (including Biogen Solely-Owned Collaboration Technology (as defined
+in Section 7.1 (a))) or, with the exception of Collaboration Technology that is
+jointly owned with Ontogeny, Ontogeny's Solely-Owned Collaboration Technology
+and Ontogeny Technology, which Biogen otherwise has the right to grant licenses
+under as of the Effective Date or during the term of the Collaboration which is
+specific to Gene Therapy and which does not embody or is not an improvement of
+Ontogeny Technology, including but not limited to vectors, other gene delivery
+methods, control elements, gene regulation elements, promoters, and related
+formulations; provided however that Biogen Gene Therapy Technology shall not
+include Fundamental Hedgehog Gene Therapy Collaboration Technology or Hedgehog
+Specific Gene Therapy Collaboration Technology.
+
+      1.5 "Biogen Intellectual Property Rights" means (a) the Biogen Patent
+Rights and (b) any other intellectual property rights in and to the Biogen
+Technology which Biogen owns or otherwise has the right to grant licenses under.
+
+      1.6 "Biogen Patent Rights" means all patents and patent applications
+(which for all purposes of this Agreement shall be deemed to include
+certificates of invention and applications for certificates of invention)
+throughout the world, covering or relating to the Biogen Technology, including
+any substitutions, extensions, reissues, reexaminations, renewals,
+
+
+                                       2
+<PAGE>
+
+divisions, continuations, continuations-in-part or supplemental protection
+certificates, which Biogen owns or otherwise has the right to grant licenses
+under.
+
+      1.7 "Biogen Technology" means all Technology, exclusive of the Biogen Gene
+Therapy Technology and the Collaboration Technology, which Biogen owns or
+otherwise has the right to grant licenses under as of the Original Effective
+Date or during the term of the Collaboration, which is reasonably necessary to
+either or both Parties in order to discover, research, develop, make, use, sell
+or seek approval to market a therapeutic product that comprises a Hedgehog-based
+Molecular Entity.
+
+      1.8 "Collaboration" means the Research Program and, if initiated, the
+Commercialization Program.
+
+      1.9 "Collaboration Patent Rights" means all patents and patent
+applications (which for all purposes of this Agreement shall be deemed to
+include certificates of invention, applications for certificates of invention
+and utility models) throughout the world, covering or relating to the
+Collaboration Technology, including any substitutions, extensions, reissues,
+reexaminations, renewals, divisions, continuations, continuations-in-part or
+supplemental protection certificates.
+
+      1.10 "Collaboration Technology" means all Technology, as well as
+improvements related thereto, conceived, reduced to practice or developed by a
+Party or jointly by the Parties during, and in the conduct of, the
+Collaboration.
+
+      1.11 "Columbia License Agreement" means the license agreement, dated
+January 1, 1995, between Ontogeny and the Trustees of Columbia University in the
+City of New York, pursuant to which Ontogeny is granted selected rights to
+proprietary Technology relating to the Vertebrate Hedgehog Family.
+
+      1.12 "Commercialization Phase" means the phase of the Collaboration, as
+more fully described in Section 2.2, that is initiated only upon the initiation,
+if any, of the first Development Program.
+
+      1.13 "Commercialization Program" means the development, manufacturing and
+commercialization activities, as more fully defined in Section 2.2, conducted by
+the Parties during the Commercialization Phase.
+
+      1.14 "Comparable Proteins" means two or more Ontogeny Hedgehog Proteins
+that show comparable activity in relevant animal models for the same disease
+indications and no meaningful activity in relevant animal models for any other
+disease indications.
+
+      1.15 "Confidential Information" means all materials, trade secrets or
+other information, including, without limitation, proprietary information and
+materials (whether or not patentable) regarding a Party's Technology, products,
+business information or objectives.
+
+      1.16 "Contract Year" means the twelve (12) month period beginning on the
+Original Effective Date, and each succeeding twelve (12) month period thereafter
+until the termination of the Collaboration.
+
+
+                                       3
+<PAGE>
+
+      1.17 "Desert Hedgehog" means (a) a protein that is a member of the
+Vertebrate Hedgehog Family and whose amino acid sequence is substantially the
+same, in whole or in part, as that set forth in Schedule A and (b) a protein
+that is the human homologue of the protein described in (a).
+
+      1.18 "Development Program" means a development program, initiated upon the
+exercise by Biogen of the option set forth in Section 3.6, that is undertaken by
+the Parties with respect to an Ontogeny Hedgehog Protein to develop and
+commercialize Hedgehog-based Molecular Entity(ies).
+
+      1.19 "Disease Indication" means (a) with respect to a Phase II or Phase
+III clinical trial, a disease indication listed in the indication definition in
+the clinical trial protocol and (b) with respect to an IND or an NDA. the
+disease indication for which approval is being sought, as listed in the
+application.
+
+      1.20 "Effective Date" means the date of this Agreement.
+
+      1.21 "FDA" means the United States Food and Drug Administration.
+
+      1.22 "Field" means all therapeutics and prophylactics, other than
+therapeutics and prophylactics based on the administration of cells (except with
+respect to autologous cells administered in connection with Hedgehog Gene
+Therapy), that are administered by the Specified Delivery Methods for any
+disease indication, other than the excepted disease indications set forth in
+Schedule B.
+
+      1.23 "First Commercial Sale" means, with respect to each Licensed Product
+or Ontogeny Product, as the case may be, the first commercial sale of such
+product by a Party, its Affiliates, Sublicensees and/or distributors in a
+country in the Territory, other than for clinical trial purposes or for
+compassionate use.
+
+      1.24 "FTE" means a full time equivalent scientific person year (consisting
+of a total of one thousand eight hundred eighty (1,880) hours per year of
+scientific work on or directly related to the Collaboration), carried out by an
+Ontogeny employee, having at least a Bachelor's Degree. Scientific work on or
+directly related to the Collaboration to be performed by Ontogeny employees can
+include, but is not limited to, experimental laboratory work, recording and
+writing of results, reviewing literature and references, holding scientific
+discussions, managing and leading scientific staff, managing external
+collaborators, participating in regulatory and/or clinical work, writing and
+reviewing patent applications, developing and applying computer programs related
+to the Collaboration, and carrying out project management duties.
+
+      1.25 "Fundamental Hedgehog Gene Therapy Collaboration Technology" means
+all Biogen's Solely-Owned Collaboration Technology (as defined in Section
+7.1(a)) which is specific to Gene Therapy and which covers (i) any modifications
+to any Hedgehog-based Molecular Entity or (ii) any expression, promoter or
+enhancer elements that are required for the expression of any Hedgehog-based
+Molecular Entity. For purposes of this definition, the addition of a promoter or
+control or regulation element shall not be deemed to be a modification of the
+Hedgehog-based Molecular Entity.
+
+
+                                       4
+<PAGE>
+
+      1.26 "Gene Therapy" means the injection, application or other mode of
+administration of a therapeutic product that comprises a nucleic acid or a
+functional analog thereof, including, but not limited to, in combination with a
+vector, which is intended, upon delivery into a patient (including, but not
+limited to, through the administration of autologous cells), to provide a gene
+product encoded therein that is expressed.
+
+      1.27 "Good Faith Intent to Develop" means the intent to develop a
+Hedgehog-based Molecular Entity for a disease indication in the Field, where
+such intent is evidenced by ongoing work in connection with a written workplan
+that shall be approved by a majority of the JRMC on or prior to the termination
+of the Research Phase (or, in the event Biogen initiates a Development Program
+with respect to all three Ontogeny Hedgehog Proteins, a written workplan that
+shall be approved by a majority of the JRMC on or prior to return, if any, of
+the first Ontogeny Hedgehog Protein to Ontogeny pursuant to a Biogen Early
+Termination Notification (as that term is defined in Section 2.2(b)) or
+Mandatory Termination (as that term is defined in Section 6.3)), such approval
+not to be unreasonably withheld, which workplan shall describe planned research
+and development activities (including specific commercialization milestones and
+a timeline) directed towards development and commercialization of such
+Hedgehog-based Molecular Entity for such disease indication.
+
+      1.28 "Gross Sales" means the gross amount invoiced on sales to independent
+third parties of (a) a Licensed Product by Biogen and/or its Affiliates and/or
+Sublicensees or (b) an Ontogeny Product by Ontogeny and/or its Affiliates, as
+applicable.
+
+      1.29 "Harvard License Agreement" means the license agreement, dated
+February 9, 1995, between Ontogeny and the President and Fellows of Harvard
+College, pursuant to which Ontogeny is granted selected rights to proprietary
+Technology relating to the Vertebrate Hedgehog Family.
+
+      1.30 "Hedgehog-based Molecular Entity" means a molecular entity that is
+(a) an Ontogeny Hedgehog Protein, (b) a peptide fragment of an Ontogeny Hedgehog
+Protein where such peptide fragment consists of a sequence of amino acids that
+is contained within such Ontogeny Hedgehog Protein, (c) an entity that is a
+variant of (a) or (b) where such variant is (i) an entity whose structure has
+been altered or (ii) an entity consisting of (a) or (b) conjugated with another
+entity, where such alteration or conjugation has been done in order to confer
+upon the variant a feature or property not possessed by (a) or (b) (such as
+altered pharmacokinetic or pharmacodynamic properties, ease-of-manufacturing,
+uniqueness, ease-of-manipulation for preclinical research and development,
+etc.), or (d) a nucleic acid or a functional analog thereof encoding either (a),
+(b) or ( c) above and excluding anti-sense molecular entities.
+
+      1.31 "Hedgehog Gene Therapy" means Gene Therapy where the therapeutic
+product comprises a nucleic acid or functional analog thereof of the type
+described in Section 1.29(d), provided that Hedgehog Gene Therapy shall be
+limited to (a) oral or systemic injection or application, (b) other applications
+for systemic effect, and (c) in the case of disorders of the central nervous
+system, in addition to (a) and (b), delivery that is through the blood brain
+barrier into the cerebrospinal fluid or directly into the central nervous
+system.
+
+
+                                       5
+<PAGE>
+
+  Confidential materials omitted and filed separately with the Securities and
+                Exchange Commission. Asterisks denote omissions.
+
+      1.32 "Hedgehog Specific Gene Therapy Collaboration Technology" means
+Biogen's Solely-Owned Collaboration Technology (as defined in Section 7.1(a)),
+exclusive of Fundamental Hedgehog Gene Therapy Collaboration Technology, which
+(a) has specific applicability to Hedgehog Gene Therapy where the therapeutic
+product comprises a Hedgehog-based Molecular Entity and (b) works selectively
+better for a therapeutic product comprising a Hedgehog-based Molecular Entity
+than it does for a therapeutic product comprising a gene other than a
+Hedgehog-based Molecular Entity.
+
+      1.33 "IND" means an Investigational New Drug Application filed with the
+FDA of an equivalent filing in any Major Market Country.
+
+      1.34 "Indian Hedgehog" means (a) a protein that is a member of the
+Vertebrate Hedgehog Family and whose amino acid sequence is substantially the
+same, in whole or in part, as that set forth in Schedule A, and (b) a protein
+that is the human homologue of the protein described in (a).
+
+      1.35 "Lead Protein" means the one Ontogeny Hedgehog Protein which is the
+subject of a Development Program that is designated as the "Lead Protein" by
+Biogen on or prior to the termination of the Research Phase, subject to Section
+3.6.
+
+      1.36 "Licensed Product" means a product that comprises a Hedgehog-based
+Molecular Entity (a) (i) that is based on an Ontogeny Hedgehog Protein that was
+the subject of a Development Program that was not terminated by Biogen pursuant
+to a Biogen Early Termination Notification (as that term is defined in Section
+2.2(b)) or terminated by Ontogeny pursuant to a Mandatory Termination (as that
+term is defined in Section 6.3), and (ii) with respect to which the Biogen
+Research License (as that term is defined in Section 3.1(a)) was not terminated
+pursuant to a Requested Termination (as that term is defined in Section 3.1(a))
+under the terms of Section 3.1(a), and (b) which, or the manufacture, use or
+sale of which, (i) is covered by a Valid Claim of any Ontogeny Patent Rights
+and/or any Collaboration Patent Rights in the country where such product is
+manufactured, used or sold, and/or (ii) embodies any of the Ontogeny Technology
+and/or the Collaboration Technology.
+
+      1.37 "Major Market Country" means the [**], [**], [**], [**], [**], [**],
+[**], [**] or [**].
+
+      1.38 "NDA" means a New Drug Application filed with the FDA or an
+equivalent filing in any Major Market Country.
+
+      1.39 "Net Sales" means the Gross Sales of a Licensed Product or an
+Ontogeny Product, as the case may be, less the following items, provided that
+such items are included in the amount invoiced and do not exceed reasonable and
+customary amounts in the country in which such sale or other disposition
+occurred: (a) trade, cash and quantity discounts actually allowed and taken; (b)
+excises, sales taxes or other taxes imposed upon and paid with respect to such
+sales (excluding national, state or local taxes based on income); (c) freight,
+insurance and other transportation charges incurred in shipping a Licensed
+Product or an Ontogeny Product, as the case may be, to third parties; (d)
+amounts repaid or credited by reason of rejections, defects, recalls or returns
+or because of retroactive price reductions; (e) import or export duties or their
+
+
+                                       6
+<PAGE>
+
+equivalent and (f) rebates paid pursuant to (government regulations. Such
+amounts shall be determined from the books and records of a Party and/or its
+Affiliates and/or Sublicensees, as applicable, maintained in accordance with
+generally accepted accounting principles, consistently applied.
+
+      If a Licensed Product or an Ontogeny Product, as the case may be, is sold,
+leased, used or otherwise commercially disposed of for value (including, without
+limitation, disposition in connection with the delivery of other products or
+services) in a transaction that is not an outright arm's length sale to an
+independent third party, then the gross amount invoiced in such transaction
+shall be deemed to be the gross amount that would have been paid had there been
+such a sale at the average sale price of such Licensed Product or Ontogeny
+Product, as the case may be, during the applicable royalty reporting period in
+the country in which such disposition took place. The preceding sentence shall
+not apply to the distribution at no cost of Licensed Products or Ontogeny
+Products, as the case may be, to (i) physicians, hospitals or clinics for
+promotional purposes or (ii) academic investigators for research or clinical
+trial purposes. Net Sales shall also include any consideration received by a
+Party and/or its Affiliates and/or Sublicensees, as applicable, in respect of
+the sale, use or other disposition of a Licensed Product or an Ontogeny Product,
+as the case may be, in a country prior to the receipt of all regulatory
+approvals required to commence full commercial sales of such Licensed Product or
+Ontogeny Product, as the case may be, in such country (e.g., sales under
+"treatment INDs", "named patient sales", "compassionate use sales", or their
+equivalents), other than the sale, use or other disposition of such Licensed
+Product or Ontogeny Product, as the case may be, in the course of any clinical
+trial conducted in order to obtain regulatory approval of such product or for
+other research purposes.
+
+      In the event that a Licensed Product or an Ontogeny Product, as the case
+may be, is sold as part of a Combination Product (as defined below), the Net
+Sales from the Combination Product, for the purposes of determining royalty
+payments, shall be determined by multiplying the Net Sales of the Combination
+Product (as defined in the standard Net Sales definition), during the applicable
+royalty reporting period, by the fraction, A/A+B where A is the average sale
+price of the Licensed Product or the Ontogeny Product, as the case may be, when
+sold separately in finished form and B is the average sale price of the other
+product(s) included in the Combination Product when sold separately in finished
+form, in each case during the applicable royalty reporting period in the country
+in which the sale of the Combination Product was made or, if sales of both the
+Licensed Product or the Ontogeny Product, as the case may be, and the other
+product(s) did not occur in such period, then in the most recent royalty
+reporting period in which sales of both occurred. In the event that such average
+sale price cannot be determined for both the Licensed Product or the Ontogeny
+Product, as the case may be, and all other product(s) included in the
+Combination Product, Net Sales for the purposes of determining royalty payments
+shall be calculated by multiplying the Net Sales of the Combination Product by
+the fraction C/C+D where C is the fair market value of the Licensed Product or
+the Ontogeny Product, as the case may be, and D is the fair market value of all
+other pharmaceutical product(s) included in the Combination Product, in each
+case as determined by mutual agreement of the Parties. As used above, the term
+"Combination Product" means any pharmaceutical product which comprises a
+Licensed Product or an Ontogeny Product, as the case may be, and other active
+compounds and/or ingredients.
+
+                                       7
+<PAGE>
+
+  Confidential materials omitted and filed separately with the Securities and
+                Exchange Commission. Asterisks denote omissions.
+
+      1.40 "Non-Lead Protein" means any Ontogeny Hedgehog Protein which is the
+subject of a Development Program that is not designated the Lead Protein.
+
+      1.41 "Ontogeny Hedgehog Protein" means Desert Hedgehog and/or Indian
+Hedgehog and/or Sonic Hedgehog.
+
+      1.42 "Ontogeny Intellectual Property Rights" means (a) the Ontogeny Patent
+Rights and (b) any other intellectual property rights in and to the Ontogeny
+Technology, which Ontogeny owns or otherwise has the right to grant licenses
+under, including without limitation those rights obtained by Ontogeny under the
+Columbia License Agreement and the Harvard License Agreement.
+
+      1.43 "Ontogeny Patent Rights" means all patents and patent applications
+(which for all purposes of this Agreement shall be deemed to include
+certificates of invention, applications for certificates of invention and
+utility models) throughout the world, covering or relating to the Ontogeny
+Technology, including any substitutions, extensions, reissues, reexaminations,
+renewals, divisions, continuations, continuations-in-part or supplemental
+protection certificates, which Ontogeny owns, or otherwise has the right to
+grant licenses under.
+
+      1.44 "Ontogeny Product" means a product that comprises a Hedgehog-based
+Molecular Entity (a)(i) that is based on an Ontogeny Hedgehog Protein that was
+not the subject of a Development Program, (ii) that is based on an Ontogeny
+Hedgehog Protein that was the subject of a Development Program that was
+terminated by Biogen pursuant to a Biogen Early Termination Notification (as
+that term is defined in Section 2.2(b)), (iii) with respect to which the Biogen
+Research License (as that term is defined in Section 3.1(a)) was terminated by
+Biogen pursuant to a Requested Termination (as that term is defined in Section
+3.1(a)) under the terms of Section 3.1(a), or (iv) that is based on an Ontogeny
+Hedgehog Protein that was the subject of a Development Program that was
+terminated by Ontogeny pursuant to a Mandatory Termination (as that term is
+defined in Section 6.3), but (b) which, or the manufacture, use or sale of
+which, (i) is covered by a Valid Claim of any Biogen Patent Rights and/or any
+Collaboration Patent Rights solely or Jointly owned by Biogen in the country
+where such Hedgehog-based Molecular Entity is manufactured, used or sold, and/or
+(ii) embodies any of the Biogen Technology and/or the Collaboration Technology
+solely or jointly owned by Biogen.
+
+      1.45 "Ontogeny Technology" means all Technology, exclusive of the
+Collaboration Technology, which Ontogeny owns or otherwise has the right to
+grant licenses under as of the Original Effective Date or during the term of the
+Collaboration, which is reasonably necessary to either or both Parties in order
+to discover, research, develop, make, use, sell or seek approval to market a
+therapeutic or prophylactic product that comprises a Hedgehog-based Molecular
+Entity, including without limitation Technology to which Ontogeny has rights
+under the Columbia License Agreement and the Harvard License Agreement.
+
+      1.46 "Original Effective Date" means July 1, 1996.
+
+      1.47 "Party" means Ontogeny or Biogen; "Parties" means Ontogeny and
+Biogen.
+
+      1.48 "Protected Indications" means [**] disease indications in the Field
+which shall be designated by Biogen in the manner set forth in Section 2.2(c).
+
+
+                                       8
+<PAGE>
+
+      1.49 "Research Phase" means the phase of the Collaboration, as more fully
+described in Section 2.1, during which the Parties shall cooperate in the
+conduct of the Research Program.
+
+      1.50 "Research Program" means the research activities, as more fully
+defined in the Research Workplan, conducted by the Parties during the Research
+Phase and undertaken with the goal of determining the therapeutic or
+prophylactic utility of products comprising a Hedgehog-based Molecular Entity
+that are administered by the Specified Delivery Methods.
+
+      1.51 "Research Workplan" means the workplan, attached as Schedule C, as it
+may be updated from time to time by mutual agreement of the parties, that
+describes the research activities to be conducted by the Parties in the course
+of the Research Program during the Research Phase.
+
+      1.52 "Restricted Protein" means a protein that is designated by Biogen
+pursuant to Section 2.2(c) that is subject to certain restrictions on
+development and commercialization in indications in the Field pursuant to
+Section 2.4(c).
+
+      1.53 "Sonic Hedgehog" means a protein that is a member of the Vertebrate
+Hedgehog Family and whose amino acid sequence is substantially the same, in
+whole or in part, as that set forth in Schedule A.
+
+      1.54 "Specified Delivery Methods" means (a) delivery that is either oral
+or through systemic in injection or application, (b) in the case of disorders of
+the central nervous system, in addition to (a), delivery that is through the
+blood brain barrier into the cerebrospinal fluid or directly into the central
+nervous system and (c) Hedgehog Gene Therapy.
+
+      1.55 "Sublicensee" means any third party other than an Affiliate granted
+the right, subject to the terms and conditions of Article 3, to make, use and
+sell a Licensed Product or an Ontogeny Product, as the case may be, but not
+including a third party that is not granted the right to make such Licensed
+Product or Ontogeny Product, as the case may be, but merely purchases such
+Licensed Product or Ontogeny Product, as the case may be, in finished form for
+resale.
+
+      1.56 "Technology" means information (whether or not patentable and whether
+or not copyrightable), including without limitation, ideas, concepts, formulas,
+methods, procedures, designs, compositions, plans, applications, specifications,
+drawings, techniques, processes, research, technical data, know-how,
+apparatuses, equipment, samples, biological materials, vectors, inventions,
+discoveries, and the like.
+
+      1.57 "Territory" means all countries of the world.
+
+      1.58 "Therapeutic Area" means a therapeutic area listed in Schedule D.
+
+      1.59 "Valid Claim" means a claim which (a) in the case of any unexpired
+United States or foreign patent, shall not have been donated to the public,
+disclaimed nor held invalid or unenforceable by a court of competent
+jurisdiction in an unappealed or unappealable decision or (b) in the case of any
+United States or foreign patent application, shall not have been cancelled,
+withdrawn, abandoned, rejected by an administrative agency from which no appeal
+can be taken nor been pending for more than seven (7) years.
+
+
+                                       9
+<PAGE>
+
+      1.60 "Vertebrate Hedgehog Family" means a family of proteins that cause
+tissue and organ induction, consisting of the Ontogeny Hedgehog Proteins and any
+other protein whose amino acid sequence is at least fifty percent (50%)
+homologous with the amino acid sequence of any Ontogeny Hedgehog Protein.
+
+                          Article 2. The Collaboration
+
+      2.1 Research Phase.
+
+          (a) Scope and Conduct of the Research Program. The Parties hereby
+agree to cooperate in the conduct of the Research Program during the Research
+Phase. The Research Program shall be conducted in accordance with the provisions
+of the Research Workplan. Within sixty (60) days of the Effective Date, the
+Research Workplan shall be amended by the parties and attached hereto as
+Schedule C, amending and replacing in its entirety any then-current Schedule C.
+In conducting, the Research Program, the Parties shall have and maintain
+sufficient flexibility to shift effort and emphasis within the overall scope of
+the Research Workplan in a manner that will best result in the identification
+and characterization of drug candidates comprising a Hedgehog-based Molecular
+Entity with potential utility in the Field. During the course of the Research
+Program, each Party shall (i) communicate regularly and work collaboratively
+with the other Party and (ii) use commercially reasonable efforts to fulfill its
+obligations under the Research Program as described in this Article 2 and, in
+greater detail, in the Research Workplan and any amendments thereof.
+
+          (b) Management of the Research Program.
+
+          (i) The Project Team. The Research Program shall be managed by a
+project team (the "Project Team"), consisting of an equal number, to be
+determined by the Parties, of representatives from Ontogeny and from Biogen, and
+led by a representative of Biogen and a representative of Ontogeny (the "Leaders
+of the Project Team"). The Project Team shall be responsible for implementing,
+coordinating, reviewing and exchanging information regarding the research
+activities of the Parties, as set forth in the Research Workplan, and for all
+tactical decisions related to the Research Program. In addition, each Party may
+at its discretion invite nonvoting employees, consultants or scientific advisors
+to attend the meetings of the Project Team as long as such parties are bound by
+an obligation of confidentiality to the Party on whose behalf they attend. The
+Project Team shall meet no less frequently than once each month and shall meet
+at such other times as deemed appropriate by the Leaders of the Project Team.
+Each Party may change any one or more of its representatives on the Project Team
+at any time upon notice to the other Party. The location of the Project Team
+meetings shall alternate between Ontogeny and Biogen, or as otherwise mutually
+agreed.
+
+          (ii) The Joint Research Management Committee. The activities of the
+Project Team shall be supervised by a joint research management committee (the
+"JRMC"), consisting of three (3) representatives designated by Ontogeny and
+three (3) representatives designated by Biogen. The representatives on the JRMC
+shall select a chairperson from among themselves to serve for a period of twelve
+(12) months, with the position of chairperson alternating annually between a
+representative from Ontogeny and a representative from Biogen. The JRMC shall be
+responsible for all strategic decisions related to the Research Program. In
+addition to supervising
+
+
+                                       10
+<PAGE>
+
+  Confidential materials omitted and filed separately with the Securities and
+                Exchange Commission. Asterisks denote omissions.
+
+the activities of the Project Team and making strategic decisions, the JRMC
+shall be responsible for reviewing the progress of the Research Program and, if
+necessary, modifying the short-term goals of, and the resource allocations
+within, the Research Program, provided, however, that no such modification shall
+(i) alter the terms of this Agreement or (ii) materially increase the
+responsibilities of, or the level of expenses to be incurred by, either Party
+without the prior approval of such Party. Each Party shall cause its
+representatives to attend the meetings of the JRMC. If a representative of a
+Party is unable to attend a meeting, such Party may designate an alternate to
+attend such meeting in place of the missing representative. In addition, each
+Party may at its discretion invite nonvoting employees, consultants or
+scientific advisors to attend the meetings of the JRMC as long as such parties
+are bound by an obligation of confidentiality to the Party on whose behalf they
+attend. The JRMC shall meet no less frequently than once each calendar quarter,
+and shall meet at such other times as deemed appropriate by the JRMC. Formal
+minutes of each meeting of the JRMC shall be kept and shall be provided, in a
+timely fashion, to each representative on the JRMC. Each Party may change any
+one or more of its representatives on the JRMC at any time upon notice to the
+other Party. The location of the JRMC meetings shall alternate between Ontogeny
+and Biogen, or as otherwise mutually agreed.
+
+          (iii) Management Team Decisions. The unanimous agreement of the
+Leaders of the Project Team shall be required to take any action within the
+purview of the Project Team. If the Project Team is unable to agree on any issue
+within its purview, the issue shall be resolved by the JRMC. Except as otherwise
+set forth in Section 1.26 of this Agreement, the unanimous agreement of the
+members of the JRMC shall be required to take any action. Any member of the JRMC
+who is not present at any meeting, either in person or by a designated
+alternate, may appoint another representative or alternate as his/her proxy to
+act on his/her behalf on all matters coming to a vote. The JRMC may conduct
+meetings in person or by telephone or video conference. If the JRMC is unable to
+reach a unanimous agreement on any issue within its purview, such issue shall be
+referred to the Chief Executive Officer of Ontogeny and the Chief Executive
+Officer of Biogen for resolution. If the Chief Executive Officer of Ontogeny and
+the Chief Executive Officer of Biogen are unable to reach agreement on any issue
+regarding the Research Program, then such issue shall be submitted to
+arbitration pursuant to the provisions set forth in Section 11.4 and the
+arbitrators shall have the authority to (i) direct the Parties as to the manner
+in which the Parties shall resolve the issue, or (ii) render a final decision
+with respect to such issue. The arbitrators shall have no authority to amend
+this Agreement or the Research Workplan.
+
+          (c) Obligations of the Parties. Ontogeny shall provide, and Biogen
+shall support (pursuant to Section 4.3(a)), the personnel required to supply
+[**] FTEs per year for the term of the Research Program. In addition, Biogen
+shall make a commitment, in the form of personnel and/or other resources to be
+determined by Biogen, that is equivalent in direct financial value to the
+personnel commitment made by Ontogeny, except that, for the purposes of this
+Section 2.1(c), each FTE per year contributed by Biogen shall be regarded as
+equivalent to a contribution of [**] of value per year toward Biogen's total
+commitment. Subject to the direction of the JRMC, each Party shall have the
+responsibility, during the Research Phase, to conduct those research activities
+that are assigned to such Party in the Research Workplan.
+
+          (d) Term. The Research Phase commenced on the Original Effective Date
+and shall continue until the earliest to occur of (i) the fifth anniversary of
+the Original Effective
+
+
+                                       11
+<PAGE>
+
+Date, (ii) the fourth anniversary of the Original Effective Date in the event
+that Biogen does not initiate at least one Development Program on or prior to
+such date and the termination of this Agreement.
+
+      2.2 Commercialization Phase.
+
+          (a) Scope and Conduct of the Commercialization Program. The
+Commercialization Phase shall commence if and only if Biogen elects to initiate
+at least one Development Program pursuant to Section 3.6. The Commercialization
+Program shall consist of the Development Program(s) undertaken by the Parties
+during the Commercialization Phase. In the event that Biogen elects to initiate
+the Commercialization Phase, the Parties shall cooperate in the conduct of the
+Commercialization Program. During the course of the Commercialization Program,
+each Party shall (i) communicate regularly and work collaboratively with the
+other Party and (ii) use commercially reasonable efforts to fulfill its
+obligations under the Commercialization Program as described in this Section
+2.2.
+
+          (b) Development Program(s). Each Development Program initiated by
+Biogen, if any, shall be based on the study of one of the three Ontogeny
+Hedgehog Proteins and shall have as its goal the development and
+commercialization of a product or products comprising one or more Hedgehog-based
+Molecular Entities that derive from such Ontogeny Hedgehog Protein. Each Party
+shall have the responsibility, during the term of the Development Program, to
+conduct those development, manufacturing and commercialization activities that
+are assigned to such Party in a development and commercialization plan prepared
+by Biogen and approved by Ontogeny (the "Development and Commercialization
+Plan") which such approval shall not be unreasonably withheld. It is anticipated
+that the Development and Commercialization Plan shall provide that (i) the
+Development Program shall be managed by development and commercialization
+committees established and staffed by Biogen, provided, however, that non-voting
+representatives of Ontogeny shall be permitted to attend (1) all meetings of
+such committees that are devoted solely to the review of the Development Program
+and all meetings of such committees that are devoted solely to a review of other
+activities directly related to the development, manufacturing and
+commercialization of any product(s) comprising a Hedgehog-based Molecular
+Entity(ies) based on the Ontogeny Hedgehog Protein that is the subject of such
+Development Program, and (2) only at Biogen's invitation, other Biogen meetings
+covering the development and commercialization activities related to such
+Development Program, (ii) Biogen shall have the major responsibility for the
+development and commercialization of any product(s) comprising a Hedgehog-based
+Molecular Entity(ies) based on the Ontogeny Hedgehog Protein that is the subject
+of the Development Program, provided, however, that Ontogeny shall participate
+with Biogen in (1) the preclinical development of such product(s) (with all data
+provided to, and considered Confidential Information of, Biogen), (2) at
+Biogen's option where appropriate, the clinical development of such product(s)
+in the United States (with all data provided to, and considered Confidential
+Information of, Biogen), and (3) subject to Biogen's reasonable discretion after
+mutual good faith discussion between the Parties, the marketing of (not
+including sales), and the professional education activities with respect to,
+such product(s) in the Territory, and (iii) Biogen shall have the responsibility
+for all aspects of the manufacture (either by itself or by one of its Affiliates
+or using a contract manufacturer or otherwise) of any product(s) comprising a
+Hedgehog-based Molecular Entity based on the Ontogeny Hedgehog Protein that is
+the subject of the Development Program, provided, however,
+
+
+                                       12
+<PAGE>
+
+  Confidential materials omitted and filed separately with the Securities and
+                Exchange Commission. Asterisks denote omissions.
+
+that in the event that Biogen elects to have such product(s) bulk manufactured
+by more than one manufacturing source in the United States, and Ontogeny is or
+will be, in Biogen's reasonable opinion, capable of manufacturing bulk
+commercial product to meet Biogen's commercially reasonable schedule, Biogen
+shall grant to Ontogeny the right of first refusal to manufacture such product
+as a second manufacturing source in the United States, under the terms of a
+manufacturing agreement to be negotiated in good faith by the Parties. In the
+event that a Development Program is initiated by Biogen, Biogen hereby agrees to
+provide Ontogeny, at Ontogeny's reasonable request, with copies of or, at
+Biogen's option, detailed summaries of, those substantive documents relating to
+the preclinical and clinical development, regulatory affairs, manufacture and/or
+marketing of any product(s) comprising a Hedgehog-based Molecular Entity(ies)
+based on the Ontogeny Hedgehog Protein that is the subject of such Development
+Program, as well as copies of or, at Biogen's option, detailed summaries of, any
+other substantive documents relating to such product(s) that are reasonably
+requested by Ontogeny, provided, however, that Biogen may delete information
+from the above documents that it determines, in its sole commercially reasonable
+discretion, is sensitive commercial of financial information of Biogen. In the
+event that a Development Program is initiated by Biogen, Biogen also agrees to
+hold two (2) strategy meetings per year. The purpose of these meetings will be
+for Ontogeny and Biogen to discuss the overall strategy and direction of the
+Development Program(s), including any significant changes since the last
+strategy meeting. The meetings shall be attended by at least three people from
+each Party, two of whom will be vice president level or above, and each Party
+shall provide representation from its business and from its scientific
+departments. A Development Program, if initiated, shall commence upon the date
+on which Biogen exercises its option with respect to such Development Program,
+pursuant to Section 3.6, and shall terminate upon the earliest of (i) the First
+Commercial Sale in the first Major Market Country of the first Licensed Product
+comprising a Hedgehog-based Molecular Entity based on the Ontogeny Hedgehog
+Protein that was the subject of such Development Program, (ii) the receipt by
+Ontogeny of written notification from Biogen of Biogen's decision to terminate
+such Development Program (a "Biogen Early Termination Notification"), (iii) a
+Mandatory Termination (as that term is defined in Section 6.3) with respect to
+such Development Program and (iv) the termination of this Agreement.
+
+          (c) Protected Indications. In the event that Biogen has commenced a
+Development Program, Biogen may, by providing written notice to Ontogeny on or
+prior to the earliest to occur of (i) a Biogen Early Termination Notification
+(as that term is defined in Section 2.2(b)), (ii) the occurrence of a Mandatory
+Termination (as that term is defined in Section 6.3) and (iii) the termination
+of the Research Phase, designate [**] disease indications as Protected
+Indications. Notwithstanding the foregoing, if, at the end of the Research
+Phase, Biogen has ongoing Development Programs with respect to all three
+Ontogeny Hedgehog Proteins, Biogen shall be entitled to delay designation of the
+Protected Indications until the occurrence of a Mandatory Termination or
+delivery of a Biogen Early Termination Notification, if any, with respect to one
+of the Development Programs. Along with designation of the Protected
+Indications, Biogen shall designate which of the Ontogeny Hedgehog Proteins will
+be Restricted Proteins with respect to the Protected Indications. Biogen shall
+pay Ontogeny a fee of [**] Dollars ($[**]) (a "Restriction Fee") for each
+Ontogeny Hedgehog Protein designated as a Restricted Protein (whether restricted
+as to [**] or [**]), provided that any Ontogeny Hedgehog Protein that is the
+subject of a Development Program shall automatically become a Restricted Protein
+in the event of termination of the Development Program with respect to such
+Ontogeny
+
+
+                                       13
+<PAGE>
+
+Hedgehog Protein whether pursuant to a Biogen Early Termination Notification or
+a Mandatory Termination without the payment of any additional Restriction Fee.
+In the event that all Development Programs are terminated either through Biogen
+Early Termination Notifications, Mandatory Terminations or the termination of
+this Agreement, such Protected Indications shall no longer be characterized as
+"Protected Indications."
+
+          (d) Biogen Representation on Ontogeny Board of Directors. Upon the
+initiation, if any, of the Commercialization Phase, Ontogeny shall grant to
+Biogen the right to designate one individual to serve on the Ontogeny board of
+directors (the "Ontogeny Board") subject to approval by Ontogeny, which approval
+shall not be unreasonably withheld. In the event of any such designation
+(including any designation to fill a vacancy created by the departure of a prior
+Biogen designee), Ontogeny shall use its best efforts to cause the election of
+such designee to the Ontogeny Board. If elected such Biogen designee (the
+"Biogen Board Member") shall continue to serve on the Ontogeny Board until the
+earliest of (i) the termination by Biogen of the Commercialization Phase, (ii)
+the date on which Biogen has sold more than fifty percent (50%) of the shares of
+capital stock purchased by it from Ontogeny (or shares of common stock issued
+upon conversion thereof), (iii) the completion of the first Phase III clinical
+trial for any Licensed Product, (iv) July 1, 2011 and (v) the termination of
+this Agreement. In the event that Ontogeny shall become a public company while
+Biogen has the right to designate a Biogen Board Member, Ontogeny shall continue
+to nominate the Biogen Board Member to serve as a member of the Ontogeny Board,
+but his/her annual election shall be subject to the approval of the shareholders
+of Ontogeny.
+
+          (e) Term. The Commercialization Phase shall commence on the
+initiation, if any, of the first Development Program and shall continue until
+the earliest of (i) completion of each of the Development Programs initiated by
+Biogen, (it) the early termination (pursuant to Biogen Early Termination
+Notification or Mandatory Termination) of each of the Development Programs
+initiated by Biogen or (iii) the termination of this Agreement. The term of the
+Commercialization Phase, if any, shall overlap that of the Research Phase until
+the termination of the Research Phase.
+
+      2.3 Accounting and Internal Controls. Biogen and Ontogeny shall each
+conduct the Collaboration in accordance with high standards of business ethics
+and maintain accounts in accordance with generally accepted accounting
+principles consistently applied and, specifically, shall (a) maintain full and
+accurate books, records and accounts (the "Collaboration Records") which shall,
+in reasonable detail, accurately and fairly reflect all transactions relating to
+the Collaboration and (b) devise and maintain a system of internal accounting
+controls sufficient to provide reasonable assurances that (i) transactions are
+executed in accordance with general or specific authorizations, and (ii)
+transactions are recorded as necessary to permit preparation of financial
+statements in conformity with generally accepted accounting principles and as
+otherwise required to comply with all tax statutes, and to maintain
+accountability for assets. During the term of, and for a twelve (12) month
+period following the termination of, the Collaboration, each Party shall have
+the right quarterly at such Party's expense to have an independent, certified
+public accountant, reasonably acceptable to the other Party, review such other
+Party's Collaboration Records in the location(s) where such Collaboration
+Records are maintained by such other Party upon reasonable notice and during
+regular business hours for the
+
+
+                                       14
+<PAGE>
+
+  Confidential materials omitted and filed separately with the Securities and
+                Exchange Commission. Asterisks denote omissions.
+
+sole purpose of verifying the expenditures by such other Party with respect to
+the Collaboration. Results of such review shall be made available to both
+Parties.
+
+      2.4 Restrictions.
+
+          (a) Biogen Restrictions. Biogen hereby agrees that, except as
+otherwise provided in this Agreement, Biogen shall not, either alone or in
+collaboration with others or through a Sublicensee, research, develop,
+manufacture or commercialize any product that embodies, or is developed through
+the use of, Technology related to the Vertebrate Hedgehog Family, for a period
+commencing on the Original Effective Date and ending [**] following the
+termination of the Research Phase.
+
+          (b) Ontogeny Restrictions Outside the Field. Ontogeny hereby agrees
+that Ontogeny shall not, either alone or in collaboration with others or through
+a Sublicensee, develop, manufacture or commercialize any therapeutic or
+prophylactic product outside the Field that comprises the same Hedgehog-based
+Molecular Entity in the same formulation for the same method of delivery as a
+Hedgehog-based Molecular Entity being developed by Biogen under a Development
+Program.
+
+          (c) Ontogeny Restrictions Within the Field. Ontogeny hereby agrees
+that Ontogeny shall not during the term of this Agreement, either alone or in
+collaboration with others or through a Sublicensee (and shall cause its
+Sublicensees to agree in writing not to), develop (including but not limited to
+the conduct of clinical trials) or market (including but not limited to any
+promotion or labeling) Ontogeny Products in the Field based on any Restricted
+Protein in any Protected Indication.
+
+                           Article 3. Grant of Rights
+
+      3.1 License Grants for Research Purposes.
+
+          (a) License Grant by Ontogeny. Subject to the payment of the research
+license fee provided in Section 4.1 and the fulfillment by Biogen of its
+obligations under this Agreement, Ontogeny hereby grants to Biogen, and Biogen
+hereby accepts, a fully paid-up, non-royalty bearing co-exclusive license (with
+Ontogeny) (or sublicense, as the case may be, with respect to Ontogeny
+Intellectual Property Rights obtained under license from a third party,
+including a sublicense to rights granted under the Columbia License Agreement
+and the Harvard License Agreement), without the right to grant sublicenses,
+under the Ontogeny Intellectual Property Rights and Ontogeny's rights in and to
+the Collaboration Technology, to practice the Ontogeny Technology and the
+Collaboration Technology for the purpose of conducting research within the
+Territory under the Research Program in order to identify drug candidates that
+comprise Hedgehog-based Molecular Entities for use in the Field (the "Biogen
+Research License"). The Biogen Research License shall terminate upon the
+termination of the Research Phase. Notwithstanding the foregoing, Ontogeny shall
+have the right to request, from time to time, that Biogen terminate the Biogen
+Research License with respect to specific Hedgehog based Molecular Entities that
+are of no further interest to Biogen, and Biogen agrees to consider such request
+in good faith, but Ontogeny acknowledges that Biogen shall be under no
+obligation to agree to any such request (a "Requested Termination"). In the
+event that Biogen agrees to
+
+
+                                       15
+<PAGE>
+
+
+such request in writing, a Hedgehog-based Molecular Entity as to which the
+Biogen Research License has been terminated shall not be available to Biogen for
+development under a Development Program.
+
+          (b) License Grant by Biogen. Subject to the fulfillment by Ontogeny of
+its obligations under this Agreement, Biogen hereby grants to Ontogeny, and
+Ontogeny hereby accepts, a fully paid-up, non-royalty bearing co-exclusive
+license (with Biogen), without the right to (grant sublicenses, under the Biogen
+Intellectual Property Rights and Biogen's rights in and to the Collaboration
+Technology (excluding Biogen Gene Therapy Technology), to practice the Biogen
+Technology and the Collaboration Technology for the purpose of conducting
+research within the Territory under the Research Program in order to identify
+drug candidates that comprise Hedgehog-based Molecular Entities for use in the
+Field (the "Ontogeny Research License"). The license granted to Ontogeny under
+the preceding sentence shall be limited to the identified purpose, and, subject
+to Section 2.4, shall not be deemed to limit Biogen's rights under the Biogen
+Intellectual Property Rights or Biogen's rights in and to the Collaboration
+Technology. The Ontogeny Research License shall terminate upon the termination
+of the Research Phase.
+
+      3.2 License Grants with Respect to Products that Comprise Hedgehog-based
+          Molecular Entities.
+
+          (a) License Grant by Ontogeny. In the event that Biogen exercises the
+option set forth in Section 3.6, Ontogeny shall grant to Biogen, and Biogen
+shall accept, a royalty bearing (at the rates set forth in Section 4.7(a))
+exclusive license (or sublicense, as the case may be, with respect to Ontogeny
+Intellectual Property Rights obtained under a license from a third party,
+including a sublicense to rights granted under the Columbia License Agreement
+and the Harvard License Agreement), under the Ontogeny Intellectual Property
+Rights and Ontogeny's rights in and to the Collaboration Technology, to develop,
+make, have made, import, use, have used, offer to sell, sell, and have sold
+Licensed Products in the Field within the Territory. Such license shall include
+the right to grant sublicenses pursuant to Section 3.5. Ontogeny acknowledges
+that the license granted hereunder shall be effective automatically on the terms
+contained herein upon exercise of such option by Biogen, and no further
+agreement or action by the Parties shall be necessary to effect such license.
+
+          (b) License Grant by Biogen for Ontogeny Products. Upon the earliest
+to occur of (i) a Biogen Early Termination Notification, (ii) the occurrence of
+a Mandatory Termination, and (iii) the termination of the Research Phase, Biogen
+shall grant to Ontogeny, and Ontogeny shall accept, an exclusive license, under
+the Biogen Intellectual Property Rights and Biogen's rights in and to the
+Collaboration Technology (excluding Biogen's rights in Biogen Gene Therapy
+Technology), to develop, make, have made, import, use, have used, offer to sell,
+sell, and have sold Ontogeny Products in and outside the Field within the
+Territory, subject to the limitations set forth in Sections 2.4(c); provided,
+however, that such license to develop, make, have made, import, use, have used,
+offer to sell, sell, and have sold Ontogeny Products outside the Field within
+the Territory with respect to Hedgehog Specific Gene
+
+
+                                       16
+<PAGE>
+
+Therapy Collaboration Technology shall be granted only upon the termination of
+the Research Phase and that such license to develop, make, have made, import,
+use, have used, offer to sell, sell, and have sold Ontogeny Products in the
+Field within the Territory with respect to Hedgehog Specific Gene Therapy
+Collaboration Technology shall be granted only upon the termination of' this
+Agreement. Such license shall include the right to grant sublicenses pursuant to
+Section 3.5; provided that the right to grant sublicenses under the license
+granted to Ontogeny under this Section 3.2(b) to the Biogen Intellectual
+Property Rights and Biogen's rights in and to the Collaboration Technology shall
+not extend to the development manufacture, import, marketing, use or sale of
+Ontogeny Products based on an Ontogeny Hedgehog Protein in any disease
+indications that Biogen has a Good Faith Intent to Develop. Biogen shall notify
+Ontogeny if at any time Biogen no longer has a Good Faith Intent to Develop such
+disease indications. The license granted to Ontogeny by Biogen under this
+Section 3.2 (b) shall be royalty bearing solely with respect to an Ontogeny
+Product that is covered by a Valid Claim of any Biogen Patent Rights or embodies
+any of the Biogen Technology (a "Royalty Bearing Ontogeny Product"), and
+otherwise such license shall be non-royalty bearing with respect to an Ontogeny
+Product (a "Non-Royalty Bearing Ontogeny Product"). Royalties shall be
+calculated in accordance with the rates set forth in Section 4.7(b) below. In
+the event that Biogen owes a royalty to a third party on the sale of a
+Non-Royalty Bearing Ontogeny Product, Ontogeny shall reimburse Biogen for the
+royalty paid to the third party on account of such sales, up to the amount that
+would be payable by Ontogeny to Biogen if such Ontogeny Products were Royalty
+Bearing Ontogeny Products. Subject to Section 2.4 and Section 3.3(b), Biogen
+retains all rights under the Biogen Intellectual Property Rights and all of
+Biogen's rights in and to the Collaboration Technology, with respect to products
+other than Ontogeny Products.
+
+          (c) License Grant by Biogen - Outside the Field. Commencing on the
+Effective Date, Biogen shall grant to Ontogeny, and Ontogeny shall accept, a
+non-royalty bearing, exclusive license in the Territory, with the right to grant
+sublicenses consistent with Section 3.5, under Biogen's rights in and to the
+Collaboration Technology, (excluding Biogen's rights in Biogen Gene Therapy
+Technology) to develop, make, have made, import, use, have used, offer to sell,
+sell and have sold outside the Field products that comprise a Hedgehog-based
+Molecular Entity ("Outside the Field Products"); provided, however, that such
+license to develop, make, have made, import, use, have used, offer to sell, sell
+and have sold Outside the Field Products with respect to Hedgehog Specific Gene
+Therapy Collaboration Technology shall be granted only upon the termination of
+the Research Phase. In the event that Biogen owes a royalty to a third party on
+the sale of Outside the Field Products, Ontogeny shall reimburse Biogen for the
+royalty paid to the third party on account of such sales, up to the amount that
+would be payable by Ontogeny to Biogen if such Outside the Field Products were
+Royalty Bearing Ontogeny Products.
+
+      3.3 Other License Grants.
+
+          (a) License Grant by Ontogeny for Non-Hedgehog Products. Upon the
+Effective Date, Ontogeny shall grant to Biogen, and Biogen shall accept, a
+non-royalty bearing non-exclusive license, under Ontogeny's rights in and to the
+Collaboration Technology, to (i) practice the Collaboration Technology for the
+purpose of discovering and developing products that do not embody, or are not
+developed through the use of, Technology related to the Vertebrate Hedgehog
+Family (a "Biogen Non-Hedgehog Product"), and (ii) make, have made, import, use,
+have used, offer to sell, sell and have sold Biogen Non-Hedgehog Products in and
+outside the Field within the Territory. Such license shall include the right to
+grant sublicenses pursuant to Section 3.5.
+
+
+                                       17
+<PAGE>
+
+          (b) License Grant by Biogen for Non-Hedgehog Products. Upon the
+Effective Date, Biogen shall grant to Ontogeny, and Ontogeny shall accept, a
+non-royalty bearing, non-exclusive license, under Biogen's rights in and to the
+Collaboration Technology, excluding Biogen Gene Therapy Technology, Fundamental
+Hedgehog Gene Therapy Collaboration Technology and Hedgehog Specific Gene
+Therapy Collaboration Technology, to (i) practice the Collaboration Technology
+for the purpose of discovering and developing products that do not comprise a
+Hedgehog-based Molecular Entity (an "Ontogeny Non-Hedgehog Product"), and (ii)
+make, have made, import, use, have used, offer to sell, sell and have sold in
+the Territory Ontogeny Non-Hedgehog Products in and outside the Field. Such
+license shall include the right to grant sublicenses pursuant to Section 3.5.
+
+      3.4 Restrictions on Licenses Granted by Ontogeny. The licenses granted by
+Ontogeny to Biogen under the Ontogeny Intellectual Property Rights, pursuant to
+Section 3.1 (a) and Section 3.2(a), are subject to the relevant terms and
+conditions of the Columbia License Agreement and the Harvard License Agreement
+(the "In-License Agreements"). To the extent that the licenses granted to
+Ontogeny under the In-License Agreements become non-exclusive or terminate, the
+licenses granted to Biogen hereunder with respect to the technology subject to
+the In-License Agreements shall similarly become non-exclusive or terminate, or,
+pursuant to the terms of the Harvard License Agreement, shall be assigned to the
+President and Fellows of Harvard College ("Harvard") at Harvard's option.
+
+      3.5 Sublicensing Obligations. Biogen shall have the right to grant
+sublicenses pursuant to Section 3.2(a) and Section 3.3(a), and Ontogeny shall
+have the right to grant sublicenses pursuant to Section 3.2(b), 3.2 (c) and
+3.3(b), provided , however, that any sublicense granted by Biogen or Ontogeny,
+as the case may be, shall be subject to, and consistent with, the terms and
+conditions of this Agreement, and shall provide that the Sublicensee shall not
+further sublicense except on terms consistent with this Section 3.5. Biogen or
+Ontogeny, as the case may be, shall provide Ontogeny or Biogen, as the case may
+be, with a copy of any sublicense granted pursuant to this Agreement within
+thirty (30) days after the execution thereof. Such copy may be redacted to
+exclude confidential scientific information and other information required by a
+Sublicensee to be kept confidential, provided that all relevant financial terms
+and information shall be retained therein. In the event of a material default by
+any Sublicensee under a sublicense agreement, the Party granting the sublicense
+shall inform the other Party and take such action, after consultation with such
+other Party, which in the reasonable business judgment of the Party granting
+such sublicense shall address such default.
+
+      3.6 Commercialization Option. Subject to the fulfillment by Biogen of its
+obligations under this Agreement, Ontogeny hereby grants to Biogen an option to
+initiate one or more Development Programs (the "Option"). Such Option is
+exercisable by Biogen at any time prior to the termination of the Research Phase
+upon prior written notice to Ontogeny; provided, however, that in the event that
+Biogen terminates this Agreement on or prior to July 1, 2000 or does not
+initiate at least one Development Program on or prior to July 1, 2000, (i) the
+Option shall terminate and (ii) Biogen shall pay the Break Up Fee set forth in
+Section 4.5 below. Such notice shall indicate the Ontogeny Hedgehog Protein that
+is the subject of the Development Program that is to be initiated. In the event
+that Biogen initiates more than one Development Program in the exercise of the
+Option, Biogen shall provide Ontogeny with written notification of each Ontogeny
+Hedgehog Protein that is to be the subject of a Development Program, and
+
+
+                                       18
+<PAGE>
+
+  Confidential materials omitted and filed separately with the Securities and
+                Exchange Commission. Asterisks denote omissions.
+
+shall, on or before the end of the Research Phase, designate a Lead Protein.
+Biogen may change its Lead Protein at any time by providing written notification
+to Ontogeny, provided that no such change shall occur after the first extension,
+if any, requested under Section 6.2(l), and no such change shall affect the
+timeframes set forth in Section 6.2 with respect to diligence obligations.
+
+      3.7 Right of First Offer. In the event that Biogen exercises the Option
+pursuant to Section 3.6, Ontogeny shall grant to Biogen, a right of first offer
+(the "Right of First Offer") to collaborate with Ontogeny on one (1) project
+that Ontogeny desires to exploit in collaboration with a third party (a "New
+Collaboration Project") in which the Parties shall practice Ontogeny Technology,
+Collaboration Technology and/or any other Technology, whether or not related to
+the Vertebrate Hedgehog Family, which (a) Ontogeny owns or otherwise has the
+right to grant licenses under, (b) is not being practiced as part of a
+Development Program, (c) is not being practiced as part of a collaboration
+between Ontogeny and a third party and (d) is not a technology that Biogen
+previously had an opportunity to pursue under this Agreement, (the "Uncommitted
+Ontogeny Technology"), in order to discover and develop therapeutic or
+prophylactic products for use in or outside the Field, other than products (i)
+based on the administration of cells outside of Gene Therapy or (ii) that are to
+be developed for any of the disease indications listed in Schedule B. Such right
+shall (x) be exercisable only during a period of time in which there is any
+borrowing outstanding under the Line of Credit, (y) terminate upon the earliest
+of (1) the execution of a definitive agreement with respect to a New
+Collaboration Project, if any, (2) the termination by Biogen of this Agreement
+or the Commercialization Phase pursuant to Section 2.2(e)(ii), if any, and (3)
+the end of the twenty-fourth (24th) month following the initiation of the
+Commercialization Phase, and (z) operate as follows:
+
+      (1)   Ontogeny shall promptly send to Biogen a reasonably detailed
+            notification of each research and development project contemplated
+            by Ontogeny involving the practice of any Uncommitted Ontogeny
+            Technology which Ontogeny desires to exploit in collaboration with a
+            third party (each, a "Proposed Project").
+
+      (2)   (Biogen shall respond to Ontogeny within [**] of receipt of such
+            notification indicating its interest in collaborating with Ontogeny
+            with respect to the Proposed Project and in obtaining rights to any
+            intellectual property resulting therefrom.
+
+      (3)   For a period of up to [**] after Ontogeny receives notice of
+            Biogen's intention to collaborate with Ontogeny with respect to the
+            Proposed Project, the Parties shall negotiate in good faith a
+            reasonable agreement based upon the anticipated contribution of the
+            Parties to such project and to the development and commercialization
+            of any products resulting therefrom.
+
+      (4)   In the event that (i) Biogen fails to respond to Ontogeny [**] of
+            notification by Ontogeny of the Proposed Project, or (ii) Biogen
+            indicates that it is not interested in collaborating with Ontogeny
+            which respect to the Proposed Project, or (iii) the Parties fail to
+            reach a definitive agreement with respect to the Proposed Project
+            within [**] following the receipt by Ontogeny of notice of Biogen's
+            intention to collaborate with Ontogeny on such project (a "Loss of
+            Right Event"), Ontogeny shall be free to pursue the Proposed Project
+            that was the subject of the notification
+
+
+                                       19
+<PAGE>
+
+  Confidential materials omitted and filed separately with the Securities and
+                Exchange Commission. Asterisks denote omissions.
+
+            and commercialize any products that result therefrom in
+            collaboration with one or more third parties.
+
+      (5)   Ontogeny shall not discuss a Proposed Project with any third party
+            unless and until the occurrence of a Loss of Right Event with
+            respect to such Proposed Project, provided, however, that if
+            discussion of a Proposed Project is initiated by a third party, then
+            Ontogeny may inform such third party of Biogen's Right of First
+            Offer but must refrain from further discussions with such third
+            party with respect to such Proposed Project unless and until the
+            occurrence of a Loss of Right Event.
+
+                         Article 4. Payment Obligations
+
+      4.1 Research License Fee and Stock Purchase. In consideration of the
+rights granted to Biogen under this Agreement, Biogen (a) paid Ontogeny a
+non-refundable, non-creditable research license fee of One Million Dollars
+($1,000,000) on the Original Effective Date, and (b) purchased from Ontogeny
+shares of Series C Convertible Preferred Stock of Ontogeny pursuant to a Series
+C Convertible Preferred Stock Purchase Agreement dated as of the Original
+Effective Date (the "Preferred Stock Purchase Agreement").
+
+      4.2 Development Program Fee and Stock Purchase. In the event that Biogen
+exercises the Option pursuant to Section 3.6 and initiates one or more
+Development Programs, Biogen shall, for each Development Program initiated by
+Biogen, on each date on which the Option with respect to such Development
+Program is exercised, (a) pay to Ontogeny a nonrefundable, non-creditable
+development program fee of Three Million Dollars ($3,000,000), and (b) purchase
+from Ontogeny, for an aggregate purchase price of Three Million Dollars
+($3,000,000), shares of preferred stock of Ontogeny, pursuant to a stock
+purchase agreement substantially in the form of the Preferred Stock Purchase
+Agreement, at a price per share equal to the fair market value thereof as
+determined in good faith by the Parties or, absent such determination within
+thirty (30) days after the Option with respect to such Development Program is
+exercised, by an investment banking firm mutually agreed upon by the Parties,
+provided, however, that if, during the six (6) months prior to such time,
+Ontogeny has sold shares of preferred stock with substantially similar rights in
+a transaction resulting in at least Five Hundred Thousand Dollars ($500,000) of
+proceeds, the price to be paid by Biogen shall not be lower than the price in
+such transaction. The preferred stock shall have terms (other than the price)
+equivalent to the terms of the Series C Convertible Preferred Stock of the
+Company ( the "Corporate Partner Preferred Stock").
+
+      4.3 Research Funding.
+
+          (a) Research Phase. In support of the research to be conducted by
+Ontogeny in the course of the Research Program, Biogen shall pay Ontogeny, at a
+rate of [**] per FTE, an amount equal to (i) [**] for each Contract Year during
+the Research Phase.
+
+          (b) Payment Timing. The research funding set forth in this Section
+4.3(a) shall be paid to Ontogeny by Biogen on a quarterly basis, with the
+payment for the first three (3) month period having been made within ten (10)
+days following the Original Effective Date and
+
+
+                                       20
+<PAGE>
+
+  Confidential materials omitted and filed separately with the Securities and
+                Exchange Commission. Asterisks denote omissions.
+
+with the payment for each succeeding three (3) month period made within ten (10)
+days of the first day of each such three (3) month period.
+
+      4.4 Follow-on Research Support Fee. Biogen shall (i) pay Ontogeny
+follow-on research support fees of One Million Dollars ($1,000,000) per year for
+Contract Years three, four and five of the Research Phase (the "Follow-on
+Research Support Fees"), with the first Follow-on Research Support Fee payable
+on the Effective Date and the subsequent Follow-on Research Support Fees payable
+upon commencement of the fourth and fifth Contract Years, and (ii) on the
+Effective Date, enter into a Note Purchase Agreement, substantially in the form
+attached hereto as Exhibit A.
+
+      4.5 Breakup Fee. In the event that Biogen does not exercise the Option to
+initiate the Commercialization Phase pursuant to Section 3.6 on or prior to July
+1, 2000 or Biogen terminates this Agreement and the Research Phase prior to July
+1, 2000, Biogen shall pay Ontogeny a fee of One Million Five Hundred Thousand
+Dollars ($1,500,000) upon termination of the Research Phase (the "Break Up
+Fee").
+
+      4.6 Milestone Payments. Within thirty (30) days following the occurrence
+of the milestones specified below, Biogen shall make the following
+nonrefundable, non-creditable payments to Ontogeny:
+
+      (1)   With respect to each Ontogeny Hedgehog Protein that is the subject
+            matter of a Development Program, a sum of [**] upon the filing of
+            the [**] for the [**] comprising a [**] based on such [**] for the
+            [**].
+
+      (2)   With respect to each Ontogeny Hedgehog Protein that is the subject
+            matter of a Development Program, a sum of [**] upon the initiation
+            of the first Phase I clinical trial in any country in the Territory
+            for the first Licensed Product comprising a Hedgehog based Molecular
+            Entity based on such Ontogeny Hedgehog Protein that uses a delivery
+            mode and formulation that is fully differentiated from the first
+            Licensed Product comprising a Hedgehog-based Molecular Entity based
+            on such Ontogeny Hedgehog Protein.
+
+      (3)   With respect to each Ontogeny Hedgehog Protein that is the subject
+            matter of a Development Program, a sum of [**] upon the completion
+            of the first Phase II clinical trial in any country in the Territory
+            for the first Licensed Product comprising a Hedgehog-based Molecular
+            Entity based on such Ontogeny Hedgehog Protein for the first Disease
+            Indication within a Therapeutic Area.
+
+      (4)   With respect to each Ontogeny Hedgehog Protein that is the subject
+            matter of a Development Program, a sum of [**] upon the completion
+            of the first Phase III clinical trial in which the primary endpoint
+            is reached at an acceptable level of toxicity in any country in the
+            Territory for the first Licensed Product comprising a Hedgehog-based
+            Molecular Entity based on such Ontogeny Hedgehog, Protein for each
+            new Disease Indication that represents a unique and different
+            disease and not a label expansion or other extension into a
+            different segment of the same disease.
+
+
+                                       21
+<PAGE>
+
+  Confidential materials omitted and filed separately with the Securities and
+                Exchange Commission. Asterisks denote omissions.
+
+      (5)   With respect to each Ontogeny Hedgehog Protein that is the subject
+            matter of a Development Program, a sum of [**] upon the approval of
+            the first NDA for the first Licensed Product comprising a
+            Hedgehog-based Molecular Entity based on such Ontogeny Hedgehog
+            Protein for each new Disease Indication that represents a unique and
+            different disease and not a label expansion or other extension into
+            a different segment of the same disease.
+
+      4.7 Royalties.
+
+          (a) Royalty Payments to Ontogeny on Licensed Products. Biogen shall
+pay Ontogeny earned royalties on the Net Sales of each Licensed Product by
+Biogen, its Affiliates and/or its Sublicensees at the following rates:
+
+               Net Sales of Licensed              Royalty Rate
+             Product in the Territory           on Net Sales of
+                in a Calendar Year              Licensed Product
+                ------------------              ----------------
+
+            less than $[**]                           [**]
+
+            [**] Million - $[**]
+            Million                                   [**]
+
+            greater than $[**] Million                [**]
+
+      The applicable royalty rate with respect to a Licensed Product for a given
+calendar year shall be determined by the [**] of such Licensed Product [**] and
+shall be [**] to the [**] in [**]. Royalties shall be paid to Ontogeny on a
+country-by-country basis from the date of the First Commercial Sale of a
+Licensed Product in a country until (i) [**] after such First Commercial Sale or
+(ii) for as long as such Licensed Product, or its manufacture, use or sale, is
+covered by a Valid Claim of any Ontogeny Patent Rights or any Collaboration
+Patent Rights, whichever of (i) or (ii) is longer. In no event shall more than
+one royalty be due Ontogeny for the sale of any Licensed Product.
+
+      Notwithstanding the foregoing, (y) the royalty rates set forth in the
+above paragraph shall be reduced, on a country-by-country basis, by [**] on the
+Net Sales of any Licensed Product which, or the manufacture, use or sale of
+which, is not covered by a Valid Claim of any Ontogeny Patent Rights or any
+Collaboration Patent Rights solely or jointly owned by Ontogeny in the country
+where such Licensed Product is manufactured or sold, and (z) in the event that
+Biogen, its Affiliates or its Sublicensees, in order to manufacture, use or sell
+a Licensed Product in a country in the Territory, reasonably determines that it
+must make a royalty payment to one or more third parties (a "Biogen Third Party
+Payment") to obtain a license or similar right to manufacture, use or sell such
+Licensed Product, Biogen may reduce the annual royalty payment due Ontogeny, on
+a country-by-country basis, by the amount of such Biogen Third Party Payment,
+provided, however, that such reductions set forth in (y) and (z) shall not
+reduce the annual royalty payment otherwise due Ontogeny by more than [**].
+
+
+                                       22
+<PAGE>
+
+  Confidential materials omitted and filed separately with the Securities and
+                Exchange Commission. Asterisks denote omissions.
+
+          (b) Royalty Payments to Biogen on Ontogeny Products.
+
+          (i) Sales by Ontogeny and/or Ontogeny Affiliates. Ontogeny shall pay
+Biogen earned royalties on the Net Sales of each Royalty Bearing Ontogeny
+Product by Ontogeny and/or its Affiliates at the following rates:
+
+               Net Sales of Royalty
+                      Bearing
+              Ontogeny Product in the             Royalty Rate
+                     Territory          on Net Sales of Royalty Bearing
+                in a Calendar Year              Ontogeny Product
+                ------------------              ----------------
+
+            less than $ [**] Million                  [**]
+
+            [**] Million - $[**]
+            Million                                   [**]
+
+            greater than $[**] Million                [**]
+
+      The applicable royalty rate with respect to a Royalty Bearing Ontogeny
+Product for a given calendar year shall be determined by the total Net Sales of
+such Royalty Bearing Ontogeny Product in such year and shall be applied
+retroactively to the first dollar of such Net Sales in such year. Royalties
+shall be paid to Biogen on a country-by-country basis from the date of the First
+Commercial Sale of a Royalty Bearing Ontogeny Product in a country until (i)
+[**] after such First Commercial Sale or (ii) for as long as such Royalty
+Bearing Ontogeny Product, or its manufacture, use or sale, is covered by a Valid
+Claim of any Biogen Patent Rights (and/or Collaboration Patent Rights solely or
+jointly owned by Biogen in the case of Non-Royalty Bearing Ontogeny Products or
+Outside the Field Products which are treated as Royalty Bearing Ontogeny
+Products under Section 3.2(b) or 3.2(c)) whichever of (i) or (ii) is longer. In
+no event shall more than one royalty be due Biogen for the sale of any Royalty
+Bearing Ontogeny Product.
+
+      Notwithstanding the foregoing, (y) the royalty rates set forth in the
+above paragraph shall be reduced, on a country-by-country basis, by [**] on the
+Net Sales of any Royalty Bearing Ontogeny Product which, or the manufacture, use
+or sale of which, is not covered by a Valid Claim of any Biogen Patent Rights
+(and/or Collaboration Patent Rights solely or jointly owned by Biogen in the
+case of Non-Royalty Bearing Ontogeny Products or Outside the Field Products
+which are treated as Royalty Bearing Ontogeny Products under Section 3.2(b) or
+3.2(c)) in the country where such Royalty Bearing Ontogeny Product is
+manufactured or sold, and (z) in the event that Ontogeny or its Affiliates, in
+order to manufacture, use or sell an Royalty Bearing Ontogeny Product in a
+country in the Territory, reasonably determines that it must make a royalty
+payment to one or more third parties, other than under the Columbia License
+Agreement and the Harvard License Agreement (an "Ontogeny Third Party Payment")
+to obtain a license or similar rights to manufacture, use or sell such Royalty
+Bearing Ontogeny Product, Ontogeny may reduce the annual royalty payment due
+Biogen, on a country-by-country basis, by the amount of such Ontogeny Third
+Party Payment, provided, however, that such reductions set forth in (y) and (z)
+shall not reduce the annual royalty payment otherwise due Biogen by more than
+[**].
+
+
+                                       23
+<PAGE>
+
+  Confidential materials omitted and filed separately with the Securities and
+                Exchange Commission. Asterisks denote omissions.
+
+          (ii) Sales by Ontogeny Sublicensees. In the event that Ontogeny grants
+a sublicense to offer to sell and sell Royalty Bearing Ontogeny Product pursuant
+to Section 3.5. Ontogeny shall pay Biogen [**] of any royalties and other income
+that Ontogeny receives as a result of an Ontogeny Sublicensee's sale of any
+Royalty Bearing Ontogeny Product ("Ontogeny Sublicense Income").
+
+          (c) Royalty Reports and Payments. During the term of this Agreement
+and for so long thereafter as Biogen or Ontogeny, as the case may be, is
+required to report royalties payable under this Section 4.7, Biogen or Ontogeny
+as the case may be, shall deliver to Ontogeny or Biogen, as the case may be,
+within thirty (30) days after March 31, June 30, September 30 and December 31 of
+each year a report indicating (i) Gross Sales for each Licensed Product or
+Royalty Bearing Ontogeny Product, as the case may be, on a country-by-country
+basis, (ii) Net Sales for each Licensed Product or Royalty Bearing Ontogeny
+Product, as the case may be, on a country-by-country basis, including an
+accounting of the deductions from Net Sales permitted by the definition thereof,
+(iii) in the case of a report from Ontogeny, the Ontogeny, the Ontogeny
+Sublicense Income and (iv) total royalties owed, provided, however, that no such
+report shall be required prior to the First Commercial Sale of such Licensed
+Product or Royalty Bearing Ontogeny Product, as the case may be. Simultaneously
+with the delivery of each such report, Biogen or Ontogeny, as the case may be,
+shall pay Ontogeny or Biogen, as the case may be, the royalty payment due under
+this Agreement for the period covered by such report. If no royalties are due,
+it shall be so reported.
+
+      4.8 Payment Currency and Interest on Payments Past Due. All amounts due
+under this Agreement shall be paid to the designated Party in United States
+currency by wire transfer to an account in a United States bank specified by
+such Party or in such other form and/or manner as such Party may reasonably
+request. The payments due on sales in currencies other than United States
+dollars shall be calculated using the appropriate exchange rate of such currency
+quoted in the Wall Street Journal on the close of business on the last business
+day of the calendar quarter for which such payment is made. Any amounts due
+under this Agreement that are not paid when due shall bear interest at the
+lesser of (i) an annualized rate of one and one-half percent (1.5%) over the
+prime rate then in effect at BayBank and (ii) the highest rate permitted by
+applicable law.
+
+      4.9 Tax Withholding. Biogen and Ontogeny shall use all reasonable and
+legal efforts to reduce tax withholding on payments made to either Party
+hereunder. Notwithstanding such efforts, if the Parties conclude that tax
+withholdings under the laws of any country in the Territory are required with
+respect to payments to either party under this Article 4, the Party required to
+withhold taxes (the "Withholding Party") shall withhold the required amount and
+pay it to the appropriate governmental authority. In such case, the Withholding
+Party shall promptly provide the other Party with original receipts or other
+evidence sufficient to allow such other Party to obtain the benefits of such tax
+withholdings.
+
+      4.10 Records; Audits. For a period not less than three (3) years after the
+relevant period, each Party shall keep full, true and accurate books of account
+sufficient to determine the amounts payable pursuant to this Article 4. Each
+Party shall have the right, not more than once during any calendar year, to have
+the books and records of the other Party audited by a qualified independent
+accounting firm of its choosing, under appropriate confidentiality provisions,
+to
+
+
+                                       24
+<PAGE>
+
+  Confidential materials omitted and filed separately with the Securities and
+                Exchange Commission. Asterisks denote omissions.
+
+ascertain the accuracy of the reports and payments hereunder and compliance
+by the other Party and its Affiliates and Sublicensees with their obligations
+under this Agreement. Such audit shall be conducted upon at least thirty (30)
+days' advance notice during normal business hours and in a manner that does not
+interfere unreasonably with the business of the audited entity. If the audited
+Party has underpaid or overbilled an amount due under this Agreement, the
+audited Party shall promptly pay or refund the appropriate amount to the other
+Party, and, if the amount is more than five percent (5%), the audited Party
+shall also reimburse the other Party for the cost of such audit.
+
+                           Article 5. Line of Credit
+
+      5.1 Availability of Line of Credit. If Biogen exercises its Option
+pursuant to Section 3.6 to initiate one or more Development Programs, it shall
+make available to Ontogeny a line of credit of [**] for each Development Program
+initiated by Biogen (each such [**] line of credit being referred to herein
+individually as "a Line of Credit" and collectively as the "the Line of
+Credit"). Each Line of Credit shall be made available to Ontogeny until the
+earlier to occur of (i) the third anniversary of the date on which such Line of
+Credit first became available under this Section or (ii) the date of notice of
+termination of the Development Program to which such Line of Credit relates;
+provided, that Biogen may cease making borrowings available under the Line of
+Credit if Ontogeny is in default under the Note (as that term is defined below)
+evidencing borrowings under such Line of Credit. If and to the extent Ontogeny
+elects from time to time to borrow funds from Biogen under the Line of Credit,
+it shall provide at least three days' notice of each borrowing, and Biogen
+shall, within such three-day period, make the requested funds available to
+Ontogeny by wire transfer to an account designated by Ontogeny. All borrowings
+must be in increments of at least Fifty Thousand Dollars ($50,000) and shall be
+evidenced by a promissory note substantially in the form attached hereto as
+Schedule E (the "Note"). Interest on each borrowing under the Line of Credit
+will accrue at a rate equal to the one-month LIBOR Rate in effect at the close
+of business on the day prior to the date of such borrowing, as quoted in The
+Wall Street Journal plus one hundred (100) basis points, and shall be paid on
+the twelve (12) month anniversary date of such borrowing.
+
+      5.2 Repayment. Ontogeny must repay all principal and accrued interest
+under each Line of Credit no later than the earliest of (i) the third (3rd)
+anniversary of the date on which such Line of Credit first became available
+pursuant to Section 5.1, (ii) the second (2nd) anniversary of the termination of
+the Development Program to which such Line of Credit relates, pursuant to
+Section 2.2(b) and (iii) the second (2nd) anniversary of the termination of this
+Agreement (the "Repayment Date"). Ontogeny may elect to repay the borrowings
+under each Line of Credit in any one of the following three ways or in any
+combination of the ways set forth in clauses (i) and (ii) below:
+
+          (i) Cash. Ontogeny may elect to repay in cash the principal amount of,
+and accrued interest on, the borrowings, then outstanding.
+
+          (ii) Equity. Ontogeny may elect to issue to Biogen a number of shares
+of its capital stock having a fair market value equal to the principal amount
+of, and accrued interest on, the borrowings then outstanding. If Ontogeny is, at
+the time of repayment, a public company whose Common Stock is registered under
+Section 12 of the Securities Exchange Act of 1934,
+
+
+                                       25
+<PAGE>
+
+such capital stock shall be Common Stock and fair market value thereof shall be
+equal to the average closing price of the Common Stock on the Nasdaq National
+Market (or other principal securities exchange on which the Common Stock is then
+traded) during the ten (10) trading days ending on the day prior to the
+Repayment Date. If Ontogeny is not then such a public company, such capital
+stock shall be Corporate Partner Preferred Stock conveyed pursuant to a stock
+purchase agreement substantially in the form of the Preferred Stock Purchase
+Agreement, and the fair market value of such preferred stock shall be determined
+by agreement of the Parties or, if no such agreement is reached within thirty
+(30) days after the Repayment Date, by a mutually agreed upon investment banking
+firm, provided, however, that if Ontogeny has sold shares of its preferred stock
+with substantially similar rights within six (6) months prior to the Repayment
+Date in a transaction resulting, in at least Five Hundred Thousand Dollars
+($500,000) of proceeds, the price per share attributed to the shares issued as
+repayment for borrowings under the Line of Credit shall not be lower than the
+price in such transaction.
+
+          (iii) Technology. Ontogeny may elect to license to Biogen specified
+Technology owned by Ontogeny having a value equal to the principal amount of,
+and accrued interest on, the borrowings being repaid. The value of such license
+shall be determined by agreement of the Parties and the unpaid principal amount
+of, and accrued interest on, borrowings under the Line of Credit shall be
+credited against all or part of Biogen's payment obligation for such license. If
+no agreement as to the value of such license specified by Ontogeny is reached
+within thirty (30) days after the Repayment Date, and if Ontogeny does not, in
+such event, elect to repay the outstanding borrowings then due under the Line of
+Credit in cash or by issuance of shares under clauses (i) or (ii) above, Biogen
+shall have the right solely to require that such borrowings be repaid in the
+manner set forth in clause (ii) above.
+
+                    Article 6. Commercialization Obligations
+
+      6.1 General. In that event that Biogen exercises the Option pursuant to
+Section 3.6 and initiates a Development Program, Biogen agrees to use
+commercially reasonable efforts to conduct the required clinical development
+activities and seek regulatory approval in all the Major Market Countries of at
+least one (1) Licensed Product that comprises a Hedgehog-based Molecular Entity
+based on the Ontogeny Hedgehog Protein that is the subject matter of the
+Development Program. Such efforts shall not be less than the efforts expended by
+Biogen in connection with its other development projects that are at a
+comparable stage in the development process and are of comparable commercial
+promise. Upon receipt of regulatory approval in a Major Market Country, Biogen
+agrees to use commercially reasonable efforts to market and sell such Licensed
+Product in such Major Market Country. In the event that Biogen initiates more
+than one Development Program, the obligations set forth in this Section 6.1
+shall attach to at least one (1) Licensed Product that comprises a
+Hedgehog-based Molecular Entity based on each Ontogeny Hedgehog Protein that is
+the subject matter of a Development Program. Notwithstanding the foregoing and
+the provisions of Section 6.2 below, if two or more Ontogeny Hedgehog Proteins
+that are the subject matter of a Development Programs are Comparable Proteins,
+the obligations set forth in this Article 6 shall only apply to one of the
+Comparable Proteins.
+
+      6.2 Product Objectives. Without limiting the generality of the obligations
+set forth in Section 6.1, Biogen agrees to use commercially reasonable efforts
+to achieve each of the
+
+
+                                       26
+<PAGE>
+
+  Confidential materials omitted and filed separately with the Securities and
+                Exchange Commission. Asterisks denote omissions.
+
+following objectives for at least one Hedgehog-based Molecular Entity based on
+each Ontogeny Hedgehog Protein that is the subject matter of a Development
+Program:
+
+      (1)   Within [**] of the date of the initiation of the Development
+            Program, commence animal toxicity studies for a candidate Licensed
+            Product that comprises such Hedgehog-based Molecular Entity (a
+            "Candidate Licensed Product"), provided that Biogen may elect to
+            extend such commencement of animal toxicity studies for any Non Lead
+            Protein for either [**] or [**] by (i) providing written notice of
+            such election to Ontogeny [**] of the initiation of the Development
+            Program for such Non-Lead Protein and (ii) paying Ontogeny an
+            extension fee of [**] per year of extension for each Non-Lead
+            Protein that the extension shall apply to.
+
+      (2)   Within [**] of commencement of animal toxicity studies of a
+            Candidate Licensed Product, submit an IND based on a Candidate
+            Licensed Product.
+
+      (3)   Within [**] of being legally permitted to do so, initiate and
+            diligently pursue clinical evaluation of a Candidate Licensed
+            Product.
+
+      (4)   Within [**] after commencement of clinical evaluation, submit an NDA
+            based on a Candidate Licensed Product.
+
+      6.3 Consequences of Failure to Meet Commercialization Objectives. In the
+event that Biogen shall fail to satisfy its commercialization obligations as set
+forth in Section 6.1 and/or Section 6.2, as agreed between the Parties or
+determined pursuant to the dispute resolution process set forth in Section 11.4,
+Ontogeny shall notify Biogen. In the event that Biogen has not reached the
+objectives set forth in Section 6.2, but has used commercially reasonable
+efforts to try to achieve such objectives, the Parties shall agree on a revised
+schedule for achieving such objectives. In the event that Biogen has not reached
+the objectives set forth in Section 6.2 and has not used commercially reasonable
+efforts to try to achieve such objectives, then Biogen's license with respect to
+the commercialization of Licensed Products that comprise any Hedgehog-based
+Molecular Entity based on the relevant Ontogeny Hedgehog Protein and any
+Comparable Protein shall terminate (a "Mandatory Termination"), as Ontogeny's
+sole and exclusive remedy.
+
+                    Article 7. Intellectual Property Rights
+
+      7.1 Ownership.
+
+          (a) Technology. Except as otherwise provided in this Agreement (i)
+Biogen shall retain its rights to the Biogen Technology, Biogen Gene Therapy
+Technology, the Biogen Intellectual Property Rights and the Biogen Gene Therapy
+Intellectual Property Rights and (ii) Ontogeny shall retain its rights to the
+Ontogeny Technology and the Ontogeny Intellectual Property Rights. Each Party
+shall solely own all Collaboration Technology that is conceived and reduced to
+practice exclusively by such Party ("Ontogeny's Solely-Owned Collaboration
+Technology" or "Biogen's Solely-Owned Collaboration Technology", as the case may
+be) and all intellectual property rights therein. The Parties shall jointly own
+all Collaboration Technology that is conceived or reduced to practice jointly by
+the Parties (the "Jointly-Owned Collaboration Technology") and all intellectual
+property rights therein.
+
+
+                                       27
+<PAGE>
+
+          (b) Trademarks. Biogen shall own all trademarks that Biogen adopts and
+uses with respect to any Licensed Product or Biogen Non-Hedgehog Product.
+Ontogeny shall own all trademarks that Ontogeny adopts and uses with respect to
+any Ontogeny Product or Ontogeny Non-Hedgehog Product.
+
+      7.2 Prosecution and Maintenance of Patent Right.
+
+          (a) Responsibility of Biogen. Biogen shall, in its sole discretion,
+prepare, file, prosecute and maintain all patent applications and patents
+covering Biogen Technology, Biogen Gene Therapy Technology, Biogen's
+Solely-Owned Collaboration Technology and the Jointly-Owned Collaboration
+Technology. Biogen shall bear all costs incurred by it in carrying out the
+foregoing responsibilities. Should Biogen elect not to prepare, file, prosecute
+or maintain any patent or patent application covering Biogen's Solely-Owned
+Collaboration Technology (other than Biogen Gene Therapy Technology) or the
+Jointly-Owned Collaboration Technology, then Biogen shall (i) provide Ontogeny
+with written notice in sufficient time to permit Ontogeny to prepare, provide
+file, prosecute and maintain such patent of patent application, (ii) give
+Ontogeny the right, at its election and sole expense, to prepare, file,
+prosecute or maintain, in Biogen's name, such patent or patent application and
+(iii) offer reasonable assistance to Ontogeny in connection with such
+preparation, filing, prosecution or maintenance at no charge to Ontogeny except
+for reimbursement of reasonable out-of-pocket expenses incurred in rendering
+such assistance.
+
+          (b) Responsibility of Ontogeny. Ontogeny shall, in its sole
+discretion, prepare, file, prosecute and maintain all patent applications and
+patents covering Ontogeny Technology and Ontogeny's Solely-Owned Collaboration
+Technology. Ontogeny shall bear all costs incurred by it in carrying out the
+foregoing responsibilities. Should Ontogeny elect not to prepare, file,
+prosecute or maintain any patent or patent application covering Ontogeny's
+Solely-Owned Collaboration Technology or Ontogeny Technology, then Ontogeny
+shall (i) provide Biogen with written notice in sufficient time to permit Biogen
+to prepare, file, prosecute and maintain such patent or patent application, (ii)
+give Biogen the right, at its election and sole expense, to prepare, file,
+prosecute or maintain, in Ontogeny's name, such patent or patent application and
+(iii) offer reasonable assistance to Biogen in connection with such preparation,
+filing, prosecution or maintenance at no charge to Biogen except for
+reimbursement of reasonable out-of-pocket expenses incurred in rendering such
+assistance.
+
+          (c) Cooperation. Copies of all substantive communications to and from
+patent offices regarding applications or patents relating to the Collaboration
+Technology (other than Biogen Gene Therapy Technology) or Ontogeny Technology
+shall be provided to the other Party promptly after the receipt thereof; copies
+of proposed substantive communications to such patent offices shall be provided
+to the other Party in sufficient time before the due date in order to give the
+other Party an opportunity to comment on the content thereof. In the event that
+comments made by one Party (the "Non-prosecuting Party") to the other Party (the
+"Prosecuting Party") with respect to any substantive communications to or from
+any patent office regarding applications or patents relating to the
+Collaboration Technology are not accepted by the Prosecuting Party or if the
+Parties disagree on a particular approach to take with respect to the filing or
+prosecution of any application or patent relating to the Collaboration
+Technology, the Non-prosecuting Party shall have the right to request that the
+Prosecuting Party allow the Non-
+
+
+                                       28
+<PAGE>
+
+prosecuting Party to take whatever action is possible to protect the interest(s)
+of the Non-prosecuting Party, provided that the protection afforded the
+Prosecuting Party is not diminished. By way of example, but not of limitation,
+in the event that the Parties cannot agree on the scope of particular claims,
+the Prosecuting Party, at the request of the Non Prosecuting Party, shall add
+additional claims to the application as requested by the Non-prosecuting Party
+to the extent that it is possible to add such additional claims. If it is not
+possible to add such claims, the Prosecuting Party shall take whatever action is
+reasonably necessary for the Non-prosecuting Party to prosecute such claims in a
+continuation or divisional application. All expenses associated with the taking
+of such additional actions requested by the Non-prosecuting Party shall be borne
+by the Non-prosecuting Party.
+
+      7.3 Infringement by Third Parties.
+
+          (a) Reports of Infringement. Each Party shall promptly report in
+writing to the other Party during the term of this Agreement any (i) known
+infringement or suspected infringement in the Field of any Biogen Patent Rights,
+Ontogeny Patent Rights or Collaboration Patents Rights or (ii) unauthorized use
+or misappropriation in the Field of any Biogen Technology Ontogeny Technology or
+Collaboration Technology by a third party of which it becomes aware, and shall
+provide the other Party with all available evidence supporting said
+infringement, suspected infringement or unauthorized use or misappropriation.
+
+          (b) Right to Institute Suit. Except as provided in Section 7.3(d), the
+Party owning or controlling the relevant patents or Technology (the "Owning
+Party") shall have the right to initiate an infringement or other appropriate
+suit against any third party who at any time has infringed, or is suspected of
+infringing, any Biogen Patent Rights, Ontogeny Patent Rights or Collaboration
+Patent Rights, as the case may be, or is using without proper authorization or
+misappropriating all or any portion of the Biogen Technology, Ontogeny
+Technology or Collaboration Technology, as the case may be. For the purpose of
+this Section 7.3, both Biogen and Ontogeny shall be considered an Owning Party
+for Jointly-Owned Collaboration Technology.
+
+          (c) Conduct of Suit. An Owning Party who initiates an infringement or
+other appropriate suit pursuant to Section 7.3(b) (the "Initiating Party") shall
+have the sole and exclusive right to select counsel for any such suit. The
+Initiating Party shall, except as provided below, pay all expenses of the suit,
+including without limitation attorneys' fees and court costs, and keep all
+damages, settlement fees or other consideration for past infringement received
+as a result of such suit. In the case of any such suit, (i) the Initiating Party
+shall keep the other Party (the "Non-Initiating Party") promptly informed of the
+status of such suit and shall provide the Non-Initiating Party with copies of
+all documents filed in, and all written communications relating to, such suit;
+(ii) the Non-Initiating Party shall offer reasonable assistance to the
+Initiating Party in connection with such suit at no charge to the Initiating
+Party except for reimbursement of reasonable expenses incurred in rendering such
+assistance; and (iii) if necessary, the Non-Initiating Party shall join as a
+party to the suit but shall be under no obligation to participate except to the
+extent that such participation is required as the result of its being a named
+party to such suit. In the case of any suit, the Non-Initiating Party may, to
+the extent such Party's sales of Licensed Product or Ontogeny Product, as the
+case may be, are adversely affected by the infringing party's activities, within
+sixty (60) days after its receipt of
+
+
+                                       29
+<PAGE>
+
+notice from the Initiating Party of the commencement of such suit, elect to
+contribute up to an amount not to exceed fifty percent (50%) of the costs of
+such suit, and any damages settlement fees or other consideration for past
+infringement received as a result of such suit shall be shared by the Initiating
+Party and the Non-Initiating Party pro rata based on their respective sharing of
+the costs of such suit.
+
+          (d) Right of Non-Owning Party to Institute Suit. The Owning Party
+shall promptly advise the Non-Owning Party of its intent not to initiate an
+infringement or other appropriate suit pursuant to Section 7.3(b). In the event
+that the Owning Party shall have advised the Non-Owning Party of its intent not
+to initiate such suit or does not initiate such suit within sixty (60) days of
+becoming aware of a known or suspected infringement or an unauthorized use or
+misappropriation, then to the extent that the infringement or unauthorized use
+or misappropriation affects the Non-Owning Party's development, marketing or
+sale of a Hedgehog-based Molecular Entity, the Non-Owning Party, with the
+consent of the Owning Party, which consent shall not unreasonably be withheld,
+shall have the right to initiate an infringement or other appropriate suit. In
+exercising its rights pursuant to this Section 7.3(d), the Non-Owning Party
+shall have the sole and exclusive right to select counsel and shall pay all
+costs of the suit including without limitation attorneys' fees and court costs,
+provided, however, that the Owning Party, in its sole discretion, may elect,
+within sixty (60) days after its receipt of notice from the Non-Owning Party of
+the commencement of such suit, to contribute up to an amount not to exceed fifty
+percent (50%) of such costs. Any damages, settlement fees or other consideration
+for past infringement received as a result of such suit shall be shared by the
+Non-Owning Party and the Owning Party pro rata based on their respective sharing
+of the costs of such suit. If necessary, the Owning Party shall join as a party
+to the suit and shall participate only to the extent that such participation is
+required as a result of its being a named party to the suit or being the holder
+of, or inventor under, any patent at issue or being the owner of any Technology
+at issue. At the Non-Owning Party's request, the Owning Party shall offer
+reasonable assistance to the Non-Owning Party in connection therewith at no
+charge to the Non-Owning Party except for reimbursement of reasonable
+out-of-pocket expenses incurred in rendering such assistance. The Owning Party
+shall have the right to be represented in any such suit by its own counsel at
+its own expense.
+
+          (e) Biogen Gene Therapy Technology. This Section 7.3 shall not apply
+to any suit against any third party alleging infringement solely of Biogen Gene
+Therapy Patent Rights or use or misappropriation solely of Biogen Gene Therapy
+Technology.
+
+      7.4 Infringement of Third Party Rights. In the event that a third party at
+any time provides written notice of a claim to, or brings an action, suit or
+proceeding against, a Party or such Party's Affiliates or Sublicensees, claiming
+infringement of its patent rights or copyrights or unauthorized use or
+misappropriation of its Technology, based upon an assertion or claim arising out
+of the development, manufacture, use or sale of a Licensed Product, Ontogeny
+Product, Biogen Non-Hedgehog Product or Ontogeny Non-Hedgehog Product, such
+Party shall promptly notify the other Party of the claim or the commencement of
+such action, suit or proceeding, enclosing a copy of the claim and/or all papers
+served.
+
+
+                                       30
+<PAGE>
+
+              Article 8. Representations, Warranties and Covenants
+
+      8.1 Representations, Warranties and Covenants of Ontogeny. Ontogeny
+represents and warrants to Biogen that it has full right and authority to enter
+into this Agreement, and is not subject to any restriction that would prevent or
+impair the grant to Biogen of the licenses and sublicenses to be granted
+hereunder or the exercise by Biogen of such licenses. Ontogeny covenants that
+(a) it will not take any action that would in any way prevent Ontogeny from
+granting to Biogen the licenses and sublicenses contemplated under Article 3 or
+that would conflict with or alter the scope of the rights granted to Biogen
+under this Agreement, (b) it will take all actions required to maintain the
+Columbia License Agreement and the Harvard License Agreement in effect and
+exclusive to Ontogeny with the right to grant sublicenses to Biogen, (c) it
+shall immediately send to Biogen a copy of any notice of default or breach
+received by Ontogeny under the Columbia License Agreement or the Harvard License
+Agreement and (d) all persons who perform work for Ontogeny in connection with
+Ontogeny's obligations under this Agreement will have assigned their rights in
+any intellectual property arising from such work to Ontogeny.
+
+      8.2 Representations, Warranties and Covenants of Biogen. Biogen represents
+and warrants to Ontogeny that it has full right and authority to enter into this
+Agreement, and is not subject to any restriction that would prevent or impair
+the grant to Ontogeny of the licenses to be granted hereunder or the exercise by
+Ontogeny of such licenses. Biogen covenants that (a) it will not take any action
+that would in any way prevent Biogen from granting to Ontogeny the licenses
+contemplated in Article 3 or that would conflict with the rights granted to
+Ontogeny under this Agreement and (b) all persons who perform work for Biogen in
+connection with obligations under this Agreement will have assigned their rights
+in any intellectual property arising from such work to Biogen.
+
+      8.3 Disclaimers. THE FOREGOING REPRESENTATIONS, WARRANTIES AND COVENANTS
+ARE IN LIEU OF ALL OTHER REPRESENTATIONS, WARRANTIES AND COVENANTS NOT EXPRESSLY
+SET FORTH HEREIN. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING STATEMENT,
+ONTOGENY AND BIOGEN DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, WITH
+RESPECT TO EACH OF THEIR RESEARCH, DEVELOPMENT AND COMMERCIALIZATION EFFORTS
+HEREUNDER, INCLUDING, WITHOUT LIMITATION, WHETHER THE LICENSED PRODUCTS,
+ONTOGENY PRODUCTS, BIOGEN NON-HEDGEHOG PRODUCTS OR ONTOGENY NON-HEDGEHOG
+PRODUCTS CAN BE SUCCESSFULLY DEVELOPED OR MARKETED, THE ACCURACY, PERFORMANCE,
+UTILITY, RELIABILITY, TECHNOLOGICAL OR COMMERCIAL VALUE, COMPREHENSIVENESS,
+MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE WHATSOEVER OF THE LICENSED
+PRODUCTS, ONTOGENY PRODUCTS, BIOGEN NON-HEDGEHOG PRODUCTS OR ONTOGENY
+NON-HEDGEHOG PRODUCTS. EXCEPT AS PROVIDED IN SECTION 11.1 (PRODUCT LIABILITY
+INDEMNIFICATION), NEITHER ONTOGENY NOR BIOGEN SHALL BE LIABLE FOR SPECIAL,
+INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT
+BASED ON CONTRACT, TORT OR ANY OTHER LEGAL THEORY.
+
+
+                                       31
+<PAGE>
+
+                      Article 9. Confidential Information
+
+      9.1 Treatment of Confidential Information. Each Party hereto shall
+maintain the Confidential Information of the other Party in confidence, and
+shall not disclose, divulge or otherwise communicate such Confidential
+Information to others, or use it for any purpose, except pursuant to, and in
+order to carry out, the terms and objectives of the Collaboration or to
+effectuate any sublicenses permitted under this Agreement (provided that any
+potential Sublicensee or Sublicensee shall be bound by an obligation to maintain
+as confidential such Confidential Information). Each Party hereby agrees to
+exercise reasonable precautions to prevent and restrain the unauthorized
+disclosure of such Confidential Information by any of its directors, officers,
+employees, consultants, subcontractors, licensees or agents. Neither Party shall
+disclose, divulge or otherwise communicate the Collaboration Technology to
+others, or use it for any purpose, except as permitted under the terms of this
+Agreement or in order to carry out the terms and objectives of the
+Collaboration.
+
+      9.2 Release from Restrictions. The provisions of Section 9.1 shall not
+apply to any Confidential Information disclosed hereunder which:
+
+      (1)   was known or used by the receiving Party prior to its date of
+            disclosure to the receiving Party; or
+
+      (2)   either before or after the date of the disclosure to the receiving
+            Party is lawfully disclosed to the receiving Party by sources other
+            than the disclosing Party rightfully in possession of the
+            Confidential Information: or
+
+      (3)   either before or after the date of the disclosure to the receiving
+            Party becomes published or generally known to the public through no
+            fault or omission on the part of the receiving Party, its Affiliates
+            or Sublicensees; or
+
+      (4)   is independently developed by or for the receiving Party without
+            reference to or reliance upon the Confidential Information; or
+
+      (5)   is required to be disclosed by the receiving Party to comply with
+            applicable laws, to defend or prosecute litigation or to comply with
+            governmental regulations, provided that the receiving Party provides
+            prior written notice of such disclosure to the other Party and takes
+            reasonable and lawful actions to avoid and/or minimize the degree of
+            such disclosure.
+
+      In any event, both Parties shall be released from any confidential
+obligations under Section 9.1 after a period of ten (10) years from the date of
+receipt of the said Confidential Information.
+
+                        Article 10. Term and Termination
+
+      10.1 Term. This Agreement shall be effective as of the Effective Date.
+Unless earlier terminated upon the mutual agreement of the Parties or in
+accordance with the provisions of this Article 10, this Agreement shall continue
+in force until the expiration of all royalty and other payment obligations under
+Article 4 hereof.
+
+
+                                       32
+<PAGE>
+
+      10.2 Termination by Biogen. Biogen may terminate this Agreement at any
+time for any reason upon written notice to Ontogeny. This Agreement shall be
+deemed to have been terminated by Biogen (i) in the event Biogen does not
+initiate at least one Development Program on or prior to July 1, 2000 or (ii)
+the termination by Biogen of the Commercialization Phase pursuant to Section
+2.2(e)(ii).
+
+      10.3 Termination for Breach. Each Party (the "non-breaching Party") shall
+be entitled to terminate this Agreement by written notice to the other Party
+(the "Breaching Party") in the event that the breaching Party is in default of
+any of its material obligations hereunder and fails to remedy such default
+within sixty (60) days after written notice thereof by the non-breaching Party,
+provided, however, that if such default is a failure by the breaching Party to
+pay the non-breaching Party any amount due under this Agreement, then the
+non-breaching Party shall be entitled to terminate this Agreement if the
+breaching Party fails to remedy such default within thirty (30) days after
+written notice thereof by the non-breaching Party. Any such notice shall
+specifically state that the non-breaching Party intends to terminate this
+Agreement in the event that the breaching Party shall fail to remedy such
+default.
+
+      10.4 Consequences of Termination.
+
+          (a) Termination for Breach. If this Agreement terminates pursuant to
+Section 10.3 following an unremedied breach, the licenses and option granted
+under this Agreement shall terminate, provided, however, that (i) in the event
+that the breaching Party is Ontogeny, Biogen shall retain any licenses granted
+to Biogen by Ontogeny pursuant to Section 3.2 or Section 3.3 prior to such
+termination, subject to payment of the applicable royalty or other
+consideration, if any, set forth in this Agreement and (ii) in the event that
+the breaching Party is Biogen, Ontogeny shall retain any licenses granted to
+Ontogeny by Biogen pursuant to Section 3.2 or Section 3.3 prior to such
+termination, subject to payment of the applicable royalty or other
+consideration, if any, set forth in this Agreement.
+
+          (b) Termination by Biogen. If this Agreement is terminated by Biogen
+pursuant to Section 10.2, the licenses and option granted under this Agreement
+shall terminate, provided, however, that (i) Ontogeny shall retain any licenses
+granted to Ontogeny by Biogen pursuant to Section 3.2 or Section 3.3, subject to
+payment of the applicable royalty or other consideration, if any, set forth in
+this Agreement and (ii) Biogen shall retain the license granted to Biogen by
+Ontogeny pursuant to Section 3.3(a), subject to payment of the applicable
+royalty or other consideration, if any, set forth in this Agreement.
+
+      10.5 Survival of Rights and Obligations. The licenses granted pursuant to
+Section 3.2 and Section 3.3 shall survive any termination of this Agreement,
+other than a termination pursuant to Section 10.2 or Section 10.3 (in which case
+the rights with respect to such licenses shall be in accordance with the terms
+set forth in Section 10.4) and such licenses shall be deemed fully paid-up and
+perpetual upon the satisfaction of all royalty and other payment obligations
+hereunder, if any, with respect to such licenses. Notwithstanding any
+termination of this Agreement, including any termination under Section 10.2 or
+10.3, (a) neither Party shall be relieved of any obligations incurred prior to
+such termination, and (b) the provisions of Section 2.3 (Accounting and Internal
+Controls), Section 2.4(a) (Biogen Restrictions), Section 4.5 (Break-up Fee),
+Section 4.10 (Records; Audits), Section 5.2 (Repayment), Section 7.1
+(Ownership),
+
+
+                                       33
+<PAGE>
+
+Section 8.3 (Disclaimers), Article 9 (Confidential Information), this Article 10
+(Term and Termination) and Section 11.1 (Product Liability Indemnification)
+shall survive and continue to be enforceable. Upon the earlier of (i) any
+termination of this Agreement pursuant to Section 10.1, 10.2 or 10.3 and (ii)
+the termination of the Collaboration, each Party shall promptly return to the
+other Party all written Confidential Information, and all copies thereof, of
+such other Party, provided, however, that to the extent that any license granted
+hereunder survives any such termination, the licensee may retain such
+Confidential Information as is reasonably necessary to practice such license,
+and provided, further, that in the event that this Agreement is terminated by
+Ontogeny as a result of an unremedied breach, Ontogeny is under no obligation to
+return to Biogen copies of any documents, provided to Ontogeny pursuant to
+Section 2.2(b), relating to the regulatory approval, manufacture and/or
+marketing of product(s) comprising Hedgehog-based Molecular Entity(ies) that
+were the subject of a Development Program.
+
+                           Article 11. Miscellaneous
+
+      11.1 Product Liability Indemnification.
+
+          (a) Indemnification by Biogen. Biogen agrees to defend Ontogeny at
+Biogen's cost and expense, and will indemnify and hold Ontogeny and its
+directors, officers, employees and agents (the "Ontogeny Indemnified Parties")
+harmless from and against any losses, costs, damages, fees or expenses arising
+out of any claim by a third party relating to personal injury from the design,
+manufacture, use, sale or other disposition of any Licensed Product or Biogen
+Non-Hedgehog Product, except to the extent caused by the negligence or
+intentional misconduct of any of the Ontogeny Indemnified Parties. In the event
+of any such claim against the Ontogeny Indemnified Parties by any party,
+Ontogeny shall promptly notify Biogen in writing of the claim and Biogen shall
+manage and control, at its sole expense, the defense of the claim and its
+settlement. The Ontogeny Indemnified Parties shall cooperate with Biogen and
+may, at their option and expense, be represented in any such action or
+proceeding. Biogen shall not be liable for any litigation costs or expenses
+incurred by the Ontogeny Indemnified Parties without Biogen's written
+authorization.
+
+          (b) Indemnification by Ontogeny. Ontogeny agrees to defend Biogen at
+Ontogeny's cost and expense, and will indemnify and hold Biogen and its
+directors, officers, employees and agents (the "Biogen Indemnified Parties")
+harmless from and against any losses, costs, damages, fees and expenses arising
+out of any claim by a third party relating to personal injury from the design,
+manufacture, use, sale or other disposition of any Ontogeny Product, Outside the
+Field Product or Ontogeny Non-Hedgehog Product, except to the extent caused by
+the negligence or intentional misconduct of any of the Biogen Indemnified
+Parties. In the event of any such claim against the Biogen Indemnified Parties
+by any party, Biogen shall promptly notify Ontogeny in writing of the claim and
+Ontogeny shall manage and control, at its sole expense, the defense of the claim
+and its settlement. The Biogen Indemnified Parties shall cooperate with Ontogeny
+and may, at their option and expense, be represented in any such action or
+proceeding. Ontogeny shall not be liable for any litigation costs or expenses
+incurred by the Biogen Indemnified Parties without Ontogeny's written
+authorization.
+
+      11.2 Publicity. Except as otherwise required by law, neither Party shall
+originate any publicity, news release or other public announcement, written or
+oral, relating to this Agreement
+
+
+                                       34
+<PAGE>
+
+without the prior written approval of the other Party, which approval shall not
+be unreasonably withheld; provided, however that each Party shall have the
+right, without obtaining the approval of the other Party, to confirm the
+existence of this Agreement and to disclose the general scope of the
+Collaboration.
+
+      11.3 Governing Law. This Agreement shall be governed by and interpreted in
+accordance with the laws of the Commonwealth of Massachusetts.
+
+      11.4 Dispute Resolution. Except as otherwise provided in this Agreement,
+any dispute arising out of or relating to this Agreement or to a breach thereof,
+including its interpretation, performance or termination, may be submitted by a
+Party to a mediator, mutually agreed to by the Parties, for nonbinding
+mediation. The Parties shall cooperate with the mediator in an effort to resolve
+such dispute. If the dispute is not resolved within sixty (60) days of its
+submission to the mediator, either Party may submit the dispute for binding
+arbitration. The arbitration shall be conducted by three (3) arbitrators, one to
+be appointed by Ontogeny, one to be appointed by Biogen and a third being
+nominated by the two arbitrators so selected or, if they cannot agree on a third
+arbitrator, by the President of the American Arbitration Association. The
+arbitration shall be conducted in accordance with the commercial rules of the
+American Arbitration Association, which shall administer the arbitration. The
+arbitration, including the rendering of the award, shall take place in Boston,
+Massachusetts, and shall be the exclusive forum for resolving such dispute. The
+decision of the arbitrators shall be final and binding upon the Parties hereto,
+and the expense of the arbitration shall be paid as the arbitrators determine.
+
+      11.5 Waiver. The waiver by a Party of a breach or a default of any
+provision of this Agreement by the other Party shall not be construed as a
+waiver of any succeeding breach of the same or any other provision, nor shall
+any delay or omission on the part of a Party to exercise or avail itself of any
+right, power or privilege that it has or may have hereunder operate as a waiver
+of any right, power or privilege by such Party.
+
+      11.6 Notices. All notices, instructions and other communications hereunder
+or in connection herewith shall be in writing and shall be (a) delivered
+personally, (b) sent by registered or certified mail, return receipt requested,
+postage prepaid, (c) sent via a reputable nationwide overnight courier service
+or (d) sent by facsimile transmission, in each case to an address set forth
+below. Any such notice, instruction or communication shall be deemed to have
+been delivered upon receipt if delivered by hand, three business days after it
+is sent by registered or certified mail, return receipt requested, postage
+prepaid, one business days after it is sent via a reputable nationwide overnight
+courier service, or when transmitted with electronic confirmation of receipt, if
+transmitted by facsimile (if such transmission is on a business day; otherwise,
+on the next business day following such transmission).
+
+
+                                       35
+<PAGE>
+
+   Notices to Ontogeny
+
+
+
+             shall be addressed to:  Ontogeny, Inc.
+                                     45 Moulton Street
+                                     Cambridge, MA 02138
+                                     Attn: President and
+                                     Chief Executive Officer
+
+             with a copy to:         Hale and Dorr LLP
+                                     60 State Street
+                                     Boston, MA 02109
+                                     Attn: Mark G. Borden, Esq.
+
+   Notices to Biogen
+
+             shall be addressed to:  Biogen, Inc.
+                                     14 Cambridge Center
+                                     Cambridge, MA 02142
+                                     Attn: Vice President-Sales,
+                                     Marketing and Business Development
+
+             with a copy to:         Vice President-General Counsel
+
+   Either Party may change its address by giving notice to the other Party in
+   the manner herein provided.
+
+      11.7 No Agency. Nothing herein shall be deemed to constitute Ontogeny, on
+the one hand, or Biogen, on the other hand, as the agent or representative of
+the other, or as joint venturers or partners for any purpose.
+
+      11.8 Entire Agreement. Ontogeny and Biogen acknowledge that (a) the
+Research Phase shall be deemed to have continued uninterrupted since the date of
+the Original Agreement, (b) the First Amendment, Second Amendment, Third
+Amendment and Fourth Agreement operated as interim extensions of the Research
+Phase, (c) Biogen has satisfied and is current in all funding obligations
+embodied in the Original Agreement, First Amendment, Second Amendment, Third
+Amendment and Fourth Amendment (except for the payment of the initial Follow-on
+Research Support Fee), through November 30, 1998, (d) the terms contained in
+this Agreement and the Schedules hereto (which Schedules are deemed to be a part
+of this Agreement for all purposes) represent the full understanding of the
+Parties with respect to the subject matter hereof and supersede all prior
+understandings and writings relating thereto, including the terms of the
+Original Agreement, as amended to date and (e) the provisions of the Original
+Agreement are hereby terminated and of no further force and effect. No waiver,
+alteration or modification of any of the provisions hereof shall be binding
+unless made in writing and signed by the Parties.
+
+
+                                       36
+<PAGE>
+
+      11.9 Headings. The headings contained in this Agreement are for
+convenience of reference only and shall not be considered in construing this
+Agreement.
+
+      11.10 Severability. In the event that any provision of this Agreement is
+held by a court of competent jurisdiction to be unenforceable because it is
+invalid or in conflict with any law of any relevant jurisdiction, the validity
+of the remaining provisions shall not be affected, and the Parties shall
+negotiate a substitute provision that, to the extent possible, accomplishes the
+original business purpose.
+
+      11.11 Assignment. Neither this Agreement nor any of the rights or
+obligations hereunder may be assigned by either Party without the prior written
+consent of the other Party, except to an Affiliate of the assigning Party or to
+any other party who acquires all or substantially all of the business of the
+assigning Party by merger, sale of assets or otherwise, so long as such
+Affiliate or other party agrees in writing to be bound by the terms of this
+Agreement.
+
+      11.12 Successors and Assigns. This Agreement shall be binding upon and
+inure to the benefit of the Parties hereto and their successors and permitted
+assigns.
+
+      11.13 Counterparts. This Agreement may be executed in any number of
+counterparts, each of which shall be deemed an original but all of such together
+shall constitute one and the same instrument.
+
+      11.14 Force Majeure. Neither Party to this Agreement shall be responsible
+to the other Party for nonperformance or delay in performance of the terms or
+conditions of this Agreement due to acts of God, acts of governments, war,
+riots, strikes, accidents in transportation, or other similar causes beyond the
+reasonable control of such Party.
+
+      IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be
+executed in their names by their properly and duly authorized officers or
+representatives as of the date first above written.
+
+
+ONTOGENY, INC.                           BIOGEN, INC.
+
+
+By: /s/ Doros Platika                    By: /s/ James R. Tobin
+    ------------------                   -------------------------------
+   Name: Doros Platika                   Name: James R. Tobin
+   Title:                                Title: Chief Executive Officer
+
+
+                                       37
+<PAGE>
+
+                                   Schedule A
+
+(Ontogeny Hedgehog Proteins)
+<PAGE>
+
+  Confidential materials omitted and filed separately with the Securities and
+                Exchange Commission. Asterisks denote omissions.
+
+                                   Schedule A
+
+Ontogeny, Inc.
+--------------------------------------------------------------------------------
+
+                              MOUSE DESERT HEDGEHOG
+
+                               AMINO ACID SEQUENCE
+
+     [* *           * *          * *           * *           * *            * *
+
+      * *           * *          * *           * *           * *            * *
+
+      * *           * *          * *           * *           * *            * *
+
+      * *           * *          * *           * *           * *            * *
+
+      * *           * *          * *           * *           * *            * *
+
+      * *           * *          * *           * *           * *            * *
+
+      * *           * *          * *           * *           * *            * *
+
+      * *           * *          * *           * *           * *            * *
+
+      * *           * *          * *           * *           * *            * *
+
+      * *           * *          * *           * *           * *            * *
+
+      * *           * *          * *           * *           * *            * *
+
+      * *           * *          * *           * *           * *            * *
+
+      * *           * *          * *           * *           * *            * *
+
+      * *           * *          * *           * *           * *            * *]
+
+One Kendall Square, Building 600, Cambridge, MA 02139       Phone (617) 225-0086
+                                                              Fax (617) 225-0096
+<PAGE>
+
+  Confidential materials omitted and filed separately with the Securities and
+                Exchange Commission. Asterisks denote omissions.
+
+Ontogeny, Inc.
+--------------------------------------------------------------------------------
+
+                              MOUSE INDIAN HEDGEHOG
+
+                               AMINO ACID SEQUENCE
+
+     [* *           * *          * *           * *            * *           * *
+
+      * *           * *          * *           * *            * *           * *
+
+      * *           * *          * *           * *            * *           * *
+
+      * *           * *          * *           * *            * *           * *
+
+      * *           * *          * *           * *            * *           * *
+
+      * *           * *          * *           * *            * *           * *
+
+      * *           * *          * *           * *            * *           * *
+
+      * *           * *          * *           * *            * *           * *
+
+      * *           * *          * *           * *            * *           * *
+
+      * *           * *          * *           * *            * *           * *
+
+      * *           * *          * *           * *            * *           * *
+
+      * *           * *          * *           * *            * *           * *
+
+      * *           * *          * *           * *            * *           * *
+
+      * *           * *          * *           * *            * *           * *]
+
+One Kendall Square, Building 600, Cambridge, MA 02139       Phone (617) 225-0086
+                                                              Fax (617) 225-0096
+<PAGE>
+
+  Confidential materials omitted and filed separately with the Securities and
+                Exchange Commission. Asterisks denote omissions.
+
+                              HUMAN SONIC HEDGEHOG
+
+                               AMINO ACID SEQUENCE
+
+      [* *               * *             * *            * *               * *
+
+       * *               * *             * *            * *               * *
+
+       * *               * *             * *            * *               * *
+
+       * *               * *             * *            * *               * *
+
+       * *               * *             * *            * *               * *
+
+       * *               * *             * *            * *               * *
+
+       * *               * *             * *            * *               * *
+
+       * *               * *             * *            * *               * *
+
+       * *               * *             * *            * *               * *
+
+       * *               * *             * *            * *               * *
+
+       * *               * *             * *            * *               * *
+
+       * *               * *             * *            * *               * *
+
+       * *               * *             * *            * *               * *
+
+       * *               * *             * *            * *               * *
+
+       * *               * *             * *            * *               * *
+
+       * *               * *             * *            * *               * *
+
+       * *               * *             * *            * *               * *
+
+       * *               * *             * *            * *               * *
+
+       * *               * *             * *            * *               * *
+
+       * *               * *             * *            * *               * *]
+<PAGE>
+
+                                   Schedule B
+
+                   DISEASE INDICATIONS EXCEPTED FROM THE FIELD
+
+Bone breaks or fractures
+Bone degeneration (e.g., spinal problems)
+Spinal disk problems
+Spinal vertebral problems
+Bone dislocation
+Abnormal bone growth (e.g., bone spurs, inappropriate skeletal growth)
+Cartilage degeneration
+Implant fixation (e.g., osteoimplants, tooth implants, fixation devices,
+  artificial joints)
+Bone neoplasms (e.g., osteosarcoma, chondrosarcoma, Ewing's sarcoma)
+Spina bifida
+Clubfoot
+Bone crushing injuries
+Tendon disorders (tenosynovitis, de Quervain's disease, ganglions,
+  tendonitis, synovitis)
+Epicondylitis (tennis elbow)
+Bursitis
+Congenital musculoskeletal deformities
+Osteoarthritis
+Metabolic bone disease (e.g., osteoporosis, rickets, osteomalacia)
+Paget's Disease
+Hyperostosis (e.g., osteopetrosis, pyknodysostosis,
+  osteomyclosclerosis)
+Fibrous dysplasia
+<PAGE>
+
+                                   Schedule C
+
+(Research Workplan)
+<PAGE>
+
+                                   Schedule D
+
+                                THERAPEUTIC AREAS
+
+Nutrition
+Viral infectious diseases
+Fungal infectious diseases
+Bacterial infectious diseases
+Disorders of the cardiovascular system
+Disorders of the kidney and urinary tract
+Disorders of the alimentary tract
+Liver and biliary tract disease
+Disorders of the pancreas
+Disorders of the immune system
+Hematology
+Oncology
+Endocrinology
+Disorders of intermediary metabolism
+Disorders of the central nervous system
+Disorders of the peripheral nervous system
+Disorders of muscle
+Psychiatry
+Environmental and occupational hazards
+<PAGE>
+
+                                   Schedule E
+
+(Line of Credit Note)
+</TEXT>
+</DOCUMENT>

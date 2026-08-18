@@ -1,0 +1,462 @@
+<DOCUMENT>
+<TYPE>EX-99.6
+<SEQUENCE>7
+<FILENAME>dex996.txt
+<DESCRIPTION>AMENDMENT NO. 24 TO COOPERATIVE AGREEMENT
+<TEXT>
+
+<PAGE>
+
+                                                                    EXHIBIT 99.6
+                                                                    ------------
+                           SPECIAL AWARD CONDITIONS
+                                 NCR-92-18742
+                       Amendment Number Twenty-Four (24)
+
+
+1.  Section I.A.4, of Amendment 19, Definitions, is amended as follows:
+                                    -----------
+
+4)  "NSI" refers to Network Solutions, Inc., a wholly owned subsidiary of
+VeriSign, Inc., and its successors and assigns.  From the date of execution of
+this amendment, the Cooperative Agreement will refer to "VeriSign" as the non-
+government party to this agreement.
+
+2.  Section I.A.9, of Amendment 19, Definitions, is amended as follows:
+                                    -----------
+
+9)  "Registry Agreement" means either the .org Registry Agreement, the .net
+Registry Agreement, or the .com Registry Agreement (collectively, the "Registry
+Agreements"), attached hereto as Exhibits 1, 2 and 3, respectively, as they may
+be amended from time to time.
+
+3.  Section I.B.2.A, of Amendment 19, VeriSign Relationship with ICANN, is
+                                      --------------------------------
+amended as follows:
+
+     A. VeriSign shall enter into the Registry Agreements and the Registrar
+     Accreditation Agreement. VeriSign's obligations under the Cooperative
+     Agreement with respect to Registry Services and Registrar Services shall be
+     satisfied by compliance with the Registry Agreements and the Registrar
+     Accreditation Agreement, respectively, for so long as those Agreements
+     (including any renewals of those agreements) are in effect (as determined
+     by the dispute resolution procedures and termination provisions of those
+     Agreements). VeriSign's obligations under the Cooperative Agreement with
+     respect to Other Services (and Registry Services following the expiration
+     or termination by VeriSign) shall be satisfied by compliance with the
+     Cooperative Agreement as amended.
+
+4.  Section I.B.2.B, of Amendment 19, VeriSign Relationship with ICANN, is
+                                      --------------------------------
+amended as follows:
+
+     B. If any Registry Agreement is terminated by ICANN for cause, the
+     Department of Commerce shall be entitled under Section I.B.8 below to
+     terminate VeriSign's obligation for the affected Registry TLD to provide
+     Registry Services under the Cooperative Agreement.
+
+5.  Section I.B.2.D, of Amendment 19, VeriSign Relationship with ICANN, is
+                                      --------------------------------
+amended as follows:
+
+     D. If the Registry Agreements and the Registrar Accreditation Agreement are
+     all terminated by ICANN for cause, VeriSign's obligations to provide
+     Registry Services, Registrar Services, and Other Services under the
+     Cooperative Agreement shall terminate upon 90 days notice by either party
+     of its intention to terminate such services.
+<PAGE>
+
+6.  Section I.B.4.A, of Amendment 19, Other Obligations of the Parties, is
+                                      --------------------------------
+amended as follows:
+
+       A. The Department of Commerce will assure that the authoritative root
+       will point to the TLD zone servers designated by VeriSign for each of the
+       Registry TLDs (Registry TLD zone server). The Department of Commerce will
+       withdraw such assurance for a particular Registry TLD at the earlier of
+       the termination of this Cooperative Agreement by the Department of
+       Commerce or at such time as ICANN terminates for cause the Registry
+       Agreement corresponding to such Registry TLD.
+
+7.  Section I.B.4.B, of Amendment 19, Other Obligations of the Parties, is
+                                      --------------------------------
+amended as follows:
+
+       B. The Department of Commerce acknowledges and agrees that VeriSign is
+       and will remain the registry for the Registry TLD(s) until the earlier of
+       the termination of this Cooperative Agreement by the Department of
+       Commerce or termination for cause of the Registry Agreement(s) by ICANN.
+
+8.  Section I.B.7, of Amendment 19, Specific Performance, is amended as follows:
+                                    --------------------
+
+During the Term of the Cooperative Agreement, the Department of Commerce may
+seek specific performance of any provision of the Cooperative Agreement,
+provided the Department is not in material breach of its obligations hereunder.
+This provision shall not entitle the Department of Commerce to seek specific
+performance of any Registry Agreement. This provision shall not entitle the
+Department of Commerce to seek specific performance of the Registrar
+Accreditation Agreement unless and until and for so long as such agreement has
+been assigned to the Department of Commerce by ICANN.
+
+9.  Section I.B.8.A, of Amendment 19, Termination, is amended as follows:
+                                      -----------
+
+       A. In the event ICANN designates a successor registry or terminates the
+       .org Registry Agreement, the .net Registry Agreement or the .com Registry
+       Agreement, the Department agrees that upon the conclusion of the transfer
+       when a successor registry is established and operational and VeriSign
+       notifies the Department of the completion of the transfer, the Department
+       will relieve, release and discharge VeriSign from any responsibility for
+       Registry Services for the affected Registry TLD currently performed under
+       the Cooperative Agreement that have been transferred to the successor
+       registry.
+
+       The final release will be effected by VeriSign sending a letter to the
+       Department stating that:
+
+          Awardee, VeriSign, Inc. hereby represents and certifies to the
+          Department of Commerce, that in accordance with the requirements
+          contained in Amendment 19, as amended, to the Cooperative Agreement
+          NCR-9218742, all requirements relating to its performance as the
+          Registry have been completed.
+
+          We therefore request that, as provided by Amendment 19, as amended, to
+          the Cooperative Agreement NCR-9218742, the Department of Commerce sign
+          and return a copy of  this letter and, in the block indicated below,
+          acknowledge that we have completed the agreed upon items and are fully
+          and finally relieved, released, and discharged from any responsibility
+          for the Registry for [insert affected
+<PAGE>
+
+          Registry TLD] previously performed by Awardee under Cooperative
+          Agreement NCR-9218742 which are now the subject of a contract between
+          ICANN and [the successor registry].
+
+10.  Section I.B.8.C, of Amendment 19, Termination, is amended as follows:
+                                       -----------
+
+       C. If the Registrar Accreditation Agreement and all Registry Agreements
+       are terminated by ICANN for cause, the Department will relieve, release
+       and discharge VeriSign from any responsibility for continuing to provide
+       Other Services that are required under the Cooperative Agreement.
+
+       The final release will be effected by VeriSign sending a letter to the
+       Department stating that:
+
+          Awardee, VeriSign, Inc. hereby represents and certifies to the
+          Department of Commerce, that in accordance with the requirements
+          contained in Amendment 19, as amended, to the Cooperative Agreement
+          NCR-9218742, all requirements relating to its performance of Other
+          Services have been completed.
+
+          We therefore request that, as provided by Amendment 19, as amended, to
+          the Cooperative Agreement NCR-9218742, the Department of Commerce sign
+          and return a copy of this letter and, in the block indicated below,
+          acknowledge that we have completed the agreed upon items and are fully
+          and finally relieved, released, and discharged from any responsibility
+          for the provision of Other Services previously performed by Awardee
+          under Cooperative Agreement NCR-9218742.
+
+11.  Section I.B.8.D, of Amendment 19, Termination, is amended as follows:
+                                       -----------
+
+       D. In the event that a final judgment is rendered specifically enforcing
+       any provision of the Cooperative Agreement, the Department of Commerce
+       may, by giving written notice, demand that VeriSign comply with such
+       judgment. In the event that VeriSign fails to comply with such judgment
+       within ninety days after the giving of notice, the Department of Commerce
+       may terminate the Cooperative Agreement immediately by giving VeriSign
+       written notice of termination and the Department of Commerce may initiate
+       either a competitive action or other transaction pursuant to Section II.9
+       below or request ICANN to initiate procedures for designating a successor
+       registry in compliance with the provisions of the affected Registry
+       Agreement(s).
+
+12.  Section I.B.9, of Amendment 19, Compliance with Section II of this
+                                     ----------------------------------
+Amendment, is amended as follows:
+----------
+
+While the Registry Agreements remain in effect, VeriSign shall not be obligated
+to comply with the provisions of Section II of this amendment. Upon termination
+(i) by VeriSign of a particular Registry Agreement, or (ii) due to the
+withdrawal of the Department's recognition of ICANN, VeriSign shall no longer be
+required to comply with such Registry Agreement and VeriSign's obligations under
+Section II of this amendment shall take immediate effect with
+
+                                       3
+<PAGE>
+
+respect to the affected Registry TLD without further action by the Department of
+Commerce or VeriSign. Upon such termination, VeriSign agrees to provide prompt
+written approval to ICANN for the assignment of any data escrow agreement
+between ICANN and VeriSign related to such Registry Agreement.
+
+13.  Section I.B.10, of Amendment 19, Expiration Date, is amended as follows:
+                                      ----------------
+
+The Expiration Date of the Cooperative Agreement shall be November 10, 2007.
+
+14.  Section II.1 of Amendment 19, VeriSign Obligations, is amended as follows:
+                                   ---------------------
+
+          A. VeriSign agrees that it will operate the registries for the
+          Registry TLDs in accordance with the Cooperative Agreement;
+
+          B. VeriSign agrees to comply with Department of Commerce policies and
+          directives regarding material aspects of VeriSign's provision of
+          Registry Services as distinct from the detailed or day to day
+          administration of the registries for the Registry TLDs.
+
+          C. VeriSign acknowledges and agrees that upon the earlier of the
+          expiration or termination of the Cooperative Agreement pursuant to
+          Section I.B.8 of this amendment, it will cease to be the registry for
+          the particular Registry TLD(s) affected by the expiration or
+          termination, unless prior to the end of the Term of the Cooperative
+          Agreement VeriSign is chosen as a successor registry in accordance
+          with the provisions of the Cooperative Agreement. VeriSign shall
+          cooperate in the transfer of responsibility for operation of the
+          affected registry or registries to a successor registry. Such
+          cooperation shall include the timely transfer to the successor
+          registry of an electronic copy of the registry database and of a full
+          specification of the format of the data.
+
+15.  Section II.2 of Amendment 19, Data Escrow, is amended as follows:
+                                   ------------
+
+VeriSign shall deposit into escrow all Registry Data on a schedule (not more
+frequently than weekly for a complete set of Registry Data, and daily for
+incremental updates) and in an electronic format mutually approved from time to
+time by VeriSign and the Department of Commerce, such approval not to be
+unreasonably withheld by either party. The escrow shall be maintained, at
+VeriSign's expense, by a reputable escrow agent mutually approved by VeriSign
+and the Department of Commerce, such approval also not to be unreasonably
+withheld by either party. The escrow shall be held under an agreement among
+VeriSign, the Department of Commerce, and the escrow agent providing that (A)
+the data shall be received and held in escrow, with no use other than
+verification that the deposited data is complete and in proper format, until
+released to the Department of Commerce; (B) the data shall be released to the
+Department of Commerce upon termination by the Department of Commerce of the
+Cooperative Agreement or upon its expiration if (1) the Cooperative Agreement
+has not sooner been terminated and (2) VeriSign has not been designated as a
+successor registry as the result of a competitive action or other transaction in
+accordance with applicable federal law and regulations.
+
+16.  Section II.3 of Amendment 19, VeriSign Handling of Personal Data, is
+                                   -----------------------------------
+amended as follows:
+
+                                       4
+<PAGE>
+
+VeriSign agrees to notify registrars sponsoring registrations in the registries
+of the purposes for which Personal data submitted to the registries by
+registrars is collected, the recipients (or categories of recipients) of such
+Personal Data, and the mechanism for access to and correction of such Personal
+Data. VeriSign shall take reasonable steps to protect Personal Data from loss,
+misuse, unauthorized disclosure, alteration or destruction. VeriSign shall not
+use or authorize the use of Personal Data in a way that is incompatible with the
+notice provided to registrars.
+
+17.  Section II.4 of Amendment 19, Publication by VeriSign of Registry Data, is
+                                   -----------------------------------------
+amended as follows:
+
+          A. VeriSign shall provide an interactive web page and a port 43 Whois
+          service providing free public query-based access to up-to-date (i.e.
+          updated at least daily) registry database data for the Registry TLDs
+          which, in response to input of an SLD name, shall report at least the
+          following data elements in response to queries: (a) the SLD name
+          registered, (b) the TLD in which the SLD is registered; (c) the IP
+          addresses and corresponding names of the primary nameserver and
+          secondary nameserver(s) for such SLD, (d) the identity of the
+          sponsoring Registrar, and (e) the date of the most recent modification
+          to the domain name record in the registry database; provided, however,
+          that if the Department of Commerce adds to or subtracts from these
+          elements, VeriSign will implement that policy. VeriSign shall not
+          discontinue its participation in advanced, centralized or universal
+          Whois services in operation or development at the time of the
+          expiration or termination of the Registry Agreement(s).
+
+          B. To ensure operational stability of the registries, VeriSign may
+          temporarily limit access under subsection (A), in which case VeriSign
+          shall immediately notify the Department of Commerce in writing or
+          electronically of the nature of and reason for the limitation.
+          VeriSign shall not continue the limitation longer than three business
+          days if the Department of Commerce objects in writing or
+          electronically, which objection shall not be unreasonably made. Such
+          temporary limitations shall be applied in a nonarbitrary manner and
+          shall apply fairly to any registrar similarly situated, including
+          VeriSign.
+
+          C. VeriSign as operator for the registries shall comply with
+          Departmental direction providing for development and operation of a
+          capability that provides distributed free public query-based (web and
+          command-line) access to current registration data implemented by
+          Accredited Registrars providing for capabilities comparable to WHOIS,
+          including (if called for by Departmental direction) registry database
+          lookup capabilities according to a specified format. If such a service
+          implemented by Accredited Registrars on a distributed basis does not
+          within a reasonable time provide reasonably robust, reliable and
+          convenient access to accurate and up-to-date registration data,
+          VeriSign as operator for the registries shall cooperate and, if
+          reasonably determined to be necessary by the Department of Commerce
+          (considering such possibilities as remedial actions by specific
+          registrars), provide data from the registries' databases to facilitate
+          the development of a centralized service providing equivalent
+          functionality in a manner established by Departmental direction.
+          VeriSign shall also continue any development and deployment of a
+          universal Whois service that allows public access and effective
+
+                                       5
+<PAGE>
+
+          use of Whois across all registries and all top level domains at the
+          direction of the Department.
+
+18.  Section II.5 of Amendment 19, Performance and Functional Specification for
+                                   --------------------------------------------
+Registry Services, is amended as follows:
+-----------------
+
+Unless and until otherwise directed by the Department of Commerce, VeriSign
+shall provide Registry Services to Accredited Registrars meeting the performance
+and functional specifications set forth in the SRS specification then in place
+under the Registry Agreements. In the event the Department directs different
+performance and functional standards for a registry, VeriSign shall comply with
+those standards to the extent practicable, provided that compensation pursuant
+to the provisions of II.7 of this amendment has been resolved prior to
+implementation and provided further that VeriSign is given a reasonable time for
+implementation.
+
+VeriSign shall take all reasonable steps to ensure the continued operation,
+functionality, and accessibility of the Shared Registration System. In the event
+of operational instability or for the purpose of system maintenance, VeriSign
+may temporarily limit Accredited Registrars' access to the Shared Registration
+System on an equitable basis, in which case VeriSign shall immediately notify
+the Department of Commerce and all affected Accredited Registrars in writing or
+electronically of the nature of and reason for the limitation and the expected
+date and time of service restoration. VeriSign shall take all reasonable steps
+to notify all Accredited Registrars at least 24 hours in advance of any
+anticipated (non emergency) Shared Registration System service interruption, the
+reason for the service interruption, and the expected date and time of service
+restoration.
+
+19.  Section II.6 of Amendment 19, Bulk Access to Zone Files, is amended as
+                                   -------------------------
+follows:
+
+VeriSign shall provide third parties bulk access to the zone files for the
+Registry TLDs on the terms set forth in the zone file access agreement then in
+effect under the Registry Agreement corresponding to the affected Registry TLD.
+VeriSign may not change the access agreement without the prior written approval
+of the Department of Commerce.
+
+20.  Section II.7 of Amendment 19, Price for Registry Services, is amended as
+                                   ---------------------------
+follows:
+
+The price to licensed registrars for entering initial and renewal SLD
+registrations into the registry and for transferring a SLD registration from one
+accredited registrar to another will be as set forth in the Registry Agreements
+for the Registry TLDs at the time of its expiration or termination. These prices
+shall be increased to reflect demonstrated increases in costs of operating the
+registry arising from (1) changes or additions to the work provided under the
+Cooperative Agreement directed by the Department of Commerce or (2) legislation
+specifically applicable to the Registry Services.
+
+21.  Section II.9 of Amendment 19, Designation of Successor Registry, is amended
+                                   ---------------------------------
+as follows:
+
+VeriSign agrees that upon (a) one year prior to the expiration or (b) VeriSign's
+receipt of notice of termination of the Cooperative Agreement pursuant to
+Section I.B.8 of this amendment, the
+
+                                       6
+<PAGE>
+
+Department of Commerce may initiate a competitive action or other transaction in
+accordance with applicable federal law and regulations to designate a successor
+registry or successor registries.
+
+Not later than 30 days after VeriSign's receipt of a notice of termination,
+VeriSign shall submit to the Department of Commerce, for the Department's
+immediate use in designating the successor registry for a particular Registry
+TLD, an electronic copy of all software (excluding the SRS software) and data
+related to its provision of Registry Services for the Registry TLD generated
+under the Cooperative Agreement through the date of the notice of termination.
+Not later than 60 days after VeriSign's receipt of a notice of termination,
+VeriSign shall submit to the Department of Commerce, for its immediate use in
+designating such successor registry, all existing documentation for such
+software (excluding the SRS software) and data related to VeriSign's provision
+of such Registry Services generated under the Cooperative Agreement through the
+date of the notice of termination.
+
+If, after the expiration or termination pursuant to Section I.B.8 of this
+amendment, VeriSign or its assignee is not designated as a successor registry
+for a particular Registry TLD pursuant to the competitive action or transaction,
+VeriSign shall cooperate with the Department of Commerce and with the successor
+registry in order to facilitate the smooth transition of operation of the
+registry to the successor registry. Such cooperation shall include timely
+transfer to the successor registry of an electronic copy of the registry
+database and of a full specification of the format of the data. Thereafter
+VeriSign shall be relieved of further obligations under the Cooperative
+Agreement.
+
+22.  Section II.10 of Amendment 19, Rights in Data, is amended as follows:
+                                    --------------
+
+Except as permitted by the Registrar License and Agreement, VeriSign shall not
+be entitled to claim any intellectual property rights in data or any database or
+portion thereof in the registries supplied by or through registrars other than
+VeriSign. In the event that Registry Data is released from escrow under Section
+II.2 or transferred to a successor registry under Sections I.B.8 or II.9, any
+rights held by VeriSign as operator of such registry in said Registry Data shall
+automatically be licensed on a non-exclusive, transferable, irrevocable,
+royalty-free, paid-up basis to the recipient of the data.
+
+23.  Section III.2 of Amendment 19, Other Provisions, is amended as follows:
+                                    ----------------
+
+2. Articles 9, 10 and 14 of the Cooperative Agreement Special Conditions, as
+amended, are hereby suspended as of the date of this amendment and VeriSign
+shall have no obligations under such provisions for so long as the Registry
+Agreements remain in effect. Upon termination of the Registry Agreements, the
+withdrawal of the Department's recognition of ICANN under Section 26 of the .com
+Registry Agreement, or with the approval of the Department of Commerce under
+Section 18(b) of the .com Registry Agreement, such provisions shall return to
+effect immediately without further action by the Department of Commerce or
+VeriSign.
+
+24.  Section III.5 of Amendment 19, Other Provisions, is amended as follows:
+                                    ----------------
+
+Article 12 of the Cooperative Agreement Special Conditions, as amended, is
+hereby amended to
+
+                                       7
+<PAGE>
+
+read:
+
+          The following individuals shall serve as points of contact at
+          VeriSign:
+
+          Philip Sbarbaro
+          Chuck Gomes
+
+25.  The Department of Commerce hereby approves the .org Registry Agreement, the
+ .net Registry Agreement, and the .com Registry Agreement, attached hereto as
+Exhibits 1, 2, and 3 respectively.  This approval is not intended to confer
+federal antitrust immunity on VeriSign with respect to the Registry Agreements.
+Upon signature of both parties, provide copies of the Registry Agreements to
+both the Grants Officer and the Federal Programs Officer.
+
+26.  Except as modified by this Amendment, the terms and conditions of this
+Cooperative Agreement, as previously amended, remain unchanged.
+
+                                       8
+</TEXT>
+</DOCUMENT>

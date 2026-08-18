@@ -1,0 +1,221 @@
+<DOCUMENT>
+<TYPE>EX-10.15
+<SEQUENCE>2
+<FILENAME>d25317_ex10-15.txt
+<DESCRIPTION>AMEND. TO CONTENT LIC. AND RESELLER AGMT
+<TEXT>
+
+
+                                                                   EXHIBIT 10.15
+
+                                    AMENDMENT
+
+     THIS AMENDMENT is made as of March 15, 2001, by and between USA Information
+Systems, Inc. ("USAIS"), and PartsBase.com, Inc. ("Reseller").
+
+     The parties have entered into a Content  License & Reseller  Agreement (the
+"Reseller  Agreement") whereby USAIS granted a license to Reseller to resell the
+"Subscription  Services"  and to offer access to certain  segments of the "USAIS
+Content," as those terms are defined in the Reseller Agreement.
+
+     Reseller  has failed to pay USAIS when due a portion of the Annual  Content
+License fee for the first year of the initial  term in the amount of Two Hundred
+Thousand and 00/100 Dollars  ($200,000.00) and certain  subscription fees in the
+amount of Twelve  Thousand  Two Hundred  Forty and 00/100  Dollars  ($12,240.00)
+under the Reseller Agreement.
+
+     The parties desire to modify certain  provisions of the Reseller  Agreement
+by this  Amendment in  accordance  with Section 21 of the Reseller  Agreement to
+cure the non-payments and to modify the terms and conditions of the relationship
+between the parties for the remainder of the term of the Reseller Agreement.
+
+     For the mutual  convenants and other  consideration  stated  herein,  which
+consideration  is deemed  adequate by the parties,  the parties  hereby  modify,
+amend, alter and change the Reseller Agreement in the following respects only:
+
+1.   Payment of First Year Annual  Content  License Fee.  The parties  expressly
+     agree that  Reseller  shall pay to USAIS Five  Hundred  Thousand and 00/100
+     Dollars  ($500,000.00),  which  amount  represents  the total amount of the
+     portion of the Annual Content License fee due for January and February 2001
+     and the  remainder of the first year of the initial term under the Reseller
+     Agreement, in the following manner:
+
+     a.   On or before March 22, 2001,  Reseller  shall pay to USAIS Two Hundred
+          Seventy-Five Thousand and 00/100 Dollars ($275,000.00) by cashier's or
+          certified check or electronic  wire transfer to an account  designated
+          by USAIS;
+
+     b.   Beginning  on April 15,  2001 and on the  fifteenth  day of each month
+          thereafter,  Reseller  shall  pay to  USAIS  Two  Hundred  Twenty-Five
+          Thousand and 00/100  Dollars  ($225,000.00)  in nine (9) equal monthly
+          installments of Twenty-Five  Thousand and 00/100 Dollars  ($25,000.00)
+          in immediately  available  funds,  with the last payment being due and
+          payable on December 15, 2001.  These  payments are  identified  in the
+          column entitled,  "Current" of the payment schedule attached hereto as
+          Exhibit A.
+
+2.   Payment of Past Due Subscription Fees. The parties expressly agree that, on
+     or before March 22, 2001,  Reseller shall pay to USAIS Twelve  Thousand Two
+     Hundred Forty and 00/100 Dollars ($12,240.00),  which amount represents the
+     amount of subscription  fees currently past due and  outstanding  under the
+     Reseller  Agreement,  by cashier's or certified  check or  electronic  wire
+     transfer to an account designated by USAIS.
+
+<PAGE>
+
+3.   Payment of Future Annual  Content  License  Fees.  Sections 3.1 and 3.2 and
+     Attachment  2 of the  Reseller  Agreement  are hereby  amended as  follows:
+     Beginning  on June 1,  2001,  the  Annual  Content  License  fee  under the
+     Reseller  Agreement  shall be Seven  Hundred  Twenty  Thousand  and  00/100
+     Dollars  ($720,000.00)  per year for the remainder of the initial term, and
+     Reseller  shall pay this fee to USAIS in  twenty-four  (24)  equal  monthly
+     installments   of  Sixty  Thousand  and  00/100  Dollars   ($60,000.00)  in
+     immediately  available funds,  with the first payment being due and payable
+     on June 15, 2001 and each  subsequent  payment being due and payable on the
+     fifteenth  day of each  calendar  month  thereafter,  with the last payment
+     being due and payable on May 15, 2003. These payments are identified in the
+     column  entitled,  "Revised"  of the payment  schedule  attached  hereto as
+     Exhibit A.
+
+4.   Letter of Credit.  On or before March 22, 2001,  Reseller  shall obtain and
+     deliver to USAIS an irrevocable,  transferable standby letter of credit for
+     the benefit of USAIS issued by a banking institution acceptable to USAIS in
+     a  stated  amount  of not less  than One  Million  Six  Hundred  Sixty-Five
+     Thousand and 00/100 Dollars ($1,665,000.00), available in multiple drawings
+     corresponding  to the  installment  payments  required  hereunder  with  an
+     expiration  date no earlier than May 15, 2003, by which the payments due to
+     USAIS in accordance  with sections  1.b. and 3 of this  Amendment  shall be
+     paid if USAIS has not received an  installment  payment from Reseller on or
+     before the fifteenth  (15th) day of any month during the term. Such standby
+     letter of credit shall contain terms and conditions acceptable to USAIS, in
+     USAIS's sole discretion, including, but not limited to terms by which USAIS
+     shall be  authorized  to draw down  immediately  on such standby  letter of
+     credit on the  sixteenth  (16th) day of the month for any such  payment not
+     received on the fifteenth  (15th) day of such month,  without regard to the
+     cure period set forth in Section 7.1 of the Reseller Agreement.
+
+5.   Reduction of Authorized  Users. The parties expressly agree that Attachment
+     2 of the  Reseller  Agreement  is hereby  amended  to reduce  the number of
+     maximum authorized users from Ten Thousand (10,000) to Three Thousand Three
+     Hundred (3,300).
+
+6.   Termination of Resale Rights.  The parties  expressly agree that Reseller's
+     license and related  rights to resell the products and services  identified
+     in  the  paragraphs   entitled   "Resale  of  USAIS  Products"  and  "USAIS
+     Subscription  Services" in Attachment 1 and the paragraph  entitled  "USAIS
+     Annual Subscription Services" in Attachment 2 of the Reseller Agreement are
+     hereby  terminated,  and Reseller  acknowledges  and agrees that it will no
+     longer  offer to resell or resell such  products  or services  and that any
+     provisions  regarding  Reseller's right to resell such products or services
+     contained in the Reseller Agreement shall be null and void. Notwithstanding
+     the foregoing,  Reseller shall have the right to renew the subscriptions of
+     those customers  identified in the attached  Exhibit B at the renewal price
+     set forth in that Exhibit B.
+
+7.   Release of  Prohibited  Relationships  Restriction.  The parties  expressly
+     agree that section 4.2 and Attachment 3 of the Reseller  Agreement shall be
+     deleted in their entirety and shall no longer have any force or effect.
+
+8.   Conditions  Precedent.  Obtaining  and  delivering  the  letter  of  credit
+     required by section 4 of this Amendment and making the payments required by
+     sections  1.a.  and 2 of this  Amendment  on or before March 22, 2001 shall
+
+<PAGE>
+
+     each be a condition precedent to the effectiveness of this Amendment.
+
+9.   Incorporation of Reseller Agreement.  The parties expressly agree that this
+     Amendment  supplements the Reseller Agreement,  which is made a part hereof
+     by reference,  and all terms,  conditions,  and  provisions of the Reseller
+     Agreement, unless specifically modified, are to apply to this Amendment and
+     are  made  a  part  of  this  Amendment  as  though  expressly   rewritten,
+     incorporated, or included herein. Except as otherwise specified herein, all
+     capitalized  terms used in this  Amendment  shall have the  meanings as set
+     forth in the Reseller Agreement.
+
+10.  Conflicting  Terms.  In  the  event  of  any  conflict,  inconsistency,  or
+     incongruity between the provisions of the Reseller Agreement, as amended by
+     this Amendment,  and the provisions of the original Reseller Agreement, the
+     provisions of the amended  Reseller  Agreement shall in all respects govern
+     and control.
+
+11.  Modification.  This  Amendment  may only be  modified or amended by written
+     agreement signed by both parties.
+
+12.  Counterparts. This Amendment may be signed in two or more counterparts, all
+     of which, when taken together, shall constitute one original.
+
+     IN WITNESS  WHEREOF,  the parties have executed this  Amendment on the date
+set forth under their respective signatures and seals.
+
+PARTSBASE.COM, INC.                      USA INFORMATION SYSTEMS, INC.
+
+
+By: /s/ Robert A. Hammond   [SEAL]       By: /s/ Stephen M. Murdock    [SEAL]
+    ---------------------                    ----------------------
+
+Name: Robert A. Hammond                  Name: Stephen M. Murdock
+                                               ------------------
+
+Title: President                         Title: President
+       -----------------------                  -------------------------
+
+Date:03/26/01                            Date: 03/26/01
+     -------------------------                 --------------------------
+
+<PAGE>
+
+                                    EXHIBIT A
+                                Payment Schedule
+
+
+      Pmt Date             Revised             Current           Total
+      --------             -------             -------           -----
+      04/15/01                                $  25,000      $    25,000
+      05/15/01                                $  25,000      $    85,000
+      06/15/01           $    60,000          $  25,000      $    85,000
+      07/15/01           $    60,000          $  25,000      $    85,000
+      08/15/01           $    60,000          $  25,000      $    85,000
+      09/15/01           $    60,000          $  25,000      $    85,000
+      10/15/01           $    60,000          $  25,000      $    85,000
+      11/15/01           $    60,000          $  25,000      $    85,000
+      12/15/01           $    60,000          $  25,000      $    85,000
+      01/15/02           $    60,000                         $    60,000
+      02/15/02           $    60,000                         $    60,000
+      03/15/02           $    60,000                         $    60,000
+      04/15/02           $    60,000                         $    60,000
+      05/15/02           $    60,000                         $    60,000
+      06/15/02           $    60,000                         $    60,000
+      07/15/02           $    60,000                         $    60,000
+      08/15/02           $    60,000                         $    60,000
+      09/15/02           $    60,000                         $    60,000
+      10/15/02           $    60,000                         $    60,000
+      11/15/02           $    60,000                         $    60,000
+      12/15/02           $    60,000                         $    60,000
+      01/05/03           $    60,000                         $    60,000
+      02/05/03           $    60,000                         $    60,000
+      03/05/03           $    60,000                         $    60,000
+      04/15/03           $    60,000                         $    60,000
+      05/15/03           $    60,000                         $    60,000
+                         -----------          ---------      -----------
+                         $ 1,440,000          $ 225,000      $ 1,665,000
+                         ===========          =========      ===========
+
+<PAGE>
+
+                                    EXHIBIT B
+
+
+Renewal Customers and Price
+
+PARTSBASE / USA RESELLER ACCOUNT LIST
+
+CUSTOMER NAMES HAVE BEEN OMMITTED DUE TO CONFIDENTIALITY.
+
+                     Total Amount:   $12,240.00
+
+
+NOTE: RENEWAL COSTS WILL REMAIN THE SAME AS LISTED ABOVE FOR 1ST AND 2ND YEAR
+
+</TEXT>
+</DOCUMENT>

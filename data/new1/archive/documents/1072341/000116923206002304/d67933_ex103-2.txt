@@ -1,0 +1,134 @@
+<DOCUMENT>
+<TYPE>EX-10.3.2
+<SEQUENCE>6
+<FILENAME>d67933_ex103-2.txt
+<DESCRIPTION>AMENDMENT NO 1 TO CONTRACT NUMBER T70309257
+<TEXT>
+                                                                  Exhibit 10.3.2
+
+Portions  of  this  exhibit  have  been  omitted   pursuant  to  a  request  for
+confidential  treatment filed with the Securities and Exchange  Commission.  The
+omissions have been indicated by asterisks  ("*****"),  and the omitted text has
+been filed separately with the Securities and Exchange Commission.
+
+              AMENDMENT No 1 TO CONTRACT Number T70309257 (IA 7-C9)
+
+            This  Amendment (the  "Amendment")  is made as of the 7th day of May
+2004 ("Effective Date").
+
+      WHEREAS,  Andrita  Studios,  Inc., and Loral SpaceCom  Corporation,  d/b/a
+Loral Skynet  ("Loral")  executed an agreement  for the  provision of service on
+transponder  9 of the Telstar 7 satellite  effective as of 20 November 2003 (the
+"Agreement");
+
+      WHEREAS,  Intelsat LLC, a company organized and existing under the laws of
+Delaware,  acquired  the  assets  of Loral  effective  17 March  2004,  and,  in
+connection  with that  acquisition,  the  Agreement was assigned to Intelsat USA
+Sales Corp.  ("Intelsat"),  a company also organized and existing under the laws
+of Delaware  effective  on the same date,  and Playboy has validly  consented to
+said assignment;
+
+      WHEREAS Telstar 7 has been renamed Intelsat Americas 7 (IA-7);
+
+      WHEREAS Intelsat and CUSTOMER and now desire to amend certain terms of the
+Agreement;
+
+      NOW THEREFORE,  in  consideration of the promises herein exchanged and for
+other good and valuable  consideration  the receipt and sufficiency of which are
+hereby acknowledged,  the Parties agree to amend the Terms and Conditions to the
+Agreement as described below:
+
+A.    All terms not otherwise  defined herein shall have the meaning ascribed to
+      them in the Agreement.
+
+B.    All references to Skynet are replaced with  "Intelsat," and all references
+      to Telstar 7 are replaced with "IA-7".
+
+C.    Section 2 of the  Agreement  (Rates  and Term of  Service)  is  amended by
+      adding:
+
+<TABLE>
+<CAPTION>
+  Quantity    Service              Satellite  Transponder       Term                        Monthly Rate
+---------------------------------------------------------------------------------------------------------
+<C>           <C>                  <C>        <C>               <C>                         <C>
+1(one)        18.0 MHz             IA-7       C - 9             start:                      *****
+              Non-preemptible                                   on or before 5/1/05*
+                                                                End:
+                                                                3 years from start date
+                                                                with option to extend
+                                                                Service for 2 additional
+                                                                years with written notice
+                                                                to Intelsat no later than
+                                                                60 days prior to end of
+                                                                current term
+</TABLE>
+
+
+                                       1
+<PAGE>
+
+* CUSTOMER may activate this Service ("Additional Service") before 1 May 2005 by
+giving 45 days'  written  notice to Intelsat in  advance.  If Intelsat  does not
+receive an activation  notice  relating to the capacity  indicated  above,  such
+capacity shall be activated on 1 May 2005, and billed accordingly.
+
+            Once the  Additional  Service  has been  activated,  but in no event
+prior to January 5, 2005, Intelsat may migrate the entire Service provided under
+the Agreement to the Intelsat 13 satellite  (IA-13) by giving CUSTOMER 100 days'
+written notice in advance.  Intelsat agrees that the polarity of the transponder
+service on IA-13 shall be the same as was  provided on IA-7.  In order to ensure
+continuity of service,  Intelsat shall provide  satellite  capacity on IA-13 and
+Intelsat shall downlink CUSTOMER's entire 36 MHz Service from IA-7 and re-uplink
+the  Service  to  IA-13  for a period  of 30 days  prior  to  CUSTOMER's  end of
+operation on IA-7 at no additional cost to CUSTOMER to support dual illumination
+on IA-7 and IA-13 (the "Dual Illumination Period.") In the event Intelsat elects
+to  commence  a dual  illumination  as  provided  for  above  prior  to the Dual
+Illumination  Period,  then  Intelsat may do so at any time at its sole expense.
+Intelsat may elect to migrate the entire 36 MHz Service only if the parties have
+agreed to a mutually  acceptable  antenna and/or hardware program to provide for
+cable system access to services on IA-13.
+
+D.    Section 7(ii) of the Agreement is deleted and replaced with:
+
+      If to Intelsat: Director, Contracts
+                      Intelsat
+                      3400 International Drive NW
+                      Washington, D.C. 20008
+                      Tel: 202 944 7200
+
+      With a copy to: General Counsel
+
+            Except as herein  amended,  all other  provisions  of the  Agreement
+shall remain in full force and effect.  In the event of any conflict between the
+terms of this Amendment and those of the Agreement,  the terms of this Amendment
+shall  supersede  those of the  Agreement and  exclusively  govern the matter in
+question.
+
+            IN WITNESS WHEREOF, the Parties hereto have executed or caused to be
+executed this Amendment as of the Effective Date first written above.
+
+INTELSAT USA SALES CORP.
+
+
+BY: /s/ Stephen Spengler
+    ----------------------------
+        Stephen Spengler
+        Director and President
+
+
+                                       2
+<PAGE>
+
+ANDRITA STUDIOS, INC.
+
+
+BY: /s/ Alexandra Atkins Shepard
+    --------------------------------
+Alexandra Atkins Shepard
+Vice President
+
+
+                                       3
+</TEXT>
+</DOCUMENT>

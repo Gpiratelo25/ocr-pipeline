@@ -1,0 +1,656 @@
+<DOCUMENT>
+<TYPE>EX-10.16
+<SEQUENCE>4
+<FILENAME>dex1016.txt
+<DESCRIPTION>AM 17 TO CONTRACT SERVICES AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                 Exhibit 10.16
+                                                                 Amendment 17 To
+                                                                 Agreement No.
+                                                                 GSA005D
+
+Confidential treatment has been requested for portions of this exhibit. The copy
+filed herewith omits the information subject to the confidentiality request.
+Omissions are designated as *. A complete version of this exhibit has been filed
+separately with the Securities and Exchange Commission.
+
+                                 [LOGO OF AT&T]
+                          SUPPLIER MANAGEMENT DIVISION
+
+                                                                Amendment No. 17
+
+
+The Contract Services Agreement effective August 1, 1995, between NetSolve,
+Incorporated ("NetSolve") and AT&T Corp. ("AT&T") ("Original Contract") as
+heretofore modified by Amendments Number 5, Number 11 and Number 14
+(collectively the "GSA005D Agreement" or "Agreement") is further amended by this
+Amendment No. 17 as follows effective as of January 1, 2002:
+
+     1)  Amendment Number 14, entitled "AT&T Frame Relay Plus Services" is
+         hereby deleted and replaced by this Amendment 17, attached hereto, and
+         incorporated as part of the Agreement.
+
+     2)  Attachments K-1, K-2, K-3 and K-4 to Attachment K to Amendment Number 7
+         remain in effect and are not deleted by this Amendment.
+
+
+ALL OTHER TERMS AND CONDITIONS OF THE AGREEMENT REMAIN UNCHANGED.
+
+NETSOLVE, INCORPORATED                     AT&T CORP.
+
+By:          Robert C. Pojman              By:  Debra Bell
+
+Signature:    /s/ Robert C. Pojman         Signature:     /s/ Debra Bell
+             ------------------------                   ------------------------
+Title:       VP Business Development       Title:      Chief Procurement Officer
+
+Date:             April 18, 2002           Date:            April 8, 2002
+             ------------------------                   ------------------------
+
+
+Page 1 of 9
+
+<PAGE>
+
+                                                                 Amendment 17 To
+                                                                 Agreement No.
+                                                                 GSA005D
+
+
+                                  AMENDMENT 17
+
+                         AT&T Frame Relay Plus Services
+
+This Amendment for Contract Services ("Amendment 17") to the Agreement covers
+AT&T Frame Relay Plus Implementation and Management Services ("Services") that
+NetSolve shall provide to AT&T in support of AT&T's Frame Relay Plus Service
+offering, as requested by AT&T and as described herein. This Amendment 17 is an
+integral part of the Agreement and shall be governed by the terms of the
+Agreement. In the event of any conflict between the terms of this Amendment 17
+and the terms of the Agreement, the terms of this Amendment 17 shall prevail
+with respect to the Services provided under this Amendment.
+
+For purposes of this Amendment 17 only, the following Paragraphs in the
+Agreement are deleted in their entirety and replaced with the Paragraphs below:
+
+Paragraph 1 - Statement of Work
+
+NetSolve shall provide Services to AT&T in support of AT&T's Frame Relay Plus
+Service offering in accordance with the "Statement of Work," Attachments K-1,
+K-2, K-3, and K-4 attached to Amendment Number 7 to the Agreement.
+Notwithstanding the preceding sentence, the Order Management portions of these
+attachments are deleted in their entirety. Services shall be available to AT&T
+worldwide. Modifications to this Statement of Work and its requirements as set
+forth in Attachments K-1, K-2, K-3, and K-4 may be requested from time to time
+by AT&T. The pricing contained herein shall apply to Services requested or any
+modification, provided that the modifications requested do not require the
+furnishing of more material or labor by NetSolve or longer times for performance
+of services. NetSolve shall immediately notify AT&T's Contract Representative,
+in writing, of any requested modification which NetSolve reasonably believes
+will require an increase to the prices contained in Paragraph 4 - Payment for
+Services, and shall furnish the amount of such proposed increase in such writing
+with appropriate supporting documentation substantiating the basis for the
+requested price increase. Following delivery of such notice, NetSolve shall not
+proceed with Services with any such modification until AT&T and NetSolve
+Contract Representatives (as then designated and authorized) agree, in writing,
+to the appropriate charges.
+
+"Orders" for Services pursuant to this Amendment 17 shall be sent to NetSolve
+via a mutually agreed upon method with the current practice of providing
+NetSolve copies of the AT&T order documents with the End User being deemed
+approved by both parties for all Orders to date and for future Orders unless a
+new method is approved in writing by both parties. For purposes of this
+Amendment 17, "AT&T End User Customer" or "End user customer" means an AT&T end
+user customer to which NetSolve is providing Services pursuant to this Amendment
+17. Monthly recurring Service charges as further described in Paragraph 4 shall
+commence on the start date of Services as requested by AT&T (such date is herein
+defined as the "CRD") and continue for the number of months specified on the
+current End User contract between AT&T and AT&T's End User (up to a maximum of
+36 months) (the "Service Term") except that to the extent AT&T continues the
+Services to the End User beyond the Service Term on a month-month basis then
+NetSolve may, at AT&T's option, provide the Services until cancellation by AT&T
+with thirty (30) days notice to NetSolve. Renewals or extensions of end user
+contracts between AT&T and AT&T End Users are not defined herein as Service Term
+or End User Service Term and Services under such renewals and extensions may
+only be given to NetSolve under this Amendment 17 in AT&T's sole discretion and
+with AT&T's express written consent. AT&T may, at its option, keep End Users
+with NetSolve under this Amendment 17 after expiration of such End Users'
+Service Terms on a month-to-month basis until the earlier of cancellation by
+AT&T with thirty (30) days notice to NetSolve or December 31, 2007. The
+agreement term for ordering Frame Relay Plus Service is set forth in Paragraph 3
+("Ordering Term").
+
+Upon expiration or termination of this Amendment 17, all Services will continue
+to be provided through the end of each End User Service Term and will be
+non-cancelable by either party except as set forth herein in Paragraph 24 of
+this Amendment 17.
+
+Page 2 of 9
+
+<PAGE>
+
+                                                                 Amendment 17 To
+                                                                 Agreement No.
+                                                                 GSA005D
+
+Paragraph 2 - Contract Representative:
+
+AT&T's Contract Representative for this Amendment 17 is * who has an office at
+900 Route 202/206, Room 5B216C, Bedminster, NJ 07921-0752. AT&T will notify
+NetSolve in writing if a new Contract Representative is designated by AT&T.
+
+Paragraph 3 - Term
+
+The Effective Date of this Amendment 17 is January 1, 2002 and it shall end upon
+expiration or termination of the last End User Service Term hereunder. ("Term").
+AT&T may order Services hereunder through June 30, 2003 ("Ordering Period")
+
+Paragraph 4 - Payment for Services
+
+For services performed by NetSolve under this Amendment 17, AT&T will pay
+NetSolve the following:
+
+Recurring Services
+
+<TABLE>
+<CAPTION>
+                                                              ---------------------------------------
+                                                                                 Price
+-----------------------------------------------------------------------------------------------------
+<S>                          <C>                                 <C>                <C>
+       Service Type                Network Component Type            Domestic         International
+-----------------------------------------------------------------------------------------------------
+FRP 1                        Visual CPE                          $*/month/unit      $*/month/unit
+-----------------------------------------------------------------------------------------------------
+FRP 2                        Visual CPE                          $*/month/unit      $*/month/unit
+-----------------------------------------------------------------------------------------------------
+FRP 3                        Visual CPE                          $*/month/unit      $*/month/unit
+-----------------------------------------------------------------------------------------------------
+</TABLE>
+
+The Recurring Services pricing in this Amendment 17 will continue to apply to
+all new end user customers from December 31, 2000 until expiration or
+termination of this Amendment. Customers for which NetSolve received an order
+from AT&T on or before December 31, 2000 which is currently being billed at less
+than $* shall increase to $* as of the Effective Date. This Recurring Services
+pricing will remain effective provided the ratio of unmanaged PVCs to managed
+PVCs does not exceed 1.2 to 1. In the event that such ratio exceeds 1.2 to 1,
+the parties shall negotiate reasonable pricing modifications to the Recurring
+Services pricing herein. The above pricing shall apply to AT&T IPFR Sites
+installed until July 31, 2002.
+
+In the event the following operating results are achieved, NetSolve will
+negotiate in good faith to reduce the above pricing under this Amendment 17 for
+recurring services. Any lower price which NetSolve and AT&T agree to will apply
+to all new orders entered into after the effective date of the price decrease.
+
+o    The mean-time-to-repair, as reported from NetSolve's Trouble Ticket system
+     (and which is currently utilized for the monthly performance reporting to
+     AT&T by NetSolve), is 3.0 hours or less for three consecutive months; and
+
+o    The ratio of the total number of Trouble Tickets to the total number of
+     devices managed is less than or equal to one Trouble Ticket per four
+     devices managed over the same period as the previous bullet point.
+
+Page 3 of 9
+
+<PAGE>
+
+                                                                 Amendment 17 To
+                                                                 Agreement No.
+                                                                 GSA005D
+
+
+
+Nonrecurring Services
+
+<TABLE>
+<CAPTION>
+                                                         ------------------------------------------------------
+                                                            Domestic Price (1)
+---------------------------------------------------------------------------------------------------------------
+<S>                            <C>                          <C>             <C>
+      Service Type             Network Component Type       0-* New Site     * + New Sites
+                                                            installation      installation
+                                                            Orders in the    Orders in the
+                                                             applicable     applicable time
+                                                             time period       period set
+                                                           set forth below    forth below
+---------------------------------------------------------------------------------------------------------------
+Program Management         Visual CPE and/or Port          $*/CPE and/or    $*/CPE and/or
+                                                           Port             Port
+                                                           ($* Int'l)       ($* Int'l)
+---------------------------------------------------------------------------------------------------------------
+Installation Engineering   Visual CPE and PAM              $*/Visual unit   $*/Visual unit
+(8:00 a.m. - 5:00 p.m.                                     ($* Int'l)       ($* Int'l)
+local time)
+---------------------------------------------------------------------------------------------------------------
+Installation Engineering   Visual CPE and PAM              $*/Visual unit   $*/Visual unit
+(Outside the hours of                                      ($* Int'l)       ($* Int'l)
+8:00 a.m. - 5:00 p.m.
+local time)
+---------------------------------------------------------------------------------------------------------------
+Transition Fee (2)         Applies to any sites            $* per Site      $* per Site
+                           transitioned to a
+                           non-NetSolve operations
+                           center.  (2)
+---------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+(1) Pricing is based on the total number of new Site installation Orders by AT&T
+hereunder during the time periods set forth below.
+
+(2) This charge will include the creation and delivery of customer-specific
+information contained in NetSolve's database in a format to be mutually agreed
+upon, thirty (30) minutes of project management assistance per site (including
+any time required for turn-up of management PVC) (collectively Transition
+Services"). Any time in excess of thirty (30) minutes per site on a per-customer
+basis will be billed at $* per hour (in half-hour increments). See Exhibit 2.
+This charge will not apply to Sites which are migrated to a non-NetSolve
+operations center that do not require Transition Services and Sites cancelled or
+terminated under Paragraph 24-1) for NetSolve's default; 24-2)a) (unless due to
+AT&T's default of its payment obligations); 24-2)b); 24-3)(a)(1) and (2); and
+24-3(a)(4) as long as no Transition Services are required.
+
+The above pricing for Nonrecurring Services will be fixed for the Term of this
+Agreement as set forth in Paragraph 3.
+
+NetSolve will maintain capacity to install up to * Sites per quarter as long as
+the Minimum New Site Installation Percentage is at or above 90%; if the Minimum
+New Site Installation Percentage falls below 90% in any quarter, then NetSolve
+will maintain capacity to install 120% of the Site installations performed by
+NetSolve in the immediately preceding quarter. In return, AT&T agrees to order
+for installation the minimum new site percentage throughout the periods set
+forth in the following table ("Minimum New Site Installation Percentage"). The
+Minimum New Site Installation Percentage shall be calculated as a percentage of
+the total new AT&T Frame Plus Sites to be installed by AT&T over the time
+periods set forth less any Site that NetSolve is unable to install in strict
+conformance with the installation schedule per the applicable End User contract.
+This minimum will include all installations of Sites under (i) this Amendment
+17 and Amendment 14 plus (ii) Amendment Number 15 (AT&T ATM Plus) plus (iii)
+Amendment No. X (AT&T ATM Plus Service utilizing ADC Kentrox Platform). This
+minimum will further include installations for Sites for AT&T IPFR. In the event
+that AT&T does not meet the applicable target Minimum New Site
+-------------------------
+Page 4 of 9
+
+<PAGE>
+
+                                                                 Amendment 17 To
+                                                                 Agreement No.
+                                                                 GSA005D
+
+Installation Percentage during any period set forth below, AT&T shall have the
+option to increase the following period's Minimum New Site Installation
+Percentage by the difference between the actual installed new site installation
+percentage and the applicable target Minimum New Site Installation Percentage
+("Shortfall"). In the event AT&T does not increase the Minimum New Site
+Installation Percentage or does not increase the Minimum New Site Installation
+Percentage in an amount equal to the Shortfall in the period following such a
+failure to meet the applicable target Minimum New Site Installation Percentage,
+AT&T shall pay NetSolve an amount equal to the Recurring Service fees that AT&T
+would have paid NetSolve had such Sites been installed until AT&T actually
+installs enough new Sites with NetSolve to make up for the Shortfall at which
+time such payments shall immediately cease.
+
+<TABLE>
+<CAPTION>
+-------------------------------------------------------------------------------------------------------------
+Time Period                                             Minimum New Site Installation as % of total New
+                                                        AT&T Frame Plus Sites ("Minimum New Site
+                                                        Installation Percentage")
+-------------------------------------------------------------------------------------------------------------
+<S>                                                     <C>
+Effective date through 6/30/02                          90%
+-------------------------------------------------------------------------------------------------------------
+7/1/02 through September 30, 2002                       75%
+-------------------------------------------------------------------------------------------------------------
+10/1/02 through December 31, 2002                       60%
+-------------------------------------------------------------------------------------------------------------
+1/1/03 through March 31, 2003                           45%
+-------------------------------------------------------------------------------------------------------------
+April 1,2003 through June 30, 2003                      25%
+-------------------------------------------------------------------------------------------------------------
+July 1, 2003 and after                                  Zero percent
+-------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+Time and Material Services
+
+Time and Materials charges shall apply for work done by NetSolve, and approved
+in advance in writing by AT&T, for all services outside the scope of this
+Statement of Work.
+
+     o    $* per hour for time and material SERVICES done remotely.
+
+     o    All Time and Material SERVICES are to be authorized in advance in
+          writing by AT&T.
+
+Paragraph 6 - COMPETITION
+
+Paragraph 6 of the Agreement as amended by Amendment 5 is replaced by the
+following for this Amendment 17 only:
+
+Paragraph 6- COMPETITION
+
+A. NetSolve shall not, without prior written authorization by AT&T's Contract
+Representative for this Amendment 17, directly contract with any AT&T End User
+Customer to provide substantially the same Services hereunder (i.e., management
+of only a Visual Networks DSU and the associated Visual Networks PAM) during the
+Term of this Amendment 17 and for a period of ninety (90) days thereafter. If
+NetSolve breaches or violates the preceding sentence on more than one occasion,
+AT&T may, in its sole discretion, immediately reduce the Minimum New Site
+Installation Percentage by notifying NetSolve in writing that AT&T has elected
+to make such reduction and upon receipt of such notice, NetSolve will install
+any pending Orders in accordance with the schedule for such Orders but shall not
+be obligated to maintain any additional installation capacity beyond such
+pending Orders. All Orders received by NetSolve prior to the date of AT&T's
+notice shall remain in place for the remainder of the Service Term unless
+otherwise cancelable under Paragraph 24. NetSolve may, however, subcontract with
+an independent third party to provide substantially the same Services to an AT&T
+End User Customer up to a maximum total removal from AT&T of 2750 End User
+Customer Sites (including any Sites obtained by NetSolve as a result of
+NetSolve's above obligation to refrain from directly contracting with AT&T End
+Users) if the specific End User Customer opportunity was not developed as a
+result of performing Services hereunder and did not involve any Solicitation by
+NetSolve. Upon removal of more than 2750 Sites, AT&T shall have the right to
+immediately reduce the Minimum Site Installation percentage to zero. For
+purposes of this Paragraph 6 of Amendment 17, "AT&T End User Customer" means an
+end user customer to which NetSolve is providing Services pursuant to this
+Amendment 17.
+
+In addition, NetSolve agrees that with respect to the Services provided by
+NetSolve under this Amendment 17 that it will not directly contact any End User
+Customer or perform any activity with any End User Customer that is not
+reasonably necessary in order for NetSolve to perform its responsibilities as
+specifically set forth in the Agreement or this Amendment 17, including without
+limitation, marketing activities, customer surveys, forums or meetings without
+the specific prior written authorization of AT&T's Contract Representative as
+set forth in Paragraph 2. In the event that an AT&T End
+
+Page 5 of 9
+
+<PAGE>
+
+                                                                 Amendment 17 To
+                                                                 Agreement No.
+                                                                 GSA005D
+
+User Customer contacts NetSolve with respect to the Services for a purpose that
+is not reasonably necessary in order for NetSolve to perform its
+responsibilities as specifically set forth in the Agreement or this Amendment
+17, NetSolve shall inform such AT&T End User Customer that such contact is not
+permitted and shall terminate the contact and report immediately such contact to
+AT&T's Contract Representative as set forth in Paragraph 2. NetSolve shall
+represent itself to any End User Customer hereunder as a representative of AT&T.
+
+NetSolve acknowledges and agrees that all customer information derived as a
+result of performing Services hereunder is the property of AT&T. NetSolve shall
+promptly return all such customer information to AT&T upon termination or
+expiration of this Amendment or the transfer of the applicable AT&T End User
+Customer from NetSolve whichever is earlier with the exception of (i) Orders and
+other business records which NetSolve must retain to support its financial and
+tax reporting obligations and customary corporate record-keeping requirements;
+and (ii) data contained electronically in NetSolve's databases which NetSolve
+will purge in accordance with its standard practices. The applicable data in
+item (ii) will be provided to AT&T for the Transition Fee specified in Paragraph
+4. In perpetuity, NetSolve shall not: (1) use any customer information that it
+obtains as a result of performing the Services hereunder or the network designs
+developed hereunder to compete with AT&T or others; and (2) NetSolve should not
+disclose such customer information or network designs to any third party,
+employees, agents, subcontractors or suppliers for the purpose of competing with
+AT&T or others. Such disclosure shall not be prohibited: (i) if NetSolve is
+required in a judicial, administrative or governmental proceeding to disclose
+any such information, however, NetSolve shall provide AT&T with prompt notice of
+such a requirement so AT&T may seek an appropriate protective order; or (ii) in
+connection with a federal or state securities filing, or in any effort to raise
+capital or borrow funds from any public or private source provided NetSolve
+shall provide AT&T with prompt notice of any disclosure (for example, in
+connection with a road show regarding a pending public offering of securities,
+NetSolve would inform AT&T in advance of the types of information NetSolve
+proposes to disclose such as length and estimated value of any contract or
+amendment thereto with AT&T). AT&T may seek an appropriate protective order if
+the parties do not reach agreement about the scope and content of any proposed
+disclosure.
+
+Paragraph 7 - Invoicing and Payment
+
+NetSolve's invoices shall be rendered 1) upon completion of the Services, 2)
+monthly, sent in advance, for recurring monthly charges, or 3) at other times
+expressly provided for in this Amendment 17, and shall be payable when the
+Services have been performed to the satisfaction of AT&T. NetSolve shall mail
+invoices referring to GSA0005D Agreement, Amendment 7 with copies of any
+supporting documentation required by AT&T to: *, 900 Route 202/206, Room 5B216C,
+Bedminster, NJ 07921-0752. Undisputed invoices shall be paid within forty-five
+(45) days after AT&T's receipt of the invoice.
+
+Paragraph 24 - Termination
+
+1)   Termination of the Agreement- The provisions contained in the Original
+     Contract as modified by Amendment 5 of the Agreement that apply to the
+     entire Agreement shall survive the expiration or termination of the
+     Original Contract and/or Amendment 5 and shall continue to apply to this
+     Amendment 17 as if the Original Contract and Amendment 5 had not expired or
+     been terminated, subject to AT&T's right to terminate under Paragraph 24 2)
+     a) below.
+
+2)   Termination of the Agreement and/or Amendment 17-
+     a)   Except as otherwise specifically set forth herein, in the event
+          NetSolve shall be in breach or default of any of the terms, conditions
+          or covenants of the Agreement , this Amendment 17, or any or all
+          Orders placed under this Amendment 17, or in the event AT&T is in
+          breach or default of its payment obligations under the Agreement, and
+          such breach or default shall continue for a period of thirty (30) days
+          after the receipt of written notice, then in addition to all other
+          rights and remedies of law or equity or otherwise (subject to the
+          limitations in the Agreement specifically set forth in Paragraph 36 of
+          Amendment 5 to the Agreement), the non-defaulting party shall have the
+          right to terminate this Amendment 17 and/or any such Orders placed by
+          AT&T hereunder (except that if a given breach or default relates to
+          the dissatisfaction of only one End User Customer in such End User's
+          sole discretion, with the Services performed by NetSolve and does not
+          involve a breach of Paragraph 6 herein, then only the Order(s) for
+          that End User customer may be terminated) without any charge,
+          obligation or liability whatsoever, except as to the payment for
+          Services already received and accepted by AT&T and, if AT&T is the
+          defaulting party, the Transition Fee under Paragraph 4.
+
+     b)   This Amendment 17 and any or all Orders placed hereunder may be
+          terminated by AT&T, by notice in writing:
+
+          i)   if NetSolve makes an assignment for the benefit of creditors
+               (other than solely an assignment of moneys due); or
+
+Page 6 of 9
+
+<PAGE>
+                                                                Amendment 17 To
+                                                                Agreement No.
+                                                                GSA005D
+
+          ii)  if NetSolve evidences an inability to pay debts as they become
+               due, unless adequate assurance of such ability to pay is provided
+               within thirty (30) days of such notice; or
+
+          iii) if a voluntary proceeding is commenced under any provision of the
+               United States Bankruptcy Code by NetSolve, the Agreement, this
+               Amendment 17, and any or all Orders may be immediately terminated
+               by AT&T; or
+
+          iv)  if an involuntary proceeding is commenced under an provision of
+               the United States Bankruptcy Code against NetSolve that is not
+               dismissed within thirty (30) days of its filing, the Agreement,
+               this Amendment 17, and any or all Orders may be immediately
+               terminated by AT&T.
+
+     c)   This Amendment 17 and any or all Orders may be terminated at any time
+          by AT&T upon twenty-four hours' written notice in the event of
+          NetSolve's acquisition by or merger with a competitor of AT&T.
+
+3)   Termination of Individual Orders placed pursuant to this Amendment 17.
+
+     a)   AT&T may terminate an Order, without charge, upon 30 days written
+          notice if 1) AT&T's End User is dissatisfied, in such End User's sole
+          discretion, with the Services performed by NetSolve; 2) AT&T's End
+          User has a change in its normal course of business that impacts
+          Services, such as relocation to a location not utilizing Frame Relay
+          Plus Services, office closings or any business condition or downturn
+          resulting in removal of Sites from AT&T Frame Plus by the AT&T End
+          User; 3) the End User's Contract expires or is terminated for any
+          reason; 4) the End User downgrades to a non-managed service; or 5) the
+          End User changes to a another AT&T service. In the event of
+          terminations where under Paragraph 24-3)a)5), and End User purchases
+          another AT&T managed service resulting in cancellation of AT&T Frame
+          Plus service hereunder in the first twelve months of such End User's
+          Service Term, AT&T shall pay NetSolve a termination fee equal to the
+          Recurring Service charge that would have been payable from AT&T to
+          NetSolve for the terminated Sites from the date of cancellation to the
+          end of first twelve months of the End User's Service Term. If an End
+          User cancels AT&T Frame Plus services any time after the first 12
+          months of the applicable Service Term, there shall be no termination
+          fee payable to NetSolve for such Sites.
+
+     b)   AT&T may terminate upon thirty (30) days written notice by AT&T, at no
+          charge, all Orders upon expiration of the Service Term between AT&T
+          and NetSolve.
+
+     c)   AT&T may terminate upon thirty (30) days written notice by AT&T, at no
+          charge, any Order that includes modifications (as described in
+          Paragraph 1 of this Amendment 17), in the event AT&T and NetSolve are
+          unable to agree on pricing for any modifications to the Statement Of
+          Work. Modifications cannot apply retroactively to installed business
+          unless AT&T and NetSolve mutually agree.
+
+4)   Ownership and Return of Data upon Termination
+
+     In accordance with proprietary information or confidentiality clauses
+     contained within the Original Contract under Paragraph 6, Competition or
+     the Agreement, NetSolve agrees and acknowledges that all customer data
+     {e.g. (without limitation): the customer premises equipment configurations,
+     customer database, trouble history, passwords etc.) is the property of AT&T
+     and will be promptly conveyed and returned to AT&T in electronic format
+     upon written notice.
+
+Paragraph 37 - Access to AT&T Systems
+
+AT&T agrees to provide NetSolve, at no charge, access to all AT&T internal
+information systems, which include provisioning and maintenance systems, which
+AT&T determines in its reasonable judgment to be necessary for NetSolve to
+effectively perform under the SOW as outlined in Attachments K-1, K-2, K-3, and
+K-4. If applicable, any such information shall be provided to NetSolve subject
+to Data Connect Agreement #197 dated April 16, 1998 and Non-Disclosure Agreement
+dated July 17, 1997, each between AT&T Corp. and NetSolve.
+
+Page 7 of 9
+
+<PAGE>
+
+                                                                Amendment 17 To
+                                                                Agreement No.
+                                                                GSA005D
+
+
+                            Exhibit 1 to Amendment 17
+
+                                      SLAs
+                                      ----
+
+SLAs include the performance of NetSolve and any third party suppliers of
+NetSolve for which NetSolve has management responsibilities under Amendment 17
+to Amendment Number 17. SLAs shall not include a failure resulting from any act,
+omission or failure of AT&T or its affiliates, service supplier, or End User
+customer. In the event any act, omission, or failure of AT&T or the End User can
+be reasonably managed by NetSolve to increase the SLA performance, NetSolve will
+attempt to work with that entity to increase the SLA performance if such work
+does not, in NetSolve's sole opinion, significantly increase NetSolve's costs.
+
+        ------------------------------------ ------------------------------
+        SLA                                  Target (1)
+        ------------------------------------ ------------------------------
+        ASA (Average Speed of Answer)        *
+                                             *
+        ------------------------------------ ------------------------------
+        Pro-Active Monitoring - % of         *
+        troubles NetSolve calls              *
+        customer first
+        ------------------------------------ ------------------------------
+        Time to Isolate fault                *
+                                             *
+        ------------------------------------ ------------------------------
+        Mean Time to Repair - Overall        *
+        ------------------------------------ ------------------------------
+        Mean Time to Repair - with           *
+        dispatch
+        ------------------------------------ ------------------------------
+        On-Time Installation                 *
+        ------------------------------------ ------------------------------
+
+         (1) Failure to achieve these SLAs (after deletion of failures resulting
+         from any act, omission or failure of AT&T or its affiliates, service
+         supplier, or End User customer) shall not be considered a default under
+         Paragraph 24 unless those SLAs marked with an "*" are fifteen
+         percentage points below the stated SLA for two consecutive months and
+         AT&T notifies NetSolve it is in default within ten (10) days after
+         receipt of the applicable SLA report.
+
+
+
+
+
+
+Page 8 of 9
+
+<PAGE>
+
+                                                                Amendment 17 To
+                                                                Agreement No.
+                                                                GSA005D
+
+
+                            Exhibit 2 to Amendment 17
+
+              Process for transitioning End Users to another center
+
+--------------------------------------------------------------------------------
+
+AT&T must submit all transition requests via the MACD process and must state the
+reason for transition on the request. An AT&T single-point-of-contact (SPOC)
+must be included on the request. Once the approved MACD is received at NetSolve
+a CSO will be created with a de-install line item. A precise date and time
+should be scheduled with NetSolve by AT&T for this activity.
+
+Upon receipt of a complete MACD, the following actions will be taken:
+
+     o    NetSolve will un-manage the End User customer sites based on the
+          requested MACD date (take the sites off of the poller).
+
+     o    NetSolve will send the AT&T SPOC the current End User customer
+          information from our records in a spreadsheet format.
+
+     o    NetSolve will participate in the scheduling of the de-install with the
+          End User customer and the AT&T SPOC.
+
+     o    AT&T will notify NetSolve via email when the management and PAC (Level
+          3) PVC have been disconnected.
+
+     o    Upon receipt of the confirmation email, NetSolve will coordinate 1)
+          deletion of customer information off of PAM and 2) disconnecting IPs,
+          virtual circuits and devices in NetSolve's tools.
+
+Any work in addition to that above, or any additional work required due to
+delays, changes, or failure of AT&T or the End User customer to perform their
+obligations, will be billed at $* per hour (in half-hour increments).
+
+
+
+
+
+Page 9 of 9
+
+
+
+
+</TEXT>
+</DOCUMENT>

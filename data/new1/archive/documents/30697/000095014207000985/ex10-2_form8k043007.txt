@@ -1,0 +1,917 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>3
+<FILENAME>ex10-2_form8k043007.txt
+<DESCRIPTION>EXHIBIT 10.2
+<TEXT>
+                                                                   EXHIBIT 10.2
+                                                                   ------------
+
+
+                              AMENDED AND RESTATED
+                        INVESTMENT MANAGEMENT AGREEMENT
+
+        This Amended and Restated Investment Management Agreement ("Agreement")
+between  TCMG-MA,  LLC (the  "Investor")  and TRIAN FUND  MANAGEMENT,  L.P.,  a
+Delaware limited partnership (the "Investment Manager"),  is entered into as of
+the 30th day of April, 2007.
+
+        WHEREAS,  the Investment  Manager serves as (i) the management  company
+for Trian Partners,  L.P. (the "US Fund"), Trian Partners,  Ltd. (the "Offshore
+Fund"), Trian Partners Master Fund, L.P. (the "Offshore Master Fund") and Trian
+Partners Master Fund (Non-ERISA), L.P. (the "Non-ERISA Fund", and collectively,
+the "Funds");  and (ii) the investment  manager of Trian Partners Parallel Fund
+I, L.P. ("Account I"), Trian Partners Parallel Fund II, L.P. ("Account II") and
+such  other   investment   vehicles  and  managed  accounts  formed  to  invest
+substantially  in  parallel  with  the  Funds,  subject  to tax and  regulatory
+considerations (collectively, "Parallel Vehicles" and, together with the Funds,
+the "Other Accounts");
+
+        WHEREAS,  Mr.  Nelson  Peltz,  Mr. Peter May and Mr. Edward Garden (the
+"Principals")  serve as  officers  and  portfolio  managers  of the  Investment
+Manager;
+
+        WHEREAS,  the  Investor  and the  Investment  Manager  entered into the
+Investment  Management  Agreement  dated as of November 14, 2005 (the "Original
+Agreement"),  pursuant to which the Investor retained the Investment Manager to
+act as discretionary investment manager with respect to the Account (as defined
+below); and
+
+        WHEREAS,  in  connection  with the  corporate  restructuring  of Triarc
+Companies,  Inc., the indirect parent company of the Investor, the Investor and
+the Investment  Manager  desire to amend and restate the Original  Agreement as
+hereinafter set forth.
+
+        In consideration of the mutual covenants  contained herein, the parties
+hereto hereby amend and restate the Original Agreement as follows:
+
+        1.      The  Investor  hereby  appoints the  Investment  Manager as its
+discretionary   investment  manager  with  respect  to  the  Account,  and  the
+Investment Manager hereby accepts such appointment,  pursuant to the provisions
+of this Agreement.  The "Account" shall mean a separate  investment account of,
+and in the name of, the  Investor  comprised of all of the cash and assets held
+by the Custodians (as defined below) plus any  investments,  reinvestments  and
+proceeds of the sale thereof,  including without limitation,  all dividends and
+interest on  investments,  and all  appreciation  thereof,  net of  withdrawals
+therefrom.
+
+        2.      On December 1, 2005 (the  "Contribution  Date"),  the  Investor
+contributed $75 million to the Account.
+
+        3.      (a)     The Investor  acknowledges  and agrees that the Account
+will be invested  substantially in parallel with the Other Accounts (subject to
+legal,  tax or regulatory  constraints) and that in investing the assets of the
+Account the Investment Manager will follow an investment strategy  ("Investment
+Strategy")  substantially  similar to the investment  strategy of the U.S. Fund
+(as previously provided to the Investor).
+
+<PAGE>
+
+                (b)     In   furtherance   of  the   foregoing,   the  Investor
+acknowledges that the Investment  Manager may invest the assets of the Account,
+on margin or otherwise, in securities and other financial instruments of United
+States and non-United States entities,  including, without limitation:  capital
+stock;  preferred stock; shares of beneficial interest;  partnership  interests
+and similar  financial  instruments;  bonds,  bank debt and other fixed  income
+investments,  notes  and  debentures  (whether  subordinated,   convertible  or
+otherwise); currencies; commodities; interest rate, currency, commodity, equity
+and other  derivative  products  (including,  without  limitation:  (i) futures
+contracts (and options thereon) relating to stock indicies,  currencies, United
+States  government  securities  and  securities of foreign  governments,  other
+financial instruments and all other commodities, (ii) swaps, options, warrants,
+repurchase agreements,  reverse repurchase agreements, caps collars, floors and
+forward rate agreements,  (iii) spot and forward currency transactions and (iv)
+agreements  relating  to  or  securing  such  transactions);   equipment  lease
+certificates;   equipment  trust  certificates;   loans;   accounts  and  notes
+receivable and payable held by trade or other  creditors;  bankruptcy and trade
+claims; contract and other claims; executory contracts; participations;  mutual
+funds; money market funds and other cash equivalents; obligations of the United
+States or any state thereof,  foreign governments and  instrumentalities of any
+of them; commercial paper; certificates of deposit; bankers' acceptances; trust
+receipts;  investments  in  other  physical  assets;  private  equity  and debt
+transactions and other obligations and instruments or evidences of indebtedness
+of  whatever  kind  or  nature,  in  each  case,  of any  person,  corporation,
+government  or other  entity  whatsoever,  whether  or not  publicly  traded or
+readily  marketable  (all  such  items  being  called  herein a  "Security"  or
+"Securities"),  and to sell Securities short and cover such sales. The Investor
+further  acknowledges  and agrees that the Investment  Manager shall not invest
+more than 40% of the net asset value of the Account in non-U.S. Securities.
+
+                (c)     The Investor  acknowledges  that the Account,  the U.S.
+Fund,  the  Offshore  Master Fund,  the  Non-ERISA  Fund and Parallel  Vehicles
+(collectively,  the  "ROFR  Investors")  shall  have a right of  first  refusal
+("ROFR") with respect to their respective PRO RATA shares (as determined by the
+Investment Manager) of all investment opportunities presented to the Account or
+to the Principals that meet the investment objective of the Account;  provided,
+that such right  shall not extend to: (i)  investments  in excess of 50% of the
+outstanding  voting  securities  of  businesses  relating to the quick  service
+restaurant industry (as long as (x) Triarc Companies, Inc. ("Triarc") continues
+to control the outstanding equity interests of businesses in such industry, (y)
+one or more of the  Principals  serves as a  director  of  Triarc,  and (z) the
+Principals  directly or  indirectly  own in the  aggregate  in excess of 10% of
+Triarc's  common  equity);   (ii)  investments  presented  to  members  of  the
+Investment  Manager's  investment  team  in  their  individual   capacities  as
+directors  of   corporations  or  under  other  similar   circumstances   where
+pre-existing  fiduciary duties apply; or (iii)  investments  below $15 million,
+all of which  investments  described in clauses (i)-(iii) may, at the option of
+the Principals,  be offered to the Account  (provided that the ROFR shall apply
+to any such  investment  referred  to in  clauses  (i) and (ii)  above  that is
+rejected by such corporation or other fiduciary entity).
+
+        4.      The Investor acknowledges and agrees that assets of the Account
+shall be valued for purposes of  determining  the  Performance  Fee (as defined
+below) as follows:
+
+                (a)     Securities  that are  listed on a  securities  exchange
+shall be valued at their last sales prices on the date of  determination on the
+
+                                       2
+<PAGE>
+
+primary securities  exchange on which such Securities shall have traded on such
+date (or, in the event that the date of  determination is not a date upon which
+a securities  exchange  was open for  trading,  on the last prior date on which
+such securities exchange was so open not more than 10 days prior to the date of
+determination).  Securities  that are not listed on an exchange  but are traded
+over-the-counter shall be valued at the mean between the last "bid" and "asked"
+price for such security on such date,  unless  included in the NASDAQ  National
+Market  System,  in which case they shall be valued based upon their last sales
+prices (if such prices are  available);  PROVIDED THAT, if the last sales price
+of a Security  does not fall between the last "bid" and "asked"  price for such
+Security on such date, then the Investment Manager shall value such Security at
+the mean  between  the last "bid" and "asked"  price for such  Security on such
+date.  Securities not denominated in U.S. dollars shall be translated into U.S.
+dollars at prevailing exchange rates as the Investment Manager may determine in
+good faith. Assets held in a Segregated  Sub-Account (as defined below) will be
+valued:  (i) in the case of  investments  in  Securities  that are  listed on a
+securities exchange or traded over-the-counter, in the manner describe above as
+of the last day of the immediately  preceding quarter;  and (ii) in the case of
+all other investments,  at cost (any such valuation pursuant to clauses (i) and
+(ii) above,  a "Value").  Securities  that are  difficult  to value,  including
+illiquid Securities of the type referred to in clause (i) above, will be valued
+as the Investment Manager may determine in good faith.
+
+                (b)     All other assets of the Account (except goodwill, which
+shall not be taken into account) shall be assigned such value as the Investment
+Manager may determine in good faith.
+
+                (c)     If  the  Investment  Manager  determines  in  its  sole
+discretion that the valuation of any Securities pursuant to Section 4(a) (other
+than  Securities  valued  pursuant  to clause  (ii)  thereof)  does not  fairly
+represent market value, the Investment  Manager may value such Securities as it
+determines  in good  faith and shall set forth the basis of such  valuation  in
+writing in the Account's records.
+
+                (d)     All values  assigned to Securities  and other assets by
+the Investment Manager pursuant to this Section 4 shall be final and conclusive
+as to the Investor.
+
+        5.      The Investor  acknowledges  and agrees that  liabilities of the
+Account shall be determined using generally accepted accounting principles,  as
+a  guideline,  applied  on a  consistent  basis;  PROVIDED,  HOWEVER,  that the
+Investment Manager in its discretion may provide reserves for estimated accrued
+expenses,   liabilities  or  contingencies,   including  general  reserves  for
+unspecified  contingencies  (even if such reserves are not in  accordance  with
+generally accepted accounting principles).
+
+        6.      All matters  concerning  the valuation of Securities  and other
+assets,  liabilities,  profits  and  losses  of  the  Account,  and  accounting
+procedures, not expressly provided for by the terms of this Agreement, shall be
+determined by the  Investment  Manager whose  determination  shall be final and
+conclusive as to the Investor.
+
+        7.      (a)     During the period  commencing on the Contribution  Date
+and ending on December 31, 2007 (the "Waiver Period"),  no management fee shall
+be due to the Investment  Manager in respect of the services provided hereunder
+by the  Investment  Manager.  Thereafter,  the  Investor  will pay a  quarterly
+
+                                       3
+<PAGE>
+
+management fee on the first day of each quarter (the  "Management  Fee") to the
+Investment  Manager  of  0.5%  of  the  Investor's  beginning  Account  balance
+(including,  for this purpose,  any Segregated  Sub-Account (as defined below))
+for the quarter (2.0% per annum). The Investment Manager may change or increase
+the Management Fees in respect of any  contributions  made to the Account after
+the Contribution  Date. The portion of the Management Fee determined in respect
+of any Segregated  Sub-Account  will be debited against the Account.  If, after
+giving effect to a withdrawal,  the Investor would be completely withdrawn from
+the Account except for one or more  Segregated  Sub-Account(s),  the Management
+Fee  determined in respect of the Segregated  Sub-Account(s)  will be paid from
+the management fee reserve (as described below under Section 21(i)). A PRO RATA
+portion of the quarterly  Management Fee will be paid out of any  contributions
+made by the Investor to the Account on any date that does not fall on the first
+day of a fiscal quarter.  Such fee will be paid upon  contribution of the funds
+to the Account.  In the case of a withdrawal  by the Investor  other than as of
+the last day of a quarter,  a PRO RATA portion of the  Management Fee (based on
+the actual number of days remaining in such partial  quarter) will be repaid by
+the  Investment  Manager to the  Investor.  For  purposes  of  determining  the
+Management  Fee,  investments  held in Segregated  Sub-Accounts  will be valued
+pursuant to the terms set forth above in Section 4.
+
+                (b)     100% of all broken deal and 50% of all  transaction and
+advisory fees received by or otherwise payable to the Investment Manager or its
+Affiliates in connection  with the Account's  share of an actual or prospective
+investment  will,  prior  to  January  1,  2008,  be paid to the  Account  and,
+beginning  January 1,  2008,  be  applied  to reduce  the  Management  Fees (as
+reasonably  determined by the Investment Manager based on the proportion of the
+actual or  prospective  investment  therein  made or to be made by the  Account
+versus that made by Other Accounts).
+
+        8.      (a)     During the Waiver Period,  no performance  fee shall be
+charged  to the  Investor  in  respect of the  Account.  Thereafter,  an annual
+performance fee (the "Performance  Fee") equal to 20% of the net unrealized and
+realized  appreciation  of the Account  (excluding  Segregated  Investments (as
+defined  below))  during each calendar  year  (starting  immediately  after the
+expiration of the Waiver Period) shall be paid to the Investment  Manager after
+adjustment for any additional capital contributions and/or withdrawals from the
+Account by the Investor and after reduction for the Management Fees paid by the
+Investor for such calendar year  pursuant to Section  7(a);  PROVIDED,  that no
+Performance  Fee due in  respect  of any  calendar  year  shall  be paid to the
+Investment  Manager until all net losses of the Account from any prior calendar
+year have been recouped.
+
+                (b)     From time to time, the Investment Manager may determine
+that  certain  assets in the Account  lack a readily  assessable  market  value
+and/or are intended to be longer term  investments  and should,  therefore,  be
+held until the  resolution  of a special event or  circumstance.  Such illiquid
+and/or  longer term  investments  ("Segregated  Investments")  may be held in a
+"Segregated Sub-Account".  Segregated Investments may, but are not expected to,
+comprise  more  than 25% of the net  asset  value of the  Account.  Whenever  a
+Segregated Investment is realized or the Investment Manager determines,  at its
+sole discretion, that such Segregated Investment should no longer be maintained
+in a Segregated Sub-Account, the Segregated Investment shall be transferred out
+
+                                       4
+<PAGE>
+
+of the  Segregated  Sub-Account  and  100% of the  unrealized  appreciation  or
+depreciation  (if any) of such  Segregated  Investment  will be  applied to the
+Account for purposes of calculating the Performance Fee.
+
+                (c)     Any Performance Fee due the Investment Manager shall be
+paid within 30 days from December 31 of each calendar year.
+
+                (d)     Any  Performance Fee due in respect of a period that is
+shorter than one year shall be calculated  PRO rata based on the number of days
+in such period, assuming a 365-day year.
+
+                (e)     The  Investment  Manager shall have the right to amend,
+without the consent of the Investor, this Section 8 so that the Performance Fee
+therein provided conforms to any applicable  requirements of the Securities and
+Exchange  Commission (the "SEC") and other  regulatory  authorities;  PROVIDED,
+HOWEVER,  that no such  amendment  shall  increase  the  Performance  Fee  that
+otherwise would be charged to the Investor.
+
+        9.      The   Investment   Manager  shall  have  full   discretion  and
+authority,  without  obtaining any prior  approval  from the  Investor,  as the
+Investor's agent and attorney-in-fact, and at the Investor's expense:
+
+                (a)     to make all  investment  decisions  in  respect  of the
+Account;
+
+                (b)     to invest the Account in Securities in accordance  with
+the Investment Strategy;
+
+                (c)     to give  instructions  to the  Custodians  relating  to
+investment decisions in respect of the Account;
+
+                (d)     to complete, execute and return documentation on behalf
+of the Investor  relating to  Securities  to be bought or sold for the Investor
+pursuant  to  this  Agreement  including  any  proxy  solicitation  or  related
+materials distributed by the issuer of any Security held in the Account; and
+
+                (e)     in furtherance  of the  foregoing,  to do anything that
+the  Investment  Manager  shall deem  requisite,  appropriate  or  advisable in
+connection  therewith,  including,  without  limitation,  the selection of such
+brokers, dealers and others as the Investment Manager shall determine.
+
+        10.     The  Investment  Manager is not  authorized  to take custody or
+possession of any cash or Securities  constituting  a part of the Account.  The
+Investor  shall  appoint  Goldman,  Sachs  &  Co.  and  Morgan  Stanley  &  Co.
+Incorporated or any of their now or hereafter existing affiliated entities as a
+custodian (each a "Custodian" and together the  "Custodians") for the assets of
+the Account.  All trades  shall be executed in the name of  "TCMG-MA,  LLC" and
+deposited  with  the   Custodians.   The  Investment   Manager  shall  have  no
+responsibility  or  liability  with  respect  to the acts,  omissions  or other
+conduct of the Custodians.
+
+        11.     The Investor shall provide such certificates, limited powers of
+attorney or other documentation  reasonably  requested by the Custodians or any
+
+
+                                       5
+<PAGE>
+
+purchase and sale of  Securities  in  connection  with the  performance  of the
+Investment Manager's duties hereunder.
+
+        12.     The Investor  hereby  irrevocably  constitutes and appoints the
+Investment  Manager as its agent and  attorney-in-fact  to, in its  discretion,
+vote, tender,  exercise or convert any Securities in the Account and to execute
+proxies, waivers, consents and other instruments with respect to the foregoing;
+and to endorse,  transfer or deliver such  Securities  and to participate in or
+consent  to any class  action,  plan of  reorganization,  merger,  combination,
+consolidation,  liquidation or similar plan with  reference to such  Securities
+(collectively,  the  "Discretionary  Acts").  The Investment  Manager shall not
+incur any liability to the Investor by reason of any exercise of, or failure to
+exercise,  discretion  with respect to the  Discretionary  Acts. The Investment
+Manager will exercise its discretion with respect to the Discretionary Acts and
+take such action with respect to the  Discretionary  Acts as it  determines  in
+good faith to be in the best interest of the Investor.  The Investor  agrees to
+(i) provide such  documentation  and (ii) take such necessary action, as may be
+requested by the Investment  Manager, in order to facilitate the performance of
+the Discretionary Acts.
+
+        13.     (a)     The  Investment  Manager  hereby  confirms that Messrs.
+Peltz and May and/or entities (other than the Investor) controlled by them have
+invested at least $75 million in  aggregate  in the U.S.  Fund and the Parallel
+Vehicles.
+
+                (b)     The Investor represents, warrants and agrees that:
+
+                (i)     The retention of the Investment Manager by the Investor
+as investment  manager with respect to the investment of all assets held in the
+Account  is  authorized  by the  Limited  Liability  Company  Agreement  of the
+Investor.
+
+                (ii)    The  execution,   delivery  and   performance  of  this
+Agreement does not violate any obligation by which the Investor or its property
+is bound, whether arising by contract, operation of law or otherwise.
+
+                (iii)   This Agreement has been duly  authorized by appropriate
+action and when  executed  and  delivered  will be a legal,  valid and  binding
+agreement of the Investor,  enforceable against the Investor in accordance with
+its  terms  (except  as  such  enforceability  may  be  limited  by  applicable
+bankruptcy, insolvency, reorganization,  moratorium and similar laws of general
+application  relating to or affecting  the rights and remedies of creditors and
+by  general  principles  of  equity),  and the  Investor  will  deliver  to the
+Investment  Manager such evidence of such authority as the  Investment  Manager
+may reasonably require, whether by way of a certified resolution or otherwise.
+
+                (iv)    The Investor is an  "accredited  investor" as that term
+is  defined  in Rule  501(a)  of the  Securities  Act of 1933,  as  amended,  a
+"qualified  purchaser"  as that term is  defined  in  Section  2(a)(51)  of the
+Investment Company Act of 1940, as amended, and a "qualified client" as defined
+in Rule 205-3 of the Investment Advisers Act of 1940, as amended.
+
+                (v)     The  foregoing  representations  and  warranties  shall
+continue during the term of this Agreement,  and if at any time during the term
+of this  Agreement  any event has occurred that would make any of the foregoing
+
+                                       6
+<PAGE>
+
+representations  and warranties  untrue or inaccurate in any material  respect,
+the Investor  will  promptly  notify the  Investment  Manager of such event and
+inform the Investment Manager of the representations and warranties that are no
+longer true.
+
+        14.     (a)     The Investor  understands  that the Investment  Manager
+will perform  investment  advisory  services for other investment  vehicles and
+accounts,  including the Other  Accounts.  Nothing in this  Agreement  shall be
+deemed to impose upon the Investment Manager any obligation to purchase or sell
+for the Account any  Security  that the  Investment  Manager,  its  principals,
+affiliates  or employees  may purchase or sell for its or their own accounts or
+for  the  account  of any  other  client,  if in  the  sole  discretion  of the
+Investment   Manager,   such  transaction  or  investment  appears  unsuitable,
+impractical  or  undesirable  for  the  Account.   Furthermore,   the  Investor
+acknowledges  that the portfolios,  as well as the performance,  of the Account
+and the Other  Accounts  will  differ as a result of  differing  capital  flows
+(I.E.,  differences in the amount and timing of contributions  and withdrawals)
+as well as because of different tax and regulatory considerations.
+
+                (b)     The  Investor  acknowledges  that other  clients of the
+Investment  Manager and clients of the  Investment  Manager's  affiliates,  and
+affiliates,  officers,  directors,  and  employees  of any of them  may have an
+interest  in a  security  whose  purchase  or  sale is  recommended  or that is
+purchased,  sold or otherwise traded by the Investment Manager on behalf of the
+Investor.  Accordingly,  the Investor  agrees that the  Investment  Manager may
+engage in transactions on behalf of the Investor that may be inconsistent  with
+transactions  recommended to, or engaged in by the Investment Manager on behalf
+of other  clients  of the  Investment  Manager  or  clients  of the  Investment
+Manager's affiliates,  or transactions engaged in by the affiliates,  officers,
+directors or employees of any of them.
+
+                (c)     The   Investor   acknowledges   and  agrees   that  the
+Investment  Manager may cause the Account,  either alone or together with other
+members of a group  (including  the U.S.  Fund,  the Offshore  Master Fund, the
+Non-ERISA Fund and any Parallel  Vehicles),  to acquire a "control" position in
+the  Securities  of a company in which the Account is invested,  and may secure
+the appointment of persons selected by the Investment  Manager or other members
+of the group to such  company's  management  team or board of directors.  In so
+doing,  the Investor  acknowledges  and agrees that the Investment  Manager may
+acquire fiduciary duties to such company and to the other  shareholders of such
+company;  and that these fiduciary duties may compel the Investment  Manager to
+take actions  that,  while in the best  interests  of such  company  and/or its
+shareholders,  may not be in the best  interests of the Investor.  Accordingly,
+the Investor  acknowledges  and agrees that the  Investment  Manager may have a
+conflict of interest between the fiduciary duties (if any) that it owes to such
+companies and their  shareholders,  on the one hand,  and those that it owes to
+the Investor, on the other hand.
+
+        15.     The Investor  agrees that the  Investment  Manager shall not be
+under any duty with regard to any assets,  securities,  funds or other property
+held by the Investor that are not part of the Account.
+
+        16.     Subject to the  Investment  Manager's  right to comply with any
+demand or  requirements  of any legal,  regulatory or taxing  authority  having
+jurisdiction over the Investment Manager, the Investment Manager shall treat as
+
+                                       7
+<PAGE>
+
+confidential  all information  pertaining to the Account and the Investor shall
+treat the advice of the  Investment  Manager  and its other  actions in respect
+thereof in the same manner.
+
+        17.     Until  further   written   notice  from  the  Investor  to  the
+Investment  Manager,  the individuals  whose names and specimen  signatures are
+designated  to the  Investment  Manager  in writing  shall be the only  persons
+authorized  to direct the  Investment  Manager.  Any such  written  notice must
+contain the names and specimen signatures of the individuals who are authorized
+to act on behalf  of the  Investor  and must be  signed  by one of the  persons
+previously  designated to the Investment  Manager as an authorized  person. Any
+instructions from the Investor or any such authorized individuals shall be made
+in  writing,  or  orally  and  confirmed  in  writing  as soon  as  practicable
+thereafter.  The Investment  Manager shall be entitled to rely upon any notice,
+designation,  instruction,  direction,  request or other communication given it
+hereunder  (whether  given in  writing by letter,  fax,  email,  order or other
+document,  or orally by  telephone  or in person)  without  being  required  to
+determine the  authenticity  or  correctness  thereof,  provided the Investment
+Manager believes such notice, designation,  instruction,  direction, request or
+other communication to be genuine or given by a person duly authorized.
+
+        18.     Instructions of the Investment Manager to the Investor shall be
+made in  writing,  or orally and  confirmed  in writing as soon as  practicable
+thereafter.  The  Investment  Manager  shall  instruct  all  brokers or dealers
+executing  orders on behalf of the Account to forward to the Investor copies of
+all brokerage or dealer  confirmations  promptly in written or electronic  form
+after execution of all transactions.
+
+        19.     The Investment  Manager cannot and does not insure any increase
+in the value of the Account.  Additionally, the Investor acknowledges that none
+of  the  Investment  Manager,  its  affiliates,  and  any of  their  respective
+shareholders,  members, partners,  directors,  officers and employees (each, an
+"Indemnified  Party" and  collectively,  the  "Indemnified  Parties")  shall be
+liable to the Investor for (i) any acts or omissions arising out of, related to
+or in  connection  with the Account or any entity in which it has an  interest,
+any  transaction or activity  relating to the Account or any entity in which it
+has an interest,  any investment or proposed  investment made or held, or to be
+made or held by the Account,  or this Agreement or any similar  matter,  unless
+such action or inaction  was made in bad faith or  constitutes  fraud,  willful
+misconduct  or gross  negligence  or (ii) any act or  omission of any broker or
+agent of any  Indemnified  Party,  PROVIDED that the  selection,  engagement or
+retention of such broker or agent was not made by the Indemnified Party seeking
+exculpation in bad faith and does not constitute fraud,  willful  misconduct or
+gross  negligence of the  Indemnified  Party seeking  exculpation.  Each of the
+Indemnified  Parties may consult with counsel and accountants in respect of the
+Account's  affairs  and be fully  protected  and  justified  in any  action  or
+inaction that is taken in accordance with the advice or opinion of such counsel
+or  accountants,  PROVIDED that their  selection of such counsel or accountants
+was not made in bad faith and does not constitute fraud,  willful misconduct or
+gross negligence of the Indemnified Party seeking exculpation.
+
+        20.     The Investor  acknowledges that to the fullest extent permitted
+by law,  the  Investor  shall  indemnify  and hold  harmless,  solely  from the
+Account's  assets,  each  Indemnified  Party from and against any loss, cost or
+expense  suffered or  sustained  by an  Indemnified  Party by reason of (i) any
+acts,  omissions or alleged acts or omissions  arising out of or in  connection
+with the Account, or any entity in which it has an interest,  any investment or
+
+                                       8
+<PAGE>
+
+proposed investment made or held, or to be made or held by the Account, or this
+Agreement or any similar  matter  (collectively,  "Covered  Acts"),  including,
+without limitation, any judgment, award, settlement, reasonable attorneys' fees
+and other costs or  expenses  incurred  in  connection  with the defense of any
+actual or threatened  action,  proceeding,  or claim,  PROVIDED that such acts,
+omissions  or alleged acts or  omissions  upon which such actual or  threatened
+action,  proceeding  or claim are  based  were not made in bad faith or did not
+constitute  fraud,  willful  misconduct or gross  negligence by the Indemnified
+Party seeking  indemnification,  or (ii) any acts or omissions, or alleged acts
+or omissions,  of any broker or agent of any Indemnified  Party  (collectively,
+"Covered Broker Acts"), PROVIDED that the selection, engagement or retention of
+such broker was not made by the Indemnified  Party seeking  indemnification  in
+bad faith and does not constitute fraud, willful misconduct or gross negligence
+of the Indemnified Party seeking indemnification.  The Account shall advance to
+any Indemnified  Party reasonable  attorneys' fees and other costs and expenses
+incurred in connection with the defense of any action or proceeding that arises
+out of any Covered Act or any Covered  Broker Act,  whether or not the provisos
+of (i) or  (ii)  apply.  In the  event  that  such  an  advance  is made by the
+Investor,  the Indemnified Party shall agree to reimburse the Investor for such
+fees,  costs and expenses to the extent that it shall be finally  determined by
+non-appealable  order  of a court  of  competent  jurisdiction  that it was not
+entitled to indemnification.  In no event shall the Investor have any liability
+under this Section 20 in excess of the assets in the Account.
+
+        21.     (a)     The  Investor   understands   that  during  the  period
+commencing  on the date  hereof and ending on December  31, 2010 (the  "Lock-up
+Period"), the Investor shall not withdraw any capital from the Account,  except
+as expressly  permitted by this Agreement.  Subject to the provisions set forth
+below,  upon the conclusion of the Lock-up Period,  the Investor shall have the
+right, as of December 31 of any year (commencing with December 31, 2010) (each,
+a "Withdrawal  Date"),  upon written notice to the Investment Manager delivered
+at least 90 days prior to such  Withdrawal  Date,  to withdraw from the account
+some or all of the  capital in the  Account  as of the date of this  Agreement.
+Subject to the  provisions set forth below,  after the 36-month  anniversary of
+any additional contributions of capital to the Account, the Investor shall have
+the  right,  as of  the  next  Withdrawal  Date,  upon  written  notice  to the
+Investment Manager delivered at least 90 days prior to such Withdrawal Date, to
+withdraw some or all of such  additional  capital from the Account.  Withdrawal
+requests will be  irrevocable  by the Investor  upon receipt by the  Investment
+Manager, but such irrevocability may be waived by the Investment Manager at its
+sole discretion.
+
+                (b)     (i) A  "Triggering  Withdrawal"  means  any  direct  or
+indirect withdrawal by an Affiliated Investor (as defined below), including the
+Investor,  during the Waiver  Period  (other than a withdrawal  of an incentive
+allocation  from the U.S. Fund, the Offshore Master Fund or the Non-ERISA Fund)
+that would cause the aggregate  amounts  invested by the  Affiliated  Investors
+(including  the value of their PRO RATA share in any  segregated  investment or
+sub-accounts) in the Funds,  the Account and any Parallel  Vehicles to be below
+an amount equal to the Affiliated  Investment (as defined below) reduced by any
+losses thereon.
+
+                (ii)    A "Trigger Withdrawal Date" shall mean a day at the end
+of the fiscal quarter on which the Non-Affiliated  Investors (as defined below)
+may be  eligible to withdraw or redeem  certain  specified  amounts  from their
+
+                                       9
+<PAGE>
+
+investments in the Funds following a Triggering  Withdrawal,  as set forth in a
+written  notice  from  the   Investment   Manager  or  its  affiliates  to  the
+Non-Affiliated Investors.
+
+                (iii)   "Affiliate" shall mean, with respect to any Person, any
+Person  controlling,  controlled by or under common control with,  such Person.
+"Person" shall mean any individual,  partnership,  limited  liability  company,
+corporation, trust or other entity.
+
+                (iv)    "Affiliated  Investors" shall mean the Principals,  the
+general  partner  of  the  U.S.  Fund  and/or  their   respective   Affiliates.
+"Non-Affiliated  Investors"  shall  mean  investors  not  affiliated  with  the
+Principals,  the  general  partner of the U.S.  Fund  and/or  their  respective
+Affiliates.
+
+                (v)     "Affiliated    Investment"    shall   mean    aggregate
+investments by the Affiliated  Investors in the U.S. Fund, the Offshore  Master
+Fund, the Non-ERISA Fund,  Account I, the Account and/or any Parallel  Vehicles
+equal to the  lesser of (x) 10% of the  aggregate  capital  commitments  of all
+Non-Affiliated  Investors in the U.S. Fund, the Non-ERISA Fund and the Offshore
+Fund committed on the initial closing of such Funds, and (y) $200 million.
+
+                (c)     Payment  of any  withdrawal  proceeds  shall be made in
+cash (or in kind if the  Investment  Manager  reasonably  determines  that cash
+payments are  impractical)  within 30 days of the  withdrawal  date;  PROVIDED,
+however,  that if the Investor  elects to withdraw 90% or more of the net asset
+value of the Account  (excluding for this purpose the Segregated  Sub-Account),
+the Investor  shall  receive an amount  equal to at least 90% of its  estimated
+withdrawal proceeds (excluding its PRO RATA share in any Segregated Sub-Account
+and computed on the basis of unaudited data as of the  withdrawal  date) within
+30 days after the withdrawal  date and the balance of the  withdrawal  shall be
+paid  (subject to audit  adjustments)  within 30 days after  completion  of the
+audit of the Account for the year in which such withdrawal  occurs. No interest
+will be paid on any balance due after a  withdrawal  date.  The  Investor  will
+retain its interest in any Segregated  Sub-Account until there is a realization
+of the investment in such account or the Investment Manager determines that the
+investment should no longer be maintained in the Segregated  Sub-Account.  Upon
+such  realization  or  determination,  the  investment  or its proceeds will be
+distributed to the Investor (net of any accrued  Performance  Fees with respect
+to the  Segregated  Sub-Account)  within  60 days of the end of the  accounting
+period in which such event occurs.
+
+                (d)     In the event  that the  aggregate  withdrawal  requests
+(other than  pursuant to Section  21(e)) made by the Investor and  investors in
+the Other  Accounts for any  Withdrawal  Date exceed 20% of the total net asset
+value  of all  such  accounts  as of such  date  (excluding  the  value  of any
+segregated  investments),  the Investment  Manager may, in its sole discretion,
+(i) satisfy the  Investor's  withdrawal  request or (ii) reduce the  Investor's
+withdrawal request so that only 20% (such limitation,  the "Gate") (or more, at
+the sole  discretion of the  Investment  Manager) of the net asset value of the
+Account  (excluding  the value of any Segregated  Investments)  is withdrawn on
+such withdrawal date. A withdrawal  request that is not satisfied in full as of
+the intended  Withdrawal  Date because of the  foregoing  restrictions  will be
+fully  satisfied at the immediately  following  Withdrawal Date (subject to the
+suspension provisions described in Section 21(g)). Until the Withdrawal Date as
+of which a  withdrawal  becomes  effective,  the  Account  will remain at risk.
+
+                                      10
+<PAGE>
+
+Notwithstanding  the foregoing,  the Investment Manager agrees that it will not
+provide investors in Other Accounts with any relief from the "gate" restriction
+applicable to such investors  unless the Investment  Manager  provides the same
+relief to the Account.
+
+                (e)     The  Investor  shall have the right to withdraw  assets
+from the Account  (without  being subject to the Gate) if both Nelson Peltz and
+Peter W. May:  (i) die;  (ii) are  unable,  by reason of illness or injury,  to
+perform their duties as officers of the  Investment  Manager for 90 consecutive
+days;  or (iii) for any reason  other than death,  illness or injury,  cease to
+perform their duties as officers of the Investment Manager. Upon the occurrence
+of such an event,  the  Investment  Manager will promptly  notify the Investor.
+During the 90-day  period  following  notice of such an event (the  "Suspension
+Period"),  no withdrawals  shall be made. Upon the receipt of at least 30 days'
+written  notice  prior to the end of the  Suspension  Period,  the Investor may
+withdraw  assets  from the  Account  as of the last day of the first full month
+after the expiration of such  Suspension  Period  (without being subject to the
+Gate).  Upon exercise of such special  withdrawal  right,  the Investor will be
+paid 90% of its estimated  withdrawal request (determined as of the end of such
+calendar  month),  such amount to be paid  promptly  following  the end of such
+calendar month. The balance of the Investor's  withdrawal  request will be paid
+(subject to audit  adjustments) to the Investor within 30 days after completion
+of a special audit of the Account as of the end of such calendar month.
+
+                (f)     The  Investment  Manager  may, in its sole  discretion,
+require the Investor to withdraw all or any part of the assets from the Account
+at any time,  for any reason or no reason,  upon 5 days' prior written  notice.
+The  Investment  Manager  also may require the  Investor to withdraw all of the
+assets from the Account  immediately in the event that the Investment  Manager,
+in its sole discretion,  determines that any representations or warranties made
+by the Investor under Section 13(b) are no longer true.
+
+                (g)     The Investment  Manager may suspend  withdrawal rights,
+in whole or in  part:  (i)  during  any  period  when  any  stock  exchange  or
+over-the-counter  market on which the Account's  investments are quoted, traded
+or dealt in is closed, other than for ordinary holidays and weekends, or during
+periods  in which  dealings  are  restricted  or  suspended;  (ii)  during  the
+existence  of any state of affairs as a result of which,  in the opinion of the
+Investment  Manager,  disposal  of  the  Account's  investments  would  not  be
+reasonably   practicable;   (iii)   during  any   breakdown  in  the  means  of
+communication  normally  employed  in  determining  the  price  or value of the
+Account's  assets or  liabilities,  or of current prices in any stock market as
+aforesaid,  or when for any other  reason the prices or values of any assets or
+liabilities  of the  Account  cannot  reasonably  be  promptly  and  accurately
+ascertained;  (iv) during any period when the transfer of funds involved in the
+realization  or acquisition of any  investments  cannot,  in the opinion of the
+Investment Manager, be effected at normal rates of exchange;  or (v) where such
+withdrawal would impede a pending tender offer, proxy contest, shareholder vote
+or other hostile action with respect to an issuer.  Upon the  determination  by
+the  Investment  Manager that any of the  above-mentioned  conditions no longer
+applies,  withdrawal  rights  shall be  promptly  reinstated,  and any  pending
+withdrawal  requests  shall  be  honored  as of the end of the  fiscal  quarter
+following such determination.
+
+                (h)     The  Investment  Manager may waive notice  requirements
+and  require  or  permit  withdrawals  under  such  other  circumstances  as it
+approves.
+
+
+                                      11
+<PAGE>
+
+                (i)     Notwithstanding  anything to the contrary  herein,  if,
+after giving effect to a withdrawal, the Investor would be completely withdrawn
+from  the  Account   except  for  its  interest  in  one  or  more   Segregated
+Sub-Account(s), the Investment Manager may determine to reserve or hold back an
+amount  deemed  by  the  Investment  Manager,  in  its  reasonable  discretion,
+sufficient  to  cover  any  Management  Fees  with  respect  to the  Segregated
+Investment(s) relating to such Segregated  Sub-Account(s),  taking into account
+the  expected  period  of  time  such  Segregated   Investment(s)  will  remain
+outstanding (the  "management fee reserve").  The management fee reserve may be
+invested in U.S.  Treasury  bills,  money market funds or any other  investment
+deemed  appropriate by the Investment  Manager for the benefit of the Investor.
+Upon the  realization of a Segregated  Investment or the  determination  by the
+Investment  Manager  that an  investment  should no longer be  maintained  in a
+Segregated  Sub-Account,  the  Investor's  interest in the  investment  will be
+distributed to the Investor (net of a Performance  Fee, if any, with respect to
+such Segregated Investment to be paid to the Investment Manager), together with
+the  remainder,  if any, of any  management  fee reserve (and any amount earned
+thereon)  that  is not  designated  by the  Investment  Manager  to  cover  any
+Management  Fee  expected  to be  due  with  respect  to any  other  Segregated
+Investment,  within 60 days of the end of the  accounting  period in which such
+event occurs.
+
+                In the event the management fee reserve is  insufficient to pay
+for the Management  Fees with respect to the Investor's  interest in Segregated
+Investment(s),  the  Investment  Manager  may send an annual  statement  to the
+Investor  providing for the payment of the Management  Fees with respect to the
+Investor's interest in Segregated  Investment(s) to the Investment Manager. The
+Management  Fees will be due within 15 business days of receiving  such notice.
+If the full  amount  of the  Management  Fees due and  owing is not  paid,  the
+Investment  Manager may, at its sole  discretion,  and in addition to any other
+rights it may have,  reduce the amount of any  subsequent  withdrawal  proceeds
+paid to the Investor by an amount equal to any unpaid Management Fees.
+
+        22.     The  Investment  Manager  agrees  that  if any  more  favorable
+liquidity  or fee terms than those  provided to Investor are or have been given
+by  any  of the  Funds  to any  investor  (excluding  officers,  employees  and
+affiliates of the Investment Manager, their family members, and entities formed
+by or for the benefit of one or more such persons) in the Funds, which investor
+together  with its  successors,  affiliates,  and any  accounts  or  investment
+vehicles sponsored,  managed,  advised or sub-advised by such investor (and its
+affiliates and successors) has an aggregate investment in the Funds equal to or
+smaller than the aggregate  amount in the Account (such  investor,  a "Relevant
+Investor"),  then (i) the Investment  Manager will promptly notify the Investor
+in writing of such more favorable  liquidity or fee terms  (without  disclosing
+the identity of the Relevant  Investor),  and (ii) the more favorable liquidity
+or fee terms shall be effective  retroactively  with respect to the Investor to
+the  date  on  which  such  terms  were  granted  to  the  Relevant   Investor.
+Notwithstanding  anything  herein to the  contrary,  the rights in favor of the
+Investor  pursuant  to this  Section  22 are  conditioned  upon  and  shall  be
+applicable  only to the extent that the  Investor  has invested and retained an
+aggregate investment of not less than $50 million in the Account.
+
+        23.     The Investment  Manager agrees to provide the Investor  monthly
+position and activity reports in sufficient detail to allow the Investor and/or
+its affiliates to record, value and confirm the activity that took place within
+
+                                      12
+<PAGE>
+
+the Account during the prior month in the financial  statements of the Investor
+and/or its  affiliates.  The  Investment  Manager  agrees to (i)  establish and
+implement all  accounting,  financial  reporting and  bookkeeping  policies and
+procedures  and prepare and deliver to the Investor  and/or its  affiliates all
+tax, accounting,  financial and other information,  in such form and manner and
+at such times as the Investor and/or its affiliates may request,  to enable the
+Investor  and/or its  affiliates  to satisfy their tax,  accounting,  financial
+reporting,  bookkeeping and other  obligations under applicable laws, rules and
+regulations  (including those under accounting principles generally accepted in
+the United States of America, and those of the SEC, any stock exchange or other
+self-regulatory  organization) and its obligations under the Sarbanes-Oxley Act
+of 2002, as amended from time to time, and (ii) use all  reasonable  efforts to
+provide to the  Investor,  its  affiliates  and/or their  respective  agents or
+representatives  (including  auditors) such other  information  and appropriate
+access to the personnel and records of the Investment Manager and the personnel
+and records of the  counterparties  to  derivative  transactions  at such times
+(including on a monthly  basis) as may be reasonably  requested by the Investor
+and/or its affiliates in order to permit the Investor  and/or its affiliates to
+satisfy any other reporting obligations under applicable law or regulations.
+
+        24.     The Investor agrees that it will bear all expenses  relating to
+the Account  including,  but not limited to,  expenses  relating to the cost of
+purchasing  investments  (e.g.,  brokerage  commissions and trading costs), the
+Management Fee, financing fees, prime brokerage fees, filing fees, registration
+fees and similar fees, audit and tax return  preparation  fees, fees in respect
+of  consulting,   custodial,  accounting,  investment  banking,  appraisal  and
+financial  advisory  services provided by third parties not affiliated with the
+Investment  Manager  relating to investments or  prospective  investments,  due
+diligence expenses and fees relating to investments or prospective investments,
+conduct of proxy  contests  and tender  offers,  litigation  expenses and legal
+expenses  (including the cost of in-house counsel of the Investment Manager and
+its  affiliates in amounts not to exceed those that would be payable to outside
+counsel  engaged to perform  such  services  as  reasonably  determined  by the
+Investment  Manager in good faith)  incurred in  connection  with the making or
+administration  of  investments  (to the extent not borne by companies in which
+the Account has an investment and regardless of whether consummated), liability
+insurance  covering  the  Investment  Manager  and its  respective  affiliates,
+members, directors,  officers, employees and agents, and extraordinary expenses
+and other similar  expenses  related to the Account as the  Investment  Manager
+determines in its sole  discretion.  The  Investment  Manager will allocate the
+foregoing  expenses (except for the Management Fee) amongst the Account and the
+Other Accounts in an equitable manner and on a timely basis sufficient to allow
+the Investor to meet its financial reporting  requirements;  PROVIDED, that the
+Investment  Manager may, in its discretion,  specially allocate expenses to the
+Account to reflect its interest in a Segregated Sub-Account, such allocation to
+be in proportion to the Account's  participating  percentage in such Segregated
+Sub-Account.
+
+        25.     (a)     The Investment Manager shall regard as confidential all
+information  concerning the businesses and affairs of the Investor and,  except
+to  the  extent  required  by  law  or  regulation,  shall  not  disclose  such
+information  to anyone  outside of the  Investment  Manager  without  the prior
+written consent of the Investor; PROVIDED, HOWEVER, that the Investment Manager
+may include the name of the Investor in a representative client list.
+
+                (b)     The Investor  acknowledges that it will receive or have
+access  to  confidential  proprietary  information  concerning  the  Investment
+
+                                      13
+<PAGE>
+
+Manager, including,  without limitation,  this Agreement,  portfolio positions,
+valuations, information regarding potential investments, financial information,
+trade secrets and the like, which is proprietary in nature and non-public.  The
+Investor  agrees that it shall not disclose or cause to be  disclosed  any such
+confidential information to any person or use any such confidential information
+for its own purposes or its own other  accounts,  except in connection with its
+investment in the Account (including for federal securities, tax, accounting or
+other  reporting  purposes) and except as otherwise  required by any regulatory
+authority,  law  or  regulation,  or  by  legal  process.  Notwithstanding  the
+foregoing,  the Investor (and each employee,  representative  or other agent of
+the  Investor) may disclose to any and all persons,  without  limitation of any
+kind, the tax treatment and tax structure of the transactions  described herein
+and all materials of any kind  (including  opinions or other tax analyses) that
+are provided to the Investor  relating to such tax treatment and tax structure,
+it being understood that "tax treatment" and "tax structure" do not include the
+information identifying the transactions described herein.
+
+        26.     (a)     This  Agreement will have an initial term ending at the
+conclusion of the Lock-up Period, and thereafter shall be automatically renewed
+on a one-year rolling basis unless the Investor gives the Investment Manager 90
+days  written  notice  prior to the  conclusion  of the  Lock-up  Period or any
+one-year period thereafter.  The Investment Manager may terminate the Agreement
+at any time, upon 90 days' prior written notice to the Investor.
+
+                (b)     The Investor may terminate  this  Agreement at any time
+when it has withdrawn,  in accordance  with this  Agreement,  all of the assets
+from the Account.
+
+        27.     Any  notice,  consent or other  communication  made or given in
+connection  with this Agreement shall be in writing and shall be deemed to have
+been duly given when  delivered  by hand or facsimile or five days after mailed
+by certified mail, return receipt requested, as follows:
+
+                to the Investment Manager at:
+
+                Trian Fund Management, L.P.
+                280 Park Avenue, 41st Floor
+                New York, New York  10017
+                Attn:  General Counsel
+
+                and to the Investor at:
+
+                TCMG-MA, LLC
+                280 Park Avenue, 41st Floor
+                New York, New York  10017
+                Attn:  General Counsel
+
+
+        28.     No provision of this Agreement may be amended, modified, waived
+or discharged  except as agreed to in writing by the parties.  The failure of a
+party to insist  upon strict  adherence  to any term of this  Agreement  on any
+occasion  shall not be considered a waiver thereof or deprive that party of the
+right thereafter to insist upon strict adherence to that term or any other term
+of this Agreement.
+
+                                      14
+<PAGE>
+
+        29.     This  Agreement  shall be binding upon and inure to the benefit
+of the Investor, the Investment Manager, and with respect to Sections 19 and 20
+each Indemnified Party, and their respective  successors and permitted assigns.
+Any  person  that is not a  signatory  to this  Agreement  but is  nevertheless
+conferred any rights or benefits hereunder shall be entitled to such rights and
+benefits as if such person were a signatory hereto, and the rights and benefits
+of such person  hereunder  may not be impaired  without such  person's  express
+written  consent.  Except as provided for pursuant to the  preceding  sentence,
+nothing in this Agreement,  express or implied,  is intended to or shall confer
+any rights or benefits upon any other person or entity than the parties hereto.
+No party to this  Agreement  may assign or  delegate,  by  operation  of law or
+otherwise,  all or any portion of its rights,  obligations or liabilities under
+this  Agreement  without the prior  written  consent of the other party to this
+Agreement.
+
+        30.     Notwithstanding  the place where this Agreement may be executed
+by either of the parties hereto, the parties expressly agree that all terms and
+provisions  hereof shall be governed by and  construed in  accordance  with the
+internal laws of the State of New York  applicable to contracts made and wholly
+performed, and to transactions wholly consummated, within that State.
+
+        31.     Each party hereto hereby consents to submit to the jurisdiction
+of the  courts of the  State of New York and of the  United  States of  America
+located in the City of New York, for any action, suit or proceeding arising out
+of or relating to this  Agreement.  Each party further  waives any objection to
+the laying of venue of any such action,  suit or proceeding in such courts, and
+further  agrees not to plead or claim in any such  court that any such  action,
+suit or proceeding has been brought in an inconvenient forum.
+
+        32.     The provisions of Sections 19, 20, 23, 27, 29, 30 and 31 hereof
+shall survive the termination of this Agreement.
+
+        33.     Except as provided herein,  this Agreement  contains all of the
+terms agreed upon or made by the parties relating to the subject matter of this
+Agreement,  and supersedes all prior and contemporaneous  agreements (including
+the  Original  Agreement),  negotiations,   correspondence,   undertakings  and
+communications of the parties, oral or written, respecting such subject matter.
+
+        34.     This  Agreement  may be executed  in one or more  counterparts,
+each of which shall be deemed an original but all of which shall constitute one
+and the same instrument.
+
+
+
+
+                                      15
+<PAGE>
+
+
+Agreed to and accepted as of the        TCMG-MA, LLC
+30th day of April, 2007
+                                        By: /s/ Francis T. McCarron
+                                            -----------------------------
+                                            Name:  Francis T. McCarron
+                                            Title: Executive Vice President
+                                                   and Chief Financial Officer
+
+
+
+                                        TRIAN FUND MANAGEMENT, L.P.
+
+                                        By: Trian Fund Management GP, LLC,
+                                            its General Partner
+
+
+                                            By: /s/ Peter W. May
+                                                --------------------------
+                                                 Name: Peter W. May
+                                                 Title: Member
+
+
+
+</TEXT>
+</DOCUMENT>

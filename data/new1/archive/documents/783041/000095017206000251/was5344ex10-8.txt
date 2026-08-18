@@ -1,0 +1,416 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<FILENAME>was5344ex10-8.txt
+<DESCRIPTION>EXHIBIT 10.8
+<TEXT>
+                                                                    Exhibit 10.8
+                                                                    ------------
+
+
+
+                             FOURTH AMENDMENT TO THE
+
+                        POWER PURCHASE AGREEMENT BETWEEN
+
+                          ZOND WINDSYSTEM PARTNERS, LTD
+
+                      AND PACIFIC GAS AND ELECTRIC COMPANY
+
+                              (PG&E Log No. 01W017)
+
+     This Amendment, dated as of the latest date set forth below ("Amendment"),
+is entered into by and between PACIFIC GAS AND ELECTRIC COMPANY ("PG&E"), a
+California corporation, and ZOND WINDSYSTEM PARTNERS LTD., Series 85-C, a
+California limited partnership, ("Seller"). PG&E and Seller are sometimes
+referred to herein individually as a "Party" and collectively as the "Parties."
+
+                                    RECITALS
+
+     1. Wind Developers, Inc. ("WDI"), Seller's predecessor, and PG&E entered
+into an interim Standard Offer No.4 Power Purchase Agreement ("PPA") dated
+January 7, 1985, for the purchase and sale of electric energy and capacity from
+a wind generating facility managed by Zond that is located at the Altamont Pass
+in Alameda County, California ("Facility"). The PPA was assigned by WDI to Zond
+Systems, Inc. ("Zond") and thereafter assigned by Zond to Seller. The PPA was
+subsequently amended by agreement of the Parties. The PPA and any amendments
+thereto that were executed prior to the date of this Amendment are collectively
+referred to herein as the "Agreement."
+
+     2. The Agreement was scheduled to expire on December 29, 2005, but was
+extended through January 31, 2006 by letter agreement between the Parties dated
+December 28, 2005.
+
+
+
+                                       1
+<PAGE>
+
+     3. On January 26, 2004, the California Public Utilities Commission ("CPUC")
+issued Decision 04-01-050 ("the Decision"), in which it ordered the utilities to
+offer five-year SO1 contracts at short-run avoided cost prices, as may be
+modified by the CPUC, to qualifying facilities ("QFs") with expiring PPAs,
+pursuant to a Standard Offer 1 ("SO1") contract provided: (1) the QF was in
+operation and under contract with a utility to sell power at any time during the
+period between January 1, 1998 and the effective date of the Decision; and (2)
+the QF contract expired or is set to expire before December 31, 2005. The
+Decision provides that any new pricing methodology adopted by the CPUC would
+apply to the five-year SO1 contracts.
+
+     4. The California Court of Appeal issued an opinion on review of the
+Decision, requiring any overpayments made to a QF operating under a five-year
+SO1 contract to be subject to refund to the utilities if the CPUC determines
+that the prices paid under that contract exceed the utilities' avoided costs.
+Southern Cal. Edison Co. v. Public Utilities Comm., 128 Cal. App. 4th 1 (2005).
+
+     5. The Agreement was executed by the Parties prior to: (1) the formation of
+the California Independent System Operator ("CAISO"); and (2) the enactment of
+the California Renewables Portfolio Standard ("RPS") Program, Public Utilities
+Code ss.ss. 399.11 through 399.16.
+
+     6. PG&E and Seller hereby amend the Agreement to comply with the Decision,
+as modified by the Court of Appeal, and to make certain other modifications of
+the Agreement, as set forth below.
+
+
+                                    AGREEMENT
+
+
+     In consideration of the premises described above and the terms and
+conditions set forth below, PG&E and Seller agree to modify the Agreement and
+agree as follows:
+
+
+
+                                       2
+<PAGE>
+
+     1. DEFINITIONS
+        -----------
+
+     Any term not defined herein shall have the meaning ascribed to it in the
+Agreement.
+
+     2. TERM OF AGREEMENT
+        -----------------
+
+     This Amendment shall be in effect from December 30, 2005 through December
+29, 2010 (the Extended Term), provided that Seller shall have the right to
+terminate the Agreement upon the delivery to PG&E of written notice at least
+thirty (30) days prior to the requested termination date.
+
+     3. ENERGY PURCHASE
+        ---------------
+
+        A. PG&E shall purchase and accept delivery of Seller's Net Energy Output
+from the Facility.
+         --------
+
+        B. Through July 16, 2006 PG&E shall pay Seller for energy deliveries
+pursuant to the fixed energy price specified in the Third Amendment to the PPA
+dated November 13, 2001. PG&E shall pay Seller for energy deliveries during the
+remainder of the Extended Term at prices equal to PG&E's short-run avoided cost,
+according to the methodology that is approved and may be revised by the CPUC for
+payments to QFs.
+
+        C. Payment for energy shall be based on the time of delivery. The time
+periods currently in effect are shown in Appendix A to this Amendment. Time
+period definitions may change from time to time as determined by the CPUC.
+
+        D. PG&E has contracted to purchase the energy associated with the
+Facility with the nameplate rating specified in Article 3 (b) of the Agreement.
+--------
+If Seller installs a Facility with a nameplate rating greater than that
+                     --------
+specified in Article 3 (b) of the Agreement, PG&E shall not be required to
+accept or pay for energy associated with the incremental increase in the
+nameplate rating under this Amendment.
+
+
+
+                                       3
+<PAGE>
+
+        E. Energy payments made to Seller pursuant to this Amendment will be
+adjusted by an energy loss adjustment factor, as approved by the CPUC and may be
+modified by the CPUC from time to time.
+
+     4. CAPACITY PURCHASE
+        ----------------
+
+        A. PG&E shall pay Seller for as-delivered capacity during the Extended
+Term at prices authorized (and as may be revised) by the CPUC.
+
+        B. Payment for capacity shall be based on time of delivery. The time
+periods currently in effect are shown in Appendix A to this Amendment. Time
+period definitions may change from time to time as determined by the CPUC.
+
+        C. PG&E has contracted to purchase the as-delivered capacity associated
+with the Facility of the nameplate rating described in Article 3 (b) of the
+         --------
+Agreement. If Seller installs a Facility with a nameplate rating greater than
+                                --------
+that specified in Article 3 (b) of the Agreement, PG&E shall not be required to
+accept or pay for as-delivered capacity associated with the incremental increase
+in nameplate rating under this Amendment.
+
+        D. As-delivered capacity payments made to Seller pursuant to this
+Amendment will be multiplied by a capacity loss adjustment factor (CLAF) as
+approved by the CPUC and may be modified by the CPUC from time to time.
+
+     5. ENVIRONMENTAL ATTRIBUTES
+        ------------------------
+
+        A. Seller hereby agrees to convey and hereby conveys to PG&E all
+Environmental Attributes (as defined below) associated with the Net Energy
+Output and as delivered capacity from the Facility purchased by PG&E during the
+                                          --------
+Extended Term. Seller represents and warrants that during the Extended Term, as
+defined in Section 2 of this Amendment, Seller holds the rights to all
+Environmental Attributes from the Facility, Seller has not contracted nor
+                                  --------
+
+
+
+                                       4
+<PAGE>
+
+intends to contract to transfer any such rights to any third party and Seller
+agrees to convey and hereby conveys all such Environmental Attributes to Buyer
+as included in the delivery of the energy and capacity from the Facility. As
+                                                                --------
+used in this Amendment, the term "Environmental Attributes" means any and all
+benefits, emissions reductions, offsets, and allowances, howsoever entitled,
+directly attributable to the generation from the Facility. Environmental
+                                                 --------
+Attributes include but are not limited to: (1) any avoided emissions of
+pollutants to the air, soil or water such as sulfur oxides (SOx), nitrogen
+oxides (NOx), carbon monoxide (CO) and other pollutants; (2) any avoided
+emissions of carbon dioxide (CO2), methane (CH4) and other greenhouse gases
+(GHGs) that have been determined by the United Nations Intergovernmental Panel
+on Climate Change to contribute to the actual or potential threat of altering
+the Earth's climate by trapping heat in the atmosphere; and (3) the reporting
+rights to these avoided emissions such as Green Tag Reporting Rights. Green Tag
+Reporting Rights are the right of a Green Tag Purchaser to report the ownership
+of accumulated Green Tags in compliance with federal or state law, if
+applicable, and to a federal or state agency or any other party at the Green Tag
+Purchaser's discretion, and include without limitation those Green Tag Reporting
+Rights accruing under Section 1605(b) of the Energy Policy Act of 1992 and any
+present or future federal, state, or local law, regulation or bill, and
+international or foreign emissions trading program. Green Tags are accumulated
+on kWh basis and one Green Tag represents the Environmental Attributes
+associated with one (1) MWh of energy. Notwithstanding the forgoing, the term
+"Environmental Attributes" shall not include (i) any energy, capacity,
+reliability or other power attributes from the Facility, (ii) production or
+                                               --------
+other tax credits associated with the construction or operation of energy
+projects or the production of electricity from the Facility and other financial
+                                                   --------
+incentives in the form of credits, reductions, or allowances associated with the
+Facility or the production of energy from the Facility that are applicable to a
+--------                                      --------
+
+
+                                       5
+<PAGE>
+
+state or federal income taxation obligation, (iii) fuel-related subsidies or
+"tipping fees" that may be paid to Seller to accept certain fuels, or local
+subsidies received by the generator for the destruction of particular
+pre-existing pollutants or the promotion of local environmental benefits, (iv)
+emission reduction credits encumbered or used by the Facility for compliance
+                                                     --------
+with local, state, or federal operating and/or air quality permits and (v) any
+payment or other subsidy made or granted to the Seller by the California Energy
+Commission (CEC) or any other governmental entity with respect to the production
+of energy from or the capacity of the Facility.
+                                      --------
+
+        B. Seller agrees that within three months of the date of this Amendment
+it shall obtain and maintain certification of the Facility as a renewable energy
+                                                  --------
+resource for California's Renewable Portfolio Standard (RPS) program, for the
+Extended Term, in accordance with CEC's Renewables Portfolio Standard
+Eligibility Guidebook (publication no. 500-04-002F1) and as may be subsequently
+amended. PG&E and Seller agree that the Facility, as currently constructed,
+                                        --------
+meets the requirements for such certification on the date of this Amendment. In
+the event that at any time during the Extended Term the Facility no longer meets
+                                                        --------
+the stated criteria for an eligible renewable resource, PG&E shall have the
+right to terminate the Agreement upon the delivery to Seller of written notice
+at least thirty (30) days prior to the requested termination date and PG&E shall
+have no further obligation to accept and pay for any electricity generated by
+the Facility.
+    --------
+
+     6. PAYMENTS
+        --------
+
+         PG&E shall pay Seller once a month for energy and as-delivered capacity
+deliveries during the prior month as specified in Section A-4 of Appendix A to
+the Agreement.
+
+
+
+                                       6
+<PAGE>
+
+     7. OTHER MODIFICATIONS
+        -------------------
+
+         To comply with the CPUC's directive that utilities purchase QF energy
+and as-delivered capacity at short-run avoided operating costs, the Parties
+agree to delete in their entirety Articles 2, 3 (f), 4, 5, 7 and 12, and
+Appendices B, C, D, and E of the Agreement.
+
+     8. RESERVATION OF RIGHTS
+        ---------------------
+
+     PG&E is entering into this Amendment as directed by the CPUC in the
+Decision. PG&E reserves its right to seek reimbursement of payments made under
+this Amendment to the extent that such payments are determined by the CPUC, a
+court, or other governmental entity to exceed PG&E's avoided costs (as defined
+in the Public Utility Regulatory Policies Act of 1978, 16 U.S.C. ss. 824a-3, et
+seq.).
+
+     9. INTERRUPTION OF DELIVERIES
+        --------------------------
+
+     In the event that PG&E receives a notice from the CAISO ordering PG&E to
+interrupt delivery of energy from the Facility, then Seller shall not be
+                                      --------
+required to deliver such energy and as-delivered capacity from the Facility and
+                                                                   --------
+PG&E shall not be obligated to accept or pay for such deliveries of energy and
+as-delivered capacity that have been interrupted or reduced pursuant to any such
+order issued by the CAISO.
+
+     10. NO OTHER MODIFICATIONS
+         ----------------------
+
+     Except as expressly modified by this Amendment, no provision of the
+Agreement is or shall be deemed to be modified, amended, waived, or otherwise
+affected by this Amendment. To the extent that this Amendment is inconsistent
+with any provision of the Agreement, this Amendment shall govern the rights and
+obligations of the Parties.
+
+     11. EFFECTIVE DATE
+         --------------
+
+     This Amendment shall be effective as of December 29, 2005.
+
+
+
+                                       7
+<PAGE>
+
+     12. SIGNATURES
+         ----------
+
+     IN WITNESS WHEREFORE, Seller and PG&E have caused this Amendment to be
+executed by their authorized representatives. By signing this Amendment, the
+representatives of the Parties warrant that they have the requisite authority to
+bind their respective principals.
+
+PACIFIC GAS AND ELECTRIC COMPANY         ZOND WINDSYSTEM PARTNERS, LTD
+                                         Series 85-C, a California Limited
+                                         Partnership
+
+By:    /s/ Roy Kuga                      By: Zond Windsystems Management V LLC,
+    -----------------------------            its general partner
+
+Name:     Roy Kuga                       Signature:     /s/ Jesse E. Neyman
+      ---------------------------                   --------------------------
+
+Title:  Vice President, Energy Supply    Name:         Jesse E. Neyman
+      -------------------------------           ------------------------------
+
+Date:    May 19, 2006                    Title:       President & CEO
+       -----------------------------            ------------------------------
+
+                                         Date:       May 19, 2006
+                                                 -----------------------------
+
+                                       8
+
+<PAGE>
+
+
+<TABLE>
+
+
+                                   Appendix A
+
+
+                            TABLE A(1) - TIME PERIODS
+
+
+<CAPTION>
+
+      <S>         <C>                               <C>                  <C>
+                                                    Monday               Saturdays,
+                                                    through              Sundays, and
+                                                    Friday(2)            Holidays
+                                                    ------               --------
+      Seasonal Period A
+      (May 1 - October 31)
+
+                  Peak                              Noon                 None
+                                                    to
+                                                    6:00 p.m.
+
+                  Partial-Peak                      8:30 a.m.            None
+                                                    to
+                                                    noon
+
+                                                    6:00 p.m.
+                                                    to
+                                                    9:30 p.m.
+
+                  Off-Peak                          9:30 p.m.
+                                                    to
+                                                    1:00 a.m.
+
+                                                    5:00 a.m.            5:00 a.m.
+                                                    to                   to
+                                                    8:30 a.m.            1:00 a.m.
+
+                  Super Off-Peak                    1:00 a.m.            1:00 a.m.
+                                                    to                   to
+                                                    5:00 a.m.            5:00 a.m.
+
+      Seasonal Period B
+      (November 1 - April 30)
+
+                  Partial Peak                      8:30 a.m.            None
+                                                    to
+                                                    9:30 p.m.
+
+                  Off-Peak                          9:30 p.m.
+                                                    to
+                                                    1:00 a.m.
+
+                                                    5:00 a.m.            5:00 a.m.
+                                                    to                   to
+                                                    8:30 a.m.            1:00 a.m.
+
+                  Super Off-Peak                    1:00 a.m.            1:00 a.m.
+                                                    to                   to
+                                                    5:00 a.m.            5:00 a.m.
+
+
+</TABLE>
+
+-------------------------------------------------------------------------------
+(1)  This table is subject to change to accord with the peak, partial-peak,
+     off-peak, and super off-peak periods as defined by CPUC decision.
+
+(2)  Except for the following holidays: New Year's Day, Washington's Birthday,
+     Memorial Day, Independence Day, Labor Day, Veteran's Day, Thanksgiving Day,
+     and Christmas Day, as specified in Public Law 90-363 (5 U.S.C.A. Section
+     6103(a)).
+
+
+</TEXT>
+</DOCUMENT>

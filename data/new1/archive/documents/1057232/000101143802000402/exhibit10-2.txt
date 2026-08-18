@@ -1,0 +1,170 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>4
+<FILENAME>exhibit10-2.txt
+<TEXT>
+
+
+                                                                 EXHIBIT 10.2
+
+
+                               September 14, 2001
+
+Mr. Herve Caen
+President
+Interplay Entertainment Corporation
+16815 Von Karman Avenue
+Irvine, CA 92606
+
+     RE:  AMENDMENT #1 TO THE DISTRIBUTION AGREEMENT DATED AUGUST 23, 2001
+
+Dear Mr. Caen
+
+     This letter when completely executed shall constitute an amendment
+("Amendment #1") to the Distribution Agreement dated August 23, 2001 by and
+between Vivendi Universal Interactive Publishing North America, Inc.
+("Universal") and Interplay Entertainment Corporation ("Interplay") (the
+"Agreement").
+
+     THE AGREEMENT SHALL BE AMENDED IN THE FOLLOWING RESPECTS ONLY:
+
+     1)   Section 5.3 of the Agreement shall be modified to read as follows:
+
+          "5.3 TITLE AND RISK OF LOSS: Title to Product units shall remain with
+Interplay until delivery to UNIVERSAL'S customers. Risk of loss for units of
+Interplay Manufactured SKUs shall pas to UNIVERSAL from Interplay upon delivery
+at UNIVERSAL's distribution center. Risk of loss of units of UNIVERSAL
+Manufactured SKUs (i) shall remain with UNIVERSAL until delivery to UNIVERSAL's
+customers for units of UNIVERSAL Manufactured SKUs distributed by UNIVERSAL
+hereunder, and (ii) shall pass to Interplay from UNIVERSAL upon delivery at
+Interplay's distribution center for units of UNIVERSAL Manufactured SKUs
+distributed by Interplay pursuant to Section 2.6 above. For Product units
+returned to UNIVERSAL by UNIVERSAL's customers for which title has passed to
+such customers, title will pass from the customer to Interplay upon delivery to
+UNIVERSAL; provided that risk of loss for such Products will remain with
+UNIVERSAL until re-delivery to Interplay or re-delivery to any subsequent
+customers of returned Product units."
+
+     2)   Section 6.1 of the Agreement shall be modified to read as follows:
+
+          "6.1 PRICE: The proceeds payable by UNIVERSAL to Interplay for units
+of any Product distributed by UNIVERSAL (the "INTERPLAY PROCEEDS") shall be the
+price at which UNIVERSAL sells such Product units to its customers (the
+"PRICE"), less the following amounts only:
+
+               (i)  ***
+
+               (ii) ***
+
+               (iii) ***
+
+
+---------------------
+*** Terms represented by this symbol are considered confidential. These
+confidential terms have been omitted pursuant to a Confidential Treatment
+Request filed with the Securities and Exchange Commission ("SEC") and have been
+filed separately with the SEC.
+
+
+<PAGE>
+
+
+               (iv) ***
+
+               (v)  ***
+
+     The balance shall be payable to interplay as Interplay Proceeds.
+
+          UNIVERSAL will have the right to determine the Price for each Product
+in its sole discretion (which will include UNIVERSAL's standard Included Fees
+and Charges as specified by UNIVERSAL), and may revise the Price for any Product
+by customer from time to time, subject to the provisions of Section 6.5 below.
+At the time of the fist commercial shipment of each product, in order to convey
+to consumers the high quality of the Product, Interplay will set the Price
+within the range of then-standard dealer price levels for "front-line"
+interactive entertainment software products of comparable quality and sales
+potential. Any change in the Price of any Product will become effective as to
+UNIVERSAL *** days after the date of Interplay's written notice to UNIVERSAL of
+the Price change or earlier as may be mutually agreed upon by the parties.
+UNIVERSAL will incorporate a change in Price of a Product in UNIVERSAL's next
+published price list.
+
+          Notwithstanding the foregoing, in no event shall the Interplay
+Proceeds be less than *** dollars ($***) with respect to each unit of console
+Platform Products and less than *** dollars and *** cents ($***) with respect to
+each unit of PC Platform Products. The foregoing sentence shall not apply with
+respect to ***. The first sentence of this paragraph shall not apply to any
+Product ***. Furthermore, the first sentence of this paragraph shall not apply
+with respect to Products which are ***. By way of clarification, the minimum
+Interplay Proceeds stated in this paragraph will apply for the first ***."
+
+     3)   The second sentence of Section 6.5(a), "Price Protection and Post-Sale
+          Markdowns," shall be modified to read as follows:
+
+          "Interplay and Universal shall mutually determine (in good faith)
+the extent of any price protection or post-sale markdown deductions extended to
+any Products."
+
+     The remainder of such Section shall remain unchanged.
+
+     4)   Section 6.10, "COLLECTIONS AND BAD DEBT," shall be modified to read as
+          follows:
+
+          "COLLECTIONS AND BAD DEBT. By way of clarification, UNIVERSAL will be
+responsible for all risk of collection of amounts owed by UNIVERSAL's customers
+as a result of UNIVERSAL's activities under this Agreement, and UNIVERSAL will
+not deduct any bad debt expenses or associated write-offs incurred as a result
+of its activities under this Agreement. ***"
+
+     5)   Section 2 of Exhibit C, "Escrow Instructions" shall be modified to
+          read as follows:
+
+          "Agent is authorized to disburse the Funds to Interplay within ***
+business days of receipt of the complete executed version of this Amendment #1."
+
+
+---------------------
+*** Terms represented by this symbol are considered confidential. These
+confidential terms have been omitted pursuant to a Confidential Treatment
+Request filed with the Securities and Exchange Commission ("SEC") and have been
+filed separately with the SEC.
+
+
+<PAGE>
+
+
+     Each Party (and the officers executing on its behalf) represents and
+warrants that it has the required authority and capacity to enter into this
+Amendment. All corporate and other actions required to be taken by either Party
+to authorize the execution, delivery and performance of this Amendment and all
+transactions contemplated by this Amendment have been duly and effectively
+taken. Upon the full execution and delivery of this Amendment, this Amendment
+will become a valid, binding and enforceable obligation upon both Parties.
+
+     Subject to the foregoing, all other terms and conditions of the Agreement
+and its Exhibits shall remain in full force and effect.
+
+
+ACCEPTED AND AGREED,
+
+
+/S/ PHIL O'NEIL                              /S/ HERVE CAEN
+-------------------------------             -----------------------------------
+Vivendi Universal Interactive               Interplay Entertainment Corporation
+Publishing North America, Inc.
+
+
+
+cc:  Dan Murphy (Stradling, Yocca, Carlson & Rauth),
+     Brian Fargo (Interplay)
+
+
+
+---------------------
+*** Terms represented by this symbol are considered confidential. These
+confidential terms have been omitted pursuant to a Confidential Treatment
+Request filed with the Securities and Exchange Commission ("SEC") and have been
+filed separately with the SEC.
+
+</TEXT>
+</DOCUMENT>

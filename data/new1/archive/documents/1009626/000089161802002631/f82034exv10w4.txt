@@ -1,0 +1,80 @@
+<DOCUMENT>
+<TYPE>EX-10.4
+<SEQUENCE>5
+<FILENAME>f82034exv10w4.txt
+<DESCRIPTION>EXHIBIT 10.4
+<TEXT>
+<PAGE>
+                                                                    Exhibit 10.4
+
+
+May 16, 2001
+
+
+Brocade Communications Systems, Inc.
+1901 Guadalupe Parkway
+San Jose, CA  95131
+
+Attention:  Mr. Patrick Johnston
+
+Subject: Amendment 1 to SOW#4900SJ0003 of the IBM/Brocade Goods Agreement
+ROC-P-68
+
+Dear Patrick:
+
+This letter serves as Amendment Number 1 to SOW#4900SJ0003 of the Goods
+Agreement ROC-P-68 which the parties thereto do mutually agree to amend as
+follows:
+
+1.      Section 2.1, Pricing, add the following to the pricing table.
+
+<TABLE>
+<CAPTION>
+---------------------------------------------------------------------------------------------------
+           IBM P/N                     BROCADE P/N                 DESCRIPTION          UNIT PRICE
+---------------------------------------------------------------------------------------------------
+<S>                            <C>                          <C>                         <C>
+[*]                            [*]                          Fabric Switch SW2040        [*]
+---------------------------------------------------------------------------------------------------
+[*]                            [*]                          Fabric Watch License        [*]
+---------------------------------------------------------------------------------------------------
+</TABLE>
+
+The parties acknowledge that they have read this Amendment, understand it, and
+agree to be bound by its terms and conditions. Further, they agree that this
+Amendment and the subject Agreement are the complete and exclusive statement of
+the agreement between the parties, superseding all proposals or other prior
+agreement, oral or written, and all other communications between the parties
+relating to this subject.
+
+Please have your authorized representative indicate acceptance thereof by
+signing both copies of the Amendment and returning one copy to the attention of
+Karen Takahashi at 5600 Cottle Road, San Jose, California 95193.
+
+<TABLE>
+<S>                                             <C>
+ACCEPTED AND AGREED TO:                         ACCEPTED AND AGREED TO:
+INTERNATIONAL BUSINESS MACHINES CORPORATION     BROCADE COMMUNICATIONS SYSTEMS, INC.
+
+
+By:                                             By:
+   ----------------------------------------        --------------------------------
+   Authorized Signature          Date              Authorized Signature       Date
+
+
+-------------------------------------------     -----------------------------------
+Type or Print Name                              Type or Print Name
+
+-------------------------------------------     -----------------------------------
+Title & Organization                            Title & Organization
+</TABLE>
+
+
+
+
+*       Certain information on this page has been omitted and filed separately
+        with the SEC. Confidential treatment has been requested with respect to
+        the omitted portions.
+
+</TEXT>
+</DOCUMENT>

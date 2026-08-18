@@ -1,0 +1,240 @@
+<DOCUMENT>
+<TYPE>EX-10.10
+<SEQUENCE>5
+<FILENAME>0005.txt
+<DESCRIPTION>AMENDMENT TO DEALER AGREEMENT
+<TEXT>
+
+<PAGE>   1
+                                                                   EXHIBIT 10.10
+
+                                  AMENDMENT TO
+                DEALER AGREEMENT AMONG LUCENT TECHNOLOGIES, INC.
+                    DISTRIBUTOR, INACOM COMMUNICATIONS, INC.;
+                              AND XETA CORPORATION.
+                       FOR BUSINESS COMMUNICATIONS SYSTEMS
+
+
+
+WHEREAS, Lucent Technologies, Inc. ("Lucent"), Xeta Corporation. ("Xeta"), and
+Inacom Communications, Inc. ("Inacom") have entered into a Dealer Agreement,
+effective March 19, 1999; and
+
+WHEREAS, the parties wish to amend the Dealer Agreement to modify certain
+provisions dealing with the Term, Termination provisions, and Diamond Dealer
+status;
+
+NOW THEREFORE, the parties, intending to be bound, agree to the following
+modifications to the Dealer Agreement.
+
+1.   Dealer Name. ("Dealer") definition changed from XETA Corporation to XETA
+     TECHNOLOGIES INC. including its wholly owned commercial business subsidiary
+     U.S. Technologies.
+
+2.   Term. In Section 25 of the Dealer Agreement the words "two years" are
+     replaced by the words "three years."
+
+3.   Renewal. Section 15.1 of the Dealer Agreement is deleted in its entirety
+     and replaced with the following:
+
+      15.1   Unless a party gives written notice of its intent not to renew to
+         the other parties ninety (90) days in advance of the termination date,
+         this Agreement will automatically renew for an additional two-year
+         term. Any party may terminate this Agreement without cause on ninety-
+         (90) days notice only after the initial three year Term; provided,
+         however, that Dealer may terminate Distributor at any time during the
+         term hereof, upon sixty (60) days written notice, if Dealer determines
+         that Distributor's pricing is no longer competitive or its service is
+         unsatisfactory, and Distributor does not remedy any such condition to
+         Dealer's satisfaction within such sixty (60) day timeframe.
+
+4.   Termination. Section 15.4 of the Dealer Agreement is deleted in its
+     entirety and replaced with the following:
+
+               15.4 A). Lucent or Distributor may terminate this Agreement upon
+          twenty-four (24) hours written notice if Dealer has: (i) become
+          insolvent, invoked as a debtor any laws relating to the relief of
+          debtors' or creditors' rights, or has had such laws invoked against
+          it; (ii) become involved in any liquidation or termination of its
+          business; (iii) been involved in an assignment for the benefit of its
+          creditors.
+
+               15.4 B). Lucent or Distributor may terminate this agreement after
+          written notice and a 15 day opportunity to cure if Dealer has (i) sold
+          or attempted to resell Lucent Managed Products to any third party
+          other than an End User; (ii) appointed or attempted to appoint any
+          unauthorized agent or unauthorized manufacturer's
+
+<PAGE>   2
+
+
+          representatives for Lucent Managed Products; (iii) purchased from a
+          source other than Distributor, sold or attempted to resell any unused
+          products manufactured by Lucent that, if purchased from DDM through
+          Distributor, would be a Lucent Managed Product under this Agreement;
+          (iv) remotely accessed PBX locations maintained by Lucent directly;
+          (v) activated software features without compensation to Lucent when
+          compensation is due to Lucent; (vi) misrepresented, by statement or by
+          omission, Dealer's authority to resell under this or any other written
+          agreement with Lucent that is limited to specific Lucent Managed
+          Products or services, by stating or implying, by use of a Lucent Mark
+          or otherwise, that the authority granted in this or such other
+          agreement applies to any Lucent Managed Product or service not covered
+          by this or such other agreement, or (x) failed to comply with Lucent's
+          guidelines for the proper use of Lucent's Marks.
+
+5.   Supercedure. Contemporaneously with the execution of this Amendment, the
+     parties are terminating two Dealer Agreements (No. PBXADA3 - 960921 and No.
+     ADA3-960109) involving U.S. Technologies Systems, Inc. Xeta has acquired
+     U.S. Technologies Systems Inc, and the parties agree that this Dealer
+     Agreement with Xeta completely supersedes the U.S. Technologies agreements.
+
+6.   Diamond Dealer.   *
+
+     a)   The following new Diamond Dealer provisions shall be added to Section
+          2 (Dealer Responsibilities):
+
+                  2.9 Except as provided in subsections 2.10 and 2.11, Dealer
+              shall not, during the term of this Agreement, market or sell any
+              non-Lucent products which are of the same type or category as the
+              control unit for any Lucent Key Telephone System, PBX product, or
+              hybrid Key/PBX product (e.g. Merlin Legend Systems), or the same
+              type or category as any packet switched voice system or voice/data
+              convergence Product listed in a Product Appendix. Except as
+              limited in this Agreement and in any other Dealer Agreements
+              Dealer may have with BCS or another business unit of Lucent,
+              Dealer may market any other non Lucent products to Dealers or End
+              Users.
+
+                  2.10 Dealer may continue to market and sell to an End-User
+              non-Lucent product components for end user products which are the
+              same type or category as the products listed in Section 2.9,
+              above, provided that i) Dealer has, prior to the effective date of
+              Xeta's first Dealer Agreement or (or Diamond Dealer Amendment)
+              with Lucent, supplied a non-Lucent product system to such End User
+              and ii) the additional non-Lucent products sold after such
+              effective date do no more than bring the non-Lucent product system
+              to its original design capacity or full accessory complement. If
+              such End User desires to upgrade or expand its non Lucent product
+              system beyond that authorized herein, Dealer shall sell only an
+              appropriate Lucent Managed Product to such End User. Dealer may
+              continue to market and sell non-Lucent packet switched voice
+              systems or non- Lucent voice/data convergence products for such
+              transition period as may be defined by Lucent.
+
+                                       2
+
+*    The asterisk (*) indicates that material has been omitted pursuant to a
+     request for confidential treatment. The omitted material has been filed
+     separately with the Securities Exchange Commission pursuant to Rule 24b-2
+     of the rules to the Securities Exchange Act of 1934, as amended.
+
+
+
+
+
+<PAGE>   3
+
+
+                  2.11 As a limited exception to the requirements of Section
+              2.10, Dealer may also continue to make a limited number of sales -
+              non-Lucent products which are the same type of category or have
+              the same functionality as Lucent PBX or Key System products * .
+
+7.   Letter. The achievement by Xeta of Diamond Dealer Status shall be
+     acknowledged by a letter signed by the parties, specifying the date of such
+     achievement and referencing the Dealer Agreement.
+
+8.   *
+
+9.   The Effective Date of this Amendment shall be _______, 2000. It shall be
+     attached to and be part of the Dealer Agreement as if fully set forth
+     therein. In all other respects the Dealer Agreement shall remain unchanged.
+
+10.  Replace the existing Xeta and U.S. Technologies Area and Products Appendix
+     with the attached Area and Product Appendix.
+
+11.  Replace the terminated U.S. Technologies Federal Government Addendum with
+     the attached Federal Government Addendum.
+
+
+LUCENT TECHNOLOGIES INC.                    INACOM COMMUNICATIONS, INC.
+
+
+By: /s/ WAYNE MILLER                        By: /s/ PAUL R. REITMEIER
+   ------------------------------               -------------------------------
+   Name: Wayne Miller                           Name: Paul R. Reitmeier
+   Title: Director, New Business                Title: President
+          Development                           Date: March 17, 2000
+   Date: March 24, 2000
+
+
+XETA CORPORATION
+
+
+By: /s/ JACK R. INGRAM
+   ------------------------------
+   Name: Jack R. Ingram
+   Title: CEO
+   Date: March 16, 2000
+
+
+
+
+
+                                        3
+
+*    The asterisk (*) indicates that material has been omitted pursuant to a
+     request for confidential treatment. The omitted material has been filed
+     separately with the Securities Exchange Commission pursuant to Rule 24b-2
+     of the rules to the Securities Exchange Act of 1934, as amended.
+
+
+<PAGE>   4
+
+
+                                  ATTACHMENT 1
+
+                                       *
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       4
+
+*   The asterisk (*) indicates that material has been omitted pursuant to a
+    request for confidential treatment. The omitted material has been filed
+    separately with the Securities Exchange Commission pursuant to Rule 24b-2 of
+    the rules to the Securities Exchange Act of 1934, as amended. Attachment 1
+    consists of two pages.
+</TEXT>
+</DOCUMENT>

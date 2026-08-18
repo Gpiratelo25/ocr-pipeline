@@ -1,0 +1,1926 @@
+<DOCUMENT>
+<TYPE>EX-10.4
+<SEQUENCE>5
+<FILENAME>g94984exv10w4.txt
+<DESCRIPTION>EX-10.4  AMENDED AND RESTATED CONSIGNMENT AGREEMENT
+<TEXT>
+<PAGE>
+                                                                    EXHIBIT 10.4
+
+                   AMENDED AND RESTATED CONSIGNMENT AGREEMENT
+
+     AMENDED AND RESTATED CONSIGNMENT AGREEMENT, dated as of April 28, 2005, by
+and between FLEET PRECIOUS METALS INC., a Rhode Island corporation operating as
+Bank of America Precious Metals with offices at 111 Westminster Street,
+Providence, Rhode Island 02903 ("BAPM"), and WOLVERINE TUBE, INC., a Delaware
+corporation with its principal place of business at 200 Clinton Avenue, Suite
+1000, Huntsville, Alabama 35801 ("WOLVERINE TUBE"), and WOLVERINE JOINING
+TECHNOLOGIES, LLC, a Delaware limited liability company with its principal place
+of business at 235 Kilvert Street, Warwick, Rhode Island 02886 ("WOLVERINE
+JOINING") (Wolverine Tube and Wolverine Joining are hereinafter sometimes
+referred to individually as a "COMPANY" and collectively as the "COMPANIES").
+
+                                   WITNESSETH:
+
+     WHEREAS, BAPM has previously extended a silver consignment facility and a
+silver forward contract facility to the Companies and Wolverine Tube (Canada),
+Inc. pursuant to that certain Consignment and Forward Contracts Agreement dated
+as of March 28, 2001, as amended (as amended, the "2001 Consignment Agreement");
+and
+
+     WHEREAS, the Companies and BAPM desire to enter into this Amended and
+Restated Consignment Agreement (the "Agreement") which will amend and restate in
+its entirety the 2001 Consignment Agreement and pursuant to which BAPM will
+continue to extend a silver consignment facility and a silver forward contract
+facility to the Companies (but not Wolverine Tube (Canada), Inc.), all on the
+terms and conditions and in reliance upon the representations and warranties of
+the Companies hereinafter set forth; and
+
+     NOW, THEREFORE, in consideration of the premises and of the mutual promises
+hereinafter contained, and for other good and valuable consideration, the
+receipt and adequacy of which are hereby acknowledged, the parties hereto hereby
+agree as follows:
+
+1.   DEFINITIONS
+
+When used herein, the terms set forth below shall be defined as follows:
+
+     1.1. "Authorized Representatives" means all person(s) who are authorized by
+and on behalf of the Companies (a) to transact consignment and purchase and sale
+transactions with BAPM under the Consignment Facility, (b) to request that a
+consignment under the Consignment Facility be continued as such or converted to
+a consignment of another Type, and (c) to enter into Forward Contracts with BAPM
+under the Forward Contract Facility.
+
+     1.2. "BAPM" means Fleet Precious Metals Inc., a Rhode Island corporation
+operating as Bank of America Precious Metals.
+<PAGE>
+     1.3. "BAPM's Address" means 111 Westminster Street, Providence, Rhode
+Island 02903, Attn: David Vega, Senior Vice President.
+
+     1.4. "Bank" means Fleet National Bank, a national banking association, its
+successors and assigns.
+
+     1.5. "Business Day" means (a) any day that is not a Saturday, Sunday, or a
+day on which banks in Providence, Rhode Island are required or permitted to be
+closed, and (b) with respect to all notices, determinations, fundings and
+payments in connection with any valuation, pricing period or pricing mechanism
+relating to London, any day that is a Business Day pursuant to the preceding
+clause (a) and that is also a day on which trading in Precious Metal is carried
+on by and between banks in the London Metal Exchange.
+
+     1.6. "Capital Expenditures" means any current expenditure by the
+Consolidated Parties for fixed or capital assets as reflected on the financial
+statements of the Consolidated Parties, as prepared in accordance with GAAP.
+
+     1.7. "Capital Lease", as applied to any Person, means any lease of any
+property (whether real, personal or mixed) by that Person as lessee that, in
+conformity with GAAP, is accounted for as a capital lease on the balance sheet
+of that Person.
+
+     1.8. "Companies" means Wolverine Tube and Wolverine Joining.
+
+     1.9. "Companies' Address" means 235 Kilvert Street, Warwick, Rhode Island
+02886.
+
+     1.10. "Consigned Precious Metal" means Precious Metal which has been
+consigned to the Companies by BAPM pursuant to the Consignment Facility.
+
+     1.11. "Consignment Facility" means the facility under Paragraph 2 hereof
+whereby the Companies may request consignments of Precious Metal.
+
+     1.12. "Consignment Facility Indebtedness" means the value (as determined in
+accordance with Paragraph 2.2 hereof) of Precious Metal on consignment to the
+Companies under the Consignment Facility plus any unpaid purchase price for
+Precious Metal under the Consignment Facility.
+
+     1.13. "Consignment Limit" means:
+
+          (a) the lesser of (i) Seventeen Million Dollars ($17,000,000), or (ii)
+the value (as determined pursuant to Paragraph 2.2 hereof) of Two Million Four
+Hundred Thousand (2,400,000) fine troy ounces of silver, minus, in the case of
+both (i) and (ii), the Forward Contract Indebtedness; or
+
+
+                                      -2-
+<PAGE>
+          (b) such limit as BAPM and the Companies may agree upon from time to
+time as evidenced by an amendment in substantially the form of Exhibit B
+attached hereto and made a part hereof or in such other form as BAPM shall
+require.
+
+     1.14. "Consignment Period" means, with respect to the consignment of
+Precious Metal based upon a Fixed Consignment Fee, the period beginning on the
+Drawdown Date and ending on the day which numerically corresponds to such date
+one (1), two (2), three (3), six (6) or twelve (12) months (or such other
+period, if agreed to by BAPM) thereafter (or, if such month has no numerically
+corresponding day, on the last Business Day of such month), as the Companies may
+select in their relevant notice pursuant to Paragraph 2.4 or 2.5; provided,
+however, that, if such Consignment Period would otherwise end on a day which is
+not a Business Day, such Consignment Period shall end on the next following
+Business Day; provided, however, that if such next following Business Day is the
+first Business Day of a calendar month, such Consignment Period shall end on the
+next preceding Business Day.
+
+     1.15. "Consolidated Cash Interest Expense" means, for any applicable period
+of computation, whether expensed or capitalized, all cash interest expense of
+the Consolidated Parties for such period, net of interest income for such
+period, all as determined in accordance with GAAP.
+
+     1.16. "Consolidated Cash Taxes" means, for any applicable period of
+computation, the aggregate of all taxes of the Consolidated Parties determined
+in accordance with applicable law and GAAP applied on a consistent basis, to the
+extent the same are paid in cash during such period.
+
+     1.17. "Consolidated EBITDA" means, for any applicable period of
+computation, without duplication, the sum of (a) Consolidated Net Income for
+such period, but excluding therefrom all extraordinary items of income or loss,
+plus (b) the aggregate amount of depreciation and amortization charges made in
+calculating Consolidated Net Income for such period, plus (c) aggregate
+Consolidated Interest Expense for such period, plus (d) the aggregate amount of
+all income taxes reflected on the consolidated statements of income of the
+Consolidated Parties for such period. Except as otherwise provided herein, the
+applicable period of computation shall be for the four (4) consecutive quarters
+ending as of the date of determination.
+
+     1.18. "Consolidated Fixed Charges" means, for any applicable period of
+computation, without duplication, the sum of (a) all Consolidated Cash Interest
+Expense for the applicable period plus (b) all Consolidated Scheduled Funded
+Debt Payments for the applicable period.
+
+     1.19. "Consolidated Funded Debt" means, as of the date of determination,
+all Funded Debt of Wolverine Tube and its consolidated Subsidiaries, determined
+on a consolidated basis in accordance with GAAP.
+
+
+                                      -3-
+<PAGE>
+     1.20. "Consolidated Interest Expense" means, for any applicable period of
+computation, whether expensed or capitalized, all interest expense of the
+Consolidated Parties for such period, net of interest income for such period,
+all as determined in accordance with GAAP.
+
+     1.21. "Consolidated Net Income" means, for any applicable period of
+computation, the net income after taxes of the Consolidated Parties for such
+period, as adjusted for:
+
+          (a)  non-cash adjustments to Consolidated Net Income due to the effect
+               of changes in accounting methods required by GAAP; and
+
+          (b)  the tax adjusted net value of (a) the non-cash adjustments to
+               Consolidated Net Income on account of gains or losses resulting
+               from changes in the metal variance account required by the marked
+               to market of the Copper Hedge, as determined in accordance with
+               GAAP and (b) the non-cash adjustments to valuations of inventory
+               that consists of copper covered by the Copper Hedge resulting
+               from the Companies' marked to market of inventory levels under
+               the Copper Hedge at the time of testing (with the submission of
+               the certificate pursuant to Paragraph 8.6(d), the Companies will
+               provide BAPM with a reconciliation of these adjustments in a
+               format similar to that of Exhibit D).
+
+     1.22. "Consolidated Parties" means Wolverine Tube and all of its
+consolidated Subsidiaries whether direct or indirect and whether now owned or
+hereafter acquired.
+
+     1.23. "Consolidated Scheduled Funded Debt Payments" means, as of the end of
+each fiscal quarter (or month, as applicable) of Wolverine Tube and its
+consolidated Subsidiaries on a consolidated basis, the sum of all scheduled
+payments of principal on Consolidated Funded Debt (other than intercompany
+Indebtedness) for the four (4) consecutive quarters (or 12 consecutive months,
+as applicable) beginning on such date (including the principal component of
+payments due on Capital Leases or under any synthetic lease, tax retention
+operating lease, off-balance sheet loan or similar off-balance sheet financing
+product during the applicable period beginning on such date).
+
+     1.24. "Conversion Request" means, with respect to the Consignment Facility,
+a notice given by an Authorized Representative to BAPM of the Companies'
+election to convert or continue a consignment under the Consignment Facility in
+accordance with Paragraph 2.5 hereof.
+
+     1.25. "Copper Hedge" means the Trading Agreements between PB Financial,
+Inc. and the Companies related to hedging copper and any other copper hedging
+contract permitted hereunder entered into by any of the Companies.
+
+     1.26. "Credit Agreement" means that certain Amended and Restated Credit
+Agreement among Wolverine Tube, and certain subsidiaries of Wolverine Tube,
+Wachovia Bank, National Association, as Administrative Agent, and the financial
+institutions listed on Schedule 1.1A
+
+
+                                      -4-
+<PAGE>
+thereto, dated as of April 28, 2005, as amended, modified or supplemented or
+restated from time to time.
+
+     1.27. "Drawdown Date" means, with respect the Consignment Facility, the
+date on which any consignment under the Consignment Facility is made or is to be
+made and the date on which any consignment under the Consignment Facility is
+converted or continued in accordance with Paragraph 2.5 hereof.
+
+     1.28. "Escrow Agreement" means that certain Escrow Agreement dated December
+31, 2003, as amended from time to time, between the Companies and BAPM pursuant
+to which BAPM and the Companies placed money in escrow at the Bank in an account
+in BAPM's name as escrow agent to cover the costs of refining, processing and
+recovery of the Consigned Precious Metal.
+
+     1.29. "Event of Default" means each and every event specified in Paragraph
+9.1 of this Agreement.
+
+     1.30. "Excess Availability" shall have the meaning assigned by the Credit
+Agreement.
+
+     1.31. "Excluded Collateral" means all receivables sold by Wolverine Tube
+pursuant to the Permitted Securitization and associated collections with respect
+thereto, each lock-box and collection account into which proceeds of such
+receivables are deposited, all other rights and payments relating to such
+receivables and all proceeds of the foregoing.
+
+     1.32. "Fiscal Year" means the year ending December 31.
+
+     1.33. "Fixed Charge Coverage Ratio" means, for any applicable period of
+computation, the ratio of (a) Consolidated EBITDA less Unfinanced Capital
+Expenditures less all Consolidated Cash Taxes paid during the applicable period
+less cash dividends paid by Wolverine Tube for the applicable period to (b)
+total Consolidated Fixed Charges. The applicable period of computation for the
+purpose of determining compliance with Paragraph 8.9 hereof, shall be the 12
+consecutive month period ending as of the date of determination, except with
+respect to the Consolidated Scheduled Funded Debt Payments component of
+Consolidated Fixed Charges, which shall be for the 12 consecutive month period
+beginning as of the date of determination.
+
+     1.34. "Fixed Consignment Fee" means a consignment fee calculated in
+accordance with the provisions of Paragraph 2.3(d) hereof.
+
+     1.35. "Floating Forward Contract" means the agreement of the Companies to
+buy, and BAPM to sell, a fixed amount of Precious Metal for a set purchase price
+at a future date which bears interest, payable on a monthly basis.
+
+     1.36. "Floating Consignment Fee" means a consignment fee calculated in
+accordance with the provisions of Paragraph 2.3(c) hereof.
+
+
+                                      -5-
+<PAGE>
+     1.37. "Following Business Day Convention" shall mean that an adjustment
+will be made if any relevant date would otherwise fall on a day that is not a
+Business Day so that the date will be the first following day that is a Business
+Day.
+
+     1.38. "Forward Contract" means the agreement of the Companies to buy, and
+BAPM to sell, Precious Metal on a forward contract basis and includes Floating
+Forward Contracts and Hybrid Forward Contracts.
+
+     1.39. "Forward Contract Facility" means the facility under Paragraph 3
+hereof whereby the Companies may enter into Forward Contracts to buy Precious
+Metal from BAPM on a forward contract basis.
+
+     1.40. "Forward Contract Indebtedness" means twenty percent (20%) of the
+face value of all outstanding Forward Contracts entered into by the Companies
+pursuant to the Forward Contract Facility.
+
+     1.41. "Forward Contract Limit" means Seven Hundred Thousand Dollars
+($700,000).
+
+     1.42. "Funded Debt" means, without duplication, the sum of (a) all
+indebtedness of the Consolidated Parties for borrowed money, (b) the principal
+portion of all obligations of the Consolidated Parties under capital leases, (c)
+all commercial letters of credit and the maximum or face amount of all
+performance and standby letters of credit issued or bankers' acceptance
+facilities created for the account of a member of the Consolidated Parties,
+including, without duplication, all unreimbursed draws thereunder, (d) all
+Guaranty Obligations of the Consolidated Parties with respect to Funded Debt of
+another Person, (e) all Funded Debt of another entity secured by a Lien on any
+property of the Consolidated Parties, to the extent of the book value of the
+property secured thereby, whether or not such Funded Debt has been assumed by a
+member of the Consolidated Parties, (f) all Funded Debt of any partnership or
+unincorporated joint venture to the extent a member of the Consolidated Parties
+is legally obligated or has a reasonable expectation of being liable with
+respect thereto, net of any assets of such partnership or joint venture and (g)
+the principal balance outstanding under any synthetic lease, tax retention
+operating lease, off-balance sheet loan or similar off-balance sheet financing
+product of a member of the Consolidated Parties where such transaction is
+considered borrowed money indebtedness for tax purposes but is classified as an
+operating lease in accordance with GAAP.
+
+     1.43. "GAAP" means generally accepted accounting principles consistently
+applied.
+
+     1.44. "Guaranty Obligations" of any Person means any obligations (other
+than (a) endorsements in the ordinary course of business of negotiable
+instruments for deposit or collection, and (b) obligations arising under
+guaranties by a Credit Party (as defined in the Credit Agreement) of another
+Credit Party) guaranteeing or intended to guarantee any indebtedness, leases,
+dividends or other obligations of any other Person in any manner, whether direct
+or indirect, and including, without limitation, any obligation, whether or not
+contingent to, (i) purchase any such indebtedness or other obligation or any
+property constituting security therefor,
+
+
+                                      -6-
+<PAGE>
+(ii) advance or provide funds or other support for the payment or purchase of
+such indebtedness or obligation or to maintain working capital, solvency or
+other balance sheet condition of such other Person (including, without
+limitation, keep well agreements, maintenance agreements, comfort letters or
+similar agreements or arrangements), (iii) lease or purchase property,
+securities or services primarily for the purpose of assuring the owner of such
+indebtedness or obligation, or (iv) otherwise assure or hold harmless the owner
+of such indebtedness or obligation against loss in respect thereof.
+
+     1.45. "Hybrid Forward Contract" means the agreement of the Companies to
+buy, and BAPM to sell, Precious Metal for a set purchase price in the future
+which purchase price includes the Companies' carrying cost therefor. 1.46. "ISDA
+Agreement" means the ISDA Master Agreement of 1992.
+
+     1.47. "Intercreditor Agreement" means that certain Amended and Restated
+Intercreditor Agreement between BAPM and the Lenders with respect to the Credit
+Agreement dated April 28, 2005.
+
+     1.48. "Laws" means all applicable ordinances, statutes, rules, regulations,
+orders, injunctions, writs or decrees of any government or political subdivision
+or agency thereof, or any court or similar entity established by any thereof.
+
+     1.49. "Lenders" means Wachovia Bank, National Association, a national
+banking association with a principal place of business at 191 Peachtree Street,
+30th Floor, Atlanta, Georgia 30303-8056 and the financial institutions listed in
+Schedule 1.1A to the Credit Agreement.
+
+     1.50. "Lien" means any mortgage, pledge, hypothecation, collateral
+assignment, deposit arrangement, security interest, encumbrance, lien (statutory
+or otherwise), hypothec, preference, priority, or charge of any kind (including
+any agreement to give any of the foregoing, any conditional sale or other title
+retention agreement, any financing or similar statement filed under the Uniform
+Commercial Code as adopted and in effect in the State of Rhode Island, or other
+similar recording or notice statute, and any lease in the nature thereof).
+
+     1.51. "Obligations" means any and all indebtedness, obligations and
+liabilities of the Companies to BAPM and/or the Bank of every kind and
+description, direct or indirect, secured or unsecured, joint or several,
+absolute or contingent, due or to become due, whether for payment or
+performance, now existing or hereafter arising, arising out of or incurred in
+connection with this Consignment Agreement, including, without limitation, all
+indebtedness and obligations under the Consignment Facility and the Forward
+Contract Facility extended to the Companies under this Agreement; and all
+interest, taxes, fees, charges, expenses and attorneys' fees chargeable to the
+Companies or incurred by BAPM or the Bank hereunder, or any other document or
+instrument delivered hereunder or as a supplement hereto.
+
+     1.52. "Permitted Securitization" means the trade securitization transaction
+for an aggregate principal amount of third party investments or advances of up
+to $45,000,000,
+
+
+                                      -7-
+<PAGE>
+evidenced by that certain Receivables Sale Agreement, dated as of April 28, 2005
+among Wolverine Tube, Tube Forming, L.P., Small Tube Manufacturing, LLC and the
+SPC, as the same may be amended, restated, supplemented or otherwise modified
+from time to time, and that certain Receivables Purchase Agreement, dated as of
+April 28, 2005 among the SPC, Wolverine Finance, LLC, Wolverine Tube, Blue Ridge
+Asset Funding Corporation, the liquidity banks from time to time party thereto
+and Wachovia Bank, National Association, as the same may be amended, restated,
+supplemented or otherwise modified from time to time.
+
+     1.53. "Person" means an individual, corporation, partnership, limited
+liability company, joint venture, trust, or unincorporated organization.
+
+     1.54. "Premises" means all real estate owned, used or leased by the
+Companies.
+
+     1.55. "Precious Metal" means silver bullion, having a minimum degree of
+fineness of ninety-nine and 90/100 percent (99.90%)
+
+     1.56. "Prime Rate" means the rate of interest designated by Bank from time
+to time as being its so-called "prime rate" of interest. The Prime Rate is a
+reference rate and does not necessarily represent the lowest or best rate being
+charged to any customer. Changes in the rate of interest resulting from changes
+in the Prime Rate shall take place immediately without notice or demand of any
+kind.
+
+     1.57. "SPC" means DEJ 98 FINANCE, LLC, a Delaware limited liability
+company.
+
+     1.58. "Subsidiary" means any corporation of which more than fifty (50%)
+percent of the outstanding voting securities shall, at the time of
+determination, be owned by one of the Companies directly or indirectly through
+one or more Subsidiaries.
+
+     1.59. "Type" means, as to any consignment under the Consignment Facility,
+its nature as a Fixed Consignment Fee consignment or a Floating Consignment Fee
+consignment.
+
+     1.60. "Unfinanced Capital Expenditures" means, for any period, all Capital
+Expenditures not financed from proceeds of Consolidated Funded Debt (other than
+loans made under the Credit Agreement or from the proceeds of the Permitted
+Securitization).
+
+     1.61. "Wolverine Joining" means Wolverine Joining Technologies, LLC, a
+Delaware limited liability company.
+
+     1.62. "Wolverine Tube" means Wolverine Tube, Inc., a Delaware corporation.
+
+     1.63. "2008 Senior Note Indenture" means the Indenture, dated as of August
+4, 1998 by and among Wolverine Tube and Wachovia Bank, National Association
+(f/k/a First Union National Bank), as trustee, as the same may be amended,
+modified, restated or supplemented and in effect from time to time in accordance
+with the terms hereof.
+
+
+                                      -8-
+<PAGE>
+     1.64. "2008 Senior Noteholders" means a collective reference to the holders
+from time to time of the 2008 Senior Notes and "2008 Senior Noteholder" means
+any one of them.
+
+     1.65. "2008 Senior Notes" means any one of Wolverine Tube's $150,000,000 7
+3/8% Senior Notes, due August, 2008 issued by Wolverine Tube in favor of the
+2008 Senior Noteholders pursuant to the 2008 Senior Note Indenture, as such 2008
+Senior Notes may be amended, modified, restated or supplemented and in effect
+from time to time in accordance with the terms hereof.
+
+     1.66. "2009 Senior Note Indenture" means that certain Indenture dated as of
+March 27, 2002 by and among Wolverine Tube, the Subsidiaries listed therein and
+Wachovia Bank, National Association, as Trustee, as such 2009 Senior Note
+Indenture may be amended, modified, restated, replaced or supplemented and in
+effect from time to time in accordance with the terms hereof.
+
+     1.67. "2009 Senior Noteholders" means, collectively, the holders from time
+to time of the 2009 Senior Notes and "2009 Senior Noteholder" means any one of
+them.
+
+     1.68. "2009 Senior Notes" means any one of Wolverine Tube's $120,000,000
+10.5% Senior Notes, due April 1, 2009 issued by Wolverine Tube in favor of the
+2009 Senior Noteholders pursuant to the 2009 Senior Note Indenture, as such 2009
+Senior Notes may be amended, modified, restated, replaced or supplemented and in
+effect from time to time in accordance with the terms hereof.
+
+     To the extent not defined in this Paragraph l, unless the context otherwise
+requires, accounting and financial terms used in this Agreement shall have the
+meanings attributed to them by GAAP, and all other terms contained in this
+Agreement shall have the meanings attributed to them by Article 9 of the Uniform
+Commercial Code in force in the State of Rhode Island, as of the date hereof to
+the extent the same are used or defined therein.
+
+2.   Consignment Facility.
+
+     2.1. Precious Metal to be Consigned; Insurance; Title
+
+          (a) The Precious Metal to be consigned to the Companies by BAPM under
+Consignment Facility will consist of Precious Metal as defined in Paragraph 1.55
+herein. EXCEPT AS PROVIDED IN THE PRECEDING SENTENCE OF THIS PARAGRAPH 2.1(a),
+BAPM MAKES NO REPRESENTATION OR WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH
+RESPECT TO THE GOODS CONSIGNED OR TO BE SOLD HEREUNDER, WHETHER AS TO
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR ANY OTHER MATTER, AND BAPM
+HEREBY DISCLAIMS ALL SUCH WARRANTIES.
+
+          (b) The Consigned Precious Metal shall be consigned to the Companies
+by BAPM, in BAPM's sole discretion, in amounts as requested by the Companies
+from time to time. It
+
+
+                                      -9-
+<PAGE>
+is understood that at no time shall the Consignment Facility Indebtedness exceed
+the Consignment Limit.
+
+          (c) All deliveries requested by the Companies of Consigned Precious
+Metal shall be made at the Companies' expense and risk by a recognized reputable
+carrier of BAPM's selection. Following the delivery of Consigned Precious Metal
+to the Companies, or to such other location as may be agreed upon from time to
+time by the parties hereto, the Companies shall insure the Consigned Precious
+Metal to its full value against all risks of loss and shall, as between BAPM and
+the Companies, accept all risk of loss unless it is returned to BAPM, as
+hereinafter provided. All such insurance policies shall provide at least thirty
+(30) days' prior written notice to BAPM of any cancellation or alteration
+thereof. At BAPM's request, the Companies will furnish BAPM with the certificate
+of an insurance company reasonably satisfactory to BAPM and a true and complete
+copy of all insurance policies evidencing the satisfaction of the Companies'
+insurance obligations hereunder and the inclusion of BAPM as an additional
+insured and loss payee under any applicable policy as its interest may appear;
+provided, however, that BAPM shall be under no duty either to ascertain the
+existence of or to examine any such policy or certificate or to advise the
+Companies in the event such policy shall not comply with the requirements
+hereof.
+
+          (d) Title to all Consigned Precious Metal shall remain in BAPM until
+such Consigned Precious Metal is purchased and withdrawn from consignment by the
+Companies, and Precious Metal shall for the purposes of this Agreement be deemed
+to be outstanding on consignment until it is paid for in full by the Companies
+as provided in Paragraph 2.3(f) hereof, whereupon title to such purchased
+Precious Metal shall pass to the Companies. Each Company hereby authorizes BAPM
+to file financing statements against such Company with respect to the Consigned
+Precious Metal, its products and proceeds, excluding, however, the Excluded
+Collateral, and each Company agrees, upon request of BAPM, to execute and
+deliver such other documents as may be reasonably requested by BAPM to protect
+BAPM's interests as a consignor and a secured party under the Uniform Commercial
+Code.
+
+          (e) Until such time as title to Consigned Precious Metal shall pass to
+the Companies as hereinabove provided all of such Consigned Precious Metal shall
+at all times be physically located on the Premises of the Companies at the
+Companies' Address or at such other locations reasonably acceptable to BAPM, as
+set forth in Exhibit E attached hereto, as the same may be amended from time to
+time; provided, however, BAPM shall have the right to give written notice that a
+location, whether now, or hereafter approved, is no longer an approved location.
+
+          (f) The parties hereto hereby further acknowledge that at closing
+hereunder all Precious Metal on consignment to the Companies pursuant to the
+2001 Consignment Agreement shall, without further notice to, or consent of, the
+Companies, constitute Consigned Precious Metal hereunder.
+
+     2.2. Valuation
+
+
+                                      -10-
+<PAGE>
+     For the purpose of this Agreement, the value of Precious Metal shall be
+determined on the basis of the silver fixing as set by certain members of the
+London Bullion Market Association on the valuation date, or, if no silver fixing
+is available for such date, then on the basis of said silver fixing on the next
+previous day for which such silver fixing was available. In the event that the
+London Bullion Market Association shall discontinue or alter its usual practice
+of quoting a silver fixing on any day for which such a silver fixing is
+necessary for the purposes hereof, BAPM shall so notify the Companies and BAPM
+shall at its option announce a substituted index or mechanism which shall
+thereupon become the method of valuation hereunder until the London Bullion
+Market Association shall resume its usual practices of quoting silver fixings.
+
+     2.3. Payments by the Companies.
+
+          (a) During such time as Precious Metal is consigned to the Companies
+hereunder and until the same is withdrawn from consignment and paid for in full
+by the Companies as hereinafter provided, the Companies will pay to BAPM a fee
+computed daily on the value of such Consigned Precious Metal as hereinafter set
+forth. Such fee shall be accrued on a daily basis and, in the case of Floating
+Rate Consignments, shall be paid monthly, not later than the fifth Business Day
+following the receipt of billing, and in the case of Fixed Rate Consignments,
+shall be paid on the last day of the Consignment Period with respect thereto.
+
+          (b) The Companies may elect to pay either a Floating Consignment Fee
+or, provided that no Event of Default has occurred and is then continuing, a
+Fixed Consignment Fee with respect to each consignment of Precious Metal under
+the Consignment Facility, subject to the terms and conditions hereinafter set
+forth.
+
+          (c) Each Floating Consignment Fee will be calculated for the period
+commencing with the Drawdown Date and shall be the rate of three and one-quarter
+per cent (3.25%) per annum or at such other rates as BAPM shall specify from
+time to time upon written notice in substantially the form of Exhibit C attached
+hereto and made a part hereof.
+
+          (d) Each Fixed Consignment Fee shall be calculated for a certain
+specific quantity and form of Precious Metal consigned to the Companies for a
+certain specific Consignment Period based upon a market base rate reflective of
+the cost of funding such Fixed Rate Consignments by BAPM. The quantity and form
+of Precious Metal, and the Consignment Period shall be selected by the Companies
+and consented to by BAPM. Once the specific quantity and form of Precious Metal
+and the specific Consignment Period have been selected and the consignment fee
+determined, such selections shall be irrevocable and binding on the Companies
+and shall obligate the Companies to accept the consignment requested BAPM in the
+amount, in the form and for the Consignment Period specified.
+
+          (e) At such time as the Companies shall request the consignment and
+delivery of Precious Metal under the Consignment Facility, they shall become
+obligated to pay to BAPM
+
+
+                                      -11-
+<PAGE>
+a market premium per troy ounce announced by BAPM at the time of such
+consignment. Such payment is to be made within five (5) Business Days of the
+Companies' receipt of the monthly invoice.
+
+          (f) At such time as the Companies shall purchase and withdraw
+Consigned Precious Metal from consignment under the Consignment Facility, they
+shall become obligated to (i) pay to BAPM (x) a purchase price computed in
+accordance with Paragraph 2.2 hereof if such purchase is effected by the
+Companies (and the Companies have notified BAPM) prior to 11:30 A.M., London
+Time, on any Business Day, plus any applicable premium, or (y) such other
+purchase price as shall be mutually agreed upon by BAPM and the Companies, or
+(ii) deliver Precious Metal to BAPM's pool accounts, loco London, in an amount
+equal to the Precious Metal purchased. All payments of purchase price for
+Consigned Precious Metal or deliveries of Precious Metal are to be made within
+two (2) Business Days, provided, however, title to such Consigned Precious Metal
+shall not pass until the payment of such purchase price. Consigned Precious
+Metal shall be deemed to have been purchased and withdrawn from consignment, and
+payment of the purchase price shall become due, at the earlier of (i) such time
+as the Companies shall notify BAPM, they elect to purchase such Consigned
+Precious Metal, or (ii) such time as the Companies sell such Consigned Precious
+Metal in the ordinary course of their business.
+
+          (g) All payments (other than payments in the form of Precious Metal)
+shall be made by the Companies at the office of BAPM herein set forth or such
+other place as BAPM may from time to time specify in writing in lawful currency
+of the United States of America in immediately available funds, without
+counterclaim or setoff and free and clear of, and without any deduction or
+withholding for, any taxes or other payments.
+
+          (h) All payments shall be applied first to the payment of all fees,
+expenses and other amounts due to BAPM (excluding purchase price for Consigned
+Precious Metal and consignment fees), then to accrued consignment fees and the
+balance on account of outstanding purchase price for Consigned Precious Metal;
+provided, however, that after the occurrence of an Event of Default, payments
+will be applied to the obligations of the Companies to BAPM as BAPM determines
+in its sole discretion.
+
+          (i) If this Consignment Agreement or any payment hereunder becomes due
+on a day which is not a Business Day, the due date of this Consignment Agreement
+or payment shall be extended to the next succeeding Business Day, and such
+extension of time shall be included in computing interest and fees in connection
+with such payment.
+
+     2.4. Requests for Consignments under the Consignment Facility.
+
+          (a) The Companies shall give to BAPM telephonic notice or notice sent
+by telecopier (confirmed in writing by BAPM) of each request for a consignment
+under the Consignment Facility. Each such notice shall be irrevocable and
+binding on the Companies and shall obligate the Companies to accept the
+consignment requested from BAPM.
+
+
+                                      -12-
+<PAGE>
+          (b) Requests for any consignments under the Consignment Facility with
+a Floating Consignment Fee shall be furnished to BAPM no later than 12:00 noon
+(Providence time) on the same Business Day of the proposed Drawdown Date. Each
+such notice shall specify (i) the amount and type of Precious Metal requested,
+and (ii) the proposed Drawdown Date of such consignment.
+
+          (c) Requests for any consignments under the Consignment Facility with
+a Fixed Consignment Fee shall be furnished to BAPM by 12:00 noon (Providence
+time) two (2) Business Days prior to the proposed Drawdown Date. Each such
+notice shall specify (i) the amount and type of Precious Metal requested, (ii)
+the proposed Drawdown Date of such consignment, and (iii) the Consignment Period
+for such consignment.
+
+          (d) Requests for, and repayments of, Fixed Rate Consignments of
+Precious Metal shall be for not less than five thousand (5,000) fine troy ounces
+or integral multiples of one thousand (1,000) fine troy ounces in excess
+thereof.
+
+     2.5. Conversion Options.
+
+          (a) The Companies may elect from time to time to convert any
+outstanding Floating Consignment Fee consignment to a Fixed Consignment Fee
+consignment and to convert any outstanding Fixed Consignment Fee consignment to
+a Floating Consignment Fee consignment, provided that (i) with respect to any
+such conversion of a Fixed Consignment Fee consignment into a Floating
+Consignment Fee consignment, such conversion shall only be made on the last day
+of the Consignment Period with respect thereto and it shall be for no less than
+five thousand (5,000) fine troy ounces of Precious Metal; (ii) with respect to
+any such conversion of a Floating Consignment Fee consignment to a Fixed
+Consignment Fee consignment, the Companies shall give BAPM at least two (2)
+Business Days' prior written notice of the day on which such election is
+effective; and (iii) no consignment may be converted into a Fixed Consignment
+Fee consignment when BAPM has declared the existence of an Event of Default
+hereunder. The Companies shall give to BAPM telephonic notice (confirmed in
+writing by BAPM) of their decision to convert an outstanding consignment. All or
+any part of outstanding consignments under the Consignment Facility may be
+converted as provided herein. Each such request shall be irrevocable by the
+Companies.
+
+          (b) Any Fixed Consignment Fee consignments may be continued as such
+upon the expiration of a Consignment Period with respect thereto by giving to
+BAPM telephonic notice (confirmed in writing by BAPM) of the Companies' decision
+to continue an outstanding consignment as such; provided that no Fixed
+Consignment Fee consignment may be continued as such when BAPM has declared the
+existence of an Event of Default hereunder, but shall be automatically converted
+to a Floating Consignment Fee consignment on the last day of the first
+Consignment Period relating thereto ending during the continuance of such Event
+of Default. In the event that the Companies do not notify BAPM of their election
+hereunder with respect to any consignment, such consignment shall be
+automatically converted to a Floating Consignment Fee consignment at the end of
+the applicable Consignment Period.
+
+
+                                      -13-
+<PAGE>
+     2.6. Inability to Determine Fixed Consignment Fee.
+
+     In the event, prior to the commencement of any Consignment Period relating
+to any Fixed Consignment Fee consignment, BAPM shall determine in good faith
+that adequate and reasonable methods do not exist for ascertaining the Fixed
+Consignment Fee that would otherwise determine the rate of interest to be
+applicable to any Fixed Consignment Fee consignment during any Consignment
+Period, BAPM shall forthwith give notice of such determination (which shall be
+conclusive and binding on the Companies) to the Companies. In such event, (a)
+any request for a Fixed Consignment Fee consignment shall be automatically
+withdrawn and shall be deemed a request for Floating Consignment Fee
+consignments, (b) each Fixed Consignment Fee consignment will automatically, on
+the last day of the then current Consignment Period thereof, become a Floating
+Consignment Fee consignment, and (c) the obligations of BAPM to make Fixed
+Consignment Fee consignments shall be suspended until BAPM determines that the
+circumstances giving rise to such suspension no longer exist, whereupon BAPM
+shall so notify the Companies.
+
+     2.7. Illegality.
+
+     Notwithstanding any other provisions herein, if any present or future law,
+regulation, treaty or directive or in the reasonable interpretation or
+application thereof shall make it unlawful for BAPM to make or maintain Fixed
+Consignment Fee consignments, BAPM shall forthwith give notice of such
+circumstances to the Companies and thereupon (a) the agreement of BAPM to make
+Fixed Consignment Fee consignments shall forthwith be suspended and (b) the
+Fixed Consignment Fee consignments then outstanding shall be converted
+automatically to Floating Consignment Fee consignments on the last day of each
+Consignment Period applicable to such Fixed Consignment Fee consignments or
+within such earlier period as may be required by law. The Companies shall
+promptly pay BAPM, any additional amounts necessary to compensate BAPM for any
+costs incurred by BAPM in making any conversion in accordance with this
+Paragraph, including any interest or fees payable by BAPM to lenders of funds
+obtained by it in order to make or maintain its Fixed Consignment Fee
+consignments hereunder.
+
+     2.8. Indemnity.
+
+     The Companies shall indemnify BAPM and hold BAPM harmless from and against
+any proven loss, cost or expense (including loss of anticipated profits) that
+BAPM may sustain or incur as a consequence of (a) default by the Companies in
+payment of any Fixed Consignment Fee consignments as and when due and payable
+(including, without limitation, as a result of prepayment or late payment of the
+purchase price for the Consigned Precious Metal or the acceleration of the
+Consignment Facility Indebtedness pursuant to the terms of this Agreement),
+which expenses shall include any such loss or expense arising from interest or
+fees payable by BAPM to lenders of funds obtained by it in order to maintain its
+Fixed Consignment Fee consignments; (b) default by the Companies in taking a
+consignment or conversion after the Companies have given (or are deemed to have
+given) their request therefor; and (c) the purchase of Consigned Precious Metal
+bearing a Fixed Consignment Fee or the making of any conversion
+
+
+                                      -14-
+<PAGE>
+of any such consignment to a Floating Consignment Fee consignment on a day that
+is not the last day of the applicable Consignment Period with respect thereto,
+such indemnification costs to be determined in accordance with Paragraph 2.9
+hereof.
+
+     2.9. Breakage Costs.
+
+     The breakage costs associated with the breakage of a Fixed Consignment Fee
+consignment shall be determined by, and paid in accordance with, Paragraph 6(e)
+of the ISDA Agreement, provided, however, in no event shall BAPM be required to
+pay any amount to the Companies if an Event of Default has occurred.
+
+     2.10. Use of Proceeds.
+
+     No portion of the proceeds of the Consignment Facility shall be used, in
+whole or in part, for the purpose of purchasing or carrying any "margin stock"
+as such term is defined in Regulation U of the Board of Governors of the Federal
+Reserve System.
+
+     2.11. True Consignment; Grant of Security Interest
+
+          (a) The parties hereto intend that this Agreement shall provide for a
+true consignment and that all transactions hereunder shall constitute true
+consignments of the Precious Metal.
+
+          (b) To secure the prompt and punctual payment and performance of the
+Obligations, the Companies hereby grant to BAPM a continuing security interest
+in (i) the Consigned Precious Metal, whether now existing or hereafter arising,
+and (ii) all proceeds and products of the foregoing excluding, however, the
+Excluded Collateral. Nothing contained in the foregoing grant is intended to
+conflict with the true consignment nature of this Agreement.
+
+          (c) Each Company hereby authorizes BAPM's filings of UCC financing
+statements against such Company in connection with the consignment and security
+interests granted hereby and hereby ratifies any UCC financing statements filed
+by BAPM prior to the date hereof, as such UCC financing statements are amended
+as contemplated hereby.
+
+     2.12. Maintenance of Consignment Limit
+
+     If the Consigned Facility Indebtedness any time exceeds the Consignment
+Limit, the Companies will promptly, without further notice or demand by BAPM,
+either (a) make payment to BAPM, as provided in Paragraph 2.3 hereof, for
+Consigned Precious Metal having an aggregate value sufficient to result in
+Consigned Facility Indebtedness being not more than the Consignment Limit, or
+(b) deliver to BAPM's designated pool account, loco London, sufficient Precious
+Metal to achieve the result referred to in the preceding clause (a). Any
+physical return of Consigned Precious Metal to BAPM shall be to a vault
+reasonably designated by BAPM, shall be at the Companies' expense and risk and
+shall only be credited to the Companies' account upon BAPM's assaying the value
+thereof.
+
+
+                                      -15-
+<PAGE>
+     2.13. Termination; Return of Precious Metal
+
+          (a) BAPM may terminate this Consignment Facility by giving thirty (30)
+days' prior written notice of such termination to the Companies. Upon giving of
+such notice or at any time thereafter, BAPM may, at its option, suspend or
+terminate its obligation to consign or deliver Precious Metal hereunder. ALL
+SUMS OUTSTANDING UNDER THIS CONSIGNMENT FACILITY WILL BE DUE AND PAYABLE UPON
+THE EARLIER OF (I) THE OCCURRENCE OF AN EVENT OF DEFAULT AND ACCELERATION OF THE
+OBLIGATIONS BY BAPM, OR (II) THIRTY (30) DAYS AFTER RECEIPT OF WRITTEN NOTICE
+FROM BAPM HEREUNDER. Upon giving of such notice or at any time thereafter, BAPM
+may, at its option, suspend or terminate its obligation to consign or deliver
+Precious Metal hereunder. Termination of this Consignment Facility shall not
+affect the Companies' duty to pay and perform their obligations to BAPM
+hereunder in full.
+
+          (b) Upon termination of this Agreement for any reason the Companies
+shall within twenty-four (24) hours following such effective date of termination
+deliver to BAPM's designated pool account, loco London, Precious Metal equal to
+the amount of Precious Metal theretofore consigned to but not purchased and paid
+for in full by the Companies.
+
+3.   FORWARD CONTRACT FACILITY.
+
+     3.1. Forward Contracts
+
+          (a) The Companies may from time to time buy Precious Metal from BAPM
+pursuant to Forward Contracts in form and substance, and on terms, satisfactory
+to BAPM, so long as the Companies are in compliance with the Agreement, and the
+Forward Contract Indebtedness does not exceed at any time the Forward Contract
+Limit. Unless otherwise agreed by BAPM, no Hybrid Forward Contract shall have a
+maturity in excess of ninety (90) days. The Companies may take delivery of
+Precious Metal which is the subject of a Hybrid Forward Contract in amounts as
+requested by the Companies from time to time. All Floating Forward Contracts
+shall bear interest payable on the first day of each month at a rate per annum
+equal to the Prime Rate minus one and one-half percent (1 1/2%). Interest shall
+be calculated on the basis of a 360-day year counting the actual number of days
+elapsed. Title to such Precious Metal subject to a Forward Contract shall remain
+in BAPM and shall not pass until the payment of all amounts due under the
+Forward Contract.
+
+          (b) The parties hereto hereby further acknowledge that at closing
+hereunder all Forward Contracts outstanding pursuant to the 2001 Consignment
+Agreement shall, without further notice to, or consent of, the Companies,
+constitute Forward Contracts.
+
+     3.2. Grant of Security Interest
+
+     To secure the prompt and punctual payment and performance of the
+Obligations, the Companies hereby grant to BAPM a continuing security interest
+in (a) the Precious Metal from time
+
+
+                                      -16-
+<PAGE>
+to time the subject of a Forward Contract hereunder until such Forward Contract
+is paid in full, whether now existing or hereafter arising, excluding however,
+the Excluded Collateral, and (b) all proceeds and products of the foregoing.
+
+     3.3. Breakage Costs.
+
+     The breakage costs associated with the breakage of a Forward Contract shall
+be determined by, and paid in accordance with, Paragraph 6(e) of the ISDA
+Agreement, provided, however, in no event shall BAPM be required to pay any
+amount to the Companies if an Event of Default has occurred.
+
+     3.4. Termination of Forward Contract Facility
+
+     BAPM may terminate the Forward Contract Facility at any time by sending
+thirty (30) days prior written notice thereof to the Companies. Upon giving of
+such notice or at any time thereafter, BAPM may, at its option, suspend or
+terminate its obligation to enter into Forward Contracts hereunder. ALL SUMS
+OUTSTANDING UNDER SAID FORWARD CONTRACT FACILITY WILL BE DUE AND PAYABLE UPON
+THE EARLIER OF (A) THE OCCURRENCE OF AN EVENT OF DEFAULT AND ACCELERATION OF THE
+OBLIGATIONS BY BAPM, OR (B) THIRTY (30) DAYS AFTER DEMAND BY BAPM HEREUNDER.
+Upon termination of the Forward Contract Facility, BAPM may credit any amounts
+then held by it or the Bank to reduce the amount of such indebtedness.
+Notwithstanding termination, until all indebtedness of the Companies to BAPM
+hereunder has been fully satisfied, BAPM shall retain its security interest
+granted hereunder and, except for those specific covenants and conditions
+dealing with the entering into of Forward Contracts, all terms and conditions of
+this Agreement shall remain in full force and effect.
+
+4.   CONDITIONS.
+
+     4.1. Conditions to BAPM's Obligation to Consign Precious Metal and Enter
+into Forward Contracts pursuant to this Agreement.
+
+          (a) The effectiveness of this Agreement is subject to the following
+conditions precedent:
+
+               (i) The representations and warranties set forth in Paragraph 6
+hereof shall be true and correct on and as of the date hereof and the date each
+consignment or Forward Contract is requested and is to occur.
+
+               (ii) The Companies shall have executed and delivered to BAPM, or
+shall have caused to be executed and delivered to BAPM in form and substance
+acceptable to BAPM, upon the execution of this Agreement, all agreements
+required by BAPM for the purpose of securing payment and performance of
+Companies' obligations under
+
+
+                                      -17-
+<PAGE>
+this Agreement, together with any other documents required by the terms hereof
+or thereof; and all insurance required by the terms hereof, all of which shall
+at all times remain in full force and effect.
+
+               (iii) BAPM shall have received (A) the favorable written opinion
+of counsel for the Companies, dated the date hereof, satisfactory to BAPM and
+its counsel in scope and substance, stating, among other things, that this
+Agreement and all agreements delivered in connection herewith have been duly
+authorized, executed and delivered by the Companies and constitute the valid,
+binding and enforceable obligations of the parties thereto; and (B) such other
+supporting documents and certificates as BAPM or its special counsel may
+request.
+
+               (iv) There shall have been no material adverse change in the
+Companies' financial condition or its financial or business prospects, from
+those represented in any financial statement or other information submitted to
+BAPM or upon which BAPM has relied.
+
+               (v) The Companies shall have supplied BAPM with a certificate
+from an insurance company reasonably satisfactory to BAPM, and a true and
+complete copy of all insurance policies satisfactory to BAPM in all respects and
+which shall include BAPM and Bank as an additional insured and loss payee, as
+their interests may appear.
+
+               (vi) The Intercreditor Agreement shall have been executed and
+delivered by the parties thereto and shall be in form and substance satisfactory
+to BAPM.
+
+               (vii) The Credit Agreement shall have been executed and delivered
+by the parties thereto and shall be in form and substance satisfactory to BAPM.
+
+               (viii) All of the conditions precedent to the initial funding of
+the Credit Agreement shall have been met to the satisfaction of Wachovia Bank,
+National Association, as agent for the Lenders.
+
+               (ix) All legal matters incident to the transactions hereby
+contemplated shall be satisfactory to counsel for BAPM.
+
+               (x) No Event of Default as specified in Paragraph 9.1 hereof, nor
+any event which upon notice or lapse of time or both would constitute such an
+Event of Default, shall have occurred and be continuing
+
+
+                                      -18-
+<PAGE>
+     4.2. Companies' Confirmation.
+
+     The Companies' request to BAPM for the delivery of Precious Metal under the
+Consignment Facility or a Forward Contract under the Forward Contract Facility
+subsequent to the initial effectiveness of this Agreement shall be deemed to be
+a representation and warranty to BAPM that all warranties and representations
+set forth in this Agreement (except those made as of a specific date) shall be
+true and accurate as of the date such delivery of Precious Metal or Forward
+Contract is requested to be made.
+
+5.   SECURITY
+
+     5.1. Security Instruments. The repayment of the Obligations shall be
+secured and/or entitled to the benefits of:
+
+          (a) the Consigned Precious Metal, whether now existing or hereafter
+arising, and all proceeds and products of the foregoing, excluding, however, the
+Excluded Collateral; and
+
+          (b) the Escrow Agreement.
+
+6.   AUTHORIZED REPRESENTATIVES.
+
+     The Companies shall deliver to BAPM a certificate or letter certifying to
+BAPM the name(s) of all Authorized Representatives, in the form attached hereto
+as Exhibit A. BAPM may conclusively rely on such certificate or letter until it
+shall receive a further certificate from the Companies in form acceptable to
+BAPM canceling or amending the prior list of Authorized Representatives. Any
+person identifying himself or herself as an Authorized Representative of the
+Companies shall have the right to effect transactions under this Agreement. BAPM
+shall have no responsibility or obligation to ascertain whether the person is in
+fact the Authorized Representative of the Companies which he or she claims to be
+or is, in fact, authorized to effect the transaction. At its option, BAPM may
+verify any telephonic or telegraphic request for transaction by calling an
+Authorized Representative, and where more than one Authorized Representative is
+so authorized, by calling an Authorized Representative or other individual other
+than the caller or the individual initiating the transaction. The Companies
+authorize BAPM at its option to record electronically all telephonic requests
+for transactions that BAPM may receive from the Companies or any other person
+purporting to act on behalf of the Companies.
+
+7.   REPRESENTATIONS AND WARRANTIES
+
+     As a material inducement to BAPM to deliver Consigned Precious Metal to the
+Companies and to enter into Forward Contracts with the Companies, the Companies
+hereby represent and warrant to BAPM (which representations and warranties shall
+survive the execution of this
+
+
+                                      -19-
+<PAGE>
+Agreement and the delivery of Consigned Precious Metal and the entering into of
+Forward Contracts) that:
+
+     7.1. Corporate Authority Each of the Companies (i) is duly organized,
+validly existing and in good standing under the laws of its state of
+incorporation, (ii) has the requisite corporate power and authority to own its
+properties and to carry on business as now being conducted, and (iii) is
+qualified to do business in every jurisdiction where such qualification is
+necessary, and has the requisite corporate power to execute, deliver and perform
+this Agreement.
+
+     7.2. No Conflict The execution, delivery and performance by the Companies
+of the terms and provisions of this Agreement and any other such security
+document(s) have been duly authorized by all requisite corporate action and will
+not violate any provision of law, any order of any court or other agency of
+government, the articles of incorporation or the by-laws of the Companies or any
+indenture, agreement or other instrument to which any Company is party, or by
+which any Company is bound, or be in conflict with, result in a breach of, or
+constitute (with due notice or lapse of time or both) a default under, or,
+except as may be provided by this Agreement, result in the creation or
+imposition of any lien, charge or encumbrance of any nature whatsoever upon any
+of the property or assets of the Companies pursuant to, any such indenture,
+agreement or other instrument.
+
+     7.3. Financing Statements No financing statement or agreement is on file in
+any public office pertaining to or affecting the Consigned Precious Metal, or
+any collateral for the Obligations, now owned or hereafter acquired, except for
+financing statements in favor of Wachovia Bank, National Association, as agent
+under the Credit Agreement, to secure the "Obligations" under, and defined in,
+the Credit Agreement.
+
+     7.4. Binding Obligations This Agreement and all other agreements securing
+this Agreement have been duly executed and delivered by the Companies and
+constitute legal, valid and binding obligations of the Companies, enforceable in
+accordance with their respective terms, subject to bankruptcy, insolvency,
+reorganization and other similar laws of general application affecting the
+rights of creditors generally.
+
+     7.5. No Event of Default No Event of Default as defined in Paragraph 9.1
+hereof, and no event which, with the passage of time or the giving of notice, or
+both, would become such an Event of Default, has occurred and is continuing.
+
+     7.6. Patriot Act. To the extent applicable, each Company is in compliance,
+in all material respects, with the (i) Trading with the Enemy Act, as amended,
+and each of the foreign assets control regulations of the United States Treasury
+Department (31 CFR, Subtitle B, Chapter V, as amended) and any other enabling
+legislation or executive order relating thereto, and (ii) Uniting and
+Strengthening America by Providing Appropriate Tools Required to Intercept and
+Obstruct Terrorism (USA Patriot Act of 2001). No part of the credit facilities
+extended pursuant hereto will be used, directly or indirectly, for any payments
+to any governmental official or employee, political party, official of a
+political party, candidate for political office, or anyone
+
+
+                                      -20-
+<PAGE>
+else acting in an officially capacity, in order to obtain any improper
+advantage, in violation of the United States Foreign Corrupt Practices Act of
+1977, as amended.
+
+     7.7. Credit Agreement. The Companies reaffirm and restate and incorporate
+herein by reference, as of the date hereof, all of the representations and
+warranties made by Companies in the Credit Agreement, except to the extent
+altered by actions permitted pursuant to the terms thereof or expressly
+contemplated pursuant to the terms hereof or to the extent BAPM has been advised
+in writing of any inaccuracy with respect to such representations or warranties
+and has waived the same in writing.
+
+8.   AFFIRMATIVE AND NEGATIVE COVENANTS
+
+     The Companies covenant and agree that, from the date hereof and until
+payment and performance in full of all Obligations, the Companies shall:
+
+     8.1. Credit Agreement. Observe, maintain and perform all of the covenants
+and agreements set forth in the Credit Agreement, all of which are fully
+incorporated herein, are hereby fully restated, shall be fulfilled by the
+Companies and shall remain in full force and effect.
+
+     8.2. Audits Permit (a) agents or representatives of BAPM to inspect, at
+reasonable hours, the Consigned Precious Metal and the Companies' books and
+records relating to Precious Metal; (b) agents or representatives of BAPM to
+perform at reasonable times, and at any time in the case of an emergency, a
+physical inventory of the Consigned Precious Metal; (c) agents or
+representatives of BAPM to make abstracts or reproductions of the Companies'
+books and records relating to Precious Metal; and (d) BAPM's audit staff to
+conduct an audit when deemed reasonably necessary by BAPM; all such inspections,
+inventories and audits to be at the sole cost and expense of the Companies.
+
+     8.3. Financing Statements Promptly authorize BAPM from time to time to file
+one or more financing statements pursuant to the Uniform Commercial Code in form
+satisfactory to BAPM, and authorize such other instruments in form suitable for
+recording or filing as may be reasonably required by BAPM hereunder.
+
+     8.4. Liens Not create, incur, assume or suffer to exist any mortgage,
+pledge, lien, charge or other encumbrance of any nature whatsoever on (a) any of
+the Consigned Precious Metal, or (b) any products or property now or hereafter
+owned which does or will include Consigned Precious Metal, except for liens in
+favor of Wachovia Bank, National Association, as agent for the benefit of the
+Lenders pursuant to the Credit Agreement.
+
+     8.5. Consigned Precious Metal Not grant any security interest or ownership
+rights to any customer of the Companies with respect to any of the Consigned
+Precious Metal while at the Companies' Premises whether or not such customers
+have prepaid orders for the Consigned Precious Metal or any products or property
+which does or will include the Consigned Precious Metal.
+
+
+                                      -21-
+<PAGE>
+     8.6. Financial Statements Furnish to BAPM:
+
+          (a) Annual Financial Statements. As soon as available and in any event
+within ninety (90) days after the close of each Fiscal Year, a consolidated
+balance sheet of the Consolidated Parties as at the end of such Fiscal Year
+together with related consolidated statements of income, shareholder's equity
+and of cash flows for such Fiscal Year, setting forth in comparative form
+consolidated figures for the preceding Fiscal Year, all in reasonable detail and
+audited by independent certified public accountants of recognized national
+standing and whose opinion shall be to the effect that such consolidated
+financial statements have been prepared in accordance with GAAP and shall not be
+limited as to the scope of the audit or qualified as to the status of the
+Consolidated Parties as a going concern. It is specifically understood and
+agreed that failure of the annual financial statements to be accompanied by an
+opinion of such accountants in form and substance as provided herein shall
+constitute an Event of Default hereunder. The financial statements delivered
+pursuant to this Paragraph will have been prepared in accordance with GAAP and
+will present fairly the consolidated financial condition, results of operations
+and cash flows of the Consolidated Parties as of the date thereof.
+
+          (b) Quarterly Financial Statements. As soon as available and in any
+event within forty-five (45) days after the end of each fiscal quarter (other
+than the fourth fiscal quarter, in which case ninety (90) days after the end
+thereof) of each Fiscal Year of the Consolidated Parties, a consolidated balance
+sheet and statements of income and of cash flows of the Consolidated Parties as
+at the end of such quarterly period together with related consolidated
+statements of retained earnings, shareholder's equity and of cash flows for such
+quarterly period and for the portion of the Fiscal Year ending with such period,
+in each case setting forth in comparative form figures for the corresponding
+period of the preceding Fiscal Year, all in reasonable form and detail
+acceptable to BAPM, and accompanied by a certificate of a senior financial
+officer of Wolverine Tube as being true and correct and as having been prepared
+in accordance with GAAP, subject to changes resulting from audit and normal
+year-end audit adjustments. The financial statements delivered pursuant to this
+Paragraph 8.6(b) will have been prepared in accordance with GAAP and will
+present fairly the consolidated financial condition, results of operations and
+cash flows of the Consolidated Parties as of the date thereof.
+
+          (c) Monthly Financial Statements. As soon as available and in any
+event within thirty (30) days after the end of each month of the Consolidated
+Parties, (i) unaudited consolidated financial statements similar to those
+required by clause (a) above as of the end of such period and for such period
+then ended and for the period from the beginning of the current Fiscal Year to
+the end of such period and (ii) unaudited balance sheets, income statements and
+statements of cash flow by unit, in each case prepared in accordance with GAAP
+(except that such monthly statements need not include footnotes) and certified
+by a senior financial officer of Wolverine Tube.
+
+          (d) Officer's Certificate. At the time of delivery of the financial
+statements provided for in Paragraphs 8.6(a), (b) and (c), a certificate of a
+senior financial officer of Wolverine Tube satisfactory to BAPM to the effect
+that no Event of Default exists, or if any
+
+
+                                      -22-
+<PAGE>
+Event of Default does exist specifying the nature and extent thereof and what
+action the Companies propose to take with respect thereto. In addition, for each
+fiscal quarter, and, if the Fixed Charge Coverage Ratio is required to be
+complied with in accordance with Paragraph 8.9, monthly, such certificate shall
+demonstrate compliance with the financial covenants contained in Paragraphs 8.8,
+8.9, and 8.10 by calculation thereof as of the end of each such fiscal period,
+if applicable, and shall demonstrate the adjustments made to Consolidated Net
+Income pursuant to subparagraph (b) of the definition of Consolidated Net
+Income.
+
+          (e) Auditor's Reports. Promptly upon receipt thereof, a copy of any
+other report or "management letter" submitted by independent accountants to a
+member of the Consolidated Parties in connection with any annual, interim or
+special audit of the books of the Consolidated Parties.
+
+          (f) SEC and Other Reports. Promptly upon transmission or receipt
+thereof, copies of any filings and registrations with, and material reports to
+or from, the Securities and Exchange Commission, or any successor agency, and
+copies of all financial statements, proxy statements, notices and reports as the
+Consolidated Parties shall send to its shareholders or to the holders of any
+other indebtedness in their capacity as such holders.
+
+          (g) Notices. (i) immediately of the occurrence of an event or
+condition consisting of an Event of Default, specifying the nature and existence
+thereof and what action the Companies propose to take with respect thereto, and
+(ii) promptly, but in any event within five (5) Business Days, following the
+occurrence of any of the following with respect to a Company (A) the pendency or
+commencement of any litigation, arbitral or governmental proceeding against such
+Company which, if adversely determined, would have or reasonably be expected to
+have, a material adverse effect, (B) any levy of an attachment, execution or
+other process against the assets of a Company having a value of $1,000,000 or
+more, (C) the occurrence of an event or condition which shall constitute a
+default or event of default under any indebtedness of a member of the
+Consolidated Parties in excess of $1,000,000, (D) any development in the
+business or affairs of any of the Consolidated Parties which has resulted in, or
+which the Companies reasonably believe may result in, a material adverse effect,
+(E) the institution of any proceedings against a Company with respect to, or the
+receipt of notice by such Person of potential liability or responsibility for
+violation, or alleged violation of any federal, foreign, state, provincial or
+local law, rule or regulation, including but not limited to, environmental laws,
+the violation of which would have or be reasonably expected to have a material
+adverse effect, or (F) promptly, of any change in the name of any Company.
+
+          (h) Annual Budget and Projections. Not later than March 31st of each
+Fiscal Year, an annual budget of the Consolidated Parties containing, among
+other things, pro forma financial statements and projected loan usage and Excess
+Availability on a quarterly basis under the Credit Agreement for such Fiscal
+Year and financial and operational projections for such Fiscal Year.
+
+
+                                      -23-
+<PAGE>
+          (i) Borrowing Base Certificate, etc. A borrowing base certificate in
+substantially the form of Exhibit G to the Credit Agreement duly completed and
+certified by a senior financial officer of Wolverine Tube and which shall be
+delivered to BAPM simultaneously with its delivery to the Lenders pursuant to
+Section 7.1(i) of the Credit Agreement.
+
+          (j) Precious Metal Report. Within thirty (30) days of the end of each
+fiscal month, a collateral Precious Metal inventory report, with such detail as
+may reasonably be required by BAPM from time to time and which shall identify
+all Precious Metal by location and which shall identify all liabilities to third
+parties for toll, pool or other third party Precious Metal by location and by
+third party and otherwise to be in form acceptable to BAPM, certified by an
+Authorized Representative of the Companies.
+
+          (k) Other Information. With reasonable promptness upon any such
+request, such other information regarding the business, properties or financial
+condition of the Companies as BAPM may reasonably request.
+
+     8.7. Environmental Matters With respect to environmental matters:
+
+          (a) comply strictly and in all respects with the requirements of all
+federal, state, and local environmental laws; forward to BAPM promptly any
+notices relating to such matters received from any governmental agency of any
+material violation of a federal, state, and local environmental law;
+
+          (b) immediately contain and remove any hazardous or toxic material
+found on the Premises in violation of applicable law, which work must be done in
+compliance with applicable laws and at the Companies' expense; and
+
+          (c) indemnify, defend, and hold BAPM harmless from and against any
+claim, cost, damage (including, without limitation, consequential damages),
+expense (including, without limitation, attorneys' fees and expenses), loss,
+liability, or judgment now or hereafter arising as a result of any claim for
+environmental cleanup costs, any resulting damage to the environment and any
+other environmental claims against the Companies, BAPM, or the Premises. The
+provisions of this subparagraph (c) shall continue in effect and shall survive
+(among other events) any termination of this Agreement, foreclosure, a deed in
+lieu of foreclosure transaction, payment and satisfaction of the Obligations
+evidenced hereby or incurred pursuant hereto, and release of any collateral.
+
+     8.8. Minimum Consolidated EBITDA. Commencing with the fiscal quarter of the
+Consolidated Parties ending April 3, 2005, not permit the Consolidated EBITDA
+for the Consolidated Parties to be less than the following amounts for the
+indicated fiscal quarter, calculated on a rolling four quarter basis:
+
+
+                                      -24-
+<PAGE>
+<TABLE>
+<CAPTION>
+                             Minimum
+                          Consolidated
+     Fiscal Quarter          EBITDA
+     --------------       ------------
+<S>                       <C>
+1st Fiscal Quarter 2005    $33,500,000
+2nd Fiscal Quarter 2005    $27,500,000
+3rd Fiscal Quarter 2005    $30,000,000
+4th Fiscal Quarter 2005    $32,000,000
+1st Fiscal Quarter 2006    $33,500,000
+2nd Fiscal Quarter 2006    $34,500,000
+3rd Fiscal Quarter 2006    $36,000,000
+4th Fiscal Quarter 2006    $37,000,000
+1st Fiscal Quarter 2007    $37,000,000
+2nd Fiscal Quarter 2007    $38,500,000
+3rd Fiscal Quarter 2007    $39,500,000
+4th Fiscal Quarter 2007    $41,000,000
+   and thereafter
+</TABLE>
+
+     8.9. Fixed Charge Coverage Ratio. During the period beginning on the date
+on which the outstanding "Obligations" (under, and defined in, the Credit
+Agreement) equal or exceed Eighteen Million Dollars ($18,000,000) and continuing
+until the termination of this Agreement and repayment in full of the
+Obligations, maintain a Fixed Charge Coverage Ratio of the Consolidated Parties
+of not less than the following amounts as of the last day of each month ended in
+the periods indicated below:
+
+<TABLE>
+<CAPTION>
+                         Period                              Ratio
+                         ------                           -----------
+<S>                                                       <C>
+1st Fiscal Quarter 2005 through 1st Fiscal Quarter 2006   1.00 to 1.0
+2nd Fiscal Quarter 2006 through 3rd Fiscal Quarter 2006   1.05 to 1.0
+4th Fiscal Quarter 2006 through 2nd Fiscal Quarter 2007   1.10 to 1.0
+3rd Fiscal Quarter 2007                                   1.15 to 1.0
+4th Fiscal Quarter 2007 and thereafter                    1.20 to 1.0
+</TABLE>
+
+     8.10. Capital Expenditures. Not permit the Consolidated Capital
+Expenditures of the Consolidated Parties to exceed Fifteen Million Dollars
+($15,000,000) during any Fiscal Year.
+
+     8.11. Insurance. Keep its insurable properties adequately insured at all
+times, by financially sound and reputable insurers, to such extent and against
+such risks, including fire and other risks insured against by extended coverage,
+and maintain liability and such other insurance as is customarily maintained by
+company engaged in similar businesses.
+
+     8.12. Minimum Availability. At all times Excess Availability under the
+Credit Agreement shall be at least Five Million Dollars ($5,000,000).
+
+
+                                      -25-
+<PAGE>
+     8.13. Securitization. Not sell any receivable generated from the sale of
+Consigned Precious Metal pursuant to the Permitted Securitization unless (a)
+BAPM has been granted a first priority security interest in all proceeds of the
+Permitted Securitization arising from the sale of receivables generated by the
+sale of the Consigned Precious Metal, or its products, (b) a lockbox account has
+been established under the control of BAPM in which all proceeds of the
+Permitted Securitization arising from the sale of receivables generated by the
+sale of the Consigned Precious Metal, or its products, shall be deposited; and
+(c) BAPM shall have entered into an Intercreditor Agreement satisfactory to it
+with Wachovia Bank, National Association, as agent for Blue Ridge Asset Funding
+Corporation, and the liquidity banks from time to time parties to the Permitted
+Securitization.
+
+9.   EVENTS OF DEFAULT AND ACCELERATION
+
+     9.1. Events of Default In each case of the occurrence of any one or more of
+the following events (each of which is herein called an "Event of Default"):
+
+          (a) default in the payment or performance of any of the Companies'
+Obligations or agreements hereunder; or
+
+          (b) any representation or warranty made herein or in any certificate,
+statement or agreement furnished in connection with this Agreement shall prove
+to be false or misleading in any material respect; or
+
+          (c) default in the payment or performance of any obligation or
+indebtedness of the Companies to BAPM or the Bank under the Escrow Agreement; or
+
+          (d) default in the payment or performance of any obligation or
+indebtedness of the Companies to BAPM or the Bank or any affiliate of the Bank,
+whether now or hereafter existing and howsoever arising, incurred or evidenced;
+or
+
+          (e) default in the payment or performance of any obligation or
+indebtedness of the Companies under the Credit Agreement or the 2008 Senior
+Notes or the 2009 Senior Notes, whether now or hereafter existing and howsoever
+arising, incurred or evidenced; or
+
+          (f) the occurrence of an Amortization Event (as defined in the
+Permitted Securitization), Termination Event (as defined in the Permitted
+Securitization), event of default or other similar event under the Permitted
+Securitization; or
+
+          (g) any of the Companies shall (i) make a general assignment for the
+benefit of creditors, or (ii) file or suffer the filing of any voluntary or
+involuntary
+
+
+                                      -26-
+<PAGE>
+petition under any chapter of the Bankruptcy Act by or against any of the
+Companies, or (iii) apply for or permit the appointment of a receiver, trustee
+or custodian of any of its property or business; or (iv) become insolvent to
+suffer the entry of an order for relief under Title 11 of the United States
+Code; or (v) make an admission of its general inability to pay its or his debts
+as they become due; or
+
+          (h) the occurrence of any material loss, theft or destruction of or
+damage to any of the Consigned Precious Metal; or
+
+          (i) the occurrence of any attachment on any of the Consigned Precious
+Metal; or
+
+          (j) the determination by BAPM in good faith that any of the Companies
+has suffered a material adverse change in its business or financial condition;
+or
+
+          (k) any direct or indirect change in the majority ownership or control
+of any of the Companies; or
+
+          (l) the occurrence of any material loss, theft or destruction of or
+damage to any of the Consigned Precious Metal which, in BAPM's sole
+determination, is not adequately insured; or
+
+          (m) any of the Companies shall default in the payment (beyond the
+applicable grace period with respect thereto, if any) or performance or
+observance of any indebtedness in excess of $2,500,000 (other than indebtedness
+outstanding under this Agreement or the Credit Agreement or the 2008 Senior
+Notes or the 2009 Senior Notes or the Permitted Securitization), or any other
+event or condition shall occur or condition exist, the effect of which default
+or other event or condition is to cause, or permit, the holder or holders of
+such indebtedness (or trustee or agent on behalf of such holders) to cause
+(determined without regard to whether any notice or lapse of time is required),
+any such indebtedness to become due prior to its stated maturity; or any such
+indebtedness shall be declared due and payable, or required to be prepaid other
+than by a regularly scheduled required prepayment, prior to the stated maturity
+thereof;
+
+          (n) Wachovia Bank, National Association shall deliver an Enforcement
+Notice (under and as defined by the Intercreditor Agreement) to BAPM;
+
+then in any such event, at BAPM's option, (A) the obligations of BAPM hereunder
+shall terminate, (B) the Companies shall promptly return to BAPM all Precious
+Metal theretofore consigned or sold to, but not purchased and paid for by, the
+Companies, and (C) all the Companies' Obligations to BAPM (including, without
+limitation, the Consignment Facility and the Forward Contract Facility) shall
+become and be immediately due and payable without presentment, demand or notice,
+all of
+
+
+                                      -27-
+<PAGE>
+which are hereby expressly waived, notwithstanding any credit or time allowed to
+the Companies or any instrument evidencing any of the Companies' Obligations to
+BAPM. BAPM shall in addition have all of the rights and remedies of a secured
+party under the Uniform Commercial Code with respect to any collateral now or
+hereafter securing the Companies' Obligations hereunder. The Companies shall, at
+BAPM's request, immediately assemble all such collateral and the Consigned
+Precious Metal, and BAPM may go upon the Premises to take immediate possession
+thereof. The Companies shall pay all reasonable legal expenses and attorneys'
+fees incurred by BAPM in enforcing BAPM's rights, powers and remedies under this
+Agreement.
+
+     9.2. Waiver No failure or delay on BAPM's part to exercise or to enforce
+any of BAPM's rights hereunder or under any other instruments or agreement
+evidencing any of the Companies' Obligations to BAPM or to require strict
+compliance with the terms hereof or thereof in any one or more instances and no
+course of conduct on BAPM's part shall constitute or be deemed to constitute a
+waiver or relinquishment of any such rights hereunder unless it shall have
+signed a waiver thereof in writing and no such waiver, unless expressly stated
+therein, shall be effective as to any transaction which occurs after the date of
+such waiver or as to any continuance of a breach after such waiver. BAPM's
+rights hereunder shall continue unimpaired notwithstanding any extension of
+time, compromise or other indulgence granted by BAPM to the Companies with
+respect to any of the Companies' Obligations to BAPM or any instrument given
+BAPM in connection therewith, and the Companies hereby waive notice of any such
+extension, compromise or other indulgence and consent to be bound thereby as if
+it had expressly agreed thereto in advance.
+
+10.  NO ASSIGNMENT
+
+     The rights of the Companies under this Agreement may not be assigned to any
+third party without the prior written consent of BAPM. All covenants and
+agreements of the Companies contained herein shall bind the Companies and their
+successors and assigns, and shall inure to the benefit of BAPM, its successors
+and assigns.
+
+11.  EXPENSES
+
+     The Companies shall pay on demand all expenses of BAPM in connection with
+the preparation and closing of this Consignment Agreement, and the preparation,
+administration, default, collection, waiver or amendment of terms hereof, or in
+connection with BAPM's exercise, preservation or enforcement of any of its
+rights, remedies or options hereunder, including, without limitation, fees of
+outside legal counsel or the allocated costs of in-house legal counsel,
+accounting, consulting, brokerage or other costs relating to any appraisals or
+examinations conducted in connection with the Consignment or any collateral
+therefor, and the amount of all such expenses shall, until paid, bear interest
+at the rate applicable to principal hereunder (including any default rate) and
+be an obligation secured by any collateral.
+
+12.  GOVERNING LAW; MISCELLANEOUS
+
+
+                                      -28-
+<PAGE>
+     12.1. Controlling Law. This Agreement shall be governed by and shall be
+construed under the laws of the State of Rhode Island (excluding the laws
+applicable to conflicts or choice of law). Any provision of this Agreement which
+is prohibited or unenforceable in any jurisdiction shall, as to such
+jurisdiction, be ineffective to the extent of such prohibition or
+unenforceability without invalidating the remaining provisions hereof or
+affecting the validity or enforceability of such provision in any other
+jurisdiction.
+
+     12.2. JURISDICTION. THE COMPANIES AGREE THAT ANY SUIT FOR THE ENFORCEMENT
+OF THIS CONSIGNMENT AGREEMENT OR ANY OF THE OTHER DOCUMENTS MAY BE BROUGHT IN
+THE COURTS OF THE STATE OF RHODE ISLAND OR ANY FEDERAL COURT SITTING THEREIN AND
+CONSENT TO THE NONEXCLUSIVE JURISDICTION OF SUCH COURT AND SERVICE OF PROCESS IN
+ANY SUCH SUIT BEING MADE UPON COMPANIES BY MAIL AT THE ADDRESS SET FORTH IN THIS
+CONSIGNMENT AGREEMENT. THE COMPANIES HEREBY WAIVE ANY OBJECTION THAT THEY MAY
+NOW OR HEREAFTER HAVE TO THE VENUE OF ANY SUCH SUIT OR ANY SUCH COURT OR THAT
+SUCH SUIT IS BROUGHT IN AN INCONVENIENT FORUM. THE COMPANIES AND BAPM MUTUALLY
+HEREBY KNOWINGLY, VOLUNTARILY AND INTENTIONALLY WAIVE THE RIGHT TO A TRIAL BY
+JURY IN RESPECT OF ANY CLAIM BASED HEREON, ARISING OUT OF, UNDER OR IN
+CONNECTION WITH THIS CONSIGNMENT AGREEMENT OR ANY OTHER CONSIGNMENT DOCUMENTS
+CONTEMPLATED TO BE EXECUTED IN CONNECTION HEREWITH OR ANY COURSE OF CONDUCT,
+COURSE OF DEALINGS, STATEMENTS (WHETHER VERBAL OR WRITTEN ) OR ACTIONS OF ANY
+PARTY, INCLUDING, WITHOUT LIMITATION, ANY COURSE OF CONDUCT, COURSE OF DEALINGS,
+STATEMENTS OR ACTIONS OF BAPM RELATING TO THE ADMINISTRATION OF THE CONSIGNMENT
+FACILITY, THE FORWARD CONTRACT FACILITY OR ENFORCEMENT OF THE CONSIGNMENT
+DOCUMENTS, AND AGREE THAT NEITHER PARTY WILL SEEK TO CONSOLIDATE ANY SUCH ACTION
+WITH ANY OTHER ACTION IN WHICH A JURY TRIAL CANNOT BE OR HAS NOT BEEN WAIVED.
+EXCEPT AS PROHIBITED BY LAW, THE COMPANIES HEREBY WAIVE ANY RIGHT THEY MAY HAVE
+TO CLAIM OR RECOVER IN ANY LITIGATION ANY SPECIAL, EXEMPLARY, PUNITIVE OR
+CONSEQUENTIAL DAMAGES OR ANY DAMAGES OTHER THAN, OR IN ADDITION TO, ACTUAL
+DAMAGES. THE COMPANIES CERTIFY THAT NO REPRESENTATIVE, BAPM OR ATTORNEY OF BAPM
+HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT BAPM WOULD NOT, IN THE EVENT OF
+LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER. THIS WAIVER CONSTITUTES A
+MATERIAL INDUCEMENT FOR BAPM TO ACCEPT THIS CONSIGNMENT AGREEMENT AND EXTEND THE
+CONSIGNMENT FACILITY AND THE FORWARD CONTRACTS FACILITY.
+
+     12.3. Survival of Covenants. This Agreement and all covenants, agreements,
+representations and warranties made herein and in the certificates delivered
+pursuant hereto, shall survive the consigning of Precious Metal by BAPM to the
+Companies, the entering into of Forward Contracts, the execution and delivery to
+BAPM of this Agreement, and shall continue in full force
+
+
+                                      -29-
+<PAGE>
+and effect so long as any of the Obligations is outstanding and unpaid. Whenever
+in this Agreement any of the parties hereto is referred to, such reference shall
+be deemed to include the successors and assign of such party; and all covenants,
+promises and agreements contained in this Agreement by or on behalf of the
+Companies shall inure to the benefit of the successors and assigns of BAPM.
+
+     12.4. Late Fee If the entire amount of a required principal and/or interest
+payment under the Consignment Facility or the Forward Contract Facility is not
+paid in full within ten (10) business days after the same is due, the Companies
+shall pay to BAPM a late fee equal to five percent (5%) of the required payment.
+
+     12.5. Default Interest Rate. The Companies hereby agree to pay upon demand,
+to the extent permitted by law, late charges on any sum or amount not paid when
+due under the Consignment Facility or the Forward Contract Facility at a rate
+per annum equal to the Prime Rate plus four percent (4%), from the date of
+delinquency until payment in full. Interest shall be calculated on the basis of
+a 360-day year counting the actual number of days elapsed.
+
+     12.6. Set Off. The Companies hereby grant to BAPM, a continuing lien,
+security interest and right of setoff as security for all liabilities and
+obligations to BAPM, whether now existing or hereafter arising, upon and against
+all deposits, credits, collateral and property, now or hereafter in the
+possession, custody, safekeeping or control of BAPM or any entity under the
+control of Bank of America, N.A. and its successors and assigns or in transit to
+any of them. At any time, without demand or notice (any such notice being
+expressly waived by the Companies), BAPM may setoff the same or any part thereof
+and apply the same to any liability or obligation of the Companies even though
+unmatured and regardless of the adequacy of any other collateral securing the
+Obligations. ANY AND ALL RIGHTS TO REQUIRE BAPM, TO EXERCISE ITS RIGHTS OR
+REMEDIES WITH RESPECT TO ANY OTHER COLLATERAL WHICH SECURES THE THESE CREDIT
+FACILITIES, PRIOR TO EXERCISING ITS RIGHT OF SETOFF WITH RESPECT TO SUCH
+DEPOSITS, CREDITS OR OTHER PROPERTY OF THE COMPANIES, ARE HEREBY KNOWINGLY,
+VOLUNTARILY AND IRREVOCABLY WAIVED.
+
+     12.7. Assignments by BAPM. BAPM shall have the unrestricted right at any
+time or from time to time, and without the Companies' consent, to assign all or
+any portion of its rights and obligations hereunder to one or more banks or
+other financial institutions (each, an "Assignee"), and the Companies agree that
+they shall execute, or cause to be executed, such documents, including without
+limitations, amendments to this Agreement and to any other documents,
+instruments and agreements executed in connection herewith as BAPM shall deem
+necessary to effect the foregoing. In addition, at the request of BAPM and any
+such Assignee, the Companies shall enter into one or more new Consignment
+Agreements, as applicable, with any such Assignee and, if BAPM has retained any
+of its rights and obligations hereunder following such assignment, to BAPM,
+which new Consignment Agreement shall be issued in replacement of, but not in
+discharge of, the liability evidenced by the Consignment Agreement entered into
+by BAPM prior to such assignment and shall reflect the amount of the respective
+commitments and outstandings held by such Assignee and BAPM after giving effect
+to such
+
+
+                                      -30-
+<PAGE>
+assignment. Upon the execution and delivery of appropriate assignment
+documentation, amendments and any other documentation required by BAPM in
+connection with such assignment, and the payment by Assignee of the purchase
+price agreed to by BAPM, and such Assignee, such Assignee shall be a party to
+this Agreement and shall have all of the rights and obligations of BAPM
+hereunder (and under any and all other guaranties, documents, instruments and
+agreements executed in connection herewith) to the extent that such rights and
+obligations have been assigned by BAPM pursuant to the assignment documentation
+between BAPM and such Assignee, and BAPM shall be released from its obligations
+hereunder and thereunder to a corresponding extent. BAPM may furnish any
+information concerning the Companies in its possession from time to time to
+prospective Assignee, provided that BAPM shall require any such prospective
+Assignee to agree in writing to maintain the confidentiality of such
+information.
+
+     12.8. Participations. BAPM shall have the unrestricted right at any time
+and from time to time, and without the consent of or notice to the Companies to
+grant to one or more banks or other financial institutions (each, a
+"Participant") participating interests in BAPM's obligation to consign Precious
+Metal hereunder. In the event of any such grant by BAPM of a participating
+interest to a Participant, whether or not upon notice to the Companies, BAPM
+shall remain responsible for the performance of its obligations hereunder and
+the Companies shall continue to deal solely and directly with BAPM in connection
+with BAPM's rights and obligations hereunder. BAPM may furnish any information
+concerning the Companies in its possession from time to time to prospective
+Participants, provided that BAPM shall require any such prospective Participant
+to agree in writing to maintain the confidentiality of such information.
+
+     12.9. Maximum Interest. All agreements between the Companies and BAPM are
+hereby expressly limited so that in no contingency or event whatsoever, whether
+by reason of acceleration of maturity of the indebtedness evidenced hereby or
+otherwise, shall the amount paid or agreed to be paid to BAPM for the use or the
+forbearance of the indebtedness evidenced hereby exceed the maximum permissible
+under applicable law. As used herein, the term "applicable law" shall mean the
+law in effect as of the date hereof; provided, however, that in the event there
+is a change in the law which results in a higher permissible rate of interest,
+then this Consignment Agreement shall be governed by such new law as of its
+effective date. In this regard, it is expressly agreed that it is the intent of
+the Companies and BAPM in the execution, delivery and acceptance of this
+Consignment Agreement to contract in strict compliance with the laws of the
+State of Rhode Island from time to time in effect. If, under or from any
+circumstances whatsoever, fulfillment of any provision hereof or at the time of
+performance of such provision shall be due, shall involve transcending the limit
+of such validity prescribed by applicable law, then the obligation to be
+fulfilled shall automatically be reduced to the limits of such validity, and if
+under or from circumstances whatsoever BAPM should ever receive as interest an
+amount which would exceed the highest lawful rate, such amount which would be
+excessive interest shall be applied to the reduction of the principal balance
+evidenced hereby and not to the payment of interest. This provision shall
+control every other provision of all agreements between the Companies and BAPM.
+
+
+                                      -31-
+<PAGE>
+     12.10. Loss of Agreement. Upon receipt of an affidavit of an officer of
+BAPM as to the loss, theft, destruction or mutilation of any security document
+which is not of public record, and, in the case of any such loss, theft,
+destruction or mutilation, the Companies will issue, in lieu thereof, a
+replacement security document of like tenor.
+
+     12.11. Pledge to Federal Reserve. BAPM may at any time pledge all or any
+portion of its rights under this Agreement to any of the twelve (12) Federal
+Reserve Banks organized under Section 4 of the Federal Reserve Act, 12 U.S.C
+Section 341. No such pledge or enforcement thereof shall release BAPM from its
+obligations hereunder.
+
+     12.12. Notices. All notices and other communications hereunder shall be in
+writing, except as otherwise provided in this Agreement; and shall be sent by
+any one of the following: certified mail, return receipt requested; overnight
+courier; confirmed telecopier: or by hand and shall addressed (i) if to the
+Companies, to them at the Companies' Address, and (ii) if to BAPM, to it at
+BAPM's Address. Notices shall be deemed effective three (3) days after deposit
+in the mail, if sent by certified mail; the next Business Day, if sent by
+overnight courier; upon confirmation, if sent by confirmed telecopier; and upon
+delivery, if sent by hand. The address of any party hereto for such demands,
+notices and other communications may be changed by giving notice in writing at
+any time to the other party hereto.
+
+     12.13. Waivers. No modification or waiver of any provision of this
+Agreement, nor consent to any departure by the Companies therefrom, shall in any
+event be effective unless the same shall be in writing, and then such waiver or
+consent shall be effective only in the specific instance, and for the purpose,
+for which given. No notice to, or demand, on the Companies, in any case, shall
+entitle the Companies to any other or future notice or demand in the same,
+similar or other circumstances.
+
+     12.14. Delay in Enforcement. Neither any failure or any delay on the part
+of BAPM in exercising any right, power or privilege hereunder or under any other
+instrument given as security therefor, shall operate as a waiver thereof, nor
+shall a single or partial exercise thereof preclude any other or future
+exercise, or the exercise of any right, power or privilege.
+
+     12.15. Final Agreement. This Consignment Agreement is intended by the
+parties as the final, complete and exclusive statement of the transactions
+evidenced by this Consignment Agreement. All prior or contemporaneous promises,
+agreements sand understandings, whether oral or written, are deemed to be
+superseded by this Consignment Agreement, and no party is relying on any
+promise, agreement or understanding not set forth in this Consignment Agreement.
+This Consignment Agreement may not be amended or modified except by a written
+instrument describing such amendment or modification executed by the Companies
+and BAPM.
+
+                       *THE NEXT PAGE IS A SIGNATURE PAGE*
+
+
+                                      -32-
+<PAGE>
+     IN WITNESS WHEREOF, the parties have executed this Amended and Restated
+Consignment Agreement as of the day and year first above written.
+
+WITNESS:                                WOLVERINE TUBE INC.
+
+
+                                        By:
+-------------------------------------       ------------------------------------
+                                        Title:
+
+
+                                        WOLVERINE JOINING TECHNOLOGIES, LLC
+
+
+                                        By:
+-------------------------------------       ------------------------------------
+                                        Title:
+
+
+                                        FLEET PRECIOUS METALS INC.
+
+
+                                        By:
+                                            ------------------------------------
+                                        Title:
+
+
+                                      -33-
+<PAGE>
+     IN WITNESS WHEREOF, the parties have executed this Amended and Restated
+Consignment Agreement as of the day and year first above written.
+
+WITNESS:                                WOLVERINE TUBE INC.
+
+
+ Mary Ann Michetti                      By: /s/ Thomas B. Sabol
+-------------------------------------       ------------------------------------
+                                        Title: Senior Vice President, CFO and
+                                               Secretary
+
+
+                                        WOLVERINE JOINING TECHNOLOGIES, LLC
+
+
+ Mary Ann Michetti                      By: /s/ Thomas B. Sabol
+-------------------------------------       ------------------------------------
+                                        Title: Vice President & Teasurer
+
+
+                                        FLEET PRECIOUS METALS INC.
+
+
+                                        By: /s/ David Vega
+                                            ------------------------------------
+                                        Title : Senior Vice President
+<PAGE>
+                                  EXHIBIT INDEX
+
+<TABLE>
+<S>         <C>
+Exhibit A   Authorized Representatives Letter
+
+Exhibit B   Change in Consignment Limit
+
+Exhibit C   Change in Consignment Rate
+
+Exhibit D   Reconciliation of Consolidated Net Income
+
+Exhibit E   Approved Locations
+</TABLE>
+<PAGE>
+                                    EXHIBIT A
+
+                     (TO BE TYPED ON COMPANIES' LETTERHEAD)
+
+                                                              ____________, 2005
+
+To: Fleet Precious Metals Inc.
+    111 Westminster Street
+    Providence, Rhode Island 02903
+
+Dear Sir or Madam:
+
+          In accordance with that certain Amended and Restated Consignment
+Agreement dated the date hereof (the "Consignment Agreement") by and between the
+undersigned and Fleet Precious Metals Inc. ("BAPM"), the undersigned hereby
+designate the following persons as Authorized Representatives who are authorized
+by and on behalf of the undersigned (a) to transact consignment and purchase and
+sale transactions with BAPM under the Consignment Facility; (b) to request that
+a consignment under the Consignment Facility be continued as such or converted
+to a consignment of another Type; (c) to enter into Forward Contracts with BAPM
+under the Forward Contract Facility; and (d) and generally to bind the
+undersigned in any and all transactions by and between BAPM or the Bank and the
+undersigned under the Consignment Agreement:
+
+<TABLE>
+<S>                                     <C>
+Name                                    Title
+----                                    -----
+
+</TABLE>
+
+Each of BAPM and the Bank is hereby authorized to rely on this authorization
+until BAPM and the Bank receive further written notice canceling or amending the
+foregoing. All capitalized terms used herein without definition shall have the
+meanings assigned by the Consignment Agreement.
+
+                                        Very truly yours,
+                                        WOLVERINE TUBE, INC.
+                                        WOLVERINE JOINING TECHNOLOGIES, LLC
+
+
+                                        By:
+                                            ------------------------------------
+                                        Title:
+                                               ---------------------------------
+<PAGE>
+                                    EXHIBIT B
+
+                                                            ______________, 200_
+
+Wolverine Tube, Inc.
+Wolverine Joining Technologies, LLC
+235 Kilvert Street
+Warwick, Rhode Island 02886
+
+Ladies and Gentlemen:
+
+     Upon your acceptance of the terms of this letter agreement as evidenced by
+your execution and delivery to FLEET PRECIOUS METALS INC. ("BAPM") on or before
+______________, 200_, of a copy of this letter, WOLVERINE TUBE, INC., and
+WOLVERINE JOINING TECHNOLOGIES, LLC (together, the "Companies"), and BAPM agree
+effective _________________, 200_, to amend the definition of the Consignment
+Limit contained in Paragraph 1.13 of that certain Amended and Restated
+Consignment Agreement dated ________ _____, 2005, as the same may have been
+heretofore amended (the "Consignment Agreement"), by and between BAPM and the
+Companies to read as follows:
+
+     "1.13. "Consignment Limit" means:
+
+          (a)  the lesser of (i) ___________________________________ Dollars
+               ($__________________), or (ii) the value (as determined pursuant
+               to Paragraph 2.2 hereof) of ___________________________
+               (_________) fine troy ounces of silver, minus, in the case of
+               both (i) and (ii), the Forward Contract Indebtedness; and
+
+          (b)  such limit as BAPM and the Companies may agree upon from time to
+               time as evidenced by an amendment in substantially the form of
+               Exhibit B attached hereto and made a part hereof or in such other
+               form as BAPM shall require; or
+
+          (c)  such other limit as BAPM may approve in its sole discretion."
+<PAGE>
+     Except as amended hereby, the Consignment Agreement and all agreements
+securing the Consignment Agreement shall remain in full force and effect and are
+in all respect hereby ratified and affirmed.
+
+                                        Very truly yours,
+                                        FLEET PRECIOUS METALS INC.
+
+
+                                        By:
+                                            ------------------------------------
+                                        Title:
+                                               ---------------------------------
+
+Accepted and agreed as of the
+____ day of ___________, 200_.
+
+WOLVERINE JOINING TECHNOLOGIES, LLC
+
+
+By:
+    ---------------------------------
+Title:
+       ------------------------------
+
+
+WOLVERINE TUBE, INC.
+
+
+By:
+    ---------------------------------
+Title:
+       ------------------------------
+
+
+                                      -2-
+<PAGE>
+                                    EXHIBIT C
+
+                                                            ______________, 200_
+
+Wolverine Tube, Inc.
+Wolverine Joining Technologies, LLC
+235 Kilvert Street
+Warwick, Rhode Island 02886
+
+Ladies and Gentlemen:
+
+     Pursuant to Paragraph 2.3(c) of that certain Amended and Restated
+Consignment Agreement dated ___________________, 2005, as the same may have been
+heretofore amended (the "Consignment Agreement") by and between WOLVERINE TUBE,
+INC., and WOLVERINE JOINING TECHNOLOGIES, LLC (together, the "Companies") and
+the undersigned, the undersigned FLEET PRECIOUS METALS INC. hereby gives notice
+to the Companies that, effective ___________________, 200__ the consignment rate
+for silver set forth in said Paragraph 2.3(c) shall be changed from
+______________ percent (________%) per annum to ______________ percent
+(________%) per annum.
+
+     Except as amended hereby, the Consignment Agreement shall remain in full
+force and effect.
+
+                                        Very truly yours,
+
+                                        FLEET PRECIOUS METALS INC.
+
+
+                                        By:
+                                            ------------------------------------
+                                        Title:
+                                               ---------------------------------
+<PAGE>
+                                    EXHIBIT D
+
+                    RECONCILIATION OF CONSOLIDATED NET INCOME
+<PAGE>
+                                    EXHIBIT E
+
+                               APPROVED LOCATIONS
+
+                        (to be agreed upon post closing)
+</TEXT>
+</DOCUMENT>

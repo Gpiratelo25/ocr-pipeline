@@ -1,0 +1,308 @@
+<DOCUMENT>
+<TYPE>EX-10.50
+<SEQUENCE>8
+<FILENAME>c61163ex10-50.txt
+<DESCRIPTION>4TH AMENDMENT TO THE MASTER AFFILIATION AGREEMENT
+<TEXT>
+
+<PAGE>   1
+                                                                   EXHIBIT 10.50
+
+
+NOTE: INFORMATION IN THIS DOCUMENT MARKED WITH AN "[*]" HAS BEEN OMITTED AND
+FILED SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED
+WITH RESPECT TO THE OMITTED PORTIONS.
+
+
+                FOURTH AMENDMENT TO MASTER AFFILIATION AGREEMENT
+
+This Fourth Amendment (the "Fourth Amendment ") to the Master Affiliation
+Agreement dated as of December 22, 1998, as amended in the First Amendment dated
+March 8 1999, the Second Amendment dated June 28, 1999 and the Third Amendment
+dated July 24, 2000 (the "Master Agreement"), by and between Wink
+Communications, Inc., a California corporation ("Wink"), whose address is 1001
+Marina Village Parkway, Alameda, California 94501 and DIRECTV, Inc., a
+California corporation, whose address is 2230 East Imperial Highway, El Segundo,
+California 90245 ("DIRECTV") is made as of this 11th day of September, 2000.
+
+NOW, THEREFORE, for good and valuable consideration, the receipt and adequacy of
+which is hereby acknowledged, the Parties hereby amend the Master Agreement as
+follows:
+
+          A.   Section 3.12 of the Master Agreement is hereby amended and
+               restated in its entirety as follows:
+
+               "Customer service for the Wink Service shall be undertaken in
+               accordance with the provisions of Exhibit R, throughout the
+               period of time indicated in such Exhibit R."
+
+          B.   The attached Exhibit R is hereby added as part of the Master
+               Agreement:
+
+               "Exhibit R            Wink Customer Care Provisions"
+
+In, the event of any inconsistency between the Fourth Amendment and the Master
+Agreement or any other agreement between the parties, the Fourth Amendment shall
+be deemed controlling. In all other respects, the Master Agreement shall
+continue in full force and effect.
+
+IN WITNESS WHEREOF, the parties have caused this Fourth Amendment to be executed
+by their duly authorized officers and representatives as of the day and year
+first written above.
+
+WINK COMMUNICATIONS, INC.                    DIRECTV, INC.
+
+
+By:  /s/ Allan Thygesen                      By: /s/ Bradley Beale
+   --------------------------                   ---------------------------
+
+Name:  Allan Thygesen                        Name:  Bradley Beale
+     ------------------------                     -------------------------
+
+Title: EVP                                   Title: SVP
+      -----------------------                      ------------------------
+
+
+<PAGE>   2
+                                   EXHIBIT R
+
+                        Wink Customer Service Provisions
+
+This document, effective as of September 11, 2000 (the "Start Date"), sets forth
+the parties' respective rights and obligations, throughout the term set forth
+below with respect to the provision of customer care to Wink-enabled DIRECTV
+System Subscribers.
+
+1.   Authorization
+
+     1.1  DIRECTV reserves the right to authorize third parties including, but
+          not limited to, the NRTC and telecommunications companies, to perform
+          or cause to be performed, some or all of the customer service related
+          to the Wink-enabled DIRECTV System.
+
+     1.2  DIRECTV will provide to Wink via FTP or a similar data transfer
+          mechanism, a daily file of customer information for newly activated
+          Wink-enabled DIRECTV System Subscribers, as well as updated
+          information for modified Wink-enabled DIRECTV System Subscriber
+          accounts including such information as access card number and customer
+          identification, including customer name, address, phone number and
+          account number.
+
+     1.3  DIRECTV will follow its standard practices and policies for
+          disconnection of Wink enabled DIRECTV System Subscribers.
+
+2.   Customer Service
+
+     2.1  DIRECTV will use its existing vendor call processing facilities (and,
+          if applicable, call processing facilities of third parties providing
+          customer service to answer Wink Programming questions for Wink-enabled
+          DIRECTV System Subscribers. Responses to these calls will be
+          front-ended by an interactive voice response (IVR) system and handled
+          by one or more "Agent Specialty Groups" within the call processing
+          facilities who are trained to handle calls related to the Wink
+          Programming. Calls for the Wink Programming shall be handled in a
+          scripted or bullet-point driven approach.
+
+     2.2  The Agent Specialty Group hours of operation will mirror DIRECTV's
+          then-current call center hours of operation; provided that, if such
+          Group's hours of operations are different from DIRECTV's, such Group's
+          hours of operation shall be deemed sufficient hereunder. DIRECTV call
+          center hours of operation as of the Start Date are twenty-four (24)
+          hours per day, seven days per week.
+
+     2.3  Agents may handle calls relating to DIRECTV Systems and/or
+          Wink-enabled DIRECTV Systems; provided that the Agent Specialty Group
+          shall transition to handling only Wink-enabled DIRECTV System
+          Subscriber calls, at the discretion of DIRECTV and Wink. Staffing
+          shall be increased to meet demand at the discretion of DIRECTV.
+
+     2.4  DIRECTV will manage the day to day Agent Specialty Group operations.
+
+     2.5  Wink shall provide support for the Agent Specialty Group to assist
+          with unresolved customer issues arising out of the Wink Programming.
+
+
+<PAGE>   3
+     2.6  Agent Specialty Group training materials relating to the Wink-enabled
+          DIRECTV System will be jointly developed by DIRECTV, Wink and the
+          applicable DIRECTV vendor(s). The applicable DIRECTV vendor(s) will
+          undertake initial and on-going Agent Specialty Group training.
+
+     2.7  Notwithstanding the foregoing, DIRECTV reserves the right to authorize
+          third parties to perform or cause to be performed, some or all the
+          customer service operations for the Wink-enabled DIRECTV System,
+          provided such third parties regularly undertake customer service
+          operations for certain DIRECTV Service customers.
+
+     2.8  Initially, a multi-queued Agent group will be used to handle Wink
+          related calls.
+
+     2.9  Each Wink affiliated merchant will support customer call referrals
+          from the Specialty Group Agent.
+
+3.   Wink Subscriber Maintenance System
+
+     3.1  Wink will be responsible for maintaining the Wink Subscriber
+          Maintenance System.
+
+     3.2  The Wink Subscriber Maintenance System will be deployed by Wink at the
+          DIRECTV vendor call site or at such additional sites designated by
+          DIRECTV when third parties perform some or all of the customer service
+          related to the Wink-enabled DIRECTV System.
+
+     3.3  Wink will provide DIRECTV and the DIRECTV vendor with the Wink
+          Subscriber Maintenance System Specifications.
+
+     3.4  Wink will customize and modify the Wink Subscriber Maintenance System
+          as requested by DIRECTV, to accommodate the DIRECTV/Wink interactive
+          business.
+
+     3.5  Wink will provide DIRECTV with a twenty-four hours per day, seven days
+          per week contact to support the Wink Subscriber Maintenance System.
+
+4.   IVR System
+
+     4.1  DIRECTV may modify its existing IVR programs to accommodate call
+          handling related to the Wink-enabled DIRECTV System.
+
+     4.2  Customers choosing to be assisted with their Wink-enabled DIRECTV
+          System may be routed to IVR messaging specifically developed for Wink.
+
+
+5.   DIRECTV Online Reference and Information System
+
+     5.1  DIRECTV will modify its existing customer service agent scripted help
+          system (DIRECTV Online Reference and Information System, "DORIS") to
+          accommodate call handling procedures specifically related to the
+          Wink-enabled DIRECTV System. The DORIS agent help information created
+          to support calls related to the Wink enabled DIRECTV System will be
+          jointly developed by DIRECTV and Wink. Updates to DORIS, including
+          updates to reflect such jointly developed information, will be
+          implemented by DIRECTV.
+
+
+<PAGE>   4
+6.   Telemarketing System
+
+     6.1  DIRECTV will modify its existing telemarketing system that provides
+          call scripting, call typing and call disposition information (the
+          "Telemarketing Systems") to accommodate call handling procedures
+          specifically related to the Wink-enabled DIRECTV System.
+
+     6.2  The Telemarketing System will be used for call type/disposition
+          tracking and particular scripting. The Telemarketing System will be
+          maintained by DIRECTV.
+
+     6.3  Telemarketing System scripting for the Wink-enabled DIRECTV System and
+          Wink Programming will be jointly developed by Wink and DIRECTV.
+
+     6.4  On-going modifications to the Telemarketing System will be implemented
+          by DIRECTV.
+
+7.   Agent Specialty Group
+
+     7.1  DIRECTV will apply, or will cause to be applied, its then-current
+          customer service quality assurance processes for DIRECTV to the
+          activities undertaken by the Agent Specialty Group. In the case of
+          authorized third party providers, DIRECTV will use best commercial
+          efforts to cause such third party providers to apply customer service
+          quality assurance processes at least equivalent to DIRECTV's
+          then-current processes.
+
+     7.2  DIRECTV will apply, or will cause to be applied, its then-current
+          customer service performance standards for DIRECTV Services to the
+          activities of the Agent Specialty Group. DIRECTV will provide Wink
+          with a current version of such performance standards, as amended from
+          time to time. In the case of authorized third party providers DIRECTV
+          will use best commercial efforts to cause such third party providers
+          to apply customer service performance standards at least equivalent to
+          DIRECTV's then-current standards.
+
+     7.3  DIRECTV, Wink and the DIRECTV vendor(s) will jointly develop and
+          implement site acceptance testing.
+
+     7.4  Notwithstanding the foregoing, in no event shall DIRECTV be liable to
+          Wink for any failure by the Agent Specialty Group (or authorized third
+          party provider, as applicable) to meet any performance standard,
+          whether equivalent to the performance standards specified above or
+          otherwise, provided that DIRECTV has attempted in good faith to apply
+          or cause to be applied its existing quality assurance processes and
+          performance standards to the Agent Specialty Group, or, in the case of
+          an authorized third party provider, provided DIRECTV has made best
+          commercial efforts to cause such third party provider to apply such
+          processes and standards.
+
+8.   Reporting
+
+     8.1  Daily and monthly Agent Specialty Group reporting will be provided to
+          Wink. Reporting will include:
+
+          -  Service Level
+          -  Daily Call Volume
+          -  Agent Call Handle Time
+
+<PAGE>   5
+          -  Average Call Hold Time
+          -  Longest Call Waiting
+          -  Occupancy
+          -  Staffing and Attendance
+
+     8.2  The timing and format of report delivery will mirror standard DIRECTV
+          reporting processes. The reports will be delivered to Wink via file
+          transfer or other suitable data transfer mechanism.
+
+9.   Fees
+
+     9.1  In consideration for delivery of the services described in this
+          document, Wink shall pay to DIRECTV, the following fees:
+
+<TABLE>
+<CAPTION>
+-------------------------------------------------------------------------------------------
+              FUNCTION                                        COSTS
+-------------------------------------------------------------------------------------------
+<S>                                         <C>
+Agent Specialty Group Start-Up
+-  Project Management
+-  IVR Development and Implementation
+-  Development of Training Materials        [*] - to be billed upon the earlier of (i)
+-  Initial Training                         completion of initial download to all TCE 4.6
+-  System Programming and Deployment        DIRECTV System Receivers in the Territory
+                                            and (ii) October 15, 2000
+
+   Agent Per Hour                           [*] per minute
+-------------------------------------------------------------------------------------------
+   Interactive Voice Response ("IVR")       [*] per minute
+-------------------------------------------------------------------------------------------
+</TABLE>
+
+
+     9.2  DIRECTV will bill Wink on an IVR use per minute and agent per minute
+          call handle time rate. If a third party performs customer service
+          under the terms of this Exhibit R, Wink shall pay directly to DIRECTV
+          the fees set forth in this Section 9 for such service.
+
+     9.3  Effective January 1, 200 1, and each year thereafter for the term
+          applicable to this Exhibit R, the then current agent per minute rate
+          shall be increased by a percentage equal to the percentage increase in
+          the hourly inbound rate paid by DIRECTV to its customer service
+          vendor(s), which reflects an adjustment for inflation.
+
+     9.4  DIRECTV shall invoice Wink for services provided under this document
+          on a monthly basis. Payment from Wink shall be due within thirty (30)
+          days of receipt of each such invoice.
+
+10.  Other
+
+     10.1 Except as expressly provided, all terms and provisions of the Master
+          Agreement shall apply to this document, which is incorporated and made
+          part of the Master Agreement.
+
+[*] Certain information on this page has been omitted and filed separately with
+the Commission. Confidential treatment has been requested with respect to the
+omitted portions.
+
+
+
+</TEXT>
+</DOCUMENT>

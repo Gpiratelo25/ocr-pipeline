@@ -1,0 +1,135 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>3
+<FILENAME>exhibit10_1.txt
+<DESCRIPTION>FIRST AMENDMENT TO SERVICES AGREEMENT
+<TEXT>
+                                                                    Exhibit 10.1
+                      FIRST AMENDMENT TO SERVICES AGREEMENT
+
+     THIS FIRST AMENDMENT TO SERVICES  AGREEMENT (this  "Amendment") is made and
+entered into as of this 21st day of February,  2003 by and among AIRGATE SERVICE
+COMPANY,  INC., a Delaware  corporation  ("Service  Co"),  AIRGATE PCS,  INC., a
+Delaware corporation  ("AirGate"),  iPCS WIRELESS,  INC., a Delaware corporation
+and iPCS, INC., a Delaware  corporation (iPCS, Inc. and iPCS Wireless,  Inc. are
+collectively referred to as "iPCS").
+
+                              W I T N E S S E T H:
+                               - - - - - - - - - -
+
+     WHEREAS, the parties to this Amendment are parties to that certain Services
+Agreement, dated as of January 1, 2002 (the "Services Agreement"); and
+
+     WHEREAS,  the parties  desire to amend the Services  Agreement as set forth
+herein.
+
+     NOW, THEREFORE,  in consideration of the mutual covenants contained herein,
+and other good and valuable consideration,  the receipt and sufficiency of which
+are hereby acknowledged, Service Co, AirGate and iPCS hereby agree as follows:
+
+1.   Controlling Language.  Insofar as the specific terms and provisions of this
+     Amendment  purport to amend or modify or are in conflict  with the specific
+     terms,  provisions  and exhibits of the Services  Agreement,  the terms and
+     provisions  of this  Amendment  shall  govern  and  control;  in all  other
+     respects,  the terms,  provisions  and exhibits of the  Services  Agreement
+     shall remain unmodified and in full force and effect.
+
+2.   Termination of Specific Services.  The Services Agreement is hereby amended
+     to add thereto a new Section 1.6, reading in its entirety as follows:
+
+          "1.6 Termination of Specified  Services.  At any time upon thirty (30)
+     days prior written notice to the other parties hereto, any party hereto may
+     terminate any of the Services being  performed  hereunder.  Any such notice
+     shall  describe  with  reasonable  particularity  the Services  that are no
+     longer  to  be  provided,  and  if  practicable  shall  also  describe  the
+     particular   department  codes  (as  utilized  by  the  parties'   internal
+     accounting group) affected  thereby.  Notwithstanding  the foregoing,  with
+     respect to the termination of network  operations  Services,  iPCS shall be
+     required to give sixty (60) days prior written  notice of  termination  and
+     AirGate  shall be required to give one hundred and twenty  (120) days prior
+     written  notice of  termination;  and with respect to accounting  Services,
+     AirGate shall be required to give sixty (60) days prior  written  notice of
+     termination and iPCS shall be required to give one hundred and twenty (120)
+     days prior  written  notice of  termination.  Upon the  termination  of any
+     particular  Services  under  this  Section  1.6,  the  parties  shall  make
+     appropriate  amendments to the Technology  License  Agreement,  dated as of
+     January 1, 2002,  among them and certain  other  parties to  terminate  the
+     license with respect to the intellectual property related to the terminated
+     Services."
+
+3.   Immediate Termination of Certain Services by iPCS. Notwithstanding anything
+     in this Amendment or in the Services Agreement to the contrary, the parties
+     agree that effective  February 1, 2003, iPCS hereby terminates the Services
+     relating to the internal  accounting  department  codes specified below (it
+     being  understood that Service Co shall no longer be required to provide to
+     iPCS any  Services  relating to such  department  codes,  and iPCS shall no
+     longer be required to make payment therefor):
+
+         01000 - CEO
+
+         01001 - Board of Directors
+
+         01005 - Strategic Development
+
+         01006 - Business Development
+
+         01015 - Logistics
+
+         01051 - Financial Planning
+
+         01052 - Controller
+
+         01053 - Investor Relations
+
+4.   Amendment  to  Article 2.  Article 2 of the  Services  Agreement  is hereby
+     amended by changing all  references to one hundred and twenty (120) days in
+     such Article 2 to sixty (60) days.
+
+5.   Adjustment  of  Subscriber  Numbers.  The parties  hereto hereby agree that
+     monthly  adjustments will be made to the subscriber  numbers to reflect the
+     number of subscribers for each of iPCS and AirGate.
+
+6.   Incorporation.  The parties  hereto hereby agree that (i) this Amendment is
+     incorporated into and made a part of the Services  Agreement,  (ii) any and
+     all  references  to the Services  Agreement  hereafter  shall  include this
+     Amendment,  and (iii) the Services Agreement is in full force and effect as
+     of the date hereof, as expressly modified and amended hereinabove.
+
+<PAGE>
+
+         IN WITNESS WHEREOF, the parties have executed this Amendment as of the
+date first above written.
+
+AIRGATE SERVICE COMPANY, INC.            AIRGATE PCS, INC.
+
+
+By:    /s/ William H. Seippel            By:  /s/ William H. Seippel
+    --------------------------------        -------------------------------
+Title:   Vice President and CFO          Title:  Vice President and CFO
+       -----------------------------           ----------------------------
+
+iPCS, INC.                               iPCS WIRELESS, INC.
+
+
+By:   /s/ Tim Yager                      By:  /s/ Tim Yager
+    --------------------------------        -------------------------------
+Title:    CRO                            Title:   CRO
+       -----------------------------           ----------------------------
+
+
+Pursuant to the  requirements  of Section  9.7 of the  Services  Agreement,  the
+undersigned hereby consent to this Amendment
+
+Toronto Dominion (Texas), Inc.         Lehman Brothers Commercial Paper, Inc.
+
+
+By:   /s/ Diane Bailey                 By:   /s/ Frank P. Turner
+    ---------------------------------      --------------------------------
+Title:  VP                             Title:  Authorized Signatory
+       ------------------------------        ------------------------------
+
+
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,453 @@
+<DOCUMENT>
+<TYPE>EX-10.6
+<SEQUENCE>4
+<FILENAME>a2076686zex-10_6.txt
+<DESCRIPTION>EXHIBIT 10.6
+<TEXT>
+<Page>
+
+                                                                    Exhibit 10.6
+
+                                                           Agreement No. 4569177
+                                                           Amendment No. 5
+                                                           Page of 8
+
+                                                ACCEPTANCE SHALL BE INDICATED BY
+                                                SIGNING AND RETURNING DUPLICATE
+
+
+TO:                                          FROM:
+
+PF.Net Corp.                                 AT&T Corp.
+2941 Fairview Park Dr.                       1200 Peachtree Street
+Suite 200                                    Room 09E30
+Falls Church, Va. 22042                      Atlanta, GA  30309
+Attn:   Donald L. Branscome                  Attn: Lynn O. Pardue
+
+
+General Purchase Agreement Number 4569177 ("Agreement") between AT&T Corp.
+("Company") and PF.Net, Corp. ("PFN") dated October 29,1999 and as modified by
+Amendment Nos. 1, 2, 3 and 4 is further modified by Amendment Number 5 as
+follows:
+
+
+1.       FIRST WHEREAS PARAGRAPH OF AGREEMENT: The last five words of the
+         paragraph as set forth as follows are deleted from this Agreement:
+
+                  Deleted: "along with certain marketing arrangements".
+
+2.       ARTICLE 1.24: DEFINITION OF DISPOSITION FIBERS: This clause is hereby
+         deleted from this Agreement in its entirety.
+
+3.       ARTICLE 1.30: DEFINITION OF MARKETING AGREEMENT: This clause is hereby
+         deleted from this Agreement in its entirety.
+
+4.       ARTICLE 3.3.G(v): OWNERSHIP OF SYSTEM: Sub-paragraph (v) is hereby
+         deleted from this Agreement in its entirety.
+
+5.       ARTICLE 3.7: MARKETING OF FIBER: This clause is hereby deleted from
+         this Agreement in its entirety and is not replaced.
+
+6.       ARTICLE 10.4: SPECIAL PAYMENT TERMS: This clause is hereby deleted from
+         this Agreement in its entirety.
+
+7.       ARTICLE 3: STATEMENT OF WORK FOR THE SUPPLY OF LINK(S): The following
+         language is added to the Agreement as new Sections 3.1.V through
+         3.1.AD:
+
+                  3.1.V For Page 19, Link 14 of Exhibit B of the Agreement,
+         Amendment 3, the Builder Substantially Complete Date and Builder
+         Compete Date are modified as follows:
+
+                    BUILDER SUBSTANTIALLY COMPLETE DATE:
+
+
+                             AT&T / PFN Proprietary
+12/05/01
+<Page>
+
+                         FROM:     September 30, 2001
+
+                         TO:       June 30, 2003
+
+                    BUILDER COMPLETE DATE:
+
+                         FROM:     March 31, 2002
+
+                         TO:       December 31, 2003
+
+         In order to accomplish the requested delay in delivery and minimize the
+         cost of work performed in 2002, AT&T and PFN agree that the credit due
+         AT&T in the amount of Two Hundred Fifty Thousand Dollars ($250,000.00)
+         associated with OA construction shall be retained by PFN to satisfy
+         obligations associated with this delay which includes PFN's obligations
+         for sales to third parties.
+
+         3.1.W. For Link 14 during 2002, the limit of expenditure by AT&T to PFN
+         will not exceed Five Million Dollars ($5,000,000) for work performed in
+         2002.
+
+         3.1.X For Link 14, the location for the Santa Ana POP is revised to
+         1241 West Alton Avenue at an increase to the price for Link 14 of
+         Thirty Five Thousand Dollars ($35,000.00). The Long Beach POP will be
+         fiber to the handhole at the POP only with no increase in price to AT&T
+         to be charged by PFN.
+
+         3.1.Y With respect to Links 4 and 6, the parties acknowledge that a key
+         precedent to completion is an agreement with the Florida Turnpike. If
+         an Agreement with the Florida Turnpike cannot be completed by AT&T
+         prior to June 30, 2002, then PFN shall have the right to cancel its
+         obligations for Links 4 and 6 and submit an invoice for work performed
+         through the date of cancellation plus any reasonable actual costs for
+         cancellation and/or demobilization charges, as evidenced by
+         documentation with the invoices on Links 4 and 6.
+
+         3.1.Z Link 6, Ellisville to Orlando, PFN is authorized to trench or
+         bore two (2) one point nine inch (1.9") HDPE ducts as required from the
+         Florida Turnpike bore to the existing stub-out piping located outside
+         of the existing AT&T Windermere POP on the existing underground
+         building wall. PFN will bore one (1) six inch (6") steel pipe from AT&T
+         Windermere property across Florida Turnpike to east edge of ROW located
+         next to Royal Vista Subdivision. Upon acceptance by AT&T, AT&T will pay
+         within thirty (30) days of receipt of an invoice from PFN in an amount
+         not to exceed of Forty Thousand Five Hundred Dollars ($40,500.00) for
+         this completed work. In the event, PFN determines that the old six inch
+         (6") steel casing pipe under Florida Turnpike can be used, AT&T will
+         receive a invoice in the amount of Seventeen Thousand Dollars
+         ($17,000.00) which represents a credit to AT&T of Twenty-Three Thousand
+         Five Hundred Dollars ($23,500.00).
+
+         3.1.AA Link 4 (Orlando FL to Miami, FL)
+
+         (i)      Link 4B, Ft. Pierce to Miami-PFN to install two (2) one point
+                  nine inch (1.9") HDPE ducts and pull a new fiber cable for the
+                  connection from AT&T
+
+<Page>
+
+                  handhole on Florida Turnpike at Glades Road to the new AT&T
+                  Boca Raton POP at 210 Street South and return to a new
+                  handhole adjacent to the Florida Turnpike. AT&T will provide
+                  the required cable to PFN for this additional work. The
+                  increase in the price for Link 4B for this work to AT&T will
+                  not exceed Three Hundred Twenty-Three Thousand Two Hundred
+                  Dollars ($323,200.00) for this additional construction. This
+                  work shall not commence prior to March 31, 2002. If the work
+                  does begin prior to that time, AT&T will not be liable for any
+                  of the costs associated with that work. AT&T has the option to
+                  cancel this additional work in the event the decision can be
+                  confirmed that allows AT&T to continue use of the existing
+                  AT&T Boca Raton POP adjacent to the Florida Turnpike.
+
+         (ii)     For Link 4, PFN will deliver As-built drawings of this Link
+                  including those sections using existing AT&T duct. AT&T's
+                  increased cost will be One Hundred Fifty Dollars ($150.00) per
+                  mile for one hundred sixty three (163) miles for a total
+                  amount not to exceed Twenty-Four Thousand Four Hundred Fifty
+                  Dollars ($24,450.00) which will be paid by AT&T within thirty
+                  (30) days upon receipt of an invoice after deliver and
+                  acceptance of the As-built drawings.
+
+         (iii)    For Link 4B, PFN will require safety precautions to be
+                  provided by Florida State Police to close the traffic lane
+                  closest to the location of the existing duct structure from
+                  Fort Pierce to Miami. AT&T will pay PFN Five Hundred
+                  Twenty-Eight Dollars ($528.00) per mile for one hundred
+                  thirty-six (136) miles for an estimated total of Seventy-One
+                  Thousand Eight Hundred Eight Dollars ($71,808.00) for this
+                  required safety precaution.
+
+          3.1.AB BALTIMORE, MD. On Link 38, PFN is authorized by AT&T to make an
+         additional build for AT&T and PFN from the backbone past the PFN's 1401
+         Russell Street POP to the "AT&T 323 Charles Street POP" for a an
+         estimated distance of ten thousand nine hundred four (10,904) feet. For
+         this additional build, AT&T authorizes PFN to construct in a single
+         ditch to include two (2) six (6") inch steel ducts with two (2) one
+         point nine (1.9") inch OD and one (1) one point two five (1.25") inch
+         ID innerducts in each ending at the PFN 1401 Russell Street POP
+         continuing on to the 323 Charles Street POP. All ducts will be encased
+         with 3000 psi strength concrete that will conform to the City of
+         Baltimore specifications to provide mechanical protection in lieu of
+         diversity. The schedule for completion of this additional work is
+         subject to finalizing the required permits and arrangements for special
+         safety procedures to be required during construction. The construction
+         is estimated to be completed one hundred twenty (120) days following
+         the reception of the required permits. For the additional build as set
+         forth in this Section 3.1.AB and Exhibit B, there will be no additional
+         cost to AT&T.
+
+         3.1.AC Link 37, Atlanta to Greensboro:
+
+         (i)      AT&T authorizes PFN to install the fiber cable where it
+                  reaches a POP to pass through said POP using a routing which
+                  is internal to the POP building and accomplishes the objective
+                  of providing a continuous path for the
+
+<Page>
+
+                  cable to transit from the incoming manhole to the outgoing
+                  manhole. Additionally, PFN will deliver as built drawings of
+                  the Charlotte to Greensboro portion of Link 37, AT&T's
+                  additional cost will be One Hundred Fifty Dollars ($150.00)
+                  per mile for a total of four hundred seventy-eight (478) miles
+                  for an amount not to exceed Seventy-One Thousand Seven Hundred
+                  Dollars ($71,700.00) which will be due within thirty (30) days
+                  of receipt of an invoice from PFN after delivery and
+                  acceptance of the As-Built drawings by AT&T.
+
+         (ii)     AT&T authorizes PFN to install a fiber cable in a spare duct
+                  that currently exists between Atlanta Eastpoint and Atlanta
+                  Peachtree POPs. This fiber cable will contain a minimum of
+                  thirty-six (36) to forty-eight (48) single-mode fibers for
+                  AT&T's sole use which are to be provided to AT&T and charged
+                  at PFN's actual cost of that cable. The total fiber count in
+                  the fiber cable should include ninety-six (96) TrueWave RS
+                  fibers for AT&T which will be paid for by AT&T in this special
+                  case and up to one hundred forty-four (144) TrueWave RS fibers
+                  for PFN's use at PFN's expense. PFN agrees that it will
+                  complete the new build with six (6) ducts as set forth in
+                  Exhibit B on a diverse route and have this segment completed
+                  by March 31, 2002. All three (3) of the AT&T ducts will be
+                  left vacant, and the cable placed in the spare duct with the
+                  special cable specified above will remain in service. If for
+                  any reason other than reasons of Force Majuere as set forth in
+                  Article 37, PFN is unable to complete this c onstruction of
+                  the six (6) ducts on a diverse route on or before December 31,
+                  2002, the installed fiber cable will revert one hundred (100%)
+                  percent to AT&T, and PFN's use of the spare duct will no
+                  longer be allowed. For purposes of Agreement, diverse route
+                  will be defined as set forth in Exhibit E: Engineering and
+                  Construction Requirements.
+
+         3.1.AD Link 39, Philadelphia to Newark, the backbone route will only
+         pass the POP at Camden on the opposite side of the street for route
+         diversity and the backbone route will only pass the New Brunswick POP
+         due to AT&T change in POP plans at no additional cost to AT&T.
+
+8.       ARTICLE 3.6.C: ELECTRICAL POWER FOR OA SITES: Article 3.6.C is deleted
+         in its entirety from the Agreement and substituted with the following
+         language.
+
+         3.6.C ELECTRICAL POWER FOR OA SITES: After expiration of the three (3)
+         year period in which items (i) through (v) of Section 3.6.O are
+         provided by PFN at the fixed unit price, PFN will charge AT&T
+         negotiated rates for electrical power and building services. AT&T will
+         have the option at any time during the term of this Agreement to
+         provide its own electrical power upon giving ninety (90) days written
+         notice to PFN of AT&T's intention to provide its own power. AT&T and
+         PFN agree in the case where AT&T wants to provide its own standalone
+         emergency generator it will do so for $2000 per site for a pad nearby
+         the existing PFN standby generator and follow the same path for the
+         power to travel through the PFN power building and into the AT&T
+         buildings. The cost for installing the pad and the generator, plus
+         required power cable connections, will be at AT&T's expense.
+
+<Page>
+
+9.       ARTICLE 29: OTHER BUILDER COVENANTS, REPRESENTATIONS AND WARRANTIES:
+         The last paragraph of Section 29.8, as added to this Agreement in
+         Amendment No. 2, is amended to include the words "and Link 14" after
+         the words "ADDED LINKS PRIMARY CITIES". The last paragraph of 29.8 will
+         now read as follows:
+
+                  "The Links listed in the following table titled ADDED LINKS
+                  PRIMARY CITIES and Link 14, will not be considered in
+                  determining the Builder Substantially Complete Date for the
+                  last Link for the purposes of this Section 29.8; it being the
+                  understanding that the Builder Substantially Complete Dates
+                  for said Links, whenever they occur, will not be used in any
+                  way to prohibit the sale of the Common Stock of Parent by Koch
+                  Ventures, John Warta and Stephen Irwin."
+
+
+
+<Table>
+<Caption>
+                       ADDED LINKS PRIMARY CITIES
+-------------------------------------------------------------------------
+LINK           TERMINATION A                TERMINATION Z
+-------------------------------------------------------------------------
+<S>        <C>                            <C>
+ 1A        Pine Springs, VA (Reroute)     Calverton VA (Reroute)
+-------------------------------------------------------------------------
+ 4         Windermere, FL                 Fort Pierce, FL (Splice Point)
+-------------------------------------------------------------------------
+ 6         Ellisville, FL                 Orlando, FL (through Windermere
+-------------------------------------------------------------------------
+ 37        Atlanta, GA                    Greensboro, NC
+-------------------------------------------------------------------------
+ 38        Arlington, VA                  Philadelphia, PA
+-------------------------------------------------------------------------
+ 39        Philadelphia, PA               Newark NJ
+-------------------------------------------------------------------------
+ 43        Chicago, IL                    Elkhart, IN
+-------------------------------------------------------------------------
+ 44        Toledo, OH                     Cleveland, OH
+-------------------------------------------------------------------------
+</Table>
+
+
+10.      MAINTENANCE SERVICES TO PFN AND TO THIRD PARTIES: The following
+         paragraphs 6, 7, 8 and 9 from Exhibit C of the Agreement are hereby
+         deleted and added to this Agreement as Article 39.1 through 39.4:
+
+"ARTICLE 39: MAINTENANCE SERVICES TO PFN AND TO THIRD PARTIES.
+
+39.1     COVERAGE PERIOD. Maintenance will be performed by AT&T or its
+         successors or assigns for all Links described in Exhibit A, and
+         conclude upon expiration or termination of the Agreement.
+
+39.2     SUBCONTRACTING. AT&T may subcontract any maintenance activities as set
+         forth in Exhibit C, provided that AT&T shall require the
+         subcontractor(s) to perform in accordance with the Agreement and
+         Exhibit C. The use of any such subcontractor shall not relieve AT&T of
+         any of its obligations herein.
+
+39.3     FEES AND COSTS. During any time after the Acceptance Date for any
+         Segment of a Cable System, AT&T shall provide for all maintenance
+         activity for all Links for which maintenance responsibility is assigned
+         to AT&T pursuant to the provisions of this Article 39 and Exhibit C.
+
+         39.3.A. PFN will pay AT&T an monthly fee of FORTY ONE DOLLARS AND SIXTY
+         SEVEN
+
+<Page>
+
+         CENTS ($41.67) PER ROUTE MILE OR FIVE HUNDRED DOLLARS ($500.00) PER
+         ROUTE MILE ANNUALLY for all maintenance activity described in Exhibit C
+         of this Agreement, with the exception of emergency restoral activity as
+         set forth in Section 1.3 or PCA work in Section 1.2 of Exhibit C which
+         will be billed as needed on a time and material basis according to the
+         parties' interests in the Fiber, Conduit or other property affected
+         with labor charges not to exceed one thousand dollars ($1,000.00) per
+         hour. Any fees and costs for emergency restoral paid to AT&T by
+         responsible parties assessed for damages to the System will be
+         reimbursed by AT&T to PFN at a rate of thirty-seven and one-half
+         percent (37.5%) of the total fees paid to AT&T, less legal and
+         administrative costs incurred by AT&T while participating in any damage
+         claim or settlement related to cable or conduit damage by responsible
+         parties. In the case of any decrease of ten percent (1 0%) or more
+         versus the first year forecasted costs of AT&T, an adjustment to
+         reflect said decrease will be made to PFN.
+
+         In addition to the paragraph above, PFN will receive an equitable
+         offset for any routine services provided by PFN that would otherwise be
+         provided by AT&T (For example if PFN does routine ROW clearing, the fee
+         will be adjusted to reflect the services performed).
+
+         Effective with the Acceptance Date for each Link, maintenance fees are
+         due and payable on a monthly basis until the monthly payment dated of
+         December 1, 2003 for all Links for which Acceptance has occurred.
+         Thereafter, maintenance fees for all Accepted Links are due and payable
+         annually beginning with January 1, 2004.
+
+         39.3.B. Maintenance fees for dark fibers and conduit sold or exchanged
+         to third parties (exclusive of emergency restoral fees), will be shared
+         as follows: fifty percent (50%) to PFN and fifty percent (50%) to AT&T,
+         but such fees shall not be less than the following:
+
+
+<Table>
+<Caption>
+-------------------------------------------------------------------------
+   NUMBER OF FIBERS SOLD PER SALE               MINIMUM FEE
+-------------------------------------------------------------------------
+<S>                                   <C>
+1-8                                     $20 per route mile per month
+-------------------------------------------------------------------------
+9-12                                    $25 per route mile per month
+-------------------------------------------------------------------------
+13-24                                 $28.50 per route mile per month
+-------------------------------------------------------------------------
+25+                                     $30 per route mile per month
+-------------------------------------------------------------------------
+EACH CONDUIT EXCHANGED OR SOLD          $35 per route mile per month
+-------------------------------------------------------------------------
+</Table>
+
+         39.3.C Adjustment of monthly per mile fees, fees to third parties and
+         maximum labor charge maintenance fees to the Builder in Article 39.3A
+         and B above will be made every two (2) years beginning with the second
+         anniversary of the Link Acceptance Date, by the increase, if any, in
+         the Consumer Price Index, All Urban Consumers (CPI-U), U.S. City
+         Average, published by the United States Department of Labor, Bureau of
+         Labor Statistics (1982-84=100) for the twelve (12) month period ending
+         three months prior to such anniversary of the Link Acceptance Date. In
+         the event the Bureau of Labor Statistics (or any successor
+         organization) no longer publishes the CPI-U, AT&T may designate the
+         statistical index it deems most appropriate for adjustments and, from
+         the date the CPI-U ceased to be published, such index shall be used to
+         make adjustments under
+
+<Page>
+
+         this provision. AT&T will confirm such increases to PFN in writing.
+
+39.4     TERM. The fees and services for this maintenance will commence on a
+         Link by Link basis following the Acceptance of each Link. Unless
+         earlier terminated as set forth in this Agreement, this Article 39 and
+         Exhibit C will be in force for the lesser of the period of time that
+         the AT&T System is in use on a reasonably continuous basis for
+         telecommunications purposes or the Builder System is in use for the
+         same purposes.
+
+11.      MODIFICATIONS TO EXHIBITS:
+
+         A.       Exhibit B is deleted in its entirety and replaced with the
+         modified Exhibit B attached hereto.
+
+         B.       Exhibit C: is hereby deleted in its entirety and replaced with
+         the modified and renamed Exhibit C: Maintenance Procedures attached
+         hereto.
+
+         C.       Exhibit G: "Fiber and Conduit Disposition Agreement" is hereby
+         deleted from this Agreement in its entirety. It is the intent of the
+         parties that by the deletion of Exhibit G that neither party shall have
+         any fiber and conduit disposition obligations.
+
+         D.       Exhibit O is deleted in its entirety and replaced with the
+         modified Exhibit O.
+
+         E.       Exhibit P: General Terms and Conditions Associated with Land
+         Rights of OA Buildings and Services Contract is deleted in its entirety
+         and is replaced with the modified Exhibit P attached hereto.
+
+         F.       Exhibit Q: E-Commerce Terms and Conditions are added to this
+         Agreement and attached hereto.
+
+<Page>
+
+This Amendment No. 5 is effective as of the execution of this Amendment by both
+parties and shall be incorporated in and shall constitute a part of the
+Agreement as if fully set forth therein. EXCEPT AS AMENDED HEREIN, ALL TERMS AND
+CONDITIONS OF THE AGREEMENT REMAIN UNCHANGED.
+
+
+
+APPROVAL:
+
+ACKNOWLEDGED AND AGREED TO BY:
+
+
+PF.NET CORP.                                 AT&T CORP.
+
+BY   /S/ DONALD L. BRANSCOME                 BY   /S/ DIANA L. JONES
+     ------------------------------               ------------------------------
+     (signature)                                  (signature)
+
+NAME DONALD L. BRANSCOME                     NAME DIANA L. JONES
+
+     ------------------------------               ------------------------------
+
+TITLE     SENIOR VICE PRESIDENT -            TITLE     PROCUREMENT DIRECTOR,
+          BUSINESS DEVELOPMENT                         AT&T SUPPLIER MANAGEMENT
+     ------------------------------               ------------------------------
+
+
+
+DATE                                         DATE
+     ------------------------------               ------------------------------
+     (typed or printed)                           (typed or printed)
+
+</TEXT>
+</DOCUMENT>

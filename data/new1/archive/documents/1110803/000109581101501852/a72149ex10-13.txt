@@ -1,0 +1,165 @@
+<DOCUMENT>
+<TYPE>EX-10.13
+<SEQUENCE>2
+<FILENAME>a72149ex10-13.txt
+<DESCRIPTION>EXHIBIT 10.13
+<TEXT>
+
+<PAGE>   1
+
+                                                                   EXHIBIT 10.13
+
+                 FIRST AMENDMENT TO JOINT DEVELOPMENT AGREEMENT
+
+This first amendment ("First Amendment"), entered into as of March 27, 2001,
+("First Amendment Date"), is by and between ILLUMINA, INC., a Delaware
+corporation located at 9390 Towne Centre Drive, Suite 200, San Diego, CA
+92121-3015 ("Illumina"), and PE CORPORATION (NY), a New York corporation,
+through its PE Biosystems Group, now known as its Applied Biosystems Group,
+located at 850 Lincoln Centre Drive, Foster City, CA 94404 ("PEB").
+
+
+                                    RECITALS
+
+        The parties have entered into a Joint Development Agreement ("Original
+Agreement") having an Effective Date of November 8, 1999.
+
+        This First Amendment, entered into pursuant to Section 13.7 of the
+Original Agreement, serves to amend the Original Agreement by providing for the
+development and commercialization of Tag Sequence technology.
+
+        NOW, THEREFORE, in consideration of the mutual obligations in this First
+Amendment and in the Original Agreement, and for other good and valuable
+consideration, the receipt and sufficiency of which are acknowledged, the
+parties to this First Amendment agree as follows:
+
+
+                                    AMENDMENT
+
+1.      Definitions: Any words with initial capitalization that are used and not
+        defined in this First Amendment will have the meanings set forth in the
+        Original Agreement.
+
+2.      ADD new Section 1.33 immediately after Section 1.32 of the Original
+        Agreement as follows:
+
+"Tag Sequence" means                ***
+
+                                    ***
+
+                                    ***
+
+***  Portions of this page have been omitted pursuant to a request for
+     Confidential Treatment and filed separately with the Commission.
+
+
+
+<PAGE>   2
+
+3.      ADD the following to Section 3.1 of the Original Agreement immediately
+        before the last sentence of Section 3.1:
+
+                The Parties will share responsibility for defining and
+                developing Tag Sequences for the Collaboration Product which
+                will attempt to avoid third party intellectual property rights
+                or other encumbrances.
+
+4.      ADD new Sections 4.1.5 and 4.1.6 immediately after Section 4.1.4 of the
+        Original Agreement as follows:
+
+        4.1.5   Manufacture of Tag Sequences.    ***
+                                   ***
+                                   ***
+
+
+        4.1.6   Use of Tag Sequences. The Parties agree that Tag Sequences will
+                be used in the Collaboration Field by the Parties and purchasers
+                of Collaboration Product. Tag Sequences may not be used by third
+                parties outside the Collaboration Field unless the use is
+                approved by the Joint Steering Committee.
+
+5.      ADD new Section 6.1.4 immediately after Section 6.1.3 of the Original
+        Agreement as follows:
+
+        6.1.4.  The Parties agree that any Intellectual Property Rights
+                concerning Tag Sequences conceived after the Effective Date of
+                the Original Agreement, whether Collaboration PEB Intellectual
+                Property, Collaboration Joint Intellectual Property, or
+                Collaboration Illumina Intellectual Property, including the
+                methods by which such Tag Sequences are designed, selected or
+                made, as well as any compositions directed to such Tag
+                Sequences, shall be deemed Collaboration Joint Intellectual
+                Property.
+
+6.      Continued Effect of Original Agreement. All provisions of the Original
+        Agreement except as modified by this First Amendment, shall remain in
+        full force and effect and are hereby reaffirmed. Other than as stated in
+        this First Amendment, this First Amendment will not operate as a waiver
+        of any condition or obligation imposed on the Parties under the Original
+        Agreement.
+
+7.      Interpretation of Amendment. In the event of any conflict,
+        inconsistency, or incongruity between any provision of this First
+        Amendment and any provision of
+
+
+***  Portions of this page have been omitted pursuant to a request for
+     Confidential Treatment and filed separately with the Commission.
+
+
+
+                                       2
+<PAGE>   3
+
+        the Original Agreement, the provisions of this First Amendment will
+        govern and control.
+
+8.      Entire Agreement. This First Amendment, along with the Original
+        Agreement constitute the sole agreements between the Parties relating to
+        the subject matter hereof and supersede all previous writings and
+        understandings. Confidential disclosures made under previously executed
+        Confidentiality Agreements between the Parties will remain subject to
+        the terms of those Confidentiality Agreements. No Party has been induced
+        to enter into this Agreement by, nor is any Party relying on, any
+        representation or warranty outside those expressly set forth in this
+        Agreement.
+
+9.      Counterparts. This First Amendment may be executed in any number of
+        counterparts, and each counterpart will deemed an original instrument,
+        but all counterparts together will constitute one agreement.
+
+[Signature page follows.]
+
+
+
+                                       3
+<PAGE>   4
+
+The Parties, through their authorized officers, have executed this First
+Amendment as of the First Amendment Date.
+
+ILLUMINA, INC.                              PE CORPORATION, THROUGH
+                                            ITS APPLIED BIOSYSTEMS GROUP
+
+By:   /s/ John R. Stuelpnagel               By: Elaine J. Heron
+   ----------------------------------          ---------------------------------
+
+Name: John R. Stuelpnagel                   Name: /s/ Elaine J. Heron
+     --------------------------------            -------------------------------
+
+<TABLE>
+<S>                                         <C>
+Title: Vice President, Business Development Title: Vice President, Applera Corporation
+      -------------------------------------       ------------------------------------
+                                                   General Manager, Molecular Biology Division
+                                                   Applied Biosystems
+</TABLE>
+
+Date:  4/2/01                               Date:  3/29/01
+     --------------------------------            -------------------------------
+
+
+
+                                       4
+</TEXT>
+</DOCUMENT>

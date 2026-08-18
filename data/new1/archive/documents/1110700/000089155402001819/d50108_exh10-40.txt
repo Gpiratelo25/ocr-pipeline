@@ -1,0 +1,207 @@
+<DOCUMENT>
+<TYPE>EX-10.40
+<SEQUENCE>10
+<FILENAME>d50108_exh10-40.txt
+<DESCRIPTION>AMENDMENT NO 2 TO MARKETING
+<TEXT>
+
+                                                                   EXHIBIT 10.40
+
+
+                              AMENDMENT NUMBER 2 TO
+                      MARKETING AND DISTRIBUTION AGREEMENT
+
+
+This AMENDMENT NUMBER 2 TO MICROSOFT  MARKETING AND DISTRIBUTION  AGREEMENT (the
+"Amendment"),  effective  as of the 31st day of  August,  2001  (the  "Amendment
+Effective  Date"), is made by and between  Microsoft  Corporation,  a Washington
+corporation ("Microsoft") and AvantGo, Inc., a Delaware corporation ("AvantGo").
+Microsoft   and  AvantGo  shall  each  be  referred  to  herein  as  "Party"  or
+collectively as "the Parties."
+
+
+                                    RECITALS
+
+
+A.   Microsoft and AvantGo entered into a Marketing and Distribution,  effective
+     as of June 2, 1999,  whereby AvantGo  licensed  certain rights in specified
+     technology to Microsoft.
+
+B.   The Parties  entered into a First  Amendment to Marketing and  Distribution
+     Agreement  dated as of January 25, 2000  (collectively  the  Marketing  and
+     Distribution   Agreement   and  the  First   Amendment  to  Marketing   and
+     Distribution  Agreement shall be referred to as the  "Agreement")  whereby,
+     among other things, AvantGo licensed certain rights in additional specified
+     technology and specified trademark rights to Microsoft.
+
+C.   The  Parties  now agree that  Microsoft  and  AvantGo  would like to modify
+     specified terms and conditions of the Agreement as provided herein.
+
+     The Parties hereby agree as follows:
+
+
+                                    AGREEMENT
+
+1.   Trademarks.  Section 2.8 of the Agreement  shall be deleted in its entirety
+     and replaced with the following:
+
+          AvantGo  hereby  grants to  Microsoft a  non-exclusive,  royalty-free,
+          fully  paid  up,  worldwide  right  and  license,  with  the  right to
+          sublicense such license to third parties,  subject to the terms of the
+          Agreement,  to use the AvantGo  trademarks  identified  on Exhibit II,
+          attached  hereto  (the  "AvantGo  Trademarks"),  in Windows CE for the
+          Palm-size  PC  products   (i)  known  under  the  internal   Microsoft
+          confidential  code-name  "Rapier" and currently planned to be released
+          under the name  Windows for Pocket PC  Professional  Edition  2000 and
+          Windows for Pocket PC Standard  Edition 2000; and (ii) known under the
+          internal  Microsoft  confidential  code-name  "Merlin"  and  currently
+          planned to be released under the names  Microsoft  Mobile Software for
+          the Pocket PC 2002 Professional Edition, Microsoft Mobile Software for
+          the Pocket PC 2002 Premium Edition,  and Microsoft Mobile Software for
+          the Pocket PC 2002 Premium Plus Phone Edition, with which the Software
+          is distributed  (hereinafter a commercial  product  containing  either
+          "Rapier" or "Merlin" shall be referred to as "the  Products");  and in
+          connection with the marketing, sale, and distribution of the Products.
+          Microsoft  acknowledges that AvantGo will own the AvantGo  Trademarks.
+          Microsoft's and its sublicensees' use of the AvantGo  Trademarks shall
+          inure  solely to the  benefit of  AvantGo.  To the extent  technically
+          possible,  Microsoft  shall use  reasonable  efforts  to  comply  with
+          trademark  use  requirements  contained  in written  usage  guidelines
+          provided by AvantGo from time to
+
+
+<PAGE>
+
+          time, and upon the request of AvantGo, furnish samples of its usage of
+          the AvantGo  Trademarks to AvantGo.  In the event  Microsoft  updates,
+          subsequent  to the  Amendment  Effective  Date,  the interface for the
+          Products, Microsoft will to the extent reasonably possible incorporate
+          any new versions of the AvantGo  Trademarks  made available by AvantGo
+          to Microsoft.
+
+2.   Support and Maintenance.  Subsection (ii) shall be deleted from Section 3.3
+     and replaced with the following:  "(ii) for a period of [******]  following
+     each new release of the  Software,  support  such new release and the prior
+     release of the Software  only;  provided that in any event  notwithstanding
+     the foregoing,  the version of the Software  contained in the Products that
+     contain  Merlin shall be supported  for a period of at least  [******] from
+     the first  date that any such  Product is first  made  publicly  available,
+     which shall in no event be later than  December 1, 2001;  and provided that
+     in no event will  AvantGo be required to support  versions of the  Software
+     other than the two (2) most current versions of the Software; and..."
+
+3.   Windows  CE  Client  Support.  The  Parties  wish to  acknowledge  that the
+     following are Supported  Devices  under Section 4.3 of the  Agreement:  The
+     [*****] Products that contain Rapier that are supported as of the Amendment
+     Effective Date and all Products that will contain Merlin.
+
+4.   User Registration System.  Section 4.4 of the Agreement shall be deleted in
+     its entirety and replaced with the following:
+
+          AvantGo shall prepare a quarterly  report (the "Report") for Microsoft
+          that includes the following  information:  (i) a demographic and usage
+          pattern summary profiling End Users to the extent that AvantGo creates
+          such summaries and subject to AvantGo's published privacy policy; (ii)
+          the total and  monthly  number of  Windows  CE  registrations  for the
+          AvantGo  service(iii) the number of active users on AvantGo's service;
+          (iv) the number of total users on AvantGo's service; and (v) a list of
+          the top twenty (20) Pocket PC channels.  A quarterly  meeting shall be
+          held by the Parties and each Report  shall be provided to Microsoft by
+          AvantGo at such quarterly meeting.  The parties  acknowledge and agree
+          the contents of the Reports are  confidential  information  of AvantGo
+          and, unless otherwise agreed in writing, may only be used by Microsoft
+          for internal analysis.
+
+5.   Web Sites.  Section 4.5 of the Agreement shall be deleted and replaced with
+     the following:
+
+         4.5.1 As  long as the  Software  is  distributed  by  Microsoft  in the
+               Products,  Microsoft shall create a hypertext link to AvantGo.com
+               incorporating an AvantGo logo identified and described on Exhibit
+               II on the portion of the Microsoft web site  dedicated to Windows
+               CE. As long as the  Software is  distributed  by Microsoft in the
+               Products,  AvantGo shall provide  generally  equal presence (e.g.
+               logo size,  visibility of  information,  etc.) for Windows CE and
+               other operating  system products on AvantGo.com.  Microsoft's use
+               of the AvantGo  logo shall comply with the  trademark  guidelines
+               attached on Exhibit II.
+
+         4.5.2 The Parties will mutually  agree upon the default  channels to be
+               provided to new Pocket PC  registrants.  The Parties will discuss
+               the listing at each  quarterly  meeting to be held by the Parties
+               and will mutually agree on any changes to such listing.
+
+[******] Certain  information on this page has been omitted and filed separately
+with the Securities  and Exchange  Commission.  Confidential  treatment has been
+requested with respect to the omitted portions.
+
+
+
+<PAGE>
+
+6.   Term.  Section 5.1 shall be deleted in its entirety  and replaced  with the
+     following:  "This Agreement will have a term of two (2) years from the date
+     of the first public  availability of a Product  containing Merlin, of which
+     Microsoft will promptly  provide  AvantGo written notice and which shall in
+     no event be later than December 1, 2001 and shall  automatically  renew for
+     additional  one (1) year periods  unless either party notifies the other of
+     its intent not to renew at least thirty (30) days prior to the  Agreement's
+     scheduled expiration."
+
+7.   Limitation of  Liability.  In the ninth and tenth lines of Article 9 of the
+     Agreement,  "[******] UNITED STATES DOLLARS (US$[******])" shall be deleted
+     and replaced with "[******]  UNITED STATES DOLLARS  (US$[******])".  In the
+     eighteenth  and  nineteenth  lines of Article 9,  "[******]  UNITED  STATES
+     DOLLARS  (US$[******])" shall be deleted and replaced with "[******] UNITED
+     STATES DOLLARS (US$[******]).
+
+8.   Additional Areas of Potential Marketing Activities.  The fifth bullet point
+     listed on Exhibit III of the Agreement shall be deleted in its entirety and
+     replaced  with the  following:  "Working with between five (5) and ten (10)
+     content  providers to optimize their channels for the Merlin  Software with
+     content that takes  advantage of 320x240  resolution  color displays and/or
+     rich media."
+
+9.   Effect of Amendment.  This Amendment shall amend, modify and supersede,  to
+     the extent of any  inconsistencies,  the  provisions of the  Agreement,  as
+     amended.  Except as expressly  affected by this  Amendment,  the  Agreement
+     shall  remain in full  force and  effect.  Capitalized  terms  used in this
+     Amendment and not otherwise defined shall have the meaning ascribed to such
+     terms in the Agreement.  Any reference to the Agreement  shall be deemed to
+     reference the Agreement as amended by this Amendment.
+
+IN WITNESS WHEREOF,  the Parties have executed this Amendment as of the date set
+forth above. All signed copies of this Amendment shall be deemed originals. This
+Amendment  does not constitute an offer by Microsoft.  This  Amendment  shall be
+effective  upon  execution  on behalf of  AvantGo  and  Microsoft  by their duly
+authorized representatives.
+
+
+MICROSOFT CORPORATION                           AVANTGO, INC.
+
+
+/s/ Juha Christensen                            /s/ Richard Owen
+----------------------                          -------------------------
+By (signature)                                  By (signature)
+
+
+Juha Christensen                                Richard Owen
+----------------------                          -------------------------
+Name (print)                                    Name (print)
+
+
+Vice President                                  Chief Executive Officer
+----------------------                          -------------------------
+Title                                           Title
+
+August 31, 2001                                 August 13, 2001
+----------------------                          -------------------------
+Date                                            Date
+
+[******] Certain  information on this page has been omitted and filed separately
+with the Securities  and Exchange  Commission.  Confidential  treatment has been
+requested with respect to the omitted portions.
+
+
+</TEXT>
+</DOCUMENT>

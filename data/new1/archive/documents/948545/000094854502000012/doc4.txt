@@ -1,0 +1,1014 @@
+<DOCUMENT>
+<TYPE>EX-10.63
+<SEQUENCE>6
+<FILENAME>doc4.txt
+<TEXT>
+
+                                                                    EXHBIT 10.63
+
+                                                                  Mi2A Amendment
+                                                                          Page 1
+                                                                          032901
+
+                              Mi2A AMENDMENT TO THE
+                         INTERCONNECTION AGREEMENT UNDER
+                SECTION 271 OF THE TELECOMMUNICATIONS ACT OF 1996
+
+
+     This  Mi2A  Amendment to the Interconnection Agreement under Section 271 of
+the  Telecommunications  Act  of  1996  (the "Amendment") is dated as of May 15,
+2001,  by  and  between  Ameritech  Michigan ("Ameritech") and Talk.com Holding,
+Corp.,  with  its  principal  offices  at 12020 Sunrise Valley Drive, Suite 250,
+Reston,  Virginia  20191  ("CLEC").
+
+     WHEREAS,  Ameritech  and  CLEC  are parties to that certain Interconnection
+Agreement under Sections 251 and 252 of the Telecommunications Act of 1996 dated
+as  of  May  15,  2001  (the  "Agreement");
+
+     WHEREAS,  Ameritech  has  participated  in a collaborative process with the
+Michigan  Public  Service Commission (the "Commission") and numerous competitive
+telecommunications  carriers  as  part  of  the  process for Ameritech to obtain
+in-region  interLATA  authority  in  Michigan,  consistent  with  the procedures
+established  in  Case  No.  U-12320;
+
+     WHEREAS,  incumbent  Local  Exchange  Carriers,  pursuant  to  47  U.S.C.
+51.315(b),  are  required  to  make available existing combinations of Unbundled
+Network  Elements  ("UNEs");
+
+     WHEREAS, on July 18, 2000, the Eighth Circuit in Iowa Util. Bd. v. FCC, 219
+F.3d  744  (8th Cir. 2000), cert. granted 121 S.Ct 877-79 (2001), reaffirmed its
+prior  ruling  in  Iowa  Util. Bd.v. FCC, 120 F.3d 753 (8th Cir. 1997), vacating
+rules  51.315(c)-(f),  which  required  incumbent  LECs to perform the functions
+necessary  to  combine  unbundled  network  elements  in any manner, i.e., "new"
+combinations;
+
+     WHEREAS,  the  parties  may  have  different  interpretations regarding the
+effect of the Eighth Circuit's decision and, consistent with Section 6.0 of this
+Amendment,  neither  party by signing this amendment waives its rights to appeal
+such  decision or its rights in arbitration before this Commission regarding the
+definition  of  new  and  existing  combinations  contained  herein;
+
+     WHEREAS,  Ameritech  offered  as part of such collaborative process to make
+modifications  to  existing  and  new Agreements to make available certain "new"
+combinations of UNEs, which revised offer was reviewed by the Commission in Case
+No. U-12320 in an Order dated January 4, 2001 and in an Order on Rehearing dated
+March  19,  2001;  and
+
+                                                                  Mi2A Amendment
+                                                                          Page 2
+                                                                          032901
+
+     WHEREAS,  based  on  the  foregoing,  the  Parties  are  entering into this
+Amendment  to  incorporate  into the Agreement terms and conditions that address
+the  availability  of  both  existing  and  new  combinations  of  UNEs.
+
+     NOW,  THEREFORE,  in consideration of the mutual promises contained herein,
+the  Parties  agree  as  follows.
+
+1.0  INTRODUCTION
+     ------------
+
+1.1
+This  Amendment  sets forth the terms, conditions, rates and charges under which
+Ameritech agreed to provide, as part of the Section 271 collaborative process in
+Michigan,  existing  and  new  combinations of UNEs ("Combinations") in order to
+facilitate  its  in-region  interLATA  approval.
+
+1.2
+Unless  otherwise  defined  herein,  capitalized  terms  shall have the meanings
+assigned  to  such  terms  in  the  Agreement.
+
+1.3
+Except  as  provided  in  this  Amendment,  during  the  term of this Amendment,
+Ameritech  will  not  discontinue,  as  to CLEC, any Combination offered to CLEC
+hereunder.  This  Section  is not intended to impair Ameritech's ability to make
+changes  to  its  Network,  so  long  as  such changes are not inconsistent with
+applicable  law  and  do  not  result  in the discontinuance of the offerings of
+Combinations  by  Ameritech  to CLEC as set forth herein during the term of this
+Amendment.
+
+1.4
+This  Amendment  includes  and  incorporates  herein  the  Agreement,  and  all
+accompanying and effective Appendices, Addenda and Exhibits to the Agreement. To
+the extent there is a conflict or inconsistency between the terms, conditions or
+prices  in  this  Amendment,  including the attached Appendix entitled, Pricing,
+271-Existing  and  New Combinations, dated March 29, 2001, (hereinafter referred
+to as "Pricing Appendix-Combinations") and those contained in the Agreement, and
+all  accompanying  effective  Appendices, Addenda and Exhibits to the Agreement,
+the  terms,  conditions  and  prices  in  this Amendment, including the attached
+Pricing  Appendix-Combinations,  will  control  and  apply.
+
+2.0  AMENDMENT  TO  THE  AGREEMENT
+
+On  and  after  the  Effective Date of this Amendment, as defined in Section 3.0
+below,  the Agreement  is  hereby  amended  by  adding  the  following:
+
+2.1  UNE  COMBINATION  PROVISIONS
+
+                                                                  Mi2A Amendment
+                                                                          Page 3
+                                                                          032901
+
+     2.1.1
+     Except as modified below in Sections 2.2.5, 2.2.6 and 2.3, Ameritech agrees
+     to  make  the  network  elements  Combinations  set forth in this Amendment
+     available to CLEC for the term of this Amendment, as defined in Section 4.0
+     below,  on  the  terms  and  at  the  prices  provided  in  this Amendment.
+
+     2.1.2
+     As  provided  herein,  Ameritech  will  make  available  the  following
+     Combinations: i) preexisting or already assembled combinations of unbundled
+     local loops, unbundled local switching ports and shared transport, known as
+     pre-existing UNE Platform or UNE-P; ii) new or newly assembled combinations
+     of  certain  unbundled  local  loops,  unbundled  Local switching ports and
+     shared transport, known as New UNE-P; and iii) certain pre-existing and new
+     or  newly  assembled  combinations  of  unbundled local loops and dedicated
+     interoffice transport, known as Enhanced Extended Loop or EELs. As provided
+     in  Section 2.2.3.4 below, these Combinations are in addition to the CLEC's
+     ability  to  obtain  access  to unbundled network elements in a manner that
+     enables  the  CLEC  to  combine such elements to provide telecommunications
+     services.
+
+     2.1.3
+     The  definitions,  terms  and  conditions related to Unbundled Local Loops,
+     Unbundled  Local  Switching  with Shared Transport ("ULS-ST") and Unbundled
+     Dedicated Transport Facilities described in the Agreement shall continue to
+     apply  as  long as provided as part of a Combination. If the Agreement does
+     not  contain terms and conditions for ULS-ST, the Agreement will be amended
+     to  be  consistent  with the terms and conditions in M.P.S.C. No. 20R, Part
+     19,  Section  21.
+
+     2.1.4
+     All  rates  and  charges  related to Unbundled Local Loops, Unbundled Local
+     Switching  with  Shared  Transport,  and  Unbundled  Dedicated  Transport
+     Facilities  contained  in  the Agreement shall continue to apply as long as
+     provided  as part of a Combination. If the Agreement does not contain rates
+     and charges for ULS-ST, the Agreement will be amended to be consistent with
+     the  rates  and  charges in M.P.S.C. No 20R, Part 19, Section 21 consistent
+     with  Orders  arising  from Case No. U-12622, including, but not limited to
+     any  appeals,  and  subject  to the change of law provisions of the general
+     terms  and  conditions  of  this  Agreement.
+
+2.2  PRE-EXISTING  AND  NEW  UNE-P
+
+     2.2.1  PRODUCT  OFFERING
+
+          2.2.1.1
+          Ameritech  will,  except  as  provided  elsewhere in this Section 2.2,
+          provide  combinations  of  network  elements  to  CLEC consistent with
+          Ameritech's  obligations  in  this Amendment at the applicable charges
+          set  forth  in  this Amendment and Pricing Appendix- Combinations. For
+          preexisting  or  already  assembled  Combinations,  where  no  work is
+          required  by  Ameritech  in order to establish connections between the
+          requested  elements
+
+
+                                                                  Mi2A Amendment
+                                                                          Page 4
+                                                                          032901
+
+          at  the  central  office,  an  outside plant location, or the customer
+          premises, Ameritech will apply the non-recurring and recurring charges
+          applicable  to  the  elements  included  in  the  combination, and the
+          applicable  service order charges as specified in the attached Pricing
+          Appendix-Combinations.  Such combinations may be referred to elsewhere
+          in  this  Amendment  as  "pre-existing"  or  "already  assembled"
+          Combinations  and include all orders included within the definition of
+          "Contiguous  Interconnection  of Network Elements" in sections 2.2.1.2
+          and  2.2.1.3,  below.
+
+          For  new  assemblies  of  UNE  combinations  that  are  not within the
+          above-referenced  definition of "Contiguous Interconnection of Network
+          Elements"  and  that  require  manual  work  by  Ameritech in order to
+          establish  connections  between  the requested elements at the central
+          office,  an  outside  plant  location,  or  the customer premises, the
+          applicable  recurring  and  nonrecurring  charges  and  service  order
+          charges  will apply as specified in the Pricing Appendix-Combinations.
+          Such  combinations  may  be referred to elsewhere in this Agreement as
+          "new"  or  "newly  assembled"  combinations. There are three New UNE-P
+          combinations  offered  under  this  Amendment.  CLECs may request that
+          Ameritech  combine  the following unbundled loop and port combinations
+          in  conjunction  with  shared  transport  for  the  New  UNE-P:
+
+               -  2-Wire  Basic  Analog  Loop  combined  with  Basic  Line  Port
+               -  2-Wire  160  kbps  (ISDN-BRI)  Digital Loop combined with ISDN
+               Direct  Port
+               -  4-Wire  Digital  Loop  combined  with  Digital  Trunk  Port.
+
+          2.2.1.2
+          When  CLEC  orders Unbundled Network Elements or Combinations that are
+          pre-existing  or already assembled, interconnected or functional, such
+          Elements  and  Combinations  will  remain interconnected or functional
+          without  any  disconnection and without loss of feature capability and
+          without  loss  of associated Ancillary Functions, if applicable. These
+          will  be  known as Contiguous Interconnection of Network Elements. The
+          charge  for  such  pre-existing  Combination  shall  be the sum of the
+          recurring  charges  applicable  to  the  elements  included  in  the
+          Combination,  and the applicable service order charges as specified in
+          this  Amendment  and  the  Pricing  Appendix-Combinations.
+
+          2.2.1.3
+          "Contiguous  Interconnection  of  Network  Elements" includes, without
+          limitation, the situation when CLEC orders all the Ameritech Unbundled
+          Network  Elements required either (1) to convert an Ameritech end-user
+          customer,  another CLEC pre-existing UNEP end-user customer, or a CLEC
+          resale end-user customer to a pre-existing UNE-P, or (2) to activate a
+          pre-existing  combination of Unbundled Network Elements to provision a
+          UNE-P  for  such requesting CLEC (a) without any change in features or
+          functionality  that  was  being provided by Ameritech (or by CLEC on a
+          resale  basis)  at  the time of the order, or (b) with only the change
+          needed  to  route  the  customer's  operator  service  and  directory
+          assistance  ("OS/DA")  calls to the CLEC OS/DA platform via customized
+          routing,  and/or  (c)  with  only  changes needed in order to change a
+          local switching feature, e.g., call waiting, and/or (d) with only work
+          or  changes  needed  to  activate  the  pre-existing
+
+
+                                                                  Mi2A Amendment
+                                                                          Page 5
+                                                                          032901
+
+          combination  of Unbundled Network Elements to provision a UNE-P. (This
+          2.2.1.3(b) section only applies to orders involving customized routing
+          after  customized  routing  has  been  established  to  an  CLEC OS/DA
+          platform  from  the  relevant Ameritech local switch, including CLEC's
+          payment  of  all  applicable charges to establish that routing.) There
+          will  be  no  interruption  of  service  to  the  end-user customer in
+          connection  with orders covered by this section, except for processing
+          time  that  is technically necessary to execute the appropriate recent
+          change  order  in  the  Ameritech  local  switch. Ameritech will treat
+          recent  change  orders  necessary  to provision CLEC orders under this
+          section  at  parity  with  recent  change  orders  executed  to  serve
+          Ameritech end-user customers, in terms of scheduling necessary service
+          interruptions  so  as to minimize inconvenience to end-user customers.
+
+
+     2.2.2  GENERAL  TERMS  RELATED  TO  UNE-P  COMBINATION
+
+          2.2.2.1
+          The  unbundled  network  elements  provided  in  this  Amendment  are
+          exclusively  for  use  by  CLEC,  as a "telecommunications carrier" in
+          providing  "telecommunication  services."  Ameritech  will  provide
+          sufficient  unbundled  network element capacity to meet CLEC's network
+          unbundling  needs  where  technically  feasible and in compliance with
+          applicable  law.  Where  insufficient  capacity  exists  to  meet  the
+          requesting  CLEC's technically feasible network unbundling needs, CLEC
+          may  request  that  additional  capacity  be  added via the "Bona Fide
+          Request"  or Facility Modification and Construction Process, whichever
+          is  applicable.
+
+          2.2.2.2
+          Pre-Existing  and newly assembled UNE-P shall only be provided to CLEC
+          for  use in the provision of telecommunications services as specified,
+          and  to  the  extent required by and subject to the Telecommunications
+          Act of 1996, Pub. L. No. 104-104, 110 Stat. 56 (1996) ("the Act"), the
+          rules,  regulations,  and  orders  of  the  Federal  Communications
+          Commission  ("FCC")  and the Commission, and any other applicable law.
+
+          2.2.2.3
+          The  following  representations  and commitments apply to pre-existing
+          and  newly assembled UNE-P Combinations provided under this Amendment:
+
+               -  Collocation,  as defined in the Agreement, is not required for
+               access  to  existing  or  new  UNE-P.
+
+               -  Ameritech  will  offer  to  provide its OS/DA at tariff or, if
+               applicable,  just  and  reasonable  market based rates negotiated
+               between  Ameritech and CLEC, for use by CLEC with existing or new
+               UNE-P.
+
+               -  Branding  of  CLEC's OS/DA traffic routed to Ameritech's OS/DA
+               platform(s)  shall  be  provided,  upon  request,  using  Service
+               Provider  Identification  (SPID).
+
+                                                                  Mi2A Amendment
+                                                                          Page 6
+                                                                          032901
+
+               -  Non-Telecommunications Services shall not be included with the
+               provision  of  existing  or  new UNE-P. This includes, but is not
+               limited  to,  voice  mail,  inside  wire  maintenance,  customer
+               premises  equipment  and  calling card services. Notwithstanding,
+               effective  as  of  March  1,  2001,  Ameritech makes available an
+               optional  and  separate voicemail arrangement for existing or new
+               UNE-P,  at  marketbased  prices,  pursuant  to  a  separate
+               non-telecommunications  service  agreement,  outside the scope of
+               sections  251,  252  or  271  of  the  1996  Act.
+
+               -  CLEC  agrees  that  it  has elected to obtain the Combinations
+               offered under this Amendment, on the terms, conditions and prices
+               contained herein. CLEC also expressly waives its rights to obtain
+               any of the same Combinations from any applicable Ameritech tariff
+               offering  during  the  term  of  this  Amendment, and agrees that
+               during  such  time  this Amendment will be the exclusive means of
+               obtaining  Combinations  from  Ameritech.
+
+          2.2.2.4
+          The  features,  functions,  and  capabilities  for  unbundled  local
+          switching  with  shared transport provided as part of pre-existing and
+          new  UNE-P  will be provided as set forth in the Agreement (which will
+          be amended to be consistent with Section 21, Unbundled Local Switching
+          with  Shared  Transport).  Ameritech  will  be  responsible  for  the
+          engineering,  provisioning,  and  maintenance  and  repair  of  the
+          underlying  equipment  and facilities that are used to provide ULS-ST.
+
+
+     2.2.3  ORDERING  AND  PROVISIONING
+
+          2.2.3.1
+          Ameritech  will  provide  CLEC with electronic access for pre-ordering
+          capabilities  and  service  order  requests  for  pre-existing and new
+          UNE-P.  Application  of  service  order types and applicable rates are
+          addressed  in  the  attached  Pricing  Appendix-Combinations.
+
+          2.2.3.2
+          Ameritech shall provide nondiscriminatory access to operations support
+          systems  on  an  unbundled  basis  to  CLEC  for  the  provision  of a
+          telecommunications  service.  Operations  support  system  functions
+          consist  of  pre-ordering,  ordering,  provisioning,  maintenance  and
+          repair,  and  billing functions supported by Ameritech's databases and
+          information.  Ameritech,  as part of its duty to provide access to the
+          pre-ordering function, provides requesting telecommunications carriers
+          with  nondiscriminatory  access to the same detailed information about
+          the  loop  that  is  available  to  itself.
+
+          2.2.3.3
+          The  service installation for each specific pre-existing and new UNE-P
+          combination  is provided at parity with the comparable retail service.
+
+          2.2.3.4
+          Ameritech  will  provide CLEC access to the Unbundled Network Elements
+          provided  for  in  this  Amendment,  including combinations of Network
+          Elements,  without  restriction
+
+                                                                  Mi2A Amendment
+                                                                          Page 7
+                                                                          032901
+
+          except  as  provided in this Amendment. CLEC is not required to own or
+          control  any  of  its  own  local  exchange  facilities  before it can
+          purchase  or  use  Unbundled  Network  Elements  to  provide  a
+          telecommunications  service under this Amendment. Ameritech will allow
+          CLEC to order each Network Element individually or in combination with
+          any  other  Network  Elements,  pursuant to the Agreement, in order to
+          permit  CLEC  to  combine  such  Network  Elements  with other Network
+          Elements  obtained  from Ameritech or with network components provided
+          by  itself  or by third parties to provide telecommunications services
+          to  its  customers,  provided  that  such  combination  is technically
+          feasible  and would not impair the ability of other carriers to obtain
+          access  to  other  unbundled  network elements or to interconnect with
+          Ameritech's  network.  Any  request by CLEC for Ameritech to provide a
+          type  of  connection  between  Network  Elements that is not currently
+          being  utilized in the Ameritech network and is not otherwise provided
+          for under this Agreement will be made in accordance with the Bona Fide
+          Request  process  described  in  the  Agreement.
+
+          2.2.3.5
+          When  CLEC  orders specific Unbundled Network Elements in combination,
+          Ameritech  will  provide  the  requested  elements  with  all  the
+          functionality,  and  with at least the same quality of performance and
+          operations  systems  support  (ordering,  provisioning,  maintenance,
+          billing and recording) that Ameritech provides through its own network
+          to  its  local exchange service customers receiving equivalent service
+          using  the  same  combination. For example, pre-existing and new UNE-P
+          ordered  by  CLEC  for  local  exchange  service will include, without
+          limitation,  MLT  testing,  real  time  due  date assignment, dispatch
+          scheduling,  service turn-up without interruption of customer service,
+          and  speed  and  quality  of  maintenance,  at parity with Ameritech's
+          delivery  of  service  to  its local exchange service customers served
+          through  equivalent  Ameritech  loop and switch ports. Network element
+          combinations  provided  to CLEC by Ameritech will meet all performance
+          criteria  and  measurements  that  Ameritech  achieves  when providing
+          equivalent  end  user service to its local exchange service customers.
+
+          2.2.3.6
+          CLEC  may request Ameritech to disconnect and reconnect local exchange
+          service  on  designated  line(s)  for  which CLEC provides residential
+          service  via  UNE-P.  Disconnection  and  reconnection of CLEC's basic
+          residential end users will be handled in a manner that enables CLEC to
+          comply with Rules 85 and 86, subject to the CLEC's compliance with the
+          notice  and timing provisions in Rules 84 and 85, in Billing Standards
+          for  Basic  Residential  Telecommunications Service, as ordered by the
+          Commission.
+
+          2.2.3.7
+          Technical  References  for  the  unbundled network elements comprising
+          Existing  UNE-P  can be found in the Agreement or in M.P.S.C. No. 20R,
+          Part 19, Section 21, Unbundled Local Switching with Shared Transport .
+
+     2.2.4  UNE-P  PRICING  PROVISIONS
+
+                                                                  Mi2A Amendment
+                                                                          Page 8
+                                                                          032901
+
+          2.2.4.1  Existing  UNE-P  Combinations
+          All  nonrecurring  and  recurring charges as specified in the attached
+          Pricing  Appendix- Combinations for "existing" UNE-P apply to existing
+          UNE-P  for  the  particular  elements  that  comprise the Combination.
+
+          2.2.4.2  New  UNE-P  Combinations
+          All  recurring  and  nonrecurring charges as specified in the attached
+          Pricing  Appendix- Combinations for "new" UNE-P apply to New UNE-P for
+          the  particular  elements  requested  as  part  of  the  Combination.
+
+     2.2.5  FOR  SERVICE  TO  BUSINESS  CUSTOMERS
+
+     Until March 28, 2003, which is a period of two years after the Commission's
+     Order  in Case No. U-12320 approving the general terms of this Amendment as
+     described  in  Section 3.1 became effective, Ameritech will provide to CLEC
+     the existing UNE-P and new UNE-P combinations as provided in this Amendment
+     during the Term of this Amendment without change notwithstanding subsequent
+     changes  in  law.  Provided,  however,  that  if  a  subsequent  final  and
+     nonappealable  judicial  decision  or FCC order modifies the obligations of
+     incumbent  LECs  regarding  combinations of network elements, including but
+     not  limited  to  the  precise  demarcation  point between new and existing
+     combinations,  the  parties  reserve  their  rights  to seek an appropriate
+     modification  of  this  Amendment  and  shall  negotiate  in  good faith an
+     appropriate  modification  to  conform  this  Amendment to such decision or
+     order, subject to resolution by the Commission if the parties are unable to
+     reach  agreement. For purposes of this Section, Business Customers shall be
+     defined  as  described in M.P.S.C. No. 20R, Part 2, Section 2 "Location and
+     Use  of  Telephone  Service." Beginning on the date that is two years after
+     such Commission approval, the modifications set forth in paragraphs 2.2.5.1
+     and  following  may  be  adopted  by  Ameritech:
+
+          2.2.5.1
+          If  the  FCC  or  the  Commission  determines  after this Amendment is
+          executed  by  the  Parties  or has determined before this Amendment is
+          executed  by  the  Parties  that a certain network element need not be
+          provided  under Section 251(c)(3) of the FTA, either statewide or in a
+          particular  location or locations, Ameritech may set the price of such
+          network  element(s)  at  a  market  level  for  the  applicable areas.
+          Ameritech  will provide 60 days' notice (in accordance with the Notice
+          provision  in  the  General Terms and Conditions of this Agreement) to
+          CLEC  that  the  FCC  or the Commission has made such a determination.
+          Ameritech  will  include  in  the  notice the specifics of any pricing
+          changes  and  the  implementation  dates  for  the  pricing  changes
+          applicable  to  CLEC.  Existing  nonrecurring prices will apply to any
+          UNEs  for  which  orders  are  received  prior  to midnight on the day
+          preceding  the  date  specified for the pricing change. Application of
+          the  market  level  nonrecurring  prices will apply beginning at 12:01
+          a.m.  on  the  date  specified  for implementation. Application of the
+          market  level  recurring charges will apply beginning at 12:01 a.m. on
+          the  date  specified  for implementation without regard to the time or
+          date  the  orders  were  received  by Ameritech. A market price set by
+          Ameritech
+
+
+                                                                  Mi2A Amendment
+                                                                          Page 9
+                                                                          032901
+
+          pursuant  to this paragraph will not be subject to review, approval or
+          disapproval  by  the  Commission.
+
+          2.2.5.2
+          If  the FCC or a court modifies or has modified the TELRIC methodology
+          applicable  to  unbundled  network  elements,  Ameritech  and CLEC may
+          renegotiate  the  applicable  prices  for  unbundled  network elements
+          provided  pursuant  to  Section  251(c)(3)  of Title 47, United States
+          Code.  If  the  Parties  are  unable  to reach agreement on applicable
+          prices  within  135  days  of  the  request  by  either Party for such
+          negotiations,  either  Party  may  submit  remaining  disputes  to the
+          Commission for arbitration. The scope of renegotiation and arbitration
+          of  prices  under this section will be limited to the scope of the FCC
+          or  court  modification  of  the TELRIC methodology to the extent that
+          such  methodology  was  relied  upon  in setting the unbundled network
+          element  rates  in  this  Amendment, and further limited to the impact
+          that  the  modification of the TELRIC methodology would have had if it
+          had  been  in  effect  at  the  time the UNE prices applicable to this
+          Amendment  were established. Pending the establishment of any modified
+          prices  by  Commission  arbitration  award  or  Commission approval of
+          negotiated  modifications, the prices set forth in this Amendment will
+          apply,  but will be subject to true-up back to the end of the two year
+          period  described  above  in  2.2.5 at the request of either party and
+          subject  to  the  approval  of  the  Commission.
+
+          2.2.5.3
+          In  those  Ameritech  central offices where there are four (4) or more
+          CLECs  collocated for which Ameritech has provided UNEs, Ameritech may
+          elect  to  not  combine  UNEs  that  are  not already combined in that
+          central  office,  i.e.,  "new"  combinations  as  defined  in  section
+          2.2.1.1. In that event, Ameritech will request that CLEC provide a one
+          (1)  year  forecast  of  its  expected demand for UNEs in that central
+          office  that  CLEC  will  combine  outside  of its existing or planned
+          collocation  arrangements. Within sixty (60) days of receipt of CLEC's
+          forecast, Ameritech will construct a secured frame room in the central
+          office  or,  if space is not available, external cross connect cabinet
+          until  space  becomes available in the central office at no additional
+          cost  to  CLEC  where  CLEC  may  combine UNEs. If CLEC submits such a
+          forecast,  Ameritech  will  continue to combine UNEs until the secured
+          frame  room  or  external  cross  connect cabinet is made available to
+          CLEC.  However,  if at any time after a secured frame room or external
+          cross  connect  cabinet is made available, Ameritech is unable to meet
+          CLEC's  forecasted demand for UNEs to be combined through use of these
+          arrangements  due  to  a  lack  of  capacity,  Ameritech  will  resume
+          combining  UNEs  for CLEC on new combination orders until capacity can
+          be  provided.  If CLEC fails to submit such a forecast, Ameritech will
+          no  longer combine UNEs that are not already combined. CLEC can access
+          the secured frame or the external cross-connect cabinet without having
+          to  collocate.
+
+               2.2.5.3.1
+               When a CLEC orders elements for combining at the secured frame or
+               cabinet, Ameritech will cross-connect those elements to the frame
+               or  cabinet  at  no  additional  charge  to  the CLEC, beyond the
+               recurring  and  non-recurring  charges  provided for the elements
+               themselves  under  this  Amendment  (e.g.,  for  a  loop and port
+               combination,
+
+
+                                                                  Mi2A Amendment
+                                                                         Page 10
+                                                                          032901
+
+               Ameritech will cross-connect the loop and the port to the secured
+               frame  or cabinet, and the CLEC will pay applicable recurring and
+               non-recurring  charges for the loop and the port, but there is no
+               charge  for use of the frame or cabinet and no charge for a cross
+               connect  from  loop  to  frame/cabinet  or  from  port  to
+               frame/cabinet).
+
+               2.2.5.3.2
+               Ameritech and CLEC shall negotiate a mutually agreeable method of
+               wiring for cross-connects at the secured frame or cabinet. During
+               such  period  of negotiation or until a mutually agreeable method
+               of wiring is established, the CLEC may obtain from Ameritech, the
+               combining services for Network Elements at a non-recurring charge
+               to  be  set  by  Ameritech  at any amount not to exceed (TBD) for
+               simple  business  orders  and  (TBD) for complex business orders.
+               This  charge  shall  apply  in  addition  to any other applicable
+               recurring  and  non-recurring  charges.
+
+               2.2.5.3.3
+               A  CLEC  may  order  multiple  elements on a single local service
+               request  ("LSR")  for  combining at the secured frame or external
+               cabinet, in accordance with the terms and conditions for ordering
+               and  provisioning  of  UNEs  as  set  out  in  the  Agreement.
+
+               2.2.5.3.4
+               If  this  option  is  selected as described in 2.2.5.3, Ameritech
+               will  develop  performance measures related to the timeliness and
+               accuracy  of  its  provisioning  of elements for combining at the
+               secured  frame  or  external cabinet, during the six-month review
+               process as set out in the Performance Remedy Plan. These measures
+               will  be incorporated into the liquidated damages and assessments
+               provisions  of  the  Performance  Remedy  Plan.
+
+          2.2.5.4
+          Ameritech  may not substitute the above described methods of combining
+          UNEs  for  its  own  continued performance of such connections at cost
+          based  rates  if  the  FCC  or reviewing court has determined that the
+          ILECs  have  an  obligation  to  perform  such  connections.
+
+
+     2.2.6  FOR  SERVICE  TO  RESIDENTIAL  CUSTOMERS
+
+     Until  March  28,  2004,  which  is  a  period  of  three  years  after the
+     Commission's  Order  in Case No U-12320 approving the general terms of this
+     Amendment  as  defined  in  Section  3.1  became  effective, Ameritech will
+     provide  to  CLEC the existing UNE-P and new UNE-P combinations as provided
+     in  this  Amendment  during  the  Term  of  this  Amendment  without change
+     notwithstanding  subsequent  changes  in  law. Provided, however, that if a
+     subsequent  final and nonappealable judicial decision or FCC order modifies
+     the  obligations  of  incumbent  LECs  regarding  combinations  of  network
+     elements,  including  but  not  limited  to  the  precise demarcation point
+     between  new and existing combinations, the parties reserve their rights to
+     seek  an  appropriate modification of this Amendment and shall negotiate in
+     good  faith  an  appropriate  modification  to
+
+
+                                                                  Mi2A Amendment
+                                                                         Page 11
+                                                                          032901
+
+     conform  this Amendment to such decision or order, subject to resolution by
+     the  Commission  if the parties are unable to reach agreement. For purposes
+     of  this  Section,  Residential  Customers shall be defined as described in
+     M.P.S.C.  No.  20R  Part  2,  Section  2  "Location  and  Use  of Telephone
+     Services."  Beginning on the date that is three years after such Commission
+     approval,  the  modifications set forth in paragraphs 2.2.6.1 and following
+     may  be  adopted  by  Ameritech:
+
+          2.2.6.1
+          If the FCC or the Commission determines that a certain network element
+          need  not  be  provided  under  Section  251(c)(3)  of the FTA, either
+          statewide  or in a particular location or locations, Ameritech may set
+          the  price  of  such  network  element(s)  at  a  market level for the
+          applicable  areas.  To  the  extent  that  the  FCC  or  Commission
+          determination eliminates the obligation to supply an element at TELRIC
+          rates  as  part  of  a platform of unbundled network elements, i.e., a
+          combination  of  elements  sufficient  to  permit  a  CLEC  to deliver
+          end-to-end  service  to  an  end  user  customer  without  using  CLEC
+          equipment  or  facilities  (other than operator services and directory
+          assistance  service  that the CLEC may supply via customized routing),
+          then,  in  pricing  the  unbundled network element platform under this
+          provision,  Ameritech  shall  not  increase  the  total  price  of the
+          platform  by  more  than  twenty  (20)  percent  each  year.
+
+          2.2.6.2
+          If  the FCC or a court modifies or has modified the TELRIC methodology
+          applicable  to  unbundled  network  elements,  Ameritech  and CLEC may
+          renegotiate  the  applicable  prices  for  unbundled  network elements
+          provided  pursuant  to  Section  251(c)(3)  of Title 47, United States
+          Code.  If  the  Parties  are  unable  to reach agreement on applicable
+          prices  within  135  days  of  the  request  by  either Party for such
+          negotiations,  either  Party  may  submit  remaining  disputes  to the
+          Commission for arbitration. The scope of renegotiation and arbitration
+          of  prices  under this section will be limited to the scope of the FCC
+          or  court  modification  of  the TELRIC methodology to the extent that
+          such  methodology  was  relied  upon  in setting the unbundled network
+          element  rates  in  this  Amendment, and further limited to the impact
+          that  the  modification of the TELRIC methodology would have had if it
+          had  been  in  effect  at  the  time the UNE prices applicable to this
+          Amendment  were established. Pending the establishment of any modified
+          prices  by  Commission  arbitration  award  or  Commission approval of
+          negotiated  modifications, the prices set forth in this Amendment will
+          apply but will be subject to true-up back to the end of the three year
+          period  described  in  2.2.6  above at the request of either party and
+          subject  to  the  approval  of  the  Commission.
+
+2.3  ENHANCED  EXTENDED  LOOP  (EEL)
+
+Consistent with Sections 2.2.5, 2.2.5.1, 2.2.5.2, and 2.2.6, 2.2.6.1 and 2.2.6.2
+above:
+
+     2.3.1
+     Ameritech  will  combine unbundled loops with unbundled dedicated transport
+     as  described herein to provide enhanced extended loop at the recurring and
+     nonrecurring  charges  applicable  to  each  UNE  requested  above,  with
+     applicable  recurring  and
+
+
+                                                                  Mi2A Amendment
+                                                                         Page 12
+                                                                          032901
+
+     nonrecurring charges for cross connects, multiplexing and other options, as
+     available,  and  applicable  Service  Order  Charges.  Ameritech  will
+     cross-connect  unbundled  2  or  4-wire  analog  or 2-wire digital loops to
+     unbundled  DS1,  or DS3 dedicated transport facilities for CLEC's provision
+     of circuit switched or packet switched telephone exchange service to CLEC's
+     own  end user customers. Ameritech will also cross-connect unbundled 4-wire
+     digital  loops  (DS1  loops)  to  unbundled DS1, or DS3 dedicated transport
+     facilities  for  CLEC's  provision  of  circuit switched telephone exchange
+     service  to  CLEC's  own  end  user  customers.
+
+     2.3.2
+     The unbundled dedicated transport facility will extend from CLEC customer's
+     Ameritech  serving  wire  center  to CLEC's collocation cage in a different
+     Ameritech  central  office in the same LATA. CLECs must order the dedicated
+     transport  facility,  with  any  necessary  multiplexing,  from  CLEC's
+     collocation  cage to the wire center serving CLEC's end user customer. CLEC
+     will  order  each  loop  as  needed  and provide Ameritech with the Channel
+     Facility Assignment (CFA) to the dedicated transport. For the loop UNE, the
+     dedicated  transport  UNE, the cross-connects needed to combine the two, as
+     well  as  any  necessary  multiplexing,  ordering  and provisioning will be
+     pursuant  to the ordering and provisioning terms and conditions for UNEs as
+     set  out  in  the Agreement. For the loop UNE, the dedicated transport UNE,
+     the  cross-connects  needed  to  combine  the two, as well as any necessary
+     multiplexing,  maintenance  will  be  pursuant to the maintenance terms and
+     conditions  for  UNEs  as  set  out  in  the  Agreement.
+
+     2.3.3
+     Alternatively,  CLEC  may  cross-connect unbundled loops with the unbundled
+     dedicated  transport facilities in its physical collocation space utilizing
+     its  own equipment or through the secured frame room in the central office,
+     or  if  space  is not available, in an external cross-connect cabinet until
+     space becomes available in the central office. The restrictions on loop and
+     transport  facility  type,  and  on  CLEC  services to be provided over the
+     extended  loop,  that  are  contained  in Section 2.3.1 and 2.3.5 regarding
+     Ameritech-combined EELs do not apply to the combinations assembled by CLECs
+     under  this  subsection  2.3.3.  CLEC  can  access the secured frame or the
+     external  cross connect cabinet without having to collocate. If CLEC elects
+     the  secured  frame or cabinet option, CLEC will provide a rolling 12 month
+     forecast,  updated  every  six  (6)  months,  of  its  expected  demand for
+     unbundled  loops  to  be  connected  with the unbundled dedicated transport
+     facilities in each central office in which CLEC will combine outside of its
+     existing  or  planned  collocation arrangements. Within sixty (60) days' of
+     receipt  of  CLEC's  forecast  for  a  given central office, Ameritech will
+     construct, at cost to CLEC, a secured frame room in the central office, or,
+     if  space  is  not  available,  external  cross connect cabinet until space
+     becomes  available  in the central office, where CLEC may combine unbundled
+     loops  with  the unbundled dedicated transport facilities. There will be an
+     additional  charge  to  the CLEC for Ameritech extending loop and transport
+     elements  to the secured frame or cabinet. If CLEC submits such a forecast,
+     Ameritech  will  temporarily  combine  unbundled  loops  with the unbundled
+     dedicated  transport  facilities  until  the secured frame room or external
+     cross  connect  cabinet  is  made available to CLEC. When the secured frame
+     room  or  external  cross  connect  cabinet  is  made
+
+
+                                                                  Mi2A Amendment
+                                                                         Page 13
+                                                                          032901
+
+     available,  CLEC  will,  within ninety (90) days after providing a forecast
+     for  a  particular  central  office  or  thirty  (30)  days after receiving
+     appropriate  terminal  assignment  information  to place connections on the
+     secured  frame,  whichever is later, replace the temporary connections made
+     by  Ameritech,  effectively half-tapping the existing temporary connections
+     so  that  the  temporary connection can be removed without interrupting the
+     end user's service. When notified by CLEC that its connections are complete
+     within  the  period  described  above,  Ameritech will remove its temporary
+     connections.  If  CLEC  fails  to  notify  Ameritech that it has placed its
+     connections  on the secured frame during that period, Ameritech will charge
+     CLEC  the  applicable  special  access recurring and nonrecurring rates, in
+     lieu  of the UNE rates. Such special access charges shall be retroactive to
+     the  date  Ameritech  began  combining  the  UNEs for CLEC pursuant to this
+     paragraph.  If  at  any  time  after a secured frame room or external cross
+     connect  cabinet  is  made  available,  Ameritech  is unable to meet CLEC's
+     forecasted  demand for use of these arrangements due to a lack of capacity,
+     Ameritech will again temporarily combine unbundled loops with the unbundled
+     dedicated  transport  facilities  as  an interim arrangement for CLEC until
+     capacity  can  be  provided.  When  capacity  is  made available, temporary
+     connections performed by Ameritech will be removed as described above. If a
+     CLEC  is located at an external cross connect cabinet because Ameritech ran
+     out  of space in a central office, once there is additional space available
+     in  the  central  office,  and a CLEC requests to move to the secured frame
+     room,  there  will  be no charge to the CLEC for moving. Such move shall be
+     coordinated  to  minimize  service  disruption  to  the  customer.
+
+     Ameritech  will  not disclose the forecasts provided for in this section to
+     any  persons  other  than  Ameritech employees responsible for provisioning
+     extended  loops  under  the  secured  frame  and cabinet options. Any other
+     disclosure,  and  any  use by Ameritech of these forecasts for marketing or
+     business  strategic  purposes,  is  prohibited.
+
+          2.3.3.1
+          Ameritech  and  CLECs shall jointly establish, within 30 days from the
+          approval  of this Amendment, a detailed procedure for combining 4 wire
+          digital  loops  (e.g.,  DS1  loops)  to dedicated transport facilities
+          (e.g.,  DS3  transport)  where  CLECs  are required to combine. In the
+          event  the parties are unable to reach agreement, the Commission shall
+          establish  the  procedure  within  sixty  days.
+
+
+     2.3.4
+     If CLEC orders a combination of unbundled loops and transport that meet the
+     definition  of  enhanced  extended  loop in this Amendment that are already
+     connected  at  the  time  of  the  CLEC order (e.g., the elements are in an
+     existing  equivalent configuration), Ameritech will supply that combination
+     to CLEC as a "pre-existing combination," without separating and recombining
+     the  elements, pursuant to Section 2.2.5 and other applicable provisions of
+     this  Amendment,  including subsection 2.3.5 below. For the reconfiguration
+     of  qualifying special access arrangements to combined UNEs, Ameritech will
+     apply  the  recurring  and  nonrecurring  charges  applicable  to  each UNE
+     requested  along  with the appropriate Service Order Charge consistent with
+     the  terms  and  conditions
+
+
+                                                                  Mi2A Amendment
+                                                                         Page 14
+                                                                          032901
+
+     in M.P.S.C. No. 20R, Part 19, Section 19, Reconfiguration of Special Access
+     to  UNE  Combinations.
+
+     2.3.5
+     The  unbundled  network  elements that comprise the EEL in this section 2.3
+     shall  only  be provided to CLEC to the extent the EEL is used to provide a
+     significant  amount  of  local  exchange  service  to a particular end user
+     customer.  This limitation is the same as the requirements set forth in the
+     FCC's  Supplemental  Order  Clarification  in  FCC CC Docket No. 96-98, FCC
+     00-183  (released June 2, 2000). CLEC's use of the EEL and its provision of
+     telecommunication  services  is  as  specified,  and  subject  to,  the
+     Telecommunications  Act  of  1996  ("the Act"), the rules, regulations, and
+     orders  of  the  FCC  and  the  Commission,  and  any other applicable law.
+
+     2.3.6
+     All  recurring  and nonrecurring charges as defined in the attached Pricing
+     Appendix-  Combinations  apply  to  the  "new" EEL combinations provided in
+     Section  2.3.1,  for  the  particular  elements  requested  as part of such
+     Combination.
+
+     2.3.7
+     Ameritech  will  provide  CLEC  with  electronic  access  for  pre-ordering
+     capabilities  and  service  order  requests  for  EELs.
+
+3.0  EFFECTIVE  DATE
+     ---------------
+
+3.1
+Any  CLEC that wants to accept this entire Amendment, may request it in writing,
+after  March  29,  2001, based upon and subject to the Order on Rehearing, dated
+March  19,  2001  issued  by  the  Commission in Case No. U-12320 approving this
+Amendment,  and  finding  that  the terms and conditions of this Amendment, when
+implemented  meet  the  product  offering  requirements  of  47  U.S.C.  Section
+271(c)(2)(B)(ii)  for  purposes  of  providing  combinations of network elements
+(subject  to  change in law regarding combination obligations as described above
+in  Sections  2.2.5  and  2.2.6),  and  conditioned  upon  Ameritech's  actual
+provisioning  of  combinations,  satisfactory  OSS  testing  and  performance
+measurement  results. Within 5 business days of such written notification from a
+CLEC  with  an  existing  and  effective  Interconnection  Agreement,  Ameritech
+shall  present  the  CLEC  with  a signed Amendment to Interconnection Agreement
+substantively  identical to this Amendment. Within 5 business days of receipt of
+the Ameritech signed Amendment to Interconnection Agreement, the CLEC shall sign
+such  Amendment  to  Interconnection Agreement and cause it to be filed with the
+Commission.  The signed Amendment to Interconnection Agreement between Ameritech
+and  the CLEC shall become effective by operation of law immediately upon filing
+with  the  Commission  (the  "Effective  Date").
+
+4.0  TERM  OF  AMENDMENT
+     -------------------
+
+4.1
+                                                                  Mi2A Amendment
+                                                                         Page 15
+                                                                          032901
+
+This  Amendment will become effective as of the Effective Date stated above, and
+will  expire  on  September  28, 2002, which is 18 months after MPSC approval as
+described  in Section 3.1 above, unless the FCC approves Ameritech's application
+to  provide  in-region interLATA service in Michigan under 47 U.S.C. 271 by June
+28,  2002,  which  is 15 months after MPSC approval, in which event the terms of
+this  Amendment  will automatically be extended until March 28, 2005, which is 4
+years  after  MPSC  approval as described in Section 3.1 above. In the event the
+FCC  approves  Ameritech's application to provide in-region interLATA service in
+Michigan  under  47 U.S.C. 271 after June 28, 2002, but prior to March 28, 2005,
+Ameritech shall have the option of extending the Amendment until March 28, 2005.
+In  such  event,  Ameritech  will  provide notice to the Commission and to CLEC,
+within  five  business  days  of  FCC  approval,  of its agreement to extend the
+Amendment until March 28, 2005. If either party desires to negotiate a successor
+agreement  to  the  Agreement,  such  party  must provide the other party with a
+written request to negotiate such successor agreement (Request to Negotiate) not
+later  than  180  days  prior  to the expiration of this Amendment. A Request to
+Negotiate  does  not  activate  the  negotiation  timeframe  set  forth  in this
+Amendment,  nor  does  it shorten the life of this Amendment. The noticing Party
+will  delineate  the items desired to be negotiated. Not later than 30 days from
+receipt of said Notice to Negotiate, the receiving Party will notify the sending
+Party  of  additional  items  desired to be negotiated, if any. The Parties will
+begin  negotiations  not  later  than  135  days  prior  to  expiration  of this
+Amendment.  If  the  FCC  approves  Ameritech's application to provide in-region
+interLATA service in Michigan after June 28, 2002, and Ameritech provides notice
+of  its  agreement  under  this  Section to extend the Amendment until March 28,
+2005,  CLEC  may  withdraw  its  Request  to  Negotiate.
+
+4.2
+The initial and extension term(s) of this Amendment will apply to the Agreement,
+or  successor  agreements.  The term of this Amendment will not, however, extend
+the  term of the Agreement or any successor agreement that has or will terminate
+during  the  initial  or  extension  term(s)  of  this  Amendment.
+
+4.3
+This  Amendment  contains  a group of legitimately related provisions offered by
+Ameritech  in  the context of a Section 271 collaborative proceeding in Michigan
+and  as  such  cannot  be  modified  by  incorporating,  via  Section  252(i) or
+otherwise, provisions from other interconnection agreements into this Amendment.
+CLECs  with  other  agreements  may  incorporate  this  Amendment  into  their
+interconnection  agreement in accordance with Section 252(i). Should CLEC opt to
+incorporate  any  provision  of  this  Amendment  into  another  interconnection
+agreement  pursuant  to  Section  252(i)  of  the  Act,  the provision from this
+Amendment  shall  expire on the date provided in Section 4.1 above and shall not
+control  the  expiration  date  of  the  provisions of the other interconnection
+agreement.
+
+5.0  MOST  FAVORED  NATIONS  -  IN  STATE  ONLY
+     ------------------------------------------
+
+5.1
+The  Parties  acknowledge and agree that this Amendment is the result of a state
+Section  271  collaborative  process  in  Case  No.  U-12320,  and the result of
+negotiations  in  that proceeding with the Commission, Ameritech and the parties
+to  Case  No.  U-12320.  The  parties  further
+
+
+                                                                  Mi2A Amendment
+                                                                         Page 16
+                                                                          032901
+
+acknowledge  and  agree that this Amendment was therefore agreed upon outside of
+the  negotiation  procedures  of 47 U.S.C. Section 252(a)(1). (See SBC/Ameritech
+Order  in  CC  Docket No. 98-141, FCC 99-279 at Condition 43, and Note 725). The
+parties  further acknowledge that the terms, conditions and prices for the UNE-P
+and  EEL  combination  provisions  in this Amendment and in the attached Pricing
+Appendix-Combinations  are  nonseverable and "legitimately related" for purposes
+of  Section  252(i)  of  Title  47,  United  States  Code.
+
+6.0  WAIVER
+     ------
+
+6.1
+For  purposes  of  this  Section  and,  for the time period(s) specified in this
+Amendment,  Ameritech  agrees  to  waive  the  right  to assert that it need not
+provide pursuant to the "necessary and impair" standards of Section 251(d)(2) of
+Title 47, United States Code, a network element now available under the terms of
+this  Amendment  and/or  its  rights  with regard to the combination of any such
+network elements that are not already combined, and available under the terms of
+this  Amendment. CLEC agrees that the UNE-P and EEL provisions of this Amendment
+are  nonseverable  and  "legitimately related" for purposes of Section 252(i) of
+Title 47, United States Code. Accordingly, CLEC agrees to take the UNE-P and EEL
+provisions  of  this Amendment and the attached Pricing Appendix-Combinations in
+their  entirety,  without change, alteration or modification, waiving its rights
+to  "pick  and choose" UNE provisions from other agreements under Section 252(i)
+of  Title  47,  United  States Code. This mutual waiver of rights by the Parties
+will  constitute  additional  consideration  for  the  Amendment.
+
+6.2
+By entering into this Amendment to obtain the benefits set forth herein in whole
+or  in  part,  CLEC  expressly  waives  its right to challenge the terms of this
+Amendment  in any judicial, dispute resolution or regulatory proceeding as being
+inconsistent  with the product offering requirements of Section 271(c)(2)(B)(ii)
+for purposes of providing combinations of network elements (subject to change in
+law  regarding  combination obligations as described above in Sections 2.2.5 and
+2.2.6).  Except  that CLEC expressly reserves the right to challenge Ameritech's
+actual  provisioning  of  combinations, satisfactory OSS testing and performance
+measurement results; and to seek clarification or interpretation of the terms of
+this  Amendment  through  the  dispute  resolution  process  established  by the
+Commission  or  challenge  in  any  judicial,  dispute  resolution or regulatory
+proceeding  the interpretation of this Amendment or any Amendment containing the
+same  or  substantially  similar  language  to  this  Amendment;  such  right
+to  challenge  actual  results  or  to  seek  clarification or interpretation or
+challenge  the  interpretation  also  includes  the  right  to  appeal the final
+judicial,  dispute  resolution  or regulatory decision and to continue to pursue
+pending  appeals.  When a final decision is rendered by the appellate court, the
+affected  contract  provision  shall  be  revised  to reflect the result of such
+appeal.  Any  dispute  between  the  Parties  regarding the manner in which this
+Amendment  should  be  modified  to  reflect  the  effect of the appellate court
+decision  shall  be resolved by the Commission. Notwithstanding CLEC's waiver of
+its  right to contest this Amendment under Section 271(c)(2)(B)(ii) as described
+above,  CLEC expressly reserves the right to pursue alternate theories regarding
+combinations  of  network  elements  in  pending  or  future  Section  251/252
+arbitrations.  Except  as  provided  in this section, CLEC reserves the right to
+pursue  pending  appeals  and  to  appeal  any
+
+
+                                                                  Mi2A Amendment
+                                                                         Page 17
+                                                                          032901
+
+other state or federal regulatory decision, but, absent a stay or reversal, will
+comply  with  any  such  final decision. Nothing in this Amendment limits CLEC's
+right  or  ability  to  participate  in  any  proceedings  regarding  the proper
+interpretation  and/or  application  of  the  1996 Telecommunications Act or the
+Michigan  Telecommunications  Act.
+
+6.3
+On  January 25, 1999, the United States Supreme Court issued its opinion in AT&T
+Corp.  v.  Iowa Utilities Board, 525 U.S. 366, 119 S. Ct. 721 (1999) and on June
+1, 1999, the United States Supreme Court issued its opinion in Ameritech v. FCC,
+No.  98-1381,  119  S Ct. 2016 (June 1, 1999). In addition, on November 5, 1999,
+the  FCC issued its Third Report and Order and Fourth Further Notice of Proposed
+Rulemaking in CC Docket No. 96-98 (FCC 99-238), including the FCC's Supplemental
+Order  issued  In  the  Matter  of  the  Local  Competition  Provisions  of  the
+Telecommunications  Act  of  1996,  in  CC  Docket  No. 96-98 (FCC 99-370) (rel.
+November  24,  1999),  portions  of  which  become  effective  thirty  (30) days
+following  publication of such Order in the Federal Register (February 17, 2000)
+and  other  portions of which become effective 120 days following publication of
+such  Order in the Federal Register (May 17, 2000). On July 18, 2000, the United
+States  Court  of  Appeals issued its opinion in Iowa Util. Bd. v. FCC, 219 F.3d
+744  (8th  Cir.  2000)  cert.  granted 121 S.Ct 877-79 (2001). By executing this
+Amendment,  neither  party  waives any of its rights, remedies or arguments with
+respect  to  such  decisions,  any  remands  thereof,  or  any  federal or state
+proceedings  related  thereto,  including  its  right  to  seek  legal  review
+or  a  stay  of  such  decisions,  or  its  rights  under  the  Amendment.
+
+7.0  MISCELLANEOUS
+     -------------
+
+7.1
+The  Agreement,  as  amended hereby, shall remain in full force and effect until
+terminated pursuant to its terms. This Amendment does not extend the term of the
+Agreement.  On and from the Amendment Effective Date, reference to the Agreement
+in  any  notices,  requests,  orders,  certificates and other documents shall be
+deemed  to  include  this  Amendment,  whether  or not reference is made to this
+Amendment,  unless  the  context  shall  be  otherwise  specifically  noted.
+
+7.2
+This Amendment may be executed in counterparts, each of which shall be deemed an
+original  but  all  of  which  when  taken  together  shall  constitute a single
+agreement.
+
+7.3
+This  Amendment,  including  the  attached  Pricing  Appendix-Combinations,
+constitutes the entire Amendment between the Parties and supersedes all previous
+proposals,  both  verbal  and  written.
+
+7.4
+The  Parties acknowledge that in no event shall any rates, terms, and conditions
+set  forth in this Amendment apply to any products or services purchased by CLEC
+prior  to  the  Amendment  Effective  Date.
+
+
+                                                                  Mi2A Amendment
+                                                                         Page 18
+                                                                          032901
+
+     IN  WITNESS  WHEREOF, the Parties have caused this Amendment to be executed
+by  their  duly  authorized  representatives as of the Amendment Effective Date.
+
+Talk.com  Holding,  Corp.               SBC  Telecommunications,  Inc.
+                                        as  agent  for  Ameritech  Michigan
+
+
+By:  /s/  George  Vinall               By:  /s/  O.R.  Stanley
+Printed:  George  Vinall               Printed:  O.R.  Stanley
+Title:  EVP-Business  Development      Title:  President-Industry  Markets
+Date:  May  15,  2001                  Date:  May  25,  2001
+
+
+
+
+</TEXT>
+</DOCUMENT>

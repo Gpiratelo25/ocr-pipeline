@@ -1,0 +1,1699 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>4
+<FILENAME>exh_10-69.txt
+<DESCRIPTION>EXHIBIT 10.69
+<TEXT>
+                                                                   EXHIBIT 10.69
+                                                                   -------------
+
+AMENDMENT 1 TO THE MANAGED OPERATIONS SERVICES AGREEMENT
+--------------------------------------------------------------------------------
+
+Franklin Templeton Companies,  LLC, a Delaware Limited Liability Company, having
+a place of business at One Franklin Parkway,  San Mateo, CA. 94403  ("Franklin")
+and  International  Business Machines  Corporation,  having place of business at
+Route 100, Somers, New York, 10589 ("IBM")  (collectively  referred to herein as
+the "Parties"),  agree that the following terms and conditions (the "Amendment")
+amend and supplement the Managed Operations Services  Agreement,  dated February
+6,  2001,  between  Franklin  and IBM (the  "Agreement").  This  Amendment  adds
+Fiduciary Trust Company International  ("Fiduciary"),  an Affiliate of Franklin,
+as a recipient of the Services.  The affected and changed sections and Schedules
+of the Agreement are as indicated below. Unless modified herein, all other terms
+and  conditions  defined in the Agreement  shall apply and have the same meaning
+when used in this Amendment. In the event of any inconsistency between the terms
+of the Agreement and the terms of this  Amendment,  the terms of this  Amendment
+shall  prevail.  All  terms  and  conditions  of  the  Agreement  not  otherwise
+specifically  amended or supplemented  herein remain unchanged and in full force
+and effect.  The Term of this Amendment will begin as of the date it is executed
+by the Parties (the  "Fiduciary  Effective  Date") or upon  commencement  of any
+Services provided hereunder,  whichever is first, and will run concurrently with
+the Agreement. Termination provisions of the Agreement apply to this Amendment.
+
+REVISED AND AMENDED DOCUMENTS:
+
+I.      THE AGREEMENT:
+----------------------
+
+1.   ADD THE FOLLOWING AS SECTION 1.aaa. (DEFINITIONS):
+     --------------------------------------------------
+"Fiduciary  Commencement  Date  means  the date  upon  which  the  Services  for
+Fiduciary  commence,  which shall be July 17, 2001  unless  otherwise  specified
+herein or in a Schedule hereto."
+
+2.   SECTION 1.qq. IS HEREBY MODIFIED AS FOLLOWS:
+     --------------------------------------------
+"Services" means those services  performed by IBM as described in the Agreement,
+Schedules and Supplements thereto.
+
+3.   ADD THE FOLLOWING SENTENCES TO SECTION 3.e. (PROJECT EXECUTIVE):
+     ----------------------------------------------------------------
+"IBM shall also  appoint a Data  Center  Site  Manager  for the  Fiduciary  Data
+Center,  who shall serve as the manager for all Services  provided by IBM at the
+Fiduciary Data Center from the date Services  commence at such Data Center.  The
+Fiduciary  Data Center Site Manager  shall be  considered  a Protected  Employee
+until IBM has completed its consolidation  obligations relative to the Fiduciary
+Data Center, pursuant to Supplement E-1 of Schedule E."
+
+4.   ADD THE FOLLOWING SENTENCE TO SECTION 8.d. (REQUIRED CONSENTS):
+     ---------------------------------------------------------------
+"Franklin shall cause to be secured, any consents relating to Fiduciary In-Scope
+Software and In-Scope  Equipment,  and shall be  responsible  for payment of all
+fees associated with obtaining such consents, if any."
+
+IBM/FRANKLIN CONFIDENTIAL                                            Page 1 of 4
+Final                                                                Amendment 1
+
+IBM Initials  /s/ BR                                   Franklin Initials /s/ AG
+              ------                                                     ------
+<PAGE>
+
+5.   ADD THE FOLLOWING AS SECTION 10.a.(vi)(DESIGNATION OF PROTECTED EMPLOYEES):
+     ---------------------------------------------------------------------------
+"the Data Center Site Manager for the Fiduciary  Data Center shall be considered
+a Protected Employee only until IBM has completed its consolidation  obligations
+pursuant to Supplement E-1 of Schedule E."
+
+6.   SECTION 24.a. IS HEREBY MODIFIED AS FOLLOWS:
+     --------------------------------------------
+"IBM shall indemnify,  hold harmless and defend Franklin, its Affiliates and its
+and their directors,  officers,  employees and agents, at IBM's expense, against
+any claim by a third party against  Franklin,  its  Affiliates and its and their
+directors, officers, employees and agents:"
+
+7.   ADD THE FOLLOWING AS SECTION 24.a.viii.:
+     ----------------------------------------
+" arising from IBM's use of any third party software provided to IBM by Franklin
+or Franklin Affiliates, to the extent such claim results from a breach by IBM of
+any provisions of the applicable third party license agreement."
+
+8.   SECTION 24.b. IS HEREBY MODIFIED AS FOLLOWS:
+     --------------------------------------------
+"Franklin shall indemnify,  hold harmless and defend IBM, its Affiliates and its
+and their  directors,  officers,  employees and agents,  at Franklin's  expense,
+against any claim by a third party against IBM, its Affiliates and its and their
+directors, officers, employees and agents:"
+
+9.   ADD THE FOLLOWING AS SECTION 24.b.vii.:
+     ---------------------------------------
+"arising as a result of Franklin's  failure to obtain any consent which Franklin
+is obligated to provide to IBM under this Agreement."
+
+10.  SECTION 27.f. IS HEREBY MODIFIED AS FOLLOWS:
+     --------------------------------------------
+Compliance with Laws. The parties shall comply with all applicable Federal,
+State and local laws, regulations, guidelines and ordinances as they relate to
+this Agreement and the Services, including but not limited to the following:
+
+i.   SECURITY PROVISIONS FOR COMPLIANCE WITH GRAMM LEACH BLILEY ACT
+-------------------------------------------------------------------
+
+     1.   Any storage of any  "nonpublic  personal  information"  of Fiduciary's
+          customers  (whether in any IBM  system,  file  server,  file folder or
+          premises) shall be deemed Fiduciary Confidential  Information (as such
+          term is defined in Section 26 of the  Agreement  (the "NDA") and shall
+          be subject to the provisions of the NDA. Despite the provisions of the
+          NDA, IBM shall keep such "nonpublic personal information" confidential
+          in  perpetuity  until  such time that it becomes  "publicly  available
+          information." The terms "nonpublic personal information" and "publicly
+          available  information"  shall have the  meanings  set forth in 12 CFR
+          332. IBM agrees that,  unless  otherwise  required by law,  only those
+          persons contemplated by Section 26.a. of the Agreement can gain access
+          to Fiduciary Confidential Information.
+
+     2.   During the term of this Agreement, upon reasonable notice by Fiduciary
+          and during normal business hours,  IBM will allow Fiduciary  access to
+          its premises to monitor IBM's  compliance  with the foregoing,  to the
+          extent  reasonably  necessary,   provided  such  monitoring  does  not
+          adversely affect IBM's ability to conduct its business.  Fiduciary may
+          hire an  independent  auditor  to conduct  such  audit on its  behalf,
+          provided  that such  auditor  first  agrees in  writing to be bound to
+          obligations  of  confidentiality  at least as  stringent  as those set
+          forth in the NDA. Upon
+
+IBM/FRANKLIN CONFIDENTIAL                                            Page 2 of 4
+Final                                                                Amendment 1
+
+IBM Initials  /s/ BR                                   Franklin Initials /s/ AG
+              ------                                                     ------
+<PAGE>
+
+          request,  IBM will provide  Fiduciary with a copy of IBM's most recent
+          SAS 70  report  for the  service  delivery  center(s)  where  IBM will
+          process or store Fiduciary Confidential Information.  It is understood
+          that IBM may redact from the SAS 70 reports  confidential  information
+          pertaining to other IBM customers.
+
+ii   PROVISION  FOR  COMPLIANCE  WITH NEW YORK STATE BANKING  BOARD SUPERVISORY
+     PROCEDURE G101 AND THE BANK SERVICE CORPORATION ACT.
+     ----------------------------------------------------
+
+     In the event that data processing for Fiduciary is ever conducted at an IBM
+     facility, IBM agrees that, to the extent required by law, Fiduciary's state
+     and federal bank regulators (and their  authorized  representatives)  shall
+     have the right to examine all records and  material,  use the equipment and
+     interview IBM employees to the extent necessary to protect the interests of
+     depositors,   creditors  or  shareholder(s)  of  Fiduciary;  provided  such
+     regulators   first  agree  in  writing  to  be  bound  to   obligations  of
+     confidentiality at least as stringent as those set forth in the NDA.
+
+iii. ALL INSTITUTIONS  LETTER:  VACATION POLICY FROM THE SUPERINTENDENT OF BANKS
+     OF THE STATE OF NEW YORK DATED AUGUST 22,1996 (THE "GUIDELINE").
+     ----------------------------------------------------------------
+
+     The Parties shall comply with the Guideline.  Franklin/Fiduciary shall make
+     a reasonable effort to obtain or grant an exception for IBM employees, in a
+     manner consistent with the Guideline 0.
+
+11.  DELETE IN ITS ENTIRETY THE SENTENCE ON PAGE 34 WHICH READS:
+
+"Executed by the duly authorized  representatives of the parties as of the dates
+corresponding with their signatures below."
+
+II.  THE SCHEDULES
+------------------
+
+SCHEDULE  A:   Supplement  A-1  is  added,   which   describes  the  duties  and
+responsibilities  of the Parties  regarding  the steady state  Services that are
+unique to Fiduciary.
+
+SCHEDULE  B:   Supplement  B-1  is  added,   which   describes  the  duties  and
+responsibilities of the Parties related to the Service Levels that are unique to
+Fiduciary.
+
+SCHEDULE C: Supplement C-1 is added, which describes the charges provisions that
+are unique to Fiduciary.  Supplement C-1 includes Exhibit C-1-1, which lists the
+unique rates applicable to Fiduciary.
+
+SCHEDULE D: Change the title of Section 6.0 to read  "Transition  Plan Content."
+Supplement D-1 is added,  which  describes the activities that Fiduciary and IBM
+will perform during the transition period that are unique to Fiduciary.
+
+SCHEDULE E:  Supplement  E-1 is added,  which  describes  the Projects  that are
+unique to Fiduciary.
+
+SCHEDULE F: Supplement F-1 is added, which lists the Fiduciary Software.
+
+SCHEDULE G: Supplement G-1 is added, which lists the Fiduciary Machines.
+
+SCHEDULE H: Supplement H-1 is added, which describes the responsibilities of the
+Parties that are unique to the Fiduciary network.
+
+SCHEDULE I:  Supplement  I-1 is added,  which lists the Fiduciary  facilities at
+which the Services will be provided.
+
+IBM/FRANKLIN CONFIDENTIAL                                            Page 3 of 4
+Final                                                                Amendment 1
+
+IBM Initials  /s/ BR                                   Franklin Initials /s/ AG
+              ------                                                     ------
+<PAGE>
+
+SCHEDULE J: Supplement J-1 is added, which lists the Fiduciary contracts assumed
+by IBM under the Agreement.
+
+SCHEDULE K:  Supplement K-1 is added,  which describes  responsibilities  of the
+Parties with respect to the Fiduciary Affected Employees and Hired Employees.
+
+SCHEDULE L: Supplement L-1 is added, which describes the Acquired Assets.
+
+SCHEDULE M:  Supplement  M-1 is added,  which  describes  the Business  Recovery
+Services that IBM shall provide to Fiduciary.
+
+SCHEDULE N: Supplement N-1 is added,  which describes the standard  reports that
+IBM shall provide which are applicable and unique to Fiduciary.
+
+
+
+THE PARTIES  ACKNOWLEDGE THAT THEY HAVE READ THIS AMENDMENT,  UNDERSTAND IT, AND
+AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.  FURTHER,  THE PARTIES AGREE THAT
+THE  COMPLETE  AND  EXCLUSIVE  STATEMENT  OF THE  AGREEMENT  BETWEEN THE PARTIES
+RELATING TO THIS SUBJECT SHALL CONSIST OF 1) THIS  AMENDMENT,  2) THE SCHEDULES,
+AND 3) THE  AGREEMENT,  DATED  FEBRUARY  6, 2001.  Franklin's  approval  of this
+Amendment  shall be considered  acceptance by Franklin of IBM's provision of the
+Services to Fiduciary for the corresponding charges specified in Supplement 1 to
+Schedule C. THIS  STATEMENT OF THE AMENDMENT  SUPERSEDES  ALL PROPOSALS OR OTHER
+PRIOR  AGREEMENTS,  ORAL OR WRITTEN,  AND ALL OTHER  COMMUNICATIONS  BETWEEN THE
+PARTIES RELATING TO THE SUBJECT MATTER DESCRIBED IN THIS AMENDMENT.
+
+
+Accepted by:                            Accepted by:
+International Business Machines         Franklin Templeton Companies, LLC.
+Corporation
+
+By:  /s/ Bruce Ross                     By:  /s/ Allen J. Gula, Jr.
+     ____________________                    ______________________
+     Authorized Signature                    Authorized Signature
+
+BRUCE ROSS      Date July 2, 2001       ALLEN J. GULA, JR.   Date July 2, 2001
+----------           ------------       -----------------         ------------
+Name (Type or Print)                    Name (Type or Print)
+
+BM/FRANKLIN CONFIDENTIAL                                            Page 4 of 4
+Final                                                                Amendment 1
+
+IBM Initials  /s/ BR                                   Franklin Initials /s/ AG
+              ------                                                     ------
+<PAGE>
+
+--------------------------------------------------------------------------------
+                                AGREEMENT BETWEEN
+                                FRANKLIN AND IBM
+--------------------------------------------------------------------------------
+                          SUPPLEMENT A-1 TO SCHEDULE A
+
+
+                                    FIDUCIARY
+
+
+                      SERVICES AND SUPPORT RESPONSIBILITIES
+
+
+I.   INTRODUCTION
+This Supplement A-1 to Schedule A describes the duties and  responsibilities  of
+IBM and  Fiduciary  related to IBM's  provision  of steady  state  Services  for
+Fiduciary.  For purposes of this Supplement A-1, unless specifically  amended or
+deleted by reference herein, the  responsibilities of IBM and Franklin as stated
+in Schedule A shall apply but instead shall mean the responsibilities of IBM and
+Fiduciary.
+
+
+II.  DEFINITIONS
+The  following  terms  have the  meanings  set  forth  below  when  used in this
+Supplement  A-1 (and in the base  Agreement  and other  Schedules).  Capitalized
+terms  not  defined  in this  Section  II have  the  meanings  set  forth in the
+Agreement or other Schedules.
+
+1.   AD HOC PRINTING - Printing of  customers' statements on demand  between the
+hours of 8AM and 8PM Eastern  Standard  Time.  IBM will use diligent  efforts to
+perform  printing  outside of these hours on a per request basis as requested by
+Fiduciary.  IBM will notify  Franklin if the number of such requests  materially
+impacts IBM's  ability to perform the Services  within the current  charges.  If
+such is the case IBM and Franklin  will meet to discuss and  implement a plan to
+correct this problem. If such problem is not corrected in a reasonable period of
+time,  IBM and Franklin agree to negotiate in good faith to amend this Agreement
+to provide for an equitable adjustment to the charges.
+
+III. SERVICE HOURS
+IBM will  provide  onsite  support  at 2 World  Trade  Center  24  hours/day,  6
+days/week  (Sundays are subject to On-Call  support)  until such as time the DEC
+machines have been sunset and server  relocation is complete.  For the remainder
+of the Term, onsite support will be supplied on an On-Call basis.
+
+On-Call  means that IBM will use  diligent  efforts  to: i) return  pager  calls
+within  thirty  (30)  minutes  of receipt of such  calls,  and ii) if  required,
+provide an on-site presence within three (3) hours of the  identification of the
+need of an on-site presence.
+
+IV.  DOCUMENTATION
+a.   IBM is responsible for:
+
+     5.   migrating  Fiduciary  documents  to and  maintaining  the  electronic,
+          web-accessible   document   repository   through  which  Franklin  may
+          authorize  IBM to  provide  Franklin  employees  with  access to read,
+          download  and print  documents  relating  to  activities  which  could
+          reasonably be expected to affect  business  operations,  including but
+          not limited to Project Change  Requests  ("PCR's"),  project plans and
+          schedules and the Procedures Manual; and
+
+b.   Franklin will:
+     3.   assist IBM in the migration of Fiduciary  documents to the  electronic
+          document repository.
+
+
+IBM/Franklin Confidential                                            Page 1 of 4
+Final                             Supplement A-1 to Schedule A (Fiduciary Trust)
+
+IBM Initials  /s/ BR                                   Franklin Initials /s/ AG
+              ------                                                     ------
+<PAGE>
+
+V.   DESCRIPTION OF SERVICES AND SUPPORT ACTIVITIES
+
+2.0  SYSTEMS ENGINEERING
+IBM will provide systems  engineering  support for the Midrange and Intel server
+environments, as described in Schedule A.
+
+DELETE SECTION 2.a.7.
+DELETE SECTION 2.b.3.
+
+4.0  SYSTEMS OPERATIONS
+4.1  GENERAL DESCRIPTION OF SYSTEMS OPERATIONS
+Using  the IBM  Management  Environment,  IBM will  provide  remote  operational
+services for the Machines  which are located at the Fiduciary Data Center(s) and
+are specified in Supplement G-1 to Schedule G.
+
+a.   IBM will:
+     10.  provide  maintenance  services on the IBM In-Scope  Hardware listed in
+          Supplement  G-1 to Schedule G and the IBM Systems  Software  listed in
+          Supplement  F-1 to  Schedule  F, and manage the  maintenance  services
+          provided under Franklin's contracts for the OEM server hardware listed
+          in Supplement G-1 to Schedule G and the OEM Systems Software listed in
+          Supplement F-1 to Schedule F until refresh;
+     11.  provide  maintenance  services on the refreshed OEM In-Scope  Hardware
+          listed in Supplement  G-1to  Schedule G and the refreshed OEM Midrange
+          and Distributed  Systems Software listed in Supplement F-1 to Schedule
+          F after refresh;
+
+4.3  MIDRANGE AND INTEL SYSTEMS OPERATIONS
+a.   IBM will:
+     3.   operate the Lotus Notes applications in accordance with the Procedures
+          Manual.
+b.   Franklin will:
+     2.   provide  on-site  Midrange  and  Intel  server  support  for any Other
+          Fiduciary sites;
+
+DELETE SECTION 5.2
+
+6.0  SYSTEMS  AND  TECHNICAL  SUPPORT
+b.   Franklin will:
+     3.   retain financial  responsibility  for obtaining  licenses to all third
+          party Application  Software and third party System Software,  upgrades
+          and PTFs.
+
+8.0  DATA BASE MANAGEMENT SERVICES
+a.   Application and Data Modification
+     IBM will:
+     1.   collaborate  with Franklin  on investigation and analysis of  related
+          issues
+
+     Franklin will:
+     1.   be responsible for resolution of data and Application related issues.
+     2.   develop and test the required scripts.
+     3.   notify IBM of intended  modifications as part of Change Management and
+          Problem Management Process.
+     4.   modify  application  or database  data and enforce data  Integrity and
+          data quality.
+
+IBM/Franklin Confidential                                            Page 2 of 4
+Final                             Supplement A-1 to Schedule A (Fiduciary Trust)
+
+IBM Initials  /s/ BR                                   Franklin Initials /s/ AG
+              ------                                                     ------
+<PAGE>
+
+b.   MODIFICATIONS TO THE SERVER/ DATABASE CONFIGURATION IBM will:
+     1.   collaborate with Franklin regarding investigation and analysis.
+     2.   approve  all   modifications  to  the  database   configurations   and
+          parameters as part of Change Management and Problem Management.
+
+     Franklin will:
+     1.   be  responsible  for  solution  and  implementation  of  all  Database
+          configuration changes.
+     2.   notify IBM of the result of changes.
+
+c.   DATABASE PERFORMANCE TUNING:
+     IBM will:
+     1.   collaborate with Franklin regarding investigation and analysis.
+     2.   approve intended  performance-tuning  modifications to the database as
+          part of Change. Management and Problem Management process.
+     3.   IBM shall monitor the database from the system perspective.
+
+     Franklin will:
+     1.   develop required scripts.
+     2.   prepare the tuning plan.
+     3.   modify the database objects (tables,  indexes,  portions,  views, etc)
+          and notify IBM of status.
+     4.   Franklin will monitor the databases from a DBA perspective.
+
+d.   SOFTWARE UPGRADES AND PATCH INSTALLATIONS:
+     IBM will:
+     1.   run the modified system.
+     2.   support Franklin during upgrade process.
+     3.   IBM shall monitor the database from the system perspective.
+
+     Franklin will:
+     1.   test  Software  upgrades  and  patches  in the  development  and  test
+          environments.
+     2.   notify Application development of the completion status.
+     3.   be responsible for software upgrades and patch installations.
+     4.   Franklin will monitor the databases from DBA perspective
+
+     Joint Responsibilities:
+     1.   IBM  and  Franklin  will  approve  any  software  upgrades  and  patch
+          installations  through formal Change Management and Problem Management
+          process.
+     2.   IBM and Franklin  will create a detailed  plan of software  upgrade in
+          the production environment based on the test results.
+
+e.   [INTENTIONALLY LEFT BLANK]
+
+f.   ESTABLISH TEMPORARY ID'S FOR FRANKLIN DBA'S:
+     IBM will:
+     1.   establish  temporary  ID's with  adequate  access  rights to allow all
+          required DBA  production  level work.  These ID's would be temporarily
+          assigned to the Franklin while performing their work in the production
+          environment.  Once finished, the access would be deleted.  Appropriate
+          procedures  will  be  established  for  the  assignment  and  required
+          documentation  as part  of  approved  Change  Management  and  Problem
+          Management process.
+
+IBM/Franklin Confidential                                            Page 3 of 4
+Final                             Supplement A-1 to Schedule A (Fiduciary Trust)
+
+IBM Initials  /s/ BR                                   Franklin Initials /s/ AG
+              ------                                                     ------
+<PAGE>
+
+     2.   use the standard tools mutually agreed upon for monitoring  system and
+          database alerts.
+
+
+     Franklin will:
+     1.   contact IBM operations for access to the production environment.
+
+10.  OUTPUT SERVICES
+a.   IBM will:
+     4.   operate  the Xerox  printers  or  comparable  printers  identified  in
+          Supplement  G-1 to Schedule G as attached to the Solamar system for Ad
+          Hoc Printing.
+     5.   operate the printers  directly  attached to the Midrange  Machines and
+          the Intel  Servers  located at the Prime Site until  December 31, 2001
+          for Fiduciary.
+.
+DELETE SECTION 10.a.9.
+DELETE SECTION 10.b.8.
+
+14.0    SECURITY MANAGEMENT
+
+The  Parties  acknowledge  that  there are  issues  and  differences  of opinion
+regarding  the  intent  and  scope of  Section  14.0,  Security  Management,  as
+currently  set  forth in  Schedule  A of the  Agreement.  Each  Party  agrees to
+negotiate in good faith to reach a mutually  agreeable  solution to such issues.
+IBM acknowledges that  Franklin/Fiduciary  retains ultimate authority  regarding
+Franklin/Fiduciary Security Management and controls.
+
+15.0     BUSINESS RECOVERY SERVICES
+
+Business Recovery Services are as set forth in Supplement M-1 to Schedule M.
+
+
+IBM/Franklin Confidential                                            Page 4 of 4
+Final                             Supplement A-1 to Schedule A (Fiduciary Trust)
+
+IBM Initials  /s/ BR                                   Franklin Initials /s/ AG
+              ------                                                     ------
+<PAGE>
+
+
+
+                               AMENDMENT NUMBER 2
+                                     TO THE
+                      MANAGED OPERATIONS SERVICES AGREEMENT
+--------------------------------------------------------------------------------
+
+This  Amendment  Number 2 to the Managed  Operations  Services  Agreement  (this
+"Amendment"),  is made by and  between  Franklin  Templeton  Companies,  LLC,  a
+Delaware Limited Liability  Company,  having a place of business at One Franklin
+Parkway,  San Mateo, CA, 94403 ("Franklin") and International  Business Machines
+Corporation,  having place of business at Route 100,  Somers,  NY, 10589 ("IBM")
+(collectively  referred to herein as the  "Parties").  This Amendment is entered
+into on this 10th day of June,  2002 (the  "Amendment 2 Effective  Date").  This
+Amendment amends the Managed Operations  Services  Agreement,  dated February 6,
+2001,  between  Franklin and IBM as modified or amended prior to the date hereof
+including any  schedules,  supplements,  exhibits and  attachments  thereto (the
+"Agreement").  Capitalized  terms used but not defined  herein  shall have their
+respective  meanings  as  defined  in  the  Agreement.   In  the  event  of  any
+inconsistency  between  the  terms  of the  Agreement  and  the  terms  of  this
+Amendment,  the terms of this Amendment shall prevail.  All terms and conditions
+of the Agreement not specifically  amended or supplemented  herein, shall remain
+unchanged and in full force and effect. The Term of this Amendment will begin as
+of the Amendment 2 Effective Date and will run concurrently with the Agreement.
+
+This Amendment  modifies the Agreement for purposes of clarification  and change
+in scope of work. Additionally,  this Amendment documents the agreed to changes,
+which were  precipitated by the  destruction of the World Trade Center,  and the
+Fiduciary Trust Company International Data Center, which was located therein.
+
+The  affected  and  changed  sections  and  Schedules  of the  Agreement  are as
+indicated below.
+
+I.   THE AGREEMENT:
+     --------------
+
+     A)   PAGE 1, 1st PARAGRAPH IS HEREBY AMENDED AS FOLLOWS:
+          Change the Franklin address to read:
+               One Franklin Parkway, San Mateo, CA, 94403
+     B)   SECTION 3.F. (PROCEDURES MANUAL) IS HEREBY AMENDED AS FOLLOWS:
+          Franklin's  Senior  Director of Global Systems Support shall also have
+          the  authority  to  approve of and sign off on the  Procedures  Manual
+          subject to the terms of the Agreement.
+
+     C)   SECTION 8.H. (EQUIPMENT CURRENCY) IS HEREBY AMENDED AS FOLLOWS:
+          Delete the second sentence and insert the following text and table:
+          "Unless  otherwise  agreed to by the Parties,  IBM shall  subsequently
+          refresh the  In-Scope  Equipment,  including  the  Fiduciary  In-Scope
+          Equipment  according to Table  8.h.1.  below.  To avoid all  Fiduciary
+          In-Scope  Equipment  being  refreshed at one time,  the Parties  shall
+          negotiate in good faith using commercially  acceptable  standards,  to
+          determine  an  appropriate  schedule  by which to  execute  an Initial
+          Refresh of the Fiduciary In-Scope Equipment. Additionally, the Parties
+          agree to negotiate in good faith to resolve any DASD refresh  schedule
+          mismatches,  which  may  exist  due to  partial  platforms  or lack of
+          backward  compatibility.  Such  resolution may be by  acceleration  or
+          slowdown of the DASD refresh cycle."
+
+IBM/FRANKLIN CONFIDENTIAL                                           Page 1 of 11
+Amendment 2 v2-FINAL.doc                                      Amendment Number 2
+<PAGE>
+
+TABLE 8.h.1.
+          --------------------------------------------      ---------------
+                        EQUIPMENT TYPE                       REFRESH CYCLE
+          --------------------------------------------      ---------------
+          Mainframe                                            60 months
+          --------------------------------------------      ---------------
+          Servers with greater than 8 CPU's                    60 months
+          (Described in Schedule C, Section 6.1b.1.)
+          --------------------------------------------      ---------------
+          UNIX Servers with 8 or fewer CPU's                   48 months
+          (Described in Schedule C, Section 5.3a.1.(b))
+          --------------------------------------------      ---------------
+          Intel Servers with 8 or fewer CPU's                  36 months
+          (Described in Schedule C, 5.3b2.)
+          --------------------------------------------      ---------------
+          DASD                                                 48 months
+          --------------------------------------------      ---------------
+          All other In-Scope Equipment                         42 months
+          --------------------------------------------      ---------------
+
+D)   SECTION 27.K. (Notice) is hereby amended as follows:
+
+     Change the Franklin address to read: One Franklin  Parkway,  San Mateo, CA,
+     94403
+
+II.  THE SCHEDULES:
+     --------------
+
+     A)   SCHEDULE A (SERVICES AND SUPPORT  RESPONSIBILITIES)  IS HEREBY AMENDED
+          AS FOLLOWS:
+          ----------------------------------------------------------------------
+
+          (1) ARTICLE V - DESCRIPTION OF SERVICES AND SUPPORT ACTIVITIES:
+          ---------------------------------------------------------------
+          Article V, Section 8.0 is deleted in its  entirety  and replaced  with
+          the following Sections 8.0 through 8.5.
+
+--------------------------------------------------------------------------------
+          8.0 DATA BASE MANAGEMENT SERVICES
+
+          8.1 APPLICATION AND DATA MODIFICATION
+               a.   IBM will:
+                    1.   collaborate with Franklin on investigation and analysis
+                         of Application  Software and data modification  related
+                         issues.
+               b.   Franklin will:
+                    1.   be responsible  for resolution of data and  Application
+                         Software related issues;
+                    2.   develop and test the required scripts;
+                    3.   notify IBM of intended  modifications as part of Change
+                         Management and Problem Management process; and
+                    4.   modify  application  or database  data and enforce data
+                         integrity and data quality.
+
+          8.2 MODIFICATIONS TO THE SERVER/DATABASE CONFIGURATION
+               a.   IBM will:
+                    1.   collaborate with Franklin  regarding  investigation and
+                         analysis; and
+                    2.   approve    all    modifications    to   the    database
+                         configurations   and   parameters  as  part  of  Change
+                         Management and Problem Management.
+               b.   Franklin will:
+                    1.   be responsible for solution and  implementation  of all
+                         database configuration changes
+
+
+IBM/FRANKLIN CONFIDENTIAL                                           Page 2 of 11
+Amendment 2 v2-FINAL.doc                                      Amendment Number 2
+<PAGE>
+
+                    2.   be responsible to define  database  backup strategy and
+                         solution
+                    3.   install   backup  tools,   create  backup  scripts  and
+                         utilities; and
+                    4.   notify IBM of the result of changes.
+
+          8.3 DATABASE PERFORMANCE TUNING
+               a.   IBM will:
+                    1.   collaborate with Franklin  regarding  investigation and
+                         analysis;
+                    2.   approve  intended  performance-tuning  modifications to
+                         the database as part of Change  Management  and Problem
+                         Management process; and
+                    3.   monitor the database from the system perspective.
+               b.   Franklin will:
+                    1.   develop required scripts;
+                    2.   prepare the tuning plan;
+                    3.   modify the database objects (tables, indexes, portions,
+                         views, etc) and notify IBM of status; and
+                    4.   monitor the  databases  from a database  administration
+                         ("DBA") perspective.
+
+          8.4 SOFTWARE UPGRADES AND PATCH INSTALLATIONS
+               a.   IBM will:
+                    1.   Run the modified system;
+                    2.   Support Franklin during the upgrade process; and
+                    3.   monitor the database from the system perspective.
+               b.   Franklin will:
+                    1.   test  In-Scope  Software  upgrades  and  patches in the
+                         development and test environments;
+                    2.   notify   Application   Software   development   of  the
+                         completion status;
+                    3.   be   responsible   for  software   upgrades  and  patch
+                         installations; and
+                    4.   monitor the databases from DBA perspective
+               c.   Joint Responsibilities:
+                    1.   IBM and Franklin  will  approve any  In-Scope  Software
+                         upgrades and patch installations  through formal Change
+                         Management and Problem Management process; and
+                    2.   IBM  and  Franklin  will  create  a  detailed  plan  of
+                         In-Scope    Software   upgrades   in   the   production
+                         environment based on the test results.
+
+          8.5 ESTABLISH    TEMPORARY   USER   ID'S   FOR   FRANKLIN   DATABASE
+              ADMINISTRATORS:
+               a.   IBM will:
+                    1.   establish temporary ID's with adequate access rights to
+                         allow all required  DBA  production  level work.  These
+                         ID's will be  temporarily  assigned to  Franklin  DBA's
+                         working in the production  environment.  Once finished,
+                         the access will be deleted. Appropriate procedures will
+                         be   established   for  the   assignment  and  required
+                         documentation as part of the approved Change Management
+                         and Problem Management process; and
+                    2.   use  the  standard  tools  mutually   agreed  upon  for
+                         monitoring system and database alerts.
+               b.   Franklin will:
+                    1.   contact  IBM  operations  for access to the  production
+                         environment.
+
+
+IBM/FRANKLIN CONFIDENTIAL                                           Page 3 of 11
+Amendment 2 v2-FINAL.doc                                      Amendment Number 2
+<PAGE>
+
+          (2) ARTICLE V - DESCRIPTION OF SERVICES AND SUPPORT ACTIVITIES
+          --------------------------------------------------------------
+
+          Article V, Section 14 is deleted in its entirety and replaced with the
+          following Sections 14.0 through 14.4.
+
+--------------------------------------------------------------------------------
+          14.0 SECURITY MANAGEMENT
+
+          The  responsibilities  of IBM and Franklin for each security area/task
+          are indicated in the following  responsibilities  matrices.  "Perform"
+          shall mean to have  responsibility to execute.  "Assist" shall mean to
+          provide reasonable support to the Performing Party.
+
+<TABLE>
+<CAPTION>
+          =============================================================================
+          14.1    GENERAL RESPONSIBILITIES                           IBM     FRANKLIN
+          =============================================================================
+          <S>                                                      <C>        <C>
+          1a. Provide an interface for day-to-day security         Perform
+          management
+          =============================================================================
+          1b. Provide an interface for day-to-day security                    Perform
+          management
+          =============================================================================
+          2. Provide IBM with Franklin audit history (both
+          internal and external) and most recent security
+          standards and practices, including updates as they                  Perform
+          occur
+          =============================================================================
+          3a. Review security policies and procedures for
+          effectiveness and recommend improvements in              Perform
+          conjunction with Franklin
+          =============================================================================
+          3b. Review security policies and procedures for
+          effectiveness and recommend improvements in                         Perform
+          conjunction with IBM
+          =============================================================================
+          4. Communicate the security procedures to Franklin
+          users that are affected by this service, such as login
+          procedures, password use, use of antivirus programs      Assist     Perform
+          and security for data and equipment
+          =============================================================================
+          5. Review amendments made to Franklin security
+          policies and standards and advise Franklin whether or
+          not such changes can be implemented and if               Perform    Assist
+          implemented, will be considered a New Service
+          =============================================================================
+          6. During the Transition Period develop the detailed     Perform    Assist
+          "Information Security Controls" document
+          =============================================================================
+          7. Maintain the "Information Security Controls"          Perform
+          document
+          =============================================================================
+          8. During the Transition Period perform a review of
+          system accesses for all employees transferring to IBM
+          to confirm that same access is required and advise IBM   Assist     Perform
+          of any change.
+          =============================================================================
+          9. Notify IBM of changes Franklin plans to make to its              Perform
+          security policies and standards before implementation.
+          =============================================================================
+</TABLE>
+
+<TABLE>
+<CAPTION>
+
+          =============================================================================
+          14.2    PHYSICAL SECURITY                                  IBM     FRANKLIN
+          =============================================================================
+          <S>                                                      <C>        <C>
+          1. Provide physical security controls at Franklin                   Perform
+          facilities
+          =============================================================================
+          2. Provide physical security controls at IBM facilities  Perform
+          =============================================================================
+          3a. Restrict access to all data processing areas at
+          Franklin facilities, for which IBM has security          Assist     Perform
+          responsibility to authorized personnel only.
+           =============================================================================
+          3b. Restrict access to all data processing areas at
+          IBM facilities, for which IBM has security
+          responsibility to authorized personnel only.             Perform
+          =============================================================================
+</TABLE>
+
+IBM/FRANKLIN CONFIDENTIAL                                           Page 4 of 11
+Amendment 2 v2-FINAL.doc                                      Amendment Number 2
+<PAGE>
+<TABLE>
+<CAPTION>
+          =============================================================================
+          14.2    PHYSICAL SECURITY                                  IBM     FRANKLIN
+          =============================================================================
+          <S>                                                      <C>        <C>
+          4. Conduct periodic reviews of the data processing
+          areas for which IBM has security responsibility
+          including reviews of access logs for unusual             Perform    Assist
+          occurrences and perform follow-up activities in
+          accordance with the procedures specified in this
+          document
+          =============================================================================
+          5. Protect LAN Servers and infrastructure devices as
+          defined in Schedule G at Franklin facilities and                    Perform
+          provide access to authorized personnel
+          =============================================================================
+          6. Protect LAN Servers and infrastructure devices at     Perform
+          IBM facilities to authorized personnel only
+          =============================================================================
+          7. Implement controls which protect printed output       Perform
+          from unauthorized access while under IBM's control
+          =============================================================================
+          8a. Provide secure storage for portable storage media               Perform at
+          under IBM's control (tape drives and backup media)                  Franklin
+          =============================================================================
+          8b. Provide secure storage for portable storage media    Perform
+          under IBM's control (tape drives and backup media)       at IBM
+          =============================================================================
+          9. During the Transition Period, with the assistance
+          of Franklin, perform a baseline inventory of all
+          portable storage media (e.g. Tapes, disks) for which     Perform    Assist
+          IBM has security responsibility
+          =============================================================================
+          10. Perform an annual audit/reconciliation of tape
+          under IBM's control and promptly notify Franklin and     Perform
+          IBM management when errors are detected
+          =============================================================================
+          11. Resolve discrepancies discovered during the annual   Perform
+          tape audit and inform Franklin of the resolution
+          =============================================================================
+          12. Implement controls and provide effective             Perform
+          elimination of residual information on removable
+          storage media before disposal or reuse outside of
+          Franklin
+          =============================================================================
+</TABLE>
+
+<TABLE>
+<CAPTION>
+
+          ==============================================================================
+          14.3    LOGICAL ACCESS CONTROL                             IBM     FRANKLIN
+          ==============================================================================
+          <S>                                                      <C>        <C>
+          1. Install, maintain and upgrade new or existing data
+          access control software as deemed necessary by IBM to
+          provide the Service. This is viewed as a product support
+          role, i.e. software maintenance for RACF. This does NOT  Perform    Assist
+          include the creation or maintenance of security rules
+          in RACF.
+          ==============================================================================
+          2. Implement the functions and features of the access
+          control software that will satisfy Franklin security     Assist     Perform
+          practices as defined in this document
+          ==============================================================================
+          3. Implement the security system values and features
+          of the supported operating systems that will satisfy
+          Franklin security practices as defined in this           Perform    Assist
+          document for data security
+          ==============================================================================
+          4. Identify the protection requirements for operating    Assist     Perform
+          system resources
+          ==============================================================================
+          5. Implement the protection requirements for operating
+          system resources via the access control software, with
+          all changes being scheduled through the Change Control              Perform
+          Process
+          ==============================================================================
+          6. Define and provide to IBM:
+          a.  Data classification and control criteria,
+          b.  Data protection and handling requirements, and
+          c.  Data encryption requirements                                    Perform
+          ==============================================================================
+</TABLE>
+
+
+IBM/FRANKLIN CONFIDENTIAL                                           Page 5 of 11
+Amendment 2 v2-FINAL.doc                                      Amendment Number 2
+<PAGE>
+
+<TABLE>
+<CAPTION>
+          ==============================================================================
+          14.3    LOGICAL ACCESS CONTROL                             IBM     FRANKLIN
+          ==============================================================================
+          <S>                                                      <C>        <C>
+          7. Define and implement the protection requirements                 Perform
+          for application resources via the access control
+          software
+          ==============================================================================
+          8. Define and implement the protection requirements                 Perform
+          for End User data via the access control software
+          ==============================================================================
+          9a. Provide encryption products (i.e., hardware and/or
+          software) as defined in "Information Security                       Perform
+          Controls" document as defined in Section 14.1 herein
+          ==============================================================================
+          9b. Support/implement encryption products (i.e.,         Perform    Assist
+          hardware and/or software) as defined in this document
+          ==============================================================================
+          10. Maintain security for and distribute encryption                 Perform
+          keys
+          ==============================================================================
+          11. During the Transition Period, perform a baseline
+          inventory of access ID's for the systems - per           Assist     Perform
+          schedule G
+          ==============================================================================
+          12. Establish, change, deactivate and remove logon IDs
+          and associated access authorities for Franklin                      Perform
+          employees
+          ==============================================================================
+          13. Establish, change, deactivate and remove logon IDs   Assist     Perform
+          and associated access authorities for IBM employees
+          ==============================================================================
+          14. Review and verify annually the system logon IDs
+          for Franklin personnel (i.e., reverification) and
+          delete the IDs of those individuals who no longer have
+          a business need and/or are no longer authorized by                  Perform
+          management to access the system
+          ==============================================================================
+          15. Annually perform a continued business need
+          (reverification) review of all IBM logon ID's
+          supporting the service, and notify Franklin to remove    Perform    Assist
+          access for those which are no longer authorized by
+          management
+          ==============================================================================
+          16. Establish the process criteria for resetting
+          user's passwords and disclosing them to authorized       Assist     Perform
+          personnel
+          ==============================================================================
+          17. Reset IBM logon ID passwords and disclose            Assist     Perform
+          passwords to authorized personnel
+          ==============================================================================
+          18. Reset Franklin logon ID passwords and disclose                  Perform
+          passwords to authorized personnel
+          ==============================================================================
+          19a. Review, approve and grant requests for privileged   Assist     Perform
+          user authorities
+          ==============================================================================
+          19b. Review and approve requests for privileged user     Assist     Perform
+          authorities
+          ==============================================================================
+          20. Periodically review privileged user authorities
+          and remove those for which management authorization no   Assist     Perform
+          longer exists
+          ==============================================================================
+          21. Control and be responsible for the Security
+          Officer/Administrator user profiles on all systems
+          (e.g., NT-Admin, Unix-Root, AIX-Root, RACF-Special,                 Perform
+          AS400-QSECOFR). Develop Process for immediate access
+          for IBM
+          ==============================================================================
+          22. Implement and maintain security controls for those
+          subsystems and applications which do not use the                    Perform
+          access control software for their security
+          ==============================================================================
+          23a. Schedule through the Change Control Process,
+          security/integrity fixes that must be applied to the     Perform
+          in-scope systems
+          ==============================================================================
+          23b. Schedule through the Change Control Process,                   Perform
+          security/integrity fixes that must be applied to the
+          in-scope systems
+          ==============================================================================
+          24. Periodically perform system security health checks
+
+</TABLE>
+
+IBM/FRANKLIN CONFIDENTIAL                                           Page 6 of 11
+Amendment 2 v2-FINAL.doc                                      Amendment Number 2
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+          ==============================================================================
+          14.3    LOGICAL ACCESS CONTROL                             IBM     FRANKLIN
+          ==============================================================================
+          <S>                                                      <C>        <C>
+          a.  Access control settings,
+          b.  Authorized privileged users,
+          c.  Operating system resources protection, and
+          d.  Installation and operation of virus control
+                programs on the appropriate platforms.             Assist     Perform
+          ==============================================================================
+          25. Capture and maintain audit records for a mutually
+          agreed retention period, and provide record retention
+          reports to the Franklin Project Executive upon           Perform
+          reasonable request, platform specific logging.
+          ==============================================================================
+          26. Promptly inform Franklin of any security issues of   Perform
+          which IBM is aware and suggest possible remedial action
+          ==============================================================================
+          27. Promptly acknowledge receipt of security exposures
+          notified to Franklin by IBM and inform IBM of Franklin
+          acceptance or rejection of IBM's recommended remedial               Perform
+          action or other remedial action Franklin implements
+          ==============================================================================
+          28. Take appropriate corrective action to remedy         Assist     Perform
+          security violations notified to Franklin by IBM
+          ==============================================================================
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+
+          ==============================================================================
+          14.4   NETWORK INFRASTRUCTURE SECURITY (IN ADDITION TO     IBM     FRANKLIN
+                 LOGICAL ACCESS ABOVE)
+          ==============================================================================
+          <S>                                                      <C>        <C>
+          1. Control the Network Operating System (NOS) security              Perform
+          /administrative user id's, which run on any LAN or WAN.
+          ==============================================================================
+          2a. Provide virus avoidance, detection, and                         Perform
+          elimination software for servers
+          ==============================================================================
+          2b. Maintain virus avoidance, detection, and             Perform
+          elimination software for servers
+          ==============================================================================
+          3. Identify and implement protection requirements for               Perform
+          resources residing on End User Machines
+          ==============================================================================
+          4. Keep virus avoidance signature files current for                 Perform
+          End User Machines
+          ==============================================================================
+          5. Perform self audits of all diskettes and End User                Perform
+          Machines potentially affected by a virus
+          ==============================================================================
+          6. Respond to virus attacks and initiate corrective     Perform at  Perform at
+          action to eliminate detected viruses - see process for  server      end user
+          immediate access for IBM.                               level       level
+          ==============================================================================
+</TABLE>
+
+     B)   SCHEDULE B (SERVICE LEVELS) IS HEREBY AMENDED AS FOLLOWS:
+          ---------------------------------------------------------
+
+          Except for "Supplement B-1 to Schedule B",  "Schedule B" is deleted in
+          its  entirety and  replaced  with  "Revision 1 to Schedule B" which is
+          attached  hereto.  "Supplement B-1 to Schedule B" shall remain in full
+          effect except as modified by this Amendment.
+
+     C)   SCHEDULE C (CHARGES) IS HEREBY AMENDED AS FOLLOWS:
+          --------------------------------------------------
+
+          "Schedule  C" including  "Supplement  C-1 to Schedule C" is deleted in
+          its  entirety and  replaced  with  "Revision 1 to Schedule C" which is
+          attached hereto.
+
+
+     D)   SCHEDULE E (PROJECTS) IS HEREBY AMENDED AS FOLLOWS:
+          ---------------------------------------------------
+
+          1. EXHIBIT E-1
+
+
+IBM/FRANKLIN CONFIDENTIAL                                           Page 7 of 11
+Amendment 2 v2-FINAL.doc                                      Amendment Number 2
+<PAGE>
+
+
+          The following rows are modified as follows:
+<TABLE>
+<CAPTION>
+
+          -------------------------------------------------------------------------------------
+          AUTOMATION / ENTERPRISE SYSTEMS MANAGEMENT
+          -------------------------------------  -----------------------------------------------
+          <S>                                    <C>
+          Automation  - Event  Monitoring  and   IBM will  implement  the  blueprint  developed
+          Mgmt                                   (above)   beginning   January  1,  2003.  This
+                                                 includes continuing to utilize the current BMC
+                                                 Patrol monitors, and putting Tivoli monitoring
+                                                 technology across the remaining platforms,
+                                                 potentially replacing, over time, the BMC
+                                                 deployed monitors subject to Franklin approval.
+          -------------------------------------  -----------------------------------------------
+          Help Desk Interfaces                   If the  Parties  execute a mutually  agreeable
+                                                 Statement  of Work  ("SOW"),  IBM  will  allow
+                                                 Franklin    access    to    eESM,    an    IBM
+                                                 service-offering  platform  that supports Help
+                                                 Desk   management.   This   solution  will  be
+                                                 planned  and an SOW  will  be  developed  by a
+                                                 team  made up of IBM  personnel  and  Franklin
+                                                 personnel  within 90 days from the Amendment 2
+                                                 Effective   Date.   If   after   90   days  an
+                                                 agreement is not met,  Franklin  will continue
+                                                 to use  Remedy  and IBM  will be  relieved  of
+                                                 it's   obligation   to  build  an  XML  bridge
+                                                 between  Remedy  and TSD.  In the  event  that
+                                                 the   Parties  do  execute  an  SOW  for  eESM
+                                                 service as described herein,  IBM will provide
+                                                 all necessary licenses, maintenance,  upgrades
+                                                 and  training  for the  provision  of the eESM
+                                                 service  in  accordance  with  the SOW and IBM
+                                                 shall   be   responsible   for   installation,
+                                                 porting,    developing   interfaces   on   IBM
+                                                 systems,  and operation of the eESM  solution.
+                                                 In the event  that the  Parties  do execute an
+                                                 SOW for  eESM  service  as  described  herein,
+                                                 Franklin shall be  responsible  for any out of
+                                                 pocket  costs  and/or   expenses   related  to
+                                                 Franklin   personnel   and   any   application
+                                                 software changes (including  interface changes
+                                                 to Franklin  systems),  which may arise.  This
+                                                 eESM solution will replace the bridge  between
+                                                 Remedy and TSD.
+
+          ------------------------------------- -----------------------------------------------
+          SYSTEMS MANAGEMENT CONTROLS
+          ------------------------------------- -----------------------------------------------
+          Change Management                      If the  Parties  execute a mutually  agreeable
+                                                 Statement  of Work  ("SOW"),  IBM  will  allow
+                                                 Franklin    access    to    eESM,    an    IBM
+                                                 service-offering    platform   that   supports
+                                                 Change  Management.   This  solution  will  be
+                                                 planned  and an SOW  will  be  developed  by a
+                                                 team  made up of IBM  personnel  and  Franklin
+                                                 personnel  within 90 days from the Amendment 2
+                                                 Effective   Date.   If   after   90   days  an
+                                                 agreement is not met,  Franklin  will continue
+                                                 to use  Remedy  and IBM  will be  relieved  of
+                                                 it's   obligation   to  build  an  XML  bridge
+                                                 between  Remedy  and TSD.  In the  event  that
+                                                 the   Parties  do  execute  an  SOW  for  eESM
+                                                 service as described herein,  IBM will provide
+                                                 all necessary licenses, maintenance,  upgrades
+                                                 and  training  for the  provision  of the eESM
+                                                 service  in  accordance  with  the SOW and IBM
+                                                 shall   be   responsible   for   installation,
+                                                 porting,    developing   interfaces   on   IBM
+                                                 systems,  and operation of the eESM  solution.
+                                                 In the event  that the  Parties  do
+</TABLE>
+
+IBM/FRANKLIN CONFIDENTIAL                                           Page 8 of 11
+Amendment 2 v2-FINAL.doc                                      Amendment Number 2
+<PAGE>
+
+<TABLE>
+<CAPTION>
+          <S>                                    <C>
+
+                                                 execute an SOW for eESM service  as  described
+                                                 herein, Franklin shall be responsible  for any
+                                                 out of pocket costs and/or expenses related to
+                                                 Franklin   personnel   and   any   application
+                                                 software changes (including  interface changes
+                                                 to Franklin  systems),  which may arise.  This
+                                                 eESM solution will replace the bridge  between
+                                                 Remedy and TSD.
+
+          -------------------------------------  -----------------------------------------------
+          Problem Management                     IBM will  implement  and  maintain  a  problem
+                                                 management process,  building upon the problem
+                                                 management  process  definition work currently
+                                                 being undertaken by Franklin.
+
+                                                 If the  Parties  execute a mutually  agreeable
+                                                 Statement  of Work  ("SOW"),  IBM  will  allow
+                                                 Franklin    access    to    eESM,    an    IBM
+                                                 service-offering    platform   that   supports
+                                                 Problem  Management.  This  solution  will  be
+                                                 planned  and an SOW  will  be  developed  by a
+                                                 team  made up of IBM  personnel  and  Franklin
+                                                 personnel  within 90 days from the Amendment 2
+                                                 Effective  Date. If after 90 days an agreement
+                                                 is not  met,  Franklin  will  continue  to use
+                                                 Remedy  and  IBM  will  be  relieved  of  it's
+                                                 obligation  to  build  an XML  bridge  between
+                                                 Remedy and TSD.  In the event that the Parties
+                                                 do  execute   an  SOW  for  eESM   service  as
+                                                 described   herein,   IBM  will   provide  all
+                                                 necessary licenses, maintenance,  upgrades and
+                                                 training   for  the   provision  of  the  eESM
+                                                 service  in  accordance  with  the SOW and IBM
+                                                 shall   be   responsible   for   installation,
+                                                 porting,    developing   interfaces   on   IBM
+                                                 systems,  and operation of the eESM  solution.
+                                                 In the event  that the  Parties  do execute an
+                                                 SOW for  eESM  service  as  described  herein,
+                                                 Franklin shall be  responsible  for any out of
+                                                 pocket  costs  and/or   expenses   related  to
+                                                 Franklin   personnel   and   any   application
+                                                 software changes (including  interface changes
+                                                 to Franklin  systems),  which may arise.  This
+                                                 eESM solution will replace the bridge  between
+                                                 Remedy and TSD.
+          -------------------------------------  -----------------------------------------------
+</TABLE>
+
+
+          Add the following row under Automation / Enterprise Systems Management
+          to read:
+<TABLE>
+
+          -------------------------------------  -----------------------------------------------
+          <S>                                    <C>
+          Consolidation of the Franklin          The Parties will address any  mismatch,  which
+          Environment                            may  exist   between  the  Baselines  and  the
+                                                 Franklin data processing environment as follows,
+                                                 excluding DASD. IBM and Franklin will each appoint
+                                                 qualified personnel to a Project team which will
+                                                 review the Franklin environment with the goal of
+                                                 consolidating functions and machines, eliminating
+                                                 requirements, and modifying processes in order to
+                                                 bring Franklin's data processing environment in line
+                                                 with the Baselines. This Project team will determine
+                                                 and implement a plan by September 30, 2002 to address
+                                                 the data processing environment and Baseline mismatches,
+                                                 where they occur. To the extent that the Project team
+                                                 determines that Franklin's requirements are not
+                                                 accurately reflected
+</TABLE>
+
+
+IBM/FRANKLIN CONFIDENTIAL                                           Page 9 of 11
+Amendment 2 v2-FINAL.doc                                      Amendment Number 2
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+          <S>                                    <C>
+                                                 by the Baselines, the parties may agree to (1) use ARCs
+                                                 and RRCs or (2) modify the Baselines in accordance with
+                                                 the Planned Change methodology (Section 7.0 of Schedule C
+                                                 to the Agreement).
+          -------------------------------------  -----------------------------------------------
+</TABLE>
+
+
+     E)   SCHEDULE H (NETWORK SERVICES) IS HEREBY AMENDED AS FOLLOWS:
+
+          1.   SECTION  3.0-  IVR   NETWORKING   RESPONSIBILITIES:   Insert  the
+               following sentence under 3.0 IVR Networking Responsibilities: The
+               Services   described   in  this   Section   3.0  IVR   Networking
+               Responsibilities will be provided only in the event that Franklin
+               elects to receive such Services by providing  thirty days written
+               notice to IBM.
+
+
+     F)   SCHEDULE M (BUSINESS RECOVERY SERVICES) IS HEREBY AMENDED AS FOLLOWS:
+
+          On September 20, 2001, the Parties  executed  Change  Authorization
+          #1F0001.  "Revision  1 to  Exhibit  M-2,  Supplement Number  BL65803",
+          amends,  replaces and restates both "Exhibit  M-2,  Supplement  Number
+          BL65803" and Change  Authorization # 1F0001 to reflect the change made
+          to Exhibit M-2,  Supplement  Number BL65803 by Change  Authorization
+          #1F0001.
+
+     G)   THE  FOLLOWING  IS  HEREBY  ADDED TO  SCHEDULE  M  (BUSINESS  RECOVERY
+          SERVICES):
+          ----------------------------------------------------------------------
+
+          1.   The Parties acknowledge and agree, that due to the destruction of
+               the  Fiduciary  Data Center  located at the World Trade Center in
+               New York,  the scope and coverage of Business  Recovery  Services
+               provided by IBM pursuant to the Agreement may change. The Parties
+               agree to negotiate in good faith,  modifications to the scope and
+               coverage of  Business  Recovery  Services  within the four months
+               following the Amendment 2 Effective Date.
+          2.   The Parties  acknowledge  and agree that except as expressly  set
+               forth  in this  Amendment  or the  Agreement,  there  shall be no
+               Recovery   Daily   Usage   Charges   to  support   the   Critical
+               Applications.  IBM support and hardware  which may be provided to
+               support   out  of  scope   applications   shall  be   subject  to
+               commercially reasonable rates.
+
+     H)   THE  FOLLOWING  IS  HEREBY  ADDED TO  SECTION  7.3 (A) OF  SCHEDULE  M
+          (BUSINESS RECOVERY SERVICES):
+          ----------------------------------------------------------------------
+
+          The Parties  acknowledge and agree that a Disaster,  as defined in the
+          Agreement,  may mean  either a Full Site  Disaster  or a Partial  Site
+          Disaster.  A Full Site  Disaster  shall  mean an event  requiring  the
+          recovery of all, or a substantial  portion of all, of the applications
+          or platforms to a Disaster  Recovery  Center.  A Partial Site Disaster
+          shall mean an event  requiring the recovery of one or more but not all
+          or  substantially  all of the  applications or platforms to a Disaster
+          Recovery  Center.  Franklin  shall  notify IBM  within a  commercially
+          reasonable time of its Disaster  Declaration  whether there has been a
+          Full Site Disaster or a Partial Site Disaster.
+
+
+IBM/FRANKLIN CONFIDENTIAL                                          Page 10 of 11
+Amendment 2 v2-FINAL.doc                                      Amendment Number 2
+<PAGE>
+
+
+III. THE SUPPLEMENTS
+     ---------------
+
+     A)   SUPPLEMENT A-1:
+          ---------------
+
+          1.   Section III:
+
+               Change "2 World Trade Center" to "600 5th Avenue, New York, NY".
+
+     B)   SUPPLEMENT H-1:
+          ---------------
+
+          1.   Section 1.0:
+
+               Change "2 World  Trade  Center,  New York  City,  NY" to "600 5th
+               Avenue, New York, NY".
+
+          2.   Section 2.0,a.,4.:
+
+               Change "World Trade Center" to "600 5th Avenue, New York, NY".
+
+     C)   SUPPLEMENT I-1:
+          ---------------
+
+          1.   Section 1.0:
+
+               Change "2 World Trade  Center,  97th Floor New York City,  NY" to
+               "600 5th Avenue, New York, NY".
+
+THE PARTIES  ACKNOWLEDGE THAT THEY HAVE READ THIS AMENDMENT,  UNDERSTAND IT, AND
+AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.  FURTHER,  THE PARTIES AGREE THAT
+THE  COMPLETE  AND  EXCLUSIVE  STATEMENT  OF THE  AGREEMENT  BETWEEN THE PARTIES
+RELATING TO THIS SUBJECT  SHALL CONSIST OF 1) THIS  AMENDMENT,  2) THE SCHEDULES
+AND SUPPLEMENTS TO THE SCHEDULES, AND 3) THE AGREEMENT,  DATED FEBRUARY 6, 2001,
+AS PREVIOUSLY AMENDED. Franklin's approval of this Amendment shall be considered
+acceptance by Franklin of IBM's provision of the Services for the  corresponding
+charges specified in THE aGREEMENT,  AS AMENDED. THIS STATEMENT OF THE AMENDMENT
+SUPERSEDES  ALL PROPOSALS OR OTHER PRIOR  AGREEMENTS,  ORAL OR WRITTEN,  AND ALL
+OTHER  COMMUNICATIONS  BETWEEN  THE  PARTIES  RELATING  TO  THE  SUBJECT  MATTER
+DESCRIBED IN THIS AMENDMENT.
+
+Accepted by:                           Accepted by:
+INTERNATIONAL BUSINESS MACHINES        FRANKLIN TEMPLETON COMPANIES, LLC
+CORPORATION
+
+By:  /s/ Eric R. Ray                   By:  /s/ Leslie M. Kratter
+     ---------------                        ---------------------
+     Authorized Signature                   Authorized Signature
+
+ERIC R. RAY        Date 6/17/02        LESLIE M. KRATTER      Date June 10, 2002
+-----------             -------        -----------------           -------------
+Name (Type or Print)                   Name (Type or Print)
+
+IBM/FRANKLIN CONFIDENTIAL                                          Page 11 of 11
+Amendment 2 v2-FINAL.doc                                      Amendment Number 2
+<PAGE>
+
+
+
+                               Amendment Number 3
+                                     to the
+                      Managed Operations Services Agreement
+--------------------------------------------------------------------------------
+
+This  Amendment  Number 3 to the Managed  Operations  Services  Agreement  (this
+"Amendment"),  is made by and  between  Franklin  Templeton  Companies,  LLC,  a
+Delaware Limited Liability  Company,  having a place of business at One Franklin
+Parkway,  San Mateo, CA, 94403 ("Franklin") and International  Business Machines
+Corporation,  having place of business at Route 100,  Somers,  NY, 10589 ("IBM")
+(collectively  referred to herein as the  "Parties").  This Amendment is entered
+into on this 3rd day of February,  2003 (the "Amendment 3 Effective Date"). This
+Amendment amends the Managed Operations  Services  Agreement,  dated February 6,
+2001,  between  Franklin and IBM as modified or amended prior to the date hereof
+including any  schedules,  supplements,  exhibits and  attachments  thereto (the
+"Agreement").  Capitalized  terms used but not defined  herein  shall have their
+respective  meanings  as  defined  in  the  Agreement.   In  the  event  of  any
+inconsistency  between  the  terms  of the  Agreement  and  the  terms  of  this
+Amendment,  the terms of this Amendment shall prevail.  All terms and conditions
+of the Agreement not specifically  amended or supplemented  herein, shall remain
+unchanged and in full force and effect. The Term of this Amendment will begin as
+of the  Amendment 3 Effective  Date and will run  concurrently  with  Schedule M
+(Business Recovery Services) of the Agreement.
+
+This Amendment  modifies the Agreement such that, IBM shall provide move install
+and support  services as described  herein for the equipment as specifically set
+forth in  Attachment 1 hereto,  including  but not limited to a mainframe,  FEP,
+terminal   controllers,   tape  controllers,   and  ATL/VTS  (the  "Amendment  3
+Equipment").  Attachment  "1" attached  hereto is made part of this Amendment by
+this reference.
+
+I.   DESCRIPTION OF SERVICES:
+
+Under this  Amendment,  the Amendment 3 Equipment is to be moved,  installed and
+kept in a state of readiness by IBM for test Events and Disaster recovery events
+at the IBM Boulder  Recovery  Center (the  "Recovery  Center") as  described  in
+Schedule M. The Amendment 3 Equipment  will be provided by Franklin and includes
+the mainframe, FEP, terminal controllers, and tape controller, which are located
+at the  Franklin  Rancho  Cordova  Facility  prior  to this  Amendment,  and the
+ATL/VTS,  which is located at the Franklin St. Petersburg Facility prior to this
+Amendment.  The Amendment 3 Equipment will be packed,  shipped,  installed,  and
+supported  by IBM at  building 9 in the  Recovery  Center as  described  in this
+Amendment.
+
+Service  Levels as  described  in  Revision 1 to  Schedule  B and the  Baselines
+specified in Revision 1 to Schedule C do not apply to the Amendment 3 Equipment.
+
+Services under this  Amendment  shall begin within ten (10) business days of the
+Amendment  3  Effective  Date.  The move and  installation  of the  Amendment  3
+Equipment  is  estimated to conclude  sixty (60) days from the  commencement  of
+Services.
+
+IBM/FRANKLIN CONFIDENTIAL                                            Page 1 of 6
+IBM Amendment 3 FINAL.doc
+<PAGE>
+
+
+
+     1.   PROJECT MANAGERS:
+
+          The persons  listed below shall be Project  Managers  pursuant to this
+          Amendment.   IBM's  Project   Manager(s)   shall  be  responsible  for
+          performing the following tasks: Oversee the IBM resources allocated to
+          this  Amendment,  communicate the status of the work being done by IBM
+          under this  Amendment  to Franklin,  oversee the work being  performed
+          under this  Amendment for  consistency  with this  Amendment,  and any
+          other obligations set out in the Agreement.
+          * IBM Project Manager: Nick Dancer
+          * Franklin Project Manager: Bonita Gohler
+
+     2.   DEFINITIONS
+
+          (a)  "Amendment   3   Equipment"   means   the   dedicated   mainframe
+               configuration  as  specified  in  Attachment  1 and  includes the
+               mainframe,  FEP,  terminal  controllers,   tape  controller,  and
+               ATL/VTS.
+          (b)  "ATL/VTS"  means  automated  tape  library/virtual  tape  storage
+               device.
+          (c)  "FEP" means front end processor.
+          (d)  "IPL" means initial program load.
+
+     3.   ASSUMPTIONS AND DEPENDENCIES
+
+          (a)  IBM shall maintain system code,  applications,  and database data
+               on EMC  DASD  which  will  be  co-resident  with  other  Franklin
+               equipment at the Recovery  Center and kept up to date by IBM with
+               Franklin's  production data center located in Rancho Cordova,  CA
+               via a SRDF process to meet the RTO/RPO  requirements as specified
+               in the Agreement. However, the EMC DASD and SRDF solution are not
+               in scope of this  Amendment and will be handled  separately.  If,
+               for  any  reason,   Franklin   decides  not  to  implement   SRDF
+               technology,  the  mainframe  will  continue to be kept at a ready
+               state pending any Disaster declaration.
+
+          (b)  The  Amendment 3 Equipment as listed in  Attachment 1 is accurate
+               and will be  validated  prior to shipment by  Franklin.  Franklin
+               shall reconfirm the accuracy of Attachment 1 during  installation
+               by IBM.
+
+     4.   IBM RESPONSIBILITIES
+
+          IBM will:
+          I.   MOVE AND INSTALL THE AMENDMENT 3 EQUIPMENT AS FOLLOWS:
+
+          (a)  pack the  Amendment  3  Equipment  to be  moved  to the  Recovery
+               Center;
+
+          (b)  insure the Amendment 3 Equipment  during the move to the Recovery
+               Center;
+
+          (c)  ship the Amendment 3 Equipment to the Recovery Center;
+
+          (d)  install the Amendment 3 Equipment in the Recovery Center;
+
+          (e)  connect the mainframe system to the Franklin network  environment
+               in the Recovery Center;
+
+IBM/FRANKLIN CONFIDENTIAL                                            Page 2 of 6
+IBM Amendment 3 FINAL.doc
+<PAGE>
+
+          (f)  design,  implement and maintain the front end processor (FEP) and
+               local  network  in  the  Recovery  Center,   including   routers,
+               switches, cabling, fiber connections, and SONET access facilities
+               to carrier points of presence; and
+
+          (g)  perform  the   following   installation   tests  to  certify  the
+               completion of the successful  installation and notify Franklin of
+               the successful installation:
+
+               (1)  an IPL on the mainframe from data on the connected DASD;
+
+               (2)  a restore on the ATL/VTS of any file from a tape produced at
+                    Rancho  Cordova  and a backup  from any file  created on the
+                    Recovery Center mainframe; and
+
+               (3)  a line  test to any  one of the  existing  Franklin  partner
+                    connections on the FEP.
+
+          II.  PROVIDE SUPPORT SERVICES FOR AMENDMENT 3 EQUIPMENT AS FOLLOWS:
+
+               (a)  maintain  the  Amendment 3 Equipment  in a  production-ready
+                    state (available for IPL) for  maintenance,  test Events and
+                    Disaster  Events,  but only  perform  IPLs during  scheduled
+                    maintenance, test Events or declared Disaster Events;
+
+               (b)  support  test  Events  and  Disaster   Events  in  a  manner
+                    consistent with Schedule M;
+
+               (c)  for  scheduled  test  Events and for  Disaster  Events,  the
+                    mainframe will be initialized  with the current system code,
+                    application and data images;
+
+               (d)  coordinate   maintenance   of  the  system   (i.e.   contact
+                    maintenance  vendors when maintenance is required and assist
+                    with logistics at the Recovery Center); and
+
+               (e)  assist Franklin and Franklin's  telecom  carriers to prepare
+                    for and effect  network  changes  required  to support  test
+                    Events and Disaster Events.
+
+     5.   FRANKLIN RESPONSIBILITIES
+
+          Franklin will:
+               (a)  provide all  information  that is  reasonably  necessary and
+                    available   for  IBM  to  provide  the  Services  set  forth
+                    hereunder;
+
+               (b)  assign a part time Project Manager to work with IBM;
+
+               (c)  take financial  responsibility for and provide all necessary
+                    software  (including,  but not limited to: operating system,
+                    utilities, middleware, applications, and database management
+                    system) and the  Amendment  3 Equipment  required to provide
+                    the  Services,  including  leases,  license  fees,  refresh,
+                    upgrade fees and maintenance fees.  Franklin shall determine
+                    when and if refresh and/or upgrades shall occur;
+
+               (d)  provide the  maintenance  agreement for the mainframe,  FEP,
+                    and ATL/VTS configurations;
+
+               (e)  provide  IBM  with  authorization  to  contact   maintenance
+                    vendors and coordinate  maintenance with Franklin's  consent
+                    and provide maintenance assistance;
+
+               (f)  assist with the coordination of vendors;
+
+               (g)  work with Franklin's telecom carriers,  with IBM assistance,
+                    to  prepare  for and  effect  network  changes  required  to
+                    support test Events and Disaster Events;
+
+               (h)  formally acknowledge in writing the successful  installation
+                    of  all  Amendment  3  Equipment  upon   completion  of  the
+                    installation  tests as outlined  in Section  I(4)(I)(g)(1-3)
+                    herein;
+
+IBM/FRANKLIN CONFIDENTIAL                                            Page 3 of 6
+IBM Amendment 3 FINAL.doc
+<PAGE>
+
+               (i)  provide  all  equipment  reasonably  necessary  in  order to
+                    provide  the  Services  set  forth  herein,   including  the
+                    Amendment  3  Equipment,   and   upgrades   and   associated
+                    maintenance therefore.  Franklin shall determine when and if
+                    upgrades shall be used.
+
+     6.   MOVE AND INSTALLATION COMPLETION CRITERIA
+
+          IBM will have fulfilled its Move and Installation obligations when the
+          one-time set-up tasks as set forth in Section I(4)(I) herein have been
+          completed  and  notification  has been  provided  to  Franklin  of the
+          successful  installation  of the Amendment 3 Equipment as described in
+          Section  I(4)(I)(g) and Franklin has formally  acknowledged in writing
+          that the Move and Installation has occurred.
+
+--------------------------------------------------------------------------------
+
+II.  CHARGES
+
+     1.   SERVICE CHARGES
+
+          (a)  One-Time  Fee: : There  shall be a one time fee for the  Services
+               rendered  hereunder in the amount of $94,492 USD.  This Fee shall
+               be invoiced upon the Amendment 3 Effective Date.
+
+          (b)  On-going Support Services Charges: Once the Move and Installation
+               Completion  Criteria is met, IBM shall  provide  ongoing  Support
+               Services as  described  herein at the Charges  specified in Table
+               II.1  below,  which  are  hereby  added to the ASC  specified  in
+               Revision 1 to Schedule C. Additionally,  at the time the Move and
+               Installation  Completion Criteria is met, the BR ASC specified in
+               Exhibit C-1 is reduced by the Charges  specified in the following
+               Table  II.1 due to the  removal  of  Supplement  Number  BL65805.
+               Charges will be prorated for any partial month:
+
+<TABLE>
+<CAPTION>
+TABLE II.1
+--------------------------------------------------------------------------------------------------------
+                                Ongoing Support Charges (Monthly Charges)
+----------------------- ------------- ------------ ------------ ----------- -------------- -------------
+     Contract Year          2003          2004         2005        2006          2007          2008
+                                                                                           (Jan and Feb
+                                                                                               only)
+----------------------- ------------- ------------ ------------ ----------- -------------- -------------
+<S>                        <C>           <C>          <C>         <C>           <C>           <C>
+ADDITION to SO             21,446        21,437       21,439      21,462        21,462        23,917
+ASC per Month
+----------------------- ------------- ------------ ------------ ----------- -------------- -------------
+REDUCTION to BR            14,613        14,613       14,613      14,613        14,613        14,613
+ASC per Month
+----------------------- ------------- ------------ ------------ ----------- -------------- -------------
+</TABLE>
+
+     2.   AMENDMENT 3 TERMINATION CHARGE
+
+          Franklin may  terminate the Services  described in this  Amendment for
+          convenience  by providing  thirty (30) days written  notice to IBM and
+          paying the  Amendment 3  Termination  Charge  specified  in Table II.2
+          below  (the  "Amendment  3  Termination   Charge").   Should  Franklin
+          terminate the Agreement for  convenience,  the Amendment 3 Termination
+          Charge will be added to the Termination  Charges specified in Revision
+          1 to Schedule  C.  Termination  of the  Amendment  will not  reinstate
+          Supplement Number BL65805,  however,  in the event that this Amendment
+          is  terminated   by  Franklin  and   Supplement   Number   BL65805  is
+          subsequently  terminated,  the  Reduction  to BR ASC per  month as set
+          forth  above in Table  II.1  shall  survive  the  termination  of this
+          Amendment  and be  applicable  to the BR ASC Charges  specified in the
+          Agreement.  At the time of  termination  or  expiration  of the  Term,
+          Franklin  shall be  responsible  for the packaging and shipping of the
+          Amendment 3 Equipment within thirty (30) days.
+
+
+IBM/FRANKLIN CONFIDENTIAL                                            Page 4 of 6
+IBM Amendment 3 FINAL.doc
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+TABLE II.2
+---------------------- ------------ ------------- ------------ ------------ ------------- -------------
+Calendar Year:             2003         2004          2005         2006         2007          2008
+                                                                                          (Jan and Feb
+                                                                                              only)
+---------------------- ------------ ------------- ------------ ------------ ------------- -------------
+<S>                       <C>          <C>           <C>          <C>          <C>            <C>
+Amendment 3               57,992       44,865        30,429       28,408       16,461         5,634
+Termination Charge:
+---------------------- ------------ ------------- ------------ ------------ ------------- -------------
+
+</TABLE>
+
+     3.   TRAVEL AND LIVING EXPENSES
+
+          Until such time as the Move and  Installation  Completion  Criteria is
+          met,  Franklin is  responsible  for actual and  reasonable  Travel and
+          Living  Expenses  incurred by IBM personnel when  non-local  travel is
+          required to provide the Services described in this Amendment. Franklin
+          will not be responsible for Travel and Living Expenses incurred by IBM
+          personnel in excess of ten percent (10%) of the One Time Fee set forth
+          in   this   Amendment   unless   Franklin   provides   prior   written
+          authorization.  After the Move and Installation Completion Criteria is
+          met,  no  Travel  and  Living  expenses  will  be  reimbursed  without
+          Franklin's written authorization.
+
+--------------------------------------------------------------------------------
+
+III. SCHEDULE M (BR SERVICES) IS HEREBY AMENDED AS FOLLOWS:
+
+At such time as the Move and Installation Completion Criteria is met, Supplement
+Number BL65805 in Exhibit M-2 is deleted in its entirety.
+
+--------------------------------------------------------------------------------
+
+
+IBM/FRANKLIN CONFIDENTIAL                                            Page 5 of 6
+IBM Amendment 3 FINAL.doc
+<PAGE>
+
+IV.  SIGNATURES AND ACKNOWLEDGEMENT
+
+THE PARTIES  ACKNOWLEDGE THAT THEY HAVE READ THIS AMENDMENT,  UNDERSTAND IT, AND
+AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.  FURTHER,  THE PARTIES AGREE THAT
+THE  COMPLETE  AND  EXCLUSIVE  STATEMENT  OF THE  AGREEMENT  BETWEEN THE PARTIES
+RELATING TO THIS SUBJECT  SHALL CONSIST OF 1) THIS  AMENDMENT,  2) THE SCHEDULES
+AND SUPPLEMENTS TO THE SCHEDULES, AND 3) THE AGREEMENT,  DATED FEBRUARY 6, 2001,
+AS PREVIOUSLY AMENDED. FRANKLIN'S APPROVAL OF THIS AMENDMENT SHALL BE CONSIDERED
+ACCEPTANCE BY FRANKLIN OF IBM'S PROVISION OF THE SERVICES FOR THE  CORRESPONDING
+CHARGES SPECIFIED IN THE AGREEMENT,  AS AMENDED. THIS STATEMENT OF THE AMENDMENT
+SUPERSEDES  ALL PROPOSALS OR OTHER PRIOR  AGREEMENTS,  ORAL OR WRITTEN,  AND ALL
+OTHER  COMMUNICATIONS  BETWEEN  THE  PARTIES  RELATING  TO  THE  SUBJECT  MATTER
+DESCRIBED IN THIS AMENDMENT.
+
+Accepted by:                                   Accepted by:
+INTERNATIONAL BUSINESS MACHINES                FRANKLIN TEMPLETON COMPANIES, LLC
+CORPORATION
+
+By:  /s/ Melody Gayeski                        By:  /s/ Jennifer J. Bolt
+     --------------------                           --------------------
+     Authorized Signature                           Authorized Signature
+
+MELODY GAYESKI  Date 2/3/03                    JENNIFER J. BOLT   Date 2/3/03
+--------------       ------                    ----------------        ------
+Name (Type or Print)                           Name (Type or Print)
+
+
+IBM/FRANKLIN CONFIDENTIAL                                            Page 6 of 6
+IBM Amendment 3 FINAL.doc
+
+</TEXT>
+</DOCUMENT>

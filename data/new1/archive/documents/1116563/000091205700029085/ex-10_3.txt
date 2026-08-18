@@ -1,0 +1,1311 @@
+<DOCUMENT>
+<TYPE>EX-10.3
+<SEQUENCE>8
+<FILENAME>ex-10_3.txt
+<DESCRIPTION>EXHIBIT 10.3
+<TEXT>
+
+<PAGE>
+
+
+                                                                    Exhibit 10.3
+
+                              Amended and Restated
+                      Fiber Networks Development Agreement
+
+            THIS Agreement ("Agreement"), made and entered into this 29th day of
+October, 1999, by and between Sea Breeze Communication Company, ("SBCC"), a
+Delaware corporation whose address is 4111 East 37th Street North, Wichita,
+Kansas 67220 and PF.Net Corp. ("PF.Net") a Delaware corporation, whose address
+is 1625 B Street, Washougal, Washington 98671.
+
+                                   WITNESSETH:
+
+            WHEREAS, PF.Net intends to build, sell, own and operate fiber optic
+networks, which include, but shall not be limited to, the construction and/or
+installation of fiber optics, manholes, vaults, conduit or conduits, ducts or
+subducts, cables, wires splicing connections, splice boxes, together with all
+necessary or useful appurtenances, devices, apparatus, equipment and materials
+("Fiber Networks");
+
+            WHEREAS, PF.Net intends to sell or sell the use of dark fibers,
+conduits, subducts and telecommunication services to third parties;
+
+            WHEREAS, SBCC, through the exclusive authority granted by the
+Affiliated Companies (hereinafter defined) pursuant to certain Telecommunication
+Rights Agreements (hereafter the "Affiliated Companies Agreements"), has
+existing Telecom Easement Rights (hereinafter defined) and certain rights with
+respect to inactive pipelines throughout the United States that may be suitable
+for use in connection with the Fiber Networks and is willing to grant to PF.Net
+the Encroachment Rights (hereinafter defined) under certain terms and conditions
+along other pipelines for which the Affiliated Companies hold easements or other
+rights in land;
+
+            WHEREAS, SBCC and PF.Net have previously entered into a Fiber
+Networks Development Agreement, dated May 17, 1999 (the "Original Agreement");
+
+            WHEREAS, SBCC and PF.Net desire to amend and restate the Original
+Agreement in its entirety; and
+
+            WHERAS, subject to the terms and conditions hereof, SBCC, pursuant
+to the authority granted to it, is willing to utilize the Telecom Easement
+Rights and SBCC's Available Pipelines (hereinafter defined) for the development
+of Fiber
+
+
+<PAGE>
+
+Networks when to do so would not interfere with the primary business of the
+transportation of gaseous and liquid substances of the Affiliated Companies.
+
+            NOW, THEREFORE, in consideration of the mutual covenants, terms and
+conditions, herein contained, the parties hereto agree as follows:
+
+
+                                   ARTICLE I.
+                                  DEFINITIONS
+
+            All terms in this Agreement will have their common meanings or the
+meanings attributed in the context of this Agreement and in the introduction to
+the Agreement through the use of quotation marks within parentheses. In
+addition, the following capitalized terms and phrases shall have the following
+meanings:
+
+            "Affiliate" means, with respect to any entity, any other entity
+controlled by or under common control with such entity. For purposes of this
+definition, "control" (including the terms "controlling", "controlled by" and
+"under common control with") means the possession, direct or indirect, of the
+power to vote 50.1% or more of the capital stock having ordinary voting power
+for the election of directors, managing general partners or managing members.
+
+            "Affiliated Companies" means Koch Hydrocarbon, Inc., a division of
+Koch Industries, Inc., Koch Pipeline Company, L.P., Koch Pipeline Southeast,
+Inc., Koch Petroleum Group, L.P., Koch Midstream Services Company, Koch Gateway
+Pipeline Company and Koch Energy Services Company.
+
+            "Affiliated Companies Agreements" has the meaning stated in the
+recitals.
+
+            "Affiliated Companies' Routes" means those pipeline routes
+generally depicted in Exhibit A and identified therein as Koch-owned.
+
+            "After Acquired Assets" has the meaning set forth in Section 2.2.
+
+            "Available Pipelines" means inactive pipelines now owned by the
+Affiliated Companies throughout the United States that may be suitable for use
+in connection with Fiber Networks.
+
+
+                                       2
+<PAGE>
+
+            "Designated SBCC Assets" has the meaning stated in Section 3.1.1.
+
+            "Development Routes" has the meaning set forth in Section 3.1.1.
+
+            "Effective Date" means the date on which this Agreement has been
+fully executed by both parties.
+
+            "Encroachment Rights" means the permission of the Affiliated
+Companies' for PF.Net to install, operate, maintain and upgrade the Fiber
+Networks within the boundaries of the easements for their pipelines as set forth
+in this Agreement but only to the extent PF.Net has a right to do so. The
+parties acknowledge that it may be necessary for PF.Net to acquire rights from
+third party holders of interests in such property for Fiber Network
+Development.
+
+            "Exclusive SBCC Assets" means the Telecom Easement Rights, the
+Encroachment Rights and SBCC's Available Pipelines which pursuant to the
+Affiliated Companies Agreements SBCC has or may have the right of use in
+connection with the development of Fiber Networks collectively or individually
+along the Affiliated Companies' Routes identified as exclusive on Exhibit B
+hereto.
+
+            "Exclusivity Period" has the meaning set forth in Section 2.1.
+
+            "Fiber Networks" has the meaning as set forth in the recitals.
+
+            "Fiber Network Development" means the development, installation,
+construction, ownership, operation, maintenance, repair and replacement of
+Fiber Networks.
+
+            "Indefeasible Right of Use" or "IRU" means an exclusive,
+indefeasible right to use specified property subject to such terms and
+conditions as may be imposed in this Agreement. The grant of an IRU does not
+convey any legal title to real or personal property.
+
+            "Non-exclusive SBCC Assets" means all of the SBCC Assets except for
+the Exclusive SBCC Assets.
+
+            "Offer Right" has the meaning stated in Section 2.4.2.
+
+            "Right of Last Look" has the meaning stated in Section 2.4.3.
+
+
+                                       3
+
+<PAGE>
+
+            "SBCC's Available Pipelines" means all Available Pipeline for
+which SBCC has the right of use pursuant to the Affiliated Companies'
+Agreements in connection with the Fiber Networks, other than Available Pipeline
+that are Excluded Assets as set forth in Section 3.4.
+
+            "SBCC Assets" means the Telecom Easement Rights, the Encroachment
+Rights and SBCC's Available Pipelines which pursuant to the Affiliated Companies
+Agreements SBCC has or may have the right of use in connection with the
+development of Fiber Networks collectively or individually along the Affiliated
+Companies' Routes, but excluding the Excluded Assets as set forth in Section
+3.4.
+
+            "Telecom Easement Rights" means the Affiliated Companies' rights,
+licenses, authorizations, easements, leases, fee interests, or agreements that
+provide for the occupancy by Fiber Networks of real property or fixtures
+expressly excepting, however, any such rights:
+
+                  (a) utilized by the Affiliated Companies in connection with
+            its internal communication systems including for emphasis only and
+            not by way of limitation Koch Petroleum Group, LP's communication
+            systems between its refineries in Corpus Christi, TX;
+
+                  (b) used in connection with wireless communication; or
+
+                  (c) under contract to convey to third parties as of the date
+            of this Agreement.
+
+            "Telecommunications Business" means the offering of
+telecommunications services or dark fiber to third parties using fiber optic
+communications systems.
+
+            "Third Party" has the meaning stated in Section 2.4.3.
+
+                                   ARTICLE II
+                                EXCLUSIVE RIGHTS
+
+            2.1 Exclusivity Period and Term
+
+            2.1.1 Subject to the terms and conditions hereof, Section 2.1.6,
+Section 2.3, and those exceptions in Schedule 3.4 and Exhibit C, SBCC grants
+unto PF.Net the exclusive right for a three and a half (3 1/2) year period
+commencing October
+
+
+                                        4
+
+<PAGE>
+
+29, 1999 (the "Exclusivity Period"), to designate SBCC Assets, as existing on
+the Effective Date for Fiber Network Development.
+
+                  2.1.2 Subject to Section 12.5, the term of this Agreement
+shall be a period equal to the Exclusivity Period plus eighteen (18) months (the
+"Term").
+
+                  2.1.3 The routes identified as those corresponding to the
+Affiliated Companies' Routes depicted on Exhibit A attached hereto and made a
+part hereof show the general location of the SBCC Assets.
+
+                  2.1.4 The granting of said exclusive rights does not prohibit
+SBCC or the Affiliated Companies from permitting encroachments by third parties
+for crossings of its easements (provided such encroachments do not interfere in
+any material respect with the use of such SBCC Assets by PF.Net) or to such
+parties as may be agreed upon by Koch, Telecom Ventures, Inc., SBCC and PF.Net.
+
+                  2.1.5 It is expressly understood that, except as provided in
+an IRU, neither SBCC nor the Affiliated Companies has the duty to police their
+rights of way for or to take any actions against third parties with respect to
+any unpermitted encroachment or to contest any eminent domain action; provided,
+however, that SBCC and the Affiliated Companies shall reasonably and at no added
+cost to SBCC or the Affiliated Companies cooperate with PF.Net and permit
+PF.Net to take actions against third parties with respect to any unpermitted
+encroachments.
+
+                  2.1.6 The Affiliated Companies shall have the right to share
+PF.Net the use of the SBCC Assets and the After Acquired Assets where desirable
+for use in connection with their business, which shall not include the
+Telecommunications Business (the "Affiliated Companies' Business"), during the
+term of this Agreement. Except for PF.Net and users authorized by PF.Net,
+neither SBCC nor the Affiliated Companies shall use or permit any third party to
+utilize the SBCC Assets or After Acquired Assets for any Telecommunications
+Business not related to the Affiliated Companies' Business during the
+Exclusivity Period.
+
+            2.2 After Acquired Assets
+
+                  2.2.1 If, after the Effective Date and during the term of
+this Agreement, any Affiliated Companies acquire additional Available Pipelines,
+Telecom Easement Rights or Encroachment Rights not owned or controlled by any of
+the Affiliated Companies on the Effective Date ("After Acquired Assets"). SBCC
+shall give
+
+
+                                        5
+<PAGE>
+
+PF.Net written notice within ninety (90) days of the acquisition of the After
+Acquired Assets. Promptly thereafter, SBCC and PF.Net shall negotiate in good
+faith to determine the portion of the cost of such Acquired Assets that is
+attributable to their potential use for Fiber Network Development (the
+"Telecommunications Value"). If the parties do not agree on the
+Telecommunications Value of After Acquired Assets within sixty (60) days after
+receipt of SBCC's notice, then the parties shall jointly select an independent
+appraiser to advise the parties as to the Telecommunications Value of such After
+Acquired Assets; provided that such advice shall not be binding on the parties.
+If SBCC and PF.Net agree on the Telecommunications Value at After Acquired
+Assets, then such After Acquired Assets shall be included in the SBCC Assets and
+subject to the terms of this Agreement upon payment of the Telecommunications
+Value by PF.Net to SBCC, and such Affiliate (if not an Affiliated Company) shall
+enter into an Affiliated Company Agreement with SBCC on the same terms and
+conditions as those contained in the present Affiliated Company Agreements.
+
+                  2.2.2 SBCC shall not use or permit any third party to use any
+such After Acquired Assets that do not become SBCC Assets pursuant to Section
+2.2.1 for Fiber Network Development for a period equal to the greater of (x) the
+remainder of the Exclusivity Period and (y) one year after their purchase.
+
+            2.3 SBCC Conveyance of Existing Assets
+
+            It is recognized that during the Exclusivity Period SBCC or the
+Affiliated Companies may have the opportunity to sell, trade, or otherwise
+convey all or any part of the SBCC Assets for purposes other than
+substantially for the development of Fiber Networks. It is expressly understood
+and agreed that, notwithstanding anything to the contrary contained herein,
+subject to Section 2.4 pertaining to Available Pipeline, SBCC (either alone or
+in conjunction with one or more of the Affiliated Companies) may sell, trade or
+otherwise convey any of their respective assets subject to the following terms
+and conditions respecting the SBCC Assets within the Affiliated Companies'
+Routes:
+
+                        (a) SBCC shall negotiate in good faith to reserve and
+            except exclusively unto itself any Telecom Easement Rights and to
+            acquire exclusive Encroachment Rights from the transferee, which
+            rights shall remain conveyed to PF.Net subject to the provisions of
+            this Agreement. With respect to the Exclusive SBCC Assets, SBCC
+            shall be obligated to reserve any such rights in connection with
+            such sale, trade or conveyance.
+
+
+                                        6
+<PAGE>
+
+                        (b) In the event that SBCC is unsuccessful, despite good
+            faith efforts, to reserve and except exclusive unto itself any
+            Telecom Easement Rights and to acquire exclusive Encroachment Rights
+            under terms and conditions satisfactory to itself with respect to
+            any Non-exclusive SBCC Assets, it shall be obligated to reserve on a
+            non-exclusive basis the Telecom Easement Rights and the acquisition
+            of non-exclusive Encroachment Rights with respect to such
+            Non-exclusive SBCC Assets, which rights shall remain conveyed to
+            PF.Net subject to the provisions of this Agreement.
+
+            2.4 Available Pipeline
+
+            2.4.1 During the Exclusivity Period, with respect to Available
+Pipeline, PF.Net shall have both an Offer Right (hereinafter defined) on
+Available Pipeline and a Right of Last Look (hereinafter defined) on Available
+Pipeline for which the Affiliated Companies have received a third-party offer,
+unless SBCC gives PF.Net notice that it is engaged in negotiations with respect
+to a transaction of the type described in Section 2.3 as to such Available
+Pipeline, in which case the Offer Right shall not be applicable.
+
+            2.4.2 PF.Net shall have the right to offer to purchase Available
+Pipeline from SBCC by giving written notice to SBCC of its offer to purchase
+such Available Pipeline (the "Offer Right") including the proposed price at
+which it is willing to purchase such Available Pipeline. Upon agreement by the
+parties as to the price and other terms of such transaction. SBCC shall execute
+all documentation and take all action necessary to transfer the requested
+Available Pipeline to PF.Net. The requested Available Pipeline shall be
+transferred to PF.Net upon payment to SBCC of the agreed price.
+
+            2.4.3 Subject to Section 2.4.4, if the Affiliated Companies have
+received a valid offer (a "Right of First Refusal Offer") from an unrelated
+third party ("Third Party") to purchase Available Pipeline, SBCC shall give
+PF.Net written notice of such Right of First Refusal Offer. PF.Net shall then
+have twenty (20) days from receipt of SBCC's written notice to respond in
+writing with a counter-offer (a "Counter Offer") to purchase the Available
+Pipeline requested by the Third Party at the same price and on the same terms or
+more favorable terms and conditions as the Right of First Refusal Offer. ("Right
+of Last Look"). If SBCC receives a Counter Offer from PF.Net, SBCC shall execute
+all documentation and take all action necessary to transfer the requested
+Available Pipeline to PF.Net on the terms and conditions set forth in the
+
+
+                                       7
+<PAGE>
+
+Counter Offer. The requested Available Pipeline shall be transferred to PF.Net
+upon prompt payment to SBCC of the purchase price set forth in the Counter
+Offer. If SBCC does not receive a written Counter-Offer from PF.Net within
+twenty (20) days of PF.Net's receipt of SBCC's notice, the Affiliated Companies
+shall have the right, for a period of 9O days from the 20th day following the
+date of PF.Net's receipt of the Right of First Refusal Offer, to sell the
+Available Pipeline at the price and on the terms and conditions contained in the
+Right of First Refusal Offer. If at the end of such 90 day period the Affiliated
+Companies have not completed the sale of such Available Pipeline, the
+restrictions contained in this Section 2.4.3 shall again be in effect with
+respect to such Available Pipeline.
+
+                  2.4.4 The Right of Last Look and the Offer Right shall not
+apply to (a) written offers from a Third Party for non-Fiber Networks purposes
+that include both Available Pipeline and non-Available Pipeline; provided that
+non-Available Pipeline constitutes at least 40% of the total mileage of pipeline
+that is the subject of the Third Party offer or (b) any sale, trade or other
+conveyance by the respective Affiliated Companies to each other or to Affiliates
+of the respective Affiliated Companies (collectively the "Exempt Transactions").
+If the Affiliated Companies receive a Third Party offer for Available Pipeline
+that is an Exempt Transaction, SBCC shall give PF.Net written notice of such
+Third Party offer, but PF.Net has no other obligation to SBCC with respect to
+the Available Pipeline for which it may have the opportunity to sell, trade or
+otherwise convey to a Third Party in an Exempt Transaction.
+
+                  2.4.5 SBCC shall use the same efforts and be subject to the
+same obligations with respect to retaining the Telecom Easement Rights and
+Encroachment Rights associated with Available Pipeline sold to a Third Party as
+are set forth in Section 2.3.
+
+                                  ARTICLE III.
+                           DESIGNATION OF SBCC ASSETS
+
+            3.1 Designation of SBCC Assets
+
+                  3.1.1 PF.Net may from time to time during the Exclusivity
+Period designate in writing to SBCC, on a project by project and segment by
+segment basis, routes for which PF.Net determines to construct a segment of the
+Fiber Networks ("Development Routes"). By virtue of designating a Development
+Route, PF.Net shall be deemed to have designated, for its use in connection with
+Fiber Network Develop-
+
+
+                                        8
+<PAGE>
+
+ment, all of the SBCC Assets that have become or will become subject to this
+Agreement pursuant to Section 2.2.1, that are proximate to such Development
+Route and would reasonably be expected to he used in connection with Fiber
+Network Development between any two cities along such Development Route (such
+SBCC Assets, "Designated SBCC Assets").
+
+                  3.1.2 SBCC and the Affiliated Companies shall not use or
+permit the use of any Designated SBCC Assets for the purpose of Fiber Network
+Development for Telecommunications Business for a period of twenty-five (25)
+years after such designation, whether or not PF.Net actually uses such
+Designated SBCC Assets in connection with such Development Route. Such
+exclusivity shall not be applicable to Fiber Networks used by SBCC or the
+Affiliated Companies primarily for internal communications or for the Affiliated
+Companies' Business. Notwithstanding the foregoing, if PF.Net does not complete
+construction of a Development Route within one (1) year after designation of
+such Designated SBCC Assets such that such Development Route is reasonably
+capable of being used for its intended purpose, then such Designated SBCC Assets
+along which such construction is not completed within such one year period with
+respect to such Development Route shall no longer be subject to the restriction
+of this Section 3.1.2 until such time as PF.Net may subsequently re-designate
+the same as part of a Development Route provided that such re-designation occurs
+during the Exclusivity Period and provided further that PF.Net may not
+re-designate any route as a Development Route more than two times.
+
+            3.2 Determination of Availability and Acquisition of IRU
+
+            PF.Net shall have a three (3) month period after giving notice
+pursuant to Section 3.1 in which to elect in writing to SBCC to acquire an IRU
+in the Designated SBCC Assets subject to the terms and conditions as hereinafter
+provided. In the event PF.Net fails to elect to acquire said IRU within said
+three (3) month period then SBCC shall not be obligated to grant an IRU with
+respect to said SBCC Assets until such time as PF.Net may subsequently
+re-designate the same as part of a Development Route provided that such
+re-designation occurs during the Exclusivity Period, and provided, further that
+PF.Net may not re-designate any route as a Development Route more than one time.
+
+            3.3 Term of Right to Designate and Construct
+
+            PF.Net's right to designate Development Routes shall extend only
+during the Exclusivity Period but may extend beyond the Exclusivity Period by
+mutual
+
+
+                                        9
+<PAGE>
+
+agreement of the parties hereto. The time period in which PF.Net has a right to
+elect to acquire an IRU with respect to SBCC Assets along a Development Route
+that is designated within three (3) months of the expiration of said four (4)
+year period shall extend for a full three (3) month period beginning the date
+of the delivery of said designation to SBCC. It is the intent of the parties
+with respect to the granting of IRUs designated in this three (3) month period
+to grant the amount of IRUs for which construction can be completed within one
+(1) year after the date of granting.
+
+            3.4 Excluded Assets
+
+                  3.4.1 Notwithstanding anything herein to the contrary, this
+Agreement shall not be applicable to those business entities and assets
+identified on Schedule 3.4 and Exhibit C ("Excluded Assets"). With respect to
+Excluded Assets, SBCC shall use reasonable efforts to acquire on behalf of
+PF.Net appropriate rights designated by PF.Net, but SBCC shall have no other
+obligation to PF.Net with respect to such Excluded Assets.
+
+                  3.4.2 Telecom Easement Rights shall not include any such
+rights (i) utilized by the Affiliated Companies solely in connection with their
+internal communication systems; (ii) used solely in connection with wireless
+communications; or (iii) under contract to convey to third parties as of the
+date of this Agreement. SBCC represents and warrants that the amount of rights
+excluded from Telecom Easement Rights pursuant to clause (iii) above are not a
+material portion of the total amount of such rights held in the aggregate by the
+Affiliated Companies.
+
+                                  ARTICLE IV.
+                  FIBER NETWORKS DEVELOPMENT AND INSTALLATION
+
+            4.1 Installation Plans
+
+            All installation plans for Fiber Networks utilizing any of the SBCC
+Assets shall be submitted to SBCC for its review and approval prior to the
+commencement of any installation activities, which review by SBCC shall not be
+unreasonably withheld and shall be completed within fifteen (15) days. SBCC may
+withhold its approval of such plans if in its reasonable opinion the proposed
+installation and/or operation of the Fiber Networks will interfere with the use
+of the SBCC Assets or the assets of the Affiliated Companies, or the
+installation methods planned to be utilized pose a risk to the safe operation of
+the SBCC Assets (or the assets of the Affiliated Companies) or otherwise pose a
+danger to the safety of persons or property. SBCC's
+
+
+                                       10
+<PAGE>
+
+approval of any such plan does not relieve PF.Net of any duty with respect to
+the installation and operation of any Fiber Networks nor does it impose any duty
+on SBCC with respect thereto it being understood that PF.Net has the sole duty
+to install and operate the Fiber Networks in a safe manner, in compliance with
+applicable governmental health, safety and environmental regulations, and in a
+manner that does not interfere with SBCC's use of its facilities. In the event
+SBCC does withhold its approval, SBCC will work with PF.Net in a timely manner
+to provide a specific modification to the plans that it would approve.
+
+            4.2 Documentation
+
+            PF.Net will provide SBCC with documentation of the installation of
+its Fiber Networks that utilize the SBCC Assets. Such documentation will include
+the location and linear measurement of the SBCC Assets utilized in connection
+with PF.Net's Fiber Networks installation. Such documentation will be provided
+within ninety (90) days following completion of the installation of the Fiber
+Network.
+
+            4.3 Monitoring
+
+            PF.Net will provide SBCC with written notification thirty (30) days
+prior to the commencement of the installation of Fiber Networks utilizing any of
+the SBCC Assets. SBCC shall have the right but not the obligation to assign
+appropriate personnel to monitor the installation of PF.Net's Fiber Networks.
+PF.Net will pay SBCC the direct and verifiable costs incurred by SBCC in
+providing the monitoring as set forth in Section 7.3 hereof. The SBCC personnel
+monitoring the Fiber Networks shall have the right to order the suspension of
+all installation of Fiber Networks if in the reasonable judgment of any such
+personnel the continued installation presents a danger to persons or property,
+including the property of third parties, or is not reasonably consistent with
+the plans approved by SBCC. The failure of any SBCC personnel to suspend
+installation activities in the event of such danger shall impose no liability on
+SBCC or any such person, it being understood that PF.Net shall have the
+non-delegable duty to install the Fiber Networks without injury to persons or
+property and that SBCC has no liability with respect thereto.
+
+            4.4 Permits
+
+            PF.Net shall at its expense secure and maintain in effect all
+federal, state and local permits and licenses required for the construction,
+operation or removal of all
+
+
+                                       11
+<PAGE>
+
+PF.Net's equipment and facilities, including zoning, building, health,
+environmental or communication service.
+
+
+                                       12
+<PAGE>
+
+            4.5 Discontinuance
+
+            PF.Net shall give SBCC written notice of PF.Net's discontinued use
+of a Development Route. PF.Net shall, at PF.Net's expense and upon written
+request from SBCC, promptly remove its equipment and facilities from the
+discontinued Development Route and restore the premises to its prior condition.
+
+                                   ARTICLE V.
+                         INDEFEASIBLE RIGHT OF USE (IRU)
+
+            5.1 Obligation to Grant IRU
+
+            Upon the receipt of PF.Net's election to acquire an IRU with respect
+to SBCC Assets along any particular Development Route, SBCC shall promptly (and
+in any event within thirty (30) days) grant or cause to be granted by the
+Affiliated Companies an IRU in the Telecom Easement Rights, easement rights
+developed within the Encroachment Rights and Available Pipelines along the
+Development Route as required by PF.Net for its Fiber Network Development to the
+extent not prohibited by law. Unless otherwise agreed upon, any IRU granted
+shall be in the form substantially similar to the following exhibits attached
+hereto and made a part hereof:
+
+                        (a)   Telecom Easement Rights: Exhibit D; and
+
+                        (b)   Encroachment Rights: Exhibit E.
+
+                                   ARTICLE VI.
+                      REQUESTS FOR SERVICES AND ASSISTANCE
+
+            6.1 Location and Information
+
+            As soon as reasonably practical, SBCC will provide PF.Net at
+PF.Net's cost for copying and incidental charges, copies of maps showing the
+location of SBCC Assets and such other reasonably available information that
+SBCC or the Affiliated Companies determine would aid PF.Net in acquiring SBCC
+Assets for use in the development of the Fiber Networks and in perfecting the
+SBCC Assets for Fiber Network Development. PF.Net may request additional
+information from time to time including the update of previously furnished
+information and SBCC shall use reasonable efforts to comply with such requests
+in a timely fashion.
+
+
+                                       13
+<PAGE>
+
+            6.2 Other Services
+
+                  6.2.1 SBCC may be requested from time to time to render other
+services of value to PF.Net some of which are identified in this Section 6.2.
+Unless otherwise agreed upon, SBCC shall in its sole discretion provide such
+services to the extent and for only so long as it has resources available.
+PF.Net agrees to pay for such services as provided in Section 7.3 that PF.Net
+requests in writing subject to a specific budget developed for such services
+between the parties.
+
+                  6.2.2 At PF.Net's request and wherever reasonably feasible
+along the SBCC Assets and to the extent it may lawfully do so, PF.Net may
+request the following other services under such terms and conditions as may be
+agreed at the time the services are requested:
+
+                        (a) Personnel to assist in the acquisition of rights of
+      way, easements, franchises, and other permits together with legal,
+      accounting, mapping and other support services in connection with the
+      investigation, development, installation and operation of Fiber Networks.
+      Unless otherwise agreed upon, it is understood that any personnel
+      furnished hereunder will be under the supervision and control of PF.Net
+      who shall alone be responsible for the outcome of the efforts of such
+      personnel;
+
+                        (b) Assistance in obtaining power, water and other
+      utility services in order to minimize the cost of PF.Net independently
+      acquiring such services;
+
+                        (c) Access to roads, which may have been built by
+      Affiliated Companies or others along a Development Route, to the extent
+      that the Affiliated Companies have the right to permit such use and to the
+      extent reasonably necessary for Fiber Network Development subject to such
+      limitations as may be reasonable under the circumstance and subject to the
+      same terms and conditions, if any, imposed upon the Affiliated Companies
+      for their use of such roads;
+
+                        (d) Reasonable assistance in identifying and obtaining
+      the authorizations and permits required by municipal and county
+      governments necessary for Fiber Network Development;
+
+
+                                       14
+<PAGE>
+
+                        (e) Consulting services regarding IRUs, Telecom Easement
+      Rights, Encroachment Rights and Available Pipelines; and
+
+                        (f) Assistance in acquiring the use of assets, rights of
+      way, easements and pipelines that are owned by third parties.
+
+                  6.2.3 SBCC shall cooperate and cause the Affiliated Companies
+to cooperate in requests by PF.Net for assistance in perfecting the Telecom
+Easement Rights for Fiber Network Development.
+
+            6.3 Limitation Of SBCC's Liability For Work or Services
+
+            PF.Net releases SBCC and the Affiliated Companies and the officers
+and employees of each of them (Indemnittees) from, and the Indemnittees shall
+have no liability with respect to, any and all claims, demands, or causes of
+action arising out of, in connection with, or as incident to any act or
+omission, including ordinary negligence, but not as a result of the gross
+negligence or willful misconduct of the Indemnittees, in connection with work
+undertaken or services provided pursuant to Section 6.2.2 and agrees to defend,
+indemnify, and hold the Indemnittees harmless from any and all such claims,
+demands and causes of action, and to pay any and all expenses (including, but
+not limited to, attorney's fees) incurred in connection with such claims,
+demands, and causes of action.
+
+            6.4 Relationship of the Parties
+
+            Notwithstanding the furnishing of services or personnel by SBCC or
+the existence of other cooperative efforts between the parties, the relationship
+between them shall not be that of partners, agents, or joint venturers for one
+another, and nothing contained in this Agreement shall be deemed to constitute a
+partnership or agency agreement between them for any purposes. Specifically, for
+emphasis only and not by way of limitation, when any personnel furnished by SBCC
+is performing work for PF.Net such personnel shall have no authority to bind and
+shall not bind SBCC in any way whatsoever.
+
+
+                                       15
+<PAGE>
+
+                                  ARTICLE VII.
+                                PAYMENT AND FEES
+
+            7.1 Method of Payment
+
+            All sums due and payable to SBCC under this Agreement shall be paid
+in the form of a bank wire transfer to such bank and account as may be directed
+by SBCC or in such other manner as may otherwise be designated by SBCC.
+
+            7.2 IRUs
+
+            PF.Net shall make payment as follows:
+
+                        (a) Telecom Easement Rights and Encroachment Rights:
+      PF.Net shall issue to SBCC a promissory note in the form attached hereto
+      as Exhibit F.
+
+                        (b) SBCC's Available Pipelines: PF.Net shall pay in
+      immediately available funds the amount agreed to pursuant to Section
+      2.4.2.
+
+             7.3 Services
+
+            Except as provided in Section 9.1 Routine Maintenance, SBCC shall be
+paid for services as follows:
+
+                        (a) PE.Net shall pay SBCC for the services as agreed
+      upon at the time such services are requested.
+
+                        (b) PF.Net shall reimburse SBCC for the actual cost of
+      materials and fees or other charges SBCC paid to third parties in
+      complying with PF.Net requests.
+
+                        (c) Subject to Section 7.3(d) below, PF.Net shall pay
+      SBCC an amount equal to Three Hundred Seventy Five Thousand Dollars
+      ($375,000) for consultation services provided pursuant to Section 6.2.2(e)
+      (the "Consultation Fee"), plus out of pocket expenses (but not including
+      the salaries and benefits of employees of SBCC or the Affiliated
+      Companies) incurred in connection with identifying,
+
+
+                                       16
+<PAGE>
+
+      arranging and coordinating the resources necessary to render such services
+      with the first such payment due and payable the first day of the first
+      month following the Effective Date with the remaining payments due and
+      payable on each succeeding anniversary of the Effective Date; provided
+      that the fifth such payment to be made pursuant to this Section 7.3(c)
+      shall be made prior to the expiration of the Term. This fee shall be paid
+      by PF.Net whether or not such services are utilized by PF.Net.
+
+                        (d) Notwithstanding anything to the contrary contained
+      herein, during the period in which any amounts borrowed by the Company
+      pursuant to that certain Bridge Loan Agreement, dated as of the date
+      hereof, among PF.Net, the lenders party thereto, UBS AG, Stamford Branch
+      and Credit Suisse First Boston, remain outstanding, the Consultation Fee
+      shall be an amount equal to Two Hundred Twenty Five Thousand Dollars
+      ($225,000).
+
+            7.4 Purchase Order For Services
+
+            PF.Net will generate a purchase order in form satisfactory to SBCC
+for services which are requested of SBCC. SBCC may invoice PF.Net for services
+rendered and charges incurred on a monthly basis. Invoices shall be paid by
+PF.Net within thirty (30) days of receipt. Any invoice not paid within said
+thirty (30) day period shall bear interest until paid at the highest rate
+permitted by law.
+
+            7.5 Dark Fiber
+
+            In consideration of this Agreement, PF.Net shall at SBCC's written
+request provide to SBCC capacity, at a per unit price which is not more than the
+most favorable price to PF.Net for a transaction of comparable capacity along a
+comparable route, along the entire length of the route in which PF.Net installs
+its Fiber Networks for use by the Affiliated Companies for their internal
+communication systems.
+
+
+                                       17
+<PAGE>
+
+                                  ARTICLE VIII.
+                        OWNERSHIP AS BETWEEN THE PARTIES
+
+            8.1 Ownership of Fiber Networks
+
+            PF.Net shall have ownership of the Fiber Networks.
+
+            8.2 Ownership of SBCC Assets
+
+            SBCC will retain ownership of all SBCC Assets, and all of SBCC's
+related facilities, structures, improvements, and equipment subject to the terms
+and conditions of any IRUs acquired by PF.Net.
+
+                                   ARTICLE IX.
+                                   MAINTENANCE
+
+            9.1 Routine Maintenance
+
+            PF.Net shall be solely responsible for the routine maintenance of
+its Fiber Networks. SBCC shall provide PF.Net with such access to the SBCC
+Assets as is reasonably necessary for PF.Net to perform, at PF.Net's expense,
+surveillance and right of way maintenance services. SBCC, if requested by PF.Net
+and to the extent it may reasonably do so, will make available its mapping
+system where Fiber Networks utilize the SBCC Assets for the purpose of informing
+future third party excavators.
+
+            9.2 Emergency Maintenance
+
+            Each party will be solely responsible for the emergency maintenance
+of its own system. However, the parties agree to cooperate in the event of
+emergency to best assure the safety and convenience of their customers and the
+general public and to work together until both parties' facilities are restored,
+to the extent the parties can help each other.
+
+
+                                       18
+<PAGE>
+
+                                   ARTICLE X.
+                            DISCLAIMER OF WARRANTIES
+
+            10.1 Disclaimer of Warranties
+
+            IT IS UNDERSTOOD AND AGREED THAT WITH RESPECT TO THE SBCC ASSETS,
+SBCC MAKES NO REPRESENTATION OR WARRANTY OF TITLE, EITHER EXPRESS, IMPLIED,
+STATUTORY OR OTHERWISE AND, FURTHER, MAKES NO REPRESENTATION OR WARRANTY,
+IMPLIED OR STATUTORY AS TO THE CONDITION, QUANTITY, QUALITY, FITNESS FOR A
+PARTICULAR PURPOSE, FREEDOM FROM REDHIBITORY VICES OR DEFECTS, CONFORMITY TO
+MODELS OR SAMPLES OF MATERIALS OR MERCHANTABILITY OR FITNESS FOR ANY PURPOSE AND
+WITHOUT ANY OTHER EXPRESS, IMPLIED, STATUTORY OR OTHER WARRANTY OR
+REPRESENTATION WHATSOEVER, EXCEPT AS SET FORTH HEREIN.
+
+                                   ARTICLE XI.
+                      INDEMNITY AND LIMITATION OF LIABILITY
+
+            11.1 SBCC's Duty to Indemnify
+
+            To the fullest extent permitted by law, SBCC agrees to release,
+defend, indemnify, and hold PF.Net and its members, managers, officers and
+employees (collectively the "Indemnified Parties") harmless from and against any
+liability, loss (net of insurance), cause of action, penalty, fine, cost
+(including, but not limited to, attorneys' fees), claim, or strict liability
+claim arising out of or in any way incident to the negligent acts or omissions
+or willful misconduct of SBCC, or its contractors, agents, assignees or
+licensees or the Affiliated Companies pursuant to this Agreement (except as
+further limited by Section 6.3) on account of personal injuries, death, damage
+to property, or damage to the environment regardless of whether such harm is to
+SBCC, the Indemnified Parties, the employees or officers of either, or any other
+person or entity, and regardless of how such injury/death/damage is caused (by
+Indemnified Parties' negligence, the negligence of third parties, or otherwise),
+but excluding injury/death/damage to the extent caused by the negligence or
+other fault of the Indemnified Parties. SBCC's duties under this section shall
+survive the termination, revocation, or expiration of this Agreement.
+
+
+                                       19
+<PAGE>
+
+            11.2 PF.Net's Duty to Indemnify
+
+            To the fullest extent permitted by law and except as may be
+otherwise provided in Section 6.3, PF.Net agrees to release, defend, indemnify,
+and hold SBCC and the Affiliated Companies and the members, managers, officers
+and employees of each of them (collectively the "Indemnified Parties") harmless
+from and against any liability, loss (net of insurance), cause of action,
+penalty, fine, cost (including, but not limited to, attorneys' fees), claim, or
+strict liability claim arising out of or in any way incident to the negligent
+acts or omissions or willful misconduct of PF.Net, or its contractors, agents,
+assignees or licensees pursuant to this Agreement, on account of personal
+injuries, death, damage to property, or damage to the environment, regardless of
+whether such harm is to PF.Net, the Indemnified Parties, the employees or
+officers of either, or any other person or entity, and regardless of how such
+injury/death/damage is caused (by the Indemnified Parties' negligence, the
+negligence of third parties, or otherwise), but excluding injury/death/damage to
+the extent caused by the negligence or other fault of the Indemnified Parties.
+PF.Net's duties under this paragraph shall survive the termination, revocation,
+or expiration of this Agreement. PF.Net further agrees to release, defend,
+indemnify, and hold the Indemnified Parties harmless from and against any
+liability, loss (net of insurance), cause of action, penalty, fine, cost
+(including, but not limited to, attorneys' fees), claim, or strict liability
+claim arising out of or in any way incident to the failure of PF.Net to secure,
+maintain and comply with required governmental permits pursuant to Section 4.4.
+
+            11.3 Limitation of Liability
+
+            Except as otherwise provided herein, each party's liability to the
+other for any damages caused to either the Fiber Networks, or the SBCC Assets or
+the assets of the Affiliated Companies will be limited to repairing or replacing
+the same at its expense. In the event product is lost that was being transported
+through a common carrier or gas utility pipeline, the liability for the party
+causing such loss shall, in addition to the liability set forth in the preceding
+sentence, include the value of such lost product to the extent such loss of
+product would result in an out of pocket loss by the carrier. Neither party will
+be liable to the other or to the other's customers for incidental,
+consequential, special, or punitive damages, or lost profits but, except as
+specifically set forth in this sentence, nothing herein shall be construed to
+limit an indemnifying party's duty to defend, indemnify and hold harmless the
+Indemnified Parties with respect to third party liabilities and claims.
+
+
+                                       20
+<PAGE>
+
+            11.4 Contract or Tariff Offerings
+
+            PF.Net, in any contract or tariff offering of service, capacity, or
+rights of use that in any of the preceding instances involves use of the Fiber
+Networks, shall include, to the extent permitted by law, in such contract or
+tariff a written limitation of liability that is binding on PF.Net's customers
+and in all material respects at least as restrictive as the limitations set
+forth herein.
+
+                                  ARTICLE XII.
+                                     DEFAULT
+
+            12.1 Cure Period
+
+            Except as provided in Section 12.2 (b), a party shall not be in
+default under this Agreement unless and until the other party provides it
+written notice of such default and the first party shall have failed to cure the
+same within thirty (30) days after receipt of such notice; provided, however,
+that where such default cannot reasonably be cured within such thirty (30) day
+period but is reasonably susceptible of cure, if the first party shall proceed
+promptly to cure the same and prosecute such curing with due diligence, the time
+for curing such default shall be extended for such period of time as may be
+necessary to complete such curing up to a maximum of 180 days. Any event of
+default may be waived at the non-defaulting party's option. Upon the failure of
+a party to timely cure any such default after notice thereof from the other
+party and expiration of the above cure periods, then the non-defaulting party
+may pursue any legal remedies it may have under applicable law or principles of
+equity relating to such breach and as provided in Sections 12.2 and 12.3.
+
+            12.2 Termination Rights - SBCC
+
+                        (a) In the event PF.Net is in breach of a material
+      obligation under this Agreement after having been given notice of such
+      failure and the opportunity to cure pursuant to Section 12.1, then SBCC,
+      upon notice to PF.Net, may terminate this Agreement.
+
+                        (b) In the event the payment required pursuant to
+      Section 7.2(a) is not paid when due or if PF.Net should be adjudged a
+      bankrupt or if it should make a general assignment for the benefit of
+      creditors or if a receiver should be appointed for it and not dismissed
+
+
+                                       21
+<PAGE>
+
+      within 60 days, SBCC shall have the option to terminate this Agreement
+      upon notice to PF.Net.
+
+                        (c) In the event that PF.Net fails to perform any
+      obligation under this Agreement or an IRU (a "PF.Net Default"),
+      immediately upon the occurrence of such PF.Net Default, SBCC shall have
+      the right, but not the obligation, upon written notice to or demand upon
+      PF.Net, and without releasing PF.Net from any obligation, to perform such
+      obligation; provided that all such sums as SBCC shall, in its reasonable
+      discretion, incur or expend in exercising such rights shall be payable to
+      SBCC by PF.Net within ten (10) days of rendition of any bill or statement
+      to PF.Net therefor. Notwithstanding anything to the contrary contained
+      herein, the terms of this Section 12.2(c) shall survive any termination of
+      this Agreement.
+
+            12.3 Termination Rights - PF.Net
+
+            In the event SBCC is in breach of a material obligation under this
+Agreement after having been given notice of such failure and the opportunity to
+cure pursuant to 12.1, then PF.Net, upon notice to SBCC, may terminate this
+Agreement.
+
+            12.4 Cumulative Remedies
+
+            The remedies set forth in Sections 12.2 and 12.3 are not exclusive
+and are in addition to such other remedies as may be available in law and
+equity.
+
+            12.5 Survival
+
+            Notwithstanding anything to the contrary contained in this
+Agreement, in the event of any termination of this Agreement, Section 3.1.2,
+Section 8.1, Article XI, Section 12.2(c), Section 13.4 and Section 14.2 will
+continue in full force and effect after any such termination.
+
+
+                                       22
+<PAGE>
+
+                                  ARTICLE XIII.
+                REPRESENTATIONS, WARRANTIES AND COVENANTS OF SBCC
+
+            13.1 Corporate Organization and Standing; Power and Authority.
+
+            SBCC is a corporation duly organized, validly existing and in good
+standing under the laws of the jurisdiction of its incorporation, and is duly
+qualified to do business and in good standing as a foreign corporation in all
+jurisdictions in which it is required to be qualified in order to do business.
+SBCC is wholly owned by Koch Ventures, Inc., Affiliated Companies, and,
+indirectly, by Koch Industries, Inc. ("Koch"). SBCC has full power and authority
+to enter into this Agreement and the related agreements with Affiliated
+Companies and to perform its obligations hereunder and thereunder.
+
+            13.2 SBCC Assets
+
+            As of the date hereof and for the Exclusivity Period, and except as
+otherwise provided for herein, SBCC will own or have the Encroachment Rights.
+SBCC makes no representation or warranty regarding its rights in the property
+subject to the Encroachment Rights for purposes of Fiber Network Development or
+the suitability of the SBCC Assets for Fiber Network Development.
+
+            13.3 Exclusivity
+
+            To the knowledge of SBCC, the SBCC Assets and the Excluded Assets
+represent substantially all of the pipeline related real estate that is
+reasonably useful for Fiber Network Development now owned by Koch Industries,
+Inc. or any of its Affiliates. Except as stated in this Agreement or required by
+law, neither SBCC nor the Affiliated Companies shall grant to any other party,
+in whole or in part, during the Exclusivity Period, (i) the rights granted to
+PF.Net in this Agreement or (ii) the right to use any of the Excluded Assets for
+Fiber Network Development. Except as stated in this Agreement or required by law
+and other than the Affiliated Companies in connection with Fiber Networks used
+primarily for the Affiliated Companies' Business, PF.Net shall be the sole and
+exclusive entity with the right to use the SBCC Assets for Fiber Network
+Development during the Exclusivity Period and, with respect to Designated SBCC
+Assets, for a period of 25 years.
+
+
+                                       23
+<PAGE>
+
+            13.4 Affiliated Companies Agreements
+
+            SBCC agrees that the Affiliated Companies Agreements will not be
+materially modified or amended during the term of this Agreement, or the
+performance of any obligations to SBCC thereunder waived or excused, without the
+prior written consent of PF.Net, which consent shall not be unreasonably
+withheld.
+
+                                  ARTICLE XIV.
+                          GENERAL TERMS AND WARRANTIES
+
+            14.1 Work Performance
+
+            Each party warrants that all work that it performs or manages
+pursuant to this Agreement will be done in accordance with standard industry
+practices and in compliance with state, federal and municipal codes and
+regulations covering such work.
+
+            14.2 Confidentiality
+
+                  14.2.1 The conditions, terms and contents of this Agreement
+are confidential between the parties. No party nor their intermediaries will
+disclose this information to anyone other than legal counsel or accountants of
+the party without the consent of the other parties, except as required by law or
+as may be required to obtain financing or to financial intermediaries as may
+reasonably be required and as mutually agreed upon by the parties hereto. Any
+press release or communication or use of a party's name related to this
+Agreement, must be approved by both parties, prior to any such press release,
+communication or disclosure occurring.
+
+                  14.2.2(a) SBCC and PF.Net hereby agree that if either party
+provides (or, prior to the execution hereof, has provided) confidential or
+proprietary information to the other party ("Proprietary Information"), such
+Proprietary Information shall be held in confidence, and the receiving party
+shall afford such Proprietary Information the same care and protection as it
+affords generally to its own confidential and proprietary information (which in
+any case shall be not less than reasonable care) in order to avoid disclosure to
+or unauthorized use by any third party.
+
+                        (b) As used herein, Proprietary Information shall mean
+      any and all technical or business information furnished, in
+
+
+                                       24
+<PAGE>
+
+      whatever form or medium, or disclosed by any party to the other including,
+      but not limited to, product or service specifications, prototypes,
+      computer programs, models, drawings, marketing plans, financial data, and
+      personnel statistics.
+
+                        (c) All Proprietary Information, unless otherwise
+      specified in writing, shall remain the property of the disclosing party,
+      and such written Proprietary Information, including all copies thereof,
+      shall be returned to the disclosing party or destroyed upon the request of
+      the disclosing party. Proprietary Information shall not be reproduced
+      except to the extent necessary to accomplish the purpose and intent of
+      this Agreement, or as otherwise may be permitted in writing by the
+      disclosing party.
+
+                        (d) The foregoing provisions of this Section 14.2.2
+      shall not apply to any Proprietary Information which (a) becomes publicly
+      available other than through the recipient; (b) is required to be
+      disclosed by a governmental or judicial law, order, rule or regulation,
+      provided that the party availing itself of this exception has used
+      commercially reasonable efforts to avoid or limit such disclosure; (c) is
+      independently developed by the disclosing party; (d) becomes available to
+      the disclosing party without restriction from a third party without an
+      obligation to keep confidential such Proprietary Information; or (e)
+      becomes relevant to the settlement of any dispute or enforcement of either
+      party's rights under this Agreement in accordance with the provisions of
+      this Agreement, in which case appropriate protective measures shall be
+      taken to preserve the confidentiality of such Proprietary Information as
+      fully as possible within the confines of such settlement or enforcement
+      process. If any Proprietary Information is required to be disclosed
+      pursuant to the foregoing clause (b), the party required to make such
+      disclosure shall promptly inform the other party of the requirements of
+      such disclosure.
+
+                        (e) Nothing herein shall be construed as granting any
+      right or license under any trademarks, copyrights, inventions, patents or
+      other intellectual property now or hereafter owned or controlled by any
+      party.
+
+
+                                       25
+<PAGE>
+
+                        (f) Notwithstanding the foregoing, either party may
+      disclose Proprietary Information to its employees, agents ,and legal,
+      financial, and accounting advisors and financing providers (including its
+      lenders and other financial institutions) to the extent necessary or
+      appropriate in connection with the negotiation and/or performance of this
+      Agreement or its obtaining of financing, provided that each such party is
+      notified of the confidential and proprietary nature of such Proprietary
+      Information and is subject to or agrees to be bound by the terms of this
+      Section.
+
+                        (g) All media releases, public announcements, and public
+      disclosures relating to this Agreement or the subject matter of this
+      Agreement, including promotional or marketing material, but not including
+      announcements intended solely for internal distribution or disclosures to
+      the extent required to meet legal or regulatory requirements, shall be
+      coordinated with and shall be subject to approval by both parties prior to
+      release.
+
+                        (h) The provisions of this Section 14.2.2 shall survive
+      the expiration or termination of this Agreement.
+
+            14.3 Governing Law and Jurisdiction
+
+            This Agreement shall be subject to and governed by the laws of the
+State of New York. The parties agree that venue and jurisdiction with respect to
+any matter arising under this Agreement, shall be exclusively in the state or
+federal courts, as applicable, located in the State of New York. Each party
+submits to the jurisdiction of such courts in the State of New York with respect
+to any claims or controversies arising under this Agreement.
+
+            14.4 Waiver of Terms and Conditions
+
+            Failure to enforce or insist upon compliance with any of the terms
+or conditions of this Agreement shall not constitute a general waiver or
+relinquishment of any such terms or conditions, but the same shall be and remain
+at all times in full force and effect.
+
+
+                                       26
+<PAGE>
+
+            14.5 Severability
+
+            In the event that any provision of this Agreement shall be held
+unconscionable, unenforceable, or void for any reason by any tribunal of
+competent jurisdiction, it is agreed that the provision in question shall be
+modified by the parties to eliminate the elements of concern to the tribunal and
+shall be binding on the parties hereto. The remaining provisions of this
+Agreement shall not be affected by the action of any tribunal or modification of
+such provision, and shall remain in full force and effect.
+
+            14.6 Force Majeure
+
+            Except as otherwise expressly provided herein, neither party shall
+be liable for any delay due to causes not reasonably within its control,
+including but not limited to, acts of civil or military authority, including
+courts and regulatory agencies, acts of God, war, riot or insurrection,
+blockades, embargoes, sabotages, epidemics, fires, floods, strikes, lockouts or
+other labor difficulties, provided such labor difficulties do not arise from
+inequitable labor practices. In the event of any delay resulting from such
+causes, upon notice to the other party within five (5) days of the date on which
+the delayed party obtains knowledge of the occurrence of the event giving rise
+to the delay, the time for performance hereunder other than for the payment of
+money shall be extended for a period of time reasonably necessary to overcome
+the effects of such delays. This shall constitute the sole remedy to either
+party in the event of such delays. Failure of subcontractors and inability to
+obtain materials shall not excuse the performance of any party. It is
+specifically understood and agreed that the Exclusivity Period and the one-year
+period in which Fiber Networks are to be constructed shall not he extended by an
+event or combination of events set forth herein.
+
+            14.7 Notice
+
+            Any notice, request, instruction, demand, consent or other
+communication required or permitted to be given under this Agreement shall be in
+writing and shall be delivered either by hand or by certified mail, postage
+prepaid, and certified return receipt requested to the following address or such
+other address as the parties may provide to each other in writing:
+
+
+                                       27
+<PAGE>
+
+           To PF.Net - Chief Operating Officer
+                       PF.Net Corp.
+                       1625 B Street
+                       Washougal, WA 98671
+
+             To SBCC - Sea Breeze Communications Company
+                       Attention: George Damiris
+                       P.O. Box 2256
+                       Wichita, KS 67201
+
+                       With a copy to:
+                       Koch Industries, Inc.
+                       4111 E. 37th St. N
+                       Wichita, KS 67220
+                       Attn: Tye G. Darland
+
+Each such notice shall be deemed delivered (i) on the date delivered as
+evidenced by the date on the receipt or (ii) on the date on which the returned
+receipt is signed if delivery is refused, or the postal authorities or express
+service designate the notice as undeliverable, if mailed.
+
+            14.8 Alterations and Amendments
+
+            No alteration or amendment of this Agreement shall be valid unless
+the same is made in accordance with the provisions of this Agreement or by an
+instrument in writing signed by all parties hereto and, in case of any such
+alternation or amendment, so much of this Agreement as is not necessarily
+thereby changed shall remain in full force and effect, and no act or conduct of
+either party shall be held to operate as a waiver of any provision or provisions
+of this Agreement, unless in the form of a writing signed by the party against
+which it is asserted.
+
+            14.9 Coverage of Agreement
+
+            This Agreement represents the entire Agreement between the parties
+and supersedes all prior representations or agreements, whether written or oral,
+with respect to work hereunder.
+
+
+                                       28
+<PAGE>
+
+            14.10 Parties Bound
+
+            This Agreement shall be binding upon and inure to the benefit of the
+parties hereto and their respective successors, heirs, personal representatives
+and assigns.
+
+            14.11 Headings
+
+            Headings that may appear in this Agreement are solely for the
+convenience of the parties and are not to be considered a part of any particular
+provision that they may appear to reference nor may they be used in construing
+any of the language contained in this Agreement.
+
+            14.12 Joint Negotiation
+
+            This Agreement has been fully negotiated between and jointly drafted
+by the parties hereto. No party shall be given the benefit of any presumption
+relating to the drafting of this Agreement.
+
+            14.13 Assignment
+
+                  14.13.1 Except as provided below, PF.Net shall not assign,
+lease or otherwise transfer this Agreement or its rights or obligations in whole
+or in part hereunder without (i) the prior written consent of SBCC, whether by
+merger or otherwise and (ii) the written agreement of the assignee to be bound
+by all of the terms and conditions hereof; provided, that such consent shall not
+be unreasonably withheld, which consent shall be given at no additional cost to
+PF.Net and, provided, further, that such consent shall not be required for so
+long as Koch Telecom Ventures, Inc. ("Koch Telecom") has its rights under
+Section 4(a) of that certain Stockholders Agreement, dated October 29, 1999, by
+and among Koch Telecom, PF.Net and the parties named therein. It is expressly
+understood that PF.Net's right to assign, lease or otherwise transfer any IRU
+granted to it pursuant to this Agreement or permit the use by third parties of
+any rights granted therein shall be subject to the terms and conditions as may
+be contained in any such IRU.
+
+                  14.13.2 SBCC acknowledges and agrees that, to the extent
+required by PF.Net's lenders, PF.Net may grant security interests of any kind in
+and/or collaterally assign its rights with respect to the SBCC Assets and/or
+this Agreement,
+
+
+                                       29
+<PAGE>
+
+including the proceeds thereof, to other parties, provided that PF.Net has used
+its reasonable good faith efforts to obtain financing without requiring such
+assignment, or, if it is unable to do so, PF.Net has used its reasonable good
+faith efforts to minimize the extent of any such assignment and; provided,
+further that any secured party agrees to recognize and be bound by the terms of
+this Agreement. Notwithstanding any other provision of this Agreement, prior to
+any assignment or other transfer (a "Transfer") hereof, PF.Net must notify SBCC
+in writing of its intention to effect such a Transfer (a "Transfer Notice").
+PF.Net shall not be permitted to effect such a Transfer if (a) such transfer
+would constitute a Transfer to William I. Koch or Frederick Koch, any member of
+the immediate family of William I. Koch or Frederick Koch (spouse, children, or
+grandchildren), or any partnership (general or limited), corporation,
+association, joint stock company, trust, family trust, joint venture,
+unincorporated organization or other entity of any type or nature, that
+directly, or indirectly through one or more intermediaries, is controlled, or is
+under common control with William I. Koch or Frederick Koch, or any member of
+the immediate family of William I. Koch or Frederick Koch (a "Restricted Koch
+Family Transfer") and (b) within 15 business days following receipt of such
+Transfer Notice, SBCC shall have notified PF.Net in writing that the proposed
+Transfer would constitute a Restricted Koch Family Transfer and is therefore
+prohibited by this Section 14.13.2. For purposes of the foregoing, "control"
+(including, with correlative meanings, the terms "controlling," "controlled by"
+and "under common control with"), as used with respect to any person, shall mean
+the possession, directly or indirectly, of the power to direct or cause the
+direction of the management or policies of such person, whether through the
+ownership of voting securities, by agreement or otherwise.
+
+                            [signature page follows]
+
+
+                                       30
+<PAGE>
+
+            Signed the day and year appearing below each signature.
+
+
+PF.Net Corp.                           Sea Breeze Communication Company
+
+
+By: /s/ Stephen Irwin                  By:
+    ---------------------------           --------------------------------------
+Its: Authorized Signatory              Its:
+    ---------------------------            -------------------------------------
+Date: 10/29/99                         Date:
+     --------------------------             ------------------------------------
+
+
+                                       31
+<PAGE>
+
+            Signed the day and year appearing below each signature.
+
+
+PF.Net Corp.                           Sea Breeze Communication Company
+
+
+By:                                    By: /s/ Philip D. Wright
+    ---------------------------            -------------------------------------
+Its:                                   Its: Vice President
+    ---------------------------             ------------------------------------
+Date:                                  Date: 10/29/99
+     --------------------------              -----------------------------------
+
+
+                                       31
+</TEXT>
+</DOCUMENT>

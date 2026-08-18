@@ -1,0 +1,148 @@
+<DOCUMENT>
+<TYPE>EX-10.4
+<SEQUENCE>5
+<FILENAME>exhibit10_4.txt
+<TEXT>
+								   EXHIBIT 10.4
+
+ARIZONA HEALTH CARE COST CONTAINMENT SYSTEM ADMINISTRATION
+DIVISION OF BUSINESS AND FINANCE
+CONTRACT AMENDMENT
+
+1. AMENDMENT NUMBER: 14
+2. CONTRACT NO.: YH04-0001-06
+3. EFFECTIVE DATE OF AMENDMENT: October 1, 2005
+4. PROGRAM: DHCM
+5. CONTRACTOR/PROVIDER NAME AND ADDRESS:
+   Phoenix Health Plan/Community Connection
+   7878 N. 16th Street
+   Phoenix, Arizona  85020
+
+6. PURPOSE OF AMENDMENT:
+   To incorporate the changes below and to amend capitation rates.
+
+7. The previous amendment of the above referenced contract is hereby amended
+   as follows:
+
+   SECTION B, CAPITATION RATES
+
+   See rate sheet attached for the revised capitation rates effective October
+   1, 2005 through December 31, 2005 and the amounts to be paid to the rural
+   hospitals.
+
+   Insert the following language beforee "See attached.":
+
+   "The Contractor will be paid the attached Contractor specific capitation
+   rates retroactively, per member per month, for the period of October 1, 2005
+   through December 31, 2005. Only the impacted rates are included on the
+   attachment. All other rates remain unchanged. The Administration requires
+   that the Contractor then make one-time payments to each rural hospital as
+   prescribed on the attached schedule, pursuant to ARS Section 36-2905.02, to
+   increase inpatient reimbursement to these small rural hospitals.
+
+   The retroactive capitation rate payment will be paid with the June 2006
+   capitation rates. The Contractor shall make the prescribed payments to
+   the rural hospitals during June 2006 and submit proof of payment to the
+   Finance Unit of the Division of Health Care Management by June 30, 2006.
+
+   The capitation rates for the period January 1, 2006 through September 30,
+   2006 are not impacted by this amendment."
+
+NOTE: Please sign and date both and then return one original to:
+      Michael Veit, Contracts & Purchasing Administrator
+      AHCCCS Contracts and Purchasing
+      701 E. Jefferson, MD 5700
+      Phoenix, AZ 85034
+
+8.  EXCEPT AS PROVIDED FOR HEREIN, ALL TERMS AND CONDITIONS OF THE ORIGINAL
+    CONTRACT NOT HERETOFORE CHANGED AND/OR AMENDED REMAIN UNCHANGED AND IN
+    FULL EFFECT.
+
+    IN WITNESS WHEREOF THE PARTIES HERETO SIGN THEIR NAMES IN AGREEMENT.
+
+9.  NAME OF CONTRACTOR: PHOENIX HEALTH PLAN
+    SIGNATURE OF AUTHORIZED INDIVIDUAL: /s/NANCY NOVICK
+    TYPED NAME: NANCY NOVICK
+    TITLE: CHIEF EXECUTIVE OFFICER
+    DATE: 4/26/06
+
+10. ARIZONA HEALTH CARE COST CONTAINMENT SYSTEM
+    SIGNATURE: /s/MICHAEL VIET
+    TYPED NAME: MICHAEL VEIT
+    TITLE: CONTRACTS AND PURCHASING ADMINISTRATOR
+    DATE: APR 20 2006
+
+<page>
+
+ARIZONA HEALTH CARE COST CONTAINMENT SYSTEM
+REVISED ACUTE CAPITATION RATES
+Phoenix Health Plan/Community Connection
+(10/1/05-12/31/05)
+
+TITLE XIX RATES:
+8  Gila/Pinal
+12 Maricopa
+
+TANF <1, M/F
+$487.72
+$429.73
+
+TANF 1-13, M/F
+$108.31
+$102.56
+
+TANF
+14-44, F
+$199.41
+$183.67
+
+TANF
+14-44, M
+$131.24
+$125.29
+
+TANF
+45+, M/F
+$378.48
+$378.23
+
+SSI w/Med
+$283.06
+$272.44
+
+SSI w/o Med
+$611.35
+$564.56
+
+Non-MED
+$448.03
+$430.86
+
+MED
+$962.02
+$841.02
+
+Two percent Premium tax is included in the Capitation Rates.
+Payments stated without Premium Tax.
+
+PHP/Community connection		Payment
+1  BENSON HOSPITAL			  $0.00
+2  CARONDELET HOLY CROSS HOSPITAL	  $0.00
+3  COBRE VALLEY COMMUNITY HOSPITAL	  $347,784.65
+4  COOPER QUEEN COMMUNITY HOSPITAL	  $0.00
+5  LA PAZ REGIONAL MEDICAL CENTER	  $0.00
+6  MT. GRAHAM COMMUNITY HOSPITAL	  $0.00
+7  NAVAPACHE REGIONAL MEDICAL CENTER	  $1,616.49
+8  NORTHERN COCHISE COMMUNITY HOSPITAL	  $0.00
+9  PAGE HOSPITAL			  $0.00
+10 PAYSON HOSPITAL CORPORATION		  $448,275.56
+11 SIERRA VISTA COMMUNITY HOSPITAL	  $455.18
+12 SOUTHEAST ARIZONA MEDICAL CENTER	  $0.00
+13 VERDE VALLEY MEDICAL CENTER (MJL)	  $0.00
+14 WHITE MOUNTAIN REGIONAL MEDICAL CENTER $0.00
+15 WICKENBURG REGIONAL HOSPITAL		  $0.00
+16 WINSLOW MEMORIAL HOSPITAL		  $4,986.27
+
+   Total				  $803,118.14
+</TEXT>
+</DOCUMENT>

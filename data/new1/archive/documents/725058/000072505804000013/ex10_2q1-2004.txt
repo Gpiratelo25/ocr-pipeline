@@ -1,0 +1,942 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>4
+<FILENAME>ex10_2q1-2004.txt
+<DESCRIPTION>EXHIBIT 10.2 MANUFACTURING AND SUPPLY AGREERMENT
+<TEXT>
+                                                                    Exhibit 10.2
+
+
+          Confidential Materials omitted and field separately with the
+        Securities and Exchange Commission. Asterisks denote omissions.
+
+
+                              AMENDED AND RESTATED
+                              --------------------
+
+                       MANUFACTURING AND SUPPLY AGREEMENT
+                       ----------------------------------
+
+         THIS  AMENDED AND RESTATED  MANUFACTURING  AND SUPPLY  AGREEMENT  (this
+"Agreement") made effective as of January 1, 2004 (the "Effective Date") between
+Bristol-Myers  Squibb Medical Imaging,  Inc., a Delaware  corporation,  having a
+place  of  business  at  331  Treble  Cove  Road,  North  Billerica,   MA  01862
+(hereinafter "BMS") and Cytogen Corporation, a Delaware corporation,  having its
+principal place of business at 650 College Road East, Suite 3100, Princeton,  NJ
+08540 (hereinafter "Cytogen").
+
+         WHEREAS,  BMS  manufactures,   supplies  and  distributes  the  Product
+(defined  herein) for Cytogen  pursuant to the terms and conditions set forth in
+such  agreement  under the  Manufacturing  and  Supply  Agreement  (the  "Supply
+Agreement") entered into by BMS and Cytogen as of the Effective Date; and
+
+         WHEREAS,  the parties desire to amend and restate the Supply  Agreement
+as amended and restated herein..
+
+         NOW  THEREFORE,  IN  CONSIDERATION  of the  rights  conferred  and  the
+obligations  assumed  herein,  and  intending to be legally  bound,  the parties
+hereby agree as follows:
+
+1.       DEFINITIONS
+
+         The following terms shall, unless the context otherwise requires,  have
+the following meanings, respectively:
+
+         1.1 "Active  Pharmaceutical  Ingredient"  or "API"  means the  chemical
+compound samarium-153  complexed with ethylene  diaminetetramethylene-phosphoric
+acid ("EDTMP").
+
+         1.2 "Additional Batch" shall have the meaning ascribed to  such term in
+Section 3.2.
+
+         1.3  "Affiliate"  means any corporation or other entity which controls,
+is controlled by, or is under common control with a party to this  Agreement.  A
+corporation  or  other  entity  shall  be  regarded  as in  control  of  another
+corporation  or entity if it owns or directly or  indirectly  controls more than
+fifty percent (50%) of the voting stock or other ownership interest of the other
+corporation  or  entity,  or has the power to elect or  appoint  more than fifty
+percent (50%) of the members of the governing  body of the  corporation or other
+entity.
+<PAGE>
+
+         1.4 "Batch"  means one  manufacturing  process run within the validated
+scale (as defined in the NDA) within BMS' usual range of actual yield.
+
+         1.5 "BMS  Intellectual  Property"  means all patents,  trademarks,  and
+other intellectual property rights,  including know-how,  manufacturing methods,
+discoveries,  inventions,  processes, or methodologies,  in any form or stage of
+development (and all related documentation), which are proprietary to BMS.
+
+         1.6  "Change" shall have the meaning ascribed  to such term  in Section
+2.7(a).
+
+         1.7  "Claims" shall have the  meaning ascribed  to such term in Section
+7.1(a).
+
+         1.8  "Components"  means  EDTMP,  all  labeling   material,   packaging
+material,  starting material and  intermediates and excipients  required for the
+manufacture, labeling, and packaging of the Product.
+
+         1.9   "Confidential  Information"  means a  party's  technology,  data,
+know-how,  or information  whether written or oral,  technical or non-technical,
+including  financial  statements,   reports,   pricing,  trade  secrets,  secret
+processes, formulas, customer data (including customer lists) and the like, that
+relates to the manufacture,  packaging,  Order processing or distribution of the
+Product, and that is disclosed to the other party.
+
+         1.10 "cGMP" means current good  manufacturing  practices as promulgated
+under United States Federal Food,  Drug and Cosmetic Act at 21 CFR (Chapters 210
+and 211).
+
+         1.11 "Cost of  Manufacture"  or "COM" means BMS' cost of manufacture as
+described in Section 3.1(a).
+
+         1.12 "Cost of Support  Services"  or "COSS" means BMS' cost of customer
+support services as described in Section 3.1(a).
+
+         1.13 "Cytogen Included Technology" means all patents,  trademarks,  and
+other  intellectual  property  rights  and all  know-how  and other  information
+necessary or useful for the manufacture, development, use or sale of the Product
+in the  Territory to the extent  owned,  controlled  or  in-licensed  by Cytogen
+during the term of this Agreement.
+
+         1.14 "Effective  Date" shall have the meaning  ascribed to such term in
+the introductory paragraph.
+
+         1.15  "EDTMP"  shall have the meaning  ascribed to such term in Section
+1.1.
+
+         1.16  "External  Quality  Agreement"  shall mean the  External  Quality
+Agreement  which is  attached  hereto as Schedule 1 and  incorporated  herein by
+reference.
+
+
+                                      -2-
+<PAGE>
+         1.17 "FDA" means the United States Food and Drug Administration, or any
+successor entity thereto.
+
+         1.18 "Forecast" shall have the meaning ascribed to such term in Section
+2.5(a).
+
+         1.19   "Inventory"    means   all   inventories   of   Components   and
+work-in-process  produced or held by or on behalf of BMS in connection  with the
+manufacture,  packaging  and  labeling  of the  Product in  accordance  with the
+Specifications and contract requirements, but shall not include the API.
+
+         1.20   "MDPH-RCP"    means    Massachusetts    Department   of   Public
+Health-Radiation Control Program, or any successor entity thereto.
+
+         1.21 "NDA" means the approved New Drug  Application for Product,  as it
+may be  supplemented  or amended from time to time,  and documents  incorporated
+therein by reference.
+
+         1.22 "NRC" means the United States Nuclear  Regulatory  Commission,  or
+any successor entity thereto.
+
+         1.23  "Order(s)"  shall  mean  orders  placed for  Product  (i) for the
+benefit  of,  or on behalf  of,  Cytogen's  customers,  or (ii) by  Cytogen  for
+giveaways,  clinical use,  sales or other uses as Cytogen may deem  appropriate.
+For the sake of clarity,  the parties  acknowledge  and agree that [**].
+
+         1.24 "[**]" shall  have  the meaning  ascribed to such term  in Section
+3.1(d).
+
+         1.25 "Primary  Representative"  shall have the meaning ascribed to such
+term in Section 2.5.
+
+         1.26 "Product" means Cytogen's  Quadramet(R)  (Samarium -153 lexidronam
+injection),  a formulation  containing API manufactured using 3 mL fill in 10 cc
+vials by BMS according to the Specifications.
+
+         1.27 "Specifications" means the Product, synthesis, formula, processing
+specifications, packaging specifications, quality control provisions and quality
+assurance provisions contained within the NDA for Product,  EDTMP, API, samarium
+chloride,  all forms of samarium oxide and Components.  Specifications shall not
+be changed by BMS without the prior written approval of Cytogen.
+
+         1.28 "Supply Agreement" shall have the meaning ascribed to such term in
+the first Recital.
+
+         1.29 "Territory" means the United States, including its territories and
+possessions, and Canada.
+
+         1.30 "Written  Procedure"  shall have the meaning ascribed to such term
+in Section 4.4.
+
+
+                                      -3-
+<PAGE>
+2.       MANUFACTURE AND SUPPLY OF PRODUCTS
+
+         2.1 Manufacture. Subject to the terms and conditions of this Agreement,
+Cytogen  appoints BMS as its  manufacturer of the Product,  and BMS accepts such
+appointment.  In accordance with the terms of this Agreement and as set forth in
+Section  2.5(a),  BMS will  manufacture  on behalf of Cytogen, a minimum of [**]
+of Product per week.
+
+         2.2 Scheduling.  In consultation  with Cytogen,  and in accordance with
+Orders  submitted for the Product,  BMS will determine  scheduling of Batch runs
+and shipment of Product in  accordance  with Section  2.5(a).  In the event that
+either party  determines  that it is necessary to modify the scheduling of Batch
+runs and shipment of Product,  the parties will negotiate such  modifications in
+good faith.
+
+         2.3 Packaging. BMS will package Product in the packaging containers and
+with labels,  package  inserts and other  labeling that are approved by Cytogen.
+Cytogen shall, at its sole discretion,  propose changes to labels and packaging,
+Product  inserts and other  labeling for the  Product,  which  changes  shall be
+submitted  by Cytogen to all  applicable  governmental  agencies and other third
+parties  responsible for the approval of the Product,  if required,  except that
+BMS will submit any such changes to the Commonwealth of Massachusetts. BMS shall
+not be required to implement such packaging  and/or  labeling  changes until all
+applicable  approvals are obtained.  Cytogen will be responsible for any and all
+costs relating to any and all labeling and packaging changes.
+
+         2.4      Quality Control and Assurance.
+
+                  (a)  BMS   shall  manufacture  and  supply   the   Product  in
+accordance with the Specifications and cGMP.
+
+                  (b)  BMS  shall  perform  such  quality  control  and  quality
+assurance testing as is required by the Specifications,  cGMP, and in accordance
+with the External Quality Agreement.
+
+                  (c) BMS shall  perform  the  approved  stability  program,  as
+agreed upon by the parties, for the Product as further set forth in the External
+Quality Agreement.
+
+                  (d) Stability  testing for EDTMP used in the production of the
+Product shall be performed by a third party, as managed by Cytogen and set forth
+in the External Quality Agreement.
+
+                  (e) BMS will  promptly  notify  Cytogen  in the event any test
+reveals confirmed out of specifications results, deviations, contamination, lack
+of sterility,  or degradation beyond  Specifications in any Batch.  Cytogen will
+file any reports required by the applicable regulations.
+
+         2.5  Primary  Representatives.  Each  party  shall  appoint  a  primary
+representative  ("Primary  Representative") who will coordinate work carried out
+hereunder  with the other party's  representative.  The Primary  Representatives
+shall be the  day-to-day  contacts  between the parties hereto and shall receive
+copies of all written correspondence  exchanged between the parties with respect
+to the designated  work. In the event either party  identifies an issue relating
+
+                                      -4-
+<PAGE>
+
+to the  manufacture,  quality,  delivery,  customer  service,  or the like  with
+respect to Product, the Primary Representatives shall promptly confer to resolve
+such issue. If a Primary Representative leaves the employ of a party, an equally
+competent, mutually acceptable, Primary Representative shall be assigned by such
+party.
+
+                  (a)  Forecast;  Firm Order.  At least  thirty (30) days before
+each  quarter  during the term of this  Agreement,  Cytogen  shall submit a good
+faith,  estimated rolling forecast of the quantity of Product Cytogen expects to
+require from Orders for production  during the next thirteen (13) weeks and each
+of the succeeding thirty nine (39) weeks after such thirty (30) day period (each
+such forecast, a "Forecast");  thereafter,  Cytogen shall submit a revised fifty
+two (52) week forecast 30 days before the beginning of every quarter  during the
+term of this Agreement.  Each Forecast shall be non-binding,  with the exception
+of the Forecast for the first thirteen (13) week period reflected in each Order,
+which  shall be  considered  a firm order.  Cytogen's  first  Forecast  shall be
+provided to BMS as soon as practicable after the Effective Date. Notwithstanding
+the foregoing, at a minimum,  Cytogen hereby firmly orders from  BMS [**] during
+the term of this  Agreement.  In addition,  Cytogen shall provide BMS with eight
+(8) weeks advance notice in the event that a weekly Order is reasonably expected
+to exceed [**].
+
+                  (b) Lack of Orders. In the event BMS determines that, based on
+a lack of Orders in a particular week, Cytogen will not require manufacture of a
+Batch, then BMS shall promptly so inform Cytogen.  After receiving  confirmation
+from Cytogen, BMS shall use commercially reasonable efforts to minimize variable
+cost expenditures for such particular week. In such circumstances, Cytogen shall
+pay BMS as required under Section 3.1.
+
+         2.6      Raw  Materials.  In   accordance   with  the  terms   of  this
+Agreement,  BMS will be responsible for providing all Components for the Product
+and all costs associated with such Components for the Product.
+
+         2.7      Change in Specifications.
+
+                  (a) Except as provided below,  BMS will not be responsible for
+any cost increases associated with development,  validation,  and implementation
+of any change in the Specifications,  Components,  API or manufacturing  process
+("Change"),  regardless  of the  reason  for the  change.  Any and all such cost
+increases  will  be  borne  by  Cytogen,  and  shall  be paid  to BMS  prior  to
+implementation  of  any  Change.  Moreover,  any  increase  in  cost  per  Batch
+associated  with  implementation  of any  Change  shall be  passed  directly  to
+Cytogen.  The price  change shall  become  effective  only with respect to those
+Orders of Product  which are  manufactured  in accordance  with the  implemented
+Change.  Notwithstanding the foregoing, Cytogen shall not be responsible for the
+cost of changes made solely for the convenience of BMS.
+
+                  (b)  Notwithstanding any Change implemented in accordance with
+the terms of Section 2.7(a),  Cytogen agrees to purchase Product manufactured by
+BMS  based  upon any prior  Specifications  at the then  current  price for that
+
+                                      -5-
+<PAGE>
+
+Product. In addition,  Cytogen agrees to purchase,  at BMS' cost, all Inventory,
+Components  and API,  utilized under the prior  Specifications  and purchased or
+maintained by BMS in order to fill firm written orders,  to the extent that such
+Inventory,  Components  and/or API can no longer be  utilized  under the revised
+Specifications and cannot be utilized in any other products of BMS and cannot be
+returned to the supplier.  Open  purchase  orders for  Components  and/or API no
+longer required under any revised  Specifications  which were placed by BMS with
+suppliers  in  order to fill  firm  written  orders  shall  be  cancelled  where
+possible, and where such orders are not subject to cancellation without penalty,
+shall be assigned to and satisfied by Cytogen.  This Section 2.7(b) shall not be
+applicable to any change made solely for the convenience of BMS.
+
+         2.8 Shipments. BMS shall ship and deliver the Product [**] BMS'facility
+located in North Billerica,  Massachusetts to such locations as are specified in
+Orders received by BMS.  Cytogen shall either pay the common carrier directly or
+reimburse  BMS for the  shipping  cost,  as  evidenced  by  invoices  of  common
+carriers.
+
+         2.9 Invoices.  BMS shall  promptly  notify  Cytogen of each shipment of
+Product hereunder. Cytogen will be responsible for invoicing the customer.
+
+         2.10  Other  BMS  Obligations.  In  addition  to  the  manufacture  and
+distribution  of the  Product,  BMS will  provide  certain  additional  services
+relating to customer  support  and  technical  support at the rates set forth in
+Section  3.1(a).  BMS will take Orders directly from Cytogen's  customers;  ship
+ordered Product to Cytogen's  customers (as provided in Section 2.8);  carry out
+license  verification of Cytogen's  customers and any common carriers  utilized;
+provide technical support; and provide Cytogen with a written or electronic, (at
+the option of Cytogen), report, at a frequency to be mutually agreed upon by the
+parties,  detailing names of customers  ordering Product and quantities  ordered
+and any other information as Cytogen may reasonably  request, in accordance with
+all applicable  laws,  rules and  regulations.  BMS will provide such additional
+information  relating  to  ordering  and  shipping of the Product as Cytogen may
+reasonably request from time to time.
+
+         2.11 Waste.  The parties  acknowledge and agree that BMS shall not have
+any  responsibility for waste generated after Product is delivered to the common
+carrier, except as provided in Sections 4.8 and 4.9. Notwithstanding anything to
+the contrary,  Cytogen will be  responsible  for all costs  (including  handling
+third-party  and/or  governmental  entity claims)  associated  with clean-up and
+removal of unused  Product  and/or waste related to Product and/or waste arising
+from use of Product,  other than waste at BMS' manufacturing  site, which is the
+responsibility of BMS.
+
+         2.12 Back-Up  Manufacturer.  In the event that,  for a period of thirty
+(30)  days,  BMS is unable to supply or  distribute  the  quantities  of Product
+ordered,  Cytogen shall have the right to arrange for supply and distribution of
+Product  by a third  party.  At the  request of  Cytogen,  BMS agrees to use its
+commercially   reasonable  efforts  to  assist  Cytogen,  at  BMS'  expense,  in
+qualifying  a third  party  selected  by Cytogen to supply  and  distribute  the
+Product during the period that BMS is unable to do so.
+
+                                      -6-
+<PAGE>
+
+         2.13  International  Supply.  The parties recognize that the Product is
+presently approved for marketing in the Territory. In addition,  Cytogen intends
+to market the Product in other  countries of North  America and South America as
+the  marketing  approvals  that Cytogen is pursuing at its sole cost and expense
+are  obtained in such  countries,  at which  point,  the parties  shall  discuss
+whether the Territory  should be expanded to include such  countries.  After the
+marketing  approvals  for such  additional  countries of North America and South
+America are obtained and the Territory has been expanded by mutual  agreement of
+the  parties,  BMS  shall  cooperate  with  Cytogen  as  is  reasonable  in  the
+circumstances  in respect to packaging and labeling the Product for distribution
+in  countries  other than the  Territory.  BMS and  Cytogen  will  cooperate  in
+providing  documentation  required by governmental  authorities  relating to the
+export of the Product from the United  States and the import of the Product into
+countries other than the United States. Cytogen shall promptly reimburse BMS for
+any and all incremental costs incurred by BMS under this Section 2.13.
+
+         2.14 License to Cytogen  Included  Technology.  Cytogen grants to BMS a
+non-exclusive, royalty-free, fully-paid up, sublicenseable (with Cytogen's prior
+written  consent,   which  shall  not  be  unreasonably  withheld  or  delayed),
+transferable  (solely to BMS  permitted  assignees  as set forth in Section 9.7)
+license under the Cytogen Included Technology,  solely to the extent required to
+make,  use (in  accordance  with the  terms and  conditions  herein  and/or  the
+External  Quality  Agreement)  distribute,  have  made,  sell,  or have sold the
+Product in the Territory to fill Orders. The parties agree and acknowledge, that
+unless otherwise  expressly granted herein, all right, title and interest in and
+to Cytogen Included Technology, including, but not limited to, any enhancements,
+modifications, or improvements thereto, shall be the sole and exclusive property
+of Cytogen and shall vest solely with  Cytogen.  The parties  further  agree and
+acknowledge  that all right,  title and interest in and to the BMS  Intellectual
+Property,  including,  but not limited to, any enhancements,  modifications,  or
+improvements thereto,  shall be the sole and exclusive property of BMS and shall
+vest solely with BMS.
+
+3.       PRICE, PAYMENT AND COST
+
+         3.1      Invoice; Payment.
+
+                  (a)  As  consideration   for  BMS'  services,   including  the
+manufacture  and supply of Product and the  provision  of  customer  service and
+support,  as described in Section 2, Cytogen  shall pay BMS: (i) $[**] per Batch
+of Product (as adjusted in accordance with Section 3.1(d),  hereinafter referred
+to as the  "COM");  and (ii) $[**] per Order (as  adjusted  in  accordance  with
+Section 3.1(d), hereinafter referred to as the "COSS"). BMS will invoice Cytogen
+following the  manufacturing  and release of each Batch.  Such payments shall be
+due and payable net thirty (30) days post Cytogen's receipt of invoice.
+
+                  (b) In the  event  that BMS  receives  no Orders  for  Product
+during a particular week, then Cytogen shall pay BMS [**]. As an example, if (i)
+BMS  receives  no  Orders  for a  particular  week and (ii) BMS is able to avoid
+purchase  of  certain  raw  materials  for  such  week  and  (iii)  BMS does not
+manufacture  a Batch in that week,  then Cytogen would pay BMS, as if such Batch
+were manufactured, as follows: [**].
+
+
+                                      -7-
+<PAGE>
+
+                  (c) In the event BMS is unable to manufacture Batches, Cytogen
+shall not be required to pay BMS under  Section 3 until such time as BMS resumes
+manufacture and delivery of Batches.  Also,  Cytogen shall have no obligation to
+pay BMS for  Batches  that do not meet  Specifications  or quality  control  and
+assurance testing requirements as specified in the External Quality Agreement.
+
+                  (d)  Each  year on  January  1st,  or as  soon as  practicable
+thereafter,  the COM and COSS shall be adjusted for that year on an annual basis
+[**]. For the sake of clarity, the increase [**] for the then-current year shall
+be determined  [**] and shall be  calculated  as soon as reasonably  practicable
+after  January  1st of each year  based on the last full  twelve  (12)  calendar
+months [**].
+
+         3.2 Additional  Batches.  The manufacture of Batches beyond the amounts
+set forth in  Cytogen's  firm  orders in  Section  2.5(a)  (each an  "Additional
+Batch") shall be  undertaken  only with the  agreement of BMS,  which  agreement
+shall not be  unreasonably  withheld.  Cytogen  shall pay BMS an amount equal to
+$[**] for each Additional  Batch  manufactured at Cytogen's  request.  Upon each
+anniversary  of this  Agreement,  the price for each  Additional  Batch shall be
+increased in accordance  with the COM as set forth in Section  3.1(d).  BMS will
+invoice  Cytogen  following  the  manufacturing  and release of each  Additional
+Batch.  Such  payments  shall be due and  payable  net  thirty  (30)  days  post
+Cytogen's receipt of invoice.
+
+4.       RECORDS, AUDITS, RECALLS, RETURNS
+
+         4.1  Records  and  Accounting  by BMS.  BMS shall  keep  records of the
+manufacture,  testing and shipping of the Product as required by any  applicable
+laws,  including  those  required  by the FDA,  the NRC,  the  MDPH-RCP  and the
+Commonwealth of Massachusetts. Copies of such records and samples shall be shall
+be  retained by BMS for a period of one (1) year  following  the date of product
+expiry,  or longer if required by law and made  available as soon as  reasonably
+practicable  to Cytogen  after BMS'  receipt of  Cytogen's  written  request for
+access to such records and/or samples.
+
+         4.2 Regulatory Inspections. BMS will inform Cytogen promptly, but in no
+event  later than  twenty four (24)  hours,  of any  inspection  or audit by any
+governmental  agency,   including,   but  not  limited  to,  the  FDA,  that  is
+specifically  related to the Product.  Moreover,  BMS will inform Cytogen of the
+result of any such  audit or  inspection  within  twenty  four (24) hours of the
+conclusion of such audit or inspection.  BMS will promptly  provide Cytogen with
+copies of any government issued inspection  observation  reports,  including FDA
+form 483s, and related correspondence, that specifically effect the Product. BMS
+and Cytogen  will  cooperate in  resolving  any  concerns  with the FDA or other
+governmental agency in the Territory.
+
+         4.3 Inspections. Cytogen has the right, no more than once in each year,
+unless otherwise  required or imposed by applicable law or regulatory  authority
+(or more  frequently if agreed to by the parties hereto such agreement not to be
+unreasonably  withheld),  and on reasonable  prior notice,  to inspect those BMS
+facilities used in the manufacturing,  packaging,  storage, testing, shipping or
+receiving of Product.  Such inspections may include, but will not be limited to,
+cGMP inspections,  quality audits, and system audits,  including  observation of
+the actual  process of manufacture  of the Product.  Representatives  of Cytogen
+
+                                      -8-
+<PAGE>
+
+will have access  during such  inspections  to all  Product  related  documents,
+records,  reports,  data,  procedures,  facilities,  and all  other  information
+required  to be  maintained  by FDA  regulations  or the  requirements  of other
+governmental agencies.
+
+         4.4 Coordination of Safety and Complaint  Reporting.  The parties agree
+to comply with all legal obligations imposed in the United States concerning the
+collection,  investigation,  and governmental reporting of adverse reactions and
+complaints relating to the Product, including without limitation with respect to
+the  United  States  21 C.F.R.  312.32  and 21  C.F.R.  314.80(a)  and any other
+corresponding law, rule or regulation in any other country in the Territory. The
+respective  departments of the parties responsible for handling adverse reaction
+monitoring and  complaints  will jointly  develop a written  procedure to govern
+their communications concerning such matters, such that each of the parties will
+have  the  ability  to  comply  with  its  legal   obligations  and  contractual
+undertakings (the "Written Procedure"). The Written Procedure is attached hereto
+as Schedule 2 and incorporated herein by reference.
+
+         4.5 Recall Action. As the NDA holder for the Product,  Cytogen shall be
+responsible for conducting Product recalls, and shall notify BMS should there be
+a need to  recall  the  Product.  To the  extent  necessary,  BMS  shall use its
+commercially  reasonable  efforts to assist  Cytogen in  conducting  any Product
+recalls. BMS shall promptly notify Cytogen if it receives any notice,  including
+a recall  notice,  which  relates to the  Product.  The parties will assist each
+other in their  respective  investigations  to determine the cause and extent of
+the problem.  All FDA contacts and coordination of any recall activities will be
+handled by Cytogen.  Notwithstanding  anything to the contrary, in the event BMS
+recommends  initiating  a recall,  but Cytogen  does not agree to commence  such
+recall,  then BMS shall bear absolutely no liability  whatsoever with respect to
+any Batch of Product that was the subject of BMS' recall recommendation.
+
+         4.6 Recall  Expenses.  If a recall,  withdrawal or field  correction is
+required  because of Product that did not conform to the  Specifications  at the
+time of  shipment  from BMS,  then  [**] for such  recall,  withdrawal  or field
+correction. [**] occasioned by such recall, withdrawal or field correction. [**]
+responsible for the manufacture and  distribution of replacement  Product.  [**]
+any and all costs  associated with a recall,  withdrawal or field correction for
+any other reason, including [**].
+
+         4.7 Records.  BMS will maintain  complete and accurate records for such
+periods as may be required by applicable  law or  regulation,  but not less than
+one (1) year of all Product supplied under this Agreement.
+
+         4.8 Product  Returns.  BMS will have the  responsibility  for  handling
+customer returns of the Product in accordance with a procedure to be agreed with
+Cytogen.  Cytogen  shall,  at  its  sole,  cost,  expense  and  discretion,   be
+responsible  for  processing  customer  credit  for  returns  or  arranging  for
+replacement  Product to be produced  and shipped by BMS pursuant to Section 2.9.
+In the event  that a Product  must be  returned  for such  Product's  failure to
+conform to the  Specifications,  BMS shall  replace  such Product and reship the
+Product to Cytogen's customer (or such other recipient as Cytogen may designate)
+at BMS' sole cost and expense.
+
+
+                                      -9-
+<PAGE>
+
+         4.9  Testing  and   Certificate  of  Analysis.   BMS  shall  provide  a
+certificate of analysis ("Certificate of Analysis") to Cytogen or its designated
+agent with each Batch of Product made  hereunder.  Such  Certificate of Analysis
+shall certify with respect to each Batch of Product  (identified by Batch/lot or
+control  number):  (i) the  quantity  of the  Batch,  and (ii) that the  Product
+delivered  was  manufactured  in  accordance  with  the  Specifications  and the
+External  Quality   Agreement  and  documented   according  to  requirements  of
+applicable laws, rules and regulations.
+
+         4.10 Waste. In its performance of this Agreement, BMS shall comply with
+all laws and  regulations  applicable to the generation,  storage,  shipment and
+disposal of waste  generated in the  manufacture of Product while the Product is
+still  on  BMS  premises,   thereafter  such  responsibility  shall  be  assumed
+exclusively by Cytogen.
+
+5.       TERM, RENEWAL AND TERMINATION
+
+         5.1 Term.  Unless terminated early in accordance with Section 5.1, 5.2,
+or 5.3, this  Agreement will be in effect and will continue for a period of five
+(5) years unless  terminated  by BMS or Cytogen on twenty four (24) months prior
+written notice. Thereafter, this Agreement will automatically renew for five (5)
+successive  one (1) year periods  unless  terminated by BMS or Cytogen on twenty
+four (24) months written notice, or terminated in accordance with Section 5.2 or
+5.3. If either  party  terminates  this  Agreement  with twenty four (24) months
+notice,  this Agreement shall remain in effect for those twenty four (24) months
+and then shall  terminate.  The  parties  acknowledge  and agree that during the
+renewal periods of the Agreement, the COM and COSS shall continue to be adjusted
+[**] as set forth in Section  3.1(d).  This  agreement  may be terminated at any
+time with the mutual written agreement of the parties.
+
+         5.2 Breach.  Either  Cytogen or BMS may terminate this Agreement at any
+time on written  notice to the other  party,  if such party  breaches a material
+term of this Agreement and if breaching  party fails to remedy the breach within
+sixty (60) days of receiving written notice of the breach.
+
+         5.3 Insolvency. BMS or Cytogen may terminate this Agreement immediately
+in its  entirety if Cytogen (in the case of  termination  by BMS) or BMS (in the
+case of  termination  by Cytogen)  files a petition of  bankruptcy,  is adjudged
+bankrupt,  takes  advantage of any  insolvency  act, or executes a bill of sale,
+deed of trust, or assignment for the benefit of creditors.
+
+         5.4 Survival.  The rights and obligations contained in Sections 4, 5.4,
+6, 7, 8 and 9 (which include warranties,  indemnification  and  confidentiality)
+will survive  termination  of this  Agreement,  as will any rights to payment or
+other  rights  or  obligations  have  accrued  under  this  Agreement  prior  to
+termination.  Termination  will not affect a party's  liability by reason of any
+act, default, or occurrence to termination.
+
+         5.5 Repurchase at Termination. If this Agreement is terminated, Cytogen
+shall purchase,  at BMS' out-of-pocket  cost, the Inventory,  the Components and
+the API applicable to the Product which were  purchased,  produced or maintained
+by BMS in  contemplation  of  filing  firm  written  orders,  prior to notice of
+termination  being given. In addition to the foregoing,  Cytogen shall reimburse
+
+                                      -10-
+<PAGE>
+
+BMS for any  non-cancelable  expenses  incurred  by BMS in  connection  with the
+services rendered by BMS hereunder.
+
+         5.6  Consequences  of  Termination.  Upon the expiration or any earlier
+termination of this Agreement,  no later than thirty (30) days after the date of
+expiration  or  termination  of this  Agreement,  each party shall return to the
+other party all copies and embodiments,  whether physical or electronic, of such
+other party's  Confidential  Information in such party's possession and control;
+provided, however, that each party shall be entitled to retain one archival copy
+of such Confidential  Information solely for purposes of monitoring such party's
+compliance with its obligation under Section 8.
+
+6.       REPRESENTATIONS AND WARRANTIES
+
+         6.1 Authority.  Each party represents and warrants that it has the full
+right and  authority to enter into this  Agreement,  that it is not aware of any
+impediment that would inhibit its ability to perform its obligations  hereunder,
+and that  entering  into this  Agreement  will not  violate  or breach any other
+agreement or arrangement with any third party.  Each party further warrants that
+it  shall  perform   hereunder  in  accordance   with  all  applicable  law  and
+regulations.  Each Party shall  maintain in full force and effect all  necessary
+license,  permits  and  other  authorizations  required  by law to carry out its
+duties and obligations under this Agreement. BMS and Cytogen each shall keep all
+records and reports  required to be kept by applicable  laws.  The Parties shall
+reasonably  cooperate with one another with the goal of ensuring full compliance
+with applicable  laws. Each party shall cooperate with the other to provide such
+letters,  documentation,  and other  information  on a timely basis as the other
+party may  reasonably  require to fulfill its  reporting  and other  obligations
+under applicable laws to applicable regulatory authorities.
+
+         6.2 Further  Assurances.  BMS and Cytogen each hereby agrees to use its
+commercially  reasonable  efforts to take, or cause to be taken, all actions and
+to do, or cause to be done, all things necessary or proper to make effective the
+transactions  contemplated by this  Agreement,  including such actions as may be
+reasonably  necessary to obtain approvals and consents of governmental  entities
+and other  persons;  provided,  that no party shall be required to (i) pay money
+(other than as expressly  required  pursuant to the terms and conditions of this
+Agreement);  or (ii) assume any other material obligation not otherwise required
+to be assumed by this Agreement.
+
+         6.3 Manufacturing Warranty. BMS represents and warrants that each Batch
+supplied pursuant to the terms of this Agreement, will be manufactured, handled,
+stored,  and  shipped  in  accordance  with  the  Specifications.   BMS  further
+represents  and warrants that each Batch shall have a sufficient  shelf life, at
+the time the Batch is  tendered to the common  carrier  for  delivery to Cytogen
+and/or its customers,  such that the Product may be properly  administered  to a
+patient.
+
+         6.4  Debarment.  BMS covenants  that neither its employees  nor, to the
+knowledge  of BMS,  any  agent or other  third  party  performing  the  services
+hereunder are (i) under any investigation by any government regulatory authority
+for a debarment  action,  or (ii) presently  debarred  pursuant to local laws or
+statutes or has a  disqualification  hearing  pending.  BMS shall notify Cytogen
+
+                                      -11-
+<PAGE>
+
+promptly  by telefax  upon any  inquiry  or  investigation  concerning  any such
+employee,  agent or other  third  party  or upon  the  commencement  of any such
+proceeding against any such employee, agent or other third party.
+
+         6.5  Cytogen  Included  Technology   Representation/Warranty.   Cytogen
+represents  and  warrants to BMS that  Cytogen is (i) an owner of and has right,
+title and  interest in and to the  Cytogen  Included  Technology,  (ii) a lawful
+licensee of the Cytogen  Included  Technology  (with  rights to  sublicense  the
+Cytogen  Included  Technology to BMS as set forth herein and that the license by
+which Cytogen received its rights to the Cytogen Included  Technology remains in
+full force and effect, and Cytogen shall use its commercially reasonable efforts
+to keep any such  license in full force and effect  throughout  the term of this
+Agreement without revisions or amendments that will materially  adversely effect
+the rights  granted to BMS  hereunder,  except in cases  where BMS has given its
+consent),  (iii) as of the Effective Date the registered  intellectual  property
+included  within the Cytogen  Included  Technology is valid,  enforceable and in
+full  force  and  effect,  (iv)  as of  the  Effective  Date,  Cytogen  has  not
+transferred or assigned the Cytogen Intellectual Property in a manner which will
+materially  adversely effect the rights granted to BMS hereunder,  and (v) as of
+the Effective Date and to Cytogen's knowledge,  no third party has questioned or
+challenged the scope or validity of the Cytogen Included Technology.
+
+         6.6 Disclaimer. ALL WARRANTIES GRANTED BY BMS AND CYTOGEN HEREUNDER ARE
+IN LIEU OF AND EXCLUDE ALL OTHER  WARRANTIES,  EXPRESSED OR IMPLIED,  ARISING BY
+OPERATION OF LAW OF OR OTHERWISE  INCLUDING  WARRANTIES  OF  MERCHANTABILITY  OR
+FITNESS FOR A PARTICULAR PURPOSE.
+
+7.       INDEMNITY
+
+         7.1 (a) By Cytogen.  Cytogen shall indemnify and hold harmless BMS, its
+directors,  officers,  agents, and employees, from and against any and all loss,
+damage,  claim, injury, cost or expense including attorneys' fees and reasonable
+expenses of litigation  ("Claims"),  arising out of Claims made by third parties
+in  connection  with (i) a  material  breach of  Cytogen's  representations  and
+warranties,  and/or  (ii) any sale,  use or  disposition  of Product by Cytogen,
+including,  without  limitation,   Claims  arising  in  connection  with  patent
+infringement  or  trademark   infringement   (arising  from  a  U.S.  patent  or
+trademark),  product  liability  theories,  or any illness or  personal  injury,
+including death or property damage.
+
+                  (b) By BMS. BMS shall indemnify and hold harmless  Cytogen and
+its directors,  officers,  agents,  and employees,  from and against any and all
+Claims  made  by  third   parties   relating  to  a  material   breach  of  BMS'
+representations and warranties, or covenants (as such covenants are set forth in
+Section 6.4 hereof).
+
+                  (c) Indemnification  Procedures. Each indemnified party agrees
+to give the  indemnifying  party prompt written notice of any Claim or discovery
+of fact  upon  which  such  indemnified  party  intends  to base a  request  for
+indemnification  under  Section 7.1.  Each party shall  furnish  promptly to the
+other,  copies of all papers and official  documents  received in respect of any
+Claim. With respect to any Claim relating solely to the payment of money damages
+
+                                      -12-
+<PAGE>
+
+and  which  will  not  result  in the  indemnified  party  becoming  subject  to
+injunctive or other relief or otherwise  adversely affecting the business of the
+indemnified  party in any manner,  and as to which the indemnifying  party shall
+have  acknowledged in writing the obligation or indemnify the indemnified  party
+hereunder,  the  indemnifying  party shall have the sole right and obligation to
+defend,  settle  or  otherwise  dispose  of such  Claim,  on such  terms  as the
+indemnifying  party,  in  its  sole  discretion,  shall  deem  appropriate.  The
+indemnifying  party shall obtain the written consent of the  indemnified  party,
+which shall not be unreasonably withheld,  prior to ceasing to defend,  settling
+or otherwise disposing of any Claim if as a result thereof the indemnified Party
+would become subject to injunctive or other equitable relief or any remedy other
+than the payment of money,  which  payment  would be the  responsibility  of the
+indemnifying  party. The indemnifying  shall not be liable for any settlement or
+other  disposition of a Claim by the indemnified  party which is reached without
+the consent of the indemnifying  party. Except as provided above, the reasonable
+costs and  expenses,  including  reasonable  fees and  disbursements  of counsel
+incurred  by any  indemnified  party  in  connection  with any  Claim,  shall be
+reimbursed on a quarterly basis by the indemnifying party,  without prejudice to
+the  indemnifying  party's  right to contest the  indemnified  party's  right to
+indemnification  and  subject to refund in the event the  indemnifying  party is
+ultimately held not to be obligated to indemnify the indemnified party.
+
+         7.2  Limitation of Liability.  Notwithstanding  any other  provision of
+this Agreement, neither party shall in any event be liable to the other party or
+its  affiliates,  officers,  directors,  employees,   stockholders,   agents  or
+representatives  on account of any breach hereof or of any indemnity  obligation
+set forth herein for any indirect, consequential or punitive damages (including,
+without  limitation,  lost profits,  loss of use,  damage to goodwill or loss of
+business).
+
+         7.3 Shared Liability/Mediation.  Without limiting the foregoing in this
+Section  7, in the  event  that BMS and  Cytogen  are both  involved  in a Claim
+brought  by  a  third  party,  BMS  and  Cytogen  shall  promptly  initiate  and
+participate  in good-faith  discussions  regarding the resolution of such Claim,
+including,  but not  limited  to,  participating  in a  mediation  of the issues
+surrounding  the Claim with a view to settling the allocation of  responsibility
+as between  BMS and  Cytogen.  In the event that BMS and  Cytogen  are unable to
+mutually agree upon the  allocation of  responsibility  in connection  with such
+third party  Claim,  BMS and Cytogen  each reserve  their  respective  rights to
+pursue their own defense strategy in connection with such third party Claim.
+
+8.       CONFIDENTIALITY
+
+         8.1 Disclosure to BMS. Promptly after the Effective Date,  Cytogen will
+provide to BMS any and all Confidential Information necessary for BMS to perform
+hereunder.  To the extent that Cytogen and/or DuPont  disclosed any Confidential
+Information to each other,  or its  predecessors,  under the  Manufacturing  and
+Supply  Agreement  dated  January  1,  1999,  such   information   shall  remain
+confidential and shall be governed by the confidentiality provisions herein.
+
+         8.2  Restrictions on Disclosure and Use by Both Parties.  No party will
+use the Confidential  Information  provided by the other party or disclose it to
+any third party except as necessary to carry out the party's  obligations  under
+this Agreement. If either party finds it necessary to disclose such Confidential
+
+                                      -13-
+<PAGE>
+
+Information  to a third  party,  they  will not do so  without  first  obtaining
+written consent of the other party and entering into an agreement with the third
+party which binds the third party to the same  obligations of restricted use and
+disclosure as are undertaken by the parties in this Agreement. Section 8.2 shall
+survive termination of this Agreement.
+
+         8.3      Exceptions.
+
+         (a) The  obligations  of Section 8.2 will not apply to any  information
+which (i) is in the  possession  of the  receiving  party at the time of receipt
+from the  disclosing  party,  as shown by existing  records,  (ii) is or becomes
+available  to the  public  through  no fault of the  receiving  party,  (iii) is
+disclosed to the  receiving  party by a third party  entitled to disclose it, or
+(iv) is  independently  developed by the  receiving  party  without  reliance on
+information  supplied by the disclosing party, as evidence by the records of the
+receiving  party,  (v) is required by law or judicial order to be disclosed,  in
+which  case the party  required  to make the  disclosure  shall  provide as much
+advance  notice as possible  to the other  party,  shall to the extent  possible
+allow the  other  party to seek a  protective  order,  and  shall to the  extent
+possible  minimize  the  information  to be  disclosed,  or (vi) is necessary to
+comply with  receiving  party's  disclosure  and  reporting  requirements  under
+federal and state securities laws or any other rule or regulation.
+
+         (b) In the event of a disclosure  pursuant to subsection(vi) of Section
+8.3(a),  the party  required to make the  disclosure of such  information by the
+applicable  agency or other disclosee shall: (i) promptly notify the other party
+and seek  confidential  treatment for  information  reasonably  requested by the
+disclosing  party;  and (ii) provide the other party with a copy of the proposed
+disclosure  within a reasonable  amount time to allow reasonable  opportunity to
+comment thereon.
+
+9.       MISCELLANEOUS
+
+         9.1  Compliance   with  Laws.   Each  party,  is  connection  with  its
+performance under this Agreement,  shall comply with all applicable laws, rules,
+regulations, orders and guidelines.
+
+         9.2 Permit  Licenses.  Cytogen  shall  promptly  reimburse  BMS for all
+expenses  relating  to BMS'  obtaining  and  maintaining  licenses  and  permits
+specifically required for the manufacture and distribution of Product.
+
+         9.3  Trademarks.  Except as provided in Section 2.14, each party hereby
+acknowledges that no party has, nor shall it acquire, any interest in any of the
+other party's trademarks or trade names unless otherwise  expressly agreed to in
+writing.  The parties  agree not to use any trademark or trade name of the other
+party, except as specifically authorized by the other party.
+
+         9.4  Reports.  BMS  will  supply  Cytogen  on an  annual  basis or upon
+reasonable request, Product data, including release test results, complaint test
+results, all investigations (in manufacturing, testing, and storage), the Annual
+Product Review report,  and the like, which are reasonably  required in order to
+complete the NDA annual report,  which is required to be filed by the NDA holder
+with the FDA, or any other  annual  report that is required to be filed with any
+other government agency.
+
+         9.5  Independent  Contractors.  The  parties  shall  be  deemed  to  be
+independent  contractors,  and this  Agreement  shall not be construed to create
+between BMS and Cytogen  another  relationship  such as, by way of example only,
+
+                                      -14-
+<PAGE>
+
+that of employer-employee,  principal agent, joint-venturer,  co-partners or any
+similar relationship,  the existence of which is expressly denied by the parties
+hereto.
+
+         9.6 No Waiver.  A party's  failure to require  another  party to comply
+with any  provision  of this  Agreement  shall  not be  deemed a waiver  of such
+provision or any other provision of this Agreement.
+
+         9.7  Assignment.  Neither party may assign this Agreement or any of its
+rights or  obligations  hereunder  except with the prior written  consent of the
+other parties,  except that either party may assign this Agreement to (i) one of
+its  Affiliates  without the consent of the other party,  or (ii) a successor of
+substantially all of the business of such party to which this Agreement relates,
+whether in a merger, sale of stock, sale of assets or other similar transaction.
+Any  permitted  successor  or assignee of rights  and/or  obligations  hereunder
+shall,  in a writing to the other party,  expressly  assume  performance of such
+rights and/or obligations.  Any assignment or transfer,  or attempted assignment
+or transfer, by either party in violation of the terms of this Section 9.7 shall
+be null and void and of no legal effect.
+
+         9.8 Force Majeure.  No party shall be liable for the failure to perform
+its  obligations  under  this  Agreement  if such  failure  is  occasioned  by a
+contingency beyond such party's reasonable control,  including,  but not limited
+to, strikes or other labor disturbances, lockouts, riots, wars, terrorism, fires
+floods or storms.  For the purposes of this Section 9.8,  failure of a vendor to
+supply BMS with  Components,  API or raw  materials  shall be considered a force
+majeure  event.  A party  claiming  a right to  excused  performance  under this
+Section 9.8 shall immediately notify the other party in writing of the extent of
+its inability to perform,  which notice shall specify the occurrence  beyond its
+reasonable  control that prevents such  performance  and an estimate of the time
+the inability to perform is anticipated to last.
+
+         9.9  Notices.  Any  notice,  approval,  instruction  or  other  written
+communication  required or permitted  hereunder  shall be  sufficient if made or
+given to the other  party by  personal  delivery or by sending the same by first
+class mail, postage prepaid to the mailing address set forth below:
+
+If to BMS:
+
+Bristol-Myers Squibb Medical Imaging, Inc.
+331 Treble Cove Road
+North Billerica, MA 01862
+Attn:    Vice President, Manufacturing
+
+With a copy to:
+
+Bristol-Myers Squibb Company
+One Squibb Drive
+New Brunswick, NJ 08210
+Attn:  Senior Counsel, Technical Operations
+
+
+                                      -15-
+<PAGE>
+
+If to Cytogen:
+
+Cytogen Corporation
+600 College Road East - CN 5308
+Princeton, New Jersey 08540-5308
+Attn:    Chief Executive Officer
+
+With a copy to: Donald L. Novajosky, Esq.
+
+or to such other  addresses  provided to the other party in accordance  with the
+terms of this  Section  9.9.  Notices  hereunder  shall be  deemed  to have been
+sufficiently made or given when delivered.
+
+         9.10  Entire  Agreement.   This  Agreement  and  the  External  Quality
+Agreement constitute the full, complete,  final and integrated Agreement between
+the parties  hereto  relating to the subject  matter hereof and  supersedes  all
+previous written or oral negotiations,  commitments, agreements, transactions or
+understandings  with respect to the subject  matter  hereof,  including  without
+limitation the Supply Agreement.  Any  modification,  amendment or supplement to
+this  Agreement must be in writing and signed by authorized  representatives  of
+both  parties.  In  addition  to the  foregoing,  in the event of a conflict  or
+inconsistency  between this Agreement and the External Quality  Agreement,  this
+Agreement shall prevail and control.
+
+         9.11 Headings.  The titles and headings herein are for convenience only
+and shall not be used to interpret or construe the terms and  conditions of this
+Agreement.
+
+         9.12 Singular Terms.  Except as otherwise  expressly provided herein or
+unless the context  otherwise  requires,  all  references to the singular  shall
+include the plural as well.
+
+         9.13 Execution in  Counterparts.  This Agreement may be executed is two
+(2)  counterparts,  each of which shall be deemed an original,  but all of which
+together shall  constitute one and the same  instrument.  The parties  expressly
+agree that signatures received via facsimile shall be accepted as originals.
+
+         9.14 Governing  Law. This Agreement  shall be construed and enforced in
+accordance  with the laws of the State of New Jersey,  without  reference to its
+conflicts of law provisions,  and the United States of America. The State of New
+Jersey and federal courts within  Delaware shall be the only courts of competent
+jurisdiction.
+
+         9.15  Publicity.  Each party  agrees not to issue any press  release or
+other  public  statement,  or any  communication  or response to a third  party,
+whether  oral or written,  disclosing  the  existence  of this  Agreement or any
+information  or activity  relating to this  Agreement  without the prior written
+consent  of the other  parties,  except as may be  required  by  applicable  law
+(including,  without limitation,  disclosure requirements of the SEC, NASDAQ, or
+any  other  stock  exchange)  in which  event  the  party  required  to make the
+disclosure shall follow the procedure specified in Section 8.3(b).
+
+[THE NEXT PAGE IS THE SIGNATURE PAGE.]
+
+
+                                      -16-
+<PAGE>
+
+
+         IN WITNESS WHEREOF, the duly authorized  representatives of the parties
+have executed this Amended and Restated Manufacturing and Supply Agreement as of
+the Effective Date.
+
+
+
+BRISTOL-MYERS SQUIBB MEDICAL IMAGING, INC.
+
+By:      /s/Jeanne Kreiger
+         -----------------------------
+
+Name:    Jeanne Krieger
+
+Title:   Vice President, Manufacturing
+
+
+
+CYTOGEN CORPORATION
+
+By:      /s/William Goeckeler
+         -----------------------------
+
+Name:    William Goeckeler
+
+Title:   Senior Vice President, Operations
+
+
+
+</TEXT>
+</DOCUMENT>

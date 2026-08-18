@@ -1,0 +1,137 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>c15003exv10w1.txt
+<DESCRIPTION>AMENDMENT NO.4 TO DISTRIBUTOR AGREEMENT
+<TEXT>
+<PAGE>
+                                                                    EXHIBIT 10.1
+
+PORTIONS OF THIS DOCUMENT INDICATED BY AN ++ HAVE BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO A REQUEST FOR
+CONFIDENTIAL TREATMENT OF SUCH INFORMATION.
+
+
+                    FOURTH AMENDMENT TO DISTRIBUTOR AGREEMENT
+
+         This Fourth Amendment to Distributor Agreement ("AMENDMENT") is
+effective as of February 7, 2007 ("EFFECTIVE DATE") and is by and between Nokia
+Inc. ("NOKIA") and Brightpoint North America L.P. ("BRIGHTPOINT").
+
+         WHEREAS, Nokia and Brightpoint entered into that certain Distributor
+Agreement dated as of October 29, 2001, as amended by Amendment No. 1 to the
+Distributor Agreement effective as of December 19, 2002, the Second Amendment to
+the Distributor Agreement effective as of December 27, 2003, and the Third
+Amendment to Distributor Agreement effective as of December 31, 2005 (the
+"AGREEMENT"); and
+
+         WHEREAS, the parties now desire to amend the Agreement as provided in
+this Amendment;
+
+         NOW, THEREFORE, for and in consideration of the mutual covenants set
+forth herein and other good and valuable consideration, the receipt and
+sufficiency of which are hereby acknowledged, the parties hereto each agrees as
+follows:
+
+1.       Capitalized Terms. Capitalized terms used but not defined herein shall
+         have the same meaning given to such terms in the Agreement.
+
+2.       Amendments. The Agreement is amended as set forth below. Unless
+         otherwise specified, all section references are to sections of the
+         Agreement, as previously amended.
+
+         (a)      Section 1.3 is amended in its entirety as follows:
+
+                  "1.3     During the period January 1, 2007 through December
+                           31, 2007, BRIGHTPOINT agrees that its minimum
+                           purchase goal shall be ++ units of NOKIA Handsets."
+
+         (b)      Section 2.4 is amended in its entirety as follows:
+
+                  "2.4 NOKIA agrees to stock balance any Handset SKU purchased
+                  by BRIGHTPOINT on or after the Effective Date of this Fourth
+                  Amendment, for which BRIGHTPOINT has ++, provided that
+                  BRIGHTPOINT purchased the Handset from NOKIA ++ and further
+                  provided that for any inventory ++ the Parties undertake to
+                  formulate an action plan ++ to sell the Handset SKUs and in
+
+<PAGE>
+
+                  the event that inventory still exists ++, then NOKIA agrees to
+                  stock balance such Handset SKUs. Notwithstanding the
+                  foregoing, this Section 2.4 shall not apply to Handset SKUs
+                  that are primarily intended for sale into regional carriers
+                  (e.g., Handset SKUs other than N-Series devices, Fashion
+                  devices, Enterprise devices and Handsets unapproved by
+                  US-based carriers or MVNOs) or end of life Handsets, for which
+                  NOKIA notifies BRIGHTPOINT, in writing and within seven (7)
+                  days after receipt of, but in no case after accepting,
+                  BRIGHTPOINT's purchase order, that such Handsets are being
+                  sold to BRIGHTPOINT without the benefit of any stock
+                  balancing."
+
+         (c)      Section 5.1 is amended in its entirety as follows:
+
+                  "Nokia's ++ of all ++ handsets sold by Brightpoint for its
+                  general distribution purposes in the Territory ++ during each
+                  calendar month. ++. Furthermore, Brightpoint recognizes the
+                  responsibility to assist Nokia in broadening distribution in
+                  the Territory and as such shall make all reasonable efforts to
+                  ++. For the purposes of this Agreement, (i) "UMTS" shall mean
+                  W-CDMA including HSDPA and HSUPA capable handset, (ii) "GSM"
+                  shall mean all GSM, GPRS and EDGE capable handsets, and (iii)
+                  "CDMA" shall mean CDMA 2000 1x and CDMA 2000 1x EVDO capable
+                  handsets."
+
+         (d)      Section 5.3 is amended to in its entirety as follows:
+
+                  "5.3     Intentionally left blank."
+
+         (e)      Section 5.5 is amended to in its entirety as follows:
+
+                  "5.5     Intentionally left blank."
+
+         (f)      Section 5.8. is amended in its entirety as follows:
+
+                  "5.8     Intentionally left blank."
+
+         (g)      ATTACHMENT "5" to the Agreement is replaced in its entirety
+                  with form of ATTACHMENT 5 attached to this Amendment as
+                  EXHIBIT A.
+
+         (h)      ATTACHMENT "6" is amended in its entirety as follows:
+
+                  "Intentionally left blank."
+
+3.       Survival; Conflict. All terms and provisions of the Agreement not
+         specifically amended hereby shall remain in full force and effect. In
+         the event of any conflict between the terms and provisions of this
+         Amendment and the terms and provisions of the Agreement, the terms and
+         provisions of this Amendment shall control.
+
+
+<PAGE>
+
+
+         IN WITNESS WHEREOF, the parties have executed and delivered this
+Amendment as effective as of the Effective date on the dates set forth below.
+
+Nokia Inc.                                  Brightpoint North America L.P.
+
+                                            By: Brightpoint North America, Inc.,
+                                                its general partner
+
+
+By:    /s/ Timothy P. Eckersley             By:      /s/ J. Mark Howell
+   --------------------------------            ---------------------------------
+Name:    Timothy P. Eckersley               Name:    J. Mark Howell
+     ------------------------------              -------------------------------
+Title:   Senior Vice President              Title:   President
+      -----------------------------               ------------------------------
+Date:    2/7/07                             Date:    2/13/07
+     ------------------------------              -------------------------------
+
+
+
+</TEXT>
+</DOCUMENT>

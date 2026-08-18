@@ -1,0 +1,210 @@
+<DOCUMENT>
+<TYPE>EX-10.46
+<SEQUENCE>10
+<FILENAME>doc9.txt
+<TEXT>
+<PAGE>
+
+EXHIBIT 10.46
+
+                       FULLY DISCLOSED CLEARING AGREEMENT
+                                    AMENDMENT
+
+
+This  amendment  modifies  and changes certain provisions of the Fully Disclosed
+Clearing  Agreement  dated  October 3, 1996, as amended prior to the date hereof
+("Agreement")  between  A.B.  Watley,  Inc.,  a  New  York  corporation
+("Correspondent"),  and  Penson  Financial  Services,  Inc.,  a  North  Carolina
+corporation  ("Penson").
+
+The  modifications  are  as  follows:
+
+1.     Notwithstanding  anything  to  the  contrary  in Section 8(a)(ii), Penson
+shall  only  be permitted to insert higher prices into any revised Schedule A to
+the extent that its out-of-pocket cost for providing the applicable services set
+forth  therein has increased (it being understood and agreed that (a) such costs
+must  arise  from  or  in  connection  with  actions  taken by, or  mandated by,
+unaffiliated third parties and (b) any such revision shall be made in accordance
+with  the  procedures  set  forth  in  Section  8(a)(ii)).
+
+2.     Section  12(a)  is  hereby  deleted  in its entirety and modified in lieu
+thereof  to  read:
+
+ "This Agreement shall remain in force until July 31, 2007.   Subsequent to this
+initial  term,  either  party may terminate this Agreement by giving thirty (30)
+days  written  notice  to  the  other party.  During the term of this Agreement,
+Correspondent  agrees  to  clear  all  of  its  cash, margin, option and similar
+accounts  through Penson and shall not use any other broker-dealer in connection
+with  any account clearing activity except Correspondent may (a) continue to use
+Bank of New York as its clearing broker for institutional trading (i) during the
+existing  current  term of the clearing agreement with Bank of New York (without
+giving  effect to automatic or requested extensions of such term) and (ii) after
+the  period  in  clause  (i),  solely to the extent Penson either does not offer
+comparable  or  better pricing and service for institutional trading of the type
+to  be  conducted  by  Correspondent,  and (b) utilize other clearing broker for
+trades  that  are  executed outside of the United States of America that are not
+facilitated  by  the  Licensed  Software  (as  defined  in  the Software License
+Agreement dated the date hereof among Correspondent, A.B. Watley Group, Inc. and
+Integrated  Trading  Solutions,  Inc."
+
+3.     Section  12(b)  is  amended by inserting "(a)" before clause "(i)" and by
+adding  the  following  clause  (b):
+
+"(b)       Notwithstanding Section 12(a), Penson may terminate this Agreement at
+any  time  by  giving  written  notice  to  Correspondent  in  the  event  that:
+
+     (i)  a party (other than Integrated Trading Solutions, Inc. ("Integrated"))
+          fails  to  perform  any of its obligations under the License Agreement
+          dated  as  of  July  31, 2002 among Integrated, Correspondent and A.B.
+          Watley  Group Inc.("ABW"), in any material respect after the expiry of
+
+                                     Page 1
+
+<PAGE>
+          any  cure  period  directly relating to such failure set forth in such
+          License  Agreement;
+
+     (ii) a material breach (as determined in accordance with Section 9.3 of the
+          Asset  Purchase  Agreement  dated as of July 31, 2002 ("Asset Purchase
+          Agreement") among Correspondent, ABW and Integrated) by a party (other
+          than Integrated and its affiliates, as applicable) or its affiliate(s)
+          under  the Asset Purchase Agreement, under any agreement or instrument
+          contemplated  by  the  Asset  Purchase  Agreement, or under any of the
+          Related  Documents  (as  defined  in the Asset Purchase Agreement), in
+          each  case  after  the  expiry of any cure period directly relating to
+          such  breach set forth in the Asset Purchase Agreement, the applicable
+          agreement  or  instrument  or  the  applicable  Related  Document;
+
+     (iii)  any  breach of a payment obligation with respect to any debt owed by
+          Correspondent  or  its affiliates in favor of Penson or its affiliates
+          under  the  terms  of  the  Related  Documents  (or  under  any future
+          agreement or instrument between any of Correspondent and/or any of its
+          affiliates  and  Penson,  in  each  case  after the expiry of any cure
+          period  directly  relating  to such breach set forth in the applicable
+          Related  Document,  agreement  or  instrument);
+
+     (iv) Correspondent  fails  to  treat as confidential information subject to
+          the  provisions of Section 13 of the Agreement the prices set forth in
+          Schedule  A;  provided that Correspondent may provide such information
+          to  prospective  investors  and  lenders who execute a confidentiality
+          agreement in form and substance satisfactory to Penson and who are not
+          current  or prospective customers or competitors of Penson as well as,
+          when  required  by  applicable law, regulation, directive or order, to
+          governmental  entities  and  the  NASD,  SEC and applicable securities
+          exchanges  or  other  regulatory  bodies  that  have  supervisory
+          jurisdiction  with  respect  to  Correspondent.
+
+ In  addition, any breach by Correspondent, ABW or their affiliates of a Related
+Document  that  results  in  a  termination  by  the non-breaching party of such
+Related  Document  shall  give  rise  to  an  immediate  right  to terminate the
+Agreement  (without  any  requirement for any additional grace or cure period as
+set  forth  hereinabove  in  the  first  paragraph of this clause (b); provided,
+further,  that  no  notice or other action shall be required by Penson to effect
+such  termination  in  the  event the termination of a Related Document resulted
+from  a  bankruptcy,  insolvency,  liquidation  or  similar proceeding affecting
+Correspondent,  ABW  or  their  affiliates  as such event of termination under a
+Related  Document  may  be deemed by Penson to constitute an  automatic event of
+termination  hereunder).
+
+4.     Paragraph  19(d) of the Agreement is amended by adding the following text
+at  the  end  of  the  current  text:
+
+     "For  purposes of this Section, any change in "control" of Correspondent or
+     any  guarantor  shall  also  constitute  an assignment. "Control" means the
+     direct or indirect power to direct or cause direction of the management and
+
+                                     Page 2
+
+<PAGE>
+     policies  of  an  entity,  whether through the exercise of voting power, by
+     contract  or  otherwise,  as  determined  by Penson in its sole discretion,
+     provided,  however,  and  provided  further  that  a  transaction shall not
+     constitute  a  change  in  control if (i) Correspondent shall have notified
+     Penson in writing (sent by telecopy marked conspicuously on the cover sheet
+     with  "Urgent-Immediate  Reply  Needed"  to each of Penson`s CEO, COO, CFO,
+     General  Counsel  and  Chief  Compliance  Officer  and  Andrew  Koslow
+     (208-275-3940)  in  reasonable  detail  of  the general terms of a proposed
+     transaction and identity of the applicable investor(s) and/or acquirer, and
+     Penson  either  confirms that such transaction does not constitute a change
+     in  control or does not notify Correspondent within six business days after
+     the  day  on  which  it  receives the notice from Correspondent that Penson
+     deems  the transaction to be a change in control and the Correspondent or a
+     guarantor  complete  a  transaction on terms no less favorable to them than
+     those  provided  in  the  notice  or  (ii)  it involves the issuance by the
+     Correspondent  or  a  guarantor  of common stock or other equivalent equity
+     securities  (A)  in connection with the conversion of existing indebtedness
+     on  the  date  hereof  of  the Correspondent or a guarantor or (B) upon the
+     conversion  or  exercise  of  warrants, preferred stock or other securities
+     existing  on  the  date  hereof or issued pursuant to clause (A) above into
+     common  stock  of  the  Correspondent  or  a  guarantor..  Any  attempted
+     assignment,  transfer,  sale,  or  other  delegation  in  violation of this
+     Section  shall  be  void  and any change of control described herein may be
+     deemed  by  Penson  to  be  an  immediate  event  of  termination  without
+     application  of  any  cure  or  grace  period."
+
+
+5.     Paragraph  19(m)  is  modified  by  deleting the addresses for Penson and
+Correspondent  and  inserting  in  lieu  thereof  the addresses set forth in the
+signature  blocks  below  for  Penson  and  Correspondent,  respectively.
+
+6.     The  parties  confirm  the deletion of Section 12(g) inserted pursuant to
+the  Amendment  dated  June  8,  1998.
+
+
+7.     Schedule  A  to  the Agreement is deleted in its entirety and the form of
+Schedule  A  attached  hereto  is  inserted  in  lieu  thereof.
+
+
+
+     All  the  remaining  provisions  of the Agreement between Correspondent and
+Penson  remain  unchanged  and  in  full  force  and  effect.
+
+
+
+                                          Agreed  and  Accepted
+Date:     July  __,  2002
+                                          By:_________________________________
+                                                  Daniel  P.  Son
+
+                                     Page 3
+
+<PAGE>
+
+                                           President
+                                           Penson  Financial  Services,  Inc.
+                                           1700  Pacific  Avenue,  Suite  1400
+                                           Dallas,  TX  75201
+
+                                    By:_________________________________
+                                           Robert  Malin
+                                           President
+                                           A.B.  Watley,  Inc.
+                                           40  Wall  St.,  28th  Floor
+                                           New  York,  NY  10005
+
+
+
+
+                                             Ratified  and  confirmed  by  A.B.
+                                             Watley  Group  Inc. as Guarantor of
+                                             payment  and  performance  of  all
+                                             obligations  of Correspondent as of
+                                             the date hereof and with respect to
+                                             all  amendments  prior to and after
+                                             the  date  hereof:
+
+
+                                             By:________________________________
+                                                 Robert  Malin
+                                                 President
+                                                 A.B.  Watley  Group,  Inc.
+                                                 40  Wall  St.,  28th  Floor
+                                                 New  York,  NY  10005
+
+
+                                     Page 4
+
+<PAGE>
+
+</TEXT>
+</DOCUMENT>

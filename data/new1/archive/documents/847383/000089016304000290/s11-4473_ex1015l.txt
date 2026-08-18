@@ -1,0 +1,124 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>3
+<FILENAME>s11-4473_ex1015l.txt
+<DESCRIPTION>EXHIBIT 10.15
+<TEXT>
+
+
+                            LORAL SKYNET PROPRIETARY
+                              AMENDMENT NUMBER FOUR
+                                                                   T40110100-04
+                            TO THE AGREEMENT BETWEEN
+
+                      COLORADO SATELLITE BROADCASTING INC.
+
+                                       AND
+
+                                LORAL SKYNET(R)1
+
+                     CONCERNING SKYNET SPACE SEGMENT SERVICE
+
+On this 27th day of January, 2004, this amendment number four ("Amendment Number
+Four") is made to the Agreement between Colorado Satellite Broadcasting Inc., a
+corporation organized and existing under the laws of the State of Colorado and
+having its primary place of business at 7007 Winchester Circle, Suite 200,
+Boulder, CO 80301 (hereinafter referred to as "CUSTOMER", which expression shall
+include its successors and permitted assigns) and Loral Skynet, a Division of
+Loral SpaceCom Corporation, a corporation organized and existing under the laws
+of the State of Delaware and having a place of business at 500 Hills Drive,
+Bedminster, New Jersey 07921 (hereinafter referred to as "SKYNET", which
+expression shall include its successors and permitted assigns).
+
+                                   WITNESSETH:
+
+WHEREAS, on January 24, 2002, CUSTOMER and SKYNET entered into an Agreement
+whereby SKYNET is providing C-Band Service on the Telstar 4 satellite; and
+
+WHEREAS, on November 26, 2002, May 15, 2003, and October 20, 2003 CUSTOMER and
+SKYNET amended the above-referenced Agreement; and
+
+WHEREAS, CUSTOMER and SKYNET now wish to further amend the Agreement; and
+
+NOW, THEREFORE, CUSTOMER and SKYNET, in consideration of the mutual covenants
+expressed herein, agree as follows:
+
+1.       SECTION 1.1 OF THE AGREEMENT IS DELETED IN ITS ENTIRETY AND IS REPLACED
+         WITH THE FOLLOWING:
+
+         1.1      (a) SKYNET offers and CUSTOMER hereby orders satellite space
+                  segment services as indicated in Section 2 below. Such
+                  services are provided on the Telstar 6 satellite on a
+                  full-time basis, along with Telemetry, Tracking and Control
+                  ("TT&C"), and maintenance of the satellite used to provide the
+                  space segment capacity (collectively, the "Service" or
+                  "Services").
+
+2.       SECTION 2 OF THE AGREEMENT IS DELETED IN ITS ENTIRETY AND IS REPLACED
+         WITH THE FOLLOWING:
+
+------------------------------------------------------------------------------
+1 SKYNET and its logo are registered trademarks of Loral SpaceCom Corporation
+
+<PAGE>
+
+2.       RATES AND TERMS OF SERVICE
+
+     CUSTOMER shall pay a monthly rate for the Service in accordance with
+     Paragraph 2 of the General Terms and Conditions and the following table:
+
+<TABLE>
+<CAPTION>
+
+  --------------- --------------------------- -------------- --------------------------- ------------------------------
+     QUANTITY            SERVICE TYPE           SATELLITE        START AND END DATE      MONTHLY RATE PER TRANSPONDER
+  --------------- --------------------------- -------------- --------------------------- ------------------------------
+<S>   <C>           <C>                        <C>               <C>                                <C>
+      1 (C1)            36 MHz, C-Band          Telstar 6        1-1-04 - 12-31-04                     $
+                     Business Preemptible
+  --------------- --------------------------- -------------- --------------------------- ------------------------------
+      1 (C7)            36 MHz, C-Band          Telstar 6        1-1-04 - 12-31-04                     $
+                     Business Preemptible
+  --------------- --------------------------- -------------- --------------------------- ------------------------------
+     1 (C14)            36 MHz, C-Band          Telstar 6        9-19-03 - 1-31-04                     $
+                     Business Preemptible
+  --------------- --------------------------- -------------- --------------------------- ------------------------------
+</TABLE>
+
+3.   SECTION 4.2 OF THE AGREEMENT IS DELETED IN ITS ENTIRETY AND IS REPLACED
+WITH THE FOLLOWING:
+
+4.2   EARLY TERMINATION OPTION
+
+     At any time after November 30, 2004 CUSTOMER may terminate one (1) 36 MHz,
+     C-Band transponder upon not less than thirty (30) days prior written
+     notice. Upon the effective date of such a termination, CUSTOMER shall have
+     no further payment obligation for the terminated transponder other than for
+     outstanding charges for the terminated transponder provided up until the
+     date of termination, and for any indemnification obligations of CUSTOMER.
+
+Except as specifically amended in this Amendment Number Four, the Agreement
+shall remain in full force and effect in accordance with its terms.
+
+IN WITNESS WHEREOF, the parties have entered into this Amendment Number Four to
+the Agreement on the day and year first above written.
+
+COLORADO SATELLITE                        LORAL SKYNET, A DIVISION OF
+BROADCASTING INC.                         LORAL SPACECOM  CORPORATION
+
+By: /s/ Larry Harmon                      By:  /s/Sandra James
+   ---------------------------------         -----------------------------------
+
+Print:  Larry Harmon                      Print:      Sandra James
+       -----------------------------             -------------------------------
+
+
+Title: VP of Broadcast Operations         Title: Director,  Contract Management
+       -----------------------------             -------------------------------
+
+
+Date:     1/29/04                         Date:       1/29/04
+     -------------------------------             -------------------------------
+
+</TEXT>
+</DOCUMENT>

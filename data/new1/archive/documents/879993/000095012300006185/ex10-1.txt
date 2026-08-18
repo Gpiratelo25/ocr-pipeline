@@ -1,0 +1,109 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>ex10-1.txt
+<DESCRIPTION>SECOND AMENDMENT TO SUPPLY AGREEMENT
+<TEXT>
+
+<PAGE>   1
+                      SECOND AMENDMENT TO SUPPLY AGREEMENT
+
+         THIS SECOND AMENDMENT ("Second Amendment") is entered into as of the
+20th day of June, 2000 (the "Effective Date") by and between DUSA
+PHARMACEUTICALS, INC. ("DUSA"), a corporation organized and existing under the
+laws of the State of New Jersey, USA, whose principal offices are at 25 Upton
+Drive, Wilmington, Massachusetts, 01887, U.S.A., and SOCHINAZ S.A. ("SOCHINAZ"),
+a corporation registered under the laws of the Canton of Valais, Switzerland,
+whose principal offices are at 22, rte du Simplon, CH-1895 Vionnaz, Switzerland.
+
+         WHEREAS, DUSA and SOCHINAZ entered into a Supply Agreement, dated
+December 24, 1993, which was amended pursuant to the First Amendment to Supply
+Agreement, dated July 7, 1994 (collectively the "Agreement"), pursuant to which
+SOCHINAZ sells to DUSA and DUSA purchases from SOCHINAZ, a porphyrin precursor
+generally known as 5-aminolevulinic acid ("ALA") meeting certain specifications
+(the "Product"); and
+
+         WHEREAS, pursuant to the Agreement, SOCHINAZ is required to manufacture
+the Product in accordance with the current Good Manufacturing Practices ("cGMP")
+established by the United States Food and Drug Administration (the "FDA"); and
+
+         WHEREAS, DUSA believes that in consideration of the parties agreement
+to amend the terms and conditions of the Agreement for the purpose of providing
+DUSA with an option to renew the Agreement after the expiration of the Term
+specified in the Agreement and to correct certain typographical and clerical
+errors contained within the Agreement, and it is in its best interests of both
+parties to reimburse SOCHINAZ for a portion of the costs SOCHINAZ incurred to
+bring its manufacturing facility into compliance with cGMP, under the terms of
+this Second Amendment.
+
+         NOW, THEREFORE, in consideration of the foregoing, and other good and
+valuable consideration, the receipt and sufficiency of which the parties
+acknowledge, the parties hereby agree as follows:
+
+         1.       DUSA shall pay to SOCHINAZ an aggregate of $1.0 Million U.S.
+Dollars, as follows:
+
+                  (a)   $250,000 in cash, by wire transfer of immediately
+                        available funds to Credit Suisse - CH - 1870  Monthey /
+                        Account No.: 192649-42-780 / SWIFT CRESCHZZ18L; and
+
+
+                  (b)   DUSA shall issue to SOCHINAZ that number of shares of
+                        DUSA common stock, no par value, (hereinafter
+                        referred to as the "Shares") having, as of the
+                        Effective Date, a fair market value of $750,000, the
+                        actual number of Shares and the terms and conditions
+                        of such issuance to be set forth in a certain Stock
+                        Subscription Agreement being entered into by the
+                        parties contemporaneously with the signing of this
+                        Second Amendment.
+
+
+<PAGE>   2
+
+
+
+
+
+
+         2.       Sections 2.3, 2.4 and 2.5 of the Agreement, which currently
+begin "Notwithstanding Paragraph 2.2 above...", shall be amended to correctly
+refer to Paragraph 2.1, as follows: "Notwithstanding Paragraph 2.1 above..."
+
+         3.       Section 6.2 of the Agreement, which in relevant part
+currently states " ... SOCHINAZ is unable to supply DUSA's requirement of
+Products. Products hereunder in which case DUSA...", shall be amended, deleting
+the repetition of the word Products, as follows: " ... SOCHINAZ is unable to
+supply DUSA's requirement of Products hereunder in which case DUSA...".
+
+         4.       Section 9.1 shall be amended to state as follows: "This
+Agreement shall have an initial term of five (5) years from the date the
+Product is first approved for any therapeutic use by the U.S. Food and Drug
+Administration (i.e., December 3, 1999) unless sooner terminated in accordance
+with Section 9.2 or 9.3 below. DUSA shall have an option to renew this
+Agreement on the same terms and conditions for a period of three (3) additional
+years, provided that DUSA notifies SOCHINAZ no later that June 3, 2003 of its
+intention to renew this Agreement."
+
+         5.       Except as expressly provided in this Amendment, the Agreement
+shall remain unmodified and in full force and effect and is hereby ratified and
+affirmed. The execution, delivery, and effectiveness of this Second Amendment
+shall not, except as expressly provided herein, operate as a waiver of any
+right, power, or remedy of DUSA or SOCHINAZ under the Agreement.
+
+         IN WITNESS WHEREOF, the parties execute this Agreement.
+
+
+SOCHINAZ S.A.                               DUSA PHARMACEUTICALS, INC.
+
+
+
+By:   /s/ Christian A. Borgeaud             By:   /s/ D.Geoffrey Shulman, MD
+      -------------------------             -----------------------------------
+      Christian A. Borgeaud                 D. Geoffrey Shulman, MD, FRCPC
+      Chief Executive Officer               President & Chief Executive Officer
+
+
+
+</TEXT>
+</DOCUMENT>

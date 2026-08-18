@@ -1,0 +1,376 @@
+<DOCUMENT>
+<TYPE>EX-10.35
+<SEQUENCE>3
+<FILENAME>dex1035.txt
+<DESCRIPTION>THIRD AMENDMENT TO AMENDED & RESTATED GLOBAL OPERA
+<TEXT>
+<PAGE>
+
+                                                                   Exhibit 10.35
+
+                                    AMENDMENT
+
+                 Amendment (this "Amendment"), dated as of January ___, 2002,
+among General Electric Capital Corporation ("GE Capital"), Danka Business
+Systems PLC ("Danka") and Danka Office Imaging Company ("Danka OI").
+
+                 WHEREAS, GE Capital and Danka are parties to that certain
+Amended and Restated Global Operating Agreement dated as of March 31, 2000 (as
+amended, the "Global Operating Agreement"); and
+
+                 WHEREAS, GE Capital and Danka OI are parties to that certain
+U.S. Direct Operating Agreement dated effective as of March 31, 2000 (as
+amended, the "U.S. Direct Operating Agreement"); and
+
+                 WHEREAS, Danka OI and GE Capital are parties to that certain
+License Agreement effective March 31, 2000 (as amended, the "License
+Agreement");
+
+                 NOW, THEREFORE, in consideration of the mutual covenants and
+agreements set forth below, the parties hereto hereby agree as follows:
+
+         1. Capitalized Terms. Capitalized terms used in this Amendment and not
+            -----------------
+herein defined shall have the respective meanings set forth in the Global
+Operating Agreement.
+
+         2. Amendments to Global Operating Agreement. Effective immediately, the
+            ----------------------------------------
+Global Operating Agreement is hereby amended as follows:
+
+                 Subsection (k) to Section 4.1 of the Global Operating Agreement
+is hereby amended and restated as follows:
+
+                 "(k) Danka shall deliver to GE Capital, on or before the date
+                 that is fifteen (15) days after Danka shall have filed any
+                 quarterly report under the Securities Exchange Act of 1934, a
+                 certificate setting forth United States Reprographic Hardware
+                 Sales for the quarter and the portion of any Measurement Period
+                 then ended, certified by Danka's Chief Financial Officer as
+                 true and correct in all material respects, to the best of his
+                 knowledge, after due inquiry. In addition to the foregoing,
+                 Danka shall deliver to GE Capital, on or before the date that
+                 is fifteen (15) days after Danka shall have filed any annual
+                 report under the Securities Exchange Act of 1934, a certificate
+                 setting forth United States Reprographic Hardware Sales for the
+                 year and the Measurement Period then ended, certified by
+                 Danka's Chief Financial Officer as true and correct in all
+                 material respects, to the best of his knowledge, after due
+                 inquiry. With respect to the Measurement Period of 4/l/02
+                 through 1l/30/02, Danka shall deliver to GE Capital, on or
+                 before 12/15/02, a certificate setting forth United States
+                 Reprographic Hardware Sales for such Measurement
+
+<PAGE>
+
+                 Period. certified by Danka's Chief Financial Officer as true
+                 and correct in all material respects, to the best of his
+                 knowledge, after due inquiry,"
+
+                 Article VIII of the Global Operating Agreement is hereby
+amended and restated to read in its entirety as follows:
+
+                                  "Article VIII
+                                 Volume Payments
+                                 ---------------
+
+                          8.1 Target Volume. For each Measurement Period, Danka
+                              -------------
+         shall, and shall cause its Affiliates to, use reasonable efforts to
+         enter into sufficient Financings in order that the aggregate Volume
+         with respect to such Measurement Period shall be at least equal to the
+         target volume for such period as set forth in the following table
+         (subject to Section 8.2(b) with respect to any Interrupted Measurement
+         Period, the "Target Volume"):
+                      -------------
+
+               Measurement Period                      Target Volume
+               ------------------                      -------------
+               From 4/l/99 through 3/3l/00             $220.0 million
+
+               From 4/l/00 through 3/31/01             $245.0 million
+
+               From 4/l/01 through 3/3l/02             $170.0 million
+
+               From 4/l/02 through 1l/30/02            The Modified 2002 Sales
+                                                       Volume for such
+                                                       Measurement Period
+
+               From 12/01/02 through 3/31/03           The Interim Sales Volume
+                                                       for such Measurement
+                                                       Period
+
+               From 4/l/03 through 3/3l/04             The Sales Volume for such
+                                                       Measurement Period
+
+               From 4/l/04 through 3/3l/05             The Sales Volume for such
+                                                       Measurement Period
+
+               From 4/l/05 through 3/3l/06             The Final Year Sales
+                                                       Volume for such
+                                                       Measurement Period
+
+                                       2
+
+<PAGE>
+
+       The sole remedy of GE Capital for any failure by Danka to use such
+       efforts or meet the Target Volume in any Measurement Period shall be
+       Danka's obligation to make Trigger Payments pursuant to Section 8.2 below
+       (provided that the foregoing shall not limit any rights or remedies of GE
+       Capital in respect of the breach by Danka of any other provision of this
+       Agreement). Any failure by Danka to use such efforts or meet the Target
+       Volume in any Measurement Period shall not be deemed to be or constitute
+       a Danka Event of Default.
+
+                  8.2     Trigger Payments.
+                          ----------------
+
+                  (a)     Within 15 days after Danka shall have reported to GE
+       Capital the annual United States Reprographic Hardware Sales with respect
+       to each Measurement Period (or 15 days after the date that the last item
+       of Backlog (as such term is defined in the U.S. Direct Operating
+       Agreement) is Financed by GE Capital pursuant to the U.S. Direct
+       Operating Agreement), GE Capital shall deliver to Danka a notice setting
+       forth (i) the Actual Volume, Adjusted Target Volume and Approval Rate, in
+       each case, for such Measurement Period and (ii) the calculations provided
+       below setting forth the amount of any cash payment required to be made by
+       Danka to GE Capital pursuant to this Section 8.2 with respect to such
+       Measurement Period (a "Trigger Payment"). A11 such information and
+                              ---------------
+       calculations shall be certified by the Manager of Finance of GE Capital
+       VFS's Center for Specialized Alliances (in his capacity as such) as being
+       true and correct in all material respects, to the best of his knowledge,
+       after due inquiry. With respect to the for the Measurement Period of
+       4/l/02 through 1l/30/02, within 10 calendar days after Danka shall have
+       reported to GE Capital the applicable United States Reprographic Hardware
+       Sales with respect to such Measurement Period (or 10 calendar days after
+       the date that the last item of Backlog (as such term is defined in the
+       U.S. Direct Operating Agreement) is Financed by GE Capital pursuant to
+       the U.S. Direct Operating Agreement), GE Capital shall deliver to Danka a
+       notice setting forth (i) the Actual Volume, Adjusted Target Volume and
+       Approval Rate, in each case, for such Measurement Period and (ii) the
+       calculations provided below setting forth the amount of any cash payment
+       required to be made by Danka to GE Capital pursuant to this Section 8.2
+       with respect to such Measurement Period (a "Trigger Payment"). All such
+                                                   ---------------
+       information and calculations shall be certified by the Manager of Finance
+       of GE Capital VFS's Center for Specialized Alliances (in his capacity as
+       such) as being true and correct in all material respects, to the best of
+       his knowledge, after due inquiry. Within 15 days after the end of each
+       calendar quarter in a Measurement Period (other than a calendar quarter
+       that is the end of such Measurement Period), GE Capital shall deliver to
+       Danka its good faith estimate of the Volume funded by GE Capital or its
+       Program Affiliates during such Measurement Period through the end of such
+       calendar quarter, the Approval Rate, the aggregate amount proposed to be
+       Financed by GE Capital or any Program Affiliate in connection with all of
+       the Prospective Financings submitted by Danka or any of its Affiliates to
+       GE Capital or any Program Affiliate in connection with
+
+                                       3
+
+<PAGE>
+
+       the Qualifying Programs and the Funding Rate, in each case in respect of
+       the period beginning on the first day of such Measurement Period and
+       ending on the last day of such calendar quarter.
+
+                           (b) If this Agreement is terminated and such
+       termination results in an Interrupted Measurement Period, then any
+       Trigger Payment due in respect of such Interrupted Measurement Period
+       shall be calculated in accordance with subsection (c) hereof without
+       giving effect to the fact that such Measurement Period is an Interrupted
+       Measurement Period; provided that the Target Volume for such Interrupted
+       Measurement Period shall be calculated on a pro rated basis calculated
+       based on the actual number of days (365 or 366) in the Measurement
+       Period during which such termination occurs. By way of example, if the
+       Target Volume was $170 million for the Measurement Period during which
+       the termination occurred, such Measurement Period consisted of 365 days
+       and the Agreement was terminated on the 100th day of such Measurement
+       Period, the Target Volume for such Interrupted Measurement Period would
+       be equal to (i) 100 multiplied by the quotient of $170 million divided by
+                           ---------- --                              ------- --
+       365 or (ii) $46,575,342.
+
+                           (c) If the amount of the Actual Volume for any
+       Measurement Period is less than the Adjusted Target Volume for such
+       Measurement Period (a "Volume Shortfall"), then the Trigger Payment due
+                              ----------------
+       to GE Capital for such Measurement Period shall be an amount equal to the
+       product of (i) the excess of the Adjusted Target Volume over the Actual
+       Volume, in each case, calculated for such Measurement Period multiplied
+                                                                    ----------
+       by (ii) 4.75%.
+       --
+
+                           (d) Danka shall pay to GE Capital the amount of any
+       Trigger Payment no later than 15 days after delivery by GE Capital of the
+       related notice under Section 8.2(a). Notwithstanding the foregoing, in
+       the event a Trigger Payment shall be due GE Capital from Danka with
+       respect to the Measurement Period of 4/1/02 through 11/30/02, Danka shall
+       pay to GE Capital the amount of any such Trigger Payment no later than 5
+       calendar days after delivery by GE Capital of the related notice under
+       Section 8.2(a).
+
+                           (e) Any amounts funded by GE Capital or any Program
+       Affiliate in respect of Backlog (as such term is defined in the U.S.
+       Direct Operating Agreement) shall be included for purposes of determining
+       any Trigger Payment and Termination Fee due pursuant to the terms of this
+       Agreement.
+
+       The following definitions contained in Appendix I to the Global Operating
+Agreement are hereby amended as follows:
+
+                                       4
+
+<PAGE>
+
+                  (a)  The definition of "Measurement Period" is hereby amended
+          and restated to read in its entirety as follows:
+
+                                   " 'Measurement Period' means a period from
+                  April 1, 1999 through March 31, 2000; from April 1, 2000
+                  through March 31, 200l; from April 1, 200l through March 31,
+                  2002; from April 1, 2002 through November 30, 2002; from
+                  December 1, 2002 through March 31, 2003; from April 1, 2003
+                  through March 31, 2004; from April 1, 2004 through March
+                  31, 2005; or from April 1, 2005 through March 31, 2006."
+
+                                   " 'Interim Sales Volume' for the Measurement
+                  Period of l2/01/02 through 3/31/03 means an amount equal to
+                  the greater of (x) $54,666,667 or (y) 63% of Danka's and its
+                  Affiliates' United States Reprographic Hardware Sales during
+                  such Measurement Period, as reported to GE Capital by Danka,
+                  in the time and manner as provided for in Section 4.1(k)."
+
+                                   " 'Modified 2002 Sales Volume' for the
+                  Measurement Period of 4/l/02 through 1l/30/02 means an amount
+                  equal to the sum of (i) $12,600,000 plus (ii) the greater of
+                                                      ----
+                  (x) $109,333,333 or (y) 63% of Danka's and its Affiliates'
+                  United States Reprographic Hardware Sales during such
+                  Measurement Period, as reported to GE Capital by Danka by way
+                  of a certificate setting forth the United States
+                  Reprographic Hardware Sales for such Measurement Period then
+                  ended, certified by Danka's Chief Financial Officer as true
+                  and correct in all material respects, to the best of his
+                  knowledge, after due inquiry, such report being delivered by
+                  Danka to GE."
+
+       3. Confirmation of Guaranty. By its execution of this Amendment, Danka OI
+          -----------------------
+hereby consents to all of the terms and provisions of this Amendment, the Global
+Operating Agreement and each of the other Principal Documents, and ratifies and
+confirms that each of the other Principal Documents to which it is a party,
+including but not limited to that certain Unconditional Guarantee, dated as of
+December 22, 1997, made by Danka OI in favor of GE Capital, remains in full
+force and effect and enforceable in accordance with its terms.
+
+       4. References to this Amendment and Effect on Principal Documents.
+          --------------------------------------------------------------
+
+                          (a) From and after the effective date of this
+Amendment each reference in the Global Operating Agreement, the U.S. Direct
+Operating Agreement and the License Agreement to "this agreement", "hereunder"
+or "herein" or words of like import shall mean and be a reference to such
+agreement, as affected and amended hereby.
+
+                          (b) The Global Operating Agreement, the U.S. Direct
+Operating Agreement and the License Agreement, each as amended hereby, shall
+remain in full force and effect and are hereby ratified and confirmed in all
+respects.
+
+                                       5
+
+<PAGE>
+
+                          (c) Danka expressly acknowledges and agrees that GE
+Capital's acceptance of, and agreement to, the provisions of this Amendment does
+not constitute an election by GE Capital to adopt a Modified Net Worth Test
+---
+pursuant to Section 6.3 of the Global Operating Agreement. Nothing contained
+herein shall be construed to prohibit or impair GE Capital's right to make such
+an election at a future date.
+
+       5. Governing Law: Binding Effect. In all respects, including all matters
+          -----------------------------
+of construction, validity and performance, this Amendment shall be governed by,
+and construed and enforced in accordance with, the internal laws of the State of
+New York (without regard to conflict of law provisions) and any applicable laws
+of the United States of America, and shall be binding upon the parties hereto
+and their respective successors and permitted assigns.
+
+       6. Execution in Counterparts. This Amendment may be executed in any
+          -------------------------
+number of counterparts and by different parties hereto in separate counterparts,
+each of which when so executed shall be deemed to be an original and all of
+which taken together shall constitute one and the same agreement.
+
+                  [REMAINDER OF PAGE LEFT INTENTIONALLY BLANK]
+
+                                       6
+
+<PAGE>
+
+                  IN WITNESS WHEREOF, this Amendment has been duly executed as
+of the date written above.
+
+
+                                      GENERAL ELECTRIC CAPITAL
+                                        CORPORATION
+
+
+                                      By: /s/ Matthew J. Zakrzewski
+                                         -------------------------------------
+                                         Name:  Matthew J. Zakrzewski
+                                         Title: Its Authorized Representative
+
+
+                                      DANKA BUSINESS SYSTEMS PLC
+
+
+                                      By: /s/ Brian L. Merriman
+                                         -------------------------------------
+                                         Name:  Brian L. Merriman
+                                         Title: Director
+
+
+                                      DANKA OFFICE IMAGING COMPANY
+
+
+                                      By: /s/ Laurens F. Schaad, Jr.
+                                         -------------------------------------
+                                         Name:  Laurens F. Schaad, Jr.
+                                         Title: Senior Vice President, Treasurer
+
+                                       7
+
+<PAGE>
+
+                            LIMITED POWER OF ATTORNEY
+
+
+
+
+         The undersigned, a duly appointed and acting Vice President of General
+Electric Capital Corporation, Vendor Financial Services ("GE Capital"), pursuant
+to the authority granted him by that certain Unanimous Written Consent of the
+Board of Directors of General Electric Capital Corporation dated July 2, 2001
+hereby nominates and appoints Matthew J. Zakrzewski as his true and lawful
+attorney for the limited purpose of executing and delivering an amendment to
+that certain Amended and Restated Global Operating Agreement dated effective as
+of March 31, 2000 between GE Capital and Danka Business Systems PLC and
+related documents. This Limited Power of Attorney to the express purposes set
+forth herein.
+
+
+
+
+                                          /s/ William H. Cary
+                                          ------------------------------------
+                                          Vice President & General Manager
+                                          General Electric Capital Corporation
+                                          March 28, 2002
+
+</TEXT>
+</DOCUMENT>

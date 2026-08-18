@@ -1,0 +1,292 @@
+<DOCUMENT>
+<TYPE>EX-10.34
+<SEQUENCE>15
+<FILENAME>w46736ex10-34.txt
+<DESCRIPTION>AMEND. NO 3 TO AIRBRIDGE PACKET SERVICE AGREEMENT
+<TEXT>
+
+<PAGE>   1
+                                                                  EXHIBIT 10.34
+
+
+  Confidential Materials omitted and filed separately with the Securities and
+                Exchange Commission. Asterisks denote omissions.
+
+
+                                 AMENDMENT NO. 3
+
+     This AMENDMENT No. 3 (the "Amendment") is made and entered into by and
+between GoAmerica Communications Corporation ("Customer") and Cellco
+Partnership, doing business as Verizon Wireless ("Verizon Wireless") for
+attachment to Contract ####-##-####, dated May 13, 1997 (the "Agreement") and as
+amended on January 7, 2000 and March 6, 2000.
+
+     1. This Amendment is an integral part of and modifies the Agreement. The
+terms used herein which are defined or specified in the Agreement shall have the
+meanings set forth in the Agreement. If there are any inconsistencies between
+the provisions of this Amendment and the provisions of the Agreement, the
+provisions of this Amendment shall control.
+
+     2. BAM's name is hereby changed to Verizon Wireless.
+
+     3. The term "AirBridge Packet Service" is hereby changed to "Mobile IP
+Services."
+
+     4. The term of this Agreement (the "Extended Term") is extended for four
+(4) years from the effective date of this Amendment.
+
+     5. Exhibit A, is hereby deleted in its entirety and the definition of
+"Area", in Section 1 of the Agreement, is also deleted and replaced as follows:
+
+        "The markets within which Verizon Wireless either is licensed or
+        authorized by the FCC to provide commercial mobile service, or manages
+        on behalf of the FCC licensee pursuant to a management agreement, and
+        in which Verizon Wireless currently or may provide Mobile IP
+        Services."
+
+<PAGE>   2
+A new Exhibit B-3, "AIA Platinum and Palm Platinum Pricing" is hereby added in
+its entirely as attached hereto. Customer hereby acknowledges that it may take
+up to thirty (30) days from the execution of this Amendment for the rates shown
+in Exhibit B-3 to be implemented.
+
+This Amendment shall be effective when executed by both parties.
+
+All provisions of the Agreement, including attachments thereto, not addressed by
+this Amendment remain in full force and effect.
+
+IN WITNESS WHEREOF, and intending to be bound hereby, the parties affix their
+signature to this Amendment.
+
+<TABLE>
+<S>                                                <C>
+CELLCO PARTNERSHIP
+By Verizon Wireless,                               GOAMERICA
+Its managing general partner:                      COMMUNICATIONS CORPORATION
+
+By:     /s/ James Surnight                         By:    /s/ Joseph Korb
+   --------------------------------                   --------------------------
+Name:   James Surnight                             Name:  Joseph Korb
+     ------------------------------                     ------------------------
+Title:  VP Data & Internet Services                Title: President
+      -----------------------------                      -----------------------
+Date:          2/13/01                             Date:         2/9/01
+     ------------------------------                     ------------------------
+</TABLE>
+
+<PAGE>   3
+     Confidential Materials omitted and filed separately with the Securities
+              and Exchange Commission. Asterisks denote omissions.
+
+
+                                   EXHIBIT B-3
+
+                        Mobile IP Internet Access Pricing
+
+                       Platinum and Palm Platinum Pricing
+
+Verizon Wireless' Commitment Plans require a minimum number of units in service
+on the network during specific times. Please see the commitment schedules below
+for the associated commitment time frames. Verizon Wireless' Mobile IP Platinum
+Commitment plan has a minimum number of units commitment of [**] and its Mobile
+IP Palm Platinum Plan has a minimum number of units commitment of [**]. However,
+for the purposes of this Amendment, Customer must maintain a minimum number of
+[**] NEIs across the rate plans shown in this Exhibit B-3. In the event that
+Customer does not activate or falls below the minimum number of units, Customer
+will be invoiced as if the total number of units associated with their
+Commitment Plan were active. Verizon Wireless will invoice Customer the
+difference between the units in service and the commitment level for that month,
+multiplied by the monthly access fee of $[**]. At the end of the first year of
+the Extended Term of this Agreement, Customer must maintain [**] units in
+service during a given month. If such minimum is not maintained, Customer will
+be charged $[**] monthly access fee for those units that represent the
+shortfall.
+
+The volume commitments shown below are in addition to existing commitments
+contained in Contract ####-##-####, dated May 13,1997 and its subsequent
+Amendments 1 and 2. NEIs active on the $[**] price plan contained in Contract #
+###-##-#### and its subsequent Amendments 1 and 2, may convert to the $[**] rate
+plan shown in this Exhibit B-3, but shall not count towards Customer's [**] NEI
+minimum commitment.
+
+All price plans are only available for Customer for the provision to its
+Authorized Users as part of the mobile data communications system which offers
+bundled Customer content through standard browser-based Internet applications
+only, intended for use with Palm OS handhelds, Microsoft Pocket PC based
+handhelds, and Microsoft Windows based notepads and laptops. No telemetry, AVL,
+or public safety applications will be available on these plans. Pursuant to the
+terms of this Agreement, Verizon Wireless reserves the right to investigate the
+usage of any NEI and reserves the right to suspend NEIs that are being used
+fraudulently.
+
+(insert) Each new IP activated is for a one year contract. If the individual IP
+is not in service for twelve months, an early termination fee of $[**]per will
+be applied.
+
+<PAGE>   4
+     Confidential Materials omitted and filed separately with the Securities
+              and Exchange Commission. Asterisks denote omissions.
+
+<TABLE>
+<CAPTION>
+--------------------------------------------------------------------------------
+                 Mobile IP Internet Access Pricing Platinum and
+                    Palm Platinum Pricing Commitment Schedule
+--------------------------------------------------------------------------------
+              Month                             NEIs in Service
+--------------------------------------------------------------------------------
+<S>                                             <C>
+              Month 1                                [**]
+--------------------------------------------------------------------------------
+              Month 2                                [**]
+--------------------------------------------------------------------------------
+              Month 3                                [**]
+--------------------------------------------------------------------------------
+              Month 4                                [**]
+--------------------------------------------------------------------------------
+              Month 5                                [**]
+--------------------------------------------------------------------------------
+              Month 6                                [**]
+--------------------------------------------------------------------------------
+              Month 7                                [**]
+--------------------------------------------------------------------------------
+              Month 8                                [**]
+--------------------------------------------------------------------------------
+              Month 9                                [**]
+--------------------------------------------------------------------------------
+             Month 10                                [**]
+--------------------------------------------------------------------------------
+             Month 11                                [**]
+--------------------------------------------------------------------------------
+             Month 12                                [**]
+--------------------------------------------------------------------------------
+</TABLE>
+
+<TABLE>
+
+--------------------------------------------------------------------------------
+<S>                                              <C>
+             Monthly Access Fee                      $[**]
+--------------------------------------------------------------------------------
+     Non Verizon Wireless Visiting Rate              $[**]
+--------------------------------------------------------------------------------
+               Unit Commitment                        [**]
+--------------------------------------------------------------------------------
+               Activation Fee                        $[**]
+--------------------------------------------------------------------------------
+            Early Termination Fee                    $[**]
+--------------------------------------------------------------------------------
+     Contract Term and CSA Term in Years           4 Years
+--------------------------------------------------------------------------------
+</TABLE>
+
+Note: Use limited to the following applications: All web browser software, AOL,
+Prodigy, CompuServe, All customer E-mail servers, Lotus Domino, Microsoft
+Exchange
+
+
+
+<PAGE>   5
+     Confidential Materials omitted and filed separately with the Securities
+              and Exchange Commission. Asterisks denote omissions.
+
+<TABLE>
+<CAPTION>
+--------------------------------------------------------------------------------
+                          Mobile IP Palm Platinum Plan
+--------------------------------------------------------------------------------
+<S>                                                     <C>
+Monthly Access Fee                                         [**]
+--------------------------------------------------------------------------------
+Non-Verizon Wireless Visiting Rate                        $[**]
+--------------------------------------------------------------------------------
+Unit Commitment                                            [**]
+--------------------------------------------------------------------------------
+Activation Fee                                            $[**]
+--------------------------------------------------------------------------------
+Early Termination Fee                                     $[**]
+--------------------------------------------------------------------------------
+Contract Terms in Years                                 4 Years
+--------------------------------------------------------------------------------
+</TABLE>
+
+--------------------------------------------------------------------------------
+Palm Platinum Plan Terms and Conditions: This service may be used only with Palm
+OS Personal Digital Assistants and Novatel Wireless and Sierra Minstrel CDPD
+modems for the Palm III and V, and Handspring Visor only. This service may be
+used only with mobile clients for Internet/Intranet access and Internet e-mail
+via an HTML browser or proprietary client software for Public Online Service
+Providers (e.g., GoAmerica browser and pop3 email account, AOL(R),
+CompuServe(R), ProdigyInternet(TM)), and related mail clients. It may also be
+used with software for proxy applications (e.g., Citrix(R)) and for dispatch
+applications.
+
+This service cannot be used by a server device or with a host computer
+application. Examples of restricted uses for this service include, but are not
+limited to, web camera posts or broadcasts, capture and transmission of jpeg
+files, automatic data feeds, telemetry applications, automated functions, or
+machine-to machine applications. This service may not be substituted for a
+private line or frame relay connection.
+
+A POP3 electronic mailbox @airbridge.net is included. Five megabytes of mail
+storage are provided. Within the disk space limitation, we will keep unread
+e-mail for a minimum of 30 days. Users are permitted a maximum of 2,500 e-mail
+log-on attempts per month. Access to Verizon Wireless Mobile Web Microbrowser
+Gateway Information services is Included for users of capable devices. The term
+of this contract is four (4) years. An Early Termination Fee of $[**] per IP
+address applies. Taxes where applicable are not Included. Verizon Wireless,
+without notice retains the right to deny service to any of GoAmerica's end user
+customers whose usage adversely impacts our network or service levels. This Rate
+Plan Is subject to the terms and conditions of the Value Added Contract (VAC)
+which Is Incorporated herein by reference, including dispute resolution by
+Independent arbitration Instead of jury trials.
+--------------------------------------------------------------------------------
+
+<PAGE>   6
+     Confidential Materials omitted and filed separately with the Securities
+              and Exchange Commission. Asterisks denote omissions.
+
+
+Mobile IP Internet Access Commitment Plan Terms and Conditions: This service may
+only be used for the following applications:
+
+--------------------------------------------------------------------------------
+1.   Internet/intranet access and Intranet e-mail via a standard HTML browser
+     (e.g., Netscape Navigator or Communicator, Microsoft Internet Explorer,
+     GoAmerica browser and pop3 email account etc.)
+
+2.   Proprietary client software for Public Online Service Providers (e.g., AOL,
+     CompuServe, Prodigy) and mail client.
+
+3.   PalmPilot or Windows CE compatible browers (e.g., HandWeb, ProxiWeb, Pocket
+     Explorer, etc.) and e-mail (e.g., HandStamp, Outlook Express, etc.)
+
+4.   Citrix (an alternative browsing technology)
+
+5.   Dispatch (where a human being at a terminal is sending information to one
+     or more mobile users' machine)
+
+This service cannot be used by a server device or with a host computer
+application. Examples of restricted uses for this service include, but are not
+limited to, web camera posts or broadcasts, capture and transmission for jpeg
+files, automatic data feeds, telemetry applications, automated functions, or
+machine-to-machine applications. This service may not be substituted for a
+private line or frame relay connection.
+
+A POP3 electronic mailbox @airbridge.net is included. Five megabytes of mail
+storage are provided. Within the disk space limitation, we will keep unread
+e-mail for a minimum of 30 days. Users are permitted a maximum of [**] e-mail
+log-on attempts per month. Access to Verizon Wireless Mobile Web Microbrowser
+Gateway information services Is Included for users of capable devices. The term
+of this contract is four (4) years. An Early Termination Fee of $[**] per IP
+address applies. Taxes where applicable are not included. Verizon Wireless
+retains the right to deny service, without notice, to any customer whose usage
+adversely impacts our network or service levels. This Rate Plan is subject to
+the terms and conditions of the Value Added Contract (VAC) which is incorporated
+herein by reference, including dispute resolution by independent arbitration
+instead of jury trials. Pricing does not include electronic billing information.
+--------------------------------------------------------------------------------
+
+
+</TEXT>
+</DOCUMENT>

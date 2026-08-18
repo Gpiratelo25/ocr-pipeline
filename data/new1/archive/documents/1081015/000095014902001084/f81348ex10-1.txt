@@ -1,0 +1,664 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>3
+<FILENAME>f81348ex10-1.txt
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+<PAGE>
+                                                                   EXHIBIT 10.1
+
+                     RESTATED AND AMENDED SERVICE AGREEMENT
+
+                                 BY AND BETWEEN
+                               NEXTCARD, INC. AND
+                       FDIC AS RECEIVER OF NEXTBANK, N.A.
+
+        This Restated and Amended Service Agreement (including the exhibits
+hereto, collectively the "AGREEMENT") effective as of March 1, 2002 (the
+"EFFECTIVE DATE") is made by and between NextCard, Inc., a Delaware corporation,
+("NEXTCARD") and the Federal Deposit Insurance Corporation - Receiver
+("FDIC-R"), as receiver of NextBank, National Association (the "BANK") and is
+based upon the following facts.
+
+        A. On February 7, 2002, the Office of the Comptroller of the Currency
+closed the Bank and appointed the FDIC-R as receiver of the Bank, whereupon the
+FDIC-R succeeded to all rights, title, powers and privileges of the Bank and,
+pursuant to Section 1821 of Title 12, United States Code, is delegated with the
+power to conduct all business of the Bank and to preserve and conserve the
+Bank's assets and property.
+
+        B. NextCard and the Bank are parties to a Service Agreement dated
+September 16, 1999 (the "SERVICE AGREEMENT"), pursuant to which, among other
+things, NextCard agreed to perform certain servicing functions for the Bank's
+credit card portfolio.
+
+        C. There exists a Capital Assurance Agreement, dated October 26, 2000
+(the "CAPITAL ASSURANCE AGREEMENT"), a copy of which is attached hereto as
+EXHIBIT 1.
+
+        D. [   ***   ]
+
+
+*** Confidential Treatment Requested.
+
+<PAGE>
+
+                                          Restated and Amended Service Agreement
+                                                                          Page 2
+
+
+
+
+[   ***   ]
+
+        E. The FDIC-R has determined, consistent with its powers and
+authorities, that it is in the best interests of the Bank that NextCard continue
+to perform certain agreed-upon licensing and maintenance functions for the
+Bank's credit card portfolio for the term of this Agreement, under the terms and
+conditions set forth herein.
+
+        F. So long as each party hereto remains in material compliance with each
+and every term of this Agreement, and only for the period described in the
+Agreement, the parties hereto shall be obligated to perform as set forth herein
+
+        NOW, THEREFORE, in consideration of the foregoing and the respective
+representations, warranties, covenants, agreements and conditions hereinafter
+set forth and other good and valuable consideration, the receipt and adequacy of
+which are hereby acknowledged, NextCard and the FDIC-R, intending to be legally
+bound hereby agree as follows:
+
+                                    ARTICLE 1
+                         RESTATED AND AMENDED PROVISIONS
+
+           1.1 This Agreement constitutes the amended and restated Service
+Agreement. Except as restated in their entirety below, all provisions of the
+Service Agreement are terminated by mutual agreement as of the Effective Date.
+
+           1.2 License
+
+               1.2.1 NextCard hereby grants to FDIC-R a royalty-free,
+non-exclusive, non-transferable worldwide license to use, during the term of
+this Agreement, NextCard's Intellectual Property (which, for purposes of this
+Agreement, shall include all trade and service marks, copyrights, patents, trade
+secrets and all other information and know-how as well as any systems
+
+
+*** Confidential Treatment Requested.
+<PAGE>
+
+                                          Restated and Amended Service Agreement
+                                                                          Page 3
+
+
+enhancements made available to FDIC-R from time to time by NextCard) for the
+purpose of servicing credit card accounts (the "NEXTBANK ACCOUNTS").
+
+            1.2.2 Subject to the terms of this Agreement, the NextCard
+Intellectual Property is and shall remain the sole and exclusive property of
+NextCard, free from any claim (other than the licenses granted herein) on the
+part of FDIC-R. FDIC-R shall have no right to disclose, reproduce, use, display
+or distribute any of the NextCard Intellectual Property except as expressly
+permitted by this Agreement.
+
+        1.3 Website Operation
+
+            1.3.1 NextCard will own and operate an Internet site on the World
+Wide Web to be located at "www.nextcard.com" (the "WEBSITE"), subject to the
+following provisions:
+
+                  1.3.1.1 During the term of this Agreement NextCard shall be
+responsible for the operations of the Website, including the development,
+maintenance and the upkeep of the Website and its operations. The parties agree
+that the NextCard may subcontract operations or activities to third-parties,
+each of whom will be bound by the Confidentiality provisions set forth in
+Section 1.5 hereof.
+
+                  1.3.1.2 FDIC-R and its Bank's customers shall have unlimited
+use of the Website for purposes of the operations of NextBank and servicing of
+NextBank Accounts.
+
+
+
+<PAGE>
+                                          Restated and Amended Service Agreement
+                                                                          Page 4
+
+
+        1.4 Ownership and Administration of Data
+
+            1.4.1 NextCard agrees that all information relating to the customer
+relationship between holders of NextBank Accounts and the FDIC-R, including
+without limitation all books and records of such accounts, the First Data
+Resources Master File, all account forms, all customer correspondence,
+cardholder agreements, physical plastics, cardholder lists and consumer notices
+relating to such accounts ("NEXTBANK ACCOUNT INFORMATION") is the property of
+the FDIC-R.
+
+            1.4.2 FDIC-R shall have unrestricted access to all NextBank Account
+Information. Upon FDIC-R's request at any reasonable time or times while this
+Agreement is in effect, NextCard shall immediately deliver to FDIC-R, at
+FDIC-R's expense, any or all NextBank Account Information held by NextCard
+pursuant to this Agreement in the form requested by FDIC-R.
+
+            1.4.3 NextCard shall maintain in accordance with the back-up
+procedures maintained by NextCard in connection with its own data processing, as
+such may be revised from time to time, duplicate copies of all records and data,
+except current work in process, necessary to enable the reconstruction of the
+NextBank Account Information maintained by NextCard, and to permit FDIC-R to
+continue its operations in the event of damage to or destruction of NextCard's
+data processing facilities. NextCard shall maintain any other safeguards against
+the destruction, loss or alteration of any such data or the interruption of data
+processing services, which it employs in connection with its own data
+processing, or which shall be required under law or regulation applicable to
+FDIC-R or NextCard.
+
+            1.4.4 Should any NextBank Account Information be lost or destroyed
+due to any negligent act or omission of NextCard or any other breach of the
+security obligations of this
+
+
+<PAGE>
+                                          Restated and Amended Service Agreement
+                                                                         Page 5
+
+
+Agreement, NextCard will be responsible at its own expense for the prompt
+reconstruction of such NextBank Account Information with high priority
+allocation of time and resources to complete the regeneration as quickly as
+possible.
+
+        1.5 Confidentiality Matters
+
+            1.5.1 It is understood that, in the performance by NextCard of the
+services described herein, NextCard may have access to private or confidential
+information of FDIC-R's employees and cardholders, including, without
+limitation, NextBank Account Information, and that FDIC-R may have access to
+confidential information regarding the operation of NextCard's computer systems.
+Each party shall use that degree of care it exercises to protect its own private
+or confidential information to keep, and to have its employees and agents keep,
+any and all private or confidential information of the other party strictly
+confidential and to use such information only for the purpose of the services to
+be performed under this Agreement or as otherwise agreed to in writing by the
+other party. Each party shall disclose such information only to its employees or
+agents required to have access thereto for the performance of this Agreement.
+
+            1.5.2 NextCard's and FDIC-R's obligations and agreements under the
+proceeding Section shall not apply to any information supplied that:
+
+                  (a)     was known to the receiving party prior to the
+                          disclosure by the
+
+                          other;
+
+                  (b)     is or becomes generally available to the public other
+                          than by breach of this Agreement; or
+
+
+<PAGE>
+                                          Restated and Amended Service Agreement
+                                                                          Page 6
+
+
+                  (c)     otherwise becomes lawfully available on a
+                          nonconfidential basis from a third party that is not
+                          under an obligation of confidence to the other party.
+
+        1.6  [   ***   ]
+
+             [   ***   ]
+
+             [   ***   ]
+
+
+
+
+*** Confidential Treatment Requested.
+<PAGE>
+
+                                          Restated and Amended Service Agreement
+                                                                          Page 7
+
+
+           1.7 Cooperation. Each of the parties hereto shall cooperate fully
+with the other in furnishing information, making its employees available or
+otherwise in discharging the obligations set forth in this Agreement.
+
+                                    ARTICLE 2
+
+
+                                   [   ***   ]
+
+            [   ***   ]
+
+            [   ***   ]
+
+
+*** Confidential Treatment Requested.
+<PAGE>
+                                          Restated and Amended Service Agreement
+                                                                         Page 8
+
+
+
+
+[   ***   ]
+
+
+           [   ***   ]
+
+           [   ***   ]
+
+           [   ***   ]
+
+
+
+*** Confidential Treatment Requested.
+<PAGE>
+                                          Restated and Amended Service Agreement
+                                                                          Page 9
+
+
+        [   ***   ]
+
+
+                               [   ***   ]
+                               [   ***   ]
+
+        [   ***   ]
+
+        [   ***   ]
+
+
+
+*** Confidential Treatment Requested.
+<PAGE>
+                                          Restated and Amended Service Agreement
+                                                                         Page 10
+
+
+          [   ***   ]
+
+          [   ***   ]
+
+          [   ***   ]
+
+                                 [   ***   ]
+                                 [   ***   ]
+
+          [   ***   ]
+
+*** Confidential Treatment Requested.
+<PAGE>
+                                          Restated and Amended Service Agreement
+                                                                         Page 11
+
+
+[   ***   ]
+
+
+           [   ***   ]
+
+                                [   ***   ]
+                                [   ***   ]
+
+           [   ***   ]
+
+           [   ***   ]
+
+
+
+*** Confidential Treatment Requested.
+<PAGE>
+                                          Restated and Amended Service Agreement
+                                                                         Page 12
+
+
+[   ***   ]
+
+
+           [   ***   ]
+
+
+                                    ARTICLE 6
+                               FURTHER ASSURANCES
+
+        6.1 NextCard shall further provide FDIC-R with such additional
+information as is reasonably necessary for FDIC-R to determine whether NextCard
+is in compliance with this Agreement and its obligations hereunder and shall
+cooperate fully with the FDIC-R's reasonable requests with respect to the
+assignment of any agreement that FDIC-R may designate for assignment to itself
+or a third party.
+
+        6.2 In the event that either party shall be in material default with
+respect to any of the terms or conditions set forth herein, the non-defaulting
+party shall serve upon the defaulting party a notice of default identifying the
+provisions of this Agreement with which the
+
+
+
+*** Confidential Treatment Requested.
+<PAGE>
+                                          Restated and Amended Service Agreement
+                                                                         Page 13
+
+
+defaulting party has failed to comply. Thereafter, unless otherwise agreed to by
+the non-defaulting party, the defaulting party shall have five (5) business days
+to show that such default has not occurred or has been cured. If the default
+cannot be cured with reasonable diligence during such five (5) business days,
+such five (5) business day period shall be extended for such addition period as
+may be required with diligence and good faith to cure such failure.
+
+        6.3 From time to time, and upon two (2) business days' notice, NextCard
+shall provide the FDIC-R, its attorneys, accountants, employees and agents with
+access to (a) its premises during reasonable business hours for the purpose of
+examining and appraising performance of this Agreement and (b) its detailed
+books and records (including all relevant supporting documentation) for the
+purpose of examination and appraising performance of this Agreement.
+
+        6.4 Counsel to NextCard shall maintain regular communication with the
+FDIC-R's counsel concerning NextCard's attempt to reorganize and with respect to
+the development of plans of reorganization.
+
+        6.5 The parties shall from time to time after the Effective Date execute
+and deliver such further instruments and documents, and take such further
+actions, as either party may reasonably request in order to effectuate or
+evidence, or further effectuate or evidence, the transactions contemplated by
+this Agreement.
+
+                                   [   ***   ]
+                                   [   ***   ]
+
+        [   ***   ]
+
+
+*** Confidential Treatment Requested.
+<PAGE>
+                                          Restated and Amended Service Agreement
+                                                                         Page 14
+
+
+
+[   ***   ]
+
+        [   ***   ]
+
+                  [   ***   ]
+
+                  [   ***   ]
+
+                  [   ***   ]
+
+                  [   ***   ]
+
+                  [   ***   ]
+
+
+*** Confidential Treatment Requested.
+<PAGE>
+                                          Restated and Amended Service Agreement
+                                                                         Page 15
+
+
+
+        [   ***   ]
+
+
+                                    ARTICLE 8
+                                     NOTICES
+
+        8.1 All notices required to be given hereunder shall be in writing and
+made by hand delivery, certified mail, private overnight mail courier service,
+or by facsimile transmission. Notice by hand delivery, certified mail or
+overnight courier shall be deemed delivered when received and notice by
+facsimile transmission shall be deemed delivered when receipt of the
+transmission by the receiving facsimile machine has been confirmed. All notices,
+if to FDIC-R, shall be delivered to:
+
+                      Federal Deposit Insurance Corporation
+                         as receiver for NextBank, N.A.
+                      Frank Campagna, RIC
+                      1910 Pacific Avenue
+                      Dallas, TX  75201
+                      Tel: 972-761-8025
+                      Fax: 972-761-2250
+
+
+*** Confidential Treatment Requested.
+
+<PAGE>
+                                          Restated and Amended Service Agreement
+                                                                         Page 16
+
+
+
+                      Federal Deposit Insurance Corporation
+                      as receiver for NextBank, N.A.
+                      Thomas J. O'Keefe, Jr.
+                      1910 Pacific Avenue
+                      Dallas, TX  75201
+                      Tel: 972-761-8254
+                      Fax: 972-761-2250
+
+
+                      with copies to:
+
+
+                      Thad Fenton, Esq.
+                      Steve Pruss, Esq.
+                      Mary Riche, Esq.
+                      FDIC Legal Division
+                      1910 Pacific Avenue
+                      Dallas, TX  75201
+                      Tel: 800-568-9161
+                      Fax: 972-761-2495
+
+                All notices, if to NextCard, shall be delivered to:
+
+                      NextCard, Inc.
+                      John Hashman
+                      Robert Linderman
+                      595 Market Street - Suite 1800
+                      San Francisco, CA  94105
+                      (415) 836-9700
+                      (415) 836-9701 (fax)
+
+
+                      with copies to:
+
+
+                      Kathryn Coleman, Esq.
+                      Gibson, Dunn & Crutcher, LLP
+                      One Montgomery Street
+                      Telesis Tower - 26th Floor
+                      San Francisco, CA  94104-4505
+
+                      William S. Eckland, Esq.
+                      Sidley Austin Brown & Wood LLP
+                      1501 K Street, N.W.
+                      Washington, DC  20005
+
+
+
+<PAGE>
+                                          Restated and Amended Service Agreement
+                                                                         Page 17
+
+
+                                    ARTICLE 9
+                          RESOLUTION OF DISPUTES, ETC.
+
+
+        9.1 Disputes. Any dispute, controversy or claim arising out of or
+relating to this Agreement or the negotiation hereof or entry hereunto or any
+contract or agreement entered into pursuant hereto or the performance by the
+parties of its terms shall first be the subject of good faith negotiation
+between the parties. If the parties are, within two (2) business days, unable to
+reach a mutually agreeable resolution, further disputes may be settled by any
+court with jurisdiction over the parties.
+
+        9.2 Assignment. Except as expressly provided herein, the rights and
+obligations of a party hereunder may not be assigned, transferred or encumbered
+without the prior written consent of the other party.
+
+        9.3 Parties in Interest. This Agreement shall be binding upon, inure to
+the benefit of, and be enforceable by the respective successors and permitted
+assigns of the parties hereto, including any trustee appointed under the
+Bankruptcy Code. Nothing contained herein shall be deemed to confer upon any
+other person any right or remedy under or by reason of the Agreement. In fact,
+it is expressly agreed that there are no third party beneficiaries under this
+Agreement. Notwithstanding the general nature of the preceding sentence, none of
+the employees of NextCard nor any of the vendors of goods and services to
+NextCard for meeting its obligation to the FDIC-R under this Agreement, shall be
+deemed a beneficiary of this Agreement. None of those described in the previous
+sentence have any claim against the FDIC-R, except as set forth in any escrow
+agreement described herein. By entering into this
+
+
+<PAGE>
+                                          Restated and Amended Service Agreement
+                                                                         Page 18
+
+
+Agreement, the FDIC-R does not assume any of the obligations of NextCard to its
+employees or to its other creditors other than as expressly set forth herein.
+
+        9.4 Law Governing Agreement. This Agreement shall be construed and
+interpreted according to federal law, and in the absence thereof, to the
+internal laws of the California, excluding any choice of law rules that may
+direct the application of the laws of another jurisdiction.
+
+        9.5 Amendment and Modification. The parties may amend, modify and
+supplement this Agreement in such manner as may be agreed upon by them in
+writing, provided however that no amendment, modification or supplement shall be
+effective unless in writing and signed by both parties.
+
+        9.6 Expenses. Except as otherwise provided herein, each of the parties
+shall bear its own expenses and the expenses of its counsel and other agents in
+connection with the transactions contemplated hereby and the negotiation and
+effectuation of this Agreement.
+
+        9.7 Entire Agreement. The parties intend that the Agreement be
+interpreted without regard to any prior oral or written understandings,
+representations, disclosures, investigations or agreements. This Agreement,
+including the exhibits hereto and any other instruments delivered
+contemporaneously herewith, embodies the entire agreement between the parties
+hereto with respect to the transactions contemplated herein, and there have been
+and are no agreements, representations or warranties between the parties other
+than those set forth or provided for herein or in any instrument delivered
+contemporaneously with the delivery hereof. This Agreement is effective as of,
+and from and after, the Effective Date, and shall be given full retroactive
+effect to the Effective Date, notwithstanding the date on which the parties
+execute and deliver this Agreement.
+
+
+<PAGE>
+                                          Restated and Amended Service Agreement
+                                                                         Page 19
+
+
+        9.8 Waiver of Breach, Right or Remedy. The waiver by any party of any
+breach or violation by another party of any provision of this Agreement or of
+any right or remedy of the waiving party in this Agreement (a) shall not waive
+or be construed to waive any subsequent breach or violation of the same
+provision, (b) shall not waive or be construed to waive a breach or violation of
+any other provision, and (c) shall be in writing and may not be presumed or
+inferred from any party's conduct. Except as expressly provided otherwise in
+this Agreement no remedy conferred by this Agreement is intended to be exclusive
+of any other remedy, and each and every remedy shall be in addition to every
+other remedy granted in this Agreement or now or hereafter existing at law or in
+equity, by statute or otherwise. The election of any one or more remedies by a
+party shall not constitute a waiver of the right of such waiving party to pursue
+other available remedies.
+
+        9.9 Counterparts. This Agreement may be executed in one or more
+counterparts, each of which shall be deemed an original, but all of which
+together shall constitute one and the same instrument. This Agreement and any
+amendments hereto, to the extent signed and delivered by means of a facsimile
+machine, shall be treated in all manner and respects as an original agreement
+and shall be considered to have the same binding legal effect as if it were the
+original signed version thereof delivered in person. At the request of a party,
+any other Party hereto so executing and delivering this Agreement or any
+amendment hereto by means of a facsimile machine shall reexecute original forms
+thereof and deliver them to the requesting Party. No Party hereto or to any such
+amendment shall raise the use of a facsimile machine to deliver a signature or
+the fact that any signature or agreement was transmitted or communicated through
+the use of a facsimile machine as a defense to the formation or enforceability
+of a contract and each such Party forever waives any such defense.
+
+
+<PAGE>
+                                          Restated and Amended Service Agreement
+                                                                         Page 20
+
+
+
+        9.10 Headings. The headings in this Agreement are inserted for
+convenience only and shall not constitute a part hereof.
+
+        9.11 Time Is Of Essence. Time of the essence in the performance of this
+Agreement. This section may be waived only in a writing expressly referring
+hereto.
+
+        9.12 Gender and Number. Reference in this Agreement to any gender or
+number shall be deemed to refer to the masculine, feminine, neuter, singular
+and/or plural, as the sense of the context requires. As used herein (or in any
+document delivered pursuant hereto), unless the context otherwise requires, the
+word "or" is not exclusive.
+
+        9.13 Relationship of Parties. The relationship of NextCard to Bank under
+this Agreement is that of independent contractor. Nothing herein shall be
+construed as constituting a partnership, joint venture, or agency between the
+parties.
+
+        9.15 Licenses and Authorizations. Each party agrees that it will obtain
+all licenses and other governmental authorizations and approvals required for
+the performance of its obligations under this Agreement and will perform its
+obligations hereunder in accordance with all applicable federal, state and local
+laws, rules, and regulations now or hereafter in effect.
+
+        9.16 This Agreement shall not be repudiated under 12 U.S.C. Section
+1821(e) by the FDIC-R or any successor thereto.
+
+        9.17 Each party represents and warrants to the other that such party has
+the full corporate power to execute, deliver and perform this Agreement, and to
+fully discharge its obligations hereunder.
+
+        9.18 Nothing contained herein shall be deemed a waiver or release of any
+claims held by the FDIC-R against or relating to any of the Bank's directors,
+officers or any professionals.
+
+
+
+<PAGE>
+                                          Restated and Amended Service Agreement
+                                                                         Page 21
+
+
+
+Dated: March 4, 2002
+
+
+FEDERAL DEPOSIT INSURANCE CORPORATION,
+as Receiver for NextBank, N.A.
+
+
+By:
+   -----------------------------------
+   Name:
+   Title:
+
+
+NEXTCARD, INC.
+
+
+By:
+   -----------------------------------
+   Name:
+   Title:
+
+
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,174 @@
+<DOCUMENT>
+<TYPE>EX-10.12
+<SEQUENCE>3
+<FILENAME>0003.txt
+<DESCRIPTION>WEBTV NETWORKS AGREEMENT DATED SEPTEMBER 20, 2000
+<TEXT>
+
+
+                               FIRST AMENDMENT to
+                   Fastnet - WebTV Network SERVICES AGREEMENT
+
+This First Amendment (the "First Amendment") to the Fastnet - WebTV Network
+Services Agreement dated September 4, 1997, (the "Original Agreement") is made
+effective this lst day of September 2000 ("Effective Date") by and between
+FASTNET Corporation, a Pennsylvania corporation formerly known as You Tools
+Corporation doing business as FASTNET ("Fastnet"), and WebTV Networks, Inc., a
+California Corporation and wholly-owned subsidiary of Microsoft Corporation of
+Redmond, Washington ("WNI").
+
+                                    RECITALS
+
+WHEREAS, the parties wish to further amend the Agreement to reflect changes in
+pricing and certain other revisions they have discussed and agreed upon;
+
+NOW, THEREFORE, in consideration of the mutual obligations in this First
+Amendment and for other good consideration, the receipt and sufficiency of which
+are acknowledged, the parties agree as follows:
+
+1.        NAME CHANGE. On May 17. 1999, You Tools Corporation formally changed
+          its name to "FASTNET Corporation". The Agreement shall be deemed to be
+          made by and between WebTV Networks, Inc. and FASTNET Corporation.
+
+2.        ADDRESS AND NOTICE CHANGE. From the Effective Date any notices to be
+          given to WNI in accordance with the provisions of Section 15.8 should
+          be sent to the following address:
+
+               WebTV Networks, Inc.
+               1065 La Avenida
+               Mountain View, CA 94043
+               Attention: Clay Swartz
+
+               With a copy to:
+
+               Attention: Microsoft Law and Corporate Affairs
+
+3.        AFFILIATES. "WNI" is hereby defined to include WebTV Networks, Inc.,
+          Microsoft Corporation and their respective affiliates.
+
+4.        PROJECT MANAGEMENT. Section 1.8, Project Management, of the Existing
+          Agreement is hereby amended by adding to the end of Section 1.8, the
+          following:
+
+                    Each party shall provide the other party with reasonable
+                    prior written notice of any changes to the project manager
+                    or other changes to the personnel responsible for management
+                    of the relationship with such other party.
+
+
+
+<PAGE>
+
+5.        TERM. Section 5, Term, of the Existing Agreement is hereby amended by
+          deleting Section 5 in its entirety and replacing it with the
+          following:
+
+                    The term of this Agreement shall commence upon execution of
+                    this Agreement by both parties and shall continue for a term
+                    of twelve (12) months thereafter ("Term"). The Term shall
+                    automatically renew for additional one (1) year terms,
+                    provided that neither parry has delivered to the other party
+                    a written notice of its intent not to renew the Agreement
+                    for the forthcoming term within 90 days in advance of the
+                    end of the then current term.
+
+6.        DIALUP NETWORK SERVICES PRICING PER SUBSCRIBER. Schedule B, Section
+          1.1 is hereby amended by deleting the table in Schedule B, Section 1.1
+          in its entirety and replacing it with the following:
+
+                    The Per Subscriber pricing for a specific month shall be
+                    related to the number of subscribers that connected during
+                    that month with a Per Subscriber ID as set forth in the
+                    following table:
+
+
+                         ------------------------------------
+                         SUBSCRIBERS               FIXED RATE
+                         ------------------------------------
+                            X-X                      $ XXX
+                            X-X                      $ XXX
+                            X-X                      $ XXX
+                            X-X                      $ XXX
+                            X-X                      $ XXX
+                            X-X                      $ XXX
+                         ------------------------------------
+
+
+                    The applicable base charges above are to be applied to all
+                    subscribers irrespective of the rate that was applied to
+                    each group of subscribers in any prior period. For example,
+                    if the number of subscribers reaches the level of a
+                    particular pricing tier, then that applicable base charge
+                    shall apply to the entire customer base. A mutually agreed
+                    upon written pricing plan can replace this pricing at any
+                    time.
+
+7.        PER HOUR PRICING PLAN. Schedule B, Section 1.2, Per Hour pricing plan,
+          is hereby amended by deleting the third sentence in Schedule B,
+          Section 1.2 in its entirety and replacing it with the following:
+
+                    WNI would then be invoiced an amount equal to this number of
+                    hours multiplied by a price per hour as set forth in the
+                    table below.
+
+
+
+<PAGE>
+
+                         ------------------------------------
+                         HOURS                          USAGE
+                         ------------------------------------
+                            X-X                      $ XXX
+                            X-X                      $ XXX
+                            X-X                      $ XXX
+                            X-X                      $ XXX
+                            X-X                      $ XXX
+                            X-X                      $ XXX
+                         ------------------------------------
+
+
+8.        OFF PEAK MAINTENANCE UTILIZATION. Schedule B, is hereby amended by
+          adding a new Section 1.3, Off Peak Maintenance Utilization, as
+          follows:
+
+                    During the hours of 12:00am through 6:00am (according to the
+                    time zone of the relevant Subscriber), WNI shall be
+                    permitted to utilize the Dialup Network Service for
+                    maintenance purposes free of additional charge subject to
+                    the cap set forth below. During such free off-peak
+                    maintenance each month, WNI shall use a number of hours
+                    equal to no more than five percent (5%) of the total hourly
+                    usage for such month. Any usage over the above cap by WNI
+                    shall be subject to the Per Hour Pricing Plan set forth
+                    above.
+
+9.        NETWORK COVERAGE. Schedule D, Local Access Numbers and Locations
+          (9/1/00), is hereby amended by deleting Schedule D in its entirety and
+          replacing it with Schedule D-1 attached hereto.
+
+10.       Except as expressly modified herein, all terms and conditions of the
+          Original Agreement are hereby ratified, confirmed and approved and
+          shall remain in full force and effect. In the event of any conflict or
+          inconsistency between this First Amendment and the Original Agreement,
+          this First Amendment shall govern.
+
+IN WITNESS WHEREOF, the parties have caused this First Amendment to be executed
+by their duly authorized representatives.
+
+
+WEBTV NETWORKS, INC.                        FASTNET CORPORATION
+
+
+By: /S/ Clayton Swartz                      By: /S/ Sonny Hunt
+    -------------------------------             -------------------------------
+Name Printed: Clayton Swartz                Name Printed: Sonny Hunt
+Title: Sr. Director, Net Operations         Title: President
+
+
+[X] We are seeking confidential treatment of these items, which have been
+omitted, The confidential portion has been filed separately with the Securities
+and Exchange Commission.
+
+
+</TEXT>
+</DOCUMENT>

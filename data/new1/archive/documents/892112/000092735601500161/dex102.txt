@@ -1,0 +1,159 @@
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>3
+<FILENAME>dex102.txt
+<DESCRIPTION>AMENDMENT TO AGREEMENT DATED MARCH 20, 2001
+<TEXT>
+
+<PAGE>
+
+                                                                  EXHIBIT 10.2
+
+CONFIDENTIAL PORTIONS OF THIS EXHIBIT HAVE BEEN OMITTED PURSUANT TO REGULATION
+240.25B-2B OF THE SECURITIES EXCHANGE ACT OF 1934. [*] INDICATES OMITTED
+MATERIAL THAT IS THE SUBJECT OF A CONFIDENTIAL TREATMENT REQUEST AND IS FILED
+SEPARATELY WITH THE COMMISSION.
+
+
+   AMENDMENT TO CHIRON CORP. - RIBOZYME PHARMACEUTICALS, INC. COLLABORATIVE
+             RESEARCH, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT
+
+This Amendment to Chiron Corp. - Ribozyme Pharmaceuticals, Inc Collaborative
+Research, Development and Commercialization Agreement ("Amendment") is entered
+into effective as of March 20, 2001 (the "Effective Date") by and between Chiron
+Corporation, a Delaware corporation having a place of business at 4560 Horton
+Street, Emeryville, California 94608 ("Chiron"), and Ribozyme Pharmaceuticals,
+Inc., a Delaware corporation having a place of business at 2950 Wilderness
+Place, Boulder, Colorado 80301 ("RPI").
+
+
+                                   RECITALS
+
+     A.   RPI and Chiron are parties to that certain Chiron Corp. - Ribozyme
+          Pharmaceuticals, Inc Collaborative Research, Development and
+          Commercialization Agreement effective as of July 15, 1994, as amended
+          by that certain letter agreement between Chiron and RPI effective
+          October 8, 1998 (together, the "Agreement").
+
+     B.   Pursuant to the Agreement, RPI and Chiron have evaluated certain
+          targeted genetic sequences for potential clinical development and
+          commercialization as human therapeutics or diagnostics within the
+          Field. The parties now seek to modify their rights and obligations
+          under the Agreement with respect to a certain Named Target on the
+          terms and conditions set forth in this Amendment.
+
+NOW THEREFORE, in consideration of the mutual promises contained herein, the
+parties agree as follows:
+
+1.   Definitions.  Unless otherwise defined herein, the terms in this Amendment
+     -----------
+     shall have the same meaning given them in the Agreement.
+
+     1.1  "HIV" shall mean human immunodeficiency virus.
+
+2.   HIV as Named Target.  The parties hereby agree that, as of the Effective
+     -------------------
+     Date of this Amendment, (i) HIV shall cease to be a Named Target and may
+     not hereafter be nominated as a Named Target, a Suggested Target or a
+     Potential Named Target under the Agreement and (ii) RPI shall be entitled
+     to all rights of a Developing Party of a Solely
+
+                                       1
+<PAGE>
+
+     Developed Product with respect to any Product containing or utilizing an
+     HIV Target ("HIV Product"), subject to the following terms and conditions.
+
+     2.1  In partial consideration for the rights granted pursuant to Section 2
+          above, RPI shall pay to Chiron a non-refundable, non-creditable fee in
+          the amount of Two Hundred Seventy-Five Thousand Dollars ($275,000)
+          ("HIV Fee") payable as follows: RPI shall transfer to Chiron within
+          ten (10) days of the Effective Date, pursuant to RPI's standard form
+          of stock transfer agreement, such number shares of RPI common stock at
+          the average of the closing price for RPI's common stock on each of the
+          ten (10) consecutive Business Days prior to the Effective Date
+          (rounding down to the nearest share) equal to the HIV Fee. "Business
+          Day" shall mean any date upon which NASDAQ is open for trading.
+
+     2.2  Chiron and RPI waive their rights under Section 8.5 of the Agreement
+          with respect to any HIV Product.
+
+     2.3  With respect to any HIV Product, Chiron shall be a Non-Developing
+          Party, provided however that any royalty obligations payable to Chiron
+          under Section 8.6 of the Agreement shall be modified as follows:
+
+          In partial consideration for the rights granted pursuant to Section 2
+          above, RPI shall pay to Chiron royalties according to the following
+          schedule on the Net Sales of each HIV Product developed and
+          commercialized by RPI:
+
+          Annual Net Sales                        Royalty
+          ----------------                        -------
+
+          [ * ]                                   [ * ]
+          [ * ]                                   [ * ]
+          [ * ]                                   [ * ]
+          [ * ]                                   [ * ]
+
+3.   Rights to Collaboration Technology.   RPI shall have the right to use and
+     ----------------------------------
+     sublicense Jointly Owned Technology in connection with the development,
+     manufacture and commercialization of any HIV Product but shall have no
+     right to use any Chiron Core Technology, Chiron Developed Technology and
+     Chiron Additional Contributed Technology in connection with the
+     development, manufacture and commercialization of any HIV Product.
+
+4.   Representations and Warranties.
+     ------------------------------
+
+     4.1  Each party represents that it (i) has all right, power and authority
+          necessary to enter into this Amendment and to grant the rights granted
+          herein, (ii) has obtained all approvals and authorizations that it is
+          required to obtain in connection with this Amendment under applicable
+          laws and regulations, and (iii) has not entered, and
+
+                                       2
+<PAGE>
+
+          will not enter, into any arrangements or agreements inconsistent with
+          this Agreement.
+
+     4.2  RPI represents and warrants to Chiron that RPI has not, to the best of
+          its knowledge, infringed, and covenants that RPI will not knowingly
+          and willfully infringe, any intellectual or proprietary property
+          rights owned or controlled by Chiron, including without limitation,
+          any patents or patent applications, and, specifically without
+          limitation, any Chiron Core Technology, Chiron Developed Technology or
+          Chiron Additional Contributed Technology. RPI shall indemnify and hold
+          Chiron, its directors, officers, employees, agents, and Affiliates
+          harmless against all claims, demands, damages, liabilities, losses,
+          costs and expenses, including without limitation attorney's fees,
+          resulting from or arising out of any material breach by RPI of any of
+          RPI's representations, warranties or covenants hereunder.
+
+5.   Entire Agreement.  The terms and conditions herein contained constitute the
+     ----------------
+entire agreement between the parties hereto with respect to the subject matter
+hereof and supersede all previous agreements and understandings, whether oral or
+written, between the parties.
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be signed
+by duly authorized officers or representatives as of the date first above
+written.
+
+
+CHIRON CORPORATION                           RIBOZYME PHARMACEUTICALS, INC.
+
+
+By: /s/ Lewis T. Williams                    By: /s/ Ralph E Christoffersen
+    ---------------------------------------      -------------------------------
+
+Print Name: Lewis T. Williams, M.D., Ph.D.   Print Name: Ralph E. Christoffersen
+            -------------------------------              -----------------------
+
+Title: Chief Scientific Officer, Pres., R&D  Title: Chief Executive Officer
+       ------------------------------------         ----------------------------
+
+                                       3
+</TEXT>
+</DOCUMENT>

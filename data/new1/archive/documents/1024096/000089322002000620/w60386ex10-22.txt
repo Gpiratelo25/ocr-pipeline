@@ -1,0 +1,58 @@
+<DOCUMENT>
+<TYPE>EX-10.22
+<SEQUENCE>17
+<FILENAME>w60386ex10-22.txt
+<DESCRIPTION>SCHEDULE TO FORM OF MANAGEMENT AGREEMENT 3-14-2002
+<TEXT>
+<PAGE>
+Exhibit 10.22
+
+       Schedule to Form of First Amended and Restated Management Agreement
+
+<TABLE>
+<CAPTION>
+Project          Management Firm               Type of Facility           Beds    Units    Property Location             State
+<S>              <C>                           <C>                        <C>     <C>      <C>                          <C>
+Blytheville      Balanced Care at              a residential care/        60      51       Blytheville, Arkansas        Arkansas
+                 Blytheville, Inc.             independent living
+                                               facility
+Chesterfield     Balanced Care at              an adult care residence    120     80       Richmond, Virginia           Virginia
+                 Chesterfield, Inc.
+
+Chippewa         BCC at Chippewa, Inc.         a residential care         85      60       Beaver Falls, Pennsylvania   Pennsylvania
+                                               facility
+Dillsburg        Balanced Care at Dillsburg,   a residential care         80      60       Dillsburg, Pennsylvania      Pennsylvania
+                 Inc.                          facility
+
+Hendersonville   Balanced Care at              an assisted-care living    66      60       Hendersonville, Tennessee    Tennessee
+                 Hendersonville, Inc.          facility
+Kingsport        Balanced Care at Kingsport,   an assisted-care living    66      60       Kingsport, Tennessee         Tennessee
+                 Inc.                          facility
+
+Knoxville        Balanced Care at Knoxville,   an assisted-care living    106     106      Knoxville, Tennessee         Tennessee
+                 Inc.                          facility
+</TABLE>
+
+
+                                       1
+<PAGE>
+<TABLE>
+<S>              <C>                           <C>                        <C>     <C>      <C>                          <C>
+Lima             BCC at Lima, Inc.             a residential care         80      60       Lima, Ohio                   Ohio
+                                               facility
+Pocahontas       Balanced Care at              a residential care/        60      51       Pocahontas, Arkansas         Arkansas
+                 Pocahontas, Inc.              independent living
+                                               facility
+Xenia            Balanced Care at Xenia, Inc.  a residential care         110     106      Xenia, Ohio                  Ohio
+                                               facility
+Lewisburg        Balanced Care at Lewisburg,   A residential care         73      44       Lewisburg, Pennsylvania      Pennsylvania
+                 Inc.                          facility
+Stafford         Balanced Care at Stafford,    An assisted living         54      29       Fredericksburg, Virginia     Virginia
+                 Inc.                          facility
+</TABLE>
+
+
+                                       2
+
+</TEXT>
+</DOCUMENT>

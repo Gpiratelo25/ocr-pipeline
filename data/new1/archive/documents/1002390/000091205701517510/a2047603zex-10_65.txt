@@ -1,0 +1,3325 @@
+<DOCUMENT>
+<TYPE>EX-10.65
+<SEQUENCE>2
+<FILENAME>a2047603zex-10_65.txt
+<DESCRIPTION>EXHIBIT 10.65
+<TEXT>
+
+<PAGE>
+
+                                                                   EXHIBIT 10.65
+
+
+                           AMENDMENT NUMBER ONE TO THE
+                                  OEM AGREEMENT
+                                     BETWEEN
+                            WIND RIVER SYSTEMS, INC.
+                                       AND
+                            INSIGNIA SOLUTIONS, INC.
+
+
+This Amendment 1 to the OEM Agreement dated December 22, 2000 (the "Agreement")
+is entered into as of this 28th day of December 2000, ("Effective Date") by and
+between Insignia Solutions, Inc., a Delaware corporation, with its principal
+offices at 41300 Christy Street, Fremont, CA 94538 ("Insignia") and Wind River
+Systems, Inc., a Delaware corporation having its principal place of business at
+500 Wind River Way, Alameda, CA 94501 ("WRS"). The capitalized terms in this
+Amendment are as defined in the Agreement, unless expressly defined otherwise in
+this Amendment.
+
+
+RECITALS:
+
+WHEREAS both parties wish to modify some of the provisions of the Agreement as
+previously executed;
+
+NOW, THEREFORE, the Parties hereby agree to modify the provisions of the
+Agreement as follows:
+
+SECTION 1, DEFINITIONS. This section contains a definition of the term "Product
+Roadmap".
+
+
+The definition of Product Roadmap currently reads: "means the document which
+details planned enhancements to Jeode Software and/or Jeode Based Products and
+timeframes for the expected release of such enhancements, a specimen of which is
+attached at Appendix B;
+
+THE FOREGOING IS REPLACED ENTIRELY BY THE FOLLOWING DEFINITION:
+
+"Product Roadmap" means the document which details planned enhancements to Jeode
+Software and/or Jeode Based Products and timeframes for the expected release of
+such enhancements.
+
+ADDITIONALLY, Appendix B is entirely deleted.
+
+Other than as stated immediately above, the Parties do not intend to modify any
+other provisions of the Agreement. All other provisions and terms remain
+unchanged.
+
+
+IN WITNESS WHEREOF, the parties have caused this Amendment One to be executed by
+their authorized representatives as of the Effective Date.
+
+<TABLE>
+<CAPTION>
+
+
+ON BEHALF OF INSIGNIA SOLUTIONS, INC.       ON BEHALF OF WIND RIVER SYSTEMS, INC.
+
+<S>                                          <C>
+ /s/ Stephen M. Ambler                       /s/ Richard W. Kraber
+--------------------------------------      --------------------------------------
+(Signature)                                 (Signature)
+
+ Stephen M. Ambler                           Richard W. Kraber
+--------------------------------------      --------------------------------------
+(Name)                                      (Name)
+
+ C.F.O.                                      VP Operations
+--------------------------------------      --------------------------------------
+(Title)                                     (Title)
+
+ 30 December 2000                            12/30/2000
+--------------------------------------      --------------------------------------
+(Date)                                      (Date)
+</TABLE>
+
+<PAGE>
+
+
+                               DATED DECEMBER 2000
+
+
+
+
+                                  OEM AGREEMENT
+
+
+                                     BETWEEN
+
+
+                            WIND RIVER SYSTEMS, INC.
+
+                                       AND
+
+                            INSIGNIA SOLUTIONS, INC.
+
+
+
+
+
+                              [COMPANY LETTERHEAD]
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+                                TABLE OF CONTENTS
+
+
+                                                                              PAGE
+
+<S>  <C>                                                                      <C>
+1     DEFINITIONS...............................................................1
+
+2     LICENSES..................................................................4
+
+3     LICENSOR OBLIGATIONS......................................................6
+
+4     TECHNOLOGICAL DEVELOPMENTS................................................7
+
+5     DOCUMENTATION.............................................................9
+
+6     MARKETING AND SALES SUPPORT...............................................9
+
+7     PAYMENT AND CHARGES......................................................10
+
+8     SUPPORT AND MAINTENANCE..................................................14
+
+9     LICENSOR WARRANTIES......................................................15
+
+10    INTELLECTUAL PROPERTY RIGHTS.............................................15
+
+11    WARRANTIES AND REPRESENTATIONS OF THE PARTIES............................16
+
+12    INDEMNIFICATION..........................................................18
+
+13    LIMITATION OF LIABILITY..................................................19
+
+14    OPTION TO PURCHASE.......................................................19
+
+15    CONFIDENTIALITY..........................................................20
+
+16    TERMINATION..............................................................21
+
+17    CONSEQUENCES OF TERMINATION..............................................21
+
+18    GENERAL..................................................................22
+
+SCHEDULE 1.....................................................................27
+
+SCHEDULE 2.....................................................................30
+
+SCHEDULE 3.....................................................................31
+
+SCHEDULE 4.....................................................................32
+
+SCHEDULE 5.....................................................................33
+
+APPENDIX A.....................................................................35
+
+APPENDIX B ....................................................................43
+
+APPENDIX C.....................................................................48
+
+APPENDIX D.....................................................................55
+
+APPENDIX E.....................................................................56
+
+APPENDIX F.....................................................................57
+</TABLE>
+
+
+                                       i
+<PAGE>
+
+THIS AGREEMENT is made on December 2000
+
+BETWEEN:
+
+(1)    WIND RIVER SYSTEMS, INC. a Delaware corporation, whose address is 500
+       Wind River Way, Alameda, California 94501, United States of America
+       ("Licensee"); and
+
+(2)    INSIGNIA SOLUTIONS, INC., a Delaware corporation whose address is 41300
+       Christy Street, Fremont, California 94538, United States of America
+       ("Licensor").
+
+INTRODUCTION
+
+(A)    Licensor and its Affiliates (as defined below) have conceived, developed
+       and owns Jeode technology. Jeode technology relates to Licensor's
+       accelerated software implementation of Sun's PersonalJava and
+       EmbeddedJava specifications. Included in Jeode technology is the Jeode
+       embedded virtual machine, an accelerated run-time engine that optimizes
+       performance and memory. Jeode technology also includes Insignia's
+       proprietary dynamic adaptive compilation techniques.
+
+(B)    Licensor wishes to grant to Licensee and Licensee wishes to obtain from
+       Licensor, licenses to use, copy, modify, create derivative works of,
+       exploit and sub-license the Jeode technology on the terms and conditions
+       set out in this Agreement.
+
+(C)    The parties have also agreed that they will cooperate with each other in
+       relation to the development, sales and marketing of the Jeode technology
+       and Jeode Based Products (as defined below). They have also agreed that
+       Licensee will take an option to purchase a perpetual license in relation
+       to the Jeode technology on the terms and conditions set out in this
+       Agreement.
+
+THE PARTIES AGREE as follows:
+
+1      DEFINITIONS
+
+1.1    IN THIS AGREEMENT:
+
+       "AFFILIATE" means (i) any person that is Controlled by, Controls or is
+       under common Control with, a Party, (ii) any person in which a Party owns
+       shares representing at least twenty percent (20%) of the outstanding
+       equity of such person or (iii) any affiliate (as defined in subsection
+       (i) hereof) of a person that owns, directly or indirectly, shares
+       representing at least twenty percent (20%) of the outstanding equity of
+       such Person. For purposes of this definition, "CONTROL" and correlative
+       terms shall mean the possession, directly or indirectly, of the power to
+       direct or cause the direction of management or policies (whether through
+       ownership of securities or other ownership interests, by contract or
+       otherwise);
+
+       "API" means application programming interface;
+
+       "BINARIES" means a compiled machine-readable only version of the Jeode
+       Software;
+
+       "COMMENCEMENT DATE" means the date hereof;
+
+       "CONFIDENTIAL INFORMATION" means all non-public or proprietary
+       information disclosed by Licensor or Licensee or any of their respective
+       Affiliates including, but not limited to,
+
+
+                                       1
+<PAGE>
+
+       Jeode Source Code and Specifications and any Product Roadmaps (whether
+       owned by the disclosing Party or a third party to whom the disclosing
+       Party owes a confidentiality obligation) other than information which the
+       receiving Party can demonstrate: (i) was known to the receiving Party at
+       the time of the disclosure by the disclosing Party as evidenced by
+       written or other time-stamped documentation; (ii) becomes publicly known
+       through no wrongful act of the receiving Party, its servants or agents;
+       (iii) has rightfully been received by the receiving Party from a third
+       party with no obligation of confidentiality; or (iv) has been
+       independently developed by the receiving Party as evidenced by written or
+       time-stamped documentation;
+
+       "DELIVERABLES" means the software and hardware components detailed in
+       Schedule 4;
+
+       "DOCUMENTATION" means the operating manuals, user instructions, technical
+       literature and all other materials related to Intellectual Property, in
+       either printed or machine readable form;
+
+       "INTELLECTUAL PROPERTY" means, wherever existing in the world and
+       existing during the term of this Agreement, (i) patents, whether in the
+       form of utility patents or design patents, and all pending applications
+       for registration thereof, (ii) trademarks, (and, in the case of Licensor,
+       the Trademarks) trade names, service marks, domain names, designs, logos,
+       trade dress and trade styles, whether or not registered, and all pending
+       applications for registration thereof, (iii) copyrights, database rights
+       whether or not registered, and all pending applications for registration
+       thereof, (iv) know-how, inventions, research records, trade secrets,
+       Confidential Information, product designs, engineering specifications and
+       drawings, technical information, formulae, lists of actual or potential
+       customers or vendors, licensors or licensees and market analyses, (v)
+       computer software and programs, including, without limitation, computer
+       programs embedded in semiconductor chips or otherwise embodied, and
+       related flow charts, programmer notes, documentation, updates and data,
+       whether in object or source code form, and (vi) all other similar
+       intellectual property rights, whether or not registered;
+
+       "JEODE BASED PRODUCTS" means any Licensee product which incorporates
+       Jeode Software for use with Wind River Operating Systems;
+
+       "JEODE SOFTWARE" means the software detailed in Schedule 1 and all
+       modifications, updates and future generations of such software created by
+       Licensor;
+
+       "JEODE SOURCE CODE" means the Source Code for the Jeode Software;
+
+       "LICENSEE INTELLECTUAL PROPERTY" means Intellectual Property owned or
+       possessed by Licensee;
+
+       "LICENSOR INTELLECTUAL PROPERTY" means Intellectual Property owned or
+       possessed by Licensor;
+
+       "MINIMUM QUARTERLY FEES" means the prepaid accrued sums covering Run Time
+       Royalties, Project Fees and Source Code License Fees as described in
+       Clause 7.1;
+
+       "MINIMUM QUARTERLY OPTION FEES" means the prepaid accrued sums covering
+       Run Time Royalties, Project Fees and Source Code License Fees as
+       described in Clause 14.3.1;
+
+
+                                       2
+<PAGE>
+
+       "OPTION" means the option detailed in Clause 14;
+
+       "OPTION EXECUTION DATE" means the date of Licensor's receipt of notice
+       from Licensee that Licensee intends to exercise the Option;
+
+       "PARTY" or "PARTIES" mean, as the case may be, Licensor and/or Licensee;
+
+       "PRODUCT ENHANCEMENT REQUEST" means a communication in whatever format or
+       medium made by Licensee to Licensor requesting enhancements to the Jeode
+       Software;
+
+       "PRODUCT ROADMAP" means the document which details planned enhancements
+       to Jeode Software and/or Jeode Based Products and timeframes for the
+       expected release of such enhancements, a specimen of which is attached at
+       Appendix B;
+
+       "PROJECT FEE" means the sum detailed in Clause 7.4 (which includes 1000
+       Run Time Royalties) payable by Licensee to Licensor when Licensee
+       recognizes revenue from its customers in relation to a license to use
+       Jeode Based Products;
+
+       "QUARTER" means the three month period commencing on January 1, 2001, and
+       every three month period thereafter, for the term of this Agreement;
+
+       "RUN TIME ROYALTIES" means the sums payable to Licensor by Licensee for
+       each copy of Jeode Software licensed or sublicensed by Licensee or its
+       customers respectively;
+
+       "SOURCE CODE" means software and/or Documentation in a form in which the
+       program logic is easily deduced by a human being, such as a printed
+       listing of the programs, or in an encoded machine-readable form, such as
+       might be recorded on magnetic tape, disk, or diskette, from which a
+       printed listing can be made by processing it with a computer;
+
+       "SOURCE CODE LICENSE FEES" means the fees detailed in Clause 7.5.2;
+
+       "SPECIFICATIONS" means the specifications describing the Jeode Software
+       set out in Schedule 1;
+
+       "SUN" means Sun Microsystems Inc., its affiliates and its successors and
+       assigns;
+
+       "SUN COMMUNITY SOURCE LICENSE" means Sun's license terms which governs
+       use of certain Java Source Codes;
+
+       "TRADEMARKS" means the trademarks set out in Schedule 3, including the
+       registrations or the applications for registration thereof;
+
+       "TRANSACTIONAL LICENSE FEES" shall have the same meaning as set out in
+       Clause 7.1 or Clause 14.3.1 as the case may be;
+
+       "UPDATES" means maintenance releases, improvements and enhancements which
+       are generally provided to licensees who are eligible to receive
+       maintenance support services;
+
+       "UPGRADES" means a significant enhancement or extension of the applicable
+       product that generally expands the capability of, or includes additional
+       capabilities to, such product, and is provided on a fee basis; and
+
+
+                                       3
+<PAGE>
+
+       "WIND RIVER OPERATING SYSTEMS" means any current or future operating
+       system licensed (or to be licensed) by Licensee and either developed by
+       Licensee or branded by Licensee, including (without limitation) those
+       operating systems listed in Schedule 2 and any amendments, updates or
+       modifications thereto.
+
+1.2    In this Agreement (except where the context otherwise requires):
+
+       1.2.1  any reference to a Recital, Clause or Schedule is to the relevant
+              Recital, Clause or Schedule of or to this Agreement and any
+              reference to a sub-clause or paragraph is to the relevant
+              sub-clause or paragraph of the Clause or Schedule in which it
+              appears;
+
+       1.2.2  the clause headings are included for convenience only and shall
+              not affect the interpretation of this Agreement;
+
+       1.2.3  use of the singular includes the plural and vice versa;
+
+       1.2.4  use of any gender includes the other genders;
+
+       1.2.5  any reference to "persons" includes natural persons, firms,
+              partnerships, companies, corporations, associations,
+              organisations, governments, states, foundations and trusts (in
+              each case whether or not having separate legal personality).
+
+2      LICENSES
+
+2.1    GRANT OF LICENSES
+
+       Licensor grants Licensee the following exclusive, transferable worldwide
+       rights and licenses:
+
+       2.1.1  to use, copy, develop, demonstrate and adapt and create derivative
+              works of Binaries solely for the purpose of developing Jeode Based
+              Products;
+
+       2.1.2  subject to ensuring compatibility with the applicable Sun Java
+              specifications, the right to copy, sub-license, create, sell,
+              distribute, export and otherwise commercially exploit Binaries to
+              its customers as incorporated into Wind River Operating Systems as
+              Jeode Based Products;
+
+       2.1.3  subject to the terms of the Sun Community Source License, the
+              right to access, use, copy, develop, modify, create derivative
+              works of, and adapt the Jeode Source Code so as to enable Licensee
+              to use, copy, adapt, modify, create derivative works of,
+              incorporate, sublicense and commercially exploit the Jeode
+              Software with Wind River Operating Systems as Jeode Based
+              Products;
+
+       2.1.4  the right to sub-license the Jeode Source Code in connection with
+              a Jeode Based Product to Licensee's OEM customers provided that
+              such customers execute Sun's Source Code license agreement and an
+              agreement which amongst other things, includes provisions which
+              are at least as protective and substantially similar to those
+              provisions set out in Appendix A in relation to protection of
+              Licensor Intellectual Property in the Source Code;
+
+
+                                       4
+<PAGE>
+
+       2.1.5  the right for the shipment of Jeode Software for use with any Wind
+              River Operating Systems;
+
+       2.1.6  to provide, distribute, export, sublicense and sell Jeode Based
+              Products.
+
+2.2    Licensor further grants Licensee an exclusive, transferable license to
+       sublicense any of the rights and licenses detailed in Clauses 2.1.1,
+       2.1.2, 2.1.5 and 2.1.6 to any of its direct sub-contractors, partners,
+       resellers and agents provided such rights solely relate to use or
+       incorporation of the Jeode Software with Wind River Operating Systems or
+       relate to Jeode Based Products. For the avoidance of doubt the licenses
+       detailed in this Agreement and the Option are only transferable to a
+       Licensee Affiliate pursuant to Clause 18.11.
+
+2.3    TERM
+
+       This Agreement shall commence on the Commencement Date and unless
+       previously terminated in accordance with Clause 16 shall remain in effect
+       until three (3) years from the Commencement Date (the "INITIAL TERM") and
+       thereafter for successive periods of one year (a "RENEWAL PERIOD"),
+       unless either Party gives written notice to the other Party not later
+       than ninety (90) days before the end of either the Initial Term or the
+       then current Renewal Period to terminate this Agreement at the end of
+       either the Initial Term or that Renewal Period, as the case may be.
+
+2.4    LICENSOR'S TRADEMARKS
+
+       2.4.1  Licensor hereby grants to Licensee (and to no third party) a
+              limited, non-exclusive, transferable royalty-free and fully paid
+              up license to use the Trademarks in the promotion, advertisement,
+              sale and licensing of Jeode Based Products. Licensor's grant of a
+              limited license to exploit the Trademarks under this Agreement
+              will extend during the term of this Agreement until the occurrence
+              of the Option Execution Date, if any. In the event the Option
+              Execution Date occurs, then the Trademark license granted herein
+              will terminate either on the expiry of twelve (12) months from the
+              Option Execution Date or upon Licensee's next major revision of
+              Jeode Based Products, whichever is the earlier. For the avoidance
+              of doubt the license detailed in this Clause is only transferable
+              to a Licensee Affiliate pursuant to Clause 18.11.
+
+       2.4.2  Licensee acknowledges that this Agreement does not operate to vest
+              any title in the Trademarks in Licensee and that all goodwill
+              resulting from Licensee's use of the Trademarks shall accrue to
+              Licensor.
+
+       2.4.3  Licensee shall not, at any time while Licensor retains any right
+              to the Trademarks, adopt, use or register without the prior
+              written consent of Licensor any word or symbol or combination of
+              words and symbols which is confusingly similar to any Trademarks
+              in relation to any goods similar to the Jeode Software.
+
+       2.4.4  Licensee shall not, without the prior written consent of Licensor,
+              alter, deface or remove any reference to the Trademarks, copyright
+              notices, any reference to Licensor or any other name attached or
+              affixed to the Documentation, Source Code or Binaries or their
+              packaging or labelling.
+
+
+                                       5
+<PAGE>
+
+       2.4.5  Licensee shall attribute any reference to the Trademarks to the
+              Licensor in any advertising, brochures, documentation and
+              literature that use such trademarks.
+
+       2.4.6  Licensee agrees that it will not knowingly use any Trademark of
+              Licensor in any manner which may adversely reflect upon Licensor's
+              name, identity, products or goodwill. Licensee agrees that it will
+              forbear from using any Trademark in comparative advertising
+              featuring Licensor's products.
+
+       2.4.7  Licensee agrees to keep Licensor advised of the manner of use of
+              Licensor's Trademarks, to provide Licensor with samples of the
+              uses of Licensor's Trademarks, and to work with Licensor on any
+              quality concerns that may arise.
+
+       2.4.8  Licensor will have the right to terminate the license to the
+              Trademarks granted in this Agreement upon demonstration by
+              Licensor that a use of Licensor's Trademarks by Licensee does not
+              meet Licensor's quality standards as previously notified in
+              writing to Licensee. Licensor may terminate such Trademark License
+              rights upon ninety days written notice to Licensee; provided,
+              however, that such termination notice shall have no effect if
+              Licensee cures the quality defects within the ninety day cure
+              period.
+
+3      LICENSOR OBLIGATIONS
+
+3.1    Within fifteen (15) days following the Commencement Date, Licensor shall
+       provide the Licensee with the Deliverables.
+
+3.2    During the Jeode Source Code training (a proposal for which is detailed
+       in Schedule 5) Licensor shall provide Licensee with specific instruction
+       on the use of all external APIs and various lower level APIs as Licensee
+       requires. Licensor shall also explain its estimation of the probability
+       of potential for change in each available API and recommend the APIs that
+       are likely to be best used by Licensee.
+
+3.3    Prior to Licensee beginning any development of the Jeode Software that is
+       dependent on APIs, upon Licensee's request Licensor shall provide
+       Licensee with a comprehensive update on the status and outlook for any
+       potential changes required to the Jeode Software.
+
+3.4    For APIs that may evolve based on effects of new releases of Java
+       technology from Sun, Licensor shall proactively inform Licensee of these
+       pending changes promptly after it is informed of the same and will keep
+       any API changes to a minimum and provide Licensee with advanced
+       specifications and implementations of the API changes.
+
+3.5    At any time Licensee may notify Licensor of any API which Licensee
+       considers is important. In which event Licensor shall use commercially
+       reasonable endeavours to collaborate with Licensee in relation to any
+       proposed changes to such API.
+
+3.6    Licensee may at its sole discretion determine that a new API should be
+       created to insulate it from underlying changes in the Jeode Software. In
+       such event and consistent with Clause 7.11, Licensor will endeavor to
+       co-operate with Licensee to accommodate all Licensee's reasonable
+       requests. The specification for each proposed new API or modified API
+       shall be agreed to by Licensor (such agreement not to be unreasonably
+       withheld or delayed). Licensor shall treat such API as Confidential
+       Information for the purposes of this Agreement as requested by Licensee.
+
+
+                                       6
+<PAGE>
+
+3.7    Licensor shall use commercially reasonable endeavours to comply with Sun
+       Java specifications for the embedded markets, as evidenced by compliance
+       with Sun Java technology compatibility kits. Licensor shall promptly
+       notify Licensee if a commercial release fails to comply with Sun Java
+       technology compatibility kits or if it no longer is a Sun Java licensee.
+
+4      TECHNOLOGICAL DEVELOPMENTS
+
+4.1    The Parties wish to cooperate in developing the definition, direction and
+       timing of various enhancements to the Jeode Software. To this end the
+       Parties have agreed the following:
+
+       4.1.1  Licensor and Licensee shall each provide to the other by the end
+              of each Quarter during the term of this Agreement a Product
+              Roadmap. The Product Roadmap is a representation of Licensor's
+              current plans and is not a commitment to develop or deliver future
+              products.
+
+       4.1.2  Licensee may at any time submit a Product Enhancement Request to
+              Licensor. Licensor shall within 5 business days of receipt of the
+              Product Enhancement Request:
+
+       4.1.3  consider the contents of the Product Enhancement Request and at
+              its sole and absolute discretion advise Licensee that it will
+              either decline to participate in the Product Enhancement Request
+              or that it will prepare a statement of work setting forth
+              Licensor's estimate of the man-hours for completing the Product
+              Enhancement Request, a specification for the enhancement, and
+              details of any acceptance testing to be undertaken.
+
+              (a)    If Licensor decides a Product Enhancement should be made
+                     part of a standard release of Jeode Software Licensor will
+                     undertake the development work and (if the enhancement
+                     passes the acceptance tests detailed in the statement of
+                     works) include the enhancement in a future release of the
+                     Jeode Software, all at no cost to Licensee. If Licensor
+                     decides that the enhancement should be made as a standard
+                     release but that it is unable to create the enhancement
+                     within the timescales requested, Licensor will promptly
+                     inform Licensee and Licensee may at its sole and absolute
+                     discretion undertake (or pursuant to the licenses granted
+                     in Clauses 2.1 including 2.1.3 for the purpose of procuring
+                     that the work is undertaken so as) to create the
+                     enhancement.
+
+       4.1.4  In the event that Licensee wants certain enhancements to the Jeode
+              Software and requires an exclusive right to use, copy, adapt,
+              create derivative works of, distribute, sell, sublicense and
+              commercially exploit the enhancement then Licensee may at its sole
+              and absolute discretion decide either:
+
+              (a)    to ask Licensor to undertake the work in which event
+                     Licensor shall (pursuant to Clause 7.11) provide the
+                     enhancement to Licensee and grant Licensee an exclusive,
+                     transferable (pursuant to Clause 18.11), worldwide license
+                     to copy, adapt, sublicense and generally exploit the Jeode
+                     Software with the enhancement; or
+
+              (b)    may perform the work itself or procure the work from a
+                     third party. For the avoidance of doubt all Intellectual
+                     Property in the enhancement
+
+
+                                       7
+<PAGE>
+
+                     (other than the Licensor's underlying Intellectual Property
+                     in the Jeode Software not relating to the enhancement)
+                     produced pursuant to this Clause 4.1.4(b) shall vest in the
+                     Licensee and not in Licensor. Thereafter the Licensee may
+                     in its sole and absolute discretion provide the enhancement
+                     to Licensor with the license set forth in Clause 4.1.6 to
+                     store the Licensee Code (as defined in Clause 4.1.6) and
+                     Documentation of the enhancement on Licensor's development
+                     or maintenance systems on Licensee's behalf. Such exclusive
+                     enhancements may not be copied, modified, translated,
+                     reverse engineered, decompiled, disassembled, sub-licensed,
+                     demonstrated, lent, hired or otherwise provided to any
+                     third party by Licensor. If Licensor stores the enhancement
+                     for Licensee then Licensor shall ensure that the
+                     enhancement is kept secure from unauthorised access with
+                     the same degree of care Licensor uses to protect its own
+                     software, and the Parties agree that the enhancement will
+                     be treated as Confidential Information.
+
+       4.1.5  Any enhancement made by Licensor for the purposes of fixing bugs
+              or errors shall be without charge to Licensee if the bug or error
+              is not caused by Licensee or its contractors.
+
+       4.1.6  Treatment of Licensee Code. Subject to Licensor's underlying
+              Intellectual Property Rights in the Jeode Software other than the
+              enhancement, Licensee will own all right, title and interest in,
+              to and under all works made by or on behalf of Licensee to Jeode
+              Software, including without limitation, porting-related
+              modifications and/or other code owned or possessed by Licensee for
+              the development or maintenance of the Jeode Software ("Licensee
+              Code"). Licensee, in its sole discretion, may make Licensee Code
+              and related Documentation available to Licensor; provided,
+              however, that unless otherwise expressly provided in writing by
+              Licensee, such Licensee Code and Documentation shall be treated by
+              Licensor as Confidential Information and Licensor's use of such
+              Licensee Code and Documentation shall be limited solely to the
+              purposes of providing services to Licensee under the terms of this
+              Agreement, and for no other purpose. Licensor shall not (and shall
+              not permit any third party to) copy, modify, translate, reverse
+              engineer, decompile, disassemble, sub-license, demonstrate, lend
+              or hire the Licensee Code or grant any security interest in
+              relation thereto or otherwise provide Licensee Code or
+              Documentation to any third party. Notwithstanding any other
+              provision hereof or any other agreement between the Parties,
+              Licensor's access to Licensee Code and Documentation pursuant to
+              this Agreement, shall not be construed as preventing employees of
+              Licensor who lawfully have had access to such Licensee Code and
+              Documentation from drawing upon or using any skills, knowledge,
+              talent or experience of a general nature acquired by them in the
+              course of working with such Licensee Code and Documentation,
+              provided that (i) such employees may not directly or indirectly
+              use, copy, modify, adapt, create derivative works of, refer to or
+              rely on the Licensee Code or Documentation and (ii) such employees
+              do not infringe Licensee Intellectual Property rights or
+              confidentiality obligations not otherwise within the scope of any
+              express written licenses granted to Licensor.
+
+
+                                       8
+<PAGE>
+
+5      DOCUMENTATION
+
+       Licensor shall provide to Licensee electronic copies of the Documentation
+       containing all information relating to the Jeode Software which will
+       enable Licensee to exercise its license rights hereunder. Licensee may
+       copy (in any media or format) adapt, modify or merge the Documentation
+       provided that it complies with Clause 2.4 in relation to Licensor's
+       Trademarks and copyright notices.
+
+6      MARKETING AND SALES SUPPORT
+
+6.1    LEADS
+
+       Licensor shall immediately pass to Licensee all sales leads and enquiries
+       relating to Wind River Operating Systems and provide to Licensee details
+       concerning the leads and enquiries by way of completing the proforma lead
+       sheet a specimen of which is attached at Appendix E. If Licensor is of
+       the reasonable opinion (after making all relevant enquiries) that the
+       enquirer is interested in more than one operating system then Licensor
+       shall also pass the lead and all details relating thereto to such other
+       vendors as Licensor deems appropriate.
+
+6.2    GENERAL SALES SUPPORT
+
+       Licensor will provide Licensee with all support, cooperation and
+       resources so as to enable Licensee to sublicense sell and exploit the
+       Jeode Software pursuant to the terms of this Agreement.
+
+6.3    PRE-INTEGRATION SALES POLICY
+
+       Licensor acknowledges and accepts that once the terms of this Agreement
+       are announced in an agreed upon public statement pursuant to Clause 18.3,
+       some of Licensor's customers will want to migrate to Licensee and become
+       customers of Licensee. Accordingly, Licensor shall within thirty (30)
+       days of Commencement Date implement a non-discriminatory sales
+       compensation system among its representatives so as to reasonably ensure
+       that such customers are not penalised (financially or otherwise) in doing
+       so including (without limitation):
+
+              (a)    disclosing to the customer the nature of the relationship
+                     between the Parties (subject to obtaining Licensee's prior
+                     written consent and ensuring the customer executes a
+                     non-disclosure agreement); and
+
+              (b)    cooperating with Licensee so as to keep redundant fees
+                     (such as maintenance fees) payable by the customer to a
+                     minimum.
+
+6.4    Licensor shall provide to Licensee electronic versions of all appropriate
+       product marketing materials relating to the Jeode Software, including
+       without limitation, any data sheets, Licensor presentations, web content,
+       and Licensor training materials generated by or in the possession of
+       Licensor. Licensee shall have the unfettered right to copy, adapt, modify
+       re-brand and re-purpose such material for its own product marketing
+       efforts.
+
+6.5    Licensee shall be solely responsible for compliance with and the
+       obtaining of any export licenses which may be required for distribution
+       by Licensee. Licensor shall promptly provide answers to Licensee
+       technical questions relating to the Jeode Software where
+
+
+                                       9
+<PAGE>
+
+       such questions are not answered by the Documentation to enable Licensee
+       to obtain such export licenses.
+
+6.6    Licensor will designate at least two technical experts who will serve as
+       points-of-contact to address questions and issues that arise from
+       pre-sales opportunities. Licensor will make every reasonable effort to
+       assist Licensee in meeting Licensee requests for Jeode Software
+       information during pre-sales engagements and accordingly will agree to
+       provide additional resources and/or technical experts which are
+       reasonably necessary to meet this demand. Such investment of Licensor
+       resource for a given case will be reasonably balanced against the value
+       of the relevant opportunity and the total pre-sales support load that
+       Licensee is requesting from Licensor.
+
+7      PAYMENT AND CHARGES
+
+7.1    MINIMUM QUARTERLY FEES SCHEDULE
+
+       7.1.1  The Parties have agreed that over the term of this Agreement
+              Licensee shall pay the Minimum Quarterly Fees. The Parties shall
+              treat such Minimum Quarterly Fees as prepayment of the
+              transactional royalties and fees detailed in Clauses 7.3, 7.4 and
+              7.5.2. The payment of Minimum Quarterly Fees will build up a
+              credit against the transactional royalties and fees detailed in
+              Clauses 7.3, 7.4 and 7.5.2 which arise as a result of sales or
+              licenses of Jeode Based Products and/or Jeode Source Code
+              ("TRANSACTIONAL LICENSE FEES"). The Transactional License Fees
+              shall be offset against the cumulative Minimum Quarterly Fees
+              credit so that (in addition to continuing to pay the Minimum
+              Quarterly Fees) Licensee shall only pay an amount exceeding the
+              Minimum Quarterly Fees (as Transactional License Fees) if and when
+              the total aggregate Transactional License Fees exceeds the unused
+              portion of the cumulative Minimum Quarterly Fees credit.
+
+              An illustration of the process described in this Clause 7.1 (and
+              Clause 14.3.1) is set out in Appendix F.
+
+       7.1.2  As consideration for the licenses granted in Clause 2.1 and the
+              benefits and services pursuant to Clauses 7.3, 7.4 and 7.5.2 (but
+              not 7.7 to 7.11), Licensee shall pay the following Minimum
+              Quarterly Fees:
+
+              $400,000 on execution of this Agreement;
+
+              $400,000 no later than March 15, 2001;
+
+              $100,000 on each of June 15, 2001, September 15, 2001; and
+              December 15, 2001;
+
+              $250,000 on each of on or before the 15th day of the last month of
+              each Quarter in 2002;
+
+              $400,000 on each of on or before the 15th day of the last month of
+              each Quarter in 2003.
+
+              If the Agreement continues into 2003 then no later than six months
+              prior to the end of 2003 the Parties shall negotiate new fees
+              payable for the year 2004 onwards.
+
+
+                                       10
+<PAGE>
+
+7.2    SPECIAL OPTION
+
+       If, at any time during the course of Licensee FY02 business year
+       (February 1, 2001 - January 31, 2002), Licensee determines in its sole
+       and absolute discretion that the Minimum Quarterly Fees exceeds
+       Licensee's actual distribution rate for Jeode Based Products, it may
+       notify Licensor, no earlier than March 1, 2002, that it wishes to
+       discontinue paying the Minimum Quarterly Fees 90 days from the date of
+       receipt of notice to the Licensor of such an election. All payments due
+       Licensor hereunder within that 90-day period nevertheless shall be paid
+       by Licensee.
+
+       Upon Licensee's election under this Clause, the exclusive nature of
+       Licensee's rights granted under this Agreement shall continue until the
+       earlier of either (i) the period of time for the Minimum Quarterly Fees
+       paid by Licensee, is actually exceeded by actual Transactional License
+       Fees or (ii) the end of the twelve (12) month period immediately
+       following the end of the 90-period provided in this Clause 7.2.
+       Thereafter, Licensee's rights granted hereunder, to the extent such
+       rights are not already non-exclusive, shall be deemed non-exclusive. If
+       Licensee exercises this option, it will continue to report its usage
+       pursuant to Clause 7.16.1, and once the Minimum Quarterly Fees have been
+       fully utilized (as described in Clause 7.1) it shall begin remitting
+       Transactional License Fees to Licensor with its reports on and as used
+       basis detailed in Clause 7.3.
+
+7.3    RUN TIME ROYALTIES
+
+       To the extent that the aggregate value of Transactional License Fees
+       exceeds the cumulative total of Minimum Quarterly Fees, Licensee shall
+       pay Licensor Run Time Royalties according to the following schedule in
+       payment for the licenses granted herein:
+
+<TABLE>
+<CAPTION>
+
+         -------------------------------------------------------------------------------------
+                                          RUN TIME ROYALTY RATES
+         -------------------------------------------------------------------------------------
+         <S>                                                      <C>
+          SUN TECHNOLOGY WITHIN JEODE                             INSIGNIA ROYALTY RATE
+          BASED PRODUCTS
+         ---------------------------------------------- --------------------------------------
+          EmbeddedJava                                                    $ 0.40
+
+         ---------------------------------------------- --------------------------------------
+          PersonalJava                                                    $ 0.40
+
+         ---------------------------------------------- --------------------------------------
+          CDC/PersonalJava Profile*                                       $ 0.40
+         ---------------------------------------------- --------------------------------------
+         * when available
+</TABLE>
+
+       If Licensor's independent auditors provide an opinion which in Licensor's
+       sole discretion is acceptable to Licensor to the effect that Licensor
+       need not recognize as Licensor revenue, Run Time Royalty payments due to
+       Sun, then Licensor shall promptly notify Licensee of same and Licensee
+       shall have the option to advise Licensor at least forty-five (45) days
+       prior to the beginning of any Quarter, that Licensee will make payments
+       due Sun by paying Licensor, which payments will pass through Licensor and
+       be promptly made to Sun. Pursuant to Licensor's current pricing, the Sun
+       portion would be $ 0.11 for EmbeddedJava and $ 0.55 for PersonalJava. For
+       the avoidance of doubt these amounts are not included within the Minimum
+       Quarterly Fee.
+
+
+                                       11
+<PAGE>
+
+7.4    PROJECT FEES
+
+       Licensee will pay Licensor a Project Fee of $2,400, which includes one
+       thousand Run Time Royalties.
+
+7.5    SOURCE CODE LICENSE FEE
+
+       7.5.1  In payment for the limited license granted to Licensee for use of
+              Licensor's Jeode Source Code, Licensor will pay Licensee a license
+              fee in the amount of $1,000,000 on the Commencement Date.
+
+       7.5.2  For each copy of Jeode Source Code distributed by Licensee
+              pursuant to Licensee's rights to sublicense Source Code under
+              Clause 2.1.4, Licensee will pay Licensor a fee in the amount of
+              $100,000. For the avoidance of doubt this figure will be included
+              within the Minimum Quarterly Fee.
+
+       7.5.3  Licensee agrees not to disclose the sums payable to Licensor in
+              respect of each sub-license of Jeode Source Code to the general
+              public, but may confidentially disclose it in the context of
+              specific customer discussions. For the avoidance of doubt nothing
+              in this Agreement shall prevent Licensee from advertising or
+              disclosing its own license and other fees.
+
+7.6    SPECIAL PRICING FOR EXTRAORDINARY SITUATIONS
+
+       Licensor agrees that in some extraordinary circumstances, at very high
+       volumes (e.g. 2 million units or higher), or in certain special markets,
+       special pricing consideration may be required. Licensor and Licensee
+       agree to negotiate special pricing and to jointly seek cooperation of any
+       third parties (e.g., Sun) needed in these cases, so long as any discounts
+       are applied equally to all of the other components in Licensee's
+       offering.
+
+7.7    MOST PREFERRED DISTRIBUTOR
+
+       If, during the term of this Agreement, Licensor should enter into a third
+       party distributor agreement related to Jeode Software and including the
+       same or similar subject matter, documentation, services and cooperation
+       provided and licensed to Licensee pursuant to the terms of this Agreement
+       on the same or substantially similar terms to the terms of this Agreement
+       and at lower prices than those agreed hereunder, then such lower prices
+       shall, at the Licensee's option, supersede and be substituted for those
+       prices and charges set out or referred to in this Agreement provided any
+       other economic terms are also met. Such substituted price and charge
+       rates to be made effective as of the date of the relevant third party
+       agreement. However, upon the occurrence of the Option Execution Date, if
+       any should occur during the term of this Agreement, then the preferred
+       prices shall revert to the prices and charges set forth in this Agreement
+       without regard to any third party agreements. Such reversion shall be
+       deemed effective as of the Option Execution Date.
+
+7.8    TECHNOLOGY TRANSFER TRAINING
+
+       In consideration of the training described in this Agreement, Licensee
+       will agree to pay sixty thousand dollars ($60,000) for 30 days of
+       technology transfer training at date(s) to be agreed in writing.
+
+
+                                       12
+<PAGE>
+
+7.9    ANNUAL MAINTENANCE AND UPDATE SERVICE
+
+       In consideration of the maintenance and update services as described in
+       Appendix C to be provided in this Agreement during the first year from
+       the Commencement Date, Licensee shall pay Licensor one hundred thousand
+       dollars ($100,000).
+
+       For the second and subsequent years of service, Licensee may continue
+       with (in which case Licensor shall provide) the same level of service as
+       the first year for one hundred thousand US dollars ($100,000) per year,
+       or negotiate a higher level of service.
+
+7.10   INTEGRATION SERVICES
+
+       In consideration of the integration services detailed in paragraph 4(g)
+       of Appendix C to this Agreement, Licensee shall pay Licensor one hundred
+       thousand dollars ($100,000).
+
+7.11   NON-RECURRING ENGINEERING ("NRE") FEES
+
+       If NRE work is required, Licensor shall charge the following rates:
+       $1,250 per staff day; $20,000 per staff month; or $175,000 per staff year
+       for a dedicated Licensor engineer. These rates will increase by 10% per
+       year from 1 February 2002. Additional fees may also be required for items
+       such as equipment, materials, travel and lodging as necessary to
+       facilitate the NRE work. Such fees will only be payable if Licensee has
+       previously agreed to the type and level of additional fees.
+
+7.12   PAYMENT TERMS
+
+       7.12.1 The first Minimum Quarterly Fees will be due upon the Commencement
+              Date. Subsequent Minimum Quarterly Fees will be due on the Quarter
+              days specified in Clause 7.1. If the total aggregate value of
+              Transactional License Fees should exceed the unused portion of the
+              cumulative Minimum Quarterly Fees credit, then Licensee will
+              report the difference and (in addition to payment of the Minimum
+              Quarterly Fees) pay the excess Transactional License Fees owed to
+              Licensor (as illustrated in Appendix F). Payment terms for Sun
+              pass through payments pursuant to 7.3 if applicable, shall be
+              negotiated at such time.
+
+       7.12.2 The annual maintenance and update service fee is payable in
+              advance and may be paid in equal Quarterly instalments. Payment
+              for each subsequent Quarter of service will be due prior to the
+              expiration of the current Quarterly service period.
+
+       7.12.3 Unless otherwise already stated above, Licensee will pay Licensor
+              all fees, including Minimum Quarterly Fees and where appropriate
+              fees due under Clause 14.3 within 30 days after receipt of invoice
+              from Licensor, and without prejudice to Licensee's rights and
+              remedies, all fees are non-refundable.
+
+7.13   Unless specified otherwise in this Agreement, all amounts payable under
+       this Agreement shall be paid in US Dollars.
+
+7.14   Any and all payments which may be payable by Licensee to Licensor under
+       the terms of this Agreement shall be made by wire transfer on an account
+       designated in writing by Licensor.
+
+
+                                       13
+<PAGE>
+
+7.15   Any taxes or duties (other than income or profits taxes assessed or
+       imposed upon the sums due to Licensor), upon or with respect to this
+       Agreement shall be borne and discharged solely by Licensee provided such
+       taxes or duties would be lawfully imposed on Licensee other than pursuant
+       to this Clause.
+
+7.16   RECORD KEEPING
+
+       7.16.1 Licensee shall submit reports to Licensor detailing payments
+              received and customer details in relation to the licensing and
+              sale of Jeode Based Products.
+
+       7.16.2 Both Licensor and Licensee shall maintain complete and accurate
+              accounting records, in accordance with sound accounting practices,
+              to support and document all license fees and all other sums
+              distributed or received in connection with this Agreement. As
+              regards Licensee the records need only relate to licences or sales
+              of Jeode Based Product. Such records shall be retained for a
+              period of at least 3 years, and shall be made available to either
+              party, upon reasonable notice.
+
+       7.16.3 Each party ("AUDITING PARTY") shall have the right to inspect the
+              books and records of the other party maintained pursuant to Clause
+              7.16.2 ("AUDITED PARTY") (upon reasonable, prior written notice to
+              the Audited Party, during the Audited Party's normal business
+              hours and no more than once a year) using an independent certified
+              public accountant retained by the Auditing Party and reasonably
+              acceptable to the Audited Party, for the sole purpose of verifying
+              any reports, information and/or payments provided or due hereunder
+              and verifying compliance with the material terms and conditions of
+              this Agreement, provided that the scope of such audit shall be
+              limited to the review and examination necessary to accomplish such
+              purpose. In the event past audit results indicate discrepancies of
+              greater than five percent (5%) between fees paid pursuant to the
+              terms of this Agreement and the fees due, then Licensor will be
+              entitled to inspect the books and records of Licensee Quarterly.
+              Such independent certified public accountant shall be bound to
+              hold all information in confidence except as necessary to
+              communicate to the Auditing Party the Audited Party's
+              underpayments, inaccurate reports or information and/or
+              non-compliance with any material terms or conditions of this
+              Agreement. The fees and expenses of such inspection shall be paid
+              by the Auditing Party unless the results of the audit indicate a
+              difference of at least five percent (5%) between fees paid
+              pursuant to the terms of this Agreement and fees due, in which
+              case the Party at fault will pay said reasonable fees and
+              expenses.
+
+       7.16.4 For the avoidance of doubt all reports submitted by Licensee shall
+              be regarded as Confidential Information.
+
+7.17   EVALUATION LICENSES
+
+       In the event that Licensee supplies Jeode Based Products for evaluation
+       purposes no fee, royalty or charge shall be payable to Licensor.
+
+8      SUPPORT AND MAINTENANCE
+
+       Licensor shall provide support and maintenance of the Jeode Software
+       pursuant to the terms of Licensor's standard support and maintenance
+       agreement set out at Appendix C.
+
+
+                                       14
+<PAGE>
+
+9      LICENSOR WARRANTIES
+
+9.1    PRODUCT WARRANTIES
+
+       9.1.1  Licensor warrants that the Jeode Software and Jeode Source Code
+              will, on delivery and for a period of 90 days thereafter perform
+              substantially in accordance with and provide the facilities,
+              functions and capacity set out in the Specifications.
+
+       9.1.2  Licensor warrants that no computer viruses, worms, software bombs
+              or similar items have been, and shall ensure that no such items
+              will be, introduced by it into the Jeode Software or Jeode Source
+              Code.
+
+9.2    ADDITIONAL WARRANTIES
+
+       9.2.1  Licensor warrants that:
+
+              (a)    as at the date hereof, except as previously disclosed to
+                     Licensee as detailed in Appendix D there are no liens,
+                     mortgages, encumbrances, charges over or relating to or
+                     affecting the Jeode Software, Jeode Source Code or Licensor
+                     Intellectual Property;
+
+              (b)    as of the date hereof Licensor has validly applied for,
+                     registered, enforced and maintained all the Licensor
+                     Intellectual Property;
+
+              (c)    as of the date hereof, there are no disputes, and to
+                     Licensor's knowledge, having made all reasonable enquiries
+                     of its employees, there are no threatened claims or
+                     proceedings relating to the Jeode Software, Jeode Source
+                     Code or Licensor Intellectual Property; and
+
+              (d)    it owns or has rights to all Licensor Intellectual Property
+                     and that no employees or other person has any right,
+                     interest or title therein.
+
+10     INTELLECTUAL PROPERTY RIGHTS
+
+10.1   OWNERSHIP OF LICENSOR INTELLECTUAL PROPERTY
+
+       Subject to the Licensee's ownership of all Intellectual Property Rights
+       in enhancements to the Jeode Software as described in Clauses 4.1.4 and
+       4.1.6 nothing in this Agreement shall confer in Licensee any right of
+       ownership in Licensor Intellectual Property. At no time during or after
+       the term of this Agreement shall Licensee use the rights conferred by
+       Licensor under this Agreement as a basis to (i) challenge or assist
+       another to challenge Licensor's rights in and to Licensor Intellectual
+       Property or (ii) use Licensor Intellectual Property in connection with
+       any of its products or services other than in accordance with this
+       Agreement.
+
+10.2   OWNERSHIP OF LICENSEE INTELLECTUAL PROPERTY
+
+       Nothing in this Agreement shall confer on Licensor any right of ownership
+       in Licensee Intellectual Property. At no time during or after the term of
+       this Agreement shall Licensor use the rights conferred by Licensee under
+       this Agreement as a basis to (i) challenge or assist another to challenge
+       Licensee's rights in and to Licensee Intellectual Property
+
+
+                                       15
+<PAGE>
+
+       or (ii) use Licensee Intellectual Property in connection with any of its
+       products or services other than in accordance with this Agreement.
+
+10.3   PROTECTION OF INTELLECTUAL PROPERTY
+
+       10.3.1 In the event that the either Party becomes aware of any
+              infringement, misappropriation, threatened misappropriation or any
+              other violation by a third party with respect to the other Party's
+              Intellectual Property, it shall promptly notify the other Party.
+              If the use of any part of Licensor Intellectual Property is, or in
+              the reasonable opinion of Licensee and Licensor is likely to
+              become an infringement of the rights of another person, Licensor
+              shall, at its option but upon notice to Licensee:
+
+              (a)    replace the relevant Licensor Intellectual Property with a
+                     comparable non-infringing product provided the product
+                     complies with the relevant Specification; or
+
+              (b)    procure for Licensee the right to continue using and
+                     exploiting the relevant Licensor Intellectual Property
+                     pursuant to the licenses and rights granted in this
+                     Agreement.
+
+10.4   If Licensor wishes to take a license in relation to any Licensee
+       Intellectual Property then the Parties shall at that stage enter into
+       negotiations relating to the applicable license terms.
+
+11     WARRANTIES AND REPRESENTATIONS OF THE PARTIES
+
+11.1   WARRANTIES OF LICENSOR
+
+       Licensor represents and warrants to Licensee that:
+
+       11.1.1 ORGANIZATION
+
+              Licensor is a corporation duly organised and validly existing
+              under the laws of Delaware, and has the corporate power and
+              authority to enter into and perform this Agreement.
+
+       11.1.2 PERMITS; APPROVALS
+
+              Licensor holds all licenses, permits, certifications and other
+              authorisations, the absence of which would have a material adverse
+              effect on its financial condition or business, and there has been
+              no default or violation under any such authorisation and there is
+              no proceeding or investigation that is pending or, to Licensor's
+              knowledge, threatened under which any such authorisation may be
+              revoked, terminated or suspended.
+
+       11.1.3 AUTHORIZATION
+
+              All corporate action on the part of Licensor necessary for the
+              authorization, execution and delivery of this Agreement and for
+              the performance of all of its obligations hereunder and thereunder
+              has been taken, and this Agreement when fully executed and
+              delivered, shall constitute a valid, legally binding and
+              enforceable obligation of Licensor.
+
+
+                                       16
+<PAGE>
+
+       11.1.4 GOVERNMENTAL AND OTHER CONSENTS
+
+              No consent, authorisation, license, permit, registration or
+              approval of, or exemption or other action by, any governmental or
+              public body or authority, or any other person, is required on the
+              part of Licensor in connection with Licensor's execution, delivery
+              and performance of this Agreement, or if any such consent is
+              required, Licensor has satisfied the applicable requirements.
+
+       11.1.5 EFFECT OF AGREEMENT
+
+              Licensor's execution, delivery and performance of this Agreement
+              in accordance with its terms will not (i) violate any judgment,
+              order, writ, injunction or decree of any court applicable to
+              Licensor, (ii) have any effect on the compliance of Licensor with
+              any applicable licenses, permits or authorisations which would
+              materially and adversely affect Licensor, (iii) result in the
+              breach of, give rise to a right of termination, cancellation or
+              acceleration of any obligation with respect to (presently or with
+              the passage of time), or otherwise be in conflict with any term
+              of, or affect the validity or enforceability of, any agreement or
+              other commitment to which Licensor is a party and which would
+              materially and adversely affect Licensor or (iv) result in the
+              creation of any lien, pledge, mortgage, claim, charge or
+              encumbrance upon any assets of Licensor.
+
+       11.1.6 LITIGATION
+
+              As at the date of this Agreement, there are no actions, suits or
+              proceedings pending or, to Licensor's knowledge, threatened,
+              against Licensor before any court or governmental agency which
+              question Licensor's right to enter into or perform this Agreement,
+              or which question the validity of this Agreement.
+
+       11.1.7 SERVICES
+
+              All services to be provided to Licensee pursuant to the terms of
+              this Agreement will be provided with all reasonable skill and care
+              and in accordance with best industry practices.
+
+11.2   WARRANTIES OF LICENSEE
+
+       Licensee represents and warrants to Licensor that:
+
+       11.2.1 ORGANIZATION
+
+              Licensee is a corporation duly organised and validly existing
+              under the laws of Delaware, and has the corporate power and
+              authority to enter into and perform this Agreement.
+
+       11.2.2 AUTHORIZATION
+
+              All corporate action on the part of Licensee necessary for the
+              authorization, execution and delivery of this Agreement and for
+              the performance of all of its obligations hereunder has been
+              taken, and this Agreement when fully executed and delivered, shall
+              constitute a valid, legally binding and enforceable obligation of
+              Licensee.
+
+
+                                       17
+<PAGE>
+
+       11.2.3 GOVERNMENTAL AND OTHER CONSENTS
+
+              No consent, authorisation, license, permit, registration or
+              approval of, or exemption or other action by, any governmental or
+              public body or authority, or any other person, is required on the
+              part of Licensee in connection with Licensee's execution, delivery
+              and performance of this Agreement, or if any such consent is
+              required, Licensee has satisfied the applicable requirements.
+
+       11.2.4 LITIGATION
+
+              As at the date of this Agreement there are no actions, suits or
+              proceedings pending or, to Licensee's knowledge, threatened,
+              against Licensee before any court or governmental agency which
+              question Licensee's right to enter into or perform this Agreement
+              or which question the validity of this Agreement.
+
+11.3   NO IMPLIED WARRANTIES
+
+       EACH PARTY ACKNOWLEDGES AND AGREES THAT THERE ARE NO WARRANTIES,
+       GUARANTEES, CONDITIONS, COVENANTS OR REPRESENTATIONS BY THE OTHER PARTY
+       OTHER THAN AS EXPRESSLY PROVIDED HEREIN AND THAT THE EXPRESS WARRANTIES
+       SET OUT IN THIS AGREEMENT ARE IN LIEU OF ANY WARRANTIES AS TO FITNESS FOR
+       A PARTICULAR PURPOSE OR OTHER ATTRIBUTES, WHETHER EXPRESS OR IMPLIED (IN
+       LAW OR IN FACT), ORAL OR WRITTEN.
+
+12     INDEMNIFICATION
+
+12.1   Licensor shall indemnify and hold harmless Licensee and its Affiliates,
+       and all of their respective employees, officers, contractors, directors,
+       shareholders, legal representatives, agents, successors and assigns (the
+       "Licensee Indemnified Parties"), from any liabilities, costs, judgements
+       or expenses (including attorneys' fees and court costs) losses, claims
+       and damages incurred or suffered by them resulting from the breach by
+       Licensor of any of its representations and warranties in this Agreement.
+       Licensee shall indemnify and hold harmless Licensor and its Affiliates,
+       and all of their respective employees, officers, contractors, directors,
+       shareholders, legal representatives, agents, successors and assigns (the
+       "Licensor Indemnified Parties"), from any liabilities or expenses
+       (including attorney's fees and expenses) incurred by them resulting from
+       any breach by Licensee of any of its representations and warranties in
+       this Agreement.
+
+12.2   Licensor shall indemnify and hold harmless Licensee Indemnified Parties
+       from and against any and all liabilities, losses, damages, claims,
+       judgments, costs and expenses (including reasonable attorneys' fees and
+       court costs) which Licensee Indemnified Parties may incur, suffer or be
+       required to pay based on a claim that: (i) Licensor does not have
+       sufficient right, title and interest in Licensor Intellectual Property to
+       grant the rights and licenses granted to Licensee hereunder; or (ii)
+       Licensor's Intellectual Property infringes any Intellectual Property or
+       misappropriates any proprietary right of any third party; provided,
+       however, that Licensor shall have no such duty to indemnify to the extent
+       such claim is based on (a) any unauthorised modification to Licensor
+       Intellectual Property made by Licensee in breach of this Agreement; (b)
+       Licensee's use of Licensor Intellectual Property except as permitted
+       under this Agreement; (c) any breach of Licensee's obligations under this
+       Agreement.
+
+
+                                       18
+<PAGE>
+
+13     LIMITATION OF LIABILITY
+
+       NOTWITHSTANDING ANYTHING ELSE IN THIS AGREEMENT OR OTHERWISE NEITHER
+       PARTY WILL BE LIABLE WITH RESPECT TO ANY SUBJECT MATTER OF THIS AGREEMENT
+       UNDER ANY CONTRACT, NEGLIGENCE, STRICT LIABILITY OR OTHER LEGAL OR
+       EQUITABLE THEORY FOR ANY AMOUNTS IN EXCESS IN THE AGGREGATE OF THE FEES,
+       ROYALTIES AND OTHER SUMS (INCLUDING (WITHOUT LIMITATION) PASS THROUGH
+       PAYMENTS TO SUN OR OTHER THIRD PARTIES AND CHARGES PAID PURSUANT TO
+       CLAUSE 14.3) PAID TO THE OTHER PARTY PURSUANT TO THE TERMS OF THIS
+       AGREEMENT.
+
+       IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY
+       SPECIAL, INCIDENTAL, INDIRECT, PUNITIVE OR CONSEQUENTIAL DAMAGES
+       INCLUDING (WITHOUT LIMITATION) LOSS OF PROFIT, OR REVENUE WHATSOEVER EVEN
+       IF THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES,
+       INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF GOODWILL.
+
+14     OPTION TO PURCHASE
+
+14.1   OPTION TO PURCHASE
+
+       In consideration of entering into this Agreement, Licensor hereby grants
+       Licensee a non-exclusive transferable (pursuant to Clause 18.11) option
+       to purchase a non-exclusive, transferable (pursuant to Clause 18.11)
+       irrevocable, fully paid up, perpetual license to undertake the activities
+       detailed in Clauses 2.1.1, 2.1.2, 2.1.3, 2.1.4, 2.1.5 and 2.1.6.
+
+
+14.2   EXERCISE OF OPTION
+
+       14.2.1 Licensee may exercise the Option on notice to Licensor:
+
+              (a)    at any time after eighteen months from the Commencement
+                     Date upon giving Licensor sixty (60) days notice;
+
+              (b)    at any time (whether during the period referred to in
+                     Clause 14.2.1(a) or otherwise) if Licensor becomes subject
+                     to any of the circumstances detailed in Clause 16.1.2.
+
+       14.2.2 In addition, to Licensee's rights under Clause 14.2.4, if
+              Licensee, at its sole and absolute discretion, wishes to exercise
+              the Option for any reason (including but not limited) reasons
+              relating to price, performance, features or quality, then Licensee
+              shall give notice stating cause for such notice. The notice shall
+              be for a period of sixty (60) days and shall to the extent
+              possible recommend a cure. The acceptance of any cure action shall
+              be at the sole and absolute discretion of Licensee.
+
+       14.2.3 In addition to Licensee's rights under Clause 14.2.4, at
+              Licensee's sole and absolute discretion the notice given may have
+              immediate effect or state a period of sixty (60) days. If the
+              Notice is for sixty days (or otherwise) Licensor may make
+              representations to Licensee regarding the exercise of Option.
+
+       14.2.4 At such time as the Option is exercised Licensor will provide
+              Licensee with a written notice setting out Licensor's position and
+              circumstances in relation to the matters covered in the warranties
+              given in Clause 9.2.
+
+
+                                       19
+<PAGE>
+
+       14.2.5 If Licensee exercises the Option pursuant to Clause 14.2.1(a) and
+              the reason is Licensee believes Licensor is in default under this
+              Agreement Licensor will have sixty (60) days to remedy the default
+              before Licensee can exercise the Option.
+
+14.3   PURCHASE PRICE
+
+       14.3.1 If Licensee exercises the Option pursuant to Clause 14.2.1(a)
+              then if at the Option Execution Date the cumulative total of
+              Minimum Quarterly Fees credit (if any) shall be deducted from
+              the Minimum Quarterly Option Fees, and other fees and charges
+              set out below in this Clause 14.3.1. If there is no Minimum
+              Quarterly Fee credit Licensee will pay the Minimum Quarterly
+              Option Fees detailed below as prepayments of the percentage of
+              the Transactional License Fees set out below and the same
+              credit and offsetting that applied to the Minimum Quarterly
+              Fees (as described in Clause 7.1 and illustrated in Appendix F)
+              shall apply to the Minimum Quarterly Option Fees as against the
+              percentage of Transactional License Fees set out below.
+
+<TABLE>
+<CAPTION>
+-------------------------------------------- -----------------------------------
+                 Time Period                     Percentage of Transactional
+                                                         License Fees
+============================================ ===================================
+<S>                                          <C>
+First 24 months following Option Execution                   100%
+Date
+-------------------------------------------- -----------------------------------
+Subsequent 6 months                                          75%
+-------------------------------------------- -----------------------------------
+Next subsequent 6 months                                     50%
+-------------------------------------------- -----------------------------------
+Next subsequent 6 months                                     25%
+-------------------------------------------- -----------------------------------
+
+<CAPTION>
+
+-------------------------------------------- -----------------------------------
+                 Time Period                    Minimum Quarterly Option Fees
+============================================ ===================================
+<S>                                          <C>
+First 8 Quarters                                          $1,272,727
+-------------------------------------------- -----------------------------------
+Subsequent 2 Quarters                                      $954,345
+-------------------------------------------- -----------------------------------
+Next subsequent 2 Quarters                                 $636,364
+-------------------------------------------- -----------------------------------
+Next subsequent 2 Quarters                                 $318,182
+-------------------------------------------- -----------------------------------
+                  TOTAL                                  $14,000,000
+-------------------------------------------- -----------------------------------
+</TABLE>
+
+       14.3.2 If Licensee exercises the Option pursuant to Clause 14.2.1(b)
+              then the purchase price to be paid to Licensor for the exercise
+              of the Option shall be five million U.S. dollars ($5,000,000)
+              paid over four Quarters from the Option Execution Date.
+
+         14.4 CONSEQUENCES OF EXERCISED OPTION
+
+       14.1.1 Upon payment of the sums detailed in Clause 14.3, the licenses
+              granted pursuant to Clauses 2.1.1, 2.1.2, 2.1.3, 2.1.4, 2.1.5
+              and 2.1.6 shall be perpetual, irrevocable and fully paid up.
+              Licensee shall not be under any further obligation to make
+              payment in relation thereto from the date the Option Execution
+              Date other than as detailed in Clause 14.3.
+
+       14.1.2 In the event that Licensee makes modifications to the Jeode
+              Source Code during (one) year from the Execution Date Option,
+              subject to Licensor's continued compliance with the terms of
+              this Agreement, Licensee shall grant Licensor a non-exclusive,
+              non-transferable, perpetual license to use the modifications.
+
+       14.4.3 Upon the occurrence of the Option Exercise Date, Licensor's
+              obligations with respect to maintenance and support shall
+              immediately terminate.
+
+15     CONFIDENTIALITY
+
+15.1   The Parties recognise that, in connection with the performance of this
+       Agreement, each Party (in such capacity, the "Disclosing Party") may
+       disclose, or may cause to be disclosed, Confidential Information to the
+       other Party (the "Receiving Party"). The Receiving Party agrees (i) not
+       to use any such Confidential Information for any purpose other than in
+       the performance of its obligations or exercise of its rights under this
+       Agreement and (ii) not to disclose any such Confidential Information,
+       except to its Affiliates, employees, consultants, sub-contractors or
+       representatives who are reasonably required to have the Confidential
+       Information in connection with discharging obligations or exercising
+       rights under this Agreement (provided that the Receiving Party shall
+       ensure that if requested by the Disclosing Party the persons mentioned in
+       Clause 15.1(ii) execute a confidentiality undertaking at least equivalent
+       to the terms of this Clause 15) or as may be required by applicable law.
+       Any Party required by law to disclose Confidential Information shall use
+       best efforts to provide notice to the other Party prior to the disclosure
+       of the Confidential Information and, in any event, shall provide written
+       notice to the other Party within twenty-four (24) hours of providing
+       Confidential Information pursuant to applicable law. The Receiving Party
+       agrees to take all reasonable measures to protect the secrecy and
+       confidentiality of, and avoid disclosure or unauthorized use of,
+       Confidential Information. This Clause will remain in full force and
+       effect notwithstanding the termination of this Agreement (howsoever
+       caused) for a period of ten (10) years following the date of termination
+       of this Agreement.
+
+15.2   Each Party agrees that its obligations under this Clause 15 are necessary
+       and reasonable to protect the other Party and its business, that any
+       violation of these provisions could cause irreparable injury to the other
+       Party for which money damages may be inadequate, and that, in addition to
+       any other remedies that may be available in law, the other Party shall be
+       entitled to obtain injunctive relief against the threatened breach of the
+       provisions of this Clause 15 without the necessity of proving actual
+       damages. The Parties agree that the remedies set forth in this Clause 15
+       are in addition to and in no way preclude any other remedies or actions
+       that may be available under this Agreement.
+
+
+                                       20
+<PAGE>
+
+16     TERMINATION
+
+16.1   Either Party may terminate this Agreement with immediate effect on notice
+       if:
+
+       16.1.1 the other party breaches a material provision of this Agreement
+              (and if having received sixty days notice, the breaching party
+              fails to remedy that breach); or
+
+       16.1.2 the other party ceases to do business, seeks protection under any
+              bankruptcy, trust deed, creditors arrangement composition or
+              arrangement with creditors, becomes or is deemed insolvent and
+              thereby unable to perform its obligations under this Agreement,
+              has a receiver, manager, administrator, administrative receiver or
+              similar officer appointed in respect of the whole or any part of
+              its assets or business, makes any composition or arrangement with
+              its creditors, takes or suffers any similar action in consequence
+              of debt or an order or resolution is made for its dissolution or
+              liquidation (other than for the purpose of solvent amalgamation or
+              reconstruction), or any equivalent or similar action or proceeding
+              is taken or suffered in any jurisdiction.
+
+16.2   Termination of this Agreement, for whatever cause, shall be without
+       prejudice to the rights or liabilities of either Party accrued prior to
+       the date of termination and shall not affect either Party's ownership of
+       its Intellectual Property Rights.
+
+16.3   Clauses 2 (pursuant to Clause 17), 4.1.4, 4.1.6, 9, 10, 11, 12, 13, 14,
+       15, 17, 18.1, 18.5, 18.6, 18.8 and 18.11 shall survive termination of
+       this Agreement.
+
+17     CONSEQUENCES OF TERMINATION
+
+17.1   Subject to Clause 17.3 if Licensee terminates this Agreement or this
+       Agreement expires then:
+
+       17.1.1 Licensee shall be entitled to have the benefit of the Licenses
+              granted in this Agreement in respect of Jeode Based Products
+              existing at the effective date of termination and shall have the
+              benefit of such licenses for a transitional period of upto one
+              year after the effective date of termination;
+
+       17.1.2 Licensee shall continue to pay the Transactional License Fees (but
+              not the Minimum Quarterly Fees) to Licensor provided the
+              applicable conditions concerning revenue recognition detailed in
+              Clause 7 apply
+
+       so that in all respects Licensee may, amongst other things, continue to
+       derive revenue from and fully support its customers.
+
+17.2   If Licensor terminates this Agreement pursuant to Clause 16.1 then Clause
+       17.1 shall apply save that the one year transitional period referred to
+       in Clause 17.1.1 shall be reduced to six (6) months from effective date
+       of termination.
+
+17.3   For the avoidance of doubt Clauses 17.1 and 17.2 shall not apply if the
+       Option Exercise Date occurs before the effective date of termination in
+       which event the perpetual, irrevocable fully paid up license detailed in
+       Clause 14.4.1 shall survive termination or expiry of this Agreement.
+
+17.4   Notwithstanding termination of this Agreement (howsoever caused) Licensee
+       shall continue to use Licensor Trademarks pursuant to Clause 2.4 until
+       either the expiry of
+
+
+                                       21
+<PAGE>
+
+       twelve (12) months from the effective date of termination or upon
+       Licensee's next major revision of Jeode Based Products, whichever is the
+       earlier.
+
+18     GENERAL
+
+18.1   GOVERNING LAW; DISPUTE RESOLUTION
+
+       This Agreement shall be governed in all respects by the laws of the
+       United States of America and the State of California. All disputes
+       arising under or related to this Agreement or the rights granted
+       hereunder shall be brought in Superior Court of the State of California
+       in Santa Clara County or the United States District Court for the
+       Northern District of California in San Francisco. The Superior Court of
+       the State of California in Santa Clara County and the United States
+       District Court for the Northern District of California in San Francisco
+       shall each have non-exclusive jurisdiction over disputes under this
+       Agreement. The parties agree that the United Nations Convention on
+       Contracts for the International Sale of Goods is specifically excluded
+       from application to this Agreement.
+
+18.2   EXPORT RESTRICTIONS
+
+       All software and technical information delivered under this Agreement are
+       subject to U.S. export control laws and may be subject to export or
+       import regulations in other countries. Licensee agrees to strictly comply
+       with all such laws and regulations.
+
+18.3   PUBLICITY
+
+       18.3.1 Licensee and Licensor agree to issue a joint press release
+              announcing the existence of this Agreement (the "PRESS RELEASE").
+
+       18.3.2 During the term of this Agreement, neither Party may make or send
+              a public announcement, communication or circular referring to or
+              using the other Party's trademarks, or referring to the content of
+              this Agreement (other than the existence of this Agreement subject
+              to 18.3.3 below) unless it has first obtained the other Party's
+              written consent, which will not be unreasonably withheld.
+
+       18.3.3 The Licensee shall announce its relationship with the Licensor no
+              later than 90 days prior to shipment of Jeode Software as
+              incorporated within Wind River Operating Systems and announce
+              details concerning any Jeode Based Product no later than 30 days
+              prior to product launch. The Licensor shall not disclose any of
+              the aforementioned information before these dates and will use
+              reasonable endeavours to avoid unauthorised disclosure.
+
+18.4   NOTICES AND OTHER COMMUNICATIONS
+
+       Any and all notices, requests, demands and other communications required
+       or otherwise contemplated to be made under this Agreement shall be in
+       writing and in English and shall be provided by one or more of the
+       following means and shall be deemed to have been duly given (i) if
+       delivered personally, when received, (ii) if transmitted by facsimile, on
+       the first (1st) business day following receipt of a transmittal
+       confirmation or (iii) if by international courier service, on the fourth
+       (4th) business day following the date of deposit with such courier
+       service, or such earlier delivery date as may be confirmed to the
+
+
+                                       22
+<PAGE>
+
+       sender by such courier service. All such notices, requests, demands and
+       other communications shall be addressed as follows:
+
+         If to Licensor:
+
+                  Insignia Solutions, Inc.
+                  41300 Christy Street
+                  Fremont, CA 94538
+                  USA
+
+                  Attention:   Director of Legal Affairs
+                  Fax:         510-360-3702
+
+         If to Licensee :
+
+                  Wind River Systems, Inc.
+                  500 Wind River Way
+                  Alameda CA 94501
+                  USA
+
+                  Attention:   Vice-President Intellectual Property and
+                               Legal Affairs]
+                  Fax:         [510-749 2255
+
+       or, in each case, to such other address or facsimile number as a Party
+       may have furnished to the other Party in writing.
+
+18.5   SEVERABILITY
+
+       If any provision in this Agreement shall be found or be held to be
+       invalid or unenforceable, then the meaning of said provision shall be
+       construed, to the extent feasible, so as to render the provision
+       enforceable, and if no feasible interpretation would save such provision,
+       it shall be severed from the remainder of this Agreement which shall
+       remain in full force and effect unless the severed provision is essential
+       and material to the rights or benefits received by any Party. In such
+       event, the Parties shall use best efforts to negotiate, in good faith, a
+       substitute, valid and enforceable provision or agreement which most
+       nearly effects the Parties' intent in entering into this Agreement.
+
+18.6   RELATIONSHIPS OF THE PARTIES
+
+       Both parties are independent contractors under this Agreement. Nothing
+       contained in this Agreement is intended nor is to be construed so as to
+       constitute the Parties as partners, agents or joint ventures with respect
+       to this Agreement. Neither party hereto shall have any express or implied
+       right or authority to assume or create any obligations on behalf of or in
+       the name of the other party or to bind the other party to any contract,
+       agreement or undertaking with any third party.
+
+18.7   REFERENCES; SUBJECT HEADINGS
+
+       The subject headings of the Clauses in this Agreement are included for
+       the purpose of convenience of reference only, and shall not affect the
+       construction or interpretation of any of its provisions.
+
+18.8   FURTHER ASSURANCES
+
+
+                                       23
+<PAGE>
+
+       The Parties shall each perform such acts, execute and deliver such
+       instruments and documents, and do all such other things as may be
+       reasonably necessary to accomplish the transactions contemplated in this
+       Agreement.
+
+18.9   NO WAIVER
+
+       No waiver of any term or condition of this Agreement shall be valid or
+       binding on a Party unless the same shall have been mutually assented to
+       in writing by all Parties. The failure of a Party to enforce at any time
+       any of the provisions of this Agreement, or the failure to require at any
+       time performance by the other Party of any of the provisions of this
+       Agreement, shall in no way be construed to be a present or future waiver
+       of such provisions, nor in any way affect the ability of a Party to
+       enforce each and every such provision thereafter.
+
+18.10  ENTIRE AGREEMENT; AMENDMENTS
+
+       The terms and conditions contained in this Agreement (including the
+       Schedules and Appendixes) constitute the entire agreement between the
+       Parties and supersede all previous agreements and understandings, whether
+       oral or written, between the Parties with respect to the subject matter
+       of this Agreement. No agreement or understanding amending this Agreement
+       shall be binding upon any Party unless set forth in a written document
+       which expressly refers to this Agreement and which is signed and
+       delivered by duly authorised representatives of each Party.
+
+18.11  BINDING EFFECT; ASSIGNMENT
+
+       Licensor shall not assign, transfer or novate its rights or obligations
+       under this Agreement without obtaining Licensee's prior written consent,
+       such consent not to be unreasonably withheld. Licensor may assign, novate
+       or transfer its rights or obligations under this Agreement to an
+       Affiliate without requiring Licensor's consent provided it notifies
+       Licensor.
+
+18.12  NO BENEFICIARIES
+
+       Nothing herein, express or implied, is intended to or shall be construed
+       to confer upon or give to any person, firm, corporation or legal entity,
+       other than the Parties, any interests, rights, remedies or other benefits
+       with respect to or in connection with any agreement or provision
+       contained herein or contemplated hereby.
+
+18.13  FORCE MAJEURE
+
+       Neither Party shall be held responsible for failure of or delay
+       hereunder, if such failure of delay is due to act of God or public enemy,
+       war, government acts or regulations, fire, flood, embargo, quarantine,
+       epidemic, differences with workman (other than the staff of the Party
+       claiming under this Clause accident, unusually severe, weather or other
+       cause similar or dissimilar to the foregoing, beyond their reasonable
+       control (each such event a "Force Majeure").
+
+       If the performance of this Agreement by either Party or any obligation
+       hereunder is prevented, restricted or interfered with by reason of a
+       Force Majeure event, the Party whose performance is so affected, upon
+       giving prompt notice to the other Party, shall be excused from such
+       performance to the extent of such Force Majeure event; provided
+
+
+                                      24
+<PAGE>
+
+
+       however, that the party so affected shall take all reasonable steps to
+       avoid or remove such causes of non performance and shall continue
+       performance hereunder with dispatch whenever such causes are removed.
+
+18.14  COUNTERPARTS
+
+       This Agreement may be executed in any number of counterparts, and each
+       counterpart shall constitute an original instrument, but all such
+       separate counterparts shall constitute only one and the same instrument.
+
+IN WITNESS WHEREOF, the Parties have caused their respective duly authorised
+representatives to execute this Agreement as of the date hereof.
+
+
+                                       25
+<PAGE>
+
+
+WIND RIVER SYSTEMS, INC.
+
+         By: ________________________
+             Name:
+
+
+             Title:
+
+
+
+INSIGNIA SOLUTIONS INC.
+
+         By: _________________________
+             Name:
+
+
+             Title:
+
+
+
+
+                                       26
+<PAGE>
+
+                                   SCHEDULE 1
+                                 JEODE SOFTWARE
+
+
+JEODE PRODUCT SUMMARY
+
+The Jeode product is Insignia's implementation of Sun's Java(TM) technology,
+compatible with specifications published by Sun, and specifically developed to
+run Java applications on embedded systems and Internet Appliances.
+
+Jeode allows developers to create reliable, efficient, and predictable Java
+applications for these types of device.
+
+COMPONENTS OF JEODE
+
+The Jeode product consists of two components: JeodeRUNTIME(TM)and
+JeodeSUITE(TM).
+
+JEODERUNTIME
+
+JeodeRUNTIME is the Jeode product runtime environment on your target platform.
+It consists of the Jeode EVM(TM) (Embedded Virtual Machine(TM)), and the
+JeodeCLASS(TM) embedded class libraries:
+
+
+     1.   JEODE EVM
+          The Jeode EVM allows you to run Java applications on embedded
+          systems. The EVM is highly configurable and tunable for the
+          specific embedded application, with a dynamic compiler for combined
+          fast execution and a small memory footprint.
+
+     2.   JEODECLASS
+          JeodeCLASS embedded class libraries are compatible with Sun's Java
+          specifications (for Personal or Embedded Java, depending on the
+          platform).
+
+JEODESUITE
+
+JeodeSUITE is the set of tools provided to help you develop and run Java
+applications using your host platform. It consists of JeodeBUILD(TM) and
+JeodeDEBUG(TM):
+
+     1.   JEODEBUILD
+          JeodeBUILD is the set of build-time tools for editing, compiling, and
+          browsing the Java application. These tools are available either with
+          the Jeode product or from third-party suppliers (such as the Sun JDK).
+
+     2.   JEODEDEBUG
+          JeodeDEBUG is the set of runtime utilities for examining the behavior
+          of the Java application and JeodeRUNTIME. JeodeDEBUG tools currently
+          include JeodeMONITOR. Source-level debuggers are provided by
+          third-party vendors - for example, Sun's jdb tool. Jeode also supports
+          standard tool interfaces, as specified by Sun, such as for debugging
+          (JVMDI/JDWP) and for profiling (JVMPI).
+
+
+
+                                       27
+<PAGE>
+
+CD COMPONENTS
+
+The Jeode product is available as a Binary or a Source CD.
+
+BINARY CD
+
+The binary CD is installable on a Windows NT PC, and provides JeodeSuite tools
+for the NT PC, and the JeodeRuntime product for the selected target device.
+JeodeRuntime should then be downloaded onto the required target device from the
+PC.
+
+So, for example, with the Jeode 1.7 release, binary CD components include:
+
+<TABLE>
+<CAPTION>
+
+   ------------------   ---------------------------------------------------------------------
+   DIRECTORY NAME         CONTAINS
+
+   ------------------   ---------------------------------------------------------------------
+  <S>                    <C>
+   BIN                    Tools executable wrappers.
+
+   ------------------   ---------------------------------------------------------------------
+   DEMO                   Demonstration java applications and launch files.
+
+   ------------------   ---------------------------------------------------------------------
+   DOCS                   Binary HTML documentation.
+
+   ------------------   ---------------------------------------------------------------------
+   INCLUDE                Header files (for Sun interfaces such as JVMPI).
+
+   ------------------   ---------------------------------------------------------------------
+   LIB                    JeodeSuite tools.
+
+   ------------------   ---------------------------------------------------------------------
+   SAMPLE                 sample source for JNI invocation.
+
+   ------------------   ---------------------------------------------------------------------
+   [TARGET OS NAME]       JeodeRuntime for the target device.
+
+   ------------------   ---------------------------------------------------------------------
+</TABLE>
+
+SOURCE CD
+
+The source CD contains the source code comprising the Jeode product, and the
+tools required to build the binary Jeode product.
+
+So, for example, with the Jeode 1.7 release, source CD components include:
+
+<TABLE>
+<CAPTION>
+
+   ------------------   ---------------------------------------------------------------------
+   DIRECTORY NAME         CONTAINS
+
+   ------------------   ---------------------------------------------------------------------
+  <S>                     <C>
+   ARCHS                  Target architecture-specific code (for example, for MIPS devices).
+
+   ------------------   ---------------------------------------------------------------------
+   BASE                   Base (common) code for the Jeode product.
+
+   ------------------   ---------------------------------------------------------------------
+   DEMO                   Demonstration java applications and launch files.
+
+   ------------------   ---------------------------------------------------------------------
+   DOCS                   Source HTML documentation.
+
+   ------------------   ---------------------------------------------------------------------
+   DOCS-BIN               Binary-only HTML documentation.
+
+   ------------------   ---------------------------------------------------------------------
+</TABLE>
+
+
+                                       28
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+  <S>                    <C>
+   ------------------   ---------------------------------------------------------------------
+   DRL                    Defines the contents of the Jeode product.
+
+   ------------------   ---------------------------------------------------------------------
+   GEN                    Generated files.
+
+   ------------------   ---------------------------------------------------------------------
+   JAVA                   JeodeRuntime for the target device.
+
+   ------------------   ---------------------------------------------------------------------
+   OS                     Target OS-specific code (for example, for Windows CE OS's).
+
+   ------------------   ---------------------------------------------------------------------
+</TABLE>
+
+
+
+                                       29
+<PAGE>
+
+                                   SCHEDULE 2
+
+                          WIND RIVER OPERATING SYSTEMS
+
+VxWorks and successors
+
+VxWorks AE and successors
+
+pSOS and successors
+
+Wind River Linux and successors
+
+pOSEK and successors
+
+OSEKWorks and successors
+
+IxWorks and successors
+
+
+
+                                       30
+<PAGE>
+
+                                   SCHEDULE 3
+
+                                   TRADEMARKS
+
+
+Attachment A
+Insignia Trademarks
+
+
+[JEODE LOGO]
+
+
+[INSIGNIA SOLUTIONS LOGO]
+
+
+EVM(TM)
+
+
+Jeode(TM)
+
+
+Insignia(TM)
+
+
+Insignia Solutions(TM)
+
+
+
+
+                                       31
+<PAGE>
+
+                                   SCHEDULE 4
+
+                                  DELIVERABLES
+
+
+Licensor will agree to provide Licensee with a standard implementation of the
+Jeode 1.5.2 (or later if more current release) technology in binary and source
+code forms, tested with the Sun EmbeddedJava compatibility test suites, ported
+to: 1) the PowerPC processor and running on Licensee's VxWorks v 5.4 operating
+system (excluding java.awt) 2) X86 processor and running on the RedHat Linux
+version 6.2 operating system, 3) Windows CE ports to the SA, SH and MIPS
+processors.
+
+Licensor will agree to provide Licensee with a standard implementation of the
+Jeode 1.5.2 (or later if more current release) technology in binary and source
+code forms, tested with the Sun PersonalJava compatibility test suites, ported
+to: ARM, Hitachi SH, and MIPS processors running on the Windows CE operating
+system.
+
+Licensor will provide Licensee with other non-proprietary ports of the Jeode
+Software.
+
+
+                                       32
+<PAGE>
+
+                                   SCHEDULE 5
+                              SOURCE CODE TRAINING
+                    Insignia Standard Source Training Agenda
+
+<TABLE>
+<CAPTION>
+
+LOCATION:   Insignia UK
+
+DATE:
+
+------------------------------- -------------------------- --------------------- ---------------------------- ----------------------
+MONDAY                          TUESDAY                    WEDNESDAY             THURSDAY                     FRIDAY
+------------------------------- -------------------------- --------------------- ---------------------------- ----------------------
+<S>                            <C>                        <C>                   <C>                          <C>
+10:00                           10:00                      10:00                 10:00                        10:00
+
+Introduction to Insignia        Dynamic Adaptive           Tools                 Debugging                    JeodeAssist
+                                Compiler, DAC 1
+Tour of facilities &                                       - Jeode Configurator  - Overview of debugging      - Support
+introduction to departments     -  Target processor                                techniques
+                                   prerequisites &         - Jeode Monitor                                    - Bug reporting
+Product Presentation               alternatives                                  - EVM debug variants
+                                                           - debugging                                        - Change submission
+                                -  Cuckoo builds                                 - Asserts
+                                                           - profiling                                        - Taking new code
+                                -  Compiler porting                              - JAB debugger in depth
+                                                           - deployment
+
+
+11:30
+
+Architecture Intro              12:00
+                                                                                                              12:00
+
+                                DAC 2 - Glue
+                                                                                                              Q&A
+                                - Base glue
+
+                                - Host glue
+------------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+                                       33
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+------------------------------- -------------------------- ----------------------- -------------------------- ----------------------
+LUNCH                           LUNCH                      LUNCH                   LUNCH                      LUNCH
+
+------------------------------- -------------------------- ----------------------- -------------------------- ----------------------
+<S>                            <C>                        <C>                     <C>                        <C>
+
+14:00                           14:00                      14:00                   14:00                      14:00
+
+Source Intro                    DAC 3 - GRASP              -  OS Porting           Testing and Certification   Q&A
+
+-  Masterpack overview          -  Introduction to GRASP   -  OSAPI Interface      - strategy
+
+-  Building overview            -  Writing GRASP           -  Porting Jeode        - process
+                                   definitions
+-  Development environment                                                         - Bytecode Tests
+                                -  GRASP test suite
+    -  Build system                                                                - TCK
+                                                                                   - benchmarking
+                                15:30                      16:00
+
+15:30                           Garbage Collector          Graphics - porting AWT
+                                - design
+    - OSAPI
+                                - configuration
+
+
+------------------------------- -------------------------- ----------------------- -------------------------- ----------------------
+</TABLE>
+
+
+                                       34
+<PAGE>
+
+                                   APPENDIX A
+                   JEODE SOURCE DEVELOPMENT LICENCE AGREEMENT
+
+
+                           SOURCE DEVELOPMENT LICENSE
+                               (JEODE TECHNOLOGY)
+
+
+This Source Development License ("SOURCE LICENSE") is entered into this the ____
+day of __________________, 2000, ("EFFECTIVE DATE") between Wind River Systems
+Inc., a Delaware corporation, with its principal offices at 500 Wind River Way,
+Alameda, CA 94501 ("WRS") and ____________________________________, a(n)
+____________________________ corporation, with its principal offices at
+______________________________________________________________________________
+("LICENSEE").
+
+
+
+Whereas WRS has entered into certain agreements with its supplier, Insignia
+Solutions, Inc. ("INSIGNIA") which gives WRS certain rights and abilities
+concerning certain software technology and;
+
+Whereas Licensee desires to receive and use that same software technology;
+
+Therefore the parties hereto agree as follows:
+
+1      DEFINITIONS.
+
+1.1    "DOCUMENTATION" means any and all forms of user materials related to the
+       Jeode Technology that WRS makes available to Licensee.
+
+1.2    "ERROR" means any failure of the Jeode Technology to conform in all
+       material respects to the Documentation.
+
+1.3    "ERROR CORRECTION" means an action taken, that, whether in the form of a
+       modification, addition, procedure, or routine, when taken or observed,
+       establishes material conformity to the Documentation therefor or
+       eliminates the practical adverse effect of an Error in the regular
+       operation of the Jeode Technology.
+
+1.4    "JEODE TECHNOLOGY" means JeodeRuntime plus related software development
+       tools marketed by Insignia under the name "Jeode" and as licensed to
+       Licensee on the Licensed O/S.
+
+1.5    "JEODERUNTIME" means, in whole or in part, Insignia's proprietary
+       implementation of Sun's PersonalJava (pJava) specifications in effect as
+       of the Effective Date for the Java virtual machine ("Embedded Virtual
+       Machine" or "EVM") plus related embedded class libraries.
+
+1.6    "INTELLECTUAL PROPERTY RIGHTS" means all worldwide statutory and common
+       law rights associated solely with (i) patents and patent applications;
+       (ii) works of authorship including copyrights, copyright applications,
+       copyright registrations and "moral rights"; (iii) the protection of trade
+       and industrial secrets and confidential information; and (iv)
+
+
+                                       35
+<PAGE>
+
+divisions, continuations, renewals, and re-issuances of the foregoing now
+existing, acquired or devised in the future.
+
+1.7    "LICENSED OPERATING SYSTEM" or "LICENSED O/S" means pJava JeodeRuntime
+       ported to the _________________ operating system.
+
+1.8    "PRODUCT" means any finished product that includes in binary form the
+       Jeode Technology in whole or in part and is manufactured by or for
+       Licensee and/or an OEM and sold, licensed, leased, or otherwise put into
+       service by any of the above. A Product must: (i) have a principal purpose
+       that is substantially different from that of the Jeode Technology; (ii)
+       represent a significant functional and value enhancement to the Jeode
+       Technology; and (iii) not be marketed as a technology that replaces or
+       substitutes for the Jeode Technology.
+
+1.9    "REFERENCE PLATFORM" means the Jeode Technology as ported to
+       the___________ platform.
+
+1.10   "SUN" means Sun Microsystems, Inc., its affiliates and its successors and
+       assigns.
+
+1.11   "TECHNOLOGY COMPATIBILITY KIT" or "TCK" means the test programs,
+       procedures and/or other requirements, designated by Sun for use in
+       verifying compliance of the Jeode Technology.
+
+1.12   "TRADE SECRET" means any scientific or technical information, design,
+       process, procedure, formula, or improvement that is commercially valuable
+       and secret (in the sense that its confidentiality affords Insignia a
+       competitive advantage over its competitors). Trade Secrets include
+       (without limitation) any and all forms of computer code, system design
+       and specifications, programming sequences, algorithms, flow charts, and
+       formats pertaining to the Jeode Technology.
+
+1.13   "UPDATE" means new versions of the Jeode Technology developed by or on
+       behalf of Insignia or WRS, which may include Error Corrections and/or
+       other modifications, and may be released by WRS from time to time.
+
+2      LICENSE GRANT.
+
+2.1    DELIVERY AND GRANT. Prior to WRS's delivery of the Jeode Technology,
+       Licensee must have entered into the appropriate Sun Community Source
+       License Agreement. WRS shall deliver the Reference Platform in the
+       following format: plus Documentation. WRS grants to Licensee, to the
+       extent of Insignia's Intellectual Property Rights, *[a worldwide, /
+       within the territory of ____________, a] non-transferable, non-exclusive,
+       license to modify, port to different target processor architectures, and
+       use, during the Term, the Jeode Technology and any Updates Licensee
+       receives pursuant to separate agreement, solely for the purpose of
+       researching, developing, maintaining, testing and supporting Product(s).
+       The preceding development rights include the right to produce up to ten
+       (10) copies of the Jeode Technology in whole or in part for inclusion
+       within any prototype(s) for each Product for internal development,
+       demonstration, or evaluation purposes.
+
+
+                                       36
+<PAGE>
+
+2.2    RESTRICTIONS.
+
+       2.2.1  Licensee may not modify the Jeode Technology, or any component
+              thereof, except as reasonably necessary for the exercise of
+              Licensee's porting rights pursuant to Section 2.1.
+
+       2.2.2  Licensee may not port the Jeode Technology to any operating system
+              other than the Licensed O/S.
+
+       2.2.3  Licensee may not make any more than one (1) copy of the Jeode
+              Technology or Documentation, which copy may be used as a backup
+              only.
+
+       2.2.4  Licensee may not, directly or indirectly, reproduce or distribute
+              any copies of the Jeode Technology or JeodeRuntime under this
+              Source License.
+
+       2.2.5  Licensee may not sublicense or contract with any third party
+              regarding the exercise of any rights or obligations contained
+              within this Source License.
+
+2.3    OWNERSHIP, LICENSE, AND ASSIGNMENT TO INSIGNIA.
+
+       2.3.1  Licensee Ports. Subject always to Insignia's Intellectual Property
+              Rights in the Jeode Technology, Licensee will own all
+              porting-related modifications ("Licensee Ports") that Licensee
+              makes to the Jeode Technology. Licensee grants to Insignia a
+              worldwide, royalty-free, non-exclusive, perpetual, and irrevocable
+              license, to the extent of Licensee's Intellectual Property Rights
+              covering Licensee Ports, to use, reproduce, modify, display and
+              distribute Licensee Ports in any form, including the right to
+              sublicense such rights. Licensee agrees to deliver such Licensee
+              Ports, if any, to Insignia no later than Licensee's first
+              transfer, license, or delivery of such Licensee Port to any third
+              party.
+
+       2.3.2  Licensee Modifications. In the event that Licensee modifies the
+              Jeode Technology in any manner other than development of a
+              Licensee Port (for example, any patches, workarounds, bug fixes or
+              other modifications or enhancements ("Licensee Modification(s)")),
+              then Licensee shall deliver to WRS: 1) all source code and related
+              documentation promptly upon the earlier of a) completion of
+              testing of such Licensee Modification, b) internal deployment
+              within Licensee, or c) release or delivery to any third party; and
+              2) Licensee shall, in a timely manner, take all steps reasonably
+              requested by WRS to effect the full and effective assignment of
+              ownership of such Licensee Modification to WRS. THIS ASSIGNMENT OF
+              OWNERSHIP OF LICENSEE MODIFICATION(S) CONSTITUTES AN ESSENTIAL
+              PART OF THIS SOURCE LICENSE. NO USE OF THE JEODE TECHNOLOGY IS
+              AUTHORIZED HEREUNDER EXCEPT SUBJECT TO THIS REQUIREMENT.
+
+2.4    WRS Deliverables. To assist Licensee in its exercise of the rights
+       granted by this Source License, WRS shall, promptly upon completion of
+       this Source License, provide to Licensee one (1) copy of the Jeode
+       Technology ported to the *_____________ platform(s) in source code form,
+       for use as a reference implementation.
+
+
+                                       37
+<PAGE>
+
+2.5    License Fee. Licensee's rights under this Source License are expressly
+       conditioned upon payment in full of the non-refundable development
+       license fee associated with this license of the Jeode Technology. The
+       license fee in the amount of * _____________________ ($_____________)
+       must be paid by Licensee to WRS in advance of WRS's delivery to Licensee
+       of the Jeode Technology.
+
+3      LIMITED WARRANTY.
+
+3.1    THE JEODE TECHNOLOGY IS PROVIDED UNDER THIS LICENSE "AS IS", AND WRS
+       EXCLUDES TO THE FULL EXTENT ALLOWED BY APPLICABLE LAWS ALL TERMS,
+       WARRANTIES, AND CONDITIONS, INCLUDING, WITHOUT LIMITATION, THAT THE JEODE
+       TECHNOLOGY IS FREE OF DEFECTS, MERCHANTABLE, SATISFACTORY, OR FIT FOR A
+       PARTICULAR PURPOSE. WRS DOES NOT WARRANT THAT THE JEODE TECHNOLOGY WILL
+       MEET LICENSEE'S REQUIREMENTS OR THAT ITS USE WILL BE UNINTERRUPTED OR
+       ERROR FREE. THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF
+       THIS LICENSE. NO USE OF THE JEODE TECHNOLOGY IS AUTHORIZED HEREUNDER
+       EXCEPT SUBJECT TO THIS DISCLAIMER.
+
+3.2    NOTE ON JAVA TECHNOLOGY. The Jeode Technology contains support for
+       programs written in the Java programming language. Java Technology is not
+       fault tolerant and is not designed, manufactured, or intended for use or
+       resale as on-line control equipment in hazardous environments requiring
+       fail-safe performance, such as in the operation of nuclear facilities,
+       aircraft navigation or communication systems, air traffic control,
+       certain medical devices, or weapons systems, in which the failure of Java
+       Technology could lead directly to death, personal injury, or severe
+       physical or environmental damage. WRS for itself and its supplier
+       disclaims any express or implied warranties for any such use. If Licensee
+       uses Jeode Technology and/or JeodeRuntime for such applications, Licensee
+       will indemnify and hold harmless WRS and its suppliers from any claims,
+       loss, cost, damage, expense, or liability, including attorneys' fees,
+       arising out of or in connection with such applications.
+
+4      INTELLECTUAL PROPERTY RIGHTS
+
+4.1    All Intellectual Property Rights in the Jeode Technology and
+       Documentation provided hereunder, and any copies of the Jeode Technology
+       and Documentation, are owned by WRS or its suppliers. This Source License
+       will not affect any other confidential disclosure agreement between the
+       parties.
+
+4.2    WRS represents and Licensee hereby acknowledges that the Jeode Technology
+       contains substantial Trade Secrets of WRS. These Trade Secrets have been
+       entrusted to Licensee for use only as expressly authorized under this
+       Source License.
+
+4.3    WRS may exercise all rights as it might have at law or in equity for the
+       protection of its Intellectual Property Rights, including an injunction
+       enjoining the breach or threatened breach of this Section. Licensee and
+       WRS agree that, in the event of legal proceedings, the party with
+       judgment against it will be responsible for the reasonable legal fees and
+       costs of the other party.
+
+4.4    Licensee's Protective Obligation and WRS Audit Rights. Licensee will use
+       commercially reasonable efforts, consistent with the practices and
+       procedures under which Licensee protects Licensee's own most valuable
+       proprietary information and materials, to protect
+
+
+                                       38
+<PAGE>
+
+       WRS's Intellectual Property Rights in the Jeode Technology and the
+       Documentation against any unauthorized or unlawful use, disclosure, or
+       copying. WRS has the right, at WRS's expense, to audit Licensee's
+       practices and procedures upon reasonable notice to Licensee and at a time
+       that is mutually agreeable.
+
+5      CONFIDENTIALITY.
+
+5.1    Confidential Information. "Confidential Information" means any business
+       or technical information belonging to WRS or Licensee, that is designated
+       by the disclosing party as "confidential" or "proprietary" regardless of
+       the form of the disclosure. WRS hereby designates the source code form of
+       the Jeode Technology and the terms and conditions of this Source License
+       as WRS's Confidential Information.
+
+5.2    Exclusions. Confidential Information shall not include information that:
+       (i) is or becomes generally known or available by publication, commercial
+       use or otherwise through no fault of the receiving party; (ii) is know to
+       the receiving party at the time of disclosure without violation of any
+       confidentiality restriction and without any restrictions on the receiving
+       party's further use or disclosure; (iii) is independently developed by
+       the receiving party; (iv) is received from a third party not under an
+       obligation as to disclosure of such information; (v) is permitted for
+       release or disclosure to any third party by the written prior consent of
+       the disclosing party; or (vi) is furnished to a third party by disclosure
+       without imposing similar restrictions on such third party.
+
+5.3    Use and Disclosure Restrictions. For a term of two (2) years from the
+       last disclosure of Confidential Information, each party will refrain from
+       using the other party's Confidential Information except as permitted
+       herein, and will use the same level of care to prevent disclosure of the
+       other party's Confidential Information that it uses with its own
+       information of similar sensitivity and importance, but in any event will
+       not use less than reasonable care to prevent disclosure of the other
+       party's Confidential Information. However, each party may disclose
+       Confidential Information of the other party: (i) pursuant to the order or
+       requirement of a court, administrative agency, or other governmental
+       body, provided that the receiving party gives reasonable notice to the
+       disclosing party to contest such order or requirement; (ii) on a
+       confidential basis to Licensee's parent, subsidiary, and affiliated
+       companies; and (iii) on a confidential basis to legal or financial
+       advisors.
+
+6      TERM AND TERMINATION.
+
+6.1    Term. Subject to Section 6.2, the term of this Source License shall be
+       for a period of *three (3) years, commencing on the Effective Date. Upon
+       the natural expiration of the first *three (3) year period ("Term" or
+       "Initial Term" as the context provides), this Source License shall
+       automatically renew for one (1) year periods ("Term"), unless either
+       party provides the other party written notice of its desire not to renew
+       at least ninety (90) days prior to the conclusion of the current Term.
+
+6.2    Termination.
+
+       6.2.1  Either party may terminate this Source License, with or without
+              cause, upon ninety (90) days' written notice to the other party,
+              except during the first three (3) months of the Initial Term
+              during which advance written notice of one hundred eighty (180)
+              days is required.
+
+
+                                       39
+<PAGE>
+
+       6.2.2  This Source License and the rights granted hereunder will
+              terminate automatically if Licensee fails to comply with the terms
+              of this Source License and fail to cure such breach within thirty
+              (30) days of WRS's notice to Licensee regarding such breach. This
+              Source License will terminate immediately as contemplated in
+              Section 7.1 or at WRS's discretion upon any action initiated in
+              the first instance by Licensee alleging that use or distribution
+              of the Jeode Technology i) infringes any Intellectual Property
+              Right owned or controlled by Licensee or ii) is in any way
+              invalid.
+
+       6.2.3  Upon termination of this Source License, Licensee shall
+              immediately discontinue use of the Jeode Technology, this Source
+              License and all rights granted hereunder shall cease, and Licensee
+              shall return or an authorized officer shall certify the
+              destruction of all copies of the Jeode Technology to WRS.
+
+       6.2.4  Survival. The termination of this Source License will not prevent
+              the continuation of any other agreement Licensee may have with
+              WRS. Provisions in this Source License that should remain in
+              effect beyond termination, because of their nature, will survive.
+              These provisions include, without limitation, Sections 2.3, 3, 4,
+              5, 6.2, 7, 8.4, 8.5, and 8.6.
+
+7      LIABILITY.
+
+7.1    Infringement.
+
+       7.1.1  WRS's Obligation. Should the Jeode Technology or any component of
+              the Jeode Technology, as delivered by WRS to Licensee, become the
+              subject of an Intellectual Property Right infringement claim, WRS
+              may, at its sole option, (i) procure the rights necessary for
+              Licensee to continue using the Jeode Technology, (ii) modify the
+              Jeode Technology so that it is no longer infringing, or (iii)
+              terminate Licensee's right to use the Jeode Technology,
+              immediately upon written notice, and refund to Licensee the fees
+              that Licensee has paid under this Source License. WRS will have no
+              obligation under this Section 7.1 with regard to infringement or
+              misappropriation arising out of (i) modifications to the Jeode
+              Technology that were not done by WRS; (ii) the development, use or
+              distribution of the Products; and (iii) the use of the Jeode
+              Technology in combination with hardware or software not provided
+              by WRS.
+
+       7.1.2  Licensee's Obligation. Should any Licensee Port or Licensee
+              Modification or any component thereof, as delivered by Licensee to
+              WRS, become the subject of an Intellectual Property Right
+              infringement claim, Licensee must either (i) procure the rights
+              necessary for WRS to continue using such port or modification
+              without cost to WRS, or (ii) modify the same so that it is no
+              longer infringing.
+
+7.2    LIMITATION OF LIABILITY. TO THE FULL EXTENT ALLOWED BY APPLICABLE LAW,
+       (i) WRS'S LIABILITY TO LICENSEE FOR CLAIMS RELATING TO THIS SOURCE
+       LICENSE AND (ii) LICENSEE'S LIABILITY TO WRS FOR CLAIMS RELATING TO THIS
+       SOURCE LICENSE, WHETHER FOR BREACH OR IN TORT, SHALL BE LIMITED TO ONE
+       HUNDRED PERCENT (100%) OF THE AMOUNT HAVING THEN ACTUALLY BEEN PAID BY
+       LICENSEE TO WRS FOR ALL DEVELOPMENT COPIES LICENSED HEREUNDER,
+
+
+                                       40
+<PAGE>
+
+       IF ANY. IN NO EVENT WILL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR
+       ANY DAMAGES RELATING TO, RESPECTIVELY, THE JEODE TECHNOLOGY AND LICENSEE
+       MODIFICATIONS THAT HAS BEEN MODIFIED BY THE RECEIVING PARTY, TO THE
+       EXTENT THAT ANY CLAIMS RELATE TO SUCH MODIFICATION. IN NO EVENT WILL
+       EITHER PARTY BE LIABLE FOR ANY INDIRECT, PUNITIVE, SPECIAL, INCIDENTAL OR
+       CONSEQUENTIAL DAMAGES IN CONNECTION WITH OR ARISING OUT OF THIS SOURCE
+       LICENSE (INCLUDING, WITHOUT LIMITATION, LOSS OF PROFITS, USE, DATA, OR
+       OTHER ECONOMIC ADVANTAGE), HOWEVER IT ARISES AND ON ANY THEORY OF
+       LIABILITY, WHETHER IN AN ACTION FOR CONTRACT, STRICT LIABILITY OR TORT
+       (INCLUDING NEGLIGENCE) OR OTHERWISE, WHETHER OR NOT SUCH PARTY HAS BEEN
+       ADVISED OF THE POSSIBILITY OF SUCH DAMAGE AND NOTWITHSTANDING THE FAILURE
+       OF ESSENTIAL PURPOSE OF ANY REMEDY.
+
+8      MISCELLANEOUS.
+
+8.1    Export/Import Laws. The Jeode Technology is subject to U.S. export
+       control laws and may be subject to export or import regulations in other
+       countries. Licensee agrees to comply strictly with all such laws and
+       regulations and acknowledge that Licensee has the responsibility to
+       obtain such licenses to export, re-export, or import as may be required
+       after delivery to Licensee.
+
+8.2    Intellectual Property Protection. Because this Source License will be
+       providing Licensee with Sun source code, and due to limited intellectual
+       property protection and enforcement in certain countries, Licensee agrees
+       not to redistribute the Jeode Technology or any component thereof in
+       source form to any country that is not on the list of identified
+       countries, which list is presently available on the Internet at
+       HTTP://WWW.SUN.COM/SOFTWARE/COMMUNITYSOURCE/COUNTRIES.HTML.
+
+8.3    Publicity. Licensee agrees that WRS may use Licensee's name and may
+       disclose that Licensee is a licensee of WRS's products in WRS's standard
+       advertising, press, promotion and similar public disclosure with respect
+       to the Jeode Technology; provided, however that any such public
+       disclosure shall not indicate that Licensee in any way endorses any WRS
+       product, without prior written permission from Licensee. Licensee agrees
+       that, upon Licensee's public announcement of any product designed with or
+       containing the WRS products, WRS may publicly disclose the nature of the
+       WRS involvement in said project if the parties have not already agreed to
+       a joint announcement or press release.
+
+8.4    Assignment. Licensee may not assign this Source License or any of
+       Licensee's rights hereunder, (including by way of merger or acquisition
+       unless Licensee is the surviving entity) or delegate any of Licensee's
+       duties hereunder, without WRS's prior written consent. Any attempted
+       assignment in violation of this provision will be void.
+
+8.5    Severability. If any provision of this Source License is held to be
+       unenforceable, such provision shall be reformed only to the extent
+       necessary to make it enforceable and all other terms shall continue in
+       full force and effect.
+
+8.6    Governing Law and Jurisdiction. This Source License is governed by the
+       laws of the United States and the State of California, without regard for
+       choice of law rules.
+
+
+                                       41
+<PAGE>
+
+8.7    Entire Agreement. This Source License represents the complete agreement
+       concerning the subject matter hereof.
+
+
+       IN WITNESS WHEREOF, the parties have caused this Source License to be
+       executed by their authorized representatives as of the Effective Date.
+
+
+
+ON BEHALF OF WIND RIVER SYSTEMS, INC.       ON BEHALF OF LICENSEE
+
+By:      ____________________________       By:     ____________________________
+                  (Signature)                            (Signature)
+
+Name:    ____________________________       Name:   ____________________________
+                   (Printed)                              (Printed)
+
+Title:   ____________________________       Title:  ____________________________
+
+
+Date:    ____________________________       Date:   ____________________________
+
+
+
+                                       42
+<PAGE>
+
+
+                                   APPENDIX B
+                                PRODUCT ROAD MAP
+
+
+                                   APPENDIX B
+
+OVERVIEW                                                                  [LOGO]
+<TABLE>
+<S><C>
+--------------------------------------------------------------------------------
+         Q 4/2000           Q 1/2001          Q 2/2001          Q 3/2001
+--------------------------------------------------------------------------------
+
+----------------------------------------------------------- CONTINUES....
+                                                              - TRANSITION TO J2ME PLATFORM
+
+RELEASE 1.7
+   - EMBEDDED JAVA (TM) 1.0.3 TECHNOLOGY COMPATIBLE
+   - PERSONALJAVA (TM) 1.2 PLATFORM COMPATIBLE
+
+                                                            --------------------------------
+                                                               RELEASE 2.0
+                                                                 - J2ME PLATFORM COMPATIBLE
+
+
+THIS INFORMATION MAYBE SUBJECT TO CHANGE WITHOUT NOTICE
+
+                                                             Copyright (C) 2000 Insignia Solutions,
+                                                             all rights reserved
+                                PRODUCT ROAD MAP
+
+
+                                       43
+<PAGE>
+
+LINUX                                                                     [LOGO]
+--------------------------------------------------------------------------------
+         Q 4/2000           Q 1/2001          Q 2/2001          Q 3/2001
+--------------------------------------------------------------------------------
+
+  --------------------------------------------------------- EMBEDDED JAVA 1.0.3
+RELEASE 1.5X, 1.6X                                          COMPATIBILITY CONTINUES
+ - Embedded Java 1.0.3 compatible                            - TRANSITION TO J2ME : CDC /
+                                                               FOUNDATION
+RELEASE 1.5.2 PROOF-OF-CONCEPT ---------------------------- PERSONAL JAVA 1.2
+ - Kernel 2.2.13 / ARM (Net Winder)   RELEASE 1.7.x         COMPATIBILITY CONTINUES
+ - Headless (remote AWT)               - PersonalJava 1.2    - TRANSITION TO J2ME : CDC /
+                                         compatible            FOUNDATION / RMI / PERSONAL PROFILE
+                                       - Full-AWT on X-Windows
+RELEASE 1.6.1 REF PLATFORM            REF PLATFORM
+ - RedHat / x86 (PC)                   - RedHat 6.2 / x86 (PC)  ---------------------
+ - Headless (remote AWT)                                         RELEASE 2.0
+                                                                  - J2ME : CDC / foundation / RMI /
+                                                                    Personal profile* compatible
+                                                                  - AWT on X-Windows
+                                                                 REF PLATFORMS
+                                                                  - RedHat 6.2 / x86 (PC)
+
+*Subject to Sun's roadmap
+THIS INFORMATION MAY BE SUBJECT TO CHANGE WITHOUT NOTICE
+
+
+                                       44
+<PAGE>
+
+WINDOWS CE                                                                [LOGO]
+--------------------------------------------------------------------------------
+         Q 4/2000           Q 1/2001          Q 2/2001          Q 3/2001
+--------------------------------------------------------------------------------
+
+  --------------------------------------------------------- EMBEDDED JAVA 1.0.3
+RELEASE 1.7                                                 COMPATIBILITY CONTINUES
+ - EmbeddedJava 1.0.3 compatible                             - TRANSITION TO J2ME : CDC /
+ - PersonalJava 1.2 compatible                                 FOUNDATION
+
+RELEASE 1.7 REF PLATFORMS                                   PERSONALJAVA 1.2
+ - Windows CE 2.12 / x86                                    COMPATIBILITY CONTINUES
+ - Windows CE 2.11 / MIPS                                    - TRANSITION TO J2ME : CDC /
+                                                               FOUNDATION / RMI / PERSONAL PROFILE
+         PROOF-OF-CONCEPT PLATFORM (1.6.4)
+          - (PersonalJava 1.1.3)                            -----------------------------
+          - Windows CE 2.11 / SH-4                          RELEAE 2.0
+                                                             - J2ME : CDC / foundation / RMI
+                 RELEASE 1.7.1 REF PLATFORMS                   Personal profile * compatible
+                  - Windows CE 3.0 / ARM
+                  - Windows CE 3.0 / SH-3                    REF PLATFORMS
+                                                             - Windows CE 3.0 / x86
+                                                             - Windows CE 3.0 / MIPS
+                                                             - Windows CE 3.0 / ARM
+
+
+*Subject to Sun's roadmap
+THIS INFORMATION MAY BE SUBJECT TO CHANGE WITHOUT NOTICE
+
+
+                                       45
+<PAGE>
+
+EMBEDDED JAVA                                                             [LOGO]
+--------------------------------------------------------------------------------
+         Q 4/2000           Q 1/2001          Q 2/2001          Q 3/2001
+--------------------------------------------------------------------------------
+
+  --------------------------------------------------------- EMBEDDED JAVA 1.0.3
+RELEASE 1.5x, 1.6x AND 1.7x                                 COMPATIBILITY CONTINUES
+ - EmbeddedJava 1.0.3 compatible                             - TRANSITION TO J2ME : CDC /
+ - Headless (remote AWT)                                      FOUNDATION
+
+RELEASE 1.5.2 REF PLATFORM
+ - Windows NT4 / x86
+                                                            ------------------------------
+                                                            RELEASE 2.0
+PROOF-OF-CONCEPT PLATFORMS                                   - J2ME : CDC / foundation / RMI
+(limited functionality / uncertified)                          profiles
+ - pSOS / PPC (Motorola MBX 860)
+ - VxWorks 3 / SuperH-3 (Solution Engine)
+ - Mu Itron 3 / SuperH-3 (Solution Engine)
+
+
+THIS INFORMATION MAY BE SUBJECT TO CHANGE WITHOUT NOTICE
+
+
+                                       46
+<PAGE>
+
+PERSONAL JAVA                                                             [LOGO]
+--------------------------------------------------------------------------------
+         Q 4/2000           Q 1/2001          Q 2/2001          Q 3/2001
+--------------------------------------------------------------------------------
+            PERSONAL JAVA PLATFORM
+ --------
+RELEASE 1.5X, 1.6X
+ - PersonalJava 1.1.x compatible
+ - Full-AWT on Win32
+
+---------------------------------------------------------------PERSONALJAVA 1.2
+RELEASE 1.7 REF PLATFORMS         REF PLATFORMS                COMPATIBILITY CONTINUES
+ - PersonalJava 1.2 compatible    1.7                           - TRANSITION TO J2ME : CDC /
+ - Full-AWT on Win32                - Windows CE 2.12 / x86       FOUNDATION / RMI / PERSONAL PROFILE
+                                    - Windows CE 2.11 / MIPS
+                                  1.7.1                        -------------------------
+                                    - Windows CE 3.0 / ARM     RELEASE 2.0
+                                    - Windows CE 3.0 / SH-3      - J2ME : CDC / foundation / RMI /
+                                                                   Personal profile * compatible
+                                                                 - AWT on Win32
+                                                                 - AWT on X-Windows
+</TABLE>
+
+*Subject to Sun's roadmap
+THIS INFORMATION MAY BE SUBJECT TO CHANGE WITHOUT NOTICE
+
+
+                                       47
+
+
+
+<PAGE>
+
+                                   APPENDIX C
+                             SUPPORT AND MAINTENANCE
+
+1      SUPPORT
+
+       (a)    Licensor offers support services that are designed to help
+              Licensee's engineers proceed more efficiently during their
+              Jeode-based development projects. These services include standard
+              product support for the current version of the Jeode technology
+              that entitles Licensee's engineers access to the JeodeAssist
+              web-based support system facilities. This on-line system is used
+              to track all outstanding customer cases, and generally serves as a
+              central repository for all issues and their current disposition.
+
+       (b)    Licensor will provide technical support for the standard
+              deliverables (described previously) and the NRE and consulting
+              services described below, directly to Licensee's engineers, under
+              the terms of an active annual maintenance agreement.
+
+       (c)    Licensor will agree to respond to all support cases submitted by
+              Licensee using the JeodeAssist web-based support system within
+              Licensor's standard response guidelines and time scales (see
+              Attachment 1 for details).
+
+       (d)    Licensor will agree to follow its standard escalation process for
+              all of Licensee's high priority outstanding support cases that are
+              not resolved according to the standard guidelines for resolution.
+
+       (e)    Licensor will provide Licensee access to a monthly support case
+              report.
+
+       (f)    Additional extended or special support services are available on a
+              case-by-case basis. See the NRE and Consulting section below for
+              examples of these services.
+
+2      MAINTENANCE AND UPDATES
+
+       (a)    Licensor offers a maintenance and update service that provides for
+              access to any regularly scheduled updates to the standard product
+              deliverables (maintenance and update services for any custom NRE
+              deliverables is as described in a Statement of Work). These
+              updates generally include fixes to product defects and minor
+              enhancements to the current version of the Jeode technology. In
+              addition, the maintenance service provides a mechanism to provide
+              corrections to critical product defects on an as-needed basis.
+
+       (b)    Licensor will use good commercial efforts to fix all critical
+              software defects within a reasonable amount of time after they are
+              isolated and can be duplicated by Licensor.
+
+       (c)    Licensor will provide Licensee with updates to the standard Jeode
+              product when they are generally made publicly available.
+
+       (d)    Licensor will update Licensee with full source code releases on
+              their supported reference platforms as soon as they are generally
+              made publicly available.
+
+
+                                       48
+<PAGE>
+
+       (e)    Licensor will provide Licensee reasonable access to those portions
+              of source code on Licensor's Source Code Control System that are
+              relevant to the Jeode technology exclusively optimized for
+              Licensee.
+
+3      NRE AND CONSULTING
+
+       (a)    Licensee may request special fee-based engineering services from
+              Licensor related to the Jeode technology, including such services
+              as; ports of Jeode to other processor architectures, Jeode
+              enhancements, non-standard support escalation, direct end customer
+              support, on-site support, product integration and testing, or
+              application consulting. Upon receipt of such written requests,
+              Licensor will respond with a written Statement of Work (SOW)
+              describing the work to be completed, estimated amount of
+              engineering man days required to complete the work, and a daily
+              rate for the requested work. Once both parties agree to the SOW,
+              and work has begun, Licensee may submit a written Engineering
+              Change Request (ECR) for changes and/or additions to the original
+              effort. Licensor will determine what impact the ECR will have on
+              the original estimates for the project and provide a new written
+              estimate.
+
+       (b)    In addition to other requests, Licensor will respond to Licensee's
+              specific future requests for: a) optimizing the Jeode technology
+              for Licensee's VxWorks operating system, b) providing extended
+              support to Licensee for its creation of new ports of the Jeode
+              technology to other processor architectures running on the VxWorks
+              operating system, and/or c) Licensor to develop new ports of the
+              Jeode technology to other processor architectures.
+
+4      LICENSEE'S RESPONSIBILITIES
+
+       (a)    TECHNICAL LIAISONS
+
+              Licensee will designate up to two (2) of their software engineers
+              per Licensee site who will be responsible for logging all support
+              cases with Licensor via JeodeAssist, and generally serve as
+              technical liaisons for all problem resolution.
+
+       (b)    PROBLEM REPORTING
+
+              (i)    Licensee will register all bug fix and enhancement requests
+                     with Licensor directly via their two technical liaisons
+                     using the JeodeAssist web-based problem reporting facility.
+
+              (ii)   Licensee will determine the priority of all outstanding
+                     support cases.
+
+       (c)    SUPPORTING ITS CUSTOMERS
+
+              Licensee will be responsible for direct support to its customers
+              with back-up support provided by Licensor to Licensee's technical
+              liaisons.
+
+       (d)    ENGINEERING CHANGE REQUESTS
+
+              Licensee will be responsible for providing all necessary
+              information to properly assess any NRE or consulting work
+              requested. Licensor will prepare an SOW based on the information
+              provided, and any changes to an agreed work statement will require
+              a written Engineering Change Request from Licensee. Licensor will
+
+
+                                       49
+<PAGE>
+
+              determine what impact the ECR may have on the original estimates
+              for the project.
+
+       (e)    ROYALTY REPORTING AND AUDITS
+
+              Licensee will agree to submit quarterly reports, with payment,
+              including customer specific details, for all products shipped
+              incorporating Jeode technology during the previous quarter within
+              thirty (30) days following the last day of each calendar quarter.
+              Licensor will have the right to audit such reports, for proper
+              reporting and associated payments.
+
+       (f)    LOANER EQUIPMENT
+
+              If Licensee should require any engineering work, which in
+              Licensor's opinion will require the use of equipment from
+              Licensee, Licensor will make a reasonable request for the
+              necessary equipment to complete and support the work. Licensee
+              will agree to provide the equipment specified for use during the
+              development and support phase of the project. Licensee will be
+              responsible for its proper maintenance, including enhancements and
+              updates, as necessary to support Licensor's efforts to complete
+              the work.
+
+       (g)    INTEGRATION ASSISTANCE
+
+              Licensor will dispatch a full time engineer to Licensee for forty
+              five (45) contiguous days, or for over no more than two (2) time
+              periods, to assist Licensee in integrating Jeode with Licensee's
+              branded OSes O/Ses and related products.
+
+              Subsequent to this initial integration period(s), said engineer
+              will be on call to Licensee for technical assistance & coding for
+              an additional forty five (45) days.
+
+              Additional fees may also be required for items such as equipment,
+              materials, travel and lodging as necessary to facilitate the
+              integration work.
+
+ENGINEERING SUPPORT MODEL FOR SOURCE CUSTOMERS AND WIND RIVER SYSTEMS
+
+1      SOURCE CODE RELEASE POLICY
+
+       (a)    Insignia would only update source customers with a full source
+              code release on their supported reference platform when Insignia
+              updates and releases its own reference platform release. This is
+              typically every 6 to 12 months.
+
+       (b)    Insignia supplies a single platform to source customers as the
+              supported reference platform. This release is certified on a
+              specific named piece of hardware supplied by the source customer.
+
+       (c)    Support is only provided on the reference platform as described
+              above for the current release of Jeode and the previous release.
+
+2      SOURCE CODE CHANGE REQUEST REPORTING (BUGS AND ENHANCEMENT REQUESTS)
+
+       (a)    All bugs and request for enhancements will be registered with
+              Insignia via the source customer's support group. This includes
+              both bugs and requests for
+
+
+                                       50
+<PAGE>
+
+              enhancements originating from the source customer's development
+              team and from the end users.
+
+       (b)    The source customer will nominate 2 engineers from their support
+              group who will be responsible for logging support cases with
+              Insignia.
+
+       (c)    All support cases will be logged with Insignia via the JeodeAssist
+              web based support problem reporting facility.
+
+       (d)    All support cases will be prioritized by the source customer's
+              support group according to Insignia's standard support case
+              prioritization guidelines as detailed in section 4.
+
+       (e)    The response times for source customer cases will be in accordance
+              with Insignia's standard support response timescales as detailed
+              in section 4.
+
+       (f)    In the event that a case requires escalation the process will be
+              in the following order:
+
+              (i)    The Source Customer to increases the case priority
+
+              (ii)   The Source Customer's support manager contacts Insignia's
+                     support manager directly
+
+              (iii)  The Source Customer's senior business manager contacts
+                     Insignia's senior business manager
+
+       (g)    Insignia undertakes to provide a monthly support case report for
+              major support customers including case statistics and response
+              time metrics.
+
+3      THE BUG FIX/DEVELOPMENT ASSISTANCE PROCESS
+
+       The following scenarios are envisaged:
+
+       (a)    Insignia receives a problem report and a proposed fix from the
+              source customer:
+
+              (i)    Insignia either accepts a fix and incorporates into
+                     Insignia Main development line or issues Insignia `approved
+                     fix'. This will go through the Insignia's Java Change
+                     Notification (JCN) process
+
+              (ii)   Source code fixes/changes will be identified by a Insignia
+                     JCN number
+
+              (iii)  JCN updates will be issued to source code customers for
+                     their specific reference platform on a regular basis.
+
+       (b)    Insignia receives a problem report that can be verified on the
+              reference platform:
+
+              (i)    Should be verified by the source customer's support group
+                     on the reference platform before logging a case with
+                     Insignia
+
+              (ii)   Should be submitted with results of verification + test
+                     applications
+
+              (iii)  Insignia identifies problem and issues a `test' fix
+
+
+                                       51
+<PAGE>
+
+              (iv)   The `test' fix is verified by the source customer/their
+                     customer
+
+              (v)    If the fix is verified Insignia issues a JCN and
+                     incorporates change into the main line
+
+       (c)    Insignia receives a bug report that can not be verified on the
+              reference platform:
+
+              (i)    In order to obtain support from Insignia the source
+                     customer must send Insignia the source code, object code
+                     and build environment for the specific platform along with
+                     hardware on which the problem can be reproduced. The case
+                     details should be submitted with results of verification +
+                     test applications.
+
+              (ii)   The source customer will be charged for the support time to
+                     resolve the problem at standard Insignia engineering rates.
+                     This includes full expenses for on-site customer visits.
+
+4      STANDARD INSIGNIA MAINTENANCE AND SUPPORT GUIDELINES
+
+       (a)    General Classification of Difficulties. Upon Acceptance, the
+              source customer shall provide First Level Support to all
+              Distributors and End Users. Insignia shall provide support to
+              source customers only, and agrees to use reasonable business
+              efforts to rectify support cases for the Product when identified,
+              classified and reported by the source customer on JeodeAssist web
+              based support problem reporting facility:
+
+              Priority Codes (based in customer impact)
+
+              P1 - Critical - the fix is usually a patch or workaround
+
+              P2 - Urgent - the fix is usually a patch or workaround
+
+              P3 - Normal - these bugs normally get fixed in maintenance
+              releases or the next major release, only rarely do they get issued
+              as patches
+
+              P4 - Low - Address possibly for the next release - could be a
+              patch release. Keep these on record in case we want to fix them
+              later, or the number of customers reporting on the problem becomes
+              significant and we decide to increase the priority.
+
+       (b)    The final classification of Priority Codes for each Software
+              Change Request will be mutually agreed among Insignia and the
+              source customer.
+
+       (c)    Priority Codes
+
+<TABLE>
+<CAPTION>
+
+---------------------------------------- -----------------------------------------------------
+          PRIORITY CODES
+
+---------------------------------------- -----------------------------------------------------
+     <S>                                  <C>
+      LICENSEE CLASSIFICATION              CRITERIA
+
+---------------------------------------- -----------------------------------------------------
+P1 Critical                                A `Fatal' or `Showstopper' condition.
+
+----------------------------------------------------------------------------------------------
+</TABLE>
+
+
+                                       52
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+<S>                                       <C>
+-----------------------------------------------------------------------------------------------
+                                           Precludes all useful work from being done, a problem
+                                           in critical functionality without a workaround,
+                                           emergency condition that causes the end user to be
+                                           unable to use the program and that has a critical
+                                           impact on such end user's operations.This condition
+                                           requires an immediate solution.
+
+---------------------------------------- -----------------------------------------------------
+P2 Urgent                                  A `Severe Impact' condition. Precludes one or more
+                                           major functions from being performed. A problem in
+                                           critical functionality with a workaround, a
+                                           condition that severely restricts the End User's
+                                           operation but such user can continue to use the
+                                           program, or a condition, which makes the
+                                           performance of any or  more functions difficult.
+                                           This problem cannot be readily circumvented or
+                                           avoided on a temporary basis by the End User and
+                                           requires a rapid solution.
+
+---------------------------------------- -----------------------------------------------------
+P3 Normal                                  A `Degradation' condition. Disables one or
+                                           more non-essential functions. Problem in a
+                                           non-critical functionality without a
+                                           workaround, a limited condition that cannot
+                                           be readily circumvented or avoided on a
+                                           temporary basis by the End-User.
+
+---------------------------------------- -----------------------------------------------------
+P4 Low                                     A `Minimal Impact' condition. Any condition, which
+                                           requires rectification and is not classified as P1,
+                                           P2, or P3. A problem in a non-critical
+                                           functionality  with a workaround, a minor condition
+                                           that can be readily circumvented or avoided on a
+                                           temporary basis by the End  User. Insignia shall
+                                           have no obligation to rectify code modified or
+                                           provided by anyone other than Insignia.
+
+---------------------------------------- -----------------------------------------------------
+</TABLE>
+
+       (d)    Response to Problem Report. Upon receiving a Problem Report from
+              source customer's designated representative(s), Insignia shall
+              respond on a reasonable business effort basis as follows:
+
+<TABLE>
+<CAPTION>
+
+-------------------------------------------------------------------------------------------------------------
+INSIGNIA'S RESPONSE SCHEDULE
+
+
+-------------------------------------------------------------------------------------------------------------
+<S>                                  <C>                                 <C>
+Classification                        First Level                         Final Level
+
+------------------------------------- ----------------------------------- -----------------------------------
+</TABLE>
+
+
+                                       53
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+<S>                                  <C>                                 <C>
+-------------------------------------------------------------------------------------------------------------
+P1 Critical                           Continuing effort until relief      Within 90 days
+                                      provided
+
+------------------------------------- ----------------------------------- -----------------------------------
+P2 Urgent                             10 work days                        100 days
+
+------------------------------------- ----------------------------------- -----------------------------------
+P3 Normal                             15 work days                        120 days
+
+------------------------------------- ----------------------------------- -----------------------------------
+P4 Low                                30 work days                        180 days
+
+------------------------------------- ----------------------------------- -----------------------------------
+</TABLE>
+
+       Insignia's response for each difficulty classification will be:
+
+<TABLE>
+<CAPTION>
+
+-------------------------------------------------------------------------------------------------------------
+                                               RESPONSE LEVEL
+
+------------------------------------- -----------------------------------------------------------------------
+<S>                                  <C>
+First Level                           Patch, work around, temporary fix
+                                      (where possible) or unofficial update
+                                      release.
+
+------------------------------------- -----------------------------------------------------------------------
+Final Level                           Official fix, update or major
+                                      release (i.e., the revisions have gone
+                                      through the standard Insignia Final
+                                      release testing procedures).
+
+------------------------------------- -----------------------------------------------------------------------
+</TABLE>
+
+
+       Final level releases will be provided no more that once every six months.
+
+       (e)    Final level Tests. Insignia shall conduct tests on the Final Level
+              Response sufficient to demonstrate that each reported difficulty
+              has been rectified and that the Product continues to meet the
+              Specifications in all material aspects. The results of such tests
+              shall be delivered to the source customer along with modified
+              source and object code for the Product. The source customer shall
+              have thirty (30) business days following receipt of any Final
+              Level Response to either notify Insignia of its Acceptance or
+              provide Insignia with a written report (including test results and
+              test data concerning the problem) specifying any and all
+              deficiencies requiring further response by Insignia. Failure by
+              source customer to provide any such notice by the end of the
+              thirty- (30) business day period shall be construed as Acceptance.
+
+       (f)    Further Response. Within thirty (30) business days of receipt of a
+              written report pursuant to Section 4.3, Insignia shall modify the
+              Product to rectify any reported deficiencies.
+
+       (g)    Acceptance or Rejection. Within thirty (30) business days
+              following receipt of all modifications performed pursuant to
+              Section 4.4, the source customer shall either accept or reject the
+              modified Product by written notice to Insignia. Failure to give
+              such notice by the end of the said thirty- (30) business day
+              period shall be construed as Acceptance. In the event of
+              rejection, such written notice shall specify all residual
+              deficiencies. The source customer will not unreasonably reject
+              delivered modifications of the Product.
+
+
+                                       54
+<PAGE>
+
+                                   APPENDIX D
+            DISCLOSED RESTRICTIONS, ENCUMBRANCES OVER JEODE SOFTWARE
+
+       Quantum Corporation, as security for a loan to the Licensor, has a
+       security interest in all intellectual property of the Licensor. The loan
+       is convertible into equity on December 31, 2000 and Quantum has
+       informally indicated its intent to convert.
+
+
+
+
+
+                                       55
+<PAGE>
+
+                                   APPENDIX E
+                               PROFORMA LEAD SHEET
+
+
+
+Date:
+
+Source:
+
+Company:
+
+Address:
+
+City:
+
+State:
+
+ZIP:
+
+Country:
+
+Contact:
+
+Telephone:
+
+E-mail:
+
+Comments:
+
+
+                                       56
+<PAGE>
+
+                                   APPENDIX F
+
+                      EXAMPLE OF FEE ACCRUALS AND PAYMENTS
+
+<TABLE>
+<CAPTION>
+
+       TRANSACTIONAL FEES     MINIMUM QUARTERLY FEES     Actual Payment     Credit Accrual             Total
+      for Quarter (estimated)                               to Licensor        For Quarter   Accrued Credits
+    --------------------------------------------------------------------------------------------------------
+<S>                <C>                      <C>                <C>              <C>                 <C>
+Quarter 1           $50,000                 $400,000           $400,000           $350,000          $350,000
+
+Quarter 2          $100,000                 $400,000           $400,000           $300,000          $650,000
+
+Quarter 3          $200,000                 $100,000           $100,000         $(100,000)          $550,000
+
+Quarter 4          $300,000                 $100,000           $100,000         $(200,000)          $350,000
+
+Quarter 5          $500,000                 $100,000           $150,000         $(350,000)                $0
+
+Quarter 6          $500,000                 $250,000           $500,000                 $0                $0
+
+
+</TABLE>
+
+
+                                       57
+</TEXT>
+</DOCUMENT>

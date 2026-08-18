@@ -1,0 +1,203 @@
+<DOCUMENT>
+<TYPE>EX-10.5
+<SEQUENCE>9
+<FILENAME>d67933_ex10-5.txt
+<DESCRIPTION>AMENDMENT TO AGREEMENTS
+<TEXT>
+                                                                    Exhibit 10.5
+
+Portions  of  this  exhibit  have  been  omitted   pursuant  to  a  request  for
+confidential  treatment filed with the Securities and Exchange  Commission.  The
+omissions have been indicated by asterisks  ("*****"),  and the omitted text has
+been filed separately with the Securities and Exchange Commission.
+
+                 OMNIBUS AMENDMENT TO AGREEMENTS BETWEEN PLAYBOY
+          ENTERTAINMENT GROUP, INC., ANDRITA STUDIOS, INC. AND INTELSAT
+                                 USA SALES CORP.
+
+                     Amendment No. 2 to Agreement T70102100
+                    Amendment No. 2 to Agreement GSS0210100
+                     Amendment No. 2 to Agreement T70309257
+
+                               December 22nd, 2005
+
+This Omnibus  Amendment  ("Omnibus  Amendment")  to Agreements  between  Playboy
+Entertainment Group, Inc., Andrita Studios, Inc. and Intelsat USA Sales Corp. is
+entered into this 22nd day of December, 2005.
+
+WHEREAS Playboy Entertainment Group, Inc. ("Playboy") and Loral Skynet, a
+Division of Loral SpaceCom Corporation ("Loral"), entered into an agreement
+signed on March 1, 2001 for Playboy to lease C-band transponder 15 on satellite
+IA-7, with a term through January 31, 2010 (this agreement being, as amended,
+the "IA-7 C15 Lease");
+
+WHEREAS Playboy and Loral entered into a separate agreement for Playboy to lease
+half of Transponder 9 on the Telstar 7 satellite on November 20, 2003 (the "IA-7
+C9 Lease");
+
+WHEREAS on February 4, 2003, Loral and Playboy entered into the Loral
+Skynet/Playboy Entertainment Group, Inc. Digital Channel Platform Agreement
+***** with service being provided on IA-7 C5 and IA-7 C23, (the "Channel
+Agreement");
+
+WHEREAS Playboy assigned the IA-7 C15 Lease to Andrita Studios, Inc. ("Andrita")
+on February 4, 2004;
+
+WHEREAS Intelsat LLC acquired the assets of Loral effective on March 17, 2004
+and, in connection with that acquisition, all of the above agreements were
+assigned to Intelsat USA Sales Corp. ("Intelsat");
+
+WHEREAS on May 7, 2004, Playboy, Andrita and Intelsat agreed to modify the
+various agreements between the parties to reflect an extension of the IA-7 C15
+lease until January 31, 2013, for Playboy to lease an additional 18 MHz
+bandwidth on IA-7 C9 (the "HD Lease"); and for the Channel Agreement to be
+extended to January 31, 2013;
+
+WHEREAS on November 28, 2004, Intelsat's satellite IA-7 experienced a major
+service failure, and Intelsat offered to restore services by moving services
+provided on IA-7 to
+
+<PAGE>
+
+the corresponding C-band transponders on satellite IA-13, with modified
+Performance Parameters;
+
+WHEREAS the parties all now wish to amend each of the IA-7 C15 Lease, the IA-7
+C9 Lease and the Channel Agreement to reflect changing market conditions;
+
+NOW THEREFORE for and in consideration of the terms and conditions set forth
+herein, the parties agree as follows:
+
+I.    TERMINATION OF LEASE
+
+Andrita and Intelsat agree to terminate the HD Lease, effective as of May 1,
+2005, and the parties acknowledge that, in consideration of the agreements set
+forth in III A below, there is no amount due to Intelsat for the lease of this
+bandwidth.
+
+II.   REASSIGNMENT OF SERVICE
+
+A.    As a result of the major service failure of Intelsat's IA-7 satellite on
+      November 28, 2004, the Parties all confirm that each transponder leased by
+      Playboy or Andrita on IA-7 (C5, C9, C15 & C23) is replaced by a
+      transponder on IA-13.
+
+B.    Upon sixty days' prior notice by Intelsat to Andrita, but under no
+      circumstances earlier than March 1, 2006, Intelsat will move the remaining
+      service provided to Playboy under the IA-7 C9 Lease from IA-13 back to
+      IA-7. Notwithstanding any other provisions contained in the IA-7 C9 Lease,
+      following the transfer back to IA-7, the service will be provided by
+      Intelsat as a Fully Protected Service, as that term is defined in the IA-7
+      C9 Lease .
+
+III.  EXENTION OF LEASE TERMS
+
+A.    The Terms of the IA-7 C15 Lease and the Channel Agreement are each
+      extended until June 1, 2013.
+
+IV.   AMENDMENT TO CHANNEL AGREEMENT
+
+A.    Section 3.1.1 of the Channel Agreement is amended by adding the following
+      paragraph to the end of the section:
+
+      *****
+
+B.    Section 3.1.3 of the Channel Agreement is amended by deleting it in its
+      entirety and replacing it with the following:
+
+      Sales and Marketing. Intelsat and PLAYBOY (through its subsidiary Andrita
+      Studios, Inc. ("ANDRITA") will each have the right to offer for sale and
+      to market the Platform and the Service. The Parties will provide the
+      personnel and services necessary as set forth in this Agreement to fulfill
+      orders for the Services that are placed in compliance with a contract
+
+
+                                       2
+<PAGE>
+
+      executed between either Intelsat or ANDRITA and a Customer (a "Customer
+      Contract").
+
+C.    Section 3.1.4 of the Channel Agreement is amended by deleting it in its
+      entirety and replacing it with the following:
+
+      Customer Contracts. The Party selling the Platform and the Service to a
+      Customer (be it either ANDRITA or Intelsat, the "Selling Party") will
+      enter into a Customer Contract directly with the Customer. Each of ANDRITA
+      and Intelsat will provide the services set forth under this Agreement in
+      connection with each Customer Contract.
+
+D.    Section 3.1.5 of the Channel Agreement is amended by deleting it in its
+      entirety and replacing it with the following:
+
+      Customer Care and Technical Support. The Selling Party will establish and
+      provide Customer Care and Technical Support functions for Customers, which
+      will include ensuring that ANDRITA receives Customer conditional access
+      activation/deactivation requirements for cable headends and direct-to-home
+      service providers, as described more fully in the Operations Plan.
+
+E.    Section 3.1.6 of the Channel Agreement is amended by deleting it in its
+      entirety and replacing it with the following:
+
+      No Additional Obligation. Except as expressly set forth herein, neither
+      party is obligated nor is it authorized to perform any of the obligations
+      or duties of the other party.
+
+F.    Section 3.3.3 of the Channel Agreement is amended by deleting the first
+      sentence of the paragraph following the chart ***** in its entirety and
+      replacing the sentence with the following:
+
+The Selling Party shall collect service charges from all of the Customers they
+contracted with pursuant to the applicable Customer Contract. *****
+
+G.    Section 9 of the Channel Agreement is amended to make all audit rights
+      contained in the first paragraph of that section mutual between the
+      Parties.
+
+V.    ADDITIONAL TERMS
+
+A.    Representations and Warranties. The Parties hereto each represent and
+      warrant to the other that each has the requisite power and authority to
+      enter into this Omnibus Amendment and to perform fully its respective
+      obligations hereunder, and that this Omnibus Amendment has been duly
+      executed by it and constitutes a valid obligation enforceable against it
+      in accordance with the terms hereof.
+
+
+                                       3
+<PAGE>
+
+B.    Controlling Terms. Except to the extent inconsistent with the terms of
+      this Omnibus Amendment, the relationship between the Parties shall be
+      governed by the terms and conditions set forth in the respective
+      agreements amended by this Omnibus Amendment. To the extent that there is
+      any inconsistency between the terms of this Omnibus Amendment and any
+      other agreement, the terms of this Omnibus Amendment shall prevail.
+
+                                          INTELSAT USA SALES CORP.
+
+                                          BY: /s/ Paul F. Konors
+                                          Name: Paul Konors
+                                          Title: Director, USA Sales Management
+
+
+                                          ANDRITA STUDIOS, INC.
+
+                                          BY: /s/ Jonathan Blinderman
+                                          Name: Jonathan Blinderman
+                                          Title: Vice President, Business and
+                                          Legal Affairs
+
+
+                                          PLAYBOY ENTERTAINMENT
+                                              GROUP, INC.
+
+                                          BY: /s/ Jonathan Blinderman
+                                          Name: Jonathan Blinderman
+                                          Title: Vice President, Business and
+                                          Legal Affairs
+
+
+                                       4
+</TEXT>
+</DOCUMENT>

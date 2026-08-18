@@ -1,0 +1,208 @@
+<DOCUMENT>
+<TYPE>EX-10.31
+<SEQUENCE>17
+<FILENAME>f90966exv10w31.txt
+<DESCRIPTION>EXHIBIT 10.31
+<TEXT>
+<PAGE>
+
+                                                                   Exhibit 10.31
+
+                                  AMENDMENT 002
+                                       TO
+             LICENSED WORKS AGREEMENT STATEMENT OF WORK #4902S90047
+
+International Business Machines Corporation ("Buyer" or "IBM") and Selectica,
+Inc. ("Supplier" or "Selectica") agree to amend Statement of Work #4902S90047
+(the "SOW") to Licensed Works Agreement #4902S90046, (the "LWA") (collectively,
+the "Agreement") as described herein.
+
+This Amendment 02 is effective as of the date of the last party to sign
+("Effective Date") and is entered into by Buyer and Supplier for good and
+valuable consideration, the receipt and sufficiency of which is hereby
+acknowledged. If there is a conflict among the terms of the LWA, SOW and this
+Amendment 02 the terms of Amendment 02 shall prevail.
+
+The parties agree as follows:
+
+DEFINITIONS
+
+NATIONAL LANGUAGE SUPPORT (NLS) shall mean that the Licensed Works have the
+ability to enter, store, process, retrieve, distribute, display and print
+character data in the foreign language of choice. NLS includes
+Internationalization characteristics.
+
+INTERNATIONALIZATION shall mean that a Licensed Work has the ability to
+implement national functions and the facility to be translated to other
+languages. Enablement includes three (3) categories which correspond to
+characteristics of various languages: (a) single byte character set (SBCS),
+left-to-right languages (U.S. English, German, Greek, etc.); (b) single byte
+bi-directional languages (Hebrew, Arabic); and (c) double byte character set
+(DBCS) or multi-byte character set (MBCS) languages (Japanese, Korean,
+simplified and traditional Chinese). The Licensed Works shall avoid hardcoding
+language dependent codepages and character sets.
+
+SERVER TOOLS shall mean Selectica's server-side development and maintenance
+tools, including Enterprise Data Translator, KBS Repository, Application Data
+Manager, and Management Center (System Management Console).
+
+(1)   UPDATED DOCUMENTATION. The February 3, 2003 version of the document
+referenced in Schedule D of the SOW and titled "Selectica Application
+Configuration Guidelines" is part of the Documentation for the Licensed Works.
+
+(2)   DEVELOPMENT SERVER ON AIX/DB2.
+
+      a)    Porting of Server Tools. Selectica will deliver to IBM a ported
+      version of the Server Tools software that runs on AIX versions 4.3.3 and
+      5.1 and DB2 version 7.2 in accordance with acceptance criteria that will
+      be defined as part of the Work Authorization ("WA") exercise described in
+      paragraph 2)b) below. Selectica will deliver this software to IBM no later
+      than March 31, 2003 by making it available for FTP download. Recognizing
+      that IBM's implementation efforts will be seriously impacted by delays,
+      IBM reserves the right to deduct 20% of the next quarterly Maintenance Fee
+      payment(s) for each month (or portion thereof) after March 2003 in which
+      the Server Tools are not delivered to IBM in accordance with IBM's
+      acceptance criteria. IBM may also withhold payment of Maintenance Fees
+      until the Server Tools are delivered in accordance with IBM's acceptance
+      criteria.
+
+      b)    Interim Development Environment. Until Selectica has acceptably
+      completed the activity described in paragraph (2)a) above, Selectica
+      agrees to provide IBM with network access to a development
+      hardware/software environment physically located at a Selectica facility
+      (the "Interim Environment") at no cost to IBM. Selectica will, on the
+      Effective Date, deliver to IBM a draft WA subject to IBM's approval that
+      details Selectica's responsibilities for: i) the setup of the Interim
+      Environment; ii) maintenance support of the Interim Environment to ensure
+      adequate availability to IBM (weekdays, 7 AM CST to 7 PM CST); and iii)
+      planning and execution of the migration from the Interim Environment to
+      IBM owned AIX server- side development server (the "IBM Environment"). The
+      WA will include acceptance criteria to confirm successful migration of the
+      IBM work products created in the Interim Environment to the IBM
+      Environment, as well as the operation of the ported Server Tools.
+      Selectica will complete the responsibilities described above as detailed
+      in the WA at no charge to IBM. IBM agrees that no IBM Confidential
+      information will be used on this server.
+
+(3)   NLS/ DBCS ENABLEMENT.
+
+      Selectica will deliver to IBM a version of the Licensed Works that meets
+      the Internationalization requirements described in the Exhibit to this
+      Amendment entitled "Internationalization Requirements" (the
+      "Internationalized Licensed Works"). Selectica will deliver this software
+      to IBM no later than March 31, 2003 by making it available for FTP
+      download. Selectica will demonstrate to IBM's satisfaction that the
+      Internationalized Licensed Works meet the
+
+
+                                                                     Page 1 of 3
+<PAGE>
+      requirements specified in Exhibit 1. Recognizing that IBM's implementation
+      efforts will be seriously impacted by delays, IBM reserves the right to
+      deduct 50% of the next quarterly Maintenance Fee payment(s) for each month
+      (or portion thereof) after March 2003 in which the Internationalized
+      Licensed Works are not delivered to IBM in accordance with the
+      Internationalization requirements. IBM may also withhold payment of
+      Maintenance Fees until the Internationalized Licensed Works are delivered
+      in accordance with IBM's acceptance criteria.
+
+(4)   MEMORY REQUIREMENTS FOR CLIENT APPLICATION. Furthermore, Selectica
+recognizes the importance to IBM of application performance within the confines
+of reasonable memory requirements for the client solution. Selectica understands
+that IBM expects Selectica to conduct detailed performance analysis and testing
+and to communicate test results to IBM. Selectica agrees to use commercially
+reasonable efforts to maintain an environment that is focused on performance and
+recognizes that IBM users will be required to have the Licensed Works co-exist
+with other applications like Lotus Notes and Siebel.
+
+IN WITNESS WHEREOF, the parties hereto, intending to be legally bound, have
+caused this Amendment 02 to be executed by their respective duly authorized
+representatives. Any signed copy of this Amendment 02 made by reliable means
+(e.g. photocopy or facsimile) is considered an original.
+
+ACCEPTED AND AGREED TO:
+
+
+
+By:  /s/ John R. Sweetman                 2/28/2003
+-------------------------------------------------------------
+IBM Signature                               Date
+
+
+John R. Sweetman
+-------------------------------------------------------------
+Printed Name
+
+
+Relationship Manager, IBM Software Procurement
+-------------------------------------------------------------
+Title and Organization
+
+
+IBM Address:
+-------------------------------------------------------------
+IBM Corporation
+3039 Cornwallis Road
+Research Triangle Park, NC 27709
+USA
+
+
+ACCEPTED AND AGREED TO:
+
+
+
+By:  /s/ Sanjay Mittal                    2/28/2003
+-------------------------------------------------------------
+Selectica Signature                         Date
+
+
+Sanjay Mittal
+-------------------------------------------------------------
+Printed Name
+
+
+President & CEO
+-------------------------------------------------------------
+Title and Organization
+
+
+Selectica Address:
+-------------------------------------------------------------
+Selectica, Inc.
+3 W. Plumeria Drive
+San Jose, CA  95134
+
+
+                                                                     Page 2 of 3
+<PAGE>
+EXHIBIT 1:  INTERNATIONALIZATION REQUIREMENTS
+
+Selectica will deliver Internationalized Licensed Works as follows:
+
+-     The Internationalized Licensed Works will enable multiple language support
+      (including DBCS languages) on a single server for concurrent user sessions
+      where the languages are associated with different code pages. E.g. and for
+      example, the ability to execute multiple user sessions with concurrent
+      session # 1 being displayed in French, concurrent session #2 displayed in
+      Kanji, concurrent session #3 displayed in English, and concurrent session
+      #4 displayed in Hangul.
+
+-     The Internationalized Licensed Works will be able to use different code
+      pages on the same server on the same time and will no longer limit
+      responses returned to the application page and will no longer be limited
+      to the default java process character set.
+
+-    The Internationalized Licensed Works will allow end users to switch the
+     language being used for the UI and data elements during a configuration
+     session. When the user changes the language, the selections made during the
+     configuration session up to that point should be retained.
+
+-     The Internationalized Licensed Works will allow model generated text (such
+      as constraint failure message) to be displayed in the user's native
+      language during runtime.
+
+                                                                     Page 3 of 3
+
+
+</TEXT>
+</DOCUMENT>

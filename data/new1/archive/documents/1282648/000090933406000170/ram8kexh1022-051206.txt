@@ -1,0 +1,172 @@
+<DOCUMENT>
+<TYPE>EX-10.22
+<SEQUENCE>11
+<FILENAME>ram8kexh1022-051206.txt
+<TEXT>
+                                                                   EXHIBIT 10.22
+
+STUSCO Purchase Contract No. LPS690012                         February 1, 2006
+Dated:  June 19, 2001
+Amendment No:  007                                                   Page 1 of 2
+RWG Contract No:
+
+                                 EXHIBIT A
+
+RWG Energy Contract:         Rachel Tarantola     STUSCO Contract: Terry Allison
+Phone:  915-632-0647                                        Phone:  817-799-0104
+
+ITEM(S) AMENDED:
+
+<TABLE>
+<CAPTION>
+Attachment                   Lease
+  Number   Effective Date    Number   Lease Name    Operator        Action
+  ------   --------------    ------   ----------    --------        ------
+<S>           <C>           <C>        <C>         <C>          <C>
+    1         1/1/2006                 Various     WG Energy    Effective 01-01-06 price change.
+                                                                   See attachments 1A & 1B
+</TABLE>
+
+
+RWG Energy's Sale and Delivery to STUSCO:
+
+Quality:   North Texas sweet type crude oil.
+
+Quantity:  1.  Equal to production purchased by STUSCO from leases listed on
+               Attachment #1A.
+           2.  Equal to production purchased by STUSCO from leases listed on
+               Attachment #1B.
+
+Delivery:  1.  At header of leases on Attachment 1A, into crude oil
+               transports designated by STUSCO.
+           2.  From the leases listed on Attachment 1B into TEPPCO pipeline.
+
+Price:     1.  Koch's WTI posting plus Platt's Trade-month P+ minus $1.20/bbl.
+           2.  Koch's WTI posting plus Platt's Trade-month P+ minus $1.20/bbl.
+
+Payment:   1.  Due on or before the 20th of the month following month of
+               delivery.
+
+TERM
+
+1.       For the term of November 1, 2000 through December 31, 2005 and month to
+         month thereafter until the 1st of the month following either party's 30
+         days written notice of termination.
+
+2.       For the term of August 1, 2000 through December 31, 2005, and month to
+         month thereafter, until the 1st of the month following either party's
+         30 days written notice of termination.
+
+SPECIAL PROVISIONS:
+
+If there is an increase in the transportation costs incurred by STUSCO to move
+the crude received under this agreement to market, STUSCO may adjust the price
+deductions to compensate for the transportation cost changes.
+
+If there is a material decline in the quality of crude received under this
+agreement to market, STUSCO may adjust the price deductions to compensate for
+the quality change.
+
+ASSIGNMENT:
+
+The Contract shall extend to and be binding upon the successors and assigns of
+the Parties, but neither this Contract nor any part, specifically including the
+right to receive payment, shall be assigned or transferred by either party or by
+law without the prior written consent of the other Party, which shall not be
+unreasonably withheld, and any assignment or transfer made by either Party
+without the other Party's written consent need not be recognized by and shall
+not be binding upon the other Party.
+
+<PAGE>
+
+STUSCO Purchase Contract No. LPS690012                       February 1, 2006
+Dated:  June 19, 2001
+Amendment No:  007                                           Page 2 of 2
+RWG Contract No:
+
+LIMITATION OF LIABILITY:
+Neither party shall be liable for indirect, special, or consequential damages.
+
+<TABLE>
+                                                            SHELL TRADING (US) CO
+
+CUSTOMER NAME             RWG ENERGY                           ATTACHMENT 1A
+STUSCO\CUSTOVERCONTRACLPS690012
+ADMENDMENT
+REVISED          2/1/2006
+<CAPTION>
+------------------------------------------------------------------------------------------------------------------------------------
+                                                                CUSTOMER
+LEASE        RRC#         PROPERTY NAME        COUNTY    STATE    LEASE                           PRICE    PLUS/LESS      DECIMAL
+NUMBER                                                           NUMBER        OPERATOR           BASIS       BBL         INTEREST
+------------------------------------------------------------------------------------------------------------------------------------
+<C>         <C>      <C>                     <C>          <C>              <C>                   <C>        <C>         <C>
+2928        171151         TARRANT B 7          JACK       TX              WG ENERGY HOLDINGS     KPP       -1.2000     1.0000000
+2928         29658        TARRANT B 10          JACK       TX              WG ENERGY HOLDINGS     KPP       -1.2000     1.0000000
+2929         17152         ASHE A & 5           WISE       TX              WG ENERGY HOLDINGS     KPP       -1.2000     1.0000000
+2934         17153      ASHE BCDE 8, C 11       WISE       TX              WG ENERGY HOLDINGS     KPP       -1.2000     1.0000000
+2940        131225        DAVENPORT A 4         WISE       TX              WG ENERGY HOLDINGS     KPP       -1.2000     1.0000000
+2944         24918        DAVEM[PRT B 5         WISE       TX              WG ENERGY HOLDINGS     KPP       -1.2000     1.0000000
+2945        151550      HALMAN-SMITH A 1        WISE       TX              WG ENERGY HOLDINGS     KPP       -1.2000     1.0000000
+2947         29688           SEALY B            WISE       TX              WG ENERGY HOLDINGS     KPP       -1.2000     1.0000000
+2948        143051          SEALY C 2           WISE       TX              WG ENERGY HOLDINGS     KPP       -1.2000     1.0000000
+2949        154720          SEALY C J           WISE       TX              WG ENERGY HOLDINGS     KPP       -1.2000     1.0000000
+2950         17340           SLAY A             WISE       TX              WG ENERGY HOLDINGS     KPP       -1.2000     1.0000000
+2952        115885         TARRANT E 2          WISE       TX              WG ENERGY HOLDINGS     KPP       -1.2000     1.0000000
+2954        130222         TARRANT E 5          WISE       TX              WG ENERGY HOLDINGS     KPP       -1.2000     1.0000000
+2955        174843         TARRANT E 7          WISE       TX              WG ENERGY HOLDINGS     KPP       -1.2000     1.0000000
+2983         29573         TARRANT A 7          JACK       TX              WG ENERGY HOLDINGS     KPP       -1.2000     1.0000000
+2984        171171         TARRANT A 8          JACK       TX              WG ENERGY HOLDINGS     KPP       -1.2000     1.0000000
+2965         29767        TARRANT A 10          JACK       TX              WG ENERGY HOLDINGS     KPP       -1.2000     1.0000000
+ 51         135820         TARRANT B 4          JACK       TX              WG ENERGY HOLDINGS     KPP       -1.2000     1.0000000
+ 55          10034   CHICO CONGLOMERATE UNIT    WISE       TX              WG ENERGY HOLDINGS     KPP       -1.2000     1.0000000
+4050        118760         TARRANT E 8          WISE       TX              WG ENERGY HOLDINGS     KPP       -1.2000     1.0000000
+5208         24913        DAVENPORT B 5      WILLIAMSON    TX              WG ENERGY HOLDINGS     KPP       -1.2000     1.0000000
+52617        10334    WEST CHICIO UNIT 711      WISE       TX              WG ENERGY HOLDINGS     KPP       -1.2000     1.0000000
+</TABLE>
+
+
+<TABLE>
+                                                             SHELL TRADING (US) CO
+
+CUSTOMER NAME             RWG ENERGY                            ATTACHMENT 1B
+STUSCO\CUSTOVERCONTRACLPS690012
+ADMENDMENT
+REVISED          2/1/2006
+<CAPTION>
+-------------------------------------------------------------------------------------------------------------------------------
+                                                           CUSTOMER
+LEASE     RRC#       PROPERTY NAME        COUNTY    STATE    LEASE                           PRICE    PLUS/LESS      DECIMAL
+NUMBER                                                      NUMBER        OPERATOR           BASIS       BBL         INTEREST
+-------------------------------------------------------------------------------------------------------------------------------
+<C>      <C>     <C>                  <C>           <C>              <C>                       <C>       <C>         <C>
+ 3085    09635       SMA UNIT "8"       WICHITA     TX               WG ENERGY HOLDINGS        KPP       -1.2000     1.0000000
+ 3084    05387       WM. THOM UNIT      WICHITA     TX               WG ENERGY HOLDINGS        KPP       -1.2000     1.0000000
+ 3088    25755        R.S. ALLEN        WICHITA     TX               WG ENERGY HOLDINGS        KPP       -1.2000     1.0000000
+ 3089    25754      RED RIVER ALLEN     WICHITA     TX               WG ENERGY HOLDINGS        KPP       -1.2000     1.0000000
+ 3090    25755       BROWN & CROSS      WICHITA     TX               WG ENERGY HOLDINGS        KPP       -1.2000     1.0000000
+ 3091    25757       B.A.BYWATERS       WICHITA     TX               WG ENERGY HOLDINGS        KPP       -1.2000     1.0000000
+ 3092    05308     CORSICANA HONAXER    WICHITA     TX               WG ENERGY HOLDINGS        KPP       -1.2000     1.0000000
+ 3093    05307       R.R. HAMILTON      WICHITA     TX               WG ENERGY HOLDINGS        KPP       -1.2000     1.0000000
+ 3094    28780       S.E. HONAKER       WICHITA     TX               WG ENERGY HOLDINGS        KPP       -1.2000     1.0000000
+ 3095    28761       C.M. JPUTNAM       WICHITA     TX               WG ENERGY HOLDINGS        KPP       -1.2000     1.0000000
+ 3096    28762         RIO BRAVO        WICHITA     TX               WG ENERGY HOLDINGS        KPP       -1.2000     1.0000000
+ 3098    22331           H&TC         WILLBARGER    TX               WG ENERGY HOLDINGS        KPP       -1.2000     1.0000000
+ 3099    22332        W.R. PIPER      WILLBARGER    TX               WG ENERGY HOLDINGS        KPP       -1.2000     1.0000000
+ 3100    22333      FRANCIS SUMNER    WILLBARGER    TX               WG ENERGY HOLDINGS        KPP       -1.2000     1.0000000
+ 3103    05858      SECOND BYWATER      WICHITA     TX               WG ENERGY HOLDINGS        KPP       -1.2000     1.0000000
+ 3106    05883     GEORGE S. SKINNER    WICHITA     TX               WG ENERGY HOLDINGS        KPP       -1.2000     1.0000000
+ 3107    05585       J.W. STRINGER      WICHITA     TX               WG ENERGY HOLDINGS        KPP       -1.2000     1.0000000
+ 3108    13394   W.T. WAGGONER A NCT 3  WICHITA     TX               WG ENERGY HOLDINGS        KPP       -1.2000     1.0000000
+ 3390    13380    W.B. HONAXER NCT 1    WICHITA     TX               WG ENERGY HOLDINGS        KPP       -1.2000     1.0000000
+ 4512    05380        HUGH REILLY       WICHITA     TX               WG ENERGY HOLDINGS        KPP       -1.2000     1.0000000
+ 4513    25445       REILLY HEIRS       WICHITA     TX               WG ENERGY HOLDINGS        KPP       -1.2000     1.0000000
+ 4514    05388         W.W. VILES       WICHITA     TX               WG ENERGY HOLDINGS        KPP       -1.2000     1.0000000
+ 4515    09008     ELECTRA GAS PLANT  WILLBARGER    TX               WG ENERGY HOLDINGS        KPP       -1.2000     1.0000000
+ 5207    05338         OWEN M J         WICHITA     TX               WG ENERGY HOLDINGS        KPP       -1.2000     1.0000000
+48001    05858    BYWATERS LACT UNIT    WICHITA     TX               WG ENERGY HOLDINGS        KPP       -1.2000     1.0000000
+48013    05898     BICKLEY LACT UNIT    WICHITA     TX               WG ENERGY HOLDINGS        KPP       -1.2000     1.0000000
+48089    13351    W.B. HONAXER NCT 2    WICHITA     TX               WG ENERGY HOLDINGS        KPP       -1.2000     1.0000000
+</TABLE>
+</TEXT>
+</DOCUMENT>

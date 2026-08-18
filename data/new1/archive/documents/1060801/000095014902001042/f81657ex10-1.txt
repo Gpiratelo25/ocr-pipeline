@@ -1,0 +1,100 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>8
+<FILENAME>f81657ex10-1.txt
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+<PAGE>
+
+                                                                   EXHIBIT 10.1
+
+
+                   FIRST AMENDMENT TO EMAIL SERVICES AGREEMENT
+
+        The following amendment (the "Amendment") is entered into by and between
+Critical Path, Inc. and ICQ, Inc. (together the "Parties) as of this 7th day of
+May, 1999.
+
+WHEREAS, the Parties have entered into that certain Email Services Agreement
+dated as of January 29, 1999.
+
+WHEREAS, the Parties now desire to amend the Agreement as provided in this
+Amendment below.
+
+WHEREAS, the Parties now desire to amend the Agreement as provided in this
+Amendment below.
+
+NOW THEREFORE, for good and valuable consideration the sufficiency of which is
+hereby acknowledged by the Parties, the Parties agree as follows:
+
+        1. Definitions. Any capitalized term not otherwise defined herein shall
+have the meanings assigned to them in the Agreement.
+
+        2. Amendment. The Agreement shall be amended so that the existing
+Section 9 shall be deleted in its entirety and replaced with the following:
+
+        9. EXCLUSIVITY
+
+Except as provided in this Section 9, the parties agree that the relationship
+created by this Agreement shall be non-exclusive, and each of the parties may
+enter into the same or a similar relationship with one or more third parties.
+Without limiting the generality of the foregoing, ICQ shall be free to enter
+into agreements with third parties for the use of integration of other web-based
+email software and services with the ICQ Service, and CP shall be free to enter
+into agreements with third parties pursuant to which it provides email products
+and services to such third parties. However, notwithstanding the foregoing, CP
+agrees that, during the term of this Agreement, it shall not integrate any email
+or email related service it provides to any entity with any instant messaging,
+or similar or related online, real time messaging product ("Instant Messaging
+Product") of that entity (or of an affiliate of that entity), nor shall CP
+integrate any Instant Messaging Program other than ICQ instant messaging product
+into any email service provided by CP to end users directly or to more than one
+particular customer of CP on a case-by-case basis (with any such integration for
+the latter still being subject to the next following sentence). Further, CP
+agrees that it will not assist any of its customers or partners in integrating
+Instant Messaging Products other than ICQ instant messaging products into any
+email product or service provided by CP or its affiliates, unless such customer
+or partners insists upon such assistance after CP has used commercially
+reasonably efforts to persuade such customer or partner to instead use ICQ
+instant messaging products and
+
+
+<PAGE>
+
+services. During the term of this Agreement, CP will promote ICQ as CP's
+preferred integrated instant messaging service and product.
+
+        3. No Other Changes. Except as expressly amended herein, the provisions
+of the Agreement shall remain in full force and effect and nothing in this
+Amendment shall be constructed as a waiver of any of the rights and obligations
+of the Parties under the Agreement.
+
+        4. Governing Law. This Amendment shall be interpreted, constructed and
+enforced in all respects in accordance with the laws of the Commonwealth of
+Virginia except for it conflicts of laws principles.
+
+        5. Counterparts. This Amendment may be executed in the counterparts,
+each of which will constitute an original but all of which when taken together
+will constitute one instrument.
+
+        In witness whereof, the Parties have executed this Amendment on the date
+first written above.
+
+
+
+ICQ, INC.                                  CRITICAL PATH, INC.
+
+
+By:  /s/                                   By:  /s/
+   ----------------------------------         ----------------------------------
+
+Name:                                      Name:
+     --------------------------------           --------------------------------
+
+Title:                                     Title:
+      -------------------------------            -------------------------------
+
+
+
+</TEXT>
+</DOCUMENT>

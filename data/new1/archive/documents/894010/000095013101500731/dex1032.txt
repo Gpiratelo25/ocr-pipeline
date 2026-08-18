@@ -1,0 +1,136 @@
+<DOCUMENT>
+<TYPE>EX-10.32
+<SEQUENCE>11
+<FILENAME>dex1032.txt
+<DESCRIPTION>GLOBAL OPERATING AGREEMENT
+<TEXT>
+
+<PAGE>
+
+                               FIRST AMENDMENT TO
+                AMENDED AND RESTATED GLOBAL OPERATING AGREEMENT
+
+
+     FIRST AMENDMENT TO AMENDED AND RESTATED GLOBAL OPERATING AGREEMENT dated as
+of February 1, 2001 (this "Amendment") entered into by and between GENERAL
+ELECTRIC CAPITAL CORPORATION ("GE Capital") and DANKA BUSINESS SYSTEMS PLC
+("Danka").
+
+                                    RECITALS
+                                    --------
+
+     WHEREAS, Danka and GE Capital are parties to that certain Amended and
+Restated Global Operating Agreement dated effective as of March 31, 2000 (the
+"Global Operating Agreement"); and
+
+     WHEREAS, Danka and GE Capital have agreed, upon the terms and conditions
+specified herein, to amend certain provisions of the Global Operating Agreement
+as hereinafter set forth;
+
+     NOW, THEREFORE, in consideration of the premises and the mutual covenants
+hereinafter contained and for other good and valuable consideration, the receipt
+and sufficiency of which are hereby acknowledged, the parties hereto agree as
+follows:
+
+     Section 1.  Defined Terms.  The capitalized terms used herein which are
+defined in the Global Operating Agreement shall have the respective meanings
+assigned to them in the Global Operating Agreement except as otherwise provided
+herein.
+
+     Section 2.  Amendments to the Global Operating Agreement.  The Global
+Operating Agreement is hereby amended as of the Amendment Effective Date (as
+hereinafter defined) as follows:
+
+     (a) Schedule X to the Global Operating Agreement is amended by deleting in
+their entirety the lines thereof reading:
+
+     "on and after 12/31/00 through 3/30/01    $426,438,000
+     on and after 3/31/01 through 6/30/01      $448,594,000"
+
+and substituting therefor the following lines:
+
+     "on and after 12/31/00 through 3/28/01    $286,000,000
+     on and after 3/29/01 through 6/30/01      $448,594,000"
+
+     (b) The defined term "Danka Termination Event" is hereby amended in its
+entirety to read as follows:
+<PAGE>
+
+      "Danka Termination Event" means the occurrence of any of the following:
+
+      (i) an Indebtedness Default that shall have continued for 90 consecutive
+      days or longer; or
+
+      (ii) a Net Worth Test Failure that shall have continued for 90 consecutive
+      days or longer; or
+
+      (iii)  a Qualifying Change in Control of Danka; or
+
+      (iv) a Complete Cessation of Distribution of Office Imaging Solutions; or
+
+      (v) a Complete Cessation of Service.
+
+     Section 3.  References to this Amendment and Effect on Principal Documents.
+
+     (a) This Amendment shall be effective on the date (the "Amendment Effective
+Date") which is the later to occur of (1) effectiveness, in accordance with its
+terms, of that certain Tenth Amendment to Credit Agreement dated as of December
+15, 2000 by and between Danka, Bank of America, National Association and the
+other parties thereto in the form attached hereto as Exhibit A, and (2)
+execution and delivery of this Amendment by the parties hereto.  Danka
+acknowledges its obligation under Section 4.1(h) of the Global Operating
+Agreement to deliver to GE Capital a true and correct copy of such amendment.
+
+     (b) From and after the effective date of this Amendment each reference in
+the Global Operating Agreement to "this agreement", "hereunder" or "herein" or
+words of like import shall mean and be a reference to the Global Operating
+Agreement, as affected and amended hereby.  Except as specifically amended
+herein, the Global Operating Agreement shall remain in full force and effect and
+is hereby ratified and confirmed in all respects.
+
+     (c) Danka expressly acknowledges and agrees that GE Capital's acceptance
+of, and agreement to, the provisions of this Amendment does not constitute an
+election by GE Capital to adopt a Modified Net Worth Test pursuant to Section
+6.3 of the Global Operating Agreement.  Nothing contained herein shall be
+construed to prohibit or impair GE Capital's right to make such an election at a
+future date.
+
+     Section 4.  Governing Law; Binding Effect.  In all respects, including all
+matters of construction, validity and performance, this Amendment shall be
+governed by, and construed and enforced in accordance with, the internal laws of
+the State of New York (without regard to conflict of law provisions) and any
+applicable laws of the United States of America, and shall be binding upon the
+parties hereto and their respective successors and permitted assigns.
+
+                                       2
+<PAGE>
+
+     Section 5.  Execution in Counterparts.  This Amendment may be executed in
+any number of counterparts and by different parties hereto in separate
+counterparts, each of which when so executed shall be deemed to be an original
+and all of which taken together shall constitute one and the same agreement.
+
+     IN WITNESS WHEREOF, this Amendment has been duly executed as of the date
+first written above.
+
+
+                              GENERAL ELECTRIC
+                              CAPITAL CORPORATION
+
+                              By:  /s/ William H. Cary
+                                  ---------------------------------------
+                              Name:   William H. Cary
+                              Title:  Vice President
+
+
+                              DANKA BUSINESS SYSTEMS PLC
+
+
+                              By:  /s/ Brian L. Merriman
+                                  ---------------------------------------
+                              Name:   Brian L. Merriman
+                              Title:  President and Chief Operating Officer
+
+                                       3
+</TEXT>
+</DOCUMENT>

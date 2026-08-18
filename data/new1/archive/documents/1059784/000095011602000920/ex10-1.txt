@@ -1,0 +1,2734 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>3
+<FILENAME>ex10-1.txt
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+<PAGE>
+EXHIBIT 10.1
+
+This copy of the Amended and Restated Subscription, Joint Development and
+Operating Agreement has been redacted to omit trade secrets and confidential
+commercial and financial information ("Confidential Information"). Text
+omissions are indicated by asterisks (i.e., "***") in the place of omitted text.
+Pagination of this version of the Amended and Restated Subscription, Joint
+Development and Operating Agreement differs from the non-redacted version due to
+the textual omissions. Section and paragraph designations, however, have been
+maintained.
+
+                                                                    Amended JDOA
+                                                               Execution Version
+                                                          Dated January 15, 2002
+
+
+
+                              AMENDED AND RESTATED
+
+             SUBSCRIPTION, JOINT DEVELOPMENT AND OPERATING AGREEMENT
+
+                                     BETWEEN
+
+                              ELAN CORPORATION, PLC
+
+
+                        ELAN INTERNATIONAL SERVICES, LTD.
+
+
+                                       AND
+
+
+                        GENEREX BIOTECHNOLOGY CORPORATION
+
+
+
+                                       AND
+
+
+                             GENEREX (BERMUDA), LTD.
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+                                      INDEX
+                                      -----
+
+CLAUSE 1   DEFINITIONS
+
+CLAUSE 2   NEWCO'S BUSINESS
+
+CLAUSE 3   REPRESENTATIONS AND WARRANTIES
+
+CLAUSE 4   AUTHORIZATION AND CLOSING
+
+CLAUSE 5   DIRECTORS; MANAGEMENT AND R&D COMMITTEES
+
+CLAUSE 6   THE BUSINESS PLAN AND REVIEWS
+
+CLAUSE 7   RESEARCH AND DEVELOPMENT
+
+CLAUSE 8   COMMERCIALIZATION
+
+CLAUSE 9   OWNERSHIP OF INTELLECTUAL PROPERTY RIGHTS/NONCOM PETITION
+
+CLAUSE 10  INTELLECTUAL PROPERTY RIGHTS
+
+CLAUSE 11  CROSS LICENSING/EXPLOITATION OF PRODUCTS OUTSIDE FIELDS
+
+CLAUSE 12  REGULATORY MATTERS/CLINICAL TRIALS
+
+CLAUSE 13  MANUFACTURING
+
+CLAUSE 14  TECHNICAL SERVICES AND ASSISTANCE
+
+CLAUSE 15  AUDITORS, BANKERS,
+           ACCOUNTING REFERENCE DATE; SECRETARY
+
+CLAUSE 16  TRANSFER OF SHARES; RIGHTS OF FIRST OFFER; TAG ALONG RIGHTS
+
+CLAUSE 17  MATTERS REQUIRING DIRECTORS' APPROVAL
+
+CLAUSE 18  DISPUTES
+
+CLAUSE 19  TERMINATION
+
+CLAUSE 20  SHARE RIGHTS
+
+CLAUSE 21  CONFIDENTIALITY
+
+CLAUSE 22  COSTS
+
+CLAUSE 23  GENERAL
+
+<PAGE>
+
+THIS AMENDED AND RESTATED SUBSCRIPTION, JOINT DEVELOPMENT AND OPERATING
+AGREEMENT made this 15th day of January 2002
+
+BETWEEN:
+
+(1)      ELAN CORPORATION, PLC, a public limited company incorporated under the
+         laws of Ireland, and having its registered office at Lincoln House,
+         Lincoln Place, Dublin 2, Ireland;
+
+(2)      ELAN INTERNATIONAL SERVICES, LTD., a Bermuda exempted limited liability
+         company incorporated under the laws of Bermuda, and having its
+         registered office at Clarendon House, 2 Church St., Hamilton, Bermuda
+         ("EIS");
+
+(3)      GENEREX BIOTECHNOLOGY CORPORATION a corporation duly incorporated and
+         validly existing under the laws of Delaware; and
+
+(4)      GENEREX (BERMUDA), LTD. a Bermuda exempted limited liability company
+         incorporated under the laws of Bermuda, and having its registered
+         office at Clarendon House, 2 Church St., Hamilton, Bermuda ("Newco").
+
+
+                                    RECITALS:
+
+A.       Newco, Generex, Elan and EIS have entered into a Subscription, Joint
+         Development and Operating Agreement, dated as of January 17, 2001 (the
+         "Original JDOA"). Capitalized terms used herein are defined below.
+
+B.       Pursuant to the Original JDOA, Newco issued and sold to Generex, and
+         Generex purchased from Newco, for aggregate consideration of $7.5
+         million, 6,000 Newco's common shares, par value $1.00 per share (the
+         "Common Shares").
+
+         Additionally, Newco issued and sold to the Shareholders (as defined
+         below), and the Shareholders purchased from Newco, for aggregate
+         consideration of $7.5 million apportioned between them as set forth
+         herein, 6,000 Newco's preference Shares, par value $1.00 per share (the
+         "Preference Shares"), allocated 3,612 Preference Shares to Generex for
+         aggregate consideration of $4.515 million and 2,388 Preference Shares
+         to EIS for aggregate consideration of $2.985 million.
+
+B.       As of the Closing Date, Elan had entered into the Original Elan License
+         Agreement, and Generex has entered into the Original Generex License
+         Agreement.
+
+                                       1
+<PAGE>
+
+
+C.       Elan and Generex have agreed to co-operate in the research, development
+         and commercialization of the Products (as defined below) based on their
+         respective technologies.
+
+D.       Elan and Generex entered into the Original JDOA for the purpose of
+         recording the terms and conditions regulating their relationship with
+         each other, with respect to the licenses of intellectual property
+         granted under the Original License Agreements.
+
+E.       Contemporaneously herewith, Elan and Newco are amending the Original
+         Elan License Agreement and entering into the Amended Elan License
+         Agreement with respect to the Elan Intellectual Property and Generex
+         and Newco are amending the Original Generex License Agreement and
+         entering into the Amended Generex License Agreement with respect to the
+         Generex Intellectual Property.
+
+F.       The Parties desire to desire to amend and restate the Original JDOA in
+         its entirety, in accordance with the terms and conditions set forth
+         below.
+
+
+NOW IT IS HEREBY AGREED AS FOLLOWS:
+
+                                    CLAUSE 1
+
+                                   DEFINITIONS
+
+1.1      In this Amended JDOA, the following terms shall, where not inconsistent
+         with the context, have the following meanings respectively.
+
+         "Abandoned Compound" shall have the meaning as such term is defined in
+         Clause 2.
+
+         "Additional Compound" shall have the meaning as such term is defined in
+         clause 2.
+
+
+         "Affiliate" shall mean any corporation or entity controlling,
+         controlled or under the common control of Elan or Generex or any third
+         party, as the case may be, excluding, in the case of Elan an Elan JV.
+         For the purpose of this definition, (i) "control" shall mean direct or
+         indirect ownership of [***] or more of the Shares or shares entitled to
+         vote for the election of directors and (ii) Newco shall not be an
+         Affiliate of Elan or EIS.
+
+         "Alternative Compound(s)" shall have the meaning as such term is
+         defined in Clause 2.4.
+
+
+                                       2
+<PAGE>
+
+         "Amended Elan License Agreement" shall mean the amended and restated
+         license agreement between Elan and Newco, of even date herewith,
+         attached hereto in Schedule 1.
+
+         "Amended Generex License Agreement" shall mean the amended and restated
+         license agreement between Generex and Newco, of even date herewith,
+         attached hereto in Schedule 2.
+
+         "Amended JDOA" shall mean this Amended and Restated Subscription, Joint
+         Development and Operating Agreement (which expression shall be deemed
+         to include the Recitals and the Schedules hereto).
+
+         "Amended License Agreements" shall mean the Amended Elan License
+         Agreement and the Amended Generex License Agreement.
+
+         "Board" shall mean the board of directors of Newco.
+
+         "Buccal Delivery" shall mean the delivery of the majority of a dose of
+         a pharmaceutical agent to and through the tissues of the mouth and/or
+         throat.
+
+         "Business" shall mean the business specified in the Business Plan.
+
+         "Business Plan" shall mean the business plan and program of development
+         to be agreed by Elan and Generex pursuant to Clause 6, with respect to
+         the research, development, and commercialization of the Products, which
+         Business Plan shall contain, among other things, to the extent
+         practicable, the research and development objectives, desired Product
+         specifications, clinical indications, preliminary clinical trial
+         designs (Phase I/II), development timelines, budgeted costs and the
+         relative responsibilities of Generex and Elan as it relates to the
+         implementation of the R&D Plan.
+
+         "Certificate of Designations" shall mean that certain certificate of
+         designations, preferences and rights of Series A Preferred Stock of
+         Generex issued on or prior to the Closing Date.
+
+         "Closing Date" shall mean January 17, 2001, the date upon which the
+         Original Definitive Documents were executed and delivered by the
+         Parties and the transactions effected thereby were closed.
+
+         "Common Shares Equivalents" shall mean any options, warrants, rights or
+         any other securities convertible, exercisable or exchangeable, in whole
+         or in part, for or into Common Shares.
+
+         "Compound(s)" shall mean Morphine and/or any Additional Compound that
+         is approved in writing by the Management Committee in accordance with
+         Clause 2.
+
+                                       3
+<PAGE>
+
+
+         "Definitive Documents" shall mean this Amended JDOA, the Amended Elan
+         License Agreement, the Amended Generex License Agreement, the Generex
+         Securities Purchase Agreement, the Registration Rights Agreements, the
+         Certificate of Designations and associated documentation of even date
+         therewith or herewith, by and between Generex, Elan, EIS and Newco, as
+         applicable.
+
+         "Development Funding" shall have the meaning set forth in Clause 6.
+
+         "Directors" shall mean, at any time, the directors of Newco.
+
+         "Effective Date" shall mean the date of this Amended JDOA.
+
+         "EIS Director" has the meaning set forth in Clause 5.
+
+         "EIS/Newco Option" shall have the meaning set forth in Clause 8.
+
+
+         "Elan" shall mean Elan Corporation, plc. and the Affiliates of Elan
+         Corporation, plc. within the [***] Business Unit of the Elan Group.
+         [***]
+
+         "Elan Group" shall mean all the Affiliates of Elan Corporation, plc.
+
+         "Elan Intellectual Property" has the meaning assigned thereto in the
+         Amended Elan License Agreement.
+
+         "Elan JV" shall mean an entity that Elan and a third party (i)
+         establish or have established, (ii) take shareholdings in or have a
+         right to take shareholdings in, and (iii) grant certain licenses in and
+         to certain intellectual property rights for the purpose of implementing
+         a strategic alliance.
+
+         "Elan License" has the meaning assigned thereto in the Amended Elan
+         License Agreement.
+
+         "Encumbrance" shall mean any liens, charges, encumbrances, equities,
+         claims, options, proxies, pledges, security interests, or other similar
+         rights of any nature.
+
+         "EPIL" shall mean Elan Pharma International Ltd, a private limited
+         company incorporated under the laws of Ireland.
+
+         "Exchange Right" has the meaning assigned to such term in the
+         Certificate of Designations in effect on the Closing Date.
+
+         "Exchange Act" shall mean the Securities Exchange Act of 1934, as
+         amended.
+
+
+         [***]
+
+                                       4
+<PAGE>
+
+         "FDA" shall mean the United States Food and Drug Administration or any
+         other successor agency in the USA.
+
+         "Fields" shall mean Field 1 and Field 2.
+
+         "Field 1" shall mean the Buccal Delivery of Morphine for the treatment
+         of all types of pain.
+
+         "Field 2" shall mean the Buccal Delivery of any Additional Compound
+         selected by the Management Committee pursuant to Clause 2 for the
+         treatment of prostate cancer and endometriosis and/or the suppression
+         of testosterone and estrogen.
+
+         "Financial Year" shall mean each year commencing on August 1 (or in the
+         case of the first Financial Year, the Closing Date) and expiring on
+         July 31 of each year.
+
+         "Fully Diluted Common Shares" shall mean all of the issued and
+         outstanding Common Shares, assuming the conversion, exercise or
+         exchange of all outstanding Common Shares Equivalents.
+
+         "Generex" shall mean Generex Biotechnology Corporation, a Delaware
+         corporation, and its Affiliates.
+
+         "Generex Directors" has the meaning set forth in Clause 5.
+
+         "Generex Intellectual Property" has the meaning assigned thereto in the
+         Amended Generex License Agreement.
+
+         "Generex License" shall have the meaning assigned thereto in the
+         Amended Generex License Agreement.
+
+         "Generex Securities Purchase Agreement" shall mean that certain
+         securities purchase agreement, dated as of January 16, 2001, by and
+         between Generex and EIS.
+
+         "Licensed Technologies" shall mean, collectively, the Elan Intellectual
+         Property and the Generex Intellectual Property.
+
+         "Morphelan(TM)" shall mean Elan's proprietary ingestible [***] form of
+         Morphine.
+
+         "Morphine" shall mean all forms of morphine, including, without
+         limitation, morphine sulfate; provided, however, that Morphelan(TM)
+         shall not be included.
+
+         "Newco Intellectual Property" shall mean all rights to patents,
+         know-how and other intellectual property arising out of the conduct of
+         the Project by any person, including any technology acquired by Newco
+         from a third party, that does not constitute Elan Intellectual Property
+         or Generex Intellectual Property.
+
+                                       5
+<PAGE>
+
+         For the avoidance of doubt, (a) any preclinical and clinical data
+         and/or toxicity, stability and pharmacological data generated pursuant
+         to the Project shall constitute Newco Intellectual Property, and (b)
+         any patent application filed by Newco, or by Elan or Generex on behalf
+         of Newco, and any patent issued pursuant thereto, covering a Product
+         shall constitute Newco Intellectual Property.
+
+         "Newco Bye-Laws" shall mean the Memorandum of Association and Bye-Laws
+         of Newco Limited.
+
+         "Original Definitive Documents" shall mean the Original JDOA, Original
+         Elan License Agreement, the Original Generex License Agreement, the
+         Generex Securities Purchase Agreement, the Registration Rights
+         Agreements, the Certificate of Designations and associated
+         documentation of even date therewith, by and between Generex, Elan, EIS
+         and Newco, as applicable.
+
+         "Original Elan License Agreement" shall mean the license agreement
+         between Elan and Newco, dated January 16, 2001.
+
+         "Original Generex License Agreement" shall mean the license agreement
+         between Generex and Newco, dated January 16, 2001.
+
+         "Original License Agreements" shall mean the Original Elan License
+         Agreement and the Original Generex License Agreement.
+
+         "Original JDOA" shall mean the Subscription, Joint Development and
+         Operating Agreement, dated as of January 17, 2001, by and between Elan,
+         Generex, EIS and Newco.
+
+         "Participant" shall mean Generex or Elan, as the case may be, and
+         "Participants" shall mean both of the Participants together.
+
+         "Party" shall mean Elan, Generex, or Newco, as the case may be, and
+         "Parties" shall mean all such parties together.
+
+         "Person" shall mean an individual, partnership, corporation, limited
+         liability company, business trust, joint stock company, trust,
+         unincorporated association, joint venture, governmental entity or
+         authority or other entity of whatever nature.
+
+         "Permitted Transferee" shall mean any Affiliate or subsidiary of Elan,
+         EIS or Generex, to whom this Amended JDOA may be assigned, in whole or
+         in part, pursuant to the terms hereof or in the case of Elan or EIS, a
+         special purpose financing entity created by Elan or EIS.
+
+         "Product" shall mean an appropriate pharmaceutical formulation of a
+         Compound.
+
+
+                                       6
+<PAGE>
+
+         "Project" shall mean all activities as undertaken by Elan, Generex and
+         Newco in order to develop the Products pursuant to the Business Plan,
+         the R&D Plan and otherwise pursuant to this Amended JDOA.
+
+         "R&D Plan" shall mean the program of work, including the budget, agreed
+         by the Management Committee as part of the Business Plan that relates
+         to the formulation, biopharmaceutical and Phase II clinical development
+         of the Products and such further research and development work as may
+         be agreed by the Management Committee from time to time.
+
+         "R&D Program(s)" shall mean any research and development program(s)
+         commenced by Newco pursuant to the Project.
+
+         "R&D Term" shall mean shall mean the period commencing on the Closing
+         Date and ending on the 4th anniversary thereof.
+
+         "Registration Rights Agreements" shall mean the Registration Rights
+         Agreements dated as of January 16, 2001 relating to Newco and Generex,
+         respectively.
+
+         "Regulatory Application" shall mean any regulatory application or any
+         other application for marketing approval for a Product, which Newco
+         will file in any country of the Territory, including any supplements or
+         amendments thereto.
+
+         "Regulatory Approval" shall mean the final approval to market a Product
+         in any country of the Territory, and any other approval which is
+         required to launch the Product in the normal course of business.
+
+         "RHA" shall mean any relevant government health authority (or successor
+         agency thereof) in any country of the Territory whose approval is
+         necessary to market a Product in the relevant country of the Territory.
+
+         "Securities Act" shall mean the Securities Act of 1933, as amended.
+
+         "Shares" shall mean the Common Shares and Preference Shares of Newco.
+
+         "Shareholder" shall mean any of EIS, Generex, any Permitted Transferee
+         or any other Person who subsequently becomes bound by this Amended JDOA
+         as a holder of the Shares, and "Shareholders" shall mean all of the
+         Shareholders together.
+
+         "Technological Competitor of Elan" shall have the meaning assigned
+         thereto in the Amended Elan License Agreement.
+
+         "Term" shall mean the term of this Amended JDOA.
+
+                                       7
+<PAGE>
+
+         "Territory" shall mean all of the countries of the world.
+
+         "United States Dollar" and "US$" and "$" shall mean the lawful currency
+         of the United States of America.
+
+1.2      In addition, the following definitions have the meanings in the Clauses
+         corresponding thereto, as set forth below.
+
+         Definition                         Clause
+
+         "AAA"                              18.4
+          "Buyout Option"                   19.3
+         "Closing"                          4.3
+         "Common Shares"                    Recital
+         "Confidential Information"         21.1
+         "Co-sale Notice"                   16.4
+         "Expert"                           18.3
+
+         [***]
+
+         "JDOA"                             Recital
+         "Management Committee"             5.2.1
+         "Notice of Exercise"               16.3
+         "Notice of Intention"              16.3
+         "Offered Shares"                   16.3
+         "Offer Price"                      16.3
+         "Preference Shares"                Recital
+         "Proposing Participant"            19.5
+         "Proposing Participant Price:      19.5
+         "Purchase Price"                   19.5
+         "Recipient Participant"            19.3
+         "Recipient Participant Price"      19.5
+         "Relevant Event"                   19.2
+         "Remaining Shareholders"           16.4
+         "Selling Shareholder"              16.3
+         "Tag-Along Right"                  16.4
+         "Transaction Proposal"             16.3
+         "Transfer"                         16.1
+         "Transferee Terms"                 16.4
+         "Transferring Shareholder"         16.4
+
+         [***]
+
+
+
+1.3      Words importing the singular shall include the plural and vice versa.
+
+1.4      Unless the context otherwise requires, reference to a recital, article,
+         paragraph, provision, clause or schedule is to a recital, article,
+         paragraph, provision, clause or schedule of or to this Amended JDOA.
+
+                                       8
+<PAGE>
+
+1.5      Reference to a statute or statutory provision includes a reference to
+         it as from time to time amended, extended or re-enacted.
+
+1.6      The headings in this Amended JDOA are inserted for convenience only and
+         do not affect its construction.
+
+1.7      Unless the context or subject otherwise requires, references to words
+         in one gender include references to the other genders.
+
+1.8      Capitalized terms used but not defined herein shall have the meanings
+         assigned thereto in the Definitive Documents, if defined therein.
+
+
+                                    CLAUSE 2
+
+                                    BUSINESS
+
+2.1      The primary objective of this Amended JDOA is to regulate the business
+         of the development, testing, registration, manufacture,
+         commercialization and licensing of Products in the Territory and to
+         achieve the other objectives set out in this Amended JDOA. The focus of
+         the Business will be the development of the Products using the Elan
+         Intellectual Property, the Generex Intellectual Property and the Newco
+         Intellectual Property to agreed-upon specifications and timelines.
+
+2.2      The central management and control of Newco shall be exercised in
+         Bermuda and shall be vested in the Directors and such Persons as they
+         may delegate the exercise of their powers. The Shareholders agree to
+         conduct the Business in such a manner as to ensure that Newco is liable
+         to taxation in Bermuda and not in any other jurisdiction. The
+         Participants shall use their best endeavors to ensure the sole
+         residence of Newco in Bermuda, all meetings of the Directors are held
+         in Bermuda or other jurisdictions outside the United States and
+         generally to ensure that Newco is treated as resident for taxation
+         purposes in Bermuda.
+
+2.3      The initial Compound that has been selected and approved for the
+         Project is Morphine in Field 1. Subject to Clause 2.4, the Management
+         Committee may, in its discretion, select and approve (in accordance
+         with the procedures for Management Committee decision making set forth
+         in Clause 5), in addition to Morphine, an additional compound (each an
+         "Additional Compound") for the Project, in Field 2, having regard to
+         the following criteria:
+
+         2.3.1    the market potential of the proposed Additional Compound in
+                  Field 2 in the Territory (including consideration of the
+                  current and anticipated competition), as estimated by the
+                  Management Committee;
+
+                                       9
+<PAGE>
+
+         2.3.2    the development cost of the proposed Additional Compound in
+                  Field 2 in the Territory, as estimated by the Management
+                  Committee; and
+
+         2.3.3    the results of regulatory and intellectual property due
+                  diligence primarily focused on determining whether there are
+                  any regulatory or intellectual property issues which might
+                  impact the development and marketing of the proposed
+                  Additional Compound in Field 2 in the Territory.
+
+         Notwithstanding the foregoing, a proposed Additional Compound shall not
+         be selected and approved if such proposed Additional Compound is
+         subject to contractual obligations of Elan or Generex existing at the
+         date of nomination that would restrict the conduct by Newco of a R&D
+         Program in Field 2 in the Territory or the ability of Newco to
+         commercialize the proposed Additional Compound in Field 2 in the
+         Territory.
+
+         Prior to the approval of any Additional Compound hereunder, the Parties
+         shall discuss in good faith whether any amendments are required to the
+         Definitive Documents as a result of such approval, such as amending the
+         provisions regulating non-competition.
+
+2.4      Subject to the provisions of Clause 6.4, the Management Committee may
+         determine that any R&D Program commenced as part of the Project in
+         respect of a particular Compound should be terminated where such
+         Compound fails to meet agreed specifications or the R&D Program reveals
+         scientific or technical or intellectual property issues which would
+         have a material adverse effect on the development and commercialization
+         of the Compound in the applicable Field in the Territory.
+
+         In such event, the Management Committee shall review in good faith
+         (with reference to criteria identical to those set forth in Clause 2.3)
+         the possibility of selecting an alternative Compound in Field 1 or
+         Field 2 for development ("Alternative Compound"), which Alternative
+         Compound may be in-licensed to Newco from Elan, Generex or a third
+         party. The Management Committee may, in its discretion, review in good
+         faith (with reference to criteria identical to those set forth in
+         Clause 2.3) the possibility of selecting more than one Alternative
+         Compound.
+
+         If the Parties should agree to in license to Newco an Alternative
+         Compound, the Parties shall discuss in good faith whether any
+         amendments are required to the Definitive Documents as a result of such
+         approval, such as amending the provisions regulating non-competition.
+
+2.5      In the event that the Management Committee terminates any R&D Program
+         in respect of any Compound ("Abandoned Compound") pursuant to Clause
+         2.4:
+
+         2.5.1    Newco and Generex shall confirm to Elan in writing that the
+                  Elan License has terminated insofar as it previously related
+                  to the Abandoned Compound;
+
+                                       10
+<PAGE>
+
+         2.5.2    Newco and Elan shall confirm to Generex in writing that the
+                  Generex License has terminated insofar as it previously
+                  related to the Abandoned Compound; and
+
+         2.5.3    Elan and Generex will cease to be bound by the non-competition
+                  obligations set forth in Clause 4 of the Amended Elan License
+                  Agreement and the Amended Generex License Agreement, as the
+                  case may be, or otherwise set forth in the Definitive
+                  Documents in respect of the Abandoned Compound, and the
+                  Parties shall discuss in good faith what additional amendments
+                  are required to the Definitive Documents.
+
+
+                                    CLAUSE 3
+
+                         REPRESENTATIONS AND WARRANTIES
+
+3.1      Representations and Warranties of Newco: Newco hereby represents and
+         warrants to each of the Shareholders as follows, as of the Closing Date
+         and the Effective Date:
+
+         3.1.1    Organization: Newco was, as of the Closing Date, and is, as of
+                  the Effective Date an exempted company duly organized, validly
+                  existing and in good standing under the laws of Bermuda, and
+                  has all the requisite corporate power and authority to own and
+                  lease its properties, to carry on its business as presently
+                  conducted and as proposed to be conducted.
+
+         3.1.2    Capitalization: The authorized capital Shares of Newco
+                  consists of 6,000 Common Shares and 6,000 Preference Shares.
+                  Prior to the Closing Date, no shares of capital stock of Newco
+                  had been issued.
+
+         3.1.3    Authorization: The execution, delivery and performance by
+                  Newco of the Original JDOA, including the issuance of the
+                  Shares and the execution, delivery and performance by Newco of
+                  this Amended JDOA have been or will be duly authorized by all
+                  requisite corporate actions; the Original JDOA was on the
+                  Closing Date and this Amended JDOA has been duly executed and
+                  delivered by Newco; the Original JDOA was on the Closing Date
+                  and this Amended JDOA is the valid and binding obligation of
+                  Newco, enforceable against it in accordance with their
+                  respective terms except as limited by applicable bankruptcy,
+                  insolvency, reorganization, moratorium and other laws of
+                  general application affecting the enforcement of creditors'
+                  rights generally, and except as enforcement of rights to
+                  indemnity and contribution hereunder may be limited by United
+                  States federal or state securities laws or principles of
+                  public policy. The Shares issued pursuant to the Original JDOA
+                  have been validly issued and outstanding, fully paid and
+                  non-assessable and not subject to preemptive or any other
+                  similar rights of the Shareholders or others.
+
+                                       11
+<PAGE>
+
+         3.1.4    No Conflicts: The execution, delivery and performance by Newco
+                  of the Original JDOA, the issuance, sale and delivery of the
+                  Shares, and compliance with the provisions hereof by Newco,
+                  did not, and the execution, delivery and performance by Newco
+                  of this Amended JDOA and compliance with the provisions hereof
+                  by Newco will not:
+
+                  (i)      violate any provision of applicable law, statute,
+                           rule or regulation applicable to Newco or any ruling,
+                           writ, injunction, order, judgment or decree of any
+                           court, arbitrator, administrative agency or other
+                           governmental body applicable to Newco or any of its
+                           properties or assets;
+
+                  (ii)    conflict with or result in any breach of any of the
+                          terms, conditions or provisions of, or constitute
+                          (with notice or lapse of time or both) a default (or
+                          give rise to any right of termination, cancellation or
+                          acceleration) under its charter or organizational
+                          documents or any material contract to which Newco is a
+                          party, except where such violation, conflict or breach
+                          did not or would not, individually or in the
+                          aggregate, have a material adverse effect on Newco; or
+
+                  (iii)    result in the creation of, any Encumbrance upon any
+                           of the properties or assets of Newco.
+
+         3.1.5    Approvals: No permit, authorization, consent or approval of or
+                  by, or any notification of or filing with, any Person was
+                  required in connection with the execution, delivery or
+                  performance of the Original JDOA by Newco or is required in
+                  connection with the execution, delivery or performance of this
+                  Amended JDOA by Newco. Newco has full authority to conduct its
+                  business as contemplated in the Business Plan and the
+                  Definitive Documents.
+
+         3.1.6    Disclosure: Neither the Original JDOA nor this Amended JDOA
+                  contains any untrue statement of a material fact or omits to
+                  state any material fact necessary to make the statements
+                  contained herein or therein not misleading. Newco was not on
+                  the Closing Date and is not on the Effective Date aware of any
+                  material contingency, event or circumstance relating to its
+                  business or prospects, which could have had, or could have a
+                  material adverse effect thereon, in order for the disclosure
+                  herein or in the Original JDOA relating to Newco not to be or
+                  have been misleading in any material respect.
+
+                                     12
+
+<PAGE>
+
+         3.1.7    No Business; No Liabilities: Newco did not conduct any
+                  business or incurred any liabilities or obligations prior to
+                  the Closing Date, except solely in connection with its
+                  organization and formation and has not conducted any business
+                  or incurred any liabilities or obligations since the Closing
+                  Date except in the ordinary course of business, as
+                  contemplated by the Original JDOA and this Amended JDOA.
+
+3.2      Representations and Warranties of the Shareholders: Each of the
+         Shareholders hereby severally represents and warrants to Newco as
+         follows as of the Closing Date and the Effective Date:
+
+         3.2.1    Organization: Such Shareholder was on the Closing Date and is
+                  a corporation duly organized and validly existing under the
+                  laws of its jurisdiction of organization and had on the
+                  Closing Date and has all the requisite corporate power and
+                  authority to own and lease its respective properties, to carry
+                  on its respective business as presently conducted and as
+                  proposed to be conducted and to carry out the transactions
+                  contemplated hereby.
+
+         3.2.2    Authority: Such Shareholder had on the Closing Date and has
+                  full legal right, power and authority to enter into the
+                  Original JDOA and this Amended JDOA, respectively, and to
+                  perform its obligations hereunder and thereunder, which have
+                  been duly authorized by all requisite corporate action. The
+                  Original JDOA was on the Closing Date and this Amended JDOA is
+                  the valid and binding obligation of such Shareholder,
+                  enforceable against it in accordance with its terms except as
+                  limited by applicable bankruptcy, insolvency, reorganization,
+                  moratorium and other laws of general application affecting the
+                  enforcement of creditors' rights generally, and except as
+                  enforcement of rights to indemnity and contribution hereunder
+                  may be limited by United States federal or state securities
+                  laws or principles of public policy.
+
+         3.2.3    No Conflicts: The execution, delivery and performance by such
+                  Shareholder of the Original JDOA, the purchase of Shares by
+                  the Shareholder, and compliance with the provisions of the
+                  Original JDOA by such Shareholder did not, and the execution,
+                  delivery and performance by such Shareholder of this Amended
+                  JDOA and compliance with the provisions hereof will not:
+
+                  (i)      violate any provision of applicable law, statute,
+                           rule or regulation known by and applicable to such
+                           Shareholder or any ruling, writ, injunction, order,
+                           judgment or decree of any court, arbitrator,
+                           administrative agency or other governmental body
+                           applicable to such Shareholder or any of its
+                           properties or assets, except where such violation
+                           would not, individually or in the aggregate, have a
+                           material adverse effect on such Shareholders;
+
+                                       13
+<PAGE>
+
+                  (ii)    conflict with or result in any breach of any of the
+                          terms, conditions or provisions of, or constitute
+                          (with notice or lapse of time or both) a default (or
+                          give rise to any right of termination, cancellation or
+                          acceleration) under the charter or organizational
+                          documents of such Shareholder or any material contract
+                          to which such Shareholder is a party, except where
+                          such violation, conflict or breach did not or would
+                          not, individually or in the aggregate, have a material
+                          adverse effect on such Shareholder; or
+
+                  (iii)   result in the creation of, any Encumbrance upon any
+                          of the properties or assets of such Shareholder.
+
+         3.2.4    Approvals: As of the Closing Date and the Effective Date, no
+                  permit, authorization, consent or approval of or by, or any
+                  notification of or filing with, any Person is required in
+                  connection with the execution, delivery or performance of the
+                  Original JDOA or this Amended JDOA by such Shareholder.
+
+         3.2.5    Investment Representations: Such Shareholder is sophisticated
+                  in transactions of this type and capable of evaluating the
+                  merits and risks of its investment in Newco. Such Shareholder
+                  was not been formed solely for the purpose of acquiring the
+                  Common Shares and Preference Shares and such Shareholder
+                  acquired the Common Shares and Preference Shares for
+                  investment for its own account, not as a nominee or agent, and
+                  not with the view to, or for resale in connection with, any
+                  distribution of any part thereof. Such Shareholder understands
+                  that the Shares have not been registered under the Securities
+                  Act or applicable state and foreign securities laws by reason
+                  of a specific exemption from the registration provisions of
+                  the Securities Act and applicable state and foreign securities
+                  laws, the availability of which depends upon, among other
+                  things, the bona fide nature of the investment intent and the
+                  accuracy of such Shareholders' representations as expressed
+                  herein and in the Original JDOA. Such Shareholder understands
+                  that no public market now exists for any of the Shares and
+                  that there is no assurance that a public market will ever
+                  exist for such Shares.
+
+
+                                    CLAUSE 4
+
+                            AUTHORIZATION AND CLOSING
+
+4.1      On the Closing Date, Newco authorized the issuance to (i) EIS of 2,388
+         Preference Shares and (ii) Generex of 6,000 Common Shares and 3,612
+         Preference Shares, all of which Shares have been validly issued and are
+         non-assessable, and no other Shares or rights to purchase Shares or
+         securities convertible into Shares have been issued by Newco.
+
+                                       14
+<PAGE>
+
+4.2      On the Closing Date, Generex and EIS subscribed for the number of
+         Shares set forth in Clause 4.1 and paid to Newco in consideration
+         therefor (to a bank account established by Newco in connection with
+         Completion) the subscription amounts each as provided in Recital B.
+
+4.3      The closing of the purchases of the Shares (the "Closing") took place
+         on the Closing Date contemporaneously with the closing under the
+         Generex Securities Purchase Agreement.
+
+4.4      At the Closing, the following occurred:
+
+         4.4.1    Newco issued and sold to EIS, and EIS purchased from Newco,
+                  upon the terms and subject to the conditions set forth in the
+                  Original JDOA, 2,388 Preference Shares for an aggregate
+                  purchase price of $2,985,000 million;
+
+                  Newco issued and sold to Generex, and Generex purchased from
+                  Newco, upon the terms and conditions set forth in the Original
+                  JDOA, (i) 6,000 Common Shares for an aggregate purchase price
+                  of $7,500,000 and (ii) 3,612 Preference Shares for an
+                  aggregate purchase price of $4,515,000;
+
+         4.4.2    the Parties executed and delivered to each other, as
+                  applicable, certificates in respect of the Common Shares and
+                  Preference Shares described above and any other certificates,
+                  resolutions or documents which the Parties reasonably
+                  required;
+
+         4.4.3    the adoption by Newco of Newco Bye-Laws;
+
+
+         4.4.4    the appointment of [***] as Directors of Newco;
+
+
+         4.4.5    the resignation of all directors and the secretary of Newco
+                  holding office prior to the execution of the Original JDOA and
+                  delivery of written confirmation under seal by each Person so
+                  resigning that he had no claim or right of action against
+                  Newco and that Newco was not in any way obligated or indebted
+                  to him; and
+
+         4.4.6    the transfer to Newco of the share register.
+
+4.5      Exemption from Registration:
+
+         The Shares have been issued under an exemption or exemptions from
+         registration under the Securities Act. Accordingly, the certificates
+         evidencing the Shares contain and any certificates to be issued
+         replacing such certificates shall, upon issuance, contain, the
+         following legend:
+
+                                       15
+<PAGE>
+
+         THE SECURITIES REPRESENTED HEREBY HAVE NOT BEEN REGISTERED UNDER THE
+         SECURITIES ACT OF 1933, AS AMENDED, OR ANY SECURITIES LAWS OF A STATE
+         OR OTHER JURISDICTION AND MAY NOT UNDER ANY CIRCUMSTANCES BE SOLD,
+         TRANSFERRED, OR OTHERWISE DISPOSED OF (OTHER THAN TO AN AFFILIATE OF
+         THE ORIGINAL HOLDER OR AS OTHERWISE PERMITTED IN THE AGREEMENT PURSUANT
+         TO WHICH THEY WERE ISSUED) EXCEPT PURSUANT TO (i) AN EFFECTIVE
+         REGISTRATION STATEMENT UNDER THE SECURITIES ACT AND ANY APPLICABLE
+         STATE SECURITIES OR BLUE SKY LAWS, OR (ii) TO THE EXTENT APPLICABLE,
+         RULE 144 UNDER THE SECURITIES ACT (OR ANY SIMILAR RULE UNDER THE
+         SECURITIES ACT RELATING TO THE DISPOSITION OF SECURITIES) TOGETHER WITH
+         AN OPINION OF COUNSEL REASONABLY SATISFACTORY TO THE CORPORATION THAT
+         REGISTRATION IS NOT REQUIRED UNDER SUCH ACT OR APPLICABLE STATE
+         SECURITIES LAWS.
+
+4.6      Newco shall use reasonable efforts to file any documents that require
+         filing with the Registrar of Companies in Bermuda within the prescribed
+         time limits. EIS and Generex shall provide all reasonable co-operation
+         to Newco in relation to the matters set forth in this Clause 4.6.
+
+4.7      In the event that EIS exercises the Exchange Right, Newco shall,
+         immediately upon such exercise, take all necessary steps to ensure that
+         EIS obtains full legal right, title and interest in and to the
+         Preference Shares covered thereby.
+
+         The Parties acknowledge that such Shares have been pledged to EIS
+         pursuant to the Generex Securities Purchase Agreement and that EIS has
+         physical possession of such Shares; upon such exercise, EIS shall be
+         entitled to keep and retain such Shares, which shall be owned by EIS as
+         provided above. In connection with the foregoing, Newco and the
+         Participants shall take all necessary or appropriate steps to ensure
+         such ownership by EIS.
+
+
+                                       16
+<PAGE>
+
+                                    CLAUSE 5
+
+                    DIRECTORS; MANAGEMENT AND R&D COMMITTEES
+
+5.1      Directors:
+
+         5.1.1    Prior to the exercise of the Exchange Right, the Board shall
+                  be composed of five Directors.
+
+                  Generex shall have the right to nominate four directors of
+                  Newco, at least two of which such directors shall be residents
+                  of Bermuda ("Generex Directors") and EIS shall have the right
+                  to nominate one Director of Newco ("EIS Director") which
+                  Director, save as further provided herein, shall only be
+                  entitled to 15% of the votes of the Board.
+
+
+                  In the event that the Exchange Right is exercised by EIS
+                  within [***] following the Closing Date, the EIS Director
+                  shall only be entitled to 15% of the votes of the Board until
+                  the expiry of [***] from the Closing Date.
+
+                  In the event that the Exchange Right is exercised by EIS at
+                  any time after [***] following the Closing Date, or upon the
+                  expiry of [***]following the Closing Date where the Exchange
+                  Right has been exercised by EIS within [***] following the
+                  Closing Date, and provided that EIS satisfies [***] and the
+                  payment obligations that are otherwise required by the
+                  Exchange Right, then each of Generex, and EIS shall cause the
+                  Board to be reconfigured so that an equal number of Directors
+                  are designated by EIS and Generex and that each of the
+                  Directors has equal voting power. After the Board is
+                  reconfigured as provided above, the Board cannot be
+                  reconfigured again unless otherwise mutually agreed to by
+                  Generex and Elan.
+
+
+         5.1.2    If EIS removes the EIS Director, or Generex removes any of the
+                  Generex Directors, EIS or Generex, as the case may be, shall
+                  indemnify the other Shareholder against any claim by such
+                  removed Director arising from such removal.
+
+         5.1.3    The Directors shall meet not less than three times in each
+                  Financial Year and all Board meetings shall be held in Bermuda
+                  to the extent required to ensure the sole residence of Newco
+                  in Bermuda.
+
+
+         5.1.4    At any such meeting, the presence of the EIS Director and at
+                  least two of the Generex Directors shall be required to
+                  constitute a quorum and, subject to Clause 17 hereof, the
+                  affirmative vote of a majority of the Directors present at a
+                  meeting at which such a quorum is present shall constitute an
+                  action of the Directors. In the event of any meeting being
+                  inquorate, the meeting shall be adjourned for a period of
+                  [***]. A notice shall be sent to the EIS Director and the
+                  Generex Directors specifying the date, time and place where
+                  such adjourned meeting is to be held and reconvened.
+
+
+         5.1.5    On the Closing Date, Generex may appoint one of the Generex
+                  Directors to be the chairman of Newco. The chairman of Newco
+                  shall hold office until:
+
+                                       17
+<PAGE>
+
+                  (i)      the first meeting of the Board following the exercise
+                           by EIS of the Exchange Right, where the Exchange
+                           Right has been exercised by EIS after two years
+                           following the Closing Date; or
+
+
+                  (ii)     the first meeting of the Board following the expiry
+                           of [***] following the Closing Date where the
+                           Exchange Right has been exercised by EIS within [***]
+                           following the Closing Date
+
+                  (in each case the "Chairman Status Board Meeting")
+
+                  After the Chairman Status Board Meeting, each of EIS and
+                  Generex, beginning with EIS at the Chairman Status Board
+                  Meeting, shall have the right, exercisable alternatively, of
+                  nominating one Director to be chairman of Newco for a term of
+                  one year.
+
+                  If the chairman is unable to attend any meeting of the Board
+                  held prior to the Chairman Status Board Meeting, the Generex
+                  Directors shall be entitled to appoint another Generex
+                  Director to act as chairman in his place at the meeting.
+
+                  If the chairman of Newco is unable to attend any meeting of
+                  the Board held after the Chairman Status Board Meeting, the
+                  Directors shall be entitled to appoint another Director to act
+                  as chairman of Newco in his place at the meeting.
+
+         5.1.6    In case of an equality of votes at a meeting of the Board, the
+                  chairman of Newco shall not be entitled to a second or casting
+                  vote. In the event of continued deadlock, the Board shall
+                  resolve the deadlock pursuant to the provisions set forth in
+                  Clause 18.
+
+5.2      Management Committee:
+
+         5.2.1    Newco's board of directors shall appoint a management
+                  committee (the "Management Committee") to consist initially of
+                  four members, two of whom shall be nominated by Elan and two
+                  of whom shall be nominated by Generex, and each of whom shall
+                  be entitled to one vote, whether or not present at any
+                  Management Committee meeting. Each of Elan and Generex shall
+                  be entitled to remove any of their nominees to the Management
+                  Committee and appoint a replacement therefor. The number of
+                  members of the Management Committee may be altered if agreed
+                  to by a majority of the directors of Newco; provided that each
+                  of Elan and Generex shall be entitled to appoint an equal
+                  number of members to the Management Committee; and provided
+                  further that if EIS has converted the Series A Preference
+                  Stock into shares of Common Stock of Generex (except upon such
+                  conversion due to a Significant Transaction as defined in the
+
+
+                                       18
+<PAGE>
+
+                  Certificate of Designations), then the Management Committee
+                  shall be appointed by each Party in numbers proportional to
+                  Generex's and EIS' ownership share in Newco. Decisions of the
+                  Management Committee shall require approval of at least one
+                  Elan nominee on the Management Committee and one Generex
+                  nominee on the Management Committee; provided, however, (a) if
+                  EIS has converted the Series A Preference Stock into shares of
+                  Common Stock of Generex (except upon such conversion due to a
+                  Significant Transaction as defined in the Certificate of
+                  Designations), then all decisions of the Management Committee
+                  shall require approval of a majority of the members of the
+                  Management Committee only, except as provided in the last
+                  sentence of this Clause 5.2; [***]. Notwithstanding anything
+                  contained in this Amended JDOA to the contrary, approval of
+                  Elan's designee and Generex's designee to the Management
+                  Committee shall be required for the matters set forth on
+                  Schedule 3.
+
+
+         5.2.2    The Management Committee shall be responsible for, inter alia:
+
+                  5.2.2.1  devising, implementing and reviewing the Business
+                           Plan and strategy for the Project; and
+
+                  5.2.2.2  implementing the Business Plan in relation to the
+                           Project.
+
+                  The Management Committee shall use its reasonable efforts to
+                  operate and fulfill its responsibilities as contemplated
+                  hereunder in an efficient and economical manner.
+
+                  Subject to the oversight and approval of the Management
+                  Committee, the Parties acknowledge that Generex shall be
+                  primarily responsible for implementing the preliminary
+                  clinical plans with respect to the Project as set forth on
+                  Schedule 4, which clinical plans the Parties acknowledge have
+                  not been finalized.
+
+
+         5.2.3    If the Management Committee cannot resolve any dispute within
+                  the Management Committee, after [***] or such other period as
+                  may be agreed by the Management Committee, the dispute will be
+                  referred to a designated senior officer of each of Elan and
+                  Generex, and thereafter, in the event of continued deadlock,
+                  pursuant to the deadlock provisions set forth in Clause 18.
+
+
+
+                                       19
+<PAGE>
+
+                                    CLAUSE 6
+
+                          THE BUSINESS PLAN AND REVIEWS
+
+
+6.1      The Management Committee will commence preparation of and approve a
+         Business Plan for Newco as soon as practicable after the Effective Date
+         for the current Financial Year. The Management will use all reasonable
+         efforts to complete the Business Plan within [***] after the Effective
+         Date.
+
+         The Management Committee shall present the Business Plan, including
+         aspects of the Business Plan relating to funding and expenditures, and
+         any proposed changes to the Business Plan to the Directors from time to
+         time, but not less frequently than on a quarterly basis, for the review
+         and approval of the EIS Director and the Generex Directors.
+
+         If Elan and Generex cannot agree upon (i) a Business Plan, (ii) any
+         change to the Business Plan or (iii) the implementation of the Business
+         Plan, then either Party may elect to proceed nevertheless on the basis
+         of the procedure set forth in Clause 6.4.
+
+6.3      It is estimated that Newco will require $[***] to commence and continue
+         the development of the Products (the "Development Funding").
+
+         Subject to Clause 6.4, during the R&D Term, EIS and Generex may provide
+         to Newco, by way of contributed surplus up to an aggregate maximum
+         amount of US$[***], such funding to be provided by EIS and Generex
+         [***] at the time of each such funding, in Newco. Development Funding
+         calls shall be made by Newco to the Participants in such amounts and at
+         such times as determined by the Management Committee except as
+         otherwise provided herein.
+
+
+         Neither Participant shall be obliged to provide Development Funding to
+         Newco in the absence of quarterly approval of the Business Plan and a
+         determination by each Participant, in its sole discretion, that
+         Development Funding shall be provided for the development of the
+         Products.
+
+6.4      [***]  [Total redaction for Section 6.4 is 4 pages]
+
+
+                                    CLAUSE 7
+
+                          RESEARCH AND DEVELOPMENT WORK
+
+
+7.1      Subject to the provisions of Clause 6.3, each of Elan and Generex, at
+         its respective discretion, may provide research and development
+         services to Newco, at the request of Newco and as articulated in the
+         Business Plan in furtherance of the development and commercialization
+         of the Products and cultivation of patent rights and know-how related
+         to the Elan Intellectual Property, Generex Intellectual Property and
+         Newco Intellectual Property.
+
+
+                                       20
+<PAGE>
+
+7.2      Subject to Clause 7.3, the cost of any research and development work
+         undertaken by Elan and/or Generex shall be calculated based on a rate
+         of [***]. The foregoing cost method shall be applied (i) in the case of
+         Elan to work performed on behalf of the Project by employees of Elan
+         and (ii) in the case of Generex to work performed on behalf of the
+         Project by [***] Generex's employees, officers and directors. Except as
+         provided above, research and development work that is sub-contracted by
+         Elan or Generex to third party providers shall be charged by Elan or
+         Generex to Newco at the amount invoiced by the relevant third party
+         provider.
+
+7.3      The cost charged by Elan and/or Generex to Newco in respect of the
+         provision by Elan and/or Generex to Newco of any clinical trial
+         supplies pursuant to the Project shall be agreed by the Parties as soon
+         as practicable in advance of supply to Newco.
+
+7.4      Newco shall pay Generex and Elan for any research and development work
+         carried out by them on behalf of Newco at the end of each month during
+         the R&D Program, subject to the proper vouching of research and
+         development work and expenses. An invoice shall be issued to Newco by
+         Generex or Elan, as applicable, by the 30th day of the month following
+         the month in which work was performed.
+
+
+7.5      Elan and Generex shall permit Newco or its duly authorized
+         representative on reasonable notice and at any reasonable time during
+         normal business hours to have access to inspect and audit the accounts
+         and records of Elan or Generex and any other book, record, voucher,
+         receipt or invoice relating to the calculation or the cost of the R&D
+         Program and to the accuracy of the reports which accompanied them. Any
+         such inspection of Elan's or Generex's records, as the case may be,
+         shall be at the expense of Newco, except that if such inspection
+         reveals an overpayment in the amount paid to Elan or Generex, as the
+         case may be, for the R&D Program hereunder in any Financial Year of
+         [***]or more of the amount due to Elan or Generex, as the case may be,
+         then the expense of such inspection shall be borne solely by Elan or
+         Generex, as the case may be, instead of by Newco. Any surplus over the
+         sum properly payable by Newco to Elan or Generex, as the case may be,
+         shall be paid promptly by Elan or Generex, as the case may be, to
+         Newco. If such inspection reveals a deficit in the amount of the sum
+         properly payable to Elan or Generex, as the case may be, by Newco,
+         Newco shall pay the deficit to Elan or Generex, as the case may be.
+
+
+                                    CLAUSE 8
+
+                                COMMERCIALIZATION
+
+8.1      Newco shall diligently pursue the research, development, prosecution
+         and commercialization of the Products as provided in the Business Plan.
+
+
+                                       21
+<PAGE>
+
+
+8.2      At such time as Newco notifies Elan in writing that Newco in good faith
+         intends to commercialize a Product, EIS or any Affiliate shall have a
+         first option to negotiate the terms of any agreement for the
+         commercialization of such Product, which option shall be exercised
+         within [***] of Elan's receipt of such written notification from Newco
+         (the "EIS/Newco Option"); provided, however, that EIS and its
+         Affiliates shall be entitled to the benefits of the EIS/Newco Option
+         only if EIS has exercised the Exchange Right. If EIS or any Affiliate
+         elects to enter into such negotiations, the Parties shall negotiate in
+         good faith the terms of the agreement for the commercialization of such
+         Product by EIS or the relevant Affiliate.
+
+         If, despite good faith negotiations, EIS or the relevant Affiliate and
+         Newco do not reach agreement within [***] from EIS' exercise of the
+         EIS/Newco Option, then Newco shall be free for a period of [***]
+         thereafter to enter into negotiations with a third party (other than a
+         Technological Competitor Of Elan) to agree terms upon which the third
+         party would commercialize the Product in the Territory, provided that
+         such terms when taken as a whole, are not more favorable to the third
+         party than the principal terms of the last written proposal offered by
+         Newco to EIS or the relevant Affiliate or by EIS or the relevant
+         Affiliate to Newco, as the case may be.
+
+         If Newco has not entered into an agreement with a third party within
+         the [***] period described above, the EIS/Newco Option shall be deemed
+         to have re-commenced upon the same terms as set forth herein.
+
+
+
+                                    CLAUSE 9
+
+           OWNERSHIP OF INTELLECTUAL PROPERTY RIGHTS; NON-COMPETITION
+
+9.1.     The Parties acknowledge and agree to be bound by the provisions of
+         Clause 3 of the Amended Elan License Agreement and Clause 3 of the
+         Amended Generex License Agreement which set forth the agreement between
+         the Parties in relation to the ownership of the Elan Intellectual
+         Property, the Generex Intellectual Property and the Newco Intellectual
+         property respectively. The Parties shall co-operate to execute and
+         deliver documents and take all such other actions as may reasonably be
+         requested on behalf of the owner of the intellectual property described
+         in Clauses 17 of the Amended License Agreements to effect or evidence
+         the ownership of intellectual property as provided therein.
+
+9.2      The Parties acknowledge and agree to be bound by the provisions of
+         Clause 4 of the Amended Elan License Agreement and the provisions of
+         Clause 4 of the Amended Generex License Agreement which set forth the
+         agreement between the parties thereto in relation to the
+         non-competition obligations of Elan and Generex, respectively.
+
+                                       22
+<PAGE>
+
+                                    CLAUSE 10
+
+                          INTELLECTUAL PROPERTY RIGHTS
+
+
+10.1     Elan, at its sole discretion [***], may (i) secure the grant of any
+         patent applications within the Elan Patents (as such term is defined in
+         the Amended Elan License Agreement) in the Fields; (ii) file and
+         prosecute patent applications on patentable inventions and discoveries
+         relating to the same; (iii) defend all such applications against third
+         party oppositions; and (iv) maintain in force any issued letters patent
+         relating to the same. Elan shall have the right in its discretion to
+         control such filing, prosecution, defense and maintenance.
+
+10.2     Generex, at its sole discretion [***], may (i) secure the grant of any
+         patent applications within the Generex Patents (as such term is defined
+         in the Amended Generex License Agreement) in the Fields; (ii) file and
+         prosecute patent applications on patentable inventions and discoveries
+         relating to the same; (iii) defend all such applications against third
+         party oppositions; and (iv) maintain in force any issued letters patent
+         that relate to the same. Generex shall have the right in its discretion
+         to control such filing, prosecution, defense and maintenance.
+
+10.3     All results of research and development pursuant to the Project and
+         relating to the Elan Intellectual Property, the Generex Intellectual
+         Property, the Compounds, the Products, or the Fields, as the case may
+         be, shall be promptly disclosed by each Party to the Management
+         Committee. The Management Committee shall review on an ongoing basis
+         whether such results constitute Generex Intellectual Property, Elan
+         Intellectual Property or Newco Intellectual Property having regard to
+         the provisions of this Amended JDOA. In the event that the disclosing
+         Party informs the other Parties that it does not intend to file patent
+         applications on disclosed patentable inventions and discoveries, or
+         maintain pending patent applications and issued patents that are
+         Generex Intellectual Property or Elan Intellectual Property, as the
+         case may be, relating to the Products or the Fields in one or more
+         countries in the Territory or fails to file such an application within
+         a reasonable period of time, Newco may request such disclosing Party to
+         file, prosecute and/or maintain such patents(s) and/or patent
+         application(s) [***]. The disclosing Party shall comply with such
+         request unless the disclosing party believes such request is without
+         merit. Any such resulting patent would be owned by the disclosing party
+         but would not be subject to the royalty provisions of Clause 5 of the
+         Amended License Agreements.
+
+10.4     Newco [***] shall have the right but shall not be obligated (i) to file
+         and prosecute patent applications on patentable inventions and
+         discoveries which are Newco Intellectual Property; (ii) to defend all
+         such applications against third party oppositions; and (iii) to
+         maintain in force any issued letters patent which are Newco Patents.
+         Newco shall have the right to control such filing, prosecution, defense
+         and maintenance provided that other Parties shall be provided with
+         copies of all documents relating to such filing, prosecution, defense,
+         and maintenance in sufficient time to review such documents and comment
+         thereon prior to filing or response, as the case may be.
+
+                                       23
+<PAGE>
+
+
+10.5     In the event that Newco informs both Elan and Generex that it does not
+         intend to file an application on disclosed patentable inventions and
+         discoveries or maintain any pending patent application(s) or issued
+         patent(s) that are Newco Intellectual Property, Elan shall have the
+         right to file and prosecute such patent applications on inventions that
+         relate predominantly to the Elan Intellectual Property, and Generex
+         shall have the right to file and prosecute and maintain such patent
+         applications on inventions which relate predominantly to the Generex
+         Intellectual Property, and Elan and Generex agree to negotiate in good
+         faith on the course of action to be taken with respect to Newco
+         Intellectual Property that relates equally to both Elan Intellectual
+         Property and Generex Intellectual Property.
+
+
+10.6     Each Party shall notify the Management Committee in a timely manner of
+         any decision to abandon a pending or issued patent relating to the
+         Compounds, the Products, or the Fields. The Management Committee or the
+         Party in receipt of such notice shall have the option of requesting the
+         owner of the pending or issued patent to continue the prosecution or
+         maintenance of such pending or issued patent [***], provided that such
+         decision is commercially reasonable. Such intellectual property shall
+         not be subject to the provisions of the royalty payment in Clause 5 of
+         the Amended License Agreements.
+
+
+10.7     The Parties shall promptly inform each other in writing of any actual
+         or alleged unauthorized use in the Fields of Elan Intellectual
+         Property, the Generex Intellectual Property or the Newco Intellectual
+         Property by a third party of which it becomes aware and provide the
+         others with any available evidence of such unauthorized use.
+
+
+10.8     At its option, Elan or Generex, as the case may be, shall have the
+         first option to enforce its respective intellectual property rights,
+         [***] for its own benefit, in connection with any unauthorized use of
+         the Elan Intellectual Property or the Generex Intellectual Property, as
+         the case may be, in the Fields. At the enforcing Party's request, the
+         other Parties shall cooperate with the Party exercising such option.
+         Should Elan or Generex, as the case may be, decide not to enforce any
+         of its rights with respect to the Elan Intellectual Property or the
+         Generex Intellectual Property, respectively, against such unauthorized
+         use in the Fields within a reasonable period but in any event within
+         [***] after receiving written notice of such actual or alleged
+         unauthorized use, Newco may, in its discretion, request the Party
+         exercising such option to initiate such proceedings in Newco's name
+         with express third party beneficiary rights reasonably required
+         hereunder to enforce such intellectual property rights in connection
+         with such unauthorized use, [***] for Newco's benefit; provided that
+         such actual or alleged unauthorized conduct involve any Compound. Elan
+         or Generex, as the case may be, shall cooperate in commencing such
+         action on Newco's behalf unless Elan or Generex believe, in good faith,
+         that such an action is without merit. Alternatively, the Parties may
+         agree to enforce any or all of the Parties' rights with respect to
+         their respective intellectual property in their joint names and shall
+         reach an agreement as to the proportion in which they shall share the
+         proceeds recovered or otherwise received and costs and/or expenses
+         incurred as a result of commencing any such action.
+
+                                       24
+<PAGE>
+
+
+10.9     Newco shall have the first right, but not the obligation, to commence a
+         lawsuit or otherwise take action in connection with any alleged
+         infringement of the Newco Patents or alleged unauthorized use of the
+         Newco Intellectual Property. In the event that Newco takes such action,
+         Newco shall do so [***] and all damages and monetary award recovered in
+         or with respect to such action shall be the property of Newco. Newco
+         shall keep Elan and Generex timely informed of any action commenced so
+         as to enable Generex and Elan to provide input in any such action;
+         Newco shall reasonably take into consideration any such input. At
+         Newco's request, the Parties shall cooperate with Newco with respect to
+         any such action [***].
+
+10.10    In the event that Newco does not commence a lawsuit or otherwise take
+         action against an infringement of any Newco Patents or misappropriation
+         of the Newco Intellectual Property, then (i) if only one Participant
+         determines to pursue such lawsuit or take such action [***], such
+         Participant shall be entitled to any and all damages and monetary award
+         recovered in or with respect to such action [***]. At the Participant's
+         request, Newco shall cooperate with such Participant in any such action
+         [***].
+
+
+10.11    In the event that a claim or proceeding is brought against Newco by a
+         third party alleging that the sale, offering for sale, manufacturing,
+         importing, distribution or use of a Product in the Territory or use of
+         the Elan Intellectual Property or the Generex Intellectual Property, as
+         the case may be, infringes the intellectual property rights of such
+         third party, Newco shall promptly advise the other Parties of such
+         threat or suit.
+
+
+10.12    Except for claims by Newco against either Participant or by a third
+         party against Newco where there has been a breach of representation or
+         warranty under the Amended Elan License Agreement or the Amended
+         Generex License Agreement, by Elan or Generex, respectively, Newco
+         shall indemnify, defend and hold harmless Elan or Generex, as the case
+         may be, against all actions, losses, claims, demands, damages, costs
+         and liabilities (including reasonable attorneys fees) relating directly
+         or indirectly to all other claims or proceedings of the nature
+         described in Clause 10.11, provided that Elan or Generex, as the case
+         may be, shall not acknowledge to the third party or to any other person
+         the validity of any claims of such a third party, and shall not
+         compromise or settle any claim or proceedings relating thereto without
+         the prior written consent to Newco, not to be unreasonably withheld or
+         delayed. [***]
+
+                                       25
+<PAGE>
+
+
+
+                                    CLAUSE 11
+
+           CROSS LICENSING/EXPLOITATION OF PRODUCTS OUTSIDE THE FIELDS
+
+11.1     Solely for the purposes of, and only to the extent necessary, to enable
+         Elan to conduct research and development work on behalf of Newco, Newco
+         hereby grants to Elan a non-exclusive, worldwide, royalty-free, fully
+         paid-up license for the terms of the Amended License Agreements:
+
+         11.1.1   to use the Newco Intellectual Property in the Fields, and
+
+         11.1.2   subject to the terms and conditions of the Amended Generex
+                  License Agreement and the Amended Elan License Agreement, a
+                  sublicense to use the Generex Intellectual Property and the
+                  Elan Intellectual Property in the Fields.
+
+11.2     Solely for the purposes of, and only to the extent necessary, to enable
+         Generex to conduct research and development work on behalf of Newco,
+         Newco hereby grants to Generex a non-exclusive, worldwide,
+         royalty-free, fully paid-up license for the terms of the Amended
+         License Agreements:
+
+         11.2.1   to use the Newco Intellectual Property in the Fields, and
+
+         11.2.2   subject to the terms and conditions of the Amended Elan
+                  License Agreement and the Amended Generex License Agreement, a
+                  sublicense to use the Elan Intellectual Property and the
+                  Generex Intellectual Property in the Fields.
+
+11.3     Elan and/or Generex shall be entitled to exploit the Newco Intellectual
+         Property outside the Fields subject to the Parties negotiating a
+         license agreement in good faith pursuant to which Newco will grant to
+         Elan and/or Generex, as the case may be, a license under the Newco
+         Intellectual Property outside the Fields (which license agreement shall
+         provide, inter alia, whether the license of Newco Intellectual Property
+         will be exclusive or non-exclusive). The financial terms of the said
+         license agreement shall be negotiated by the Parties with reference to,
+         inter alia, the following criteria:
+
+         11.3.1   the amount of monies expended by Newco in developing the Newco
+                  Intellectual Property;
+
+         11.3.2   the materiality of the contribution of the Newco Intellectual
+                  Property by comparison to the further research and development
+                  work to be conducted, and the materiality of the contribution
+                  of the Elan Intellectual Property and the Generex Intellectual
+                  Property;
+
+                                       26
+<PAGE>
+
+
+         11.3.3   the financial return likely to be earned by Elan or Generex,
+                  as the case may be, from the proposed exploitation outside the
+                  Fields; and
+
+         11.3.4   the impact of the proposed exploitation of the Newco
+                  Intellectual Property outside the Fields on the exploitation
+                  of the Newco Intellectual Property within the Fields.
+
+
+                                    CLAUSE 12
+
+                       REGULATORY MATTERS/CLINICAL TRIALS
+
+12.1     Newco shall keep the other Parties promptly and fully advised of
+         Newco's regulatory activities, progress and procedures. Newco shall
+         inform the other Parties of any dealings it shall have with an RHA, and
+         shall furnish the other Parties with copies of all correspondence
+         relating to the Products. The Parties shall collaborate to obtain any
+         required Regulatory Approval of the RHA to market the Products.
+
+
+12.2     Newco shall [***] file, prosecute and maintain any and all Regulatory
+         Applications for the Products in the Territory in accordance with the
+         Business Plan.
+
+
+12.3     Any and all Regulatory Approvals obtained hereunder for any Product
+         shall remain the property of Newco, provided that Newco shall allow
+         Elan and Generex access thereto to enable Elan and Generex to fulfill
+         their respective obligations and exercise their respective rights under
+         this Amended JDOA. Newco shall maintain such Regulatory Approvals at
+         its own cost.
+
+12.4     It is hereby acknowledged that there are inherent uncertainties
+         involved in the registration of pharmaceutical products with the RHA's
+         insofar as obtaining approval is concerned and such uncertainties form
+         part of the business risk involved in undertaking the form of
+         commercial collaboration as set forth in this Amended JDOA.
+
+12.5     The Management Committee shall be responsible for determining Newco's
+         strategy as regards the conduct of any clinical trials with respect to
+         the development of the Products. Any agreement between Newco and Elan
+         or Generex, as the case may be, or between Newco and any independent
+         third party relating to the conduct of any clinical trial with respect
+         to the development of the Products shall require the prior approval in
+         writing of Elan and Generex.
+
+12.6     The Parties agree that each Party shall effect and maintain
+         comprehensive general liability insurance in respect of all clinical
+         trials and other activities performed by them on behalf of Newco. The
+         Participants and Newco shall ensure that the industry standard
+         insurance policies shall be in place for all activities to be carried
+         out by Newco.
+
+                                       27
+<PAGE>
+
+
+                                    CLAUSE 13
+
+                                  MANUFACTURING
+
+13.1     It is the expectation of the Parties that Newco shall enter into a
+         supply agreement with Elan or Generex, as the case may be, to allow for
+         the commercial production of such Product on behalf of Newco. In
+         determining which of Elan or Generex shall provide such services, the
+         Management Committee shall, in good faith, consider all relevant
+         factors including the respective infrastructure and relevant experience
+         of the respective Parties.
+
+         Any such supply agreement (including a quality agreement) shall be
+         negotiated and agreed by Newco and Elan or Generex, as the case may be
+         not later than the date of completion of Phase III (as such term is
+         commonly used in connection with FDA applications) of the R&D Plan. The
+         terms of the said supply agreement shall be negotiated in good faith on
+         standard industry and commercial terms.
+
+         If each of Elan and Generex does not exercise its right hereunder to
+         manufacture and supply, and/or subcontract the manufacture and supply
+         the Product, then Newco shall be free to enter into negotiations with a
+         third party (other than a Technological Competitor of Elan) to agree to
+         terms upon which the third party would be licensed by Elan (on
+         licensing terms satisfactory to Elan), by Generex (on licensing terms
+         satisfactory to Generex) and by Newco to the extent necessary (on
+         licensing terms satisfactory to Newco) to manufacture the relevant
+         Product in the Territory, which terms when taken as a whole, are not
+         more favorable to the third party than the principal terms of the last
+         written proposal offered by Newco to Elan or by Elan to Newco, as the
+         case may be.
+
+13.2     Subject to the provisions of Clause 13.1, Newco shall be responsible
+         for manufacturing, or having manufactured, all quantities of Products
+         required for the development and commercialization of Products for use
+         in the Fields.
+
+
+                                    CLAUSE 14
+
+                        TECHNICAL SERVICES AND ASSISTANCE
+
+14.1     Whenever commercially and technically feasible, Newco shall contract
+         with Generex or Elan, as the case may be, to perform such other
+         services as Newco may require, other than those specifically dealt with
+         hereunder or in the Amended License Agreements. In determining which
+         Party should provide such services, the Management Committee shall take
+         into account the respective infrastructure, capabilities and experience
+         of Elan and Generex. There shall be no obligation upon either of
+         Generex or Elan to perform such services.
+
+                                       28
+<PAGE>
+
+
+14.2     Newco shall, if the Participants so agree, conclude an administrative
+         support agreement with Elan and/or Generex on such terms as the Parties
+         thereto shall in good faith negotiate. The administrative services
+         shall include one or more of the following administrative services as
+         requested by Newco:
+
+         14.2.1   accounting, financial and other services;
+
+         14.2.2   tax services;
+
+         14.2.3   insurance services;
+
+         14.2.4   human resources services;
+
+         14.2.5   legal and company secretarial services;
+
+         14.2.6   patent and related intellectual property services; and
+
+         14.2.7   all such other services consistent with and of the same type
+                  as those services to be provided pursuant to this Amended
+                  JDOA, as may be required.
+
+         The foregoing list of services shall not be deemed exhaustive and may
+         be changed from time to time upon written request by Newco.
+
+14.3     If Elan or Generex so requires, Generex or Elan, as the case may be,
+         shall receive, at times and for periods mutually acceptable to the
+         Parties, employees of the other Party (such employees to be acceptable
+         to the receiving Party in the matter of qualification and competence)
+         for instruction in respect of the Elan Intellectual Property or the
+         Generex Intellectual Property, as the case may be, as necessary to
+         further the Project.
+
+14.4     The employees received by Elan or Generex, as the case may be, shall be
+         subject to obligations of confidentiality no less stringent than those
+         set out in Clause 21 and such employees shall observe the rules,
+         regulations and systems adopted by the Party receiving the said
+         employees for its own employees or visitors.
+
+
+                                    CLAUSE 15
+
+             AUDITORS, BANKERS, ACCOUNTING REFERENCE DATE; SECRETARY
+
+Unless otherwise agreed by the Participants and save as may be provided to the
+contrary herein:
+
+                                       29
+<PAGE>
+
+
+15.1     the bankers of Newco shall be [***] or such other bank as may be
+         mutually agreed from time to time;
+
+
+15.2     the accounting reference date of Newco shall be July 31st in each
+         Financial Year; and
+
+
+15.3     the secretary of Newco shall be [***] or such other Person as may be
+         appointed by the Directors from time to time.
+
+
+
+
+                                    CLAUSE 16
+
+                              TRANSFERS OF SHARES;
+                     RIGHT OF FIRST OFFER; TAG ALONG RIGHTS
+
+General:
+
+16.1     Until such time as the Common Shares shall be registered pursuant to
+         the Exchange Act and be publicly traded in an established securities
+         market, no Shareholder shall, directly or indirectly, sell or otherwise
+         transfer (each, a "Transfer") any Shares held by it except in as
+         expressly permitted by and accordance with the terms of this Amended
+         JDOA. Newco shall not, and shall not permit any transfer agent or
+         registrar for any Shares to, transfer upon the books of Newco any
+         Shares from any Shareholder to any transferee, in any manner, except in
+         accordance with this Amended JDOA, and any purported transfer not in
+         compliance with this Amended JDOA shall be void.
+
+         During the R&D Term, no Shareholder shall, directly or indirectly, sell
+         or otherwise Transfer any of its legal and/or beneficial interest in
+         the Shares held by it to any other Person. After completion of the R&D
+         Term, a Shareholder may Transfer Shares provided such Shareholder
+         complies with the provisions of Clauses 16.2 and 16.3.
+
+         Notwithstanding anything contained herein to the contrary, at all
+         times, EIS and/or Generex shall have the right to Transfer any Shares
+         to their Affiliates provided, however, that such assignment does not
+         result in adverse tax consequences for any other Parties and EIS shall
+         have the right to Transfer any Shares to a special purpose financing or
+         similar entity established by Elan or EIS; provided, that such
+         Affiliates or other Permitted Transferee to which such legal and/or
+         beneficial interest in the Shares have been transferred shall agree to
+         be expressly subject to and bound by all the limitations and provisions
+         which are embodied in this Amended JDOA.
+
+
+                                       30
+<PAGE>
+
+16.2     No Shareholder shall, except with the prior written consent of the
+         other Shareholder, create or permit to subsist any Encumbrance over, or
+         grant any option or other rights in all or any of the Shares held by it
+         (other than by a Transfer of such Shares in accordance with the
+         provisions of this Amended JDOA).
+
+16.3     Rights of First Offer:
+
+         If at any time after the end of the R&D Term a Shareholder shall desire
+         to Transfer any Shares owned by it (a "Selling Shareholder"), in any
+         transaction or series of related transactions other than a Transfer to
+         an Affiliate or subsidiary or in the case of EIS to a special purpose
+         financing or similar entity established by EIS, then such Selling
+         Shareholder shall deliver prior written notice of its desire to
+         Transfer (a "Notice of Intention") (i) to Newco and (ii) to the
+         Shareholders who are not the Selling Shareholder (and any transferee
+         thereof permitted hereunder, if any), as applicable, setting forth such
+         Selling Shareholder's desire to make such Transfer, the number of
+         Shares proposed to be transferred (the "Offered Shares") and the
+         proposed form of transaction (the "Transaction Proposal"), together
+         with any available documentation relating thereto, if any, and the
+         price at which such Selling Shareholder proposes to Transfer the
+         Offered Shares (the "Offer Price"). The "Right of First Offer" provided
+         for in this Clause 16 shall be subject to any "Tag Along Right"
+         benefiting a Shareholder which may be provided for by Clause 16,
+         subject to the exceptions set forth therein.
+
+
+         Upon receipt of the Notice of Intention, the Shareholders who are not
+         the Selling Shareholder shall have the right to purchase at the Offer
+         Price the Offered Shares, exercisable by the delivery of notice to the
+         Selling Shareholder (the "Notice of Exercise"), with a copy to Newco,
+         within [***] from the date of receipt of the Notice of Intention. If no
+         such Notice of Exercise has been delivered by the Shareholders who are
+         not the Selling Shareholder within such [***] period, or such Notice of
+         Exercise does not relate to all of the Offered Shares covered by the
+         Notice of Intention, then the Selling Shareholder shall be entitled to
+         Transfer all of the Offered Shares to the intended transferee. In the
+         event that all of the Offered Shares are not purchased by the
+         non-selling Shareholders, the Selling Shareholder shall sell the
+         available Offered Shares within [***] after the delivery of such Notice
+         of Intention on terms no more favorable to a third party than those
+         presented to the non-selling Shareholders. If such sale does not occur,
+         the Offered Shares shall again be subject to the Right of First Offer
+         set forth in Clause 16.3.
+
+         In the event that any of the Shareholders who are not the Selling
+         Shareholder exercises their right to purchase all of the Offered Shares
+         (in accordance with this Clause 16), then the Selling Shareholder shall
+         sell all of the Offered Shares to such Shareholder(s), in the amounts
+         set forth in the Notice of Intention, after not less than [***] and not
+         more than [***] from the date of the delivery of the Notice of
+         Exercise. In the event that more than one of the Shareholders who are
+         not the Selling Shareholders wish to purchase the Offered Shares, the
+         Offered Shares shall be allocated to such Shareholders on the basis of
+         their pro rata equity interests in Newco.
+
+
+                                       31
+<PAGE>
+
+
+         The rights and obligations of each of the Shareholders pursuant to the
+         Right of First Offer provided herein shall terminate upon the date that
+         the Common Shares is registered under Section 12(b) or 12(g) of the
+         Exchange Act.
+
+         At the closing of the purchase of all of the Offered Shares by the
+         Shareholders who are not the Selling Shareholder (scheduled in
+         accordance with Clause 16), the Selling Shareholder shall deliver
+         certificates evidencing the Offered Shares being sold, duly endorsed,
+         or accompanied by written instruments of transfer in form reasonably
+         satisfactory to the Shareholders who are not the Selling Shareholder,
+         duly executed by the Selling Shareholder, free and clear of any adverse
+         claims, against payment of the purchase price therefor in cash, and
+         such other customary documents as shall be necessary in connection
+         therewith.
+
+16.4     Tag Along Rights:
+
+         Subject to Clause 16.3, a Shareholder (the "Transferring Shareholder")
+         shall not Transfer (either directly or indirectly), in any one
+         transaction or series of related transactions, to any Person or group
+         of Persons, any Shares, unless the terms and conditions of such
+         Transfer shall include an offer to the other Shareholders (the
+         "Remaining Shareholders"), to sell Shares at the same price and on the
+         same terms and conditions as the Transferring Shareholder has agreed to
+         sell its Shares (the "Tag Along Right").
+
+         In the event a Transferring Shareholder proposes to Transfer any Shares
+         in a transaction subject to this Clause 16.4, it shall notify, or cause
+         to be notified, the Remaining Shareholders in writing of each such
+         proposed Transfer. Such notice shall set forth: (i) the name of the
+         transferee and the amount of Shares proposed to be transferred, (ii)
+         the proposed amount and form of consideration and terms and conditions
+         of payment offered by the transferee (the "Transferee Terms") and (iii)
+         that the transferee has been informed of the Tag Along Right provided
+         for in this Clause 16.4, if such right is applicable, and the total
+         number of Shares the transferee has agreed to purchase from the
+         Shareholders in accordance with the terms hereof.
+
+
+         The Tag Along Right may be exercised by each of the Remaining
+         Shareholders by delivery of a written notice to the Transferring
+         Shareholder (the "Co-sale Notice") within [***] following receipt of
+         the notice specified in the preceding subsection. The Co-sale Notice
+         shall state the number of Shares owned by such Remaining Shareholder
+         which the Remaining Shareholder wishes to include in such Transfer;
+         provided, however, that without the written consent of the Transferring
+         Shareholder, the amount of such securities belonging to the Remaining
+         Shareholder included in such Transfer may not be greater than such
+         Remaining Shareholder's percentage beneficial ownership of Fully
+
+
+                                       32
+<PAGE>
+
+
+         Diluted Common Shares multiplied by the total number of Fully Diluted
+         Common Shares to be sold by both the Transferring Shareholder and all
+         Remaining Shareholders. Upon receipt of a Co-sale Notice, the
+         Transferring Shareholder shall be obligated to transfer at least the
+         entire number of Shares set forth in the Co-sale Notice to the
+         transferee on the Transferee Terms; provided, however, that the
+         Transferring Shareholder shall not consummate the purchase and sale of
+         any Shares hereunder if the transferee does not purchase all such
+         Shares specified in all Co-sale Notices. If no Co-sale Notice has been
+         delivered to the Transferring Shareholder prior to the expiration of
+         the [***] period referred to above and if the provisions of this
+         Section have been complied with in all respects, the Transferring
+         Shareholder shall have the right for a [***] period to Transfer Shares
+         to the transferee on the Transferee Terms without further notice to any
+         other party, but after such [***] period, no such Transfer may be made
+         without again giving notice to the Remaining Shareholders of the
+         proposed Transfer and complying with the requirements of this Clause
+         16.
+
+
+         At the closing of any Transfer of Shares subject to this Clause 16.4,
+         the Transferring Shareholder, and the Remaining Shareholder, in the
+         event such Tag Along Right is exercised, shall deliver certificates
+         evidencing such securities as have been Transferred by each, duly
+         endorsed, or accompanied by written instruments of transfer in form
+         reasonably satisfactory to the transferee, free and clear of any
+         adverse claim, against payment of the purchase price therefor.
+
+         Notwithstanding the foregoing, this Clause 16.4 shall not apply to any
+         sale of Common Shares pursuant to an effective registration statement
+         under the Securities Act in a bona fide public offering.
+
+
+                                    CLAUSE 17
+
+                      MATTERS REQUIRING DIRECTORS' APPROVAL
+
+17.1    In consideration of Generex and Elan agreeing to enter into the Amended
+        License Agreements, the Parties hereby agree, notwithstanding the
+        provisions of Clause 6.4 that Newco shall not without the prior approval
+        in writing of the EIS Director and a Generex Director:
+
+
+         17.1.1   issue any unissued Shares or unissued Common Shares
+                  Equivalents, or create or issue any new shares (including a
+                  split of the Shares) or Common Shares Equivalents, except as
+                  expressly permitted by the Newco Bye-Laws;
+
+         17.1.2   alter any rights attaching to any class of share in the
+                  capital of Newco or alter the Newco Bye-Laws;
+
+                                       33
+<PAGE>
+
+         17.1.3   consolidate, sub-divide or convert any of Newco's share
+                  capital or in any way alter the rights attaching thereto;
+
+         17.1.4   dispose of all or substantially all of the assets of Newco;
+
+         17.1.5   do or permit to be done any act or thing whereby Newco may be
+                  wound up (whether voluntarily or compulsorily), save as
+                  otherwise expressly provided for in this Amended JDOA;
+
+         17.1.6   subject to Clause 23.13, assign, license or sub-license any of
+                  the Newco Intellectual Property;
+
+         17.1.7   alter the number of Directors
+
+         17.1.8   change the domicile of Newco from, or discontinue Newco out
+                  of, Bermuda;
+
+         17.1.9   register any Shares of Newco for public trading with any
+                  governmental authority for public trading in any securities
+                  market;
+
+         17.1.10  declare or pay any dividend or make any distribution, directly
+                  or indirectly, with respect to its capital Shares; or issue,
+                  sell, exchange, deliver, redeem, purchase or otherwise acquire
+                  or dispose of any shares of its capital stock or other
+                  securities; and
+
+         17.1.11  adopt or register or use any trade name, trademark or service
+                  mark on behalf of Newco.
+
+
+
+                                    CLAUSE 18
+
+                                    DISPUTES
+
+18.1     Except as provided in Clause 21.7, should any dispute or difference
+         arise between Elan and Generex, or between Elan or Generex and Newco,
+         during the period that this Amended JDOA is in force, then any Party
+         may forthwith give notice to the other Parties that it wishes such
+         dispute or difference to be referred to a designated senior officer of
+         each of Elan and Generex.
+
+
+18.2     In any event of a notice being served in accordance with Clause 18.1,
+         each of the Participants shall within [***] of the service of such
+         notice prepare and circulate to the designated senior officer of each
+         of Elan and Generex a memorandum or other form of statement setting out
+         its position on the matter in dispute and its reasons for adopting that
+         position. Each memorandum or statement shall be considered by the
+         designated senior officers of each of Elan and Generex who shall
+
+
+                                       34
+<PAGE>
+
+         endeavor to resolve the dispute. If designated senior officers of each
+         of Elan and Generex agree upon a resolution or disposition of the
+         matter, they shall each sign a statement which sets out the terms of
+         their agreement. The Participants agree that they shall exercise the
+         voting rights and other powers available to them in relation to Newco
+         to procure that the agreed terms are fully and promptly carried into
+         effect.
+
+18.3     In the event the designated senior officers of each of Elan and Generex
+         are unable to resolve a dispute or difference within [***] of its being
+         referred to them under Clause 18.1, the following procedures shall
+         apply:
+
+         18.3.1   If the dispute relates to the interpretation of this Amended
+                  JDOA or any other Definitive Document or the compliance of the
+                  Parties with their legal obligations thereunder other than
+                  confidentiality obligations, or the ownership of any
+                  intellectual property, the provisions of Clauses 23.9.2 and
+                  23.9.3 shall govern.
+
+         18.3.2   If the dispute does not relate to the interpretation of this
+                  Amended JDOA or any other Definitive Document or the
+                  compliance of the Parties with their legal obligations
+                  thereunder, or the ownership of any intellectual property, the
+                  provisions of Clause 18.4 shall govern.
+
+18.4     The designated senior officers of each of Elan and Generex shall, if
+         they are unable to resolve a dispute or difference described in Clause
+         18.3.2 within [***] of such referral, and if so agreed to by Elan and
+         Generex, refer the matter to an independent expert in pharmaceutical
+         product development and marketing (including clinical development and
+         regulatory affairs) jointly selected by the designated senior officers
+         of each of Elan and Generex (the "Expert").
+
+         In the event the designated senior officers of each of Elan and Generex
+         cannot agree upon the designation of the Expert, the Participants shall
+         request the American Arbitration Association ("AAA"), sitting in the
+         City of New York to select the Expert. In each case, the Expert shall
+         be selected having regard to his suitability to determine the
+         particular dispute or difference on which the Expert is being requested
+         to determine. Unless otherwise agreed between the designated senior
+         officers of each of Elan and Generex, the following rules shall apply
+         to the appointment of the Expert. The fees of the AAA and the Expert
+         shall be shared equally by the Participants. The Expert shall be
+         entitled to inspect and examine all documentation and any other
+         material which the Expert may consider to be relevant to the dispute.
+         The Expert shall afford each Party a reasonable opportunity (in writing
+         or orally) of stating reasons in support of such contentions as each
+         Party may wish to make relative to the matters under consideration. The
+         Expert shall give notice in writing of his determination to the Parties
+         within such time as may be stipulated in his terms of appointment or in
+         the absence of such stipulation as soon as practicable but in any event
+         within four weeks from the reference of the dispute or difference to
+         him.
+
+                                       35
+<PAGE>
+
+
+18.5     Any determination by the Expert of a dispute or difference shall not be
+         binding on the Parties.
+
+                                    CLAUSE 19
+
+                                   TERMINATION
+
+19.1     This Amended JDOA shall govern the operation and existence of Newco
+         until
+
+         19.1.1   terminated by written agreement of all Parties hereto; or
+
+         19.1.2   otherwise terminated in accordance with this Clause 19.
+
+19.2     For the purpose of this Clause 19, a "Relevant Event" is committed by a
+         Participant if:
+
+         19.2.1   it commits a material breach of its representations,
+                  warranties or obligations under this Amended JDOA and fails to
+                  cure it within [***] of being specifically required in writing
+                  to do so by the other Participant; provided, however, that if
+                  the breaching Participant has proposed a course of action to
+                  cure the breach and is acting in good faith to cure same but
+                  has not cured the breach by [***], such period shall be
+                  extended by such period as is reasonably necessary to permit
+                  the breach to be cured, provided that such period shall not be
+                  extended by more than [***], unless otherwise agreed in
+                  writing by the Parties; or
+
+         19.2.2   a distress, execution, sequestration or other process is
+                  levied or enforced upon or sued out against a material part of
+                  its property which is not discharged or challenged within
+                  [***]; or
+
+         19.2.3   it is unable to pay its debts in the normal course of
+                  business; or
+
+         19.2.4   it ceases wholly or substantially to carry on its business,
+                  otherwise than for the purpose of a reconstruction or
+                  amalgamation, without the prior written consent of the other
+                  Participant (such consent not to be unreasonably withheld); or
+
+         19.2.5   the appointment of a liquidator, receiver, administrator,
+                  examiner, trustee or similar officer of such Participant or
+                  over all or substantially all of its assets under the law of
+                  any applicable jurisdiction, including without limitation, the
+                  United States of America, Bermuda or Ireland; or
+
+         19.2.6   an application or petition for bankruptcy, corporate
+                  re-organization, composition, administration, examination,
+                  arrangement or any other procedure similar to any of the
+                  foregoing under the law of any applicable jurisdiction,
+
+
+                                       36
+<PAGE>
+
+                  including without limitation, the United States of America,
+                  Bermuda or Ireland, is filed, and is not discharged within
+                  [***], or a Participant applies for or consents to the
+                  appointment of a receiver, administrator, examiner or similar
+                  officer of it or of all or a material part of its assets,
+                  rights or revenues or the assets and/or the business of a
+                  Participant are for any reason seized, confiscated or
+                  condemned.
+
+19.3     If either Participant commits a Relevant Event, the other Participant
+         shall be entitled, within three months of the occurrence of the
+         Relevant Event, to require the defaulting Participant (the "Recipient
+         Participant") to sell on reasonable terms of payment to the
+         non-defaulting Participant (the "Proposing Participant") all (but not
+         some only) of the Shares, held or beneficially owned by the Recipient
+         Participant for an amount equal to [***]% of the fair market value of
+         the Shares of the Recipient Participant (the "Buyout Option").
+
+19.4     The Proposing Participant shall notify the Recipient Participant of the
+         exercise of the Buyout Option, no later than [***] prior to the
+         proposed exercise thereof, by delivering written notice to the
+         Recipient Participant stating that the Buyout Option is exercised and
+         the price at which the Proposing Participant is willing to purchase the
+         Shares of the Recipient Participant.
+
+19.5     In the event that the Participants do not agree upon a purchase price
+         for the Shares within [***] following the receipt by the Recipient
+         Participant of written notice from the Proposing Participant pursuant
+         to Clause 19.4 above, the Proposing Participant may contact the
+         American Arbitration Association, sitting in New York City and request
+         that an independent US-based arbitrator who is knowledgeable of the
+         pharmaceutical/biotechnology industry be appointed within [***]. The
+         AAA shall endeavor to select an arbitrator who is technically
+         knowledgeable in the pharmaceutical/biotechnology industry (and who
+         directly and through his affiliates, has no business relationship with,
+         or shareholding in, either the Proposing Participant or the Recipient
+         Participant). Promptly upon being notified of the arbitrator's
+         appointment, the Proposing Participant and the Recipient Participant
+         shall submit to the arbitrator details of their assessment of the fair
+         market value for the Shares of the Recipient Participant together with
+         such information as they think necessary to validate their assessment.
+         The arbitrator shall notify the Recipient Participant of [***]% of the
+         fair market value assessed by the Proposing Participant (the "Proposing
+         Participant Price") and shall notify the Proposing Participant of
+         [***]% of the fair market value assessed by the Recipient Participant
+         (the "Recipient Participant Price"). The Proposing Participant and the
+         Recipient Participant shall then be entitled to make further
+         submissions to the arbitrator within [***] explaining why the Recipient
+         Participant Price or the Proposing Participant Price, as the case may
+         be, is unjustified. The arbitrator shall thereafter meet with the
+         Proposing Participant and the Recipient Participant and shall
+         thereafter choose either the Recipient Participant Price or the
+         Proposing Participant Price (but not any other price) as the purchase
+         price for the Shares (the "Purchase Price") on the basis of which price
+         the arbitrator determines to be closer to [***]% of the fair market
+         value for the Shares of the Recipient Participant. The arbitrator shall
+         use his best efforts to determine the Purchase Price within [***]. The
+         Proposing Participant and the Recipient Participant shall bear the
+         costs of the arbitrator equally provided that the arbitrator may, in
+         his discretion, allocate all or a portion of such costs to one Party.
+         Any decision of the arbitrator shall be final and binding.
+
+                                       37
+<PAGE>
+
+19.6     The Proposing Participant shall purchase the Shares of the Recipient
+         Participant by delivery of the Purchase Price in cash no later than
+         [***] following determination of the Purchase Price by the Expert.
+
+19.7     The Shares of the Recipient Participant so transferred shall be sold by
+         the transferor as beneficial owner with effect from the date of such
+         transfer free from any lien, charge or encumbrance with all rights and
+         restrictions attaching thereto.
+
+19.8     If the Proposing Participant exercises the Buyout Option, both parties
+         will negotiate in good faith to agree to additional reasonable
+         provisions and/or amendments to the Amended License Agreements to
+         protect the intellectual property rights of the Recipient Party.
+
+19.9     If either Participant commits a Relevant Event, the other Shareholder
+         shall have in addition to all other legal and equitable rights and
+         remedies hereunder, the right to terminate this Amended JDOA upon [***]
+         written notice.
+
+19.10    In the event of a termination of the Amended Elan License Agreement
+         and/or the Amended Generex License Agreement, both parties will
+         negotiate in good faith to determine whether this Amended JDOA should
+         be terminated and if so, which provisions should survive termination.
+
+19.11    The provisions of Clauses 1 (Definitions); 3 (Representations); 7.4 and
+         7.5 (Development Work); 9 (Ownership of Intellectual Property); 10.4,
+         10.5, 10.7, and 10.9 to 10.12, inclusive (Intellectual Property
+         Rights); 11.3 (Exploitation Outside the Fields); 12.3, 12.5, and 12.6
+         (Regulatory Matters); 16 (Transfers of Shares); 17 (Matters Requiring
+         Directors' Approval); 19.3 to 19.11, inclusive (Termination); 20 (Share
+         Rights); 21 (Confidentiality); 22.2 (Costs) and 23 (General) shall
+         survive the termination of this Amended JDOA under this Clause 19; all
+         other terms and provisions of this Amended JDOA shall cease to have
+         effect and be null and void upon the termination of this Amended JDOA.
+
+
+                                    CLAUSE 20
+
+                                  SHARE RIGHTS
+
+The provisions regulating the rights and obligations attaching to the Common
+Shares and the Preference Shares are set out in the Newco Bye-laws.
+
+
+                                       38
+<PAGE>
+
+                                    CLAUSE 21
+
+                                 CONFIDENTIALITY
+
+21.1     The Parties and/or Newco acknowledge and agree that it may be
+         necessary, from time to time, to disclose to each other or give access
+         to each other confidential and/or proprietary information, including
+         without limitation, inventions, works of authorship, trade secrets,
+         specifications, designs, data, know-how and other information, relating
+         to the Fields, the Products, present or future products, the Newco
+         Intellectual Property, the Elan Intellectual Property or the Generex
+         Intellectual Property, as the case may be, methods, compounds, research
+         projects, work in process, services, sales suppliers, customers,
+         employees and/or business of the disclosing Party, whether in oral,
+         written, graphic or electronic form (collectively "Confidential
+         Information").
+
+21.2     Save as otherwise specifically provided herein, any Confidential
+         Information revealed by a Party to another Party shall be maintained as
+         confidential and shall be used by the receiving Party exclusively for
+         the purposes of fulfilling the receiving Party's rights and obligations
+         under this Amended JDOA, and for no other purpose. Confidential
+         Information shall not include:
+
+         21.2.1   information that is generally available to the public;
+
+         21.2.2   information that is made public by the disclosing Party;
+
+         21.2.3   information that is independently developed by the receiving
+                  Party, as evidenced by such Party's records, without the aid,
+                  application or use of the disclosing Party's Confidential
+                  Information;
+
+         21.2.4   information that is published or otherwise becomes known to
+                  the public without any disclosure by the receiving Party, or
+                  on the part of the receiving Party's directors, officers,
+                  agents, representatives or employees;
+
+         21.2.5   information that becomes available to the receiving Party on a
+                  non-confidential basis, whether directly or indirectly, from a
+                  source other than the disclosing Party, which source did not
+                  acquire this information on a confidential basis; or
+
+         21.2.6   information which was already in the possession of the
+                  receiving Party at the time of receiving such information, as
+                  evidenced by its records, provided such information was not
+                  previously provided to the receiving party from a source which
+                  was under an obligation to keep such information confidential;
+                  or
+
+                                       39
+<PAGE>
+
+         21.2.7   information that is the subject of a written permission to
+                  disclose, without restriction or limitation, by the disclosing
+                  Party.
+
+21.3     The receiving Party will be entitled to disclose Confidential
+         Information which the receiving Party is required to disclose pursuant
+         to:
+
+         21.3.1   a valid order of a court or other governmental body or any
+                  political subdivision thereof or as otherwise required by law,
+                  rule or regulation; or; or
+
+         21.3.2   any other requirement of law;
+
+         provided that if the receiving Party becomes legally required to
+         disclose any Confidential Information, the receiving Party shall give
+         the disclosing Party prompt notice of such fact so that the disclosing
+         Party may obtain a protective order or confidential treatment or other
+         appropriate remedy concerning any such disclosure. The receiving Party
+         shall fully co-operate with the disclosing Party in connection with the
+         disclosing Party's efforts to obtain any such order or other remedy. If
+         any such order or other remedy does not fully preclude disclosure, the
+         receiving Party shall make such disclosure only to the extent that such
+         disclosure is legally required.
+
+21.4     Save as otherwise specifically provided herein, each Party agrees to
+         disclose Confidential Information of another Party only to those
+         employees, representatives, agents requiring knowledge thereof in
+         connection with their duties directly related to the fulfilling of the
+         Party's obligations under this Amended JDOA, so long as such persons
+         are under an obligation of confidentiality no less stringent than as
+         set forth herein. With respect to third parties, each Party further
+         agrees that, in the event it becomes necessary to disclose Confidential
+         Information of another Party, the disclosing Party shall only disclose
+         such Confidential Information as is reasonably necessary to further or
+         fulfill the disclosing Party's obligations under this Amended JDOA and
+         then only so long as such third party is under an obligation of
+         confidentiality no less stringent than as set forth herein, provided
+         that, solely with respect to the Generex Intellectual Property or the
+         Elan Intellectual Property, as the case may be, and only to the extent
+         the Generex Intellectual Property or the Elan Intellectual Property to
+         be disclosed constitutes Confidential Information, prior to disclosure,
+         a disclosing Party shall provide Generex or Elan, as the case may be,
+         with reasonable notice as to the Confidential Information with respect
+         to Generex Intellectual Property or Elan Intellectual Property, as the
+         case may be, to be disclosed. Each Party further agrees to inform all
+         such employees, representatives and agents of the terms and provisions
+         of this Amended JDOA and their duties hereunder and to obtain their
+         consent hereto as a condition of receiving Confidential Information.
+         Each Party agrees that it will exercise the same degree of care and
+         protection to preserve the proprietary and confidential nature of the
+         Confidential Information disclosed by a Party, as the receiving Party
+         would exercise to preserve its own Confidential Information. Each Party
+         agrees that it will, upon request of another Party, return all
+         documents and any copies thereof containing Confidential Information
+         belonging to or disclosed by such other Party. Each Party shall
+         promptly notify the other Parties upon discovery of any unauthorized
+         use or disclosure of the other Parties' Confidential Information.
+
+                                       40
+<PAGE>
+
+21.5     Any breach of this Clause 21 by any employee, representative or agent
+         of a Party is considered a breach by the Party itself.
+
+21.6     The provisions relating to confidentiality in this Clause 21 shall
+         remain in effect during the Term and for a period of [***] following
+         the termination of this Amended JDOA.
+
+21.7     The Parties agree that the obligations of this Clause 21 are necessary
+         and reasonable in order to protect the Parties' respective businesses,
+         and each Party expressly agrees that monetary damages would be
+         inadequate to compensate a Party for any breach by the other Party of
+         its covenants and agreements set forth herein. Accordingly, the Parties
+         agree and acknowledge that any such violation or threatened violation
+         will cause irreparable injury to a Party and that, in addition to any
+         other remedies that may be available, in law or in equity or otherwise,
+         any Party shall be entitled to obtain injunctive relief against the
+         threatened breach of the provisions of this Clause 21, or a
+         continuation of any such breach by the other Party, specific
+         performance and other equitable relief to redress such breach together
+         with its damages and reasonable counsel fees and expenses to enforce
+         its rights hereunder, without the necessity of proving actual or
+         express damages. The dispute resolution procedures set forth in Clause
+         18 shall not apply to any breach or threatened breach of the provisions
+         of this Clause 21.
+
+
+                                    CLAUSE 22
+
+                                      COSTS
+
+22.1     Each Shareholder shall bear its own legal and other costs incurred in
+         relation to preparing and concluding this Amended JDOA and the
+         Definitive Documents.
+
+22.2     All other costs, legal fees, registration fees and other expenses
+         relating to the transactions contemplated hereby, including the costs
+         and expenses incurred in relation to the incorporation of Newco, shall
+         be borne by Newco.
+
+
+                                       41
+
+<PAGE>
+
+                                    CLAUSE 23
+
+                                     GENERAL
+
+23.1     Exclusion of liability:
+
+         Notwithstanding anything to the contrary in this Amended JDOA, no Party
+         shall be liable to any other Party by reason of any representation or
+         warranty, condition or other term or any duty of common law, or under
+         the express terms of this Amended JDOA, for any consequential, special
+         or incidental or punitive loss or damage (whether for loss of current
+         or future profits, loss of enterprise value or otherwise) and whether
+         occasioned by the negligence of the respective Parties, their employees
+         or agents or otherwise.
+
+23.2     Good Faith:
+
+         Each of the Parties agrees to act reasonably in giving effect to the
+         provisions of this Amended JDOA.
+
+23.3     Further Assurance:
+
+         At the request of any of the Parties, the other Party or Parties shall
+         (and shall use reasonable efforts to procure that any other necessary
+         parties shall) execute and perform all such documents, acts and things
+         as may reasonably be required subsequent to the signing of this Amended
+         JDOA for assuring to or vesting in the requesting Party the full
+         benefit of the terms hereof.
+
+23.4     No Representation:
+
+         Each of the Parties hereto hereby acknowledges that in entering into
+         this Amended JDOA it has not relied on any representation or warranty
+         except as expressly set forth herein or in any document referred to
+         herein.
+
+23.5     Force Majeure:
+
+         Neither Party to this Amended JDOA shall be liable for delay in the
+         performance of any of its obligations hereunder if such delay is caused
+         by or results from causes beyond its reasonable control, including
+         without limitation, acts of God, fires, strikes, acts of war (whether
+         war be declared or not), insurrections, riots, civil commotions,
+         strikes, lockouts or other labor disturbances or intervention of any
+         relevant government authority, but any such delay or failure shall be
+         remedied by such Party as soon as practicable.
+
+23.6     Relationship of the Parties:
+
+         Nothing contained in this Amended JDOA is intended or is to be
+         construed to constitute Elan or EIS and Generex as partners, or Elan or
+         EIS as an employee or agent of Generex, or Generex as an employee or
+         agent of Elan or EIS.
+
+                                       42
+<PAGE>
+
+         No Party hereto shall have any express or implied right or authority to
+         assume or create any obligations on behalf of or in the name of another
+         Party or to bind another Party to any contract, agreement or
+         undertaking with any third party.
+
+23.7     Counterparts:
+
+         This Amended JDOA may be executed in any number of counterparts, each
+         of which when so executed shall be deemed to be an original and all of
+         which when taken together shall constitute this Amended JDOA.
+
+23.8     Notices:
+
+         Any notice to be given under this Amended JDOA shall be sent in writing
+         in English by registered or recorded delivery post or reputable
+         overnight courier or telefaxed to:
+
+         Elan at:
+
+         c/o Elan International Services, Ltd.,
+         102 St. James Court,
+         Flatts, Smiths FL04,
+         Bermuda.
+
+
+         Attention:        President
+         Telephone:        [***]
+         Fax:              [***]
+
+
+         and
+
+         Elan International Services, Ltd.
+         102 St. James Court
+         Flatts, Smiths FL04
+         Bermuda
+         Attention:        President
+         Telephone:        [***]
+         Fax:              [***]
+
+
+
+         Generex at:
+
+         Generex Biotechnology Corporation
+         33 Harbour Square, Suite 202,
+         Toronto, Ontario
+         Canada M5J 2G2
+
+
+         Attn: Chief Executive Officer
+         Telephone         [***]
+         Fax:              [***]
+
+
+                                       43
+<PAGE>
+
+         with a copy to:
+
+         Eckert Seamans Cherin & Mellott, LLC
+         1515 Market Street
+         9th Floor
+         Philadelphia, PA 19102
+         Attention:  John G. Chou, Esq.
+
+
+         Newco at:
+
+         Clarendon House,
+         2 Church St.,
+         Hamilton,
+         Bermuda
+
+         Attention:        Secretary
+         Telephone:        [***]
+         Fax:              [***]
+
+
+
+         or to such other address(es) as may from time to time be notified by
+         any Party to the others hereunder.
+
+         Any notice sent by mail shall be deemed to have been delivered within 7
+         business days after dispatch or delivery to the relevant courier and
+         any notice sent by telefax shall be deemed to have been delivered upon
+         confirmation of receipt. Notices of change of address shall be
+         effective upon receipt. Notices by telefax shall also be sent by
+         another method permitted hereunder.
+
+23.9     Governing Law
+
+         23.9.1   This Amended JDOA shall be governed by and construed in
+                  accordance with the laws of the State of New York.
+
+         23.9.2   In the event that a dispute regarding the matters described in
+                  Clause 18.3.1 is not resolved pursuant to the provisions of
+                  Clause 18.1, the Parties agree to consider other dispute
+                  resolution mechanisms including mediation.
+
+
+         23.9.3   In the event that the Parties fail to agree on a mutually
+                  acceptable dispute resolution mechanism under Clause 23.9.2 or
+                  in the event that the dispute is not resolved pursuant to any
+                  dispute resolution mechanism agreed by the Parties under
+                  Clause 23.9.2 within 6 months, the dispute shall be finally
+                  settled by the courts of competent jurisdiction. For the
+                  purposes of this Amended JDOA the parties submit to the [***]
+                  jurisdiction of the courts of the State of New York.
+
+                                       44
+<PAGE>
+23.10    Severability:
+
+         If any provision in this Amended JDOA is agreed by the Parties to be,
+         deemed to be or becomes invalid, illegal, void or unenforceable under
+         any law that is applicable hereto, such provision will be deemed
+         amended to conform to applicable laws so as to be valid and enforceable
+         or, if it cannot be so amended without materially altering the
+         intention of the Parties, it will be deleted, with effect from the date
+         of such agreement or such earlier date as the Parties may agree, and
+         the validity, legality and enforceability of the remaining provisions
+         of this Amended JDOA shall not be impaired or affected in any way.
+
+23.11    Amendments:
+
+         No amendment, modification or addition hereto shall be effective or
+         binding on any Party unless set forth in writing and executed by a duly
+         authorized representative of all Parties.
+
+23.12    Waiver:
+
+         No waiver of any right under this Amended JDOA shall be deemed
+         effective unless contained in a written document signed by the Party
+         charged with such waiver, and no waiver of any breach or failure to
+         perform shall be deemed to be a waiver of any future breach or failure
+         to perform or of any other right arising under this Amended JDOA.
+
+23.13    Assignment:
+
+         None of the Parties shall be permitted to assign its rights or
+         obligations hereunder without the prior written consent of the other
+         Parties except as follows:
+
+         23.13.1   Elan, EIS and/or Generex shall have the right to assign their
+                   rights and obligations hereunder to their Affiliates
+                   provided, however, that such assignment does not result in
+                   adverse tax consequences for any other Parties.
+
+         23.13.2   Elan and EIS shall have the right to assign their rights and
+                   obligations hereunder to a special purpose financing or
+                   similar entity established by Elan or EIS.
+
+23.14    Assignment of Newco Intellectual Property:
+
+         Upon one month's prior notice in writing from Elan to Newco and
+         Generex, Newco shall assign the Newco Intellectual Property from Newco
+         to a wholly-owned subsidiary of Newco to be incorporated in Ireland,
+         which company shall be newly incorporated to facilitate such
+         assignment.
+
+
+                                       45
+<PAGE>
+
+23.15    Whole Agreement:
+
+         Except as otherwise provided in Section 9 of the Generex Securities
+         Agreement, this Amended JDOA (including the Schedules attached hereto)
+         and the Definitive Documents set forth all of the agreements and
+         understandings between the Parties with respect to the subject matter
+         hereof, and supersede all prior agreements and understandings between
+         the Parties with respect to the subject matter hereof. There are no
+         agreements or understandings with respect to the subject matter hereof,
+         either oral or written, between the Parties other than as set forth in
+         this Amended JDOA and the Definitive Documents and the Newco Bye-laws.
+
+         In the event of any ambiguity or conflict arising between the terms of
+         this Amended JDOA and those of the Newco Bye-Laws, the terms of this
+         Amended JDOA shall prevail except with respect to the rights and
+         obligations attaching to the Common Shares and the Preference Shares,
+         where the Newco Bye-Laws shall prevail.
+
+         No provision of this Amended JDOA shall be construed so as to negate,
+         modify or affect in any way the provisions of any other agreement
+         between any of the Parties unless specifically referred to, and solely
+         to the extent provided herein. In the event of a conflict between the
+         provisions of this Amended JDOA and the provisions of the Amended
+         License Agreements, the terms of this Amended JDOA shall prevail unless
+         this Amended JDOA specifically provide otherwise.
+
+         Nothing contained herein shall be deemed to negate any rights or
+         obligations of any of the Parties that have accrued between the Closing
+         Date and the Effective Date, save to the extent expressly provided
+         herein.
+
+23.16    Successors:
+
+         This Amended JDOA shall be binding upon and inure to the benefit of the
+         Parties hereto, their successors and permitted assigns.
+
+
+                                       46
+
+<PAGE>
+
+
+IN WITNESS WHEREOF, the Parties hereto have executed this Amended JDOA on the
+day first set forth above.
+
+                                            SIGNED
+
+                                            BY:_______________________
+
+                                            for and on behalf of
+                                            ELAN CORPORATION, PLC
+
+
+
+                                            SIGNED
+
+                                            BY:_______________________
+
+                                            for and on behalf of
+                                            ELAN INTERNATIONAL SERVICES, LTD.
+
+
+
+                                            SIGNED
+
+                                            BY:_______________________
+
+                                            for and on behalf of
+                                            GENEREX BIOTECHNOLOGY CORPORATION
+
+
+
+                                            SIGNED
+
+                                            BY:_______________________
+
+                                            for and on behalf of
+                                            GENEREX (BERMUDA), LTD.
+
+                                       47
+<PAGE>
+
+
+                                   Schedule 1
+                                   ----------
+
+                         Amended Elan License Agreement
+                         ------------------------------
+
+
+                                       48
+<PAGE>
+
+
+                                   Schedule 2
+                                   ----------
+
+                        Amended Generex License Agreement
+                        ---------------------------------
+
+                                       49
+<PAGE>
+
+
+                                   Schedule 3
+                                   ----------
+
+                      Decisions of the Management Committee
+                      -------------------------------------
+
+         1.       Make a material Newco determination outside the ordinary
+                  course of Business, including, among other things, acquiring
+                  or disposing of intellectual property and licenses or
+                  sublicenses, changing the Business as it relates to the
+                  Licensed Technologies; and entering into joint ventures and
+                  similar arrangements as they relate to the Licensed
+                  Technologies;
+
+         2.       [***], enter into any contract or transaction except in the
+                  ordinary course of business on arm's length terms;
+
+         3.       amend or vary the terms of the Amended Generex License
+                  Agreement or the Amended Elan License Agreement;
+
+         4.       [***] permit a person other than Newco to own a regulatory
+                  approval relating to the Product(s);
+
+         5.       [***], amend or vary the Business Plan or the Newco budget as
+                  they relate to the Licensed Technologies.
+
+
+                                       50
+<PAGE>
+
+
+                                   Schedule 4
+                                   ----------
+
+
+
+
+[***] [Total redaction for Schedule 4 is 1 page]
+
+
+                                       51
+
+<PAGE>
+
+
+
+
+                                   Schedule 5
+                                   ----------
+
+
+[***] [Total redaction for Schedule 5 is 1 page]
+
+
+
+                                       52
+
+</TEXT>
+</DOCUMENT>

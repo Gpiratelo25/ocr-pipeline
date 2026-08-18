@@ -1,0 +1,179 @@
+<DOCUMENT>
+<TYPE>EX-10.18
+<SEQUENCE>12
+<FILENAME>a2043409zex-10_18.txt
+<DESCRIPTION>EXHIBIT 10.18
+<TEXT>
+
+<PAGE>
+
+                                                                   Exhibit 10.18
+
+
+           AMENDMENT NO. 4 TO THE MARKETING AND INTEGRATION AGREEMENT
+
+This Amendment No. 4 dated as of May 17, 1999 (this "Amendment") to the
+Marketing and Integration Agreement is entered into between RoweCom Inc., a
+Delaware corporation ("RCI") and barnesandnoble.com llc (f/k/a
+barnesandnoble.com inc.), a Delaware limited liability company ("BN") and amends
+the Marketing and Integration Agreement dated as of August 20, 1998, as amended
+(the "Marketing Agreement") by and between RCI and BN. This Amendment No. 4 is
+intended to clarify the parties' respective obligations with respect to the
+provisions regarding exclusivity, Integrated Service, and joint sales efforts
+and revenue sharing under the Marketing Agreement. Capitalized terms used in
+this Amendment No. 4 and not otherwise defined herein are used with the meanings
+ascribed to them in the Marketing Agreement.
+
+      In consideration of the mutual promises and covenants contained in the
+Marketing Agreement, and for other good and valuable consideration, the parties
+hereby agree that the Marketing Agreement shall be amended in accordance with
+Section 14(b) of the Marketing Agreement as follows:
+
+1.    Section 1 is hereby amended by inserting in alphabetical order therein the
+      following definition:
+
+            "Technology Plan" shall mean the plan to be jointly prepared by BN
+      and RCI as set forth in Section 4(b)(i) of the Marketing Agreement."
+
+2.    Section 3(b)(i) of the Marketing Agreement is hereby deleted in its
+      entirety.
+
+3.    Section 3(b)(ii) is hereby deleted in its entirety and replaced with the
+      following:
+
+      "During the Term and subject to the provisions of this Agreement, RCI
+      agrees that BN shall be the exclusive provider of all books to RCI for all
+      business-to-business distribution channels customarily utilized by RCI
+      from time to time, including without limitation, RCIs kStore service and
+      kLibrary service, or other similar business-to-business service provided
+      by RCI. Notwithstanding anything to the contrary RCI may market, promote,
+      sell, and distribute its Subscriptions, products and services to third
+      party vendors and customers not affiliated with BN, through all
+      distribution utilized by RCI at any time, including without limitation
+      through links via the Internet between the RCI Site, the RCI Service Home
+      Page, or any similar customized home pages of RCI Intranets, and third
+      party booksellers. The parties understand and agree that, with respect to
+      RCI customers and such customers' intranets, RCI cannot restrict such
+      customers from having relationships with third party booksellers."
+
+4.    Section 3(b)(iii) is hereby amended by deleting in its entirety and is
+      replaced with the following:
+<PAGE>
+
+      "During the Term and subject to provisions of this Agreement BN agrees
+      that RCI shall be the exclusive provider of all Subscriptions to BN for
+      all business-to-business distribution channels customarily utilized by BN,
+      including without limitation BN's Business Solutions Service, or other
+      similar business-to-business service provided by BN from time to time.
+      Notwithstanding anything to the contrary, BN may market, promote, sell,
+      and distribute books, BN Products, and other services to third party
+      vendors and customers not affiliated with RCI though all distribution
+      utilized by BN at any time, including without limitation, through links
+      via the Internet between the BN Business Solutions Site, BN site, or any
+      RN customized home pages of RN Intranets, and third party Subscription
+      providers. The parties understand and agree that, with respect to BN
+      customers and such customers' intranets, BN cannot restrict such customers
+      from having relationships with third party Subscription providers. In
+      addition, BN currently has an agreement to buy and to offer to its Current
+      Customers certain Consumer Subscriptions (the "E-News Subscriptions")
+      through the BN Site, which Subscriptions shall not be subject to the terms
+      of this Agreement for the duration of RN's agreement with E-News. All
+      Subscriptions other than the E-News Subscriptions shall be subject to the
+      exclusive marketing arrangement set forth in this Section 3(b)(iii)(1)."
+
+5.    Section 3(b)(iv) of the Marketing Agreement is hereby deleted in its
+      entirety.
+
+6.    Section 4(a)(ii)(1) is hereby deleted in its entirety.
+
+7.    Section 4(b)(i) of the Marketing Agreement is hereby deleted in its
+      entirety and replaced with the language set forth below. All references
+      contained in the Marketing Agreement to the BN Database and Business
+      Solutions software are hereby amended to conform to the intent of the
+      parties as set forth in this Amendment No. 4.
+
+      "No later than June 17, 1999, the parties shall agree upon a technology
+      and implementation plan (the "Technology Plan") with respect to (1) the
+      exchange of BN's then existing database of books to RCI and the exchange
+      of RCI's then existing database of Subscriptions to BN, and (2) the
+      ordering, processing and fulfillment for the sale of books on the RCI Site
+      and through the RCI Service and the sale of Subscriptions through the BN
+      Site, and all customer service in connection therewith. In the event that
+      the parties are unable to reach such an agreement, then either party shall
+      have the right to immediately terminate this Agreement upon written notice
+      to the other party and/or the parties may renegotiate and amend the
+      Marketing Agreement with respect to the Technology Plan or any other
+      matter. The BN database described herein and all updates thereto are
+      hereinafter referred to as the "BN Database" and the RCI database
+      described herein and all updates hereto are hereinafter referred to as the
+      "RCI Database.""
+
+8.    Section 4(b)(iv) is hereby amended in its entirety to read as follows:
+
+
+                                       -2-
+<PAGE>
+
+      "The parties shall process orders, bill customers, collect payments,
+      fulfill orders, and provide customer service to each party's customers as
+      the parties shall agree and as set forth in the Technology Plan."
+
+9.    Section 4(b)(v) is hereby deleted in its entirety.
+
+10.   Schedule I is hereby amended in its entirety by replacing such schedule
+      with Schedule I attached hereto. Except as set forth in Section 5 of this
+      Agreement, other than the fees set forth on Schedule I, as amended and
+      attached hereto, there shall be no additional fees payable by either party
+      under the Marketing Agreement. In addition, Section 5(b) is hereby deleted
+      in its entirety.
+
+11.   The parties hereby agree not to implement a Development Plan as required
+      under Section 3(b)(v) of the Marketing Agreement. It is hereby
+      acknowledged and agreed that the parties may determine to proceed with a
+      Development Plan at a future date at which time the parties shall, upon
+      mutual agreement, agree in writing pursuant to an amendment to the
+      Marketing Agreement. All references to the Development Plan contained in
+      the Marketing Agreement are hereby amended to conform to the intent of the
+      parties as set forth in this Amendment No. 4.
+
+12.   The parties hereby agree not to integrate the web-sites of BN and RCI to
+      provide a single fully integrated service for all business to business
+      services of BN and RCI as of the date of this Amendment as required under
+      the Marketing Agreement. It is hereby acknowledged and agreed that the
+      parties may determine to proceed with an Integrated Service at a future
+      date at which time the parties shall, upon mutual agreement, agree in
+      writing pursuant to an amendment to the Marketing Agreement. All
+      references to the Integrated Service are hereby amended to confirm to the
+      intent of the parties as set forth in this Amendment No. 4.
+
+      Except as expressly modified by this Amendment No. 4, all terms and
+conditions of the Marketing Agreement shall remain in full force and effect as
+originally constituted.
+
+
+                             Signature Page Follows
+
+
+                                       -3-
+<PAGE>
+
+IN WITNESS WHEREOF, the parties have caused this Amendment No. 4 to the
+Marketing and Integration Agreement to be executed by their authorized
+representatives as an instrument under seal of May 17, 1999.
+
+
+ROWECOM, INC.                            BARNESANDNOBLE.COM LLC
+                                         (f/k/a barnesandnoble.com Inc.)
+
+
+By: /s/ Louis Hernandez Sr.              By: /s/ Carl S. Rosendorf
+    ----------------------------             ----------------------------
+Name: LOUIS HERNANDEZ SR.                Name: CARL S. ROSENDORF
+      --------------------------               --------------------------
+Title: EVP & CFO                         Title: SENIOR VICE PRESIDENT
+       -------------------------                -------------------------
+
+
+                                       -4-
+</TEXT>
+</DOCUMENT>

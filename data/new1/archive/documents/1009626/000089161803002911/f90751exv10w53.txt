@@ -1,0 +1,67 @@
+<DOCUMENT>
+<TYPE>EX-10.53
+<SEQUENCE>7
+<FILENAME>f90751exv10w53.txt
+<DESCRIPTION>EXHIBIT 10.53
+<TEXT>
+<PAGE>
+
+                                                                   Exhibit 10.53
+
+                                AMENDMENT NO. ONE
+                                       TO
+                      MANUFACTURING AND PURCHASE AGREEMENT
+                                     BETWEEN
+                              BROCADE AND SOLECTRON
+
+This Amendment Number One ("Amendment") to the Manufacturing and Purchase
+Agreement by and between Brocade Communications Systems, Inc. ("Brocade"), and
+Solectron Corporation ("Solectron"), dated February 21, 2003 ("Agreement") is
+entered into as of March __, 2003.
+
+In consideration of the mutual covenants and promises set forth herein and for
+other good and valuable consideration, the receipt of which both parties hereby
+acknowledge, Brocade and Solectron agree as follows:
+
+     1.  Section 2.7. Section 2.7 is deleted in its entirety.
+
+     2.  Section 8.4. The first sentence in Section 8.4 is deleted and replaced
+         with the following:
+
+                  Unless otherwise agreed to in the SLA, Solectron will submit
+                  invoice(s) periodically to Brocade upon shipment of Product(s)
+                  for which the recipient takes delivery inside the United
+                  States. (All Products for which the recipient takes delivery
+                  outside of the United States shall be governed by the
+                  agreement entered into by and between Brocade Communications
+                  Switzerland, SarL. and Solectron, dated March __, 2003.)
+
+     3.  Section 19. Section 19 is deleted in its entirety and replaced with the
+         following:
+
+                     [THIS SECTION INTENTIONALLY LEFT BLANK]
+
+     4.  Exhibit H. Exhibit H is deleted in its entirety and replaced with the
+         following:
+
+                     [THIS EXHIBIT INTENTIONALLY LEFT BLANK]
+
+     5.  No Other Changes. Except as specified in this Amendment, the Agreement
+         remains unchanged and in full force and effect.
+
+     6.  Counterparts. This Amendment may be executed in two or more
+         counterparts, all of which, taken together, shall be regarded as one
+         and the same instrument.
+
+BROCADE COMMUNICATIONS SYSTEMS INC.          SOLECTRON CORPORATION
+
+Signature: ______________________            Signature: ________________________
+
+Name:      _______________________           Name:      ________________________
+
+Title:     _______________________           Title:     ________________________
+
+Brocade Confidential
+
+</TEXT>
+</DOCUMENT>

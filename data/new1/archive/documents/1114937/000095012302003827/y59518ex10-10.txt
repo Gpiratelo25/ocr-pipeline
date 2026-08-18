@@ -1,0 +1,676 @@
+<DOCUMENT>
+<TYPE>EX-10.10
+<SEQUENCE>17
+<FILENAME>y59518ex10-10.txt
+<DESCRIPTION>AMENDMENT TO THE FRAMEWORK AGREEMENT
+<TEXT>
+<PAGE>
+                                                                   Exhibit 10.10
+
+
+                                          CHANGE AUTHORISATION FORM: NUMBER 1030
+
+
+DATED                                                               5 APRIL 2002
+
+(1)      NTL GROUP LIMITED
+
+(2)      IBM UNITED KINGDOM LIMITED
+
+(3)      IBM UNITED KINGDOM FINANCIAL SERVICES LIMITED
+
+
+                      CHANGE AUTHORISATION FORM RELATING TO
+                           AMENDMENT OF THE FRAMEWORK
+                        AGREEMENT FOR THE PROVISION OF IT
+                     OUTSOURCING SERVICES DATED 23 MAY 2001
+<PAGE>
+         THIS AGREEMENT is made the 5th day of April 2002
+
+         BETWEEN:
+
+         (1)      NTL GROUP LIMITED (registered number 2591237) whose registered
+                  office is at NTL House, Bartley Wood Business Park, Hook,
+                  Hampshire RG27 9UP ("NTL"); and
+
+         (2)      IBM UNITED KINGDOM LIMITED (registered number 741598) whose
+                  registered office is at PO Box 41, North Harbour, Portsmouth
+                  PO6 3AU ("IBM"); and
+
+         (3)      IBM UNITED KINGDOM FINANCIAL SERVICES LIMITED (registered
+                  number 1197743 whose registered office is at PO Box 41, North
+                  Harbour, Portsmouth PO6 3AU ("FSL").
+
+         WHEREAS:
+
+         (A) IBM currently provides services to NTL under the terms and
+         conditions of the Framework Agreement for the Provision of IT
+         Outsourcing Services between NTL and IBM dated 23 May 2001 as varied by
+         various Change Authorisation Forms and as amended from time to time
+         ("the Framework Agreement").
+
+         (B) The parties wish to vary the Framework Agreement by this Change
+         Authorisation Form ("CAF 1030") in accordance with the provisions set
+         out in this CAF 1030.
+
+         IN CONSIDERATION OF THE MUTUAL COVENANTS SET OUT HEREIN AND FOR OTHER
+         GOOD AND VALUABLE CONSIDERATION, THE RECEIPT AND SUFFICIENCY OF WHICH
+         IS HEREBY ACKNOWLEDGED, THE PARTIES HEREBY AGREE AS FOLLOWS:
+
+         DEFINITIONS AND INTERPRETATION
+
+1        DEFINITIONS
+
+1.1      In this CAF:
+
+         "AS400 Agreement" means the Agreement relating to the AS400 Equipment
+         among FSL, IBM and NTL dated 31 July 2001;
+
+         "AS400 Equipment" shall have the meaning given in Clause 8.1;
+
+         "Effective Date" means, in relation to this CAF 1030, the date at which
+         it comes fully into force, in accordance with Clauses 2 and 3;
+
+         "Initial Benchmark" shall have the meaning set out in Clause 7.1;
+<PAGE>
+         "Restructuring Costs" shall have the meaning given in Clause 5.1 and
+         shall include, for the avoidance of doubt, Third Party Costs;
+
+         "Restructuring Costs Statements" shall have the meaning given in Clause
+         5.3; and
+
+         "Third Party Costs" shall have the meaning given in Clause 5.3.2.
+
+1.2      Terms not defined or amended in this CAF 1030 have the meanings given
+         in the Framework Agreement.
+
+1.3      In this CAF 1030, unless the context requires otherwise, any reference
+         to:-
+
+         1.3.1    a party or the parties is to a party or the parties (as the
+                  case may be) to this CAF 1030. For the avoidance of doubt,
+                  this will not include references to a `third party' or `third
+                  parties';
+
+         1.3.2    unless otherwise expressly stated, any reference to a Clause,
+                  a Schedule or an Annex is a Clause of, a Schedule or an Annex
+                  to this CAF 1030 (as the case may be);
+
+         1.3.3    "this CAF 1030" includes the Schedules and Annexes which form
+                  part of this CAF 1030 for all purposes.
+
+2        COMMENCEMENT
+
+2.1      Subject to the provisions of Clause 3 below, this CAF 1030 shall enter
+         into force and effect on 5th April 2002.
+
+2.2      Schedule 13 to the Framework Agreement as amended by this CAF 1030, and
+         as set out in Schedule 1, shall also apply to the Ireland Services
+         Agreement. Save for the foregoing, this CAF 1030 shall not apply to the
+         Ireland Services Agreement and no changes or alterations shall be made
+         to the Ireland Services Agreement pursuant to this CAF 1030.
+
+3        PAYMENT
+
+3.1      NTL, on behalf of itself and the NTL Group, and IBM, on behalf of
+         itself and the IBM Group, hereby acknowledge and agree that the sums
+         and payments due set out in Annex A represents good and valuable
+         consideration for the purposes of this CAF 1030.
+
+3.2      As a condition precedent to the amendment of the Framework Agreement
+         set out in this CAF 1030, NTL unconditionally and irrevocably
+         undertakes to pay to IBM in full on the Effective Date of this CAF 1030
+         the amounts specified in Annex A, Part 1A.
+<PAGE>
+3.3      NTL further unconditionally and irrevocably undertakes to pay to IBM:
+
+         (i)      in full on 31st May 2002 the amount specified in Annex A, Part
+                  1B, subject to resolution of the outstanding items as
+                  identified therein; and
+
+         (ii)     the amounts specified in Annex A, Part 2 on the dates set out
+                  therein.
+
+3.4      IBM unconditionally and irrevocably undertakes to pay to NTL in full
+         the amounts specified in Annex A, Part 3 on the dates set out therein.
+
+3.5      For the avoidance of doubt, the payments:
+
+         (i)      specified in Annex A, Part 1A include credits given by IBM to
+                  ntl against the Charges for the period from 21st January 2002
+                  to the MVS Start Date which reflect the difference between the
+                  Charges payable under the Framework Agreement prior to
+                  amendment by this CAF 1030, and the Framework Agreement as
+                  amended pursuant to this CAF 1030;
+
+         (ii)     specified in Annex A, Part 2 represent payment by NTL in
+                  advance of the monthly portions of the Annual Services Charge
+                  under the Framework Agreement which relate to services to be
+                  provided by IBM in April 2002 and May 2002.
+
+3.6      IT SYSTEM CHARGE
+
+         NTL and IBM hereby further agree that, notwithstanding any other
+         provision of the Framework Agreement, if NTL Communications Services
+         Limited defaults on its payment obligations with respect to the one
+         time charge for the information system for NTL Communications Services
+         Limited's consolidated billing system and other sums calculated as set
+         forth in Paragraphs C and D of Annex A to the Restated Agreement to
+         Terminate the Amended Master Agreement for the Provision of IT Services
+         dated 29 June 2001 between IBM and NTL Communications Services Limited,
+         the same shall constitute a material breach of the Framework Agreement
+         by NTL and the provisions of Clause 26.2.1 of the Framework Agreement
+         shall apply. The provisions of the Framework Agreement (including,
+         without limitation, Clauses 26 and 31.2) shall be deemed to have been
+         amended accordingly.
+
+4        AMENDMENT OF THE FRAMEWORK AGREEMENT
+
+4.1      The parties agree that, as from the Effective Date of this CAF 1030,
+         the Framework Agreement shall be amended by replacing the terms in
+         effect immediately prior to the
+<PAGE>
+         Effective Date in their entirety with the terms set out in the document
+         attached as Schedule 1 to this CAF 1030. The Framework Agreement shall
+         otherwise remain in full force and effect.
+
+4.2      For reference only, Schedule 2 contains a document which shows how the
+         Framework Agreement as amended by Clause 4.1 of this CAF 1030 differs
+         from the Framework Agreement as in force immediately prior to the
+         Effective Date. Where additions have been made, they appear in bold,
+         underlined text, where deletions have been made, these appear as
+         strikethrough text. In the event of any discrepancy between the terms
+         set out in Schedule 1 and Schedule 2, the terms set out in Schedule 1
+         shall prevail.
+
+5        RESTRUCTURING COSTS
+
+         The parties agree that NTL's requirement to reduce the level of
+         services provided by IBM has resulted and will result in IBM having to
+         incur restructuring and breakage costs both before and after the MVS
+         Start Date ("Restructuring Costs"). It is also acknowledged that the
+         liability for, and the calculation of, the Restructuring Costs is not
+         provided for in the Framework Agreement dated 23 May 2001 but that the
+         same is provided for in this CAF 1030 as set out in this Clause 5.
+
+5.1      Restructuring Costs will be costs associated with: (a) the termination
+         of assignment of IBM New Zealand employees assigned to the Unity
+         programme, (b) redundancy costs for all IBM employees made redundant as
+         a result of the changes contemplated by MVS, and (c) other costs
+         related to IBM's contracts with third parties. For the avoidance of
+         doubt, redundancy costs shall be the costs incurred by IBM during the
+         statutory consultation period with staff and costs (e.g., salary and
+         benefit costs with respect to employees made redundant) in relation to
+         the applicable notice periods (18 weeks average) and separation and
+         redundancy payments, which shall include for the avoidance of doubt
+         both statutory redundancy payments and payments calculated by reference
+         to IBM's standard redundancy policy in force at the relevant time.
+         Third party costs shall be payments relating to contractual notice
+         periods and termination payments which IBM is obliged to pay to such
+         third parties. IBM has and will continue to use reasonable endeavours
+         to redeploy staff and to mitigate the Restructuring Costs.
+
+5.2      The parties agree the following in relation to Restructuring Costs
+         incurred by IBM as a result of implementing the MVS on behalf of NTL.
+         IBM will charge NTL for the Restructuring Costs incurred by IBM in
+         accordance with the following tables and NTL shall make payment of the
+         same as set out in this Clause 5 provided that no Restructuring Costs
+         shall be charged to NTL after 30th November 2002:
+<PAGE>
+Table 1
+
+
+<TABLE>
+<CAPTION>
+RESTRUCTURING COST (POUND STERLING)        NTL SHARE (%)         IBM SHARE (%)
+<S>                                        <C>                   <C>
+             first 10,000,000                   100                     0
+     10,000,001 to 12,000,000                    75                    25
+                  >12,000,000                     0                   100
+</TABLE>
+
+5.3      IBM will provide statements ("Restructuring Cost Statements") to NTL
+         containing the information in respect of Restructuring Costs as
+         specified in Clause 5.3.1 and 5.3.3. IBM may vary the frequency of
+         such Restructuring Cost Statements but IBM intends that initially the
+         frequency will be weekly. No Restructuring Costs Statements may be
+         submitted after 30th November 2002.
+
+         5.3.1    IBM EMPLOYEE COSTS
+
+                  The Restructuring Cost Statements will contain the following
+                  information relating to the relevant IBM employees:
+
+
+                  -        A unique identity number for the employee
+
+                  -        Employee's job title
+
+                  -        Employee's notice period
+
+                  -        Employee's Salary at time of separation
+
+                  -        Employee's service start date
+
+                  -        Other benefits afforded to the Employee and monetary
+                           value
+
+                  -        Redundancy / Separation Payment details
+
+
+         IBM and NTL have agreed to IBM operating a `competency' based
+         separation programme for the NTL account and IBM may, acting in its
+         absolute discretion, elect to displace non-NTL account employees with
+         NTL account employees and to make the non-NTL account
+<PAGE>
+         employee redundant. IBM may also, acting in its absolute discretion,
+         elect to make the NTL account employee redundant. In any event, IBM
+         will charge NTL for the Restructuring Costs associated with the
+         employee who would be entitled to the lower overall redundancy package.
+         In the event that IBM elects to make the non-NTL account employee
+         redundant, IBM will provide to NTL, within the Restructuring Cost
+         Statement, information for both employees.
+
+         5.3.2    THIRD PARTY COSTS
+
+         As a result of the parties' agreement to amend the Framework Agreement
+         as reflected in this CAF 1030, IBM has incurred and will incur certain
+         costs in relation to its third party suppliers and subcontractors
+         ("Third Party Costs"). Such costs form part of the Restructuring Costs
+         and will be paid, in accordance with Table 1 above and subject to the
+         terms of this Clause 5.3. IBM agrees to provide NTL with the following
+         information relating to Third Party Costs:
+
+         -        Name of Third Party
+
+         -        Contract Reference Number
+
+         -        Notice Period and payments to be made during such period
+
+         -        Termination Charge
+
+         -        Payment to be made
+
+         5.3.3    CERTIFICATION OF COSTS BY IBM
+
+         5.3.3.1  IBM Employee Costs
+
+         IBM will provide certification to NTL, in the form of a signed letter
+         from a relevant authorised officer of IBM United Kingdom Limited, in
+         the form set out in Annex C, to verify that the costs set out in the
+         Restructuring Cost Statement have been incurred by IBM in accordance
+         with this Clause 5.3. For the avoidance of doubt, `incurred by IBM', in
+         relation to IBM Employee costs, shall include, but not be limited to,
+         circumstances in which IBM has entered into agreements with the
+         affected employees in relation to redundancy and IBM has become
+         obligated to pay such employees for redundancy costs and/or contractual
+         notice periods and termination payments.
+
+         5.3.3.2  Third Party Costs
+
+         IBM will provide certification to NTL, in the form of a signed letter
+         from a relevant authorised officer of IBM United Kingdom Limited, in
+         the form set out in Annex C, to verify that the Third Party Costs set
+         out in the Restructuring Cost Statement have been incurred by IBM in
+         accordance with this Clause 5.3. For the avoidance of doubt, `incurred
+         by IBM', in
+<PAGE>
+         relation to Third Party Costs shall include circumstances in which that
+         IBM is or has become obliged to pay contractual notice periods and
+         termination payments to third parties.
+
+5.4      SUBMISSION OF RESTRUCTURING COST STATEMENTS AND PAYMENT BY NTL
+
+         5.4.1    For Restructuring Costs relating to IBM employees, IBM will
+                  submit Restructuring Cost Statements to NTL when IBM has
+                  indicated to the employee an intention to terminate their
+                  employment with IBM by reason of redundancy. IBM will
+                  indicate, within the Restructuring Cost Statement, the date
+                  upon which the employee is due to receive his/her final
+                  payment from IBM (including redundancy payment). Following
+                  submission of the Restructuring Cost Statement, IBM will issue
+                  its invoice to NTL in respect of the Charges contained within
+                  the Restructuring Cost Statement. The due date for payment of
+                  such invoice will be no earlier than 7 days prior to the date
+                  upon which IBM intends to pay such employees their
+                  final/redundancy payments.
+
+         5.4.2    For Restructuring Costs relating to third parties, IBM will
+                  submit Restructuring Cost Statements when IBM's obligation to
+                  pay such third parties fall due or in the case of Third Party
+                  Costs which have already been paid by IBM prior to the
+                  Effective Date, on or as soon possible following the Effective
+                  Date. The due date for payment of such invoice will be no
+                  earlier than 7 days prior to the date upon which IBM is
+                  obliged to pay such Restructuring Costs to the Third Party.
+
+         5.4.3    Subject to Clause 5.4.5, IBM's calculation and certification
+                  of the costs in the Restructuring Costs Statement shall be
+                  binding on the parties save in the case of fraud or manifest
+                  error. In the event that any Restructuring Cost Statement
+                  contains a fraud or manifest error, NTL may raise the same in
+                  writing with IBM within 3 business days following receipt of
+                  the Restructuring Cost Statement and the parties shall act in
+                  good faith to rectify any such error as soon as practicable.
+                  In the absence of any such fraud or manifest error (and except
+                  to the extent thereof), NTL may not withhold payment of any
+                  amount set out in a Restructuring Cost Statement and invoiced
+                  in accordance with this Clause 5.3.
+
+         5.4.4    All Restructuring Costs will be payable in accordance with
+                  this Clause 5, (and in particular Table 1 above).
+
+         5.4.5    For the avoidance of doubt the provisions of Schedule 23 to
+                  the Framework Agreement (Audit Rights) shall apply to this CAF
+                  1030 but may not be exercised by NTL until all Restructuring
+                  Costs have been paid by NTL and in no event prior to 30
+                  November 2002.
+<PAGE>
+6        SETTLEMENT
+
+6.1      LIABILITIES PRIOR TO MVS START DATE
+
+         6.1.1    NTL and IBM agree to make the financial settlement comprising
+                  the payments referred to in Clause 6.3 below in full and final
+                  settlement of any and all claims, counterclaims, causes or
+                  rights of action on the part of (a) any member of the NTL
+                  Group against any member of the IBM Group or (b) any member of
+                  the IBM Group against any member of the NTL Group arising in
+                  respect of or relating to the period prior to the Effective
+                  Date under or in connection with the Framework Agreement to
+                  the extent that the same relate to the following:
+
+                  (i)      the amounts payable by IBM to NTL and NTL to IBM
+                           under the Framework Agreement for the period prior to
+                           the Effective Date except that the items specified in
+                           Part 1B of Annex A shall be specifically excluded
+                           from the scope of this paragraph (i) to the extent
+                           specified therein; and
+
+                  (ii)     the original due date for the delivery of certain
+                           services or activities, as more particularly defined
+                           in the attached Annex B, where the parties have
+                           agreed an extended date for such delivery, as
+                           referred to in the attached Annex B as the "Target
+                           Date", being the number of days from the MVS Start
+                           Date ; and
+
+                  (iii)    the subject matter of the following letters from NTL
+                           to IBM:
+
+                  -        Letter dated 22nd February 2002 from Steve Nicholson
+                           of ntl to Phil Galbraith of IBM detailing ntl's
+                           claims under the Framework Agreement;
+
+                  -        Letter dated 18th February 2002 from Steve Nicholson
+                           of ntl to Phil Galbraith of IBM detailing ntl's
+                           concerns under the Framework Agreement;
+
+                  -        Letter of 18th February 2002 from Robert Mackenzie of
+                           ntl to Phil Galbraith of IBM detailing ntl's claims
+                           in relation to Clause 25.6 of the Framework
+                           Agreement;
+
+                  -        Letter dated 1st March 2002 from Steve Nicholson of
+                           ntl to Phil Galbraith of IBM detailing ntl's claims
+                           in relation to Schedule 4 of the Framework Agreement;
+
+                  -        Letter dated 3 April 2002 from Steve Nicholson to
+                           Phil Galbraith relating to certain Contract Change
+                           Authorisation Forms; and
+
+                  (iv)     the subject matter of the following letters from IBM
+                           to NTL:
+<PAGE>
+                  -        Letter dated 6 March 2002 from Phil Galbraith of IBM
+                           to Chris Amirtharajah of ntl detailing IBM's claims
+                           under the Framework Agreement;
+
+                  -        Letter dated 2 April 2002 from Phil Galbraith of IBM
+                           to Chris Amirtharajah of ntl detailing IBM's claims
+                           under the Framework Agreement;
+
+                  -        Letter dated 2 April 2002 from Phil Galbraith to
+                           Chris Amirtharajah relating to certain Contract
+                           Change Authorisation Forms,
+
+                  (all of the above together hereinafter referred to as the
+                  "Claims").
+
+         6.1.2    For the avoidance of doubt, NTL, on behalf of itself and the
+                  NTL Group, and IBM, on behalf of itself and the IBM Group,
+                  agree and acknowledge, without prejudice to the generality of
+                  the foregoing, that, with effect from and following the
+                  Effective Date, neither NTL Group nor IBM Group will be
+                  entitled to rely upon any or all of the Claims referred to in
+                  Clause 6.1.1 arising during the period prior to the Effective
+                  Date as the basis of: (i) any claims of breach (including, but
+                  not limited to, persistent breach or material breach) under
+                  the Framework Agreement, (ii) disputing or withholding (or any
+                  other set-off against) any amounts invoiced by any member of
+                  the IBM Group for Services performed after the Effective Date
+                  under the Framework Agreement or any amounts invoiced by any
+                  member of the NTL Group in connection with events taking place
+                  after the Effective Date under the Framework Agreement or
+                  (iii) terminating all or any part of the Framework Agreement.
+
+         6.1.3    For the avoidance of doubt, nothing in this CAF 1030 shall (i)
+                  excuse NTL or IBM from performance of any of its respective
+                  obligations under the Framework Agreement, as amended by this
+                  CAF 1030, in respect of or relating to the period commencing
+                  on the Effective Date, nor (ii) prevent NTL or the NTL Group,
+                  or IBM or the IBM Group, from making or pursuing any claim,
+                  counterclaim, cause or action arising in respect of or
+                  relating to the period commencing on the Effective Date under
+                  or in connection with the Framework Agreement or this CAF 1030
+                  including, without limitation, any failure by IBM to perform
+                  the services or activities specified in, and in accordance
+                  with, Annex B.
+
+6.2      NTL, on behalf of itself and the NTL Group, and IBM, on behalf of
+         itself and IBM Group, each undertake and warrant that they will not at
+         any time commence, advance, maintain or pursue any Claims. For the
+         avoidance of doubt, NTL undertakes and warrants that it will not at any
+         time consent to any member of the NTL Group, and IBM undertakes and
+         warrants that it will not at any time consent to any member of the IBM
+         Group, commencing, advancing, maintaining or pursuing any Claims.
+<PAGE>
+6.3      FINANCIAL SETTLEMENT
+
+         NTL, on behalf of itself and the NTL Group, and IBM, on behalf of
+         itself and the IBM Group, hereby acknowledge and agree that the
+         financial settlement comprising the sums and payments set out in Annex
+         A represents good and valuable consideration for the purposes of this
+         CAF 1030 and is made in full and final settlement of the Claims as set
+         out in this Clause 6.
+
+7        MVS INITIAL BENCHMARK
+
+7.1      The Parties have agreed that the Charges and the related Service Levels
+         contemplated under this CAF 1030, as set out in the Framework Agreement
+         in Schedule 1, will be benchmarked by an independent third party
+         following the Effective Date in accordance with Schedule 10 of the
+         Framework Agreement. This "Initial Benchmark" will be conducted by the
+         Benchmarker commencing on or around 5 July 2002 or upon signature of a
+         contract between IBM UK Limited, NTL and the Benchmarker in relation to
+         the Initial Benchmark, whichever is the later. IBM and NTL shall use
+         all reasonable endeavours to negotiate and sign such contract with the
+         Benchmarker as soon as possible.
+
+7.2      IBM and NTL agree to pay the Benchmarker's fees and charges on the
+         following basis in relation to the Initial Benchmark:
+
+         IBM to pay 70% of the actual fees and charges of the Benchmarker NTL to
+         pay 30% of the actual fees and charges of the Benchmarker
+
+         For the avoidance of doubt, subsequent benchmarks will be funded
+         equally between IBM and NTL in accordance with Schedule 10 of the
+         Framework Agreement.
+
+         At the conclusion of the Initial Benchmark the parties shall follow the
+         process set forth in Section 5 of Schedule 10 of the Framework
+         Agreement, provided, however, any reduction in Charges as a result of
+         the Initial Benchmark shall be effective as of 1 May 2002 except that
+         any reduction in Application Development rates as a result of the
+         Initial Benchmark shall be effective as of 1 September 2002.
+
+7.4      The Parties have agreed that Gartner Group shall be Benchmarker for the
+         Initial Benchmarking pursuant to this Clause 7 provided that IBM pays
+         the following sums to NTL: (a) 50% of the fees due to Compass in
+         respect of the benchmarking activities carried out to date pursuant to
+         the Framework Agreement; and (b) a sum of up to L65,000 towards NTL's
+         50% share of such fees. All such sums shall be payable within 7 days
+         from receipt of an invoice from NTL and subject to NTL providing to IBM
+         appropriate documentation to support such invoice.
+<PAGE>
+8        AS/400S WORDING
+
+8.1      This clause 8 of CAF 1030 refers to the AS400 equipment that was to be
+         purchased by NTL in accordance with the AS400 Agreement (the `AS/400
+         Equipment').
+
+8.2      Further to the AS/400 Agreement, NTL is due to make a second and final
+         payment of L4,744,500.00 (excluding VAT) to FSL on 31 July 2002 and
+         upon making such payment obtain legal and beneficial title to the
+         equipment. As a result of and upon the Effective Date: (i) full legal
+         and beneficial title to the AS/400 Equipment will remain vested in IBM
+         and will not transfer to NTL on 31 July 2001, and (ii) NTL will
+         irrevocably and unconditionally release and relinquish any and all
+         rights, interests and title in the AS/400 Equipment (whether present or
+         future, proprietary, contractual or otherwise) and at the same time,
+         FSL and IBM hereby release NTL from all its payment obligations under
+         the AS400 Agreement including, without limitation, from the obligation
+         to make the second and final payment of L4,744,500.00 (excluding VAT)
+         on 31 July, 2002 pursuant to the AS400 Agreement. IBM shall be free to
+         use or dispose of the AS/400 Equipment in any way IBM may, in its
+         absolute discretion, determine (including, without limitation, its
+         inclusion in any proposals IBM may make to NTL at any time in the
+         future). In consideration of the releases referred to above and title
+         to the AS/400 Equipment remaining with IBM:
+
+         (i)      on 31 May 2002, IBM will pay to NTL the sum of L4,744,500.00
+                  (excluding VAT), provided, however, that IBM may offset this
+                  sum against amounts then due and payable by NTL to IBM; and
+
+         (ii)     on 31 July 2002, IBM will discharge the payment of
+                  L4,744,500.00 (excluding VAT) to FSL. This is equivalent to
+                  the second and final payment of L4,744,500.00 (excluding VAT)
+                  that would, but for this CAF 1030, have been due to be paid by
+                  NTL to FSL on this date and terminates the AS400 Agreement.
+
+8.3      Upon and following the Effective Date, and upon reasonable notice in
+         writing to NTL and during normal business hours, NTL shall at the
+         site[s] at which the AS/400 Equipment is located make the AS/400
+         Equipment freely available to IBM to enable its removal by IBM at any
+         time. IBM will remove the AS/400 Equipment on or before 31 May 2002.
+         The costs of the removal of the AS/400 Equipment will be borne by IBM.
+         Without prejudice to Clause 8.2,with effect from the date that the
+         AS400 Equipment is so removed by IBM or on 31 May 2002, whichever is
+         earlier, FSL and IBM hereby release NTL from all its obligations under
+         the AS400 Agreement. For the avoidance of doubt, the release contained
+         in this Clause 8.3 shall not affect any accrued rights or liabilities
+         of ntl, IBM or FSL, as the case may be, under the AS400 Agreement.
+<PAGE>
+9        FURTHER AMENDMENT OF THE FRAMEWORK AGREEMENT
+
+9.1      The parties agree and acknowledge that the provisions of this CAF 1030
+         shall amend and supplement the terms of the Framework Agreement with
+         effect from the Effective Date of this CAF 1030. In particular, without
+         limitation, NTL and IBM hereby agree and acknowledge that,
+         notwithstanding any other provision of the Framework Agreement, the
+         provisions of Clauses 5, 7 and 8 above shall be deemed to be
+         incorporated into the Framework Agreement with effect from the
+         Effective Date.
+
+9.2      NTL and IBM hereby agree that, notwithstanding any other provision of
+         the Framework Agreement, if a party fails to comply with any of its
+         obligations under Clauses 3 (excluding Clause 3.2), 5, 7 and 8 above,
+         the same shall constitute a material breach of the Framework Agreement
+         by such party and the provisions of Clause 26.1.1 or Clause 26.2.1 of
+         the Framework Agreement, as the case may be, shall apply. The
+         provisions of the Framework Agreement (including, without limitation,
+         Clauses 26 and 31.2) shall be deemed to have been amended accordingly.
+
+10       MISCELLANEOUS PROVISIONS
+
+10.1     Notwithstanding any other provision of this CAF 1030, in the event of
+         any conflict between or ambiguity within the provisions of this CAF
+         1030 and the Framework Agreement, the provisions of this CAF 1030 shall
+         prevail.
+
+10.2     If any provision of this CAF 1030 or any part thereof shall be found by
+         any court or administrative body to be illegal, invalid or
+         unenforceable, the illegality, invalidity or unenforceability of such
+         provision or part provision shall not affect the other provisions of
+         this CAF 1030 or the remainder of the provisions in question which
+         shall remain in full force and effect.
+
+10.3     Both NTL, on behalf of itself and the NTL Group, and IBM, on behalf of
+         itself and IBM Group, agree to keep the existence and terms of this CAF
+         1030 confidential. No party can disclose the existence or any of the
+         terms of this CAF 1030 to any third party without the express written
+         agreement of the other party to this CAF 1030, save where required to
+         do so by law or regulatory requirement.
+
+10.4     This CAF 1030 shall be governed by and interpreted in accordance with
+         English law. The parties irrevocably submit to the non-exclusive
+         jurisdiction of the English courts to settle any disputes which may
+         arise in connection with this CAF 1030.
+<PAGE>
+THE PARTIES HAVE SHOWN THEIR ACCEPTANCE OF THE TERMS OF THIS CAF 1030 BY SIGNING
+AT THE END OF THIS CAF 1030
+
+
+
+SIGNED for and on behalf of                                   )
+NTL GROUP LIMITED                                             )
+
+
+/s/ Stuart Ross
+--------------------------------
+
+
+
+SIGNED for and on behalf of                                   )
+IBM UNITED KINGDOM LIMITED                                    )
+
+
+/s/ Peter Holland
+--------------------------------
+
+
+
+SIGNED for and on behalf of                                   )
+IBM UNITED KINGDOM FINANCIAL                                  )
+SERVICES LIMITED                                              )
+
+/s/ S.D. Wilson
+--------------------------------
+<PAGE>
+                                   SCHEDULE 1
+
+                           Amended Framework Agreement
+<PAGE>
+                                   SCHEDULE 2
+
+                  Blacklined version of the Framework Agreement
+<PAGE>
+                                     ANNEX A
+<PAGE>
+                                     ANNEX B
+<PAGE>
+                                     ANNEX C
+
+                              CERTIFICATION LETTER
+
+
+Dear Sir
+
+I hereby certify, on behalf of IBM United Kingdom Limited, the Restructuring
+Costs as specified in the attached Restructuring Cost Statements dated [ ] ,
+have been incurred by IBM in accordance with the terms of Change Authorisation
+Form 1030.
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,746 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>3
+<FILENAME>g83605exv10w1.txt
+<DESCRIPTION>EX-10.1/AMENDMENT #3 VISUAL CONTENT SERVICE AGREE
+<TEXT>
+<PAGE>
+
+
+                                                                    EXHIBIT 10.1
+
+                                 AMENDMENT NO. 3
+                                     TO THE
+                        VISUAL CONTENT SERVICES AGREEMENT
+                                     BETWEEN
+                                  EBAY AND IPIX
+
+                          EFFECTIVE AS OF JUNE 27, 2003
+
+This Amendment No. 3 ("Amendment") to the Visual Content Services Agreement
+dated April 19, 2000, as previously amended ("Agreement"), by and between eBay
+Inc. ("eBay") and Internet Pictures Corporation ("iPIX") modifies and amends the
+Agreement as set forth below.
+
+WHEREAS, the Agreement is scheduled to expire on September 30, 2003, subject to
+certain post-termination obligations; and
+
+WHEREAS, eBay is in the process of developing technology to support image
+services ("eBay Image Services"); and
+
+WHEREAS, eBay and iPIX desire to migrate eBay's customer base from the
+eBay-specific "Rimfire" technology-based service currently operated by iPIX to
+the eBay Image Services; and
+
+WHEREAS, eBay and iPIX desire to minimize any risks of service degradation
+during this transition;
+
+NOW, THEREFORE, eBay and iPIX agree to amend the Agreement as follows:
+
+Unless otherwise defined herein, all terms used in this Amendment shall retain
+the same meanings as defined in the Agreement.
+
+1.       DEFINITIONS.  The following Sections 1.15.1, 1.15.2, 1.22.1, 1.22.2,
+and 1.25.1, and the attached Schedule L, are hereby added to the Agreement:
+
+         "1.15.1 'eBay Rimfire Technology' means the current server and client
+         technology deployed in production or used by iPIX (including without
+         limitation the existing applicable object code, source code, scripts,
+         Plug-Ins, Help Tools, specifications, architecture description, and
+         documentation) to provide the Basic Service and the Enhanced Services
+         (the "eBay Rimfire Services") on the effective date of Amendment No. 3,
+         and on the two subsequent delivery dates set forth in Section 2.6(c)
+         (Delivery of Technology), including without limitation the technology
+         described in detail on Schedule L, Sections A and D.
+
+         1.15.2 'Rimfire Technology' means the next generation of server and
+         client Rimfire technology currently deployed in pre-production and
+         available for eBay (including without limitation the applicable object
+         code, source code, scripts, Plug-Ins, Help Tools, specifications,
+         architecture description, and documentation) on the effective date of
+         Amendment No. 3, and on the two subsequent delivery dates set forth in
+         Section 2.6(c) (Delivery of Technology), including without limitation
+         the technology described in detail on Schedule L, Sections B and D.
+
+         1.15.3 'Photo-Album Technology' means the technology (including without
+         limitation any object code, source code, scripts, specifications,
+         architecture description, and documentation) developed by iPIX in
+         conjunction with eBay and for the benefit of eBay as of the effective
+         date of Amendment No. 3 that was intended to enable end users to manage
+         multiple digital images and to relate those images to their respective
+         eBay auction listings, including without limitation the technology
+         described in detail on Schedule L, Section C.
+
+<PAGE>
+
+         1.22.1 'Parallel Transition Services' means the services to be provided
+         by iPIX to eBay described in Section 2.3 (Parallel Transition
+         Services).
+
+         1.22.2 'Migration Services' means the services to be provided by iPIX
+         to eBay described in Section 2.4 (Migration Services).
+
+         1.22.3 'Support Services' means the services to be provided by iPIX to
+         eBay described in Section 2.5 (Support Services).
+
+         1.25.1 'Operations Termination Date' means the date on which any
+         Service Extension services, Parallel Transition Services, Migration
+         Services and Support Services have been completed."
+
+2.       TRANSITION SERVICES.  The following Sections 2.3, 2.4, 2.5, 2.6, and
+2.7, and the attached Schedule K, are hereby added to the Agreement, and
+Sections 3.1 and 3.2 are amended as set forth below:
+
+(A) New Sections:
+
+         "2.3  Parallel Transition Services.
+
+         (a) Timing. Beginning on the effective date of Amendment No. 3, iPIX
+         will begin providing the services described in this Section 2.3 to eBay
+         and will continue during the Term of this Agreement to provide such
+         services until the date eBay provides formal notice to iPIX that eBay
+         will no longer route Customer Image submissions to iPIX and that iPIX
+         will service only view requests for previously submitted Customer
+         Images (the "Cut-Over Date"), subject to extension at eBay's option
+         pursuant to Section 2.7 (Service Extension). As of the effective date
+         of Amendment No. 3, the parties expect the Cut-Over Date to be on or
+         before September 30, 2003.
+
+         (b) Services.
+
+         (i) iPIX will cooperate fully and promptly with eBay to (A) develop and
+         implement a detailed, reasonable technical plan mutually agreeable to
+         the parties, in accordance with Schedule K, Section A, for the parallel
+         operation of the eBay Rimfire Services with the eBay Image Services
+         (the "Parallel Processing Plan") in order to enable a smooth, orderly,
+         and effective transition of services for Customers to the eBay Image
+         Services and (B) operate the eBay Rimfire Services (including without
+         limitation support for submission and viewing) in parallel with eBay's
+         operation of the eBay Image Services, in accordance with the Parallel
+         Processing Plan and in compliance with the Performance Standards.
+
+         (ii) iPIX will provide the Parallel Transition Services described in
+         this Section 2.3, in Schedule K, Section A, in the Parallel Processing
+         Plan, and in any amendments to the Parallel Processing Plan that eBay
+         may reasonably request, in a manner that ensures that the eBay Rimfire
+         Services continue to meet the Performance Standards through the end of
+         any Service Extension.
+
+         Without limiting the foregoing, iPIX will (A) assist eBay in
+         implementing the Parallel Processing Plan and (B) with respect to any
+         agreement between iPIX and any third party that may conflict with
+         iPIX's obligations under this Agreement as amended, use its
+         commercially reasonable efforts to so amend, or obtain such a waiver or
+         consent as required to enable iPIX's performance hereunder.
+
+         2.4  Migration Services.
+
+         (a) Migration Path. Beginning on the effective date of Amendment No. 3
+         or a subsequent date (if so requested by eBay), through the Operations
+         Termination Date, iPIX will (i) collaborate with eBay to develop and
+         implement a detailed, reasonable technical plan mutually agreeable to
+         the parties, in accordance with Schedule K, Section B, for the
+         Migration Services ("Migration Plan"), (ii) collaborate with eBay to
+         map the locations of any data (including Images) stored by iPIX after
+<PAGE>
+
+         the Cut-Over Date to the systems used by eBay for the eBay Images
+         Services, (iii) assist eBay in migrating data from iPIX's servers to
+         eBay's servers (including "re-list" data), as requested by eBay, (iv)
+         electronically or photonically deliver to eBay, in the format(s) and at
+         the times reasonably requested by eBay, copies of all of the Images and
+         related data stored by iPIX and train eBay regarding the types of data
+         it stores as well as the procedures for modifying or reformatting such
+         data, (v) otherwise perform the services set forth in the Migration
+         Plan, and (vi) when requested by eBay at the end of the migration and
+         transition process, disassemble the systems used for providing the eBay
+         Rimfire Services ("eBay Rimfire Systems") and deliver the Other Assets
+         which eBay has elected to purchase and the components of the eBay
+         Rimfire Systems which eBay already owns to eBay, unless eBay has
+         invoked the "Go Green Contingency," as defined below. IPIX shall not be
+         in breach of any of the obligations in this Section to the extent its
+         failure to perform results from any action or inaction by eBay.
+
+         (b) Go-Green Contingency. eBay shall have the option to request, at any
+         time after September 1, 2003 and before October 31, 2003, that iPIX
+         extricate those systems used to provide services for other iPIX
+         customers from the eBay Rimfire Systems and provide the eBay Rimfire
+         Systems (as an operating whole and in their current location) to eBay
+         and provide eBay employees with any additional training regarding the
+         operation of the eBay Rimfire Systems reasonably requested by eBay (the
+         "Go-Green Contingency"). The parties have not prepared a Go-Green
+         Contingency implementation plan as of the effective date of Amendment
+         No. 3. Immediately upon request by eBay, the parties will use their
+         best efforts to promptly agree on a Go-Green Contingency plan (the
+         "Go-Green Contingency Plan") to be implemented in accordance with the
+         following framework:
+
+         (i) In order to invoke the Go-Green Contingency, eBay must also invoke
+         a Service Extension in accordance with Section 2.7 (Service Extension)
+         for a period which shall be the shorter of four months from the date of
+         eBay's invocation of the Go-Green Contingency or until February 1,
+         2004.
+
+         (ii) eBay shall additionally pay iPIX two million dollars ($2,000,000)
+         to implement the Go-Green Contingency, which payment includes the
+         acquisition of any hardware or software needed to replicate portions of
+         the eBay Rimfire Systems used to provide services to other iPIX
+         customers.
+
+         (iii) eBay shall purchase any asset on Schedule N ("Other Assets")
+         which is part of the eBay Rimfire Systems when eBay invokes the
+         Go-Green Contingency. The then-current version of Schedule N may only
+         be modified by iPIX, in the event eBay invokes the Go-Green
+         Contingency, to account for repair and maintenance requirements, such
+         as reconfiguring or adding equipment to remedy an equipment failure.
+         eBay shall be responsible for purchasing, and will own, any additional
+         equipment necessary to scale the capacity of the eBay Rimfire Systems
+         to eBay's then-current needs.
+
+         (iv) iPIX shall provide (1) knowledge transfer services regarding
+         operation of the eBay Rimfire Systems and (2) software and hardware
+         maintenance and support related to the eBay Rimfire Technology in
+         conformance with the performance criteria and the service level
+         guarantees in Schedule K, Section D.1 in a manner that is designed to
+         enable the eBay Rimfire Services to continue to meet the Performance
+         Standards when operated by eBay.
+
+         2.5 Support Services. Beginning on the effective date of Amendment No.
+         3 through the end of the Term:
+
+         (a) Consulting. iPIX will provide consulting services related to the
+         eBay Rimfire Technology, the Rimfire Technology, and the Photo-Album
+         Technology in accordance with Schedule K, Section C.
+
+         (b) Code Walk-Through. Upon request by eBay (but no more than a total
+         of three times and not after the Operations Termination Date), iPIX
+         will perform a "code walk-through" (anticipated not
+
+
+<PAGE>
+
+         to exceed two days) of the eBay Rimfire Technology, the Rimfire
+         Technology, and the Photo-Album Technology with technical
+         representatives of eBay.
+
+         (c) Delivery of Technology. iPIX will electronically or photonically
+         deliver a copy of each of the eBay Rimfire Technology, the Rimfire
+         Technology, and the Photo-Album Technology to eBay in all its current
+         forms (i.e., object code, source code and script forms, etc.) and in
+         its then-current version on or about each of the following dates: upon
+         execution of Amendment No. 3, upon one request by eBay at any time
+         prior to the termination or expiration of the Agreement, and on the
+         Operations Termination Date. Unless eBay invokes the Go-Green
+         Contingency, iPIX will have no further obligation to deliver any
+         versions of the eBay Rimfire Technology, the Rimfire Technology, and
+         the Photo-Album Technology or any corrections, modifications, updates
+         or enhancements thereof.
+
+         2.6 iPIX Employees. In addition to its other obligations in the
+         Agreement, iPIX will ensure that it retains sufficient personnel to
+         provide the services described in the Agreement through the Operations
+         Termination Date. Although the Parallel Transition Services, the
+         Migration Services and the Support Services may require significant
+         commitment and attention by iPIX personnel, neither party contemplates
+         that such services will require iPIX to hire additional personnel
+         (other than in order to replace personnel whose employment terminates)
+         or to incur significant incremental expenses outside the ordinary
+         course of business.
+
+         2.7 Service Extension. eBay may, in its discretion, extend the Cut-Over
+         Date or any or all of the services after September 30, 2003 upon
+         fifteen days notice for the first extension and thirty days notice
+         thereafter, on a month to month basis, for up to four months (the
+         "Service Extension"). Upon any such extension, iPIX will (continue to)
+         provide the applicable service to eBay for the applicable period for
+         the fees set forth in Section 5.10(b); provided however, that, during
+         any Service Extension, iPIX will not be required to accept submissions
+         of (a) more than 2.5 million images per day or (b) more than a maximum
+         of 66,106 image submissions per peak 15-minute period."
+
+(B) Amendment of Sections 3.1 and 3.2:
+
+         (1) Section 3.1 of the Agreement is hereby deleted in its entirety and
+         replaced with the following:
+
+         "3.1     Performance Standards. iPIX will ensure that the provision of
+         the Services meets the criteria described in Exhibits A and B."
+
+         (2) Section 3.2 of the Agreement is hereby deleted in its entirety.
+
+3.       EQUIPMENT AND FACILITIES.
+
+         3.1      MASTER LEASE EQUIPMENT.  Subject to (a) iPIX `s performance to
+         eBay's reasonable satisfaction of the Parallel Transition Services, the
+         Migration Services, and the Support Services and (b) iPIX's timely
+         payment of the fees required to reduce the outstanding principal under
+         the parties' Master Lease Agreement dated September 26, 2001 (including
+         all the leases scheduled thereunder ("Master Lease")) to the balance
+         due on September 30, 2003 (which as of the effective date of Amendment
+         No. 3 is $1,197,838.00, but which will be adjusted in accordance with
+         the terms of the Master Lease to account for the value of certain
+         equipment decommissioned by iPIX), iPIX's obligation to make any
+         additional payments under the Master Lease after such payment will be
+         suspended. In addition, subject to iPIX's performance to eBay's
+         reasonable satisfaction of the Parallel Transition Services, Migration
+         Services and the Support Services during any Service Extension, upon
+         the Operations Termination Date, eBay will waive its right to receive
+         any additional lease payments under the Master Lease and execute a
+         document (in a mutually agreeable form to be attached as Schedule M
+         within two weeks of the effective date of Amendment No. 3) terminating
+         the Master Lease as of the completion of the Migration Services.
+
+<PAGE>
+
+         3.2      OTHER ASSETS.  eBay will review the inventory of other assets
+         (including equipment, software, and maintenance agreements) used by
+         iPIX to provide the eBay Rimfire Services as described on Schedule N
+         ("Other Assets"). Schedule N, which is a complete list (as of the
+         effective date of Amendment No. 3) of each of the Other Assets and the
+         applicable net book value of same, is hereby added to the Agreement.
+         iPIX may amend Schedule N at any time on reasonable written notice to
+         eBay. eBay will have the right, but not the obligation, to purchase all
+         or some of the Other Assets at each of such Other Assets' net book
+         value as of the Operations Termination Date in accordance with an
+         appropriate purchase agreement to be negotiated and executed by the
+         parties. iPIX will maintain its then-current eBay Rimfire Services
+         systems hardware, software, facilities and telecommunications
+         environment (as a whole) until the Operations Termination Date. iPIX
+         will not sell or transfer operation of the Other Assets to any third
+         party until after the Operations Termination Date.
+
+         3.3      IPIX OBLIGATIONS TO QWEST. eBay will, in good faith, use its
+         reasonable efforts to assist iPIX in terminating or renegotiating its
+         contractual obligations to Qwest Communications International, Inc.
+         ("Qwest") under iPIX's Qwest Total Advantage Agreement with Qwest dated
+         January 16, 2003 ("Qwest Agreement") to be effective as of September
+         30, 2003. The parties shall cooperate to approach Qwest as soon as
+         possible to begin discussions of such renegotiation or termination. If
+         such obligations are not terminated as of the Operations Termination
+         Date, eBay may choose, in its discretion, to assume some or all of
+         iPIX's contractual obligations to Qwest under the Qwest Agreement.
+
+         3.4      REFERENCE ACCOUNT.  eBay agrees to serve as a reference
+         customer for iPIX's TSG business, subject to eBay's prior written
+         approval of any materials in which iPIX may refer to eBay.
+
+
+<PAGE>
+
+
+4.       EXCLUSIVITY WAIVER.  The following provision is added to the end of
+Section 4.3 of the Agreement:
+
+         "iPIX waives the application of the provisions of Section 4.3 and
+         Exhibit D with respect to any of the eBay activities contemplated by
+         Amendment No. 3."
+
+5.       PAYMENTS.   Each party will continue to pay the fees otherwise due and
+payable to such party under the Agreement through September 30, 2003. eBay has
+no intention of changing any of the fees it currently charges for image
+services, or imposing fees on any image services it currently offers at no
+charge, through September 30, 2003, and will pay iPIX for Enhanced Services in
+accordance with Section 5.3 (Enhanced Services Payments) through September 30,
+2003. Except as provided under Section 3.1 (Master Lease Equipment) of Amendment
+No. 3, Section 3.2 (Other Assets) of Amendment No. 3, or new Sections 2.4(b)
+(Go-Green Contingency), 5.9 (License and Transition Services Fees) or 5.10
+(Miscellaneous Fees), no fees will accrue to either party after September 30,
+2003. The following Sections 5.9 and 5.10 are hereby added to the Agreement:
+
+         "5.9 License and Transition Services Fees. eBay will pay iPIX an
+         aggregate total of eight million dollars ($8,000,000), in consideration
+         for the licenses granted and services provided to eBay under this
+         Agreement, as provided in this Section 5.9.
+
+         (a) License Fee. eBay will pay iPIX a first license fee payment of
+         three million dollars ($3,000,000) upon execution of Amendment No. 3 to
+         the Agreement, eBay's receipt of a legal opinion in a form satisfactory
+         to eBay and the release of all liens on the eBay Rimfire Technology,
+         Rimfire Technology and Photo-Album Technology in a form satisfactory to
+         eBay. Upon payment of this fee, the license granted under Section 7.6
+         (License to Rimfire Technology and Photo-Album Technology) will be
+         perpetual and irrevocable, notwithstanding any other provision in this
+         Agreement to the contrary.
+
+         (b) Additional License Fees. eBay will pay iPIX a second license fee
+         payment of three million dollars ($3,000,000) on October 1, 2003,
+         subject to iPIX's performance to eBay's reasonable satisfaction through
+         such date of the Parallel Transition Services, the Migration Services
+         or the Support Services. eBay will pay iPIX a third license fee payment
+         of two million dollars ($2,000,000) upon completion of the Migration
+         Services.
+
+         5.10 Miscellaneous Fees.
+
+         (a) iPIX Bandwidth Fees. iPIX will be solely responsible for payment of
+         all bandwidth costs associated with any and all services provided by it
+         under this Agreement.
+
+         (b) Service Extension Fees. If eBay exercises its Service Extension
+         option described in Section 2.7 (Service Extension), eBay will pay iPIX
+         (i) $450,000 for each month eBay elects to extend the services provided
+         by iPIX and (ii) $0.015 for each Image submitted in excess of 12
+         million per month. If applicable, iPIX will invoice eBay for the
+         foregoing fees at the end of each month of the Service Extension. eBay
+         will pay such invoices within 20 days of receipt."
+
+6.       TERMINATION.  Section 6 of the Agreement is hereby amended as follows:
+
+         6.1      Section 6.1 of the Agreement is hereby deleted and replaced
+                  with the following:
+
+                  "6.1 Term. The term of the Agreement will commence on the
+                  Effective Date and shall continue until the Operations
+                  Termination Date, with the first `Deal Quarter' commencing on
+                  April 1, 2000."
+
+         6.2      iPIX hereby waives all of its rights under Section 6.2 of the
+                  Agreement.
+
+         6.3      Section 6.3 is hereby deleted in its entirety and replaced
+                  with:
+
+<PAGE>
+
+                  "6.3 Termination for Breach. Unless otherwise agreed in
+                  writing between the parties, a party may terminate this
+                  Agreement in the event the other party breaches a material
+                  term, condition or representation of this Agreement, and fails
+                  to remedy such default within 30 days after being notified by
+                  the non-breaching party of such breach or failure. The failure
+                  by iPIX to meet any of the Performance Standards, other than
+                  from a failure resulting from eBay's act or failure to act,
+                  shall constitute a material breach of this Agreement, subject
+                  to the following additional exception:
+
+                  (a) The parties will cooperate to minimize the potential
+                  impact of any Parallel Transition Services or Migration
+                  Services on the performance of the eBay Rimfire Services or
+                  iPIX's ability to meet the Performance Standards. iPIX will
+                  promptly notify eBay if iPIX believes an eBay request for
+                  specific Parallel Transition Services or Migration Services
+                  will have a potentially adverse impact on the eBay Rimfire
+                  Services or iPIX's ability to meet the Performance Standards,
+                  specifying in reasonable detail the expected causes and scope
+                  of such potential degradation. If eBay then requests that iPIX
+                  nevertheless perform the applicable service, any failure by
+                  iPIX to meet the Performance Standards caused by performing
+                  the applicable service as requested by eBay shall not
+                  constitute a material breach of this Agreement and shall not
+                  constitute grounds for eBay to determine that iPIX has not
+                  performed any Parallel Transition Services or Migration
+                  Services to eBay's reasonable satisfaction in connection with
+                  the suspension or waiver of iPIX's payments under the Master
+                  Lease in accordance with Section 3.1 or eBay's payment
+                  obligations in Section 5.9."
+
+         6.4. Section 6.4(b) of the Agreement is hereby deleted in its entirety.
+
+         Section 6.4(c) of the Agreement is hereby deleted in its entirety and
+         replaced with the following:
+
+                  "(c) Except for the eBay Rimfire Technology, the Rimfire
+                  Technology, and the Photo-Album Technology, eBay will cease
+                  all use of the iPIX Technology."
+
+         Section 6.4(d) of the Agreement is hereby deleted in its entirety and
+         replaced with the following:
+
+                  "(d) Each party will promptly destroy or return any
+                  Confidential Information of the other party in its possession,
+                  including, in iPIX's case, eBay's Customer Information.
+                  Notwithstanding the foregoing sentence, however, eBay may
+                  indefinitely retain copies of the eBay Rimfire Technology, the
+                  Rimfire Technology, the Photo Album Technology, and any other
+                  information provided as part of the Parallel Transition
+                  Services or the Migration Services or the Support Services."
+
+         The paragraph at the end of Section 6.4 of the Agreement is hereby
+         deleted.
+
+         6.5    Section 6.5 of the Agreement is hereby deleted in its entirety
+and replaced with the following:
+
+         "6.5 Survival of Certain Terms. The provisions of the following
+         sections will survive any expiration or termination of the Agreement: 1
+         (Definitions), 5.6 (Payment Terms; Taxes), 5.8 (Inspection of Records),
+         6.4 (Effects of Termination), 6.5 (Survival of Certain Terms), 7.1(a)
+         (Ownership), 7.2(a), 7.2(b)(iii), 7.2(b)(iv), 7.3(a)(i), 7.3(a)(iii),
+         7.3(b)(i), 7.4 (Limitation on Grant of Rights), 7.6 (License to Rimfire
+         Technology and Photo-Album Technology), 8 (Confidentiality), 9
+         (Representations and Warranties), 10 (Indemnification), 11 (Limitation
+         of Liability), and all of 13 (General Provisions) except for Section
+         13.1. Except as otherwise expressly provided herein, all other rights
+         and obligations of the parties will cease upon expiration or
+         termination of the Agreement."
+
+7.       LICENSES.
+
+<PAGE>
+
+         7.1      MODIFICATION TO EXISTING LICENSES.  Section 7.1(a) is hereby
+deleted in its entirety and replaced with the following:
+
+         "(a) Ownership. All iPIX Technology (including the eBay Rimfire
+         Technology, the Rimfire Technology, and the Photo-Album Technology),
+         all Images created prior to the Operations Termination Date ("iPIX
+         Images"), and Help Tools (as well as any modifications to the foregoing
+         made by eBay prior to the effective date of Amendment No. 3) are, and
+         at all times will remain, the exclusive property of iPIX (or, in the
+         case of iPIX Images, their submitters), and no provision of this
+         Agreement implies any transfer to eBay of any ownership interest in the
+         iPIX Technology, Help Tools, or iPIX Images. The licenses set forth in
+         this Agreement confer neither title to, nor ownership in, the iPIX
+         Technology, Help Tools or iPIX Images and are not a sale of any rights
+         therein. Subject to iPIX's ownership of the iPIX Technology, Help
+         Tools, and iPIX Images, any modifications or derivative works, made by
+         eBay at any time after the effective date of Amendment No. 3, of the
+         eBay Rimfire Technology, the Rimfire Technology, the Photo-Album
+         Technology, or Images ("eBay Modifications"), shall be owned by eBay,
+         including without limitation all right, title and interest (including
+         any copyrights, trade secrets, patent rights, moral rights, contract
+         rights and licensing rights worldwide) in and to the foregoing. iPIX
+         represents and warrants that it has all rights necessary to grants the
+         licenses granted under this Agreement, except that it makes no
+         representation or warranty with respect to iPIX Images, which are the
+         property of the Customers submitting them."
+
+         7.2      RESTRICTIONS.  Sections 7.1(b)(i) and 7.1(b)(iii) are hereby
+deleted in their entirety. Former Section 7.1(b)(ii) is hereby renumbered as
+7.1(b)(i) and former Section 7.1(b)(iv) is hereby renumbered as Section
+7.1(b)(ii).
+
+         7.3      RIMFIRE AND PHOTO-ALBUM TECHNOLOGY.  The following Section
+7.6 and the attached Schedule O (Companies) are hereby added to the Agreement:
+
+         "7.6 License to Rimfire Technology and Photo-Album Technology. As a
+         license grant that is separate and independent of any license granted
+         under Section 7.1, iPIX hereby grants eBay a perpetual, irrevocable
+         (subject solely to payment of the license fee in Section 5.9(a) and
+         notwithstanding any provision in the Agreement to the contrary),
+         nonexclusive, fully-paid, royalty-free, worldwide license, including
+         without limitation, any copyrights, trade secrets, patent rights, moral
+         rights, contract rights and licensing rights worldwide, to use,
+         reproduce, distribute, display, perform and digitally perform, modify,
+         create derivative works of, and in any way exploit the eBay Rimfire
+         Technology, the Rimfire Technology, the Photo-Album Technology, and the
+         Images to make, have made, sell, offer to sell, import, and use any
+         product or service as a part of eBay's or its affiliates' business,
+         including the right (a) to sublicense such rights to eBay affiliates
+         and third parties for the purpose of providing support to eBay or its
+         affiliates and (b) to sublicense any eBay customer to use the Images
+         and the object code version of any end user components (including
+         without limitation Scripts, Help Tools, and Plug-Ins) in such
+         technology. Notwithstanding anything to the contrary herein, eBay will
+         not sublicense or resell to any third parties the eBay Rimfire
+         Technology, the Rimfire Technology or the Photo-Album Technology
+         (except as permitted in clauses (a) and (b) above) in the form of
+         software code unless such technology is an integral part of a larger
+         eBay product to which eBay has contributed the majority of the value.
+         For a period of three years after the effective date of Amendment No.
+         3, iPIX agrees not to (y) use the eBay Rimfire Technology, the Rimfire
+         Technology, the Photo-Album Technology or any other
+         functionally-equivalent technology to itself directly enable the
+         posting by end users of images to eBay and eBay affiliate marketplaces
+         whose domains are in use as of the effective date of Amendment No. 3,
+         or (z) license the eBay Rimfire Technology, the Rimfire Technology, the
+         Photo-Album Technology or any functionally-equivalent technology to the
+         companies listed in Schedule O (Companies)."
+
+         7.4      TRADEMARKS.  The following Section 7.3(a)(iii) is hereby added
+to the Agreement:
+
+<PAGE>
+
+         "(iii) iPIX hereby grants eBay a nonexclusive, perpetual, irrevocable
+         (notwithstanding any provision in the Agreement to the contrary),
+         worldwide, royalty-free, fully paid right (with the right to sublicense
+         to eBay affiliates) to use the iPIX Marks (a) solely as a part of any
+         iPIX watermarks that may appear in any of the Images stored as of the
+         termination of the Agreement or (b) as may incidentally appear on
+         eBay's (or its affiliates') sites for a reasonable time after eBay's
+         transition to the eBay Image Services. In addition, iPIX agrees that it
+         will cooperate with eBay to remove, and hereby permits eBay to remove,
+         any such iPIX watermarks from any Images."
+
+         7.5      BANKRUPTCY.  The last sentence of Section 11 (Bankruptcy Code)
+         of Amendment No. 2 is hereby deleted in its entirety and replaced with
+         the following: "Upon written request of eBay to iPIX or the bankruptcy
+         trustee, iPIX or the bankruptcy trustee will not interfere with, and
+         will fully comply with any restrictions on iPIX with respect to, the
+         rights of eBay as provided in this Agreement."
+
+8.       CONFIDENTIALITY. The following Section 8.3 is hereby added to the
+         Agreement:
+
+         "8.3 Source Code. The parties acknowledge that the source code being
+         provided to eBay under the Agreement ("Source Code") is the valuable
+         intellectual property of iPIX. eBay shall maintain the Source Code in
+         strictest confidence. In addition to the other obligations of
+         confidentiality between the parties, eBay shall take at least those
+         measures that eBay takes to protect its own most highly confidential
+         source code to protect the Source Code, which procedures eBay
+         represents are consistent with best industry practices."
+
+9.       REPRESENTATIONS AND WARRANTIES.
+
+         The following is added at the end of Section 9.1 of the Agreement:
+
+         "iPIX further represents and warrants that the eBay Rimfire Technology
+         is all of the software and documentation used by iPIX to perform the
+         eBay Rimfire Services and that the eBay Rimfire Technology, when
+         operated in the eBay Rimfire Systems environment's then-current
+         hardware, software, facilities and telecommunications configuration, is
+         capable of meeting the Performance Standards."
+
+         The parties agree that Section 9.2 of the Agreement applies to the eBay
+         Rimfire Technology, Rimfire Technology and Photo-Album Technology.
+
+10.      INDEMNITY. The following new Section 10.4 is hereby added to the
+         Agreement:
+
+         "10.4 Any Claim arising from facts and circumstances in existence as of
+         the Operations Termination Date, including claims with respect to
+         Services, shall not be affected by this Section. With respect to Claims
+         of third parties arising after the Operations Termination Date, the
+         indemnification provisions of Section 10.1 shall apply only to Claims
+         arising from the infringement or alleged infringement of a third
+         party's worldwide patent, trademark, copyright, trade secret or other
+         intellectual property right by the eBay Rimfire Technology, Rimfire
+         Technology and Photo-Album Technology licensed under this Agreement as
+         delivered to eBay on or before the Operations Termination Date. In
+         addition, after the Operations Termination Date, the indemnification
+         provisions of Section 10.1 shall not apply to (a) eBay's use of such
+         licensed technologies to provide any services other than the Basic
+         Service and Enhanced Services as conducted as of effective date of
+         Amendment No. 3, (b) to any Claim arising from the combination of such
+         licensed technologies with other technologies where such combination is
+         the object of the Claim, or (c) any Claim relating solely to any
+         modifications or derivative works made by eBay of such licensed
+         technologies after their delivery to eBay hereunder."
+
+11.      LIMITATION OF LIABILITY. Section 11 of the Agreement is hereby deleted
+         in its entirety and replaced with the following:
+
+<PAGE>
+
+         "Except with respect to each party's indemnification obligations set
+         forth in Section 10 or a breach by either party of its obligations
+         described in Section 8 or a breach by eBay of the scope of the license
+         granted by iPIX in Section 7.6, in no event will either party be liable
+         to the other for lost profits or any form of indirect, special,
+         incidental, or consequential damages of any character from any causes
+         of action of any kind with respect to this Agreement whether based on
+         breach of contract, tort (including negligence), or otherwise, and
+         whether or not the other party has been advised of the possibility of
+         such damage. Except with respect to each party's indemnification
+         obligations set forth in Section 10 or a breach by either party of its
+         obligations described in Section 8, and excluding amounts due and
+         payable hereunder, neither party's liability under or in connection
+         with this Agreement, shall exceed an amount equal to $16,000,000. This
+         limitation of each party's liability is cumulative, with all payments
+         for claims or damages under or in connection with this Agreement being
+         aggregated to determine satisfaction of the limit. The existence of one
+         or more claims will not enlarge the limit.
+
+         Notwithstanding any inconsistent provision in any agreement between the
+         parties (including without limitation this Agreement), except with
+         respect to each party's indemnification obligations in Section 10 or a
+         breach by either party of its obligations as described in Section 8
+         solely with respect to the disclosure of the other party's Confidential
+         Information to third parties, each party hereby agrees that the other
+         party shall have no liability of any kind to the other, and releases
+         all claims against the other party and its affiliates and its and their
+         employees, shareholders, directors, officers, agents, representatives,
+         administrators, predecessors, successors and assigns, whether in
+         contract or tort, or known, unknown or unsuspected, for any activities
+         related to developing, providing, using, or in connection with, the
+         iPIX Images, iPIX Technology, Services, eBay Image Services, eBay
+         Rimfire Technology, Rimfire Technology, Photo-Album Technology or
+         transitioning the eBay Rimfire Services to eBay that occurred prior to
+         the effective date of Amendment No. 3, other than liability for
+         payments due and payable in accordance with Section 5. Each party
+         hereby waives any and all rights and benefits conferred by the
+         provisions of Section 1542 of the Civil Code of the state of California
+         ("Section 1542") and any other similar provision under applicable law.
+         Section 1542 reads as follows:
+
+                  `A general release does not extend to claims which the
+                  creditor does not know or suspect to exist in his favor at the
+                  time of executing the release, which if known by him must have
+                  materially affected his settlement with the debtor.' "
+
+12.      ADDITIONAL PRESS RELEASE. The following new Section 13.3.1 is hereby
+         added to the Agreement:
+
+         "13.3.1 Additional Press Release. Any proposed press release concerning
+         the substance of Amendment No. 3 must be pre-approved by both parties,
+         which approval shall not be unreasonably withheld. A reasonable time,
+         which shall not be less than three business days, before the press
+         release is to be released, iPIX will provide eBay with a draft of such
+         proposed press release, and eBay will then promptly review and comment
+         on same."
+
+13.      ASSIGNMENT. The following text is hereby added to the end of Section
+         13.8:
+
+         "Upon the expiration date or the effective date of termination, the
+         foregoing restrictions shall no longer apply. Thereafter, this
+         Agreement may not be assigned by either party, except as part of a
+         corporate reorganization, consolidation, merger or sale of
+         substantially all assets reasonably related to the subject matter of
+         this Agreement or all stock of the assigning party, and the assigning
+         party shall provide notice of such assignment to the other party. In
+         any sale, transfer, assignment, or other disposition of the technology
+         licensed to eBay hereunder, iPIX shall assign this Agreement to the
+         acquiror of such technology and the acquiror will expressly agree in
+         writing to be bound by the provisions hereof. Any attempted transfer or
+         assignment in violation of the provisions of this Section will be void.
+         This Agreement shall inure to the benefit of and be binding upon the
+         successors of the parties."
+
+<PAGE>
+
+14.      NAMED CONTACTS. In addition to modifications to the Agreement, the
+         parties hereby amend their March 17, 2003 Mutual Nondisclosure
+         Agreement ("NDA") to delete the second paragraph of Section 2 of the
+         NDA.
+
+15.      Except as provided in this Amendment, all terms and conditions set
+         forth in the Agreement shall remain in full force and effect. In the
+         event any provision or term of this Amendment conflicts with a
+         provision or term in the Agreement or any prior Amendments thereto, the
+         provision(s) or term(s) of this Amendment shall control and supercede
+         any such conflicting provision(s) or term(s).
+
+
+
+<PAGE>
+
+
+IN WITNESS WHEREOF, the parties have executed this Amendment No. 3 to the
+Agreement as of the effective date set forth above.
+
+eBay:                                     iPIX:
+
+eBay Inc.                                 Internet Pictures Corporation
+
+/s/ Jeff Jordan                           /s/ Paul Farmer
+------------------------------            ------------------------------------
+Authorized Signature                      Authorized Signature
+
+Jeff Jordan                               Paul Farmer
+------------------------------            ------------------------------------
+Printed Name                              Printed Name
+
+Senior Vice President                     Chief Financial Officer
+------------------------------            ------------------------------------
+Title                                     Title
+
+June 27, 2003                             June 27, 2003
+------------------------------            ------------------------------------
+Date                                      Date
+
+
+</TEXT>
+</DOCUMENT>

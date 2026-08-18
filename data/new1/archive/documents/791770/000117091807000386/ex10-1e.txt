@@ -1,0 +1,1567 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<FILENAME>ex10-1e.txt
+<DESCRIPTION>EX-10.1
+<TEXT>
+                                                                    EXHIBIT 10.1
+
+
+                              AMENDED AND RESTATED
+                            LIMITED LIABILITY COMPANY
+                             OPERATING AGREEMENT OF
+                           WILLIAM RAST SOURCING, LLC
+
+                         EFFECTIVE AS OF JANUARY 1, 2007
+
+<PAGE>
+
+
+                                TABLE OF CONTENTS
+
+
+ARTICLE I - DEFINITIONS OF TERMS...............................................1
+
+
+ARTICLE II - INTRODUCTORY MATTERS..............................................3
+
+    2.1       BUSINESS OF LLC..................................................3
+    2.2       LAWS GOVERNING THE AGREEMENT.....................................4
+    2.3       TERM.............................................................4
+    2.4       PRINCIPAL PLACE OF BUSINESS......................................4
+    2.5       AGENT FOR SERVICE OF PROCESS.....................................4
+    2.6       REQUIRED MAINTENANCE OF RECORDS IN CALIFORNIA....................4
+    2.7       RECORDS SUBJECT TO INSPECTION....................................5
+    2.8       FOREIGN QUALIFICATION............................................5
+    2.9       COMMENCEMENT OF OPERATIONS.......................................5
+
+ARTICLE III - MEMBERS, CAPITAL CONTRIBUTIONS, ALLOCATIONS......................5
+
+    3.1       INITIAL CAPITAL CONTRIBUTIONS TO THE LLC.........................5
+    3.2       USE OF PROCEEDS..................................................5
+    3.3       INTERESTS........................................................5
+    3.4       STATUS OF CAPITAL CONTRIBUTIONS..................................6
+    3.5       CAPITAL ACCOUNTS.................................................6
+    3.6       RETURN OF CAPITAL CONTRIBUTIONS..................................7
+    3.7       NO MANAGEMENT....................................................7
+
+ARTICLE IV - ADDITIONAL CAPTIAL CONTRIBUTIONS; NEW MEMBERS, PREEMPTIVE
+             RIGHTS; CREDIT LINE...............................................7
+
+    4.1       ADDITIONAL CAPITAL CONTRIBUTIONS.................................7
+    4.2       ADMISSION OF ADDITIONAL MEMBERS..................................7
+    4.3       PREEMPTIVE RIGHTS................................................8
+    4.4       CREDIT LINE......................................................8
+
+ARTICLE V --  ALLOCATIONS AND DISTRIBUTIONS....................................8
+
+    5.1       ALLOCATIONS OF PROFITS AND LOSSES................................8
+    5.2       TIME OF ALLOCATION...............................................8
+    5.3       DISTRIBUTIONS OF CASH; AMOUNTS...................................9
+    5.4       LIMITATIONS ON DISTRIBUTIONS.....................................9
+    5.5       AMOUNTS WITHHELD.................................................9
+    5.6       TAX ALLOCATIONS; SECTION 704(C) OF THE CODE......................9
+
+
+                                       i
+
+                                       5
+<PAGE>
+
+
+ARTICLE VI - MANAGEMENT OF THE LLC, CONTROL OF THE BUSINESS, OFFICERS.........10
+
+    6.1       GOVERNANCE OF THE LLC AND ELECTION OF THE MANAGER...............10
+    6.2       POWERS OF THE MANAGER...........................................11
+    6.3       CONTRACTUAL AUTHORITY...........................................11
+    6.4       OFFICERS........................................................12
+    6.5       LIMITATIONS ON LIABILITY OF THE MANAGERS AND OFFICERS...........12
+    6.6       OTHER ACTIVITIES OF THE MEMBERS AND MANAGER PERMITTED...........12
+    6.7       DEVOTION OF TIME................................................12
+    6.8       APPROVED BUDGET.................................................12
+
+ARTICLE VII - MEETINGS........................................................13
+
+    7.1       MEETINGS OF THE MEMBERS.........................................13
+
+ARTICLE VIII - TRANSFER AND ASSIGNMENT OF MEMBERSHIP INTERESTS,
+               ECONOMIC INTERESTS AND RIGHTS..................................13
+
+    8.1       TRANSFERS.......................................................13
+    8.2       SUBSTITUTION OF MEMBERS.........................................14
+    8.3       PERMITTED TRANSFERS.............................................14
+    8.4       ADDITIONAL TRANSFER RESTRICTIONS................................14
+    8.5       ENFORCEMENT OF TRANSFER RESTRICTIONS............................14
+    8.6       RIGHT OF FIRST REFUSAL..........................................15
+    8.7       ADDITIONAL TRANSFER RIGHTS OF WRE...............................15
+
+ARTICLE IX - DISSOLUTION AND WINDING UP.......................................16
+
+    9.1       CONDITIONS OF DISSOLUTION.......................................16
+    9.2       ORDER OF PAYMENT OF LIABILITIES UPON DISSOLUTION................17
+    9.3       LIMITATIONS ON PAYMENTS MADE ON DISSOLUTION.....................17
+    9.4       LIQUIDATION.....................................................17
+    9.5       TERMINATION OF COVENANTS........................................17
+
+ARTICLE X - BOOKS AND RECORDS, FISCAL YEAR....................................17
+
+ARTICLE XI - TAX MATTERS......................................................17
+
+ARTICLE XII - INDEMNIFICATION.................................................18
+
+    12.1      LIABILITY OF MEMBERS............................................18
+    12.2      LIABILITY OF MANAGER AND OFFICERS...............................18
+    12.3      EXCULPATION.....................................................18
+    12.4      FIDUCIARY DUTY..................................................19
+    12.5      INDEMNIFICATION BY THE LLC......................................19
+    12.6      INDEMNIFICATION PROCEDURE.......................................19
+    12.7      EXPENSES........................................................19
+
+
+                                       ii
+<PAGE>
+
+
+ARTICLE XIII - REQUIRED ARBITRATION OF DISPUTES...............................20
+
+    13.1      REFERENCE.......................................................20
+    13.2      EXPENSES........................................................20
+    13.3      RULES AND PROCEDURES............................................21
+    13.4      ENFORCEMENT.....................................................21
+    13.5      JURISDICTION AND VENUE..........................................21
+    13.6      PRE-REFERENCE RELIEF............................................21
+
+ARTICLE XIV - MISCELLANEOUS...................................................21
+
+    14.1      LAW GOVERNING...................................................21
+    14.2      COMPLETE AGREEMENT..............................................21
+    14.3      BINDING EFFECT..................................................22
+    14.4      NO THIRD PARTY BENEFICIARY......................................22
+    14.5      GENDER AND NUMBER IN NOUNS AND PRONOUNS.........................22
+    14.6      HEADINGS........................................................22
+    14.7      REFERENCES IN THIS AGREEMENT....................................22
+    14.8      EXHIBITS........................................................22
+    14.9      SEVERABILITY....................................................22
+    14.10     ADDITIONAL DOCUMENTS AND ACTS...................................23
+    14.11     NOTICES.........................................................23
+    14.12     AMENDMENTS......................................................23
+    14.13     MULTIPLE COUNTERPARTS...........................................24
+
+
+                                      iii
+<PAGE>
+
+
+                   AMENDED AND RESTATED OPERATING AGREEMENT OF
+                           WILLIAM RAST SOURCING, LLC
+
+         This Amended and Restated Operating Agreement, made and entered into on
+April 27,  2007 and  effective  as of  January 1, 2007 (the  "EFFECTIVE  DATE"),
+governs  the  relationship  between  the  undersigned  Members of  William  Rast
+Sourcing,  LLC, a California  limited liability company (the "LLC"), and between
+the LLC and the  undersigned  Members,  pursuant to the  Beverly-Killea  Limited
+Liability  Act as amended  from time to time (the  "ACT"),  and the  Articles of
+Organization for the LLC. In consideration of their mutual promises,  covenants,
+and agreements, the parties hereto do hereby promise, covenant, and agree as set
+forth herein.
+
+                                    RECITALS
+
+         A. Bella Rose, LLC, a California limited liability company ("BR") and a
+wholly-owned  subsidiary of People's  Liberation,  Inc., a Delaware  corporation
+("PEOPLE'S LIBERATION"),  and William Rast Enterprises,  LLC, a Delaware limited
+liability company ("WRE") are parties to letter agreements which contemplate the
+formation  of a joint  venture to exploit the William  Rast(TM)  trademark  (the
+"VENTURE"), which letter agreements are dated March 15, 2005 and entered into on
+or around  April 27,  2005 (the  "LETTER  Agreements").  The  Letter  Agreements
+contemplate, among other things, the formation of a sourcing company, which will
+have rights to manufacture and sell William Rast(TM)  branded apparel.  This LLC
+is the sourcing company contemplated by the parties to the Letter Agreements.
+
+         B. While the Letter  Agreements  contemplate  that the Venture would be
+operated by a separate operating entity (namely,  "William Rast Apparel, Inc."),
+which entity would be owned and managed 50% by BR and 50% by WRE, the  Venture's
+business has been operated directly by BR since inception.
+
+         C. The parties now desire,  among other  things,  to form the  sourcing
+company and to enter into this Agreement to  memorialize  the terms set forth in
+the Letter Agreements,  with the exception that BR will have operational control
+over the sourcing company,  as provided for in this Agreement,  in consideration
+of the issuance by People's Liberation of shares of its Common Stock pursuant to
+that certain Stock  Subscription  Agreement between WRE and People's  Liberation
+being entered into concurrently herewith.
+
+                        ARTICLE I - DEFINITIONS OF TERMS
+
+         When  used in this  Agreement,  the  following  terms  shall  have  the
+meanings set forth below:
+
+         1.1      "AFFILIATE"  means,  with  respect to any Member,  any Person,
+directly  or  indirectly,  through  one or  more  intermediaries,  controls,  is
+controlled by, or is under common control with such Member.  The term "control,"
+as  used  in the  immediately  preceding  sentence,  means,  with  respect  to a
+corporation  the right to exercise  directly or  indirectly,  50% or more of the
+voting rights attributable to the controlled  corporation,  and, with respect to
+any partnership, trust, other
+
+
+<PAGE>
+
+
+entity or association,  the possession,  directly or indirectly, of the power to
+direct or cause the direction of the  management  or policies of the  controlled
+entity.
+
+         1.2      "AGREEMENT"  means this Operating  Agreement among the Members
+regulating the affairs of the LLC and the conduct of its business, as originally
+executed and as amended from time to time,  and shall refer to this Agreement as
+a whole, unless the context otherwise requires.
+
+         1.3      "APPLICABLE SALES" means the total wholesale price, less trade
+discounts,    returns,   allowances,    packing   costs,   damages,   insurance,
+transportation  costs, customs duties and sales, use, import,  export and excise
+taxes, and uncollectable accounts receivable, solely to the extent the foregoing
+are directly  attributable to the relevant sales, of all merchandise sold by the
+LLC bearing the William Rast(TM) brand.
+
+         1.4      "ARTICLES"  means the  Articles  of  Organization  for the LLC
+which were filed with the  Secretary of State of  California on August 30, 2006,
+as File No.  200624310012,  together with all amendments thereto or restatements
+thereof  and shall mean the  Articles as a whole  unless the  context  otherwise
+requires.
+
+         1.5      "BR" means Bella Rose,  LLC, a  California  limited  liability
+company.
+
+         1.6      "CAPITAL ACCOUNT"  means,  with  respect  to  any  Member, the
+account  maintained for such Member in accordance with the provisions of SECTION
+3.5 hereof.
+
+         1.7      "CAPITAL  CONTRIBUTION" means, with respect to any Member, the
+aggregate amount of money and the fair market value (as determined in good faith
+by the  Manager)  of any  property,  tangible or  intangible  (other than money)
+contributed  to the LLC  pursuant  to  ARTICLE  III hereof  with  respect to the
+Membership Interest of such Member.
+
+         1.8      "CODE"  means the Internal  Revenue  Code of 1986,  as amended
+from time to time,  the  Treasury  Regulations  promulgated  thereunder,  or any
+corresponding provisions of any succeeding federal statute.
+
+         1.9      "COVERED PERSON" means any Member, any Manager,  any partners,
+employees,  representatives or agents of any Member or Manager, and any officer,
+employee, partner, representative or agent of the LLC.
+
+         1.10     "ECONOMIC  INTEREST"  means a  Person's  right to share in the
+Profits,  Losses, and similar items of, and to receive  distributions  from, the
+LLC,  but does not  include  any  other  rights of a Member  including,  without
+limitation,  the right to vote or to  participate  in the management of the LLC,
+or, except as specifically provided in this Agreement or required under the Act,
+any right to information concerning the business and affairs of the LLC.
+
+         1.11     "LLC" means William Rast Sourcing, LLC.
+
+         1.12     "LLC PROPERTY" means property of the LLC,  including,  without
+limitation, all real, personal, tangible or intangible property or any interests
+in such property.
+
+
+                                       2
+<PAGE>
+
+
+         1.13     "MANAGER"  means  Daniel Guez,  or such other  Person  elected
+Manager of the LLC elected pursuant to ARTICLE VI.
+
+         1.14     "MEMBER" means each Person who has been admitted to the LLC as
+a Member in  accordance  with the  Articles and this  Agreement  (other than any
+Person who has  transferred  its entire  Membership  Interest in accordance with
+this Agreement).
+
+         1.15     "MEMBERSHIP INTEREST" means the entire ownership interest of a
+Member in the LLC at any particular time, including,  collectively, his Economic
+Interest,  any and all  rights to vote and  otherwise  participate  in the LLC's
+affairs,  and the  rights  to any and all  benefits  to  which a  Member  may be
+entitled as provided in this  Agreement,  together with the  obligations of such
+Member to  comply  with all of the terms and  provisions  of this  Agreement.  A
+Membership Interest constitutes personal property.
+
+         1.16     "PERCENTAGE  INTEREST"  means,  with respect to a Member,  the
+percentage  amount set forth beside such Member's name in the right-hand  column
+of the table set forth in EXHIBIT A hereto.
+
+         1.17     "PERSON" means an  individual,  general  partnership,  limited
+partnership,  other limited liability company, corporation,  trust, estate, real
+estate investment trust and any other entity.
+
+         1.18     "WRE" means William Rast Enterprises,  LLC, a Delaware limited
+liability company.
+
+         1.19     "PROFITS AND LOSSES"  means the profits and losses of the LLC,
+determined  in accordance  with the  accounting  method  followed by the LLC for
+federal income tax purposes,  including,  without  limitation,  each item of LLC
+income, gain, loss,  deduction,  tax preference and credit, all as such terms or
+words are used in the Code.
+
+         1.20     "TRANSFER"  shall mean,  with  respect to any  interest in the
+LLC, (i) a sale, conveyance,  exchange,  assignment,  pledge, encumbrance, gift,
+bequest,  hypothecation  or other  transfer or  disposition  by any other means,
+whether for value or no value,  direct or  indirect,  and whether  voluntary  or
+involuntary  (including,  without  limitation,  by  operation  of  law),  or  an
+agreement  to do any of the  foregoing,  or (ii)  any  sale or  other  voluntary
+transfer,  including  by means  of a merger  or  consolidation,  or a series  of
+related sales or voluntary transfers, aggregating more than 50% of the voting or
+equity interests of a Member.
+
+                       ARTICLE II - INTRODUCTORY MATTERS
+
+         2.1      BUSINESS OF LLC.
+
+         The LLC shall be authorized to engage in any lawful act or activity for
+which a limited liability company may be organized under the Act. Initially, the
+purpose  of the LLC shall be to  design,  source,  market,  distribute  and sell
+apparel under the William Rast(TM) brand pursuant to a license from the owner of
+such trademark.
+
+
+                                       3
+<PAGE>
+
+
+         2.2      LAWS GOVERNING THE AGREEMENT.
+
+         This Agreement is subject to, and governed by, the mandatory provisions
+of the Act and the  Articles.  In the  event of a direct  conflict  between  the
+provisions  of this  Agreement  and the  mandatory  provisions of the Act or the
+provisions of the Articles,  such provisions of the Act or the Articles,  as the
+case may be, shall be controlling.
+
+         2.3      TERM.
+
+         The term of the LLC began upon the due filing of the Articles and shall
+continue until such date as the LLC is terminated as provided herein.
+
+         2.4      PRINCIPAL PLACE OF BUSINESS.
+
+         The  principal  place  of  business  of the LLC  shall  be at 150  West
+Jefferson  Boulevard,  Los Angeles,  California 90007, or at such other place as
+the Manager shall from time to time determine.
+
+         2.5      AGENT FOR SERVICE OF PROCESS.
+
+         The agent for  service of process  for the LLC in  California  shall be
+National  Registered  Agents,  Inc., or such other service firm or person as the
+Manager  shall from time to time  determine.  The LLC shall  cause the agent for
+service of process to provide each Member with a copy of any complaint served on
+the LLC.
+
+         2.6      REQUIRED MAINTENANCE OF RECORDS IN CALIFORNIA.
+
+         The  LLC  shall  continuously  maintain  an  office  in  the  State  of
+California which may, but need not be, its principal  executive  office,  and at
+which it shall keep:
+
+         (a)      A current list in alphabetical order of the full name and last
+                  known business  address of each Member,  and each holder of an
+                  Economic  Interest,  together  with their  respective  Capital
+                  Contribution and Percentage Interest;
+
+         (b)      A copy of the  filed  Articles,  together  with any  powers of
+                  attorney  pursuant  to which the  Articles  or any  amendments
+                  thereto were executed;
+
+         (c)      Copies  of the LLC's  federal,  state  and  local  income  tax
+                  returns or  information  returns and reports,  if any, for the
+                  six most recent  taxable years or such short period as the LLC
+                  has been in existence;
+
+         (d)      A copy of this Agreement, together with any powers of attorney
+                  pursuant to which this  Agreement  or any  amendments  thereto
+                  were executed;
+
+         (e)      Copies  of  financial  statements  of the LLC for the six most
+                  recent  taxable years or such short period as the LLC has been
+                  in existence; and
+
+
+                                       4
+<PAGE>
+
+
+         (f)      The  books  and  records  of the  LLC as  they  relate  to its
+                  internal  affairs as more  particularly  described  in SECTION
+                  10.1  herein for at least the  current  and past four  taxable
+                  years or such short period as the LLC has been in existence.
+
+         2.7      RECORDS SUBJECT TO INSPECTION.
+
+         Records kept  pursuant to SECTION 2.6 are subject to  inspection at the
+reasonable  request of any Member  (but not any  assignee  thereof  who does not
+become a substitute  Member,  except such an assignee  that has been approved by
+the Members)  and its duly  authorized  representative  during  normal  business
+hours. Copies of the records referenced in SECTION 2.6 shall also be provided at
+the reasonable  request and expense of any Member (but not any assignee  thereof
+who does not become a substitute  Member,  except such an assignee that has been
+approved by the Members).
+
+         2.8      FOREIGN QUALIFICATION.
+
+         The officers  shall cause the LLC to be qualified or  registered  under
+assumed or fictitious name statutes or similar laws in any other jurisdiction in
+which such qualification or registration is necessary or required to conduct the
+LLC's  business,  except  where the  failure  to do so would not have a material
+adverse effect on the LLC. The officers or other authorized representative shall
+execute,   deliver  and  file  any  certificates   (and  any  amendments  and/or
+restatements  thereof)  necessary  for the LLC to  qualify to do  business  in a
+jurisdiction  in which the LLC may wish to conduct  business,  except  where the
+failure to do so would not have a material adverse effect on the LLC.
+
+         2.9      COMMENCEMENT OF OPERATIONS.
+
+         The operations of the LLC commenced as of October 1, 2006.
+
+           ARTICLE III - MEMBERS, CAPITAL CONTRIBUTIONS, ALLOCATIONS
+
+         3.1      INITIAL CAPITAL CONTRIBUTIONS TO THE LLC.
+
+         The Members have made the initial Capital  Contributions  to the LLC as
+set forth in EXHIBIT A hereto,  in exchange for  Membership  Interests  having a
+Percentage Interest shown on EXHIBIT A.
+
+         3.2      USE OF PROCEEDS.
+
+         The  proceeds  of the Capital  Contributions  shall be used for working
+capital and otherwise for the operation of the LLC's business.
+
+         3.3      INTERESTS.
+
+         In the  event  of  dissolution  of the LLC,  no  Member  shall  have an
+interest in specific LLC Property.
+
+
+                                       5
+<PAGE>
+
+
+         3.4      STATUS OF CAPITAL CONTRIBUTIONS.
+
+                  3.4.1    Except as  otherwise  provided in this  Agreement,  a
+Member's Capital Contributions may be returned, in whole or in part, at any time
+upon the request of such Member,  only with the unanimous approval of all of the
+Members. In no way limiting any other provision of this Agreement,  this SECTION
+3.4.1 shall not prohibit  distributions  otherwise  authorized by this Agreement
+notwithstanding  that such  distributions  may  result  in  returns  of  Capital
+Contributions.
+
+                  3.4.2    Notwithstanding   the  foregoing,   no  return  of  a
+Member's Capital Contribution shall be made hereunder if such distribution would
+violate applicable law.
+
+                  3.4.3    No  Member  shall  receive  any  interest,  salary or
+drawing with respect to its Capital  Contribution  or its Capital Account or for
+services  rendered to or on behalf of the LLC or  otherwise in its capacity as a
+Member  or  otherwise,   except  as  otherwise  specifically  provided  in  this
+Agreement.
+
+                  3.4.4    The  Members  shall  be  liable  only to  make  those
+Capital  Contributions  as set forth in Section 3.1 hereof.  After such  Capital
+Contributions  have been fully made  pursuant to SECTIONS 3.1 hereof,  no Member
+shall be required to make any additional  capital  contributions  at any time to
+the LLC.
+
+         3.5      CAPITAL ACCOUNTS.
+
+                  3.5.1    An individual  Capital  Account shall be  established
+and maintained for each Member. The original Capital Account established for any
+Member who acquires a Membership Interest by virtue of an assignment or transfer
+in accordance  with the terms of this Agreement  shall be a pro-rata part of the
+Capital Account of the assignor represented by such percentage of the Membership
+Interest as is assigned to such assignee,  and, for purposes of this  Agreement,
+such Member shall be deemed to have made a  proportionate  amount of the Capital
+Contributions  made by the assignor of such Membership  Interest (or made by any
+of such assignor's predecessors in interest).
+
+         3.5.2    The Capital  Account of each  Member  shall be  maintained  in
+accordance with the following provisions:
+
+                  (a)      to such  Member's  Capital  Account,  there  shall be
+                           credited the amount of any cash,  and the fair market
+                           value (as determined in good faith by the Manager) of
+                           any other property  contributed by such Member to the
+                           capital of the LLC, such Member's  allocated share of
+                           Profits  and the amount of any LLC  liabilities  that
+                           are  expressly  assumed  by such  Member  or that are
+                           secured  by any  LLC  Property  distributed  to  such
+                           Member;
+
+                  (b)      to such  Member's  Capital  Account,  there  shall be
+                           debited the amount of cash and the fair market  value
+                           (as  determined  in good faith by the Manager) of any
+                           LLC Property  distributed to such Member  pursuant to
+                           any  provision  of  this  Agreement,   such  Member's
+                           allocated  share  of  Losses  and the  amount  of any
+                           liabilities  of such  Member  that are assumed by the
+                           LLC or that are secured by any  property  contributed
+                           by such Member to the LLC;
+
+
+                                       6
+<PAGE>
+
+
+                  (c)      from  time  to time as  they  deem  appropriate,  the
+                           Manager may make such  modification  to the manner in
+                           which the  Capital  Accounts  are  computed to comply
+                           with Treasury  Regulation Section 1.704-1(b) provided
+                           that  such  modification  is  not  likely  to  have a
+                           material effect on the amounts  distributable  to any
+                           Member pursuant to this Agreement; and
+
+                  (d)      the foregoing  provisions and the other provisions of
+                           this Agreement relating to the maintenance of Capital
+                           Accounts  are   intended  to  comply  with   Treasury
+                           Regulation   Section   1.704-1(b),   and   shall   be
+                           interpreted  and applied in a manner  consistent with
+                           such Regulation.
+
+         3.6      RETURN OF CAPITAL CONTRIBUTIONS.
+
+         The Manager and Members shall not be  personally  liable for the return
+of the Capital  Contributions of any Member,  or any portion  thereof,  it being
+expressly  understood  that  any  such  return  shall  be made  solely  from LLC
+Property,  nor shall the Manager or Members be required to pay to the LLC or any
+Member  any  deficit  in  any  Member's  Capital  Account  upon  dissolution  or
+otherwise.
+
+         3.7      NO MANAGEMENT.
+
+         A Member shall not be an agent of the LLC,  nor can a Member bind,  nor
+execute any instrument on behalf of, the LLC. A Member shall not  participate in
+the management of the business or affairs of the LLC and,  except as provided in
+this Agreement, shall not have any voting, consent or approval rights.
+
+                 ARTICLE IV - ADDITIONAL CAPTIAL CONTRIBUTIONS;
+                   NEW MEMBERS, PREEMPTIVE RIGHTS; CREDIT LINE
+
+         4.1      ADDITIONAL CAPITAL CONTRIBUTIONS.
+
+         No Member shall be required to make additional Capital Contributions to
+the LLC. The Members may make additional  Capital  Contributions to the LLC only
+with the unanimous approval of all of the Members.
+
+         4.2      ADMISSION OF ADDITIONAL MEMBERS.
+
+         Additional  Members  may be  admitted to the LLC from time to time only
+with the unanimous approval of all of the Members, such additional Members to be
+issued  Membership  Interests  in one or more  classes or series,  and upon such
+terms  and  conditions,  and for such  consideration,  as  shall  be  determined
+unanimously by the Members.  Except as otherwise  provided  hereunder,  upon any
+such admission of any additional  Members to the LLC, the Manager shall have the
+authority to adopt such amendments to this Agreement, and to execute and deliver
+such additional instruments and documents,  as shall be necessary or appropriate
+in order to evidence or reflect the issuance of the same.
+
+
+                                       7
+<PAGE>
+
+
+         4.3      PREEMPTIVE RIGHTS.
+
+         Each  Member  shall have the right,  in the event the LLC  proposes  to
+issue any Membership Interests,  or securities  convertible into or exchangeable
+for Membership  Interests,  to any Person, to purchase an amount up to their pro
+rata portion of such Membership Interests and/or securities,  as the case may be
+(such pro rata portions to be based upon each Member's Percentage Interests), on
+the same terms and conditions to be offered to such Person.  Notwithstanding the
+forgoing,  this  SECTION 4.3 shall not apply to (i) any  issuance of  Membership
+Interests  (and/or  options  to acquire  the same) to any  service  provider  in
+consideration  for  services  rendered  for or on behalf of the LLC, or (ii) any
+issuance of Membership  Interests which are issued for consideration  other than
+cash  pursuant  to a merger,  consolidation,  acquisition  or  similar  business
+combination approved by the Manager.
+
+         4.4      CREDIT LINE.
+
+         BR shall  make a  revolving  loan to the LLC in the amount of up to One
+Million Eight Hundred Thousand  Dollars  ($1,800,000)  (the "CREDIT LINE").  The
+Credit Line shall be  available to the LLC until  December 31, 2007.  The Credit
+Line shall be a revolving loan, pursuant to which the LLC may borrow, repay, and
+borrow again amounts up to the maximum amount  available  under the Credit Line.
+BR shall be entitled to receive  simple  interest at the rate of 5% per annum on
+any amounts advanced to the LLC under the Credit Line. Interest shall be due and
+payable quarterly on the last day of March,  June,  September and December.  The
+Credit Line shall  terminate and all  principal and accrued but unpaid  interest
+shall be due and payable on December 31, 2007. All amounts  advanced by People's
+Liberation and its Affiliates to BR and assigned by BR to the LLC as provided on
+EXHIBIT A shall be  considered  advances  made by BR to the LLC under the Credit
+Line and reduce the available balance under the Credit Line.
+
+                   ARTICLE V -- ALLOCATIONS AND DISTRIBUTIONS
+
+         5.1      ALLOCATIONS OF PROFITS AND LOSSES.
+
+         The  Profits and Losses of the LLC shall be  allocated  for each fiscal
+year (or any  proportion  thereof)  to the  Members  in  accordance  with  their
+Percentage Interests.
+
+         5.2      TIME OF ALLOCATION.
+
+         All  allocations  of Profits  and Losses  made  pursuant to SECTION 5.1
+shall  be made as of the  last day of each  fiscal  year of the  LLC;  PROVIDED,
+HOWEVER,  that if during any fiscal year of the LLC or any portion thereof there
+is for any reason a change in any Member's  Percentage  Interest in the LLC, the
+Profits and Losses for such year shall be allocated among the Members based upon
+the number of days  during  such  period  that such Member was the owner of such
+interest or in such other manner as the Manager deems  appropriate in accordance
+with the  requirements of the Code and of Treasury  Regulations  issued pursuant
+thereto.
+
+
+                                       8
+<PAGE>
+
+
+         5.3      DISTRIBUTIONS OF CASH; AMOUNTS.
+
+                  5.3.1    On a quarterly basis the LLC shall  distribute to the
+Members  such  amounts of cash as are  necessary to enable the Members (or their
+constituents,  as the case may be,  to whom the LLC's  Profits  and  Losses  are
+ultimately  allocated)  to make timely  quarterly  payments of estimated tax and
+payments of the balance of federal,  state and local income  taxes,  as the case
+may be, on or before the earliest original due date of their income tax returns,
+on the passed-through  income of each fiscal year, based on the aggregate of the
+highest  applicable  marginal federal,  state and local income tax rates, as the
+case may be, applicable to such fiscal year, as determined by the Manager.  Such
+distributions shall be made in accordance with the Members' Percentage Interests
+and shall be treated as advances  of, and offset  against,  distributions  under
+SECTION 5.3.2 hereof.
+
+                  5.3.2    The LLC shall then make the  following  distributions
+of cash: (i) first,  to WRE in an amount equal to six percent (6%) of Applicable
+Sales for each calendar quarter, within forty-five (45) days following the close
+of such  calendar  quarter;  (ii)  second,  to BR  until  the  aggregate  amount
+distributed  to BR  pursuant  to this  Section  5.3.2(ii)  from  January 1, 2007
+through the date of determination equals the aggregate amount distributed to WRE
+pursuant  to SECTION  5.3.2(I)  from  January 1, 2007  through  the same date of
+determination;  and (iii) thereafter, in accordance with the Members' respective
+Percentage Interests.
+
+                  5.3.3    After  distributions  are made  pursuant  to  SECTION
+5.3.1 and 5.3.2(I) hereof, distributions of cash shall be made at such times and
+in such amounts as determined by the Manager.
+
+         5.4      LIMITATIONS ON DISTRIBUTIONS.
+
+         Anything  contained  herein to the  contrary  notwithstanding,  the LLC
+shall  not make a  distribution  to any  Member  on  account  of its  Membership
+Interest if such  distribution  would violate the Act or other applicable law or
+any restrictions in any of the LLC's loan agreements.
+
+         5.5      AMOUNTS WITHHELD.
+
+         All amounts of federal, state and local income taxes, personal property
+taxes,  unincorporated  business taxes or other taxes withheld from, or required
+to be paid with  respect  to,  any  distribution  or amount  distributable  to a
+Member,  because  of that  Member's  status or  otherwise,  shall be  treated as
+amounts distributed to such Member for all purposes under this Agreement.
+
+         5.6      TAX ALLOCATIONS; SECTION 704(C) OF THE CODE.
+
+                  5.6.1    The income, gains, losses, deductions and expenses of
+the LLC shall be  allocated,  for federal,  state and local income tax purposes,
+among the Members in  accordance  with the  allocation  of such  income,  gains,
+losses,  deductions and expenses  among the Members for computing  their Capital
+Accounts,  except that if any such  allocation  is not  permitted by the Code or
+other applicable law, the LLC's subsequent income, gains, losses, deductions and
+expenses  shall be  allocated  among the  Members  so as to reflect as nearly as
+possible the allocation set forth herein in computing their Capital Accounts.
+
+
+                                       9
+<PAGE>
+
+
+                  5.6.2    In accordance with Section 704(c) of the Code and the
+Treasury Regulations thereunder,  income, gain, loss, deduction and expense with
+respect to any property  contributed to the capital of the LLC shall, solely for
+income tax purposes, be allocated among the Members so as to take account of any
+variation  between the  adjusted  basis of such  property to the LLC for federal
+income tax purposes and its fair market value at the time of contribution.
+
+                  5.6.3    Any  elections  or other  decisions  relating to such
+allocations shall be made by the Manager in any manner that reasonably  reflects
+the purpose and intent of this Agreement.
+
+                  5.6.4    The  Manager  may  elect to  adjust  the basis of LLC
+Property for federal  income tax purposes in accordance  with Section 754 of the
+Code, in the event of a distribution of LLC Property as described in Section 734
+of the Code or a transfer of a Membership  Interest  described in Section 743 of
+the Code. In the event that any Member  requests to make any such election,  the
+Manager may require the Member so benefited thereby to pay the additional annual
+accounting costs incurred as a result of making such election.
+
+                      ARTICLE VI - MANAGEMENT OF THE LLC,
+                        CONTROL OF THE BUSINESS, OFFICERS
+
+         6.1      GOVERNANCE OF THE LLC AND ELECTION OF THE MANAGER.
+
+                  6.1.1    GOVERNANCE  OF THE LLC BY THE MANAGER.  All powers of
+the LLC shall be exercised  under the authority of, and the business and affairs
+of the LLC  shall be under the  direction  of,  the  Manager,  unless  otherwise
+provided  in the Act,  the  Articles,  or this  Agreement.  A Member  shall  not
+participate  in the day-to-day  operation of the business  affairs of the LLC. A
+Manager need not be a Member.
+
+                  6.1.2    ELECTION OF THE  MANAGERS BY THE MEMBERS;  TERM.  The
+initial  Manager of the LLC shall be Daniel Guez.  The Manager shall serve until
+the earliest of (i) the  appointment  of a different  Manager by BR, or (ii) the
+date upon which such  Manager  resigns,  dies or becomes  disabled and unable to
+serve, whereupon BR shall be entitled to elect a successor.  Notwithstanding the
+foregoing,  if Daniel Guez for any reason  ceases to serve as Manager of the LLC
+at any time prior to December 31, 2008,  then the  appointment of a successor or
+different  Manager  at any time prior to  December  31,  2008  shall  either (a)
+require  BR to  appoint  as Manager  the Chief  Executive  Officer  of  People's
+Liberation (or any successor thereto),  or (b) require the unanimous approval of
+all of the Members, which approval shall not be unreasonably withheld; PROVIDED,
+HOWEVER, that if BR does not appoint as successor or different Manager the Chief
+Executive  Officer of People's  Liberation  (or any  successor  thereto) and the
+Members  cannot  unanimously  agree on  appointment  of a successor or different
+Manager, then such appointment shall be made by WRE. A Manager may resign at any
+time upon written notice to the LLC.
+
+                  6.1.3    ACKNOWLEDGEMENT.  WRE  acknowledges  and agrees that,
+notwithstanding  the  parties'  relative  Percentage  Interests  in the LLC, and
+subject to the explicit terms of this Agreement,  including  SECTION 6.2 hereof,
+BR shall have the  exclusive  right to appoint  the Manager of the LLC and thus,
+indirectly  through the  appointment of such Manager,  to manage and control the
+LLC and its  operations.  Any amendment to this ARTICLE VI shall, in addition to
+the other approvals set forth herein, require the approval BR.
+
+
+                                       10
+<PAGE>
+
+
+         6.2      POWERS OF THE MANAGER.
+
+                  6.2.1    POWERS   GENERALLY.   The  Manager   shall  have  all
+necessary  powers of direction  and control to carry out,  through the officers,
+the purposes,  business,  and objectives of the LLC, including,  but not limited
+to,  the right to direct  the  officers  of the LLC to enter  into and carry out
+contracts of all kinds; to employ employees, agents, consultants and advisors on
+behalf  of the  LLC;  to  lend  or  borrow  money  and  to  issue  evidences  of
+indebtedness;  to bring and defend actions in law or at equity; and to buy, own,
+manage, sell, lease, mortgage, pledge or otherwise acquire or dispose of the LLC
+property.  The Manager  may,  on behalf of the LLC,  enter into  contracts  with
+Affiliates;  provided,  however,  such  contracts  are on  the  same  terms  and
+conditions that would be available from an independent  responsible  third party
+that is willing to perform the requested service.
+
+                  6.2.2    POWERS  REQUIRING  APPROVAL  OF ALL  OF THE  MEMBERS.
+Notwithstanding  SECTION  6.2.1 to the  contrary,  and in  addition to any other
+provisions in the Act, the Articles or this Agreement  that require  approval of
+the Members, the Manager shall not have the authority to, and shall not, take or
+fail to take any of the following  actions or  transactions  by or involving the
+LLC,  including  entering  into of any  contract or  agreement  to do any of the
+following actions, or causing any material modification, amendment, enforcement,
+waiver, extension or renewal thereof, without first obtaining unanimous approval
+of the Members, which approval shall not be unreasonably withheld by any Member:
+
+                           (a)      incurring expenses which would cause the LLC
+                                    to exceed  total  budgeted  expenses for any
+                                    fiscal  year,  as set  forth in an  Approved
+                                    Budget, by the greater of (i) twenty percent
+                                    (20%) of total  budgeted  expenses  for such
+                                    fiscal year, or (ii) $1,000,000; or
+
+                           (b)      engaging   in  any   business   other   than
+                                    designing, sourcing, marketing, distributing
+                                    and  selling   apparel   under  the  William
+                                    Rast(TM) brand.
+
+         6.3      CONTRACTUAL AUTHORITY.
+
+         Only  the  Manager  or  those  officers  of the LLC  and/or  any  other
+individuals associated with the LLC who have been given authority by the Manager
+to do so may  execute  on  behalf  of the LLC any note,  mortgage,  evidence  of
+indebtedness,  contract, certificate, statement, conveyance, or other instrument
+in writing,  or any assignment or endorsement  thereof.  Any person dealing with
+the LLC or the Manager may rely upon a  certificate  signed by the Manager as to
+(a) the  identity of the Manager or any other Member of the LLC, (b) the persons
+who are  authorized to execute and deliver any  instrument or document for or on
+behalf of the LLC or (c) any act or failure to act by the LLC or as to any other
+matter whatsoever involving the LLC or any Member.
+
+
+                                       11
+<PAGE>
+
+
+         6.4      OFFICERS.
+
+         The Manager may  appoint a chief  executive  officer,  a  president,  a
+secretary,  a chief  financial  officer,  and such other  officers of the LLC as
+appropriate, each of whom shall hold office for such period, have such authority
+and perform such duties as the Manager determines.
+
+         6.5      LIMITATIONS ON LIABILITY OF THE MANAGERS AND OFFICERS.
+
+         The Manager and officers  shall not be liable to the LLC or Members for
+any loss or damage  resulting from any mistake of fact or judgment or any act or
+failure to act unless the mistake,  act or failure to act results  directly from
+fraud, willful misconduct or gross negligence. The Manager and officers shall be
+indemnified pursuant to ARTICLE XII hereof.
+
+         6.6      OTHER ACTIVITIES OF THE MEMBERS AND MANAGER PERMITTED.
+
+         The Members and the Manager and their respective  Affiliates may engage
+or invest, independently or with others, in any business activity of any type or
+description,  including  without  limitation  those that might be the same as or
+similar  to  the  LLC's  business  and  that  might  be in  direct  or  indirect
+competition with the LLC. Neither the Members nor the Manager shall be obligated
+to present any investment  opportunity or prospective  economic advantage to the
+LLC, even if the  opportunity  is of a character  that, if presented to the LLC,
+could be taken by the LLC.  The Members and the Manager  shall have the right to
+hold any investment  opportunity or prospective economic advantage for their own
+account or to recommend such  opportunity to Persons other than the LLC. Neither
+the LLC nor any other  Member or  Manager,  as the case may be,  shall  have any
+right in or to such  other  venture or  activities  or  opportunities  or to the
+income or proceeds derived therefrom.  Each Member and Manager acknowledges that
+the other Members and Manger and their  respective  Affiliates own and/or manage
+other businesses, including businesses that may compete with the LLC and for the
+Members'  and/or the Manager's  time. Each Member and each Manager hereby waives
+any and all rights and claims  which he may  otherwise  have  against  the other
+Members and/or Manager, as the case may be, and their respective Affiliates as a
+result of any of such activities.
+
+         6.7      DEVOTION OF TIME.
+
+         The  Manager is not  obligated  to devote  all of his time or  business
+efforts to the  affairs of the LLC.  The Manager  shall  devote  whatever  time,
+effort, and skill as he deems appropriate for the operation of the LLC.
+
+         6.8      APPROVED BUDGET.
+
+         On or before  December 1 of each year,  beginning  on December 1, 2006,
+the Manager shall prepare a proposed  operating  budget for the following fiscal
+year and each of the four  quarters in such fiscal  year,  which such  operating
+budget shall  include such items as  determined by the Manager from time to time
+which reflect the actual and proposed operations of the LLC. Each such operating
+budget shall include a projected income statement, a projected statement of cash
+flows and a projected  balance sheet for the following  fiscal year and for each
+of the four quarters in such fiscal year, and shall identify costs  allocated to
+the LLC and to be paid to a Member for  overhead,  personnel,  and other  shared
+resources,  which  allocation  shall be directly  proportional to the portion of
+
+
+                                       12
+<PAGE>
+
+
+such shared  resources  actually used by the LLC during the  applicable  period.
+Each such operating  budget shall be  unanimously  approved by the Members on or
+before the first day of the applicable fiscal year (each, an "APPROVED BUDGET").
+The Members  shall use good faith efforts to resolve any  differences  regarding
+any item in a proposed operating budget to ensure that any such differences have
+been resolved prior to the first business day of the next fiscal year; PROVIDED,
+HOWEVER,  that if the Members cannot reach  unanimity  prior to the first day of
+the applicable  fiscal year, then the Approved Budget which was last approved by
+the Members in accordance with this SECTION 6.8 shall apply to the  then-current
+fiscal year until a new operating budget is approved. The Manager shall use good
+faith efforts to update the projected  quarterly  amounts in the Approved Budget
+on a quarterly  basis at least ten (10) days in advance of the  commencement  of
+the  applicable  quarter,  to the extent  necessary  based on changes  occurring
+during the course of the fiscal year. Any updates to the budget submitted to and
+approved  by  the  Members  during  the  course  of any  fiscal  year  shall  be
+incorporated  into and shall constitute the Approved Budget for the remainder of
+the fiscal year.
+
+                             ARTICLE VII - MEETINGS
+
+         7.1      MEETINGS OF THE MEMBERS.
+
+                  7.1.1    The  Members  are  not  required  to  hold  meetings.
+Decisions may be reached through one or more informal  consultations followed by
+agreement among the Members,  provided that all Members are consulted  (although
+all  Members  need not be present  during a  particular  consultation),  or by a
+written  consent signed by the Members.  In the event that the Members desire to
+hold a meeting, formal notice of the meeting shall not be required.
+
+                  7.1.2    Members may  participate  in the meeting  through the
+use of a conference telephone or similar communications equipment, provided that
+all Members participating in the meeting can hear one another.
+
+                  7.1.3    The  Members  shall keep or cause to be kept with the
+books and records of the LLC full and accurate minutes of all meetings,  notices
+of meetings, when given, and all written consent in lieu of meetings.
+
+        ARTICLE VIII - TRANSFER AND ASSIGNMENT OF MEMBERSHIP INTERESTS,
+                         ECONOMIC INTERESTS AND RIGHTS
+
+         8.1      TRANSFERS.
+
+         Except  for  Permitted  Transfers  (as  defined  below),  no Member may
+Transfer (directly or indirectly) all or any portion of such Member's Membership
+Interests (or any beneficial  interests therein) to any other Person except with
+the  unanimous  agreement of all of the other  Members,  which  agreement may be
+given or withheld as any such other Member may determine in its sole discretion.
+Any purported  Transfer which is not in accordance  with this Agreement shall be
+null and void and of no effect.  After the  consummation  of any Transfer of any
+part of a Member's Membership Interests, the Membership Interests so Transferred
+shall  continue to be subject to the terms and  conditions of this Agreement and
+any  further  Transfers  shall be  required  to comply with all of the terms and
+provisions of this Agreement.
+
+
+                                       13
+<PAGE>
+
+
+         8.2      SUBSTITUTION OF MEMBERS.
+
+         A transferee of any Membership Interests properly transferred hereunder
+shall  have the  right to become a  substitute  Member  only if such  transferee
+executes an instrument  satisfactory  to the Manager  accepting and adopting the
+terms and provisions of this Agreement,  and such transferee pays any reasonable
+expenses in connection with his, her or its admission as a substitute Member (as
+requested by the Manager). The admission of a substitute Member shall not result
+in the release of the Member who  assigned  the  membership  interest in the LLC
+from any  liability  that such Member may have to the LLC unless the  substitute
+Member expressly agrees in writing to assume such liability.
+
+         8.3      PERMITTED TRANSFERS.
+
+         For purposes of this  Agreement,  the term  "PERMITTED  TRANSFER" shall
+mean a transfer  by a Member of all or any portion of such  Member's  Membership
+Interests in the LLC (i) (A) to a trust for the benefit of the transferor and/or
+his or her family members,  provided that such trust is, during the transferor's
+lifetime, controlled by the transferor, or (B) as an estate planning transfer to
+an entity over which the transferor retains voting control, (ii) to an Affiliate
+of such  Member,  (iii) in the case of any  transfer by a  permitted  transferee
+described in (i) or (ii), above, back to the original transferor Member thereof,
+or (iv) from and after  December 31,  2008,  in a bona fide sale to an unrelated
+third party who the Manager  reasonably  determines is not engaged in a business
+which is  substantially  similar to and directly or indirectly  competitive with
+the business of the LLC (the "THIRD PARTY Sale"). Notwithstanding the foregoing,
+in no event shall a putative Transfer  constitute a "Permitted  Transfer" unless
+and to the extent that (i) the other Members are notified of the material  terms
+concerning  such  transfer  prior  thereto  (including,  but not limited to, the
+would-be  transferee and the consideration to be received therefor) and (ii) the
+would-be  transferee  agrees in  writing  to be bound by the  provisions  of all
+agreements applicable to the Membership Interests to be transferred  (including,
+without limitation, a joinder to this Agreement).
+
+         8.4      ADDITIONAL TRANSFER RESTRICTIONS.
+
+         Notwithstanding anything herein to the contrary, no Member may, without
+the prior  written  consent of the  Manager,  Transfer all or any portion of its
+Membership  Interests  to  the  extent  such  Transfer  (a)  would  violate  any
+applicable  securities  laws,  or (b) would cause a  termination  of the LLC for
+federal income tax purposes.
+
+         8.5      ENFORCEMENT OF TRANSFER RESTRICTIONS.
+
+         The  restrictions  on  Transfer  contained  in  this  Agreement  are an
+essential element in the ownership of Membership Interests.  Upon application to
+any court of competent  jurisdiction,  the LLC and/or a Member,  as the case may
+be,  shall be entitled  to a decree  against  any Person  violating  or about to
+violate such restrictions, requiring their specific performance, including those
+prohibiting a Transfer of all or a portion of such Membership Interests.
+
+
+                                       14
+<PAGE>
+
+
+         8.6      RIGHT OF FIRST REFUSAL.
+
+         Without  limitation to any other provision  contained herein (including
+SECTION 8.1  above),  in the event that any Member  proposes to Transfer  any of
+such Member's  Membership  Interests (or any beneficial  interests therein) in a
+Third Party Sale,  such Member first shall give written  notice of his intention
+to do so,  via  certified  mail,  to the LLC.  The  notice  of  intention  shall
+constitute an irrevocable  offer by such Member to sell to the LLC (an "OFFER TO
+SELL") the Offered  Interests  (as defined  below).  The Offer to Sell from such
+Member  ("OFFERING  MEMBER") must name the proposed  transferee  and specify the
+portion of such  Membership  Interests  proposed to be so transferred  ("OFFERED
+INTERESTS"),  the  price,  and the terms of payment  and all other  terms of the
+proposed transaction. Any such Transfer not made in accordance with this SECTION
+8.6  shall be null and void and the LLC  shall  not be  obligated  to treat  the
+transferee in such transaction as a Member of record or for any other purpose.
+
+         Within thirty (30) days  following  receipt of the Offer to Sell by the
+LLC (the "LLC OPTION PERIOD"),  the LLC shall have the right to purchase some or
+all of the Offered  Interests at the price and upon the terms and conditions set
+forth in such Offer to Sell.  The option may be exercised by a written  election
+signed by the Manager  provided that such exercise  complies with the provisions
+of the Act, and such other pertinent governmental restrictions as are now or may
+hereafter  become  effective.  If the LLC fails to  exercise  its right of first
+refusal as to any of the Offered  Interests,  the LLC shall give written  notice
+thereof immediately after the expiration of the LLC Option Period to the Members
+(other than any Member who may be so proposing to transfer  Offered  Interests),
+who for thirty (30) days following  receipt of such notice (the "MEMBERS  OPTION
+PERIOD")  will have the option to  purchase  at the price and upon the terms and
+conditions set forth in such Offer to Sell, the remaining Offered Interests, pro
+rata in proportion to each such  Member's  then  Percentage  Interest in the LLC
+vis-a-vis each other;  PROVIDED,  FURTHER, that if any such Member elects not to
+purchase his/its pro rata portion of such Offered Interests,  then the remaining
+such Members (if any) will be entitled to purchase (on the terms and  conditions
+described in this  SECTION 8.6) his/its pro rata share of the Offered  Interests
+not elected to be purchased by the other Members.
+
+         In the event all of the Offered Interests are not purchased by the LLC,
+or by the other Members within the Members Option Period, said Offered Interests
+may be transferred at any time within sixty (60) days thereafter to the proposed
+transferee  in the Third Party Sale upon the terms and  conditions  set forth in
+the relevant Offer to Sell; PROVIDED,  HOWEVER, that any transferee of ownership
+hereunder and his or her spouse,  if any,  first agree by execution of a copy of
+this Agreement to hold such Offered  Interests  subject to all the provisions of
+this Agreement (such transferee  holding such Offered  Interests subject to this
+Agreement to be included in the term Member herein),  and on the terms specified
+therein,  provided that immediately upon such transfer,  the proposed transferee
+executes and becomes  bound by this  Agreement  and any  amendments or revisions
+hereto.
+
+         8.7      ADDITIONAL TRANSFER RIGHTS OF WRE.
+
+                  WRE shall have the following additional transfer rights:
+
+
+                                       15
+<PAGE>
+
+
+                  8.7.1    If WRE  proposes  to transfer in any Third Party Sale
+consummated  within the period  specified in SECTION  8.7.2 below,  all, but not
+less than all, of WRE's  Membership  Interest in the LLC, and the LLC and/or the
+other Members are not  purchasing  WRE's  Membership  Interests  pursuant to the
+Right of First Refusal provisions of SECTION 8.6 above, then WRE may require, by
+written  notice,  all other Members to sell,  or cause to be sold,  all, but not
+less than all, of the Membership  Interests  owned by such other Members for the
+same  consideration  (but payable  entirely in cash as provided in SECTION 8.7.3
+below) and  otherwise on the same terms and  conditions  obtained by WRE in such
+Third Party Sale (a "DRAG ALONG Sale").
+
+                  8.7.2    WRE shall  have no right to cause a Drag  Along  Sale
+prior to December 31,  2008.  From and after  December 31, 2008,  WRE's right to
+cause a Drag Along Sale  pursuant to this  SECTION 8.7 may be  exercised  on one
+occasion each calendar  year, and must be consummated on or before the ninetieth
+(90th) day  following  the earlier of (i)  delivery  to WRE of annual  financial
+statements of the LLC for the  immediately  preceding  calendar  year,  and (ii)
+March 31 of the present calendar year (the "DRAG ALONG PERIOD"). If WRE does not
+exercise  its rights to cause a Drag Along  Sale,  or the Drag Along Sale is not
+consummated prior to expiration of the Drag Along Period, then WRE shall have no
+further rights to cause a Drag Along Sale during the remainder of the applicable
+calendar year.
+
+                  8.7.3    For purposes of this  SECTION 8.7, the other  Members
+who are required to sell their  Membership  Interests in a Drag Along Sale shall
+be entitled to receive cash as  consideration  for their  Membership  Interests,
+based on the fair  market  value of the  cash,  securities  and  other  property
+received by WRE for its Membership Interests in such sale.
+
+                  8.7.4    WRE's  rights to cause a Drag Along Sale  pursuant to
+this SECTION 8.7 are personal to WRE,  may not be assigned  (either  alone or in
+connection with any transfer of Membership Interests),  and shall terminate upon
+consummation  of the  first  Transfer  by WRE  of  all  or  any  portion  of its
+Membership Interests in the LLC.
+
+ARTICLE IX - DISSOLUTION AND WINDING UP
+
+         9.1      CONDITIONS OF DISSOLUTION.
+
+         The LLC shall be  dissolved,  its assets  shall be disposed of, and its
+affairs wound up on the first to occur of the following:
+
+         (a)      a  determination  by Members  having an  aggregate  Percentage
+                  Interest  greater than  sixty-six and  two-thirds  percent (66
+                  2/3%) that the LLC shall be dissolved and wound up;
+
+         (b)      the sale of all or substantially all of the assets of the LLC;
+
+         (c)      the entry of a decree of  judicial  dissolution  by a court of
+                  competent  jurisdiction  providing for the  dissolution of the
+                  LLC; or
+
+
+                                       16
+<PAGE>
+
+
+         (d)      the occurrence of any other event which causes the dissolution
+                  of the LLC by operation of law.
+
+         9.2      ORDER OF PAYMENT OF LIABILITIES UPON DISSOLUTION.
+
+         Upon  dissolution,  the  LLC's  liabilities  shall  be  settled  in the
+following order, as required by the Act:
+
+         (a)      to creditors  other than Members,  in the order of priority as
+                  provided by law;
+
+         (b)      to creditors who are Members; and
+
+         (c)      to Members in  accordance  with the  provisions of SECTION 5.3
+                  HEREOF.
+
+         9.3      LIMITATIONS ON PAYMENTS MADE ON DISSOLUTION.
+
+         Except as  otherwise  specifically  provided  in this  Agreement,  each
+Member  shall be entitled to look solely at the assets of the LLC for the return
+of his positive adjusted Capital Account balance.
+
+         9.4      LIQUIDATION.
+
+         Upon  the  dissolution  of the  LLC,  the  assets  of the LLC  shall be
+liquidated as promptly as shall be practicable.
+
+         9.5      TERMINATION OF COVENANTS.
+
+         Upon dissolution and winding up of the LLC, this Agreement,  including,
+without limitation,  all covenants of the parties hereto contained herein, shall
+terminate.
+
+                   ARTICLE X - BOOKS AND RECORDS, FISCAL YEAR
+
+         There shall be maintained and kept at all times during the continuation
+of the LLC,  proper  and usual  books of account in  accordance  with  generally
+accepted  principles  of  accounting   consistently   applied  and  which  shall
+accurately  reflect the  condition of the LLC and shall  account for all matters
+concerning the management  thereof;  which books shall be maintained and kept at
+the principal  office of the LLC or at such other place or places as the Manager
+may from time to time determine. The LLC's books and records shall be maintained
+on the basis selected by the Manager.  The fiscal year of the LLC shall commence
+January 1 and terminate on December 31 of the same calendar year.
+
+                            ARTICLE XI - TAX MATTERS
+
+         BR is hereby  designated as the "Tax Matters  Partner" (as such term is
+defined in the Code and the Treasury  Regulations  promulgated  thereunder)  for
+purposes of federal and state
+
+
+                                       17
+<PAGE>
+
+
+income tax matters.  The Tax Matters  Partner  shall cause the  preparation  and
+timely filing of all tax returns required to be filed by the LLC pursuant to the
+Code and all other tax returns deemed by it to be necessary and required in each
+jurisdiction in which the LLC does business.
+
+                         ARTICLE XII - INDEMNIFICATION
+
+         12.1     LIABILITY OF MEMBERS.
+
+         Except as  otherwise  provided by the Act, the debts,  obligations  and
+liabilities of the LLC, whether arising in contract, tort or otherwise, shall be
+the debts,  obligations and liabilities solely of the LLC, and no Covered Person
+shall be obligated personally for any such debt, obligation, or liability of the
+LLC solely by reason of being a Covered Person.
+
+         12.2     LIABILITY OF MANAGER AND OFFICERS.
+
+         The  Manager  and the  officers  shall not be  liable,  in  damages  or
+otherwise,  to the  LLC or any  Member  for  any  act or  failure  to act by the
+Managers  or the  officers  which  act was  within  the  scope of the  authority
+conferred  on the Manager or the  officers  by this  Agreement,  as  applicable,
+unless such act or  omission  constituted  fraud,  willful  misconduct  or gross
+negligence. The Manager and the officers shall be indemnified by the LLC against
+liability for any claim, demand, tax penalty, loss, damage, liability or expense
+(including, without limitation, amounts paid in settlement,  reasonable costs of
+investigation  and  reasonable  legal  fees  and  expenses)  resulting  from any
+threatened,  pending  or  completed  action,  suit  or  proceeding  naming  as a
+defendant  the  Manager  or any  officer by reason of acts or  omissions  by him
+within the scope of his authority as set forth in this  Agreement,  provided his
+actions did not constitute fraud, willful misconduct or gross negligence.
+
+         12.3     EXCULPATION.
+
+                  12.3.1   No Covered  Person shall be liable to the LLC for any
+loss,  damage or claim  incurred by reason of any act or omission  performed  or
+omitted  by such  Covered  Person on behalf of the LLC,  in good  faith and in a
+manner reasonably within the scope of authority conferred on such Covered Person
+by this Agreement or otherwise, except that a Covered Person shall be liable for
+any such  loss,  damage or claim  incurred  by reason of such  Covered  Person's
+fraud, willful misconduct, breach of this Agreement or gross negligence.
+
+                  12.3.2   A  Covered   Person  shall  be  fully   protected  in
+reasonably relying in good faith upon the records maintained by the LLC and upon
+such information,  opinions,  reports or statements  presented to the LLC by any
+Person as to matters  reasonably  within  such other  Person's  professional  or
+expert competence, including information,  opinions, reports or statements as to
+the  value  and  amount  of  the  assets,   liabilities,   Profits,   Losses  or
+distributions or any other facts pertinent to the existence and amount of assets
+from which distributions to Members might properly be paid.
+
+
+                                       18
+<PAGE>
+
+
+         12.4     FIDUCIARY DUTY.
+
+                  12.4.1   To the extent  that,  at law or in equity,  a Covered
+Person has duties (including  fiduciary duties) and liabilities relating thereto
+to the LLC or to any other Covered  Person,  a Covered  Person acting under this
+Agreement  shall not be liable to the LLC or to any other covered Person for its
+good faith reliance on the provisions of this Agreement.
+
+                  12.4.2   Unless otherwise expressly provided herein,  whenever
+a conflict of interest  exists or arises between  Covered  Persons,  the Covered
+Person shall  resolve such  conflict of interest in good faith,  considering  in
+each case (a) the relative interests of each party (including its own interests)
+in such  conflict,  agreement,  transaction  or situation,  (b) the benefits and
+burdens  relating to such  interests,  (c) any  customary  or accepted  industry
+practices,  (d)  any  applicable  generally  accepted  accounting  practices  or
+principles,  and (e) in the  case  of any  transaction,  the  terms  of  similar
+transactions  among  unrelated  third parties.  In the absence of bad faith or a
+breach of this Agreement by the Covered Person, the resolution,  action or terms
+so made,  taken or provided by the Covered  Person shall not constitute a breach
+of any  duty  or  obligation  of the  Covered  Person  at  law or in  equity  or
+otherwise.
+
+         12.5     INDEMNIFICATION BY THE LLC.
+
+         To the fullest  extent  permitted by applicable  law, a Covered  Person
+shall be entitled to indemnification  from the LLC for any loss, damage or claim
+(including  reasonable  legal fees) incurred by such Covered Person by reason of
+any act or omission performed or omitted by such Covered Person in good faith on
+behalf  of the LLC and in a manner  reasonably  within  the  scope of  authority
+conferred  on such  Covered  Person by this  Agreement,  except  that no Covered
+Person  shall be entitled to be  indemnified  in respect of any loss,  damage or
+claim incurred by such Covered Person (a) by reason of fraud, willful misconduct
+or gross  negligence  with respect to such acts or omissions or (b) in breach of
+the Agreement;  PROVIDED,  HOWEVER,  that any indemnity  under this SECTION 12.5
+hereof  shall be provided  out of and to the extent of LLC assets  only,  and no
+Covered Person shall have any personal liability on account thereof.
+
+         12.6     INDEMNIFICATION PROCEDURE.
+
+         Any person  asserting a right to  indemnification  under  SECTION  12.5
+hereof  shall  so  notify  the  Manager,  in  writing  pursuant  to  the  notice
+requirements  of SECTION 14.11 hereof.  With respect to those claims governed by
+SECTION  12.5  hereof,  the Manager  shall be entitled to control the defense or
+prosecution of such claim or demand in the name of the indemnified  person.  The
+parties hereto shall  cooperate in the prosecution or defense against any claims
+and shall  furnish  such  records,  information  and  testimony  and attend such
+conferences,   discovery  proceedings,  hearings,  trials  and  appeals  as  may
+reasonably be requested in connection therewith.
+
+         12.7     EXPENSES.
+
+         To the fullest extent permitted by applicable law, expenses  (including
+legal fees) incurred by a Covered Person in defending any claim, demand, action,
+suit or proceeding shall, from time to time, be advanced by the LLC prior to the
+final disposition of such claim, demand, action, suit or proceeding upon receipt
+by the LLC of an undertaking by or on behalf of the Covered Person
+
+
+                                       19
+<PAGE>
+
+
+to repay such amount if it shall be  determined  that the Covered  Person is not
+entitled to be indemnified as authorized in SECTION 12.5 hereof.
+
+                ARTICLE XIII - REQUIRED ARBITRATION OF DISPUTES
+
+         Any dispute,  claim,  controversy  or action  (collectively  "DISPUTE")
+arising  directly or indirectly  out of or in any way relating to this Agreement
+shall be resolved by a general judicial reference pursuant to California Code of
+Civil Procedure Section 638, and/or other successor or applicable statute, court
+rule or provision of law, in accordance with the provisions set forth below:
+
+         13.1     REFERENCE.
+
+         SUCH  DISPUTE  SHALL BE TRIED BY A  JUDICIAL  REFEREE  AS JUDGE PRO TEM
+UNDER AN ORDER OF GENERAL JUDICIAL  REFERENCE TO TRY AND DETERMINE ALL ISSUES OF
+FACT AND LAW,  WHETHER  LEGAL OR  EQUITABLE,  TO BE CHOSEN BY THE PARTIES FROM A
+LIST OF RETIRED  CALIFORNIA  SUPERIOR,  APPELLATE  AND SUPREME  COURT JUDGES AND
+JUSTICES.  THE  PARTIES  EXPRESSLY  WAIVE ANY  RIGHT TO A TRIAL BY JURY.  IF THE
+PARTIES ARE UNABLE TO AGREE,  THEN THE RETIRED JUDGE OR JUSTICE WHO SHALL ACT AS
+THE REFEREE SHALL BE APPOINTED BY THE LOS ANGELES  SUPERIOR  COURT IN ACCORDANCE
+WITH CODE OF CIVIL  PROCEDURE  SECTION 640, AND/OR OTHER SUCCESSOR OR APPLICABLE
+STATUTE,  COURT RULE, OR PROVISION OF LAW, WITH EACH OF THE PARTIES  ENTITLED TO
+ONLY ONE  DISQUALIFICATION  PURSUANT TO CODE OF CIVIL  PROCEDURE  SECTION 170.6,
+WHICH RIGHT TO DISQUALIFICATION MUST BE EXERCISED,  IF AT ALL, AT THE HEARING ON
+THE PETITION TO OBTAIN THE JUDICIAL  REFERENCE  ORDER AND/OR TO HAVE THE REFEREE
+APPOINTED. THE ACTION SHALL BE CONDUCTED AND THE ISSUES DETERMINED IN COMPLIANCE
+WITH ALL JUDICIAL  RULES AND ALL  STATUTORY AND  DECISIONAL  LAW OF THE STATE OF
+CALIFORNIA AS IF THE MATTER WERE FORMALLY LITIGATED IN SUPERIOR COURT AND NOT BY
+WAY OF JUDICIAL REFERENCE.  THE REFEREE'S DECISION WILL BE CONSIDERED AS A FINAL
+AND BINDING RESOLUTION OF THE DISPUTE,  WILL NOT BE SUBJECT TO APPEAL AND MAY BE
+ENTERED AS AN ORDER IN ANY COURT OF COMPETENT JURISDICTION IN THE UNITED STATES.
+EACH PARTY AGREES TO SUBMIT TO THE  JURISDICTION  OF ANY SUCH COURT FOR PURPOSES
+OF THE ENFORCEMENT OF ANY SUCH ORDER.
+
+         13.2     EXPENSES.
+
+         The cost of the  reference  shall  initially  be borne  pro rata by the
+parties,  but the prevailing party shall be entitled to obtain reimbursement for
+its pro  rata  share of the  reference  cost and  shall  be  awarded  reasonable
+attorney's and expert's fees and all other costs and expenses of litigation.
+
+
+                                       20
+<PAGE>
+
+
+         13.3     RULES AND PROCEDURES.
+
+         The  referee  shall  conduct  and  decide  all  pre-trial,   trial  and
+post-trial  procedures which may arise as if the matter were formally  litigated
+in the Superior  Court.  The  judgment  entered upon the decision of the referee
+shall be subject to all  post-trial  procedures and to appeal in the same manner
+as an appeal from any order or judgment in a civil action. All rules of evidence
+as set forth in the  Evidence  Code,  all rules of discovery as set forth in the
+Code of Civil Procedure,  other applicable  California and federal statutory and
+decisional  law, and all rules of court shall be  applicable  to any  proceeding
+before the referee.
+
+         13.4     ENFORCEMENT.
+
+         This reference agreement may be specifically  enforced by the filing of
+a  complaint  or  petition  or motion  seeking  specific  enforcement  as may be
+directed by applicable statute and/or rule of court.
+
+         13.5     JURISDICTION AND VENUE.
+
+         The parties agree and consent to the exclusive  jurisdiction  and venue
+of the Los Angeles Superior Court,  and  specifically  recognize and acknowledge
+the waiver of their right to remove any action to federal  court on the basis of
+diversity jurisdiction or on any other basis.
+
+         13.6     PRE-REFERENCE RELIEF.
+
+         The parties may apply to the Los Angeles  Superior Court for injunctive
+or other pre-judgment  relief prior to the appointment of the referee,  and such
+application  and related  proceedings  prior to the  appointment  of the referee
+shall not be a waiver of the  enforceability  and  application  of this judicial
+reference agreement to such Dispute or any other Dispute.
+
+                          ARTICLE XIV - MISCELLANEOUS
+
+         14.1     LAW GOVERNING.
+
+         This  Agreement  shall be governed by and construed in accordance  with
+the laws of the  State of  California  applicable  to  contracts  made and to be
+performed entirely therein.
+
+         14.2     COMPLETE AGREEMENT.
+
+         This  Agreement and the Articles  constitute the complete and exclusive
+statement of agreement among Members relating to the LLC. This Agreement and the
+Articles  supersede all prior written and oral  statements and agreements by and
+among  Members and no  representation,  statement,  or condition or warranty not
+contained in this  Agreement  or the Articles  will be binding on the Members or
+have any force or effect whatsoever.
+
+
+                                       21
+<PAGE>
+
+
+         14.3     BINDING EFFECT.
+
+         Subject to the  provisions  of this  Agreement  and the Act relating to
+transferability,  this  Agreement  shall be binding  and inure to the benefit of
+Members, and their respective executors,  administrators,  heirs, successors and
+permitted assigns.
+
+         14.4     NO THIRD PARTY BENEFICIARY.
+
+         This  Agreement  is made  solely  and  specifically  among  and for the
+benefit for the LLC and the parties hereto, and their respective  successors and
+permitted  assigns  subject  to  the  express   provisions  hereof  relating  to
+successors  and  permitted  assigns,  and no other  Person will have any rights,
+interest, or claims hereunder or be entitled to any benefits under or on account
+of this Agreement as a third party  beneficiary or otherwise.  This Agreement is
+not  intended  for the  benefit of a  creditor  who is not a Member and does not
+grant any  rights to or confer any  benefits  on any Person who is not a Member,
+Manager, officer, or agent of the LLC.
+
+         14.5     GENDER AND NUMBER IN NOUNS AND PRONOUNS.
+
+         Common  nouns and  pronouns  will be deemed to refer to the  masculine,
+feminine, neuter, singular and plural, as the identity of the person or persons,
+firm or corporation may in the context  require.  The singular shall include the
+plural and the masculine gender shall include the feminine and neuter,  and vice
+versa, as the context requires.  Any reference to the Code, the Act, or statutes
+or laws will  include all  amendments,  modifications,  or  replacements  of the
+specific sections and provisions concerned.
+
+         14.6     HEADINGS.
+
+         All  headings  herein are  inserted  only for  convenience  and ease of
+reference and are not to be considered in the construction or  interpretation of
+any provision of this Agreement.
+
+         14.7     REFERENCES IN THIS AGREEMENT.
+
+         Numbered  or  lettered   articles,   sections  and  subsections  herein
+contained refer to articles,  sections and subsections of this Agreement  unless
+otherwise expressly stated.
+
+         14.8     EXHIBITS.
+
+         All Exhibits  attached to this Agreement are  incorporated and shall be
+treated as if set forth herein.
+
+         14.9     SEVERABILITY.
+
+         If any provision of this Agreement is held to be illegal,  invalid,  or
+unenforceable under the present or future laws effective during the term of this
+Agreement,  such  provision  will be fully  severable.  This  Agreement  will be
+construed and enforced as if such illegal,  invalid, or unenforceable  provision
+had never  comprised a part of this Agreement;  and the remaining  provisions of
+this  Agreement will remain in full force and effect and will not be affected by
+the illegal,  invalid, or unenforceable  provision or by its severance from this
+Agreement.
+
+
+                                       22
+<PAGE>
+
+
+Furthermore, in lieu of such illegal, invalid, or unenforceable provision, there
+will be added  automatically  as a part of this Agreement a provision as similar
+in terms to such illegal, invalid, or unenforceable provision as may be possible
+and be legal, valid, and enforceable.
+
+         14.10    ADDITIONAL DOCUMENTS AND ACTS.
+
+         Each Member agrees to execute and deliver such additional documents and
+instruments  and  to  perform  such  additional  acts  as may  be  necessary  or
+appropriate to effectuate,  carry out and perform all of the terms,  provisions,
+and conditions of this Agreement and the transactions contemplated hereby.
+
+         14.11    NOTICES.
+
+         In order to be effective all notices, consents, approvals, disapprovals
+and other  communications  ("NOTICES")  required or permitted by this  Agreement
+must be in writing  and either (a) sent by  telegram  or  telecopy  (or  similar
+facsimile),  or (b) placed in the United  States  mail,  certified  with  return
+receipt requested,  properly addressed and with the full postage prepaid, or (c)
+personally  delivered,  and in all cases other than  telegram  or  telecopy  (or
+similar facsimile), signed. Notice shall be deemed received and effective on the
+earliest of (x) the date actually received, or (y) two business days after being
+mailed as  aforesaid,  or (z) 24 hours  after being sent by telegram or telecopy
+(or similar  facsimile).  Each Member's address,  telephone number and facsimile
+number for the purpose of receiving Notice is set forth on EXHIBIT A hereto. Any
+Member may change its address,  telephone  number or facsimile number for Notice
+purposes  by giving  Notice  in the  manner  described  in this  SECTION  14.11,
+provided that such change of address shall not be effective  until 10 days after
+notice of the change.
+
+         14.12    AMENDMENTS.
+
+                  14.12.1  In addition  to  amendments  specifically  authorized
+herein,  any and all  amendments to this Agreement may be made from time to time
+only by agreement of Members  having an aggregate  Percentage  Interest  greater
+than sixty-six and two-thirds percent (66 2/3%).
+
+                  14.12.2  In addition to other  amendments  authorized  herein,
+amendments  may be made  to this  Agreement  from  time to time by the  Manager,
+without  the  consent of any Member:  (a) to cure any  ambiguity,  to correct or
+supplement  any  provision  herein  which  may be  inconsistent  with any  other
+provision  herein,  or to make any other  provisions  with respect to matters or
+questions  arising  under  this  Agreement  that are not  inconsistent  with the
+provisions  of  this  Agreement;  (b) to  delete  or add any  provision  of this
+Agreement  required to be so deleted or added by any federal or state  official,
+which  addition or deletion is deemed by such  official to be for the benefit or
+protection  of all of the  Members;  and  (c) to  take  such  actions  as may be
+necessary (if any) to insure that the LLC will be treated as a  partnership  for
+federal income tax purposes.
+
+                  14.12.3  In making any amendments, there shall be prepared and
+filed by, or for, all of the Members or the  Managers,  as the case may be, such
+documents and  certificates  as may be required under the Act and under the laws
+of any other jurisdiction applicable to the LLC.
+
+
+                                       23
+<PAGE>
+
+
+         14.13    MULTIPLE COUNTERPARTS.
+
+         This Agreement may be executed in several  counterparts,  each of which
+will be deemed an  original  but all of which will  constitute  one and the same
+instrument.
+
+
+                                       24
+<PAGE>
+
+
+         IN WITNESS  WHEREOF,  the  undersigned  have  executed this Amended and
+Restated  Operating  Agreement  on May 8, 2007 to be  effective as of January 1,
+2007.
+
+                                  BELLA ROSE, LLC, a
+                                  California limited liability company
+
+                                  By:      PEOPLE'S LIBERATION, INC.
+                                  Its:     Sole Member
+
+                                           By:      /s/ Daniel Guez
+                                                    ----------------------------
+                                                    Daniel Guez,
+                                           Its:     Chief Executive Officer
+
+
+
+                                  WILLIAM RAST ENTERPRISES, LLC, a
+                                  Delaware limited liability company
+
+                                  By:      /s/ Justin Timberlake
+                                           -------------------------------------
+                                           Name: Justin Timberlake
+                                  Its:
+                                           -------------------------------------
+
+
+                                       25
+<PAGE>
+
+
+                                    EXHIBIT A
+
+
+                           WILLIAM RAST SOURCING, LLC
+                     MEMBERS' NAMES, ADDRESSES AND INTERESTS
+
+<TABLE>
+<CAPTION>
+=============================== ==================================== ================ ===============
+                                                                        MEMBER'S         MEMBER'S
+                                                                         CAPITAL        PERCENTAGE
+          MEMBER'S NAME                    MEMBER'S ADDRESS            CONTRIBUTION      INTEREST
+=============================== ==================================== ================ ===============
+<S>                             <C>                                               <C>         <C>
+Bella Rose, LLC                 c/o People's Liberation, Inc.                     $*          50.0%
+                                150 West Jefferson Blvd.
+                                Los Angeles, CA 90007
+                                Attn: Daniel Guez
+------------------------------- ------------------------------------ ---------------- ---------------
+William Rast Enterprises, LLC   c/o Ziffren, Brittenham, Branca,                  $           50.0%
+                                Fischer, Gilbert-Lurie, Stiffelman
+                                & Cook LLP
+                                1801 Century Park West
+                                Los Angeles, CA 90067
+                                Attn:  Gary Stiffelman
+------------------------------- ------------------------------------ ---------------- ---------------
+TOTAL                                                                             $          100.0%
+------------------------------- ------------------------------------ ---------------- ---------------
+</TABLE>
+
+    *   Consists of an assignment by BR of all of the assets and  liabilities of
+        the  William  Rast(TM)  apparel  business  operated by BR as of the date
+        hereof  pursuant to an Assignment and Assumption  Agreement  dated as of
+        the date hereof between the LLC and BR.
+
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,79 @@
+<DOCUMENT>
+<TYPE>EX-10.6.2
+<SEQUENCE>11
+<FILENAME>d67933_ex106-2.txt
+<DESCRIPTION>CONTRACT AMENDMENT AGREEMENT (NUMBER 1)
+<TEXT>
+                                                                  Exhibit 10.6.2
+
+CONTRACT AMENDMENT AGREEMENT (Number 1)
+
+This Agreement is made this 12 day of May, 2003, between British
+Telecommunications plc whose registered office is at 81 Newgate Street, London
+EC1A 7AJ ("BT") and Playboy TV UK Limited whose registered office is at Aquis
+House, Station Road, Hayes, Middlesex, UB3 4DX ("the Customer").
+
+WHEREAS
+
+      A.    The Customer entered into a contract with BT on 31st October 2002
+            for the provision of a combined compressed uplink and eurobird space
+            segment service ("the Contract");
+
+      B.    The Customer wishes to amend the Contract with BT as described
+            below;
+
+      C.    BT has agreed to amend the Contract on the terms and conditions set
+            out below.
+
+NOW IT IS HEREBY AGREED AS FOLLOWS:-
+
+The Clauses and Conditions of the Contract shall be amended as set out below,
+such amendments to be effective from 9th May, 2003.
+
+      1.    Schedule 2 of the Contract shall be amended as follows:
+
+                  a.    Replace "Service Expiry Date 25th November 2005" with
+                        "Service Expiry Date 13th July 2006"
+
+                  b.    Replace "At Customers sole discretion, and on the
+                        provision by Customer to BT of at least six months
+                        written notice in advance of the Expiry Date first above
+                        written, this Contract may be extended, on the terms and
+                        conditions set forth herein, for a period of three years
+                        such that the Expiry Date shall be 25th November 2008"
+                        with "At Customers sole discretion, and on the provision
+                        by Customer to BT of at least six months written notice
+                        in advance of the Expiry Date first above written, this
+                        Contract may be extended, on the terms and conditions
+                        set forth herein, for a period of three years such that
+                        the Expiry Date shall be 13th July 2009."
+
+      2.    The Contract shall remain in full force and effect as amended by
+            this Agreement.
+
+      3.    This Agreement shall be governed and construed in accordance with
+            English Law and the parties agree to submit to the exclusive
+            jurisdiction of the English Courts.
+
+<PAGE>
+
+For and on behalf of the Customer
+
+
+Signed /s/ Andrew D. Wren
+       ------------------
+
+Name & Title Andrew D. Wren, Company Secretary
+             ---------------------------------
+
+For and on behalf of BT
+
+
+Signed /s/ P.A. Nichols
+       ----------------
+
+Name & Title P.A. Nichols, Product Director BT Broadcast Services
+             ----------------------------------------------------
+
+</TEXT>
+</DOCUMENT>

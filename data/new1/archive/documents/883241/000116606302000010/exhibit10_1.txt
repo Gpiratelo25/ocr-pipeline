@@ -1,0 +1,624 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>3
+<FILENAME>exhibit10_1.txt
+<DESCRIPTION>RICHARD NEWTON CONTRACT
+<TEXT>
+                                                                   EXHIBIT 10.1
+
+                                 SYNOPSYS, INC.
+                          CONSULTING SERVICES AGREEMENT
+
+     This Amended and Restated  Consulting  Services Agreement (the "Agreement")
+is  entered  into  and  effective  as of the  1st  day of  November,  2001  (the
+"Effective  Date")  by  and  between  Synopsys,  Inc.,  a  Delaware  corporation
+("Synopsys"), and A. Richard Newton ("Consultant").
+
+     In consideration of the mutual promises hereinafter contained,  the parties
+agree as follows:
+
+        1.    STATEMENT OF WORK
+
+        1.1   Synopsys  agrees  to retain  Consultant  to  perform  the work as
+              specified in Exhibit A,  Statement of Work (the "Work"),  for the
+              period specified herein.  Consultant shall submit to Synopsys, in
+              written or other tangible form,  any  deliverables  or results of
+              Consultant's work under this Agreement (the "Results").
+
+        1.2   At least once a month,  Consultant will report to Synopsys on the
+              status of the work.  On reasonable  notice,  Synopsys may inspect
+              Consultant's work in progress and receive copies of it.
+
+        2.    ACCEPTANCE OF DELIVERABLES
+
+              Synopsys will inform  Consultant in writing  within a
+              reasonable  period of time of receiving a deliverable  whether
+              it accepts or rejects  that  deliverable.  Synopsys may reject
+              any  deliverable  which does not comply with the  Statement of
+              Work and/or with  Synopsys'  standards.  If Synopsys  fails to
+              notify Consultant within the specified time,  Synopsys will be
+              deemed to have accepted the  deliverable.  If Synopsys rejects
+              it,  Synopsys may either  terminate  the contract  pursuant to
+              Section  7.4, or it may allow  Consultant  an  opportunity  to
+              revise the deliverable to render it acceptable to Synopsys.
+
+        3.    COMPENSATION
+
+        3.1   Compensation  for all Work specified herein shall be as specified
+              in Exhibit B.
+
+        3.2   Synopsys  agrees to  compensate  Consultant  for all  reasonable,
+              non-local travel  expenses,  which may be incurred at the request
+              and with the prior  written  approval  of  Synopsys.  Lodging and
+              subsistence  expenses will be  reimbursed at actual costs,  which
+              should  reflect  what  the  going  rates  are for the  particular
+              location  being  visited.  Rental car expenses for a compact size
+              car will be reimbursed at actual cost.  Materials and the cost of
+              subcontracts shall not be chargeable to this Agreement.
+
+
+
+                                       1
+<PAGE>
+
+        3.3   The  Compensation  specified  in  Exhibit B and the  foregoing
+              costs and  expenses are  Consultant's  sole  compensation  for
+              performing Work for Synopsys.
+
+        3.3   Consultant   shall  provide   Synopsys  with  periodic   invoices
+              detailing compensation,  fees, and expense reimbursements,  which
+              Consultant  believes  are due under  this  Agreement.  Consultant
+              shall itemize and provide  receipts for all expenses  invoiced to
+              Synopsys.
+
+        4.    CONFIDENTIAL INFORMATION
+
+        4.1   Definition Of Confidential  Information.  Both parties agree that
+              information  disclosed by one party to the other,  including  but
+              not limited to information  learned from the  disclosing  party's
+              employees, agents or through inspection of the disclosing party's
+              property,  that  relates  to  the  disclosing  party's  products,
+              designs,   business  plans,  business  opportunities,   finances,
+              research,   development,   know-how,  personnel,  or  third-party
+              confidential  information  disclosed to the receiving  party from
+              the  disclosing  party,  and the  terms  and  conditions  of this
+              Agreement,  will be considered  and referred to  collectively  in
+              this  Agreement  as  "Confidential   Information."   Confidential
+              Information,  however,  does not include  information that: 1) is
+              now or  subsequently  becomes  generally  available to the public
+              through no fault or breach on the part of receiving party; 2) the
+              receiving  party can  demonstrate  to have had  rightfully in its
+              possession  prior to disclosure by the  disclosing  party;  3) is
+              independently developed by the receiving party without the use of
+              any   Confidential   Information;   or  4)  the  receiving  party
+              rightfully  obtains  from a third  party  who has  the  right  to
+              transfer or disclose it.
+
+        4.2   Nondisclosure  And  Nonuse  Of  Confidential   Information.   The
+              receiving  party agrees that it will not  disclose,  publish,  or
+              disseminate  Confidential  Information to anyone other than those
+              of its  employees  with a  demonstrated  need  to  know,  and the
+              receiving  party  agrees to take all  reasonable  precautions  to
+              prevent  any  unauthorized  use,  disclosure,   publication,   or
+              dissemination  of Confidential  Information.  Recipient agrees to
+              use Confidential Information solely for the purposes contemplated
+              by this  Agreement  and not  otherwise  for its own or any  third
+              party's  benefit  without  the  prior  written   approval  of  an
+              authorized   representative  of  the  disclosing  party  in  each
+              instance.  All Confidential  Information  remains the property of
+              the disclosing party
+
+
+
+                                       2
+<PAGE>
+
+
+        4.3   Synopsys will not solicit or accept confidential information from
+              Consultant that belongs to any current or former employers.
+
+        5.    ASSIGNMENT OF RIGHTS AND INTEREST
+
+        5.1   Consultant  will promptly  disclose in writing to Synopsys all
+              inventions,   improvements,   designs,   formulas,   works  of
+              authorship,  trade secrets, technology,  algorithms,  computer
+              programs,  ideas,  processes,  techniques,  know-how and data,
+              whether or not patentable,  that are made, conceived, or first
+              reduced to practice  by  Consultant,  either  alone or jointly
+              with   others,   in  the   course  of   performing   the  Work
+              ("Inventions"). Consultant will not disclose Inventions to any
+              party outside Synopsys absent Synopsys' prior written consent.
+
+        5.2   Consultant agrees that all Inventions (including those related
+              to any Confidential Information) and all Intellectual Property
+              Rights  embodied  therein,  shall  be  the  sole  property  of
+              Synopsys.  Consultant  agrees to assign and hereby  assigns to
+              Synopsys all right,  title and  interest in and to  Inventions
+              and  related   Intellectual   Property   Rights  in  any  such
+              Inventions.
+
+        5.3   Consultant  agrees to  perform,  during  and after the term of
+              this  Agreement,  all acts deemed  necessary  or  desirable by
+              Synopsys  to permit and assist it in  obtaining,  maintaining,
+              defending,  and enforcing  Intellectual  Property  Rights with
+              respect to such Inventions in any and all countries. Such acts
+              may  include,  but are not limited to,  execution of documents
+              and assistance or cooperation in legal proceedings.
+
+        5.4   Any assignment of copyright  hereunder  includes all rights of
+              paternity,  integrity, disclosure and withdrawal and any other
+              rights that may be known as or  referred to as "moral  rights"
+              (collectively "Moral Rights"). To the extent such Moral Rights
+              cannot be assigned under  applicable  law,  Consultant  hereby
+              forever  waives and  agrees  never to assert any and all Moral
+              Rights it may have in the Results,  even after  termination of
+              the  Services.  Consultant  will confirm any such waivers from
+              time to time as requested by Synopsys.
+
+        5.5   Consultant will complete  Exhibit C, listing all  intellectual
+              property  existing as of the Effective  Date of this Agreement
+              and to which Consultant claims ownership.  If Exhibit C is not
+              completed,   Consultant  is  representing  that  there  is  no
+              existing Consultant  intellectual property as of the Effective
+              Date of this Agreement.
+
+        5.6   Synopsys  acknowledges  that from time to time  Consultant may
+              have  Intellectual  Property Rights which Consultant wishes to
+              incorporate into the Results or which may be necessary for the
+              utilization by Synopsys of such Results ("Consultant's Related
+              Rights").  Unless  otherwise  agreed  in  advance,  Consultant
+              hereby grants Synopsys,  its  subsidiaries  and affiliates,  a
+              royalty-free,  irrevocable, worldwide, nonexclusive, perpetual
+              license to make, have made,  sell, use,  disclose,  reproduce,
+              modify, prepare Derivative Works from, distribute, perform and
+              display  Consultant's  Related  Rights,  with  full  rights to
+              authorize  others to do the same.  Consultant  will indemnify,
+              hold harmless and, at Synopsys' request,  defend Synopsys, its
+              subsidiaries  and  affiliates,  from and  against  all claims,
+              liabilities,  damages, losses and expenses including,  but not
+              limited  to  reasonable  attorneys'  fees  and  costs of suit,
+              arising out of or in  connection  with all claims that the use
+              or  disclosure of  Consultant's  Related  Rights  violates any
+              third party's rights.
+
+
+                                       3
+<PAGE>
+
+
+        6.    INDEPENDENT CONTRACTOR STATUS
+
+              The  relationship  of Synopsys and  Consultant  established by
+              this Agreement is that of independent contractors, and nothing
+              contained  in  this  Agreement  shall  be  construed  to  give
+              Synopsys  the  power  to  direct  or  control  the  day-to-day
+              activities of  Consultant.  Consultant has no authority to act
+              on  behalf  of  or to  enter  into  any  contract,  incur  any
+              liability  or make any  representation  on behalf of Synopsys.
+              Consultant is solely responsible for all taxes,  withholdings,
+              and other  similar  statutory  obligations  arising out of the
+              performance  of services  under this  Agreement and Consultant
+              agrees to defend,  indemnify and hold  Synopsys  harmless from
+              any and all claims made by any entity on account of an alleged
+              failure by Consultant  to satisfy any such tax or  withholding
+              obligations.
+
+        7.    TERM AND TERMINATION
+
+        7.1   The initial term of this Agreement shall expire on October 31,
+              2002.  Thereafter,   this  Agreement  shall  be  automatically
+              renewed for  successive  one-year  terms unless this Agreement
+              shall be earlier  terminated  pursuant to Sections 7.2, 7.3 or
+              7.4.
+
+        7.2   If any deliverable is rejected by Synopsys or is not delivered
+              by its due date,  then  Synopsys may  terminate  this contract
+              immediately  by giving  written  notice to Consultant and will
+              not owe any  amount  for  deliverables  which  have  not  been
+              accepted.
+
+        7.3   Synopsys may  terminate  this  Agreement at any time,  for any
+              reason,  with or without cause, by giving  Consultant  written
+              notice  of   termination.   Termination   will  be   effective
+              immediately upon receipt of notice. If Synopsys terminates for
+              convenience,   it  will  pay   Consultant   for  all  accepted
+              milestones  and a  prorated  amount  for  partially  completed
+              deliverables.  Consultant will submit invoices to Synopsys for
+              payment of all  outstanding  amounts and Synopsys will pay all
+              undisputed  amounts  within thirty (30) days of receipt of the
+              invoices.
+
+
+                                       4
+<PAGE>
+
+
+        7.4   Either party has the right to terminate  this Agreement if the
+              other  party  breaches  or is in  default  of  any  obligation
+              hereunder,  which default is incapable of cure or which, being
+              capable of cure, has not been cured with fifteen (15) business
+              days after  receipt of written  notice from the  nondefaulting
+              party,   or  within  such   additional   cure  period  as  the
+              nondefaulting party may authorize.
+
+        7.5   Consultant agrees that all obligations under Sections 3, 4, 5,
+              9, 10 and 13 shall survive termination of this Agreement.
+
+        8.    INSURANCE REQUIREMENTS
+
+        8.1   Consultant  shall comply with all federal,  state,  county and
+              municipal  laws,   ordinances,   and   regulations,   if  any,
+              applicable  to  the  Work  to be  done  hereunder.  Consultant
+              further  certifies that all Work performed  hereunder shall be
+              in compliance with applicable health and safety requirements.
+
+        8.2   Consultant agrees to carry such adequate health, auto, workers
+              compensation,  and  liability  insurance  as  is  required  to
+              protect  against  related  liability  which  may  arise in the
+              performance  of the services  hereunder,  if the same would be
+              common practice in Consultant's trade or business.
+
+        9.    INDEMNITY
+
+        9.1   Consultant  agrees,  at its own expense,  to defend or, at its
+              option,  to  settle,  any  claim  or  action  brought  against
+              Synopsys  for  breach  of any  warranty  in  Section  10,  and
+              Consultant will indemnify and hold Synopsys  harmless from and
+              against  any  damages,  costs  and  fees  reasonably  incurred
+              (including  reasonable  attorneys' fees) that are attributable
+              to such claim or action. Synopsys agrees to provide Consultant
+              with: (i) prompt written  notification of the claim or action;
+              (ii)  control and  authority  over the  defense or  settlement
+              thereof  except  that  Synopsys  may  participate  at its  own
+              expense;  and (iii) all reasonable  available  information and
+              assistance,  as well as the  authority to settle and/or defend
+              any such claim or  actionprovided  that  Synopsys must approve
+              any  settlement  in  writing,   which  approval  will  not  be
+              unreasonably withheld.
+
+        9.2   If the Results become, or are likely to become, the subject of
+              an infringement claim or action, Consultant will: (i) procure,
+              at no cost to  Synopsys  , the  right to  continue  using  the
+              Results;  (ii)  replace or modify the  Results to render  them
+              non-infringing,   provided   there  is  no  material  loss  of
+              functionality;   or  (iii)  if,  in  Consultant's   reasonable
+              opinion, neither (i) nor (ii) above are commercially feasible,
+              refund the amounts Synopsys paid for the Work.
+
+
+                                       5
+<PAGE>
+
+
+        9.3   Consultant  agrees  to  indemnify,  hold  harmless  and,  upon
+              Synopsys'   request,   defend   Synopsys  and  its  directors,
+              officers,  employees  and agents  from and  against  all loss,
+              liability,  damages, claims and expenses, including reasonable
+              attorneys' fees,  arising out of claims or suits for damage or
+              injury to persons or property in connection  with, in whole or
+              in  part,  (i)  any  negligent  act,   omission,   or  willful
+              misconduct of Consultant in the  performance of this Agreement
+              and (ii) Consultant's failure to comply with federal, state or
+              local law.
+
+        10.   WARRANTY
+
+        10.1  Consultant  shall  perform the Work with due  diligence and in
+              full   compliance  with  the  terms  and  conditions  of  this
+              Agreement  and  the  highest  professional  standards  of  one
+              skilled in Consultant's industry.
+
+        10.2  With  respect  to  all  subject   matter,   including   ideas,
+              inventions,  creations, works, processes, designs and methods,
+              that Consultant will disclose or use in its performance of the
+              Work or the  granting  of any  rights  under  this  Agreement,
+              Consultant  warrants  that  it has  the  right  to  make  such
+              disclosure,   use  and  grant  without  liability  to  others.
+              Consultant  further warrants that: (i) the Results are or will
+              be original with Consultant;  (ii) the Results do not and will
+              not infringe any Intellectual Property Rights of others; (iii)
+              Consultant has not  previously  granted and will not grant any
+              rights in the Results to any third party that are inconsistent
+              with the  rights  granted  to  Synopsys  herein;  (iv) each of
+              Consultant's employees, consultants,  contractors, partners or
+              agents who has been or will be involved in the  performance of
+              the Work  will  have  signed  an  agreement   with   Consultant
+              conveying all proprietary  rights in the Results to Consultant
+              and  agreeing  to  maintain in  confidence  all trade  secrets
+              embodied in the Results;  and (v) Consultant has full power to
+              enter into this Agreement,  to carry out its obligations under
+              this Agreement and to grant the rights granted to Synopsys.
+
+        10.3  Consultant   shall  comply  with  all   applicable   laws  and
+              Synopsys'  safety rules in the course of performing  the Work.
+              If  Consultant's  work  requires  a  license,  Consultant  has
+              obtained  that  license  and the  license is in full force and
+              effect.
+
+        11.   ACCESS TO SYNOPSYS PROPERTY
+
+              Permission to enter Synopsys-controlled  premises shall at all
+              times be  subject  to  Synopsys'  discretion  and  control  in
+              accordance  with its  rules.  Consultant  will be  subject  to
+              security controls prescribed by Synopsys.
+
+
+                                       6
+<PAGE>
+
+
+        12.   KEY PERSONNEL
+
+              Synopsys  has  determined  that the  individuals  whose  names
+              appear below are necessary for the  successful  performance of
+              the Work.  Consultant  agrees to assign  such  individuals  to
+              perform the Work and shall not  reassign or remove any of them
+              without the prior written  consent of Synopsys.  Whenever said
+              key personnel are unavailable to perform the Work,  Consultant
+              shall,  with  the  approval  of  Synopsys,  replace  such  key
+              personnel with  individuals of  substantially  equal abilities
+              and  qualifications.  If  comparable  talent  is  unavailable,
+              Synopsys  may  terminate  this  Agreement  as provided  for in
+              Section 7, Termination.  During the term of this Agreement and
+              for one (1) year thereafter,  Consultant will not encourage or
+              solicit  any  employee  or  consultant  of  Synopsys  to leave
+              Synopsys for any reason.
+
+              Key Personnel:
+
+              A. Richard Newton
+
+
+        13.   GENERAL PROVISIONS
+
+        13.1  CHOICE  OF  LAW.  This  Agreement  will  be  governed  by  and
+              construed in accordance with the laws of the United States and
+              the State of California as applied to agreements  entered into
+              and  to  be  performed   entirely  within  California  between
+              California residents.
+
+        13.2  ASSIGNMENT. This Agreement may not be assigned by Consultant
+              without the prior written consent of Synopsys.
+
+
+        13.3  NOTICES.  Any  notices  required  or  permitted  to  be  given
+              pursuant  to this  Agreement  shall  be in  writing,  sent via
+              certified mail,  return receipt  requested,  express overnight
+              courier,  or by  facsimile  to  the  address  of  Synopsys  or
+              Consultant as set forth below, or to such other address as may
+              be specified  from time to time in writing.  Such notice shall
+              be deemed to have been received on the earlier of (i) the date
+              when  actually  received,  or (ii) if by  facsimile,  when the
+              sending  party shall have  received a  facsimile  confirmation
+              that the message has been  received by the  receiving  party's
+              facsimile machine.
+
+
+                                       7
+<PAGE>
+
+
+              IF TO SYNOPSYS:
+                    Synopsys, Inc.
+                    700 E. Middlefield Road
+                    Mountain View, CA 94043-4033
+                    Attn.: General Counsel
+                    Telephone Number: (650) 584-4880
+                    Facsimile Number: (650) 584-1184
+
+              IF   TO  CONSULTANT:
+                    A. Richard  Newton at such address as Consultant shall have
+                    provided Synopsys in writing
+
+
+        13.4  NO WAIVER. Failure by either  party to enforce any  provision of
+              this Agreement will not be deemed a waiver of future enforcement
+              of that or any other provision.
+
+        13.5  SEVERABILITY. If for any reason a court of competent jurisdiction
+              finds any provision of this Agreement,  or portion thereof, to be
+              unenforceable,  that  provision of the Agreement will be enforced
+              to the maximum  extent  permissible so as to effect the intent of
+              the parties, and the remainder of this Agreement will continue in
+              full force and effect.
+
+        13.6  ATTORNEYS'  FEES. The  prevailing  party in any action to enforce
+              this Agreement shall be entitled to recover  reasonable costs and
+              expenses  including,  without limitation,  reasonable  attorneys'
+              fees.
+
+        13.7  INJUNCTIVE  RELIEF. The parties  agree that a material  breach of
+              this  Agreement  adversely   affecting   Synopsys' Confidential
+              Information would cause irreparable  injury to Synopsys for which
+              monetary damages would not be an adequate  remedy and Synopsys
+              shall be entitled to equitable relief in addition to any remedies
+              it may have hereunder or at law.
+
+        13.8  FORCE MAJEURE. Nonperformance of either party shall be excused to
+              the extent that  performance  is rendered  impossible  by strike,
+              fire, flood, governmental action, failure of suppliers,
+              earthquake,  or any other  reason  where  failure  to  perform is
+              beyond the reasonable control of the non-performing party up to a
+              maximum of ninety days.
+
+
+                                       8
+<PAGE>
+
+
+        13.9  ENTIRE AGREEMENT. This Agreement, including  all  Exhibits
+              constitute the entire agreement  between the parties with respect
+              to the subject matter hereof,  and supersede all prior agreements
+              or  representations,  oral or  written,  regarding  such  subject
+              matter. This Agreement may not be modified or amended except in a
+              writing  signed  by a  duly  authorized  representative  of  both
+              parties.
+
+        13.10 COMMENCEMENT OF SERVICES.  Services shall not commence until this
+              agreement is  incorporated  into a Purchase  Order that  provides
+              funding  for the  agreement  and serves as the  authorization  to
+              commence work.
+
+
+CONSULTANT                                  SYNOPSYS, INC.
+
+By (Signature):/S/ A. RICHARD NEWTON        By (Signature):/S/ AART J. DE GEUS
+               --------------------------                  --------------------
+
+Printed Name: A. RICHARD NEWTON             Printed Name:   AART J. DE GEUS
+              ---------------------------                  --------------------
+
+Title:        ---------------------------   Title: Chairman and Chief Executive
+                                                   Officer
+
+IF INTELLECTUAL  PROPERTY IS NOT INVOLVED BOTH PARTIES WILL INITIAL IN THE SPACE
+PROVIDED  BELOW AND SECTION 5,  ASSIGNMENT OF RIGHTS AND INTEREST AND EXHIBIT C,
+LIST OF INVENTIONS WILL NOT APPLY.
+
+CONSULTANT _____________                    SYNOPSYS _____________
+
+
+
+
+
+                                       9
+<PAGE>
+
+
+
+
+
+
+                                    EXHIBIT A
+
+                                STATEMENT OF WORK
+
+Consultant  shall  render  such  services  as are  necessary  to  complete  in a
+professional   manner  the  project   described   as  follows  (you  may  attach
+Consultant's  proposal and  incorporate it by reference,  e.g. "see letter dated
+mo/day/yr from Consultant"):
+
+
+
+Provide  on-going  consulting  services to Synopsys for  strategic  planning and
+technology direction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       10
+<PAGE>
+
+
+                                    EXHIBIT B
+
+                                  COMPENSATION
+
+During the term of this Agreement, Consultant shall be paid a fee of $15,000 per
+month.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       11
+<PAGE>
+
+
+
+
+
+                                    EXHIBIT C
+
+                               LIST OF INVENTIONS
+
+
+
+---------     No inventions or improvements
+
+
+---------     See below
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------     Additional sheets attached
+
+
+
+
+--------------------------------
+Consultant                 Date
+
+
+
+
+
+                                       12
+<PAGE>
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,59 @@
+<DOCUMENT>
+<TYPE>EX-10.7
+<SEQUENCE>3
+<FILENAME>exhibit107.txt
+<DESCRIPTION>AMENDED AGREEMENT
+<TEXT>
+                                                                    Exhibit 10.7
+
+                      AMENDMENT TO BINDING LETTER AGREEMENT
+
+         This Amendment to the Binding Letter Agreement (dated December 21,
+2005), by and between DATAWIND Net Access Corporation ("DataWind"),a Delaware
+corporation, and EdgeTech Inc. ("EdgeTech"), a Florida corporation, is made as
+of March 8, 2006 (the "Amendment").
+
+         For good and valuable consideration, the receipt and sufficiency of
+which is acknowledged by each of the parties hereto, and intending to be legally
+bound, the parties hereby agree, to amend the Binding Letter Agreement with the
+replacement of the first sentence of clause 4(c)
+
+FROM:
+
+         As to vertical markets (iv) and (v), EdgeTech shall be required to pay
+an aggregate one time fee of $400,000 to DataWind payable as follows: $200,000
+on March 8, 2006; $100,000 on July 10, 2006; and $100,000 on October 10, 2006.
+
+TO:
+
+         As to vertical markets (iv) and (v), EdgeTech shall be required to pay
+an aggregate one time fee of $400,000 and arrange for the delivery of 50,000
+shares of the restricted common stock of Edgetech, Inc., a Delaware corporation
+(the "Shares") to DataWind payable as follows: $50,000 on March 17, 2006 and the
+delivery of the Shares on or promptly following such date; $150,000 on March 31,
+2006; $100,000 on July 10, 2006; and $100,000 on October 10, 2006.
+
+Except as expressly amended herein, the Binding Letter Agreement, the quantities
+and deadlines set therein, shall remain in full force and effect.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Amendment as of the
+date first written above.
+
+DATAWIND NET ACCESS CORPORATION            EDGETECH INC.
+
+By:    /s/ Suneet Tuli                     By:    /s/ Lev Parnas
+
+Name:  Suneet Tuli                         Name:  Lev Parnas
+
+Title: CEO                                 Title: CEO
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

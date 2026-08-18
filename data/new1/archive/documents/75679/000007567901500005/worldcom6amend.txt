@@ -1,0 +1,240 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>3
+<FILENAME>worldcom6amend.txt
+<DESCRIPTION>EX 10.90 WORLDCOM AGREEMENT AMENDMENT 6
+<TEXT>
+
+
+             SIXTH AMENDMENT TO CONTRACT FOR ALASKA ACCESS SERVICES
+
+
+         This SIXTH AMENDMENT TO CONTRACT FOR ALASKA ACCESS SERVICES ("Sixth
+Amendment") is made and entered into as of this 14th day of February, 2001
+(the "Effective Date"), by and between GENERAL COMMUNICATIONS, INC. and its
+wholly owned subsidiary, GCI COMMUNICATIONS CORP., an Alaska corporation
+(together, "GCI") with offices located at 2550 Denali Street, Suite 1000,
+Anchorage, Alaska 99503-2781 and MCI WORLDCOM NETWORK SERVICES, INC. ("MWNS"),
+formerly known as MCI Telecommunications Corporation, with offices located at
+1133 19th Street, N.W., Washington, D.C. 20036.
+
+                                    RECITALS
+
+         WHEREAS, GCI and MWNS entered into that certain Contract for Alaska
+Access Services dated January 1, 1993 (the "Original Agreement"), as amended by
+(i) the First Amendment to Contract for Alaska Access Services dated March 1,
+1996, (ii) the Third Amendment to Contract for Alaska Access Services dated
+March 1, 1998, (iii) the Fourth Amendment to Contract for Alaska Access Services
+dated as of January 1, 1999, and (iv) the Fifth Amendment to Contract for Alaska
+Access Services dated August 7, 2000 (the "Fifth Amendment") (the Original
+Agreement together with all subsequent amendments thereto is sometimes
+hereinafter referred to as the "Agreement") which sets forth the general terms
+and conditions under which GCI provides certain telecommunications services to
+MWNS; and
+
+         WHEREAS, MWNS and the General Services Administration ("GSA") have
+entered into an agreement for the provision of telecommunications services by
+MWNS to GSA. MWNS desires to purchase certain services from GCI pursuant to the
+Agreement in support of the awarded government contract; and
+
+         WHEREAS, effective September 30, 1999 WorldCom Network Services, Inc.
+merged into MWNS pursuant to that certain Certificate of Merger dated as of
+September 15, 1999; and
+
+         WHEREAS, MWNS and GCI desire to further amend the Agreement to modify
+certain terms and conditions under which GCI will lease FTS2001 Service (as
+defined herein) to MWNS.
+
+         NOW, THEREFORE, in consideration of the premises and the mutual
+agreements herein contained, and other good and valuable consideration, the
+receipt and sufficiency of which is hereby acknowledged, the parties agree as
+follows:
+
+         1. Definition of Terms. All capitalized terms used in this Sixth
+Amendment but not defined herein shall have the meanings given to such terms in
+the Agreement. Additionally, any
+
+
+                                       1
+<PAGE>
+reference to "MWNS" in this Sixth Amendment shall be a reference to "MCI" in the
+Agreement, as amended, and vice versa.
+
+         2. Replacement of Pricing Schedule. As of the Effective Date, the
+Pricing Schedule attached to the Fifth Amendment as Schedule B is hereby deleted
+in its entirety and the Pricing Schedule attached to this Sixth Amendment as
+Schedule B shall be substituted in lieu thereof.
+
+         3. Modification of Statement of Work.
+
+                  (A) As of the Effective Date, Section 3.1(c) of the Statement
+of Work attached to the Fifth Amendment as Schedule F is hereby deleted in its
+entirety and the following is substituted in lieu thereof:
+
+                  "c) "Non-equal access areas, within Alaska, will be served
+                  using PIC service or the FTS2001 calling card."
+
+                  (B) As of the Effective Date, the third paragraph of Section
+4.2.1 of the Statement of Work attached to the Fifth Amendment as Schedule F is
+hereby deleted in its entirety and the following is substituted in lieu thereof:
+
+                "GCI Marketing will perform the following once the PIC orders
+                are received:
+              - Upon receipt of PIC orders from MCIW, GCI will review orders to
+                determine which NPA/NXXs are in equal access areas and non-equal
+                access areas. GCI will notify the MCIW account team of requests
+                in non-equal access areas. The customer may choose either
+                calling card or PIC service. GCI will work with AlaskCom to
+                provide PIC service to non-equal access areas.
+              - GCI will advise MCIW of the GCI FTS20001 Agency account for
+                billing to MCI WorldCom.
+              - MCIW and GCI will reconcile ANI inventory information based on
+                customer provided information, LEC provided information and GCI
+                provided information
+              - GCI will implement the PIC changes with the local telco's. GCI
+                will notify the MCIW PMO upon PIC completion and will assist
+                with customer testing as necessary."
+
+         4. Effect of Amendment. All terms and conditions of the Agreement not
+modified by this Sixth Amendment shall remain in full force and effect.
+
+
+                                       2
+<PAGE>
+         5. Further Assurances. MWNS and GCI shall cooperate in good faith, and
+shall enter into such other instruments and take such other actions as may be
+necessary or desirable, to fully implement the intent of this Sixth Amendment.
+
+         6. Counterparts. This Sixth Amendment may be executed in counterparts,
+each of which shall be deemed an original and all of which together shall
+constitute one and the same instrument.
+
+         IN WITNESS WHEREOF, the undersigned authorized representatives of MWNS
+and GCI have executed and delivered this Sixth Amendment as of the date first
+written above.
+
+GENERAL COMMUNICATIONS, INC.           MCI WORLDCOM NETWORK SERVICES, INC.
+
+By: /s/                                By: /s/
+
+Name: Richard Westlund                 Name: Jay Slocum
+
+Title: VP/GM Wholesale Services        Title: Vice President
+
+Date: February 14, 2001                Date: March 5, 2001
+
+
+
+                                       3
+<PAGE>
+<TABLE>
+                                                              Schedule B
+
+                                                           Pricing Schedule
+
+<CAPTION>
+Telecommunication Services                                                Pricing Structure      Dedicated Access
+<S>                                                                       <C>                     <C>
+Switched - Voice and Data (1), (2)
+
+Gov't switched location (equal access and non equal access PIC service)   $**********             **********
+to Gov't switched location
+
+Gov't switched location (equal access and non equal access PIC service)   $**********             **********
+to Gov't dedicated location
+
+Gov't switched location (equal access and non equal access PIC service)   $**********             **********
+to non Gov't switched location
+
+Gov't switched location (equal access and non equal access PIC service)   $**********             **********
+to lower 48
+
+Gov't dedicated location to Gov't switched location                       $**********             **********
+
+Gov't dedicated location to Gov't dedicated location                      $**********             **********
+
+Gov't dedicated location to non Gov't switched location                   $**********             **********
+
+Gov't dedicated location to lower 48                                      $**********             **********
+
+Gov't switched location (non equal access) to Gov't switched location     $**********             **********
+(For Calling Card only)
+
+Gov't switched location (non equal access) to Gov't dedicated location    $**********             **********
+(For Calling Card only)
+
+Gov't switched location (non equal access) to non Gov't switched          $**********             **********
+location (For Calling Card only)
+
+Gov't switched location (non equal access) to lower 48 (For Calling Card  $**********             **********
+only)
+
+Intrastate Private Line                                                   GCI Tariff-             **********
+                                                                          FCC **********
+
+Intrastate ISDN(PRI and BRI)                                              GCI Tariff-             **********
+                                                                          FCC **********
+
+Intrastate Frame Relay                                                    GCI Tariff-             **********
+                                                                          FCC **********
+
+Anchorage to Seattle Private Line                                         GCI Tariff-             **********
+                                                                          FCC **********
+
+Other Services
+
+  Rate call detail for intra Alaska calls                                 $**********             **********
+
+
+</TABLE>
+
+
+[CERTAIN  INFORMATION  HAS BEEN REDACTED  FROM THIS  DOCUMENT  WHICH THE COMPANY
+DESIRES TO KEEP UNDISCLOSED AND A COPY OF THE UNREDACTED  DOCUMENT WILL BE FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.]
+<PAGE>
+<TABLE>
+<CAPTION>
+Telecommunication Services                                                Pricing Structure      Dedicated Access
+<S>                                                                       <C>                     <C>
+  Call Record Detail for Interstate calls
+Switch Port on GCI Switch in Seattle                                      $**********             **********
+
+DAC Port on GCI Switch in Seattle                                         $**********             **********
+</TABLE>
+
+Notes:
+  (1) For ********** connections, when the gov't facility is using centrex
+service, the elements that MWNS will be charged are ********** between the LEC
+EO and the LEC SWC and ********** between the LEC SWC and the GCI POP.
+
+
+  (2) For ********** connections, when the gov't facility is using a PBX, the
+elements that MWNS will be charged are ********** between the LEC EO and the LEC
+SWC, ********** between the LEC SWC and the GCI POP and one channel termination
+between the PBX and the LEC EO.
+
+
+  (3) ********** service charges will be billed directly to the gov't by the
+LEC.
+
+
+  (4) Initially, there will be ********** LEC ********** between the GSA and GCI
+POP in **********. There will be ********** LEC ********** connection between
+the GSA and the GCI POP in **********.
+
+
+  (5) Initially, there will be ********** connecting ********** and **********.
+
+
+  (6) Initially, there will be ********** between ********** and **********:
+********** for ********** and ********** for **********.
+
+
+[CERTAIN  INFORMATION  HAS BEEN REDACTED  FROM THIS  DOCUMENT  WHICH THE COMPANY
+DESIRES TO KEEP UNDISCLOSED AND A COPY OF THE UNREDACTED  DOCUMENT WILL BE FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.]
+
+
+</TEXT>
+</DOCUMENT>

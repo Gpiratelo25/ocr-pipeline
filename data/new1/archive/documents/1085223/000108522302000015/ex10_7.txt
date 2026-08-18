@@ -1,0 +1,96 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>9
+<FILENAME>ex10_7.txt
+<DESCRIPTION>FIRST AMENDMENT TO AOL AGREEMENT
+<TEXT>
+                                                                    Exhibit 10.7
+                                                                    ------------
+
+                                  CONFIDENTIAL
+ FIRST AMENDMENT TO DIRECTORY AND LOCAL ADVERTISING PLATFORM SERVICES AGREEMENT
+
+     This First Amendment to the Directory and Local Advertising Platform
+Services Agreement (this "First Amendment"), effective as of November 16, 2001
+(the "Effective Date"), is made and entered into by and between America Online,
+Inc. ("America Online" or "AOL"), a Delaware corporation with its principal
+offices at 22000 AOL Way, Dulles, Virginia 20166 and Switchboard Incorporated
+("SB" and collectively with AOL, the "Parties"), a Delaware corporation, with
+its principal offices at 115 Flanders Road, Westboro, MA 01581. Defined terms
+that are used but not defined herein shall be as defined in the Directory and
+Local Advertising Platform Services Agreement between AOL and SB effective as of
+December 11, 2000 (the "Agreement").
+
+     WHEREAS, subject to the terms of this First Amendment, the Letter Agreement
+dated February 23, 2001, and the Agreement, AOL and SB each desire to allow AOL
+to have the right to sell certain flights of "Advertisements" (defined below)
+selected by Switchboard in its sole discretion for display on the SB Interactive
+Site; and
+
+IT IS THEREFORE AGREED AS FOLLOWS:
+
+1. The Parties hereby agree to amend the definition of "Directory
+   Advertisements" as follows:
+
+       a.  Insert the following sentence at the end of the current definition:
+
+           "For all purposes under this Agreement, including, but not limited
+           to, the revenue sharing provisions of Section 18.2, Directory
+           Advertisements shall include specific flights of Advertisements for
+           display on an SB Interactive Site to be sold by AOL. The Parties
+           shall work together to determine the amount and location of the
+           advertising inventory.
+
+       b.  Deleting from the third sentence the following language, and
+           re-lettering the remaining items accordingly:
+
+           "(b) standard banner advertisements, sponsorships or other standard
+           promotional placements or links sold or otherwise provided by AOL or
+           any AOL Affiliate (provided that such sale or provision shall be
+           subject to Section 18 hereof)".
+
+2. The Parties hereby agree to add the following definitions in alphabetical
+   order into Exhibit A:
+
+         "Advertisements" Any placement of promotions, advertisements, links,
+         pointers, sponsorships, content integration or similar services or
+         rights on pages, screens, and other segments or spaces on Web sites.
+
+         "Impressions" A user's exposure to an Advertisement.
+
+3.  Switchboard will provide weekly reports reasonably satisfactory to AOL,
+    specifying the number of impressions to the pages containing the relevant
+    Advertisements during the prior month.
+
+4.  This First Amendment is supplementary to and modifies the Agreement. The
+    terms of this First Amendment supersede provisions in the Agreement only to
+    the extent that the terms of this First Amendment and the Agreement
+    expressly conflict. However, nothing in this First Amendment should be
+    interpreted as invalidating the Agreement, and provisions of the Agreement
+    will continue to govern relations between the parties insofar as they do not
+    expressly conflict with this First Amendment.
+
+5.  This First Amendment may be executed in counterparts and by facsimile, each
+    of which shall be deemed an original and all of which together shall
+    constitute one and the same document.
+
+    IN WITNESS WHEREOF, the Parties hereto have executed this First Amendment to
+    be effective as of the date first written above.
+
+    AMERICA ONLINE, INC.                         SWITCHBOARD INCORPORATED
+
+    By:    /s/Steven E Rindner                   By:    /s/Dean Polnerow
+           -------------------                          ----------------
+    Name:  Steven E. Rindner                     Name:  Dean Polnerow
+           -----------------                            -------------
+    Title: VP, Business Affairs and Development  Title: President
+           ------------------------------------         ---------
+    Date:  12/10/01                              Date:  12/13/01
+           --------                                     --------
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

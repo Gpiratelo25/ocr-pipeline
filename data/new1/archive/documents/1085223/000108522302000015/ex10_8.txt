@@ -1,0 +1,834 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>10
+<FILENAME>ex10_8.txt
+<DESCRIPTION>SECOND AMENDMENT TO AOL AGREEMENT
+<TEXT>
+                                                                    Exhibit 10.8
+                                                                    ------------
+
+            Confidential Materials omitted and filed separately with
+                    the Securities and Exchange Commission.
+                           Asterisks denote omission.
+
+
+                                  CONFIDENTIAL
+ SECOND AMENDMENT TO DIRECTORY AND LOCAL ADVERTISING PLATFORM SERVICES AGREEMENT
+ -------------------------------------------------------------------------------
+
+     This Second Amendment to the Directory and Local Advertising Platform
+Services Agreement (this "Second Amendment"), effective as of April 25, 2002
+(the "Second Amendment Effective Date"), is made and entered into by and between
+America Online, Inc. ("America Online" or "AOL"), a Delaware corporation with
+its principal offices at 22000 AOL Way, Dulles, Virginia 20166 and Switchboard
+Incorporated ("SB" and collectively with AOL, the "Parties"), a Delaware
+corporation, with its principal offices at 120 Flanders Road, Westboro, MA
+01581. Defined terms that are used but not defined herein shall be as defined in
+the Directory and Local Advertising Platform Services Agreement between AOL and
+SB effective as of December 11, 2000 (the "Original Agreement"), as amended by
+that certain letter agreement dated February 23, 2001 (the "Letter Agreement")
+and that certain First Amendment to Directory Services and Local Advertising
+Platform Services Agreement, dated November 15, 2001 (the "First Amendment").
+
+     WHEREAS, subject to the terms of this Second Amendment, the First
+Amendment, the Letter Agreement, and the Original Agreement (collectively, the
+"Agreement"), for valuable consideration, the receipt and sufficiency of which
+are hereby acknowledged, the Parties hereby amend certain provisions of the
+Agreement as follows;
+
+     IT IS THEREFORE AGREED AS FOLLOWS:
+
+1.   The Letter Agreement provides that all references to "Exhibit K" are meant
+     to refer to be "Exhibit J." Such Letter Agreement shall remain in full
+     force and effect, but shall not apply to any references to the list of SB
+     Alternative Sales Forces attached as Exhibit K to this First Amendment.
+     Accordingly, subject to the terms and conditions of this Agreement
+     (including, without limitation, Section 10.1.5), AOL hereby approves the
+     use of the SB Alternative Sales Forces set forth on Exhibit K.
+
+2.   Section 10.1.2 of the Original Agreement provides, in part, that: "Upon the
+     prior written approval of AOL and upon terms to be mutually agreed upon by
+     the Parties in writing, SB shall have the right to select, direct and use
+     any internal or third party sales force to sell Directory Advertisements
+     for inclusion in the [**] Database and distribution through the YP Product
+     (any such AOL-approved sales force, `SB Alternative Sales Forces,' and
+     together with the AOL Alternative Sales Forces, collectively referred to
+     herein as the `Alternative Sales Forces')." In accordance with the
+     forgoing, the Parties agree to amend Section 10.1 of the Original Agreement
+     by deleting Section 10.1.5 in its entirety and replacing it with the
+     following, such that the following provisions shall apply to the SB
+     Alternative Sales Forces approved by AOL pursuant to this Second Amendment
+     and set forth in Exhibit K, and to any additional SB Alternative Sales
+     Forces that may be approved by AOL in the future in accordance with the
+     Agreement (which conditions for approval may be modified from time to time
+     by AOL in its reasonable discretion and upon prior notice to SB).
+
+
+     10.1.5   Additional Requirements for Alternative Sales Forces.
+              ----------------------------------------------------
+
+                                       1
+<PAGE>
+
+     (a)  Training. SB shall provide to AOL and the Alternative Sales Forces (as
+          --------
+          part of the Included SB Services) reasonable training necessary to
+          enable AOL and the Alternative Sales Forces to sell Directory
+          Advertisements and submit Directory Advertisements for insertion into
+          the YP Databases. Any such training period provided by SB shall
+          consist of the lesser of (i) [**] per year, or (ii) [**] per
+          Alternative Sales Force (the "Training Minimums"); provided, however,
+          that any training beyond the Training Minimums (as requested by AOL
+          (on its own behalf or on behalf of any AOL Alternative Sales Force))
+          shall not constitute part of the Included SB Services.
+
+     (b)  Supervision of SB Alternative Sales Forces.
+          ------------------------------------------
+
+          (i)  SB Project Manager. SB will appoint for the SB Alternative Sales
+               ------------------
+               Forces a qualified member of its staff to act as project manager
+               (the "SB Alternative Sales Force Manager"), whose duties shall be
+               to act as liaison between AOL and SB.
+
+          (ii) Independent Contractor, Employees and Facilities. As stated in
+               ------------------------------------------------
+               Section 15 of Exhibit I of the Agreement, SB is an independent
+               contractor, and neither SB, its employees or any SB Alternative
+               Sales Forces shall be considered employees of AOL. SB shall be
+               solely responsible for the acts or omissions of SB, its employees
+               and the SB Alternative Sales Forces in connection with their sale
+               of Directory Advertisements under this Agreement. SB shall
+               describe the relationship between SB and AOL to recipients only
+               in a manner expressly authorized by AOL in writing.
+
+     (c)  Sales Scripts for SB Alternative Sales Forces.
+          ---------------------------------------------
+
+          (i)  Development. AOL and SB shall jointly develop the sales scripts
+               -----------
+               (e.g., sales and other promotional materials or information for
+               calls, in person solicitations, mail solicitations, etc.,
+               collectively, the "Sales Scripts") to be used by the SB
+               Alternative Sales Forces in connection with the sale of the
+               Directory Advertisements. SB shall ensure that all Sales Scripts
+               comply with all applicable laws, rules, regulations and
+               ordinances, including without limitation, those relating to oral
+               and written disclosures, requesting permission to continue,
+               handling negative responses, and handling Do Not Contact Requests
+               (as that term is defined in Section 10.1.5(c)(iv) below).
+
+          (ii) Use. Except for Sales Script modifications necessary to comply
+               ---
+               with applicable laws, rules, regulations and ordinances, SB shall
+               use only the Sales Scripts approved in writing by AOL, and SB
+               shall instruct the SB Alternative Sales Forces not to deviate
+               from the Sales Scripts.
+
+          (iii)Monitoring. AOL reserves the right to monitor SB in a reasonable
+               ----------
+               manner to ensure compliance with the SB Alternative Sales Force
+               terms of this Agreement. Such monitoring may include visits to
+               SB's facilities, upon reasonable notice and during normal
+               business hours, review phone calls and review of SB documents and
+               records reasonably related to the sales services performed by SB
+               Alternative Sales Forces.
+
+          (iv) Do Not Contact Requests. As used herein, a "Do Not Contact
+               -----------------------
+               Request" is a request, whether written or oral, from a recipient
+
+
+                                       2
+<PAGE>
+
+               of a solicitation (whether written or oral) from any Alternative
+               Sales Forces in which a recipient asks that SB or AOL refrain
+               from contacting the recipient in the future and/or asks that the
+               recipient's name be added to a "Do Not Contact" list. Prior to
+               providing any list of prospective recipients to SB for use in the
+               sale of Directory Advertisements by SB Alternative Sales Forces,
+               AOL shall remove from such list the names and telephone numbers
+               of recipients that had previously given AOL a Do Not Contact
+               Request. Prior to conducting any Directory Advertisements sales
+               activity hereunder, SB shall remove from such lists the names and
+               telephone numbers of all recipients that had previously given SB
+               (expressly including SB Alternative Sales Forces) a Do Not
+               Contact Request. If during the course of contact done by SB, a
+               recipient makes a Do Not Contact Request, SB shall record the
+               name and telephone number of the recipient, and SB shall provide
+               AOL with a list of all such Do Not Contact Requests received when
+               performing sales activities performed in connection with the sale
+               of Directory Advertisements.
+
+     (d)  Terms and Conditions. The terms and conditions applicable to Directory
+          --------------------
+          Advertisements sold by SB Alternative Sales Forces shall be approved
+          by AOL in advance and in writing.
+
+
+
+3.   The Parties hereby agree to amend Section 10.1 by inserting a new Section
+     10.1.6 as follows:
+
+     10.1.6 Business Plan and Marketing and Sales Initiatives. AOL acknowledges
+            -------------------------------------------------
+     that in order to achieve the collective objectives of the Parties in
+     accordance with Section 13 of the Agreement, during the Term it will be
+     necessary for AOL to create and maintain a Directory Advertisement business
+     plan and to regularly initiate and execute certain Directory Advertisement
+     marketing and sales initiatives. The Parties hereby agree to the following
+     procedures relating to such initiatives:
+
+     (a) Business Plan. AOL shall solely create and maintain, and modify as
+         -------------
+     necessary, a business plan with respect to the promotion and sale of
+     Directory Advertisements (the "Business Plan") that, in AOL's sole but
+     reasonable discretion, will advance the collective objectives of the
+     Parties as set forth in this Agreement. AOL will share, in summary form,
+     such Business Plan with SB on a regular basis, but no less than [**]
+     annually in conjunction with a Steering Committee meeting as described in
+     Section 13 of the Agreement. AOL agrees to notify SB of material changes to
+     the Business Plan as promptly as commercially reasonable prior to the
+     implementation of such change (but in no event less than [**] prior to such
+     implementation, unless otherwise required by law).
+
+     (b) Marketing and Sales Initiatives. During the Term, AOL agrees to create
+         -------------------------------
+     and implement marketing and sales initiatives that, when viewed
+     collectively with other relevant factors, are consistent with the
+     objectives set forth in the Business Plan ("Marketing and Sales
+     Initiatives"), which Business Plan may be modified by AOL from time to time
+     in accordance with Section 10.1.6(a) above. Marketing and Sales Initiatives
+     for upcoming quarters shall be established no less than [**] prior to the
+     commencement of the quarter. Such Marketing and Sales Initiatives shall be
+     determined by AOL, in AOL's sole but reasonable discretion; however,
+     throughout the Term AOL agrees to provide SB with descriptions of proposed
+     Marketing and Sales Initiatives (which SB acknowledges are Confidential
+     Information of AOL), and to discuss and consider in good faith such
+     proposals for additional or alternative Marketing and Sales Initiatives as
+     may be made by SB. Such Marketing and Sales Initiatives shall include
+
+
+                                       3
+<PAGE>
+
+     quantitative metrics such as staffing levels, pricing, target audience
+     size, anticipated response rates, promotional placements, and/or similar
+     activities, to the extent that such metrics are contemplated as part of the
+     Business Plan. Descriptions of such Marketing and Sales Initiatives shall
+     be substantially in the form of, and shall include a similar level of
+     quantitative detail, as the Sample Marketing and Sales Initiative
+     Description set forth in Exhibit L attached hereto. Copies of such
+     descriptions of such Marketing and Sales Initiatives, and any material
+     modifications to the same, shall be provided by AOL to SB as available
+     during the Term, but not less than once per quarter. SB acknowledges that:
+     (i) AOL has provided to SB, and that SB has received and reviewed, the
+     Marketing and Sales Initiatives for the second quarter of the 2002, and
+     (ii) AOL has shared the 2002 Business Plan with SB, each prior to the
+     Second Amendment Effective Date.
+
+     (c) Alternative Marketing and Sales Initiatives. In the event that AOL is
+         -------------------------------------------
+     unable to continue to carry out one or more of the Marketing and Sales
+     Initiatives established for a particular quarter, then AOL shall use
+     commercially reasonable efforts to promptly create and implement
+     alternative initiatives that AOL reasonably expects to contribute to the
+     execution of the Business Plan in a similar manner as the discontinued
+     Marketing and Sales Initiatives.
+
+     (d) Review and Dispute Resolution. As described in Section 13, the Steering
+         -----------------------------
+     Committee shall review and evaluate the performance of Marketing and Sales
+     Initiatives for the prior quarter, and the then-current quarter as part of
+     its regular meeting agenda. The Steering Committee shall work to resolve
+     all differences between the parties including, but not limited to, whether
+     or not the Marketing and Sales Initiatives are being executed in a manner
+     substantially similar to their descriptions, and/or whether or not the
+     Marketing and Sales Initiatives, in the aggregate, are consistent with the
+     Business Plan. Disputes that are not resolved by the Steering Committee
+     shall be escalated as provided in the Agreement.
+
+     (e) Non-Performance. SB acknowledges and agrees that AOL cannot and does
+         ---------------
+     not represent that (i) the performance of such Directory Advertisement
+     Marketing and Sales Initiatives shall achieve any particular revenue
+     results, (ii) the Marketing and Sales Initiatives will be successful, or
+     (iii) the overall Business Plan will be successful.
+
+4.   (i) The Parties hereby agree to delete Section 11.1 in its entirety and
+     replace it with the following:
+
+     "All-In Services. As part of this Agreement, SB shall perform (at no cost
+      ---------------
+     to AOL): (i) the Included SB Services, and (ii) [**] Hours per month of
+     Engineering Hours work during each Year of the License Period (the
+     "[**]-Hour Threshold," and together with the Included SB Services,
+     collectively referred to herein as the "All-In Services"); provided,
+                                                                --------
+     however, that in any quarter during the Initial Term where SB does not
+     -------
+     receive at least [**] in Total Revenues (as defined below), AOL shall be
+     required to pay SB for any Engineering Hours work carried out by SB during
+     such quarter (that does not otherwise constitute Included SB Services) at
+     the rates set forth in Exhibit J to this Agreement. For purposes of this
+     Section 11.1 only, "Total Revenues" shall mean the sum of all (a) Directory
+     Advertisement Revenues, (b) Other Fees, (c) Engineering Fees, (d)
+     Consulting and Marketing Fees, and (e) any other revenues (in each case,
+     recognized and/or received by SB under this Agreement in any calendar
+     quarter).
+
+     (ii) The Parties hereby agree to delete Section 11.2.1(b) in its entirety
+     and replace it with the following:
+
+          (b) [**] to be paid each on the six, nine, twelve and fifteen-month
+          anniversaries of the Effective Date, and [**] to be paid in equal
+          monthly installments of [**] to be paid on the following dates:
+
+                                       4
+<PAGE>
+
+               (i)      April 11, 2002;
+               (ii)     May 10, 2002;
+               (iii)    June 11, 2002;
+               (iv)     July 11, 2002;
+               (v)      August 9, 2002; and
+               (vi)     September 11, 2002.
+
+5.   The Parties hereby agree to delete the last sentence of Section 13 in its
+     entirety and replace it with the following:
+
+          The Steering Committee shall meet during the first two (2) weeks of
+          each calendar quarter of the Term (or at such other time as mutually
+          agreed upon by the Parties) and shall, as part of the regular meeting
+          agenda, evaluate and review the Business Plan and Marketing and Sales
+          Initiatives as described in Section 10.1.6. The Steering Committee
+          shall use good faith efforts to resolve any disputes submitted to it
+          as promptly as possible (and in any event, in less than [**]). In
+          addition to the foregoing, during such quarterly meetings, the
+          Steering Committee shall further review and evaluate marketing and
+          other initiatives implemented by AOL during the prior quarter and to
+          be implemented by AOL during the then-current quarter. In addition,
+          AOL shall use good faith efforts to consider marketing and other
+          initiatives proposed by SB during such quarterly Steering Committee
+          meetings. For purposes of this Agreement, SB's Steering Committee
+          Representatives and AOL's Steering Committee Representatives shall be
+          those persons specified on Exhibit H hereto ("Initial Steering
+          Committee Reps"); provided, however, that either Party shall have the
+                            --------  -------
+          right to substitute other appropriate employees for such Initial
+          Steering Committee Reps (or their successors) upon reasonable advance
+          notice to the other Party (not less than 5 business days).
+
+6.   The Parties hereby agree to delete Section 18.1.2 and the first section
+     referenced as Section 18.1.3 of the Agreement in their entirety and replace
+     them with the following new Section 18.1.2 (with the understanding that the
+     Agreement currently contains two sections numbered as "Section 18.1.3", the
+     second reference of which shall remain in tact and unmodified by this
+     Second Amendment):
+
+     18.1.2 Fourteen Million Dollars (US $14,000,000.00) payable in [**]
+            installments of [**] on the following dates:
+
+               (a)      [**];
+               (b)      [**];
+               (c)      [**];
+               (d)      [**];
+               (e)      [**];
+               (f)      [**]; and
+               (g)      [**].
+
+               In addition to the foregoing, within [**] of the Second Amendment
+               Effective Date, SB also shall deposit [**] into an interest
+               bearing escrow account with an escrow agent to be mutually agreed
+               upon by the Parties ("Escrow Account") pursuant to an escrow
+               agreement substantially in the form of Exhibit M attached hereto
+                                                      ---------
+               ("Escrow Agreement") to be executed by the parties and the Escrow
+               Agent. The provisions of the Escrow Agreement shall include,
+               among other things, (i) the right of AOL, after written notice to
+
+
+                                       5
+<PAGE>
+
+               Switchboard and an opportunity by Switchboard to cure within 15
+               days, to instruct the Escrow Agent to pay to AOL out of the
+               principal balance of the Escrow Account ("Escrow Funds") an
+               amount equal to the respective unpaid payment or portion thereof,
+               in the event that SB fails to make any of the payments set forth
+               above in this Section 18.1.2, as scheduled and when owing, (ii) a
+               requirement that the full balance of the Escrow Account shall be
+               returned to SB on the sooner to occur of all of (x) except as
+               otherwise provided in Section 18.6.1(a)(i), 18.6.1(b)(i), or
+               18.6.2(a)(i) hereof, payment in full of all of the payments set
+               forth above in this Section 18.1.2 or (y) the expiration of this
+               Agreement (provided that SB shall have paid AOL all amounts due
+               and owing to AOL prior to the date of such expiration)or (z) on
+               the termination of this Agreement for any reason other than a
+               material breach by SB (provided that SB shall have paid AOL all
+               amounts due and owing to AOL prior to the date of such
+               termination), and (iii) a requirement that the interest on the
+               Escrow Funds shall accrue for the benefit of and be paid to SB.
+               In the event that AOL draws down on the principal amount of the
+               Escrow Funds in accordance with the foregoing, SB shall promptly
+               replenish the Escrow Funds in an amount necessary to return the
+               balance of the Escrowed Funds to Two Million Dollars
+               ($2,000,000); provided, however, that SB shall not be required to
+                             --------  -------
+               replenish the Escrow Amount more than once during the Initial
+               Term, meaning that in the event of a subsequent draw-down by AOL
+               of the principal balance of the Escrow Funds, no further
+               replenishment shall be required by Switchboard). SB shall bear
+               all costs and expenses associated with the establishment,
+               maintenance, and funding of the Escrow Account, including all
+               fees owing the Escrow Agent. In the event that AOL exercises such
+               right to draw down the principal balance of the Escrowed Funds,
+               then AOL shall have the right (but not the obligation) to
+               terminate the Agreement effective [**] following the date of such
+               election and/or to proceed to the Wind-Down Period in accordance
+               with Section 20.7 of the Agreement.
+
+7.   The Parties hereby agree to delete Section 18.2.5 of the Agreement in its
+     entirety and replace it with the following:
+
+     18.2.5 Sales Commissions.
+            -----------------
+
+          (a)  In instances where Directory Advertisements sold under the
+               Agreement are sold directly by AOL (or any of its employees,
+               agents or contractors), any sales commission related thereto
+               shall be [**]%, unless otherwise mutually agreed to by the
+               Parties in writing. To the extent Directory Advertisements are
+               sold by an Alternative Sales Force, such sales commissions
+               (including any sales commissions split with AOL) shall not in the
+               aggregate materially exceed the sales commissions customarily
+               paid within the industry for similar services (as determined by
+               AOL in its reasonable discretion) unless otherwise mutually
+               agreed to by the Parties in writing or required by applicable
+               law.
+
+          (b)  To the extent that AOL enters into any written agreements with a
+               third party (i.e., an AOL Alternative Sales Force) for the sale
+               of Directory Advertisements as described in Section 18.2.5(a)
+               above, and to the extent that SB believes in good faith that
+               commission payments directly related thereto materially exceed
+               the sales commissions customarily paid within the industry for
+               such services, SB may request from AOL, and AOL shall provide to
+               SB, an explanation of commission structures related to the sale
+               of Directory Advertisements; provided that any such explanation
+                                            --------
+               shall be subject to any applicable, then-current confidentiality
+
+
+                                       6
+<PAGE>
+
+               restrictions (e.g., as set forth in the Agreement). In the event
+               that the SB disputes the explanation provided to SB by AOL, then
+               such Dispute shall be subject to resolution by the Management
+               Committee in accordance with Section 1 of Exhibit H to the
+               Agreement. SB acknowledges that nothing in this provision shall
+               require AOL to breach any confidentiality obligation to any third
+               party.
+
+8.   The Parties hereby agree to delete Section 18.2.8 of the Agreement in its
+     entirety and replace it with the following:
+
+     18.2.8 Payment of Directory Advertisement Revenues.
+            -------------------------------------------
+
+          (a) Commencing with the Second Amendment Effective Date, and as
+          related to the receipt of cash payments for the sale of Directory
+          Advertisements sold by Alternative Sales Forces only, AOL shall pay to
+          SB applicable Directory Advertisement Revenues collected by AOL and
+          owed to SB on a monthly basis (as promptly as commercially reasonable
+          following each such month); provided, however, that if at any time
+                                      --------  -------
+          during the Term or the Wind-Down Period, AOL has a good faith belief
+          that the foregoing monthly payment structure will have a material
+          adverse impact on AOL, then AOL shall have the immediate right to
+          discontinue the monthly payment structure and to make quarterly
+          payments thereafter in accordance with Section 18.2.8(b) below;
+          provided further, that SB shall have the right to escalate the matter
+          -------- -------
+          to the Management Committee for further review and resolution.
+
+          (b) Except as provided in Section 18.2.8(a) above, AOL shall pay to SB
+          all Directory Advertisement Revenues collected or received by AOL and
+          owed to SB as described herein on a quarterly basis. AOL will use
+          commercially reasonable efforts to make such payments within [**] days
+          following the end of the quarter in which such amounts were generated,
+          but shall make such payments in no event later than [**] days
+          following the end of the quarter in which such amounts were generated.
+
+9.   The Parties hereby agree to delete Section 18.6.1 of the Agreement in its
+     entirety and replace it with the following:
+
+     18.6.1 [**] Look-Back.
+            --------------
+
+          In the event that, as of the [**] anniversary of the Effective Date,
+          Directory Advertising Revenues generated during the prior [**] period
+          are less than [**], then this Agreement shall terminate on the [**]
+          anniversary of the Effective Date and proceed to the Wind-Down Period
+          in accordance with Section 20.7 of this Agreement; provided, however,
+                                                             --------  -------
+          that either Party shall have the right to override such termination by
+          providing notice (no later than the [**] anniversary of the Effective
+          Date) to the other Party (which such notice shall be binding on both
+          Parties) of its intent to override such termination and by paying, no
+          later than the [**] anniversary of the Effective Date:
+
+          (i)  In the case of SB, [**] to AOL to extend the Agreement for an
+               additional [**] period, to be paid as follows: (x) [**] on the
+               effective date of the additional [**] period and (y) [**]
+               payments of [**], each due on the first business day of each
+               quarter thereafter until paid in full (collectively, the "Year
+               [**] SB Extension Payment"); provided that as of the effective
+                                            --------
+
+
+                                       7
+<PAGE>
+
+               date of such additional [**] period, SB shall also increase the
+               Escrow Funds deposited in the Escrow Account provided for in
+               Section 18.1.2 set forth above to [**] (collectively, the
+               "Renewal Term Escrow Funds"). In the event that SB fails to make
+               any subsequent quarterly Year [**]SB Extension Payment as
+               scheduled and when owing, AOL shall have the right, after written
+               notice to Switchboard (and an opportunity by Switchboard to cure
+               within [**] days following the due date for any such payment), to
+               instruct the Escrow Agent to pay to AOL out of the Renewal Term
+               Escrow Funds an the amount equal to the respective unpaid
+               quarterly payment or portion thereof. In the event that AOL draws
+               down on the principal amount of the Renewal Term Escrow Funds in
+               accordance with the foregoing, SB shall then replenish the
+               Renewal Term Escrow Funds with an additional [**]; provided,
+                                                                  --------
+               however, that SB shall not be required to replenish the Renewal
+               -------
+               Term Escrow Account as set forth in this Section 18.6.1(b)(i)
+               more than once during such additional [**] renewal term period,
+               meaning that in the event of a subsequent draw-down by AOL of the
+               principal amount of such Renewal Term Escrow Funds, no further
+               replenishment shall be required by SB). SB shall bear all costs
+               and expenses associated with the establishment, maintenance, and
+               funding of the Escrow Account, including all fees owing the
+               Escrow Agent. In the event that AOL exercises such right to
+               draw-down the principal balance of the Renewal Term Escrow Funds,
+               AOL shall have the right (but not the obligation) to terminate
+               this Agreement effective [**] days following the date of such
+               election and/or proceed to the Wind-Down Period in accordance
+               with Section 20.7 of this Agreement.
+
+          (ii) In the case of AOL, an amount equal to the difference between (x)
+               [**] minus (y) the share of the Directory Advertisement Revenues
+                    -----
+               earned by SB pursuant to Section 18.2 of the Agreement during the
+               prior [**] period plus any [**] paid by AOL to SB during such
+                                 ----
+               period, to be paid as follows: [**] of such amount on the
+               effective date of the additional [**] period and the remaining
+               [**] due [**] thereafter.
+
+          (iii) In the event SB elects to continue this Agreement in accordance
+               with this Section 18.6.1, the share of Directory Advertisement
+               Revenues (as set forth in Section 18.2 of the Agreement) shall be
+               shared in accordance with Section 18.2.1 of the Agreement until
+               such time as SB earns back an amount (when Directory
+               Advertisement Revenues earned by SB during such Year are added to
+               any [**] earned by SB during such Year) equal to the aggregate
+               Year [**] SB Extension Payment (collectively, the "Year [**]
+               Extension Payment Earn-Back"). Upon the completion of the Year
+               [**] Extension Payment Earn-Back, the Directory Advertisement
+               Revenue share shall be paid in accordance with Section 18.2.2 of
+               the Agreement.
+
+10.  The Parties hereby agree to delete Section 18.6.2 of the Agreement in its
+     entirety and replace it with the following:
+
+     18.6.2 [**] Look-Back.
+            --------------
+
+                                       8
+<PAGE>
+
+          (a)  In the event that, as of the [**] anniversary of the Effective
+               Date, Directory Advertising Revenues generated during the prior
+               [**] period, are less than [**], then this Agreement shall
+               terminate on the [**] anniversary of the Effective Date and
+               proceed to the Wind-Down Period in accordance with Section 20.7
+               of the Agreement; provided, however, that either Party shall have
+                                 --------  -------
+               the right to override such termination by providing notice (no
+               later than the [**] anniversary of the Effective Date) to the
+               other Party (which such notice shall be binding on both Parties)
+               of its intent to override such termination and by paying, no
+               later than the [**] of the Effective Date:
+
+               (i)  In the case of SB, [**] to AOL to extend the Agreement for
+                    an additional [**] period, to be paid as follows: (x) [**]
+                    on the effective date of the additional [**] period and (y)
+                    [**] payments of [**], each due on the first business day of
+                    each quarter thereafter until paid in full (collectively,
+                    the "Year [**]SB Extension Payment); provided that as of the
+                                                         --------
+                    effective date of such additional [**] period, SB shall,
+                    unless the same has already occurred in accordance with
+                    Section 18.6(b)(i) above, also increase the Renewal Term
+                    Escrow Funds deposited in the Escrow Account as set forth in
+                    Section 18.6.1(b)(i) above (i.e., to [**]). In the event
+                    that SB fails to make any subsequent quarterly Year [**] SB
+                    Extension Payment, AOL shall have the right, after written
+                    notice to Switchboard and an opportunity by Switchboard to
+                    cure within [**] days following the due date for such
+                    payment, to instruct the Escrow Agent to pay to AOL our of
+                    the Renewal Term Escrow Funds an amount equal to the
+                    respective unpaid quarterly payment or portion thereof. In
+                    the even that AOL draws down on the principal amount of the
+                    Renewal Term Escrow Funds in accordance with the foregoing,
+                    SB shall then replenish the Renewal Term Escrow Funds with
+                    an additional [**]; provided, however, that SB shall not be
+                                        --------  -------
+                    required to replenish the Renewal Term Escrow Funds as set
+                    forth in this Section 18.6.2(a)(i) more than once during
+                    such additional [**] renewal term period, meaning that in
+                    the event of a subsequent draw-down by AOL of the principal
+                    amount of such Renewal Term Escrow Funds, no further
+                    replenishment shall be required by Switchboard). SB shall
+                    bear all costs and expenses associated with the
+                    establishment, maintenance, and funding of the Escrow
+                    Account, including all fees owing the Escrow Agent. In the
+                    event that AOL exercises such right to draw down the
+                    principal balance of the Renewal Term Escrow Funds, AOL
+                    shall have the right (but not the obligation) to terminate
+                    this Agreement effective [**] following the date of such
+                    election proceed to the Wind-Down Period in accordance with
+                    Section 20.7 of the Agreement.
+
+               (ii) In the case of AOL, an amount equal to the difference
+                    between (x) [**] minus (y) the share of the Directory
+                                     -----
+                    Advertisement Revenues earned by SB pursuant to Section 18.2
+                    of the Agreement during the prior [**] period plus any [**]
+                    paid by AOL to SB during such period, to be paid as follows:
+                    [**] of such amount on the effective date of the additional
+                    [**] period and the remaining [**] due [**] thereafter .
+
+               (iii) In the event SB elects to continue this Agreement in
+                    accordance with this Section 18.6.2, the share of Directory
+
+
+                                       9
+<PAGE>
+
+                    Advertisement Revenues (as set forth in Section 18.2 of the
+                    Agreement) shall be shared in accordance with Section 18.2.1
+                    of the Agreement until such time as SB earns back an amount
+                    (when Directory Advertisement Revenues earned by SB during
+                    such Year are added to any Consulting and Marketing Fees
+                    earned by SB during such Year) equal to the Year [**] SB
+                    Extension Payment (collectively, the "Year [**] Extension
+                    Payment Earn-Back"). Upon the completion of the Year
+                    [**]Extension Payment Earn-Back, the Directory Advertisement
+                    Revenue share shall be paid in accordance with Section
+                    18.2.2 of the Agreement.
+
+11.  The Parties hereby agree to delete Section 20.1 of the Agreement in its
+     entirety and replace it with the following:
+
+     20.1 Term. Unless earlier terminated as set forth herein (including,
+          ----
+          without limitation, as set forth in Sections 18.6.1 or 18.6.2 hereof),
+          the initial term of this Agreement shall commence on the Effective
+          Date and end on December 11, 2005 (the "Initial Term"). To the extent
+          that the Parties mutually agree in writing to renew this Agreement
+          upon expiration of the Initial Term (each such renewal term, a
+          "Renewal Term"), the Renewal Term(s), together with the Initial Term,
+          shall be collectively referred to herein as the "Term."
+
+12.  The Parties hereby agree to amend Exhibit A of the Agreement by deleting
+     the definition of "Year" in its entirety and replacing it with the
+     following new definition:
+
+     Year. Each of the First Year, the Second Year, and (if applicable) the
+     ----
+           Third Year, the Fourth Year and the Fifth Year.
+
+13.  The Parties also hereby agree to amend Exhibit A of the Agreement by adding
+     the following definition of "Fifth Year":
+
+     Fifth Year. The period commencing on the day immediately following the
+     ----------
+     fourth anniversary of the Effective Date and ending on the fifth
+     anniversary of the Effective Date (if applicable).
+
+14.  New Exhibit H. The following new Exhibit H shall be added to this
+     -------------
+     Agreement, and shall read as follows:
+
+
+
+                                   "EXHIBIT H
+
+                       Steering Committee Representatives
+                       ----------------------------------
+
+
+           Sales Manager     Operations Manager        Executive (optional)
+           -------------     ------------------        --------------------
+
+     SB    Terry Romano      Jon Nofs                  Dean Polnerow
+
+     AOL   Richard Sloop     Brendan Benzing           Greg Rigdon
+
+15.  This Second Amendment is supplementary to and modifies the Agreement. The
+     terms of this Second Amendment supersede provisions in the Agreement only
+     to the extent that the terms of this Second Amendment and the Agreement
+
+
+                                       10
+<PAGE>
+
+     expressly conflict. However, nothing in this Second Amendment should be
+     interpreted as invalidating the Agreement, and provisions of the Agreement
+     will continue to govern relations between the Parties insofar as they do
+     not expressly conflict with this Second Amendment.
+
+16.  This Second Amendment may be executed in counterparts and by facsimile,
+     each of which shall be deemed an original and all of which together shall
+     constitute one and the same document.
+
+17.  In consideration of this Second Amendment, AOL hereby acknowledges and
+     agrees that all of its rights with respect to the purchase of the 24 Month
+     Shares as set forth in Section 5.1(a) (and with respect to the purchase of
+     the 36 Month Shares as set forth in Section 5.1(b)) of that certain Common
+     Stock and Warrant Purchase Agreement dated as of December 11, 2000 (the
+     "Stock Purchase Agreement") by and between the Parties, are hereby
+     terminated and of no further force and effect, in all respects. AOL agrees
+     to execute such confirmatory writing or writings with respect to such
+     termination of rights as Switchboard may reasonably require. In addition to
+     the foregoing, the Parties further amend the second to last sentence of
+     Section 8(a) of the Stock Purchase Agreement by deleting the fourth word
+     "upon" and replacing it with the word "after." Nothing in this Section 17
+     is intended to modify or amend the provisions with respect to the Closing
+     Shares, the Warrant and the Warrant Shares, as defined and provided in such
+     Stock Purchase Agreement or any other provisions (not specifically amended
+     above) of the Stock Purchase Agreement.
+
+
+
+                            [SIGNATURE PAGE FOLLOWS]
+
+                                       11
+<PAGE>
+
+
+         IN WITNESS WHEREOF, the Parties have caused this Second Amendment to
+Directory and Local Advertising Platform Services Agreement to be executed by
+their duly authorized representatives as of the Second Amendment Effective Date
+set forth above.
+
+
+      AMERICA ONLINE, INC.                   SWITCHBOARD INCORPORATED
+
+
+By:   /s/Ronald E. Grant               By:   /s/Dean Polnerow
+      ------------------------------         ------------------------------
+
+Name: Ronald E. Grant                  Name: Dean Polnerow
+      ------------------------------         ------------------------------
+
+Title:Senior Vice President            Title:President
+      ------------------------------         ------------------------------
+      Business Affairs & Development
+      ------------------------------
+
+Date: 4/25/02                          Date: 4/25/02
+      ------------------------------         ------------------------------
+
+                                       12
+<PAGE>
+
+
+                                    EXHIBIT K
+                                    ---------
+
+                           SB ALTERNATIVE SALES FORCES
+
+         [Intentionally blank as of the Second Amendment Effective Date]
+
+
+
+                                       13
+<PAGE>
+
+
+                                    EXHIBIT L
+                                    ---------
+
+                SAMPLE MARKETING AND SALES INITIATIVE DESCRIPTION
+                -------------------------------------------------
+
+NOTE: This is a sample for illustration purposes only, and does not represent an
+actual marketing and sales initiative
+
+                            Telemarketing Initiative
+                            ------------------------
+
+Initiative Overview
+-------------------
+
+Implementation of a telemarketing sales initiative, designed to sell AOL's IYP
+directory advertising units to local advertisers throughout the U.S. AOL plans
+to execute this initiative through the use of third party telemarketing
+agencies, starting with pilot programs where sales scripts can be refined, and
+then moving to a rapid ramp-up phase assuming a successful pilot program.
+
+Implementation Schedule:
+-----------------------
+
+To be launched during the first quarter of the 2002 calendar year
+
+     (a)  Pilot Plan:
+
+[**] initial pilot program with [**] third party telemarketing firms. Firms that
+are not successful will be replaced by alternative firms during the pilot
+period. Call centers to use lists of merchants who have purchased paper based
+Yellow pages display ads. Starting with [**] telemarketing phone agents ramping
+to [**] telemarketing phone agents by end of pilot period.
+
+Ramp-up Plan
+------------
+Continuing telemarketing in subsequent quarters with third party firms who are
+successful in the pilot. Ramp to [**] telemarketing phone agents during second
+quarter of operation if pilot program successful
+
+     (b)  Anticipated price point for offer
+
+[**] per month per customer, prepaid annual subscriptions
+
+Success metric
+--------------
+[**] sales per hour per telemarketing agent
+
+
+                                       14
+<PAGE>
+
+
+                                    EXHBIT M
+
+                            FORM OF ESCROW AGREEMENT
+                            ------------------------
+
+     TO BE ATTACHED IN MUTUALLY AGREED FORM WITHIN 10 DAYS AFTER THE SECOND
+                            AMENDMENT EFFECTIVE DATE
+
+
+                                       15
+
+</TEXT>
+</DOCUMENT>

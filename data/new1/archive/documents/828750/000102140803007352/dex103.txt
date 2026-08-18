@@ -1,0 +1,138 @@
+<DOCUMENT>
+<TYPE>EX-10.3
+<SEQUENCE>5
+<FILENAME>dex103.txt
+<DESCRIPTION>FOURTH AMENDMENT TO THE E-COMMERCE AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                    Exhibit 10.3
+
+Confidential Treatment has been requested with respect to portions of the
+agreement indicated with an asterisk [*]. A complete copy of this agreement,
+including the redacted terms, has been separately filed with the Securities and
+Exchange Commission.
+
+                    FOURTH AMENDMENT TO E-COMMERCE AGREEMENT
+
+     This Fourth Amendment to the E-Commerce Agreement dated as of August 10,
+2001, by and between GSI Commerce Solutions, Inc. ("GSI"), Bluelight.com, LLC
+(the "Company") and Kmart Corporation ("Kmart"), as amended by those certain
+Amendments dated December 14, 2001, August 9, 2002 and January 14, 2003
+(collectively, "the Agreement") is made as of March 7, 2003. All capitalized
+terms not specifically defined herein shall have the meaning ascribed to them in
+the Agreement.
+
+                                    RECITALS
+
+     WHEREAS, GSI, the Company and Kmart entered into the Agreement pursuant to
+which GSI operates the Company Site; and
+
+     WHEREAS, on January 22, 2002, Kmart and the Company and certain of their
+affiliates filed for bankruptcy protection in the United States Bankruptcy Court
+for the Northern District of Illinois Case No. 02-B02474 (jointly administered);
+and
+
+     WHEREAS, GSI, the Company and Kmart desire to enter into this Fourth
+Amendment to the Agreement in order to amend certain rights and obligations of
+the parties contained in the Agreement; and
+
+     NOW, THEREFORE, intending to be legally bound, and in consideration of the
+mutual obligations contained herein and in the Agreement, the Parties agree as
+to amend the Agreement as follows:
+
+     1.   Section 7.3 (ii) as amended by the Third Amendment is hereby deleted
+from the Agreement in its entirety and replaced with the following revised
+Section 7.3 (ii):
+
+          "(ii) [*]"
+
+     2.   Section 13.1 of the Agreement is hereby deleted from the Agreement in
+its entirety and replaced with the following revised Section 13.1:
+
+          "13.1 Term.
+
+<PAGE>
+
+          (a) Subject to the earlier termination rights of the Parties set forth
+     herein, the Term of this Agreement will commence on the Effective Date and,
+     unless extended or earlier terminated as provided in this Agreement, will
+     automatically expire on [*].
+
+          (b) Notwithstanding anything contained in this Agreement to the
+     contrary, [*]"
+
+     3.   In Section 13.6 (Post-Termination Process) of the Agreement the
+references to one-hundred and eighty (180) days in the third and sixth lines of
+Section 13.6 are deleted and changed to one-hundred and fifty (150) days.
+Additionally, the following two sentences are hereby added as the last two
+sentences of Section 13.6 of the Agreement:
+
+          "If the Company desires to have GSI continue to operate the Company
+     Site pursuant to this Section 13.6 after any termination or expiration of
+     this Agreement, then the Company shall give GSI at least thirty (30) days
+     written notice of such desire prior to the effective date of any such
+     termination or expiration of this Agreement. Additionally, in the event
+     that, during the post-termination period provided in this Section 13.6, the
+     Company desires that GSI cease operating the Company Site, the Company
+     shall give GSI written notice of such desire at least thirty (30) days
+     prior to the date that GSI shall cease operating the Company Site."
+
+     4.   Immediately following GSI's receipt of the Operational Fee payment due
+on March 7, 2003, each of the Parties will become current with respect to each
+party's payment obligations under the Agreement, including in the case of GSI,
+with respect to the Company Provided Merchandise Cost of Sales due to the
+Company pursuant to Section 7.10 of the Agreement.
+
+     5.   This Fourth Amendment is not intended, nor shall be construed, as an
+assumption of the Agreement, it being the intention of the parties that this
+Fourth Amendment merely modify the Agreement and not create a new postpetition
+contract. Kmart and the Company reserve all rights to assume or reject the
+Agreement, as modified by this Fourth Amendment. GSI reserves all rights under
+the Agreement as modified by this Fourth Amendment and applicable law.
+Notwithstanding, Kmart and the Company agree that they will place the Agreement,
+as amended on the list of contracts to be assumed as part of Kmart's Plan of
+Reorganization filed with the Bankruptcy Court.
+
+     6.   This Fourth Amendment may be executed in any number of counterparts,
+each of which when executed and delivered will be deemed an original, but all of
+which taken together will constitute one and the same document. This Fourth
+Amendment may be executed on a facsimile copy and such facsimile will be
+considered an original document when executed by the Parties.
+
+<PAGE>
+
+     7.   Except as specifically amended herein, the Agreement shall remain in
+full force and effect in accordance with its terms.
+
+     IN WITNESS WHEREOF, intending to be legally bound, each of the parties has
+caused their duly authorized representatives to enter into this Fourth Amendment
+on the date written above.
+
+GSI Commerce Solutions, Inc.                  Bluelight.com, LLC
+
+
+By:   /s/ Michael Conn                        By:   /s/ W. R. Ellis
+   -----------------------------------           -------------------------------
+
+Name:   Michael Conn                          Name:   W. R. Ellis
+     ---------------------------------             -----------------------------
+
+Title:  SVP                                   Title:  VP
+      --------------------------------              ----------------------------
+
+
+Kmart Corporation
+
+
+By:  /s/ Bill Underwood
+   -----------------------------------
+
+Name:    Bill Underwood
+     ---------------------------------
+
+Title:   EVP
+      --------------------------------
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,1001 @@
+<DOCUMENT>
+<TYPE>EX-10.30
+<SEQUENCE>3
+<FILENAME>dex1030.txt
+<DESCRIPTION>AMENDMENT NO. 1 TO COLLABORATIVE COMMERCIALIZATION AND LICENSE AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                   EXHIBIT 10.30
+
+                        Confidential Treatment Requested
+
+[*]  indicates deletion of confidential portions.
+
+
+                                 AMENDMENT NO. 1
+
+                                       To
+
+              Collaborative Commercialization and License Agreement
+
+                                     Between
+
+                       Catalytica Combustion Systems, Inc.
+
+                                       And
+
+                          Genxon Power Systems, L.L.C.
+
+                                       And
+
+                            General Electric Company
+
+--------------------------------------------------------------------------------
+
+     This Amendment No. 1 is entered into as of this 3 day of January, 2002 by
+and between General Electric Company, a corporation organized and existing under
+the laws of New York, having offices at 1 River Road, Schenectady, New York
+(hereinafter "GE"), and Catalytica Energy Systems, Inc., a corporation organized
+and existing under the laws of Delaware, having offices at 430 Ferguson Drive,
+Mountain View, California (hereinafter "CESI"), including its affiliate, Genxon
+Power Systems L.L.C., a Delaware limited liability company, also with offices at
+430 Ferguson Drive, Mountain View, California (hereinafter "GPS").
+
+     This Amendment No. 1 includes the following Exhibits: Exhibit A - Program
+Schedule and Milestones; and Exhibit D - Exceptions to the Exclusive Rights of
+Section 6.2.1.
+
+     WHEREAS, GE and GPS and Catalytica Combustion Systems, Inc., a corporation
+organized and existing under the laws of Delaware, having offices at 430
+Ferguson Drive, Mountain View, California (hereinafter "CCSI") entered into a
+Collaborative Commercialization and License Agreement ("CCLA") dated November
+19, 1998 under which they have cooperated in the area of catalytic combustion
+systems for gas turbines; and
+
+     WHEREAS, Catalytica Combustion Systems, Inc. (CCSI) was renamed Catalytica
+Energy Systems, Inc. (CESI) in October, 2000; and
+
+     WHEREAS, GPS, a joint venture between CESI and Woodward Governor Company
+("Woodward"), will be dissolved pursuant to a "Genxon Membership Transfer and
+Settlement Agreement," dated December 19, 2001 (hereinafter "Genxon Settlement
+Agreement") wherein all GPS rights and properties are transferred to CESI; and
+
+<PAGE>
+
+     WHEREAS, GE, GPS and CESI desire to update certain terms of the CCLA to
+reflect the parties' ongoing objectives with respect to developing and
+commercializing catalytic combustion systems for gas turbines; and
+
+     WHEREAS, GE, GPS and CESI each represents that it is fully authorized to
+deal generally with and to make this Amendment respecting the subject matter
+hereof.
+
+     NOW, THEREFORE, in consideration of the premises and the mutual covenants
+hereinafter contained, the parties hereto agree to amend the CCLA as follows:
+
+Each occurrence of "Catalytica Combustion Systems, Inc." and "CCSI" is hereby
+revised to read "Catalytica Energy Systems, Inc." and "CESI", respectively. Each
+occurrence of "XONON" is hereby revised to read "Xonon".
+
+
+                             Article 1 - Definitions
+
+          Section 1.1 is hereby revised to read as follows:
+
+1.1       "Additional Period" shall mean the time period commencing upon the
+          -------------------
+          date of expiration or earlier termination of the Incentive Term (as
+          such Incentive Term may be modified pursuant to Sections 6.2.2, 7.3,
+          or 7.5 below), and ending on the fifth (5th) anniversary of such
+          expiration date.
+
+          Section 1.9 is hereby revised to read as follows:
+
+1.9       "Commercialization Plan" shall mean a plan for the Commercialization
+          ------------------------
+          of the Products in a particular Market Segment during the
+          Commercialization Phase, including estimated funding amounts and dates
+          for certain milestones, as such plan may be modified pursuant to the
+          provisions of Section 5.1.3 below.
+
+          Section 1.13 is hereby revised to read as follows:
+
+1.13      "Development Funds" shall mean any amounts raised or expended by the
+          -------------------
+          parties under Article 4 below.
+
+          Section 1.14 is hereby revised to read as follows:
+
+1.14      "Development Workplan" shall mean the detailed work plan for the
+          ----------------------
+          technological development of the Products in a particular Market
+          Segment during the Technology Development Phase, which shall (i) be
+          based on the tollgate milestones identified in Exhibit A, (ii) include
+          a tollgate milestone schedule to be agreed upon by the parties, and
+          (iii) be modified or updated by the parties on at least an annual
+          basis by mutual agreement.
+
+          Section 1.17 is hereby revised to read as follows:
+
+1.17      "Gas Turbine(s)" shall mean gas turbines rated at [*] for industrial
+          ----------------
+          and power generation applications.
+
+                                      -2-
+
+<PAGE>
+
+          Section 1.20 is hereby revised to read as follows:
+
+1.20      "Incentive Term" shall mean:
+          ----------------
+
+          (1)  with respect to the Small Gas Turbine Market Segment, the term
+               beginning on the Effective Date (November 19, 1998) and ending on
+               the earlier of (a) three (3) years after the date that the first
+               Small Gas Turbine is shipped with a Xonon Combustion System, or
+               (b) three years after the date that the first Small Gas Turbine
+               is retrofit with a Xonon Combustion System;
+
+          (2)  with respect to the Large Gas Turbine Market Segment, the term
+               beginning on the Effective Date (November 19, 1998) and ending on
+               December 31, 2003; or, if a Market Segment Agreement is mutually
+               agreed upon, the term beginning on the Effective Date and ending
+               on the earlier of (a) three (3) years after the date that the
+               first Large Gas Turbine is shipped with a Xonon Combustion
+               System, or (b) three years after the date that the first Large
+               Gas Turbine is retrofit with a Xonon Combustion System;
+
+          (3)  with respect to the Syntroleum Market Segment, the period
+               commencing on the Effective Date (November 19, 1998) and ending
+               December 31, 2001;
+
+          (4)  with respect to all other Market Segments, the term beginning on
+               the date of execution of a Market Segment Agreement and ending on
+               the earlier of (a) three years after the date that the first Gas
+               Turbine in that Market Segment is shipped with a Xonon Combustion
+               System, or (b) three years after the date that the first Gas
+               Turbine in that Market Segment is retrofit with a Xonon
+               Combustion System.
+
+          The Incentive Term for any Market Segment is subject to extension and
+          reduction as provided in Sections 6.2.2, 7.3, and 7.5.
+
+          Section 1.23 is hereby revised to read as follows:
+
+1.23      "Market Segment" shall mean any one of the following: the Large Gas
+          ----------------
+          Turbine Market Segment, the Small Gas Turbine Market Segment, the
+          Syntroleum Market Segment, and any other mutually agreed upon market
+          segment as defined in a subsequent Market Segment Agreement.
+
+          Section 1.29 is hereby revised to read as follows:
+
+1.29      "Program Schedule and Milestones" shall mean a schedule for achieving
+          ---------------------------------
+          the development milestones ("GE Tollgates") identified in Exhibit A
+          leading up to and including the first Gas Turbine firing date at a
+          customer site for each Market Segment.
+
+                                       -3-
+
+<PAGE>
+
+          The following Sections are hereby deleted:
+
+          1.21 (Initial Term)
+          1.24 (Maximum GE Required Expenditures)
+          1.30 (7E Market Segment)
+          1.31 (7F Market Segment)
+          1.35 (Target Funding Amount)
+
+          The following Sections are hereby added:
+
+1.45      "Large Gas Turbine Market Segment" shall mean the worldwide market for
+          ----------------------------------
+          the Products for Gas Turbines having outputs at ISO conditions of [*],
+          including without limitation the GE Frame 7E and 7F Gas Turbines.
+
+1.46      "Small Gas Turbine Market Segment" shall mean the worldwide market for
+          ----------------------------------
+          the Products for Gas Turbines having outputs at ISO conditions of [*],
+          excluding aeroderivative Gas Turbines.
+
+
+                   Article 2 - Representations and Warranties
+
+          The following Sections 2.2.12, 2.3, 2.4, and 2.5 are hereby added:
+
+2.2.12    CESI has obtained, by assignment from Woodward, U.S. Patent No.
+          6,095,793 to Greeb and all foreign counterparts thereof, including
+          without limitation the worldwide right to grant licenses to make, use,
+          sell, offer for sale, and import products and to practice methods
+          covered by U.S. Patent No. 6,095,793 and foreign counterparts thereof.
+
+2.3       CESI hereby represents and warrants that, pursuant to the Genxon
+          Settlement Agreement, CESI has obtained sufficient rights to permit
+          CESI to perform all of its obligations under this Agreement, including
+          any and all licenses or grants of intellectual property rights to GE.
+
+2.4       CESI hereby represents and warrants that CESI (as opposed to Woodward)
+          has acquired all of the rights and obligations of GPS with respect to
+          the CCLA as a result of the Genxon Settlement Agreement.
+
+2.5       CESI hereby represents and warrants that CESI has the legal power to
+          extend the rights granted to GE in Section 6.2.1 and that it has not
+          made any commitments to others except as defined in Exhibit D,
+          concerning catalytic combustion systems for gas turbines rated [*] in
+          derogation of such rights.
+
+
+                      Article 3 - Commercialization Program
+
+          The following Section 3.0 is added to the beginning of Article 3,
+          before Section 3.1:
+
+3.0       The parties, by a written agreement ("Market Segment Agreement"), may
+          enter into a Commercialization Program for a particular Market
+          Segment. The Market Segment
+
+                                      -4-
+
+<PAGE>
+
+          Agreement will include (a) with respect to the Technology Development
+          Phase, a Program Schedule and Milestones, a development funding plan,
+          a Development Workplan to be updated annually, and Yearly Development
+          Budgets; (b) with respect to the Commercialization Phase, a
+          Commercialization Plan; and (c) with respect to a Market Segment not
+          defined in this Agreement, a definition of the Market Segment. The
+          Market Segment Agreement will define the scope of any and all
+          exceptions to the exclusive rights granted to GE in Section 6.2.1 for
+          the relevant Market Segment, and any and all exceptions to GE's
+          ability to purchase all of its requirements for catalytic combustion
+          systems for Gas Turbines in the relevant Market Segment from CESI
+          during the Incentive Term. If there are no such exceptions, GE and/or
+          CESI, as the case may be, will represent and warrant the same in the
+          Market Segment Agreement.
+
+          Section 3.1 is hereby revised to read as follows (subsections 3.1.1
+          through 3.1.5 remain unchanged):
+
+3.1       "Technology Development Phase". The first phase of the
+          ------------------------------
+          Commercialization Program shall be the Technology Development Phase,
+          during which GE and CESI will pursue the technological development of
+          the Products so as to enable their Commercialization. GE and CESI will
+          conduct their respective development efforts in accordance with the
+          Program Schedule and Milestones, the Development Workplan, and the
+          Yearly Development Budgets approved by the Management Committee, as
+          such Development Workplan and Yearly Development Budgets may be
+          modified by the Management Committee under Section 5.1.3 below.
+
+          Section 3.2 is hereby revised to read as follows:
+
+3.2       "Commercialization Phase". The second phase of the Commercialization
+          -------------------------
+          Program shall be the Commercialization Phase, during which GE and CESI
+          will jointly pursue the Commercialization of the Products as developed
+          during the Technology Development Phase. GE and CESI will conduct
+          their respective efforts in accordance with the Commercialization
+          Plan, as such Commercialization Plan may be modified by the Management
+          Committee under Section 5.1.3 below, Article 7, and any other relevant
+          terms of this Agreement.
+
+
+             Article 4 - Funding of the Technology Development Phase
+
+          Replace Section 4.1 with the following:
+
+          Funding for the Technology Development Phase for a Market Segment
+          defined subsequent to the execution of Amendment No. 1 to the CCLA
+          shall be agreed upon by the parties pursuant to the relevant Market
+          Segment Agreement during Tollgate 1 as depicted in Exhibit A. Funding
+          sources may include customer funding, government funding, funding by
+          GE and/or CESI, or a combination of the above.
+
+                                      -5-
+
+<PAGE>
+
+          The following Sections are hereby deleted:
+
+          4.2 (GE Required Expenditures)
+          4.3 (Failure to Obtain Target Funding)
+          4.4 (Funding Contributions by Customers of GE)
+
+
+            Article 6 - Contribution of Technology and License Rights
+
+          Section 6.1 is hereby revised to read as follows:
+
+6.1       Technology Transfer. Promptly following the Effective Date and
+          -------------------
+          thereafter as such information becomes available, GE and CESI each
+          shall disclose to the other party all Technical Information in its
+          possession that is relevant to the Commercialization Program, to the
+          extent deemed necessary by the disclosing party, in its reasonable
+          discretion, to enable the other party to perform its obligations and
+          to conduct its activities contemplated by this Agreement. GE shall not
+          be obligated to disclose any information to CESI concerning, without
+          limitation, the fuel/air mixer package or the preburner. CESI shall
+          not be obligated to disclose any Technical Information to GE
+          concerning the Xonon Module.
+
+          Section 6.2.1 is hereby revised to read as follows:
+
+6.2.1     License under CESI Technology. As partial consideration for GE's
+          -----------------------------
+          contribution to the Commercialization Program, CESI hereby grants to
+          GE for the term of this Agreement a paid up, worldwide license under
+          all CESI Technology:
+
+          (a)  to purchase and import the Products from CESI for application to
+               Gas Turbines and the Syntroleum Mod 2 Process, and
+
+          (b)  to use, sell, offer to sell, and import the Products for Gas
+               Turbines and the Syntroleum Mod 2 Process.
+
+          The license granted in this Section 6.2.1 shall be exclusive with
+          respect to a Market Segment during the Incentive Term of such Market
+          Segment and subject to (i) CESI's reservation, during the Incentive
+          Term, of the right and license under the CESI Technology only to
+          conduct Pre-Commercial Activities with Third Parties relating to
+          catalytic combustion equipment for Third Party Gas Turbines, (ii) with
+          respect to exclusivity, GE purchasing all of its requirements for
+          catalytic combustion systems for Gas Turbines in a particular Market
+          Segment from CESI during the Incentive Term of any license rights
+          granted under this Section 6.2.1, and (iii) with respect to
+          exclusivity, those exceptions to the exclusive rights granted to GE in
+          this Section 6.2.1 which are defined in a Market Segment Agreement or
+          in Exhibit D to this Agreement (for the Small Gas Turbine, Large Gas
+          Turbine, and Syntroleum Market Segments). As used in this Agreement,
+          the term "catalytic combustion system" means a gas turbine combustion
+          system that employs a catalyst upstream of the turbine inlet and
+          integrated with the combustion process and shall not include SCR,
+          SNCR, SCONOx or other catalytic devices employed in pollution
+          clean-up.
+
+                                      -6-
+
+<PAGE>
+
+          Section 6.2.2 is hereby revised to read as follows:
+
+6.2.2     For all periods other than the Incentive Term, the license granted in
+          section 6.2.1 shall be exclusive only with respect to GE-designed Gas
+          Turbines so that CESI can, itself or through its licensees, sell and
+          offer to sell the Products to Third Parties for non GE-designed Gas
+          Turbine applications under the CESI Technology.
+
+          GE may, in its sole discretion (after giving due regard to CESI's
+          concerns), elect to terminate the Incentive Term for a particular
+          Market Segment prior to its expiration date by written notice to CESI
+          setting forth such expiration date, and in such event, the length of
+          the Additional Period shall be increased on an equivalent basis to
+          compensate GE for any such reduction in the Incentive Term (such that
+          the Additional Period shall commence on the date of termination of the
+          Incentive Term and expire on the same date it would have expired if
+          the Incentive Term (including any modifications pursuant to Sections
+          7.3 and 7.5) had not been terminated early). In addition, in a timely
+          fashion after the Effective Date, or from time to time thereafter as
+          appropriate, CESI and GE shall consider in good faith other
+          modifications of the Incentive Term, including elimination of all or
+          any part of the Incentive Term in exchange for appropriate
+          compensating expansions of the Additional Period and a reconsideration
+          of the continuing existence or structure of Section 8.1 hereof.
+
+          As partial consideration for the rights being granted back to CESI
+          under this Section 6.2.2., GE shall receive either (a) a fixed payment
+          in an amount to be mutually agreed upon by CESI and GE or (b) the
+          right during the Additional Period to purchase the Products from CESI
+          or its licensees [*]. CESI shall, at its sole option, elect which
+          consideration GE shall receive, either (a) or (b) specified above, at
+          least 60 days prior to the end of the Incentive Term for a particular
+          Market Segment and, if CESI elects option (a) and the parties agree on
+          the amount of the payment, shall pay GE the mutually agreed upon
+          amount in full by wire transfer upon the expiration of the Incentive
+          Term; otherwise, CESI shall elect option (b). The grant back of rights
+          to CESI shall not be effective until payment under option (a) is
+          received by GE or until CESI notifies GE in writing that it elects to
+          compensate GE under option (b) set forth in this Section 6.2.2.
+
+          If there is no [*] at any time after the Incentive Term has terminated
+          (due to the lack of any sales by CESI or a CESI licensee to a Third
+          Party), [*], as defined in Section 7.2.1, shall apply.
+
+          The following Section 6.2.6 is hereby added:
+
+6.2.6     CESI hereby grants to GE a nonexclusive, worldwide, royalty-free
+          license to make, use, sell, offer for sale, and import products and to
+          practice methods covered by CESI's U.S. Patent 6,095,793 and foreign
+          counterparts thereof in connection with Gas Turbines rated at [*] MW
+          at ISO conditions and Gas Turbines rated at [*] at ISO conditions
+          including without limitation the GE 10 Gas Turbine. CESI agrees to
+          grant GE a royalty free license under the aforementioned U.S. Patent
+          6,095,793 and foreign counterparts thereof for any Market Segment
+          which is the subject of a Commercialization Program between GE and
+          CESI.
+
+                                      -7-
+
+<PAGE>
+
+                         Article 7 - Commercialization
+
+          The first sentence in Article 7 is hereby revised to read as follows:
+
+          The Commercialization of the Products for a particular Market Segment
+          shall be subject to the Commercialization Plan for that Market Segment
+          and the provisions of this Article 7.
+
+          Section 7.1 is hereby revised to read as follows:
+
+7.1       Supply Agreement. For a particular Market Segment, during the
+          ----------------
+          Incentive Term, CESI shall supply all of GE's requirements for the
+          Products for incorporation into Gas Turbines, provided that CESI can
+          meet GE's quality, quantity and schedule requirements, pursuant to the
+          Purchase Terms and Conditions set forth in Exhibit C. During this
+          period, GE reserves the right to engage in activities with Third
+          Parties regarding catalytic combustion systems for use on any GE gas
+          turbine, provided CESI shall have the right to treat any sale, field
+          test, or accepted written offer to sell by GE of Third Party catalytic
+          combustion systems for Gas Turbines during the Incentive Term as a
+          material breach of this Agreement with respect to the relevant Market
+          Segment, triggering CESI's rights under Sections 8.1, 13.1.3, and 13.3
+          hereof. The purchase or otherwise obtaining of catalyst modules by GE
+          from Third Parties for the purpose of evaluation and testing (other
+          than field testing) shall not be a breach of this Agreement. The sale
+          by GE of a Third Party catalytic combustion system in a particular
+          Market Segment outside of the Incentive Term or for a gas turbine not
+          included in a Market Segment shall not be a breach of this Agreement.
+
+          Section 7.2.2 is hereby revised to read as follows:
+
+7.2.2     In any event and as further consideration for GE's contribution to the
+          Commercialization Program, to the extent GE procures all of its
+          requirements for Gas Turbine catalytic combustion systems in a
+          particular Market Segment from CESI, GE may purchase the Products at
+          [*], with the exception of GE procurement during the Additional Period
+          during which period Article 6 shall control pricing.
+
+          Section 7.3 is hereby revised to read as follows:
+
+7.3       Extension of the Incentive Term. In the event that the Target
+          -------------------------------
+          Percentage (defined below) or more of the Gas Turbines shipped or in
+          production by GE in the last year of the Incentive Term in a
+          particular Market Segment include a Xonon Module, or have associated
+          therewith an order for a Xonon Module, or result in an order for a
+          Xonon Module, then the Incentive Term shall be extended by one (1)
+          year. The Target Percentage shall be [*] for the first extension, [*]
+          for the second extension, [*] for the third extension, [*] for the
+          fourth extension, [*] for the fifth extension, and [*] for the sixth
+          and all subsequent extensions. In calculating such percentages, the
+          total number of Gas Turbines shipped or in production during such time
+          period (i.e., the last year of the Incentive Term) shall not include
+          Gas Turbines for which the customer does not require a NOx reduction
+          system, such as a Selective Catalyst Reduction Unit (SCR) or a Xonon
+          Combustion System or an equivalent NOx reduction system. For the
+          purpose of this Section 7.3 only, a Gas Turbine
+
+                                      -8-
+
+<PAGE>
+
+          shall be considered "shipped" when it leaves the factory and "in
+          production" from the date of the order definition meeting (in which
+          the scope of supply is defined with the customer) until the date of
+          shipment. For the purpose of this Section 7.3 only, an "order" for a
+          Xonon Module means a commitment in writing to purchase a Xonon Module.
+
+          With respect to each Market Segment in the Incentive Term, GE shall
+          use its best efforts to keep books and records accurately showing all
+          shipment and production by GE of Gas Turbines which include a Xonon
+          module, or have associated therewith a Xonon module, or result in an
+          order for a Xonon module in such manner as to enable GE to determine
+          whether GE is entitled to an extension of the Incentive Term as set
+          forth in this Section 7.3. Such books and records shall be subject to
+          inspection by an independent auditor acceptable to GE at reasonable
+          times, but not more frequently than once every twelve months, for the
+          purpose of verifying GE's entitlement to an extension of the Incentive
+          Term. The fees and expenses of the auditor performing such an
+          examination shall be borne by CESI. GE shall notify CESI in writing of
+          GE's entitlement to an extension of the Incentive Term at least 14
+          days prior to the beginning of such extension.
+
+          Section 7.4 is hereby deleted.
+
+          Section 7.5 is hereby revised to read as follows:
+
+7.5       Reduction of the Incentive Term.
+          -------------------------------
+
+7.5.1     If GE fails, through no fault of CESI, to meet the target date for
+          first shipment or retrofit of a Gas Turbine in a particular Market
+          Segment as set forth in Sections 7.5.2 or 7.5.3 of this Agreement or
+          in a Market Segment Agreement, then the Incentive Term for that Market
+          Segment shall be reduced as follows:
+<TABLE>
+<CAPTION>
+
+               Delay in Meeting
+                 Target Date              Reduction in Incentive Term
+          ----------------------------    ---------------------------
+          <S>                             <C>
+          1 - 182 Days                    One day reduction for each day that GE is late
+                                          in meeting the target date.
+
+          183 - 365 Days                  1 year reduction plus one day reduction for each
+                                          day that GE is late in meeting target date + 182
+                                          Days.
+
+          Over 365 Days                   2 year reduction plus one day reduction for each
+                                          day that GE is late in meeting the target date +
+                                          365 Days.
+</TABLE>
+
+7.5.2     The target date for first shipment or retrofit for the Small Gas
+          Turbine Market Segment is [*], which date can be modified only by
+          mutual agreement of the parties.
+
+                                      -9-
+
+<PAGE>
+
+7.5.3     The target date for first shipment or retrofit for the Large Gas
+          Turbine Market Segment is [*], which date can be modified only by
+          mutual agreement of the parties.
+
+          Example: GE's first shipment of a Small Gas Turbine occurs June 30,
+          2003, [*] days after the target date of [*]. The Incentive Term is
+          defined in Section 1.20(1) to end June 30, 2006, three years after
+          actual shipment. The Incentive Term is reduced by 1 year plus 1 day
+          for each day after May 31, 2003 (target date + 182 Days), i.e., a
+          reduction of 1 year + 30 days. The reduced Incentive Term therefore
+          ends May 31, 2005.
+
+          If the target dates for first shipment or retrofit are not met because
+          of CESI's fault, or if CESI is unable to commit to the deliveries
+          contemplated by Section 7.3 in quantities that would extend the
+          Incentive Term due to Xonon Module technical, quality or delivery
+          reasons, then GE and CESI will consider in good faith a revised
+          schedule for extension of the Incentive Term that would provide GE
+          with the benefits contemplated in Section 7.3.
+
+          Section 7.6 is hereby deleted.
+
+          The following Section 7.8 is hereby added:
+
+7.8       CESI guarantees that all Xonon Modules sold to GE will perform
+          satisfactorily in accordance with the Xonon Module product
+          specifications for at least 8000 operating hours. Xonon Modules which
+          fail to operate satisfactorily for at least 8000 operating hours will
+          be replaced by CESI on a pro-rata basis, including freight.
+
+
+                              Article 8 - Royalties
+
+          Section 8.1 is hereby revised to read as follows:
+
+8.1       Royalties Upon Certain Terminations. In the event of a termination of
+          -----------------------------------
+          this Agreement by CESI under Section 13.1 or 13.2, including, in each
+          case, any termination by individual Market Segment under Section 13.6,
+          and subject to any surviving terms of this Agreement, if GE elects
+          thereafter to continue to sell and offer to sell Products to
+          customers, with respect to any such Market Segment, then CESI shall
+          grant to GE a non-exclusive, royalty-bearing, irrevocable, worldwide
+          license under CESI's Commercialization Program Technology, CESI's
+          Background Technology, the Xonon Control Algorithms, and CESI's U.S.
+          Patent 6,095,793 and foreign counterparts thereof to sell and offer to
+          sell Products and to sublicense Xonon Control Algorithms, and GE shall
+          pay to CESI fees and royalties with respect to such Market Segment,
+          payable in the form of (a) a one-time fee in the amount set forth
+          below or set forth in a subsequent Market Segment Agreement, payable
+          upon the first sale of a gas turbine incorporating such Product in
+          such Market Segment; and (b) a royalty in the amount set forth below
+          or set forth in a subsequent Market Segment Agreement for each
+          subsequent sale of a gas turbine incorporating such Product until the
+          Royalty Cap is achieved, at which time GE's License shall be fully
+          paid up, irrevocable, perpetual and worldwide. The royalties set forth
+          in Sections 6.2.4 and 6.2.5 are payable only for sales of
+
+                                      -10-
+
+<PAGE>
+
+          Gas Turbines made during the life of this Agreement and, after
+          termination, are not payable in addition to the royalties set forth in
+          this Section 8.1.
+<TABLE>
+<CAPTION>
+<S>                                <C>                    <C>                      <C>
+          ------------------------ ---------------------- ------------------------ ----------------------
+          Market Segment           Royalty Cap            One-Time Fee             Royalty Per Sale
+          ------------------------ ---------------------- ------------------------ ----------------------
+          Large Gas Turbine        [*]                    [*]                      [*]
+          ------------------------ ---------------------- ------------------------ ----------------------
+          Syntroleum               [*]                    [*]                      [*]
+          ------------------------ ---------------------- ------------------------ ----------------------
+          Small Gas Turbine        [*]                    [*]                      [*]
+          ------------------------ ---------------------- ------------------------ ----------------------
+</TABLE>
+
+
+                                    Article 10 - Confidentiality
+
+          The following Section 10.4 is hereby added:
+
+10.4      CESI shall not disassemble, measure, analyze, or otherwise reverse
+          engineer any fuel/air mixer package or preburner which is designed,
+          modified, or manufactured in whole or in part by or on behalf of GE
+          for GE designed gas turbines. CESI shall not modify its fuel/air mixer
+          package or preburner design based on the design of a fuel/air mixer
+          package or preburner which is designed, modified, or manufactured in
+          whole or in part by or on behalf of GE for GE designed gas turbines.
+          CESI retains the right to independently develop, modify, or improve
+          the fuel/air mixer package or pre-burner provided that such
+          developments, modifications, and improvements are based on CESI
+          Technology.
+
+
+                    Article 12 - Technology and Patent Rights
+
+          Section 12.3.1 is hereby revised to read as follows:
+
+12.3.1    GE License. In the event GE exchanges Technical Information comprising
+          ----------
+          improvements and/or modifications to the Xonon Module during the
+          period of ten (10) years following the Effective Date of this
+          Agreement and/or if GE conceives, by means of GE employees who had
+          access to CESI Technology, any invention comprising an improvement or
+          modification to the Xonon Module, then GE shall grant to CESI a
+          non-exclusive royalty-free, perpetual, world-wide, irrevocable license
+          (with unrestricted rights to sublicense) to make, have made, use,
+          sell, lease, and/or export Products under both the aforesaid Technical
+          Information and any Patents which result from the aforesaid
+          inventions; said non-exclusive license being restricted in
+          field-of-use to Products for gas turbines employing catalytic
+          combustion, other than aircraft gas turbines. GE is not obligated to
+          grant any license to CESI under any GE Patents or Technical
+          Information relating to the fuel/air mixer package, the preburner, or
+          any combustor hardware components (other than the Xonon Module as set
+          forth in this Section 12.3.1).
+
+
+                            Article 13 - Termination
+
+          Section 13.2 is hereby revised to read as follows:
+
+13.2      Termination Without Cause. Either party shall have the unilateral
+          -------------------------
+          right to terminate this Agreement by giving written notice to the
+          other party, upon the terminating party's written
+
+                                      -11-
+
+<PAGE>
+
+          notice to the other party of significant technical issues which
+          indicate that the technical objectives of the Commercialization
+          Program are not achievable or cannot be achieved within the timetable
+          established in the Development Workplan or any extension thereof
+          agreed to by the parties; with GE having the right to terminate only
+          if the technical issues relate to the Xonon Module or Xonon
+          Components, and CESI having the right to terminate only if the
+          technical issues relate to the GE Components.
+
+          Section 13.3 is hereby revised to read as follows:
+
+13.3      Consequences of Termination -- CESI Not in Default. In the event this
+          --------------------------------------------------
+          Agreement is terminated by GE under section 13.2, or by CESI under
+          Section 13.1: (a) CESI shall have no obligation to make improvements
+          to the Xonon Combustion System available to GE beyond those developed
+          in the Commercialization Program prior to such termination; (b) GE's
+          exclusive licenses under CESI Technology pursuant to Section 6.2.1
+          shall be limited to GE-designed Gas Turbines, (c) GE's right to [*]
+          under Article 6 shall be extinguished, (d) GE's rights to [*], rights
+          to purchase and sole distribution rights under Article 7 shall all
+          terminate, and (e) if GE elects to pursue its options under Section
+          8.1, GE shall pay CESI the predetermined royalty or fee as provided
+          therein.
+
+          Sub-Section (a) of Section 13.4 is hereby revised to read as follows:
+
+          (a) GE's licenses pursuant to Article 6 shall continue in effect and
+          CESI shall promptly arrange with GE for a Third Party source of supply
+          (as a vendor to CESI) of the Xonon Combustion System using the
+          procedure set forth in Section 7.7 above which assures GE of a
+          continuing and uninterrupted source of supply for the Xonon Modules
+          and/or Xonon Components, and
+
+          Section 13.5 is hereby revised to read as follows:
+
+13.5      Effect of Termination. Termination of this Agreement shall not relieve
+          ---------------------
+          the parties of any obligation accruing prior to such termination. The
+          provisions of Sections 6.2.6, 7.8, 9.1, 9.2 and this 13.5, and
+          Articles 10 [Confidentiality], 11 [Publication], 12 [Technology and
+          Patent Rights] and 14 [Indemnity], in addition to those rights and
+          obligations specifically noted in Section 13.3 or 13.4, to the extent
+          applicable, shall survive the termination of this Agreement. Each
+          party shall bear its own termination costs. There will be no
+          liquidated damages.
+
+Except as provided above, all other provisions of the CCLA remain unchanged and
+said CCLA as amended by this Amendment No. 1 constitutes the entire
+understanding between GE, CESI, and GPS with respect to the subject matter
+thereof and supersedes all previous negotiations, commitments and writings with
+respect thereto.
+
+                                      -12-
+
+<PAGE>
+
+IN WITNESS WHEREOF, each of the parties has caused this Amendment No. 1 to be
+executed in three (3) original copies by its duly authorized officers or
+representatives and to become effective upon the last date of signature below.
+
+
+General Electric Company                Catalytica Energy Systems, Inc.
+GE Power Systems
+
+By                                      By
+        -----------------------------           --------------------------------
+
+
+Title                                   Title
+        -----------------------------           --------------------------------
+
+
+Witness                                 Witness
+        -----------------------------           --------------------------------
+
+
+Date                                    Date
+        -----------------------------           --------------------------------
+
+
+
+                                        Genxon Power Systems LLC
+
+
+                                        By
+                                                --------------------------------
+
+
+                                        Title
+                                                --------------------------------
+
+
+                                        Witness
+                                                --------------------------------
+
+
+                                        Date
+                                                --------------------------------
+
+                                      -13-
+
+<PAGE>
+
+                     EXHIBIT A [replaces Exhibit A in CCLA]
+                         Program Schedule and Milestones
+
+                  NPI Tollgate Completion Status and NPI Risk
+<TABLE>
+<CAPTION>
+
+       Tollgate 1                      Tollgate 2                         Tollgate 3                        Tollgate 4
+    PRODUCT OPTIONS                 REQUIREMENT &                         CONCEPTUAL
+     IDENTIFICATION                    RESOURCES                            DESIGN                      PRELIMINARY DESIGN
+<S>                             <C>                               <C>                               <C>
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+  Define Market Driver          Factor SI Feedback In Plan             Launch Program                   Expand POS to Feature
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+  *       000                     *       200                       *       300                       *       400
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+
+
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+  Define Program Team            Define Funct/Tech Req'ts          Initiate Eng/Prod Process          Perform Program Reviews
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+  *       100                     *       210a                      *       310                       *       405
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+
+
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+Define Cust. Expectations         Define Services Req'ts             Perform DFSS Studies             Define/Record Interfaces
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+  *       120                     *       210b                      *       320                       *       410
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+
+
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+Establish Business Goals          Generate Prel. Approach         Establish Detailed Schedule           Perform Risk Reviews
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+  *       130                     *       220                       *       330                       *       415
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+
+
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+Develop Product Concepts          Conduct Patent Search            Hold Concept Risk Review           Define Block Introduction
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+  *       131                     *       225                       *       340                       *       420
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+
+
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+   Assess Technology              Perform Product Assess.          Conduct Interface Reviews          DFSS Projects Identified
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+  *       132                     *       230                       *       350                       *       430
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+
+
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+Evaluate Business Impact          Revalidate Customer QPD           Perform Legal Reviews             Create Test Plan Req'ts
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+  *       140                     *       240                       *       360                       *       440
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+
+
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+  Perform Risk Review              Finalize Best Option              Prepare Design Review             Perform Concept Demo's
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+  *       145                     *       245                       *       370                       *       445
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+
+
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+  Scope Project Req'ts           Establish Resource Req'ts            Hold Design Review              Develop Schedule & Budget
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+  *       150                     *       250                       *       380                       *       450
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+
+
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+   Hold Pre-SI Review              Set Subsystem CTQ's            Define Prod. Quoting Limits            Hold Design Review
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+  *       199                     *       260                       *       385                       *       460
+-------------------------       ---------------------------       ---------------------------       ----------------------------
+
+
+                                ---------------------------       ---------------------------       ----------------------------
+                                   Finalize Product Spec             Finalize Cycle Deck              Hold Product Spec Review
+                                ---------------------------       ---------------------------       ----------------------------
+                                  *       265                       *       387                       *       470
+                                ---------------------------       ---------------------------       ----------------------------
+
+
+                                ---------------------------       ---------------------------       ----------------------------
+                                   Hold Pre-SII Review               Hold Tollgate Review             Develop Introduction Plan
+                                ---------------------------       ---------------------------       ----------------------------
+                                  *       270                       *       390                       *       480
+                                ---------------------------       ---------------------------       ----------------------------
+
+
+                                ---------------------------       ---------------------------       ----------------------------
+                                   Finalize Program Plans         Decision to Develop Product       Hold Prelim. Tollgate Review
+                                ---------------------------       ---------------------------       ----------------------------
+
+
+
+<CAPTION>
+
+
+
+        Tollgate 5                       Tollgate 6                          Tollgate 7
+                                        PRODUCTION &
+      DETAILED DESIGN                DESIGN VALIDATION                     POST SHIPMENT
+<C>                               <C>                                <C>
+---------------------------       ----------------------------       ----------------------------
+   Update Program Plan               Refine Teams, Schedules             Update Program Status
+---------------------------       ----------------------------       ----------------------------
+  *       500                       *       600                        *       700
+---------------------------       ----------------------------       ----------------------------
+
+
+---------------------------       ----------------------------       ----------------------------
+  Complete Component Test           Procure/Manufact H'dware                Ship Units(s)
+---------------------------       ----------------------------       ----------------------------
+  *       510                       *       610a                       *       705
+---------------------------       ----------------------------       ----------------------------
+
+
+---------------------------       ----------------------------       ----------------------------
+Complete Design Activities          Build/Validate Subassy            Perform Pre-Install Review
+---------------------------       ----------------------------       ----------------------------
+  *       520                       *       510b                       *       710
+---------------------------       ----------------------------       ----------------------------
+
+
+---------------------------       ----------------------------       ----------------------------
+  Complete Documentation          Build, Test & Validate Unit        Perform Post-Install Review
+---------------------------       ----------------------------       ----------------------------
+  *       530                       *       620                        *       720
+---------------------------       ----------------------------       ----------------------------
+
+
+---------------------------       ----------------------------       ----------------------------
+ Develop System Test Plan         Complete Product Validation          Document Lessons Learned
+---------------------------       ----------------------------       ----------------------------
+  *       540                       *       630a                       *       730
+---------------------------       ----------------------------       ----------------------------
+
+
+---------------------------       ----------------------------       ----------------------------
+ Complete Production Plan           Conduct Problem Reviews              Conduct Product Test
+---------------------------       ----------------------------       ----------------------------
+  *       550                       *       630b                       *       740
+---------------------------       ----------------------------       ----------------------------
+
+
+---------------------------       ----------------------------       ----------------------------
+ Hold Final Design Review         Verify Status for Field Ship       Complete Product Validation
+---------------------------       ----------------------------       ----------------------------
+  *       560                       *       640                       *       750
+---------------------------       ----------------------------      ----------------------------
+
+
+---------------------------       ----------------------------      ----------------------------
+ Conduct Final Patent Revw         Prepare for Customer Test          Conduct Problem Reviews
+---------------------------       ----------------------------      ----------------------------
+  *       570                       *       650                       *       760
+---------------------------       ----------------------------      ----------------------------
+
+
+---------------------------       ----------------------------      ----------------------------
+ Predict Design Performance          Hold Tollgate 6 Review            Update Business Plans
+---------------------------       ----------------------------      ----------------------------
+  *       580                       *       699                       *       770
+---------------------------       ----------------------------      ----------------------------
+
+
+---------------------------                                         ----------------------------
+   Update Risk Review                                               Conduct Post-Install Review
+---------------------------       ----------------------------      ----------------------------
+  *       590                       Completion Status Key             *       780
+---------------------------       ----------------------------      ----------------------------
+                                  /   Done
+
+---------------------------       +   Partially Complete            ----------------------------
+ Update Introduction Plan                                            Integrate Lessons Learned
+---------------------------       *   No Progress                   ----------------------------
+  *       585                     ----------------------------        *       790
+---------------------------                                         ----------------------------
+                                  X   Change Since Last Review
+
+---------------------------       ----------------------------      ----------------------------
+  Hold Tollgate 5 Review                NPI Risk Key                   Hold Tollgate 7 Review
+---------------------------                                         ----------------------------
+  *       599                                                         *       799
+---------------------------                                         ----------------------------
+
+</TABLE>
+
+                                      -14-
+
+<PAGE>
+
+                                    Exhibit B
+                             Commercialization Plan
+
+Exhibit B is hereby deleted.
+
+                                      -15-
+
+<PAGE>
+
+                                    Exhibit D
+                 Exceptions to Exclusive Rights of Section 6.2.1
+
+[*]
+
+                                      -16-
+
+</TEXT>
+</DOCUMENT>

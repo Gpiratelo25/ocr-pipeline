@@ -1,0 +1,88 @@
+<DOCUMENT>
+<TYPE>EX-10.31
+<SEQUENCE>2
+<FILENAME>d86943ex10-31.txt
+<DESCRIPTION>MANUFACTURING AGREEMENT
+<TEXT>
+
+<PAGE>   1
+                                                                   EXHIBIT 10.31
+
+                                    AMENDMENT
+
+Notwithstanding anything to the contrary contained in the Startek Pacific, Inc.
+Manufacturing Agreement (the "Agreement") dated January 1, 1998 between Startek
+Pacific, Ltd. ("Startek") and Mentor Media Ltd. ("Mentor"); the parties agree to
+amend the Agreement as follows:
+
+     1.   Startek agrees that Mentor may, at any time during or after the
+          Agreement, enter into any agreements directly with Microsoft
+          Corporation ("Microsoft") to provide manufacturing and other services
+          (such as Licensing and Programs) for any business other than Full
+          Packaged Product covered under the Agreement. However, such
+          restriction on the Full Packaged Product shall not apply upon
+          termination of the Agreement and Mentor shall then be entitled to
+          contract with Microsoft directly to manufacture or conduct any other
+          business with Microsoft.
+
+     2.   Startek agrees that Mentor may communicate directly with Microsoft in
+          Mentor's capacity as a subcontractor to Startek under the Agreement on
+          such issues as assembly process improvements and pricing.
+
+     3.   Startek and Mentor agree that the termination date of the contract
+          will be extended from June 30, 2001 to December 31, 2001.
+
+     4.   It is agreed that pricing may be negotiated at Microsoft's option with
+          either Startek or Mentor. In those cases where Microsoft negotiates a
+          price directly with Mentor, Startek will acquire such product from
+          Mentor and resell such product to Microsoft in amounts to be agreed
+          upon between Startek and Mentor.
+
+     5.   Clauses 2(c), 2(f), 4 (b), 8, 10(c) and 10(e) of the Agreement shall
+          not restrict Mentor from directly contracting with and communicating
+          with Microsoft pursuant to paragraphs 1 and 2 above and Mentor shall
+          not be considered to have breached the Agreement for so contracting
+          and communicating directly with Microsoft.
+
+     6.   This agreement shall be effective January 1, 2001.
+
+
+STARTEK PACIFIC, LTD.
+
+/s/ E. Preston Sumner, Jr.
+-------------------------------------
+By
+
+E. Preston Sumner, Jr.
+-------------------------------------
+Name
+
+Chief Operating Officer
+-------------------------------------
+Title
+
+April 19, 2001
+-------------------------------------
+Date
+
+MENTOR MEDIA LTD.
+
+/s/ Wong Yat Foo
+-------------------------------------
+By
+
+Wong Yat Foo
+-------------------------------------
+Name
+
+MD
+-------------------------------------
+Title
+
+April 23, 2001
+-------------------------------------
+Date
+
+
+</TEXT>
+</DOCUMENT>

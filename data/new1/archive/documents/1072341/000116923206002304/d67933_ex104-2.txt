@@ -1,0 +1,84 @@
+<DOCUMENT>
+<TYPE>EX-10.4.2
+<SEQUENCE>8
+<FILENAME>d67933_ex104-2.txt
+<DESCRIPTION>AMENDED NO 1 TO CONTRACT NUMBER GSS0210100
+<TEXT>
+                                                                  Exhibit 10.4.2
+
+                  AMENDMENT No 1 TO CONTRACT Number GSS0210100
+                           (Digital Channel Platform)
+
+            This  Amendment (the  "Amendment")  is made as of the 7th day of May
+2004 ("Effective Date").
+
+      WHEREAS, Playboy Entertainment Group, Inc. and Loral SpaceCom Corporation,
+d/b/a  Loral  Skynet  ("Loral")  executed  an  agreement  for the  creation  and
+marketing to potential  customers,  a multi-channel video and audio transmission
+service,  including video compression,  uplink, and satellite capacity effective
+as of 4 February 2003 (the "Agreement");
+
+      WHEREAS,  Intelsat LLC, a company organized and existing under the laws of
+Delaware,  acquired  the  assets  of Loral  effective  17 March  2004,  and,  in
+connection  with that  acquisition,  the  Agreement was assigned to Intelsat USA
+Sales Corp.  ("Intelsat"),  a company also organized and existing under the laws
+of Delaware  effective on the same date,  and CUSTOMER has validly  consented to
+said assignment;
+
+      WHEREAS Telstar 7 has been renamed Intelsat Americas 7 (IA-7);
+
+      WHEREAS  Section 11.1 of the Agreement  provides that the Initial Term (as
+defined in the Agreement)  shall continue for a period of five (5) years,  until
+February 3, 2008, and CUSTOMER and Intelsat now desire to extend such term;
+
+      NOW THEREFORE,  in  consideration of the promises herein exchanged and for
+other good and valuable  consideration  the receipt and  sufficiency of which is
+hereby acknowledged,  the Parties agree to amend the Terms and Conditions to the
+Agreement as described below:
+
+A.    All terms not otherwise  defined herein shall have the meaning ascribed to
+      them in the Agreement.
+
+B.    All references to Skynet are replaced with  "Intelsat," and all references
+      to Telstar 7 are replaced with IA-7.
+
+C.    The  Initial  Term of  service  under  Section  11.1 of the  Agreement  is
+      extended until 31 January 2013.
+
+D.    Section 7(ii) of the Agreement is deleted and replaced with:
+
+      If to Intelsat:  Director, Contracts
+                       Intelsat
+                       3400 International Drive NW
+                       Washington, D.C. 20008
+                       Tel: 202 944 7200
+
+      With a copy to:  General Counsel
+
+<PAGE>
+
+            Except as herein  amended,  all other  provisions  of the  Agreement
+shall remain in full force and effect.  In the event of any conflict between the
+terms of this Amendment and those of the Agreement,  the terms of this Amendment
+shall  supersede  those of the  Agreement and  exclusively  govern the matter in
+question.
+
+            IN WITNESS WHEREOF, the Parties hereto have executed or caused to be
+executed this Amendment as of the Effective Date first written above.
+
+INTELSAT USA SALES CORP.
+
+BY: /s/ Stephen Spengler
+    -----------------------------------
+        Stephen Spengler
+        Director and President
+
+
+PLAYBOY ENTERTAINMENT GROUP, INC.
+
+BY: /s/ Alexandra Atkins Shepard
+    -----------------------------------
+        Alexandra Atkins Shepard
+        Senior Vice President
+</TEXT>
+</DOCUMENT>

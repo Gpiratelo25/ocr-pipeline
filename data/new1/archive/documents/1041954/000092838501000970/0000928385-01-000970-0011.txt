@@ -1,0 +1,1457 @@
+<DOCUMENT>
+<TYPE>EX-10.49.2
+<SEQUENCE>11
+<FILENAME>0011.txt
+<DESCRIPTION>1ST AMEND TO INTERCONNECTION AGREEMENT
+<TEXT>
+
+<PAGE>
+
+                                                                 Exhibit 10.49.2
+
+                               FIRST AMENDMENT
+                                      TO
+                     THE INTERCONNECTION AGREEMENT BETWEEN
+                    ITC/\DELTACOM COMMUNICATIONS, INC. AND
+                      BELLSOUTH TELECOMMUNICATIONS, INC.
+                              DATED JUNE 5, 2000
+
+        Pursuant to this Amendment (the "Amendment"), ITC/\DeltaCom
+Communications, Inc. (ITC/\DeltaCom) and BellSouth Telecommunications, Inc.
+("BellSouth") hereinafter referred to as the "Parties", hereby agree to amend
+the Interconnection Agreement between the Parties ("Interconnection Agreement").
+
+        NOW, THEREFORE, in consideration of the mutual provisions contained
+herein and other good and valuable consideration, the receipt and sufficiency of
+which are hereby acknowledged, the Parties hereby covenant and agree as follows:
+
+
+        1.      Table 1 of Attachment 11 of the Interconnetion Agreement is
+hereby deleted in its entirety and replaced with the attached Exhibit A. The
+rates contained in Exhibit A shall be effective as of June 5, 2000, the
+effective date of the Interconnection Agreement.
+
+        2.      All of the other provisions of the Interconnection Agreement
+dated June 5, 2000 shall remain unchanged and in full force and effect until the
+expiration date.
+
+        3.      Either or both of the Parties is authorized to submit this
+Amendment to the appropriate regulatory agencies for approval subject to Section
+252(e) of the Federal Telecommunications Act of 1996.
+
+        IN WITNESS WHEREOF, the Parties hereto have caused this Amendment to be
+executed by their respective duly authorized representatives on the date
+indicated below.
+
+        ITC/\DeltaCom Communications, Inc.    BellSouth Telecommunications, Inc.
+
+
+        By: /s/ Rodney N. Hyatt               By: /s/ Jerry D. Hendrix
+           ------------------------------        -------------------------------
+                Signature                               Signature
+
+        Name: Rodney                          Name: Jerry D. Hendrix
+             ----------------------------          -----------------------------
+
+
+        Title: Vice President - Legal         Title: Senior Director
+              ---------------------------           ----------------------------
+
+        Date:  8/16/00                        Date:  8/21/00
+             ----------------------------          -----------------------------
+
+
+<PAGE>
+
+                                                                       Exhibit A
+                                                                   Attachment 11
+                                                                         Table 1
+
+                          Rates for Network Elements
+                          --------------------------
+<TABLE>
+<CAPTION>
+DESCRIPTION                                                                            USOC     NC
+-----------                                                                           -----   ------
+<S>                                                                                   <C>     <C>
+   NlDs
+   NID (all types), per month                                                         UNDAX   $  0.52
+   Installation of 2-Wire/4 Wire CLEC NID                                             UNDAX
+         NRC - 1st                                                                    UNDAX   NA
+         NRC - Add'l                                                                  UNCAX   NA
+   NID to NID Cross Connect, 2-Wire or 4-Wire, NRC                                    UNDC2   NA
+   NID p 2-Wire Analog VG Loop, Per Month                                             UNDAX   $  1 01
+         NRC - 1st                                                                    UNDAX   $  1.42
+         NRC - Add'l                                                                  UNDAX   $  I.42
+         NRC - Incremental Charge - Manual Service Order - 1st                        SOMAN   $ 26.94
+         NRC - Incremental Charge - Manual Service Order - Add'l                      SOMAN   $ 12.76
+         NRC - Incremental Charge - Manual Service Order - Disconnect                 SOMAN   NA
+   NID per 4-Wire Analog VG Loop, Per Month                                           UNDAX   $  1.14
+         NRC - 1st                                                                    UNDAX   $  1.42
+         NRC - Add'l                                                                  UNDAX   $  1.42
+         NRC - Incremental Charge - Manual Service Order - 1st                        SOMAN   $ 26.94
+         NRC - Incremental Charge - Manual Service Order - Add'l                      SOMAN   $ 12.76
+         NRC - Incremental Charge - Manual Service Order - Disconnect                 SOMAN   NA
+   NID per 2-Wire ISDN Digital VG Loop, Per Month                                     UNDAX   $  1.01
+         NRC - 1st                                                                    UNDAX   $  1.42
+         NRC - Add'l                                                                  UNDAX   $  1.42
+         NRC - Incremental Charge - Manual Service Order - 1st                        SOMAN   $ 26.94
+         NRC - Incremental Charge - Manual Service Order - Add'l                      SOMAN   $ 12.76
+         NRC - Incremental Charge - Manual Service Order - Disconnect                 SOMAN   NA
+   NID per 2-Wire Asymmetrical Dig Subscriber Line (ADSL) Loop, Per Mo.               UNDAX   $  1.01
+         NRC-1st                                                                      UNDAX   $  1 42
+         NRC - Add'l                                                                  UNOAX   $  1.42
+         NRC - Incremental Charge - Manual Service Order - 1st                        SOMAN   $ 26.94
+         NRC - Incremental Charge - Manual Service Order - Add'l                      SOMAN   $ 12.76
+         NRC - Incremental Charge - Manual Service Order - Disconnect                 SOMAN   NA
+   NID per 2-Wire High Bit Rate Dig Subscriber Line (HDSL) Loop                       UNDAX     51.01
+         NRC - 1st                                                                    UNDAX   $  1.42
+         NRC - Add'l                                                                  UNDAX   $  1.42
+         NRC - Incremental Charge - Manual Service Order - 1st                        SOMAN   $ 26.94
+         NRC - Incremental Charge - Manual Service Order - Add')                      SCMAN   $ 12.76
+         NRC - Incremental Charge - Manual Service Order - Disconnect                 SOMAN   NA
+   NID per 4-Wire High Bit Rate, Dig Subscriber Line (HDSL) Loop                      UNDAX   $  1.14
+         NRC - 1st                                                                    UNDAX   $  1.42
+         NRC - Add'l                                                                  UNDAX   $  1.42
+         NRC - Incremental Charge - Manual Service Order - 1st                        SOMAN   $ 26.94
+         NRC - Incremental Charge - Manual Service Order - Add'l                      SOMAN   $ 12.76
+         NRC - Incremental Charge - Manual Service Order - Disconnect                 SOMAN   NA
+   NID per 4-Wlre 56 Kbps Dig Grade Loop                                              UNDAX   $  1.14
+         NRC - 1st                                                                    UNDAX   $  1.42
+         NRC - Add'l                                                                  UNDAX   $  1.42
+         NRC - Incremental Charge - Manual Service Order - 1st                        SOMAN   $ 26.94
+         NRC - Incremental Charge - Manual Service Order - Add'l                      SOMAN   $ 12.76
+         NRC - Incremental Charge - Manual Service Order -.Disconnect                 SOMAN   NA
+   NID per 4-Wire 64 Kbps Dig Grade Loop                                              UNDAX   $  1.14
+         NRC - 1st                                                                    UNDAX   $  1.42-
+         NRC - Add'l                                                                  UNDAX   $  1.42
+         NRC - Incremental Charge - Manual Svc Ord - 1st                              SOMAN   $ 26.94
+         NRC - Incremental Charge - Manual Svc Ord - Add'I                            SOMAN   $ 12.76
+         NRC - Incremental Charge - Manual Svc Ord - Disconnect                       SOMAN   NA
+   Nonrecurring Cha go - customer transfer, feature additions, changes (1)                    NA
+   LOOP, EXCLUDING NID
+   2-Wire Analog VG Loop (Standard), per month                                        TBO     NA
+         NRC - 1st                                                                            NA
+         NRC - Add'l                                                                          NA
+   2-Wire G Loop (Customized), per month                                              TBD     NA
+         NRC - 1st                                                                            NA
+         NRC - Add'l                                                                          NA
+   4-Wire Loop (Standard), per month                                                  TBD     NA
+         NRC - 1st                                                                            NA
+         NRC - Add'l                                                                          NA
+   2-Wire ISDN Digital Grade Loop (Standard), per month                               TBD     NA
+         NRC - 1st                                                                            NA
+         NRC - Add'l                                                                          NA
+   2-Wire ADS Loop (Standard), per month                                              TBD     NA
+         NRC - 1st                                                                            NA
+         NRC - Add'l                                                                          NA
+
+</TABLE>
+                                 Page 1 of 13
+<PAGE>
+
+                                                                       Exhibit A
+                                                                   Attachment 11
+                                                                         Table 1
+
+                          Rates for Network Elements
+                          --------------------------
+<TABLE>
+<CAPTION>
+DESCRIPTION                                                                            USOC     NC
+-----------                                                                           -----   ------
+<S>                                                                                   <C>     <C>
+   2-Wire HDSL Loop (Standard), per month                                             TBD     NA
+         NRC - 1st                                                                            NA
+         NRC - Add'i                                                                          NA
+   4-Wire HOSL Loop (Standard), per month                                             TBD     NA
+         NRC - 1st                                                                            NA
+         NRC - Add'l                                                                          NA
+   LOOP INCLUDING NID
+   2-Wire Analog VG Loop-SL1, per month                                               UEAL2   $ 15.88
+         NRC - 1st                                                                    UEAL2   $ 57.99
+         NRC - Add'l                                                                  UEAL2   $ 42.37
+         NRC - Disconnect Charge - 1st                                                UEAL2   NA
+         NRC - Disconnect Charge - Add'l                                              UEAL2   NA
+         NRC - incremental Charge - Manual Service Order - 1st                        SOMAN   $ 26.94
+         NRC - incremental Charge - Manual Service Order - Add'I                      SOMAN   $ 12.76
+         NRC - Incremental Charge - Manual Service Order - Disconnect                 SOMAN   NA
+         NRC - Loop Make-Up                                                           UEANM   TBD
+   2-Wire Analog VG Loop-31.2, per month                                              UEAL2   $ 19.50
+         NRC - 1st                                                                    UEAL2   $142.97
+         NRC - Add']                                                                  UEAL2   $106.56
+         NRC - Disconnect Charge - 1st                                                UEAL2   NA
+         NRC - Disconnect Charge - Add'l                                              UEAL2   NA
+         NRC - Incremental Charge - Service Order - 1st                               SOMAN   $ 26.94
+         NRC - Incremental Charge - Manual Service Order - Add'l                      SOMAN   $ 12.76
+         NRC - Incremental Charge  - Manual Service Order - Disconnect                SOMAN   NA
+         NRC - Incremental Charge - Order Coordination - Time Specific (per order)    OCOSL   $ 45.34
+   4-Wire Analog VG Loop, per month                                                   UEAL4   $ 27.49
+         NRC - 1st                                                                    UEAL4   $288 47
+         NRC - Add'l                                                                  UEAL4   $237.45
+         NRC - Disconnect Charge - 1st                                                UEAL4   NA
+         NRC - Disconnect Charge - Add'l                                              UEAL4   NA
+         NRC - Incremental Charge - Manual Service Order - 1st                        SOMAN   $ 26.94
+         NRC - Incremental Charge - Manual Service Order - Add'l                      SOMAN   $ 12.76
+         NRC - incremental Charge - Manual Service Order - Disconnect                 SOMAN   NA
+         NRC - Incremental Charge - Order Coordination - Time Specific (per order)    OCOSL   $ 45.34
+   2-Wire ISDN Digital Grade Loop, per month                                          U1L2X   $ 24.98
+         NRC - 1st                                                                    U1L2X   $325.91
+         NRC - Add'l                                                                  U1L2X   $251.31
+         NRC - Disconnect Charge - 1st                                                U1L2X   NA
+         NRC - Disconnect Charge - Add'I                                              U1L2X   NA
+         NRC - Incremental Charge - Manual Service Order - 1st                        SOMAN   $ 26.94
+         NRC - Incremental Charge - Manual Service Order - Add'l                      SOMAN   $ 12.76
+         NRC - Incremental Charge - Manual Service Order - Disconnect                 SOMAN   NA
+         NRC - Incremental Charge - Order Coordination - Time Specific (per order)    OCOSL   $ 45.34
+   2-Wire Asymmetrical Dig Subscriber Line (ADSL) Compatible Loop, per month          UAL2X   $  1460
+         NRC - 1st                                                                    UAL2X   $504.90
+         NRC - Add'l                                                                  UAL2X   $456.17
+         NRC - Disconnect Charge - 1st                                                UAL2X   NA
+         NRC - Disconnect Charge - Add'l                                              SOMAN   NA
+         NRC - Incremental Charge - Manual Service Order - 1st                        SOMAN   $ 26.94
+         NRC - Incremental Charge - Manual Service Order - Add'l                      SOMAN   S 12.76
+         NRC - Incremental Charge - Manual Service Order - Disconnect                 SOMAN   NA
+         NRC - Incremental Charge - Order Coordination - Time Specific (per order)    OCOSL   $ 45.34
+   2-Wire High Bit Rate Dig Subscriber Line (HDSL) Compatible Loop, per month         UHL2X   $ 11.98
+         NRC - 1st                                                                    UHL2X   $504.90
+         NRC - Add'i                                                                  UHL2X   $456.17
+         NRC - Disconnect Charge - 1st                                                UHL2X   NA
+         NRC - Disconnect Charge - Add'l                                              UHL2X   NA
+         NRC - incremental Charge - Manual Service Order - 1st                        SOMAN   $ 26.94
+         NRC - Incremental Charge - Manual Service Order - Add'l                      SOMAN   $ 12.76
+         NRC - Incremental Charge - Manual Service Order - Disconnect                 SOMAN   NA
+         NRC - Incremental Charge - Order Coordination - Time Specific per order)     OCOSL   $ 45.34
+   4-Wire High Bit Rate Dig Subscriber Line (HDSL) Compatible Loop, per month         UHLI4X  $ 13.97
+         NRC - 1st                                                                    UHL4X   $531.35
+         NRC - Add'l                                                                  UHL4X   $482.62
+         NRC - Disconnect Charge - 1st                                                UHL4X   NA
+         NRC - Disconnect Charge - Add'I                                              UHL4X   NA
+         NRC - Incremental Charge - Manual Service Order - 1st                        SOMAN   $ 26.94
+         NRC - Incremental Charge - Manual Service Order - Add'l                      SOMAN   $ 12.76
+         NRC - Incremental Charge - Manual Service Order - Disconnect                 SOMAN   NA
+         NRC - Incremental Charge - Order Coordination - Time Specific (per order)    OCOSL   $ 45.34
+</TABLE>
+
+                                 Page 2 of 13
+<PAGE>
+
+                                                                       Exhibit A
+                                                                   Attachment 11
+                                                                         Table 1
+
+                           Rates for Network Elements
+                           --------------------------
+<TABLE>
+<CAPTION>
+DESCRIPTION                                                                                       USOC             NC
+-----------                                                                                      ---------        -----
+<S>                                                                                             <C>              <C>
+ 4-Wire HDSL Loop (Standard), per month                                                           UHL4X             NA
+  NRC - 1st                                                                                       UHL4X             NA
+  NRC - Add'i                                                                                     UHL4X             NA
+  NRC - Incremental Charge - Order Coordination - Time Specific (per order)                       OCOSL             NA
+ 4-Wire DS1 Digital Loop, per month                                                               USLXX             $   62.78
+  NRC - 1st                                                                                       USLXX             $  714.84
+  NRC - Add'l                                                                                     USLXX             $  421.47
+  NRC - Disconnect Charge - I st                                                                  USLXX             NA
+  NRC - Disconnect Charge - Add I                                                                 USLXX             NA
+  NRC - Incremental Charge - Manual Service Order - 1 st                                          SOMAN             $   42.19
+  NRC - Incremental Charge - Manual Service Order - Add]                                          SOMAN             $   12.76
+  INRC - Incremental Charge - Manual Service Order - Disconnect                                   SOMAN             NA
+  INRC - Incremental Charge - Order Coordination - Time Specific (per order)                      OCOSL             $   48.31
+ 4-Wire 56 Kbps Dig Grade Loop, per month                                                         UDL56             $   32.67
+  NRC - 1st                                                                                       UDL56             $  489.04
+  NRC - Add'l                                                                                     UDL56             $  337.51
+  NRC - Disconnect Charge - 1st                                                                   UOL56             NA
+  NRC - Disconnect Charge - Add'l                                                                 UDL56             NA
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAN             $   26.94
+  NRC - Incremental Charge - Manual Service Order - Add'I                                         SOMAN             $   12.76
+  NRC - Incremental Charge - Manual Service Order - Disconnect                                    SOMAN             NA
+  INRC - Incremental Charge - Order Coordination - Time Specific (per order)                      OCOSL             $   45.34
+ 4-Wire 64 Kbps Dig Grade Loop, per month                                                         UDL64             $    3267
+  NRC - 1st                                                                                       UDL64             $  489.04
+  NRC - Add'l                                                                                     UDL64             $  337.51
+  NRC - Disconnect Charge - 1st                                                                   UDL64             NA
+  NRC - Disconnect Charge - Add'l                                                                 UDL64             NA
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAN             $   26.94
+  NRC - Incremental Charge - Manual Service Order - Add'l                                         SOMAN             $   12.76
+  NRC - Incremental Charge - Manual Service Order - Disconnect                                    SOMAN             NA
+  Incremental Charge - Order Coordination - Time Specific (per order)                             OCOSL             $   45.34
+
+ Unbundled Loops via IDLC                                                                                           To be negotiated
+ SUB-LOOPS
+ Sub-Loop 2-Wire Analog
+ Loop Feeder per 2-Wire Analog VG Loop, per month                                                 NA                NA
+  NRC - 1st                                                                                       NA                NA
+  NRC - Add'l                                                                                     NA                NA
+  NRC - Disconnect Charge - 1st                                                                   NA                NA
+  NRC - Disconnect Charge - Add'I                                                                 NA                NA
+  NRC - Incremental Charge - Manual Service Order - 1st                                           NA                NA
+  NRC - Incremental Charge - Manual Service Order - Add'I                                         NA                NA
+  NRC - Incremental Charge - Manual Service Order - Disconnect                                    NA                NA
+  NRC - Incremental Charge - Order Coordination - Time Specific (per order)                       OCOSL             NA
+ Loop Distribution per 2-Wire Analog VG Loop (including NID), per month                           USBN2             NA
+  NRC - 1st                                                                                       USBN2             NA
+  NRC - Add'i                                                                                     USBN2             NA
+  NRC - Disconnect Charge - 1st                                                                   USBN2             NA
+  NRC - Disconnect Charge - Add'l                                                                 USBN2             NA
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAN             NA
+  NRC - Incremental Charge - Manual Service Order - Add'I                                         SOMAN             NA
+  NRC - Incremental Charge - Manual Service Order - Disconnect                                    SOMAN             NA
+  NRC - Incremental Charge - Order Coordination - Time Specific (per order)                       OCOSL             NA
+ Loop Distribution per 2-Wire Analog VG Loop (Excluding NID), per month                           NA                NA
+  NRC - 1st                                                                                       NA                NA
+  NRC - Add'l                                                                                     NA                NA
+  Loop Distribution per 4-Wire Analog VG Loop (Incl NID), per month                               USGN4             TBN
+  NRC - 1st                                                                                       USBN4             TBN
+  NRC - Add'l                                                                                     USBN4             TBN
+ Unbundled Network Terminating Wire
+ UNTW Pair, per pair, per month                                                                   UENPP             NA
+ Site Visit Survey. per MDU/MTU Complex, NRC                                                      UENVS             NA
+ Site Visit Set-Up - Terminal Preparation, per terminal
+  NRC - 1st terminal                                                                              UENSS             TBN
+  NRC - Add'l terminal                                                                            UENSS             TBN
+ Access Terminal Provisioning & 1st 25 pair panel, per terminal, NRC                              UEN1T             TBN
+ Existing Access Terminal Provisioning, 2nd 25 pair panel, per terminal, NRC                      UEN2T             TBN
+ UNTW Pair Provisioning, per pair, NRC                                                            UENPP             TBN
+ Service Visit for Provisioning, per request, per premises, NRC                                   UENSV             TBN
+ Manual Service Order, NRC                                                                        MOCLA             TBN
+ Sub-Loop Concentration - Channelization Sys (Outside CO)
+  NRC - incremental Charge - Manual Service Order - 1st                                           SOMAN             BFR
+</TABLE>
+
+
+                                  Page 3 of 13
+<PAGE>
+
+                                                                       Exhibit A
+                                                                   Attachment 11
+                                                                         Table 1
+
+                          Rates for Network Elements
+                          --------------------------
+<TABLE>
+<CAPTION>
+DESCRIPTION                                                                                       USOC             NC
+-----------                                                                                      ---------        -----
+<S>                                                                                             <C>              <C>
+ NRC - Incremental Charge - Manual Service Order - Add'I                                          SOMAN             BFR
+ TR008 - System A (96 channel capacity - channels 1-96), per month                                UCT8A             NA
+  NRC - 1st                                                                                       UCT8A             NA
+  NRC - Add'l                                                                                     UCT8A             NA
+ TR008 - System 8 (96 channel capacity - channels 97-192), per month                              UCT8B             NA
+  NRC - 1st                                                                                       UCT8B             NA
+  NRC - Add'l                                                                                     UCT8B             NA
+ TR303 - System A (96 channel capacity - channels 1-96), per month                                UCT3A             NA
+  NRC - 1st                                                                                       UCT3A             NA
+  NRC - Add't                                                                                     UCT3A             NA
+ TR303 - System B (96 channel capacity - channels 97-192), per month                              UCT3B             NA
+  NRC - 1st                                                                                       UCT3B             NA
+  NRC - Add'l                                                                                     UCT3B             NA
+ DS1 Feeder Interface, per month                                                                  UCTFS             NA
+  NRC 1st                                                                                         UCTFS             NA
+  NRC Add'I                                                                                       UCTFS             NA
+ Channel Interface - 2 Wire Voice - Loop Start, per month                                         TBD               NA
+  NRC - 1st                                                                                       TBD               NA
+  NRC - Add'l                                                                                     TBD               NA
+ Channel Interface - 2 Wire ISDN, per month                                                       ULCCI             NA
+  NRC - 1st                                                                                       ULCC1             NA
+  NRC Add'l                                                                                       ULCC1             NA
+ Channel Interface - 2 Wire Voice - Ground Start or Reverse Battery, per month                    TBD               NA
+  NRC 1st                                                                                         TBD               NA
+  NRC Add'l                                                                                       TBD               NA
+ Channel Interface .4 Wire Voice, per month                                                       ULCC4             NA
+  NRC 1st                                                                                         ULCC4             NA
+  NRC Add'l                                                                                       ULCC4             NA
+ Test Circuit, per month                                                                          UCTTC             NA
+  NRC 1 st                                                                                        UCTTC             NA
+  NRC Add'l                                                                                       UCTTC             NA
+ Channel Interface - Digital 56Kbps, per month                                                    ULCC5             NA
+  NRC 1st                                                                                         ULCC5             NA
+  NRC Add'l                                                                                       ULCC5             NA
+ Channel Interface - Digital 64Kbps, per month                                                    ULCC6             NA
+  NRC 1st                                                                                         ULCC6             NA
+  NRC Add'l                                                                                       ULCC6             NA
+ Loop Concentration System (inside C.O.)
+  NCR - Incremental Charge - Manual Service Order - 1st                                           SOMAN             TBD
+  NRC - Incremental Charge - Manual Service Order - Add'l                                         SOMAN             TBD
+ TR008 - System A (96 channel capacity - channels 1-96), per month                                UCT8A             $  375.96
+  NRR - 1st                                                                                       UCT8A             $1,113.00
+  NRC - Add'l                                                                                     UCT8A             NA
+ TRO08 -System B (96 channel capacity - channels 97-192), per month                               UCT8B             $   65.98
+  NRC - 1st                                                                                       UCT8B             $  463.74
+  NRC - Add'l                                                                                     UCT8B             NA
+ TR303 - System A (96 channel capacity - channels 1-96), per month                                UCT3A             $  422.68
+  NRC - 1st                                                                                       UCT3A             $1,113.00
+  NRC - Add'I                                                                                     UCT3A             NA
+ TR303 - System B (96 channel capacity - channels 97-192), per month                              UCT3B             $  111.17
+  NRC 1st                                                                                         UCT31B            $  463.74
+  NRC - Add'l                                                                                     UCT3B             NA
+ DS1 Interface, per month                                                                         UCTCO             $    6.27
+  NRC 1st                                                                                         UCTCO             $  367.04
+  NRC Add'l                                                                                       UCTCO             $  131.79
+ Channel Interface - 2 Wire Voice - Loop Start, per month                                         TED               $    0.89
+  NRC 1st                                                                                         TED               $   35.73
+  NRC Add'i                                                                                       TED               $   35.49
+ Channel Interface - 2 Wire ISDN, per month                                                       ULCC1             $     995
+  NRC 1                                                                                           ULCC1             $   35.71
+  NRC Add-I                                                                                       ULCC1             $   3 .51
+ Channel Interface - 2 Wire Voice - Ground Start or Reverse Battery, per month                    TBO               $   14.80
+  NRC Ist                                                                                         TBD               S35.71
+  NRC Add'i                                                                                       TBO               S35.51
+ Channel Interface - 4 Wire Voice, per month                                                      JLCC4             $    8.82
+  NRC 1st                                                                                         ULCC4             $   35.71
+  NRC Add'i                                                                                       ULCC4             $   35.51
+ Test Circuit, per month                                                                          UCTTC             S43.13
+  NRC - 1st                                                                                       UCTTC             $   35.71
+  NRC Add-I                                                                                       UCT-rC            $   35.51
+ Channel Interface - Digital 56Kbps, per month                                                    ULCC5             TBD
+  NRC 1st                                                                                         ULCC5             TBD
+  NRC Add-1                                                                                       ULCC5             TBD
+ Channel Interface - Digital 64Kbps, per month                                                    ULCC6             TEID
+  NRC 1st                                                                                         ULCC6             TBD
+  NRC Add-I                                                                                       ULCC6             TBD
+</TABLE>
+
+                                  Page 4 of 13
+<PAGE>
+
+                                                                       Exhibit A
+                                                                   Attachment 11
+                                                                         Table 1
+
+                          Rates for Network Elements
+                          --------------------------
+<TABLE>
+<CAPTION>
+DESCRIPTION                                                                                       USOC             NC
+-----------                                                                                      ---------        -----
+<S>                                                                                             <C>              <C>
+ LOCAL EXCHANGE SWITCHING (PORTS)
+
+ 2-Wire Analog Line Port (Res., Bus.), per month                                                 (++) Bus = TNPBL
+                                                                                                   Res = TNPRL      $    2.19
+  NRC - 1st (Residence)                                                                           UEPRL             $   21.60
+  NRC - Add'i (Residence)                                                                         UEPRL             $   21.60
+  NRC - 1st (Business)                                                                            UEPBL             $   21.60
+  NRC - Add'i (Business)                                                                          UEPBL             $   21,60
+  NRC - Disconnect Charge - 1st                                                                   UEPBL             NA
+  NRC - Disconnect Charge - Add'l                                                                 UEPBL             NA
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAN             $    2694
+  NCR - Incremental Charge - Manual Service Order - Add'l                                         SOMAN             $   12,76
+  NCR - Incremental Charge - Manual Service Order - Disconnect - 1st                              SOMAN             NA
+  NRC - Incremental Charge - Manual Service Order - Disconnect - Add'I                            SOMAN             NA
+ 4-Wire Analog VG Port, per month                                                                 UEP4A             $    8.69
+  NRC - 1st                                                                                       UEP4A             $   21.69
+  NRC - Add'l                                                                                     UEP4A             $   21.69
+  NRC - Disconnect Charge - 1st                                                                   UEP4A             NA
+  NRC - Disconnect Charge - Add'i                                                                 UEP4A             NA
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAN             $   26.85
+  NRC - Incremental Charge - Manual Service Order - Add'i                                         SOMAN             $   12.67
+  NRC - Incremental Charge - Manual Service Order - Disconnect - 1st                              SOMAN             NA
+ 2-Wire 010 Port, per month                                                                       UEPP2             $   12.36
+  NRC - 1st                                                                                       UEPP2             $   81.84
+  NRC - Add'i                                                                                     UEPP2             $   81.84
+  NRC - Disconnect Charge - 1st                                                                   UEPP2             NA
+  NRC - Disconnect Charge - Add']                                                                 UEPP2             NA
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAN             $   26.94
+  NRC - Incremental Charge - Manual Service Order - Add'l                                         SOMAN             S12.76
+  NRC - Incremental Charge - Manual Service Order - Disconnect - 1st                              SOMAN             NA
+ 4-Wire DS1 Port w/DID capability, per month                                                      UEPD0             $  123.65
+  NRC - 1st                                                                                       UEPOD             $  116.59
+  NRC - Add'l                                                                                     UEPOD             $   69,92
+  NRC - Disconnect Charge - 1st                                                                   UEPDD             NA
+  NRC - Disconnect Charge - Add'l                                                                 UEPOD             NA
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAN             $   26.94
+  NRC - Incremental Charge - Manual Service Order - Add'l                                         SOMAN             $   12.76
+  NRC - Incremental Charge - Manual Service Order - Disconnect - 1st                              SOMAN             NA
+ 2-Wire ISDN digital line side Port, per month                                                    U1PMA             S2450
+  NRC - 1st                                                                                       U1PMA             $  62.29-
+  NRC - Add'l                                                                                     U1PMA             $   62.29
+  NRC - Disconnect Charge - 1st                                                                   UlPMA             NA
+  NRC - Disconnect Charge - Add'l                                                                 UIPMA             NA
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAN             $   55.30
+  NRC - Incremental Charge - Manual Service Order - Add I                                         SOMAN             $   55,30
+  NRC - Incremental Charge - Manual Service Order - Disconnect - 1st                              SOMAN             NA
+  NRC - Incremental Charge - Manual Service Order - Disconnect - Add'i                            SOMAN             NA
+ 4-Wire ISDN DS1 Port, per month                                                                  UEPEX             $  179.75
+  NRC - 1st                                                                                       UEPEX             $  241.63
+  NRE - Add'l                                                                                     UEPEX             $  241.63
+  NRC - Disconnect Charge - 1st                                                                   UEPEX             NA
+  NRC - Disconnect Charge - Add'l                                                                 UEPEX             NA
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAN             $   53.89
+  NRC - Incremental Charge - Manual Service Order - Add'l                                         SOMAN             $   53.89
+  NRC - Incremental Charge - Manual Service Order - Disconnect - 1st                              SOMAN             NA
+  NRC - Incremental Charge - Manual Service Order - Disconnect - Add'l                            SOMAN             NA
+ 2-Wire Analog Line Port (PBX), per month                                                         UEPPC             $    2.18
+  NRC - 1st                                                                                       UEPPC             $   21.60
+  NRC - Add'l                                                                                     UEPPC             $   21.60
+  NRC - Disconnect Charge - 1st                                                                   UEPPC             NA
+  NRC - Disconnect Charge - Add'l                                                                 UEPPC             NA
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAN             $   26.94
+  NRC - Incremental Charge - Manual Service Order - Add'l                                         SOMAN             $   12.76
+  NRC - Incremental Charge - Manual Service Order - Disconnect - 1st                              SOMAN             NA
+  NRC - Incremental Charge - Manual Service Order - Disconnect - Add'l                            SOMAN             NA
+ 4-Wire Coin Port, per month                                                                                        $    2.59
+  NRC - 1st                                                                                                         $   21.60
+  NRC - Add'l                                                                                                       $   21.60
+  NRC - Disconnect Charge - 1st                                                                                     NA
+  NRC - Disconnect Charge - Add'l                                                                                   NA
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAN             $   26.94
+</TABLE>
+
+                                  Page 5 of 13
+<PAGE>
+
+                                                                       Exhibit A
+                                                                   Attachment 11
+                                                                         Table 1
+                          Rates for Network Elements
+                           -------------------------
+<TABLE>
+<CAPTION>
+DESCRIPTION                                                                                       USOC              NC
+-----------                                                                                      ------            ----------
+<S>                                                                                             <C>               <C>
+  NRC - Incremental Charge - Manual Service Order - Add'l                                         SOMAN             $   12.76
+  NRC - Incremental Charge - Manual Service Order - Disconnect - 1st                              SOMAN             NA
+  NRC - Incremental Charge - Manual Service Order - Disconnect - Add'l                            SOMAN             NA
+ VERTICAL FEATURES
+ Three-Way Calling, per month                                                                                       $    0.89
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Customer Changeable Speed Calling, per month                                                                       $    0.17
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Call Waiting                                                                                                       $    0.09
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Remote Activation of Call Forwarding, per month                                                                    $    0.85
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Cancel Call Waiting, per month                                                                                     $    0.01
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Automatic Callback, per month                                                                                      $    0.66
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Automatic Recall, per month                                                                                        $    0.29
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Calling Number Delivery, per month                                                                                 $    0.33
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Calling Number Delivery Blocking, per month                                                                        $    0.02
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Customer Originated Trace, per month                                                                               $    0.14
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Selective Call Rejection, per month                                                                                $    0.13
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Selective Call Forwarding, per month                                                                               $    0.28
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Selective Call Acceptance, per month                                                                               $    0.33
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Multiline Hunt Service (Rotary)
+ Service per line, (in addition to port), per month                                                                 $    0.14
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Call Forwarding Variable, per month                                                                                $    0.10
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Call Forwarding Busy Line, per month                                                                               $    0.08
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Call Forwarding Don't Answer All Calls, per month                                                                  $    0.09
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Remote Call Forwarding, per month                                                                                  $    0.95
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Call Transfer, per month                                                                                           $    0.14
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Call Hold, per month                                                                                               $    0.15
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Toll Restricted Service, per month                                                                                 $    0.10
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Message Waiting Indicator - Stutter Dial Tone, per month                                                           $    0.03
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+</TABLE>
+
+                                  Page 6 of 13
+<PAGE>
+
+                                                                       Exhibit A
+                                                                   Attachment 11
+                                                                         Table 1
+                          Rates for Network Elements
+                           -------------------------
+<TABLE>
+<CAPTION>
+DESCRIPTION                                                                                       USOC              NC
+-----------                                                                                      ------            ----------
+<S>                                                                                             <C>               <C>
+ Anonymous Call Rejection, per month                                                                                $    1.29
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Shared Call Appearances of a DN, per month                                                                         $    0.29
+  NRC                                                                                                               $    1.47
+  NRC - Disconnect                                                                                                  NA
+ Multiple Call Appearances, per month                                                                               $    0.07
+  NRC                                                                                                               $    1.47
+  NRC - Disconnect                                                                                                  NA
+ ISDN Bridged Call Exclusion, per month                                                                             $  0.0011
+  NRC                                                                                                               $    1.47
+  NRC - Disconnect                                                                                                  NA
+ Call by Call Access, per month                                                                                     $   19.83
+  NRC                                                                                                               $   33.33
+  NRC - Disconnect                                                                                                  NA
+ Privacy Release, per month                                                                                         $  0.0041
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Multi Appearance Directory Number Calls, per month                                                                 $    0.13
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Make Set Busy, per month                                                                                           $   0.002
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Teen Service (Res. Dist. Alerting Service), per month                                                              $    0.26
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Code Restriction and Diversion, per month                                                                          $    0.09
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Call Park, per month                                                                                               $    0.09
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Automatic Line, per month                                                                                          $    0.14
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ ISDN Message Waiting Indication Lamp, per month                                                                    $  0.0107
+  NRC                                                                                                               $    1.47
+  NRC - Disconnect                                                                                                  NA
+ ISDN Feature Function Buttons                                                                                      NA
+  NRC                                                                                                               $    1.51
+  NRC - Disconnect                                                                                                  NA
+ Subsequent Ordering Charge - (per order, per line)
+  NRC - Electronic - 1st                                                                                            $    5.42
+  NRC - Electronic - Add'l                                                                                          $    0.95
+  NRC - Manual - 1st                                                                                                $    1.89
+  NRC - Manual - Add'l                                                                                              $    0.00
+  NRC - Disconnect                                                                                                  NA
+ End Office Switching (Port Usage)
+ End Office Switching Function, per month                                                         N/A               $  0.0017
+ End Office Switching Function, add'l month (6)                                                   N/A               NA
+ End Office Interoffice Trunk Port - Shared, per month                                            N/A               NA
+ Tandem Switching (Port Usage) (Local or Access Tandem)
+ Tandem Switching Function per month                                                              N/A               $  0.0009
+ Tandem Interoffice Trunk Port - Shared per month                                                 N/A               NA
+ INTEROFFICE TRANSPORT
+ Common (Shared) Transport
+ Common(Shared) Transport per mone per month                                                      N/A               $ 0.00001
+ Common (Shared) Transport Facilities Termination per month                                       N/A               $ 0.00034
+ Interoffice Transport - Dedicated - VG
+ Interoffice Transport - Dedicated - 2-Wire VG - per mile                                         1L5XX             $  0.0282
+ Interoffice Transport - Dedicated - 2-Wire VG - facilities termination per month                 U1TV2             $   18.00
+  NRC - 1st                                                                                       U1TV2             $  137.48
+  NRC - Add'l                                                                                     U1TV2             $   52.58
+  NRC - Disconnect Charge - 1st                                                                   U1TV2             NA
+  NRC - Disconnect Charge - Add'l                                                                 U1TV2             NA
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAC             $   38.07
+  NRC - Incremental Charge - Manual Service Order - Add'l                                         SOMAC             $   38.07
+  NRC - Incremental Charge - Manual Service Order - Disconnect - 1st                              SOMAC             NA
+  NRC - Incremental Charge - Manual Service Order - Disconnect - Add'l                            SOMAC             NA
+</TABLE>
+
+                                  Page 7 of 13
+<PAGE>
+
+                                                                       Exhibit A
+                                                                   Attachment 11
+                                                                         Table 1
+                          Rates for Network Elements
+                          --------------------------
+<TABLE>
+<CAPTION>
+DESCRIPTION                                                                                       USOC              NC
+-----------                                                                                      ------            ----------
+<S>                                                                                             <C>               <C>
+ Interoffice Transport - Dedicated - DSO - 56/65 KBPS
+ Interoffice Transport - Dedicated - DSO - per mile per month                                     1L5XX             $  0.0282
+ Interoffice Transport - Dedicated - DSO - facilities termination per month                       U1TD6             $   17.40
+  NRC - 1st                                                                                       U1TD6             $  137.48
+  NRC - Add'l                                                                                     U1TD6             $   52.58
+  NRC - Disconnect Charge - 1st                                                                   U1TD6             NA
+  NRC - Disconnect Charge - Add'l                                                                 U1TD6             NA
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAC             $   26.94
+  NRC - Incremental Charge - Manual Service Order - Add'l                                         SOMAC             $   12.76
+  NRC - Incremental Charge - Manual Service Order - Disconnect - 1st                              SOMAC             NA
+  NRC - Incremental Charge - Manual Service Order - Disconnect - Add'l                            SOMAC             NA
+ Interoffice Transport - Dedicated - DS1
+ Interoffice Transport - Dedicated - DS1 - per mile per month                                     1L5XX             $  0.5753
+ Interoffice Transport - Dedicated - DS1 - facilities termination per month                       U1TF1             $   71.29
+  NRC - 1st                                                                                       U1TF1             $  217.17
+  NRC - Add'l                                                                                     U1TF1             $  163.75
+  NRC - Disconnect Charge - 1st                                                                   U1TF1             NA
+  NRC - Disconnect Charge - Add'l                                                                 U1TF1             NA
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAC             $   38.07
+  NRC - Incremental Charge - Manual Service Order - Add'l                                         SOMAC             $   38.07
+  NRC - Incremental Charge - Manual Service Order - Disconnect - 1st                              SOMAC             NA
+  NRC - Incremental Charge - Manual Service Order - Disconnect - Add'l                            SOMAC             NA
+ Interoffice Transport - Dedicated - DS3
+ Interoffice Transport - Dedicated - DS3 - per mile per month                                     1L5XX             $   12.98
+ Interoffice Transport - Dedicated - DS3 - facilities termination per month                       U1TF3             $  720.39
+  NRC - 1st                                                                                       U1TF3             $  794.94
+  NRC - Add'l                                                                                     U1TF3             $  579.55
+  NRC - Disconnect Charge - 1st                                                                   U1TF3             NA
+  NRC - Disconnect Charge - Add'l                                                                 U1TF3             NA
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAC             $   91.26
+  NRC - Incremental Charge - Manual Service Order - Add'l                                         SOMAC             $   91.26
+  NRC - Incremental Charge - Manual Service Order - Disconnect - 1st                              SOMAC             NA
+  NRC - Incremental Charge - Manual Service Order - Disconnect - Add'l                            SOMAC             NA
+ Local Channel - Dedicated
+ Local Channel - Dedicated - 2-Wire VG                                                            ULDV2             $   14.82
+  NRC - 1st                                                                                       ULDV2             $  553.80
+  NRC - Add'l                                                                                     ULDV2             $   89.69
+  NRC - Disconnect Charge - 1st                                                                   U1TD6             NA
+  NRC - Disconnect Charge - Add'l                                                                 U1TD6             NA
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAC             $   42.17
+  NRC - Incremental Charge - Manual Service Order - Add'l                                         SOMAC             $   12.76
+  NRC - Incremental Charge - Manual Service Order - Disconnect - Add'l                            SOMAC             NA
+ Local Channel - Dedicated - 4-Wire VG                                                            ULDD6             $   15.87
+  NRC - 1st                                                                                       ULDD6             $  562.23
+  NRC - Add'l                                                                                     ULDD6             $   92.67
+  NRC - Disconnect Charge - 1st                                                                   ULDD6             NA
+  NRC - Disconnect Charge - Add'l                                                                 ULDD6             NA
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAC             $   42.17
+  NRC - Incremental Charge - Manual Service Order - Add'l                                         SOMAC             $   12.76
+  NRC - Incremental Charge - Manual Service Order - Disconnect - Add'l                            SOMAC             NA
+ Local Channel - Dedicated - DS1                                                                  TMECS             $   35.68
+  NRC - 1st                                                                                       TMECS             $  534.48
+  NRC - Add'l                                                                                     TMECS             $  462.69
+  NRC - Disconnect Charge - 1st                                                                   TMECS             NA
+  NRC - Disconnect Charge - Add'l                                                                 TMECS             NA
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAC             $   86.15
+  NRC - Incremental Charge - Manual Service Order - Add'l                                         SOMAC             $    1.77
+  NRC - Incremental Charge - Manual Service Order - Disconnect - Add'l                            SOMAC             NA
+ Local Channel - Dedicated - DS3                                                                  ULDF3             $  498.87
+  NRC - 1st                                                                                       ULDF3             $  562.25
+  NRC - Add'l                                                                                     ULDF3             $  527.88
+  NRC - Disconnect Charge - 1st                                                                   ULDF3             NA
+  NRC - Disconnect Charge - Add'l                                                                 ULDF3             NA
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAC             $   56.25
+  NRC - Incremental Charge - Manual Service Order - Add'l                                         SOMAC             $   56.25
+  NRC - Incremental Charge - Manual Service Order - Disconnect - 1st                              SOMAC             NA
+  NRC - Incremental Charge - Manual Service Order - Disconnect - Add'l                            SOMAC             NA
+ CHANNELIZATION
+  DS3 Channelization (DS3 to DS1)
+   per Channelized System per month                                                               MQ3               $  226.81
+  NRC - 1st                                                                                       MQ3               $  351.95
+  NRC - Add'l                                                                                     MQ3               $  243.76
+
+</TABLE>
+
+                                  Page 8 of 13
+<PAGE>
+
+                                                                       Exhibit A
+                                                                   Attachment 11
+                                                                         Table 1
+                          Rates for Network Elements
+                          --------------------------
+<TABLE>
+<CAPTION>
+DESCRIPTION                                                                                      USOC                  NC
+-----------                                                                                      ------             -------
+<S>                                                                                            <C>                 <C>
+  NRC - 1st Disconnect                                                                            MQ3               $   77.90
+  NRC - Add'l - Disconnect                                                                        MQ3               $   63.32
+  NRC - Channel System - Incremental Cost - Manual Svc Order - 1st                                SOMAC             $   28.13
+  NRC - Channel System - Incremental Cost - Manual Svc Order - Addl'l                             SOMAC             $   13.33
+  NRC - Channel System - Incremental Cost - Manual Svc Order - Disconnect 1st                     SOMAC             $   18.26
+  NRC - Channel System - Incremental Cost - Manual Svc Order - Disconnect - Add'l                 SOMAC                  1.48
+ per Interface per month                                                                          1PQE1             $    4.61
+ DS1 Channelization (DS1 to DSO)
+ per Channelized System per month
+                                                                                                  MQ1               $  177.72
+  NRC - 1st                                                                                       MQ1               $  267.19
+  NRC - Add'l                                                                                     MQ1               $  161.43
+  NRC - Disconnect Charge - 1st                                                                   MQ1               $   34.55
+  NRC - Disconnect Charge - Add'l                                                                 MQ1               $   21.14
+  NRC - Channel System - Incremental Cost - Manual Svc Order - 1st                                SOMAC             $   28.13
+  NRC - Channel System - Incremental Cost - Manual Svc Order - Addl'l                             SOMAC             $   13.33
+  NRC - Channel System - Incremental Cost - Manual Svc Order - Disconnect 1st                     SOMAC             $   18.26
+  NRC - Channel System - Incremental Cost - Manual Svc Order - Disconnect - Add'l                 SOMAC                  1.48
+ DS1 Channelization Interfaces
+ per OCU-DP (data) card per month (2 4-64kbps)                                                    1D1DD             $    2.88
+  NRC - 1st                                                                                       1D1DD             $   15.76
+  NRC - Add'l                                                                                     1D1DD             $   11.28
+ per VG card per month                                                                            1D1VG             $    1.64
+  NRC - 1st                                                                                       1D1VG             $   15.76
+  NRC - Add'l                                                                                     1D1VG             $   11.28
+ 800 ACCESS TEN DIGIT SCREENING SERVICE (7)
+ 800 Access Ten Digit Screening (all types), per call (8)                                         N/A               $  0.0005
+ 800 Access Ten Digit Screening Svc. W/800 No. Delivery
+  per query                                                                                       N/A               $ 0.00365
+  for 800 Numbers, with Optional Complex Features, per query                                      N/A               $ 0.00431
+ 800 Access Ten Digit Screening Svc. W/POTS No. Delivery
+  per query                                                                                       N/A               $ 0.00383
+  with Optional Complex Features, per query                                                       N/A               NA
+ 800 Access Ten Digit Screening Svc. W/800 No. Delivery
+  per message                                                                                     N/A               NA
+  for 800 Numbers, with Optional Complex Features, per message                                    N/A               NA
+ 800 Access Ten Digit Screening Svc. W/POTS No. Delivery
+  per message                                                                                     N/A               NA
+  with Optional Complex Features, per message                                                     N/A               NA
+ Reservation Charge per 800 number reserved
+  NRC - 1st                                                                                       N8R1X             $    7.05
+  NRC - Add'l                                                                                     N8R1X             $    0.96
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAC             $   42.17
+  NRC - Incremental Charge - Manual Service Order - Add'l                                         SOMAC             $   12.76
+  NRC - Incremental Charge - Manual Service Order - Disconnect - Add'l                            SOMAC             NA
+ Per 800 # Established w/o POTS (w/800 No.) Translations
+  NRC - 1st                                                                                       N/A               $   23.82
+  NRC - Add'l                                                                                     N/A               $    2.73
+  NRC - Disconnect Charge - 1st                                                                   N/A               NA
+  NRC - Disconnect Charge - Add'l                                                                 NA                NA
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAN             $   41.35
+  NRC - Incremental Charge - Manual Service Order - Add'l                                         SOMAN             NA
+  NRC - Incremental Charge - Manual Service Order - Disconnect - Add'l                            SOMAN             NA
+ Per 800 # Established w/o POTS Translations
+  NRC - 1st                                                                                       N8FTX             $   23.82
+  NRC - Add'l                                                                                     N8FTX             $    2.73
+  NRC - Disconnect Charge - 1st                                                                   N8FTX             NA
+  NRC - Disconnect Charge - Add'l                                                                 N8FTX             NA
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAN             $   41.35
+  NRC - Incremental Charge - Manual Service Order - Add'l                                         SOMAN             NA
+  NRC - Incremental Charge - Manual Service Order - Disconnect - Add'l                            SOMAN             NA
+ Customized Area of Service per 800 Number
+  NRC - 1st                                                                                       N8FCX             $    5.63
+  NRC - Add'l                                                                                     N8FCX             $    2.82
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAN             NA
+  NRC - Incremental Charge - Manual Service Order - Add'l                                         SOMAN             NA
+ Multiple Inter LATA Carrier Routing per Carrier Requested per 800 #
+  NRC - 1st                                                                                       N8FMX             $    6.59
+  NRC - Add'l                                                                                     N8FMX             $    3.77
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAN             NA
+  NRC - Incremental Charge - Manual Service Order - Add'l                                         SOMAN             NA
+ Change Charge per request
+</TABLE>
+
+                                  Page 9 of 13
+<PAGE>
+
+                                                                       Exhibit A
+                                                                   Attachment 11
+                                                                         Table 1
+                          Rates for Network Elements
+                          --------------------------
+<TABLE>
+<CAPTION>
+DESCRIPTION                                                                                      USOC                  NC
+-----------                                                                                      ------             -------
+<S>                                                                                            <C>                 <C>
+  NRC - 1st                                                                                       N8FAX             $    8.01
+  NRC - Add'l                                                                                     N8FAX             $    0.96
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAN             $   26.94
+  NRC - Incremental Charge - Manual Service Order - Add'l                                         SOMAN             NA
+ Call Handling and Destination Features
+  NRC - 1st                                                                                       N8FDX             $    5.63
+  NRC - Add'l                                                                                     N8FDX             NA
+ LINE INFORMATION DATABASE ACCESS (LIDB)
+ LIDB Common Transport per query                                                                  OQT               $  0.0003
+ LIDB Validation per query                                                                        OQU               $ 0.00134
+ LIDB Originating Point Code Establishment or Change - NRC                                        N/A               NA
+  NRC - Incremental Charge - Electronic Service Order                                             TBD               $   62.26
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAN             $   89.20
+  NRC - Incremental Charge - Manual Service Order - Add'l                                         SOMAN             NA
+ CCS7 SIGNALING TRANSPORT SERVICE
+ CCS7 Signaling Connection, per link (A link) per month                                                             $  155.00
+  NRC                                                                                                               $  510.00
+  NRC - Incremental Charge - Manual Service Order                                                 SOMAN             NA
+  NRC - Incremental Charge - Manual Service Order - Disconnect                                    SOMAN             NA
+ CCS7 Signaling Connection, per link (B link) (also known as D link) per month                                      $  155.00
+  NRC                                                                                                               $  510.00
+  NRC - Disconnect                                                                                                  NA
+  NRC - Incremental Charge - Manual Service Order                                                 SOMAN             NA
+  NRC - Incremental Charge - Manual Service Order - Disconnect                                    SOMAN             NA
+ CCS7 Signaling Termination, per STP port per month                                                                 $  132.88
+ CCS7 Signaling Usage, per ISUP message                                                                             $ 0.00004
+  (applicable when measurement and billing capability exists)
+ CCS7 Signaling Usage, per TCAP message                                                                             $ 0.00009
+  (applicable when measurement and billing capability exists)
+ CCS7 Signaling Usage Surrogate, per link per LATA per month (9)                                                    $  338.98
+ CCS7 Signaling Point Code, Establishment or Change, per STP affected
+  NRC                                                                                                               $   62.00
+ OPERATOR CALL PROCESSING
+ Operator Provided Call Handling per min. - Using BST LIDB                                        N/A               $    1.20
+  Call Completion Access Termination Charge per call attempt                                      NA                NA
+ Operator Provided Call Handling per min. - Using Foreign LIDB                                    N/A               $    1.24
+  Call Completion Access Termination Charge per call attempt                                      NA                NA
+ Operator Provided Call Handling, per call                                                        N/A               NA
+ Fully Automated Call Handling, per call - Using BST LIDB                                         NA                $    0.11
+ Fully Automated Call Handling per call - Using Foreign LIDB                                      N/A               $    0.12
+ Professional recording of name (OCP alone)                                                       USPD1             $7,000.00
+ Professional recording of name (DA and OCP alone)                                                USOD1             $7,000.00
+ DRAM or front-end loading, per TOPS switch                                                       USOD2             $  250.00
+ AABS or back-end loading, per IVS                                                                USOD2             $  225.00
+ EBAS or 0-automation loading, per NAV shelf                                                      USOD2             $270l00
+ Recording Charge per Branded Announcement - Disconnect - Initial                                 NA                NA
+ Recording Charge per Branded Announcement - Disconnect - Subsequent                              N/A               NA
+ INWARD OPERATOR SERVICES
+ Verification, per minute                                                                         N/A               $    1.15
+ Verification and Emergency Interrupt, per minute                                                 N/A               $    1.15
+ Verification, per call                                                                           VIL               $    0.54
+ Verification and Emergency Interrupt, per call                                                   N/A               $    0.65
+ DIRECTORY ASSISTANCE SERVICES
+ Directory Assist Call Completion Access Svc (DACC), per call attempt                             N/A               $   0.062
+ Call Completion Access Term charge per completed call                                            N/A               NA
+ Number Services Intercept per query                                                              N/A               $   0.011
+ Number Services Intercept per Intercept Query Update                                             N/A               NA
+ Directory Assistance Access Service Calls, per call                                              N/A               $    0.26
+ Professional recording of name (DA alone)                                                                          $3,000.00
+ Professional recording of name (DA and OCP alone)                                                                  $7,000.00
+ DRAM or front-end loading, per TOPS switch                                                                         $  250.00
+ AABS or back-end loading, per IVS                                                                                  $  225.00
+ EBAS or 0-automation loading, per NAV shelf                                                                        $  270.00
+ Recording Charge per Branded Announcement - Disconnect - Initial                                 N/A               NA
+ Recording Charge per Branded Announcement - Disconnect - Subsequent                              N/A               NA
+ Directory Transport
+ Directory Transport - Local Channel DS1, per month                                               N/A               $   35.68
+  NRC - 1st                                                                                       N/A               $  534.48
+  NRC - Add'l                                                                                     N/A               $  462.69
+  NRC - Disconnect Charge - 1st                                                                   N/A               NA
+</TABLE>
+
+                                 Page 10 of 13
+<PAGE>
+
+                                                                       Exhibit A
+                                                                   Attachment 11
+                                                                         Table 1
+                          Rates for Network Elements
+                          --------------------------
+<TABLE>
+<CAPTION>
+DESCRIPTION                                                                                      USOC                 NC
+-----------                                                                                      ------             -------
+<S>                                                                                            <C>                 <C>
+  NRC - Disconnect Charge - Add'l                                                                 N/A               NA
+  NRC - Incremental Charge - Manual Service Order - NRC                                           SOMAN             $   86.15
+  NRC - Incremental Charge - Manual Service Order - NRC - Disconnect                              SOMAN             $    1.77
+ Directory Transport - Dedicated DS1 Level Interoffice per mile per month                         N/A               $  0.5753
+ Directory Transport - Dedicated DS1 Level Interoffice per facility termination per month         N/A               $   71.29
+  NRC - 1st                                                                                       N/A               $  217.17
+  NRC - Add'l                                                                                     N/A               $  163.75
+  NRC - Disconnect Charge - 1st                                                                   N/A               NA
+  NRC - Disconnect Charge - Add'l                                                                 N/A               NA
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAN             $   38.07
+  NRC - Incremental Charge - Manual Service Order - Add'l                                         SOMAN             $   38.07
+  NRC - Incremental Charge - Manual Service Order - Disconnect - 1st                              SOMAN             NA
+  NRC - Incremental Charge - Manual Service Order - Disconnect - Add'l                            SOMAN             NA
+ Switched Common Transport per DA Access Service per call                                         N/A               $  0.0002
+ Switched Common Transport per DA Access Service per call per mile                                N/A               $ 0.00003
+ Access Tandem Switching per DA Access Service per call                                           N/A               $  0.0021
+ DA Interconnection, per DA Access Service Call                                                   N/A               $    0.00
+ Directory Transport-Installation NRC, per trunk or signaling connection                          N/A
+  NRC - 1st                                                                                       N/A               BSTs FCC1
+  NRC - Add'l                                                                                     N/A               BSTs FCC1
+  NRC - Disconnect Charge - 1st                                                                   N/A               NA
+  NRC - Disconnect Charge - Add'l                                                                 N/A               NA
+  NRC - Incremental Charge - Manual Service Order - 1st                                           SOMAN             $  407.53
+  NRC - Incremental Charge - Manual Service Order - Add'l                                         SOMAN             $   10.98
+ Directory Assistance Database Service (DADS)
+ Directory Assistance Database Service charge per listing                                         N/A                  0.0446
+ Directory Assistance Database Service, per month                                                 DBSOF             $  126.26
+ Directory Access to Directory Assistance Service (DADAS)
+ Direct Access to Directory Assistance Service, per month                                         DBSDS             $6,930.00
+ Direct Access to Directory Assistance Service, per query                                         DBSDA             $  0.0456
+ Direct Access to Directory Assistance Service svc. estab. charge                                 DBSDE
+  NRC                                                                                             DBSDE             $1,164.00
+  NRC - Disconnect                                                                                DBSDE             NA
+  NRC - Incremental Charge Manual Service Order - 1st                                             SOMAN             NA
+ AIN (10)
+ AIN, per message                                                                                 CAM               NA
+ AIN, BellSouth AIN SMS Access Service                                                            CAM
+ Service Establishment Charge, per state, initial set-up
+  NRC                                                                                             CAMSE             $  294.77
+  NRC - Disconnect                                                                                CAMSE             NA
+ Port Connection - Dial/Shared Access
+  NRC                                                                                             CAMDP             $   86.94
+  NRC - Disconnect                                                                                CAMDP             NA
+ Port Connection - ISDN Access
+  NRC                                                                                             CAM1P             $   86.94
+  NRC - Disconnect                                                                                CAM1P             NA
+ User ID Codes - per User ID Code
+  NRC                                                                                             CAMAU             $  200.83
+  NRC - Disconnect                                                                                CAMAU             NA
+ Security Card per User ID Code, initial or replacement
+  NRC                                                                                             CAMRC             $  172.05
+  NRC - Disconnect                                                                                CAMRC             NA
+ Storage, per unit (100kb)                                                                        N/A               $  0.0023
+ Session per minute                                                                               N/A               $  0.0791
+ CO Performed Session, per minute                                                                 N/A               $    2.08
+ AIN, BellSouth AIN Toolkit Service
+ AIN, Service Creation Tools                                                                      CAMBP             NA
+ Service Establishment Charge, per state, initial set-up
+  NRC                                                                                             BAPSC             $  290.05
+  NRC - Disconnect                                                                                BAPSC             NA
+ Training Session, per customer
+  NRC                                                                                             BAPVX             $8,363.00
+  NRC - Disconnect                                                                                BAPVX             NA
+ Trigger Access Charge, per trigger, per DN, Term Attempt
+  NRC                                                                                             BAPTT             $   72.76
+  NRC - Disconnect                                                                                BAPTT             NA
+ Trigger Access Charge, per trigger per DN, Off-Hook Delay
+  NRC                                                                                             BAPTD             $   72.75
+  NRC - Disconnect                                                                                BAPTD             NA
+ Trigger Access Charge, per trigger, per DN, Off-Hook Immediate
+  NRC                                                                                             BAPTM             $   72.76
+  NRC - Disconnect                                                                                BAPTM             NA
+</TABLE>
+
+                                 Page 11 of 13
+<PAGE>
+
+                                                                       Exhibit A
+                                                                   Attachment 11
+                                                                         Table 1
+                          Rates for Network Elements
+                          --------------------------
+<TABLE>
+<CAPTION>
+DESCRIPTION                                                                                      USOC                NC
+-----------                                                                                      ------             -----
+<S>                                                                                             <C>                <C>
+ Trigger Access Charge, per trigger, per DN, 10-Digit PODP
+  NRC                                                                                             BAPTO             $  149.95
+  NRC - Disconnect                                                                                BAPTO             NA
+ Trigger Access Charge, per trigger per DN, CDP
+  NRC                                                                                             BAPTC             $  149.95
+  NRC - Disconnect                                                                                BAPTC             NA
+ Trigger Access Charge, per trigger per DN, Feature Code
+  NRC                                                                                             BAPTF             $  149.95
+  NRC - Disconnect                                                                                BAPTF             NA
+ Query Charge, per query                                                                          N/A               $    0.02
+ Type 1 Node Charge, per AIN Toolkit Subscription, per node, per query                            N/A               $   0.005
+ SCP Storage Charge, per SMS Access Acct., per 100Kb                                                                $    1.45
+ Monthly Report - per AIN Toolkit Service Subscription                                            BAPMS             $   15.98
+  NRC Manual                                                                                      BAPMS             $   71.80
+  NRC - Disconnect                                                                                BAPMS             NA
+ Special Study - per AIN Toolkit Service Subscription                                             BAPLS             $    0.08
+  NRC Manual                                                                                      BAPLS             $   47.20
+  NRC - Disconnect                                                                                BAPLS             NA
+ Call Event Report - per AIN Toolkit Service Subscription                                         BAPDS             $   15.90
+  NRC Manual                                                                                      BAPDS             $   71.80
+  NRC - Disconnect                                                                                BAPDS             NA
+ Call Event Special Study - per AIN Toolkit Service Subscription                                  BAPES             $   0.003
+  NRC Manual                                                                                      BAPES             $   47.20
+  NRC - Disconnect                                                                                BAPES             NA
+ CALLING NAME (CNAM) QUERY SERVICE
+ CNAM (Database Owner), Per Query                                                                 N/A               $   0.016
+ CNAM (Non-Database Owner), Per Query                                                             N/A               $    0.01
+    NRC, applicable when CLEC-1 uses the Character Based User Interface (CHUI) method to
+     transmit the names to the BellSouth CNAM database                                            N/A               $  595.00
+ *Volume and term arrangements are also available
+ DARK FIBER
+ Per four fiber strands, per route mile of fraction thereof, per month                            1L5DF             $   49.88
+  NRC - 1st                                                                                       1L5DF             $2,277.00
+  NRC - Add'l                                                                                     1L5DF             $  733.08
+  NRC - Disconnect Charge - 1st                                                                   UBNAX             NA
+  NRC - Disconnect Charge - Add'l                                                                 UBNAX             NA
+ Per four fiber strands, per route foot or fraction thereof, per month                            UBNAX             NA
+  NRC - 1st                                                                                       UBNAX             NA
+  NRC - Add'l                                                                                     UBNAX             NA
+  NRC - Disconnect Charge - 1st                                                                   UBNAX             NA
+  NRC - Disconnect Charge - Add'l                                                                 UBNAX             NA
+ SELECTIVE ROUTING (11)
+ Per Line or PBX Trunk, each                                                                                        NA
+  NRC                                                                                                               NA
+ Customized routing per unique line class code, per request, per switch                                             NA
+  NRC                                                                                             USRCR             $  229.65
+  NRC - Incremental Charge - Manual Service Order                                                                   NA
+</TABLE>
+
+NOTES:
+   If no rate is identified in the contract, the rate for the specific service
+   or function will be as set forth in applicable BellSouth tariff or as
+   negotiated by
+
+   1  In states where a specific NRC for customer transfer, feature additions
+      and changes is not stated, the applicable NRC from the appropriate tariff
+      applies.
+
+   2  Transmission/usage charges associated with POTS circuit switched usage
+      will also apply to circuit switched voice and/or circuit switched data
+      transmission by B-Channels associated with 2-wire ISDN ports.
+
+   3  Access to B Channel or D Channel Packet capabilities will be available
+      only through BFR/New Business Request Process. Rates for the packet
+      capabilities will be determined via the Bona Fide Request/New Business
+      Request Process.
+
+   4  This rate element is for those states which have a specific rate for User
+      Profile per B Channel.
+
+   5  When CLEC buys the switch at the network element rate it will receive
+      vertical services at no additional charge, but when it buys combinations
+      of elements to produce a BellSouth retail service, and thus comes under
+      the resale pricing provisions, it must also pay the wholesale rate for
+      vertical services, if those services are in the retail tariff on the
+      effective date of the agreement. Vertical services which are not in the
+      retail tariff but which can be provided by the switch will be available at
+      no additional charges. (NC)
+
+   6  This rate element is for use in those states with a different rate for
+      additional minutes of use.
+
+   7  BellSouth and CLEC shall negotiate rates for this offering. If agreement
+      is not reached within sixty (60) days of the Effective Date, either party
+      may petition the Florida PSC to settle the disputed charge or charges
+      (FL).
+
+   8  This rate element is for those states w/o separate rates for 800 calls
+      with 800 No. Delivery vs. POTS No. Delivery and calls with Optional
+      Complex Features vs. w/o Optional Complex Features.
+
+   9  This charge is only applicable where signaling usage measurement or
+      billing capability does not exist.
+
+   10 Prices for AIN to be determined upon development of mediation device
+      (TN).
+
+   11 Price for Line Class Codes for Selective Routing shall be determined by
+      the TRA (TN).
+
+                                 Page 12 of 13
+<PAGE>
+
+                                                                       Exhibit A
+                                                                   Attachment 11
+                                                                         Table 1
+                        Rates for Local Interconnection
+                        -------------------------------
+<TABLE>
+<CAPTION>
+DESCRIPTION                                                                                   USOC        NC
+-----------                                                                                  --------     -------
+<S>                                                                                          <C>          <C>
+   LOCAL INTERCONNECTION (CALL TRANSPORT AND TERMINATION)
+       End Office Switching, per mou                                                         N/A          $ 0.0017
+       Direct Local Interconnection, per mou (same as End Office Switching in FL & LA)                    N/A
+       Tandem Switching, per mou                                                             N/A          $ 0/0009
+       Tandem Switching (assumes 5 miles of transport per mou)                               N/A          N/A
+       Tandem Local Interconnection, per mou (includes end office switching element)                      N/A
+       Multiple Tandem Switching, per mou (applies to initial tandem only), effective 10/99               N/A
+       Local Intermediary, per mou (applies to transit only)                                              N/A
+         All terms and conditions, as well as charges, both non-recurring and recurring,
+          associated with interconnecting trunk groups between BellSouth and CLEC-1 shall
+          be as set forth in Section E.6 of the appropriate BellSouth intrastate access
+          tariff                                                                                          BST State Access Tariff
+                                                                                                           Rates
+       Tandem Intermediary Charger, per mou*                                                 N/A          N/A
+         *(This charge is applicable only to intermediary traffic and is applied in
+          addition to applicable switching and/or interconnection charges)
+   INTEROFFICE TRANSPORT
+   Common (Shared) Transport
+       Common (Shared) Transport per mile per mou                                            N/A          $0.00001
+       Common (Shared Transport Facilities Termination per mou                               N/A          $0.00034
+   Interoffice Transport - Dedicated - VG
+       Interoffice Transport - Dedicated - 2 Wire VG - per mile                              1L5XF        $0.02820
+       Interoffice Transport - Dedicated - 2 Wire VG - facilities termination per month      1L5XF        $  18.00
+         NRC - 1st                                                                           1L5XF        $ 137.48
+         NRC - Add'l                                                                         1L5XF        $  52.58
+         NRC - Disconnect Charge - 1st                                                       1L5XF        NA
+         NRC - Disconnect Charge - Add'l                                                     1L5XF        NA
+         NRC - Incremental Charge - Manual Service Order - 1st                               SOMAC        $  38.07
+         NRC - Incremental Charge - Manual Service Order - Add'l                             SOMAC        $  38.07
+         NRC - Incremental Charge - Manual Service Order - Disconnect - 1st                  SOMAC        NA
+         NRC - Incremental Charge - Manual Service Order - Disconnect - Add'l                SOMAC        NA
+   Interoffice Transport - Dedicated - DSO - 56/64 KBPS
+       Interoffice Transport - Dedicated - DSO - per mile per month                          1L5XK        $0.02820
+       Interoffice Transport - Dedicated - DSO - facilities termination per month            1L5XK        $  17.40
+         NRC - 1st                                                                           1L5XK        $ 137.48
+         NRC - Add'l                                                                         1L5XK        $  52.58
+         NRC - Disconnect Charge - 1st                                                       1L5XK        NA
+         NRC - Disconnect Charge - Add'l                                                     1L5XK        NA
+         NRC - Incremental Charge - Manual Service Order - 1st                               SOMAC        $  38.07
+         NRC - Incremental Charge - Manual Service Order - Add'l                             SOMAC        $  38.07
+         NRC - Incremental Charge - Manual Service Order - Disconnect - 1st                  SOMAC        NA
+         NRC - Incremental Charge - Manual Service Order - Disconnect - Add'l                SOMAC        NA
+   Interoffice Transport - Dedicated - DS1
+       Interoffice Transport - Dedicated - DS1 - per mile per month                          1L5XL        $0.57530
+       Interoffice Transport - Dedicated - DS1 - facilities termination per month            1L5XL        $  71.29
+         NRC - 1st                                                                           1L5XL        $ 217.17
+         NRC - Add'l                                                                         1L5XL        $ 163.75
+         NRC - Disconnect Charge - 1st                                                       1L5XL        NA
+         NRC - Disconnect Charge - Add'l                                                     1L5XL        NA
+         NRC - Incremental Charge - Manual Service Order - 1st                               SOMAC        $  38.07
+         NRC - Incremental Charge - Manual Service Order - Add'l                             SOMAC        $  38.07
+         NRC - Incremental Charge - Manual Service Order - Disconnect - 1st                  SOMAC        NA
+         NRC - Incremental Charge - Manual Service Order - Disconnect - Add'l                SOMAC        NA
+   Interoffice Transport - Dedicated - DS3
+       Interoffice Transport - Dedicated - DS3 - per mile per month                          1L5XM        $  12.98
+       Interoffice Transport - Dedicated - DS3 - facilities termination per month            1L5XM        $ 720.38
+         NRC - 1st                                                                           1L5XM        $ 794.94
+         NRC - Add'l                                                                         1L5XM        $ 579.55
+         NRC - Disconnect Charge - 1st                                                       1L5XM        NA
+         NRC - Disconnect Charge - Add'l                                                     1L5XM        NA
+         NRC - Incremental Charge - Manual Service Order - 1st                               SOMAC        $  91.26
+         NRC - Incremental Charge - Manual Service Order - Add'l                             SOMAC        $  91.26
+         NRC - Incremental Charge - Manual Service Order - Disconnect - 1st                  SOMAC        NA
+         NRC - Incremental Charge - Manual Service Order - Disconnect - Add'l                SOMAC        NA
+   Local Channel - Dedicated
+   Local Channel - Dedicated - 2-Wire VG                                                     TEFV2        $  14.82
+         NRC - 1st                                                                           TEFV2        $ 553.80
+         NRC - Add'l                                                                         TEFV2        $  89.69
+         NRC - Disconnect Charge - 1st                                                       TEFV2        NA
+         NRC - Disconnect Charge - Add'l                                                     TEFV2        NA
+         NRC - Incremental Charge - Manual Service Order - 1st                               SOMAC        $  42.17
+         NRC - Incremental Charge - Manual Service Order - Add'l                             SOMAC        $  12.76
+</TABLE>
+
+                                 Page 1 of 2
+<PAGE>
+
+<TABLE>
+<CAPTION>
+DESCRIPTION                                                                                    USOC          NC
+-----------                                                                                  -------      --------
+<S>                                                                                          <C>          <C>
+         NRC - Incremental Charge - Manual Service Order - Disconnect                        SOMAC        NA
+   Local Channel - Dedicated - 4-Wire VG                                                                  $  15.87
+         NRC - 1st                                                                           TEFV4        $ 562.23
+         NRC - Add'l                                                                         TEFV4        $  92.67
+         NRC - Disconnect Charge - 1st                                                       TEFV4        NA
+         NRC - Disconnect Charge - Add'l                                                     TEFV4        NA
+         NRC - Incremental Charge - Manual Service Order - 1st                               SOMAC        $  42.17
+         NRC - Incremental Charge - Manual Service Order - Add'l                             SOMAC        $  12.76
+         NRC - Incremental Charge - Manual Service Order - Disconnect                        SOMAC        NA
+   Local Channel - Dedicated - DS1                                                           TEFHG        $  35.68
+         NRC - 1st                                                                           TEFHG        $ 534.48
+         NRC - Add'l                                                                         TEFHG        $ 462.69
+         NRC - Disconnect Charge - 1st                                                       TEFHG        NA
+         NRC - Disconnect Charge - Add'l                                                     TEFHG        NA
+         NRC - Incremental Charge - Manual Service Order - 1st                               TEFHG        NA
+         NRC - Incremental Charge - Manual Service Order - Add'l                             TEFHG        NA
+         NRC - Incremental Charge - Manual Service Order - Disconnect                        SOMAC        $  86.15
+   Local Channel - Dedicated - DS3                                                           TEFHJ        $ 498.87
+         NRC - 1st                                                                           TEFHJ        $ 562.25
+         NRC - Add'l                                                                         TEFHJ        $ 527.88
+         NRC - Disconnect Charge - 1st                                                       TEFHJ        NA
+         NRC - Disconnect Charge - Add'l                                                     TEFHJ        NA
+         NRC - Incremental Charge - Manual Service Order - 1st                               SOMAC        $  56.25
+         NRC - Incremental Charge - Manual Service Order - Add'l                             SOMAC        $  56.25
+         NRC - Incremental Charge - Manual Service Order - Disconnect - 1st                  SOMAC        NA
+         NRC - Incremental Charge - Manual Service Order - Disconnect - Add'l                SOMAC        NA
+</TABLE>
+
+NOTES:
+
+   If no rate is identified in the contract, the rate for the specific service
+   or function will be as set forth in applicable BellSouth tariff or as
+   negotiated by the parties upon request by either Party.
+
+
+
+                                 Page 2 of 2
+<PAGE>
+
+                                                                       Exhibit A
+                                                                      Attachment
+                                                                         Table 1
+
+
+                         Rates for Number Portability
+                         ----------------------------
+<TABLE>
+<CAPTION>
+DESCRIPTION                                                                            USOC          NC
+------------                                                                     -------------     -------
+<S>                                                                              <C>               <C>
+   INTERIM SERVICE PROVIDER NUMBER PORTABILTIY - RCF (1) (2)
+   RCF, per number ported (Business Line), 10 paths                              TNPBL             $  2.25
+   RCF, per number ported (Residence Line), 6 paths                              TNPBL             $  1.15
+   RCF, per number ported (Business Line)                                        TNPBL             $  1.66
+       NCR                                                                       TNPBL             $  0.71
+       NRC - Disconnect Charge                                                   TNPBL             $  0.50
+   RCF, per number ported (Residence Line)                                       TNPBL             $  1.66
+       NCR                                                                       TNPBL             $  0.71
+       NRC - Disconnect Charge                                                   TNPBL             $  0.50
+   RCF, add'l capacity for simultaneous call forwarding, per additional path     N/A               $  0.32
+   RCF, per service order, per location                                          (++) Bus = TNPBD
+                                                                                   Res = TNPRD
+         NRC - 1st                                                               TNP++             $  2.73
+         NRC - Add'l                                                             TNP++             $  2.73
+         NRC - Disconnect Charge - 1st                                           TNP++             NA
+         NRC - Disconnect Charge - Add'l                                         TNP++             NA
+         NRC - Incremental Charge - Manual Service Order - 1st                   SOMAN             $ 43.07
+         NRC - Incremental Charge - Manual Service Order - Add'l                 SOMAN             $ 43.07
+         NRC - Incremental Charge - Manual Service Order - Disconnect - 1st      SOMAN             NA
+         NRC - Incremental Charge - Manual Service Order - Disconnect - Add'l    SOMAN             NA
+   INTERIM SERVICE PROVIDER NUMBER PORTABILITY - DID
+   DID per number ported, Residence - NRC                                        TNPDR             $  2.25
+   DID per number ported, Residence - NRC - Disconnect                           TNPDR             NA
+   DID per number ported, Business - NRC                                         TNPDB             $  2.25
+   DID per number ported, Business - NRC - Disconnect                            TNPDB             NA
+   DID per service order, per location
+         NRC - 1st                                                               TNPRD             $  2.73
+         NRC - Add'l                                                             TNPRD             $  2.73
+         NRC - Disconnect Charge - 1st                                           TNPRD             NA
+         NRC - Disconnect Charge - Add'l                                         TNPRD             NA
+         NRC - Incremental Charge - Manual Service Order - 1st                   SOMAN             $ 43.07
+         NRC - Incremental Charge - Manual Service Order - Add'l                 SOMAN             $ 43.07
+         NRC - Incremental Charge - Manual Service Order - Disconnect - 1st      SOMAN             NA
+         NRC - Incremental Charge - Manual Service Order - Disconnect - Add'l    SOMAN             NA
+   DID, per trunk termination, initial                                           TNPT2             $ 11.43
+   DID, per trunk termination, initial - NRC                                     TNPT2             $217.88
+   DID, per trunk termination, initial - Disconnect                              TNPT2             NA
+   DID, per trunk termination, Subsequent                                        TNPT2             $ 11.43
+   DID, per trunk termination, Subsequent - NRC                                  TNPT2             $ 73.56
+   DID, per trunk termination, Subsequent - Disconnect                           TNPT2             NA
+</TABLE>
+
+NOTES:
+
+If no rate is identified in the contract, the rate for the specific service or
+function will be as set forth in applicable BellSouth tariff or as negotiated by
+the parties upon request by either Party.
+
+   1  Until the FCC issues its order implementing a cost recovery mechanism for
+      permanent number portability, the Company will track its costs of
+      providing interim SPNP with sufficient detail to verify the costs. This
+      will facilitate the Florida PSCs consideration of the recovery of these
+      costs in Docket 950737-TP (FL)
+
+   2  BellSouth and CLEC will each bear their own costs of providing remote call
+      forwarding as an interim number portability option. (KY)
+
+                                  Page 1 of 1
+<PAGE>
+
+                                                                       Exhibit A
+                                                                   Attachment 11
+                                                                         Table 1
+
+
+                    Rates for ODUF/EODUF/ADUF/CMDS and CNAM
+                    ---------------------------------------
+<TABLE>
+<CAPTION>
+DESCRIPTION                                                                                                         USOC      NC
+-----------                                                                                                         ----  --------
+<S>                                                                                                                 <C>   <C>
+   ODUF/EODUF/ADUF/CMDS
+   ODUF:  Recording, per message                                                                                    N/A   $    0.008
+   ODUF:  Message Processing, per message                                                                           N/A   $    0.004
+   EODUF:  Message Processing, per message                                                                          N/A   $    0.004
+   ADUF:  Message Processing, per message                                                                           N/A   $    0.004
+   CMDS:  Message Processing, per message                                                                           N/A   $    0.004
+   ODUF:  Message Processing, per magnectic tape provisioned                                                        N/A   $    54.95
+   EODUF:  Message Processing, per magnectic tape provisioned                                                       N/A   $    47.30
+   ADUF:  Message Processing, per magnectic tape provisioned                                                        N/A   $    54.95
+   ODUF:  Data Transmission (CONNECT:DIRECT), per message                                                           N/A   $    0.001
+   EODUF:  Data Transmission (CONNECT:DIRECT), per message                                                          N/A   $0.0000364
+   ADUF:  Data Transmission (CONNECT:DIRECT), per message                                                           N/A   $    0.001
+   CDMS:  Data Transmission (CONNECT:DIRECT), per message                                                           N/A   $    0.001
+   CALLING NAME (CNAM) QUERY SERVICE
+   CNAM (Database Owner), Per Query                                                                                 N/A   $    0.016
+   CNAM:  (Non-Database Owner), Per Query*                                                                          N/A   $     0.01
+       NCR, applicable when CLEC-1 uses the Character Based User Interface (CHUI) method to
+       transmit the names to the BellSouth CNAM database                                                            N/A   $   595.00
+   *  Volume and term arrangements are also available
+</TABLE>
+
+NOTES:
+
+If no rate is identified in the contract, the rate for the specific service or
+function will be as set forth in applicable BellSouth tariff or as negotiated by
+the parties upon request by either Party.
+
+                                  Page 1 of 1
+<PAGE>
+
+                                                                       Exhibit A
+                                                                   Attachment 11
+                                                                         Table 1
+
+                          BELLSOUTH/ITC-DELTACOM RATES
+                                NETWORK ELEMENTS
+                               AND OTHER SERVICES
+                            LOOP/PORT COMBINATIONS
+<TABLE>
+<CAPTION>
+DESCRIPTION                                                                                                          USOC      NC
+-----------                                                                                                         -------  ------
+<S>                                                                                                                 <C>      <C>
+   UNBUNDLED LOOP COMBINATIONS
+   Unbundled Loop/Port Combinations
+       UNBUNDLED LOOP BILLING USOC (REQUIRES ONE PER PORT)                                                          UEPLX
+       LOCAL NUMBER PORTABILITY (REQUIRES ONE PER PORT)                                                             LNPCX
+       CURRENTLY COMBINED LOOP/PORT COMBINATIONS
+
+       2-Wire Voice Grade Loop with 2-Wire Line Port
+       RC - 2-Wire Voice Grade Loop with 2-Wire Line Port, Statewide                                                TBD      $ 16.46
+       RC - 2-Wire Voice Grade Loop                                                                                 UEPLX    Note 1
+       RC - Exchange Port - 2-Wire Line Port                                                                        TBD      Note 1
+       NRC - 2-Wire Voice Grade Loop/Line Port Combination - 1st                                                    USACC    $  2.77
+       NRC - 2-Wire Voice Grade Loop/Line Port Combination - Add'l                                                  USACC    $  0.40
+       NRC - 2-Wire Voice Grade Loop/Line Port Combination - Incremental Cost - Manual Service Order - 1st          TBD      $ 40.18
+       NRC - 2-Wire Voice Grade Loop/Line Port Combination - Incremental Cost - Manual Service Order - Add'l        TBD      $  9.45
+       NRC - 2-Wire Voice Grade Loop/Line Port Combination - Subsequent Database Update                             TBD      $  1.42
+       NRC - 2-Wire Voice Grade Loop/Line Port Combination - Subsequent Database Update -Incremental Manual
+        Service Order                                                                                               TBD      $ 10.27
+       2-Wire Voice Grade Loop with 2-Wire DID Trunk Port                                                           TBD
+       RC - 2 Wire Voice Grade Loop with 2 - Wire Line Port                                                         TBD      $ 23.79
+       NRC-2 Wire Voice Grade Loop with 2-Wire Line Port - 1st                                                      TBD      $ 13.26
+       NRC-2 Wire Voice Grade Loop with 2-Wire Line Port - Add'l                                                    TBD      $  8.39
+       NRC-2 Wire Voice Grade Loop with 2-Wire Line Port - Incremental Cost - Manual Service Order - 1st            TBD      $ 53.89
+       NRC-2 Wire Voice Grade Loop with 2-Wire Line Port - Incremental Cost - Manual Service Order - Add'l          TBD      $ 11.34
+       2-Wire ISDN Digital Grade Loop with 2-wire ISDN Digital Port
+       RC - 2-Wire ISDN Digital Grade Loop with 2-wire ISDN Digital Port                                            TBD      $ 43.45
+       NRC - 2-Wire ISDN Digital Grade Loop/2-wire ISDN Digital Port - 1st conversion                               USACB    $174.35
+       NRC - 2-Wire ISDN Digital Grade Loop/2-wire ISDN Digital Port - Add'l conversion                             USACB    $174.35
+       NRC - 2-Wire ISDN Digital Grade Loop/2-wire ISDN Digital Port - Non Feature Subsequent Activity              USACB    $286.15
+       4-Wire DS1 Digital Loop with 4-Wire ISDN DS1 Digital Trunk Port
+       RC - 4-Wire DS1 Digital Loop with 4-Wire ISDN DS1 Digital Trunk Port                                         TBD      $241.72
+       NCR - 4-Wire DS1 Digital Loop with 4-Wire ISDN DS1 Digital Trunk Port - 1st                                  TBD      $481.51
+       NCR - 4-Wire DS1 Digital Loop with 4-Wire ISDN DS1 Digital Trunk Port - Add'l                                TBD      $481.51
+       NCR - 4-Wire DS1 Digital Loop with 4-Wire ISDN DS1 Digital Trunk Port - Subsequent Channel Activation -
+        Per Channel                                                                                                 TBD      $ 36.92
+       NCR - 4-Wire DS1 Digital Loop with 4-Wire ISDN DS1 Digital Trunk Port - Subsequent Inward/2-way Telephoen
+        Numbers                                                                                                     TBD      $  1.17
+       NCR - 4-Wire DS1 Digital Loop with 4-Wire ISDN DS1 Digital Trunk Port - Subsequent Outward Telephone
+        Numbers                                                                                                     TBD      $ 28.17
+       NCR - 4-Wire DS1 Digital Loop with 4-Wire ISDN DS1 Digital Trunk Port - Subsequent Inward Telephone
+        Numbers                                                                                                     TBD      $ 56.33
+       NCR - 4-Wire DS1 Digital Loop with 4-Wire ISDN DS1 Digital Trunk Port - Subsequent Outward Telephone
+        Numbers                                                                                                     TBD      $ 28.17
+       NCR - 4-Wire DS1 Digital Loop with 4-Wire ISDN DS1 Digital Trunk Port - Subsequent Service order
+        Per Order                                                                                                   TBD      $255.25
+       4-Wire DS1 Digital Loop with 4-Wire DID Trunk Port
+       RC - 4-Wire DS1 Digital Loop with 4-Wire DID Trunk Port                                                      TBD      $186.23
+       NRC - 4-Wire DS1 Digital Loop with 4-Wire DID Trunk Port - 1st                                               TBD      $490.38
+       NRC - 4-Wire DS1 Digital Loop with 4-Wire ISDN DS1 Digital Trunk Port - Add'l                                TBD      $490.38
+       NRC - 4-Wire DS1 Digital Loop with 4-Wire DID Trunk Port - Subsequent Channel Activation - Per Channel       TBD      $146.91
+       NRC - 4-Wire DS1 Digital Loop with 4-Wire DID Trunk Port - Subsequent Telephone Number                       TBD      $120.96
+       NRC - 4-Wire DS1 Digital Loop with 4-Wire DID Trunk Port - Subsequent Signaling Changes                      TBD      $ 29.65
+       NRC - 4-Wire DS1 Digital Loop with 4-Wire DID Trunk Port - Subsequent Service order per Order                TBD      $127.63
+</TABLE>
+
+NOTES - In the absence of ordered rates by a State commission, the rates for
+Currently Combined combinations of loop and port network elements will be the
+sum of the stand alone recurring rates of the UNEs which make up the
+combinations.
+
+                                  Page 1 of 1
+</TEXT>
+</DOCUMENT>

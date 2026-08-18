@@ -1,0 +1,1642 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>3
+<FILENAME>f89543exv10w1.txt
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+<PAGE>
+                                                                 Exhibit 10.1
+
+
+             AMENDED AND RESTATED MANUFACTURING AND SUPPLY AGREEMENT
+
+This Amended and Restated Manufacturing and Supply Agreement (the "Agreement")
+is entered into effective as of April 24, 2003 ("Effective Date"), by and
+between APG, an Indiana corporation ("APG"), and Connetics Corporation, a
+Delaware corporation ("Connetics"). APG and Connetics are each referred to as a
+"Party" to this Agreement, and collectively as the "Parties."
+
+                                   BACKGROUND
+
+A.       Connetics desires to use APG's facilities, resources and expertise to
+         manufacture the Products, as defined below, and APG desires to act as a
+         contract manufacturer of the Products agreed to by both Parties in
+         accordance with the terms and conditions set forth in this Agreement.
+
+B.       Connetics and APG previously entered into a Quality and Technical
+         Agreement, dated January 8, 2002, as amended effective September 13,
+         2002.
+
+C.       Connetics and APG previously entered into a Manufacturing and Supply
+         Agreement dated January 1, 2002, which was amended on July 1, 2002 (the
+         "Original Agreement"). The Parties desire to amend and restate the
+         Original Agreement to encompass the matters set forth in this
+         Agreement.
+
+D.       Upon the execution of this Agreement by the Parties, Connetics desires
+         to pre-pay [*] for future development work and Products
+         (the "Payment").
+
+E.       [*]
+
+NOW, THEREFORE, in consideration of the above premises and the mutual covenants
+set forth below, APG and Connetics agree as follows:
+
+                                    AGREEMENT
+
+                                    ARTICLE 1
+                                   DEFINITIONS
+
+For the purposes of this Agreement, in addition to terms defined elsewhere in
+this Agreement, the following capitalized terms shall have the following
+meanings:
+
+"AFFILIATE" means any corporation or other business entity controlled by,
+controlling or under common control with a party hereto. For this purpose
+"control" shall mean direct or indirect
+
+                                                                          PAGE 1
+
+
+
+[*]  Certain information on this page has been omitted and filed separately
+with the Commission. Confidential treatment has been requested with respect to
+the omitted portions.
+<PAGE>
+
+beneficial ownership of fifty percent (50%) or more of the voting stock, or a
+fifty percent (50%) or more interest in the income of, such corporation or other
+business entity.
+
+"ANNUAL CREDIT" shall have the meaning set forth in SECTION 4.5.
+
+"API" means active pharmaceutical ingredient.
+
+"BATCH" shall have the meaning set forth in the Quality Agreement.
+
+"CERTIFICATE OF ANALYSIS" means a summary of the quality control testing, as
+described in the Specifications, performed by APG for Finished Product supplied
+under this Agreement.
+
+"CHANGE" shall have the meaning set forth in the Quality Agreement.
+
+"cGMPs" means the current Good Manufacturing Practices of the FDA.
+
+"COMMERCIALLY REASONABLE EFFORTS" means the effort by APG or Connetics to
+deploy, in light of prevailing circumstances and taking into account obligations
+and commitments to third parties, sufficient resources, capital equipment,
+material and labor as might reasonably be expected to achieve in a commercially
+appropriate time-scale, the benefits which are reasonably anticipated to accrue
+to APG and Connetics from the commercial exploitation of the Products, and if
+the Commercially Reasonable Efforts are to be directed to a specific goal, then
+the achievement of that goal.
+
+"CONFIDENTIAL INFORMATION" shall have the meaning set forth in SECTION 7.1.
+
+"CONNETICS REPRESENTATIVE" means the person designated by Connetics who shall be
+primarily on site at APG's facility.
+
+"DATE OF MANUFACTURE" shall have the meaning set forth in the Quality Agreement.
+
+"DEVELOPMENT AGREEMENT" means any separate agreement entered into by the Parties
+with respect to a potential Product that is not yet ready to be manufactured on
+a commercial scale, including the requirements surrounding production of units
+of Product and Placebo appropriately labeled for use in Connetics' clinical
+trials (in amounts to be specified by Connetics, as required). Each such
+Development Agreement shall, when executed, be appended to this Agreement as an
+EXHIBIT E (sequentially numbered as Exhibits E-1, E-2, etc.).
+
+"DMF" means the drug master file for a Product, as filed by APG with the FDA.
+
+"FDA" means the Food and Drug Administration of the United States of America.
+
+"FINISHED PRODUCT" shall have the meaning set forth in the Quality Agreement.
+
+"IND" means an Investigational New Drug Application for a Product, as filed by
+Connetics with the FDA.
+
+                                                                          PAGE 2
+
+<PAGE>
+
+"INITIAL TERM" shall have the meaning set forth in SECTION 10.1.
+
+"LABELING" means the primary container label, secondary packaging, package
+insert, shelf pack and shipper label specific to finished Product, including
+Placebo, manufactured pursuant to this Agreement.
+
+"LOSSES" shall have the meaning set forth in SECTION 11.1.
+
+"MANUFACTURING FEE" means the fee paid by Connetics to APG for services required
+to manufacture and package Products. The Manufacturing Fee is quoted in single
+final Product Unit increments (i.e., by the can, bottle, or tube), and will be
+set for each Product and for each size or formulation. . The Manufacturing Fee
+shall include services for incoming inspection of materials (including costs
+associated with establishing, testing and storing Raw Materials or Components),
+compounding of bulk, packaging Product, testing Product for release, making
+Product ready for shipment, and minimum product documentation (one copy of
+Certificate of Analysis, batch records).
+
+"MANUFACTURING STANDARDS" means the specifications for manufacturing, packaging,
+labeling and storing the Products set forth in the Specifications, the master
+batch record, cGMPs, MSDSs, and all other applicable U.S. laws and regulations.
+
+"MSDS" means material safety data sheet(s).
+
+"NDA" means a New Drug Application for a Product, as filed by Connetics with,
+and approved by the FDA.
+
+"PAYMENT" shall have the meaning set forth in RECITAL D.
+
+"PLACEBO" means a Product adjusted to be formulated without the active
+ingredient.
+
+"PRODUCT(s)" means the products described on EXHIBIT A to this Agreement, as it
+may be properly amended from time to time by agreement of the Parties, and which
+is incorporated by this reference as though fully set forth in this paragraph.
+
+"QUALITY AGREEMENT" means the Agreement set forth as EXHIBIT C to this Agreement
+and incorporated by this reference as though fully set forth in this Agreement,
+as it may be amended from time to time.
+
+"RAW MATERIALS" means any and all raw materials and components other than the
+API needed by APG to manufacture and supply Product according to the terms and
+conditions of this Agreement.
+
+"REGULATORY AUTHORITY" means the FDA or any equivalent or additional
+governmental or regulatory agencies having jurisdiction with respect to APG,
+APG's facilities, or the Products.
+
+"SPECIFICATIONS" means the specifications established by Connetics in writing
+for the manufacture of any Product.
+
+                                                                          PAGE 3
+
+<PAGE>
+
+"UNIQUE MATERIALS" shall have the meaning set forth in SECTION 3.12 of this
+Agreement.
+
+"UNIT" means the Product in the package sizes set forth in the Specifications.
+The trade or sample package may be changed from time to time and the term "Unit"
+shall refer to the Product in such changed package.
+
+                                    ARTICLE 2
+                         SPECIFICATIONS AND MANUFACTURE
+
+2.1      Manufacture of Products. During the term of this Agreement, and subject
+         to the terms and conditions of this Agreement, APG shall formulate,
+         fill and package the Products (including Placebo) in accordance with
+         their respective Specifications, according to the terms of this
+         Agreement and the Quality Agreement, as they may be amended from time
+         to time. The Parties may mutually agree to alter the Specifications or
+         to amend the Quality Agreement from time to time by written agreement
+         without the necessity of amending this Agreement.
+
+2.2      Conformance to Specifications. Products (and jointly approved for the
+         purposes of this section, the Placebo) shall conform to the
+         Specifications, the terms of the Quality Agreement, and all
+         specifications provided in Connetics' IND or NDA. Notwithstanding the
+         foregoing, if Connetics accepts Product in accordance with the
+         provisions of this Agreement and the Quality Agreement, this SECTION
+         2.2 shall be deemed to have been satisfied.
+
+2.3      Labeling. APG will label and package Product in finished form, pursuant
+         to a firm purchase order accepted by APG as described in SECTION 3.4.
+         Connetics shall be responsible for the origination of artwork and text,
+         and shall make all final decisions with regard to the Labeling.
+         Connetics shall be responsible for assuring that such Labeling conforms
+         to all applicable laws.
+
+2.4      Raw Materials. APG shall have the sole responsibility to source all API
+         and Raw Materials, including all quality control responsibility for
+         such Raw Materials. APG shall secure reliable sources and maintain
+         sufficient quantities of the API and the Raw Materials to manufacture
+         Product in accordance with the terms and conditions of this Agreement.
+         APG shall assume all responsibility and risk for the safekeeping,
+         storage and handling of all API and Raw Materials.
+
+2.5      Batch Testing; Certificate of Authenticity. APG shall test, or cause to
+         be tested, in accordance with the Specifications, each batch of Product
+         manufactured pursuant to this Agreement before delivery to Connetics.
+         Prior to each shipment of Product, APG shall provide to Connetics a
+         Certificate of Analysis attesting to the quality of each batch
+         contained within the shipment, including review and approval by the
+         appropriate quality control unit of all batch production and control
+         records. APG shall maintain and provide Connetics with such
+         documentation as may be required for compliance with FDA and other
+         applicable regulations.
+
+                                                                          PAGE 4
+
+<PAGE>
+
+2.6      Good Manufacturing Practice. APG shall manufacture, store and prepare
+         all Products for shipping in accordance with cGMPs, in an FDA inspected
+         facility, currently envisioned to be APG's facilities in Indiana,
+         located at 1919 Superior Street, Elkhart, Indiana (formulation and
+         compounding; in process testing; finished product testing) and 2825
+         Middlebury Street, Elkhart, Indiana (fill and packaging). APG shall
+         ensure that the housekeeping and maintenances of each facility complies
+         with cGMP requirements. APG may not change manufacturing of Products to
+         an alternate facility without first obtaining Connetics' written
+         approval, including the approvals required pursuant to the Quality
+         Agreement, such approval not to be unreasonably withheld.
+
+2.7      DMF. APG shall maintain a DMF or like filing, suitable for APG's
+         manufacture of Products, with the applicable regulatory agencies
+         (including FDA) and shall ensure that its "active status" is
+         maintained. APG shall use Commercially Reasonable Efforts to timely
+         accomplish, and bear the costs of, preparing for regulatory inspection,
+         approval and associated filings required for the manufacture of
+         Connetics' Products. Connetics shall directly pay or reimburse APG for
+         any fees and payments to such regulatory agencies required for such
+         inspection, approval and associated filings (e.g., any FDA inspection
+         fee); it is understood that Connetics is not responsible for any
+         additional fees and payments related to the general operation of APG's
+         business or facilities. APG will provide letter(s) granting Connetics
+         and its designees the right of cross-reference to the DMF. APG reserves
+         the right to cancel such letter(s) in case of termination of this
+         Agreement.
+
+2.8      Licenses. APG agrees that it shall, at its sole cost and expense,
+         maintain any and all licenses, permits and consents necessary and/or
+         required for APG to manufacture the Product and otherwise perform its
+         obligations under this Agreement.
+
+2.9      Inspections. Connetics has the right at any time during the term of
+         this Agreement, upon reasonable prior notice and during reasonable
+         business hours and without disruption to APG's business, to inspect
+         APG's facility, and to make FDA-type inspections at its plant to
+         satisfy itself that APG manufactures and documents the Product
+         according to current cGMPs, consistent with FDA standards and
+         requirements. Such inspections may only be made by individuals
+         reasonably acceptable to APG. The provisions of this SECTION 2.9 are
+         subject to the confidentiality provisions OF ARTICLE 7. Connetics shall
+         be responsible for its costs of travel and accommodation for such
+         inspections.
+
+2.10     Changes to Specifications.
+
+         (a)      If Connetics desires any material change to the Specifications
+                  or manufacturing process, Connetics shall deliver, sixty (60)
+                  days prior to the expected date of implementation, written
+                  notice to APG specifying such change desired by Connetics, and
+                  APG shall acknowledge in writing any such notice within thirty
+                  (30) days after APG receives the notice; provided, however,
+                  that the Specifications or process shall not be supplemented,
+                  modified or amended in any respect without the prior written
+                  agreement of the Parties. APG will use Commercially Reasonable
+                  Efforts to implement changes within one hundred and
+
+                                                                          PAGE 5
+
+<PAGE>
+
+                  twenty (120) days after APG's acknowledgement of such notice.
+                  If Connetics requests a change to a Product Specification,
+                  including the manufacturing process, and APG agrees that such
+                  change is feasible, such change shall be incorporated within
+                  the Product Specification pursuant to a written amendment to
+                  this Agreement. Connetics shall be responsible for obtaining
+                  any required FDA approval prior to implementation of such a
+                  change at Connetics' cost.
+
+         (b)      APG will communicate to Connetics in a timely manner any
+                  change in the Product Specification, including the
+                  manufacturing process, initiated by APG, and will obtain
+                  Connetics' written approval by way of written amendment of
+                  this Agreement incorporating such change within the Product
+                  Specification prior to implementation of the change. No such
+                  change may be instituted except in compliance with this
+                  Agreement and the Quality Agreement. Connetics shall have the
+                  option of obtaining, or having APG obtain any required FDA
+                  approval or other regulatory approval prior to implementation
+                  of such a change. APG may provide additional services in
+                  conjunction with the manufacture of Products, such as
+                  additional formulation, process development or stability
+                  testing, at the request of Connetics and pursuant to
+                  Connetics' purchase order, and all data and results from such
+                  additional services shall be owned by Connetics and protected
+                  as confidential under this Agreement.
+
+2.11     Connetics Representative at APG. Connetics may, at Connetics' expense,
+         place a company representative on-site at APG's manufacturing facility
+         during the term of this Agreement. Subject to the following sentence,
+         such representative shall have full access to all operations,
+         documents, and records that specifically pertain to the manufacture of
+         the Products. The Connetics Representative shall accept APG's
+         procedures regulating external customer relationships (including GMP
+         training, guarantee of confidentiality, and health procedures), and
+         shall not materially disrupt APG's operations. Nothing in this SECTION
+         2.11 shall be read to prevent APG from denying access to the Connetics
+         Representative at any time when the confidentiality of another APG
+         customer would be compromised by the presence of the Connetics
+         Representative.
+
+2.12     Equipment. Connetics has purchased the equipment listed on EXHIBIT D,
+         all of which is to be kept at APG's facilities at 1919 Superior Street
+         and 2825 Middlebury Street, Elkhart, Indiana. APG shall use the
+         equipment solely in the manufacture and testing of Connetics' Products,
+         and shall be responsible for maintaining and servicing the equipment.
+         APG consents to the filing of any papers or documents necessary to
+         secure Connetics' security interest in the equipment. Division 9 of the
+         California Commercial Code shall govern the rights and obligations of
+         the Parties relative to the security interests in the equipment.
+
+                                   ARTICLE 2.5
+                                   EXCLUSIVITY
+
+2.5.1    Exclusivity. As consideration for the Payment, during the term of this
+         Agreement, APG shall not engage in any new manufacturing or development
+         activities for any aerosol
+
+                                                                          PAGE 6
+
+<PAGE>
+
+         foam-based prescription dermatology product(s) for any other party
+         without first obtaining Connetics' written consent, which consent can
+         be withheld by Connetics for any reason and at its sole discretion. All
+         manufacturing and/or development activities for aerosol foam-based
+         prescription dermatology product(s) APG is engaged in for other parties
+         as of the effective date of this Agreement are permitted and do not
+         require Connetics' written consent.
+
+2.5.2    Protection of Know-How. Whether or not APG engages in activities
+         specified in SECTION 2.5.1, but especially in those instances when APG
+         does engage in those activities, whether such activities are engaged in
+         prior to or after the effective date of this Agreement, or engaged in
+         with or without Connetics' consent, APG shall protect and keep
+         confidential, pursuant to the provisions of ARTICLE 7, all of
+         Connetics' know-how. Connetics' know-how shall include but not be
+         limited to:
+
+         (a)      the manufacturing plan, process and/or instructions;
+
+         (b)      the Specifications;
+
+         (c)      testing procedures;
+
+         (d)      validation, verification, and/or certification protocols,
+                  including preliminary data and results;
+
+         (e)      stability runs and/or testing;
+
+         (f)      equipment qualifications, validations and/or verifications
+                  specific to the Products; and
+
+         (g)      equipment layout for the equipment used to manufacture the
+                  Products.
+
+         Furthermore, during the preparation, manufacture and internal review
+         following the manufacturing process for the Products, no third party or
+         unauthorized person shall have access to the area in which the
+         manufacturing process takes place. No third party or unauthorized
+         person shall have access at any time to the equipment and machinery
+         dedicated to the manufacture of the Products.
+
+2.5.3    Acceleration upon Breach. If APG breaches the provisions of this
+         ARTICLE 2.5 and Connetics does not terminate this Agreement pursuant to
+         SECTION 10.2, then all remaining Annual Credits, shall be immediately
+         accelerated and the remaining portion of the Payment that has not been
+         credited to Connetics shall be applied 100% to all then-current and
+         future Product orders and/or development work until fully credited to
+         Connetics.
+
+                                                                          PAGE 7
+
+<PAGE>
+
+                                    ARTICLE 3
+                               PLANNING AND SUPPLY
+
+3.1      Production. APG will produce Products to meet the mutually agreed upon
+         forecasts, subject to the provisions of this ARTICLE 3. APG will keep
+         Connetics reasonably informed of all scheduled production activity for
+         the Products.
+
+3.2      Termination of Obligation. APG's obligation to supply Product to
+         Connetics shall terminate pursuant to the provisions of ARTICLE 10
+         below.
+
+3.3      Forecasts. Connetics shall provide APG with an annual forecast for
+         budgeting and production planning purposes. Connetics shall also
+         deliver to APG a monthly update during the first calendar week of each
+         month, together with a summary of changes from the previous update.
+         Forecasts shall include the amounts of each Product to be manufactured
+         and supplied by APG and the expected timing for the delivery of each
+         shipment during the forecast period.
+
+3.4      Purchase Orders. Connetics will place written purchase orders directly
+         or through its designated representatives with APG approximately twelve
+         (12) weeks prior to requested shipment date, including the following
+         details: number of units, requested shipping date, shipping
+         instructions and Connetics' order reference number including the price
+         calculated according to this Agreement. Each purchase order issued
+         pursuant to this Agreement shall be governed by the terms and
+         conditions of this Agreement, and shall override any conflicting
+         provisions in any purchase order and any invoice or packing slip
+         generated by APG with respect to the details set forth in this SECTION
+         3.4.
+
+3.5      Receipt and Acceptance by APG. APG shall promptly acknowledge its
+         receipt of purchase orders and inform Connetics of the anticipated
+         dates of manufacture and delivery of each Product presentation to
+         Connetics. APG shall respond in writing as to its acceptance of each
+         firm purchase order within fifteen (15) days of receipt of such order.
+         Any portion of the order that exceeds the most recent corresponding
+         twelve (12) month forecast (supplied pursuant to SECTION 3.3) by more
+         than one hundred ten percent (110%) will be accepted at APG's
+         discretion. Once a specified quantity, form and delivery date terms
+         have been agreed to by the Parties in any purchase order placed
+         pursuant to this SECTION 3.5, the purchase order may not be canceled by
+         either Party except as provided in SECTION 3.10 or in SECTION 3.11
+         below. Connetics acknowledges that the acceptance of a purchase order
+         triggers the purchase of Unique Materials, as defined in Section 3.12.
+
+3.6      Shipment; Delays. APG shall use Commercially Reasonable Efforts to ship
+         Product to Connetics by the delivery date specified in the accepted
+         purchase order. If APG believes there will be a significant delay in
+         shipment of Finished Product beyond the delivery dates specified in any
+         accepted purchase order, APG shall promptly inform Connetics of such
+         expected delay and shall use Commercially Reasonable Efforts to
+         minimize the delay.
+
+                                                                          PAGE 8
+
+<PAGE>
+
+3.7      Change Orders. The time of delivery and quantities specified in a
+         purchase order accepted by APG pursuant to SECTION 3.5 above shall be
+         binding upon the Parties and may not be changed or canceled, except as
+         provided in SECTIONS 3.9 AND 3.10 below.
+
+3.8      Increased Demand. APG will use Commercially Reasonable Efforts to
+         accommodate Connetics' requests for Units in excess of those reserved
+         for Connetics; provided, however, that it shall not be a breach of this
+         Agreement if APG, despite its Commercially Reasonable Efforts, is
+         unable to supply quantities of Product to Connetics in excess of 110%
+         of the annual forecast supplied pursuant to SECTION 3.3 for that year.
+
+         3.9      Postponement of Manufacturing; Penalties.
+
+         (a)      By Connetics. Connetics may postpone a purchase order for
+                  production in accordance with the provisions in this Section.
+                  Connetics may postpone each purchase order one time. In the
+                  event of postponement pursuant to this SECTION 3.9, APG shall
+                  use Commercially Reasonable Efforts to reschedule the
+                  postponed order to a date agreeable to both Parties.
+                  Regardless of the amount of notice, if Connetics does not
+                  reschedule the Date of Manufacture to a date within forty-five
+                  (45) calendar days of the originally scheduled date, the
+                  Purchase Order shall be deemed cancelled, and Connetics shall
+                  incur the penalties, if any, pursuant to SECTION 3.10.
+
+         (b)      By APG.
+
+                  (i)      APG shall use Commercially Reasonable Efforts to meet
+                           the terms of a purchase order that it accepts, taking
+                           into account mutually agreed upon forecasts under
+                           SECTION 3.3, available plant capacity and timing of
+                           its production.
+
+                  (ii)     APG shall immediately notify Connetics if APG is
+                           unable to fill any purchase order place by Connetics
+                           pursuant to SECTION 3.4 for any reason, and advise
+                           Connetics of the revised delivery date. Connetics
+                           shall then have the option of terminating the
+                           purchase order without obligation of payment or of
+                           accepting the revised delivery date.
+
+3.10     Cancellation of Purchase Orders; Penalties. Connetics may cancel a
+         purchase order for production in accordance with the provisions in this
+         Section. In addition to any charges for Unique Materials pursuant to
+         SECTION 3.12, Connetics shall be assessed a charge for cancellation,
+         determined according to the following schedule:
+
+         (a)      If Connetics gives at least forty-five (45) calendar days
+                  notice prior to the manufacturing date assigned by APG
+                  pursuant to SECTION 3.5, there shall be no penalty for
+                  cancellation.
+
+         (b)      If Connetics gives less than forty-five (45) calendar days and
+                  more than fourteen (14) days notice, APG may invoice Connetics
+                  for, and Connetics shall be required to pay to APG an amount
+                  equal to thirty percent (30%) of
+
+                                                                          PAGE 9
+
+<PAGE>
+
+                  the amount owed under the purchase order, calculated in
+                  accordance with EXHIBIT B; provided, however, that APG must
+                  use Commercially Reasonable Efforts to reallocate the suite to
+                  manufacture another product on the originally scheduled date,
+                  and no charge shall be assessed to Connetics if such efforts
+                  are successful.
+
+         (c)      If Connetics gives fourteen (14) days or less notice, APG may
+                  invoice Connetics for, and Connetics shall be required to pay
+                  to APG an amount equal to, fifty percent (50%) of the amount
+                  owed under the purchase order, calculated in accordance with
+                  EXHIBIT B; provided, however, that APG must use Commercially
+                  Reasonable Efforts to reallocate the suite to manufacture
+                  another product on the originally scheduled date, and no
+                  charge shall be assessed to Connetics if such efforts are
+                  successful.
+
+3.11     Shipment; Inspection; Rejection
+
+         (a)      Shipment of Product. APG shall ship, or cause to be shipped at
+                  Connetics' expense, the Product to Connetics or such
+                  destination(s) as Connetics may designate in writing. Delivery
+                  of Product to a common carrier authorized by Connetics shall
+                  constitute delivery to Connetics, and risk of loss shall pass
+                  to Connetics at that time. APG agrees to provide support to
+                  assist Connetics to pursue any Product related claims it may
+                  have against carriers, provided that Connetics shall reimburse
+                  APG for any out-of-pocket expenses APG may incur in providing
+                  such support. All invoices and other shipping documents shall
+                  be sent by first class mail or by fax to Connetics' address
+                  for notices under this Agreement, directed to the attention of
+                  Controller.
+
+         (b)      Non-Conforming Product. Connetics may reject any shipment of
+                  Product that does not conform to the Manufacturing Standards,
+                  subject to the terms of this Section and the Quality
+                  Agreement. Except with respect to "hidden defects," within ten
+                  (10) business days after APG's internal release of Product,
+                  Connetics shall inspect the Product and notify APG whether it
+                  will accept or reject the Product. If Connetics does not
+                  notify APG of the non-conformity of such Product, the Product
+                  shall be deemed to meet the Specifications, except for hidden
+                  defects. No inspection under this Section shall relieve APG of
+                  its obligations and warranties under this Agreement. If
+                  Connetics rejects all or any part of any shipment of Product,
+                  the procedures to be followed are:
+
+                  (i)      Connetics shall submit to APG in writing any claim
+                           that Product does not conform with the Specifications
+                           or cGMPs, accompanied by a report of Connetics'
+                           analysis (which analysis shall be conducted in good
+                           faith) and a sample of the Product at issue,
+                           explaining in reasonable detail the basis on which
+                           the allegedly nonconforming Product does not meet the
+                           Specifications. Once nonconformance is confirmed and
+                           fault is determined to belong with APG pursuant to
+                           the provisions of this SECTION 3.11(b), Connetics
+                           shall not be obligated to pay for such nonconforming
+
+                                                                         PAGE 10
+
+<PAGE>
+
+                           shipment of Product. Only those tests listed in the
+                           Specifications may be used to demonstrate
+                           nonconformance of Product.
+
+                  (ii)     APG shall conduct its own analysis of the sample in
+                           good faith within thirty (30) days after the receipt
+                           by APG of the report and sample from Connetics, and
+                           provide the results to Connetics.
+
+                           (A)      If after APG's own analysis of the sample
+                                    APG agrees with the claim of nonconformity,
+                                    Connetics shall promptly inform APG if
+                                    Connetics wishes to have APG replace the
+                                    nonconforming Product with conforming
+                                    Product. If Connetics wishes to receive such
+                                    replacement Product, APG shall provide such
+                                    replacement as soon as reasonably
+                                    practicable thereafter, in which case
+                                    Connetics shall be obligated to pay only for
+                                    such replacement Product. Connetics shall
+                                    not be obligated to pay for the
+                                    nonconforming Product, and APG shall: (1)
+                                    credit Connetics for the amount paid by
+                                    Connetics to APG for the nonconforming
+                                    Product if Connetics has already paid for
+                                    such nonconforming Product or (2) cancel its
+                                    invoice to Connetics for such nonconforming
+                                    Product if Connetics has not yet paid for
+                                    such nonconforming Product, and Connetics
+                                    shall not be obligated to pay such canceled
+                                    invoiced amount.
+
+                           (B)      If, after its own analysis, APG does not
+                                    agree with the claim of nonconformity or
+                                    determines that Connetics is responsible for
+                                    the nonconformity, such Product shall be
+                                    tested for conformance with the applicable
+                                    Specifications by an independent third party
+                                    testing laboratory mutually acceptable to
+                                    both parties. The independent analysis shall
+                                    be binding on both Parties solely for the
+                                    purpose of determining whether such Product
+                                    may be rightfully rejected.
+
+                  (iii)    After a final determination that the Product shipment
+                           is nonconforming, and if APG is responsible for the
+                           nonconformity, Connetics shall return or destroy it
+                           at APG's request and cost in the most cost effective
+                           and environmentally safe and appropriate manner
+                           available, consistent with federal, state and local
+                           laws and regulations.
+
+                  (iv)     If conforming Product supplied under this Agreement
+                           becomes nonconforming or unsuitable at no fault of
+                           APG, Connetics will remain obligated to pay APG for
+                           such Product. At APG's request, Connetics shall
+                           return such unsuitable Product to APG. Otherwise,
+                           Connetics shall destroy it in the most
+                           environmentally safe and
+
+                                                                         PAGE 11
+
+<PAGE>
+
+                           appropriate manner available, consistent with
+                           federal, state and local laws and regulations.
+
+         (c)      Hidden Defects. For purposes of this Agreement, "hidden
+                  defect" means a defect in the Product not discovered by
+                  Connetics during its testing of the Product in accordance with
+                  generally accepted practices in the pharmaceutical industry
+                  and which would not be a defect reasonably expected to be
+                  discovered in accordance with such testing. In the case of a
+                  hidden defect, Connetics shall have the right to request that
+                  APG provide to Connetics, within 30 days after APG receives
+                  notice of the hidden defect, Product that meets the
+                  Specifications or to promptly provide Connetics with full
+                  credit for the Purchase Price paid by Connetics for the
+                  returned Product.
+
+         (d)      Notwithstanding the other provisions of this SECTION 3.11,
+                  Connetics shall have no right to reject any Product that fails
+                  to conform with the Manufacturing Standards if the
+                  nonconformance is attributable to (i) events outside of APG's
+                  control that occurred after delivery to a common carrier, or
+                  (ii) processes, procedures or Product components specified or
+                  approved in writing by Connetics in the Specifications or
+                  otherwise, provided that APG followed or used such processes,
+                  procedures and Product components materially in accordance
+                  with the Specifications.
+
+3.12     Unique Materials. Connetics shall reimburse APG for its actual costs
+         expended for the purchase of "Unique Materials" (i.e., certain raw
+         materials, artwork, printed cans, labels, cartons and special valves)
+         purchased by APG expressly to meet its performance obligations under
+         this Agreement in reliance upon a firm purchase order pursuant to
+         SECTION 3.4 and which later are made obsolete, or to the extent that
+         such Unique Materials remain on hand at the expiration of this
+         Agreement as provided under SECTION 10.1. For purposes of this Section,
+         material is obsolete if it cannot be incorporated into the Product due
+         to changes mandated by a Regulatory Authority, changes directed by
+         Connetics, or Connetics-mandated cancellation or postponement. Once
+         material becomes obsolete, APG may invoice Connetics from time to time
+         for APG's cost to acquire such obsolete material, which invoices shall
+         identify the material in question and shall be accompanied by a
+         reasonably detailed statement of the cause of such obsolescence and a
+         certification that APG has disposed of such materials in accordance
+         with the terms of this Agreement.
+
+3.13     Risk of Loss. Risk of loss of Product shall be with APG until delivery
+         of Product to a common carrier pursuant to SECTION 3.11 of this
+         Agreement.
+
+3.14     Insurance. APG shall at its own expense obtain and maintain workers'
+         compensation and comprehensive general liability insurance with respect
+         to performance under this Agreement, in amounts that APG determines to
+         be reasonable, but in no event less than $5,000,000.00.
+
+                                                                         PAGE 12
+
+<PAGE>
+
+                                    ARTICLE 4
+                             PRICE AND PAYMENT TERMS
+
+4.1      Price for Connetics' Products. The price for Connetics' Products shall
+         be the actual cost of Raw Materials and Components, plus the
+         Manufacturing Fee. The Manufacturing Fee shall be a per Unit fee for
+         Products in amounts to be agreed per Unit for each Product and for each
+         size or formulation. As of the Effective Date, the agreed upon
+         Manufacturing Fee for each Product shall be set forth in the document
+         attached as EXHIBIT B to this Agreement, which Exhibit may be amended
+         from time to time by the mutual written agreement of the Parties to add
+         or delete Products and/or size or formulation of Products. The
+         Manufacturing Fee and Product Rebate set forth in Exhibit B for the
+         Products listed in Exhibit A shall not be increased or decreased during
+         the Initial Term of this Agreement, as defined in SECTION 10.1.
+
+4.2      Invoices. APG shall submit to Connetics an invoice five (5) days after
+         APG's internal release of Product. Connetics shall make payment of each
+         invoice within thirty (30) days after receipt by Connetics. If within
+         thirty (30) days after the delivery of Product and the accompanying
+         Certificate of Analysis to Connetics, Connetics demonstrates
+         non-conformance under SECTION 3.11 and APG agrees with such finding,
+         Connetics shall not be obligated to pay for such non-conforming
+         shipment.
+
+4.3      Currency. Amounts due to APG under this Agreement are payable in U.S.
+         Dollars.
+
+4.4      Pre-payment. APG may only use the Payment to reduce current debts it
+         has with certain of its vendors, which vendors APG will identify in
+         writing prior to receiving the Payment. Upon the execution of this
+         Agreement by the Parties, and receipt by Connetics of the list of
+         vendors specified in the previous sentence, Connetics shall pay APG the
+         Payment.
+
+4.5      Annual Credit. APG will repay the Payment by applying a credit to
+         current and future commercial and samples Product orders and any future
+         development work for Connetics at the rate of [*] (the "Annual
+         Credit"), subject to acceleration as provided for in this Agreement.
+         The Annual Credit will be applied each year as a [*] of Product orders
+         and/or development work. The first Annual Credit, unless otherwise
+         accelerated, shall be applied to all then-open and future Product
+         orders and/or development work starting on the date that APG gets loan
+         funding on the New Loan. All subsequent Annual Credits, unless
+         otherwise accelerated, shall be applied to all open and future Product
+         orders and/or development work each year starting on the anniversary
+         date of this Agreement until fully credited to Connetics.
+
+4.6      Acceleration. If APG does not obtain loan funding on the New Loan as
+         well as complete [*] subject to an additional 30 day grace period if
+         needed, then all remaining Annual Credits shall be immediately
+         accelerated and the remaining portion of the Payment that has not yet
+         been credited to Connetics shall be applied 100% to all then-current
+         and future Product orders and/or development work until fully credited
+         to Connetics.
+
+                                                                         PAGE 13
+
+[*]  Certain information on this page has been omitted and filed separately
+with the Commission. Confidential treatment has been requested with respect to
+the omitted portions.
+<PAGE>
+
+                                   ARTICLE 4.5
+                                   COLLATERAL
+
+After APG obtains funding on the New Loan, APG shall grant Connetics a security
+interest in all current and future API and Raw Materials (collectively the
+"Collateral"). The security arrangement will be evidenced by a security
+agreement and shall be perfected by the filing of financing statements (UCC-1)
+with applicable authorities. Financing statements (UCC-1) shall be filed only
+after APG obtains funding on the New Loan. Except for the lender funding the New
+Loan, APG shall obtain subordination agreements from other lenders if any then
+existing lender has a senior security interest in the Collateral, such that
+Connetics' security interest shall be senior to all others.
+
+                                    ARTICLE 5
+                                   WARRANTIES
+
+5.1      Quality. Each shipment of Product under this Agreement shall have been
+         manufactured in accordance with U.S. cGMPs in a duly licensed facility
+         and shall have been subject to a quality control inspection by
+         Connetics in accordance with the Specifications and the Quality
+         Agreement. APG shall number each Product shipment with a vendor lot
+         number that is traceable to Raw Materials used to manufacture such
+         Product.
+
+5.2      cGMP employees. Within 90 days after APG obtains loan funding on the
+         New Loan, APG agrees to hire, with Connetics' assistance and consent,
+         two new cGMP employees to work at APG on cGMP matters. If the positions
+         are not filled within 90 days after APG obtains a loan commitment on
+         the New Loan, then all remaining Annual Credits shall all be
+         immediately accelerated and the remaining portion of the Payment that
+         has not yet been credited to Connetics shall be applied 100% to all
+         then-current and future Product orders and/or development work until
+         fully credited to Connetics.
+
+5.3      Representations and Warranties.
+
+         (a)      APG warrants that Product delivered to Connetics pursuant to
+                  this Agreement shall, at the time of delivery:
+
+                  (i)      have been manufactured, filled, packaged, and shipped
+                           in accordance with all applicable laws, rules,
+                           regulations or requirements;
+
+                  (ii)     have been stored in accordance with all laws, rules,
+                           regulations or requirements relating to the handling
+                           of hazardous materials;
+
+                  (iii)    have been manufactured, filled, packaged and stored
+                           in accordance with, and will conform to, the
+                           Specifications;
+
+                                                                         PAGE 14
+
+<PAGE>
+
+                  (iv)     will be free from defects in material, manufacturing
+                           and workmanship for the shelf life of the Product as
+                           set forth in the Specifications; and
+
+                  (v)      not be adulterated or misbranded within the meaning
+                           of the Federal Food, Drug and Cosmetic Act (the
+                           "Act") as amended, or within the meaning of any
+                           applicable state or municipal law in which the
+                           definitions of adulteration and misbranding are
+                           substantially the same as those contained in the Act,
+                           as the Act and such laws are constituted and
+                           effective at the time of delivery.
+
+         (b)      Licensing. APG represents and warrants that it has obtained
+                  and will maintain on a current basis and will comply with all
+                  licenses, permits and approvals of applicable governmental
+                  agencies as may be required to manufacture, test and store the
+                  Product pursuant to this Agreement and perform its other
+                  obligations under this Agreement. APG shall be responsible for
+                  obtaining and maintaining licenses and permits for
+                  manufacture, testing and storage of the Product and ensuring
+                  that its facilities used in the manufacture of the Product
+                  meet cGMPs in all respects.
+
+         (c)      Compliance with Laws. APG represents and warrants that it
+                  shall comply with all federal, state, local and foreign laws,
+                  regulations and other requirements applicable to the
+                  manufacture, testing and storage of the Product and the
+                  performance of APG's obligations under this Agreement. APG
+                  shall have sole responsibility for adopting and enforcing
+                  safety procedures for the handling and manufacture of the
+                  Product at its facilities and the proper handling and proper
+                  disposal of waste relating to the Product.
+
+5.4      Limitations; Indemnification.
+
+         (a)      Limitations on Warranty. The warranty furnished in SECTION
+                  5.2(b) shall not apply to defects caused by accident or
+                  willful damage, abuse, misuse, neglect, improper testing,
+                  handling, storage or use after delivery by APG of the Product
+                  in question to Connetics.
+
+         (b)      No Implied Representations; Warranties or Conditions. EXCEPT
+                  AS OTHERWISE EXPRESSLY PROVIDED IN THIS AGREEMENT, NEITHER APG
+                  NOR CONNETICS MAKES ANY REPRESENTATIONS OR WARRANTIES AND
+                  THERE ARE NO CONDITIONS, EXPRESS OR IMPLIED, STATUTORY OR
+                  OTHERWISE, WITH RESPECT TO PRODUCT SUPPLIED UNDER THIS
+                  AGREEMENT, INCLUDING, WITHOUT LIMITATION, ANY REPRESENTATIONS,
+                  WARRANTIES OR CONDITIONS WITH RESPECT TO NONINFRINGEMENT,
+                  MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OF SUCH
+                  PRODUCT, OR ARISING FROM A COURSE OF DEALING OR USAGE OF TRADE
+                  PRACTICE.
+
+         (c)      Limitation of Liability. EXCEPT FOR ANY LOSS, LIABILITY,
+                  DAMAGE OR OBLIGATION ARISING OUT OF OR RELATING TO THE
+                  DISCLOSURE OF
+
+                                                                         PAGE 15
+
+<PAGE>
+
+                  CONFIDENTIAL INFORMATION PURSUANT TO ARTICLE 7 OR AS OTHERWISE
+                  EXPRESSLY SET FORTH IN THIS AGREEMENT, IN NO EVENT SHALL
+                  EITHER PARTY HAVE ANY LIABILITY TO THE OTHER PARTY OR ANY
+                  OTHER THIRD PARTY FOR ANY LOST OPPORTUNITY, COSTS OF
+                  PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR FOR ANY
+                  INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR SPECIAL
+                  DAMAGES ARISING OUT OF THIS AGREEMENT, UNDER ANY CAUSE OF
+                  ACTION OR THEORY OF LIABILITY (INCLUDING NEGLIGENCE), AND
+                  WHETHER OR NOT SUCH PARTY TO THIS AGREEMENT HAS BEEN ADVISED
+                  OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL
+                  APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY
+                  LIMITED REMEDY.
+
+                                    ARTICLE 6
+                               TECHNOLOGY TRANSFER
+
+6.1      Technology Transfer by Connetics. APG acknowledges that from
+         time-to-time for business reasons unrelated to APG's performance,
+         Connetics may wish to qualify one or more additional manufacturing
+         sources for Product. Without derogating from APG's rights under this
+         Agreement, if Connetics wishes to qualify an additional source, APG
+         shall cooperate with Connetics in transferring the manufacturing
+         technology and know-how to another entity ("Connetics Technology
+         Transfer"). For purposes of this ARTICLE 6, the term "cooperation" may
+         include providing documentation, Raw Materials or Components, samples
+         of Product, or other information at Connetics' request, and means not
+         taking any action to hinder the qualification of the second source
+         (e.g., by delaying a response to Connetics' requests for assistance).
+         Connetics shall reimburse APG for its time and materials expended to
+         cooperate with Connetics in connection with the Connetics Technology
+         Transfer.
+
+6.2      Technology Transfer by APG. If during the period that any portion of
+         the Payment has not been fully credited to Connetics, APG stops doing
+         business as a going concern Connetics has the right to use APG
+         facilities, equipment, manufacturing technology and know-how ("APG
+         Technology Transfer") to manufacture Connetics' Products subject to any
+         of APG's lenders' senior rights and approvals. In such event APG shall
+         cooperate with Connetics in all respects with the APG Technology
+         Transfer. Connetics' rights to the APG Technology Transfer shall cease
+         when the Payment has been fully credited to Connetics.
+
+                                    ARTICLE 7
+                                 CONFIDENTIALITY
+
+7.1      Confidentiality.
+
+         (a)      Confidential Information. The Parties acknowledge that by
+                  reason of their relationship to each other under this
+                  Agreement, each will have access to certain information and
+                  materials concerning the other's business, plans, trade
+                  secrets, customers (including, but not limited to, customer
+                  lists), technology, and/or
+
+                                                                         PAGE 16
+
+<PAGE>
+
+                  products that is confidential and of substantial value to that
+                  Party, which value would be impaired if such information were
+                  disclosed to Third Parties ("CONFIDENTIAL INFORMATION"). Each
+                  Party agrees that it will not use in any way other than
+                  expressly authorized or contemplated under this Agreement, nor
+                  disclose to any third party, any such Confidential Information
+                  revealed to it by the other Party (except that Confidential
+                  Information may be disclosed, as required for the purposes of
+                  this Agreement, to any Regulatory Authority, an Affiliate,
+                  assignee, distributor, consultant or third party contractor or
+                  research and development organization under similar written
+                  obligations of non-disclosure and non-use), and will take
+                  every reasonable precaution to protect the confidentiality of
+                  such information and with no less restrictive precautions than
+                  it takes to protect its own confidential information. If
+                  Confidential Information is required to be disclosed in
+                  response to a valid order by a court, Regulatory Authority or
+                  other government body of competent jurisdiction, or if
+                  otherwise required to be disclosed by law, or if necessary to
+                  establish the rights of either Party under this Agreement, the
+                  receiving Party shall use Commercially Reasonable Efforts to
+                  provide the disclosing Party with advance notice of such
+                  required disclosure to give the disclosing Party sufficient
+                  time to seek a protective order or other protective measures,
+                  if any are available, for such Confidential Information.
+
+         (b)      Exceptions. For purposes of this Agreement, information shall
+                  be deemed Confidential Information if such information, by its
+                  nature or due to the context within which it is disclosed, is
+                  obviously intended by the disclosing Party to be kept
+                  confidential even if not identified as such in writing or with
+                  legends or other markings. The person disclosing Confidential
+                  Information shall endeavor to confirm verbally disclosed
+                  Information as "CONFIDENTIAL" in writing, given the
+                  understanding that failure to do so does not constitute a
+                  designation of non-confidentiality, particularly when the
+                  confidential nature is apparent from context and subject
+                  matter. Upon request by either Party, the other Party will
+                  advise whether or not it considers any particular information
+                  or materials to be Confidential Information. Confidential
+                  Information does not include information, technical data or
+                  know-how that:
+
+                  (i)      is or becomes publicly available through no fault of
+                           the receiving Party or its individual employees,
+                           agents or members amounting to a breach of this
+                           Agreement;
+
+                  (ii)     is lawfully obtained on a non-confidential basis by
+                           the receiving Party from a third party who is not
+                           obligated to retain such information in confidence;
+
+                  (iii)    the receiving Party can demonstrate, by competent
+                           evidence, was known to it or any of its Affiliates
+                           from a source other than the disclosing Party or any
+                           of its Affiliates prior to the disclosure under this
+                           Agreement;
+
+                                                                         PAGE 17
+
+<PAGE>
+
+                  (iv)     the receiving Party can demonstrate by its written
+                           records is independently developed by employees of
+                           the receiving Party or an Affiliate of the receiving
+                           Party, which employees were neither privy to nor had
+                           access to the Confidential Information and which is
+                           developed without use in any way of the Confidential
+                           Information;
+
+                  (v)      must be disclosed to governmental agencies, provided
+                           that: (A) this exception shall only apply to
+                           disclosure to such agencies, and not to any other
+                           person or entity; and (B) the disclosing Party shall
+                           (1) provide the other Party with prompt notice
+                           (including copies of all written requests or demands)
+                           of any proposed disclosure to any governmental
+                           agency, with an explanation of the Confidential
+                           Information of the other Party to be disclosed; and
+                           (2) cooperate in any lawful effort by the other Party
+                           to prevent, limit or restrict disclosure of its
+                           Confidential Information to such government agency.
+
+7.2      Remedy. If either Party breaches any of its obligations with respect to
+         this ARTICLE 7, or if such a breach is likely to occur, the other Party
+         shall be entitled to seek equitable relief, including specific
+         performance or an injunction, in addition to any other rights or
+         remedies, including money damages, provided by law, without posting a
+         bond.
+
+7.3      Agreement Terms. Subject to SECTION 15.2 and the exclusions set forth
+         in SECTION 7.1(b), the Parties shall treat the terms and conditions of
+         this Agreement as Confidential Information; provided, however, after
+         written notification to the other Party, each Party may disclose the
+         existence of this Agreement and the material terms and conditions of
+         this Agreement under circumstances that reasonably ensure the
+         confidentiality thereof to: (a) any government or regulatory
+         authorities, including without limitation the United States Security
+         and Exchange Commission pursuant to applicable law (excluding, to the
+         extent legally permitted, disclosure of financial terms in any publicly
+         available versions of information so disclosed), (b) its legal
+         representatives, advisors and prospective investors, and (c) to
+         Connetics' licensors to the extent required for compliance with
+         Connetics' obligations under third party licenses.
+
+7.4      Return of Confidential Information. Within ten (10) days following the
+         termination of any agreement between the Parties with respect to the
+         subject matter the receiving Party agrees to promptly return all
+         tangible items relating to the Confidential Information, including all
+         written material, photographs, models, compounds, compositions and the
+         like made available or supplied by the disclosing Party to receiving
+         Party, and all copies thereof, upon the request of the disclosing
+         Party, except such records as may be required to be kept for FDA or
+         other government regulatory compliance. Recipient further agrees to
+         identify those persons to whom the Confidential Information that is the
+         subject of this Agreement was disclosed upon request of the disclosing
+         Party.
+
+                                                                         PAGE 18
+
+<PAGE>
+
+7.5      Inside Information. APG understands that Confidential Information may
+         constitute "inside information" of Connetics for securities purposes
+         and agrees to refrain from any unlawful disclosure, trading or other
+         improper use of such information.
+
+                                    ARTICLE 8
+                                   ASSIGNMENT
+
+8.1      Assignment by APG. APG shall have no right or authority to assign the
+         Agreement or any portion of the Agreement, to sublet or subcontract in
+         whole or in part, or otherwise delegate its performance under this
+         Agreement, without Connetics' prior written consent, which consent
+         shall not unreasonably be withheld. No assignment shall be effective
+         until the assignee shall have unconditionally assumed in writing all of
+         the assignor's obligations under this Agreement and a written notice of
+         such assignment is given to Connetics. Notwithstanding the foregoing,
+         nothing in this Agreement shall prohibit APG from assigning this
+         Agreement to any Affiliate of APG that may from time to time own or
+         operate the Indiana facility or any other facility to which APG may
+         move its manufacturing operations. No such assignment shall relieve APG
+         of primary liability for the performance of its obligations under this
+         Agreement.
+
+8.2      Assignment by Connetics. Connetics may assign this Agreement, provided
+         prior reasonable written notice has been given to APG. APG agrees that
+         if this Agreement is assigned to any third party or Affiliate, all the
+         terms and conditions of this Agreement shall continue between such
+         third party or Affiliate and APG with the same force and effect as if
+         said Agreement had been made with such third party or Affiliate in the
+         first instance, provided that no such assignment shall relieve
+         Connetics of primary liability for the performance of its obligations
+         under this Agreement.
+
+8.3      Binding Effect and Assignment. When duly assigned in accordance with
+         this ARTICLE 8, this Agreement shall be binding upon and inure to the
+         benefit of the assignee. Any attempted assignment contrary to the
+         provisions of this ARTICLE 8 shall be deemed ineffective, and the
+         non-assigning Party shall have the right to terminate this Agreement,
+         with the effect described in SECTION 10.2.
+
+                                    ARTICLE 9
+                                  FORCE MAJEURE
+
+Neither Party shall be considered in default of performance of its obligations
+under this Agreement, except any obligation under this Agreement to make
+payments or apply credits when due, to the extent that performance of such
+obligations is delayed by contingencies or causes beyond the reasonable control
+and not caused by the negligence or willful misconduct of such Party, including
+but not limited to strike, fire, flood, earthquake, windstorm, governmental acts
+or orders or restrictions, or force majeure, to the extent that the failure to
+perform is beyond the reasonable control of the nonperforming Party, if the
+Party affected shall give prompt written notice of any such cause to the other
+Party. The Party giving such notice shall thereupon be excused from performance
+of its obligations under this Agreement for the period of time that the
+
+                                                                         PAGE 19
+
+<PAGE>
+
+condition constituting force majeure continues and the non-performing Party uses
+good faith diligent efforts to mitigate, avoid or end such delay as soon as
+practicable.
+
+                                   ARTICLE 10
+                              TERM AND TERMINATION
+
+10.1     Term. Subject to the rights to terminate sooner under this Article 10,
+         this Agreement shall expire on May 1, 2008 (the "Initial Term"), after
+         which this Agreement may be renewed for successive periods of one or
+         more calendar year(s) each, by written agreement of the Parties.
+
+10.2     Termination for Material Breach. Either Party may terminate this
+         Agreement upon written notice if the other Party has breached any of
+         its material obligations under this Agreement, and (a) such breach has
+         not been cured within 60 days after written notice of the breach, or
+         (b) if a plan, reasonably acceptable to the non-breaching Party, is not
+         implemented to cure as soon as practicable after notice of the breach
+
+10.3     Termination upon Insolvency. Either Party may, in addition to any other
+         remedies available to it by law or in equity, terminate this Agreement
+         immediately by written notice to the other Party upon (i) the filing by
+         the other Party of a voluntary petition in bankruptcy or seeking
+         reorganization, liquidation, dissolution, winding-up, arrangement,
+         composition or readjustment of its debts or any other relief under any
+         bankruptcy, insolvency, reorganization or other similar act or law of
+         any jurisdiction now or hereafter in effect, (ii) the filing against
+         such other Party of an involuntary petition in bankruptcy which is not
+         dismissed within 60 days, (iii) the appointment of a receiver or
+         trustee of any of such other Party's property if such appointment is
+         not vacated within 60 days, (iv) the adjudication of such other Party
+         as insolvent, or (v) the assignment of such other Party's property for
+         the benefit of its creditors (collectively, "Insolvency"). In the event
+         of an Insolvency, if the Agreement is not terminated, then all
+         remaining Annual Credits shall be immediately accelerated and the
+         remaining portion of the Payment that has not yet been credited to
+         Connetics shall be applied 100% to all then-current and future Product
+         orders and/or development work until fully credited to Connetics.
+
+10.4     Termination for Force Majeure. Either Party may terminate this
+         Agreement upon thirty (30) days written prior notice in the event of
+         the other Party's inability to substantially perform its obligations
+         under this Agreement for more than one hundred eighty (180) days due to
+         an event of force majeure as described in SECTION 9.1.
+
+10.5     Payment upon Termination. If the Agreement is terminated pursuant to
+         SECTION 10.2, SECTION 10.3 or SECTION 10.4, then all remaining Annual
+         Credits shall be immediately accelerated and the remaining portion of
+         the Payment that has not yet been credited to Connetics shall be
+         immediately due and payable to Connetics.
+
+10.6     Termination without Cause. After the Payment has been fully credited to
+         Connetics, either Party may terminate this Agreement upon twelve (12)
+         months' written notice.
+
+                                                                         PAGE 20
+
+<PAGE>
+
+10.7     Accrued Liabilities. The termination of this Agreement for any reason
+         shall not discharge either Party's liability for obligations incurred
+         under this Agreement and amounts unpaid at the time of such
+         termination. Connetics shall be liable to pay APG for any Product, work
+         in progress and materials purchased by APG, less any remaining portion
+         of the Payment that has not been credited to Connetics, to fulfill its
+         obligations under this Agreement, provided however that APG shall make
+         all Commercially Reasonable Efforts to mitigate its damages under such
+         circumstances.
+
+10.8     Return and Disposition of Property. Upon the termination of this
+         Agreement for any reason, each Party shall return to the other Party or
+         its designee all of such other Party's property, including, but not
+         limited to, all proprietary information, in its possession. To the
+         extent required by law or to comply with such Party's continuing
+         obligations under this Agreement, each Party may keep a single copy of
+         tangible property belonging to the other Party. APG shall dispose of
+         all bulk active ingredients, raw materials, containers, and Labeling
+         not necessary to complete work in progress at Connetics' expense, less
+         any remaining portion of the Payment that has not been credited to
+         Connetics, in accordance with Connetics' reasonable instructions.
+
+10.9     Reversion of Rights. Upon the termination of this Agreement for any
+         reason, APG shall have no further rights to manufacture under
+         Connetics' patents, and all rights, title or interest in Connetics'
+         technology shall revert automatically to Connetics without the need for
+         further action.
+
+                                   ARTICLE 11
+                                 INDEMNIFICATION
+
+11.1     Indemnification by APG. APG shall indemnify Connetics, its Affiliates
+         and their respective directors, officers, employees and agents, and
+         defend and hold each of them harmless, from and against any and all
+         suits, losses, actions, demands, investigations, claims, damages,
+         liabilities, costs and expenses (including, without limitation,
+         reasonable attorneys' fees and expenses) (collectively, "LOSSES")
+         brought by third parties arising from or occurring as a result of:
+
+         (a)      a nonconformity of Product with the warranties under SECTIONS
+                  5.1 and 5.2 except for any damages attributable to the
+                  negligence of Connetics, its employees or agents;
+
+         (b)      APG's failure to comply with the Specifications;
+
+         (c)      any willful act or omission or negligence of APG or its
+                  employees, agents or other contractors in the manufacturing
+                  and testing of the Product; or
+
+         (d)      APG's failure to comply with the Act and the regulations under
+                  the Act in the production of Product.
+
+                                                                         PAGE 21
+
+<PAGE>
+
+         (e)      any breach (or alleged breach) by APG of its representations,
+                  warranties, or material obligations under this Agreement;
+
+         (f)      the manufacture or the storage of the Product prior to the
+                  date of shipment of Product to Connetics by APG or its
+                  Affiliates,
+
+         all except to the extent caused by the negligence or willful misconduct
+         of Connetics or its officers, agents, employees, Affiliates,
+         sublicensees or customers.
+
+11.2     Indemnification by Connetics. Connetics shall indemnify APG, its
+         Affiliates and their respective directors, officers, employees and
+         agents, and defend and save each of them harmless, from and against any
+         and all Losses brought by third parties arising from or occurring as a
+         result of:
+
+         (a)      failure by Connetics to comply with the Food Drug and Cosmetic
+                  Act and the regulations under the Act;
+
+         (b)      the handling or other use of the Product including by end
+                  users;
+
+         (c)      any willful act or omission or negligence of Connetics or its
+                  employees, agents or other contractors
+
+         (d)      any breach (or alleged breach) by Connetics of its
+                  representations, warranties, or material obligations under
+                  this Agreement;
+
+         (e)      the manufacture by Connetics or third parties contracted by
+                  Connetics, or the storage of Product after the date of
+                  shipment of Product to Connetics by APG or its Affiliates,
+
+         all except to the extent caused by the negligence or willful misconduct
+         of APG or its officers, agents, employees, Affiliates, sublicensees or
+         customers.
+
+11.3     Patent Indemnification. Connetics shall indemnify, defend, and hold APG
+         and its employees, servants and agents harmless from and against any
+         and all claims, demands, actions, suits, losses, damages, costs,
+         expenses (including reasonable attorney's fees), and liabilities which
+         APG may incur, suffer or be required to pay by reason of any patent
+         infringement suit brought against APG because of APG's manufacture of
+         Product to the extent that the alleged infringement arose out of or
+         related to APG's use of processes, compounds or other products the
+         rights to which are claimed to be owned by Connetics.
+
+11.4     Process. If either Party expects to seek indemnification from the other
+         pursuant to the provisions of this ARTICLE 11, it shall promptly give
+         notice to the indemnifying Party of any such Claim. The indemnifying
+         Party shall have the right to control the defense of such Claim and the
+         indemnified Party shall cooperate with the indemnifying Party in the
+         defense of such Claim. The indemnifying Party shall have the right to
+         settle or compromise any claim against the other Party without the
+         consent of the other Party, provided that the terms of the settlement:
+
+                                                                         PAGE 22
+
+<PAGE>
+
+         (a)      provide for the unconditional release of the Party being
+                  indemnified;
+
+         (b)      require the payment of compensatory monetary damages only by
+                  the indemnifying Party; and
+
+         (c)      expressly states that neither the fact of settlement nor the
+                  settlement agreement shall constitute, or be construed or
+                  interpreted as, an admission by the Party being indemnified of
+                  any issue, fact, allegation or any other aspect of the claim
+                  being settled.
+
+         The Party being indemnified shall not pay or voluntarily permit the
+         determination of any liability which is subject to any such action
+         while the indemnifying Party is negotiating the settlement thereof or
+         contesting the matter, except with the prior written consent of the
+         indemnifying Party, which consent shall not be unreasonably withheld or
+         delayed.
+
+                                    ARTICLE 12
+                            AUDIT RIGHTS; INSPECTIONS
+
+12.1     Inspections. Connetics, upon its own discretion and at its own cost and
+         expense, is entitled during ordinary business hours and at dates
+         acceptable to APG to inspect or to have inspected, APG's plant and
+         procedures used for manufacture and storage of the Products. Such
+         inspections shall not materially disrupt APG's business for other
+         customers.
+
+12.2     Books and Records. APG agrees to maintain and cause its Affiliates to
+         maintain complete and accurate books and records of account so as to
+         enable Connetics to verify amounts due and payable under this
+         Agreement. In particular, APG shall preserve and maintain all such
+         records and accounts required for audit for a period of four (4) years
+         after the calendar quarter for which the record applies.
+
+12.3     Audit of APG's Records. During the term of this Agreement, Connetics
+         shall have the right upon four (4) weeks notice to APG to have an
+         independent certified public accountant, selected by Connetics and
+         reasonably acceptable to APG, audit APG's records relating specifically
+         to the Products during normal business hours; provided, however, that
+         such audit shall not take place more frequently than once a year and
+         shall not cover records for more than the preceding four (4) years.
+
+12.4     Government Inspection. APG agrees to advise Connetics by telephone and
+         facsimile immediately of any proposed or announced visit or inspection,
+         and as soon as possible but in any case within twenty-four (24) hours
+         of any unannounced visit or inspection, by any Regulatory Authority of
+         any facilities used by APG in the performance of its obligations under
+         this Agreement. APG shall provide Connetics with a reasonable
+         description of each such visit or inspection promptly (but in no event
+         later than five [5] calendar days) thereafter, and with copies of any
+         letters, reports or other documents (including Form 483's) issued by
+         any such authorities that relate to the Products, or such facilities,
+         processes or procedures. Connetics may review APG's responses to any
+         such reports and communications, and if practicable, and, insofar as
+         timely received, Connetics'
+
+                                                                         PAGE 23
+
+<PAGE>
+
+         reasonable views and requests shall be taken into account prior to
+         submission of such reports and communications to the relevant
+         Regulatory Authority.
+
+                                   ARTICLE 13
+                                    DISPUTES
+
+13.1     Arbitration. If the Parties' are unable to settle amicably any claim,
+         dispute, controversy or difference arising out of or in relation to or
+         in connection with this Agreement or for breach of this Agreement
+         through consultation and negotiation in good faith and a spirit of
+         mutual cooperation, then the dispute shall be resolved through binding
+         arbitration in accordance with the rules of the American Arbitration
+         Association then in effect. Judgment upon the award rendered by the
+         arbitrators may be entered in any court having jurisdiction thereof. In
+         any arbitration pursuant to this section, the award shall be rendered
+         by a majority of the members of a board of arbitration consisting of
+         three members, one being appointed by each Party and the third being
+         appointed by mutual agreement of the two arbitrators appointed by the
+         parties. The place of arbitration shall be Palo Alto, California.
+
+13.2     Waiver of Trial by Jury. If the Parties fail to resolve a dispute
+         through negotiation or arbitration in accordance with SECTION 13.1,
+         each Party shall have the right to pursue any of the remedies legally
+         available to resolve the dispute; provided, however, that the Parties
+         expressly waive any right to a jury trial in any legal proceedings
+         under this ARTICLE 13.
+
+13.3     Governing Law. This Agreement shall be governed, controlled,
+         interpreted and defined by and under the laws of the State of
+         California and the United States without regard to that body of law
+         known as conflicts of law; provided that issues relating to the
+         validity and enforceability of patents shall be governed by the laws of
+         the jurisdiction by which such patent was granted.
+
+                                   ARTICLE 14
+                                     NOTICES
+
+Any notice required or permitted by this Agreement shall be in writing and shall
+be sent by prepaid registered or certified mail, return receipt requested; by
+facsimile; by internationally recognized courier; or by personal delivery, in
+each case addressed to the other Party at the address below or at such other
+address for which such Party gives notice under this Agreement.
+
+         If to Connetics, at:
+
+                  Connetics Corporation
+                  Attn: President and Chief Executive Officer
+                  3290 West Bayshore Road
+                  Palo Alto, California 94303
+
+                                                                         PAGE 24
+
+<PAGE>
+
+         If to APG, at:
+
+                  Accra Pac Group
+                  Attn:  Chief Executive Officer
+                  1919 Superior Street
+                  Elkhart, Indiana 46516
+                  With a copy to:  President
+
+Such notice shall be deemed to have been given when delivered or, if delivery is
+not accomplished by some fault of the addressee, when tendered. Either Party may
+change its address for notice by delivering a written notice of the new address
+in accordance with this Article.
+
+                                   ARTICLE 15
+                             NATURE OF RELATIONSHIP
+
+15.1     No Agency; Independent Contractor. Each Party is and shall be
+         considered to be an independent contractor of the other Party. Neither
+         Party shall be the legal agent of the other for any purpose whatsoever
+         and neither Party has any right or authority to make or underwrite any
+         promise, warranty or representation, to execute any contract or
+         otherwise to assume any obligation or responsibility in the name of or
+         on behalf of the other Party. Neither Party shall be bound by or liable
+         to any third persons for any act or for any obligation or debt incurred
+         by the other toward such third party, except to the extent specifically
+         agreed to in writing by the Party so to be bound.
+
+15.2     Public Statements. The Parties shall endeavor to provide courtesy
+         copies of any public announcements concerning the relationship created
+         by this Agreement. Neither Party shall make any representations
+         concerning the other without the prior consent from the other Party.
+         Notwithstanding the foregoing, each Party consents to references to it
+         in reports or documents or other disclosures sent to stockholders or
+         filed with or submitted to any governmental authority or stock
+         exchange. Except for such disclosure as is required by applicable law
+         and/or stock exchange regulation, neither Party shall make any
+         announcement, news release, public statement, publication or
+         presentation relating to the existence of this Agreement or the
+         arrangements referred to in this Agreement without first notifying the
+         other Party.
+
+15.3     No License. Nothing in this Agreement, including the original transfer
+         of technical information from Connetics to APG, shall constitute any
+         grant, option or license to APG under any patent or other rights now or
+         hereafter held by Connetics.
+
+                                                                         PAGE 25
+
+<PAGE>
+
+                                   ARTICLE 16
+                              ADDITIONAL PROVISIONS
+
+16.1     Headings. Article and section headings contained in this Agreement are
+         included for convenience of reference only and shall not affect in any
+         way the meaning or interpretation of this Agreement.
+
+16.2     Partial Invalidity. If any provision of this Agreement is held to be
+         invalid, illegal, or unenforceable by a court of competent
+         jurisdiction, then: (a) such provision will be deemed amended to
+         conform to applicable laws of such jurisdiction so as to be valid and
+         enforceable, or, if it cannot be so amended without materially altering
+         the intention of the parties, it will be stricken; (b) the validity,
+         legality and enforceability of such provision will not in any way be
+         affected or impaired thereby in any other jurisdiction; and (c) the
+         remaining provisions of this Agreement will remain in full force and
+         effect.
+
+16.3     Survival. The covenants and agreements set forth in ARTICLES 7, 11 AND
+         13 shall survive any termination or expiration of this Agreement and
+         remain in full force and effect regardless of the cause of termination.
+
+16.4     Entire Agreement. This Agreement, including the attached Exhibits,
+         constitutes the entire agreement of the Parties with respect to the
+         subject matter, and supersedes all prior or contemporaneous
+         understandings or agreements, whether written or oral, between
+         Connetics and APG with respect to such subject matter, including but
+         not limited to the Original Agreement and Term Sheet dated April 15,
+         2003. In particular, (a) in the event of a conflict between this
+         Agreement and the terms and conditions of any purchase order or other
+         form generated in performance of this Agreement, then the terms and
+         conditions of this Agreement shall control except insofar as any such
+         purchase order or confirmation establishes:
+
+                  (i)      the quantity and form of any Product ordered;
+
+                  (ii)     the shipment date;
+
+                  (iii)    the shipment routes and destinations; or
+
+                  (iv)     the carrier;
+
+         and (b) in the event of conflict between this Agreement and the Quality
+         Agreement (as it may be amended from time to time), the terms of this
+         Agreement shall govern all aspects of the relationship between the
+         Parties except that the Quality Agreement shall govern with respect to
+         quality matters.
+
+16.5     Waivers. No waiver of any term or condition of this Agreement shall be
+         valid or binding on either Party unless agreed in writing by the Party
+         to be charged. The failure of either Party to enforce at any time, or
+         for any period of time, any provision of this Agreement, or the failure
+         to require at any time performance by the other Party of any provision
+         of this Agreement, shall in no way be construed to be a present or
+         future waiver of such provisions or of the right of such Party
+         thereafter to enforce that provision or other provisions of this
+         Agreement.
+
+                                                                         PAGE 26
+
+<PAGE>
+
+16.6     Amendment. Except as set forth in SECTION 2.1, no amendment or
+         modification of this Agreement shall be valid or binding upon the
+         Parties unless made in writing and signed by the duly authorized
+         representatives of both Parties.
+
+16.7     Construction. The Parties agree that they have been represented by
+         counsel during the execution and negotiation of this Agreement.
+         Accordingly the Parties waive the application of any law, regulation,
+         holding or rule of construction that provides that ambiguities in an
+         agreement or other document will be construed against the party
+         drafting such agreement or document.
+
+16.8     Counterparts. This Agreement may be executed in two or more
+         counterparts, each of which shall be deemed an original and all of
+         which together shall constitute one and the same agreement. This
+         Agreement may be signed and delivered to the other Party by facsimile
+         signature; such transmission will be deemed a valid signature.
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be duly executed
+by their respective duly authorized officers as of the Effective Date.
+
+Connetics Corporation                           APG
+
+By: /s/ Greg Vontz                              By:  /s/ Robert E. Theroux
+   ___________________________________              ____________________________
+
+Title: EVP & COO                                Title: President & COO
+      ________________________________                 _________________________
+
+                                                                         PAGE 27
+
+<PAGE>
+
+                                LIST OF EXHIBITS
+
+EXHIBIT A                   PRODUCTS
+
+EXHIBIT B                   PRICING
+
+EXHIBIT C                   QUALITY AGREEMENT
+
+EXHIBIT D                   EQUIPMENT LIST
+
+                                                                        EXHIBITS
+
+<PAGE>
+
+                                    EXHIBIT A
+
+                                    PRODUCTS
+[*]
+
+
+
+
+[*]  Certain information on this page has been omitted and filed separately
+with the Commission. Confidential treatment has been requested with respect to
+the omitted portions.
+<PAGE>
+
+                                    EXHIBIT B
+
+                                     PRICING
+
+[*]
+
+
+
+
+
+[*]  Certain information on this page has been omitted and filed separately
+with the commission. Confidential treatment has been requested with respect to
+the omitted portions.
+<PAGE>
+
+                                    EXHIBIT C
+
+                                QUALITY AGREEMENT
+
+Quality and Technical Agreement between Connetics Corporation and APG, dated
+January 8, 2002, as amended effective September 13, 2002, as it may be further
+amended from time to time.
+
+                                                                        Exhibits
+
+<PAGE>
+
+                                    EXHIBIT D
+
+                                 EQUIPMENT LIST
+
+[*]
+
+
+
+
+
+[*]  Certain information on this page has been omitted and filed separately
+with the Commission. Confidential treatment has been requested with respect to
+the omitted portions.
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,145 @@
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>4
+<FILENAME>g01280exv10w2.txt
+<DESCRIPTION>EX-10.2 AMENDMENT NO.13 TO CONTRACT
+<TEXT>
+<PAGE>
+
+                                                                    Exhibit 10.2
+
+(AHCCCS LOGO)
+
+           ARIZONA HEALTH CARE COST CONTAINMENT SYSTEM ADMINISTRATION
+                        DIVISION OF BUSINESS AND FINANCE
+                               CONTRACT AMENDMENT
+
+1. AMENDMENT NO.: 13
+
+2. CONTRACT NO.: YH04-0001-03
+
+3. EFFECTIVE DATE OF AMENDMENT: OCTOBER 1, 2005
+
+4. PROGRAM: DHCM
+
+5. CONTRACTOR/PROVIDER NAME AND ADDRESS: HEALTH CHOICE ARIZONA
+                                         1600 W. BROADWAY, SUITE 260
+                                         TEMPE, ARIZONA 85282-1136
+
+6. PURPOSE: To incorporate the changes below and to amend capitation rates.
+
+7. The above referenced contract is hereby amended as follows:
+
+SECTION B, CAPITATION RATES
+
+     See rate sheet attached for the revised capitation rates effective October
+     1, 2005 through December 31, 2005 and the amounts to be paid to the rural
+     hospitals.
+
+     Insert the following language before "SEE ATTACHED":
+
+     "The Contractor will be paid the attached Contractor specific capitation
+     rates retroactively, per member per month, for the period of October 1,
+     2005 through December 31, 2005. Only the impacted rates are included on the
+     attachment. All other rates remain unchanged. The Administration requires
+     that the Contractor then make one-time payments to each rural hospital as
+     prescribed on the attached schedule, pursuant to ARS Section 36-2905.02, to
+     increase inpatient reimbursement to these small rural hospitals.
+
+     The retroactive capitation rate payment will be paid with the May 2006
+     capitation payments. The Contractor shall make the prescribed payments to
+     the rural hospitals by May 31, 2006.
+
+     AHCCCS requires that the Contractor submit confirmation of the payments to
+     the Finance Unit of the Division of Health Care Management by June 15,
+     2006.
+
+     The capitation rates for the period January 1, 2006 through September 30;
+     2006 are not impacted by this amendment."
+
+NOTE: Please sign and   Michael Veit, Contracts & Purchasing Administrator
+date both and return    AHCCCS Contracts and Purchasing
+one original to:        701 E. Jefferson, MD 5700
+                        Phoenix, AZ 85034
+
+8. EXCEPT AS PROVIDED FOR HEREIN, ALL TERMS AND CONDITIONS OF THE ORIGINAL
+CONTRACT NOT HERETOFORE CHANGED AND/OR AMENDED REMAIN UNCHANGED AND IN FULL
+EFFECT.
+
+IN WITNESS WHEREOF THE PARTIES HERETO SIGN THEIR NAMES IN AGREEMENT.
+
+9. NAME OF CONTRACTOR: HEALTH CHOICE ARIZONA
+
+SIGNATURE OF AUTHORIZED INDIVIDUAL
+
+
+/s/ Carolyn Rose
+-------------------------------------
+TYPED NAME: CAROLYN ROSE
+TITLE: CHIEF EXECUTIVE OFFICER
+
+DATE 4/14/2006
+
+10. ARIZONA HEALTH CARE COST CONTAINMENT SYSTEM
+
+SIGNATURE:
+
+
+/s/ Michael Veit
+-------------------------------------
+TYPED NAME: MICHAEL VEIT
+TITLE: CONTRACTS AND PURCHASING
+       ADMINISTRATOR
+
+DATE: MAR 30 2006
+
+<PAGE>
+
+                   ARIZONA HEALTH CARE COST CONTAINMENT SYSTEM
+                         REVISED ACUTE CAPITATION RATES
+                             HEALTH CHOICE ARIZONA
+                               (10/1/O5-12/31/05)
+
+<TABLE>
+<CAPTION>
+                                     TANF       TANF       TANF       TANF       TANF       SSI       SSI
+TITLE XIX RATES:                   <1, M/F   1-13, M/F   14-44, F   14-44, M   45+, M/F    W/MED    W/O MED   NON-MED      MEO
+----------------                   -------   ---------   --------   --------   --------   -------   -------   -------   ---------
+<S>                                <C>       <C>         <C>        <C>        <C>        <C>       <C>       <C>       <C>
+ 4 Apache/Coconina/Mohave/Navajo   $516.84    $108.23     $229.50    $152.23    $376.57   $311.02   $667.52   $485.63   $  883.25
+ 8 Gila/Pinai                      $509.00    $106.57     $207.01    $135.48    $378.36   $279.42   $596.49   $475.15   $1,075.69
+10 Pima                            $428.24    $102.00     $181.90    $123.11    $389.09   $297.21   $615.92   $381.44   $  831.66
+12 Maricopa                        $430.33    $102.39     $182.45    $127.06    $369.46   $273.14   $554.41   $430.07   $  841.02
+</TABLE>
+
+Two percent Premium tax is included in the Capitation Rates.
+Payments stated without Premium Tax.
+
+<TABLE>
+<CAPTION>
+   HEALTH CHOICE AZ                           PAYMENT
+   ----------------                           -------
+<S>                                         <C>
+ 1 BENSON HOSPITAL                          $        0.00
+ 2 CARONDELET HOLY CROSS HOSPITAL           $    1,380.18
+ 3 COBRE VALLEY COMMUNITY HOSPITAL          $  486,898.52
+ 4 COPPER QUEEN COMMUNITY HOSPITAL          $        0.00
+ 5 LA PAZ REGIONAL MEDICAL CENTER           $    2,719.83
+ 6 MT. GRAHAM COMMUNITY HOSPITAL            $    1,429.00
+ 7 NAVAPACHE REGIONAL MEDICAL CENTER        $  456,926.83
+ 8 NORTHERN COCHISE COMMUNITY HOSPITAL      $      725.24
+ 9 PAGE HOSPITAL                            $   22,795.32
+1O PAYSON HOSPITAL CORPORATION              $  539,694.90
+11 SIERRA VISTA COMMUNITY HOSPITAL          $    1,365.53
+12 SOUTHEAST ARIZONA MEDICAL CENTER         $    1,501.04
+13 VERDE VALLEY MEDICAL CENTER (MJL)        $   14,187.78
+14 WHITE MOUNTAIN REGIONAL MEDICAL CENTER   $   28,474.87
+15 WICKENBURG REGIONAL HOSPITAL             $      582.85
+16 WINSLOW MEMORIAL HOSPITAL                $  328,600.36
+                                            -------------
+   Total                                    $1,885,282.24
+                                            =============
+</TABLE>
+
+</TEXT>
+</DOCUMENT>

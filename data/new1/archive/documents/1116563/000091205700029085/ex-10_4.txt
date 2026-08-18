@@ -1,0 +1,118 @@
+<DOCUMENT>
+<TYPE>EX-10.4
+<SEQUENCE>9
+<FILENAME>ex-10_4.txt
+<DESCRIPTION>EXHIBIT 10.4
+<TEXT>
+
+<PAGE>
+                                                                  Exhibit 10.4
+
+                                 AMENDMENT NO. 1
+                                       TO
+                              AMENDED AND RESTATED
+                      FIBER NETWORKS DEVELOPMENT AGREEMENT
+
+     This Amendment (the "Amendment") is entered into as of the 17th day of
+March, 2000, by and between Sea Breeze Communication Company ("SBCC"), a
+Delaware corporation, PF.Net Corp. ("PF.Net"), a Delaware corporation and PF.Net
+Network Services Corp. ("Network Services Corp."), a Delaware corporation
+formerly known as PF.Net, LLC.
+
+                                   WITNESSETH:
+
+     WHEREAS, SBCC and Network Services Corp. entered into a Fiber Networks
+Development Agreement, dated May 17, 1999 (the "Original Agreement");
+
+     WHEREAS, SBCC and PF.Net Corp. entered into an Amended and Restated Fiber
+Networks Development Agreement, dated October 29, 1999 (the "Agreement";
+capitalized terms used herein without definition having the meanings given to
+such terms in the Agreement);
+
+     WHEREAS, it was the intention of the parties to the Agreement that the
+Agreement would amend and restate in its entirety the Original Agreement and
+effect the substitution of PF.Net Corp. for Network Services Corp. as the entity
+entitled to the rights of Network Services Corp., and subject to the obligations
+of Network Services Corp., under the Agreement as so amended and restated;
+
+     WHEREAS, the parties hereto desire to enter into this Amendment in order to
+amend certain provisions thereof and to confirm the release of (a) Network
+Services Corp. from its obligations to SBCC under the Original Agreement and (b)
+SBCC from its obligations to Network Services Corp. under the Original
+Agreement.
+
+     NOW, THEREFORE, in consideration of the mutual covenants, terms and
+conditions herein contained and for other good and valuable consideration, the
+receipt of which is hereby acknowledged by each party hereto, the parties hereto
+agree as follows:
+
+     1. AMENDMENT TO SECTION 7.2(a). Section 7.2(a) of the Agreement is hereby
+amended, restated and replaced in its entirety with the following:
+
+                  "(a) Telecom Easements and Encroachment Rights: PF.Net
+Holdings, Limited shall issue to SBCC or its designee a promissory note in the
+form attached hereto as Exhibit F."
+
+
+<PAGE>
+
+     2. AMENDMENT TO SECTION 7.5. Section 7.5 of the Agreement is hereby
+amended, restated and replaced in its entirety with the following:
+
+         "7.5     DARK FIBER
+
+                  In consideration of this Agreement, PF.Net shall at SBCC's
+written request provide to SBCC capacity, up to a maximum of OC-12, at a per
+unit price which is not more than the most favorable price to PF.Net for a
+transaction of comparable capacity along a comparable route, along the entire
+length of the route in which PF.Net installs its Fiber Networks for use by the
+Affiliated Companies for their internal communication systems."
+
+     3. MUTUAL RELEASE OF NETWORK SERVICES CORP. AND SBCC. Network Services
+Corp. hereby releases SBCC from all of SBCC's obligations to Network Services
+Corp. pursuant to the Original Agreement. SBCC hereby releases Network Services
+Corp. from all of Network Services Corp.'s obligations to SBCC pursuant to the
+Original Agreement.
+
+         4. INTEGRATION. Except as expressly set forth herein, all of the terms
+and conditions of the Agreement, including all exhibits thereto, remain in full
+force and effect. The Agreement, including all such exhibits, is attached as
+Schedule I hereto, and the parties hereby acknowledge that Schedule I, together
+with this Amendment, comprises a complete and accurate copy of the Agreement,
+including each such exhibit, as it is in effect as of the date hereof.
+
+
+                                       2
+<PAGE>
+
+
+IN WITNESS WHEREOF, the parties hereto have executed this Amendment as of the
+date first above written.
+
+                                    PF.Net Corp.
+
+                                    By:  /S/  STEPHEN IRWIN
+                                         ------------------------------
+                                    Name:  Stephen Irwin
+                                    Title: Vice Chairman and
+                                    Executive Vice President
+
+
+                                    PF.Net Network Services Corp.
+
+                                    By:  /S/  STEPHEN IRWIN
+                                         ------------------------------
+                                    Name:  Stephen Irwin
+                                    Title:
+
+                                    Sea Breeze Communication Company
+
+                                    By:  /S/  GEORGE DAMIRIS
+                                         ------------------------------
+                                    Name:  George Damiris
+                                    Title: Vice President
+
+
+                                       3
+</TEXT>
+</DOCUMENT>

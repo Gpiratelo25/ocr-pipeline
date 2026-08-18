@@ -1,0 +1,227 @@
+<DOCUMENT>
+<TYPE>EX-10.6
+<SEQUENCE>8
+<FILENAME>dex106.txt
+<DESCRIPTION>AMENDMENT TO MARKETING AND TAX AGREEMENTS
+<TEXT>
+<PAGE>
+
+                                                                    Exhibit 10.6
+
+               Confidential treatment has been requested for portions of this
+               exhibit. The copy filed herewith omits the information subject to
+               the confidentiality request. Omissions are designated as [*]. A
+               complete version of this exhibit has been filed separately with
+               the Securities and Exchange Commission.
+
+
+
+          Amendment to Marketing Agreement and Tax Agreement
+
+Whereas, DIRECTV, Inc. ("DIRECTV") and TiVo, Inc. ("TiVo") previously entered
+into, among other agreements, that certain Marketing Agreement dated as of April
+13, 1999 (the "Marketing Agreement"), and that certain Letter Agreement dated as
+of July 24, 2001 Re: Taxation of TiVo Services that are billed by DIRECTV (the
+"Tax Agreement");
+
+Whereas, the parties are executing on this date a Development Agreement
+("Development Agreement") and a Services Agreement ("Services Agreement"), and
+the parties contemplate that, pursuant to the Development Agreement, upon
+DIRECTV's request they shall also enter into an Intellectual Property and
+Technology License Agreement ("License Agreement");
+
+Whereas, the parties desire to reflect certain changes to the Marketing
+Agreement, and in connection with the execution of the Development Agreement and
+Services Agreement, the parties intend to modify certain provisions of the
+Marketing Agreement and the Tax Agreement;
+
+Now therefore, DIRECTV and TiVo hereby agree as follows:
+
+I.   The Marketing Agreement is hereby amended as follows:
+
+     A.   Billing System.
+          --------------
+
+          1.   Section 2.3 of the Marketing Agreement is hereby amended and
+               replaced in its entirety to reflect that DIRECTV shall continue
+               to undertake the billing and remittance processing activities
+               relating to the sale of the TiVo Service to DIRECTV/TiVo
+               Subscribers using the DIRECTV/TiVo Combo Receiver, in the manner
+               mutually agreed upon by the parties, as provided to date. TiVo
+               shall remain solely responsible for billing and remittance
+               processing activities relating to the sale of the TiVo Service to
+               TiVo subscribers using the TiVo Stand-Alone Receiver.
+
+          2.   The provisions of Section 4.1 of the Development Agreement shall
+               supercede and replace said Section 2.3 of the Marketing
+               Agreement, effective immediately after the Transition Date (as
+               defined in the Marketing Agreement).
+
+     B.   Customer Service. The provisions of Section 4.2 of the Development
+          ----------------
+          Agreement shall supercede and replace Section 2.4 of the Marketing
+          Agreement, with respect to DIRECTV/TiVo Combo Receivers (as defined in
+          the Marketing Agreement).
+
+     C.   Customer Data. Section 2.9 of the Marketing Agreement is replaced and
+          -------------
+          superceded by Section 4.4 of the Development Agreement.
+
+<PAGE>
+
+
+     D.   Bandwidth Allocation.
+          ---------------------
+
+          1.   Upon satisfaction and cancellation of the promissory note as
+               referenced in Schedule 5.1.2 of the Marketing Agreement, DIRECTV
+               shall be relieved of any Bandwidth Capacity obligations under the
+               Marketing Agreement. This shall not affect any other bandwidth
+               obligations in other agreements.
+
+          2.   Section 2.2(e) of the Services Agreement shall supersede and
+               replace Section 3.0 of the Marketing Agreement, effective as of
+               the Manufacturing Release of the Provo Receiver, as provided in
+               said Section 2.2(e).
+
+     E.   Revenue Sharing.
+          ----------------
+
+          1.   Section 4.1.2 of the Marketing Agreement is hereby replaced in
+               its entirety with the following:
+
+          4.1.2 Permanent Revenue Share for TiVo Stand-Alone Receiver. TiVo
+                -----------------------------------------------------
+               shall pay DIRECTV on a monthly basis, [*] of Stand-Alone Revenue
+               Attributable to DIRECTV (as defined below, and determined as of
+               the Calculation Date), with a [*] (the "Stand-Alone Receiver
+               Revenue Share"). TiVo shall pay DIRECTV the Stand-Alone Revenue
+               Share within thirty (30) days of each Calculation Date.
+               "Stand-Alone Revenue Attributable to DIRECTV" shall be defined
+               as, for any particular month, an amount equal to the total
+               subscription revenue received by TiVo during such month for
+               subscription fees paid for the TiVo Service (including all
+               subscription fees received for subscription to the TiVo Service
+               for terms longer than one (1) month) for all DIRECTV/TiVo
+               Subscribers utilizing the TiVo Stand-Alone Receiver (as
+               determined by the number of TiVo Stand-Alone Receivers which
+               "self-report" the use of the DIRECTV head-end during TiVo Service
+               set-up).
+
+          2.   Section 4.1.3 of the Marketing Agreement shall terminate.
+
+     F.   TiVo Promotional Activities. Section 4.2 of the Marketing Agreement
+          ---------------------------
+          shall terminate as of the Manufacturing Release of the Version [*]
+          Software (as provided in the Development Agreement).
+
+     G.   Calculation of DIRECTV/TiVo Subscribers. Section 4.3 of the Marketing
+          ---------------------------------------
+          Agreement shall terminate.
+
+     H.   Audit Rights. Section 4.4 of the Marketing Agreement is hereby amended
+          ------------
+          and replaced to read as follows:
+
+----------
+[*] Certain information on this page has been omitted and filed separately with
+the Securities and Exchange Commission. Confidential treatment has been
+requested with respect to the omitted portions.
+
+<PAGE>
+
+     4.4 Audit Rights. No more than once every year during the Term and for one
+         ------------
+     year thereafter, DIRECTV or its designee (which designee shall be subject
+     to approval by TiVo and appropriate confidentiality requirements) shall
+     have the right upon twenty (20) days' notice and during regular business
+     hours at TiVo's regular locations for maintenance of such records, to
+     conduct an audit of such records (which records shall be maintained for at
+     least 18 months by TiVo) as are necessary to verify compliance with the
+     Agreement. If any such audit should disclose any underpayments of revenue
+     share or other fees, TiVo shall promptly pay to DIRECTV such underpaid
+     amount, together with interest at a rate of 18% per annum or the highest
+     rate allowed by law, during such period which such amount became due until
+     finally paid. If any such audit should disclose any overpayments of revenue
+     share or other fees, TiVo shall have the right to offset any such amounts
+     against future amounts payable by TiVo hereunder; provided that if the
+     overpayment exceeds five percent (5%) in any calendar quarter, such offset
+     shall be reduced by one-half of the reasonable costs and expenses incurred
+     by DIRECTV in connection with such audit. The audit will be conducted at
+     DIRECTV's expense, except as otherwise provided above and unless the audit
+     reveals that TiVo has underpaid DIRECTV by five percent (5%) or more in any
+     calendar quarter, in which case TiVo will reimburse DIRECTV for all
+     reasonable costs and expenses incurred by DIRECTV in connection with such
+     audit.
+
+     I.   Indemnification and Limitation of Liability. The provisions of
+          -------------------------------------------
+          Sections 10.1, 10.2 and 10.3 of the Marketing Agreement shall be
+          superseded and terminate, solely with respect to the DIRECTV-TiVo
+          Combo Receiver, upon the execution of the Technology License
+          Agreement.
+
+     J.   Schedule 6. Until the date that is 4 weeks following the initiation of
+          ----------
+          the download of the Version [*] Software to the Reno Receivers as
+          provided in the Development Agreement, Section 2 (Promotional
+                                                            -----------
+          Showcases) to Schedule 6 of the Marketing Agreement shall remain in
+          ---------
+          full force and effect. Following such date, Section 2 to Schedule 6
+          shall be superseded in its entirety by the Services Agreement.
+
+II.  The Tax Agreement is hereby amended as follows:
+
+     The indemnity obligations of TiVo set forth in the final paragraph of the
+     Tax Agreement shall continue to apply with respect to the taxation of any
+     TiVo Services for which DIRECTV has provided and continues to provide
+     billing services until the Transition Date, as specified in Section 4.1 of
+     the Development Agreement. Immediately after the Transition Date, DIRECTV
+     shall have responsibility for the Taxability Determinations (as defined in
+     the Tax Agreement) as applicable to the TiVo Services for which DIRECTV
+     provides billing services thereafter, and DIRECTV shall indemnify, defend
+     and hold harmless TiVo for any
+
+----------
+[*] Certain information on this page has been omitted and filed separately with
+the Securities and Exchange Commission. Confidential treatment has been
+requested with respect to the omitted portions.
+
+<PAGE>
+
+     liability for uncollected taxes, interest and penalties resulting from any
+     error or omission in the Taxability Determinations occurring after the
+     Transition Date.
+
+III. The parties further agree that they shall cooperate in good faith to
+     promptly document and clarify any further changes or amendments to the
+     agreements executed prior to the Development Agreement and Services
+     Agreement as necessary to reflect their mutual understanding and intention
+     regarding the modifications to the parties' relationship resulting from the
+     Development Agreement, Technology License Agreement and Services Agreement.
+
+IV.  Except as expressly set forth herein or as otherwise provided by written
+     mutual agreement of the parties, all terms and conditions of the Marketing
+     Agreement and Tax Agreement shall remain in full force and effect,
+     enforceable in accordance with the terms thereof. Any capitalized terms not
+     defined in this Amendment shall have the meaning set forth in the
+     Development Agreement or Services Agreement, as applicable.
+
+                      This space intentionally left blank.
+
+<PAGE>
+
+IN WITNESS WHEREOF, the parties have executed this Amendment to the
+Marketing Agreement and Tax Agreement as of the 15th day of February, 2002.
+
+TiVo Inc.                                  DIRECTV, Inc.
+
+
+By:    /s/ Morgan Guenther                 By:   /s/ Larry N. Chapman
+       -------------------                       -------------------------------
+Name:  Morgan Guenther                     Name: Larry N. Chapman
+Title: President                                 Title: Executive Vice President
+
+</TEXT>
+</DOCUMENT>

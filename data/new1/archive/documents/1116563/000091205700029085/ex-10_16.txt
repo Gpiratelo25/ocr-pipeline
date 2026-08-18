@@ -1,0 +1,124 @@
+<DOCUMENT>
+<TYPE>EX-10.16
+<SEQUENCE>21
+<FILENAME>ex-10_16.txt
+<DESCRIPTION>EXHIBIT 10.16
+<TEXT>
+
+<PAGE>
+
+                                                                   Exhibit 10.16
+
+                             AMENDMENT NUMBER ONE TO
+                           THE MASTER SUPPLY AGREEMENT
+                                     BETWEEN
+                               PF.NET SUPPLY CORP.
+                                       AND
+                            LUCENT TECHNOLOGIES INC.
+
+This Amendment to the Master Supply, Service and System Agreement
+LNM990304DLMPTI (the "Agreement") is made as of the 29th day of March, 2000
+("Effective Date") by and between PF.Net Supply Corp., a Delaware corporation
+with offices located at 1625 B Street, Washougal Washington 98671 (hereinafter
+"Customer") and Lucent Technologies Inc., a Delaware corporation with office
+located at 600 Mountain Avenue, Murray Hill, New Jersey 07974 (hereinafter
+"Seller").
+
+WHEREAS, Customer and Seller desire to enter into this Amendment to amend
+certain provisions of the Agreement.
+
+NOW THEREFORE, In consideration of the promises hereinafter set forth and other
+good and valuable consideration, the receipt and sufficiency of which are hereby
+acknowledged, and intending to be legally bound, the parties agree as follows:
+
+1. Amendment to Section 3.6 PURCHASE MONEY SECURITY INTEREST
+
+            The first sentence of Section 3.6 of the Supply Agreement is hereby
+amended so as to read, in its entirety, as follows:
+
+            Seller reserves and Customer agrees that Seller shall have, on an
+invoice-by-invoice basis, a purchase money security interest in Products and
+Licensed Materials heretofore supplied or hereafter supplied to Customer by
+Seller under this Agreement that are invoiced for payment under any invoice
+delivered pursuant to Section 3.5 of this Agreement as security for the payments
+and charges under this Agreement (including, without limitation, shipping and
+installation charges) due to Seller as set forth in such invoice, until the
+invoiced price for such Products and Licensed Materials as set forth in such
+invoice is paid in full, on the following terms:
+
+                  (a) The amount secured by such purchase money security
+      interest in the Products and Licensed Materials covered by any particular
+      invoice shall consist solely of the unpaid purchase price due Seller as
+      set forth in such invoice.
+<PAGE>
+
+                  (b) Such purchase money security interest shall automatically
+      be released and discharged as to the Products and Licensed Materials
+      covered by any particular invoice when the purchase price set forth in
+      such invoice is paid in full to Seller. Such release and discharge shall
+      be effective upon such payment in full, without any requirement or need
+      for any additional action or confirmation by Seller. If any financing
+      statement is filed in favor of Seller in respect of any Products or
+      Licensed Materials for which the invoiced purchase price has been paid in
+      full, Seller will promptly upon request of Customer execute a form UCC
+      partial release (in a form reasonably acceptable to Seller submitted by
+      Customer) in respect of such financing statement limited to such Products
+      and Licensed Materials. In addition, if and as reasonably requested by
+      Customer from time to time (but not more often than quarterly), Seller
+      will deliver a schedule setting forth in reasonable detail the invoices
+      delivered under Section 3.5 that then remain unpaid and the amount that
+      remains unpaid thereunder.
+
+            (c) Seller shall not foreclose upon such purchase money security
+      interest as to any Products or Licensed Materials unless Seller has given
+      Customer at least 15 days' prior written notice stating that such amount
+      is past due and that Seller intends to enforce such purchase money
+      security interest.
+
+2. Except as specifically modified, amended or supplemented herein, all terms
+and conditions of Agreement shall remain in full force and effect. The terms and
+conditions contained in this Amendment supersede all prior and contemporaneous
+oral and written understandings between the parties and shall constitute the
+entire agreement between the parties with respect to the subject matter herein.
+This Amendment shall not be modified or amended except by a writing by an
+authorized representative of both parities.
+<PAGE>
+
+IN WITNESS WHEREOF, the parties have caused this Amendment to be executed by
+their duly authorized representatives on the date(s) indicated.
+
+PF.NET SUPPLY CORP.                        LUCENT TECHNOLOGIES INC.
+
+
+By:                                        By: /s/ Angela Bischoff
+    --------------------------------           ---------------------------------
+
+Typed Name:                                Typed Name: Angela Bischoff
+            ------------------------                   -------------------------
+
+Title:                                     Title: Area Vice President
+       -----------------------------              ------------------------------
+
+Date:                                      Date: 3/29/2000
+      ------------------------------             -------------------------------
+<PAGE>
+
+IN WITNESS WHEREOF, the parties have caused this Amendment to be executed by
+their duly authorized representatives on the date(s) indicated.
+
+PF.NET SUPPLY CORP.                        LUCENT TECHNOLOGIES INC.
+
+
+By: /s/ Stephen Irwin                      By:
+    --------------------------------           ---------------------------------
+
+Typed Name: Stephen Irwin                  Typed Name:
+            ------------------------                   -------------------------
+
+Title:                                     Title:
+       -----------------------------              ------------------------------
+
+Date: March 29, 2000                       Date:
+      ------------------------------             -------------------------------
+</TEXT>
+</DOCUMENT>

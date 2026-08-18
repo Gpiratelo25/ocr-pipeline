@@ -1,0 +1,153 @@
+<DOCUMENT>
+<TYPE>EX-10.11
+<SEQUENCE>3
+<FILENAME>g68354ex10-11.txt
+<DESCRIPTION>FIRST AMENDMENT TO RISK CONTRACT
+<TEXT>
+
+<PAGE>   1
+                                                                   EXHIBIT 10.11
+
+
+              FIRST AMENDMENT TO RISK CONTRACT MANAGEMENT AGREEMENT
+
+         THIS FIRST AMENDMENT TO RISK CONTRACT MANAGEMENT AGREEMENT
+("Agreement") is made and entered into this 1st day of November, 1996 by and
+between Elmhurst Physician Hospital Organization, LLC (d/b/a Elmcare), an
+Illinois limited liability company ("Elmcare") and North American Medical
+Management - Illinois, Inc., an Illinois general business corporation ("NAMM").
+
+                                   WITNESSETH:
+
+         WHEREAS, Elmcare and NAMM previously entered into that certain Risk
+Contract Management Agreement dated May 1, 1995 (the "Original Agreement")
+pursuant to which NAMM provides certain management and administrative services
+in connection with the administration of Elmcare's capitated arrangements with
+third party payors;
+
+         WHEREAS, Elmcare has expanded its business to include arranging for the
+provision of services to Medicare beneficiaries under certain senior risk
+arrangements; and
+
+         WHEREAS, because of the expansion of Elmcare's business, Elmcare and
+NAMM wish to amend the Original Agreement as described herein.
+
+         NOW, THEREFORE, for and in consideration of the mutual covenants and
+agreements contained herein and other good and valid consideration, the receipt
+and sufficiency of which are hereby acknowledged, the parties hereto covenant
+and agree as follows:
+
+                                   ARTICLE I.
+                                   DEFINITIONS
+
+         Article 1, Section 1.3 of the Original Agreement is amended to read in
+its entirety as follows:
+
+         1.3 INTENTIONALLY OMITTED
+
+                                   ARTICLE II.
+                         NAMM CLINICAL PERFORMANCE BONUS
+
+         Article 5, Section 5.2 of the Original Agreement is amended to read in
+its entirety as follows:
+
+         5.2 Determination of Bonus. At the end of each year during which this
+Agreement is in effect, or more frequently as determined by NAMM and Elmcare,
+Elmcare and NAMM shall determine the Net Balance for each Risk Contract and
+shall aggregate such amount (the "Aggregate Annual Balance"). In the event that
+the Aggregate Annual Balance is a positive number, Elmcare shall pay to NAMM an
+amount (the "NAMM Clinical Bonus") corresponding to the following:
+
+
+<PAGE>   2
+
+<TABLE>
+<CAPTION>
+--------------------------------------------------------------------------------
+       NET BALANCE                       NAMM CLINICAL BONUS
+--------------------------------------------------------------------------------
+<S>                             <C>
+$3,000,000 or less              20% of the Net Balance
+--------------------------------------------------------------------------------
+$3,000,001 to $6,000,000        (a) $600,000 plus (b) 15% of the excess of the
+                                Net Balance over $3,000,000
+--------------------------------------------------------------------------------
+$6,000,001 to $8,000,000        (a) $1,050,000 plus (b) 8% of the excess of the
+                                Net Balance over $6,000,000
+--------------------------------------------------------------------------------
+$8,000,001 to $10,000,000       (a) $1,210,000 plus (b) 4% of the excess of the
+                                Net Balance over $8,000,000
+--------------------------------------------------------------------------------
+Over $10,000,000                (a) $1,290,000 plus (b) 2% of the excess of the
+                                Net Balance over $10,000,000
+--------------------------------------------------------------------------------
+</TABLE>
+
+With respect to the NAMM Clinical Bonus paid by Elmcare, the parties agree that
+NAMM shall pay twenty-five percent (25%) of the NAMM Clinical Bonus to its local
+staff who are providing services to Elmcare under this Agreement and the
+remaining seventy-five percent (75%) of the NAMM Clinical Bonus shall be
+retained by NAMM.
+
+                                  ARTICLE III.
+                              CONFORMING AMENDMENT
+
+         1. Article 6, Section 6.9(d) of the Original Agreement is amended to
+read in its entirety as follows:
+
+         (d) NAMM shall provide a final accounting of its Annual Expenses for
+that period of the contract year prior to the effective date of termination, and
+the parties shall compute payments due pursuant to Article 4 by treating the
+effective date of termination as if it is a year end. In the event that the
+effective date of termination does not coincide with the end of any Risk
+Contract's year or term, then the determination of whether a payment is due to
+NAMM pursuant to Article 5 from a positive Aggregate Annual Balance under all
+Risk Contracts shall be made on a pro rata basis (i.e., by multiplying the
+amount of each Risk Contract's Net Balance by a fraction the numerator of which
+is the number of days in the year preceding the effective date of termination
+and the denominator of which is three hundred sixty-five (365)).
+
+         2. Schedule 1.3 of the Original Agreement is deleted in its entirety.
+
+                                   ARTICLE IV.
+                                  MISCELLANEOUS
+
+         1. The terms of the Original Agreement are not otherwise affected,
+modified or terminated by this Agreement.
+
+
+
+
+                                        2
+
+
+<PAGE>   3
+
+         2. This Agreement shall be effective as of May 1, 1996 and shall apply
+solely to the contract years beginning May 1, 1996 under the Original Agreement.
+
+         IN WITNESS WHEREOF, the parties hereto have executed this Agreement to
+be effective as of the date first written above.
+
+ELMHURST PHYSICIAN HOSPITAL                  NORTH AMERICAN MEDICAL
+ORGANIZATION, L.L.C.                         MANAGEMENT - ILLINOIS, INC.
+
+
+
+By:  /s/ Denise L. Meyers                    By: /s/
+     ---------------------------------          ------------------------------
+
+Its: Executive Director                      Its: President
+     ---------------------------------          ------------------------------
+
+
+
+
+
+
+                                        3
+
+
+
+</TEXT>
+</DOCUMENT>

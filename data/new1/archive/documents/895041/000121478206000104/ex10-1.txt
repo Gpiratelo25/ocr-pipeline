@@ -1,0 +1,118 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>ex10-1.txt
+<DESCRIPTION>FIRST AMENDEMENT TO DEVELOPMENT AGREEMENT
+<TEXT>
+Exhibit 10.1
+
+
+                    FIRST AMENDMENT TO DEVELOPMENT AGREEMENT
+                    ----------------------------------------
+
+          FIRST AMENDMENT TO DEVELOPMENT AGREEMENT (this "Amendment"), dated as
+                                                          ---------
+of June 20, 2006 between STARWOOD HOTELS & RESORTS WORLDWIDE, INC., a Maryland
+corporation ("Starwood") and GRILL CONCEPTS, INC., a Delaware corporation
+              --------
+("GCI").  Unless otherwise defined herein, all capitalized terms used herein
+shall have the respective meanings provided such terms in the Development
+Agreement referred to below.
+
+                              W I T N E S S E T H:
+                              -------------------
+
+          WHEREAS, Starwood and GCI are parties to that certain Development
+Agreement dated as of July 27, 2001 (the "Development Agreement"); and
+                                          ---------------------
+
+          WHEREAS, subject to the terms and conditions of this Amendment,
+Starwood and GCI wish to amend certain provisions of the Development Agreement
+as herein provided.
+
+          NOW, THEREFORE, in consideration of the covenants and agreements set
+forth herein and for other good and valuable consideration, the receipt and
+sufficiency of which are hereby acknowledged, the parties hereby agree as
+follows:
+
+     1.     The Development Agreement is hereby amended by deleting Section 4 in
+its entirety and substituting in lieu thereof the following:
+
+     "SECTION 4. Development Warrants. GCI shall issue to Starwood, promptly
+     after the date as of which the aggregate number of GCI Concept Facilities
+     covered by Management Agreements and/or License Agreements entered into on
+     or after the date hereof reaches five (the "Development Threshold Date"), a
+     warrant substantially in the form attached as Exhibit D hereto (the
+     "Development Warrant") to purchase a number of shares of Common Stock which
+     amount shall be determined as follows: (i) if the Development Threshold
+     Date is a date before April 1, 2008, the number of shares shall represent
+     four percent (4%) of the then outstanding shares of Capital Stock of GCI
+     and (ii) if the Development Threshold Date is on or after April 1, 2008,
+     the number of shares shall represent four percent (4%) of the outstanding
+     shares of Capital Stock of GCI on December 25, 2005 (for purposes of this
+     Agreement, the term "Capital Stock" shall refer to the aggregate of the
+     then outstanding shares of Common Stock and the then outstanding shares of
+     any class or series of preferred stock of GCI).
+
+     (a) If the Fair Market Value of the Common Stock as of the Development
+     Threshold Date is greater than the Fair Market Value of the Common Stock as
+     of the Closing Date (the "Closing Date Share Price"), the Development
+     Warrants will have an exercise price equal to the greater of seventy-five
+     percent (75%) of the Fair Market Value of the Common Stock as of the
+     Development Threshold Date; and the Closing Date Share Price; or
+
+<PAGE>
+
+     (b) If the Fair Market Value of the Common Stock as of the Development
+     Threshold Date is less than the Closing Date Share Price, the Development
+     Warrants will have an exercise price equal to the Fair Market Value of the
+     Common Stock as of the Development Threshold Date.
+
+     For the avoidance of doubt, the Development Threshold Date shall be the
+     date of the opening to the public of the relevant GCI Concept Facility that
+     triggered GCI's obligation to issue the Development Warrants."
+
+     2.     Miscellaneous Provisions.
+            ------------------------
+
+          (a)     This Amendment is limited as specified and shall not
+constitute a modification, acceptance or waiver of any other provision of the
+Development Agreement.
+
+          (b)     This Amendment may be executed in any number of counterparts,
+each of which counterparts when executed and delivered shall be an original, but
+all of which shall together constitute one and the same instrument.
+
+          (c)     THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED AND
+ENFORCED IN ACCORDANCE WITH THE LAWS OF THE STATE OF CALIFORNIA.
+
+
+                    [Signatures appear on the following page]
+
+<PAGE>
+
+          IN WITNESS WHEREOF, the parties hereto have caused their duly
+authorized officers to execute and deliver this Amendment as of the date first
+above written.
+
+                              STARWOOD HOTELS & RESORTS
+                                   WORLDWIDE, INC.
+
+
+                              By: /s/
+                                  Name:
+                                  Title:
+
+
+                              GRILL CONCEPTS, INC.
+
+
+                              By: /s/ Philip Gay
+                                  Name:  Philip Gay
+                                  Title:  EVP and CFO
+
+<PAGE>
+
+
+</TEXT>
+</DOCUMENT>

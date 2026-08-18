@@ -1,0 +1,2317 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>6
+<FILENAME>0006.txt
+<TEXT>
+
+
+
+===============================================================================
+
+                                                                 EXECUTION COPY
+
+
+
+
+
+                   AMENDED AND RESTATED ADMINISTRATIVE AGENCY
+                                   AGREEMENT
+
+
+                                     among
+
+
+                        MORGAN STANLEY AIRCRAFT FINANCE,
+
+
+                        CABOT AIRCRAFT SERVICES LIMITED,
+
+
+                             BANKERS TRUST COMPANY
+
+
+                                      and
+
+
+                    THE ENTITIES LISTED ON APPENDIX A HERETO
+
+
+
+
+
+
+
+
+
+
+
+                           Dated as of March 15, 2000
+
+
+===============================================================================
+
+
+<PAGE>
+
+
+                               TABLE OF CONTENTS
+
+                             ----------------------
+
+                                                                           PAGE
+                                                                           ----
+                                   ARTICLE 1
+                                  DEFINITIONS
+
+SECTION 1.01.  Definitions....................................................2
+
+                                   ARTICLE 2
+                      APPOINTMENT; ADMINISTRATIVE SERVICES
+
+SECTION 2.01.  Appointment....................................................6
+SECTION 2.02.  Limitations....................................................6
+SECTION 2.03.  Administrative Services........................................8
+SECTION 2.04. Bank Account Management and Calculation Services...............15
+SECTION 2.05.  Accounting Services...........................................19
+SECTION 2.06.  Additional Administrative Services............................22
+SECTION 2.07.  Additional Aircraft...........................................22
+SECTION 2.08.  New Subsidiaries..............................................22
+SECTION 2.09.  MSAF Group Responsibility.....................................23
+
+                                   ARTICLE 3
+                STANDARD OF PERFORMANCE; LIABILITY AND INDEMNITY
+
+SECTION 3.01.  Standard of Performance.......................................23
+SECTION 3.02.  Liability and Indemnity.......................................23
+
+                                   ARTICLE 4
+                       ADMINISTRATIVE AGENT UNDERTAKINGS
+
+SECTION 4.01.  Administrative Agent Undertakings.............................25
+
+                                   ARTICLE 5
+                           UNDERTAKINGS OF MSAF GROUP
+
+SECTION 5.01.  Cooperation...................................................28
+SECTION 5.02.  Information...................................................28
+SECTION 5.03.  Scope of Services.............................................28
+SECTION 5.04.  Ratification..................................................29
+SECTION 5.05.  Covenants.....................................................29
+SECTION 5.06.  Ratification by Subsidiaries..................................30
+
+
+<PAGE>
+
+
+                                   ARTICLE 6
+                ADMINISTRATION FEES, EXPENSES AND SUBORDINATION
+
+SECTION 6.01.  Administration Fees...........................................31
+SECTION 6.02.  Expenses......................................................31
+SECTION 6.03.  Taxes.........................................................32
+SECTION 6.04.  Payment of Expenses...........................................32
+
+                                   ARTICLE 7
+          TERM; REMOVAL OF OR TERMINATION BY THE ADMINISTRATIVE AGENT
+
+SECTION 7.01. Term...........................................................32
+SECTION 7.02.  Right to Terminate............................................32
+SECTION 7.03.  Consequences of Termination...................................34
+SECTION 7.04.  Survival......................................................35
+
+                                   ARTICLE 8
+                           ASSIGNMENT AND DELEGATION
+
+SECTION 8.01.  Assignment and Delegation.....................................35
+
+                                   ARTICLE 9
+                                 MISCELLANEOUS
+
+SECTION 9.01.  Notices.......................................................35
+SECTION 9.02.  Governing Law.................................................37
+SECTION 9.03.  Jurisdiction..................................................37
+SECTION 9.04.  WAIVER OF JURY TRIAL..........................................37
+SECTION 9.05.  Counterparts; Third Party Beneficiaries.......................37
+SECTION 9.06.  Entire Agreement..............................................37
+SECTION 9.07.  Power of Attorney.............................................38
+SECTION 9.08.  Table of Contents; Headings...................................38
+SECTION 9.09.  Restrictions on Disclosure....................................38
+SECTION 9.10.  No Partnership................................................39
+SECTION 9.11.  Concerning the Security Trustee...............................40
+
+                                   SCHEDULES
+
+APPENDIX A........................................................ Subsidiaries
+SCHEDULE 1........................................................ Accounts
+EXHIBIT A......................................................... Certificates
+
+
+                                      ii
+
+<PAGE>
+
+
+     AMENDED AND RESTATED ADMINISTRATIVE AGENCY AGREEMENT dated as of March 15,
+2000, among Morgan Stanley Aircraft Finance ("MSAF"), a statutory trust
+established under the laws of the State of Delaware, Cabot Aircraft Services
+Limited, a company incorporated under the laws of Ireland (the "Administrative
+Agent"), Bankers Trust Company, a New York banking corporation, not in its
+individual capacity but solely as trustee under the Security Trust Agreement
+(the "Security Trustee") and the subsidiaries of MSAF, each listed on Appendix
+A hereto (collectively with MSAF, the "MSAF Group").
+
+     For the consideration set forth herein and other good and valuable
+consideration, the receipt of which is hereby acknowledged, the Administrative
+Agent, MSAF and the other MSAF Group Members agree as follows:
+
+                                   ARTICLE 1
+                                  DEFINITIONS
+
+     SECTION 1.01. Definitions. The following terms, as used herein, have the
+following meanings. Unless otherwise defined herein, all capitalized terms used
+but not defined herein have the meanings assigned to such terms in the
+Indenture.
+
+     "1997 Asset Purchase Agreement" means the Asset Purchase Agreement dated
+as of November 10, 1997 between International Lease Finance Corporation and
+MASF.
+
+     "1999 Asset Purchase Agreements" means the Asset Purchase Agreement dated
+as of August 6, 1999 among International Lease Finance Corporation, MSA IV and
+MSA V and the Asset Purchase Agreement dated as of March 19, 1999 between MSA
+II and GE Capital Mietfinanz GmbH & Co. kG.
+
+     "Administrative Fee" has the meaning assigned to such term in Section 6.01
+hereof.
+
+     "Affiliate" means a Person that directly, or indirectly through one or
+more intermediaries, controls or is controlled by, or is under common control
+with, the Person specified; provided, however, that MSAF and the other MSAF
+Group Members, on the one part, and the Administrative Agent and its
+subsidiaries on the other part, shall not be considered to be Affiliates of
+each other.
+
+     "After-Tax Basis" means on a basis such that any payment received, deemed
+to have been received or receivable by any Person shall, if necessary, be
+supplemented by a further payment to that Person so that the sum of the two
+
+
+                                       2
+
+<PAGE>
+
+
+payments shall, after deduction of all U.S. federal, state, local and foreign
+Taxes, penalties, fines, interest, additions to Tax and other charges resulting
+from the receipt (actual or constructive) or accrual of such payments imposed
+by or under any U.S. federal, state, local or foreign law or Governmental
+Authority (after taking into account any current deduction to which such Person
+shall be entitled with respect to the amount that gave rise to the underlying
+payment) be equal to the payment received, deemed to have been received or
+receivable.
+
+     "Aircraft" has the meaning assigned to such term in the Asset Purchase
+Agreement.
+
+     "Aircraft Assets" has the meaning assigned to such term in the Servicing
+Agreement.
+
+     "Annual Appraised Value" means initially the average Base Value of an
+Aircraft at the time acquired by an MSAF Group Member and thereafter as
+determined annually by the Appraisers.
+
+     "Asset Expenses Budget" has the meaning assigned to such term in Section
+7.05(a)(i) of the Servicing Agreement.
+
+     "Asset Purchase Agreement" means the 1997 Asset Purchase Agreement and the
+1999 Asset Purchase Agreements.
+
+     "Approved Budget" has the meaning assigned to such term in Section 7.05(c)
+of the Servicing Agreement.
+
+     "Closing Date" means March 15, 2000.
+
+     "Concentration Thresholds" has the meaning assigned to such term in
+Section 2.02(a) of Schedule 2.02(a) of the Servicing Agreement.
+
+     "Conflicts Standard" has the meaning assigned to such term in Section
+3.02(b) of the Servicing Agreement.
+
+     "Consolidated Quarterly Draft Accounts" has the meaning assigned to such
+term in Section 2.05(b)(ii) hereof.
+
+     "Consolidating Quarterly Draft Accounts" has the meaning assigned to such
+term in Section 2.05(b)(iii) hereof.
+
+
+                                       3
+
+<PAGE>
+
+
+     "Custody and Loan Agreement: means the Amended and Restated Custody and
+Loan Agreement dated as of August 6, 1999 among MSAF, the other MSAF Lessors
+(as defined therein) and ILFC.
+
+     "Delaware Trustee" means the Wilmington Trust Company, as Delaware trustee
+of MSAF.
+
+     "Dollars" or "$" means the lawful money of the United States of America.
+
+     "Draft Accounts" has the meaning assigned to such term in Section
+2.05(b)(iii) hereof.
+
+     "EU" means the European Union.
+
+     "Fee Period" has the meaning assigned to such term in Section 6.01(a)
+hereof.
+
+     "Governmental Authority" means any court, administrative agency or
+commission or other governmental agency or instrumentality (or any officer or
+representative thereof) domestic, foreign or international, of competent
+jurisdiction including, without limitation, the EU.
+
+     "Indenture" means the Indenture dated as of March 3, 1998, between MSAF
+and the Trustee.
+
+     "Initial Periods" has the meaning assigned to such term in Section
+7.05(a)(i) of the Servicing Agreement.
+
+     "Lease" means any lease or other agreement or arrangement pursuant to
+which any Person (other than a MSAF Group Member) has the right to possession
+and use of any Aircraft.
+
+     "Ledgers" has the meaning assigned to such term in Section 2.05(b)(i)
+hereof.
+
+     "Maintenance Reserves" has the meaning assigned to such term in the Asset
+Purchase Agreement.
+
+     "MSDW Loan Agreement" means the Amended and Restated Loan Agreement dated
+as of March 15, 2000 among MSAF and Morgan Stanley Dean Witter & Co.
+
+
+                                       4
+
+<PAGE>
+
+
+     "One Year Period" has the meaning assigned to such term in Section
+7.05(a)(i) of the Servicing Agreement.
+
+     "Operating Budget" has the meaning assigned to such term in Section
+7.05(a)(i) of the Servicing Agreement.
+
+     "Quarter" means the fiscal quarter of each MSAF Group Member, as
+applicable.
+
+     "Ratings" means the ratings assigned to the Notes by the Rating Agencies.
+
+     "Reimbursable Expenses" has the meaning assigned to such term in Section
+6.02(b) hereof.
+
+     "Representatives" with respect to any Person means the officers,
+directors, employees, advisors and agents of such Person.
+
+     "Schedule 2.02 (a)" has the meaning assigned to such term in Section
+2.03(k)(ii) hereof.
+
+     "Securities Act" means the Securities Act of 1933, as amended.
+
+     "Service Providers" has the meaning assigned to such term in Section
+2.02(c) hereof.
+
+     "Servicing Agreement" means the Amended and Restated Servicing Agreement
+dated as of August 6, 1999 among International Lease Finance Corporation, MSAF,
+the Administrative Agent and the other parties named therein.
+
+     "Standard of Care" has the meaning assigned to such term in Section 3.01
+of the Servicing Agreement.
+
+     "Standard of Performance" has the meaning assigned to such term in Section
+3.01 hereof.
+
+     "Subsidiary" of any Person means a corporation, company or other entity
+(i) more than 50% of whose outstanding shares or securities (representing the
+right to vote for the election of directors or other managing authority) are,
+or (ii) which does not have outstanding shares or securities (as may be the
+case in a partnership, joint venture or unincorporated association), but more
+than 50% of whose ownership interest representing the right to make decisions
+for such other entity is, now or hereafter owned or controlled, directly or
+indirectly, by such Person, but such corporation, company or other entity shall
+be deemed to be a Subsidiary only so long as such ownership or control exists.
+
+
+                                       5
+
+<PAGE>
+
+
+     "Three Year Period" has the meaning assigned to such term in Section
+7.05(a) of the Servicing Agreement.
+
+     "U.S. Bankruptcy Code" has the meaning assigned to such term in Section
+7.02 hereof.
+
+     "U.S. GAAP" means generally accepted accounting principles and practices
+in United States as in effect from time to time and applied consistently
+throughout the periods involved.
+
+     "Year" has the meaning assigned to such term in the Servicing Agreement.
+
+
+                                       6
+
+<PAGE>
+
+
+                                   ARTICLE 2
+                      APPOINTMENT; ADMINISTRATIVE SERVICES
+
+     SECTION 2.01. Appointment. (a) Each of MSAF and the other MSAF Group
+Members hereby appoints the Administrative Agent as the provider of the
+administrative and related services set forth in Section 2.03, the accounting
+services set forth in Section 2.05 and the additional administrative services
+set forth in Section 2.06 (together with the Bank Account Management Services
+referred to in subsection (b) below, collectively referred to herein as the
+"Administrative Services") to each MSAF Group Member on the terms and subject
+to the conditions set forth in this Agreement.
+
+     (b) The Security Trustee, on behalf of the Secured Parties, having been
+duly authorized by MSAF, hereby appoints the Administrative Agent as the
+provider of the bank account management and calculation services set forth in
+Section 2.04 and in the Indenture (the "Bank Account Management Services") and
+delegates to the Administrative Agent its authority to administer the Accounts
+and to otherwise perform the Bank Account Management Services on behalf of each
+MSAF Group Member on the terms and subject to the conditions set forth in this
+Agreement.
+
+     (c) The Administrative Agent hereby accepts such appointments and agrees
+to perform the Administrative Services on the terms and subject to the
+conditions set forth in this Agreement.
+
+     (d) The Administrative Services do not include any service or matter which
+is the responsibility of the Servicer under the Servicing Agreement, the Cash
+Manager under the Cash Management Agreement, the Financial Advisor under the
+Financial Advisory Agreement or the company secretaries of any MSAF Group
+Member.
+
+     (d) The Administrative Services do not include any service or matter that
+falls under the categories of "investment business services" or "investment
+advice" under the Investment Intermediaries Act, 1995 or any other applicable
+provision of Irish law that would require such services to be performed by an
+entity that has obtained prior authorization from the Central Bank of Ireland.
+
+     SECTION 2.02. Limitations. (a) The Administrative Agent agrees (with
+respect to the Administrative Services agreed by it to be carried out
+hereunder) to comply with the terms of the articles of incorporation, by-laws,
+trust agreements or similar constituting documents of each MSAF Group Member
+and all agreements to which any MSAF Group Member is a party (including all
+Relevant Documents), provided that copies of such documents and agreements have
+been delivered to the Administrative Agent and, without prejudice to the
+foregoing, not to enter into, on behalf of any MSAF Group Member, any
+commitments, loans or obligations or
+
+
+                                       7
+
+<PAGE>
+
+
+charge, mortgage, pledge, encumber or otherwise restrict or dispose of the
+property or assets or expend any funds of any MSAF Group Member save (i) as
+expressly permitted by the terms of this Agreement or (ii) upon the express
+direction of the Controlling Trustees.
+
+     (b) In connection with the performance of the Administrative Services, the
+Administrative Agent shall (i) have no responsibility for the failure of any
+other Person (other than any Person acting as a delegate of the Administrative
+Agent under this Agreement pursuant to Section 8.01 hereof) providing services
+directly to MSAF Group to perform its obligations to MSAF Group, (ii) in all
+cases be entitled to rely upon the instructions of MSAF Group with respect to
+any Administrative Services other than the Bank Account Management Services or
+the Security Trustee on behalf of MSAF Group with respect to any Bank Account
+Management Services, and upon notices, reports or other communications made by
+any Person providing services to MSAF Group (other than any Affiliate of the
+Administrative Agent) and shall not be responsible for the accuracy or
+completeness of any such notices, reports or other communications except to the
+extent that the Administrative Agent has actual notice of any matter to the
+contrary and (iii) not be obligated to act in any manner which is reasonably
+likely to (A) violate any Applicable Law, (B) lead to an investigation by any
+Governmental Authority or (C) expose the Administrative Agent to any
+liabilities for which, in the Administrative Agent's good faith opinion,
+adequate bond or indemnity has not been provided.
+
+     (c) Subject to the limitations set forth in Section 2.02(a), in connection
+with the performance of the Administrative Services, the Administrative Agent
+is expressly authorized by MSAF and each other MSAF Group Member, (i) to engage
+in and conclude commercial negotiations with the Persons providing services to
+MSAF Group, including, without limitation, where the context admits, the
+Servicer, the Cash Manager, the Financial Advisor and other Persons performing
+similar services or advising MSAF Group (the "Service Providers") and with
+their Representatives, and (ii) after such consultation, if any, as the
+Administrative Agent deems necessary under the circumstances, to act on such
+MSAF Group Member's behalf with regard to any and all matters requiring any
+action on the part of the Administrative Agent under the Servicing Agreement.
+MSAF Group agrees that it will give the Administrative Agent and the Servicer
+60 days prior written notice of any limitation or modification of the authority
+set forth in this Section 2.02(c).
+
+     (d) The Administrative Agent may rely on the advice of any law firm,
+accounting firm, risk management adviser, tax adviser, insurance adviser,
+technical adviser, aircraft appraiser or other professional adviser appointed
+by MSAF and any Person appointed in good faith by the Administrative Agent and
+shall not be liable for any claim by any MSAF Group Member to the extent that
+it was acting in good faith upon the advice of any such persons.
+
+
+                                       8
+
+<PAGE>
+
+
+     (e) Notwithstanding the appointment of, and the delegation of authority
+and responsibility to, the Administrative Agent hereunder, MSAF and each other
+MSAF Group Member shall continue to have and exercise through its respective
+controlling trustees or board real and effective central control and management
+of all matters related to its ongoing business, operations, assets and
+liabilities, subject to matters that are expressly the responsibility of the
+Administrative Agent in accordance with the terms of this Agreement, and each
+MSAF Group Member shall at all times conduct its separate ongoing business in
+such a manner as the same shall at all times be readily identifiable from the
+separate business of the Administrative Agent, and none of the MSAF Group
+Members is merely lending its name to decisions taken by others.
+
+     SECTION 2.03. Administrative Services. The Administrative Agent hereby
+agrees to perform and provide the following services for each MSAF Group Member
+and its respective governing bodies:
+
+     (a) administrative services:
+
+          (i) except in such instances in which such preparation and
+     distribution is required to be done by another party by Applicable Law,
+     preparation and distribution, at such time as shall be agreed with the
+     Administrative Agent, of draft trustees or board meeting agendas and any
+     other papers required in connection with such meetings;
+
+          (ii) maintaining, or monitoring the maintenance of, the books,
+     records, registers and associated filings of each MSAF Group Member, other
+     than those required to be maintained by the Delaware Trustee;
+
+          (iii) providing any administrative assistance reasonably necessary to
+     assist any MSAF Group Member in carrying out its obligations, including
+     providing timely notice of decisions to be made, or actions to be taken,
+     under any of the Relevant Documents; provided, that if the obligations of
+     any MSAF Group Member under any of the Relevant Documents are only
+     required upon receipt of notice to such MSAF Group Member or the
+     Administrative Agent, then the Administrative Agent shall provide such
+     administrative assistance only to the extent it has received such notice
+     or is otherwise aware of such obligations;
+
+          (iv) assisting MSAF Group in: making its aircraft lease, sale and
+     capital investment decisions including to the extent (i) such assistance
+     is not contemplated to be provided by the Servicer pursuant to the
+     Servicing Agreement and (ii) such decisions are not required to be made by
+     the Controlling Trustees;
+
+
+                                       9
+
+<PAGE>
+
+
+          (v) procuring, when the Administrative Agent considers in good faith
+     that it is appropriate or necessary to do so, and coordinating the advice
+     of, legal counsel, accounting, tax and other professional advisers at the
+     expense of the relevant MSAF Group Member, to assist such MSAF Group
+     Member in carrying out its obligations, and supervising, in accordance
+     with instructions from such MSAF Group Member, such legal counsel and
+     other advisers;
+
+          (vi) as frequently as is necessary for each MSAF Group Member to
+     comply with its obligations under the Relevant Documents, arranging for
+     the Appraisals to be made and providing the Appraisals to the relevant
+     Service Providers; and
+
+          (vii) providing assistance to the Servicer with respect to matters
+     for which such assistance is contemplated by the Servicing Agreement or is
+     reasonably necessary in order for the Servicer to perform its duties in
+     accordance with the Servicing Agreement.
+
+     (b) to monitor the performance of the Service Providers and to report on
+such performance to the Controlling Trustees on a quarterly basis, including:
+
+          (i) with respect to the Servicer:
+
+               (A) monitoring and reviewing the information and other reports
+          provided by the Servicer pursuant to the Servicing Agreement,
+          including with respect to the status of Lease payments, Lessee
+          receivables, Maintenance Reserves, security deposits, adjustments of
+          rentals and claims against Maintenance Reserves in accordance with
+          Lease terms (to the extent provided to the Administrative Agent);
+
+               (B) assisting in evaluating the Servicer's performance relative
+          to the Standard of Care and the Conflicts Standard;
+
+               (C) assisting in establishing standards for evaluating the
+          Servicer's performance relative to the terms of the Servicing
+          Agreement generally, assisting in evaluating such performance against
+          such standards and recommending action with respect thereto;
+
+               (D) reviewing and providing advice with respect to
+          recommendations made by the Servicer for approval by any MSAF Group
+          Member; and
+
+
+                                      10
+
+<PAGE>
+
+
+               (E) monitoring the compliance of the Servicer with its
+          obligations under the Servicing Agreement;
+
+          (ii) with respect to the other Service Providers:
+
+               (A) to the extent not provided for in the relevant agreement,
+          assisting in establishing standards for performance evaluation and
+          compliance with the terms of such agreement;
+
+               (B) assisting in evaluating the performance and compliance of
+          each Service Provider against its obligations under the relevant
+          agreement or such standards as are established pursuant to subsection
+          2.03(b)(ii)(A) above;
+
+               (C) monitoring and reviewing the information and reports
+          provided by the Cash Manager to the Administrative Agent and the
+          relevant MSAF Group Member and reviewing and providing advice with
+          respect to such reports; and
+
+               (D) implementing any other request by MSAF Group to evaluate the
+          performance of the Service Providers under the relevant agreements
+          with MSAF Group, which shall be at the expense of MSAF Group, to the
+          extent services are required that are materially greater in scope
+          than those being provided pursuant to the express terms of this
+          Agreement;
+
+     (c) to the extent that (i) the following services are not provided by the
+other Service Providers, and (ii) the relevant information is provided to the
+Administrative Agent by MSAF Group or the Service Providers, to act as liaison
+with the Rating Agencies with respect to the rating impact of any decisions on
+behalf of MSAF Group, including:
+
+               (i) advising the Rating Agencies from time to time of any
+          material changes in the Portfolio, coordinating with MSAF Group and
+          the Service Providers and providing the Rating Agencies with such
+          statistical and other information as they may from time to time
+          request (such information to be provided at MSAF Group's expense to
+          the extent that providing such information requires services that are
+          materially greater in scope than those being provided pursuant to the
+          express terms of this Agreement);
+
+               (ii) providing the Rating Agencies with the Outstanding
+          Principal Balances of each class or subclass of Notes and
+          loan-to-value ratios (i.e., ratio of debt to Annual Appraised Value
+          of MSAF Group's assets); and
+
+
+                                      11
+
+<PAGE>
+
+
+               (iii) coordinating among MSAF Group, the Servicer and the
+          Appraisers to ensure that the Appraisals are received as required;
+
+     (d) to provide assistance to MSAF Group in procuring lessee consents,
+novations and other documentation and in taking all other actions necessary in
+connection with the reissue or amendment of letters of credit;
+
+     (e) to provide assistance to MSAF Group in the structuring, negotiation
+and execution of (1) the re-lease and/or sale of the Aircraft, (2) the
+acquisition of Additional Aircraft and (3) financing transactions relating to
+MSAF Group after the Closing Date, including:
+
+          (i) coordinating with the Service Providers, legal and other
+     professional advisers to monitor the protection of MSAF Group's interests
+     and rights and coordinating the execution of documentation required at
+     closings;
+
+          (ii) providing qualified personnel to attend and provide
+     administrative support (including the preparation of any certificates
+     required pursuant to the Servicing Agreement) at the closings in
+     connection with sales or re-leases of the Aircraft and the acquisition of
+     any Additional Aircraft, if required (it being understood that the
+     Administrative Agent will not be obligated to provide legal counsel or
+     legal or technical services to MSAF Group);
+
+          (iii) coordinating with MSAF Group and the Service Providers and
+     assisting in the management of the closing process so that closings will
+     occur on a timely basis;
+
+          (iv) providing all necessary administrative support to complete any
+     documentation and other related matters; and
+
+          (v) appointing counsel and other appropriate professional advisers to
+     represent MSAF Group in connection with any such closings;
+
+     (f) to coordinate with the Cash Manager, including reviewing the effect on
+the cash flows required for payment of the Notes of investments and
+reinvestments of cash by the Cash Manager pursuant to the Cash Management
+Agreement;
+
+     (g) based on information produced or provided to it, to prepare, file
+and/or distribute, with the assistance of outside counsel and auditors, if
+appropriate, all reports to be prepared, filed and/or distributed by any MSAF
+Group Member or its governing bodies, subject to the approval of the
+Controlling Trustees in the case of any exchange offer documents filed by MSAF
+under the Securities Act and the
+
+
+                                      12
+
+<PAGE>
+
+
+Exchange Act, and any reports filed by MSAF on Form 10-K and 10-Q and, if such
+form is being filed with any information other than the monthly report to
+noteholders, any Form 8-K under the Exchange Act, including:
+
+          (i) filings any MSAF Group Member is required to make in various
+     jurisdictions and preparing such filings or monitoring counsel and
+     advisers in connection with the preparation and filing of such materials;
+
+          (ii) filings MSAF is required to make under the Securities Act and
+     the Exchange Act in connection with the preparation and filing of any
+     exchange offer documents;
+
+          (iii) compliance by MSAF with applicable periodic reporting
+     requirements of the Exchange Act, in particular, working with necessary
+     professional advisers to MSAF and the Service Providers, as appropriate,
+     to prepare on behalf of MSAF and to arrange for the filing and
+     distribution of an annual report on Form 10-K in respect of MSAF and, as
+     periodic reporting requirements of the Exchange Act, quarterly reports on
+     Form 10-Q and any required reports on Form 8-K in respect of MSAF;
+
+          (iv) reports required or recommended to be distributed to investors
+     (including press releases), and managing investor relations on behalf of
+     MSAF Group, and preparing or arranging for the preparation and
+     distribution of such reports at MSAF Group's expense; and
+
+          (v) reports required to be filed with any Governmental Authorities,
+     and preparing on behalf of any MSAF Group Member or arranging for the
+     preparation of and arranging for the filing of any reports required to be
+     filed with any other entity in order for such MSAF Group Member not to be
+     in violation of Applicable Law or any applicable covenants;
+
+     (h) with respect to amendments,
+
+          (i) to report on the substance of any proposed amendments to any
+     Relevant Documents;
+
+          (ii) to the extent requested by any MSAF Group Member or by the
+     parties to Relevant Documents and subject to approval by the appropriate
+     controlling trustees or board, to coordinate with MSAF Group's legal
+     counsel, the other parties thereto and their counsel the preparation and
+     execution of any amendments to the Relevant Documents (other than
+     amendments relating to the Aircraft or the Leases), and to provide
+     assistance in the implementation of such amendments; and
+
+
+                                      13
+<PAGE>
+
+
+          (iii) to the extent reasonably requested by the Servicer, to
+     coordinate and provide assistance on behalf of MSAF Group with the
+     Servicer and seek to obtain appropriate approvals to take any action which
+     may be required to amend the terms of the Leases;
+
+     (i) to the extent reasonably requested by the Servicer, to coordinate and
+provide assistance on behalf of MSAF Group with the Servicer and outside
+counsel in a Lessee default or repossession situation;
+
+     (j) to authorize payment of certain bills and expenses (i) payable to
+legal and professional advisers authorized to be engaged or consulted pursuant
+to this Agreement or (ii) approved by the Controlling Trustees;
+
+     (k) providing assistance to MSAF with respect to matters for which action
+by MSAF is required under the Servicing Agreement or the Indenture, including
+such assistance that may be necessary for MSAF to:
+
+          (i) comply with Sections 6.07, 7.05(a)(i) and 7.06 of the Servicing
+     Agreement;
+
+          (ii) provide such instructions to the Servicer as the Servicer may
+     require in interpreting the Indenture, the Concentration Thresholds and
+     Annex 1 to Schedule 2.02(a) to the Servicing Agreement ("Schedule
+     2.02(a)");
+
+          (iii) direct the Servicer to amend the minimum hull and liability
+     insurance coverage amounts set forth in Schedule 1.03(a) to Schedule
+     2.02(a);
+
+          (iv) direct the Servicer that settlement offers received by the
+     Servicer with respect to claims for damage or loss in excess of $2,000,000
+     with respect to an Aircraft Asset are acceptable;
+
+          (v) request periodic reports from the Servicer regarding insurance
+     matters;
+
+          (vi) grant approvals when such approvals are required by Section
+     7.06(a) and Schedule 2.02(a) of the Servicing Agreement;
+
+          (vii) provide the Servicer with such information as the Servicer may
+     reasonably request in connection with the Concentration Thresholds and
+     certify to the Servicer that proposed Aircraft-related transactions will
+     not result in the violation of such Concentration Thresholds;
+
+
+                                      14
+
+<PAGE>
+
+
+          (viii) advise the Servicer as required by Section 3(c) of Schedule
+     2.02(a);
+
+          (ix) direct the Servicer to arrange for the sale of an Aircraft Asset
+     and certify to the Servicer that such sale complies with the terms of the
+     Indenture;
+
+          (x) make any discretionary decisions, judgments or assumptions
+     necessary in connection with the preparation of any projections, and
+     provide the Servicer with any written policies and guidelines that the
+     Servicer shall require in connection with such preparation; and
+
+          (xi) request information and assistance from the Servicer in regard
+     to valuations of Aircraft Assets in accordance with Section 5.01 of
+     Schedule 2.02(a).
+
+     (l) to inform the Controlling Trustees as soon as is reasonably
+practicable if the Administrative Agent believes that (i) net revenues
+generated by the Leases will be insufficient to satisfy the payment obligations
+of MSAF Group and (ii) an Event of Default will result from such insufficiency,
+and to advise the Controlling Trustees as to any appropriate action to be taken
+(subject to the provisions of the Relevant Documents) with respect to such
+insufficiency and to cause the actions directed by the Controlling Trustees to
+be implemented so as to avoid an Event of Default, if it is possible to do so;
+
+     (m) to advise the Controlling Trustees as to the appropriate levels of the
+Liquidity Reserve Amount;
+
+     (n) to oversee the general operation of any credit or liquidity
+enhancement facility provided for the benefit of MSAF, including without
+limitation the MSDW Loan Agreement and the Custody and Loan Agreement
+(including without limitation monitoring the amounts committed and available
+for drawing, and outstanding and required to be repaid, under each such
+facility);
+
+     (o) to determine whether it is necessary or appropriate at any time that
+MSAF make a drawing under any back-up letter of credit of which MSAF is the
+beneficiary and, if so, to administer such drawing on MSAF's behalf; and
+
+     (p) any additional services that the Administrative Agent deems necessary
+and appropriate in furtherance of the services list in (a) through (o) above.
+
+     SECTION 2.04. Bank Account Management and Calculation Services. The
+Administrative Agent hereby agrees to perform and provide the following bank
+account management and calculation services:
+
+
+                                      15
+
+<PAGE>
+
+
+     (a) Establishment of Accounts. (i) Operating Bank. The Operating Bank
+shall be the Senior Trustee, initially Bankers Trust Company.
+
+          (ii) Establishment of Accounts. The Administrative Agent shall
+     establish and maintain each of the Accounts set forth on Schedule 1
+     hereto, in each case in the manner described herein and in Section 3.01 of
+     the Indenture. The Administrative Agent shall take all actions necessary
+     to establish, and shall establish, additional or replacement Accounts from
+     time to time as required by and in accordance with the terms of Section
+     3.01 of the Indenture. In addition, the Administrative Agent shall take
+     all actions necessary to cause the Security Trustee to be granted, to the
+     extent possible, a security interest pursuant to Section 2.08 of the
+     Security Trust Agreement in the interest of each MSAF Group Member in the
+     cash balances from time to time deposited in the Accounts.
+
+          (iii) Successor Operating Bank. If the Operating Bank should change
+     as a result of (A) the resignation of the Senior Trustee or replacement of
+     the Senior Trustee by an Eligible Institution pursuant to the terms of the
+     Indenture, (B) the repayment in full of the Senior Class of Notes or (C)
+     such Operating Bank's failure to meet the criteria necessary to qualify as
+     an Eligible Institution, then the Administrative Agent, acting on behalf
+     of the Security Trustee, shall thereupon promptly establish replacement
+     accounts as necessary at the successor Operating Bank and transfer the
+     balance of funds in each Account then maintained at the former Operating
+     Bank to such successor Operating Bank.
+
+     (b) Description of Accounts. (i) Collection Account. The Administrative
+Agent shall establish and maintain the Collection Account in accordance with
+Section 3.01(b) of the Indenture.
+
+          (ii) The Lessee Funded Account. The Administrative Agent shall
+     establish and maintain the Lessee Funded Account in accordance with
+     Section 3.01(c) of the Indenture.
+
+          (iii) Expense Account. The Administrative Agent shall establish and
+     maintain the Expense Account in accordance with Section 3.01(c) of the
+     Indenture.
+
+          (iv) Rental Accounts. The Administrative Agent shall establish and
+     maintain the Rental Accounts, and from time to time shall establish and
+     maintain one or more additional Rental Accounts (including one or more
+     Non-Trustee Accounts that, for tax or other regulatory or legal purposes,
+     cannot be established in the name of the Security Trustee), each in
+     accordance with Section 3.01(e) of the Indenture.
+
+
+                                      16
+
+<PAGE>
+
+
+          (v) Refinancing Account. The Administrative Agent shall establish and
+     maintain a Refinancing Account with respect to each class or subclass of
+     Notes in accordance with Section 3.01(f) of the Indenture.
+
+          (vi) Defeasance/Redemption Account. The Administrative Agent shall
+     establish and maintain the Defeasance/Redemption Account in accordance
+     with Section 3.01(g) and Article XI of the Indenture.
+
+          (vii) Remaining Aircraft Deposit Account. The Administrative Agent
+     shall establish and maintain the Remaining Aircraft Deposit Account in
+     accordance with Section 3.01(h) of the Indenture.
+
+          (viii) Lessee Payment Instructions. The Administrative Agent shall
+     take all necessary steps to ensure that all funds on deposit in each
+     Rental Account are transferred from such Rental Account to the Collection
+     Account within one Business Day of receipt thereof.
+
+          (ix) Bank Account Statements. The Administrative Agent shall take all
+     necessary steps to ensure that the Operating Bank and each other bank at
+     which a Rental Account is located shall furnish as of the close of
+     business on each Calculation Date a statement providing the then current
+     balance of each applicable Account to the Security Trustee, MSAF, the
+     Trustee, the Servicer and the Cash Manager.
+
+          (x) Maintaining the Non-Trustee Accounts. So long as any Secured
+     Obligations remain Outstanding:
+
+               (A) The Administrative Agent shall maintain, or cause to be
+          maintained, each Non-Trustee Account in the name of the related
+          Grantor (as defined in the Security Trust Agreement) only with a bank
+          (an "Account Bank") that has entered into a letter agreement in
+          substantially the form of Exhibit B to the Security Trust Agreement
+          (or made such other arrangements as are acceptable to the
+          Administrative Agent and the Security Trustee) with such Grantor and
+          the Security Trustee (an "Account Letter").
+
+               (B) The Administrative Agent (x) shall promptly instruct each
+          Person obligated at any time to make any payment to any Grantor for
+          any reason (an "Obligor") to make such payment to a Non-Trustee
+          Account meeting the requirements of clause 2.04(b)(x)(A) above, (y)
+          shall instruct each such Account Bank to transfer to the Collection
+          Account, in immediately available funds, within one Business Day of
+          receipt thereof, an amount equal to the credit balance of the
+          Non-Trustee Account in such Account Bank (other than any amount
+          required to be left on deposit in such
+
+
+                                      17
+
+<PAGE>
+
+
+          Account Bank for local tax or other regulatory or legal purposes),
+          and (z) shall transfer or cause each such Account Bank to transfer to
+          the Security Trustee for deposit in the Collection Account, within
+          one Business Day of receipt thereof, all other Cash Collateral and
+          any proceeds of any of the Collateral.
+
+               (C) Upon the termination of any Account Letter or other
+          arrangement with respect to the maintenance of a Non-Trustee Account
+          by any Grantor or any Account Bank, the Administrative Agent shall
+          immediately notify all Obligors that were making payments to such
+          Non-Trustee Account to make all future payments to another
+          Non-Trustee Account meeting the requirements of clause (i) above or,
+          if practicable at such time, to an Account in the name of the
+          Security Trustee.
+
+     (c) Calculations. Pursuant to Section 3.06 of the Indenture, the
+Administrative Agent shall, at the times and in the manner set forth therein,
+determine or calculate each of the amounts required to be determined or
+calculated by it pursuant to Sections 3.06(a) through (f) of the Indenture.
+
+     (d) Withdrawals and Transfers. The Administrative Agent shall make the
+following withdrawals and transfers in accordance with the terms of the
+Indenture:
+
+               (i) Closing Date Deposits, Withdrawals and Transfers. On the
+          Closing Date, the Administrative Agent shall make each of the
+          transfers described in Section 3.03 of the Indenture.
+
+               (ii) Interim Withdrawals and Transfers for Expenses, Certain
+          Lease Obligations and Other Obligations. From time to time, the
+          Administrative Agent shall make the withdrawals and transfers
+          provided for in Section 3.04 of the Indenture in accordance with such
+          Section.
+
+               (iii) Interim Deposits and Withdrawals for Modification Payments
+          or Dispositions of Aircraft. From time to time, the Administrative
+          Agent shall make the withdrawals and transfers provided for in
+          Section 3.05 of the Indenture in accordance with such Section.
+
+               (iv) Payment Date First Step Withdrawals and Transfers. On each
+          Payment Date, the Administrative Agent shall make the withdrawals and
+          transfers provided for in Section 3.07 of the Indenture in accordance
+          with such Section.
+
+               (v) Payment Date Second Step Withdrawals. Subject to Section
+          2.04(d)(vi) hereof, on each Payment Date, after the withdrawals and
+          transfers provided for in Section 2.04(d)(iv) hereof have been made,
+          the
+
+
+                                      18
+
+<PAGE>
+
+
+          Administrative Agent shall distribute funds on deposit in the
+          Collections Account and the Expense Account as provided in Section
+          3.08(a) of the Indenture; provided, that any such direct funds
+          transfer shall have been authorized on or prior to the date thereof
+          by the Administrative Agent in the form of a certificate,
+          substantially in the form of Exhibit A hereto, delivered to and
+          acknowledged by the Trustee.
+
+               (vi) Event of Default and Default Notice Withdrawals and
+          Transfers. Notwithstanding anything to the contrary contained in
+          Section 2.04(d)(iv) or (v) hereof, following the delivery of a
+          Default Notice to the Administrative Agent or MSAF pursuant to the
+          Indenture, after the withdrawals and transfers provided for in
+          Section 2.04(d)(iv) hereof have been made, the Administrative Agent
+          shall distribute funds on deposit in the Collection Account and the
+          Expense Account in the amounts and in the order of priority provided
+          for in Section 3.08(b) of the Indenture.
+
+               (vii) Defeasance/Redemption Transfers. The Administrative Agent
+          shall transfer from time to time amounts on deposit in the
+          Defeasance/Redemption Account to the applicable Note Account in
+          connection with either the redemption of any class or subclass of
+          Notes in accordance with Section 3.10 of the Indenture or the
+          exercise of the defeasance provisions set forth in Article XI of the
+          Indenture.
+
+               (viii) Refinancing Transfers. The Administrative Agent shall
+          transfer from time to time amounts on deposit in the Refinancing
+          Account to the Note Accounts in connection with any Refinancing in
+          accordance with Section 2.10 of the Indenture.
+
+               (ix) Currency Conversions. If and to the extent that MSAF incurs
+          any payment obligation or other cost in a currency other than U.S.
+          dollars, the Administrative Agent shall, to the extent practicable,
+          convert U.S. dollars into such other currency at the then prevailing
+          market rate as necessary to discharge such payment obligations or
+          costs, at the expense of MSAF in accordance with Section 13.07 of the
+          Indenture.
+
+     (e) Ratings and the Accounts. Each Account shall at all times be
+maintained at the Operating Bank or another Eligible Institution selected by
+the Administrative Agent in accordance with the Security Trust Agreement and
+the Indenture; provided that one or more Rental Accounts may be maintained at
+any other reputable and responsible bank in accordance with Section 3.01 of the
+Indenture.
+
+     (f) Records. The Administrative Agent shall provide such information
+relating to the Accounts to the Security Trustee, the Trustee, the Cash Manager
+or the Rating Agencies as any of them may reasonably request from time to time.
+
+
+                                      19
+
+<PAGE>
+
+
+     (g) Reports. The Administrative Agent shall provide the reports and other
+information required to be provided by it pursuant to Section 3.06(g) of the
+Indenture, together with copies of such additional reports or other information
+as the Security Trustee or the Trustee may reasonably request, all in
+accordance with the terms of the Indenture.
+
+     SECTION 2.05. Accounting Services. The Administrative Agent hereby agrees
+to perform and provide the following accounting services:
+
+     (a) Budgeting Process. The Administrative Agent shall, in accordance with
+the procedures, policies and guidelines described below and on the basis of
+information generated by the Administrative Agent and information provided by
+the Service Providers and MSAF Group:
+
+               (i) in respect of each One Year Period and Three Year Period
+          after the Initial Periods during the term of the Servicing Agreement,
+          and on behalf of MSAF Group, prepare and deliver to the Servicer, no
+          later than the September 30 immediately preceding the commencement of
+          each Year proposed One Year and Three Year Operating Budgets and One
+          Year and Three Year Asset Expenses Budgets for each such period
+          together with reasonably detailed supporting information and the
+          assumptions underlying such proposed Operating Budgets or Asset
+          Expenses Budgets, such proposed Operating Budgets and Asset Expenses
+          Budgets to be based, in part, on the information provided by the
+          Servicer pursuant to Section 7.05(c) of the Servicing Agreement;
+
+               (ii) on behalf of MSAF Group, review, discuss and negotiate with
+          the Servicer such proposed Operating Budgets and Asset Expenses
+          Budgets, and make such adjustments proposed by the Servicer as the
+          Administrative Agent shall deem appropriate; and
+
+               (iii) submit to the Servicer no later than the November 10
+          immediately preceding the commencement of such Year the Approved
+          Budgets together with reasonably detailed information regarding
+          MSAF's underlying assumptions.
+
+     (b) Management Accounts and Financial Statements. The Administrative Agent
+shall, in accordance with the procedures, policies and guidelines described
+below and on the basis of information generated by the Administrative Agent and
+information provided by the Service Providers and MSAF Group:
+
+               (i) establish an accounting system and maintain the accounting
+          ledgers of and for each MSAF Group Member in accordance with
+
+
+                                      20
+
+<PAGE>
+
+
+          accounting principles generally accepted in the United States, unless
+          otherwise required by Applicable Law and specified by the Controlling
+          Trustees (collectively, the "Ledgers");
+
+               (ii) prepare and deliver (within [40] days after the end of the
+          relevant Quarter or, if the end of such Quarter coincides with the
+          end of a Year, within [75] days after the end of such Year), with
+          respect to MSAF Group, on a consolidated basis, a draft balance sheet
+          and draft statement of changes in shareholders' equity or residual
+          trust interest as of the end of each Quarter and Year, as applicable,
+          and draft statements of income and cash flows for each Quarter and
+          Year, as applicable (the "Consolidated Quarterly Draft Accounts");
+
+               (iii) to the extent required by Applicable Law, prepare and
+          deliver (within 40 days after the end of the relevant Quarter or, if
+          the end of such Quarter coincides with the end of a Year, within 90
+          days after the end of such Year), with respect to MSAF Group on a
+          combined basis and such of MSAF and the other MSAF Group Members as
+          specified by the Controlling Trustees in a written schedule provided
+          to the Administrative Agent (which schedule may be updated by the
+          Controlling Trustees to the Administrative Agent delivered at least
+          30 days prior to the commencement of the relevant Quarter), on a
+          consolidating company-by-company basis, a draft balance sheet and
+          statement of changes in shareholders' equity or residual trust
+          interest as of the end of each Quarter and Year, as applicable, with
+          respect to such MSAF Group Member and draft statements of income and
+          cash flows for such Quarter and Year, as applicable (the
+          "Consolidating Quarterly Draft Accounts" and, together with the
+          Consolidated Quarterly Draft Accounts the "Draft Accounts"). The
+          Controlling Trustees shall specify the applicable legal requirements
+          mandating the preparation of such Consolidating Quarterly Draft
+          Accounts in the written schedule provided to the Administrative Agent
+          pursuant to this section;
+
+               (iv) as required by the Controlling Trustees, arrange and manage
+          the quarterly review of the Draft Accounts by MSAF Group's auditors;
+
+               (v) arrange for, coordinate with and assist MSAF Group's
+          auditors in preparing annual audits;
+
+               (vi) prepare or arrange for the preparation of and arrange for
+          the filing of MSAF Group's tax returns in conjunction with MSAF
+          Group's tax advisers after submission to the Controlling Trustees to
+          the extent required by the Controlling Trustees or Applicable Law;
+
+
+                                      21
+
+<PAGE>
+
+
+               (vii) liaise with the Servicer for the purpose of preparing the
+          weekly and monthly reports in accordance with Sections 8.01 and 8.02
+          of Schedule 2.02(a); and
+
+               (viii) compare the expected cash flows of MSAF Group and the
+          budgets to actual results.
+
+     (c) The Administrative Agent shall prepare the Draft Accounts in
+accordance with U.S. GAAP unless otherwise required by Applicable Law and
+specified by the Controlling Trustees. In connection with the preparation of
+the Consolidated Quarterly Draft Accounts, the Controlling Trustees will,
+provide to the Administrative Agent, at such times as the Administrative Agent
+may require, a review report (as defined by the Statements on Standards for
+Accounting and Review Services issued by the American Institute of Certified
+Public Accountants) of MSAF Group's independent public accountants with respect
+to the financial statements of such MSAF Group Members for, or as of the end
+of, such Quarter, including in such report such accountants' statement that,
+based on its review of such financial statements, it is not aware of any
+material modifications that should be made to such financial statements in
+order for them to be in conformity with U.S. GAAP or other applicable
+accounting principles; provided, however, that, with respect to such financial
+statements for, or as of the end of, any Quarter (other than the last Quarter
+of any Year), in the event that MSAF Group does not include (or cause to be
+included) any material disclosure required by U.S. GAAP or other applicable
+accounting principles to be included within footnotes to such financial
+statements, such review report may be qualified solely by stating that the only
+modification that should be made to such financial statements in order for them
+to be in conformity with U.S. GAAP or other applicable accounting principles is
+the inclusion of such disclosure; provided further, however, that such
+qualification may not relate to any footnote to such financial statements.
+
+     (d) The Administrative Agent shall be entitled to request instructions
+from the Controlling Trustees as to general guidelines or principles to be
+followed in preparing Draft Accounts and as to amending or supplementing any
+such guidelines or principles.
+
+     SECTION 2.06. Additional Administrative Services. The Administrative Agent
+will provide additional Administrative Services, including (a) providing
+assistance in (i) arranging one or more Refinancings of all or a portion of the
+Notes, and (ii) arranging for the payment of any purchase price adjustment
+necessary to be paid pursuant to the Asset Purchase Agreement and (b)
+undertaking efforts to avoid any adverse change in the tax status of any MSAF
+Group Member. In addition, upon a request by any MSAF Group Member, the
+Administrative Agent will take such other actions as may be appropriate to
+facilitate such MSAF Group Member's business operations and assist the
+Controlling Trustees in carrying out their obligations; provided, however, that
+the Administrative Agent
+
+
+                                      22
+
+<PAGE>
+
+
+will not be obligated or permitted to take any action that might reasonably be
+expected to result in the business of such MSAF Group Member ceasing to be
+separate and readily identifiable from, and independent of, the Administrative
+Agent, and any of its Affiliates.
+
+     SECTION 2.07. Additional Aircraft. In the event that MSAF Group shall
+acquire any Additional Aircraft and notwithstanding that MSAF Group may retain
+different service providers for such Additional Aircraft, the Administrative
+Agent hereby agrees to provide the same Administrative Services with respect to
+all such Additional Aircraft.
+
+     SECTION 2.08. New Subsidiaries. The Administrative Agent shall be
+responsible for coordinating with outside legal counsel, auditors, tax advisers
+and other professional advisers with respect to all corporate and
+administrative matters relating to the formation, operation, corporate affairs
+and related matters with respect to all Subsidiaries which are or may become
+members of MSAF Group, including identifying such outside advisers, a potential
+company secretary and candidates for trustee to the extent necessary, and shall
+be permitted to incur expenses in respect of such Subsidiaries without MSAF
+Group's consent up to such aggregate amount as shall be authorized from time to
+time. To the extent that the Administrative Agent shall deem it necessary or
+desirable in order for MSAF Group to carry on its business, the Administrative
+Agent shall have the authority to assist in the formation of new Subsidiaries
+of MSAF and to appoint any director to any such Subsidiary without the consent
+of MSAF Group; provided, that such directors are the same directors of MSAF
+then in office unless otherwise required by applicable local law mandating a
+particular citizenship for directors. The Administrative Agent and its
+personnel may act as company secretary for any Subsidiary.
+
+     SECTION 2.09. MSAF Group Responsibility. (a) The obligations of the
+Administrative Agent hereunder are limited to those matters that are expressly
+the responsibility of the Administrative Agent in accordance with the terms of
+this Agreement. Notwithstanding the appointment of the Administrative Agent to
+perform the Administrative Services, each MSAF Group Member shall remain
+responsible for all matters and decisions related to its business, operations,
+assets and liabilities.
+
+     (b) Without derogating from the authority and responsibility of the
+Administrative Agent with respect to the performance of certain of the
+Administrative Services as set forth in this Agreement, it is hereby expressly
+agreed and acknowledged that the Administrative Agent is not authorized or
+empowered to make or enter into any agreement, contract or other legally
+binding arrangement, in respect of or relating to the business or affairs of
+any MSAF Group Member, or pledge the credit of, incur any indebtedness on
+behalf of or expend any funds of any MSAF Group Member other than as expressly
+permitted in
+
+
+                                      23
+
+<PAGE>
+
+
+accordance with the terms of this Agreement, all such authority and power being
+reserved to the appropriate MSAF Group Member or the Security Trustee, as the
+case may be.
+
+                                   ARTICLE 3
+                STANDARD OF PERFORMANCE; LIABILITY AND INDEMNITY
+
+     SECTION 3.01. Standard of Performance. The Administrative Agent will
+devote the same amount of time and attention to and will be required to
+exercise the same level of skill, care and diligence in the performance of its
+services as it would if it were administering such services on its own behalf
+(the "Standard of Performance").
+
+     SECTION 3.02. Liability and Indemnity. (a) The Administrative Agent shall
+not be liable for any Losses or Taxes to or of, or payable by any MSAF Group
+Member at any time from any cause whatsoever or any Losses or Taxes directly or
+indirectly arising out of or in connection with or related to the performance
+by the Administrative Agent of this Agreement unless such Losses or Taxes are
+the result of the Administrative Agent's own wilful misconduct, deceit or fraud
+or that of any of its directors, officers, agents or employees, as the case may
+be.
+
+     (b) Notwithstanding anything to the contrary set forth in any other
+agreement to which any MSAF Group Member is a party, MSAF and the other MSAF
+Group Members, do hereby assume liability for and do hereby jointly and
+severally agree to indemnify, reimburse and hold harmless on an After-Tax Basis
+the Administrative Agent, its directors, officers, employees and agents and
+each of them from any and all Losses or Taxes that may be imposed on, incurred
+by or asserted against any of them arising out of, in connection with or
+related to the Administrative Agent's performance under this Agreement
+(including any Losses or Taxes incurred by the Administrative Agent as a result
+of indemnifying any Person to whom it shall have delegated its obligations
+hereunder in accordance with Section 8.01, but only to the extent the
+Administrative Agent would have been indemnified had it performed such
+obligations), except as a result of the wilful misconduct, deceit or fraud of
+the Administrative Agent or any of its directors, officers, employees or
+agents. This indemnity shall not apply to:
+
+          (i) Taxes imposed on net income by the revenue authorities of Ireland
+     in respect of any payment by any MSAF Group Member to the Administrative
+     Agent due to the performance of the Administrative Services; and
+
+          (ii) Taxes imposed on net income of the Administrative Agent by any
+     Government Authority other than the revenue authorities of Ireland to
+
+
+                                      24
+
+<PAGE>
+
+
+     the extent such Taxes would not have been imposed in the absence of any
+     connection of the Administrative Agent with such jurisdiction imposing
+     such Taxes other than any connection that results from the performance by
+     the Administrative Agent of its obligations under this Agreement.
+
+     This indemnity shall expressly inure to the benefit of any director,
+officer, agent or employee of the Administrative Agent now existing or in the
+future and to the benefit of any successor of the Administrative Agent and
+shall survive the expiration of this Agreement.
+
+     (c) The Administrative Agent agrees to indemnify, reimburse and hold
+harmless on an After-Tax Basis each MSAF Group Member and its respective
+trustees, directors and agents for any Losses whatsoever which they or any of
+them may incur or be subject to in consequence of the performance of the
+Administrative Services or any breach of the terms of this Agreement by the
+Administrative Agent, but only to the extent such Losses arise due to the
+wilful misconduct, deceit or fraud of the Administrative Agent or any of its
+directors, officers or employees, as the case may be; provided, however, that
+this indemnity shall not apply and the Administrative Agent shall have no
+liability in respect of Losses to the extent that they arise from (i) the
+wilful misconduct, deceit or fraud of any MSAF Group Members or their
+respective directors, trustees or agents, (ii) any breach by the Administrative
+Agent of its obligations under this Agreement to the extent such breach is a
+result of a Service Provider's failure to perform its obligations to MSAF Group
+or a failure by MSAF Group to comply with its obligations under this Agreement,
+(iii) any action that MSAF Group requires the Administrative Agent to take
+pursuant to a direction but only to the extent that the Administrative Agent
+takes such action in accordance with such direction and in accordance with the
+provisions hereof or (iv) a refusal by MSAF Group to take action upon a
+recommendation made in good faith by the Administrative Agent in accordance
+with the terms hereof.
+
+     (d) The Administrative Agent, MSAF and the other MSAF Group Members and
+the Security Trustee acknowledge and agree that the terms of this Agreement
+contemplate that the Administrative Agent shall receive the Relevant
+Information in order for the Administrative Agent to make required credit and
+debit entries and to make the calculations and supply the information and
+reports required herein, and that the Administrative Agent will do the
+foregoing to the extent such information is so provided by such relevant
+parties and on the basis of such information, without undertaking any
+independent verification or recalculation of such information.
+
+
+                                      25
+
+<PAGE>
+
+
+                                   ARTICLE 4
+                       ADMINISTRATIVE AGENT UNDERTAKINGS
+
+     SECTION 4.01. Administrative Agent Undertakings. The Administrative Agent
+hereby covenants with MSAF Group that it will conduct its business such that it
+is a separate and readily identifiable business from, and independent of, each
+MSAF Group Member and further covenants as follows (it being understood that
+these covenants shall not prevent any Affiliate of the Administrative Agent
+from publishing financial statements that are consolidated with those of the
+MSAF Group, if to do so is required by Applicable Law or accounting principles
+from time to time in effect, and that Affiliates of the Administrative Agent
+and certain MSAF Group Members may file a consolidated tax return for United
+States federal, state and local income tax purposes):
+
+     (a) if the Administrative Agent receives any money whatsoever, which money
+belongs to any MSAF Group Member, the Trustee or the Security Trustee or is to
+be paid to any MSAF Group Member, the Trustee or the Security Trustee or into
+any account pursuant to any Relevant Document or otherwise, it will hold such
+money in trust for such MSAF Group Member, the Trustee or the Security Trustee,
+as the case may be, and shall keep such money separate from all other money
+belonging to the Administrative Agent and shall as promptly as practicable
+thereafter pay the same into the relevant account in accordance with the terms
+thereof without exercising any right of setoff;
+
+     (b) it will comply with any proper directions, orders and instructions
+which any MSAF Group Member or the Security Trustee may from time to time give
+to it in accordance with the provisions of this Agreement and the Indenture;
+provided, that to the extent any conflicts arise between instructions received
+from a MSAF Group Member and the Security Trustee, the Administrative Agent
+shall comply with such MSAF Group Member's instructions, unless such
+instructions relate to the Bank Account Management and Calculation Services
+described in Section 2.04 and then in such case the Administrative Agent shall
+comply only with the instructions of the Security Trustee.
+
+     (c) it will not knowingly fail to comply with any legal requirements in
+the performance of the Administrative Services;
+
+     (d) it will make all payments required to be made by it at any time and
+from time to time pursuant to this Agreement on the required date for payment
+thereof and shall turn over any amounts owed to the Security Trustee, MSAF or
+the Trustee without set-off or counterclaim;
+
+     (e) it will not take any steps for the purpose of procuring the
+appointment of any administrative receiver or the making of an administrative
+order or for instituting any bankruptcy, reorganization, arrangement,
+insolvency, winding up,
+
+
+                                      26
+
+<PAGE>
+
+
+liquidation, composition or any like proceedings under the laws of any
+jurisdiction in respect of any MSAF Group Member or in respect of any of their
+respective liabilities, including, without limitation, as a result of any claim
+or interest of the Administrative Agent or any of its Affiliates;
+
+     (f) it will cooperate with each MSAF Group Member and its respective
+trustees, directors and agents and the Security Trustee and the Trustee,
+including by providing such information as may reasonably be requested, to
+permit MSAF Group or its authorized agents to monitor the Administrative
+Agent's compliance with its obligations under this Agreement;
+
+     (g) during the term of this Agreement, it will observe all corporate
+formalities necessary to remain a legal entity separate and distinct from, and
+independent of, each MSAF Group Member;
+
+     (h) during the term of this Agreement, it will maintain its assets and
+liabilities separate and distinct from each MSAF Group Member;
+
+     (i) during the term of this Agreement, it will maintain records, books,
+accounts and minutes separate from those of each MSAF Group Member;
+
+     (j) during the term of this Agreement, it will pay its obligations in the
+ordinary course of its business as a legal entity separate from each MSAF Group
+Member;
+
+     (k) during the term of this Agreement, it will keep its funds separate and
+distinct from the funds of each MSAF Group Member, and it will receive,
+deposit, withdraw and disburse such funds separately from the funds of each
+MSAF Group Member;
+
+     (l) during the term of this Agreement, it will conduct its business in its
+own name, and not in the name of any MSAF Group Member;
+
+     (m) during the term of this Agreement, it will not pay or become liable
+for any debt of any MSAF Group Member, other than to make payments in the form
+of indemnity as required by the express terms of this Agreement;
+
+     (n) during the term of this Agreement, it will not hold out that it is a
+division of any MSAF Group Member or that any MSAF Group Member is a division
+of it;
+
+     (o) during the term of this Agreement, it will not induce any third party
+to rely on the creditworthiness of any MSAF Group Member in order that such
+third party will be induced to contract with it;
+
+
+                                      27
+
+<PAGE>
+
+
+     (p) during the term of this Agreement, it will not enter into any
+agreements between it and any MSAF Group Member that are more favorable to
+either party than agreements that the parties would have been able to enter
+into at such time on an arm's-length basis with a non-affiliated third party,
+other than any Relevant Documents in effect on the date hereof (it being
+understood that the parties hereto do not intend by this covenant to ratify any
+self-dealing transactions); and
+
+     (q) during the term of this Agreement, it will (i) forward promptly to the
+Servicer a copy of any material communication received from any Person in
+relation to any Lease or Aircraft; (ii) grant such access to the Servicer to
+its books of account, documents and other records and to its employees as may
+be reasonably necessary for the Servicer to perform its obligations in respect
+of any Lease or Aircraft under the Servicing Agreement; provided, however, that
+the Servicer shall not have access to the minutes of the Administrative Agent's
+board meetings and other confidential business information; and (iii) execute
+and deliver such documents and do such acts and things as the Servicer may
+reasonably request in order to effect the purposes of the Servicing Agreement.
+
+                                   ARTICLE 5
+                           UNDERTAKINGS OF MSAF GROUP
+
+     SECTION 5.01. Cooperation. MSAF and the other MSAF Group Members shall use
+commercially reasonable efforts to cause any Service Provider to, at all times
+cooperate with the Administrative Agent to enable the Administrative Agent to
+provide the Administrative Services, including providing the Administrative
+Agent with all powers of attorney as may be reasonably necessary or appropriate
+for the Administrative Agent to perform the Administrative Services in
+accordance with this Agreement.
+
+     SECTION 5.02. Information. MSAF will provide the Administrative Agent with
+the following information in respect of itself and each other MSAF Group
+Member:
+
+     (a) copies of all Relevant Documents, including the articles of
+incorporation, by-laws, trust agreements (or equivalent documents) of each MSAF
+Group Member, and copies of all books and records maintained on behalf of each
+such MSAF Group Member;
+
+     (b) details of all bank accounts and bank mandates maintained by any MSAF
+Group Member;
+
+
+                                      28
+
+<PAGE>
+
+
+     (c) names of and contact information with respect to the controlling
+trustees or board for each MSAF Group Member;
+
+     (d) such other information as is necessary to the Administrative Agent's
+performance of the Administrative Services; and
+
+     (e) a copy of any information provided to MSAF Group pursuant to the
+Servicing Agreement;
+
+     provided, that such information as is referred to in this Section 5.02
+(with the exception of paragraphs (d) and (e)) shall be provided to the
+Administrative Agent upon execution of this Agreement and, in respect of any
+amendment or changes to the information provided to the Administrative Agent
+upon execution of this Agreement, promptly following the effectiveness of such
+amendments or changes.
+
+     SECTION 5.03. Scope of Services.
+
+     (a) In the event that any MSAF Group Member shall enter into any
+agreement, amendment or other modification of any Lease or shall take any other
+action that has the effect of increasing in any material respect the scope,
+nature or level of the Administrative Services to be provided under this
+Agreement without the Administrative Agent's express prior written consent,
+MSAF Group shall so notify the Administrative Agent and the Administrative
+Agent shall not be obligated to perform the affected Administrative Service to
+the extent of such increase unless and until the Administrative Agent and MSAF
+Group shall agree on the terms of such increased Administrative Service (it
+being understood that (i) the Administrative Agent shall have no liability to
+any MSAF Group Member directly or indirectly arising out of, in connection with
+or related to the Administrative Agent's failure to perform such increased
+Administrative Service prior to any such agreement and (ii) MSAF Group shall
+not be permitted to engage another Person to perform the affected
+Administrative Service without the prior written consent of the Administrative
+Agent unless the Administrative Agent has indicated it is unable or unwilling
+to act in respect of the affected Administrative Service or the Administrative
+Agent requires payment of more than reasonable additional compensation for such
+additional Administrative Service).
+
+     (b) In the event that MSAF Group shall acquire Additional Aircraft, MSAF
+Group shall so notify the Administrative Agent and the Administrative Agent
+shall be obligated to provide the Administrative Services with respect to such
+Additional Aircraft in accordance with Section 2.07 hereof.
+
+     SECTION 5.04. Ratification. MSAF and the other MSAF Group Members hereby
+ratify and confirm and agree to ratify and confirm (and shall furnish written
+evidence thereof upon request of the Administrative Agent) any act or omission
+by
+
+
+                                      29
+
+<PAGE>
+
+
+the Administrative Agent in accordance with this Agreement in the exercise of
+any of the powers or authorities conferred upon the Administrative Agent under
+the terms of this Agreement, it being expressly understood and agreed that none
+of the foregoing shall have any obligation to ratify and confirm, and expressly
+does not ratify and confirm, any act or omission of the Administrative Agent in
+violation of this Agreement, the Standard of Performance or for which the
+Administrative Agent is obligated to indemnify any MSAF Group Member under
+Article III hereof.
+
+     SECTION 5.05. Covenants. Each of MSAF and the other MSAF Group Members
+covenants with the Administrative Agent that it will conduct its business such
+that it is a separate and readily identifiable business from, and independent
+of, the Administrative Agent and any of its Affiliates and further covenants as
+follows:
+
+     (a) during the term of this Agreement, it will observe all corporate
+formalities necessary to remain legal entities separate and distinct from, and
+independent of, the Administrative Agent, and any of its subsidiaries;
+
+     (b) during the term of this Agreement, it will maintain its assets and
+liabilities separate and distinct from those of the Administrative Agent;
+
+     (c) during the term of this Agreement, it will maintain records, books,
+accounts, and minutes separate from those of the Administrative Agent;
+
+     (d) during the term of this Agreement, it will pay its obligations in the
+ordinary course of business as a legal entity separate from the Administrative
+Agent;
+
+     (e) during the term of this Agreement, it will keep its funds separate and
+distinct from any funds of the Administrative Agent, and will receive, deposit,
+withdraw and disburse such funds separately from any funds of the
+Administrative Agent;
+
+     (f) during the term of this Agreement, it will conduct its business in its
+own name, and not in the name of the Administrative Agent;
+
+     (g) during the term of this Agreement, it will not agree to pay or become
+liable for any debt of the Administrative Agent, other than to make payments in
+the form of indemnity as required by the express terms of this Agreement;
+
+     (h) during the term of this Agreement, it will not hold out that it is a
+division of the Administrative Agent, or that the Administrative Agent is a
+division of it;
+
+
+                                      30
+
+<PAGE>
+
+
+     (i) during the term of this Agreement, it will not induce any third party
+to rely on the creditworthiness of the Administrative Agent in order that such
+third party will be induced to contract with it;
+
+     (j) during the term of this Agreement, it will not enter into any
+transaction between it and the Administrative Agent that are more favorable to
+either party than transactions that the parties would have been able to enter
+into at such time on an arm's-length basis with a non-affiliated third party,
+other than any agreements in effect on the date hereof (it being understood
+that the parties hereto do not intend by this covenant to ratify any
+self-dealing transactions); and
+
+     (k) during the term of this Agreement, it will observe all material
+corporate or other procedures required under Applicable Law and under its
+constitutive documents.
+
+     SECTION 5.06. Ratification by Subsidiaries. MSAF hereby undertakes to
+procure that, if so requested by the Administrative Agent, any subsidiary of
+MSAF formed or acquired after the date hereof, shall execute an agreement with
+the Administrative Agent adopting and confirming, as regards such subsidiary,
+the terms of this Agreement, and agreeing to ratify anything done by the
+Administrative Agent in connection herewith on the terms of Section 5.04.
+
+                                   ARTICLE 6
+                ADMINISTRATION FEES, EXPENSES AND SUBORDINATION
+
+     SECTION 6.01. Administration Fees. (a) In consideration of the
+Administrative Agent's performance of the Administrative Services, MSAF agrees
+to pay to the Administrative Agent a monthly fee (an "Administrative Fee")
+equal to 0.5% of the aggregate amount of the rent (as defined in each Lease,
+but for the avoidance of doubt, not including any amounts reimbursable to
+Lessees) actually paid by each Lessee for each Fee Period or portion of a Fee
+Period in which the related Aircraft (and Additional Aircraft, if any) is owned
+by MSAF Group; provided, that the aggregate of the fees actually received by
+the Administrative Agent shall be at least $500,000 per annum.
+
+     The Administrative Fee shall be payable monthly in arrears for each period
+commencing on the most recent Calculation Date) and ending on but excluding the
+first and each succeeding Calculation Date during the term of this Agreement
+(each such period, a "Fee Period"), such payment to be made no later than the
+Payment Date immediately following the end of each such Fee Period.
+
+
+                                      31
+
+<PAGE>
+
+
+     SECTION 6.02. Expenses. (a) The Administrative Agent shall be responsible
+for all telephone, facsimile and communications costs and expenses directly
+relating to or associated with the Administrative Agent's performance of its
+duties as set forth in this Agreement up to an annual amount of $125,000.
+
+     (b) Subject to the provisions of Section 6.02(a), MSAF Group shall be
+responsible for the following expenses incurred by the Administrative Agent in
+the performance of its obligations ("Reimbursable Expenses"):
+
+          (i) reasonable out of pocket expenses, including travel,
+     accommodation and subsistence and approved expenditures in respect of
+     insurance coverage for the Administrative Agent;
+
+          (ii) annual telephone, fax and communication costs and expenses
+     necessarily and directly incurred in connection with the performance of
+     the Administrative Services in excess of $125,000;
+
+          (iii) expenses expressly authorized by (i) the Controlling Trustees
+     or (ii) any Person to whom such authority has been delegated, other than
+     the Administrative Agent or its Affiliates; and
+
+          (iv) expenses expressly authorized pursuant to other provisions of
+     this Agreement.
+
+     SECTION 6.03. Taxes. The fees specified in Section 6.01 are net of any
+value added tax required to be accounted for by the Administrative Agent. Where
+the Administrative Agent is required to account for value added tax in respect
+of any amounts payable by or on behalf of MSAF Group to the Administrative
+Agent, MSAF Group, shall cause to be paid to the Administrative Agent such
+additional amounts as are necessary to discharge such value added tax upon
+production of a valid value added tax invoice.
+
+     SECTION 6.04. Payment of Expenses. No later than each Calculation Date,
+the Administrative Agent shall deliver a notice to the MSAF Group, setting
+forth the amounts of expenses paid by the Administrative Agent pursuant to
+Section 6.02 of this Agreement through and including such Calculation Date (it
+being understood that if there are no such expenses the Administrative Agent
+will be under no obligation to provide such notice). On the next Payment Date
+following such Calculation Date, MSAF Group agrees to pay to the Administrative
+Agent all such amounts.
+
+
+                                      32
+
+<PAGE>
+
+
+                                   ARTICLE 7
+          TERM; REMOVAL OF OR TERMINATION BY THE ADMINISTRATIVE AGENT
+
+     SECTION 7.01. Term. This Agreement shall expire on the date of payment in
+full of all amounts outstanding to be paid on the MSAF Group Notes.
+
+     SECTION 7.02. Right to Terminate. (a) At any time during the term of this
+Agreement, MSAF Group shall be entitled to terminate this Agreement on 120 days
+written notice.
+
+     (b) Following the delivery of a Default Notice or during the continuance
+of an Acceleration Default, the Security Trustee, on behalf of the Secured
+Parties, shall be entitled to terminate on 5 days' written notice the authority
+granted to the Administrative Agent to perform the Bank Account Management
+Services set forth in Section 2.04 and in the Indenture.
+
+     (c) At any time during the term of this Agreement the Administrative Agent
+shall be entitled to terminate this Agreement on 120 days' written notice if:
+
+          (i) any MSAF Group Member shall fail to pay in full when due (A) any
+     Administrative Fee or any Reimbursable Expenses in an aggregate amount in
+     excess of $50,000 and such failure continues for a period of 30 days, in
+     either case, after the effectiveness of written notice from the
+     Administrative Agent of such failure or (B) any other amount payable to
+     the Administrative Agent hereunder, and such failure continues for a
+     period of 60 days after written notice from the Administrative Agent of
+     such failure.
+
+          (ii) any MSAF Group Member shall fail to perform or observe or shall
+     violate in any material respect any material term, covenant, condition or
+     agreement to be performed or observed by it in respect of this Agreement
+     and such failure continues for a period of 30 days after MSAF Group shall
+     have received notice of such failure (other than with respect to payment
+     obligations referred to in clause (b)(i) of this Section 7.02);
+
+          (iii) an involuntary proceeding shall be commenced or an involuntary
+     petition shall be filed in a court of competent jurisdiction seeking
+     relief in respect of MSAF or any Guarantor, or of a substantial part of
+     the property or assets of MSAF or any Guarantor, under Title 11 of the
+     United States Code, as now constituted or hereafter amended (the "U.S.
+     Bankruptcy Code"), or any other U.S. federal or state or foreign
+     bankruptcy, insolvency, receivership or similar law, and such proceeding
+     or petition shall continue undismissed for 120 days or an order or decree
+     approving or ordering any of the foregoing shall be entered or MSAF or any
+     Guarantor shall go into liquidation, suffer a receiver or mortgagee to
+     take possession of all or substantially all of its assets or have an
+     examiner
+
+
+                                      33
+
+<PAGE>
+
+
+     appointed over it or if a petition or proceeding is presented for any of
+     the foregoing and not discharged within 120 days; or
+
+          (iv) MSAF or any Guarantor shall (A) voluntarily commence any
+     proceeding or file any petition seeking relief under the U.S. Bankruptcy
+     Code, or any other U.S. federal or state or foreign bankruptcy,
+     insolvency, receivership or similar law, (B) consent to the institution
+     of, or fail to contest the filing of, any petition described in clause
+     (b)(iii) above, (C) file an answer admitting the material allegations of a
+     petition filed against it in any such proceeding or (D) make a general
+     assignment for the benefit of its creditors.
+
+     (d) No termination of this Agreement by MSAF Group pursuant to Section
+7.02(a) and no termination by the Administrative Agent pursuant to Section
+7.02(c) shall become effective prior to the date of appointment by MSAF Group
+of a successor Administrative Agent and the acceptance of such appointment by
+such successor Administrative Agent; provided, however, that in the event that
+a successor Administrative Agent shall not have been appointed within 90 days
+after such termination, the Administrative Agent may petition any court of
+competent jurisdiction for the appointment of a successor Administrative Agent.
+Upon action by either party pursuant to the provisions of this Section 7.02(d),
+the Administrative Agent shall be entitled to the payment of any compensation
+owed to it hereunder and to the reimbursement of all Reimbursable Expenses
+incurred in connection with all services rendered by it hereunder, as provided
+in Section 8 hereof, and for so long as the Administrative Agent is continuing
+to perform any of the Administrative Services for any MSAF Group Member, the
+Administrative Agent shall be entitled to continue to be paid all amounts due
+to it hereunder, net of any amounts that shall have been finally adjudicated by
+a court of competent jurisdiction to be owed by the Administrative Agent to
+MSAF Group or not to be due to the Administrative Agent, until a successor
+Administrative Agent shall have been appointed and shall have accepted such
+appointment in accordance with the provisions of Section 7.03(c).
+
+     SECTION 7.03. Consequences of Termination. (a) Notices. (i) Following the
+termination of this Agreement by MSAF Group or by the Administrative Agent
+pursuant to Section 7.02, the Administrative Agent will promptly forward to
+MSAF Group any notices received by it during the year immediately after
+termination.
+
+          (ii) MSAF Group will notify promptly any relevant third party,
+     including each Rating Agency, the Trustee, and the Servicer, of the
+     termination of this Agreement by MSAF Group or by the Administrative Agent
+     and will request that any such notices and accounting reports and
+     communications thereafter be made or given directly to the entity engaged
+     to serve as Administrative Agent, and to MSAF Group.
+
+
+                                      34
+
+<PAGE>
+
+
+     (b) Accrued Rights. A termination of this Agreement by MSAF Group or by
+the Administrative Agent hereunder shall not affect the respective rights and
+liabilities of any party accrued prior to such termination in respect of any
+prior breaches hereof or otherwise.
+
+     (c) Replacement. If this Agreement is terminated by MSAF Group or by the
+Administrative Agent under Section 7.02, the Administrative Agent will
+cooperate with any person appointed to perform the Administrative Services,
+including providing such person with all information and documents reasonably
+requested.
+
+     SECTION 7.04. Survival. Notwithstanding any termination or the expiration
+of this Agreement, the obligations of MSAF Group and the Administrative Agent
+under Section 3.02 shall survive such termination or expiration, as the case
+may be.
+
+                                   ARTICLE 8
+                           ASSIGNMENT AND DELEGATION
+
+     SECTION 8.01. Assignment and Delegation. (a) Except as provided in
+subsection (b) below, no party to this Agreement shall assign or delegate or
+otherwise subcontract this Agreement or all or any part of its rights or
+obligations hereunder to any Person without the prior written consent of the
+other parties, such consent not to be unreasonably withheld.
+
+     (b) The Administrative Agent may assign its right to receive compensation
+for the performance of all or any part of the services set forth in Article 2,
+including without limitation, the establishment and maintenance of the Ledgers
+and the preparation of the Draft Accounts.
+
+     (c) Without limiting the foregoing, any Person who shall become a
+successor by assignment or otherwise of any party hereto shall be required as a
+condition to the effectiveness of any such assignment or other arrangement to
+become a party to this Agreement.
+
+
+                                      35
+
+<PAGE>
+
+
+                                   ARTICLE 9
+                                 MISCELLANEOUS
+
+     SECTION 9.01. Notices. All notices, consents, directions, approvals,
+instructions, requests and other communications required or permitted by such
+agreement to be given to any Person shall be in writing, and any such notice
+shall become effective ten days after being deposited in the mails, certified
+or registered, return receipt requested, with appropriate postage prepaid for
+first class mail, or if delivered by hand or courier service or in the form of
+a facsimile, when received (and, in the case of a facsimile, receipt of such
+facsimile is confirmed to the sender), and shall be directed to the address or
+facsimile number of such Person set forth below:
+
+     If to MSAF and the other MSAF Group Members, to:
+
+         Morgan Stanley Aircraft Finance
+         c/o Wilmington Trust Company
+         Attention: Corporate Trust Administration
+         1100 North Market Street
+         Rodney Square North
+         Wilmington, Delaware 19890
+         Fax: (302) 651-8882
+
+         With a copy to:
+
+         Davis Polk & Wardwell
+         99 Gresham Street
+         London EC2V 7NG
+         Attention: Mr. Keith Kearney
+         Fax: + 44-171-418 1400
+
+         and
+
+         Morgan Stanley & Co. International Limited
+         25 Cabot Square
+         Canary Wharf
+         London E14 4QA
+         Attention: Mr. Scott Peterson
+         Fax: + 44-171-415 4328
+
+     If to the Administrative Agent, to it at:
+
+         Cabot Aircraft Services Limited
+         Attention: Mr. Kieran O'Keefe
+         Regus House
+
+
+                                      36
+
+<PAGE>
+
+
+         Harcourt Road
+         Dublin 2
+         Ireland
+         Tel: +353 1 402 9478
+
+If to the Security Trustee, to it at:
+
+         Bankers Trust Company
+         Attention: Corporate Trust and Agency Services Structured Finance
+         Four Albany Street, 10th Floor
+         New York, NY 10006
+         Fax: +1 212 250 6439
+
+     From time to time any party to such agreement may designate a new address
+or number for purposes of notice thereunder by notice to each of the other
+parties thereto.
+
+     SECTION 9.02. Governing Law. This Agreement shall be governed by and
+construed in accordance with the laws of the State of New York.
+
+     SECTION 9.03. Jurisdiction. Except as otherwise expressly provided in this
+Agreement, the parties hereto agree that any suit, action or proceeding seeking
+to enforce any provision of, or based on any matter arising out of or in
+connection with, this Agreement or the transactions contemplated hereby may be
+brought in the United States District Court for the Southern District of New
+York or any other New York State court sitting in New York City, and each of
+the parties hereby consents to the jurisdiction of such courts (and of the
+appropriate appellate courts therefrom) in any such suit, action or proceeding
+and irrevocably waives, to the fullest extent permitted by law, any objection
+which it may now or hereafter have to the laying of the venue of any such suit,
+action or proceeding in any such court or that any such suit, action or
+proceeding which is brought in any such court has been brought in an
+inconvenient forum. Process in any such suit, action or proceeding may be
+served on any party anywhere in the world, whether within or without the
+jurisdiction of any such court. Without limiting the foregoing, each party
+agrees that service of process on such party as provided in Section 9.01 shall
+be deemed effective service of process on such party.
+
+     SECTION 9.04. WAIVER OF JURY TRIAL. EACH OF THE PARTIES HERETO HEREBY
+IRREVOCABLY WAIVES ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING
+ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED
+HEREBY.
+
+     SECTION 9.05. Counterparts; Third Party Beneficiaries. This Agreement may
+be signed in any number of counterparts, each of which shall be an original,
+
+
+                                      37
+
+<PAGE>
+
+
+with the same effect as if the signatures thereto and hereto were upon the same
+instrument. This Agreement shall become effective when each party hereto shall
+have received a counterpart hereof signed by the other party hereto. No
+provision of this Agreement is intended to confer upon any Person other than
+the parties hereto any rights or remedies hereunder.
+
+     SECTION 9.06. Entire Agreement. This Agreement constitutes the entire
+agreement between the parties with respect to the subject matter of this
+Agreement and supersedes all prior agreements and understandings, both oral and
+written, between the parties with respect to the subject matter of this
+Agreement.
+
+     SECTION 9.07. Power of Attorney. Each of MSAF and the other MSAF Group
+Members shall appoint the Administrative Agent and its successors, and its
+permitted designees, as their true and lawful attorney-in-fact. All services to
+be performed and actions to be taken by pursuant to this Agreement shall be
+performed to and on behalf of each of MSAF and the other MSAF Group Members.
+The Administrative Agent shall be entitled to seek and obtain from each of MSAF
+and the other MSAF Group Members a power of attorney in respect of the
+execution of any specific action as the Administrative Agent deems appropriate.
+
+     SECTION 9.08. Table of Contents; Headings. The table of contents and
+headings of the various articles, sections and other subdivisions of such
+agreement are for convenience of reference only and shall not modify, define or
+limit any of the terms or provisions of such agreement.
+
+     SECTION 9.09. Restrictions on Disclosure. The Administrative Agent agrees
+that it shall not, prior to the termination or expiration of this Agreement or
+within the three years after such termination or expiration, disclose to any
+Person any confidential or proprietary information, whether of a technical,
+financial, commercial or other nature, received directly or indirectly from
+MSAF Group regarding MSAF Group or its business or the Aircraft, except as
+authorized in writing by MSAF Group or otherwise permitted by this Agreement,
+and except:
+
+     (a) to Representatives of the Administrative Agent and any of its
+Affiliates in furtherance of the purposes of this Agreement, provided that any
+such Representatives shall have agreed to be bound by the restrictions on
+disclosure set forth in this Section 9.09;
+
+     (b) to the extent (i) required by Applicable Law or by judicial or
+administrative process or (ii) reasonably necessary in order to enable the
+Administrative Agent to perform the Administrative Services, but in the case of
+clause (i) above, in the event of proposed disclosure, the Administrative Agent
+shall use reasonable efforts to protect information in which MSAF Group has an
+interest to the maximum extent achievable; and
+
+
+                                      39
+
+<PAGE>
+
+
+     (c) to the extent that the information:
+
+          (i) was generally available in the public domain;
+
+          (ii) was lawfully obtained from a source under no obligation of
+     confidentiality, directly or indirectly, to MSAF Group;
+
+          (iii) was disclosed to the general public with the approval of MSAF
+     Group;
+
+          (iv) was in the files, records or knowledge of the Administrative
+     Agent or any Affiliates of the Administrative Agent prior to initial
+     disclosure thereof to the Administrative Agent or any Affiliates of the
+     Administrative Agent by MSAF Group;
+
+          (v) was provided by a member of a governing body of any MSAF Group
+     Member to the Administrative Agent or any Affiliates of the Administrative
+     Agent without any express written (or, to the extent such information was
+     provided in an oral communication, oral) restriction on use of or access
+     to such information, and such information would not reasonably be expected
+     to be confidential, proprietary or otherwise privileged; or
+
+          (vi) was developed independently by the Administrative Agent or any
+     Affiliates of the Administrative Agent; and
+
+          (vii) to the extent the Administrative Agent reasonably deems
+     necessary to protect and enforce its rights and remedies under this
+     Agreement; provided, however, that in such an event the Administrative
+     Agent shall act in a manner reasonably designed to prevent disclosure of
+     such confidential information; and provided further, that prior to
+     disclosure of such information the Administrative Agent shall inform MSAF
+     Group of such disclosure.
+
+     SECTION 9.10. No Partnership. (a) It is expressly recognized and
+acknowledged that this Agreement is not intended to create a partnership, joint
+venture or other similar arrangement between any MSAF Group Member or Members
+on the one part and the Administrative Agent on the other part. It is also
+expressly understood that any actions taken on behalf of any MSAF Group Member
+by the Administrative Agent shall be taken as agent for such MSAF Group Member,
+either naming the relevant MSAF Group Member, or naming the Administrative
+Agent as agent for an undisclosed principal. No MSAF Group Member shall hold
+itself out as a partner of the Administrative Agent, and the
+
+
+                                      39
+
+<PAGE>
+
+
+Administrative Agent will not hold itself out as a partner of any MSAF Group
+Member.
+
+     (b) The Administrative Agent shall not have any fiduciary duty or other
+implied obligations or duties to any MSAF Group Member, any Lessee or any other
+Person arising out of this Agreement.
+
+     SECTION 9.11. Concerning the Security Trustee. In respect of the Security
+Trustee's performance of appointing the Administrative Agent to provide the
+Bank Account Management Services set forth in Section 2.04 and in the
+Indenture, the Security Trustee shall be afforded all of the rights,
+protections, immunities and indemnities contained in the Security Trust
+Agreement as if such rights, protections, immunities and indemnities were
+specifically set forth herein.
+
+
+                                      40
+<PAGE>
+
+
+     IN WITNESS WHEREOF, this Agreement has been duly executed on the date
+first written above.
+
+                                   MORGAN STANLEY AIRCRAFT FINANCE
+
+
+                                   By: /s/ Brian J. Gill
+                                      ---------------------------------------
+                                      Name:
+                                      Title:
+
+
+                                   ------------------------------------------
+                                   SIGNED SEALED AND DELIVERED for and on
+                                   behalf of CABOT AIRCRAFT SERVICES LIMITED,
+                                   as Administrative Agent by /s/ Kieran O'Keefe
+                                                             -------------------
+                                   its duly authorized attorney in fact in the
+                                   presence of: /s/ Jacqueline Kelly
+
+
+                                   BANKERS TRUST COMPANY, not in its individual
+                                   capacity but solely as Security Trustee
+
+
+                                   By: /s/ Jenna Kaufman
+                                      ---------------------------------------
+                                      Name:  Jenna Kaufman
+                                      Title: Vice President
+
+
+                                   MSA I
+
+
+                                   By: /s/ Brian J. Gill
+                                      ---------------------------------------
+                                      Name:
+                                      Title:
+
+
+                                   MSA II
+
+
+                                   By: /s/ Brian J. Gill
+                                      ---------------------------------------
+                                      Name:
+                                      Title:
+
+
+                                      41
+
+<PAGE>
+
+
+                                    MSA III
+
+
+                                    By: /s/ Brian J. Gill
+                                       ---------------------------------------
+                                       Name:
+                                       Title:
+
+
+                                    MSA IV
+
+
+                                    By: /s/ Brian J. Gill
+                                       ---------------------------------------
+                                       Name:
+                                       Title:
+
+
+                                    MSA V
+
+
+                                    By: /s/ Brian J. Gill
+                                       ---------------------------------------
+                                       Name:
+                                       Title:
+
+
+                                    MSA VI
+
+
+                                    By: /s/ Brian J. Gill
+                                       ---------------------------------------
+                                       Name:
+                                       Title:
+
+
+                                    MSA VII
+
+
+                                    By: /s/ Brian J. Gill
+                                       ---------------------------------------
+                                       Name:
+                                       Title:
+
+
+                                    REDFLY (UK) LIMITED
+
+
+                                    By: /s/ Kieran O'Keefe
+                                       ---------------------------------------
+                                       Name:
+                                       Title:
+
+
+                                      42
+
+<PAGE>
+
+
+                                    ------------------------------------------
+                                    SIGNED SEALED AND DELIVERED for and on
+                                    behalf of GREENFLY (IRELAND) LIMITED, by
+                                    /s/ Kieran O'Keefe its duly authorized
+                                    ------------------
+                                    attorney in fact in the presence of:
+                                    /s/ Jacqueline Kelly
+
+
+                                    AIRCRAFT SPC-5, INC.
+
+
+                                    By: /s/ Kieran O'Keefe
+                                       ---------------------------------------
+                                       Name:
+                                       Title:
+
+
+                                      43
+
+<PAGE>
+
+
+                                                                     Appendix A
+
+
+                                     MSA I
+                                     MSA II
+                                    MSA III
+                                     MSA IV
+                                     MSA V
+                                     MSA VI
+                                    MSA VII
+                             Aircraft SPC-5, Inc.,
+                           Greenfly (Ireland) Limited
+                              Redfly (UK) Limited
+
+
+
+
+                                      A-1
+
+<PAGE>
+
+
+                                                                     SCHEDULE 1
+
+
+                                    ACCOUNTS
+
+Bankers Trust Accounts                     Trustee Account Number
+----------------------                     ----------------------
+
+1.  Collection Account                     25254
+
+2.  Rental Account                         00365296
+
+3.  Expense Account                        25257
+
+4.  Aircraft Purchase Account              25256
+
+
+                                       1
+
+<PAGE>
+
+
+                                                                      EXHIBIT A
+
+                     FORM OF CERTIFICATE REQUESTING DIRECT
+                                 FUNDS TRANSFER
+                                                                          [Date]
+
+Bankers Trust Company, as
+   trustee under the Indenture
+Four Albany Street
+New York, New York 10006
+Attention: Corporate Trust and Agency Group
+           Structured Finance Team
+
+Re:  Administrative Agency Agreement:
+     Request for Direct Funds Transfer
+
+Sirs:
+
+     The undersigned hereby requests that all amounts distributable to the
+Expense payee named below pursuant to Section 2.04(d)(v) of the Amended and
+Restated Administrative Agency Agreement dated as of March 15, 2000 (the
+"Administrative Agency Agreement"; terms used herein but not otherwise defined
+herein being used herein as therein defined), among Cabot Aircraft Services
+Limited, as administrative agent, Morgan Stanley Aircraft Finance, Bankers
+Trust Company, as security trustee and certain other entities named therein, be
+transferred on each Payment Date to the following account:
+
+     [Name of Expense payee]
+     [Name of Bank]
+     Account No:____________________
+     [Location]
+     Attention:_______________
+
+     Please acknowledge your approval of the foregoing payment instructions by
+executing a copy of this letter and returning it to __________ at
+______________.
+
+                                    CABOT AIRCRAFT SERVICES LIMITED
+
+                                    By:
+                                       ------------------------------------
+                                       Name:
+                                       Title:
+
+
+                                      A-1
+
+<PAGE>
+
+
+Acknowledged and Approved:
+
+BANKERS TRUST COMPANY, not in its individual
+  capacity, but solely as trustee under the Indenture
+
+By:
+   --------------------------------
+   Name:
+   Title:
+
+
+                                      A-2
+
+</TEXT>
+</DOCUMENT>

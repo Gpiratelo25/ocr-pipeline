@@ -1,0 +1,331 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>6
+<FILENAME>ex10_34.txt
+<DESCRIPTION>EX 10.34 - 1 AMEND TO IRU AND TELECOMM SERVICES AG
+<TEXT>
+
+                                                Exhibit 10.34
+
+                       FIRST AMENDMENT TO
+          IRU AND TELECOMMUNICATIONS SERVICES AGREEMENT
+
+                             BETWEEN
+
+                     DIGITAL TELEPORT, INC.
+
+                               AND
+
+                ADELPHIA BUSINESS SOLUTIONS, INC
+                       FIRST AMENDMENT TO
+          IRU AND TELECOMMUNICATIONS SERVICES AGREEMENT
+
+This  First Amendment to the IRU and Telecommunications  Services
+Agreement  (the  "Amendment")  is made  by  and  between  Digital
+Teleport, Inc., a Missouri corporation ("Provider"), and Adelphia
+Business   Solutions   Long  Haul,  L.P.,  a   Delaware   limited
+partnership  ("Recipient"), each of  Provider  and  Recipient,  a
+"Party."
+
+                            RECITALS
+
+      A.    Provider  and  Recipient  entered  into  an  IRU  and
+Telecommunications Services Agreement dated November 9, 1999 (the
+"Agreement")  pursuant to which Provider  agreed  to  provide  to
+Recipient  and  Recipient agreed to accept from Provider  certain
+IRU  rights to telecommunications facilities of Provider, on  the
+terms and conditions set forth therein;
+
+     B.   Provider and Recipient agree that certain System Routes
+have  not  been delivered and accepted in the timeframes required
+by the Agreement; and
+
+     C.   Provider and Recipient desire to amend the Agreement to
+confirm  certain  understandings  reached  between  Provider  and
+Recipient regarding the Agreement.
+
+      NOW, THEREFORE, in consideration of the promises and mutual
+covenants   contained  herein,  and  other  good   and   valuable
+consideration,  the  receipt and adequacy  of  which  are  hereby
+acknowledged, the Parties hereto agree as follows:
+
+<PAGE>
+
+                      TERMS AND CONDITIONS
+
+1.      On September 6, 2000, Recipient exercised certain of its
+rights in the Agreement to cancel the following System Routes:
+
+     a.   System Route 14, except for the Provider POP, following
+          Route 64 to Hwy 61 to the Provider POP in Wentzville to obtain
+          diverse LH routing.
+
+     b.   System  Route 15, except for the Provider POP  to  East
+          Whitehaven/South Parkway East and except for the leg from East
+          Whitehaven/South Parkway East, heading north to the backbone
+          splice point on the LH towards Nashville on Old Brownsville Road.
+
+     c.   System Route 16 south of I-70.
+
+     d.   The Lebanon to St. Louis portion of System Route 5.
+
+     e.   The Indianapolis to Chicago portion of System Route 11.
+
+The Parties acknowledge that Provider has reimbursed Recipient in
+full  for  its  Initial IRU Payments specific to  these  canceled
+routes,  with  interest, as summarized in Attachment  A  to  this
+Amendment.  The  Agreement is hereby amended  to  document  these
+activities.
+
+
+2.    On  January  25, 2001, Recipient exercised certain  of  its
+rights in the Agreement to cancel the following System Routes:
+
+     a.   The Indianapolis to Springfield segment of System Route 11.
+
+     b.   The Des Moines to Chicago segment of System Route 7.
+
+     c.   Two (2) Recipient Fibers along System Route 1.
+
+     d.   Two (2) Recipient Fibers along System Route 9.
+
+Recipient agrees not to cancel remaining System Routes or  System
+Segments  unless  Provider fails to have  such  remaining  System
+Routes  or  System Segments available for delivery to  Recipient,
+pursuant  to  the terms of the Agreement, on or before  September
+30,  2001.   Should  Provider fail to  deliver  remaining  System
+Routes  or System Segments according to this Amendment, Recipient
+shall  be  permitted to terminate those System Routes  or  System
+Segments and receive refund for monies paid to date with interest
+according  to  the  process delineated  in  Section  4.1  of  the
+Agreement.
+
+
+
+FIRST AMENDMENT TO IRU AGREEMENT
+
+<PAGE>
+
+3.    The first sentence of Section 2.5 of the Agreement shall be
+amended to read as follows:  "Recipient will have an option  (the
+"Option") to acquire up to an additional two (2) Recipient Fibers
+along  System  Route  2,  System  Route  1  and  System  Route  9
+(together,  the "Option Fibers"), subject to the availability  of
+such  Option  Fibers from among those fibers  that  Provider  has
+allocated for dark fiber leases to third parties, which shall  be
+no  fewer  than two (2) fibers with respect to each  such  System
+Route  as of the date of this Agreement (the "Available Fibers").
+Recipient's  option  for Recipient Fibers along  System  Route  1
+shall  not be available after January 10, 2003, while Recipient's
+option  for  Recipient Fibers along System Routes 2 and  9  shall
+continue for the term of the Agreement."
+
+
+4.    On  January 10, 2002, Recipient agrees to pay the following
+amounts to Provider:
+
+     a.   All remaining IRU Fees for all associated System Routes that
+          have not previously been canceled by Recipient;
+
+     b.   Plus: any unpaid Building Space Fees for Selected Sites and
+          maintenance fees accruing from the time applicable System
+          Segments would have been deemed Accepted by Recipient, or the
+          applicable bandwidth would have been deemed to be available, had
+          the Agreement not been amended to allow deferral as set forth in
+          this Section 4 of this Amendment;
+
+     c.   Less:  any and all credits, as originally set forth  in
+          Section 4.1 of the Agreement, due from Provider to Recipient
+          either for uncompleted or undelivered System Segments or for
+          unavailable requisite bandwidth, which shall reimburse Recipient
+          for operating costs it incurred resulting from its inability to
+          operate its fiber optic long haul network due to Provider's
+          failure to deliver to Recipient such System Segments or
+          bandwidth. Such credits, which shall no longer continue to accrue
+          after December 31, 2000, total five million five hundred thousand
+          dollars ($5,500,000.00).
+
+     d.   Less: the reimbursement of the Initial IRU Payments due to
+          Recipient on the cancelled System Routes set forth in Section 2
+          of this Amendment, as set forth in Attachment B to this
+          Amendment;
+
+     e.   Plus: interest at the rate of 11% per annum, compounded
+          annually, on all net amounts (a - d) due to Provider from the
+          time in which such payments (or reimbursements, as the case may
+          be) would have been made had the Agreement not been amended to
+          allow deferral as set forth in this Section 4 of this Amendment.
+
+Recipient shall have the option, at its sole discretion and  with
+sixty   (60)  days  advanced  written  notice  to  Provider,   to
+accelerate  Acceptance on any and all System  Segments  prior  to
+January 10, 2002, but after September 30, 2001, at which time all
+required  net
+
+
+FIRST AMENDMENT TO IRU AGREEMENT
+
+<PAGE>
+
+
+payments as set forth above related to  the  System
+Segment  (a+b-c+e) shall be paid to Provider.  The parties  agree
+that System Segment 5 is considered to be already accelerated and
+will   be  accepted  by  Recipient  upon  delivery  by  Provider.
+Provider  shall  deliver  System  Segment  5  to  Recipient  upon
+delivery to Provider from the third party provider.
+
+
+5.    The price per fiber mile for the Second Optional Route  and
+the  Third  Optional Route shall be $1,600.  Recipient agrees  to
+take  delivery of such System Routes on January 10, 2002,  unless
+accelerated as set forth in Section 4 of this Amendment.
+
+
+6.    All  of  the  terms  and conditions of  the  Agreement  not
+addressed  by  this  Amendment shall remain  in  full  force  and
+effect.  In the event of any conflict between the terms  of  this
+Amendment  and  of the Agreement, the terms and  intent  of  this
+Amendment shall govern, and the Amendment and the Agreement shall
+be interpreted and applied accordingly.
+
+
+7.    This Amendment may be executed in one or more counterparts,
+all  of  which taken together shall constitute one and  the  same
+instrument.
+
+
+8.    Provider and Recipient hereby warrant and represent each to
+the other, that each party is authorized and empowered to execute
+this Amendment in the capacity indicated.
+
+
+FIRST AMENDMENT TO IRU AGREEMENT
+
+<PAGE>
+
+     The  undersigned do hereby agree to the terms and conditions
+of this Amendment.
+
+
+
+Agreed:                             Agreed:
+
+Adelphia   Business  Solutions      Digital Teleport, Inc.
+Long  Haul, L.P., by  Adelphia
+Business   Solutions   General
+Holdings,  Inc.,  its  General
+Partner.
+
+
+By:  /s/ John Glicksman             By:  /s/ Gary W. Douglass
+
+
+Name: JOHN GLICKSMAN                Name: Gary W. Douglass
+
+Title:  V.P. and General Counsel    Title:  Interim President  and CEO
+
+
+
+FIRST AMENDMENT TO IRU AGREEMENT
+
+
+<PAGE>
+<TABLE>
+                          ATTACHMENT A
+
+
+  DIGITAL TELEPORT, INC.
+ ADELPHIA CASH FLOW CHANGES
+   AS OF SEPTEMBER 6, 2000
+
+<CAPTION>
+
+                                                  NUMBER
+                TOTAL      PORTION                 OF                COST
+                ROUTE         OF         TOTAL    FIBERS   TOTAL      PER        30%
+                MILES       ROUTE        ROUTE     IN      FIBER     FIBER     PAYMENT
+   ROUTE         PER       DELETED       MILES    ROUTE    MILES    PER THE     TO BE
+DESCRIPTION    CONTRACT  BY ADELPHIA    DELETED  DELETED  DELETED  CONTRACT   REURNED
+-----------    --------  -----------    -------  -------  -------  --------  -----------
+<S>            <C>       <C>            <C>      <C>      <C>      <C>       <C>
+KC-JOPLIN-     437       Lebanon-       159      4        636      $  1,800  $   343,440
+StL                      StL(I-44)
+
+StL-Quincy-    736       Indy-CHI       224      4        896         1,800      483,840
+Indy-CHI
+
+StL Metro      212       All            212      6        1,272       1,500      572,400
+
+Memphis        40        All, except    25       6        150         1,500       67,500
+Metro                    DTI POP to
+                         E Whitehaven/  15       2        30          1,500       13,500
+                         S Pkwy E
+
+Kansas City    145       South of       76       6        456         1,500      205,200
+Metro                    I-70           ------------------------------------------------
+
+
+SUB-TOTALS                              711               3,440               $1,685,880
+                                        ===               =====
+
+ Interest - Nov 9, 1999
+ to September 6, 2000                   =$1,685,880*8%*(21+30*9+6)DAYS/360DAYS   111,268
+                                                                              ----------
+TOTALS                                                                        $1,797,148
+                                                                              ==========
+* Interest based on a 360 day year at 8%
+
+</TABLE>
+<PAGE>
+
+
+                          ATTACHMENT B
+<TABLE>
+
+      DIGITAL TELEPORT, INC.
+
+      IRU FEES DUE ADELPHIA
+
+      RELATED TO JANUARY 25, 2001 ROUTE CANCELLATIONS
+
+<CAPTION>
+
+                                                             NUMBER                COST          30%
+                        TOTAL       PORTION                    OF                  PER           IRU
+                        ROUTE         OF           TOTAL     FIBERS     TOTAL     FIBER        PAYMENT
+SYSTEM      SYSTEM      MILES        ROUTE         ROUTE       IN       FIBER     MILE            TO
+ ROUTE      ROUTE        PER        DELETED        MILES      ROUTE     MILES    PER THE          BE
+NUMBER   DESCRIPTION   CONTRACT   BY ADELPHIA     DELETED    DELETED   DELETED   CONTRACT      RETURNED
+------   -----------   --------   -----------     -------    -------   -------   --------      --------
+<S>      <C>           <C>        <C>             <C>        <C>       <C>       <C>           <C>
+   1     Denver-        925       All              925        2         1,850     1,800        $999,000
+         Dallas/Ft
+         Worth
+
+
+   7     Omaha-         537       Des              384        4         1,536     1,800        $829,440
+         Chicago                  Moines to
+                                  Chicago
+
+   9     Minneapolis    450       Two(2)           450        2           900     1,800        $486,000
+         to Chicago               Fibers
+
+  11     St  Louis      512(a)    Springfield to   261        4         1,044     1,800        $563,760
+         to Chicago               Indianapolis                                                ---------
+                                                                                             $2,878,200
+                                                                                              =========
+      (a) Excluding miles related to previously cancelled routes
+
+
+</TABLE>
+
+
+
+
+
+FIRST AMENDMENT TO IRU AGREEMENT
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,163 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>5
+<FILENAME>a-621876.txt
+<DESCRIPTION>EXHIBIT 10.4
+<TEXT>
+
+                                                                    EXHIBIT 10.4
+
+
+                                                   CONTRACT NUMBER:  LNM980917MP
+
+
+                               AMENDMENT NUMBER 1
+
+                     TO THE PROFESSIONAL SERVICES AGREEMENT
+
+                                     BETWEEN
+
+                                KMC TELECOM INC.
+
+                                       AND
+
+                            LUCENT TECHNOLOGIES INC.
+
+
+This is Amendment No. 1 (hereinafter  "Amendment") to the Professional  Services
+Agreement by and between KMC Telcom Inc.,  a Delaware  corporation  with offices
+1545 Route 206, Suite 300, Bedminster, New Jersey 07921 (hereinafter "Customer")
+and Lucent Technologies Inc., a Delaware Corporation,  acting through its Global
+Service  Providers  Group,  with  offices at 283 King George Road,  Warren,  New
+Jersey 07059 (hereinafter "Lucent").
+
+WHEREAS, Customer and Lucent have entered into a Professional Services Agreement
+Number  LNS970602JC  dated  September  4, 1997  (hereinafter  "the  Agreement"),
+setting  forth the terms  and  conditions  pursuant  to which  Lucent  agreed to
+provide and Customer  agreed to procure  certain  Professional  Services as such
+Services are described therein; and
+
+WHEREAS,  Customer  and  Lucent  wish  to  make  certain  modifications  to that
+Agreement as set forth herein,
+
+NOW THEREFORE, in consideration of the mutual promises hereinafter set forth and
+other good and valuable  consideration,  the receipt and sufficiency of which is
+hereby acknowledged, the parties agree as follows:
+
+1.  TERM OF AGREEMENT
+
+The expiration  date of the  Professional  Services  Agreement shall be extended
+from July 22, 2000 to September 30, 2000.
+
+2.  CHARGES
+
+Charges for Services to be performed  under this Amendment shall be as set forth
+in  Appendix  A,  attached  hereto and made part of this  Amendment.  Appendix A
+modifies the charges set forth in Appendix A, Section 2 of the  Agreement.  This
+Amendment and the charges  specified in Appendix A shall be effective October 1,
+1998.
+
+
+<PAGE>
+
+3.  ENTIRE AGREEMENT
+
+Except as specifically  modified,  amended or supplemented herein, all terms and
+conditions of the Agreement shall remain in full force and effect. The terms and
+conditions  contained  in this  Amendment  and  those  nonconflicting  terms and
+conditions of the Agreement supercede all prior oral and written  understandings
+between  the  parties  and shall  constitute  the entire  agreement  between the
+parties with respect to the subject matter herein.  This Amendment  shall not be
+modified or amended except by a writing  signed by an authorized  representative
+of both parties.
+
+IN WITNESS  WHEREOF,  the parties  have caused this  Amendment to be executed by
+their duly authorized representative on the date (s) indicated.
+
+
+KMC TELECOM INC.                                LUCENT TECHNOLOGIES INC.
+
+By: /S/MICHAEL STERNBERG                        By: /S/ W.H. PITTMAN
+    --------------------                            ----------------
+
+Name: MICHAEL STERNBERG                         Name: W.H. PITTMAN
+      -----------------                               ------------
+
+Title: PRESIDENT                                Title: DIRECTOR-NATIONAL ACCOUNT
+       ---------                                       -------------------------
+
+Date: OCTOBER 1, 1998                           Date: OCTOBER 20, 1998
+      ---------------                                 ----------------
+
+
+
+<PAGE>
+
+                                   APPENDIX A
+
+                                     CHARGES
+
+<TABLE>
+<CAPTION>
+
+                      ANNUAL        GATEWAY
+SERVICES LEVELS       PRICE         ELEMENTS      5ESS       SLC       SM      DACS II    DACS IV
+---------------       -----         --------      ----       ---       --      ---- --    ---- --
+
+<S>                   <C>           <C>             <C>    <C>          <C>       <C>        <C>
+Very Small            $163,000      up to 15        1      up to 8      1         1          1
+Small                 $198,000      16 to 25        1      up to l5     1         1          1
+Medium                $245,000      26 to 35        1      up to 20     2         1          1
+Large                 $320,000      36 to 50        1      up to 25     3         1          1
+Very Large            $390,000                      1
+
+</TABLE>
+
+The Annual prices listed above are based on the following:
+
+     1.   Traffic  Management,  Capacity  Management and Network  Management are
+          included in the Annual Price.
+
+     2.   The  Annual  Price is based on  5ESS(R)  -2000  Very  Compact  Digital
+          Exchange  ("VCDX")  as  configured  above with the  associated  Lucent
+          equipment/components.
+
+     3.   For the annual period beginning  October 1, 1998 through September 30,
+          1999,  Customer  will be  charged  at the  Very  Small  Service  Level
+          ($163,000) for all Customer cities with a 5ESS/VCDX.  Thereafter,  the
+          parties  agree to meet  sixty (60) days prior to the end of the annual
+          period  (September  30) to  determine  the  annual  price for the next
+          annual period.  The annual price charged may change,  for any Customer
+          city, if any two (2) of the components  listed above change during the
+          preceding annual period.
+
+     4.   Lucent  agrees  to  provide a monthly  report  based on the  number of
+          system  components  and type of service being  utilized at each of the
+          Customer's  5ESS/VCDX  locations.  Historical  data  can  be  used  to
+          determine if a new  Customer  5ESS/VCDX  location  should begin at the
+          Small  Service  Level instead of the Very Small Service Level based on
+          the  period of time it took for a  Customer's  5ESS/VCDX  Location  to
+          reach its Service Level Capacity in a similar size city.
+
+     5.   System Integration Services (Turnover/Cutover) are not included in the
+          price quoted above,  but such Services are available at a price of one
+          hundred thousand dollars ($100,000) per small 5ESS/VCDX switch site.
+
+PROVISIONING/TRANSLATIONS AND CUSTOMER CARE:
+
+Provisioning/Translations  and  Customer  Care  Services  maybe  purchased on as
+needed basis at the following prices:
+
+
+<PAGE>
+
+     1.   1500 hour block at a price of one hundred twenty-one thousand and five
+          hundred dollars ($121,500) per 1500 hour block, or
+
+     2.   after the completion of ten (10) 1500 hour blocks, or the beginning in
+          the tenth  (10th)  month of the annual  period,  such  service  may be
+          purchased at a price of eighty-one dollars ($81) per hour as incurred.
+          There will be a minimum one (1) hour charge.
+
+</TEXT>
+</DOCUMENT>

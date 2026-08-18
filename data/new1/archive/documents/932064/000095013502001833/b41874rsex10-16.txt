@@ -1,0 +1,199 @@
+<DOCUMENT>
+<TYPE>EX-10.16
+<SEQUENCE>5
+<FILENAME>b41874rsex10-16.txt
+<DESCRIPTION>EX-10.16 AMENDMENT TO PARTNER AGREEMENT 11/28/2001
+<TEXT>
+<PAGE>
+
+
+--------------------------------------------------------------------------------
+     Confidential Materials omitted and filed separately with the Securities
+              and Exchange Commission. Asterisks denote omissions.
+--------------------------------------------------------------------------------
+
+
+                                                                   EXHIBIT 10.16
+
+      SEVENTH AMENDMENT TO PROGRESS SOFTWARE APPLICATION PARTNER AGREEMENT
+
+
+SEVENTH AMENDMENT to the Progress Software Corporation Application Partner
+Agreement is effective as of the 28th day of November, 2001 ("Effective Date"),
+by and between Progress Software Corporation, a Massachusetts corporation with
+its principal place of business at 14 Oak Park, Bedford, Massachusetts 01730
+("PSC") and RSA Security Inc. (formerly known as Security Dynamics Inc.), a
+Massachusetts corporation with its principal place of business at 20 Crosby
+Drive, Bedford, Massachusetts 01730 ("AP").
+
+     WHEREAS, PSC and AP entered into a Progress Software Application Partner
+Agreement effective as of December 5, 1994 (the "Agreement"); and
+
+     WHEREAS, PSC and AP previously amended the Agreement by entering into the
+Progress Software Application Partner Agreement Addendum effective as of
+December 5, 1994 (the "Addendum") and a subsequent amendment to the Agreement
+dated as of October 19, 1995 (the "Amendment");
+
+     WHEREAS, PSC and AP entered into a Second Amendment to the Agreement dated
+as of November 29, 1995 (the "Second Amendment") which completely superseded the
+terms and conditions of the earlier Addendum and Amendment and specified new
+special pricing and distribution terms and conditions in an Attachment A
+relating to certain PSC products distributed by AP or AP's distributors in
+conjunction with AP's PROGRESS(R)-based applications; and
+
+     WHEREAS, PSC and AP entered into a Third Amendment to the Agreement dated
+as of November 15, 1996 (the "Third Amendment") specifying certain additional
+modifications to the terms and conditions of the Agreement and replacing the
+Attachment A incorporated by reference into the Second Amendment with a new
+Attachment A including modified special pricing and distribution terms and
+conditions relating to certain PSC products distributed by AP or AP's
+distributors in conjunction with AP's PROGRESS(R)-based applications; and
+
+     WHEREAS, PSC and AP entered into a Fourth Amendment to the Agreement dated
+as of April 1, 1998 (the "Fourth Amendment") identifying the PSC products that
+AP has the right to distribute to accomplish the AP customer configuration for
+AP's PROGRESS(R)-based application and specifying additional modifications to
+the special pricing and distribution terms and conditions set forth in
+Attachment A to the Third Amendment; and
+
+     WHEREAS, PSC and AP entered into a Fifth Amendment to the Agreement dated
+as of February 18, 1999 (the "Fifth Amendment") whereby PSC granted, and AP
+accepted, a license to use, distribute, OEM and sub-license the Progress
+Database in AP's Public Key Infrastructure ("PKI") Products; and
+
+     WHEREAS, PSC and AP entered into a Sixth Amendment to the Agreement dated
+as of October 26, 1999 (the "Sixth Amendment") that specified certain additional
+terms and conditions pertaining to AP's ordering of additional quantities of PSC
+products, and AP's use and distribution of said PSC products; and
+
+     WHEREAS, PSC and AP desire to further amend the terms and conditions of the
+Agreement and the prior Amendments to specify certain additional terms and
+conditions pertaining to AP's ordering of additional quantities of PSC products,
+and AP's use and distribution of said PSC products,
+
+<PAGE>
+
+
+     NOW, THEREFORE, for good and valuable consideration, the receipt and
+adequacy of which is hereby acknowledged, the parties hereto agree as follows:
+
+
+1.   Subject to the existing requirements as set forth in the previous
+     Amendments and the Agreement and in consideration for AP paying to PSC,
+     according to the payment terms as further specified herein, the
+     non-refundable sum of [**] Dollars ($[**]) for license fees, AP can
+     distribute up to [**] revenue copies of versions 8.3 and 9.1 deployment
+     licenses, on HPUX, AIX, NT and Solaris platforms, for the following
+     Progress product configuration:
+
+     Progress ProVISION (up to 16 users)
+     Progress Enterprise Database
+     Progress Client Networking
+     Progress Server Networking
+     Progress E/SQL
+
+     This Seventh Amendment commences on the Effective Date above. All copies
+     must be deployed by the end of the one (1) year term. PSC shall provide
+     unlimited phone support to AP at no additional charge.
+
+     Except for Progress ProVISION, AP's distribution of such PSC products shall
+     not be limited to any certain number of users, provided that, for each
+     deployment of the above-mentioned Progress product configuration, or
+     portion thereof, to an AP customer in conjunction with the AP
+     Progress-based applications described herein, the number of users
+     authorized to use such PSC products shall not exceed the number of users
+     authorized to use AP's Progress-based application(s).
+
+     Payment terms for the initial $[**] of license fees shall be as follows:
+
+     $[**]   due by January 2, 2002
+     $[**]   due by February 15, 2002
+     $[**]   due by April 15, 2002
+     $[**]   due by June 15, 2002
+
+     Upon execution of this Amendment, all royalty obligations from prior
+     amendments are hereby satisfied in full.
+
+     AP shall have the right to distribute all or part of the above Progress
+     products for each AP customer license for any one or more of the AP
+     Progress-based applications currently identified as follows:
+
+         ACE/Server
+         RSA Keon Certificate Server
+         RSA Advanced Public Key Infrastructure ("PKI")
+         Keon Unix Platform Security
+
+2.   The parties agree that, at the end of this one (1) year term or the
+     depletion of the [**] revenue copies, whichever occurs first, to either
+     extend the term of this Seventh Amendment according to the terms outlined
+     in Section 3 below, or negotiate in good faith the terms and conditions
+     that will govern a new agreement for any subsequent terms.
+
+3.   After the expiration of this Seventh Amendment, AP may extend the term of
+     this Seventh Amendment for an additional twelve (12) months for deployment
+     of [**] revenue copies,
+
+<PAGE>
+
+     provided AP pays to PSC an up-front, non-refundable, pre-payment of $[**]
+     (with 40% due upon execution of the extension, 20% due 45 days after
+     execution, 20% due 105 days after execution, and the remaining 20% due 165
+     days after execution), and provided such pre-payment occurs at the
+     expiration of this Seventh Amendment or upon the depletion of the initial
+     [**] revenue copies, whichever occurs first. After any second year term, AP
+     may extend the term of this Seventh Amendment for an additional twelve (12)
+     months for [**] revenue copies, provided AP pays to PSC an up-front,
+     non-refundable, pre-payment of $[**] (with 40% due upon execution of the
+     extension, 20% due 45 days after execution, 20% due 105 days after
+     execution, and the remaining 20% due 165 days after execution), and
+     provided such pre-payment occurs at the expiration of the second year term
+     or upon the depletion of that term's [**] revenue copies, whichever occurs
+     first.
+
+4.   AP will continue to provide to PSC monthly license deployment reports
+     detailing the number of licenses sold as required under the previous
+     Amendments and the Agreement.
+
+5.   The term of this Seventh Amendment shall commence as of the Effective Date
+     defined above, and shall continue in force for the earlier of a period of
+     one (1) year, or upon depletion of the [**] revenue copies, whichever
+     occurs first.
+
+6.   Except as specifically modified or amended by this Seventh Amendment, the
+     terms and conditions of the Agreement (as previously amended by the Sixth,
+     Fifth, Fourth, Third and Second Amendments thereto) shall remain in full
+     force and effect until the termination of the Agreement. No other
+     modifications or additions are made to the Agreement. The Agreement,
+     Seventh, Sixth, Fifth, Fourth, Third, Second and First Amendments
+     constitutes the entire agreement between the parties with respect to the
+     subject matter hereof. In the event of any conflict among the terms and
+     conditions of the Agreement, the Second Amendment, Third Amendment, Fourth
+     Amendment, Fifth Amendment, the Sixth Amendment or this Seventh Amendment,
+     the order of precedence shall be: first, this Seventh Amendment, second,
+     the Sixth Amendment, third, the Fifth Amendment, fourth, the Fourth
+     Amendment, fifth, the Third Amendment, sixth, the Second Amendment (which
+     completely supersedes the earlier Addendum and Amendment) and seventh and
+     finally, the Agreement.
+
+     IN WITNESS WHEREOF, this Seventh Amendment has been executed under seal for
+and on behalf of each of the parties hereto by their duly authorized
+representative as of the date first set forth above.
+
+
+RSA SECURITY INC.                           PROGRESS SOFTWARE CORPORATION
+
+
+By: /s/ JOHN F. KENNEDY                     By: /s/ Jeff Ray
+   -------------------------------             ---------------------------------
+
+Name: John F. Kennedy                       Name: Jeff Ray
+     -----------------------------               -------------------------------
+
+Title: SVP & CFO                            Title: VP
+      ----------------------------                ------------------------------
+
+
+
+
+</TEXT>
+</DOCUMENT>

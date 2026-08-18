@@ -1,0 +1,2332 @@
+<DOCUMENT>
+<TYPE>EX-10.31
+<SEQUENCE>7
+<FILENAME>dex1031.txt
+<DESCRIPTION>AMENDED & RESTATED GLOBAL OPERATING AGREE.
+<TEXT>
+
+<PAGE>
+
+                                                                   EXHIBIT 10.31
+
+
+
+
+
+
+
+
+
+                AMENDED AND RESTATED GLOBAL OPERATING AGREEMENT
+
+
+
+                                by and between
+
+
+
+                     GENERAL ELECTRIC CAPITAL CORPORATION
+
+                                      and
+
+                          DANKA BUSINESS SYSTEMS PLC
+
+
+                        Effective as of March 31, 2000
+<PAGE>
+
+                               TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                         Page
+<C>           <S>                                                        <C>
+Article I     Programs; Executive Committee............................  1
+        1.1   Programs.................................................  1
+        1.2   Standard of Review.......................................  3
+        1.3   Executive Committee - Size and Composition...............  4
+        1.4   Executive Committee Meetings.............................  4
+        1.5   Quorum; Manner of Acting.................................  5
+        1.6   Authority of the Executive Committee.....................  5
+        1.7   Syndication..............................................  6
+        1.8   Cessation of Exempt Lease Financings.....................  6
+Article II    Business Relationship Manager............................  7
+        2.1   Business Relationship Manager............................  7
+Article III   Relationship Matters; Use of Danka Name..................  7
+        3.1   Other Activities.........................................  7
+        3.2   Mood and Manner..........................................  8
+        3.3   Compliance Procedures....................................  8
+        3.4   Use of Danka Name........................................  8
+Article IV    Representations, Warranties, Covenants and Indemnities...  8
+        4.1   Representations, Warranties and Covenants of Danka.......  8
+        4.2   Representations, Warranties and Covenants of GE Capital.. 10
+        4.3   Danka Indemnities........................................ 11
+        4.4   GE Capital Indemnities................................... 11
+        4.5   Indemnification Procedures............................... 12
+Article V     Affiliate Obligations.................................... 13
+        5.1   Affiliate Obligations.................................... 13
+Article VI    Additional Matters....................................... 14
+        6.1   Confidentiality.......................................... 14
+        6.2   Business Practices....................................... 14
+        6.3   Modification of Net Worth Test........................... 15
+        6.4   Change in Control........................................ 15
+        6.5   Material Change/Change Event............................. 15
+Article VII   Term and Termination..................................... 16
+        7.1   Term..................................................... 16
+        7.2   Alliance................................................. 17
+        7.3   Acquisition by GE Capital of Danka Competitor............ 17
+        7.4   Termination.............................................. 18
+        7.5   Effect of Termination; Termination Fee................... 19
+
+</TABLE>
+                                       i
+<PAGE>
+
+<TABLE>
+<S>           <C>                                                       <C>
+Article VIII  Volume Payments..........................................  20
+        8.1   Target Volume............................................  20
+        8.2   Trigger Payments.........................................  20
+        8.3   Volume-To-Date...........................................  22
+Article IX    Miscellaneous............................................  22
+        9.1   Assignment of Rights.....................................  22
+        9.2   Headings.................................................  22
+        9.3   Entire Agreement.........................................  22
+        9.4   No Waiver................................................  23
+        9.5   Non-Business Days........................................  23
+        9.6   Governing Law............................................  23
+        9.7   WAIVER OF JURY TRIAL.....................................  23
+        9.8   Notices..................................................  23
+        9.9   Severability.............................................  24
+       9.10   Reciprocal Obligations...................................  24
+       9.11   Counterparts.............................................  25
+       9.12   Binding Agreement........................................  25
+       9.13   No Partnership...........................................  25
+       9.14   Expenses.................................................  25
+       9.15   Limitation on Damages....................................  25
+       9.16   Interpretation of Terms..................................  25
+
+</TABLE>
+
+
+
+
+
+                                      ii
+<PAGE>
+
+                           SCHEDULES AND APPENDICES
+
+Appendix I - Definitions
+
+
+Schedule 1.1 - Programs
+
+
+Schedule 1.3(b) - Initial Members of the Executive Committee
+
+
+Schedule 1.8 - Continuing Exempt Leases
+
+
+Schedule 9.1 - Prohibited Transferees
+
+
+Schedule X - Consolidated Net Worth
+
+
+Schedule Y - Illustrative Example of Calculation of Adjusted Target Volume
+<PAGE>
+
+                AMENDED AND RESTATED GLOBAL OPERATING AGREEMENT
+
+          THIS AMENDED AND RESTATED GLOBAL OPERATING AGREEMENT dated effective
+as of March 31, 2000 is by and between GENERAL ELECTRIC CAPITAL CORPORATION, a
+New York corporation with a business address at 10 Riverview Drive, Danbury, CT
+06810 ("GE Capital") and DANKA BUSINESS SYSTEMS PLC, a public limited company
+organized under the laws of England and Wales with a business address at Masters
+House, 107 Hammersmith Road, London, England W140QH ("Danka").  Unless otherwise
+defined herein, all capitalized terms are defined in Appendix I hereof.
+
+                                    RECITALS
+
+          Danka and GE Capital previously entered into that certain Global
+Operating Agreement dated December 22, 1997 (as amended, modified or
+supplemented prior to the date hereof, the "Global Operating Agreement") with
+the principal objective of providing financing to support sales of Equipment by
+Danka and its Affiliates;
+
+          Pursuant to the Global Operating Agreement, Danka and GE Capital
+agreed upon the means and manner of achieving the foregoing and of allocating
+certain risks associated with the future operation of such financing programs,
+upon the terms and subject to the conditions set forth therein; and
+
+          Danka and GE Capital desire to amend and restate the Global Operating
+Agreement to modify the terms and conditions upon which they shall seek to
+achieve their objective of providing financing to support sales of Equipment by
+Danka and its Affiliates.
+
+          NOW, THEREFORE, in consideration of the premises and the mutual
+representations, warranties and covenants contained herein and subject to the
+terms of that certain letter agreement dated March 31, 2000 among Danka, Danka
+Office Imaging Company and GE Capital, the parties hereby agree to amend and
+restate the Global Operating Agreement to read as follows:
+
+                                   Article I
+                         Programs; Executive Committee
+                         -----------------------------
+
+          1.1  Programs.
+
+          (a) Danka and GE Capital acknowledge that, from time to time, the
+parties hereto and/or their respective Affiliates may enter into Programs to
+support sales of Equipment by Danka or its Affiliates. The terms and conditions
+of each Program shall be as set forth in the Principal Documents relating to
+such Program.
+
+          (b) As of December 27, 1997, the parties hereto and certain of their
+respective Affiliates, among others, entered into a Program for Danka's United
+States-based Affiliates governed by the Principal Documents set forth on
+Schedule 1.1 hereof and relating thereto (the "United States Program - Trust
+Structure"). As of the date hereof, Danka Office Imaging Company and GE Capital
+are entering into a Program providing for the origination of certain
+<PAGE>
+
+Leases by GE Capital pursuant to the U.S. Direct Operating Agreement (the
+"United States Program - Direct Structure").
+
+          (c) Danka shall have the option, subject to the conditions set forth
+in subsection (d) hereof, to reactivate the United States Program - Trust
+Structure effective as of April 1, 2001 or as of the first day of any fiscal
+year of Danka to occur after April 1, 2001 but prior to the termination of this
+Agreement (a "Fiscal Year Start Date") and, subject to the terms and conditions
+set forth in the Principal Documents relating thereto, the Program Affiliates
+that are parties to such Principal Documents may enter into Leases, fund
+Equipment acquisitions or otherwise provide Equipment financing in accordance
+therewith. No election by Danka to reactivate the United States Program - Trust
+Structure shall be effective prior to April 1, 2001.
+
+          (d) Effective as of April 1, 2001 and each Fiscal Year Start Date to
+occur thereafter, Danka shall have the option to switch from the U.S. Program
+that is then in effect and to reactivate the other U.S. Program in the event
+that each of the following conditions is satisfied:
+
+               (i) Danka delivers a written notice to GE Capital in accordance
+     with the terms of this Agreement no more than one hundred twenty (120) days
+     and no less than ninety (90) days prior to, as applicable, April 1, 2001 or
+     the applicable Fiscal Year Start Date, stating that it is exercising its
+     option under subsection (c) or (d) hereof effective as of, as applicable,
+     April 1, 2001 or such Fiscal Year Start Date and certifying as of the date
+     of such notice that no Prohibition Event has occurred and is continuing
+     with respect to such U.S. Program;
+
+               (ii) no Prohibition Event with respect to such U.S. Program shall
+     have occurred and be continuing as of, as applicable, April 1, 2001 or such
+     Fiscal Year Start Date;
+
+               (iii) no Danka Event of Default or Danka Termination Event shall
+     have occurred and be continuing as of, as applicable, April 1, 2001 or such
+     Fiscal Year Start Date; and
+
+               (iv) no Event of Default or Danka Event of Default (as each such
+     term is defined in any of the Principal Documents relating to either of the
+     U.S. Programs) under any Principal Document relating to either of the U.S.
+     Programs shall have occurred and be continuing with respect to either U.S.
+     Program as of, as applicable, April 1, 2001 or such Fiscal Year Start Date.
+
+          (e) Danka and GE Capital, on behalf of themselves and their respective
+Affiliates, hereby agree that (i) except to the extent provided in subsection
+(f) below, during any period when a U.S. Program is not active, neither GE
+Capital nor any Program Affiliates shall have any obligation to (A) enter into,
+purchase or otherwise acquire any Lease from, (B) purchase or otherwise acquire
+any Equipment from or (C) otherwise finance any Equipment sold, leased or
+distributed by, Danka or any of its Affiliates, in any case, pursuant to such
+inactive U.S. Program and (ii) all of the terms and conditions of the Principal
+Documents related to such inactive U.S. Program shall continue in full force and
+effect including, without limitation, as they
+
+                                       2
+<PAGE>
+
+relate to the Leases outstanding thereunder, until they are terminated in
+accordance with their terms or as otherwise agreed by the parties thereto. By
+way of clarification and not by way of limitation, Danka and GE Capital, on
+behalf of themselves and their respective Affiliates, agree that, except to the
+extent provided in subsection (f) below, neither GE Capital nor any of its
+Program Affiliates shall have any obligation to take any of the actions
+described in clause (i) of this subsection (e) pursuant to, or in connection
+with, the United States Program - Trust Structure from the date of this
+Agreement until the date, if any, that such Program is reactivated pursuant to
+subsection (c) or (d) hereof.
+
+          (f) Notwithstanding subsection (e) hereof, during any period that a
+U.S. Program is not active, Danka and GE Capital agree that, subject to all of
+the terms and conditions of the Principal Documents that relate to such inactive
+U.S. Program, Danka shall be entitled to submit prospective Financings of Leases
+and Equipment to GE Capital (or the applicable Program Affiliate) for
+consideration to be included under such U.S. Program, if, at the time such
+prospective Financing is submitted by Danka or its Affiliates to GE Capital (or
+the applicable Program Affiliate):
+
+               (i) the Equipment that is the subject of such prospective
+     Financing is an add-on or upgrade to Equipment that is presently financed
+     pursuant to a Lease that was entered into pursuant to such inactive U.S.
+     Program;
+
+               (ii) such prospective Financing would be a "lease schedule"
+     entered into pursuant to the terms of a "master lease" that was Financed
+     pursuant to such inactive U.S. Program; or
+
+               (iii) the Customer under such prospective Financing is already
+     the lessee or obligor under a Lease that was entered into pursuant to such
+     inactive U.S. Program and has requested "summary" billing or that all
+     rental and other charges associated with the Equipment it owns or uses
+     pursuant to any Lease be billed to it on a consolidated basis; or
+
+               (iv) GE Capital and Danka mutually agree thereto.
+
+          (g) Danka and GE Capital agree to explore in good faith the creation
+of Programs relating to jurisdictions outside of the United States on terms and
+conditions similar to those in the U.S. Programs adjusted to reflect, among
+other things, local laws and regulations, local customs, local costs and taxes,
+and the interest of the parties hereto. To the extent that Danka and GE Capital,
+and/or their respective Affiliates, shall hereafter enter into any such
+additional Programs, Schedule 1.1 shall be amended to refer to such Programs and
+to specify the Principal Documents, Program Affiliates and any Incentive
+Management Payment Provisions relating to such Programs.
+
+          1.2  Standard of Review.  Proposed Financings of Leases and Exempt
+Leases and Equipment shall be subject to review and approval by GE Capital VFS
+or the applicable Program Affiliate in its sole discretion, provided that, GE
+Capital shall, or shall cause its applicable Program Affiliates to, conduct the
+credit review and credit decision process with respect to any such proposed
+Financing utilizing standards no less favorable to Danka than GE
+
+                                       3
+<PAGE>
+
+Capital VFS and its applicable Program Affiliates at the time use to evaluate
+other proposed Financings with similar terms, equipment, structure, rates,
+profitability (taking into account, for proposed financings through a Program,
+the terms of such Program), size, customer risk profile, jurisdiction where the
+Customer and Equipment is located and Vendor Risk.
+
+          1.3  Executive Committee - Size and Composition.
+
+          (a) GE Capital and Danka hereby establish an executive committee (the
+"Executive Committee") to monitor and review the operation and administration of
+the Programs and oversee the relationship of the parties pursuant to the
+Principal Documents related thereto. The Executive Committee shall consist of
+six (6) voting members, three (3) of whom are designees of Danka (collectively,
+the "Danka Designees") and three (3) of whom are designees of GE Capital
+(collectively, the "GE Capital Designees"). Unless otherwise determined by the
+Executive Committee, the chairperson of the Executive Committee shall be a GE
+Capital Designee.
+
+          (b) The Danka Designees shall be employees of Danka Office Imaging
+Company familiar with the Equipment and Danka's plans with respect thereto. The
+GE Capital Designees shall be employees of GE Capital VFS familiar with the
+credit markets and financings of equipment and financial services generally. The
+initial members of the Executive Committee are listed on Schedule 1.3 hereof. At
+any time, either party may replace one (1) or more of its designees to the
+Executive Committee by notifying the other party in writing of the replacement
+member or members. Promptly following the death, resignation or inability to
+serve of any member of the Executive Committee, the party that originally
+appointed such member shall appoint a replacement, which appointment shall be
+effective upon written notice thereof to the other party hereto.
+
+          (c) Without limiting the provisions of Section 1.6 hereof, the
+chairperson of the Executive Committee shall, after due consultation with the
+other members of the Executive Committee, be responsible for establishing
+agendas for, and conducting meetings of, the Executive Committee. The
+chairperson of the Executive Committee shall include on the agenda for any
+meeting of the Executive Committee any item requested to be included thereon by
+an Executive Committee member.
+
+          1.4       Executive Committee Meetings.
+
+          (a) Meetings of the Executive Committee shall be held at such times as
+the Executive Committee may determine but in any event no less frequently than
+once each calendar quarter. Notwithstanding the foregoing, any member of the
+Executive Committee may call a meeting of the Executive Committee at any other
+time during the Term of this Agreement to act on any matter referred to in
+Section 1.6 hereof by delivery of the notice referred to in subsection (b)
+hereof. The location of meetings of the Executive Committee shall alternate
+between Danka Office Imaging Company's headquarters in St. Petersburg, Florida
+and GE Capital VFS's headquarters in Danbury, Connecticut or at such other place
+or places as the Executive Committee may from time to time determine.
+
+                                       4
+<PAGE>
+
+          (b) Notice of all meetings of the Executive Committee shall be sent by
+the chairperson or any other member of the Executive Committee to each member of
+the Executive Committee, addressed to such member at such member's usual place
+of business, by telecopy, express mail or recognized overnight courier, or be
+delivered personally or by telephone, not later than the fifth Business Day
+before the day on which such meeting is to be held. Such notice shall state the
+place, date and hour of the meeting and the purpose or purposes for which it is
+called (including, without limitation, the matter(s), if any, to be voted upon
+by the Executive Committee at such meeting). Any requirements of furnishing such
+a notice may be waived by any member who signs a waiver of notice before or
+after the meeting. Attendance of at least one (1) Danka Designee and one (1) GE
+Capital Designee at a meeting shall constitute a waiver of notice of such
+meeting by all members of the Executive Committee.
+
+          (c) Members of the Executive Committee may participate in a meeting of
+the Executive Committee using a conference telephone or similar communication
+equipment so that all persons participating in the meeting can hear and address
+each other. Participation in a meeting pursuant to this subsection (c) shall
+constitute attendance in person at such meeting.
+
+          1.5  Quorum; Manner of Acting.
+
+          (a) A quorum for the transaction of business at any Executive
+Committee meeting shall consist of one (1) Danka Designee and one (1) GE Capital
+Designee. In the absence of a quorum, the Executive Committee members present
+shall adjourn the meeting without the need for notice, other than announcement
+of such adjournment at the meeting. The affirmative vote of a majority of the
+members of the Executive Committee present (which majority, to be sufficient,
+must include the affirmative vote of at least one (1) Danka Designee and one (1)
+GE Capital Designee) at any meeting at which a quorum is present shall
+constitute an act of the Executive Committee.
+
+          (b) The Executive Committee may act without a meeting if the action
+taken is approved in writing by at least one (1) GE Capital Designee and at
+least one (1) Danka Designee.
+
+          (c) Any Executive Committee member may, at a meeting of the Executive
+Committee, call a matter to a vote of the Executive Committee.
+
+          (d) If any GE Capital Designee or Danka Designee cannot attend a
+meeting of the Executive Committee, GE Capital or Danka Office Imaging Company,
+as the case may be, may appoint a substitute designee to attend such meeting,
+upon prior written notice to the other and the members of the Executive
+Committee (specifying the name of the substitute designee and the name of the
+Executive Committee designee being substituted for). Any such substitute
+designee shall be an employee of GE Capital VFS or Danka Office Imaging Company,
+as applicable, having the qualifications described in subsection 1.3(b) hereof
+and shall have the authority of any regularly appointed member of the Executive
+Committee.
+
+          1.6  Authority of the Executive Committee.  The authority, functions
+and duties of the Executive Committee shall consist solely of the following:
+
+          (a)  discuss the overall relationship between the parties and their
+respective Program Affiliates including, without limitation, service levels and
+volume of business;
+
+                                       5
+<PAGE>
+
+          (b)  review and provide GE Capital with non-binding recommendations
+for new financing products and modifications to existing financing products
+offered by GE Capital from time to time pursuant to the then-active Programs;
+provided, however, that, subject to any applicable terms contained in the
+Principal Documents relating to any U.S. Program, GE Capital shall be entitled,
+from time to time, to authorize and implement any new financing products and
+modifications to existing financing products without the requirement that the
+same shall have been recommended by the Executive Committee;
+
+          (c)  review from time to time any reports and calculations prepared
+pursuant to any of the Programs; and
+
+          (d)  review all operations of the Programs and make non-binding
+recommendations to GE Capital and Danka with respect to improvements to such
+operations or other matters relating to the Programs.
+
+          1.7  Syndication.  In connection with the mutual desire of Danka and
+GE Capital to promote financings of Equipment in order to support sales of
+Equipment by Danka and its Affiliates, GE Capital intends to use its
+commercially reasonable efforts to establish a process within GE Capital VFS for
+the syndication of Leases Financed pursuant to the United States Program -Direct
+Structure to third-party investors. As of the date of this Agreement, GE Capital
+expects that the syndication process will include (a) the establishment within
+GE Capital VFS of certain criteria for transactions eligible to be syndicated,
+(b) the development of guidelines pursuant to which transactions that satisfy
+such criteria could be funded by GE Capital under the United States Program -
+Direct Structure pending the syndication of such Leases, (c) the identification
+of third parties to acquire such Leases and (d) discussion and agreement on the
+terms and conditions under which Danka, GE Capital and any applicable Program
+Affiliates and such third parties would engage in syndication transactions. The
+parties acknowledge and agree that it is not within GE Capital's control to
+cause any of these actions to take place or any of these events to occur and in
+the event GE Capital does not establish a process within GE Capital VFS for the
+syndication of Leases under the United States Program-Direct Structure to third-
+party investors, GE Capital shall not be deemed to have breached any obligation
+or duty to Danka under this Agreement or any Principal Document and it shall not
+constitute the basis of any GE Capital Event of Default.
+
+          1.8  Cessation of Exempt Lease Financings.  The parties hereto agree
+that (a) they do not intend that any Exempt Leases will be Financed by GE
+Capital or any of its Affiliates pursuant to the terms of that certain Operating
+Agreement dated as of January 29, 1999 between Danka Office Imaging Company and
+GE Capital (as amended by the Amendment Agreement dated December ___, 1999)
+after the date of this Agreement, (b) unless otherwise specifically agreed in
+writing by Danka and GE Capital, no Exempt Lease entered into after the date
+hereof shall be subject to the terms of such Operating Agreement and (c) such
+Operating Agreement shall continue in full force and effect with respect to the
+Exempt Leases set forth on Schedule 1.8 attached hereto until the expiration or
+earlier termination of such Exempt Leases.
+
+                                       6
+<PAGE>
+
+                                  Article II
+                         Business Relationship Manager
+                         -----------------------------
+
+     2.1  Business Relationship Manager.  GE Capital shall designate a Business
+Relationship Manager as the primary management contact between GE Capital, on
+the one hand and Danka and its Affiliates, on the other hand. The Business
+Relationship Manager shall be charged with the regular and ongoing management of
+the relationship between the parties contemplated by this Agreement and the
+other Principal Documents and such further responsibilities as the parties
+hereto shall agree upon from time to time. The Business Relationship Manager
+shall have the following general responsibilities:
+
+     (a)  coordinate and facilitate day-to-day interactions between GE Capital
+and the Program Affiliates, on the one hand, and Danka and its Affiliates, on
+the other hand, with respect to the Programs;
+
+     (b)  receive and review information from Danka and its Affiliates with
+respect to product plans, sales projections and forecasts and marketing plans
+and strategies regarding Equipment and recommend appropriate strategies and
+actions to be taken by GE Capital to facilitate and promote the Programs and
+other financings contemplated by this Agreement;
+
+     (c)  receive and review information from GE Capital concerning credit
+markets, competitive financing products, marketing plans and strategies of GE
+Capital and recommend appropriate strategies and actions to be taken by Danka
+and its Affiliates, in each case, to facilitate and promote the Programs and
+other financings contemplated by this Agreement;
+
+     (d)  resolve disputes arising from the day-to-day operations of the
+Programs; and
+
+     (e)  review customer satisfaction surveys and complaints, identify areas
+requiring improvements and, by mutual agreement of GE Capital and any applicable
+Program Affiliate, on the one hand, and Danka and any of its applicable
+Affiliates, on the other hand, implement appropriate changes in the operation of
+the Programs.
+
+                                  Article III
+                    Relationship Matters; Use of Danka Name
+                    ---------------------------------------
+
+     3.1  Other Activities.  It is understood that the parties hereto are
+engaged in other financing activities with third parties involving equipment
+similar to the Equipment that may be competitive with their activities
+contemplated by this Agreement. Nothing in this Agreement to the contrary shall
+be deemed to limit or restrict such other activities by the parties. Without
+limiting the generality of the foregoing, nothing to the contrary contained
+herein shall be construed to (a) restrict a prospective Customer's independent
+right to obtain financing for its acquisition of Equipment from a source other
+than GE Capital or any of its Program Affiliates or (b) restrict Danka or its
+Affiliates from arranging the financing of Equipment with a Person other than GE
+Capital or one of its Program Affiliates.
+
+                                       7
+<PAGE>
+
+     3.2  Mood and Manner.  Each of GE Capital and Danka recognizes that its
+contact with the public may reflect upon the other and therefore it will not
+cause any of its or of its respective Affiliates' employees to behave in a
+manner that would reflect poorly upon the good name and stature of the other and
+will instruct its respective employees of their obligations in this regard and
+will discipline any such employee who fails to comply with such instructions.
+With respect to the transactions contemplated by this Agreement (and except as
+may otherwise be provided in any of the Principal Documents), neither GE Capital
+nor Danka nor any of their respective Affiliates shall represent (and each will
+instruct its employees to refrain from representing) itself as an agent,
+partner, subsidiary or affiliate of the other.
+
+     3.3  Compliance Procedures.  Each of Danka, at Danka's expense, and GE
+Capital, at GE Capital's expense, shall and shall cause its respective
+Affiliates to adopt and implement policies and procedures designed to ensure
+compliance by their respective employees with Danka's and GE Capital's
+respective obligations under this Agreement, and shall periodically review and
+monitor such compliance.
+
+     3.4  Use of Danka Name.  Danka shall not, and shall not permit any of its
+Subsidiaries to, license, authorize or otherwise permit any Person to use, in
+the United States, the name "Danka Leasing Services" or any derivation of "Danka
+Leasing" in connection with any leasing or financing of any Equipment. In
+connection with the execution and delivery of the Principal Documents relating
+to the United States Program - Direct Structure, Danka and GE Capital will
+execute and deliver a Trademark License Agreement that will govern the use by GE
+Capital of the name "Danka Leasing Services." Subject to the terms of such
+Trademark License Agreement, Danka may withdraw or modify the terms on which GE
+Capital may use such name.
+
+                                  Article IV
+            Representations, Warranties, Covenants and Indemnities
+            ------------------------------------------------------
+
+     4.1  Representations, Warranties and Covenants of Danka.  Danka hereby
+represents, warrants and covenants to GE Capital and its successors and
+permitted assigns, as of the date hereof and throughout the Term of this
+Agreement, that:
+
+     (a)  Danka (i) is a duly organized Person, validly existing and in good
+standing under the laws of its jurisdiction of organization other than in
+connection with a Permitted Reorganization, (ii) has all necessary power to own
+and lease its properties and to carry on its business as it is now being
+conducted and (iii) is duly qualified or authorized to conduct business and is
+in good standing in all jurisdictions where it is necessary that it be so
+qualified to conduct its business, except where the failure to be so qualified
+would not have a material adverse effect on the assets, properties, business or
+condition (financial or otherwise) of Danka or on the ability of Danka or its
+Affiliates to perform their obligations under this Agreement and the other
+Principal Documents.
+
+     (b)  Danka has all requisite power and authority to execute, deliver and
+perform its obligations under this Agreement and all other documents to be
+executed and delivered by Danka pursuant hereto. This Agreement has been duly
+authorized by all necessary action on the part of Danka (including, without
+limitation, its shareholders).
+
+                                       8
+<PAGE>
+
+     (c)  This Agreement has been duly executed and delivered by Danka, and is
+the valid and binding obligation of Danka, enforceable against it in accordance
+with its terms, except as such enforceability may be limited by bankruptcy,
+insolvency, reorganization or other similar laws affecting the enforcement of
+creditors' rights generally and by general principles of equity (regardless of
+whether such enforceability is considered in equity or at law).
+
+    (d)  The execution, delivery and performance by Danka of this Agreement, and
+the compliance by Danka with the terms and provisions hereof, do not and will
+not conflict with or result in a breach of or a default under (with notice or
+lapse of time or both) any of the terms, conditions or provisions of (i) the
+constituent documents of Danka or any of its Affiliates, each as then in effect,
+(ii) any judgment, order, injunction, decree or ruling of any Government Entity
+or any law, statute or regulation to which Danka or any of its Affiliates is
+subject, or (iii) any agreement, contract or commitment to which Danka or any of
+its Affiliates is a party or to which Danka or any of its Affiliates or their
+respective Property may be subject except to the extent that, in the case of
+this clause (iii), such conflicts, breaches or defaults would not, individually
+or in the aggregate, materially and adversely affect Danka or its business,
+assets, operations or condition, financial or otherwise, or materially and
+adversely affect its ability to perform its obligations under this Agreement.
+
+     (e)  No notices, reports or other filings are required to be made by Danka
+with, nor are any consents, licenses, permits, authorizations or approvals
+required to be obtained by Danka from, any Government Entity or any other Person
+in connection with the execution, delivery and performance of this Agreement or
+the consummation by Danka of the transactions contemplated hereby.
+
+     (f)  (i) Danka is, and from and after the date hereof will be, in material
+compliance with all laws enacted by and all regulations promulgated or issued by
+any Government Entity applicable to its business, (ii) Danka has had at all
+times all material permits, authorizations and approvals of each Government
+Entity required to conduct its business and has conducted its business and has
+owned and operated its Property at all times in material compliance with all
+laws enacted by or regulations promulgated or issued by any Government Entity
+and all such permits, authorizations and approvals and (iii) Danka has not
+received any notice of any final determination of any violation or any alleged
+violation (which is reasonably likely to be determined adversely to Danka) of
+any law or regulation (which violation has not been cured) from any Government
+Entity that, in the case of (A) a notice of a final determination or (B) a
+notice of an alleged violation that is reasonably likely to be adversely
+determined to Danka, would materially and adversely impair Danka's ability to
+perform its obligations hereunder nor, to Danka's knowledge, is any such notice
+pending or threatened.
+
+     (g)  There are no suits or proceedings pending or, to the knowledge of
+Danka, threatened by or before any Government Entity against or affecting Danka
+which are reasonably likely to be adversely determined and would, if adversely
+determined, materially and adversely impair Danka's ability to perform its
+obligations hereunder.
+
+     (h)  Promptly after filing or making publicly available any annual, semi-
+annual, quarterly or other financial statements and reports (together with all
+exhibits, schedules, annexes and attachments filed in connection therewith by
+Danka pursuant to the Securities
+
+                                       9
+<PAGE>
+
+Exchange Act of 1934, as amended, or any rules or regulations promulgated
+thereunder), Danka shall deliver true and correct copies of all such financial
+statements and reports to GE Capital or, in the event that Danka shall cease to
+file, make publicly available or be required to file or make publicly available
+such financial statements and reports, the practical equivalents thereof (at the
+same times as would otherwise apply with respect to Danka's filing of such
+financial statements and reports). Promptly after the execution and delivery by
+Danka of any agreement, document or instrument containing the terms and
+conditions of any Senior Financing Facility including, without limitation, (i)
+any such agreements, documents or instruments purportedly granting, creating or
+perfecting a lien, security interest, encumbrance, preference, priority or
+charge on any Property of Danka or any of its Affiliates and (ii) any renewal,
+replacement, refinancing or extension, in whole or in part, of the Senior
+Financing Facility described in clause (i) of the definition of Senior Financing
+Facility (together with (A) all exhibits, schedules, annexes and attachments
+referred to or otherwise incorporated therein and (B) all amendments,
+modifications or supplements thereto), Danka shall deliver true and correct
+copies of all such agreements, documents and instruments to GE Capital, subject,
+with respect to any specific agreement, document or instrument, to any
+contractual obligation of Danka to maintain the confidentiality of such
+agreement, document or instrument.
+
+     (i)  The financial statements and other reports of Danka delivered to GE
+Capital from time to time fairly present the financial position of Danka and its
+Subsidiaries on a consolidated basis as of the dates thereof and the results of
+operations of Danka and its Subsidiaries on a consolidated basis for the periods
+covered thereby, all in conformity with GAAP.
+
+     (j)  Danka shall cause each of its Affiliates that participates in a
+Program to provide to GE Capital a guarantee of the due and punctual payment and
+performance by Danka of its obligations under this Agreement, in form and
+substance reasonably satisfactory to GE Capital.
+
+     4.2  Representations, Warranties and Covenants of GE Capital. GE Capital
+hereby represents, warrants and covenants to Danka, and its successors and
+permitted assigns, as of the date hereof, and throughout the Term of this
+Agreement, that:
+
+     (a)  GE Capital (i) is a duly organized corporation, validly existing and
+in good standing under the laws of its jurisdiction of incorporation, (ii) has
+the corporate power to own and lease its properties and to carry on its business
+as it is now being conducted and (iii) is duly qualified or authorized to
+conduct business and is in good standing as a foreign corporation in all
+jurisdictions where it is necessary that it be so qualified to conduct its
+business, except where the failure to be so qualified would not have a material
+adverse effect on the assets, properties, business or condition (financial or
+otherwise) of GE Capital or on the ability of GE Capital or its Affiliates to
+perform their obligations under this Agreement and under the Principal
+Documents.
+
+     (b)  GE Capital has all requisite corporate power and authority to execute
+and deliver, and to perform GE Capital's obligations under this Agreement. This
+Agreement has been duly authorized by all necessary corporate and stockholder
+action on the part of GE Capital.
+
+                                      10
+<PAGE>
+
+     (c)  This Agreement has been duly executed and delivered by GE Capital and
+is the valid and binding obligation of GE Capital, enforceable against it in
+accordance with its terms, except as such enforceability may be limited by
+bankruptcy, insolvency, reorganization or other similar laws affecting the
+enforcement of creditor's rights generally and by general principles of equity
+(regardless of whether such enforceability is considered in equity or at law).
+
+     (d)  The execution, delivery and performance by GE Capital of this
+Agreement, and compliance by GE Capital with the terms and provisions hereof, do
+not and will not conflict with or result in a breach of or a default under (with
+notice or lapse of time or both) any of the terms, conditions or provisions of
+(i) the constituent documents of GE Capital, each as then in effect, (ii) any
+judgment, order, injunction, decree or ruling of any Government Entity or any
+law, statute or regulation to which GE Capital is subject or (iii) any
+agreement, contract or commitment to which GE Capital or any of the Program
+Affiliates is a party or to which GE Capital or any of the Program Affiliates or
+their respective Property may be subject except to the extent that, in the case
+of this clause (iii), such conflicts, breaches or defaults would not,
+individually or in the aggregate, materially and adversely affect GE Capital or
+its business, assets, operations or condition, financial or otherwise, or
+materially and adversely affect its ability to perform its obligations under
+this Agreement.
+
+     (e)  No notices, reports or other filings are required to be made by GE
+Capital with, nor are any consents, licenses, permits, authorizations or
+approvals required to be obtained by GE Capital from, any Government Entity or
+any other Person in connection with the execution, delivery and performance by
+GE Capital of this Agreement or the consummation by GE Capital of the
+transactions contemplated hereby.
+
+     (f)  There are no suits or proceedings pending or, to the knowledge of GE
+Capital, threatened by or before any Government Entity against or affecting GE
+Capital which could materially impair GE Capital's ability to perform its
+obligations hereunder.
+
+     4.3  Danka Indemnities.  Danka shall indemnify and hold harmless GE
+Capital, its Affiliates, and each of their respective employees, officers,
+directors and agents, from, against and in respect of any and all Damages
+suffered or incurred by any of them resulting from, arising out of or in
+connection with (a) any breach by Danka of any of its representations or
+warranties hereunder; or (b) any failure to perform any covenant, agreement or
+obligation to be performed by Danka pursuant to this Agreement; or (c) any act,
+failure to act, omission, representation or misrepresentation in connection with
+the execution, delivery and performance of this Agreement or the consummation of
+the transactions contemplated hereby by Danka or any of its employees, officers,
+directors or agents.
+
+     4.4  GE Capital Indemnities.  GE Capital shall indemnify and hold harmless
+Danka, its Affiliates, and each of their respective employees, officers,
+directors and agents, from, against and in respect of any and all Damages
+suffered or incurred by any of them resulting from, arising out of or in
+connection with (a) any breach by GE Capital of any of its representations or
+warranties hereunder; (b) any failure to perform any covenant, agreement or
+obligation to be performed by GE Capital pursuant to this Agreement; or (c) any
+act, failure to act, omission, representation or misrepresentation in connection
+with the execution, delivery, and performance
+
+                                      11
+<PAGE>
+
+of this Agreement or the consummation of the transactions contemplated hereby by
+GE Capital or any of its employees, officers, directors or agents.
+
+     4.5  Indemnification Procedures.
+
+     (a)  Each party shall notify the other of any event requiring
+indemnification promptly following the receipt of notice of the commencement of
+any action or proceeding by any third party giving rise to indemnification
+hereunder; provided, however, that the failure to give such notice in a timely
+fashion shall not result in a waiver or impairment of any right to
+indemnification hereunder except to the extent that the indemnifying party's
+ability to defend against the event with respect to which indemnification is
+sought is materially and adversely affected by the failure of the indemnified
+party to give such notice in a timely fashion.
+
+     (b)  The indemnifying party shall be entitled (but not obligated) to assume
+the defense or settlement of any such action or proceeding or to participate in
+any negotiations to settle or eliminate any claim with counsel of its choice,
+provided, however, that such counsel is reasonably satisfactory to the
+indemnified party. If the indemnifying party so elects to assume the defense or
+settlement of any such action or proceeding, the indemnified party (and its
+counsel) may continue to participate at the indemnified party's own expense in
+any such action or proceeding.
+
+     (c)  If the indemnifying party does not elect in writing within ten (10)
+Business Days after notification to assume the defense of such action or
+proceeding, the indemnified party may engage counsel to defend, settle or
+otherwise dispose of such action or proceeding, and the fees of such counsel
+shall constitute expenses covered by the indemnification provided in this
+Article IV.
+
+     (d)  Neither party shall settle, compromise, decline to appeal or otherwise
+dispose of any action or proceeding with respect to which indemnification
+hereunder is sought without the prior written consent of the other party, which
+consent shall not be unreasonably withheld or delayed. If the consent of the
+indemnified party is unreasonably withheld, the indemnifying party's liability
+shall be limited to the amount for which the indemnifying party and the claimant
+agreed to settle. The parties will use their commercially reasonable efforts to
+cause the terms of any such settlement to be kept confidential by the parties
+thereto (subject to customary exceptions or as required by law) and shall seek
+to include a covenant regarding non-disclosure of the terms of such settlement
+in any settlement agreement.
+
+     (e)  In the event indemnification is requested hereunder, the relevant
+indemnifying party and its representatives shall have access to the premises,
+books and records of the Person or Persons to be indemnified and their
+respective Affiliates during normal business hours to the extent reasonably
+necessary to assist it in defending or settling any claim, suit, action or
+proceeding; provided, however, that such access shall (i) be conducted in such
+manner as not to interfere unreasonably with the operation of the business of
+the Person or Persons to be indemnified, (ii) not include any materials that the
+Person or Persons to be indemnified are required to keep confidential and (iii)
+shall be at the sole cost and expense of the indemnifying party.
+
+                                      12
+<PAGE>
+
+     (f)  All indemnities and obligations under this Article IV shall survive
+the expiration or termination of this Agreement until the expiration of the
+statute of limitations applicable to the matter for which indemnity is sought,
+and shall be payable promptly upon presentment of an invoice from the
+indemnified party therefor.
+
+                                   Article V
+                             Affiliate Obligations
+                             ---------------------
+
+     5.1  Affiliate Obligations.
+
+     (a)  Danka hereby guarantees the full and prompt payment, performance and
+satisfaction by each of its Affiliates of all of such Affiliate's liabilities
+and obligations to GE Capital or to any of GE Capital's Affiliates under each
+(i) Principal Document, (ii) Financing of Exempt Leases originated by or
+purchased from Danka or its Affiliates (including, without limitation, Danka
+Office Imaging Company, Danka Business Systems, Inc. American Business Credit
+Corporation and Danka Corporation) pursuant to the terms of separate recourse
+agreements between GE Capital and the Program Affiliates, on the one hand, and
+Danka and its Affiliates, on the other hand, and (iii) other agreement, document
+or instrument to which any such Affiliate of Danka is a party relating to any
+Exempt Leases, any Financing or any Program (collectively, "Affiliate
+Agreements"), in each case whether such liabilities or obligations are now or
+hereafter existing (collectively, the "Obligations").
+
+     (b)  Danka agrees that it will ensure that the Obligations will be
+satisfied strictly in accordance with their terms, regardless of any law,
+regulation or order now or hereafter in effect in any jurisdiction affecting any
+of such terms or the rights of GE Capital or any of its Affiliates with respect
+thereto. The obligations of Danka under this Article V shall be absolute and
+unconditional irrespective of:
+
+          (i)       any change in or any other amendment or waiver of any term
+     of, or any consent to departure from any requirement of, any Affiliate
+     Agreement or any guaranty of any of the Obligations;
+
+          (ii)      the absence of any attempt to collect any of the Obligations
+     from any Affiliate of Danka or from any guarantor thereof or any other
+     action to enforce the same;
+
+          (iii)     any waiver, consent, extension, forbearance or granting of
+     any indulgence by GE Capital or any of its Affiliates with respect to any
+     provision of any Affiliate Agreement; or
+
+          (iv)      any other circumstance which might otherwise constitute a
+     legal or equitable discharge or defense of a guarantor.
+
+     (c)  Danka hereby waives (i) promptness, diligence, notice of acceptance
+and any and all other notices with respect to any of the Obligations or the
+obligations of Danka hereunder, (ii) any requirement that GE Capital or any of
+its Affiliates exhaust any right or take any action against any Affiliate of
+Danka or any other Person and (iii) the filing of any claim with a court in the
+event of receivership or bankruptcy of any Affiliate of Danka.
+
+                                      13
+<PAGE>
+
+                                  Article VI
+                              Additional Matters
+                              ------------------
+
+     6.1  Confidentiality.  From time to time GE Capital or Danka (or their
+relevant Affiliates) may provide confidential information to each other in
+connection with the Programs or the performance of their respective obligations
+under the Principal Documents. Each of GE Capital and Danka shall, and shall
+ensure that its Affiliates shall, take commercially reasonable steps to preserve
+all such confidential information (including without limitation the provisions
+of this Agreement and any information regarding the residual with respect to any
+Equipment subject to any Lease or Exempt Lease) and to prevent disclosure
+thereof to third parties. None of GE Capital, Danka or their relevant respective
+Affiliates may disclose such confidential information without the written
+consent of the other party except (a) where the confidential information has
+become public through no fault of the disclosing party, (b) where the
+confidential information was known to the disclosing party (without knowledge of
+any breach of any confidentiality obligation by or of any other Person) prior to
+receipt from the other party or (c) where disclosure of such confidential
+information is required by law, any Government Entity or the rules of any
+securities exchange on which the securities of the disclosing Person are listed
+(but then only to the extent required by, for the purpose of, and strictly in
+accord with, the relevant law, government requirement or such rules); provided,
+however, that in the case of clause (c) only, the disclosing party shall first,
+so far as practicable, consult with the other party prior to such disclosure and
+shall take such steps as the other party may reasonably request to mitigate the
+effect of or to avoid such disclosure.
+
+     6.2  Business Practices.
+          ------------------
+
+     (a)  In performing its obligations under this Agreement and the Principal
+Documents and otherwise in connection with the Programs, each of Danka and GE
+Capital shall, and shall ensure that each of its Controlled Affiliates shall,
+comply with all laws applicable to the performance of this Agreement, the
+Principal Documents and the Programs, including, without limitation, laws
+dealing with improper or illegal payments, gifts or gratuities. Each of Danka
+and GE Capital agrees not to, and shall not permit any of its relevant
+Controlled Affiliates to, pay, promise to pay or authorize the payment of any
+money or anything of value, directly or indirectly, to any Person (whether a
+governmental official or private individual) for the purpose of illegally or
+improperly inducing any official or any political party or official thereof to
+(i) make a buying or financing decision related to the Equipment, (ii) assist
+Danka, GE Capital, any of their Controlled Affiliates or any of their respective
+employees, agents or representatives in connection with obtaining or retaining
+any licenses, qualifications or business, or (iii) take any action favorable to
+Danka, GE Capital, any of their Controlled Affiliates or any of their respective
+employees, agents or representatives. Furthermore, each of Danka and GE Capital
+agrees that it will not and will not permit any of its Controlled Affiliates to
+take any action, or fail to take any action, which act or failure to act would
+subject Danka, GE Capital or any of their respective Controlled Affiliates to
+liability or legal action under the laws of any country dealing with improper
+payments as described in this Section 6.2.
+
+     (b)  Each party hereto shall promptly notify the other upon becoming aware
+of any material violation of this Section 6.2.
+
+                                      14
+<PAGE>
+
+     6.3  Modification of Net Worth Test. At GE Capital's election (which it
+shall exercise by written notice to Danka within 30 days after its receipt of
+the agreement(s) required to be delivered by Danka pursuant to Section 4.1(h)
+hereof), any financial covenant contained in any credit arrangement entered into
+by Danka in connection with the renewal, replacement, refinancing or extension
+of the Senior Financing Facility described in clause (i) of the definition
+thereof that relates to or measures the net worth of Danka shall be deemed
+automatically incorporated into this Agreement mutatis mutandis so as to make
+the terms of such covenant part of this Agreement for the benefit of GE Capital
+(as so adopted, the "Modified Net Worth Test"). No waiver of the enforcement or
+effectiveness of, no agreement by any Person to forbear with respect to, and no
+subsequent amendment or modification to the terms of, any financial covenant
+that has been incorporated into this Agreement as the Modified Net Worth Test
+(by any Person other than GE Capital) shall be deemed to affect the terms of the
+Modified Net Worth Test as adopted by GE Capital and incorporated into the terms
+of this Agreement. In the event GE Capital elects to incorporate the Modified
+Net Worth Test into this Agreement then, effective as of the date of GE
+Capital's election notice, the Modified Net Worth Test shall be deemed to be the
+Net Worth Test. For the avoidance of doubt the parties agree that the Net Worth
+Test is not an affirmative covenant or obligation on the part of Danka.
+
+     6.4  Change in Control.  If there shall occur, at any time, a Change in
+Control of Danka or a Change in Control of GE Capital, then the party hereto
+that was the subject of such Change in Control shall notify the other party
+hereto of such Change in Control and the party that was not the subject of such
+Change in Control shall be entitled to require representatives of the party that
+was the subject of such Change in Control, on not less than 10 Business Days'
+prior written notice, to meet with its representatives to discuss such changes
+to the Principal Documents or the terms of the Programs as the parties agree are
+necessary or desirable to address the effect of such Change in Control. If the
+parties are unable to agree upon such changes within 45 days after the delivery
+by the party that was not the subject of such Change in Control of the written
+notice referred to above, a "Qualifying Change in Control" shall be deemed to
+have occurred with respect to the party that was the subject of such Change in
+Control (and, as applicable, GE Capital and/or its Program Affiliates, on the
+one hand, or Danka, on the other hand, shall be entitled to take such actions as
+a result thereof as shall be provided in the respective Principal Documents).
+
+     6.5  Material Change/Change Event.
+
+     (a)  If there shall occur at any time a Material Change, GE Capital shall
+be entitled to require representatives of Danka, on not less than 10 Business
+Days' prior written notice from GE Capital, to meet with representatives of GE
+Capital to negotiate with GE Capital such changes to the Principal Documents or
+the terms of the Programs as the parties may mutually agree. If the parties are
+unable to agree upon such mutually acceptable changes within 45 days after the
+delivery by GE Capital of the written notice referred to above, a "Change Event"
+shall be deemed to have occurred (and GE Capital and/or its Program Affiliates
+shall be entitled to take such actions as a result thereof as shall be provided
+in the respective Principal Documents).
+
+     (b)  Notwithstanding anything to the contrary set forth in the Principal
+Documents relating to the U.S. Program - Trust Structure, Danka and GE Capital
+acknowledge
+
+                                      15
+<PAGE>
+
+and agree that from and after (and notwithstanding) the effectiveness of this
+Agreement, GE Capital and its Affiliates shall be entitled to take any and all
+of the following actions in connection with any Lease Financed by GE Capital or
+any Program Affiliate pursuant to the United States Program - Trust Structure.
+
+          (i)       reject any proposed financing of any Prospective Lease (as
+     such term is defined in the Trust Agreement) that, by its terms provides
+     for any Equipment (as such term is defined in the Trust Agreement) service,
+     maintenance or warranty repair services by any Originator (as such term is
+     defined in the Trust Agreement) or any of their Affiliates (as such term is
+     defined in the Trust Agreement);
+
+          (ii)      terminate (with respect to Prospective Leases transferred to
+     the Trust on or after the date of such termination) the right of the
+     Originators to continue to provide copies (in lieu of originals) of the
+     documents included in the Lease File (as such term is defined in the Trust
+     Agreement), and thereafter require that originals of all documents included
+     in the Lease File be provided to Servicer (as such term is defined in the
+     Trust Agreement) prior to any future remittance of the Funding Amount (as
+     such term is defined in the Trust Agreement) for any Prospective Leases;
+
+          (iii)     add the following as additional conditions under Section
+     1.9(b) of the Servicing Agreement (as such term is defined in the Trust
+     Agreement) to the obligations of the Investor (as such term is defined in
+     the Trust Agreement) or the Trust or any other Person (other than an
+     Originator or a Depositor (as such term is defined in the Trust Agreement))
+     to thereafter pay or cause to be paid a Depositor the Funding Amount with
+     respect to Prospective Leases thereafter to be transferred to the Trust, or
+     to consummate the transactions contemplated by Section 2.01 of the Trust
+     Agreement with respect thereto:
+
+                    receipt by Servicer of verification from the Customer (as
+                    such term is defined in the Trust Agreement) under such
+                    Prospective Lease as to the receipt and acceptance of all
+                    Equipment under such Prospective Lease by such Customer, and
+
+          (iv)      consider Vendor Risk as part of conducting the credit review
+     and credit decision process with respect to any proposed Financing or
+     Lease.
+
+                                  Article VII
+                             Term and Termination
+                             --------------------
+
+     7.1  Term.
+
+     (a)  This Agreement shall be effective upon the date set forth in the
+preamble to this Agreement and shall continue from such effective date through
+the end of the Term of this Agreement, unless sooner terminated in accordance
+with Section 7.2, 7.3 or 7.4 hereof. The Term of this Agreement may be renewed
+upon agreement of the parties to this Agreement.
+
+     (b)  Upon the termination of this Agreement for any reason and in any
+manner provided in this Article VII, all obligations of Danka and GE Capital
+with respect to any future
+
+                                      16
+<PAGE>
+
+Financing transactions under this Agreement, the Principal Documents or any
+Program shall cease; provided, however, that the parties' respective obligations
+under this Agreement, the Principal Documents, the Programs or any other
+agreement with respect to outstanding Financings shall survive until the
+termination of such obligations by their own terms; provided, further, that the
+liabilities of the parties accrued through the date of termination of this
+Agreement and the provisions of Sections 4.3, 4.4, 4.5 and 6. l, Article V, this
+Article VII and Article IX hereof shall survive any termination of this
+Agreement. For the avoidance of doubt, the parties agree that, except as
+provided in Section 8.2(b) and 8.2(g), Article VIII of this Agreement shall not
+survive the termination of this Agreement.
+
+          7.2  Alliance.  At any time after April 1, 2002, either Danka or GE
+Capital may request the other to commence negotiations regarding the terms and
+conditions on which they would enter into an alliance (for the purpose of
+providing financing to support sales of Equipment by Danka and its Affiliates)
+that would supersede the terms of this Agreement and the Programs. In the event
+the parties are unable to agree upon and execute and deliver legally binding
+definitive agreement(s) governing the terms and conditions of such alliance by
+March 31, 2003, then either Danka or GE Capital shall have the option, by
+delivery of a written notice to the other, to terminate this Agreement effective
+as of April l, 2003. In no event shall the failure, for any reason, of the
+parties hereto to execute and deliver such agreement(s) be considered a breach
+of this Agreement by either party hereto.
+
+          7.3  Acquisition by GE Capital of Danka Competitor.
+
+          (a)  If at any time during the Term of this Agreement, GE Capital
+acquires Control of Global Imaging Systems, Inc. or any Person that had revenues
+(in the twelve month period prior to such acquisition) attributable to the sale
+and distribution or servicing and maintenance of office imaging equipment and
+solutions on a nationwide basis in the United States in excess of $800 million
+(a "Qualifying Acquisition"), then no later than 30 days after the Business
+Relationship Manager becoming aware of such Qualifying Acquisition, he shall
+notify Danka of such Qualifying Acquisition. After the consummation of a
+Qualifying Acquisition, Danka shall be entitled to require representatives of GE
+Capital VFS, on not less than 10 Business Days' prior written notice from Danka,
+to meet with representatives of Danka to discuss with Danka (i) the effect of
+such Qualifying Acquisition on GE Capital's ability to comply with its
+obligations under this Agreement, the relevant Principal Documents and the
+Programs (including, without limitation, Section 6.1 hereof) and (ii) the
+policies and procedures implemented by GE Capital to ensure that any
+confidential information received by GE Capital regarding Danka and its
+Affiliates is preserved and that the acquired Person does not obtain access to
+any such information. If the parties are unable to agree upon changes to the
+Principal Documents and the terms of the Programs to address the effect of such
+Qualifying Acquisition within 45 days after the delivery by Danka of the written
+notice referred to above, then Danka shall have the right upon 10 days' prior
+written notice to terminate this Agreement.
+
+          (b)  If Danka does not exercise its right under the second sentence of
+subsection (a) hereof or, if applicable, its right to terminate this Agreement
+pursuant to the last sentence of subsection (a) hereof, in each case, in respect
+of a particular Qualifying Acquisition, on or prior to 10 Business Days after,
+as applicable, the delivery of a notice by the Business Relationship Manager to
+Danka that a Qualifying Acquisition has occurred or the expiration of
+
+                                      17
+<PAGE>
+
+the 45 day period referred to in the last sentence of subsection (a) hereof
+without mutual agreement by the parties, then Danka shall be deemed to have
+waived any rights it may have in connection with the particular Qualifying
+Acquisition that gave rise to such rights.
+
+          (c)  Notwithstanding the foregoing, the terms of this Section 7.3 will
+not apply to any circumstance in which GE Capital acquires Control of a Person
+in connection with (i) any restructuring, workout or foreclosure with respect to
+any loan or other indebtedness held by GE Capital or any of its Subsidiaries or
+Affiliates or (ii) any bankruptcy, insolvency or similar proceedings with
+respect to the issuer, guarantor or other obligor of or under any such loan or
+indebtedness and no such acquisition shall be deemed to be a Qualifying
+Acquisition.
+
+          7.4  Termination.
+
+          (a)  Upon the occurrence of a Danka Termination Event or in the event
+of a continuing Danka Event of Default, GE Capital shall have the right, at its
+sole discretion and upon at least 20 Business Days' prior written notice to
+Danka (other than in respect of a Complete Cessation of Service or a Third Party
+Enforcement Event, as to which no prior written notice shall be required), to
+take any or all of the following actions (notwithstanding anything to the
+contrary contained in any Principal Document):
+
+               (i)   to cease or suspend consideration of all proposed
+     Financings (whether or not under any Program);
+
+               (ii)  to revoke its approval (or conditional approval) of any
+     proposed Financing (whether or not under any Program) not yet funded; and
+
+               (iii) to terminate this Agreement as and to the extent provided
+     in subsection 7.1(b) hereof.
+
+          (b)  Whether or not this Agreement shall have been previously
+     terminated by GE Capital, in the event of the occurrence and continuance
+     of:
+
+               (i)   a Complete Cessation of Service; or
+
+               (ii)  the dissolution or liquidation of Danka or any of its
+     Affiliates (other than a Permitted Reorganization with respect to such
+     Person) that is a party to any Principal Document relating to a U.S.
+     Program or the French Program; or
+
+               (iii) a Bankruptcy Event with respect to Danka or any of its
+     Affiliates that is a party to any Principal Document relating to a U.S.
+     Program or the French Program; or
+
+               (iv)  a Third Party Enforcement Event,
+
+then in addition to the rights set forth in subsection (a) hereof, and
+notwithstanding anything to the contrary contained in any Principal Document, GE
+Capital shall have the right, at its sole discretion and upon at least 20
+Business Days' prior written notice to Danka (other than in respect of a
+Complete Cessation of Service or a Third Party Enforcement Event, as to which no
+
+                                      18
+<PAGE>
+
+prior written notice shall be required), to appoint a substitute service
+provider for the provision of the service, maintenance or warranty repair and
+other obligations of the "servicer" or "supplier" applicable to any or all
+Leases or Exempt Leases.
+
+          (c)  Upon the occurrence of a GE Capital Termination Event or in the
+event of a continuing GE Capital Event of Default, Danka shall have the right,
+at its sole discretion and upon at least 20 Business Days' prior written notice
+to GE Capital, to terminate this Agreement as and to the extent provided in
+subsection 7.1(b) hereof.
+
+          7.5  Effect of Termination; Termination Fee.
+
+          (a)  In the event a party terminates this Agreement pursuant to
+Section 7.4 as a result of a Danka Event of Default or a GE Capital Event of
+Default, such party shall have the right to exercise all rights and remedies as
+may be available in law or in equity, including, without limitation, claims for
+Damages.
+
+          (b)  If GE Capital terminates this Agreement pursuant to Section 7.4
+due to the occurrence and continuance of
+
+               (i)   a Qualifying Change in Control of Danka and there has been
+     an Impairment with respect to Danka; or
+
+               (ii)  a Complete Cessation of Distribution of Office Imaging
+     Solutions; or
+
+               (iii) a Complete Cessation of Service; or
+
+               (iv)  the dissolution or liquidation of Danka or any of its
+     Affiliates (other than a Permitted Reorganization with respect to such
+     Person) that is a party to any Principal Document relating to a U.S.
+     Program or the French Program; or
+
+               (v)   a Bankruptcy Event with respect to Danka or any of its
+     Affiliates that is a party to any Principal Document relating to the U.S.
+     Program that is active at the time of such termination,
+
+then no later than ten (10) days after such termination, Danka shall pay the
+Termination Fee to GE Capital. In the event Danka pays GE Capital the
+Termination Fee pursuant to this Section 7.5, then the parties agree that Danka
+shall not be also obligated to GE Capital in respect of a Trigger Payment that
+would otherwise be payable pursuant to this Agreement in connection with any
+Measurement Period which Measurement Period is included in the calculation of
+the amount of such Termination Fee.
+
+          (c)  Interest on any unpaid amounts that remain due and payable for
+more than 30 days after written notice that such amount is due and owing shall
+have been given to the obligor of such amount shall accrue from the date such
+amount became overdue at an annual rate of 12% (or, if not permitted by
+applicable law, such lower rate as may be permitted), until paid, before as well
+as after judgment.
+
+                                      19
+<PAGE>
+
+                                 Article VIII
+                                Volume Payments
+                                ---------------
+
+          8.1  Target Volume.  For each Measurement Period, Danka shall, and
+shall cause its Affiliates to, use reasonable efforts to enter into sufficient
+Financings in order that the aggregate Volume with respect to such Measurement
+Period shall be at least equal to the target volume for such period as set forth
+in the following table (subject to Section 8.2(b) with respect to any
+Interrupted Measurement Period, the "Target Volume"):
+
+<TABLE>
+<CAPTION>
+                                                        Target Volume
+                 Measurement Period                     ($ millions)
+                 ------------------                     -------------
+            <S>                                         <C>
+            From 4/1/99 through 3/31/2000                  $220.0
+            From 4/1/00 through 3/31/2001                   245.0
+            From 4/1/01 through 3/31/2002                   276.0
+            From 4/1/02 through 3/31/2003                   289.0
+</TABLE>
+
+The sole remedy of GE Capital for any failure by Danka to use such efforts or
+meet the Target Volume in any Measurement Period shall be Danka's obligation to
+make Trigger Payments pursuant to Section 8.2 below (provided that the foregoing
+shall not limit any rights or remedies of GE Capital in respect of the breach by
+Danka of any other provision of this Agreement). Any failure by Danka to use
+such efforts or meet the Target Volume in any Measurement Period shall not be
+deemed to be or constitute a Danka Event of Default.
+
+          8.2  Trigger Payments.
+               ----------------
+
+          (a)  Within 15 days after the end of each Measurement Period (or 15
+days after the date that the last item of Backlog (as such term is defined in
+the U.S. Direct Operating Agreement) is Financed by GE Capital pursuant to the
+U.S. Direct Operating Agreement), GE Capital shall deliver to Danka a notice
+setting forth (i) the Actual Volume, Adjusted Target Volume, Approval Rate and,
+if applicable, the amount of any Carry Forward Volume Credit, in each case, for
+such Measurement Period and (ii) the calculations provided below setting forth
+either (A) the amount of any cash payment required to be made by Danka to GE
+Capital pursuant to this Section 8.2 with respect to such Measurement Period (a
+"Trigger Payment") or (B) the amount of any return of a Trigger Payment or
+portion thereof required to be paid by GE Capital to Danka pursuant to this
+Section 8.2 with respect to such Measurement Period (a "Trigger Payment
+Return"). All such information and calculations (and the information required to
+be provided to Danka pursuant to Section 8.2(d)) shall be certified by the
+Manager of Finance of GE Capital VFS's Center for Specialized Alliances (in his
+capacity as such) as being true and correct in all material respects, to the
+best of his knowledge, after due inquiry. Within 15 days after the end of each
+calendar quarter in a Measurement Period (other than a calendar quarter that is
+the end of such Measurement Period), GE Capital shall deliver to Danka its good
+faith estimate of the Volume funded by GE Capital or its Program Affiliates
+during such Measurement Period through the end of such calendar quarter, the
+Approval Rate, the aggregate amount proposed to be Financed by GE Capital or any
+Program Affiliate in connection with all of the Prospective Financings submitted
+by Danka or any of its Affiliates to GE Capital or any Program Affiliate in
+connection with the Qualifying Programs and the Funding Rate, in each case in
+
+                                      20
+<PAGE>
+
+respect of the period beginning on the first day of such Measurement Period and
+ending on the last day of such calendar quarter.
+
+          (b)  If this Agreement is terminated and such termination results in
+an Interrupted Measurement Period, then any Trigger Payment or Trigger Payment
+Return due in respect of such Interrupted Measurement Period shall be
+calculated, as applicable, in accordance with subsection (c) or (d) hereof
+without giving effect to the fact that such Measurement Period is an Interrupted
+Measurement Period; provided that the Target Volume for such Interrupted
+Measurement Period shall be calculated on a pro rated basis calculated based on
+the actual number of days (365 or 366) in the Measurement Period during which
+such termination occurs. By way of example, if the Target Volume was $250
+million for the Measurement Period during which the termination occurred, such
+Measurement Period consisted of 365 days and the Agreement was terminated on the
+100th day of such Measurement Period, the Target Volume for such Interrupted
+Measurement Period would be equal to (i) 100 multiplied by the quotient of $250
+million divided by 365 or (ii) $68,493,151.
+
+          (c)  Subject to the terms of subsection (d) hereof, if the amount of
+the Actual Volume plus any applicable Carry Forward Volume Credit for any
+Measurement Period (the "Aggregate Volume") is less than the Adjusted Target
+Volume for such Measurement Period (a "Volume Shortfall"), then the Trigger
+Payment due to GE Capital for such Measurement Period shall be an amount equal
+to the product of (i) the excess of the Adjusted Target Volume over the
+Aggregate Volume, in each case, calculated for such Measurement Period
+multiplied by (ii) 4.75%.
+
+          (d)  If in any Measurement Period, the Actual Volume for such
+Measurement Period exceeds the Adjusted Target Volume for such Measurement
+Period (an "Excess Volume Measurement Period") and if in the Measurement Period
+that occurred immediately prior to such Excess Volume Measurement Period (the
+"Look Back Measurement Period") there was a Volume Shortfall, then within 15
+days after the end of such Excess Volume Measurement Period, GE Capital shall
+deliver to Danka a notice setting forth the amount of any Carry Back Volume
+Credit applicable to such Look Back Measurement Period. In respect of any Look
+Back Measurement Period to which there is applicable a Carry Back Volume Credit,
+GE Capital shall pay to Danka a Trigger Payment Return in an amount equal to the
+lesser of (i) the Trigger Payment previously received by GE Capital from Danka
+in respect of such Look Back Measurement Period and (ii) the product of 4.75%
+multiplied by an amount equal to the Carry Back Volume Credit for such Look Back
+Measurement Period.
+
+          (e)  With respect to any Excess Volume Measurement Period, the excess
+of the Actual Volume for such Measurement Period over the Adjusted Target Volume
+for such Measurement Period can qualify as either a Carry Forward Volume Credit
+in respect of the next Measurement Period to occur after such Excess Volume
+Measurement Period or a Carry Back Volume Credit in respect of the Measurement
+Period that occurred immediately prior to such Excess Volume Measurement Period,
+but to the extent a portion of such excess is applied as Carry Back Volume
+Credit in the calculation of any Trigger Payment Return due in respect of the
+immediately prior Measurement Period, then only the unapplied amount of such
+excess can qualify, subject to the other terms of this Agreement, as a Carry
+Forward Volume Credit in respect of the next Measurement Period to occur after
+such Excess Volume Measurement Period.
+
+                                      21
+<PAGE>
+
+The excess of the Actual Volume in any Measurement Period over the Adjusted
+Target Volume for such Measurement Period shall first be applied as a Carry Back
+Volume Credit to any Volume Shortfall that occurred in the immediately preceding
+Measurement Period.
+
+          (f)  Danka or GE Capital (as the case may be) shall pay to the other
+the amount of any Trigger Payment or Trigger Payment Return no later than 30
+days after delivery by GE Capital of the related notice under Section 8.2.
+Notwithstanding anything to the contrary set forth in this Agreement, the
+aggregate amount of all Trigger Payment Returns paid or payable by GE Capital
+shall not exceed the aggregate amount of all Trigger Payments paid by Danka to
+GE Capital hereunder.
+
+          (g)  Any amounts funded by GE Capital or any Program Affiliate in
+respect of Backlog (as such term is defined in the U.S. Direct Operating
+Agreement) shall be included for purposes of determining any Trigger Payment,
+Trigger Payment Return and Termination Fee due pursuant to the terms of this
+Agreement.
+
+          8.3  Volume-To-Date.  Danka and GE Capital agree that the Actual
+Volume achieved by Danka since April l, 1999 and up to and including March 17,
+2000 is $202,279.000.
+
+                                  Article IX
+                                 Miscellaneous
+                                 -------------
+
+          9.1  Assignment of Rights.  Except as specifically provided in this
+Agreement or any of the Principal Documents, the rights and obligations of GE
+Capital and Danka under this Agreement may not be assigned without the prior
+written consent of the other party. Notwithstanding the foregoing (a) a merger
+by either party with another Person for the purpose of selecting an alternate
+jurisdiction of incorporation shall not be deemed an assignment by the merging
+party of its rights or obligations under this Agreement, (b) GE Capital may
+without the prior written consent of Danka assign any of its rights or
+obligations hereunder to one (1) or more of its Controlled Affiliates (without
+releasing GE Capital from any such assigned obligations), (c) GE Capital may
+assign its rights, but not its obligations, hereunder to any Person in
+connection with (i) any securitization or assignment of Leases or Exempt Leases
+or (ii) any other transfer or sale of any of Lease or Exempt Lease, (d) Danka
+may without the prior written consent of GE Capital assign only its rights to
+payment (but not any other right) hereunder to any of its Affiliates and (e) a
+Permitted Reorganization by Danka or any of its Affiliates that is a party to a
+Principal Document shall not be deemed an assignment by Danka or such Danka
+Affiliate of its rights or obligations under this Agreement. GE Capital agrees
+that it will not, without Danka's consent, assign or syndicate any Lease or
+Exempt Lease to any Person listed on Schedule 9.1 hereto.
+
+          9.2  Headings.  Any headings or captions preceding the several
+Sections or paragraphs hereof are intended solely for convenience of reference
+and shall not affect the meaning, construction or effect of any portion of this
+Agreement.
+
+          9.3  Entire Agreement.  This Agreement constitutes the entire
+agreement between the parties concerning the subject matter hereof. The terms
+may not be terminated or amended orally, but only in a writing duly executed by
+each of the parties. No modification or
+
+                                      22
+<PAGE>
+
+waiver of any provision of this Agreement shall be effective unless such
+modification is in writing and signed by duly authorized representatives of the
+parties hereto and any such modification or waiver shall then be effective only
+for the period, on the conditions, and for the specific instances and purposes
+stated in such writing.
+
+          9.4  No Waiver.  The failure of any party at any time to require
+performance of any provision hereof shall not affect the right to require full
+performance thereof at any time thereafter, and the waiver by either party of a
+breach of any provision shall not constitute a waiver of any subsequent breach
+thereof or nullify the effectiveness of such provision.
+
+          9.5  Non-Business Days.  Wherever this Agreement requires that some
+action be taken within a certain period and such period would require such
+action to be taken on a day that is not a Business Day, then such period will be
+extended to include the next day which is a Business Day.
+
+          9.6  Governing Law.  This Agreement shall be governed by and construed
+in accordance with the laws of the State of New York without regard to the
+conflicts of law principles and policies thereof. The parties hereby consent
+irrevocably to personal jurisdiction, solely in connection with any dispute
+arising out of this Agreement, of any state or federal court sitting in the
+State of New York. Neither party shall raise any jurisdictional or venue
+defense, assert the doctrine of forum non conveniens, or take any other action
+inconsistent with the preceding sentence. Service of process may be effected by
+notice sent in accordance with the provisions of this Agreement.
+
+          9.7  WAIVER OF JURY TRIAL.  THE PARTIES HERETO WAIVE, TO THE EXTENT
+PERMITTED BY LAW, ALL RIGHT TO TRIAL BY JURY IN ANY ACTION OR PROCEEDING TO
+ENFORCE OR DEFEND ANY RIGHTS HEREUNDER.
+
+          9.8  Notices.  Unless otherwise expressly set forth herein, any
+notices, requests, demands or other communications required or permitted under
+this Agreement shall be in writing and shall be deemed to have been given if:
+(a) delivered personally, (b) delivered by any internationally recognized
+courier service (in the case of a notice to be sent to an address outside of the
+United States) or by any nationally recognized overnight courier service (in the
+case of a notice to be sent to an address in the United States), (c) sent by
+certified mail, return receipt requested or (d) sent by telecopy with
+confirmation of transmission, as follows:
+
+          GE Capital:  General Electric Capital Corporation
+                       Vendor Financial Services
+                       10 Riverview Drive
+                       Danbury, Connecticut 06810
+                       Attention: Chief Financial Officer
+                       Facsimile: (203) 749-4589
+
+                                      23
+<PAGE>
+
+          with a copy to:  General Electric Capital Corporation
+                           Vendor Financial Services
+                           10 Riverview Drive
+                           Danbury, Connecticut 06810
+                           Attention: General Counsel
+                           Facsimile: (203) 749-4589
+
+                           and
+
+                           Weil, Gotshal & Manges LLP
+                           767 Fifth Avenue
+                           New York, New York 10153
+                           Attention: Jane McDonald
+                           Facsimile: (212) 310-8007
+
+          Danka:           Danka Business Systems PLC
+                           American Headquarters
+                           11201 Danka Circle North
+                           St. Petersburg, Florida 33716
+                           Attention: Chief Operating Officer
+                           Facsimile: (727) 568-4269
+
+          with a copy to:  Danka Business Systems PLC
+                           American Headquarters
+                           11201 Danka Circle North
+                           St. Petersburg, Florida 33716
+                           Attention: General Counsel
+                           Facsimile: (727) 568-4269
+
+or to such other address as any party shall have specified by notice in writing
+to the other parties. All such notices, requests, demands and communications
+shall be deemed to have been duly given or served (i) on the date of personal
+delivery, with receipt acknowledged, (ii) on the second Business Day following
+delivery to an internationally recognized courier service, (iii) on the next
+Business Day following delivery to a nationally recognized courier service, (iv)
+on the third Business Day after deposit with the U.S. Postal Service, proper
+postage paid, if sent by certified mail or (v) on the date when telecopied, with
+confirmation of transmission.
+
+          9.9  Severability.  If any provision of this Agreement is held by any
+Government Entity of competent jurisdiction to be illegal, void or
+unenforceable, such provision will be of no force and effect, but the illegality
+or unenforceability of such provision will have no effect upon and shall not
+impair the enforceability of any other provision of this Agreement.
+
+          9.10  Reciprocal Obligations.  GE Capital and Danka acknowledge that
+this Agreement and the other Principal Documents create reciprocal money debts,
+which are certain as to their existence and amount and which are payable and due
+from time to time. Accordingly, each of Danka and GE Capital shall have the
+right to set off any such amounts it owes to the other party or to any Affiliate
+of the other party under this Agreement against any such amounts
+
+                                      24
+<PAGE>
+
+that the other party or any Affiliate of the other party owes to it under this
+Agreement or any of the other Principal Documents. Any party exercising the
+foregoing right of set-off shall provide prompt written notice, to the party
+whose amounts (or whose Affiliate's amounts) are subject to such set-off, that
+such set-off is being effected and the basis therefor.
+
+          9.11  Counterparts. This Agreement may be executed in one or more
+counterparts, each of which is an original but all of which together will
+constitute one and the same instrument.
+
+          9.12  Binding Agreement.  This Agreement and any amendments hereto
+will be binding on and inure to the benefit of the parties hereto and their
+respective permitted successors and assigns.
+
+          9.13  No Partnership.  Nothing contained herein shall be construed to
+constitute the creation of a partnership entity for legal purposes, nor to
+characterize Danka and GE Capital or any of their respective Affiliates as joint
+venturers or as the agent of the other party. Danka and GE Capital and each of
+their respective Affiliates will at all times remain independent contractors
+with respect to this Agreement, the Principal Documents, the Programs and
+otherwise.
+
+          9.14  Expenses.  Each of the parties hereto shall be responsible for
+its own costs and expenses incurred in connection with the negotiation and
+performance of its obligations under this Agreement, except as specifically set
+forth herein.
+
+          9.15  Limitation on Damages.  No party shall be liable for any
+punitive, incidental or consequential damages of any nature whatsoever or for
+lost profits, for any reason whatsoever, in connection with this Agreement
+(including, without limitation, in connection with any claim for Damages or
+pursuant to Article IV or Article VII); provided that (i) the non-payment by any
+Customer under any Lease(s) or Exempt Lease(s) of any amounts under such
+Lease(s) or Exempt Lease(s) shall in no event constitute punitive, incidental or
+consequential damages or lost profits hereunder and (ii) any punitive,
+incidental or consequential damages (or damages in the nature of lost profits)
+required, as a result of a breach by a party hereto of this Agreement, to be
+paid by the other party to this Agreement to any Person (other than to a party
+to this Agreement or any of its Affiliates) pursuant to a final judgment or
+order arising out of an action or proceeding by such Person shall be deemed to
+be direct damages to the party required to pay such punitive, incidental or
+consequential damages.
+
+          9.16  Interpretation of Terms.  For the avoidance of doubt, the
+parties agree that merely the sale by Danka or any of its Affiliates that is a
+party to any Principal Document of one or more of its divisions shall not, in
+and of itself, constitute a dissolution or liquidation of Danka or such
+Affiliate unless such division(s), individually or in the aggregate, constitute
+all or substantially all the assets of, as applicable, Danka or such Affiliate.
+
+                                      25
+<PAGE>
+
+          IN WITNESS WHEREOF, the parties have caused this Agreement to be
+executed by their respective duly authorized representatives on the date first
+written above.
+
+GENERAL ELECTRIC CAPITAL           DANKA BUSINESS SYSTEMS PLC
+CORPORATION
+
+
+By: /s/ Gregg Press                By: /s/ Brian L. Merriman
+   ---------------------------        -----------------------------
+   Name: Gregg Press                      Name:  Brian L. Merriman
+   Title: Its Duly Authorized             Title: Chief Operating Officer
+          Representative
+<PAGE>
+
+                                  APPENDIX I
+                                  DEFINITIONS
+                                  -----------
+
+          "Actual Volume" for any Measurement Period that is not an Interrupted
+Measurement Period means the Volume with respect to such Measurement Period, to
+be measured commencing on the first day of such period and ending on the last
+day of such period and for any Measurement Period that is an Interrupted
+Measurement Period, means the Volume with respect to such Interrupted
+Measurement Period, to be measured commencing on the first day of such period
+and ending on the day this Agreement is terminated.
+
+          "Adjusted Target Volume" for a Measurement Period (including any
+Interrupted Measurement Period) means:
+
+               (i)  if the Approval Rate for such Measurement Period is .82 or
+          greater, an amount equal to the Target Volume for such Measurement
+          Period; or
+
+               (ii) if the Approval Rate for such Measurement Period is less
+          than .82:
+
+          (a) if the Prospective Financings submitted to GE Capital or any
+Program Affiliate by Danka or any of its Affiliates in connection with the
+Qualifying Programs during such Measurement Period constitute a Conforming
+Application Pool, an amount (which shall not be less than zero) equal to the
+Target Volume for such Measurement Period minus the product of (i) aggregate
+amount proposed to be financed by GE Capital or a Program Affiliate in
+connection with all of the Prospective Financings submitted by Danka or any of
+its Affiliates to GE Capital or any Program Affiliate in connection with the
+Qualifying Programs during such Measurement Period multiplied by (ii) the result
+of .82 minus the Approval Rate for such Measurement Period multiplied by (iii)
+the Funding Rate for such Measurement Period; or
+
+          (b) if the Prospective Financings submitted to GE Capital or any
+Program Affiliate by Danka or any of its Affiliates in connection with the
+Qualifying Programs during such Measurement Period do not constitute a
+Conforming Application Pool, an amount equal to the Target Volume for such
+Measurement Period.
+
+Solely by way of illustration of the calculation of the Adjusted Target Volume
+as described in clause (ii)(a) and not by way of limitation, Schedule Y attached
+hereto sets forth an example of such calculation for a hypothetical Measurement
+Period using the assumed facts set forth thereon.  Danka and GE Capital agree
+that such illustration is based solely on the assumed facts set forth thereon
+and, in the event of any conflict between the terms of this definition and
+Schedule Y, the terms of this definition shall be controlling.
+
+          "Affiliate" means, with respect to any Person, any other Person that
+directly or indirectly through one or more intermediaries Controls, or is
+Controlled by, or is under common Control with, such Person.
+
+          "Affiliate Agreements" has the meaning specified in Section 5.1
+hereof.
+
+          "Aggregate Volume" has the meaning specified in Section 8.2(c) hereof.
+
+                                      I-1
+<PAGE>
+
+          "Agreement" means this Amended and Restated Global Operating Agreement
+and all exhibits, annexes, schedules and appendices hereto, as any of the
+foregoing may be amended, modified and supplemented from time to time.
+
+          "Approval Amount" of a Prospective Financing means an amount equal to
+the aggregate gross amount approved or conditionally approved by GE Capital or a
+Program Affiliate to be paid to Danka or one of its Affiliates in connection
+with such Prospective Financing in the event such Prospective Financing becomes
+a Lease or an Exempt Lease under a Qualifying Program (as reflected on GE
+Capital's books and records, absent manifest error).
+
+          "Approval Rate" for any Measurement Period (including any Interrupted
+Measurement Period) means an amount equal to the quotient of (i) the number of
+Leases and Exempt Leases approved or conditionally approved by GE Capital or any
+Program Affiliate in connection with the Qualifying Programs during such
+Measurement Period divided by (ii) the number of Prospective Financings
+submitted by Danka or any of its Affiliates to GE Capital or any Program
+Affiliate in connection with the Qualifying Programs during such Measurement
+Period, in each case, as reflected on GE Capital's books and records, absent
+manifest error.
+
+          "Bankruptcy Event" means, with respect to any Person, (i) the
+commencement by such Person of a voluntary case under, or the consent by such
+Person to the entry of an order for relief in an involuntary case under, any
+federal, state or foreign bankruptcy, insolvency, fraudulent conveyance,
+reorganization, moratorium or other similar law now or hereafter in effect, or
+(ii) the consent by such Person to the appointment of, or taking possession by,
+a receiver, custodian, liquidator, assignee, trustee or sequestrator (or other
+similar official) of such Person or of any substantial part of its Property, or
+(iii) the making of a general assignment by such Person to pay its debts for the
+benefit of its creditors, or (iv) the admission in writing of such Person of its
+inability to pay its debts as they become due in the ordinary course of
+business, or (v) the adoption of a resolution by such Person's directors or
+shareholders in furtherance of any of the foregoing, or (vi) the entry by a
+court of competent jurisdiction of an order for relief in respect of such Person
+in an involuntary case under any bankruptcy, insolvency, fraudulent conveyance,
+reorganization, moratorium or other similar law now or hereafter in effect, or
+the appointment of a receiver, custodian, liquidator, assignee, trustee or
+sequestrator (or other similar official) of such Person or of any substantial
+part of its Property, or the ordering of the winding up or liquidation of its
+affairs, and the continuance of such decree or order unstayed and in effect for
+a period of sixty (60) days.
+
+          "Business Day" means any day other than a Saturday, Sunday or other
+day on which banks are authorized or required to close in New York City.
+
+          "Business Relationship Manager" means the individual appointed by GE
+Capital to serve in such position pursuant to Article II hereof.
+
+          "Carry Back Volume Credit" means, with respect to any particular
+Measurement Period (including any Interrupted Measurement Period), if
+applicable, an amount equal to the lesser of (i) the excess of the Actual Volume
+for the Measurement Period that occurred immediately after such particular
+Measurement Period over the Adjusted Target Volume for the
+
+                                      I-2
+<PAGE>
+
+particular Measurement Period that occurred immediately after such particular
+Measurement Period or (ii) 20% of the Adjusted Target Volume for such particular
+Measurement Period.
+
+          "Carry Forward Volume Credit" for any particular Measurement Period
+(including any Interrupted Measurement Period) means, if applicable, an amount
+equal to the lesser of (i) the excess of the Actual Volume for the Measurement
+Period that occurred immediately prior to such particular Measurement Period
+over the Adjusted Target Volume for the Measurement Period that occurred
+immediately prior to such particular Measurement Period or (ii) 20% of the
+Adjusted Target Volume for such particular Measurement Period.
+
+          "Change Event" has the meaning specified in Section 6.5 hereof.
+
+          "Change in Control" of Danka means that (i) a Person or group of
+Persons acting in concert as a partnership or other group (a "Group of Persons")
+other than the Cypress Group or the Prudential Group shall, as a result of a
+tender or exchange offer, open market purchases, privately negotiated purchases,
+merger, amalgamation or recapitalization or otherwise, have become the
+"beneficial owner" (within the meaning of Rule 13d-3 under the United States
+Securities Exchange Act of 1934, as amended) of securities of Danka representing
+more than fifty percent (50%) of the combined voting power of the then
+outstanding securities of Danka ordinarily having the right to vote in the
+election of directors thereof or (ii) during any period of two consecutive
+calendar years, individuals who at the beginning of such period constituted
+Danka's Board of Directors (together with any new directors whose election by
+Danka's Board of Directors or whose nomination for election by Danka's
+stockholders was approved by a vote of at least two-thirds of the directors then
+still in office who either were directors at the beginning of such period or
+whose election or nomination for election was previously so approved) cease for
+any reason to constitute a majority of the directors then in office or (iii) any
+Person or Group of Persons shall have entered into an agreement with Danka with
+respect to an acquisition of a substantial part of the direct or indirect assets
+of Danka.
+
+          "Change in Control" of GE Capital means (i) General Electric Company
+ceasing to be the "beneficial owner" (as determined for purposes of Regulation
+13D-G under the Exchange Act as currently in effect), directly or indirectly, of
+securities of GE Capital representing more than fifty percent (50%) of the
+combined voting power of GE Capital's then outstanding securities (other than as
+a result of the public sale or distribution of securities of GE Capital or
+securities of any beneficial owner of the securities of GE Capital, whether
+pursuant to a public offering, a "spin-off" transaction or otherwise) or (ii)
+the stockholders of GE Capital approving a plan of complete liquidation of GE
+Capital or an agreement for the sale or disposition by GE Capital of all or
+substantially all of GE Capital's assets (other than any such liquidation into,
+or sale or disposition to, General Electric Company or any Affiliate thereof).
+
+          "Complete Cessation of Distribution of Office Imaging Solutions" means
+(i) Danka (directly or indirectly through its Subsidiaries) shall cease, in the
+ordinary course of its business, to sell, lease or distribute, in the United
+States, photocopiers, office imaging equipment, reprographic services, facsimile
+machines, printers, controllers, multifunctional and multitasking office
+machines (which serve as facsimile machines, copiers, printers, controllers,
+modems and scanners) and other equipment and services of the same general type
+as those that are the subject of the Leases or Exempt Leases and (ii) Danka and
+GE Capital, after negotiating
+
+                                      I-3
+<PAGE>
+
+in good faith for forty five (45) days, are unable to agree upon mutually
+acceptable changes to the Principal Documents or the terms of the Programs in
+order to address the effect of the events described in clause (i) hereof on, as
+applicable, Danka's (or its Subsidiaries) ability to perform their respective
+obligations under this Agreement, the U.S. Programs and the Principal Documents
+applicable thereto.
+
+          "Complete Cessation of Service" means that Danka (directly or
+indirectly through its Subsidiaries) shall cease, refuse or be unable generally
+to provide in the ordinary course of its business in the United States, contract
+maintenance, warranty repair or time and materials service and such cessation,
+refusal or inability shall continue unremedied for a period of 20 Business Days
+after the date on which written notice of such refusal or inability, requiring
+the same to be remedied, shall have been given to Danka by GE Capital or any
+Program Affiliate.
+
+          "Conforming Application Pool" means, with respect to the Prospective
+Financings submitted to GE Capital or any Program Affiliate during a Measurement
+Period in connection with any Qualifying Program, that (taken as a whole): (i)
+the average term of such Prospective Financings (calculated on the basis of
+their initial term without giving effect to any renewal or extension periods)
+does not exceed 52 months; (ii) the average amount proposed to be financed by GE
+Capital or any Program Affiliate in connection with such Prospective Financings
+is not less than $25,000 or greater than $40,000; (iii) at least 95% of the
+Equipment proposed to be subject to such Prospective Financings is office
+imaging equipment of the same general type as the Equipment that is subject to
+the Leases Financed by GE Capital or any Program Affiliate prior to such
+Measurement Period; and (iv) the Customers under such Prospective Financings had
+a risk profile that was consistent with the risk profile of the Customers under
+the Prospective Financings submitted to GE Capital or any Program Affiliate in
+the twelve (12) month period prior to such Measurement Period.
+
+          "Consolidated Net Worth" means, as at any date of determination, all
+amounts which would be included under shareholders' equity on a balance sheet of
+Danka and its consolidated subsidiaries determined as at such date in accordance
+with GAAP, it being agreed that for purposes of determining Consolidated Net
+Worth, any equity interests sold by Danka pursuant to the terms of the
+Subscription Agreement dated as of November 2, 1999, between Danka and Cypress
+Merchant Banking Partners II L.P., et al., and any other similar equity
+interests issued by Danka from time to time shall be deemed to constitute
+shareholders' equity and shall not be deemed to constitute indebtedness
+(notwithstanding any other treatment of such equity interests that may be
+required under GAAP); provided, however, that such shareholders' equity shall be
+determined (i) without giving effect to the impact of the waiver extension fee
+provided for in the first sentence of Section 9 of the Sixth Amendment and
+Section 4(b) of the Seventh Amendment to the Credit Agreement dated as of
+December 5, 1996 among Danka, NationsBank, N.A., as agent, et al., governing the
+primary bank financing facility provided to Danka and (ii) without giving effect
+to amounts included under any line item on such balance sheet titled "currency
+translation adjustment" (or any substantially similar concept) if such amounts
+equal a negative number except to the extent such negative amounts exceed $50
+million, then any such negative amounts in excess of $50 million shall be
+included in calculating such shareholders' equity.
+
+                                      I-4
+<PAGE>
+
+     "Control" means, with respect to any Person, the indirect or direct
+possession of the power to direct or cause the direction of the management and
+policies of such Person, whether through the ownership of voting securities, by
+contract or otherwise; provided, however, that (without limiting the generality
+of the foregoing) any Person directly or indirectly owning at least fifty
+percent (50%) of the equity interests or fifty percent (50%) of any class of
+voting securities of any other Person shall be deemed to Control such other
+Person. "Controlled" shall have a correlative meaning.
+
+     "Customer" means a customer of Danka or its Affiliates who desires to
+acquire Equipment from Danka or such Affiliate and any guarantor of the
+obligations of such customer.
+
+     "Cypress Group" means any of Cypress Merchant Banking Partners II L.P.,
+Cypress Merchant Banking II C.V., 55th Street Partners II L.P. or any other
+Person that is an Affiliate of any of them as of the date of this Agreement.
+
+     "Damages" means any and all losses (including liquidated damages), claims,
+damages, liabilities, obligations, judgments, equitable relief granted,
+settlements, awards (including back pay awards), demands, offsets, defenses,
+counterclaims, actions or proceedings, reasonable out-of-pocket costs, expenses
+and outside attorneys' fees (including any such reasonable costs, expenses and
+outside attorneys' fees incurred in enforcing any right of indemnification
+against any indemnitor or with respect to any appeal), interest and penalties,
+if any.
+
+     "Danka" has the meaning specified in the first paragraph of this Agreement.
+
+     "Danka Designees" has the meaning specified in subsection 1.2(a) hereof.
+
+     "Danka Event of Default" means the occurrence and continuance of any of the
+following:
+
+          (i)  the dissolution or liquidation of Danka or any of its Affiliates
+     (other than a Permitted Reorganization with respect to such Person) that is
+     a party to any Principal Document relating to a U.S. Program or the French
+     Program; or
+
+          (ii)  a Bankruptcy Event with respect to Danka or any of its
+     Affiliates that is a party to any Principal Document relating to a U.S.
+     Program or the French Program; or
+
+          (iii)  a material breach by Danka or any of its Affiliates of any of
+     its representations, warranties, covenants or obligations under this
+     Agreement (other than the occurrence of a Bankruptcy Event) which breach,
+     if curable, is not cured within thirty (30) days' written notice thereof
+     from GE Capital, specifying the nature of such breach in reasonable detail;
+     or
+
+          (iv)  an Event of Default (as to Danka or any Danka Affiliate that is
+     a party to any Principal Document) or Danka Event of Default (as defined in
+     any of the other Principal Documents) under any other Principal Document
+     (other than the occurrence of a Bankruptcy Event); or
+
+                                      I-5
+
+<PAGE>
+
+          (v)  a Third Party Enforcement Event.
+
+     "Danka Termination Event" means the occurrence of any of the following:
+
+          (vi)  an Indebtedness Default that shall have continued for 180
+     consecutive days or longer; or
+
+          (vii)  a Net Worth Test Failure that shall have continued for 180
+     consecutive days or longer; or
+
+          (viii)  a Qualifying Change in Control of Danka; or
+
+          (ix)  a Complete Cessation of Distribution of Office Imaging
+     Solutions; or
+
+          (x)  a Complete Cessation of Service.
+
+     "Equipment" means any copier, facsimile and other office equipment sold,
+leased or distributed by Danka or any of its Affiliates, including, without
+limitation, the right to use and transfer by license, sublicense or otherwise,
+any software included with such Property, as well as any and all substitute,
+successor or alternative technologies therefor.
+
+     "Excess Volume Measurement Period" has the meaning specified in Section
+8.2(d) hereof.
+
+     "Executive Committee" has the meaning specified in subsection 1.2(a)
+hereof.
+
+     "Exempt Lease" means any Prospective Financing that, during the Term of
+this Agreement, is purchased or financed by GE Capital VFS other than through a
+Program.
+
+     "Financed," "Finance" and "Financing" mean any purchase or financing of any
+Lease, Exempt Lease or Equipment by GE Capital VFS (or any Program Affiliate).
+
+     "Fiscal Year Start Date" has the meaning specified in subsection 1.1(c)
+hereof.
+
+     "French Program" means the Program relating to the conduct of business in
+France by Danka France SA and GE Capital Equipment Finance SAS, the principal
+terms of which are set forth in the documents described in Section C of Part 1
+of Schedule 1.1.
+
+     "Funding Rate" means, for any Measurement Period (including any Interrupted
+Measurement Period), an amount equal to the quotient of (i) the aggregate
+Approval Amount of all of the Prospective Financings submitted by Danka or any
+of its Affiliates to GE Capital or any Program Affiliate in connection with the
+Qualifying Programs during such Measurement Period divided by (ii) the aggregate
+actual amount funded to Danka or any of its Affiliates by GE Capital or any
+Program Affiliates in respect of Leases and Exempt Leases in connection with the
+Qualifying Programs during such Measurement Period.
+
+                                      I-6
+
+<PAGE>
+
+     "GAAP" means United States generally accepted accounting principles,
+applied on a consistent basis throughout the relevant period.
+
+     "GE Capital" has the meaning specified in the first paragraph of this
+Agreement.
+
+     "GE Capital Designees" has the meaning specified in subsection 1.3(a)
+hereof.
+
+     "GE Capital Event of Default" means the occurrence and continuance of
+
+          (i)  any failure by GE Capital or any of its Controlled Affiliates to
+     pay to Danka or any of its Affiliates any material amounts (or to pay to
+     the Trust (as defined in the Trust Agreement) any material amounts which
+     are for the account of Danka or any of its Affiliates) required to be paid
+     by it pursuant to the Principal Documents which failure (A) continues
+     unremedied for a period of thirty (30) days after the date on which notice
+     of such default, requiring the same to be remedied, shall have been given
+     to GE Capital by Danka and (B) is not the result of GE Capital's or its
+     Controlled Affiliates' good faith belief that such payment has already been
+     made or is not required to be made; or
+
+          (ii) except as provided in clause (i) of this definition, a material
+     breach by GE Capital or any of its Controlled Affiliates of any of their
+     respective representations, warranties, covenants or obligations under this
+     Agreement or the U.S. Direct Operating Agreement which breach, if curable,
+     is not cured within thirty (30) days' written notice thereof from Danka,
+     specifying the nature of such breach in reasonable detail.
+
+     "GE Capital Termination Event" means the occurrence of any of the
+following: (i) a Qualifying Change in Control of GE Capital; or (ii) Danka shall
+be entitled to exercise, and shall have exercised, its rights under either
+Section 7.3 of this Agreement; or (iii) GE Capital shall cease to provide
+financing for office imaging equipment of the same general type as that which is
+the subject of the Leases and the Exempt Leases.
+
+     "GE Capital VFS" means the Vendor Financial Services unit of GE Capital.
+
+     "Global Operating Agreement" has the meaning specified in the Recitals
+hereof.
+
+     "Government Entity" means a federal, national, supranational, state,
+provincial, local, county, municipal or other governmental or regulatory
+authority, administrative agency, department, commission, board, bureau, court
+or other authority or instrumentality, domestic or foreign, or any political
+subdivision thereof.
+
+      "Impairment" means, with respect to Danka, that there shall have been a
+Change in Control of Danka and
+
+          (i)  if either Moody's Investor Services, Inc. or its successor
+     ("Moody's") or Standard and Poor's or its successor ("S&P") rates (both
+     prior to and after the Change in Control) any public debt of Danka (or its
+     successor in interest by merger, amalgamation or otherwise) and gives such
+     debt a rating,
+
+                                      I-7
+
+<PAGE>
+
+     immediately after the Change in Control, that is less favorable than the
+     rating it gave such debt immediately prior to such Change in Control, or
+
+          (ii) if neither Danka nor any successor in interest to Danka (whether
+     by merger, amalgamation or otherwise) shall have public debt that is rated
+     by either Moody's or S&P immediately after such Change in Control, that GE
+     Capital shall have determined, in the exercise of its reasonable judgement,
+     that the overall creditworthiness of Danka or such successor in interest
+     after the Change in Control is less than the overall creditworthiness of
+     Danka immediately prior to such Change in Control.
+
+     "Incentive Management Payment Provisions" means (i) subsection 4.02(b)(x)
+of the Trust Agreement entered into in connection with the United States
+Program-Trust Structure and (ii) those provisions of the Principal Documents
+relating to each other Program that GE Capital and Danka hereafter agree are to
+be deemed to be Incentive Management Payment Provisions, such Incentive
+Management Payment Provisions to be set forth from time to time on Part 3 of
+Schedule 1.1 hereof.
+
+     "Indebtedness Default" shall mean any failure of Danka or any of its
+Affiliates to perform or observe any condition or covenant made by it under, or
+that any event shall have occurred or condition shall exist, under any agreement
+or instrument that governs or otherwise relates to any credit facility or
+similar arrangement (whether syndicated or held by a single lender)
+contemplating loans, advances or other extensions of credit in an aggregate
+maximum amount equal to or greater than $500 million, if the effect of such
+failure, event or condition is to cause, or to permit the holder or holders of
+the loans, advances or other extensions of credit thereunder or beneficiary or
+beneficiaries of the loans, advances or other extensions of credit thereunder
+(or a trustee or agent on behalf of such holder or holders or beneficiary or
+beneficiaries) to cause the loans, advances or other extensions of credit
+thereunder to be declared to be due and payable prior to their stated maturity
+and such failure, event or condition continues without cure for (i) the
+applicable cure period (if any) set forth in such agreement or instrument or
+(ii) if no applicable period shall be set forth in such agreement or instrument,
+a period of 30 days after GE Capital delivers to Danka written notice of such
+failure, event or condition); provided, however, that in the event that (a) such
+agreement or instrument is amended so as to eliminate the condition, covenant or
+event that gave rise to such right of acceleration or (b) the holder or holders
+or beneficiary or beneficiaries of the loans, advances or other extensions of
+credit thereunder agree to forbear from exercising, or waive their right to
+exercise, such right of acceleration, then so long as such amendment,
+forbearance or waiver is effective, any failure, event or condition that is the
+subject of such amendment, forbearance or waiver shall not constitute an
+Indebtedness Default.
+
+     "Interrupted Measurement Period" means any Measurement Period during which
+this Agreement is terminated, unless such termination is effective as of the
+last day of a Measurement Period.
+
+     "Lease" means any contract (including any schedule thereto and any
+amendment, assignment, assumption, renewal or novation thereof and any ancillary
+agreements thereto) relating to Equipment which is in the form of (i) a lease,
+rental agreement, hire purchase
+
+                                      I-8
+
+<PAGE>
+
+agreement or similar agreement, or (ii) a sale contract (including an
+installment sale contract or conditional sale agreement) arising out of the sale
+of Equipment or any secured or unsecured financing of Equipment or (iii) a
+secured or unsecured loan relating to the financing of the sale of Equipment, in
+each case with respect to which GE Capital or any Program Affiliate, or Danka or
+any of its Affiliates, is the lessor, seller, lender, secured party or obligee
+(whether initially or as an assignee) and with respect to which a Financing is
+provided under a Program.
+
+     "Look Back Measurement Period" has the meaning specified in Section 8.2(d)
+hereof.
+
+     "Material Change" means the occurrence of any of the following: (i) a Net
+Worth Test Failure; or (ii) an Indebtedness Default; or (iii) the dissolution or
+liquidation of Danka or any of its Affiliates (other than a Permitted
+Reorganization with respect to such Person) that is a party to any Principal
+Document relating to a U.S. Program or the French Program; or (iv) a Qualifying
+Change in Control of Danka; or (v) a Danka Event of Default; or (vi) a Danka
+Termination Event.
+
+     "Measurement Period" means a twelve-month period from April 1, 1999 through
+March 31, 2000; from April 1, 2000 through March 31, 2001; from April 1, 2001
+through March 31, 2002; or from April 1, 2002 through March 31, 2003.
+
+     "Modified Net Worth Test" has the meaning specified in Section 6.3 hereof.
+
+     "Net Worth Test" means the determination of whether Danka shall have (i)
+Consolidated Net Worth at the times and in the amounts equal to, or greater
+than, those set forth on Schedule X attached hereto or (ii) the net worth (or
+similar concept) at the times and in the amounts equal to, or greater than,
+those that constitute the Modified Net Worth Test.
+
+     "Net Worth Test Failure" shall mean the failure of Danka to maintain a
+Consolidated Net Worth (or similar concept) at the times and in the amounts
+equal to, or greater than, those contained in the Net Worth Test.
+
+     "Obligations" has the meaning specified in Section 5.1 hereof.
+
+     "Permitted Reorganization" means (i) with respect to any Danka Affiliate
+that is a party to any Principal Document that is applicable to a U.S. Program
+or the French Program, that such Danka Affiliate liquidates (and substantially
+all of its assets and liabilities are assigned or otherwise transferred to),
+merges or dissolves into, another Danka Affiliate and such transferee or
+surviving Person expressly assumes and agrees in writing with GE Capital that it
+shall be obligated in respect of and shall perform all of the liabilities and
+obligations of the dissolving or liquidating Danka Affiliate to GE Capital or
+any Program Affiliate and (ii) with respect to Danka, that Danka liquidates (and
+substantially all of its assets and liabilities are assigned or otherwise
+transferred to), merges or dissolves into a Person and (a) such Person expressly
+assumes and agrees in writing with GE Capital that it shall be obligated in
+respect of and shall perform all of Danka's liabilities and obligations to GE
+Capital or any Program Affiliate and (b) after giving effect to the liquidation,
+merger or dissolution of Danka, the transferee or surviving Person's
+Consolidated Net Worth (or similar applicable concept) is equal to or greater
+than the
+
+                                      I-9
+
+<PAGE>
+
+amount required by the Net Worth Test as of the effective date of such
+liquidation, merger or dissolution.
+
+          "Person" means any legal person, including any individual,
+partnership, joint venture, corporation, limited liability company, business
+trust, limited liability partnership, association, joint-stock company, trust
+(or beneficiary thereof), unincorporated organization, Government Entity or any
+other entity.
+
+          "Principal Documents" means, collectively, this Agreement and those
+agreements and documents listed on Schedule 1.1 hereof governing or relating to
+a Program, together with all agreements, documents, certificates or instruments
+delivered or to be delivered pursuant to any of the foregoing.
+
+          "Program Affiliate" means any Person (i) that is an Affiliate of GE
+Capital (or is a trust in which GE Capital or its Affiliate is a beneficiary),
+(ii) either (a) purchases or otherwise acquires any Leases or Equipment in
+connection with a Program or (b) services Leases financed through a Program and
+(iii) is identified as a Program Affiliate on Part 2 of Schedule 1.1 hereof, as
+the same may be amended, modified or supplemented from time to time.
+
+          "Programs" means, collectively, (i) the United States Program - Trust
+Structure, (ii) the United States Program - Direct Structure, (iii) the French
+Program and (iv) each other program to support sales of Equipment by Danka or
+its Affiliates that may hereafter be entered into by GE Capital and/or any of
+its Affiliates, on the one hand, and Danka and/or any of its Affiliates, on the
+other hand, that Danka and GE Capital agree, in a writing specifically referring
+to this Agreement, shall be deemed to be a "Program" under this Agreement.
+
+          "Prohibition Event" means, with respect to a U.S. Program, that there
+has been a change since the last date such U.S. Program was the primary U.S.
+Program pursuant to which GE Capital (directly or indirectly) Financed Equipment
+in any law, rule or regulation promulgated by any Government Entity (including,
+without limitation, any tax law, rule or regulation) that is applicable to such
+U.S. Program, GE Capital or any Program Affiliate and that GE Capital, in its
+commercially reasonable discretion, believes such change could prohibit or
+otherwise render illegal the operation of such U.S. Program in accordance with
+its terms.
+
+          "Property" means all property and assets of whatsoever nature,
+including, without limitation, personal property, whether tangible or
+intangible, and claims, rights and choses in action.
+
+          "Prospective Financing" means any opportunity to purchase or finance
+Equipment for a Customer in the form of (i) a lease or rental agreement or (ii)
+a secured or unsecured loan relating to the sale of Equipment other than, in the
+case of clauses (i) and (ii) above, Equipment to be acquired for personal,
+family, household or agricultural use or for resale and shall include, in all
+cases, any schedules or amendments to such leases, rental agreements or loans,
+any assignments, assumptions, renewals or novations thereof and any ancillary
+agreements relating thereto; provided, however, that the term "Prospective
+Financing" shall not include (a) any sale contract arising out of the sale of
+Equipment where the Equipment is purchased by the Customer for a cash purchase
+price payable in full either on the date the related Equipment is delivered or
+
+                                     I-10
+<PAGE>
+
+within ninety (90) days thereafter, (b) a lease or rental agreement with a
+Customer that is for a term of less than one year (or is a "month to month"
+agreement with no fixed term) and is cancelable by the Customer for any reason
+(and without penalty) on not more than thirty (30) days' prior notice, (c) a
+rental agreement having an initial term of not more than thirty-six (36) months
+that is cancelable by the Customer for any reason for a penalty not in excess of
+three (3) months rental payment or (d) a sale contract or secured or unsecured
+loan arising out of the sale of Equipment in connection with a "floor planning"
+financing program with a Customer that is a dealer of such Equipment and that
+will hold such Equipment for sale or lease in the ordinary course of its
+business.
+
+          "Prudential Group" means The Prudential Assurance Company Limited or
+any other Person that is an Affiliate of it as of the date of this Agreement.
+
+          "Qualifying Acquisition" has the meaning specified in Section 7.3
+hereof.
+
+          "Qualifying Change in Control" has the meaning specified in Section
+6.4 hereof.
+
+          "Qualifying Programs" mean the U.S. Programs and the Operating
+Agreement dated May 28, 1997 between Toshiba America Information Systems, Inc.
+and GE Capital.
+
+          "Reduction Value" has the meaning set forth in the Servicing Agreement
+relating to the United States Program - Trust Structure referred to in Section A
+of Part 1 on Schedule 1.1.
+
+          "Senior Financing Facility" means (i) the credit arrangement
+evidenced, in part, by that certain Credit Agreement entered into as of December
+5, 1996 among Danka, Bank of America, National Association and the other parties
+thereto (as such Credit Agreement may have been supplemented, amended or
+modified from time to time prior to the date hereof) and (ii) each other credit
+facility or similar arrangement entered into by Danka or Danka Office Imaging
+Company in connection with the restatement, refinancing, replacement, renewal or
+extension of the arrangement described in clause (i) hereof, whether in whole or
+in part and whether initially or in connection with any subsequent total or
+partial restatement, refinancing, replacement or renewal or extension thereof.
+
+          "Subsidiary" means, with respect to any Person, any corporation,
+partnership or other business entity of which an aggregate of fifty percent
+(50%) or more of the outstanding capital stock having ordinary voting power to
+elect a majority of the board of directors, managers, trustees or other
+controlling persons, is, at the time, directly or indirectly, owned or
+Controlled by such Person and/or one (1) or more Subsidiaries of such Person
+(irrespective of whether, at the time, capital stock of any other class or
+classes of such entity shall have or might have voting power by reason of the
+happening of any contingency).
+
+          "Target Volume" has the meaning specified in Section 8.1 hereof.
+
+          "Termination Fee" means, as of the date that this Agreement is
+terminated pursuant to Section 7.4 hereof, an amount equal to the present value
+(discounted at a rate of six (6) percent per annum) at such date of the sum of
+(i) the Trigger Payment that would be due in respect of the Interrupted
+Measurement Period during which the termination date occurred, assuming that the
+Aggregate Volume for such Measurement Period was equal to the aggregate
+
+
+                                     I-11
+<PAGE>
+
+Actual Volume funded by GE Capital or the applicable Program Affiliates during
+such Interrupted Measurement Period prior to the date this Agreement is
+terminated and without giving effect to the terms of Section 8.2(b) plus any
+Carry Forward Volume Credit that is applicable to such Interrupted Measurement
+Period (after calculating the Adjusted Target Volume for such Interrupted
+Measurement Period), plus (ii) the Trigger Payments that would be due for each
+Measurement Period after the Interrupted Measurement Period, assuming that the
+Actual Volume for each such Measurement Period was zero (0) plus any Carry
+Forward Volume Credit that is applicable to the Measurement Period to occur
+immediately after the Interrupted Measurement Period.
+
+          "Term of this Agreement" means the period commencing on December 27,
+1997 and ending on March 31, 2004, as such term may be modified pursuant to
+Section 7.1 hereof.
+
+          "Third Party Enforcement Event" shall mean any holder of indebtedness
+under any Senior Financing Facility shall, directly or indirectly, exercise any
+right to cause such indebtedness to be declared due and payable prior to its
+stated maturity or take any action to realize, levy or foreclose upon, obtain
+possession of, or otherwise attach or seize, any asset or property of Danka or
+any of its Affiliates that is subject to a Lien securing such indebtedness and
+that is material to Danka and its Affiliates, taken as a whole.
+
+          "Trigger Payment" has the meaning specified in Section 8.2(a) hereof.
+
+          "Trigger Payment Return" has the meaning specified in Section 8.2(a)
+hereof.
+
+          "Trust Agreement" means the Danka Master Trust Agreement, dated as of
+December 22, 1997, among Danka Corporation Trust, Danka Business Systems Trust,
+Omnidex Corporation Trust and Danka Office Imaging Trust, GE Capital as
+Servicer, General Electric Information Technology Solutions, Inc. (f.k.a.
+General Electric Capital Technology Management Services Corporation), as
+Investor, and Bankers Trust Company, as Trustee.
+
+          "United States Program - Direct Structure" has the meaning specified
+in Section 1.1(b) hereof.
+
+          "United States Program - Trust Structure" has the meaning specified in
+Section 1.1(b) hereof.
+
+          "U.S. Direct Operating Agreement" means that certain U.S. Direct
+Operating Agreement between Danka Office Imaging Company and GE Capital, dated
+effective as of March 31, 2000 and all exhibits, annexes and schedules thereto,
+as any of the foregoing may be amended, modified or supplemented from time to
+time.
+
+          "U.S. Programs" means the United States Program - Trust Structure and
+the United States Program - Direct Structure.
+
+                                     I-12
+<PAGE>
+
+          "Vendor Risk" means the ability (financial or otherwise) of a
+distributor to or for whom GE Capital VFS proposes to provide equipment
+financing to satisfy such Persons' or its Affiliates' (i) obligations to GE
+Capital VFS (including, without limitation, any repurchase or indemnification
+obligations) relating to or arising out of GE Capital VFS' provision of such
+financing and (ii) service, maintenance or warranty obligations with respect to
+the related equipment.
+
+          "Volume" means, with respect to any period of determination, the sum
+of the aggregate amount funded by GE Capital or any Program Affiliate during
+such period in connection with the Qualifying Programs minus the sum of (i) any
+such amounts funded by GE Capital or any Program Affiliate to the extent
+directly or indirectly applied to pay off, buy out or otherwise discharge in
+whole or in part any obligation to GE Capital or any of its Affiliates
+(including, without limitation, any Program Affiliate), which pay-off, buyout or
+discharge is associated with any equipment trade-ins, replacements or upgrades
+arising out of or in connection with the entering into of a Lease or an Exempt
+Lease to which any such funding amount relates plus (ii) the Reduction Value in
+respect of such period plus (iii) the aggregate funding amount provided during
+such period with respect to any Lease or Exempt Lease prepaid or repurchased by
+Danka or any of its Affiliates from GE Capital or any of its Program Affiliates;
+provided, however, that, (a) with respect to any period, in the event that any
+amount has been deducted pursuant to clause (i) hereof in connection with a
+particular transaction, such transaction shall be excluded for purposes of
+calculating the Reduction Value in respect of such period (b) Volume shall only
+include funding amounts in respect of Leases or Exempt Leases that are billed
+and collected in United States dollars from a Person at an address in the United
+States and (c) Volume shall not include any funding amounts in respect of
+Existing Leases (as "Existing Leases" is defined in the Trust Agreement).
+
+          "Volume Shortfall" has the meaning specified in Section 8.2(c)
+hereof.
+
+                                     I-13
+</TEXT>
+</DOCUMENT>

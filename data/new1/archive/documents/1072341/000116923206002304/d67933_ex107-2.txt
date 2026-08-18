@@ -1,0 +1,94 @@
+<DOCUMENT>
+<TYPE>EX-10.7.2
+<SEQUENCE>13
+<FILENAME>d67933_ex107-2.txt
+<DESCRIPTION>CONTRACT AMENDMENT AGREEMENT (NUMBER 1)
+<TEXT>
+                                                                  Exhibit 10.7.2
+
+Portions  of  this  exhibit  have  been  omitted   pursuant  to  a  request  for
+confidential  treatment filed with the Securities and Exchange  Commission.  The
+omissions have been indicated by asterisks  ("*****"),  and the omitted text has
+been filed separately with the Securities and Exchange Commission.
+
+                     CONTRACT AMENDMENT AGREEMENT (Number 1)
+
+This  Agreement  is  made  this  30  day  of  November,  2004,  between  British
+Telecommunications  plc whose registered office is at 81 Newgate Street,  London
+EC1A 7AJ ("BT") and Playboy TV UK/Benelux  Limited whose registered office is at
+Aquis House, Station Road, Hayes, Middlesex, UB3 4DX ("the Customer").
+
+WHEREAS
+
+      A.    The  Customer  entered  into a contract  with BT in May 2004 for the
+            provision of a combined compressed uplink and eurobird space segment
+            service ("the Contract");
+
+      B.    The  Customer  wishes to amend  the  Contract  with BT as  described
+            below;
+
+      C.    BT has agreed to amend the Contract on the terms and  conditions set
+            out below.
+
+NOW IT IS HEREBY AGREED AS FOLLOWS:-
+
+The Clauses and  Conditions  of the Contract  shall be amended as set out below,
+such amendments to be effective from lst September, 2004.
+
+      1.    Schedule 1, Part D of the  Contract the term "Total bit rate for the
+            service" shall be deleted and replaced as follows:
+
+            "Total bit rate for the Service: 17.5Mbit/s"
+
+      2.    Schedule 2 of the Contract shall be amended as follows:
+
+            The term "Charge" shall be deleted and replaced as follows
+
+            "Charge:   ***** for each 12 months from 1st  September  2004 to the
+                       Expiry Date, save for the period from 1 August 2005 to 31
+                       August 2005 when the Charge  shall be reduced by ***** to
+                       *****"
+
+      3.    The  Contract  shall  remain in full  force and effect as amended by
+            this Agreement.
+
+      4.    This  Agreement  may be executed in one or more parts by the parties
+            on separate  counterpart  or facsimile  copies each of which when so
+            executed
+
+
+                                  Page 1 of 2
+<PAGE>
+
+            by any party shall be an original  but all executed  counterpart  or
+            facsimile  copies shall together when  delivered  constitute but one
+            agreement. This Agreement shall not be completed, delivered or dated
+            until  each  party has  received  counterpart  or  facsimile  copies
+            validly  executed by all other  parties.  The date of this Agreement
+            shall be the date in the United  Kingdom on which  validly  executed
+            copies were received by all parties.
+
+      5.    This  Agreement  shall be governed and construed in accordance  with
+            English  Law  and the  parties  agree  to  submit  to the  exclusive
+            jurisdiction of the English Courts.
+
+For and on behalf of the Customer
+
+
+Signed:  /s/ Andrew D Wren
+
+Name & Title: Andrew D Wren, Company Secretary
+
+For and on behalf of BT
+
+
+Signed: /s/ John Cohen
+       ---------------
+
+Name & Title        John Cohen - Head of Solutions
+              ------------------------------------------
+
+
+                                  Page 2 of 2
+</TEXT>
+</DOCUMENT>

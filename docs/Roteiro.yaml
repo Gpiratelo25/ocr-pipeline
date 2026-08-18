@@ -1,0 +1,26 @@
+{entity: effective_date 
+
+
+Definition:
+date of the contract come official 
+
+Look primarily on:
+first paragraph/ introduction part.
+
+include:
+-dated as of 'x';
+-entered into as of 'x';
+-made and entered into as of 'x';
+
+exclude:
+-termination date;
+-expiratation date;
+-previous argument;
+},
+{entity: agreement_type
+
+Definition:
+Look primarily on:
+include:
+exclude:
+}

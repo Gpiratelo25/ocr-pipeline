@@ -1,0 +1,3608 @@
+<DOCUMENT>
+<TYPE>EX-10.10
+<SEQUENCE>25
+<FILENAME>dex1010.txt
+<DESCRIPTION>AMENDED AND RESTATED GAMING FACILITY MANAGEMENT AGREEMENT DATED AS OF 3-28-2002
+<TEXT>
+<PAGE>
+
+                                                                   Exhibit 10.10
+
+                              AMENDED AND RESTATED
+                                 GAMING FACILITY
+                              MANAGEMENT AGREEMENT
+
+                                     between
+
+       THE TWENTY-NINE PALMS BAND OF LUISENO MISSION INDIANS OF CALIFORNIA
+                                 (the "Tribe"),
+
+                    TWENTY-NINE PALMS ENTERPRISES CORPORATION
+                               (the "Enterprise")
+
+                                       and
+
+                          THCR MANAGEMENT SERVICES, LLC
+                                   ("Manager")
+
+                                 March 28, 2002
+
+               Pursuant to the Terms of a Subordination Agreement
+              dated October 17, 2001, Manager has subordinated the
+                 Management Fees Payable under this Agreement to
+                       certain Lenders to the Enterprise.
+
+<PAGE>
+
+Exhibit 10.10
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<S>                                                                                                          <C>
+RECITALS....................................................................................................  1
+
+SECTION 1
+     AMENDED AND RESTATED AGREEMENT;
+     DEFINITIONS............................................................................................  2
+     1.1      Amended and Restated Agreement................................................................  2
+     1.2      Definitions...................................................................................  2
+
+SECTION 2
+     COVENANTS.............................................................................................. 11
+     2.1      Engagement of Manager......................................................................... 11
+     2.2      Term.......................................................................................... 11
+     2.3      Status of Property............................................................................ 11
+     2.4      Manager Compliance with Law; Licenses......................................................... 12
+     2.5      Amendments to Tribal Gaming Code.............................................................. 12
+     2.6      Compliance with Compact....................................................................... 12
+     2.7      Fire and Safety............................................................................... 12
+     2.8      Compliance with the National Environmental Policy Act......................................... 12
+     2.9      Satisfaction of Effective Date Requirements................................................... 12
+     2.10     Commencement Date............................................................................. 13
+     2.11     Restrictions on Collateral Operations......................................................... 13
+
+SECTION 3
+     BUSINESS AFFAIRS....................................................................................... 13
+     3.1      Manager's Authority and Responsibility........................................................ 13
+     3.2      Duties of Manager............................................................................. 13
+              3.2.1    Physical Duties...................................................................... 13
+              3.2.2    Compliance........................................................................... 13
+              3.2.3    Required Filings..................................................................... 14
+              3.2.4    Contracts in the Name of the Enterprise and at Arm's Length.......................... 14
+              3.2.5    Facility Operating Standards......................................................... 14
+     3.3      Security...................................................................................... 14
+     3.4      Damage, Condemnation or Impossibility of the Facility......................................... 14
+              3.4.1    Recommencement of Operations......................................................... 14
+              3.4.2    Repair or Replacement................................................................ 15
+              3.4.3    Other Business Purposes.............................................................. 15
+              3.4.4    Termination of Gaming................................................................ 15
+              3.4.5    Tolling of the Agreement............................................................. 15
+     3.5      Alcoholic Beverages and Tobacco Sales......................................................... 15
+     3.6      Employees..................................................................................... 16
+</TABLE>
+
+                                       -i-
+
+<PAGE>
+
+Exhibit 10.10
+
+<TABLE>
+<S>                                                                                                          <C>
+              3.6.1    Manager's Responsibility............................................................. 16
+              3.6.2    Enterprise Employee Policies......................................................... 16
+              3.6.3    Employees............................................................................ 16
+              3.6.4    Off-Site Employees................................................................... 16
+              3.6.5    No Manager Wages or Salaries......................................................... 16
+              3.6.6    Employee Background Checks........................................................... 17
+              3.6.7    Indian Preference, Recruiting and Training........................................... 17
+              3.6.8    Goals and Remedies................................................................... 18
+              3.6.9    Removal of Employees................................................................. 18
+     3.7      Marketing..................................................................................... 18
+              3.7.1    Nature of Marketing Services......................................................... 18
+              3.7.2    Marketing Services................................................................... 18
+     3.8      Pre-Opening................................................................................... 18
+     3.9      Operating Budget and Annual Plan.............................................................. 19
+              3.9.1    Adjustments to Operating Budget and Annual Plan...................................... 20
+     3.10     Capital Budgets; Permitted Hotel Debt......................................................... 21
+     3.11     Capital Replacements.......................................................................... 21
+     3.12     Capital Replacement Reserve................................................................... 22
+     3.13     Periodic Contributions to Capital Replacement Reserve......................................... 22
+     3.14     Use and Allocation of Capital Replacement Reserve............................................. 22
+     3.15     Contracting................................................................................... 23
+     3.16     Internal Control Systems...................................................................... 23
+     3.17     Banking and Bank Accounts..................................................................... 23
+              3.17.1   Enterprise Bank Accounts............................................................. 23
+              3.17.2   Daily Deposits to Depository Account................................................. 24
+              3.17.3   Disbursement Account................................................................. 24
+              3.17.4   Transfers Between Accounts........................................................... 24
+     3.18     Insurance..................................................................................... 24
+     3.19     Accounting and Books of Account............................................................... 25
+              3.19.1   Statements........................................................................... 25
+              3.19.2   Books of Account..................................................................... 25
+              3.19.3   Accounting Standards................................................................. 25
+              3.19.4   Annual Audit......................................................................... 26
+     3.20     Retail Shops and Concessions.................................................................. 26
+
+SECTION 4
+     LIENS.................................................................................................. 26
+     4.1      Liens......................................................................................... 26
+     4.2      Exceptions.................................................................................... 26
+
+SECTION 5
+     MANAGEMENT FEE, REIMBURSEMENTS AND DISBURSEMENTS BY MANAGER............................................ 27
+     5.1      Management Fee................................................................................ 27
+</TABLE>
+
+                                      -ii-
+
+<PAGE>
+
+Exhibit 10.10
+
+<TABLE>
+<S>                                                                                                          <C>
+     5.2      Disbursements for Operating Expenses.......................................................... 27
+     5.3      Disbursements for Debt Service................................................................ 27
+     5.4      Payment of Fees and Tribal Disbursement....................................................... 27
+     5.5      Minimum Guaranteed Monthly Payment............................................................ 28
+     5.6      Distribution of Excess Funds.................................................................. 29
+     5.7      Manager Guaranty.............................................................................. 29
+     5.8      Development and Construction Costs............................................................ 29
+
+SECTION 6
+     TRADE NAMES, TRADE MARKS AND SERVICE MARKS............................................................. 29
+     6.1      Facility Name................................................................................. 29
+     6.2      Signs......................................................................................... 30
+
+SECTION 7
+     TAXES.................................................................................................. 30
+     7.1      State and Local Taxes......................................................................... 30
+     7.2      Tribal Taxes.................................................................................. 30
+     7.3      Compliance with Internal Revenue Code......................................................... 30
+
+SECTION 8
+     GENERAL PROVISIONS..................................................................................... 30
+     8.1      Situs of the Contracts........................................................................ 30
+     8.2      Notice........................................................................................ 31
+     8.3      Authority to Execute and Perform Agreement.................................................... 32
+     8.4      Relationship.................................................................................. 32
+     8.5      Manager's Contractual Authority............................................................... 32
+     8.6      Further Actions............................................................................... 32
+     8.7      Defense....................................................................................... 32
+     8.8      Waivers....................................................................................... 32
+     8.9      Captions...................................................................................... 33
+     8.10     Severability.................................................................................. 33
+     8.11     Interest...................................................................................... 33
+     8.12     Travel and Out-of-Pocket Expenses............................................................. 33
+     8.13     Third Party Beneficiary....................................................................... 33
+     8.14     Brokerage..................................................................................... 33
+     8.15     Survival of Covenants......................................................................... 33
+     8.16     Estoppel Certificate.......................................................................... 33
+     8.17     Periods of Time............................................................................... 34
+     8.18     Exhibits...................................................................................... 34
+     8.19     Successors, Assigns, and Subcontracting....................................................... 34
+     8.20     Permitted Assignment.......................................................................... 34
+     8.21     Time is of the Essence........................................................................ 34
+     8.22     Confidential Information...................................................................... 34
+     8.23     Patron Dispute Resolution..................................................................... 35
+</TABLE>
+
+                                      -iii-
+
+<PAGE>
+
+Exhibit 10.10
+
+<TABLE>
+<S>                                                                                                          <C>
+     8.24     Modification.................................................................................. 35
+
+SECTION 9
+     WARRANTIES............................................................................................. 35
+     9.1      Noninterference in Tribal Affairs............................................................. 35
+     9.2      Prohibition of Payments to Members of Tribal Government....................................... 35
+     9.3      Prohibition of Hiring Members of Tribal Government............................................ 36
+     9.4      Prohibition of Financial Interest in Enterprise............................................... 36
+     9.5      Definitions................................................................................... 36
+
+SECTION 10
+     TERMINATION............................................................................................ 36
+     10.1     Voluntary Termination and Termination for Cause............................................... 36
+     10.2     Voluntary Termination......................................................................... 36
+     10.3     Termination for Cause......................................................................... 36
+     10.4     Involuntary Termination Due to Changes in Legal Requirements.................................. 37
+     10.5     Manager's Right to Terminate Agreement........................................................ 37
+     10.6     Tribe's and Enterprise's Right to Terminate Agreement......................................... 38
+     10.7     Consequences of Manager's Breach.............................................................. 38
+     10.8     Consequences of Tribe's Breach................................................................ 39
+     10.9     Suspension of Manager for Cause; Notice and Opportunity to Cure............................... 39
+     10.10    Enterprise's Buy-Out Option................................................................... 40
+
+SECTION 11
+     CONCLUSION OF THE MANAGEMENT TERM...................................................................... 40
+     11.1     Conclusion of the Management Term............................................................. 40
+     11.2     Transition.................................................................................... 40
+     11.3     Undistributed Net Revenues.................................................................... 40
+
+SECTION 12
+     CONSENTS AND APPROVALS................................................................................. 41
+     12.1     Tribal........................................................................................ 41
+     12.2     Manager....................................................................................... 41
+
+SECTION 13
+     DISCLOSURES............................................................................................ 41
+     13.1     Shareholders and Directors.................................................................... 41
+     13.2     Warranties.................................................................................... 41
+     13.3     Criminal and Credit Investigation............................................................. 41
+     13.4     Disclosure Amendments......................................................................... 42
+     13.5     Breach of Manager's Warranties and Agreements................................................. 42
+
+SECTION 14
+     RECORDATION............................................................................................ 43
+</TABLE>
+
+                                      -iv-
+
+<PAGE>
+
+Exhibit 10.10
+
+<TABLE>
+<S>                                                                                                          <C>
+SECTION 15
+     NO LIEN, LEASE OR JOINT VENTURE........................................................................ 43
+
+SECTION 16
+     DISPUTE RESOLUTION..................................................................................... 43
+     16.1     General....................................................................................... 43
+     16.2     Initiation of Arbitration and Selection of Arbitrators........................................ 44
+     16.3     Limited Waiver of Sovereign Immunity.......................................................... 44
+              (a)      Time Period.......................................................................... 45
+              (b)      Recipient of Waiver.................................................................. 45
+              (c)      Limitations of Actions............................................................... 45
+
+SECTION 17
+     NEGOTIATE NEW AGREEMENT................................................................................ 46
+     17.1     Intent to Negotiate New Agreement............................................................. 46
+     17.2     Transition Plan............................................................................... 46
+
+SECTION 18
+     ENTIRE AGREEMENT....................................................................................... 46
+
+SECTION 19
+     REQUIRED AMENDMENT..................................................................................... 46
+
+SECTION 20
+     PREPARATION OF AGREEMENT............................................................................... 46
+
+SECTION 21
+     STANDARD OF REASONABLENESS............................................................................. 47
+
+SECTION 22
+     EXECUTION.............................................................................................. 47
+</TABLE>
+
+                                       -v-
+
+<PAGE>
+
+Exhibit 10.10
+
+<TABLE>
+EXHIBITS
+--------
+<S>               <C>
+EXHIBIT A         Legal Description of the Property
+EXHIBIT B         Dispute Resolution Between Manager and Enterprise Employees
+EXHIBIT C         Enterprise Investment Policy Resolution
+EXHIBIT D         Statement of Investment Policy for the Twenty-Nine Palms Band of Luiseno
+                  Mission Indians of California Gaming Enterprise
+EXHIBIT E         Twenty-Nine Palms Band of Luiseno Mission Indians of California
+                  Irrevocable Banking Instructions
+EXHIBIT F         Tribal Insurance Requirements
+EXHIBIT G         Manager's Affiliates, Members and Officers
+</TABLE>
+
+                                      -vi-
+
+<PAGE>
+
+Exhibit 10.10
+
+                              AMENDED AND RESTATED
+                                 GAMING FACILITY
+                              MANAGEMENT AGREEMENT
+
+        THIS AMENDED AND RESTATED GAMING FACILITY MANAGEMENT AGREEMENT (this
+"Agreement") is made as of the _____ day of March 2002, by and between the
+TWENTY-NINE PALMS BAND OF LUISENO MISSION INDIANS OF CALIFORNIA, a sovereign
+Native American nation, with offices at 46-200 Harrison Place, Coachella,
+California 92236 (the "Tribe"), the TWENTY-NINE PALMS ENTERPRISES CORPORATION, a
+Federal corporation chartered by the Tribe pursuant to 25 U.S.C. Section 477,
+with offices at 46-200 Harrison Place, Coachella, California 92236 ("the
+Enterprise") and THCR MANAGEMENT SERVICES, LLC, a Delaware limited liability
+company with offices at 1000 Boardwalk, Atlantic City, New Jersey 08401.
+
+                                    RECITALS:
+
+        A.      The Tribe is a federally-recognized Indian Tribe which possesses
+sovereign governmental powers pursuant to the Tribe's recognized powers of self
+government.
+
+        B.      The Tribe occupies certain property located in Coachella,
+Riverside County, California, more specifically described on Exhibit A attached
+hereto, as "Indian lands" pursuant to 25 U.S.C. Section 2703(4) (the
+"Property"). The Tribe currently operates a Class II gaming facility on the
+Property.
+
+        C.      The Tribe desires to further develop the Property to promote
+increased tribal economic development, self-sufficiency and strong tribal
+government.
+
+        D.      In order to obtain the benefit of Manager's management,
+marketing and technical experience and expertise, the Tribe and Manager entered
+into a Gaming Facility Management Agreement dated as of April 27, 2000.
+
+        E.      The Tribe chartered the Enterprise to conduct Class II and Class
+III Gaming pursuant to the Indian Gaming Regulatory Act and the Compact at the
+Facility, and transferred all of its right, title and interest in and to the
+Facility to the Enterprise pursuant to an Assignment and Bill of Sale dated July
+5, 2001.
+
+        F.      With the assistance of Trump Hotels & Casino Resorts Development
+Company, LLC, the Enterprise intends to design, finance, construct, furnish and
+equip a permanent Class III gaming resort on the Property, which shall include a
+new casino facility, a hotel and other amenities and the renovation of the
+Tribe's existing Class II gaming facility.
+
+                                       -1-
+
+<PAGE>
+
+Exhibit 10.10
+
+        G.      The Tribe, the Enterprise and Manager desire to amend and
+restate in its entirety the April 27, 2000 Gaming Facility Management Agreement
+in order to conform such agreement to comments received from the NIGC.
+
+        H.      This Agreement is entered into pursuant to the Indian Gaming
+Regulatory Act of 1988, PL 100-497, 25 U.S.C. Section 2701 et seq. (the "IGRA")
+as that statute may be amended. All gaming conducted at the Facility will at all
+times comply with the IGRA, applicable Tribal law and the Compact.
+
+                                    SECTION 1
+                        AMENDED AND RESTATED AGREEMENT;
+                                  DEFINITIONS
+
+        1.1     Amended and Restated Agreement. This Agreement amends and
+restates in its entirety the Gaming Facility Management Agreement entered into
+by the Tribe and Manager as of April 27, 2000.
+
+        1.2     Definitions. As they are used in this Agreement, the terms
+listed below shall have the meaning assigned to them in this Section:
+
+        "Affiliate" means as to Manager, the Enterprise or the Tribe, any
+corporation, partnership, limited liability company, joint venture, trust,
+department or agency or individual controlled by or controlling, directly or
+indirectly, Manager, the Enterprise or the Tribe.
+
+        "Articles of Association" shall mean the Articles of Association of The
+Twenty-Nine Palms Band of Luiseno Mission Indians of California as adopted by
+the Tribe on March 1, 1972 and approved by the Secretary of the Interior.
+
+        "BIA" shall mean the Bureau of Indian Affairs of the Department of the
+Interior of the United States of America.
+
+        "Capital Budget" shall mean the capital budget described in Section
+3.10.
+
+        "Capital Replacement(s)" shall mean any alteration or rebuilding or
+renovation of the Facility, and any replacement of Furnishings and Equipment,
+the cost of which is capitalized and depreciated, rather than being expensed,
+applying generally accepted accounting principles, as described in Section 3.10.
+
+        "Capital Replacement Reserve" shall mean the reserve described in
+Section 3.12, into which periodic contributions are paid pursuant to Section
+3.13.
+
+                                       -2-
+
+<PAGE>
+
+Exhibit 10.10
+
+        "Charter" shall mean the Federal Charter of Incorporation of the
+Enterprise approved by the U.S. Department of the Interior on February 16, 2001
+and ratified by the Tribe on March 28, 2001 pursuant to 25 U.S.C. Section 477.
+
+        "Class II Gaming" shall mean Class II Gaming as defined in the IGRA.
+
+        "Class III Gaming" shall mean Class III Gaming as defined in the IGRA.
+
+        "Commencement Date" shall mean the first date that the approximately
+50,000 square foot planned casino addition to the Facility is complete and open
+to the public for Gaming, which shall be the date upon which management services
+begin under this Agreement.
+
+        "Compact" shall mean the Tribal-State Compact between the Tribe and the
+State of California regarding Class III Gaming, executed by the Tribe on October
+1, 1999 and signed by the Secretary of the Interior on May 5, 2000 and published
+in the Federal Register as provided in 25 U.S.C. Section 2710(d)(8)(D) on May
+16, 2000; as the same may, from time to time, be amended, or such other Compact
+that may be substituted therefor.
+
+        "Compensation" shall mean the direct salaries and wages paid to, or
+accrued for the benefit of, any employee, including incentive compensation,
+together with all fringe benefits payable to or accrued for the benefit of such
+executive or other employee, including employer's contribution under FICA,
+unemployment compensation or other employment taxes, pension fund contributions,
+workers' compensation, group life, accident and health insurance premiums and
+costs, and profit sharing, severance, retirement, disability, relocation,
+housing and other similar benefits.
+
+        "Confidential Information" shall mean the information described in
+Section 8.22.
+
+        "Depository Account" shall mean the bank account described in Section
+3.17.2.
+
+        "Disbursement Account" shall mean the bank account described in Section
+3.17.3.
+
+        "Early Termination Fee" shall mean one and one-half (1 1/2) times the
+aggregate Management Fee payable to Manager for the twelve month period
+preceding the notice of early termination provided by the Tribe pursuant to
+Section10.10(i).
+
+        "Effective Date" shall mean the date five (5) days following the date on
+which all of the following listed conditions are satisfied:
+
+                (i)     written approval of this Agreement is granted by the
+Chairman of the NIGC;
+
+                                       -3-
+
+<PAGE>
+
+Exhibit 10.10
+
+                (ii)    written approval of a Tribal Gaming Code is granted by
+the Chairman of the NIGC;
+
+                (iii)   written confirmation that the Tribe and the State (to
+the extent required by the Compact) have approved background investigations of
+Manager;
+
+                (iv)    Manager has received a certified copy of the Tribal
+Resolutions adopted by the Tribe in accordance with the Tribe's governing
+documents and the Corporate Resolutions adopted by the Enterprise in accordance
+with the Charter authorizing the execution of this Agreement;
+
+                (v)     execution of the Compact by the Secretary of the
+Interior and publication in the Federal Register as provided in 25 U.S.C.
+Section 2710(d)(8)(D);
+
+                (vi)    receipt by Manager of all applicable licenses for or
+related to management of the Facility; and
+
+                (vii)   Manager has satisfied itself that the Tribal Gaming Code
+and any other code adopted by the Tribe relative to any of the documents
+referenced in this Agreement do not have a material adverse effect on Manager's
+ability to operate the Facility under this Agreement.
+
+        "Emergency Condition" shall have the meaning set forth in Section 3.11.
+
+        "Enterprise" shall mean the "Twenty-Nine Palms Enterprises Corporation"
+chartered under 25 U.S.C. Section 477 by the Tribe to engage in Class II and
+Class III Gaming at the Facility and any other lawful commercial activity
+allowed in the Facility including, but not limited to the sale of alcohol,
+tobacco, gifts and souvenirs; or any ancillary non-Gaming activity within the
+Facility generally related to Class II or Class III Gaming.
+
+        "Enterprise Bank Accounts" shall mean those accounts described in
+Section 3.17.1.
+
+        "Enterprise Employee" shall mean all Employees who are assigned to work
+at the Facility.
+
+        "Enterprise Employee Policies" shall mean those employee policies
+described in Section 3.6.2.
+
+        "Excess Funds" shall have the meaning described in Section 5.4.1 so long
+as the Transfer and Deposit Agreement may be in effect, and thereafter "Excess
+Funds" shall have the meaning described in Section 5.4.2.
+
+                                       -4-
+
+<PAGE>
+
+Exhibit 10.10
+
+        "Facility" shall mean all buildings, structures and improvements located
+on the Property used in connection with gaming or used for the operation of the
+Enterprise, and all fixtures, Furnishings and Equipment attached to, forming a
+part of, or necessary for the operation of such buildings, structures and
+improvements.
+
+        "Financing Agreements" shall mean all loan agreements, indentures,
+notes, security agreements and other documents to be entered into between the
+Tribe and/or the Enterprise and one or more Lenders pursuant to which the
+financing is issued including, without limitation, the Loan Agreement.
+
+        "Fiscal Year" shall mean the period commencing on January 1 of each year
+and ending on December 31 of such year, except that for purposes of calculating
+the Management Fee, the first Fiscal Year shall be deemed to commence upon the
+Commencement Date and end on December 31 of such year.
+
+        "Furnishings and Equipment" shall mean all furniture, furnishings and
+equipment required for the operation of the Facility, including, without
+limitation:
+
+                (i)     cashier, money sorting and money counting equipment,
+surveillance and communication equipment and security equipment;
+
+                (ii)    electronic lottery terminals, video games of chance,
+table games, bingo blowers and equipment, electronic displays, Class II pull-tab
+dispensers, table games, pari-mutuel betting equipment and other Class II and
+Class III gaming equipment permitted pursuant to the Compact and the IGRA;
+
+                (iii)   office furnishings and equipment;
+
+                (iv)    specialized equipment necessary for the operation of any
+portion of the Facility for accessory purposes, including equipment for
+entertainment facilities, hospitality facilities, kitchens, laundries, dry
+cleaning, cocktail lounges, restaurants, public rooms, commercial and parking
+spaces and recreational facilities;
+
+                (v)     all decor, special effects and artwork; and
+
+                (vi)    all other furnishings and equipment hereafter located
+and installed in or about the Facility which are used in the operation of the
+Facility in accordance with the standards set forth in this Agreement.
+
+        "Gaming" shall mean any and all activities defined as Class II and Class
+III Gaming.
+
+                                       -5-
+
+<PAGE>
+
+Exhibit 10.10
+
+        "General Manager" shall mean the person supplied by Manager and employed
+by the Enterprise to direct the operation of the Facility.
+
+        "Generally Accepted Accounting Principles or GAAP" shall mean those
+principles defined by the Financial Accounting Standards Board.
+
+        "Gross Gaming Revenue (Win)" shall mean the net win from gaming
+activities which is the difference between gaming wins and losses before
+deducting costs and expenses.
+
+        "Gross Revenues" shall mean all revenues of any nature derived directly
+or indirectly from the Facility including, without limitation, Gross Gaming
+Revenue (Win), food and beverage sales, and other rental or other receipts from
+lessees, sublessees, licensees and concessionaires (but not the gross receipts
+of such lessees, sublessees, licensees or concessionaires, provided that such
+lessees, sublessees, and licensees and concessionaires are not subsidiaries or
+affiliates of Manager), and revenue recorded for Promotional Allowances, but
+excluding any taxes the Tribe is allowed to assess pursuant to Section 7.
+
+        "House Bank" shall mean the amount of cash, chips, tokens and plaques
+that Manager from time to time determines necessary to have at the Facility
+daily to meet its cash needs.
+
+        "IGRA" shall mean the Indian Gaming Regulatory Act of 1988, PL 100-497,
+25 U.S.C. Section 2701 et seq., as same may, from time to time, be amended.
+
+        "Internal Control Systems" shall mean the systems described in Section
+3.16.
+
+        "Legal Requirements" shall mean any and all present and future judicial,
+administrative, and tribal rulings or decisions, and any and all present and
+future federal, state, local, and tribal laws, codes, rules, regulations,
+permits, licenses and certificates, in any way applicable to the Tribe, Manager,
+the Property, the Facility, and the Enterprise, including without limitation,
+the IGRA, the Compact, and the Tribal Gaming Code.
+
+        "Lender" shall mean First National Bank, as Administrative Agent,
+together with the "Lenders" identified in the Financing Agreement(s).
+
+        "Loan Agreement" shall mean the Loan Agreement dated October 17, 2001,
+by and among The Twenty-Nine Palms Enterprises Corporation, The Twenty-Nine
+Palms Band of Luiseno Mission Indians of California, the Lenders referred to
+therein, and First National Bank, together with all documents that constitute
+"Loan Documents" as defined therein.
+
+        "Management Agreement" shall mean this Agreement and may be referred to
+herein as the "Agreement."
+
+                                       -6-
+
+<PAGE>
+
+Exhibit 10.10
+
+        "Management Fee" shall mean the management fee described in Section 5.1.
+
+        "Manager" shall mean THCR Management Services, LLC, its successors and
+assigns.
+
+        "Manager Advance" shall mean any funds advanced by Manager or its
+Affiliates to the Enterprise, including on account of the Minimum Guaranteed
+Monthly Payment or the Manager Guaranty.
+
+        "Manager Guaranty" shall mean the Payment Guaranty Agreement between
+Manager, as guarantor, and First National Bank, as administrative agent, dated
+as of October 17, 2001.
+
+        "Manager Proprietary Information" shall mean the information described
+in Section 8.22.
+
+        "Material Breach" shall mean such material breach as described in
+Section 10.3.
+
+        "Member of The Tribal Government" shall have the meaning described in
+Section 9.5.
+
+        "Minimum Balance" shall mean the amount described in Section 3.17.1.
+
+        "Minimum Guaranteed Monthly Payment" shall mean that payment due the
+Tribe each month commencing in the month after the Commencement Date occurs in
+accordance with 25 U.S.C. Section 2711(b)(3) and Section 5.5 hereof.
+
+        "National Indian Gaming Commission" or "NIGC" shall mean the commission
+established pursuant to 25 U.S.C. Section 2704.
+
+        "Net Revenues" shall mean the sum of "Net Revenues (Gaming)" and "Net
+Revenues (Other)."
+
+        "Net Revenues (Gaming)" shall mean Gross Gaming Revenue (Win), of the
+Enterprise from Class II or Class III gaming less all gaming related Operating
+Expenses, excluding the Management Fee, and less the retail value of any
+Promotional Allowances, and less the following revenues actually received by the
+Enterprise and included in Gross Revenues:
+
+                (i)     any gratuities or service charges added to a customer's
+bill;
+
+                (ii)    any credits or refunds made to customers, guests or
+patrons;
+
+                (iii)   any sums and credits received by the Enterprise for lost
+or damaged merchandise;
+
+                                       -7-
+
+<PAGE>
+
+Exhibit 10.10
+
+                (iv)    any sales taxes, excise taxes, gross receipt taxes,
+admission taxes, entertainment taxes, tourist taxes or charges received from
+patrons and passed on to a governmental or quasi governmental entity;
+
+                (v)     any proceeds from the sale or other disposition of
+furnishings and equipment or other capital assets;
+
+                (vi)    any fire and extended coverage insurance proceeds other
+than for business interruption;
+
+                (vii)   any condemnation awards other than for temporary
+condemnation;
+
+                (viii)  any proceeds of financing or refinancing; and
+
+                (ix)    any interest on bank account(s).
+
+It is intended that this provision be consistent with 25 U.S.C. Section 2703(9).
+
+        "Net Revenues (Other)" shall mean all Gross Revenues of the Enterprise
+from all other sources in support of Class II or Class III gaming not included
+in "Net Revenues (Gaming)," such as food and beverage, entertainment, and
+retail, less all non-gaming related Operating Expenses, excluding the Management
+Fee and less the retail value of Promotional Allowances, if any, and less the
+following revenues actually received by the Enterprise and included in Gross
+Revenues:
+
+                (i)     any gratuities or service charges added to a customer's
+bill;
+
+                (ii)    any credits or refunds made to customers, guests or
+patrons;
+
+                (iii)   any sums and credits received by the Enterprise for lost
+or damaged merchandise;
+
+                (iv)    any sales taxes, excise taxes, gross receipt taxes,
+admission taxes, entertainment taxes, tourist taxes or charges received from
+patrons and passed on to a governmental or quasi governmental entity;
+
+                (v)     any proceeds from the sale or other disposition of
+furnishings and equipment or other capital assets;
+
+                (vi)    any fire and extended coverage insurance proceeds other
+than for business interruption;
+
+                (vii)   any condemnation awards other than for temporary
+condemnation;
+
+                                       -8-
+
+<PAGE>
+
+Exhibit 10.10
+
+                (viii)  any proceeds of financing or refinancing; and
+
+                (ix)    any interest on bank account(s).
+
+It is intended that this provision be consistent with 25 U.S.C. Section 2703(9).
+
+        "Note" shall mean the promissory note or notes to be executed by the
+Enterprise and/or the Tribe pursuant to the Financing Agreements.
+
+        "Operating Budget and Annual Plan" shall mean the operating budget and
+plan described in Section 3.9.
+
+        "Operating Expenses" shall mean all expenses of the operation of the
+Enterprise, pursuant to GAAP, including but not limited to the following:
+
+                (i)     the payment of salaries, wages, and benefit programs for
+Enterprise Employees;
+
+                (ii)    Operating Supplies for the Enterprise;
+
+                (iii)   utilities;
+
+                (iv)    repairs and maintenance of the Facility (excluding
+Capital Replacements);
+
+                (v)     interest on the Note;
+
+                (vi)    interest on installment contract purchases or other
+interest charges on debt approved by the Tribal Council;
+
+                (vii)   insurance and bonding;
+
+                (viii)  advertising and marketing, including busing and
+transportation of patrons to the Facility;
+
+                (ix)    accounting, legal and other professional fees;
+
+                (x)     security costs;
+
+                (xi)    reasonable travel expenses for officers and employees of
+the Enterprise;
+
+                                       -9-
+
+<PAGE>
+
+Exhibit 10.10
+
+                (xii)   lease payments for Furnishings and Equipment to the
+extent approved by the Tribe;
+
+                (xiii)  costs of goods sold;
+
+                (xiv)   other expenses designated as Operating Expenses in
+accordance with the accounting standards as referred to in Section 3.19.3;
+
+                (xv)    expenses specifically designated as Operating Expenses
+in this Agreement;
+
+                (xvi)   depreciation and amortization of the Facility based on
+an assumed thirty (30) year life, and depreciation and amortization of all other
+assets in accordance with GAAP;
+
+                (xvii)  recruiting and training expenses;
+
+                (xviii) fees due to the NIGC under the IGRA;
+
+                (xix)   any required payments to the State or local governments
+made by or on behalf of the Enterprise or the Tribe pursuant to the Compact;
+
+                (xx)    license fees reflecting reasonable regulatory costs
+incurred by the Tribal Gaming Agency; and
+
+                (xxi)   any budgeted charitable contributions by the Enterprise
+which are approved by the Tribe.
+
+        "Operating Supplies" shall mean food and beverages (alcoholic and
+nonalcoholic) and other consumable items used in the operation of the Facility,
+such as playing cards, tokens, chips, pull-tabs, bingo paper, plaques, fuel,
+soap, cleaning materials, matches, paper goods, stationery and all other similar
+items.
+
+        "Option Date" shall have the meaning described in Section 10.10.
+
+        "Pre-Opening Budget" shall have the meaning described in Section 3.8.
+
+        "Pre-Opening Expenses" shall have the meaning described in Section 3.8.
+
+        "Promotional Allowances" shall mean the retail value of complimentary
+food, beverages, merchandise, and tokens for gaming, provided to patrons as
+promotional items.
+
+                                      -10-
+
+<PAGE>
+
+Exhibit 10.10
+
+        "Property" shall mean the Tribe's "Indian lands" consisting of
+approximately of 240 acres of land located at 46-200 Harrison Place, Coachella,
+Riverside County CA 92236, pursuant to a declaration of trust by the United
+States of America dated May 18, 1978, recorded June 27, 1978 in the Official
+Records of Riverside County, California in Book 1978, Page 131619, more
+specifically described on Exhibit A attached hereto.
+
+        "Relative" shall have the meaning described in Section 9.5.
+
+        "Shortfall Amount" shall mean any amount necessary to pay Manager all or
+any portion of the Management Fee due but not paid to Manager as a result of a
+shortage of available funds.
+
+        "State" shall refer to the State of California.
+
+        "Term" shall mean the term of this Agreement as described in Section
+2.2.
+
+        "Transfer and Deposit Agreement" shall mean that certain Transfer and
+Deposit Agreement dated as of October 17, 2001 between the Enterprise and First
+National Bank, as Depository.
+
+        "Tribal Council" shall mean the duly elected Tribal Council of the Tribe
+described in the Tribe's Articles of Association.
+
+        "Tribal Gaming Authority" shall mean the Tribal body created pursuant to
+the Tribal Gaming Code to regulate the Class II and Class III Gaming of the
+Tribe in accordance with the Compact, the IGRA and the Tribal Gaming Code.
+
+        "Tribal Gaming Code" shall mean the Gaming Ordinance adopted by the
+Tribe and approved by the Chairman of the NIGC regulating the conduct of gaming
+on tribal lands, as amended following the passage of Proposition 1A to permit
+Class III Gaming at the Facility in accordance with the Compact, together with
+the Tribal Gaming Commission Rules and Regulations.
+
+        "Tribal Priority Distribution" shall mean (i) for the months of October
+through May, $650,000, and (ii) for the months of June through September,
+$200,000; provided, however, in no event shall the Tribal Priority Distribution
+be in excess of the amount of Excess Funds.
+
+        "Tribal Resolution" shall have the meaning described in Section 2.9.
+
+                                      -11-
+
+<PAGE>
+
+Exhibit 10.10
+
+                                    SECTION 2
+                                    COVENANTS
+
+        In consideration of the mutual covenants contained in this Agreement,
+the parties agree and covenant as follows:
+
+        2.1     Engagement of Manager. The Enterprise hereby retains and
+engages Manager as the exclusive manager of the Enterprise pursuant to the terms
+and conditions of this Agreement, and Manager hereby accepts such retention and
+engagement, subject to receipt of all necessary regulatory approvals.
+
+        2.2     Term. The management services to be provided under this
+Agreement shall commence on the Commencement Date, and will terminate on the
+date which is the fifth anniversary of the Commencement Date. Upon the agreement
+of the Enterprise and Trump Hotels & Casino Resorts Development Company, LLC to
+commence development of a second wing to the hotel and related amenities, such
+as a spa, recreational vehicle park and/or truck facility, Manager shall be
+granted an additional two (2) year term of this Agreement; provided, however
+that the NIGC shall first have approved such extension of the term of this
+Agreement.
+
+        2.3     Status of Property. The Tribe represents and covenants that it
+will maintain the Property throughout the Term as Indian Lands, eligible as a
+location upon which Class II and Class III Gaming can occur. The Tribe
+covenants, during the term hereof, that Manager shall and may peaceably have
+complete access to and presence in the Facility in accordance with the terms of
+this Agreement, free from molestation, eviction and disturbance by the Tribe or
+by any other person or entity; provided, however, that such right of access to
+and presence in the Facility shall cease (i) in the event the Tribal Gaming
+Authority revokes any license issued by it to Manager which license is necessary
+for the lawful operation of the Facility by Manager, or (ii) upon the
+termination of this Agreement pursuant to its terms.
+
+        2.4     Manager Compliance with Law; Licenses. Manager covenants that
+it will at all times comply with all Legal Requirements, including the Tribal
+Gaming Code, the IGRA, the Compact, California statutes, to the extent
+applicable, and any licenses issued under any of the foregoing. The Tribe shall
+not unreasonably withhold, delay, withdraw, qualify or condition such licenses
+as the Tribe is authorized to grant.
+
+        2.5     Amendments to Tribal Gaming Code. The Tribe covenants that any
+amendments made to the Tribal Gaming Code will be a legitimate effort to ensure
+that gaming is conducted in a manner that adequately protects the environment,
+the public health and safety, and the integrity of the Enterprise. The adoption
+of any amendments to the Tribal Gaming Code or any other codes or resolutions
+that would materially and adversely affect Manager's rights under this Agreement
+shall be a Material Breach of this Agreement.
+
+                                      -12-
+
+<PAGE>
+
+Exhibit 10.10
+
+        2.6     Compliance with Compact. The parties shall at all times comply
+with the provisions of the Compact.
+
+        2.7     Fire and Safety. Manager shall ensure that the Facility shall
+be constructed and maintained in compliance with all fire and safety statutes,
+codes, and regulations which would be applicable if the Facility were located
+outside of the jurisdiction of the Tribe although those requirements would not
+otherwise apply within that jurisdiction. Nothing in this Section shall grant
+any jurisdiction to the State of California or any political subdivision thereof
+over the Property or the Facility. The Tribe shall be responsible for arranging
+fire protection and police services for the Facility.
+
+        2.8     Compliance with the National Environmental Policy Act. With the
+assistance of Manager, the Tribe shall supply the NIGC with all information
+necessary for the NIGC to comply with any regulations of the NIGC issued
+pursuant to the National Environmental Policy Act (NEPA).
+
+        2.9     Satisfaction of Effective Date Requirements. Manager, the
+Enterprise and the Tribe each agree to cooperate and to use their best efforts
+to satisfy all of the conditions of the Effective Date at the earliest possible
+date. The Tribe shall adopt a resolution (the "Tribal Resolution") reciting that
+it is the governing law of the Tribe that the Management Agreement, the
+Financing Agreements and the exhibited documents attached thereto are the legal
+and binding obligations of the Tribe, valid and enforceable in accordance with
+their terms. Manager agrees to memorialize the satisfaction of each of the
+following requirements as well as the Effective Date in writings signed by
+Manager and delivered to the Tribe and to the Chairman of the NIGC: (i) Manager
+has satisfied itself as to the proper ownership and control of the Property, and
+that all of the Legal Requirements and other requirements for lawful conduct and
+operation of the Facility in accordance with this Agreement have been met and
+satisfied; and (ii) the satisfactory completion of all necessary and applicable
+feasibility studies required for the operation of the Facility.
+
+        2.10    Commencement Date. Manager shall memorialize the Commencement
+Date in a writing signed by Manager and delivered to the Tribe and to the
+Chairman of the NIGC.
+
+        2.11    Restrictions on Collateral Operations. During the term of this
+Agreement, Manager agrees that neither Manager nor a Manager Affiliate shall
+manage any gaming facilities located in San Bernardino, Ventura, Los Angeles,
+Orange, San Diego, Riverside, Santa Barbara or Imperial county, California
+without the written consent of the Tribe. During the term of this Agreement, the
+Tribe agrees that it shall not develop or operate any gaming facilities other
+than the Facility without the written consent of Manager.
+
+                                    SECTION 3
+                                BUSINESS AFFAIRS
+
+                                      -13-
+
+<PAGE>
+
+Exhibit 10.10
+
+        3.1     Manager's Authority and Responsibility. Manager shall conduct
+and direct all business and affairs in connection with the day-to-day operation,
+management and maintenance of the Facility and the operation of the Enterprise,
+including the establishment of operating days and hours. It is the parties'
+intention that the Facility be open twenty-four (24) hours daily, seven (7) days
+a week. Upon the Commencement Date, Manager shall be deemed to have the
+necessary power and authority with respect to the Facility to fulfill all of its
+responsibilities under this Agreement. Nothing herein grants or is intended to
+grant Manager a titled interest to the Facility or to the Enterprise. Manager
+hereby accepts such retention and engagement.
+
+        The Tribe shall have the sole proprietary interest in and ultimate
+responsibility for the conduct of all Gaming conducted by the Enterprise,
+subject to the rights and responsibilities of Manager under this Agreement.
+
+        3.2     Duties of Manager. In managing, operating, maintaining and
+repairing the Facility, Manager's duties shall include, without limitation, the
+following:
+
+                3.2.1   Physical Duties. Manager shall use reasonable measures
+for the orderly physical administration, management, and operation of the
+Facility, including without limitation capital improvements, cleaning, painting,
+decorating, plumbing, carpeting, grounds care and such other maintenance and
+repair work as is reasonably necessary.
+
+                3.2.2   Compliance. Manager shall comply with all duly enacted
+statutes, regulations and codes of the State, the federal government, the Tribe
+and the Tribal Gaming Authority.
+
+                3.2.3   Required Filings. Manager shall comply with all
+applicable provisions of the Internal Revenue Code including, but not limited
+to, the prompt filing of any cash transaction reports and W-2G reports that may
+be required by the Internal Revenue Service of the United States or under the
+Compact. Manager shall also comply with all applicable reporting and filing
+provisions of all other federal, State, and Tribal regulatory agencies.
+
+                3.2.4   Contracts in the Name of the Enterprise and at Arm's
+Length. Contracts for the operations of the Facility shall be entered into in
+the name of the Enterprise, and signed by the General Manager. Any contract
+requiring an expenditure in any year in excess of Two Hundred Fifty Thousand
+($250,000) Dollars shall be approved by the Enterprise, provided this provision
+shall be subject to the restrictions contained in Section 3.9.1 regarding the
+Operating Budget and Annual Plan. No contracts, of any amount, for the supply of
+goods or services to the Facility shall be entered into with an Affiliate of
+Manager unless that affiliation is disclosed to and approved by the Enterprise,
+and the contract terms are no less favorable for the Enterprise than could be
+obtained from a non-affiliated contractor. Notwithstanding anything to the
+contrary contained herein, contracts for the supply of any goods or services
+paid for entirely
+
+                                      -14-
+
+<PAGE>
+
+Exhibit 10.10
+
+by Manager may be provided by an Affiliate of Manager, provided that payments on
+such contracts shall not constitute Operating Expenses and shall be the sole
+responsibility of Manager and the Enterprise shall be notified of any such
+contracts. Nothing contained in this Section 3.2.4 shall be deemed to be or
+constitute a waiver of the Tribe's sovereign immunity.
+
+                3.2.5   Facility Operating Standards. Manager shall operate the
+Facility in a proper, efficient and competitive manner in compliance with all
+applicable provisions of the Compact and the standards promulgated by the NIGC
+at 25 C.F.R. Section 542.1 et seq., as in effect at any time.
+
+        3.3     Security. Manager shall provide for appropriate security for
+the operation of the Facility. All aspects of the Facility security shall be the
+responsibility of Manager. All security officers shall be bonded and insured in
+an amount commensurate with his or her enforcement duties and obligations. The
+cost of any charge for security and increased public safety services will be an
+Operating Expense.
+
+        3.4     Damage, Condemnation or Impossibility of the Facility. If,
+during the term of this Agreement, the Facility is damaged or destroyed by fire,
+war, or other casualty, or by an Act of God, or is taken by condemnation or sold
+under the threat of condemnation, or if Gaming on the Property is prohibited as
+a result of a decision of a court of competent jurisdiction or by operation of
+any applicable legislation, Manager shall have the following options:
+
+                3.4.1   Recommencement of Operations. If Gaming on the Property
+is prohibited by Legal Requirements, Manager shall have the option to continue
+its interest in this Agreement and, with the approval of the Tribe, to commence
+or recommence the operation of Gaming at the Facility if, at some point during
+the Term of this Agreement, such commencement or recommencement shall be legally
+and commercially feasible.
+
+                3.4.2   Repair or Replacement. If the Facility is damaged,
+destroyed or condemned so that Gaming can no longer be conducted at the
+Facility, the Facility shall be reconstructed if the insurance or condemnation
+proceeds are sufficient to restore or replace the Facility to a condition at
+least comparable to that before the casualty occurred. If Manager elects to
+reconstruct the Facility and if the insurance proceeds or condemnation awards
+are insufficient to reconstruct the Facility to such condition, Manager may, in
+its sole discretion, supply such additional funds as are necessary to
+reconstruct the Facility to such condition and such funds shall, with the prior
+consent of the Tribe and the BIA or NIGC, as appropriate, constitute a loan to
+the Enterprise, secured by the revenues from the Facility and repayable upon
+such terms as may be agreed upon by the Enterprise and Manager. If the insurance
+proceeds are not sufficient and are not used to repair the Facility, the
+Enterprise and Manager shall jointly adjust and settle any and all claims for
+such insurance proceeds or condemnation awards, and such proceeds or award shall
+be applied first, to the amounts due under the Note (including principal and
+interest); second, any other loans; third, any undistributed Net Revenues
+pursuant to Section 5 of this Agreement; and fourth, any surplus shall be
+distributed to the Tribe.
+
+                                      -15-
+
+<PAGE>
+
+Exhibit 10.10
+
+                3.4.3   Other Business Purposes. Manager shall have the option
+to use the Facility for other purposes reasonably incidental to Class II and
+Class III Gaming, provided the Enterprise has approved such purposes (which
+approval shall not be unreasonably withheld). For any purpose other than Gaming,
+Manager shall obtain all approvals necessary under applicable law.
+
+                3.4.4   Termination of Gaming. Manager shall have the option at
+any time within a sixty (60) day period following the cessation of Gaming on the
+Property to notify the Enterprise in writing that it is terminating operations
+under this Agreement, in which case Manager shall retain any rights Manager may
+have to undistributed Net Revenues pursuant to Section 5 of this Agreement and
+rights to repayments of amounts owed to it. If Manager does not elect to
+terminate this Agreement, it may take whatever action may be necessary to reduce
+expenses during such termination of Gaming.
+
+                3.4.5   Tolling of the Agreement. If, after a period of
+cessation of Gaming on the Property, the recommencement of Gaming is possible,
+and if Manager has not terminated this Agreement under the provisions of Section
+3.4.4, the period of such cessation shall not be deemed to have been part of the
+term of this Agreement and the date of expiration of the term of this Agreement
+shall be extended by the number of days of such cessation period.
+
+        3.5     Alcoholic Beverages and Tobacco Sales. No Tribal legislation
+prohibiting the sale of tobacco and/or alcoholic beverages is now in force, and
+no such legislation will be enacted during the term of this Agreement. The Tribe
+agrees to enact any Tribal legislation necessary to allow sale of alcoholic
+beverages or tobacco products in the facility. The Enterprise and Manager
+mutually agree to include sale of tobacco and alcoholic beverages within the
+Facility to the fullest extent allowed by the Compact.
+
+        3.6     Employees.
+
+                3.6.1   Manager's Responsibility. Manager shall have, subject
+to the terms of this Agreement, the exclusive responsibility and authority to
+direct the selection, control and discharge of all employees performing regular
+services for the Enterprise in connection with the maintenance, operation, and
+management of the Facility and any activity upon the Property; and the sole
+responsibility for determining whether a prospective employee is qualified and
+the appropriate level of compensation to be paid; provided, however, the Tribal
+Gaming Authority shall have sole and exclusive control over the licensing of
+employees or prospective employees of the Enterprise, and the compliance by such
+employees with the conditions of their license.
+
+                3.6.2   Enterprise Employee Policies. Manager shall prepare a
+draft of personnel policies and procedures (the "Enterprise Employee Policies"),
+including a job classification system with salary levels and scales, which
+policies and procedures shall be subject to approval by the Enterprise. The
+Enterprise Employee Policies shall include a grievance procedure in order to
+establish fair and uniform standards for the employees of the
+
+                                      -16-
+
+<PAGE>
+
+Exhibit 10.10
+
+Enterprise, which will include procedures for the resolution of disputes between
+Manager and Enterprise Employees. Any revisions to the Enterprise Employee
+Policies shall not be effective unless they are approved in the same manner as
+the original Enterprise Employee Policies. All such actions shall comply with
+applicable Tribal law.
+
+                3.6.3   Employees. The selection by the Manager of the General
+Manager, Chief Financial Officer, Director of Human Resources and Public Safety
+Director of the Enterprise shall be subject to the approval of the Enterprise,
+which approval shall not be unreasonably withheld. Manager shall provide the
+Tribal Council with sufficient information to adequately evaluate all
+recommendations for employment in the positions of General Manager, Chief
+Financial Officer, or Security Director. The terms of employment of the
+Enterprise Employees shall be structured as though all labor, employment, and
+unemployment insurance laws applicable in California employees would also apply
+to Enterprise Employees. The Enterprise agrees to take no action to impede,
+supersede or impair such treatment.
+
+                3.6.4   Off-Site Employees. Subject to approval of the
+Enterprise, Manager shall also have the right to use employees of Manager and
+Manager's Affiliates not located at the Facility to provide services to the
+Enterprise ("Off-Site Employees"). All expenses, costs (including, but not
+limited to, salaries and benefits, but excluding pension, retirement, severance
+or similar benefits), which are related to such Off-Site Employees shall be paid
+by Manager.
+
+                3.6.5   No Manager Wages or Salaries. Neither Manager nor
+Manager's Affiliates nor any of their officers, directors, shareholders, or
+employees shall be compensated by wages from or contract payments by the
+Enterprise for their efforts or for any work which they perform under this
+Agreement, other than repayments of advances and the Management Fee to be paid
+to Manager under Section 5.1. Nothing in this subsection shall restrict the
+ability of an employee of the Enterprise to purchase or hold stock in Manager,
+or Manager's Affiliates where (i) such stock is publicly held, and (ii) such
+employee acquires, on a cumulative basis, less than five (5%) percent of the
+outstanding stock in the corporation.
+
+                3.6.6   Employee Background Checks. A background investigation
+shall be conducted by the Tribal Gaming Authority in compliance with all Legal
+Requirements, to the extent applicable, on each applicant for employment as soon
+as reasonably practicable, and in all events within the time necessary to enable
+the Tribal Gaming Authority to forward a report on such applicant for employment
+pursuant to 25 C.F.R. Section 556.5(b) within the 60 day time period provided in
+25 C.F.R. Section 558.3(b). No individual whose prior activities, criminal
+record, if any, or reputation, habits and associations are known to pose a
+threat to the public interest, the effective regulation of Gaming, or to the
+gaming licenses of Manager or any of its Affiliates, or to create or enhance the
+dangers of unsuitable, unfair or illegal practices and methods and activities in
+the conduct of Gaming, shall knowingly be employed by Manager, the Enterprise,
+or the Tribe.
+
+                                      -17-
+
+<PAGE>
+
+Exhibit 10.10
+
+        The background investigation procedures employed by the Tribal Gaming
+Authority shall be formulated in consultation with Manager and shall satisfy all
+regulatory requirements independently applicable to Manager and its Affiliates.
+Any cost associated with obtaining background investigations of the Manager, the
+Enterprise, or the Tribe for the Tribal Gaming Authority shall constitute an
+Operating Expense; costs associated with obtaining background investigations of
+Manager for the NIGC shall be paid by Manager.
+
+                3.6.7   Indian Preference, Recruiting and Training. Manager
+shall offer employment in the Enterprise to all employees in good standing of
+the Class II gaming facility operated by the Tribe prior to the Commencement
+Date. For additional employment needs, Manager shall, during the term of this
+Agreement, to the extent permitted by applicable law, including but not limited
+to the Indian Civil Rights Act, 25 U.S.C. Section 1301 et seq., and the Compact,
+give preference in recruiting, training and employment to qualified members of a
+Native American Tribe recognized by the Federal government or the State of
+California, their spouses and children in all job categories of the Enterprise.
+Manager shall:
+
+                        (i)     conduct job fairs and skills assessment meetings
+for Native Americans;
+
+                        (ii)    abide by any duly enacted Tribal preference
+laws;
+
+                        (iii)   in consultation with and subject to the approval
+of the Tribe, develop a management training program for Native Americans. This
+program shall be structured to provide appropriate training for those
+participating to assume full managerial control at the conclusion of the Term of
+this Agreement;
+
+                        (iv)    train and hire, to the maximum extent permitted
+by law, members of the local communities where the Facility is located. Whenever
+possible, Enterprise jobs shall be filled by Native Americans and persons living
+within Riverside County. Final determination of the qualifications of Native
+Americans and all other persons for employment shall be made by Manager, subject
+to any licensing requirements of the Tribe Gaming Authority.
+
+                3.6.8   Goals and Remedies. All hiring for the Enterprise shall
+be done by Manager, based on the hiring policies established by the Enterprise
+in consultation with Manager.
+
+                3.6.9   Removal of Employees. Manager will act in accordance
+with the Enterprise Employee Policies with respect to the discharge, demotion or
+discipline of any Enterprise Employee.
+
+        3.7     Marketing.
+
+                                      -18-
+
+<PAGE>
+
+Exhibit 10.10
+
+                3.7.1   Nature of Marketing Services. The services described in
+this Section 3.7 ("Marketing Services") shall be provided by Manager.
+
+                3.7.2   Marketing Services. Manager shall provide the following
+Marketing Services:
+
+                        (i)     provide a Marketing Director and adequate staff
+to implement the Marketing Plan; said Marketing Director and staff to be
+employees of the Enterprise;
+
+                        (ii)    upon the later of (a) ninety (90) days prior to
+the scheduled opening date of the Facility and (b) fifteen (15) days following
+the Effective Date, Manager shall have prepared a Marketing Plan for the
+Facility;
+
+                        (iii)   the Marketing Plan shall include provisions for
+the Facility opening, public relations, community relations, electronic and
+print media advertising, industry advertising and relations, employee marketing
+programs, promotional programs, entertainment and hospitality marketing and
+advertising, group sales, special events, tour sales, and any and all other
+related or required components of a complete marketing program sufficient to
+maximize the Facility's position in the local market; and
+
+                        (iv)    Manager shall be responsible for the placement
+of advertising for the Facility consistent with the Marketing Plan.
+
+        3.8     Pre-Opening. Upon the later of (a) six (6) months prior to the
+scheduled Commencement Date and (b) fifteen (15) days following the Effective
+Date, Manager shall commence implementation of a pre-opening program which shall
+include all activities necessary to financially and operationally prepare the
+Facility for opening. To implement the pre-opening program, Manager shall
+prepare a comprehensive pre-opening budget which shall be submitted to the
+Enterprise for its approval upon the later of (x) seven (7) months prior to the
+scheduled Commencement Date and (y) fifteen (15) days following the Effective
+Date ("Pre-Opening Budget"). The Pre-Opening Budget sets forth expenses which
+Manager anticipates to be necessary or desirable in order to prepare the
+Facility for the Commencement Date, including without limitation, cash for
+disbursements, Furnishings and Equipment and Operating Supplies, hiring,
+training, relocation and temporary lodging of employees, advertising and
+promotion, office overhead and office space (whether on or off the Property),
+and travel and business entertainment (including opening celebrations and
+ceremonies) ("Pre-Opening Expenses"). The Enterprise recognizes that the
+Pre-Opening Budget has been prepared well in advance of the Commencement Date
+and is intended only to be a reasonable estimate, subject to variation due to a
+number of factors, some of which will be outside of Manager's control (e.g., the
+time of completion, inflationary factors and varying conditions for the goods
+and services required). The Enterprise agrees that the Pre-Opening Budget may be
+modified from time to time, subject
+
+                                      -19-
+
+<PAGE>
+
+Exhibit 10.10
+
+to approval of the Enterprise in accordance with the procedure established by
+Article 3.9 of this Agreement for adjustments to the Operating Budget and Annual
+Plan.
+
+        3.9     Operating Budget and Annual Plan. Manager shall, prior to the
+scheduled Commencement Date, submit to the Enterprise, for its approval, a
+proposed Operating Budget and Annual Plan for the remainder of the current
+Fiscal Year. Thereafter, Manager shall, not less than sixty (60) days prior to
+the commencement of each full or partial Fiscal Year, submit to the Enterprise,
+for its approval, a proposed Operating Budget and Annual Plan for the ensuing
+full or partial Fiscal Year, as the case may be. The Operating Budget and Annual
+Plan shall include a projected income statement, balance sheet, and projection
+of cash flow for the Enterprise, with detailed justifications explaining the
+assumptions used therein. Included with the Operating Budget and Annual Plan
+shall be a schedule of repairs and maintenance (other than Capital
+Replacements), a business and marketing plan for the Fiscal Year, and the
+Minimum Balance which must remain in the Enterprise Bank Accounts and the House
+Bank as of the end of each month during the Fiscal Year to assure sufficient
+monies for working capital purposes, the House Bank and other expenditures
+authorized under the Operating Budget and Annual Plan.
+
+The Operating Budget and Annual Plan for the Facility will be comprised of the
+following:
+
+                (i)     a statement of the estimated income and expenses for the
+coming Fiscal Year, including estimates as to Gross Revenues and Operating
+Expenses for such Fiscal Year, such operating budget to reflect the estimated
+results of the operation during each month of the subject Fiscal Year;
+
+                (ii)    either as part of the statement of the estimated income
+and expenses referred to in the preceding clause (i), or separately, budgets
+(and timetables and requirements of Manager) for:
+
+                        (a)     repairs and maintenance;
+
+                        (b)     Capital Replacements;
+
+                        (c)     Furnishings and Equipment;
+
+                        (d)     advertising and business promotion programs for
+the Facility;
+
+                        (e)     the estimated cost of Promotional Allowances;
+and
+
+                (iii)   a business and marketing plan for the subject Fiscal
+Year.
+
+                                      -20-
+
+<PAGE>
+
+Exhibit 10.10
+
+        The Enterprise's approval of the Operating Budget and Annual Plan shall
+not be unreasonably withheld or delayed. Manager shall meet with the Enterprise
+to discuss the proposed Operating Budget and Annual Plan and the Enterprise's
+approval shall be deemed given unless a specific written objection thereto is
+delivered by the Enterprise to Manager within thirty (30) days after Manager and
+the Enterprise have met to discuss the proposed Operating Budget and Annual
+Plan. If the Enterprise for any reason shall fail to meet with Manager to
+discuss a proposed Operating Budget and Annual Plan, the Enterprise shall be
+deemed to have consented unless a specific written objection is delivered to
+Manager within fifteen (15) days after the date the proposed Operating Budget
+and Annual Plan is submitted to the Enterprise. The Enterprise shall review the
+Operating Budget and Annual Plan on a line-by-line basis. To be effective, any
+notice which disapproves a proposed Operating Budget and Annual Plan must
+contain specific objections in reasonable detail to individual line items.
+
+        If the initial proposed Operating Budget and Annual Plan contains any
+disputed budget item(s), the Enterprise and Manager agree to cooperate with each
+other in good faith to resolve the disputed or objectionable proposed item(s).
+In the event the Enterprise and Manager are not able to reach mutual agreement
+concerning any disputed or objectionable item(s) prior to the commencement of
+the applicable fiscal year, the undisputed portions of the proposed Operating
+Budget and Annual Plan shall be deemed to be adopted and approved and the
+corresponding line item(s) contained in the Operating Budget and Annual Plan for
+the preceding fiscal year shall be adjusted as set forth herein and shall be
+substituted in lieu of the disputed item(s) in the proposed Operating Budget and
+Annual Plan. Those line items which are in dispute shall be determined by
+increasing the preceding fiscal year's actual expense for the corresponding line
+items by an amount determined by Manager which does not exceed the Consumer
+Price Index for All Urban Consumers published by the Bureau of Labor Statistics
+of the United States Department of Labor, Los Angeles-Riverside-Orange County
+Average, all items (1982-1984 = 100) for the Fiscal Year prior to the Fiscal
+Year with respect to which the adjustment to the line item(s) is being
+calculated or any successor or replacement index thereto. The resulting
+Operating Budget and Annual Plan obtained in accordance with the preceding
+sentence shall be deemed to be the Operating Budget and Annual Plan in effect
+until such time as Manager and the Enterprise have resolved the items objected
+to by the Enterprise.
+
+                3.9.1   Adjustments to Operating Budget and Annual Plan.
+Manager may, after notice to and approval by the Enterprise, revise the
+Operating Budget and Annual Plan from time to time, as necessary, to reflect any
+unpredicted significant changes, variables or events or to include additional,
+unanticipated items of expense. Manager may, after notice to the Enterprise,
+reallocate part or all of the amount budgeted with respect to any line item to
+another line item and to make such other modifications to the Operating Budget
+and Annual Plan as Manager deems necessary, provided that the total adjustments
+to the Operating Budget and Annual Plan shall not exceed one hundred ten percent
+(110%) of the aggregate approved Operating Budget and Annual Plan without
+approval of the Enterprise. Manager shall submit a revision of the Operating
+Budget and Annual Plan to the Tribe for review on a quarterly basis. In
+addition, in the event actual Gross Revenues for any period are greater than
+those provided for
+
+                                      -21-
+
+<PAGE>
+
+Exhibit 10.10
+
+in the Operating Budget and Annual Plan, the amounts approved in the Operating
+Budget and Annual Plan for guest services, food and beverage, telephone,
+utilities, marketing and the repair and maintenance of the Facility for any
+month shall be automatically deemed to be increased to an amount that bears the
+same relationship (ratio) to the amounts budgeted for such items as actual Gross
+Revenue for such month bears to the projected Gross Revenue for such month. The
+Enterprise acknowledges that the Operating Budget and Annual Plan is intended
+only to be a reasonable estimate of the Facility's revenues and expenses for the
+ensuing Fiscal Year. Manager shall not be deemed to have made any guarantee
+concerning projected results contained in the Operating Budget and Annual Plan.
+
+        3.10    Capital Budgets; Permitted Hotel Debt. Manager shall, prior to
+the Commencement Date and thereafter, not less than sixty (60) days prior to the
+commencement of each fiscal year, or partial fiscal year after the Commencement
+Date, submit to the Enterprise a recommended capital budget (the "Capital
+Budget") describing the present value, estimated useful life and estimated
+replacement costs for the ensuing full or partial year, as the case may be, for
+the physical plant, furnishings, equipment, and ordinary capital replacement
+items, all of which are defined to be any items, the cost of which is
+capitalized and depreciated, rather than expensed, using GAAP ("Capital
+Replacements") as shall be required to operate the Facility in accordance with
+sound business practices. Capital Replacements in the Capital Budget in an
+aggregate sum equal to or less than the sum of the Capital Replacement Reserve
+for the Fiscal Year shall be approved by the Enterprise; and any amounts in
+excess of the Capital Replacement Reserve for the Fiscal Year shall be subject
+to approval of the Enterprise in its sole discretion. The Enterprise and Manager
+shall meet to discuss the proposed Capital Budget and the Enterprise shall be
+required to make specific written objections to a proposed Capital Budget in the
+same manner and within the same time periods specified in Section 3.9 with
+respect to an Operating Budget and Annual Plan. The Enterprise shall not
+unreasonably withhold or delay its consent. Unless the Enterprise and Manager
+otherwise agree, Manager shall be responsible for the design and installation of
+Capital Replacements, subject to the Enterprise's approval. The Enterprise shall
+not incur any indebtedness to finance or refinance the development of a hotel in
+connection with the operation of the Enterprise unless the payment obligations
+of the Enterprise with respect to such indebtedness is contractually
+subordinated to the payment of the Management Fee upon terms and conditions
+satisfactory to Manager.
+
+        3.11    Capital Replacements. The Enterprise shall effect and expend
+such amounts for any Capital Replacements as shall be required, in the course of
+the operation of the Facility, to maintain, at a minimum, the Facility in
+compliance with any Legal Requirements and to comply with Manager's recommended
+programs for renovation, modernization and improvement intended to keep the
+Facility competitive in its market, to maintain industry standards; or to
+correct any condition of an emergency nature, including without limitation,
+maintenance, replacements or repairs which are required to be effected by the
+Enterprise, which in Manager's sole discretion requires immediate action to
+preserve and protect the Facility, assure its continued operation, and/or
+protect the comfort, health, safety and/or welfare of the Facility's guests or
+employees (an "Emergency Condition"); provided, however, that the
+
+                                      -22-
+
+<PAGE>
+
+Exhibit 10.10
+
+Enterprise shall be under no obligation to fund Capital Replacements in
+aggregate amount greater than its periodic required contributions to the Capital
+Replacement Reserve described in Section 3.12. Manager is authorized to take all
+steps and to make all expenditures from the Working Capital Account, described
+at Section 3.17.1 (in the case of non-capitalized repairs and maintenance), or
+Capital Replacement Reserve Account, described at Section 3.12, (in the case of
+expenditures for Capital Replacements) as it deems necessary to repair and
+correct any Emergency Condition, regardless whether such provisions have been
+made in the Capital Budget or the Operating Budget and Annual Plan for any such
+expenditures; or the cost thereof may be advanced by Manager and reimbursed from
+future revenues. Design and installation of Capital Replacements shall be
+effected in a time period and subject to such conditions as the Enterprise may
+establish to minimize interference with or disruption of ongoing operations.
+
+        3.12    Capital Replacement Reserve. Manager shall establish a Capital
+Replacement Reserve on the books of account of the Facility, and an account (the
+"Capital Replacement Reserve Account") in the Enterprise's name at a bank
+designated by the Enterprise in accordance with Section 3.17.1 of this
+Agreement. All amounts in the Capital Replacement Reserve Account shall be
+invested in interest bearing investments in accordance with the Enterprise
+Investment Policy approved by the Enterprise, attached hereto as Exhibit C to
+the extent that availability of funds, when required, is not thereby impaired.
+Interest earned on amounts deposited in the Capital Replacement Reserve Account
+shall be credited to the Capital Replacement Reserve and shall be available for
+payment of expenditures for Capital Replacements to the Facility. Manager shall
+draw on the Capital Replacement Reserve Account for Capital Replacements to
+purchase those items included in the Capital Budget approved by the Enterprise
+or such emergency additions, repairs or replacements as shall be required to
+correct an Emergency Condition or to comply with operating standards.
+
+        3.13    Periodic Contributions to Capital Replacement Reserve. In
+accordance with Section 5.4 of this Agreement, Manager shall make monthly
+deposits into the Capital Replacement Reserve Account in amounts equivalent to
+an annual rate of two percent (2%) of Net Revenues during the first two (2)
+years of the Term of this Agreement after the Commencement Date and equivalent
+to an annual rate of three percent (3%) of Net Revenues during the remainder of
+the Term. If any adjustment of Net Revenues is made as a result of an audit or
+for other accounting reasons, a corresponding adjustment in the Capital
+Replacement Reserve Account deposit shall be made. In addition, all proceeds
+from the sale of capital items no longer needed for the operation of the
+Facility, and the proceeds of any insurance received in reimbursement for any
+items previously paid for from the Capital Replacement Reserve, shall be
+deposited into the Capital Replacement Reserve Account upon receipt.
+
+        3.14    Use and Allocation of Capital Replacement Reserve. Any
+expenditures for Capital Replacements which have been budgeted and previously
+approved may be paid from the Capital Replacement Reserve Account without
+further approval from the Enterprise. Any amounts remaining in the Capital
+Replacement Reserve Account at the close of any year shall be carried forward
+and retained in the Capital Replacement Reserve Account until fully used. If
+
+                                      -23-
+
+<PAGE>
+
+Exhibit 10.10
+
+amounts in the Capital Replacement Reserve Account at the end of any year plus
+the anticipated contributions to the Capital Replacement Reserve Account for the
+next ensuing year are not sufficient to pay for Capital Replacements authorized
+by the Capital Budget for such ensuing year, then funds in the amount of the
+projected deficiency may be advanced by Manager to be repaid to Manager pursuant
+to Section 5.4 of this Agreement as a Manager Advance.
+
+        3.15    Contracting. In entering contracts for the supply of goods and
+services for the Facility, Manager shall give preference to qualified members of
+the Tribe, their spouses and children, and qualified business entities certified
+by the Tribe to be controlled by members of the Tribe.
+
+        "Qualified" shall mean a member of the Tribe, a member's spouse or
+children, or a business entity certified by the Tribe to be controlled by
+members of the Tribe, who or which is able to provide services at competitive
+prices, has demonstrated skills and abilities to perform the tasks to be
+undertaken in an acceptable manner, in Manager's opinion, and can meet the
+reasonable bonding and/or financial requirements of Manager.
+
+        3.16    Internal Control Systems. Manager shall install systems for
+monitoring of all funds (the "Internal Control Systems"), which systems shall
+comply with all Legal Requirements, and shall be submitted to the Enterprise and
+the Tribal Gaming Authority for approval in advance of implementation, which
+approval shall not be unreasonably withheld. The Enterprise shall have the right
+to retain an auditor to review the adequacy of the Internal Control Systems
+prior to the Commencement Date. If the Enterprise elects to exercise this right,
+the cost of such review shall be a Pre-Opening Expense. Any significant changes
+in such systems after the Commencement Date also shall be subject to review and
+approval by the Tribal Gaming Authority in advance of implementation. The Tribal
+Gaming Authority and Manager shall have the right and duty to maintain and
+police the Internal Control Systems in order to prevent any loss of proceeds
+from the Facility. The Tribal Gaming Authority shall have the right to inspect
+and oversee the Internal Control System at all times. Manager shall install a
+closed circuit television system to be used for monitoring all cash handling
+activities of the Facility sufficient to meet all Legal Requirements.
+
+        3.17    Banking and Bank Accounts.
+
+                3.17.1  Enterprise Bank Accounts. The Enterprise shall select a
+bank or banks for the deposit and maintenance of funds and shall establish in
+such bank or banks accounts as Manager deems appropriate and necessary in the
+course of business and as consistent with this Agreement, including, but not
+limited to, a Depository Account, Disbursement Account, a Working Capital
+Account and a Capital Replacement Reserve Account ("Enterprise Bank Accounts").
+Establishment of any Enterprise Bank Account shall be subject to the approval of
+the Enterprise. The sum of money agreed upon by the Manager and the Enterprise
+to be maintained in the Working Capital Account to serve as working capital for
+Facility operations, shall include all sums needed for the House Bank, all sums
+needed to accrue
+
+                                      -24-
+
+<PAGE>
+
+Exhibit 10.10
+
+for payment of expenses not paid on a monthly basis, and all sums needed to be
+reserved taking into account anticipated cash flow and Operating Expenses of the
+Facility based upon, among other things, seasonality (the "Minimum Balance").
+The Manager may increase the Minimum Balance, in Manager's sole discretion, at
+any time during the first year following the Commencement Date to reflect
+unanticipated working capital needs revealed by actual Facility operations, and
+during the first and subsequent years to account for the seasonality of business
+operations. Attached hereto as Exhibit E is the form of Irrevocable Banking
+Instructions to be executed by the Enterprise with regard to each Enterprise
+Bank Account and to be in effect during the Term of this Agreement, other than
+with respect to the accounts maintained by the Enterprise with the "Collection
+Bank" and the "Depository Bank" pursuant to the Transfer and Deposit Agreement.
+Prior to the Commencement Date, the Enterprise shall transfer to the Working
+Capital Account an amount equal to the initial Minimum Balance. In the event the
+revenue of the Facility is insufficient at any time to maintain the Minimum
+Balance after the payment of Operating Expenses, the Enterprise shall transfer
+to the Working Capital Account funds in an amount equal to the difference
+between the Minimum Balance and the cash balance of the Working Capital Account
+prior to such transfer. The parties agree that so long as the Transfer and
+Deposit Agreement shall be in effect, the "Accounts" specified therein shall
+constitute the Disbursement Account of the Enterprise.
+
+                3.17.2  Daily Deposits to Depository Account. Manager shall
+collect all gross revenues and other proceeds connected with or arising from the
+operation of the Facility, the sale of all products, food and beverage, and all
+other activities of the Facility and deposit the related cash, other than
+reasonably required cage cash and petty cash, daily into the Depository Account
+at least once during each twenty-four (24) hour period. All money received by
+the Facility on each day that it is open must be counted at the close of
+operations for that day or at least once during each twenty-four (24) hour
+period. Manager agrees to obtain a bonded transportation service to effect the
+safe transportation of the daily deposit to the bank, which expense shall
+constitute an Operating Expense.
+
+                3.17.3  Disbursement Account. Manager shall, consistent with
+and pursuant to the approved annual Operating Budget and Annual Plan, have
+responsibility and authority for making or otherwise authorizing all payments
+for Operating Expenses, debt service, Management Fees, and disbursements to the
+Tribe from the Disbursement Account in accordance with the provisions of Section
+5.
+
+                3.17.4  Transfers Between Accounts. Manager has the authority
+to transfer funds from and between the Enterprise Bank Accounts to the
+Disbursement Account in order to pay Operating Expenses and to pay debt service
+pursuant to the Financing Agreements and Note, to invest funds in accordance
+with the Enterprise Investment Policy and to pay the fees payable to Manager and
+distributions to the Tribe pursuant to this Agreement.
+
+        3.18    Insurance. Manager, on behalf of the Tribe and the Enterprise,
+shall arrange for, obtain and maintain, or cause its agents to maintain, with
+responsible insurance
+
+                                      -25-
+
+<PAGE>
+
+Exhibit 10.10
+
+carriers licensed to do business in the State of California, insurance
+satisfactory to Manager and the Enterprise covering the Facility and the
+operations of the Enterprise, naming the Tribe, the Enterprise, Manager, and
+Manager's Affiliates as insured parties, in at least the amounts which are set
+forth in Exhibit F.
+
+        3.19    Accounting and Books of Account.
+
+                3.19.1  Statements. Manager shall prepare and provide operating
+statements to the Enterprise on a monthly, quarterly, and annual basis. The
+operating statements shall comply with all Legal Requirements and shall include
+an income statement, statement of cash flows, and balance sheet for the
+Enterprise. Such statements shall include the Operating Budget and Annual Plan
+and Capital Budget projections as comparative statements, and which, after the
+first full year of operation, will include comparative statements from the
+comparable period for the prior year of all revenues, and all other amounts
+collected and received, and all deductions and disbursements made therefrom in
+connection with the Facility.
+
+                3.19.2  Books of Account. Manager shall maintain full and
+accurate books of account at an office in the Facility. The Enterprise and the
+Tribe shall have the right to immediate access to the daily operations of the
+Facility and shall have the unlimited right to inspect, examine, and copy all
+such books and supporting business records. Any such copies are to be considered
+confidential and proprietary and shall not be divulged to any third parties
+without the express written permission of the Enterprise. Such rights may be
+exercised through the Tribal Gaming Agency or through an agent, employee,
+attorney, or independent accountant acting on behalf of the Tribe or the
+Enterprise.
+
+                3.19.3  Accounting Standards. Manager shall maintain the books
+and records reflecting the operations of the Facility in accordance with the
+accounting practices of Manager in conformity with Generally Accepted Accounting
+Principles consistently applied and shall adopt and follow the fiscal accounting
+periods utilized by Manager in its normal course of business (i.e., a month,
+quarter and year prepared in accordance with the Enterprise Fiscal Year). The
+accounting systems and procedures shall comply with Legal Requirements and, at a
+minimum:
+
+                        (i)     include an adequate system of internal
+accounting controls;
+
+                        (ii)    permit the preparation of financial statements
+in accordance with generally accepted accounting principles;
+
+                        (iii)   be susceptible to audit;
+
+                        (iv)    permit the calculation and payment of the
+Management Fee described in Section 5;
+
+                                      -26-
+
+<PAGE>
+
+Exhibit 10.10
+
+                        (v)     provide for the allocation of operating expenses
+or overhead expenses among the Tribe, the Enterprise, and any other user of
+shared facilities and services; and
+
+                        (vi)    allow the Enterprise, the Tribe and the NIGC to
+calculate the annual fees required under 25 C.F.R. Section 514.1.
+
+                3.19.4  Annual Audit. An independent certified public
+accounting firm of national recognition engaged by the Enterprise or the Tribe
+shall perform an annual audit of the books and records of the Enterprise and of
+all contracts for supplies, services or concessions reflecting Operating
+Expenses. The BIA and the NIGC shall also have the right to perform special
+audits of the Enterprise on any aspect of the Enterprise at any time without
+restriction. The costs incurred for such audits shall constitute an Operating
+Expense. Such audits shall be provided by the Tribe or the Enterprise, as the
+case may be, to all applicable federal and state agencies, as required by law,
+and may be used by Manager for reporting purposes under federal and state
+securities laws, if required.
+
+        3.20    Retail Shops and Concessions. With respect to the operation of
+the shops and concessions located within the Facility, the Enterprise shall
+approve in advance in writing the specific type or types of shops or concessions
+proposed by Manager to be authorized for inclusion in the Facility.
+
+                                    SECTION 4
+                                     LIENS
+
+        4.1     Liens Subject to the exceptions hereinafter stated in Section
+5.1, the Tribe and the Enterprise specifically warrant and represent to Manager
+that during the term of this Agreement neither the Tribe nor the Enterprise
+shall act in any way whatsoever, either directly or indirectly, to cause any
+person or entity to become an encumbrancer or lienholder of the Property or the
+Facility, other than the Lender, or to allow any person or entity to obtain any
+interest in this Agreement without the prior written consent of Manager, and,
+where applicable, consent from the United States. Manager specifically warrants
+and represents to the Tribe and the Enterprise that during the term of this
+Agreement Manager shall not act in any way, directly or indirectly, to cause any
+person or entity to become an encumbrancer or lienholder of the Property or the
+Facility, or to obtain any interest in this Agreement without the prior written
+consent of the Tribe or the Enterprise, and, where applicable, the United
+States. The Tribe, the Enterprise and Manager shall keep the Facility and
+Property free and clear of all enforceable mechanics' and other enforceable
+liens resulting from the construction of the Facility and all other enforceable
+liens which may attach to the Facility or the Property, which shall at all times
+remain the property of the United States in trust for the Tribe. If any such
+lien is claimed or filed, it shall be the duty of Manager, utilizing funds of
+the Enterprise, to discharge the lien within thirty (30) days after having been
+given written notice of such claim, either by payment to the claimant, by the
+posting of a bond and the payment into the court of the amount necessary to
+
+                                      -27-
+
+<PAGE>
+
+Exhibit 10.10
+
+relieve and discharge the Property from such claim, or in any other manner which
+will result in the discharge or stay of such claim.
+
+        4.2     Exceptions. The Enterprise shall have the right to grant
+security interests in Facility revenues, as well as first priority security
+interests in any Facility assets other than personal property purchased with the
+proceeds of the Loan, but only if such security interests are granted to secure
+loans made to and for the benefit of the Enterprise.
+
+                                    SECTION 5
+          MANAGEMENT FEE, REIMBURSEMENTS AND DISBURSEMENTS BY MANAGER
+
+        5.1     Management Fee. In consideration of the services rendered by
+Manager pursuant to this Agreement, Manager shall be entitled to an annual
+Management Fee equal to thirty (30%) percent of Net Revenues per each Fiscal
+Year. The Management Fee shall be payable monthly in an amount equal to the
+accrued Management Fee for the preceding month plus any Shortfall Amount.
+Notwithstanding anything contained in this Agreement to the contrary, Manager
+shall not be entitled to any compensation for providing management services
+pursuant to this Agreement other than the annual Management Fee.
+
+        5.2     Disbursements for Operating Expenses. Each month, Manager
+shall, for and on behalf of the Enterprise, cause funds to be disbursed from the
+Disbursement Account, to the extent available, to pay Operating Expenses due and
+payable. So long as the Transfer and Deposit Agreement shall be in effect, such
+disbursements shall be from the "Operating Account" specified therein.
+
+        5.3     Disbursements for Debt Service. After the disbursements
+pursuant to Section 5.2, Manager shall, for and on behalf of the Enterprise,
+disburse funds from the Disbursement Account, to the extent available, to pay
+debt service due and payable in accordance with the Loan Agreement. Thereafter,
+Manager shall, for and on behalf of the Enterprise, cause funds to be disbursed
+from the Disbursement Account, to the extent available, to pay debt service due
+and payable in accordance with Financing Agreements other than the Loan
+Agreement in accordance with the payment priorities specified in the Loan
+Agreement and the Financing Agreements. So long as the Transfer and Deposit
+Agreement shall be in effect, such disbursements shall be from the "Debt Service
+Account," "Permitted Equipment Debt Account," and "Permitted Other Debt Account"
+specified therein, respectively.
+
+        5.4     Payment of Fees and Tribal Disbursement. Within twenty-one (21)
+days after the end of each calendar month of operations, Manager shall calculate
+Gross Revenues, Operating Expenses, and Net Revenues of the Facility for the
+previous month's operations and the year's operations to date.
+
+                5.4.1   Disbursements Pursuant to Transfer and Deposit
+Agreement. After the disbursements pursuant to Sections 5.2 and 5.3, so long as
+the Transfer and Deposit
+
+                                      -28-
+
+<PAGE>
+
+Exhibit 10.10
+
+Agreement shall be in effect, Manager shall cause funds to be disbursed from the
+Enterprise Bank Account(s) in accordance with the provisions of Section 3.6, 3.7
+and 3.8 thereof. Funds released to the Enterprise pursuant to Section 3.8(d) of
+the Transfer and Deposit Agreement ("Excess Funds") shall be applied in the
+following order:
+
+                        (i)     an amount necessary to maintain the Minimum
+Balance shall be deposited in the Working Capital Account;
+
+                        (ii)    amounts specified to fund the Capital
+Replacement Reserve pursuant to Section 3.13 shall be deposited in the Capital
+Replacement Reserve Account;
+
+                        (iii)   an amount equal to any Manager Advance shall be
+disbursed to the Manager; and
+
+                        (iv)    the balance of Excess Funds shall be disbursed
+to the Enterprise.
+
+                5.4.2   Disbursements Other Than Pursuant to Transfer and
+Deposit Agreement. In the event the Transfer and Deposit Agreement shall no
+longer be in effect, after the disbursements pursuant to Sections 5.2 and 5.3,
+Manager shall cause the funds remaining in the Enterprise Bank Account(s)
+("Excess Funds") to be applied in the following order:
+
+                        (i)     the Minimum Guaranteed Monthly Payment described
+in Section 5.5 shall be disbursed to the Tribe;
+
+                        (ii)    an amount necessary to maintain the Minimum
+Balance shall be deposited in the Working Capital Account;
+
+                        (iii)   Capital Replacement Reserve contributions as
+described in Section 3.13 shall be deposited in the Capital Replacement Reserve
+Account;
+
+                        (iv)    Such amount as is necessary to reimburse Manager
+for any outstanding Manager Advance shall be disbursed to the Manager;
+
+                        (v)     the Tribal Priority Distribution shall be
+disbursed to the Tribe;
+
+                        (vi)    the Management Fee shall be disbursed to the
+Manager, together with any outstanding Shortfall Amount;
+
+                        (vii)   after disbursement of the Management Fee and any
+Shortfall Amount, all remaining Excess Funds shall be distributed to the
+Enterprise.
+
+                5.4.3   Shortfall Amounts and Manager Advances. Shortfall
+Amounts due Manager and Manager Advances shall be paid at such time as
+sufficient Excess Funds exist
+
+                                      -29-
+
+<PAGE>
+
+Exhibit 10.10
+
+to pay such Shortfall Amounts or Manager Advances in accordance with Section
+5.4, notwithstanding that such Shortfall Amount may have been incurred or
+Manager Advance may have been made in a prior fiscal year; provided, however,
+that the Enterprise shall be under no obligation to pay any Shortfall Amount
+that may be outstanding upon the expiration of the Term of this Agreement.
+
+        5.5     Minimum Guaranteed Monthly Payment. Manager shall pay the Tribe
+from Net Revenues Fifty Thousand ($50,000) Dollars per month (the "Minimum
+Guaranteed Monthly Payment"), beginning on the Commencement Date and continuing
+for the remainder of the Term in accordance with Section 5.4. The Minimum
+Guaranteed Monthly Payment shall have preference over the retirement of
+development and construction costs of the Facility. The Minimum Guaranteed
+Monthly Payment shall be payable to the Tribe in arrears on the twenty-first
+(21st) day of each calendar month following the month in which the Commencement
+Date occurs, which payment shall have priority over the Management Fee. If the
+Commencement Date is a date other than the first day of a calendar month, the
+first payment will be prorated from the Commencement Date to the end of the
+month. Minimum Guaranteed Monthly Payments shall be charged against the Tribe's
+distribution of Net Revenues for each month provided, however, where the Net
+Revenues in a given month are less than Fifty Thousand ($50,000) Dollars,
+Manager shall advance the funds necessary to compensate for the deficiency from
+its own funds. In the event Class II and/or Class III gaming is suspended for
+any portion of a month, the Guaranteed Monthly Payment shall be prorated and
+payable for the portion of the month during which gaming was conducted at the
+Facility. No Minimum Guaranteed Monthly Payment shall be owed for a month in the
+event Class II and/or Class III gaming is suspended or terminated at the
+Facility pursuant to Section 3.4 for the entire month. The obligation of Manager
+to make Minimum Guaranteed Monthly Payments shall cease upon termination of this
+Agreement. Except as provided in the preceding sentence of this Section 5.5,
+Manager's obligation to pay the Tribe the Minimum Guaranteed Monthly Payment is
+unconditional, and shall not be affected by the actual level of funds generated
+by the Facility.
+
+        5.6     Distribution of Excess Funds. The distributions of Excess Funds
+to the Enterprise pursuant to this Section 5 shall be deposited in the
+Enterprise's bank account specified by the Enterprise in a notice to Manager
+pursuant to Section 8.2.
+
+        5.7     Manager Guaranty. Manager shall guarantee the obligations of
+the Enterprise under the Financing Agreements in an amount up to the amount of
+the Development Fee paid to Trump Hotels & Casino Resorts Development Company,
+LLC pursuant to the Development and Construction Agreement dated as of April 27,
+2000 between Trump Hotels & Casino Resorts Development Company and the Tribe, as
+the same may be amended (the "Manager Guaranty"). Any payments made by Manager
+in respect of the Manager Guaranty shall be reimbursed to Manger as provided in
+Section 5.4 herein.
+
+                                      -30-
+
+<PAGE>
+
+Exhibit 10.10
+
+        5.8     Development and Construction Costs. Manager and the Tribe agree
+that $68 million shall be the maximum amount paid by the Enterprise for the
+recoupment of development and construction costs.
+
+                                    SECTION 6
+                   TRADE NAMES, TRADE MARKS AND SERVICE MARKS
+
+        6.1     Facility Name. The Facility shall be operated under the name
+"Trump Spotlight 29 Casino Hotel" or such other name as the parties may agree
+upon (the "Facility Name") during the Term of this Agreement, subject to and in
+accordance with the terms and conditions of the Trademark License Agreement
+dated May 31, 2000, between Trump Hotels & Casino Resorts Holdings, L.P. and the
+Tribe, as amended by the First Amendment to Trademark License Agreement dated as
+of March ___, 2002.
+
+        6.2     Signs. Prior to the Commencement Date and from time to time
+during the Term hereof, Manager agrees to erect and install, in accordance with
+local codes and regulations, all signs Manager deems necessary in, on or about
+the Facility, including, but not limited to, signs bearing the Facility Name.
+
+                                    SECTION 7
+                                     TAXES
+
+        7.1     State and Local Taxes. If the State of California or any local
+government attempts to impose any tax including any possessory interest tax upon
+any party to this Agreement or upon the Enterprise, the Facility or the
+Property, the Tribal Council, in the name of the appropriate party or parties in
+interest, may resist such attempt through legal action. The costs of such action
+and the compensation of legal counsel shall be an Operating Expense of the
+Facility. Any such tax shall constitute an Operating Expense of the Facility.
+This Section shall in no manner be construed to imply that any party to this
+Agreement or the Enterprise is liable for any such tax.
+
+        7.2     Tribal Taxes. The Tribe agrees that neither it nor any agent,
+agency, affiliate or representative of the Tribe will impose any taxes, fees,
+assessments, or other charges of any nature whatsoever on payments of any debt
+service to Manager or any of its Affiliates or to any lender furnishing
+financing for the Facility or for the Enterprise, or on the Enterprise, the
+Facility, the revenues therefrom or on the Management Fee as described in
+Section 5.1 of this Agreement; provided, however, the Tribe may assess license
+fees reflecting reasonable regulatory costs incurred by the Tribal Gaming Agency
+to the extent not paid as Operating Expenses; the Tribe further agrees that
+neither it nor any agent, agency, affiliate or representative will impose any
+taxes, fees, assessments or other charges of any nature whatsoever on the
+salaries or benefits, or dividends paid to, any of Manager's stockholders,
+officers, directors, or employees, any of the employees of the Enterprise; or
+any provider of goods, materials, or services to the Facility, other than with
+respect to any such provider of goods, materials, or
+
+                                      -31-
+
+<PAGE>
+
+Exhibit 10.10
+
+services to the Facility, license fees reflecting reasonable regulatory costs
+incurred by the Tribal Gaming Authority.
+
+        Nothing in this Section 7.2 shall be construed to prohibit the Tribe
+from taxing the sale of goods at the Facility in amounts equivalent to any state
+taxes that would otherwise be applicable but for the Tribe's status as an Indian
+tribe; provided that no such tax shall be applied to any goods supplied as
+Promotional Allowances.
+
+        7.3     Compliance with Internal Revenue Code. Manager shall comply
+with all applicable provisions of the Internal Revenue Code.
+
+                                    SECTION 8
+                               GENERAL PROVISIONS
+
+        8.1     Situs of the Contracts. This Agreement, as well as all
+contracts entered into between the Tribe, the Enterprise and any person or any
+entity providing services to the Facility, shall be deemed entered into in
+California, and shall be subject to all Legal Requirements of the Tribe and
+federal law as well as approval by the Secretary of the Interior where required
+by 25 U.S.C. Section 81 or by the Chairman of the NIGC where required by the
+IGRA.
+
+        8.2     Notice. Any notice required to be given pursuant to this
+Agreement shall be delivered to the appropriate party by Federal Express or by
+Certified Mail Return Receipt Requested, addressed as follows:
+
+        If to the Tribe or the Enterprise, to:
+
+                            Dean Mike, Chairman
+                            Twenty-Nine Palms Band of Luiseno Mission Indians
+                            of California
+                            46-200 Harrison Place
+                            Coachella CA 92236
+
+        with a copy to:     Gene R. Gambale, Esq.
+                            Vice President-General Counsel
+                            Spotlight 29 Enterprises
+                            46-200 Harrison Place
+                            Coachella CA 92236
+
+        If to Manager, to:  Robert M. Pickus
+                            Executive Vice President and General Counsel
+                            Trump Hotels & Casino Resorts, Inc.
+                            Huron Avenue & Brigantine Boulevard
+                            Atlantic City NJ 08401
+
+                                      -32-
+
+<PAGE>
+
+Exhibit 10.10
+
+        with copies to:     John M. Peebles, Esq.
+                            Monteau, Peebles & Marks, L.L.P.
+                            12100 West Center Road, Suite 202
+                            Bel Air Plaza
+                            Omaha NE 68144-3960
+
+        and:                Peter Michael Laughlin, Esq.
+                            Graham, Curtin & Sheridan, PA
+                            4 Headquarters Plaza
+                            Morristown NJ 07962-1991
+
+or to such other different address(s) as Manager, the Enterprise or the Tribe
+may specify in writing using the notice procedure called for in this Section
+8.2. Any such notice shall be deemed given two (2) days following deposit in the
+United States mail or upon actual delivery, whichever first occurs.
+
+        8.3     Authority to Execute and Perform Agreement. The Tribe, the
+Enterprise and Manager represent and warrant to each other that they each have
+full power and authority to execute this Agreement and to be bound by and
+perform the terms hereof. On request, each party shall furnish the other
+evidence of such authority.
+
+        8.4     Relationship. Manager, the Enterprise and the Tribe shall not
+be construed as joint venturers or partners of each other by reason of this
+Agreement and neither shall have the power to bind or obligate the other except
+as set forth in this Agreement.
+
+        8.5     Manager's Contractual Authority. Manager is authorized to make,
+enter into and perform in the name of and for the account of the Enterprise,
+such contracts deemed necessary by Manager to perform its obligations under this
+Agreement, provided such contracts comply with the terms and conditions of this
+Agreement, including, but not limited to, Section 3.2.4, and provided such
+contracts do not obligate the Enterprise to pay sums not approved in the
+Operating Budget and Annual Plan or the Capital Budget.
+
+        8.6     Further Actions. The Tribe, the Enterprise and Manager agree to
+execute all contracts, agreements and documents and to take all actions
+necessary to comply with the provisions of this Agreement and the intent hereof.
+
+        8.7     Defense. Except for disputes between the Tribe, the Enterprise
+and Manager, and claims relating to the Tribe's status as a Tribe or the trust
+status of the Property, Manager shall bring and/or defend and/or settle any
+claim or legal action brought against Manager, the Enterprise or the Tribe,
+individually, jointly or severally, or any Enterprise Employee, in connection
+with the operation of the Facility. Subject to the Tribe's approval of legal
+counsel, Manager shall retain and supervise legal counsel, accountants and such
+other professionals, consultants and specialists as Manager deems appropriate to
+defend any such
+
+                                      -33-
+
+<PAGE>
+
+Exhibit 10.10
+
+claim or cause of action. All liabilities, costs and expenses, including
+reasonable attorneys' fees and disbursements incurred in defending and/or
+settling any such claim or legal action which are not covered by insurance,
+shall be an Operating Expense. Nothing contained herein is a grant to Manager of
+the right to waive the Tribe's or the Enterprise's sovereign immunity. That
+right is strictly reserved to the Tribe and the Enterprise. Any settlement of a
+third party claim or cause of action shall require approval of the Enterprise.
+
+        8.8     Waivers. No failure or delay by Manager, the Enterprise or the
+Tribe to insist upon the strict performance of any covenant, agreement, term or
+condition of this Agreement, or to exercise any right or remedy consequent upon
+the breach thereof, shall constitute a waiver of any such breach or any
+subsequent breach of such covenant, agreement, term or condition. No covenant,
+agreement, term, or condition of this Agreement and no breach thereof shall be
+waived, altered or modified except by written instrument. No waiver of any
+breach shall affect or alter this Agreement, but each and every covenant,
+agreement, term and condition of this Agreement shall continue in full force and
+effect with respect to any other then existing or subsequent breach thereof.
+
+        8.9     Captions. The captions for each Section and Subsection are
+intended for convenience only.
+
+        8.10    Severability. If any of the terms and provisions hereof shall
+be held invalid or unenforceable, such invalidity or unenforceability shall not
+affect any of the other terms or provisions hereof. If, however, any material
+part of a party's rights under this Agreement shall be declared invalid or
+unenforceable, (specifically including Manager's right to receive its Management
+Fees) the party whose rights have been declared invalid or unenforceable shall
+have the option to terminate this Agreement upon thirty (30) days written notice
+to the other party, without liability on the part of the terminating party.
+
+        8.11    Interest. Any amounts advanced by Manager related to the
+operation of the Facility shall accrue interest at the rate specified in the
+Note; provided, however, no interest shall accrue or be payable in respect of
+the Minimum Guaranteed Monthly Payment funded by Manager.
+
+        8.12    Travel and Out-of-Pocket Expenses. Subject to the Operating
+Budget and Annual Plan, all travel and out-of-pocket expenses of Enterprise
+Employees reasonably incurred in the performance of their duties shall be an
+Operating Expense.
+
+        8.13    Third Party Beneficiary. This Agreement is exclusively for the
+benefit of the parties hereto and it may not be enforced by any party other than
+the parties to this Agreement and shall not give rise to liability to any third
+party other than the authorized successors and assigns of the parties hereto as
+such are authorized by this Agreement.
+
+                                      -34-
+
+<PAGE>
+
+Exhibit 10.10
+
+        8.14    Brokerage. Manager, the Enterprise and the Tribe represent and
+warrant to each other that none of them has sought the services of a broker,
+finder or agent in this transaction, and none of them has employed, nor
+authorized, any other person to act in such capacity. Manager, the Enterprise
+and the Tribe each hereby agrees to indemnify and hold the other harmless from
+and against any and all claims, loss, liability, damage or expenses (including
+reasonable attorneys' fees) suffered or incurred by the other party as a result
+of a claim brought by a person or entity engaged or claiming to be engaged as a
+finder, broker or agent by the indemnifying party.
+
+        8.15    Survival of Covenants. Any covenant, term or provision of this
+Agreement which, in order to be effective, must survive the termination of this
+Agreement, shall survive any such termination.
+
+        8.16    Estoppel Certificate. Manager, the Enterprise and the Tribe
+agree to furnish to any other party, from time to time upon request, an estoppel
+certificate in such reasonable form as the requesting party may request stating
+whether there have been any defaults under this Agreement known to the party
+furnishing the estoppel certificate and such other information relating to the
+Facility as may be reasonably requested.
+
+        8.17    Periods of Time. Whenever any determination is to be made or
+action is to be taken on a date specified in this Agreement, if such date shall
+fall on a Saturday, Sunday or legal holiday under the laws of the Tribe, federal
+government, or the State of California, then in such event said date shall be
+extended to the next day which is not a Saturday, Sunday or legal holiday.
+
+        8.18    Exhibits. All exhibits attached hereto are incorporated herein
+by reference and made a part hereof as if fully rewritten or reproduced herein.
+
+        8.19    Successors, Assigns, and Subcontracting. The benefits and
+obligations of this Agreement shall inure to and be binding upon the parties
+hereto and their respective successors and assigns. Manager shall have the right
+to assign its rights under this Agreement to one or more directly or indirectly
+wholly-owned subsidiaries of Trump Hotels & Casino Resorts, Inc., or its
+successor. The Enterprise's consent shall be required for the assignment or
+subcontracting by Manager of its rights, interests or obligations as Manager
+hereunder to any person or entity other than an Affiliate of Manager, or any
+successor corporation to Manager, provided that any such assignee or
+subcontractor agrees to be bound by the terms and conditions of this Agreement,
+and the Enterprise shall consent to any such assignee or subcontractor provided
+that such assignee or subcontractor has, in the discretion of the Enterprise,
+the competency and financial capability to perform as required by this
+Agreement. The acquisition of Manager or its parent company by a party other
+than an Affiliate of Manager, or its successor corporation, shall not constitute
+an assignment of this Agreement by Manager and this Agreement shall remain in
+full force and effect between the Tribe, the Enterprise and Manager, subject
+only to Legal Requirements. In all respects, any assignment or subcontracting
+permitted
+
+                                      -35-
+
+<PAGE>
+
+Exhibit 10.10
+
+pursuant to this Section 8.19 shall be subject to the notification requirements
+provided in Section 13.4 of this Agreement and any required approval by the
+NIGC.
+
+        8.20    Permitted Assignment. Any assignment of this Agreement
+permitted under the Agreement, to the extent mandated by the IGRA, shall be
+subject to approval by the Chairman of the NIGC or his authorized representative
+after a complete background investigation of the proposed assignee. The Tribe or
+Enterprise shall, without the consent of Manager but subject to approval by the
+Secretary of the Interior or the Chairman of the NIGC or his authorized
+representative, have the right to assign this Agreement and the assets of the
+Facility to an instrumentality of the Tribe or to a corporation wholly-owned by
+the Tribe organized to conduct the business of the Enterprise for the Tribe that
+assumes all obligations herein. Any assignment by the Tribe shall not prejudice
+the rights of Manager under this Agreement. No assignment authorized hereunder
+shall be effective until all necessary government approvals have been obtained.
+
+        8.21    Time is of the Essence. Time is of the essence in the
+performance of this Agreement.
+
+        8.22    Confidential Information. The parties agree that any
+information received concerning any other party during the performance of this
+Agreement, regarding the parties' organization, financial matters, marketing
+plans, or other information of a proprietary nature (the "Confidential
+Information"), will be treated by both parties in full confidence and except as
+required to allow Manager, the Enterprise and the Tribe to perform their
+respective covenants and obligations hereunder, or in response to legal process
+or appropriate and necessary inquiry, and will not be revealed to any other
+persons, firms or organizations. This provision shall survive the termination of
+this Agreement for a period of two (2) years.
+
+        The obligations not to use or disclose the Confidential Information
+shall not apply to Confidential Information which (i) has been made previously
+available to the public by the Tribe, the Enterprise or Manager or becomes
+generally available to the public, unless the Confidential Information being
+made available to the public results in a breach of this Agreement; (ii) prior
+to disclosure to the Tribe, the Enterprise or Manager, was already rightfully in
+any such person's possession; or (iii) is obtained by the Tribe, the Enterprise
+or Manager from a third party who is lawfully in possession of such Confidential
+Information, and not in violation of any contractual, legal or fiduciary
+obligation to the Tribe, the Enterprise or Manager, with respect to such
+Confidential Information and who does not require the Tribe, the Enterprise or
+Manager to refrain from disclosing such Confidential Information to others.
+
+        8.23    Patron Dispute Resolution. Manager shall submit all patron
+disputes concerning play to the Tribal Gaming Authority pursuant to the Tribal
+Gaming Code, and the regulations promulgated thereunder.
+
+                                      -36-
+
+<PAGE>
+
+Exhibit 10.10
+
+        8.24    Modification. Any change to or modification of this Agreement
+must be in writing signed by all parties hereto and shall be effective only upon
+approval by the Chairman of the NIGC, the date of signature of the parties
+notwithstanding.
+
+                                    SECTION 9
+                                   WARRANTIES
+
+        9.1     Noninterference in Tribal Affairs. Manager agrees not to
+interfere in or attempt to wrongfully influence the internal affairs or
+government decisions of the Tribal Council or the Enterprise by offering cash
+incentives, by making written or oral threats to the personal or financial
+status of any person, or by any other action, except for actions in the normal
+course of business of Manager that relate to the Facility. As of the date of
+this Agreement, the Tribe and the Enterprise acknowledge that Manager has not
+interfered or wrongfully interfered in the internal affairs of the Tribe and the
+Enterprise. For the purposes of this Section 9.1, if any such undue interference
+in Tribal affairs is alleged by the federally recognized Tribal government in
+writing and the NIGC finds that Manager has unduly interfered with the internal
+affairs of the Tribe government and has not taken sufficient action to cure and
+prevent such interference, that finding of interference shall be grounds for
+termination of the Agreement. Manager shall be entitled to immediate written
+notice and a complete copy of any such complaint to the NIGC.
+
+        9.2     Prohibition of Payments to Members of Tribal Government.
+Manager represents and warrants that no payments have been or will be made by
+Manager or Manager's Affiliates, to any Member of the Tribal Government, any
+Tribal official, any relative of a Member of Tribal Government or Tribal
+official, or any Tribal government employee for the purpose of obtaining any
+special privilege, gain, advantage or consideration.
+
+        9.3     Prohibition of Hiring Members of Tribal Government. No Member
+of the Tribal Government, Tribal official, or employee of the Tribal government
+may be employed at the Facility or Manager or its Affiliates without a written
+waiver of this Section 9.3 by the Tribe. For this purpose, the Tribe will
+identify all such persons to Manager in a writing and take reasonable steps to
+keep the list current; Manager shall not be held responsible if any person not
+on such written list is employed.
+
+        9.4     Prohibition of Financial Interest in Enterprise. No Member of
+the Tribal Government or relative of a Member of the Tribal Government shall
+have a direct or indirect financial interest in the Enterprise greater than the
+interest of any other member of the Tribe. No Member of the Tribal Government or
+relative of a Member of the Tribal Government shall have a direct or indirect
+financial interest in Manager or Manager's Affiliates.
+
+        9.5     Definitions. As used in this Section 9, "Member of the Tribal
+Government" means any member of the Tribal Council, the Tribal Gaming Authority
+or any independent board or body created to oversee any aspect of Gaming and any
+Tribal court
+
+                                      -37-
+
+<PAGE>
+
+Exhibit 10.10
+
+official; "Relative" means an individual residing in the same household who is
+related as a spouse, father, mother, son or daughter.
+
+                                   SECTION 10
+                                  TERMINATION
+
+        10.1    Voluntary Termination and Termination for Cause. This Agreement
+may be terminated pursuant to the provisions of Sections 3.4.4, 10.2, 10.3,
+10.4, 10.5 and 10.6 and 10.10.
+
+        10.2    Voluntary Termination. This Agreement may be terminated upon
+the mutual written consent and approval of the parties.
+
+        10.3    Termination for Cause. Either the Tribe or the Enterprise may
+terminate this Agreement if Manager commits or allows to be committed any
+Material Breach of this Agreement, and Manager may terminate this Agreement if
+either the Tribe or the Enterprise commits or allows to be committed any
+Material Breach of this Agreement,. A Material Breach of this Agreement means a
+failure of any party to perform any material duty or obligation on its part for
+any thirty (30) consecutive days after notice, and shall include, but not be
+limited to, those events identified as a Material Breach in Section 13.5 of this
+Agreement. Any action taken or the adoption of any statute or code that taxes,
+materially prejudices or materially adversely affects or imposes additional
+costs or burdens on Manager's rights or duties under this Agreement shall be a
+Material Breach of this Agreement by the Tribe. No party may terminate this
+Agreement on grounds of Material Breach unless it has provided written notice to
+the other parties of its intention to declare a default and to terminate this
+Agreement and the defaulting party thereafter fails to cure or take steps to
+substantially cure the default within sixty (60) days following receipt of such
+notice. During the period specified in the notice to terminate, any party may
+submit the matter to arbitration under the dispute resolution provisions of this
+Agreement at Section 16. The discontinuance or correction of a Material Breach
+shall constitute a cure thereof.
+
+        In the event of any termination for cause, regardless of fault, the
+parties shall retain all money previously paid to them pursuant to Section 5 of
+this Agreement; and the Enterprise shall retain title to all Facility and
+Facility fixtures, improvements, supplies, equipment, funds and accounts,
+provided that the Manager shall be paid any accrued and unpaid Management Fee,
+including any Shortfall Amount, and other sums due under Section 5 of this
+Agreement up to and including the date of termination of this Agreement.
+
+        An election to pursue damages or to pursue specific performance of this
+Agreement or other equitable remedies while this Agreement remains in effect
+pursuant to the provisions of Sections 10.7 or 10.8 shall not preclude the
+injured party from providing notice of termination pursuant to this Section
+10.3. Neither shall termination preclude a suit for damages.
+
+                                      -38-
+
+<PAGE>
+
+Exhibit 10.10
+
+        10.4    Involuntary Termination Due to Changes in Legal Requirements.
+It is the understanding and intention of the parties that the establishment and
+operation of the Facility shall conform to and comply with all Legal
+Requirements. If during the term of this Agreement, the Facility or any material
+aspect of Gaming is determined by the Congress of the United States, the
+Department of the Interior of the United States of America, the NIGC, or the
+final judgment of a court of competent jurisdiction to be unlawful under federal
+law, the obligations of the parties hereto shall cease, and this Agreement shall
+be of no further force and effect; provided that:
+
+                (i)     Manager shall have the rights described in Section 3.4
+of this Agreement;
+
+                (ii)    Manager, the Tribe and the Enterprise shall retain all
+money previously paid to them pursuant to Section 5 of this Agreement;
+
+                (iii)   funds of the Enterprise in any Enterprise account shall
+be paid and distributed as provided in Section 5 of this Agreement;
+
+                (iv)    The Enterprise shall retain its interest in the title
+(and any lease) to all Facility assets, including all fixtures, supplies and
+equipment, subject to any requirements of financing arrangements.
+
+        10.5    Manager's Right to Terminate Agreement. Manager may terminate
+this Agreement by written notice effective upon receipt if:
+
+                (i)     Any Tribal, State or Federal authority where approval is
+required fails to approve this Agreement or otherwise objects to the performance
+by Manager of any obligation imposed on it under this Agreement.
+
+                (ii)    Manager has been notified by any Federal regulatory
+agency that the performance by it of any obligation imposed by this Agreement
+will jeopardize the retention of any license, or approvals granted thereunder,
+held by Manager or any of its Affiliates in other jurisdiction, and the Tribe or
+the Enterprise refuses to allow Manager to immediately rectify any such
+complaint.
+
+                (iii)   Manager has reason to believe that the performance by
+it, by the Enterprise or by the Tribe of any obligation imposed under this
+Agreement may reasonably be expected to result in the breach of any Legal
+Requirement and the parties have been unable to agree upon waiver of such
+performance within ten (10) days written notice by Manager.
+
+                (iv)    Through its own actions, the Tribe or the Enterprise
+fails to make any payment to Manager when due within the time specified in this
+Agreement and a grace period of thirty (30) days.
+
+                                      -39-
+
+<PAGE>
+
+Exhibit 10.10
+
+        10.6    Tribe's and Enterprise's Right to Terminate Agreement. In
+addition to the suspension of Manager pursuant to Section 10.9 herein, the Tribe
+or the Enterprise may terminate this Agreement by written notice effective upon
+receipt if:
+
+                (i)     Any Federal or State authority, where approval is
+required, fails to approve this Agreement or otherwise objects to the
+performance by Manager of any obligation imposed on it under this Agreement and
+Manager has not cured the circumstance giving rise to the failure to approve or
+the objection to performance within thirty (30) days.
+
+                (ii)    The Tribe has reason to believe that the performance by
+it, the Enterprise or Manager of any obligation imposed under this Agreement may
+reasonably be expected to result in the breach of any Legal Requirement (other
+than a Legal Requirement imposed or created by the Tribe or any agency thereof)
+and the parties have been unable to agree upon waiver of such performance within
+ten (10) days of written notice given by the Tribe.
+
+                (iii)   Manager fails to make any payment to the Tribe or the
+Enterprise when due, including but not limited to any Minimum Guaranteed Monthly
+Payment to the Tribe within the time specified in this Agreement and a grace
+period of thirty (30) days.
+
+                (iv)    Manager has had its license withdrawn because Manager,
+or a director or officer of Manager, has been convicted of a criminal felony or
+misdemeanor offense in the performance of Manager duties hereunder, or where
+Manager has failed to disclose any such conviction to the Tribal Gaming
+Authority promptly upon Manager receiving notice thereof; provided, however, the
+Tribe or the Enterprise may not terminate this Agreement based on a director or
+officer's conviction where Manager terminates such individual within ten (10)
+days after receiving notice of the conviction.
+
+        10.7    Consequences of Manager's Breach. In the event of the
+termination of this Agreement by the Tribe or the Enterprise for cause under
+Section 10.3, Manager shall not, prospectively from the date of termination,
+except as provided in Section 10.3, have the right to its Management Fee from
+the Facility, but such termination shall not affect Manager's rights relating to
+recoupment and reimbursement of monies owed to Manager and/or guaranteed by
+Manager and/or Manager's Affiliates (to the extent Manager or Manager's
+Affiliate has paid under such guarantee) under this Agreement, the Financing
+Agreements, the Note, the Manager Guaranty or any other agreements entered
+pursuant hereto, including a Shortfall Amount, and such right of recoupment and
+reimbursement shall survive any termination of this Agreement. Any Net Revenues
+accruing through the date of termination shall be distributed in accordance with
+Section 5 of this Agreement. Manager, the Tribe and the Enterprise acknowledge
+and agree that termination of this Agreement may not be a sufficient or
+appropriate remedy for breach by Manager, and further agree that pursuant to the
+other provisions of this Agreement, including, but not limited to, Section 16,
+the Tribe or the Enterprise shall, upon breach of this Agreement by Manager,
+have the right to pursue such remedies (in addition to termination) at law or
+equity as it determines are best able to compensate it for such breach. Manager
+specifically
+
+                                      -40-
+
+<PAGE>
+
+Exhibit 10.10
+
+acknowledges and agrees that there may be irreparable harm to the Tribe or the
+Enterprise and that damages will be difficult to determine if Manager commits a
+Material Breach, and Manager therefore further acknowledges that an injunction
+and/or other equitable relief may be an appropriate remedy for any such breach.
+In any event, the Tribe shall have the right to all payments due to the Tribe
+accruing until the date of termination.
+
+        10.8    Consequences of Tribe's Breach. In the event of termination of
+this Agreement by Manager for cause under Section 10.3, Manager shall not be
+required to perform any further services under this Agreement and the Enterprise
+shall indemnify and hold Manager harmless against all liabilities of any nature
+whatsoever relating to the Facility, but only insofar as these liabilities
+result from acts within the control of the Tribe or the Enterprise or their
+respective agents or created by the termination of this Agreement. Manager, the
+Tribe and the Enterprise acknowledge and agree that termination of this
+Agreement may not be a sufficient or appropriate remedy for breach by the Tribe
+or the Enterprise, and further agree that pursuant to the other provisions of
+this Agreement, including but not necessarily limited to, Section 16, Manager
+shall, upon breach of this Agreement by the Tribe or the Enterprise, have the
+right to pursue such remedies (in addition to termination) at law or equity as
+it determines are best able to compensate it for such breach, including, without
+limitation, specifically actions to require payment of the Management Fee
+pursuant to Section 5 for a term equal to the then remaining term of this
+Agreement at the percentage of Net Revenues specified in Section 5. The Tribe
+and the Enterprise specifically acknowledge and agree that there may be
+irreparable harm to Manager and that damages will be difficult to determine if
+the Tribe or the Enterprise commits a material breach, and the Tribe and the
+Enterprise therefore further acknowledge that an injunction and/or other
+equitable relief may be an appropriate remedy for any such breach. In any event,
+Manager shall have the right to its Management Fee accruing until the date of
+termination as provided in Section 5 of this Agreement, and to the repayment of
+unpaid principal and interest and other amounts due under the Note and any other
+note guaranteed by Manager or its Affiliates, the Financing Agreements, and any
+other loans to the Tribe or the Enterprise, including any Shortfall Amount.
+
+        10.9    Suspension of Manager for Cause; Notice and Opportunity to Cure.
+In the event of any breach of this Agreement by Manager involving a violation
+by Manager of any Legal Requirements, the Enterprise may immediately suspend the
+right and authority of Manager to manage the Facility unless and until such
+breach is remedied or cured by Manager. The Enterprise will give Manager notice
+of any alleged violation of the Tribal Gaming Code by Manager and twenty (20)
+days opportunity to cure before the Tribal Gaming Authority may take any action
+other than suspension of the Manager based on such alleged violation.
+
+        10.10   Enterprise's Buy-Out Option. The Enterprise shall have the
+right to purchase all of the rights of the Manager pursuant to this Agreement on
+the terms and conditions provided in this Section 10.10. This right may only be
+exercised on or after the last day of the 36th month following the first full
+month after the Commencement Date (the "Option Date"). In order to effectively
+exercise this option, the Enterprise shall:
+
+                                      -41-
+
+<PAGE>
+
+Exhibit 10.10
+
+                (i)     give notice of its intent to exercise this option 90
+days prior to the Option Date;
+
+                (ii)    pay to Manager the Early Termination Fee;
+
+                (iii)   pay all amounts due to Manager pursuant to this
+Agreement, including the amount of any advances made by Manager to the Tribe,
+Management Fee and Shortfall Amounts, through and including the Option Date;
+
+                (iv)    tender to the Manager a full release, in form and
+substance reasonably satisfactory to Manager, of all of Manager's obligations
+pursuant to this Agreement, and all claims, whether asserted or unasserted,
+liquidated or contingent, which the Tribe or any of its members, governmental
+agencies of affiliates may have or be entitled to assert against manager or any
+of its officers, agents, employees, members or affiliates arising out of events
+occurring on or before the Option Date.
+
+If the Enterprise fails to satisfy any of the above conditions on or before the
+dates specified above, then this option and any attempted exercise thereof shall
+be null and void and of no further force or effect, and this Agreement shall
+continue in full force and effect according to its terms.
+
+                                   SECTION 11
+                        CONCLUSION OF THE MANAGEMENT TERM
+
+        11.1    Conclusion of the Management Term. Upon the conclusion or the
+termination of this Agreement, Manager shall have the following rights and
+obligations:
+
+        11.2    Transition. Manager shall take reasonable steps for the orderly
+transition of management of the Facility to the Tribe, the Enterprise or its
+designee pursuant to a transition plan as described in Section 17 of this
+Agreement.
+
+        11.3    Undistributed Net Revenues. If the Facility has accrued Net
+Revenues which have not been distributed under Section 5 of this Agreement,
+Manager shall receive that Management Fee equal to that Management Fee it would
+have received had the distribution occurred during the term of the Management
+Agreement (including any Shortfall Amount, but upon termination at the
+conclusion of the Term, only to the extent of Excess Funds).
+
+                                   SECTION 12
+                             CONSENTS AND APPROVALS
+
+        12.1    Tribal. Where approval or consent or other action of the Tribe
+is required, such approval shall mean the written approval of the Tribal Council
+evidenced by a resolution thereof, certified by a Tribal official as having been
+duly adopted, or such other
+
+                                      -42-
+
+<PAGE>
+
+Exhibit 10.10
+
+person or entity designated by resolution of the Tribal Council. Any such
+approval, consent or action shall not be unreasonably withheld or delayed;
+provided that the foregoing does not apply where a specific provision of this
+Agreement allows the Tribe an absolute right to deny approval or consent or
+withhold action.
+
+        12.2    Manager. Where approval or consent or other action of Manager
+is required, such approval shall mean the written approval of an officer of
+Manager. Any such approval, consent or other action shall not be unreasonably
+withheld or delayed.
+
+                                   SECTION 13
+                                  DISCLOSURES
+
+        13.1    Shareholders and Directors. Manager warrants that on the date
+of this Agreement its Affiliates, shareholders, directors and officers are those
+listed on Exhibit G.
+
+        13.2    Warranties. Manager further warrants and represents as follows:
+
+                (i)     no person or entity has any beneficial ownership
+interest in Manager other than as set forth herein;
+
+                (ii)    no officer, director or owner of ten (10%) percent or
+more of the stock of Manager has been arrested, indicted for, convicted of, or
+pleaded nolo contendere to any felony or any gaming offense, or had any
+association with individuals or entities known to be connected with organized
+crime; and
+
+                (iii)   no person or entity listed on Exhibit G to this
+Agreement, including any officers and directors of Manager, has been arrested,
+indicted for, convicted of, or pleaded nolo contendere to any felony or any
+gaming offense, or had any association with individuals or entities known to be
+connected with organized crime.
+
+        13.3    Criminal and Credit Investigation. Manager agrees that all of
+its shareholders, directors and officers (whether or not involved in the
+Facility), shall:
+
+                (i)     consent to background investigations to be conducted by
+the Tribe, the State of California, the Federal Bureau of Investigation (the
+"FBI") or any other law enforcement authority to the extent required by the IGRA
+and the Compact;
+
+                (ii)    be subject to licensing requirements in accordance with
+Tribal law and this Agreement;
+
+                (iii)   consent to a background, criminal and credit
+investigation to be conducted by or for the NIGC, if required;
+
+                                      -43-
+
+<PAGE>
+
+Exhibit 10.10
+
+                (iv)    consent to a financial and credit investigation to be
+conducted by a credit reporting or investigation agency at the request of the
+Tribe;
+
+                (v)     cooperate fully with such investigations; and
+
+                (vi)    disclose any information requested by the Tribe which
+would facilitate the background and financial investigation.
+
+        Any materially false or deceptive disclosures or failure to cooperate
+fully with such investigations by an employee of Manager or an employee of the
+Tribe shall result in the immediate dismissal of such employee. The results of
+any such investigation may be disclosed by the Tribe to federal officials and to
+such other regulatory authorities as required by law.
+
+        13.4    Disclosure Amendments. The Tribe and Enterprise acknowledge
+that Manager is wholly-owned by a publicly traded company, and that Manager's
+Affiliates, shareholders, directors and officers may change from time to time
+without the prior approval of the Tribe or the Enterprise. Manager agrees that
+whenever there is any material change in the information disclosed pursuant to
+this Section 13 it shall notify the Tribe of such change not later than ten (10)
+days following the change or within ten (10) days after it becomes aware of such
+change, whichever is later. In the event the change relates to information
+provided or required to be provided to the NIGC pursuant to 25 C.F.R Section
+537.1, Manager shall notify the NIGC in sufficient time to permit the NIGC to
+complete its background investigation by the time the individual is to assume
+management responsibility for the gaming operation, and within ten (10) days of
+any proposed change in financial interest. All of the warranties and agreements
+contained in this Section 13 shall apply to any person or entity who would be
+listed in this Section 13 as a result of such changes.
+
+        13.5    Breach of Manager's Warranties and Agreements. The material
+breach of any warranty or agreement of Manager contained in this Section 13
+shall be grounds for immediate termination of this Agreement; provided that (i)
+if a breach of the warranty contained in clause (ii) of Section 13.2 is
+discovered, and such breach was not disclosed by any background check conducted
+by the FBI as part of the BIA or other federal approval of this Agreement, or
+was discovered by the FBI investigation but all officers and directors of
+Manager sign sworn affidavits that they had no knowledge of such breach, then
+Manager shall have thirty (30) days after notice from the Tribe to terminate the
+interest of the offending person or entity and, if such termination takes place,
+this Agreement shall remain in full force and effect; and (ii) if a breach
+relates to a failure to update changes in financial position or additional
+gaming related activities, then Manager shall have ten (10) days after notice
+from the Tribe to cure such default prior to termination.
+
+                                      -44-
+
+<PAGE>
+
+Exhibit 10.10
+
+                                   SECTION 14
+                                   RECORDATION
+
+        At the option of the Lender, Manager, the Enterprise or the Tribe, any
+security agreement related to the Financing Agreements may be recorded in any
+public records. Where such recordation is desired in any relevant recording
+office maintained by the Tribe, and/or in the public records of the BIA, the
+Tribe or the Enterprise will accomplish such recordation upon the request of the
+Lender or Manager, as the case may be. No such recordation shall be deemed to
+waive the Tribe's or the Enterprise's sovereign immunity.
+
+                                   SECTION 15
+                        NO LIEN, LEASE OR JOINT VENTURE
+
+        The parties agree and expressly warrant that neither the Management
+Agreement nor any exhibit thereto is a mortgage or lease and, consequently, does
+not convey any present interest whatsoever in the Facility or the Property, nor
+any proprietary interest in the Facility itself. The parties further agree and
+acknowledge that it is not their intent, and that this Agreement shall not be
+construed, to create a joint venture between the Tribe or the Enterprise and
+Manager; rather, Manager shall be deemed to be an independent contractor for all
+purposes hereunder.
+
+                                   SECTION 16
+                               DISPUTE RESOLUTION
+
+        16.1    General. The parties agree that binding arbitration shall be
+the remedy for all disputes, controversies and claims arising out of this
+Agreement, any documents referenced by any of this Agreement, any agreements
+collateral thereto, or any notice of termination thereof, including without
+limitation, any dispute, controversy or claim arising out of any of these
+agreements; provided, however, that actions or decisions by the Tribe that
+constitute the exercise of its sovereign governmental powers shall not be
+subject to arbitration, including decisions or actions by the Tribal Gaming
+Authority regarding the issuance or denial of licenses, and actions by the
+Tribal Council regarding the approval of budgets or the enactment of ordinances
+relating to Gaming. The Tribe acknowledges, however, that while the exercise of
+its governmental powers in a manner contrary to a provision of this Agreement
+may not be avoided through arbitration, Manager may compel arbitration pursuant
+to this Section 16 to redress any injury suffered by Manager as a result of such
+exercise. The parties intend that such arbitration shall provide final and
+binding resolution of any dispute, controversy or claim, and that action in any
+other forum shall be brought only if necessary to compel arbitration, or to
+enforce an arbitration award or order. All initial arbitration or judicial
+proceedings shall be instituted within twelve (12) months after the claim
+accrues or shall be forever barred.
+
+        Each party agrees that it will use its best efforts to negotiate an
+amicable resolution of any dispute between Manager and the Enterprise or the
+Tribe arising from this
+
+                                      -45-
+
+<PAGE>
+
+Exhibit 10.10
+
+Agreement. If the Tribe or the Enterprise and Manager are unable to negotiate an
+amicable resolution of a dispute within fourteen (14) days from the date of
+notice of the dispute pursuant to the notice section of this Agreement, or such
+other period as the parties mutually agree in writing, either party may refer
+the matter to arbitration as provided herein.
+
+        16.2    Initiation of Arbitration and Selection of Arbitrators.
+Arbitration shall be initiated by written notice by one party to the other
+pursuant to the notice section of this Agreement, and the Commercial Arbitration
+Rules of the American Arbitration Association shall thereafter apply. The
+arbitrators shall have the power to grant equitable and injunctive relief and
+specific performance as provided in this Agreement. If necessary, orders to
+compel arbitration or enforce an arbitration award may be sought before the
+United States District Court for the Central District of California and any
+federal court having appellate jurisdiction over said court. If the United
+States District Court for the Central District of California finds that it lacks
+jurisdiction, the Tribe and the Enterprise consent to be sued in the California
+State Court system. This consent to California State Court jurisdiction shall
+only apply if Manager exercises reasonable efforts to argue for the jurisdiction
+of the federal court over said matter. The arbitrator shall be a licensed
+attorney, knowledgeable in federal Indian law and selected pursuant to the
+Commercial Arbitration Rules of the American Arbitration Association.
+
+        Unless the parties agree upon the appointment of a single arbitrator, a
+panel of arbitrators consisting of three (3) members shall be appointed. One (1)
+member shall be appointed by the Tribe and one (1) member shall be appointed by
+Manager within ten (10) working days' time following the giving of notice
+submitting a dispute to arbitration. The third member shall be selected by
+agreement of the other two (2) members. In the event the two (2) members cannot
+agree upon the third arbitrator within fifteen (15) working days' time, then the
+third arbitrator shall be chosen by the American Arbitration Association.
+Alternatively, the parties may, prior to any dispute, agree in advance upon a
+panel of arbitrators or a single arbitrator to which any dispute that may arise
+shall be submitted for resolution pursuant to this Section 16.2.
+
+                (i)     Choice of Law. In determining any matter the arbitrators
+shall apply the terms of this Agreement, without adding to, modifying or
+changing the terms in any respect, and shall apply federal and applicable State
+law.
+
+                (ii)    Place of Hearing. All arbitration hearings shall be held
+at a place designated by the arbitrators in Los Angeles or Los Angeles County,
+California.
+
+                (iii)   Confidentiality. The parties and the arbitrators shall
+maintain strict confidentiality with respect to arbitration.
+
+        16.3    Limited Waiver of Sovereign Immunity. The Tribe and the
+Enterprise expressly and irrevocably waives its respective immunity from suit as
+provided for and limited by this Section. This waiver is limited to the Tribe's
+and the Enterprise's consent to all
+
+                                      -46-
+
+<PAGE>
+
+Exhibit 10.10
+
+arbitration proceedings, and actions to compel arbitration and to enforce any
+awards or orders issuing from such arbitration proceedings which are sought
+solely in United States District Court for the Central District of California
+and any federal court having appellate jurisdiction over said court, provided
+that if the United States District Court for the Central District of California
+finds that it lacks jurisdiction, the Tribe and the Enterprise consent to such
+actions in the California State Court system. This consent to California State
+Court jurisdiction shall only apply if Manager exercises reasonable efforts to
+argue for the jurisdiction of the federal court over said matter. The
+arbitrators shall not have the power to award punitive damages.
+
+                (a)     Time Period. The waiver granted herein shall commence
+as of the Date of this Agreement and shall continue for one year following
+expiration, termination or cancellation of this Agreement, but shall remain
+effective for the duration of any arbitration, litigation or dispute resolution
+proceedings then pending, all appeals therefrom, and except as limited by this
+Section, to the full satisfaction of any awards or judgments which may issue
+from such proceedings, provided that an action to collect such judgments has
+been filed within one year of the date of the final judgment.
+
+                (b)     Recipient of Waiver. This limited waiver is granted
+only to Manager and not to any other individual or entity.
+
+                (c)     Limitations of Actions. This limited waiver is
+specifically limited to the following actions and judicial remedies:
+
+                        (i)     The enforcement of an arbitrator's award of
+money damages provided that the waiver does not extend beyond the assets
+specified in Subsection (iii) below. No arbitrator or court shall have any
+authority or jurisdiction to order execution against any assets or revenues of
+the Tribe or the Enterprise except as provided in this Section or to award any
+punitive damages against the Tribe or the Enterprise.
+
+                        (ii)    An action to compel or enforce arbitration or
+arbitration awards or orders.
+
+                        (iii)   Damages awarded against the Tribe or the
+Enterprise shall be satisfied solely from the distributable share of Net
+Revenues of the Tribe from the Facility, the tangible assets of the Facility and
+the business of the Enterprise, provided, however, that this limited waiver of
+sovereign immunity shall terminate with respect to the collection of any Net
+Revenues transferred from the accounts of the Enterprise to the Tribe or the
+Tribe's separate bank account in the normal course of business in accordance
+with this Agreement. In no instance shall any enforcement of any kind whatsoever
+be allowed against any assets of the Tribe other than those specified in this
+subsection.
+
+                                      -47-
+
+<PAGE>
+
+Exhibit 10.10
+
+                                   SECTION 17
+                            NEGOTIATE NEW AGREEMENT
+
+        17.1    Intent to Negotiate New Agreement. On or before thirty (30)
+days after the end of the fourth (4th) year of this Agreement, the Enterprise
+shall give Manager notice of its intent regarding its willingness to enter into
+negotiations for a new Management Agreement to be effective upon the conclusion
+of this Agreement.
+
+        17.2    Transition Plan. If the Enterprise and Manager are unable to
+agree to the terms of a new agreement or if the Enterprise decides not to enter
+into negotiations for a new agreement, then the Enterprise and Manager shall
+agree upon a transition plan within thirty (30) days notice from the Enterprise
+of its intention not to negotiate a new Management Agreement, which plan shall
+be sufficient to allow the Tribe and/or the Enterprise to operate the Facility
+and provide for the orderly transition of the management of the Facility.
+
+                                   SECTION 18
+                                ENTIRE AGREEMENT
+
+        This Agreement, including the Schedules and Exhibits referred to herein,
+constitutes the entire understanding and agreement of the parties hereto and
+supersedes all other prior agreements and understandings, written or oral,
+between the parties. The parties acknowledge that the Tribe is entering into a
+Gaming Facility Construction and Development Agreement and a Trademark License
+Agreement with affiliates of Manager contemporaneously with this Agreement.
+
+                                   SECTION 19
+                               REQUIRED AMENDMENT
+
+        Each of the parties agrees to execute, deliver and, if necessary, record
+any and all additional instruments, certifications, amendments, modifications
+and other documents as may be required by the United States Department of the
+Interior, BIA, the NIGC, the office of the Field Solicitor, or any applicable
+statute, rule or regulation in order to effectuate, complete, perfect, continue
+or preserve the respective rights, obligations, liens and interests of the
+parties hereto to the fullest extent permitted by law; provided, that any such
+additional instrument, certification, amendment, modification or other document
+shall not materially change the respective rights, remedies or obligations of
+the Tribe, the Enterprise or Manager under this Agreement or any other agreement
+or document related hereto.
+
+                                   SECTION 20
+                            PREPARATION OF AGREEMENT
+
+        This Agreement was drafted and entered into after careful review and
+upon the advice of competent counsel; it shall not be construed more strongly
+for or against any party.
+
+                                      -48-
+
+<PAGE>
+
+Exhibit 10.10
+
+                                   SECTION 21
+                           STANDARD OF REASONABLENESS
+
+        Unless specifically provided otherwise, all provisions of this Agreement
+and all collateral agreements shall be governed by a standard of reasonableness.
+
+                                   SECTION 22
+                                   EXECUTION
+
+        This Agreement may be executed in four counterparts, one to be retained
+by each of the Tribe and the Enterprise, and two to be retained by Manager. Each
+of the four originals is equally valid. This Agreement shall be deemed
+"executed" and shall be binding upon both parties when properly executed and
+approved by the Chairman of the NIGC.
+
+        IN WITNESS WHEREOF, the parties hereto have executed this Agreement on
+the day and year first above written.
+
+                                        THCR MANAGEMENT SERVICES, LLC
+
+                                        By:   /s/ Donald J.  Trump
+                                           -----------------------------------
+                                              Donald J.  Trump, President
+
+                                        TWENTY-NINE PALMS BAND OF LUISENO
+                                        MISSION INDIANS OF CALIFORNIA
+
+                                        By:   /s/ Dean Mike
+                                           -----------------------------------
+                                              Dean Mike, Chairperson
+
+                                        TWENTY-NINE PALMS
+                                        ENTERPRISES CORPORATION
+
+                                        By:   /s/ Dean Mike
+                                           -----------------------------------
+                                              Dean Mike, President
+
+                                        By:   /s/ Gene Gambale
+                                           -----------------------------------
+                                              Gene Gambale, Secretary
+
+                                      -49-
+
+<PAGE>
+
+Exhibit 10.10
+
+                                    EXHIBIT A
+
+                        LEGAL DESCRIPTION OF THE PROPERTY
+
+                                Legal Description
+                                APN # 603-020-008
+
+That certain parcel of land situated in City of Coachella, County of Riverside,
+State of California, being that portion of the northeast one-quarter of Section
+30, Township 5 South, Range 8 East, San Bernadino Meridian, more particularly
+described as follows:
+
+COMMENCING at the northeast corner of said section as shown on California
+Division of Highways Monumentation Map 11-RIV 10;
+
+thence along the easterly line of said section South 00(degree)07'00" East 70.00
+feet to a point on the southerly right-of-way line of Interstate Route 10 and
+the TRUE POINT OF BEGINNING;
+
+thence along said southerly right-of-way line through the following courses;
+North 89(degree)59'38" West 164.49 feet;
+
+thence South 87(degree)57'46" West 584.00 feet to the beginning of a tangent
+curve concave northerly and having a radius of 3750.00 feet;
+
+thence along said curve westerly 965.11 feet through a central angle of
+14(degree)44'45" to the northerly line of said section;
+
+thence leaving said southerly right-of-way line, along said northerly line and
+non-tangent from said curve South 89(degree)55'38" West 550.58 feet to the
+northeasterly right-of-way line of State Route 86;
+
+thence along said northeasterly right-of-way line through the following courses:
+South 42(degree)14'22" East 746.34 feet;
+
+thence South 46(degree)12'43" East 1499.98 feet;
+
+thence South 50(degree)05'25" East 884.79 feet to said easterly line of Section
+30;
+
+thence leaving said northeasterly right-of-way line, along said easterly line
+North 00(degree)12'11" West 830.65 feet to an angle point therein;
+
+thence continuing along said easterly line North 00(degree)07'00" West 1258.84
+feet to the TRUE POINT OF BEGINNING;
+
+CONTAINING: 56.10 Acres, more or less.
+
+SUBJECT TO all Covenants, Rights, Rights-of-Way and Easements of Record.
+
+                                  Exhibit A - 1
+
+<PAGE>
+
+Exhibit 10.10
+
+                                    EXHIBIT B
+
+                       DISPUTE RESOLUTION BETWEEN MANAGER
+                            AND ENTERPRISE EMPLOYEES
+
+BOARD OF REVIEW
+
+Once an employee has been employed at the Enterprise for ninety (90) calendar
+days, the employee may request a Board of Review if the employee feels
+job-related problems have not been resolved. The employee may request a Board of
+Review to protest decisions, work history entries, performance evaluations, any
+disciplinary action including termination, etc. Three impartial members of the
+Board shall decide to either uphold, modify, or overturn the original decision
+made in relation to the issue the employee is protesting. The Board of Review is
+made up of five (5) impartial members as follows:
+
+1.      Two Tribal representatives;
+
+2.      A Manager representative having no jurisdiction over the employee's
+        department;
+
+3.      A Human Resources representative who has not been involved in the
+        employee's issue.
+
+4.      An employee representative.
+
+A Board of Review request form must be filed with Human Resources within seven
+(7) days of the incident or of the employee learning of the incident. A decision
+is made on the basis of facts and evidence presented to the Board of Review. The
+Board's decision is final and cannot be appealed or reversed by anyone in the
+Enterprise.
+
+On an annual basis, employees are asked to volunteer for one year terms as
+employee representatives on the Board of Review.
+
+                                  Exhibit B - 1
+
+<PAGE>
+
+Exhibit 10.10
+
+                                    EXHIBIT C
+
+                          ENTERPRISE INVESTMENT POLICY
+
+                            RESOLUTION NO.___________
+
+TWENTY NINE PALMS BAND OF MISSION INDIANS COUNCIL
+(Gaming Enterprise Cash Management and Investment Policy)
+
+        WHEREAS, the Twenty Nine Palms Band of Mission Indians (the "Tribe") has
+determined that facilities owned by Tribe offering Class II and Class III gaming
+activities, as defined in the Indian Gaming Regulatory Act of 1988, Pub. L.
+100-497, 25 U.S.C. Sections 1701-2721 and 18 U.S.C. 1166-1168 ("IGRA"), will be
+constructed and operated on its lands; and
+
+        WHEREAS, Tribe has entered into a Management Agreement with THCR
+Management Services, LLC ("Manager") for the management of Tribe's Gaming
+Enterprise, said resolution having been approved by the NIGC on
+__________________; and
+
+        WHEREAS, Tribe deems it in its best interest to provide for Manager to
+manage the gaming Enterprise's short-term cash position so as to maximize income
+to Tribe;
+
+        NOW, THEREFORE, BE IT RESOLVED, that in order to maximize Tribe's income
+and to manage its short term cash position, Manager is hereby authorized, during
+the term of its Management Agreement with the Tribe, to invest cash of Tribe's
+gaming Enterprise in accordance with the attached Investment Policy.
+
+                                  CERTIFICATION
+
+        Pursuant to (CITATIONS HERE) the Tribal Council of the Twenty Nine Palms
+Band of Mission Indians, a quorum of members present at a Council meeting held
+on ______________, 2000, by a vote of ___________ for, _______________ against,
+_____________ not voting, and _____________ absent; the foregoing resolution was
+adopted.
+
+                                        By:
+                                           -----------------------------------
+                                                              Secretary
+
+                                        By:
+                                           -----------------------------------
+                                                              Chairperson
+
+                                  Exhibit C - 1
+
+<PAGE>
+
+Exhibit 10.10
+
+                                    EXHIBIT D
+
+                     STATEMENT OF INVESTMENT POLICY FOR THE
+                TWENTY-NINE PALMS BAND OF LUISENO MISSION INDIANS
+                 OF CALIFORNIA GAMING ENTERPRISE ("ENTERPRISE")
+
+I.      Investment Objectives
+
+        A.      Primary - to ensure the value and safety of principal invested
+                in short-term money market securities.
+
+        B.      Secondary - to ensure liquidity to meet projected and emergency
+                cash needs:
+                - to provide for prudent diversification of investments
+                - to maximize investment income consistent with other objectives
+                - to comply with the requirements of the Enterprise's debt
+                  agreements
+
+II.     Investment Responsibility - It will be the responsibility of THCR
+        Management Services, LLC ("Manager") (1) to invest funds for which the
+        company has been designated as cash manager, and (2) to maintain
+        adequate records of all investments. All investments must conform to the
+        Investment Guidelines.
+
+III.    Investment Guidelines
+
+        A.      Investment Types and Limitations - the Tribe, the Enterprise and
+                Manager agree that only the following investments shall be
+                deemed "Permitted Investments" for the Enterprise:
+
+                "Permitted Investments" shall mean (a) any evidence of
+                Indebtedness, maturing not more than one (1) year after the date
+                of acquisition, issued by the United States of America, or an
+                instrumentality or agency thereof and guaranteed fully as to
+                principal, premium, if any, and interest by the United States of
+                America; (b) any certificate of deposit, maturing not more than
+                one (1) year after the date of acquisition, issued by, or time
+                deposit of, a commercial banking institution that is a member of
+                the Federal Reserve System and that has combined capital and
+                surplus and undivided profits of not less than $300.0 million
+                whose debt has a rating, at the time as of which any investment
+                therein is made, of "P-1" (or higher) according to Standard &
+                Poor's Investors Service, Inc. or any successor rating agency,
+                or "A-1" (or higher) according to Standard & Poor's Corporation
+                or any successor rating agency; (c) commercial paper, maturing
+                not more than one (1) year after the date of acquisition, issued
+                by a corporation (other than an Affiliate or subsidiary of Trump
+                Hotels & Casino Resorts, Inc.) organized and existing under the
+                laws of the United States of America with a rating, at the time
+                as of which any investment therein is made, of "P-1" (or higher)
+                according to
+
+                                  Exhibit D - 1
+
+<PAGE>
+
+Exhibit 10.10
+
+                Moody's Investors Service, Inc. or any successor rating agency,
+                or "A-1" (or higher) according to Standard & Poor's Corporation
+                or any successor rating agency; and (d) any money market deposit
+                accounts issued or offered by a domestic commercial bank having
+                capital and surplus in excess of $300.0 million.
+
+        B.      Investment Institutions - In order for a firm to be included on
+                the list of Investment Institutions that are approved for
+                dealing with the Enterprise, an authorized signer of the firm
+                must first execute a copy of this Statement of Investment
+                Policy. This will provide written verification of their being
+                familiar with the types of securities ("Permitted Investments")
+                that are acceptable under the Enterprise's Investment Policy.
+                [Director of Cash Management] will be responsible for obtaining
+                the executed document, distributing a list of approved
+                institutions to designated [Treasury] personnel and retaining
+                records of all investment contracts with those investment
+                institutions.
+
+IV.     Investment Review - An Investment Report is distributed on a daily basis
+        to the [CFO] and [Director of Cash Management] for review of adherence
+        to the Investment Guidelines. In addition, the accuracy of the report is
+        verified by [Director of Treasury Administration], who matches the
+        information on the report with the confirmations provided by the
+        brokers. Discrepancies are investigated as they are received. A revised
+        report, if necessary, is distributed by [Director of Treasury
+        Administration].
+
+                                  Exhibit D - 2
+
+<PAGE>
+
+Exhibit 10.10
+
+                                    EXHIBIT E
+
+                TWENTY-NINE PALMS BAND OF LUISENO MISSION INDIANS
+                 OF CALIFORNIA IRREVOCABLE BANKING INSTRUCTIONS
+
+        The undersigned does hereby certify that he is the duly authorized
+Chairman of the Twenty-Nine Palms Band of Luiseno Mission Indians of California
+(the "Tribe"), and that the following resolutions were duly adopted by the
+Tribal Council and such resolutions regarding banking arrangement of Tribe's
+gaming and related ventures (the "Enterprise") are now in full force and effect:
+
+        RESOLVED, that upon written instruction of THCR Management Services, LLC
+as Manager for Tribe (the "Manager"), the Tribe may open bank accounts (the
+"Enterprise Bank Accounts") with such banks (the "Bank(s)") as the Officers
+determine would be a reasonable depository in any jurisdiction in which the
+Enterprise does business;
+
+        RESOLVED, that funds deposited in any of the Enterprise Bank Accounts
+may be withdrawn only upon a check, draft, or order when signed by any one of
+the officers of Manager holding one of the following positions (hereinafter
+referred to as "Officer") or their designees:
+
+                President
+                Executive Vice President
+                Assistant Vice President
+                Secretary
+                General Manager
+                Chief Financial Officer
+                Controller
+
+said Officers, or their designee(s), whose signatures shall be duly certified to
+the Bank (the "Certified Signers") by the Secretary of Manager, and not
+otherwise;
+
+        RESOLVED, that any of the Certified Signers may authorize the use of
+facsimile signatures on an Enterprise Bank Account, and the Banks hall be
+authorized to honor check, drafts, or orders up to __________ ($__________)
+Dollars, when bearing the facsimile signatures of any of the Certified Signers,
+and shall be entitled to honor and charge for all such checks, drafts, or orders
+if such facsimile signatures resemble the facsimile specimens duly certified by
+the Secretary of Manager and filed with the Bank;
+
+        RESOLVED, that consistent with these resolutions Manager is hereby
+authorized to use phone initiated or electronic clearing house facilities of the
+Federal Reserve System for the purpose of transferring Enterprise funds to and
+from various banks;
+
+        RESOLVED, that Manager is hereby authorized to arrange for the servicing
+by a Bank of any automatic teller machines purchased or leased on behalf of the
+Enterprise;
+
+                                  Exhibit E - 1
+
+<PAGE>
+
+Exhibit 10.10
+
+        RESOLVED, that the appointment of the Certified Signers shall be an
+appointment coupled with an interest, and shall be irrevocable by Tribe unless
+revocation is consented to in writing by Manager or this appointment is
+terminated by an arbitration award entered pursuant to the dispute resolution
+provisions of the Management Agreement entered into by and between Tribe and
+Manager dated __________, 2000 as the same any have heretofore been or hereafter
+be amended (the "Management Agreement");
+
+        RESOLVED, that the Enterprise Bank Accounts established and administered
+by Manager shall not be subject to attachment, or any rights of deduction, set
+off or counterclaim by Manager in the event of any disagreements between Manager
+and Tribe, it being the intent that the assets in the Enterprise Bank Accounts
+will be used solely for purposes permitted and provided for in the Management
+Agreement, and recourse to said Enterprise Bank Accounts as a remedy in the
+event of dispute shall be permitted only in the event so ordered in an
+arbitration award entered pursuant to the dispute resolution provisions of the
+Management Agreement.
+
+        RESOLVED, that any of the Certified Signers are hereby authorized to
+execute and deliver any documents including signature cards, authorizations,
+powers of attorney or appointment, or other documents which they deem necessary
+and appropriate to give effect to the foregoing resolutions;
+
+        RESOLVED, that the Bank is hereby authorized to rely upon certificates
+signed by any of the Certified Signers as to all matters concerning the
+identity, authority or signature of Certified Signers; and
+
+        RESOLVED, that each of the Officers, or their designees appointed in
+writing be, and each of them hereby is, authorized to perform the obligations
+under the agreements and contracts described in the aforesaid resolutions, and
+to negotiate, execute and deliver on behalf of Tribe and to perform the
+obligations under any and all other documents, agreements, contracts, and other
+instruments that any one or more of the Officers deems necessary or desirable to
+evidence and give effect to the transactions contemplated in the foregoing
+resolutions, all upon such terms and conditions, not inconsistent with the
+aforesaid resolutions, as any one or more of the Officers or their designees may
+approve.
+
+                                  CERTIFICATION
+
+        Pursuant to (CITATIONS HERE) the Tribal Council of the Twenty-Nine Palms
+Band of Luiseno Mission Indians of California, a quorum of members present at a
+Council meeting held on ______________, 2000, by a vote of _________ for,
+__________ against, ____________ not voting, and _________ absent; the foregoing
+resolution was adopted.
+
+                                        By:
+                                           -----------------------------------
+                                                              Secretary
+
+                                        By:
+                                           -----------------------------------
+                                                              Chairperson
+
+                                  Exhibit E - 2
+
+<PAGE>
+
+Exhibit 10.10
+
+                                    EXHIBIT F
+
+                          TRIBAL INSURANCE REQUIREMENTS
+
+1.01.   Coverage.
+
+        1.01.1. Required Insurance. The following minimum insurance will be
+obtained by Manager and maintained with respect to the Facility at all times
+during the term of this Agreement:
+
+                a)      All-risk property insurance, including flood and
+                        earthquake insurance and building ordinance coverage, on
+                        the Facility in an amount equal to the full replacement
+                        value thereof (with no coinsurance clause);
+
+                b)      All-risk business interruption insurance, including
+                        extra expense and extended indemnity, and increased cost
+                        of operation insurance for full recovery of the actual
+                        loss sustained of Net Revenues of the Facility for a
+                        period of one (1) year from the date of any casualty, or
+                        cessation of Gaming;
+
+                c)      Insurance against loss from accidental damage to and
+                        from breakdown of air conditioning systems, including
+                        building ordinance coverage, in an amount equal to the
+                        full replacement value of the Property, in amounts
+                        acceptable to Manager;
+
+                d)      Business interruption insurance, including extended
+                        indemnity, against loss from accidental damage to, and
+                        from breakdown of air conditioning systems, for full
+                        recovery of the actual loss sustained of Net Revenues
+                        for the entire period of any such business interruption
+                        but not less than one (1) year from the date of such
+                        casualty, or such additional period as the Tribe may
+                        elect;
+
+                e)      Commercial general liability insurance naming the Tribe,
+                        the Enterprise and Manager and/or Manager's Affiliates
+                        as named insured(s), covering bodily injury, personal
+                        injury, broad form property damage (including completed
+                        operations), innkeeper's liability, liquor liability,
+                        products liability, contractual liability, and
+                        employment practices liability (including coverage for
+                        third party discrimination claims), employee benefits
+                        liability and garage and garage keeper's liability in an
+                        amount equal to not less than $1,000,000 combined single
+                        limit for bodily injury and property damage per
+                        occurrence with a $2,000,000 general aggregate, which
+                        insurance coverages shall be primary as respects any
+                        other insurance coverages that may be available to
+                        Manager;
+
+                f)      automobile (including owned, non-owned and leased
+                        automobiles) physical damage and liability insurance
+                        naming the Tribe, the Enterprise and Manager and/or
+                        Manager's Affiliates as named insured(s) in an amount
+                        equal to not less than $1,000,000 combined single limit
+                        for bodily injury and property
+
+                                  Exhibit F - 1
+
+<PAGE>
+
+Exhibit 10.10
+
+                        damage per occurrence with a $2,000,000 general
+                        aggregate, which insurance coverages shall be primary as
+                        respects any other insurance coverages that may be
+                        available to Manager;
+
+                g)      Comprehensive crime insurance, including employee
+                        dishonesty, money and securities on and off premises,
+                        depositors' forgery, computer fraud and funds transfer
+                        and hotel safe deposit box legal liability, in an amount
+                        equal to not less than $10,000,000;
+
+                h)      Manager shall maintain statutory workers' compensation
+                        and employers liability insurance for Manager's
+                        Employees. The Enterprise shall maintain statutory
+                        workers' compensation and employers liability insurance
+                        for the Enterprise Employees. The employers liability
+                        limits shall not be less than $1,000,000 each accident
+                        for bodily injury by accident or $1,000,000 each
+                        employee for bodily injury by disease.
+
+                        Workers' compensation insurance equal to the statutory
+                        requirements of California (which shall, in the case of
+                        Manager Employees be carried by Manager and in the case
+                        of all other Enterprise Employees be carried by the
+                        Enterprise, and which shall, in either case, be paid for
+                        by the Enterprise and treated as an Operating Expense);
+                        and
+
+                i)      An umbrella policy covering any excess of the
+                        liabilities described in clauses (e) and (f) with a
+                        combined limit of liability of not less than $50,000,000
+                        per occurrence.
+
+        1.01.2. Responsibility to Maintain. The obligation to maintain the
+insurance policies required by the Management Agreement, the cost of which shall
+be an Operating Expense and subject to the budget process of the Management
+Agreement, shall lie solely with Manager. During the budgeting process, Manager
+shall recommend to the Tribe for its approval a schedule setting forth the kinds
+and amounts of such insurance to be maintained by it during the ensuing policy
+year.
+
+        1.01.3. Changes in Coverage. Manager shall have the right to raise the
+minimum amount of insurance to be maintained with respect to the Facility under
+Section 1.01.1 and/or to require the insurance of additional risks, not
+specified herein, in order to make such insurance compatible with prudent
+industry standards (including consideration of the incremental cost thereof) and
+to reflect increases in liability exposures, taking into account the size and
+location of the Facility.
+
+        1.01.4. Requirements. All policies of insurance shall, to the extent
+such coverage is commercially available, be written on an "occurrence" basis. To
+the extent that any insurance required hereby is or becomes available only on a
+"claims made" basis, the Enterprise shall, as an Operating Expense, purchase
+satisfactory extended reporting period endorsements to policies placed during
+the term of the Management Agreement or, in the alternative, continue to insure
+Manager as an additional insured party under policies of insurance placed after
+termination of this Agreement until the expiration, without claim, of all
+applicable statutes of limitation as may be necessary to assure that Manager has
+the benefit of the required insurance for causes of action arising out of
+
+                                  Exhibit F - 2
+
+<PAGE>
+
+Exhibit 10.10
+
+events occurring with respect to the Enterprise during the term of the
+Management Agreement,
+
+                                  Exhibit F - 3
+
+<PAGE>
+
+Exhibit 10.10
+
+whether or not any such claim is actually asserted prior to the expiration or
+earlier termination thereof.
+
+1.02.   Policies and Endorsements.
+
+        1.02.1. Policies. All insurance coverage provided for under the
+Management Agreement shall be effected by policies issued by insurance companies
+authorized to do business in the state where the Enterprise is located that are
+of good reputation and of sound and adequate financial responsibility, having an
+A.M. Best's ("Best") Rating of A - VIII, or better, or a comparable rating if
+Best ceases to publish its ratings or materially changes its rating standards or
+procedures. Manager shall be entitled to object to an insurance company which
+meets this standard, but only for reasonable cause based upon rates, claim
+experience, and other similar pertinent considerations. The Tribe shall deliver
+to Manager duplicate copies of the insurance policies or certificates of
+insurance with respect to all of the policies of insurance so procured,
+including existing, additional and renewal policies, and in the case of
+insurance about to expire, shall deliver duplicate copies of the insurance
+policies or certificates of insurance with respect to the renewal policies to
+Manager not less than ten (10) business days prior to the respective dates of
+expiration. Certificates or duplicate copies of insurance shall be sent to
+Manager at the address of Manager provided in the MANAGEMENT Agreement for
+notices.
+
+        1.02.2. Endorsements. All policies of insurance provided for under the
+Management Agreement shall, to the extent obtainable, have attached thereto (a)
+an endorsement that such policy shall not be canceled or materially changed
+without at least sixty (60) days prior written notice to Manager, and (b) an
+endorsement to the effect that no act or omission of the Tribe or Manager, other
+than nonpayment, after written notice thereof, of the premiums for such policy,
+shall affect the obligation of the insurer to pay the full amount of any loss
+sustained (but not to exceed, in any event, the policy limits). All insurance
+policies required under clauses (e), (f), (g), (h) and (i) of Subsection 1.01.1,
+shall contain an endorsement to the effect that such insurance shall be primary,
+not excess, and not contributory to any similar insurance carried by Manager.
+
+        1.02.3. Additional Insureds. All policies of insurance required under
+Subsection 1.01.1, shall be carried in the name of the Enterprise and the Tribe,
+and, if required, name the Tribe's mortgagees as additional insureds, or, as
+appropriate, mortgagees having the benefit of the standard New York form of
+mortgagee endorsement. Losses thereunder shall be payable to the parties as
+their respective interests may appear. Notwithstanding the foregoing, if the
+Tribe's Lender so requires, losses under any fire or casualty policy may be made
+payable to such mortgagee, or to a bank or trust company qualified to do
+business in the state where the Facility is located, in either instance as
+trustee for the custody and disposition of the proceeds therefrom. All liability
+policies, primary and excess, shall name Manager, and in each case any
+Affiliates which Manager may specify, and their respective directors, officers,
+agents, employees, and partners as additional insureds.
+
+        1.03. Waiver of Liability. Fire and Casualty Insurance. To the extent
+any loss is covered by insurance proceeds actually paid or would be covered by
+insurance required to be carried under this Agreement, but not otherwise,
+Manager, the Enterprise and the Tribe each waive, release and discharge the
+other from all claims or demands which each may have or acquire against the
+other,
+
+                                  Exhibit F - 4
+
+<PAGE>
+
+Exhibit 10.10
+
+or against each other's directors, officers, agents, employees, or partners,
+with respect to any claims for any losses, damages, liability or expenses
+(including attorneys' fees) incurred or sustained by either of them on account
+of damage to their respective property (but not as to personal injury or
+property damage suffered by third parties) arising out of the ownership,
+management, operation and maintenance of the Facility, regardless whether any
+such claim or demand may arise because of the fault or negligence of the other
+party or its officers, partners, agents, and employees. Each policy of fire and
+property damage insurance shall contain a specific waiver of subrogation
+reflecting the provisions of this Section 1.03, or a provision to the effect
+that the existence of the preceding waiver shall not affect the validity of any
+such policy or the obligation of the insurer to pay the full amount of any loss
+sustained.
+
+                                  Exhibit F - 5
+
+<PAGE>
+
+Exhibit 10.10
+
+                                    EXHIBIT G
+
+                              MANAGER'S AFFILIATES,
+                                     MEMBERS
+                                       AND
+                                    OFFICERS
+
+AFFILIATES:
+
+Donald J.  Trump
+Trump Hotels & Casino Resorts, Inc.
+Trump Hotels & Casino Resorts Holdings, L.P.
+THCR Ventures, Inc.
+Trump Hotels & Casino Resorts Development Company, LLC
+THCR Management Holdings, LLC
+
+MEMBERS:
+
+THCR Management Services, LLC, is a Delaware limited liability company
+wholly-owned by its one Member, THCR Management Holdings, LLC, a Delaware
+limited liability company, which in turn is wholly-owned by Trump Hotels &
+Casino Resorts Holdings, LP, a Delaware limited partnership.
+
+
+OFFICERS:
+
+Donald J. Trump, Chairman & President
+Mark A. Brown, Chief Operating Officer
+Robert M. Pickus, Executive Vice President & Secretary
+Francis X. McCarthy, Executive Vice President & Chief Financial Officer
+John P. Burke, Executive Vice President & Treasurer
+Richard Santoro, Vice President, Corporate Security
+Joseph A. Fusco, Executive Vice President, Government Relations &
+Regulatory Affairs
+Joseph Polisano, Vice President, Project Development
+
+                                  Exhibit G - 1
+
+</TEXT>
+</DOCUMENT>

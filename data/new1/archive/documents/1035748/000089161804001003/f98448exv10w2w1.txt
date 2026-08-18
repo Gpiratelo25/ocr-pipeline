@@ -1,0 +1,97 @@
+<DOCUMENT>
+<TYPE>EX-10.2.1
+<SEQUENCE>2
+<FILENAME>f98448exv10w2w1.txt
+<DESCRIPTION>EXHIBIT 10.2.1
+<TEXT>
+<PAGE>
+
+                                                                  EXHIBIT 10.2.1
+
+                    AMENDMENT NO. 2 TO OEM PARTNER AGREEMENT
+
+This Amendment No. 2 to OEM Partner Agreement (the AMENDMENT) is between
+CALLIDUS SOFTWARE INC., of 160 W. Santa Clara Avenue, Suite 1500, San Jose, CA
+95113, (CALLIDUS), and CEZANNE SOFTWARE, INC., of 75 Second Avenue, Suite 710,
+Needham, MA 02494 (CEZANNE),
+
+The parties have entered into an OEM Partner Agreement, dated July 31, 2002 (the
+AGREEMENT), and agree to modify the Agreement as follows:
+
+1. EXHIBIT A, SECTION 3.0 - OPTION TO ACQUIRE A SOURCE CODE LICENSE: The
+following clause is added and the end of the Section:
+
+"On or before December 31, 2003 and upon receipt of a one-time payment of two
+million dollars (USD $2,000,000) to Cezanne, Callidus shall acquire a perpetual,
+worldwide, irrevocable, fully paid up, royalty free license to the Source-Code
+(as defined below) described in section 2(f) of the Agreement. All provisions of
+said section 2(f) are applicable to the Source-Code license acquisition unless
+differently specified herein. The Source-Code license will cover all Cezanne
+Software products and Documentation specified in Exhibit A, Section 1.0 of the
+Agreement as well as the June Release (as defined below), and shall include the
+Software Development Kit and all associated and existing user manuals,
+installation guides, procedural code, listings, flow charts, logic diagrams,
+software tools (to the extent applicable), executables, libraries, scripts and
+related and supporting documentation corresponding to the Software (collectively
+SOURCE CODE). Upon its acquisition, Callidus will have unlimited rights to use,
+execute, copy, modify, display, distribute and make derivative works based upon
+the Source Code and the associated know-how for whatever purpose and the right
+to authorize others to do any of the foregoing, including, but not limited to,
+the sale of licenses to end users and the use of the source code for the
+development of a new or different product, whether it competes with Cezanne's
+products or not. Callidus shall own all derivative works Callidus creates of the
+Software using the Source Code. Likewise, Cezanne shall own all derivative works
+Cezanne creates of the Software using the Source Code.
+
+Notwithstanding the above, Cezanne shall retain full right, title and ownership
+of the Source Code, including the source code of the version of the Software
+that will be released at the completion of the current development project,
+which is planned for June 2004 (THE JUNE RELEASE), including those portions of
+the June Release that will be developed by Callidus, or by Callidus and Cezanne
+jointly. Callidus agrees to deliver to Cezanne the source code of the June
+Release within one week of its availability.
+
+For a period of three years from the date of the acquisition of the source-code
+license, Cezanne shall not resell other source-code licenses for the same
+Software without the prior written approval of Callidus. Such approval, that
+Cezanne is required to request at the beginning of any negotiation that could
+lead to a sale of a source-code license, shall be provided by Callidus within
+two weeks of Callidus' receipt of written notice from Cezanne of the potential
+sale of the Source Code, and will be withheld only in the case that Callidus can
+reasonably consider the potential buyer a competitor. Otherwise the approval
+will not be unreasonably withheld. Without limiting the foregoing, Cezanne
+agrees not to resell the Source Code licenses to the following companies for two
+years from the date of Callidus' acquisition of the Source Code: Oracle, Siebel,
+PeopleSoft, Microsoft, Computer Associates, Kadiri, Performaworks, Workscape,
+AIM, Mercer, Synygy, and Centive Systems.
+
+Cezanne agrees to deliver to Callidus all Source Code thereto within five (5)
+calendar days of Callidus' acquisition. Delivery shall be made to Callidus
+Software, Inc., Attention: General Counsel, 160 W. Santa Clara Street, Suite
+1500, San Jose, California 95113."
+
+2. Capitalized terms defined in the Agreement shall have the same meaning in
+this Amendment. Except as explicitly modified, all terms, conditions and
+provisions of the Agreement shall continue in full force and effect. If there is
+any inconsistency or conflict between the Agreement and this Amendment, the
+terms, conditions and provisions of this Amendment shall govern and control.
+This Amendment and the Agreement constitute the entire and exclusive agreement
+between the parties with respect to this subject matter. All previous
+discussions and agreements with respect to this subject matter are superseded by
+the Agreement and this Amendment.
+
+The parties' authorized representatives have indicated their agreement by
+signing below, effective as of the Amendment Effective Date: DECEMBER 26,2003.
+
+CEZANNE SOFTWARE, INC.                        CALLIDUS SOFTWARE INC.
+
+/s/ Alberto Gabbai                            /s/ Ron J. Fior
+-----------------------------                 ------------------------
+Authorized Signature                          Authorized Signature
+
+Alberto Gabbai, President and CEO             Ron J. Fior, VP, Finance and CFO
+----------------------------------            ---------------------------------
+Printed Name and Title                        Printed Name and Title
+
+</TEXT>
+</DOCUMENT>

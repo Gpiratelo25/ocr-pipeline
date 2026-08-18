@@ -1,0 +1,231 @@
+<DOCUMENT>
+<TYPE>EX-10.41
+<SEQUENCE>22
+<FILENAME>w46736ex10-41.txt
+<DESCRIPTION>AMENDMENT TO FACILITIES MAINTENANCE AGREEMENT
+<TEXT>
+
+<PAGE>   1
+                                                                   Exhibit 10.41
+
+
+                  AMENDMENT DATED MARCH 14, 2001 ("AMENDMENT")
+                                       TO
+                        FACILITIES MAINTENANCE AGREEMENT
+                    DATED DECEMBER 17, [SIC], 1999 (THE "AGREEMENT")
+                                     BETWEEN
+               DATA GENERAL, A DIVISION OF EMC CORPORATION ("DG")
+                                       AND
+               GOAMERICA COMMUNICATIONS CORPORATION ("GOAMERICA")
+
+Capitalized terms used herein without definition shall have the meanings
+ascribed thereto in the Agreement. The parties, DG and GoAmerica, hereby amend
+the Agreement as follows:
+
+1.   Section 11.1 of the Agreement is deleted in its entirety, and the following
+     substituted therefor:
+
+     The term of the Agreement (the "Initial Term") shall hereafter, for all
+purposes of the Agreement, be coterminous with the "Demised Term" as defined in
+the Data Center Lease, which is currently scheduled to expire on February 29,
+2004. Provided that there shall then exist no default of GoAmerica under the
+Agreement, DG agrees to cooperate with GoAmerica in order to obtain, prior to
+April 30, 2003, the written consent of DG's landlord under the Data Center Lease
+("Owner") to the assignment by DG to GoAmerica of all of DG's rights and
+obligations under the Data Center Lease as of February 29, 2004 (the
+"Assignment"). The Assignment shall (a) provide for the complete release of DG
+and EMC from any and all liabilities or obligations under the Data Center Lease
+accruing after February 29, 2004, (b) shall be completely executed in form and
+substance reasonably acceptable to DG prior to February 28, 2003, and (c) shall
+not become effective unless Owner shall have consented to and approved the
+Assignment in writing prior to April 30, 2003. If all of the foregoing terms
+have been satisfied and all conditions to the effectiveness of the Assignment
+have been met prior to April 30, 2003, DG agrees to exercise the extension
+option contained in the Data Center Lease for an additional two (2) years beyond
+February 29, 2004 (the "Extension Term"), it being understood between the
+parties that upon the exercise of such extension GoAmerica shall assume and
+become solely responsible and liable for all performance obligations of the
+tenant under the Data Center Lease accruing after February 29, 2004. DG makes no
+representation or warranty as to the effective rent or other applicable terms of
+the Data Center Lease during the Extension Term, it being understood that
+negotiation of all such terms shall be the sole responsibility of GoAmerica.
+
+2.   Pursuant to and subject to the terms of an amendment to the Data Center
+     Lease executed on or about the date hereof between DG and Owner (the "Lease
+     Amendment"), a copy of which has been reviewed and approved by GoAmerica,
+     the Data Center shall be expanded to include the "Additional Space"
+     described in the Lease Amendment upon delivery thereof to DG by Owner and
+     completion of the buildout of such Additional Space by DG.
+
+3.   From and after the date hereof, the pricing of Services shall be as set
+     forth in Exhibit C attached hereto, and such Exhibit shall amend and
+     replace Exhibit C to the original Agreement. Furthermore, it is understood
+     and agreed by the parties that Services shall be provided by DG on a
+     completely net basis, and that in the event of any unforeseen increases in
+     utilities or other costs incurred by DG in providing the Services, Exhibit
+     C may be amended in order to allow DG to pass on such increased costs to
+     GoAmerica.
+
+4.   The parties agree to amend certain other provisions of the Agreement as
+     follows:
+
+     a.   The first WHEREAS clause on the first page of the Agreement is
+          deleted, and the following inserted therein: "GoAmerica agrees to
+          license from DG the Data Center, as more particularly described
+          herein, subject to and upon all of the terms and conditions
+          hereinafter set forth."
+
+     b.   Section 2.1 is amended by deleting the term "best efforts" and
+          replacing such term with "commercially reasonable efforts".
+<PAGE>   2
+     c.   Section 2.4 is amended by inserting the words "zoning or building
+          department" before the word "consents".
+
+     d.   Section 7.2 is amended and restated in its entirety as follows:
+
+     "GoAmerica's aggregate liability for any claims arising from this Agreement
+     shall not exceed two (2) times the accrued amounts owed by GoAmerica to DG
+     for Services during the immediately preceding twelve (12) month period
+     prior to the claim that gave rise to the damages. The foregoing limitation
+     shall not apply to any liabilities of GoAmerica to DG for damages resulting
+     from GoAmerica's failure to vacate the Data Center upon the expiration or
+     earlier termination of the term of this Agreement."
+
+     e.   Section 9 is amended by changing the definition of "Data Center Lease"
+          to include the Data Center Lease, "as amended by the Lease Amendment."
+          Furthermore, insert "Subject to the Data Center Lease" at the
+          beginning of the last sentence of Section 9.
+
+     f.   Section 11.3 is amended by inserting the following at the end of
+          clause (i): ", provided that DG may terminate this Agreement at any
+          time following (A) failure of GoAmerica to cure a default of any
+          payment obligation under this Agreement within thirty (30) days after
+          written notice to GoAmerica of such default, or (B) failure of
+          GoAmerica to immediately cure any default of its obligations under
+          Section 9 which results in any action on the part of Owner to declare
+          a default under the Data Center Lease."
+
+     g.   Section 11.4 is amended by adding the following sentence at the end
+          thereof: "None of the foregoing shall be construed to permit
+          GoAmerica, under any circumstances, to occupy any part of the Data
+          Center following expiration or earlier termination of the term of the
+          Data Center Lease."
+
+     h.   Section 14.5 is amended by changing the reference to "Section 10" to
+          instead refer to "Section 9".
+
+     i.   Section 14.6 is amended by requiring that any notice given to DG also
+          be sent simultaneously and in the same manner to:
+
+                         EMC Corporation
+                         35 Parkwood Drive
+                         Hopkinton, MA  01748
+                         Attention: General Counsel
+
+     And to:             EMC Corporation
+                         228 South Street
+                         Hopkinton, MA 01748
+                         Attention:  Director, Global Real Estate
+
+IN WITNESS WHEREOF, this Amendment has been executed by the duly authorized
+representatives of the parties as of this Amendment date first written down.
+
+
+
+Data General, A Division of EMC            GoAmerica Communications
+Corporation                                Corporation
+
+
+By /s/ Angelo Perri                         By /s/ Joseph Korb
+   -----------------------------              ----------------------------------
+Name   Angelo Perri                         Name   Joseph Korb
+   -----------------------------              ----------------------------------
+Title  Director                             Title  President
+   -----------------------------              ----------------------------------
+<PAGE>   3
+                                    EXHIBIT C
+
+RECURRING MONTHLY OPERATIONAL EXPENSES - MARCH 1, 2001 TO JUNE 30, 2003
+
+STAFFING
+Operations Manager (240 days per year)
+Subtotal - Staffing
+
+UTILITIES (Includes Facilities Usage charge, Electric, Janitorial, Water, phone
+system, diesel generator fee, insurance)
+
+MAINTENANCE AND REPAIRS
+(Includes Fire Suppression, UPS, A/C, A/C water charge, generator, Fire dept.
+permits, security)
+
+
+
+               TOTAL MONTHLY RECURRING COST FROM MARCH 1, 2001 TO JUNE 30, 2003:
+                                                                AMOUNT FINANCED:
+             TOTAL MONTHLY RECURRING INCREMENTAL COST TO BE INVOICED SEPARATELY:
+
+RECURRING MONTHLY OPERATIONAL EXPENSES - JULY 1, 2003 TO FEBRUARY 29, 2004
+
+STAFFING
+Operations Manager (240 days per year)
+Subtotal - Staffing
+
+UTILITIES (Includes Facilities Usage charge, Electric, Janitorial, Water, phone
+system, diesel generator fee, insurance)
+
+MAINTENANCE AND REPAIRS
+(Includes Fire Suppression, UPS, A/C, A/C water charge, generator, Fire dept.
+permits, security)
+
+
+
+            TOTAL MONTHLY RECURRING COST FROM JULY 1, 2003 TO FEBRUARY 29, 2004:
+
+
+
+
+
+
+
+
+
+
+<PAGE>   4
+                                   Exhibit C
+
+<TABLE>
+<S>                                                                             <C>
+RECURRING MONTHLY OPERATIONAL EXPENSES - MARCH 1, 2001 TO JUNE 30, 2002
+
+STAFFING
+Operations Manager (240 days per year)                                           $15,000
+Subtotal - Staffing                                                              $15,000
+
+Utilities (includes Facilities Usage charge, Electric, Janitorial,
+Water, phone system, diesel generator fee, insurance)                            $25,340
+
+MAINTENANCE AND REPAIRS
+(includes Fire Suppression, UPS, A/C water charge, generator,
+Fire dept. permits, security)                                                       $789
+
+   TOTAL MONTHLY RECURRING COST FROM MARCH 1, 2001 TO JUNE 30, 2003:             $41,137
+                                                    AMOUNT FINANCED:             $31,895
+ TOTAL MONTHLY RECURRING INCREMENTAL COST TO BE INVOICED SEPARATELY:              $9,142
+
+RECURRING MONTHLY OPERATIONAL EXPENSES - JULY 1, 2003 TO FEBRUARY 23, 2004
+
+Staffing
+Operations Manager (240 days per year)                                           $20,000
+Subtotal - Staffing                                                              $20,000
+
+Utilities (includes Facilities Usage charge, Electric, Janitorial,
+Water, phone system, diesel generator fee, insurance)                            $26,876
+
+MAINTENANCE AND REPAIRS
+(includes Fire Suppression, UPS, A/C, A/C water charge, generator,
+Fire dept. permits, security)                                                     $1,730
+
+TOTAL MONTHLY RECURRING COST FROM JULY 1, 2003 TO FEBRUARY 23, 2004:             $48,606
+</TABLE>
+</TEXT>
+</DOCUMENT>
