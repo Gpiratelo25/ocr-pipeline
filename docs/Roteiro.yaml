@@ -2,7 +2,7 @@
 
 
 Definition:
-date of the contract come official 
+The day that the amendment come effective.
 
 Look primarily on:
 first paragraph/ introduction part.
@@ -20,7 +20,29 @@ exclude:
 {entity: agreement_type
 
 Definition:
+the objective of the agreement. 
+the reason of agreement to exists.
+
+
 Look primarily on:
+first paragraph/ introduction part.
+
+
 include:
+before the word agreement;
+for instance:
+  Management Agreement,
+  PROCESSING AGREEMENT,
+  PURCHASE AGREEMENT,
+  SERVICE AGREEMENT,
+  SUPPLY AGREEMENT
+
 exclude:
+
+},
+
+{
+entity:
+
+
 }
