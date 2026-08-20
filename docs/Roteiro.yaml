@@ -17,32 +17,115 @@ exclude:
 -expiratation date;
 -previous argument;
 },
-{entity: agreement_type
+{ ENTITY: agreement_type
 
 Definition:
-the objective of the agreement. 
-the reason of agreement to exists.
+The type or name of the agreement, contract, letter, or arrangement that is being amended, restated, or referenced by the document.
 
+Look primarily in:
+Opening paragraph / introductory clause / document title.
 
-Look primarily on:
-first paragraph/ introduction part.
+Include:
 
+Consulting Agreement
+Engagement Letter
+Services Agreement
+Credit Card Processing Agreement
+Employment Agreement
+Service Agreement
+Other explicit names identifying the underlying agreement.
 
-include:
-before the word agreement;
-for instance:
-  Management Agreement,
-  PROCESSING AGREEMENT,
-  PURCHASE AGREEMENT,
-  SERVICE AGREEMENT,
-  SUPPLY AGREEMENT
+Exclude:
 
-exclude:
+Amendment
+Amended and Restated
+First Amendment, Second Amendment, etc.
+Names of the parties.
+Dates.
+Sections or clauses being modified.
+Generic legal terms that do not identify the agreement type.
+
+Important rule:
+If the document explicitly identifies the underlying agreement, extract the full agreement name as stated, rather than inferring or generalizing it.
+
+Example:
+
+AMENDMENT TO CREDIT CARD PROCESSING AGREEMENT
+
+→ agreement_type = "Credit Card Processing Agreement"
+
+AMENDED AND RESTATED CONSULTING AGREEMENT
+
+→ agreement_type = "Consulting Agreement"}
+,
+{
+
+ENTITY: document_type
+
+Definition:
+The type or legal nature of the document being analyzed, such as an amendment or an amended and restated agreement.
+
+Look primarily in:
+Document title / opening paragraph / introductory clause.
+
+Include:
+
+Amendment
+Amended and Restated
+First Amendment
+Second Amendment
+Third Amendment
+Other explicit terms indicating that the document modifies or restates a previous agreement.
+
+Exclude:
+
+agreement_type
+Names of the parties.
+Dates.
+Names of sections or clauses.
+The type of the underlying agreement, such as Consulting Agreement or Services Agreement.
+
+Important rule:
+Extract the document type based on how the document itself identifies its legal nature. Do not infer Amendment only because the document modifies an existing agreement.
 
 },
-
 {
-entity:
+  ENTITY: parties
 
+Definition:
+The legal entities or individuals that are parties to the agreement or amendment being analyzed.
+
+Look primarily in:
+Opening paragraph / introductory clause, especially the section identifying the parties.
+
+Include:
+
+Company or organization names explicitly identified as parties.
+Individual names when they are explicitly identified as parties.
+Multiple parties when the document is entered into by more than two parties.
+The full legal name of each party as stated in the document.
+
+Exclude:
+
+Names of companies mentioned only as references or third parties.
+Subsidiaries or affiliates that are not identified as parties.
+Names of witnesses, attorneys, advisors, or representatives.
+Names appearing only in signature blocks when the corresponding entity is not identified as a party.
+Addresses, titles, and roles of representatives.
+
+Important rule:
+Extract the entities that enter into the agreement, not every organization or person mentioned in the document.
+
+Example:
+
+THIS AMENDMENT is entered into by and between
+AZZ Incorporated and RCG Capital Markets Group, Inc.
+
+→
+
+parties = [
+  "AZZ Incorporated",
+  "RCG Capital Markets Group, Inc."
+]
 
 }
